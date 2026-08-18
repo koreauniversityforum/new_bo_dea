@@ -157,5 +157,49 @@
     refresh();
   }
 
+  /* ── 폰: 미리보기 접기/펼치기 ──────────────────────────────────────────
+   * 폰에서는 미리보기를 화면 맨 위에 붙여 둔다(style.css 의 820px 규칙). 사진을
+   * 고르는 자리가 한참 아래라, 붙여 두지 않으면 고른 결과가 화면 밖이라서
+   * 적용됐는지 알 수 없기 때문이다. 다만 글을 길게 칠 때는 자리를 많이 먹으므로
+   * 접을 수 있게 한다. 접어도 76px 짜리 띠로 남아 사진이 바뀐 것은 보인다.
+   * PC(821px 이상)에서는 미리보기가 늘 옆에 보이므로 단추를 만들지 않는다.
+   */
+  const KEY_MIN = 'nb_preview_min';
+  const phone = () => window.matchMedia('(max-width:820px)').matches;
+
+  function mountPreviewToggle() {
+    const foot = document.querySelector('.stage:has(.canvas-box) .stage-foot');
+    if (!foot) return;                       // 카드가 없는 화면(워터마크 등)
+    const had = document.getElementById('btnPreviewMin');
+    if (!phone()) {                          // PC 로 넓어지면 흔적을 지운다
+      if (had) had.remove();
+      document.body.classList.remove('preview-min');
+      return;
+    }
+    if (had) return;
+    if (get(KEY_MIN) === '1') document.body.classList.add('preview-min');
+    const b = document.createElement('button');
+    b.id = 'btnPreviewMin';
+    b.className = 'mini';
+    const paint = () => {
+      b.textContent = document.body.classList.contains('preview-min')
+        ? '미리보기 펼치기' : '미리보기 접기';
+    };
+    b.addEventListener('click', () => {
+      const min = document.body.classList.toggle('preview-min');
+      put(KEY_MIN, min ? '1' : '');
+      paint();
+    });
+    paint();
+    foot.prepend(b);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', mountPreviewToggle);
+  } else {
+    mountPreviewToggle();
+  }
+  window.addEventListener('resize', mountPreviewToggle);
+
   global.NAV = { mount, refresh, url, setUrl, feedText, setFeedText, takeStage, LOGO };
 })(window);
