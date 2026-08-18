@@ -1090,12 +1090,16 @@ function showImages(urls, ref) {
     const p = proxy(u, ref);
     const im = document.createElement('img');
     im.src = p;
-    im.dataset.full = p;
+    /* 🔴 여기에 **감싼 주소**(p)를 넣어 두면, 누를 때 `proxy(proxy(u))` 가 되어
+       서버가 `/api/proxy?url=/api/proxy?...` 를 주소로 알고 받으러 나선다.
+       그래서 기사 속 사진은 눌러도 배경이 되지 않았다. 원래 주소를 들고 있다가
+       쓸 때 한 번만 감싼다. */
+    im.dataset.full = u;
     im.loading = 'lazy';
     im.onerror = () => im.remove();
     // 로고·아이콘은 대개 작다. 뜨고 나서야 알 수 있으므로 여기서 한 번 더 턴다.
     im.onload = () => { if (im.naturalWidth < 400) im.remove(); };
-    im.addEventListener('click', () => pickPhoto({ thumb: p, full: p }, im));
+    bindThumb(im, { thumb: p, full: u, ref });
     g.appendChild(im);
   });
 }
@@ -1104,16 +1108,46 @@ function showImages(urls, ref) {
    한 장만 고르면 예전처럼 바로 배경이 된다. 두 장부터 합치기가 열린다. */
 let mixed = [];        // [{thumb, full, credit, license, source}]
 
-async function pickPhoto(it) {
-  const i = mixed.findIndex(x => x.full === it.full);
-  if (i >= 0) mixed.splice(i, 1);
-  else {
-    if (mixed.length >= 5) { msg($('fetchMsg'), '한 번에 5장까지 합칠 수 있습니다.', 'err'); return; }
-    mixed.push(it);
+/** 썸네일 하나에 조작을 묶는다.
+ *
+ * 그냥 누르기      = **이 사진을 지금 배경으로** (한 장만 쓰고 싶을 때가 대부분이다)
+ * Ctrl(⌘)/Shift+누르기 = 합치기 목록에 담기·빼기
+ * 길게 누르기(폰)  = 같은 담기·빼기 (폰에는 Ctrl 이 없다)
+ *
+ * 🔴 예전에는 누를 때마다 담기만 했다. 그래서 **둘째 장부터는 눌러도 화면이 그대로**여서
+ *    적용이 안 되는 것처럼 보였다(한 장일 때만 배경이 됐다).
+ */
+function bindThumb(im, it) {
+  let timer = null, longPressed = false;
+  const toMix = () => { longPressed = true; pickPhoto(it, im, true); };
+
+  im.addEventListener('click', (ev) => {
+    if (longPressed) { longPressed = false; return; }   // 길게 누른 뒤 따라오는 click 은 무시
+    pickPhoto(it, im, ev.ctrlKey || ev.metaKey || ev.shiftKey);
+  });
+  im.addEventListener('touchstart', () => {
+    longPressed = false;
+    timer = setTimeout(toMix, 500);
+  }, { passive: true });
+  ['touchend', 'touchmove', 'touchcancel'].forEach(e =>
+    im.addEventListener(e, () => clearTimeout(timer), { passive: true }));
+}
+
+async function pickPhoto(it, imEl, forMix) {
+  if (forMix) {
+    const i = mixed.findIndex(x => x.full === it.full);
+    if (i >= 0) mixed.splice(i, 1);
+    else {
+      if (mixed.length >= 5) { msg($('fetchMsg'), '한 번에 5장까지 합칠 수 있습니다.', 'err'); return; }
+      mixed.push(it);
+    }
+    paintMix();
+    return;
   }
-  // 한 장이면 예전처럼 바로 배경. `setBg` 가 스스로 고른 표시를 지우므로 **끝난 뒤에**
-  // 다시 칠한다(안 그러면 고른 표시가 깜빡 사라진다).
-  if (mixed.length === 1) await setBg(proxy(mixed[0].full));
+  // 그냥 누르면 이 한 장으로 간다. 담아 둔 것이 있어도 이 사진으로 갈아 끼운다.
+  mixed = [it];
+  // `setBg` 가 스스로 고른 표시를 지우므로 **끝난 뒤에** 다시 칠한다.
+  await setBg(proxy(it.full, it.ref));
   paintMix();
 }
 
@@ -1362,10 +1396,10 @@ $('btnStock').addEventListener('click', async () => {
       im.loading = 'lazy';
       im.title = [it.title, it.credit, it.license].filter(Boolean).join(' · ');
       im.onerror = () => im.remove();
-      im.addEventListener('click', () => pickPhoto(it, im));
+      bindThumb(im, it);
       g.appendChild(im);
     });
-    msg($('fetchMsg'), `${j.items.length}장 찾았습니다. 누르면 골라지고, 여러 장 고르면 합칠 수 있습니다.`, 'ok');
+    msg($('fetchMsg'), `${j.items.length}장 찾았습니다. 누르면 바로 배경이 되고, Ctrl(⌘)+누르기(폰은 길게 누르기)로 여러 장을 합치기에 담습니다.`, 'ok');
   } catch (e) {
     msg($('fetchMsg'), e.message, 'err');
   }

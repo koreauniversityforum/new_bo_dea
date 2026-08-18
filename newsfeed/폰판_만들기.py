@@ -11,9 +11,10 @@
      캔버스 오염(=저장 실패)을 막으려 `loadImage()` 에 crossOrigin 을 붙인다
   3) 머리에 `summarizer.js` + `폰shim.js` 를 끼워 `/api/*` 를 브라우저가 처리하게 한다
 
-담기는 화면: 만들기(index) · 뒷장(outro) · 워터마크(mark)
-빼는 화면  : 피드 글 · 주제 찾기 · 참고 사이트 · 폴더 정리 · 인스타 올리기 · 릴스
-             (모두 서버 폴더나 크롬 조종이 있어야 도는 것들)
+담기는 화면: 만들기(index) · 뒷장(outro) · 워터마크(mark) · 릴스(reel) · 참고 사이트(refs)
+빼는 화면  : 피드 글(캡션 생성기가 서버에 있다) · 주제 찾기(RSS 수집) ·
+             폴더 정리 · 인스타 올리기
+             (기사 수집·크롬 조종처럼 서버가 있어야만 되는 것들)
 
 실행: python 폰판_만들기.py
 """
@@ -32,9 +33,9 @@ SRC = os.path.join(BASE, "폰판_소스")
 # (Pages 설정에서 main 브랜치의 /docs 를 가리키면 끝).
 OUT = os.path.join(os.path.dirname(BASE), "docs")
 
-PAGES = ["index.html", "outro.html", "mark.html"]
+PAGES = ["index.html", "outro.html", "mark.html", "reel.html", "refs.html"]
 SCRIPTS = ["app.js", "brands.js", "nav.js", "prog.js", "hiddenmark.js",
-           "outro.js", "outrostate.js", "style.css"]
+           "outro.js", "outrostate.js", "refs.js", "style.css"]
 EXTRA = ["summarizer.js", "폰shim.js", "README.md"]
 
 

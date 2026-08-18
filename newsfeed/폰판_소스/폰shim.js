@@ -243,6 +243,18 @@
       return json({ ok: true, path: '내려받기 폴더 / ' + name });
     }
 
+    /* 릴스 — 서버 out 폴더 대신 이 기기에서 고른 파일을 쓴다(reel.html 참고).
+       목록 요청은 빈손으로 돌려주면 화면이 파일 고르기 안내를 띄운다. */
+    if (path === '/api/insta-files') return json({ ok: true, groups: [] });
+
+    if (path === '/api/reel-save') {
+      const name = safeName(query.get('name') || '릴스') + '.' + (query.get('ext') || 'mp4');
+      const blob = body instanceof Blob ? body : null;
+      if (!blob) return err('영상 데이터를 받지 못했습니다.');
+      download(blob, name);
+      return json({ ok: true, path: '내려받기 폴더 / ' + name });
+    }
+
     if (path === '/api/assets') return json({ ok: true, items: ASSETS });
 
     if (path === '/api/open-out') {
@@ -264,7 +276,11 @@
     try { u = new URL(url, location.href); } catch (e) { return global.__nbdFetch(input, init); }
     const path = '/api/' + u.pathname.split('/api/')[1];
     let body = {};
-    if (init && init.body) { try { body = JSON.parse(init.body); } catch (e) { body = {}; } }
+    if (init && init.body) {
+      // 릴스는 Blob 을 그대로 보낸다 — JSON 으로 읽으려 들면 안 된다
+      if (init.body instanceof Blob) body = init.body;
+      else { try { body = JSON.parse(init.body); } catch (e) { body = {}; } }
+    }
     return route(path, u.searchParams, body)
       .catch(e => err('폰판 처리 중 오류: ' + (e && e.message ? e.message : e)));
   };
@@ -316,7 +332,7 @@
        어느 쪽이 진짜인지 헷갈리므로 하나만 남긴다. */
     '#btnSave',
     'a[href$="out.html"]', 'a[href$="feed.html"]', 'a[href$="topics.html"]',
-    'a[href$="refs.html"]', 'a[href$="insta.html"]', 'a[href$="reel.html"]'];
+    'a[href$="insta.html"]'];
 
   function tidy() {
     HIDE.forEach(sel => document.querySelectorAll(sel).forEach(el => {

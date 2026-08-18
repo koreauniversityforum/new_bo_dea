@@ -1,11 +1,14 @@
 <!doctype html>
 <html lang="ko">
 <head>
+<script src="config.js"></script>
+<script src="summarizer.js"></script>
+<script src="폰shim.js"></script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>뉴보대 릴스 만들기</title>
-<link rel="icon" href="/favicon.ico">
-<link rel="stylesheet" href="/static/style.css">
+<link rel="icon" href="assets/뉴보대_로고.png">
+<link rel="stylesheet" href="style.css">
 <style>
   /* 3단: 왼쪽 그림 고르기 / 가운데 미리보기 / 오른쪽 설정·녹화 */
   .wrap.reel{display:grid;grid-template-columns:330px 1fr 330px;gap:14px;
@@ -149,7 +152,7 @@
   <button id="btnPlayClose" class="ghost" style="padding:8px 20px;font-size:13px">닫기</button>
 </div>
 
-<script src="/static/nav.js"></script>
+<script src="nav.js"></script>
 <script>
 'use strict';
 const $ = (id) => document.getElementById(id);
