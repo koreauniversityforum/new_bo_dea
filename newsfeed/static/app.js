@@ -1482,12 +1482,10 @@ $('btnDownload').addEventListener('click', async () => {
     await p.at(0.4, 'PNG 만드는 중');
     const blob = await new Promise(r => c.toBlob(r, 'image/png'));
     await p.at(0.85, '내려받는 중');
-    const a = document.createElement('a');
-    a.href = URL.createObjectURL(blob);
-    a.download = outName() + '.png';
-    a.click();
-    setTimeout(() => URL.revokeObjectURL(a.href), 3000);
+    /* 저장 위치를 한 번 고르면 그 뒤로는 묻지 않고 같은 폴더에 쌓인다(save.js). */
+    const at = await SAVE.file(blob, outName() + '.png');
     p.done('내려받음');
+    msg($('fetchMsg'), '저장했습니다 → ' + at + hiddenNote(), 'ok');
   } catch (e) {
     p.fail(e.message);
     msg($('fetchMsg'), e.message, 'err');
@@ -1576,6 +1574,8 @@ function syncOverlayControls() {
 }
 
 async function boot() {
+  // 저장 위치 줄 — 폴더를 고를 수 있는 브라우저에서만 생긴다(save.js)
+  if (typeof SAVE !== 'undefined') SAVE.mount($('saveWhereHost'));
   try {
     const raw = localStorage.getItem(STATE_KEY);
     if (raw) {

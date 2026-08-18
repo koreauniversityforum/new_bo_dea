@@ -149,6 +149,7 @@
   <button id="btnPlayClose" class="ghost" style="padding:8px 20px;font-size:13px">닫기</button>
 </div>
 
+<script src="/static/save.js"></script>
 <script src="/static/nav.js"></script>
 <script>
 'use strict';
@@ -481,14 +482,11 @@ $('btnSave').addEventListener('click', doSave);
 
 /* 이 기기에 내려받기 — 폰이면 갤러리(다운로드)로 가서 인스타 앱에 바로 올릴 수 있다.
    서버 out 폴더는 서버가 도는 기계(노트북 또는 젯슨)에 생기므로, 폰 작업에는 이쪽. */
-$('btnDl').addEventListener('click', () => {
+$('btnDl').addEventListener('click', async () => {
   if (!blob) return;
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob);
-  a.download = '릴스.' + blobExt;
-  document.body.appendChild(a);
-  a.click();
-  a.remove();
+  /* 저장 위치를 한 번 고르면 그 뒤로는 묻지 않고 같은 폴더로 간다(save.js) */
+  const at = await SAVE.file(blob, '릴스.' + blobExt);
+  msg('저장했습니다 → ' + at, 'ok');
 });
 
 /* 자동 제작 — 담긴 게 없으면 최근 세트를 자동으로 담고, 녹화가 끝나면 바로 저장. */

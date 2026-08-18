@@ -35,7 +35,7 @@ OUT = os.path.join(os.path.dirname(BASE), "docs")
 
 PAGES = ["index.html", "outro.html", "mark.html", "reel.html", "refs.html"]
 SCRIPTS = ["app.js", "brands.js", "nav.js", "prog.js", "hiddenmark.js",
-           "outro.js", "outrostate.js", "refs.js", "style.css"]
+           "outro.js", "outrostate.js", "refs.js", "save.js", "style.css"]
 EXTRA = ["summarizer.js", "폰shim.js", "README.md"]
 
 

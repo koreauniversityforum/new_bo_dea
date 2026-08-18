@@ -61,6 +61,11 @@
 
   const safeName = (s) => (String(s || 'card').trim().replace(/[\\/:*?"<>|]+/g, '_') || 'card');
 
+  /* 저장은 한 곳으로 모은다 — save.js 가 고른 폴더(있으면)나 내려받기 폴더로.
+     🔴 여기서 직접 내려받지 않는다. 두 길이 생기면 파일이 두 곳으로 흩어진다. */
+  const put = (blob, name) => (global.SAVE ? global.SAVE.file(blob, name)
+    : Promise.resolve((download(blob, name), '내려받기 폴더 / ' + name)));
+
   /* ── 기사 가져오기 ──────────────────────────────────────────────────────
    * 서버가 없으니 언론사 사이트는 대부분 CORS 로 막힌다(정상이다 — 브라우저가
    * 남의 사이트 본문을 읽지 못하게 막는 것). 그래서 **본문 붙여넣기가 기본**이고,
@@ -231,16 +236,13 @@
       const blob = dataUrlToBlob(body.dataUrl || '');
       if (!blob) return err('이미지 데이터가 올바르지 않습니다.');
       const name = safeName(body.name) + (blob.type === 'image/jpeg' ? '.jpg' : '.png');
-      const ok = download(blob, name);
-      return json({ ok: true, path: ok ? '내려받기 폴더 / ' + name
-                                       : '새 탭에 띄웠습니다 — 사진을 길게 눌러 저장하세요' });
+      return json({ ok: true, path: await put(blob, name) });
     }
 
     if (path === '/api/save-text') {
-      const text = body.text || '';
       const name = safeName(body.name || '뉴보대_글') + '.txt';
-      download(new Blob([text], { type: 'text/plain;charset=utf-8' }), name);
-      return json({ ok: true, path: '내려받기 폴더 / ' + name });
+      const blob = new Blob([body.text || ''], { type: 'text/plain;charset=utf-8' });
+      return json({ ok: true, path: await put(blob, name) });
     }
 
     /* 릴스 — 서버 out 폴더 대신 이 기기에서 고른 파일을 쓴다(reel.html 참고).
@@ -249,10 +251,8 @@
 
     if (path === '/api/reel-save') {
       const name = safeName(query.get('name') || '릴스') + '.' + (query.get('ext') || 'mp4');
-      const blob = body instanceof Blob ? body : null;
-      if (!blob) return err('영상 데이터를 받지 못했습니다.');
-      download(blob, name);
-      return json({ ok: true, path: '내려받기 폴더 / ' + name });
+      if (!(body instanceof Blob)) return err('영상 데이터를 받지 못했습니다.');
+      return json({ ok: true, path: await put(body, name) });
     }
 
     if (path === '/api/assets') return json({ ok: true, items: ASSETS });
