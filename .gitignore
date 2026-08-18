@@ -1,0 +1,24 @@
+# 다시 구우면 나오는 것들 — 깃에 넣으면 영원히 따라다닌다
+앱/
+build/
+*.zip
+*.exe
+*.lnk
+newsfeed/out/
+newsfeed/__pycache__/
+__pycache__/
+*.pyc
+
+# 실행 중에 생기는 자취
+newsfeed/오류기록.txt
+newsfeed/cloudflared/
+tunnel_url.txt
+tunnel.log
+
+# 사람 정보가 들어가는 파일 (제출자 이름·글). 공개 저장소에 두지 않는다
+뉴보대_제출DB.csv
+
+# OS 부스러기
+desktop.ini
+Thumbs.db
+.DS_Store

@@ -1,0 +1,464 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>뉴보대 피드 글 만들기</title>
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="/static/style.css">
+<style>
+  .stage.feed{align-items:stretch;justify-content:flex-start;padding:18px;overflow:auto}
+  .rel{display:flex;gap:9px;align-items:flex-start;padding:9px 10px;border:1px solid #2a2f3a;
+       border-radius:9px;margin-bottom:6px;cursor:pointer}
+  .rel:hover{border-color:#4d566b}
+  .rel.on{border-color:#3b6ef5;background:rgba(59,110,245,.08)}
+  .rel input{margin-top:2px;flex:none}
+  .rel .t{font-size:12.5px;font-weight:600;line-height:1.45}
+  .rel .m{font-size:11px;color:#7b8398;margin-top:3px}
+  .rel .m b{color:#9aa4ba;font-weight:700}
+  #out{width:100%;min-height:520px;font-size:13px;line-height:1.72;white-space:pre-wrap;
+       font-family:inherit;background:#0f1219}
+  .cap{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
+  .cap .n{font-size:11.5px;color:#7b8398}
+  .cap .n.over{color:#f87171;font-weight:700}
+  .styles{display:grid;gap:5px}
+  .styles button{text-align:left;padding:8px 10px}
+  .styles button.on{background:#3b6ef5;border-color:#3b6ef5;color:#fff}
+  .styles small{display:block;font-weight:500;font-size:10.5px;opacity:.75;margin-top:2px}
+  .warnbox{border:1px solid #4a3c14;background:#241d0c;color:#ffce5c;border-radius:8px;
+           padding:9px 11px;font-size:11.5px;line-height:1.65;margin:8px 0}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="brand">뉴보대 <span>피드 글 만들기</span></div>
+  <div class="top-actions">
+    <a class="ghost" data-carry="/" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">← 앞장 만들기</a>
+    <a class="ghost" href="/static/outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">뒷장 만들기 →</a>
+    <span data-insta-slot></span>
+    <button id="btnCopy" class="primary">글 복사</button>
+    <button id="btnSaveTxt">out 폴더에 저장</button>
+    <a class="ghost" href="/static/mark.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">워터마크</a>
+    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">폴더 정리</a>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- ────────── 좌: 기사 ────────── -->
+  <section class="panel left">
+    <h2>1. 기준 기사</h2>
+    <label class="lbl">기사 URL</label>
+    <div class="row">
+      <input id="inUrl" type="text" placeholder="https://n.news.naver.com/... (붙여넣기)">
+      <button id="btnFetch" class="primary sm">가져오기</button>
+    </div>
+    <label class="lbl">또는 본문 직접 붙여넣기</label>
+    <textarea id="inBody" rows="6" placeholder="기사 전문을 그대로 붙여넣으세요."></textarea>
+    <div class="row">
+      <input id="inTitle" type="text" placeholder="원문 제목">
+    </div>
+    <div class="row">
+      <input id="inPress" type="text" placeholder="언론사">
+      <input id="inDate" type="text" placeholder="발행 시각 (2026-08-07 16:08)">
+    </div>
+    <div id="msg" class="msg"></div>
+
+    <h2>2. 유사 기사 찾기 <span class="hint">비슷한 시각 · 비슷한 내용</span></h2>
+    <div class="ctl">
+      <label>시간 범위 <span class="val">48</span></label>
+      <input id="hours" type="range" min="3" max="168" step="1" value="48">
+    </div>
+    <p class="tip">기준 기사 발행 시각 <b>앞뒤 <span id="hLabel">48</span>시간</b> 안에 나온 기사만 봅니다.</p>
+    <div class="row">
+      <button id="btnRel" class="primary sm">유사 기사 찾기</button>
+      <label style="display:flex;gap:5px;align-items:center;font-size:11.5px;color:#8f97a8;white-space:nowrap">
+        <input id="deep" type="checkbox"> 본문까지 시도
+      </label>
+    </div>
+    <p class="tip">구글·빙 뉴스 검색을 씁니다(키 불필요). <b>제목·언론사·시각</b>은 정확하지만,
+      구글이 중계 주소로 막아 <b>자동으로 찾은 기사는 본문을 못 가져옵니다.</b>
+      본문까지 쓰려면 아래에 주소를 직접 넣으세요.</p>
+    <button id="btnBulk" class="sm" style="width:100%" disabled>직접 주소 본문 일괄 시도</button>
+    <p class="tip">찾은 목록 중 <b>언론사 주소가 그대로 들어 있는 항목</b>만 골라 한 번에 본문을 긁어 봅니다.
+      (구글 중계 주소는 대상이 아니고, MSN 같은 재배포 페이지도 빠집니다)</p>
+    <div id="relMsg" class="msg"></div>
+
+    <h2>2-1. 링크 직접 넣기 <span class="hint">본문까지 확보됩니다</span></h2>
+    <p class="tip">네이버·다음·언론사 <b>기사 주소를 한 줄에 하나씩</b> 붙여넣으세요.
+      직접 준 주소는 <b>본문을 그대로 읽어 와</b> 공통점·차이까지 정리합니다.</p>
+    <textarea id="inLinks" rows="4" placeholder="https://n.news.naver.com/mnews/article/...&#10;https://v.daum.net/v/...&#10;https://www.yna.co.kr/view/..."></textarea>
+    <div class="row">
+      <button id="btnLinks" class="primary sm">링크로 추가</button>
+      <button id="btnClearRel" class="sm ghost">목록 비우기</button>
+    </div>
+    <div id="linkMsg" class="msg"></div>
+  </section>
+
+  <!-- ────────── 중: 결과 글 ────────── -->
+  <section class="stage feed">
+    <div class="cap">
+      <div><b style="font-size:13px" id="styleName">뉴스 전달형</b>
+        <span class="hint" id="styleNote"></span></div>
+      <div class="n" id="count"></div>
+    </div>
+    <textarea id="out" placeholder="왼쪽에서 기사를 가져온 뒤 [글 만들기] 를 누르세요."></textarea>
+    <div class="warnbox">
+      ⚠ <b>요약 문장은 원문에서 뽑아낸 발췌입니다.</b> 새로 쓴 글이 아니므로 그대로 올리면
+      언론사 문장을 그대로 옮기는 셈이 됩니다. <b>본인 말로 고쳐 쓴 뒤</b> 올리시고,
+      출처 표기 줄은 지우지 마세요.
+    </div>
+  </section>
+
+  <!-- ────────── 우: 관련 기사 / 스타일 ────────── -->
+  <section class="panel right">
+    <h2>3. 글투 고르기</h2>
+    <div class="styles" id="styles"></div>
+    <button id="btnMake" class="primary" style="width:100%;margin-top:8px">글 만들기</button>
+
+    <h2>4. 제목 추천 <span class="hint" id="titleNote"></span></h2>
+    <p class="tip">고른 글투에 맞는 후보입니다. <b>눌러서 고르고</b>, 아래 칸에서
+      <b>직접 고쳐</b> 쓰셔도 됩니다. <b>글에 넣기</b> 를 누르면 왼쪽 글의 제목 줄이 바뀝니다.</p>
+    <div class="chips" id="titleChips"></div>
+    <input id="titlePick" type="text" placeholder="제목을 직접 쓰거나 위에서 고르세요" style="width:100%">
+    <div class="row" style="margin-top:6px">
+      <button id="btnTitleApply" class="primary sm">글에 넣기</button>
+      <button id="btnTitleCopy" class="sm">제목만 복사</button>
+      <button id="btnTitleMore" class="sm ghost">다시 뽑기</button>
+    </div>
+    <div id="titleMsg" class="msg"></div>
+
+    <h2>5. 함께 실을 기사 <span class="hint" id="relCount"></span></h2>
+    <p class="tip">체크한 기사만 <b>“다른 매체는 이렇게 봤다”</b> 에 들어갑니다.</p>
+    <div id="relList"></div>
+  </section>
+
+</main>
+
+<script src="/static/prog.js"></script>
+<script src="/static/nav.js"></script>
+<script>
+'use strict';
+const $ = (id) => document.getElementById(id);
+const STYLES = [
+  { id:'news',     name:'뉴스 전달형', note:'무슨 일인지 → 짚어볼 점 순서. 시사 계정 기본형.' },
+  { id:'magazine', name:'매거진형',   note:'문장을 이어 쓰는 에세이 톤. 기획·주간 정리에.' },
+  { id:'brief',    name:'짧은 브리핑', note:'3줄 요약 + 해시태그. 스토리·릴스 설명에.' },
+  { id:'cards',    name:'카드 대사 뽑기', note:'카드 한 장씩 넣을 문구를 장 단위로. 앞장에 옮겨 쓰는 용.' },
+];
+let main = { title:'', body:'', press:'', date:'', url:'' };
+let rel = [], picked = new Set(), style = 'news';
+
+const msg = (el, t, c) => { el.className = 'msg ' + (c||''); el.textContent = t; };
+
+async function api(path, body) {
+  const r = await fetch(path, { method:'POST', headers:{'Content-Type':'application/json'},
+                                body: JSON.stringify(body) });
+  const j = await r.json();
+  if (!j.ok) throw new Error(j.error || '요청 실패');
+  return j;
+}
+
+function readMain() {
+  main.title = $('inTitle').value.trim();
+  main.body  = $('inBody').value.trim();
+  main.press = $('inPress').value.trim();
+  main.date  = $('inDate').value.trim();
+  main.url   = $('inUrl').value.trim();
+  return main;
+}
+
+/* ── 기사 가져오기 ──
+   🔴 앞장 화면과 같은 함정: `/api/extract` 는 본문을 같이 주면 그쪽을 우선하므로,
+   칸에 남은 지난 기사 본문을 새 주소와 함께 보내면 **글이 안 바뀐다**(사진·출처만
+   바뀐다). 우리가 채운 글은 주소가 바뀌면 비우고, 사람이 손으로 붙여 넣은 본문만
+   남긴다(URL 이 막힌 언론사를 위한 길). */
+const AUTO = { url:'', body:'', title:'' };
+const normUrl = u => (u||'').trim().replace(/^https?:\/\//i,'').replace(/\/+$/,'').toLowerCase();
+const sameUrl = (a,b) => !!normUrl(a) && normUrl(a) === normUrl(b);
+
+$('btnFetch').addEventListener('click', async () => {
+  const url = $('inUrl').value.trim();
+  if (!url) return msg($('msg'), 'URL을 입력하세요.', 'err');
+  let handwritten = false;
+  if (AUTO.url && !sameUrl(url, AUTO.url)) {
+    const b = $('inBody').value.trim(), t = $('inTitle').value.trim();
+    if (b && b === AUTO.body) $('inBody').value = '';
+    else if (b) handwritten = true;
+    if (t && t === AUTO.title) $('inTitle').value = '';
+    $('inPress').value = '';
+    $('inDate').value = '';
+    // 지난 기사로 만든 글이 남아 있으면 그대로 인스타 문구가 된다
+    $('out').value = '';
+    $('count').textContent = '';
+    NAV.setFeedText('');
+  }
+  msg($('msg'), '기사를 가져오는 중…', 'wait');
+  try {
+    const j = await api('/api/extract', { url, text:$('inBody').value.trim(), title:$('inTitle').value.trim() });
+    $('inBody').value  = j.body || '';
+    $('inTitle').value = j.title || '';
+    $('inPress').value = j.press || '';
+    $('inDate').value  = (j.date || '').replace('T', ' ').slice(0, 16);
+    readMain();
+    AUTO.url = url;
+    AUTO.body = $('inBody').value.trim();
+    AUTO.title = $('inTitle').value.trim();
+    msg($('msg'), `가져왔습니다 · 본문 ${(j.body||'').length}자`
+      + (handwritten ? ' · 🔴 본문 칸에 직접 넣은 글을 그대로 썼습니다(이 기사 본문이 아닙니다).' : ''),
+      handwritten ? 'wait' : 'ok');
+    loadTitles();                      // 글을 만들기 전에도 제목 후보를 보여 준다
+  } catch (e) { msg($('msg'), e.message, 'err'); }
+});
+
+/* ── 유사 기사 ── */
+$('hours').addEventListener('input', () => {
+  const v = $('hours').value;
+  $('hLabel').textContent = v;
+  document.querySelector('.ctl .val').textContent = v;
+});
+
+$('btnRel').addEventListener('click', async () => {
+  readMain();
+  if (!main.title && !main.body) return msg($('relMsg'), '먼저 기사를 가져오세요.', 'err');
+  msg($('relMsg'), '검색 중… (10초쯤 걸립니다)', 'wait');
+  try {
+    const j = await api('/api/related', {
+      title: main.title, body: main.body, date: main.date, url: main.url,
+      hours: +$('hours').value, deep: $('deep').checked
+    });
+    rel = j.items || [];
+    picked = new Set(rel.slice(0, 4).map((_, i) => i));
+    drawRel();
+    msg($('relMsg'), rel.length
+      ? `검색어 「${j.query}」 · 후보 ${j.found}건 중 ${rel.length}건`
+      : `검색어 「${j.query}」 · 조건에 맞는 기사가 없습니다. 시간 범위를 넓혀 보세요.`,
+      rel.length ? 'ok' : 'err');
+  } catch (e) { msg($('relMsg'), e.message, 'err'); }
+});
+
+/* 링크 직접 넣기 — 여기로 들어온 기사는 본문까지 확보된다 */
+$('btnLinks').addEventListener('click', async () => {
+  readMain();
+  const urls = $('inLinks').value.split(/[\r\n]+/).map(s => s.trim()).filter(Boolean);
+  if (!urls.length) return msg($('linkMsg'), '주소를 한 줄에 하나씩 넣으세요.', 'err');
+  msg($('linkMsg'), `${urls.length}건 읽는 중…`, 'wait');
+  try {
+    const j = await api('/api/fetch-many', { urls, date: main.date });
+    const before = rel.length;
+    (j.items || []).forEach(it => {
+      if (!rel.some(r => r.link === it.link)) { rel.push(it); picked.add(rel.length - 1); }
+    });
+    drawRel();
+    const bad = (j.items || []).filter(i => i.error);
+    msg($('linkMsg'),
+      `${rel.length - before}건 추가 · 본문 확보 ${j.body_ok}건` +
+      (bad.length ? ` · 실패 ${bad.length}건 (${bad[0].error})` : ''),
+      bad.length ? 'wait' : 'ok');
+    $('inLinks').value = '';
+  } catch (e) { msg($('linkMsg'), e.message, 'err'); }
+});
+
+$('btnClearRel').addEventListener('click', () => {
+  rel = []; picked = new Set(); drawRel();
+  msg($('linkMsg'), '목록을 비웠습니다.', 'ok');
+});
+
+/* 자동검색 결과 중 '직접 주소'인 것만 골라 한 번에 본문을 시도한다.
+   서버가 넣은 순서 그대로 돌려주므로 순서로 원래 항목과 짝을 맞춘다. */
+const bulkTargets = () => rel.map((r, i) => i).filter(i => rel[i].direct && !rel[i].body_ok);
+
+$('btnBulk').addEventListener('click', async () => {
+  readMain();
+  const idx = bulkTargets();
+  if (!idx.length) return msg($('relMsg'), '본문을 시도할 직접 주소 항목이 없습니다.', 'err');
+  $('btnBulk').disabled = true;
+  msg($('relMsg'), `${idx.length}건 본문 시도 중… (한 건에 몇 초씩 걸립니다)`, 'wait');
+  try {
+    const j = await api('/api/fetch-many', { urls: idx.map(i => rel[i].link), date: main.date });
+    let ok = 0;
+    (j.items || []).forEach((it, k) => {
+      const r = rel[idx[k]];
+      if (!r) return;
+      if (it.body_ok) {
+        r.body = it.body; r.body_ok = true; r.error = '';
+        if (it.press) r.press = it.press;
+        if (!r.date && it.date) r.date = it.date;
+        picked.add(idx[k]);                     // 본문이 붙었으면 자동으로 체크
+        ok++;
+      } else {
+        r.error = it.error || '본문 없음';
+      }
+    });
+    drawRel();
+    msg($('relMsg'), `${idx.length}건 중 ${ok}건 본문 확보` +
+      (ok ? ' · 이제 [글 만들기] 를 누르면 공통점·차이까지 정리됩니다.'
+          : ' · 언론사가 막고 있습니다. 아래 2-1에 주소를 직접 넣어 보세요.'),
+      ok ? 'ok' : 'err');
+  } catch (e) { msg($('relMsg'), e.message, 'err'); }
+  finally { $('btnBulk').disabled = !bulkTargets().length; }
+});
+
+function drawRel() {
+  const box = $('relList');
+  box.innerHTML = '';
+  const nBody = rel.filter(r => r.body_ok).length;
+  $('relCount').textContent = rel.length
+    ? `${picked.size}/${rel.length}개 선택 · 본문 ${nBody}건` : '';
+  const nBulk = bulkTargets().length;
+  $('btnBulk').disabled = !nBulk;
+  $('btnBulk').textContent = nBulk
+    ? `직접 주소 본문 일괄 시도 (${nBulk}건)` : '직접 주소 본문 일괄 시도';
+  rel.forEach((r, i) => {
+    const d = document.createElement('div');
+    d.className = 'rel' + (picked.has(i) ? ' on' : '');
+    d.innerHTML = `<input type="checkbox" ${picked.has(i)?'checked':''}>
+      <div style="min-width:0"><div class="t"></div>
+        <div class="m"><b></b> · <span></span>${r.gap_h!=null?` · 기준보다 ${r.gap_h}h`:''}` +
+        (r.body_ok ? ' · <b style="color:#4ade80">본문 확보</b>'
+                   : r.error ? ` · <b style="color:#f87171">${r.error}</b>` : ' · 제목만') +
+      `</div></div>`;
+    d.querySelector('.t').textContent = r.title;
+    d.querySelector('.m b').textContent = r.press;
+    d.querySelector('.m span').textContent = r.date || '시각 미상';
+    d.addEventListener('click', (ev) => {
+      if (ev.target.tagName !== 'INPUT') ev.preventDefault();
+      picked.has(i) ? picked.delete(i) : picked.add(i);
+      drawRel();
+    });
+    box.appendChild(d);
+  });
+}
+
+/* ── 글투 ── */
+STYLES.forEach(s => {
+  const b = document.createElement('button');
+  b.innerHTML = `${s.name}<small>${s.note}</small>`;
+  b.addEventListener('click', () => {
+    style = s.id;
+    document.querySelectorAll('.styles button').forEach((x, i) => x.classList.toggle('on', STYLES[i].id === style));
+    $('styleName').textContent = s.name;
+    $('styleNote').textContent = s.note;
+    loadTitles();                      // 글투가 바뀌면 제목 결도 달라진다
+    if ($('out').value.trim()) $('btnMake').click();
+  });
+  $('styles').appendChild(b);
+});
+
+/* ── 글 만들기 ── */
+$('btnMake').addEventListener('click', async () => {
+  readMain();
+  if (!main.body) return msg($('msg'), '기사 본문이 없습니다.', 'err');
+  try {
+    const j = await api('/api/feed', {
+      main, style, related: rel.filter((_, i) => picked.has(i))
+    });
+    $('out').value = j.text;
+    $('count').textContent = `${j.chars}자 / 인스타 상한 2,200자`;
+    $('count').className = 'n' + (j.warn ? ' over' : '');
+    if (j.titles) drawTitles(j.titles, j.titleNote);
+  } catch (e) { msg($('msg'), e.message, 'err'); }
+});
+
+/* ── 제목 추천 ──────────────────────────────────────────────────────────
+   고르는 것(칩) 과 직접 고치는 것(칸) 을 둘 다 둔다. 규칙 기반이라 후보가 늘
+   매끄럽지는 않으므로 손볼 자리를 반드시 남겨야 한다. */
+function drawTitles(list, note) {
+  const box = $('titleChips');
+  box.innerHTML = '';
+  $('titleNote').textContent = note || '';
+  (list || []).forEach(t => {
+    const b = document.createElement('button');
+    b.className = 'chip';
+    b.textContent = t;
+    b.title = '눌러서 고르기';
+    b.addEventListener('click', () => {
+      $('titlePick').value = t;
+      document.querySelectorAll('#titleChips .chip').forEach(x => x.classList.toggle('on', x === b));
+      msg($('titleMsg'), '골랐습니다. 고쳐 쓰신 뒤 [글에 넣기].', 'ok');
+    });
+    box.appendChild(b);
+  });
+}
+
+async function loadTitles() {
+  readMain();
+  if (!main.body && !main.title) return;
+  try {
+    const j = await api('/api/titles', { main, style });
+    drawTitles(j.titles, j.note);
+  } catch (e) { /* 제목 추천은 없어도 글은 만들 수 있다 */ }
+}
+
+$('btnTitleMore').addEventListener('click', () => {
+  loadTitles();
+  msg($('titleMsg'), '다시 뽑았습니다.', 'ok');
+});
+
+$('btnTitleCopy').addEventListener('click', async () => {
+  const t = $('titlePick').value.trim();
+  if (!t) return msg($('titleMsg'), '먼저 제목을 고르거나 쓰세요.', 'err');
+  try { await navigator.clipboard.writeText(t); msg($('titleMsg'), '복사했습니다.', 'ok'); }
+  catch (e) { msg($('titleMsg'), '복사에 실패했습니다. 직접 긁어 쓰세요.', 'err'); }
+});
+
+/* 글의 '제목 줄' 을 바꾼다.
+   카드 대사 글투는 표지의 `제목      ▸ …` 줄, 나머지는 맨 첫 줄이 제목 자리다. */
+$('btnTitleApply').addEventListener('click', () => {
+  const t = $('titlePick').value.trim();
+  if (!t) return msg($('titleMsg'), '먼저 제목을 고르거나 쓰세요.', 'err');
+  const lines = $('out').value.split('\n');
+  if (!$('out').value.trim()) return msg($('titleMsg'), '먼저 [글 만들기] 를 누르세요.', 'err');
+
+  let i = lines.findIndex(l => l.startsWith('제목      ▸'));
+  if (i >= 0) {
+    lines[i] = '제목      ▸ ' + t;
+  } else {
+    i = lines.findIndex(l => l.trim());          // 첫 줄이 제목 자리
+    if (i < 0) return msg($('titleMsg'), '바꿀 제목 줄을 못 찾았습니다.', 'err');
+    lines[i] = t;
+  }
+  $('out').value = lines.join('\n');
+  $('count').textContent = `${$('out').value.length}자 / 인스타 상한 2,200자`;
+  msg($('titleMsg'), '글의 제목을 바꿨습니다.', 'ok');
+});
+
+$('btnCopy').addEventListener('click', async () => {
+  const t = $('out').value;
+  if (!t.trim()) return msg($('msg'), '복사할 글이 없습니다.', 'err');
+  try { await navigator.clipboard.writeText(t); msg($('msg'), '복사했습니다.', 'ok'); }
+  catch (e) { $('out').select(); document.execCommand('copy'); msg($('msg'), '복사했습니다.', 'ok'); }
+});
+
+$('btnSaveTxt').addEventListener('click', async () => {
+  try {
+    const j = await api('/api/save-text', {
+      text: $('out').value, name: '피드글_' + (main.title || '기사').slice(0, 20)
+    });
+    msg($('msg'), '저장했습니다 → ' + j.path, 'ok');
+  } catch (e) { msg($('msg'), e.message, 'err'); }
+});
+
+/* ── 화면 사이로 실어 나르기 ───────────────────────────────────────────
+   기사 링크는 한 번만 붙여 넣으면 되고, 만든 글은 `인스타 올리기` 의 문구 칸으로
+   그대로 간다(저장을 거치지 않는다). */
+$('inUrl').addEventListener('input', () => NAV.setUrl($('inUrl').value));
+const keepFeed = () => NAV.setFeedText($('out').value);
+$('out').addEventListener('input', keepFeed);
+['btnMake', 'btnTitleApply'].forEach(id => $(id).addEventListener('click', () => setTimeout(keepFeed, 0)));
+NAV.mount();
+
+/* 시작 */
+document.querySelectorAll('.styles button')[0].classList.add('on');
+$('styleNote').textContent = STYLES[0].note;
+// 링크로 온 것이면 가져오기까지, 다른 화면에서 넘어온 것이면 칸만 채운다
+const q = new URLSearchParams(location.search).get('url');
+if (q || NAV.url()) {
+  $('inUrl').value = q || NAV.url();
+  NAV.setUrl($('inUrl').value);
+  if (q) $('btnFetch').click();
+}
+</script>
+</body>
+</html>

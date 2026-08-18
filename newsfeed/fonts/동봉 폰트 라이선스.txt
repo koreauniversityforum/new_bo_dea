@@ -1,0 +1,12 @@
+이 프로그램에 동봉된 글꼴과 라이선스 (전부 상업적 사용 무료)
+
+- Pretendard — SIL OFL 1.1 (별도 파일 참고)
+- 지마켓 산스 (GmarketSans) — 지마켓 자체 라이선스, 개인·기업 상업적 사용 무료,
+  글꼴 자체의 유료 판매만 금지. https://corp.gmarket.com/fonts/
+- 에스코어 드림 (S-Core Dream) — 에스코어 무료 배포, 상업적 사용 무료.
+  https://www.s-core.co.kr/company/font/
+- 검은고딕 (Black Han Sans) — SIL OFL 1.1 (Google Fonts)
+- 페이퍼로지 (Paperlogy) — SIL OFL 1.1
+
+각 글꼴의 저작권은 원 제작사에 있으며, 이 프로그램은 화면 표시·이미지 제작
+용도로만 동봉합니다.

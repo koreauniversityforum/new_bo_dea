@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>뉴보대 저장 폴더 정리</title>
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="/static/style.css">
+<style>
+  .wrap.one{display:block;max-width:980px;margin:0 auto;padding:18px}
+  .sum{display:flex;gap:18px;flex-wrap:wrap;align-items:baseline;
+       background:#12151b;border:1px solid #2a2f3a;border-radius:10px;padding:12px 14px;margin-bottom:12px}
+  .sum b{font-size:19px;color:#e8eaee}
+  .sum span{font-size:11.5px;color:#7b8398}
+  .sum code{font-size:11px;color:#9aa4ba;word-break:break-all}
+  .tools{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .tools .grow{flex:1}
+  table{width:100%;border-collapse:collapse;font-size:12.5px}
+  th{text-align:left;font-size:11px;color:#7b8398;font-weight:600;
+     padding:6px 8px;border-bottom:1px solid #2a2f3a;position:sticky;top:0;background:#0f1219}
+  td{padding:6px 8px;border-bottom:1px solid #1d212b;vertical-align:middle}
+  tr.on td{background:rgba(59,110,245,.09)}
+  td.n{font-weight:600;word-break:break-all}
+  td.r{text-align:right;color:#9aa4ba;white-space:nowrap}
+  td.c{width:34px;text-align:center}
+  .old{color:#f0a848}
+  .list{max-height:58vh;overflow:auto;border:1px solid #2a2f3a;border-radius:10px}
+  .danger{background:#7f1d1d;border-color:#7f1d1d;color:#fff}
+  .danger:disabled{opacity:.45}
+  .note{color:#8a909e;font-size:11.5px;line-height:1.7;margin:10px 0 0}
+  .empty{padding:26px;text-align:center;color:#7b8398;font-size:12.5px}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="brand">뉴보대 <span>저장 폴더 정리</span></div>
+  <div class="top-actions">
+    <a class="ghost" data-carry="/static/feed.html" href="/static/feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">피드 글</a>
+    <a class="ghost" href="/static/outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">뒷장 만들기</a>
+    <span data-insta-slot></span>
+    <button id="btnOpen" class="ghost">폴더 열기</button>
+    <button id="btnReload" class="ghost">새로 읽기</button>
+    <a class="ghost" href="/static/mark.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">워터마크</a>
+    <a class="ghost" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">← 앞장 만들기</a>
+  </div>
+</header>
+
+<main class="wrap one">
+
+  <div class="sum">
+    <div><b id="sCount">–</b> <span>개 파일</span></div>
+    <div><b id="sSize">–</b> <span>차지하는 용량</span></div>
+    <div><b id="sPick">0</b> <span>개 선택 · <span id="sPickSize">0 B</span></span></div>
+    <div style="flex:1;min-width:200px"><code id="sDir"></code></div>
+  </div>
+
+  <div class="tools">
+    <button id="tAll" class="sm">전부 고르기</button>
+    <button id="tNone" class="sm ghost">선택 풀기</button>
+    <button id="tOld" class="sm">7일 지난 것</button>
+    <button id="tKeep" class="sm">최근 20개만 남기기</button>
+    <button id="tTxt" class="sm">피드글(.txt)만</button>
+    <span class="grow"></span>
+    <button id="btnDel" class="sm danger" disabled>고른 파일 지우기</button>
+  </div>
+
+  <div class="list">
+    <table>
+      <thead><tr><th class="c"><input id="chkAll" type="checkbox"></th>
+        <th>파일 이름</th><th style="width:96px;text-align:right">크기</th>
+        <th style="width:150px;text-align:right">만든 때</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <div id="empty" class="empty" style="display:none">out 폴더가 비어 있습니다.</div>
+  </div>
+
+  <div id="msg" class="msg" style="margin-top:10px"></div>
+  <p class="note">
+    ⚠ <b>지우면 휴지통을 거치지 않고 바로 사라집니다.</b> 인스타에 올린 그림은 미리 다른 곳에 옮겨 두세요.<br>
+    파일을 다른 프로그램(그림판·탐색기 미리보기)이 열어 두고 있으면 지워지지 않습니다. 창을 닫고 다시 시도하세요.
+  </p>
+
+</main>
+
+<script src="/static/nav.js"></script>
+<script>
+'use strict';
+const $ = (id) => document.getElementById(id);
+NAV.mount();
+let items = [], picked = new Set();
+
+const fmtSize = (n) => n >= 1048576 ? (n / 1048576).toFixed(1) + ' MB'
+  : n >= 1024 ? Math.round(n / 1024) + ' KB' : n + ' B';
+const fmtTime = (t) => {
+  const d = new Date(t * 1000), p = (v) => String(v).padStart(2, '0');
+  return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())} ${p(d.getHours())}:${p(d.getMinutes())}`;
+};
+const msg = (t, c) => { const e = $('msg'); e.className = 'msg ' + (c || ''); e.textContent = t; };
+const DAY = 86400;
+const now = () => Date.now() / 1000;
+
+async function load() {
+  const j = await (await fetch('/api/out-list')).json();
+  if (!j.ok) return msg(j.error || '읽지 못했습니다.', 'err');
+  items = j.items || [];
+  picked = new Set();
+  $('sDir').textContent = j.dir;
+  $('sCount').textContent = j.count;
+  $('sSize').textContent = fmtSize(j.total);
+  draw();
+}
+
+function draw() {
+  const tb = $('rows');
+  tb.innerHTML = '';
+  $('empty').style.display = items.length ? 'none' : '';
+  items.forEach((it, i) => {
+    const tr = document.createElement('tr');
+    if (picked.has(i)) tr.className = 'on';
+    const old = now() - it.mtime > 7 * DAY;
+    tr.innerHTML = `<td class="c"><input type="checkbox" ${picked.has(i) ? 'checked' : ''}></td>
+      <td class="n"></td><td class="r">${fmtSize(it.size)}</td>
+      <td class="r ${old ? 'old' : ''}">${fmtTime(it.mtime)}</td>`;
+    tr.querySelector('.n').textContent = it.name;
+    tr.addEventListener('click', (ev) => {
+      if (ev.target.tagName !== 'INPUT') ev.preventDefault();
+      picked.has(i) ? picked.delete(i) : picked.add(i);
+      draw();
+    });
+    tb.appendChild(tr);
+  });
+  const size = [...picked].reduce((s, i) => s + items[i].size, 0);
+  $('sPick').textContent = picked.size;
+  $('sPickSize').textContent = fmtSize(size);
+  $('btnDel').disabled = !picked.size;
+  $('chkAll').checked = items.length > 0 && picked.size === items.length;
+}
+
+const pickBy = (fn) => { picked = new Set(items.map((_, i) => i).filter(i => fn(items[i], i))); draw(); };
+
+$('tAll').addEventListener('click', () => pickBy(() => true));
+$('tNone').addEventListener('click', () => pickBy(() => false));
+$('tOld').addEventListener('click', () => {
+  pickBy(it => now() - it.mtime > 7 * DAY);
+  msg(picked.size ? `7일 지난 파일 ${picked.size}개를 골랐습니다.` : '7일 지난 파일이 없습니다.', 'ok');
+});
+$('tKeep').addEventListener('click', () => {
+  pickBy((_, i) => i >= 20);          // 목록은 새것부터라 20번째 뒤가 오래된 것
+  msg(picked.size ? `최근 20개를 뺀 ${picked.size}개를 골랐습니다.` : '파일이 20개 이하입니다.', 'ok');
+});
+$('tTxt').addEventListener('click', () => {
+  pickBy(it => /\.txt$/i.test(it.name));
+  msg(picked.size ? `.txt ${picked.size}개를 골랐습니다.` : '.txt 파일이 없습니다.', 'ok');
+});
+$('chkAll').addEventListener('click', (ev) => { ev.stopPropagation(); pickBy(() => ev.target.checked); });
+
+$('btnDel').addEventListener('click', async () => {
+  const names = [...picked].map(i => items[i].name);
+  const size = [...picked].reduce((s, i) => s + items[i].size, 0);
+  if (!names.length) return;
+  if (!confirm(`${names.length}개 파일(${fmtSize(size)})을 지웁니다.\n` +
+               `휴지통을 거치지 않고 바로 사라집니다. 계속할까요?\n\n` +
+               names.slice(0, 8).join('\n') + (names.length > 8 ? `\n… 외 ${names.length - 8}개` : ''))) return;
+  msg('지우는 중…', 'wait');
+  try {
+    const r = await fetch('/api/out-delete', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ names })
+    });
+    const j = await r.json();
+    if (!j.ok) throw new Error(j.error);
+    await load();
+    msg(`${j.deleted}개 지웠습니다 · ${fmtSize(j.freed)} 확보` +
+        (j.failed.length ? ` · 실패 ${j.failed.length}개 (${j.failed[0].name}: ${j.failed[0].error})` : ''),
+        j.failed.length ? 'wait' : 'ok');
+  } catch (e) { msg(e.message, 'err'); }
+});
+
+$('btnReload').addEventListener('click', () => { load(); msg('다시 읽었습니다.', 'ok'); });
+$('btnOpen').addEventListener('click', () => fetch('/api/open-out'));
+
+load();
+</script>
+</body>
+</html>

@@ -1,0 +1,570 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>뉴보대 릴스 만들기</title>
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="/static/style.css">
+<style>
+  /* 3단: 왼쪽 그림 고르기 / 가운데 미리보기 / 오른쪽 설정·녹화 */
+  .wrap.reel{display:grid;grid-template-columns:330px 1fr 330px;gap:14px;
+             max-width:1400px;margin:0 auto;padding:16px}
+  .pane{background:#12151b;border:1px solid #2a2f3a;border-radius:10px;padding:12px;
+        min-height:0;display:flex;flex-direction:column}
+  .pane h2{font-size:12px;color:#7b8398;font-weight:600;margin:0 0 8px}
+  .src{overflow:auto;max-height:70vh}
+  .src .grp{font-size:11px;color:#7b8398;margin:10px 0 6px}
+  .src .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+  .src img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:6px;
+           border:1px solid #2a2f3a;cursor:pointer;background:#0d0f14}
+  .src img:hover{border-color:#3b6ef5}
+  .picked{overflow:auto;max-height:26vh;margin-top:8px}
+  .picked .row{display:flex;align-items:center;gap:8px;padding:5px 6px;
+               border-bottom:1px solid #1d212b;font-size:12px}
+  .picked img{width:30px;height:38px;object-fit:cover;border-radius:4px}
+  .picked .nm{flex:1;word-break:break-all;color:#c8cdd6}
+  .picked button{padding:2px 7px;font-size:11px}
+  .picked input.sec{width:52px;background:#0d0f14;border:1px solid #2a2f3a;color:#e8eaee;
+        border-radius:5px;padding:3px 5px;font-size:11px}
+  #scrub{width:min(300px,100%);accent-color:#3b6ef5}
+  /* 관련 숏폼 (유튜브 embed 참고) */
+  #shortsQ{flex:1;min-width:0;background:#0d0f14;border:1px solid #2a2f3a;color:#e8eaee;
+        border-radius:6px;padding:6px 8px;font-size:12px}
+  .shorts{display:grid;grid-template-columns:repeat(2,1fr);gap:6px;overflow:auto;max-height:38vh}
+  .shorts .it{cursor:pointer;border:1px solid #2a2f3a;border-radius:8px;overflow:hidden;
+        background:#0d0f14}
+  .shorts .it:hover{border-color:#3b6ef5}
+  .shorts img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block}
+  .shorts .t{font-size:11px;color:#c8cdd6;padding:5px 6px;line-height:1.4;
+        display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .shorts .d{color:#7b8398}
+  #playWrap{display:none;position:fixed;inset:0;background:rgba(4,6,10,.82);z-index:60;
+        align-items:center;justify-content:center;flex-direction:column;gap:10px}
+  #playWrap iframe{width:min(330px,90vw);aspect-ratio:9/16;border:0;border-radius:12px;background:#000}
+  .stage{display:flex;flex-direction:column;align-items:center;gap:10px}
+  #prev{width:min(300px,100%);aspect-ratio:9/16;background:#0d0f14;
+        border:1px solid #2a2f3a;border-radius:12px}
+  video{width:min(300px,100%);aspect-ratio:9/16;background:#000;border-radius:12px;display:none}
+  .ctl{display:flex;flex-direction:column;gap:9px;font-size:12.5px}
+  .ctl label{display:flex;align-items:center;justify-content:space-between;gap:8px;color:#c8cdd6}
+  .ctl input[type=number]{width:76px;background:#0d0f14;border:1px solid #2a2f3a;color:#e8eaee;
+        border-radius:6px;padding:5px 7px;font-size:12.5px}
+  .big{width:100%;padding:11px;font-size:13.5px;font-weight:700;border-radius:9px;
+       background:#3b6ef5;border:0;color:#fff;cursor:pointer}
+  .big:disabled{opacity:.4;cursor:default}
+  .note{color:#8a909e;font-size:11.5px;line-height:1.75;margin-top:10px}
+  .est{color:#9aa4ba;font-size:12px}
+  .msg{margin-top:8px}
+  .bar{height:6px;border-radius:3px;background:#1d212b;overflow:hidden;display:none}
+  .bar i{display:block;height:100%;width:0;background:#3b6ef5;transition:width .2s}
+  /* 폰: 3단 격자를 1열로 */
+  @media (max-width:820px){
+    .wrap.reel{grid-template-columns:1fr;padding:12px}
+    .src{max-height:none}
+  }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="brand">뉴보대 <span>릴스 만들기</span></div>
+  <div class="top-actions">
+    <span data-insta-slot></span>
+    <button id="btnOpen" class="ghost">폴더 열기</button>
+    <a class="ghost" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">← 앞장 만들기</a>
+  </div>
+</header>
+
+<main class="wrap reel">
+
+  <!-- 왼쪽: 그림 고르기 -->
+  <section class="pane">
+    <h2>카드 고르기 <span style="color:#556070">(클릭하면 담깁니다)</span></h2>
+    <button id="btnAuto" class="ghost" style="margin-bottom:8px;padding:7px 10px;font-size:12px">⚡ 최근 카드 자동 담기</button>
+    <div id="src" class="src"></div>
+    <h2 style="margin-top:12px">담은 순서 <span id="cnt" style="color:#556070">0장</span>
+      <span style="color:#556070;font-weight:400">· 초 칸을 비우면 오른쪽 기본값</span></h2>
+    <div id="picked" class="picked"></div>
+
+    <h2 style="margin-top:14px">관련 숏폼 참고 <span style="color:#556070">(구도·자막 벤치마킹)</span></h2>
+    <div style="display:flex;gap:6px;margin-bottom:6px">
+      <input id="shortsQ" type="text" placeholder="검색어 — 비우면 실어 온 기사 제목">
+      <button id="btnShorts" class="ghost" style="white-space:nowrap;padding:6px 10px;font-size:12px">유튜브</button>
+      <a id="lnkInsta" class="ghost" target="_blank" rel="noreferrer noopener"
+         style="white-space:nowrap;padding:6px 10px;font-size:12px;border:1px solid #2a2f3a;border-radius:8px;color:#e8eaee;text-decoration:none">인스타</a>
+    </div>
+    <div id="shorts" class="shorts"></div>
+  </section>
+
+  <!-- 가운데: 미리보기 -->
+  <section class="pane stage">
+    <h2 style="align-self:flex-start">미리보기</h2>
+    <canvas id="prev" width="270" height="480"></canvas>
+    <input id="scrub" type="range" min="0" max="1000" value="0"
+           title="시점 훑어보기 — 녹화 전에 아무 순간이나 미리 볼 수 있습니다">
+    <video id="vid" controls playsinline></video>
+    <div class="bar" id="bar"><i></i></div>
+    <div id="msg" class="msg"></div>
+  </section>
+
+  <!-- 오른쪽: 설정과 녹화 -->
+  <section class="pane">
+    <h2>릴스 설정</h2>
+    <div class="ctl">
+      <label>첫 장(표지) 보여 주는 시간(초)
+        <input id="firstS" type="number" min="1.5" max="6" step="0.2" value="2.6"></label>
+      <label>나머지 장당 시간(초)
+        <input id="perS" type="number" min="2" max="6" step="0.2" value="3.0"></label>
+      <label>아래 진행줄
+        <input id="chkBar" type="checkbox" checked style="width:auto"></label>
+      <div class="est" id="est">예상 길이 –</div>
+      <button id="btnMake" class="big" disabled>릴스 만들기 (1080×1920)</button>
+      <button id="btnAutoAll" class="big" style="background:#7c3aed">⚡ 자동 제작 (담기→녹화→저장)</button>
+      <button id="btnSave" class="big" style="background:#059669;display:none">out 폴더에 저장</button>
+      <button id="btnDl" class="big" style="background:#0e7490;display:none">이 기기에 내려받기 (폰→인스타용)</button>
+      <button id="btnEdit" class="big" style="background:#1d212b;border:1px solid #2a2f3a;display:none">← 편집으로 돌아가기</button>
+    </div>
+    <p class="note">
+      방식은 연합뉴스·YTN 같은 언론사 공식 릴스를 따랐습니다 —
+      <b>카드가 화면 가운데, 뒤는 그 카드를 흐려 채운 바탕</b>, 장마다 천천히
+      확대(켄 번즈), 장 사이 0.35초 크로스페이드, 아래 진행줄.<br><br>
+      🔇 <b>소리는 넣지 않습니다.</b> 언론사·매거진 계정도 업로드하며 인스타 앱에서
+      유행 음악을 고르는 방식이 보통이고, 그쪽이 노출에도 유리합니다.<br><br>
+      ⚠ 녹화는 실제 시간만큼 걸립니다(15초 릴스 = 15초). <b>녹화 중 창을 최소화하지
+      마세요</b> — 화면이 멈춘 채 녹화됩니다.<br><br>
+      📺 왼쪽 <b>관련 숏폼 참고</b>는 유튜브·인스타의 같은 주제 숏폼을 보여 주는
+      벤치마킹용입니다. <b>남의 영상을 내려받아 릴스에 넣지는 않습니다</b>(저작권) —
+      구도·자막·전개만 참고하세요.
+    </p>
+  </section>
+
+</main>
+
+<!-- 숏폼 재생 (유튜브 embed — 내려받는 것이 아니라 그 자리에서 트는 것) -->
+<div id="playWrap">
+  <iframe id="player" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+  <button id="btnPlayClose" class="ghost" style="padding:8px 20px;font-size:13px">닫기</button>
+</div>
+
+<script src="/static/nav.js"></script>
+<script>
+'use strict';
+const $ = (id) => document.getElementById(id);
+NAV.mount();
+
+/* ── 릴스 틀 (언론사 릴스 관행) ─────────────────────────────────────────
+   1080×1920 · 30fps. 카드(4:5)는 가로를 꽉 채워 가운데, 남는 위아래는
+   같은 카드를 크게 늘려 흐린 것 + 어두운 막. 장마다 1.00→1.055 확대. */
+const W = 1080, H = 1920, FPS = 30, FADE = 0.35, ZOOM = 0.055;
+const ACCENT = '#3b6ef5', PAPER = '#0d0f14';
+
+let picked = [];              // { dir, name, img(HTMLImageElement), bg(canvas) }
+let blob = null, blobExt = 'mp4';
+
+const msg = (t, c) => { const e = $('msg'); e.className = 'msg ' + (c || ''); e.textContent = t; };
+const thumbUrl = (d, n) => '/api/insta-thumb?dir=' + encodeURIComponent(d) + '&name=' + encodeURIComponent(n);
+
+/* 장 하나의 흐린 바탕을 **미리** 만들어 둔다 — 매 프레임 blur 를 걸면
+   그래픽카드 없는 노트북에서 프레임이 뚝뚝 끊긴다(이 PC 가 그렇다). */
+function makeBg(img) {
+  const c = document.createElement('canvas');
+  c.width = W; c.height = H;
+  const x = c.getContext('2d');
+  const s = Math.max(W / img.naturalWidth, H / img.naturalHeight) * 1.12;
+  const w = img.naturalWidth * s, h = img.naturalHeight * s;
+  x.filter = 'blur(42px)';
+  x.drawImage(img, (W - w) / 2, (H - h) / 2, w, h);
+  x.filter = 'none';
+  x.fillStyle = 'rgba(8,10,14,.58)';
+  x.fillRect(0, 0, W, H);
+  return c;
+}
+
+function slideSecs(i) {
+  const own = picked[i] && Number(picked[i].sec);   // 장별로 따로 정한 시간(편집)
+  if (own) return Math.min(8, Math.max(1, own));
+  return i === 0 ? Number($('firstS').value) || 2.6 : Number($('perS').value) || 3.0;
+}
+function totalSecs() {
+  let t = 0.4;                                   // 끝에 잠깐 멈춰 주기
+  for (let i = 0; i < picked.length; i++) t += slideSecs(i);
+  return t;
+}
+
+/* 한 프레임 그리기. t = 처음부터 지난 초. ctx 크기는 부르는 쪽이 맞춰 둔다. */
+function drawFrame(ctx, t, scale) {
+  const total = totalSecs();
+  let acc = 0, i = 0;
+  for (; i < picked.length - 1; i++) { if (t < acc + slideSecs(i)) break; acc += slideSecs(i); }
+  const el = Math.min(t - acc, slideSecs(i));    // 이 장에서 지난 시간
+  ctx.save();
+  ctx.scale(scale, scale);
+  const draw = (k, alpha) => {
+    const it = picked[k];
+    if (!it || !it.img.complete) return;
+    ctx.globalAlpha = alpha;
+    ctx.drawImage(it.bg, 0, 0);
+    const p = Math.min(1, (k === i ? el : slideSecs(k)) / slideSecs(k));
+    const z = 1 + ZOOM * (k === i ? p : 1);
+    const iw = it.img.naturalWidth, ih = it.img.naturalHeight;
+    const fit = Math.min(W / iw, 1560 / ih) * z; // 가로 꽉, 세로는 숨 쉴 자리
+    const w = iw * fit, h = ih * fit;
+    ctx.drawImage(it.img, (W - w) / 2, (H - h) / 2, w, h);
+  };
+  ctx.fillStyle = PAPER;
+  ctx.fillRect(0, 0, W, H);
+  if (el < FADE && i > 0) {                      // 앞 장에서 스르륵 넘어오기
+    draw(i - 1, 1);
+    draw(i, el / FADE);
+  } else {
+    draw(i, 1);
+  }
+  ctx.globalAlpha = 1;
+  if ($('chkBar').checked) {                     // 아래 진행줄
+    ctx.fillStyle = 'rgba(255,255,255,.16)';
+    ctx.fillRect(0, H - 10, W, 10);
+    ctx.fillStyle = ACCENT;
+    ctx.fillRect(0, H - 10, W * Math.min(1, t / total), 10);
+  }
+  ctx.restore();
+}
+
+function preview() {
+  const c = $('prev'), x = c.getContext('2d');
+  x.clearRect(0, 0, c.width, c.height);
+  if (picked.length) {
+    // 훑어보기 슬라이더가 가리키는 순간을 그린다(0 이면 사실상 첫 장면)
+    const t = totalSecs() * (Number($('scrub').value) || 0) / 1000;
+    drawFrame(x, Math.min(Math.max(t, 0.001), totalSecs() - 0.001), c.width / W);
+  }
+  $('est').textContent = picked.length
+    ? `예상 길이 ${totalSecs().toFixed(1)}초` + (totalSecs() > 90 ? ' ⚠ 릴스 한도(90초)를 넘습니다' : '')
+    : '예상 길이 –';
+  $('btnMake').disabled = !picked.length;
+  $('cnt').textContent = picked.length + '장';
+}
+
+/* ── 고르기 화면 ──────────────────────────────────────────────────── */
+async function loadSrc() {
+  const j = await (await fetch('/api/insta-files')).json();
+  const host = $('src');
+  host.innerHTML = '';
+  (j.groups || []).forEach(g => {
+    const t = document.createElement('div');
+    t.className = 'grp';
+    t.textContent = g.label + ' (' + g.items.length + ')';
+    host.appendChild(t);
+    const grid = document.createElement('div');
+    grid.className = 'grid';
+    g.items.forEach(it => {
+      const im = document.createElement('img');
+      im.loading = 'lazy';
+      im.src = thumbUrl(g.dir, it.name);
+      im.title = it.name;
+      im.addEventListener('click', () => add(g.dir, it.name));
+      grid.appendChild(im);
+    });
+    host.appendChild(grid);
+  });
+  if (!(j.groups || []).length) {
+    host.innerHTML = '<p class="note">담을 그림이 없습니다. 앞장/뒷장 화면에서 카드를 만들어 '
+      + '<b>인스타 올리기</b> 로 담거나, out 폴더에 저장해 두세요.</p>';
+  }
+}
+
+/* ── 자동 담기 ────────────────────────────────────────────────────────
+   ① 「인스타 올리기」 로 담아 둔 임시 카드가 있으면 그것(지금 만들던 세트).
+   ② 없으면 out 폴더에서 **가장 최근 세트** — 제일 새 그림과 10분 안에 같이
+      저장된 것들을 한 세트로 본다(카드는 한 번에 몰아 저장되니까).
+   순서는 이름순 — 저장 이름이 01_표지, 02_… 꼴이라 표지가 먼저 온다. */
+async function autoPick() {
+  const j = await (await fetch('/api/insta-files')).json();
+  const groups = j.groups || [];
+  let g = groups.find(x => x.label.indexOf('임시') >= 0 && x.items.length);
+  let items;
+  if (g) {
+    items = g.items.slice();
+  } else {
+    g = groups.find(x => x.label === 'out' && x.items.length);
+    if (!g) { msg('담을 카드가 없습니다. 앞장/뒷장 화면에서 카드를 먼저 만드세요.', 'err'); return 0; }
+    const newest = Math.max.apply(null, g.items.map(it => it.mtime || 0));
+    items = g.items.filter(it => newest - (it.mtime || 0) <= 600);
+  }
+  items.sort((a, b) => a.name.localeCompare(b.name, 'ko', { numeric: true }));
+  picked = [];
+  items.forEach(it => add(g.dir, it.name));
+  msg(`「${g.label}」에서 ${items.length}장을 자동으로 담았습니다. 순서·시간을 다듬고 만들면 됩니다.`, 'ok');
+  return items.length;
+}
+
+function add(dir, name) {
+  const img = new Image();
+  img.src = thumbUrl(dir, name);
+  const it = { dir, name, img, bg: null };
+  img.onload = () => { it.bg = makeBg(img); preview(); drawPicked(); };
+  picked.push(it);
+  drawPicked(); preview();
+}
+
+function drawPicked() {
+  const host = $('picked');
+  host.innerHTML = '';
+  picked.forEach((it, i) => {
+    const row = document.createElement('div');
+    row.className = 'row';
+    row.innerHTML = `<img src="${thumbUrl(it.dir, it.name)}"><span class="nm"></span>
+      <input class="sec" type="number" min="1" max="8" step="0.2" placeholder="초"
+             title="이 장만 따로 보여 줄 시간(초). 비우면 오른쪽 기본값을 씁니다.">
+      <button class="sm ghost" data-a="up">▲</button>
+      <button class="sm ghost" data-a="dn">▼</button>
+      <button class="sm ghost" data-a="rm">빼기</button>`;
+    row.querySelector('.nm').textContent = (i + 1) + '. ' + it.name;
+    const sec = row.querySelector('.sec');
+    if (it.sec) sec.value = it.sec;
+    sec.addEventListener('click', ev => ev.stopPropagation());
+    sec.addEventListener('input', () => { it.sec = Number(sec.value) || 0; preview(); });
+    row.addEventListener('click', (ev) => {
+      const a = ev.target.dataset && ev.target.dataset.a;
+      if (!a) return;
+      if (a === 'rm') picked.splice(i, 1);
+      if (a === 'up' && i > 0) [picked[i - 1], picked[i]] = [picked[i], picked[i - 1]];
+      if (a === 'dn' && i < picked.length - 1) [picked[i + 1], picked[i]] = [picked[i], picked[i + 1]];
+      drawPicked(); preview();
+    });
+    host.appendChild(row);
+  });
+}
+
+/* ── 녹화 ────────────────────────────────────────────────────────────
+   mp4 를 먼저 노린다(요즘 WebView2/크롬은 MediaRecorder 가 mp4 를 안다).
+   안 되면 webm 으로 물러서고 저장 이름도 그에 맞춘다.
+
+   🔴 isTypeSupported 를 믿으면 안 된다 — 그래픽카드 없는 PC(헤드리스 크롬)에서
+   mp4 가 "지원한다"고 답하고는 **0바이트**를 내놓는 것을 실측했다(시험_릴스화면).
+   그래서 후보마다 0.5초 시험 녹화를 돌려 **데이터가 실제로 나오는** mime 을 고른다. */
+async function probeMime() {
+  const cands = [
+    'video/mp4;codecs=avc1.640028',
+    'video/mp4',
+    'video/webm;codecs=vp9',
+    'video/webm;codecs=vp8',
+    'video/webm',
+  ];
+  const c = document.createElement('canvas');
+  c.width = 64; c.height = 64;
+  const x = c.getContext('2d');
+  let alive = true;
+  (function paint(n) {                       // 캔버스가 바뀌어야 프레임이 잡힌다
+    if (!alive) return;
+    x.fillStyle = n % 2 ? '#000' : '#fff';
+    x.fillRect(0, 0, 64, 64);
+    requestAnimationFrame(() => paint(n + 1));
+  })(0);
+  try {
+    // 첫 판(0.5초)에서 전부 비면 1.2초로 한 번 더 — **막 뜬 창은 인코더 예열이
+    // 늦어** 짧은 창구가 통째로 빈 채 끝나는 일이 있다(시험_릴스화면 첫 판 실측).
+    for (const wait of [500, 1200]) {
+      for (const m of cands) {
+        let sup = false;
+        try { sup = MediaRecorder.isTypeSupported(m); } catch (e) { /* 다음 */ }
+        if (!sup) continue;
+        const got = await new Promise((res) => {
+          let bytes = 0, r;
+          try { r = new MediaRecorder(c.captureStream(30), { mimeType: m }); }
+          catch (e) { return res(false); }
+          r.ondataavailable = (e) => { bytes += e.data.size; };
+          r.onstop = () => res(bytes > 0);
+          r.onerror = () => res(false);
+          r.start(100);
+          setTimeout(() => { try { r.stop(); } catch (e) { res(false); } }, wait);
+        });
+        if (got) return m;
+      }
+    }
+  } finally { alive = false; }
+  return '';
+}
+
+async function makeReel(autoSave) {
+  if (!picked.length) return;
+  if (picked.some(it => !it.img.complete || !it.bg)) { msg('그림을 아직 읽는 중입니다. 잠깐 뒤에 다시.', 'wait'); return; }
+  $('btnMake').disabled = true;
+  $('btnAutoAll').disabled = true;
+  msg('녹화 방식을 고르는 중…', 'wait');
+  const mime = await probeMime();
+  if (!mime) {
+    $('btnMake').disabled = false;
+    $('btnAutoAll').disabled = false;
+    msg('이 창 엔진은 화면 녹화(MediaRecorder)로 영상을 못 만듭니다.', 'err');
+    return;
+  }
+  blobExt = mime.includes('mp4') ? 'mp4' : 'webm';
+
+  const c = document.createElement('canvas');
+  c.width = W; c.height = H;
+  const x = c.getContext('2d');
+  const stream = c.captureStream(FPS);
+  const rec = new MediaRecorder(stream, { mimeType: mime, videoBitsPerSecond: 12_000_000 });
+  const parts = [];
+  rec.ondataavailable = (e) => { if (e.data && e.data.size) parts.push(e.data); };
+  rec.onerror = (e) => { msg('녹화 중 오류: ' + (e.error && e.error.message || e), 'err'); };
+  rec.onstop = () => {
+    blob = new Blob(parts, { type: mime.split(';')[0] });
+    if (!blob.size) {                          // probeMime 가 있어도 마지막 그물은 친다
+      blob = null;
+      $('bar').style.display = 'none';
+      $('scrub').style.display = '';
+      $('btnMake').disabled = false;
+      $('btnAutoAll').disabled = false;
+      msg('녹화가 비어 있습니다(0바이트). 창을 최소화했다면 다시 시도하세요.', 'err');
+      return;
+    }
+    const v = $('vid');
+    v.src = URL.createObjectURL(blob);
+    v.style.display = '';
+    $('prev').style.display = 'none';
+    $('bar').style.display = 'none';
+    $('btnSave').style.display = '';
+    $('btnDl').style.display = '';
+    $('btnEdit').style.display = '';
+    $('btnMake').disabled = false;
+    $('btnAutoAll').disabled = false;
+    msg(`다 됐습니다 · ${(blob.size / 1048576).toFixed(1)} MB · ${blobExt}`
+      + (blobExt === 'webm' ? ' ⚠ 이 PC 는 mp4 녹화가 안 돼 webm 으로 만들었습니다.' : ''), 'ok');
+    if (autoSave) doSave();                    // 자동 제작이면 확인을 기다리지 않고 바로 out 에
+  };
+
+  const total = totalSecs();
+  $('btnMake').disabled = true;
+  $('btnSave').style.display = 'none';
+  $('btnDl').style.display = 'none';
+  $('btnEdit').style.display = 'none';
+  $('scrub').style.display = 'none';           // 녹화 중엔 훑기 금지(그림이 섞인다)
+  $('vid').style.display = 'none';
+  $('prev').style.display = '';
+  $('bar').style.display = '';
+  msg('녹화 중… 창을 최소화하지 마세요.', 'wait');
+  rec.start(500);
+  const t0 = performance.now();
+  const pv = $('prev').getContext('2d');
+  (function tick() {
+    const t = (performance.now() - t0) / 1000;
+    if (t >= total) { drawFrame(x, total - 0.001, 1); rec.stop(); return; }
+    drawFrame(x, t, 1);
+    drawFrame(pv, t, $('prev').width / W);       // 사람 눈에도 같은 장면
+    $('bar').firstElementChild.style.width = (100 * t / total).toFixed(1) + '%';
+    requestAnimationFrame(tick);
+  })();
+}
+$('btnMake').addEventListener('click', () => makeReel(false));
+
+async function doSave() {
+  if (!blob) return;
+  msg('저장하는 중…', 'wait');
+  try {
+    const r = await fetch('/api/reel-save?name=' + encodeURIComponent('릴스') + '&ext=' + blobExt,
+                          { method: 'POST', body: blob });
+    const j = await r.json();
+    if (!j.ok) throw new Error(j.error || '저장 실패');
+    msg(`저장했습니다 → out\\${j.name}`, 'ok');
+  } catch (e) { msg(e.message, 'err'); }
+}
+$('btnSave').addEventListener('click', doSave);
+
+/* 이 기기에 내려받기 — 폰이면 갤러리(다운로드)로 가서 인스타 앱에 바로 올릴 수 있다.
+   서버 out 폴더는 서버가 도는 기계(노트북 또는 젯슨)에 생기므로, 폰 작업에는 이쪽. */
+$('btnDl').addEventListener('click', () => {
+  if (!blob) return;
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = '릴스.' + blobExt;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+});
+
+/* 자동 제작 — 담긴 게 없으면 최근 세트를 자동으로 담고, 녹화가 끝나면 바로 저장. */
+$('btnAutoAll').addEventListener('click', async () => {
+  if (!picked.length && !(await autoPick())) return;
+  msg('그림 준비를 기다리는 중…', 'wait');
+  const t0 = performance.now();                // 썸네일·흐린 바탕이 다 구워질 때까지
+  while (picked.some(it => !it.img.complete || !it.bg)) {
+    if (performance.now() - t0 > 20000) { msg('그림 읽기가 너무 오래 걸립니다. 다시 시도하세요.', 'err'); return; }
+    await new Promise(r => setTimeout(r, 200));
+  }
+  await makeReel(true);
+});
+
+/* 편집으로 돌아가기 — 만든 영상은 그대로 두고(저장 단추 살아 있음) 화면만 되돌린다. */
+$('btnEdit').addEventListener('click', () => {
+  $('vid').style.display = 'none';
+  $('prev').style.display = '';
+  $('scrub').style.display = '';
+  $('btnEdit').style.display = 'none';
+  preview();
+});
+
+$('scrub').addEventListener('input', preview);
+$('btnOpen').addEventListener('click', () => fetch('/api/open-out'));
+['firstS', 'perS', 'chkBar'].forEach(id => $(id).addEventListener('input', preview));
+$('btnAuto').addEventListener('click', autoPick);
+
+/* ── 관련 숏폼 — 유튜브는 서버(/api/shorts)가 찾아 주고 embed 로 튼다.
+   인스타그램은 로그인 밖 검색을 막아 두어 **검색 링크만** 새 탭으로 연다. */
+function instaLink() {
+  const q = $('shortsQ').value.trim();
+  $('lnkInsta').href = 'https://www.instagram.com/explore/search/keyword/?q='
+    + encodeURIComponent(q || '뉴스 릴스');
+}
+async function findShorts() {
+  const q = $('shortsQ').value.trim();
+  const u = NAV.url();
+  const host = $('shorts');
+  if (!q && !u) {
+    host.innerHTML = '<p class="note">검색어를 넣거나, 앞장 화면에서 기사 링크를 먼저 넣어 두세요.</p>';
+    return;
+  }
+  host.innerHTML = '<p class="note">유튜브에서 찾는 중…</p>';
+  try {
+    const j = await (await fetch('/api/shorts?q=' + encodeURIComponent(q)
+      + (q ? '' : '&url=' + encodeURIComponent(u)))).json();
+    if (!q && j.term) { $('shortsQ').value = j.term; instaLink(); }
+    host.innerHTML = '';
+    (j.items || []).forEach(it => {
+      const d = document.createElement('div');
+      d.className = 'it';
+      d.title = it.title;
+      const len = it.secs
+        ? Math.floor(it.secs / 60) + ':' + String(it.secs % 60).padStart(2, '0')
+        : '쇼츠';
+      d.innerHTML = `<img loading="lazy" src="https://i.ytimg.com/vi/${it.id}/hqdefault.jpg">
+        <div class="t"><span class="d">${len}</span> </div>`;
+      d.querySelector('.t').append(it.title);       // 제목은 글자로만 (마크업 주입 방지)
+      d.addEventListener('click', () => {
+        $('player').src = 'https://www.youtube-nocookie.com/embed/'
+          + encodeURIComponent(it.id) + '?autoplay=1&playsinline=1';
+        $('playWrap').style.display = 'flex';
+      });
+      host.appendChild(d);
+    });
+    if (!(j.items || []).length) {
+      host.innerHTML = '<p class="note">못 찾았습니다. 검색어를 바꿔 보세요.</p>';
+    }
+  } catch (e) {
+    host.innerHTML = '<p class="note">유튜브에 못 닿았습니다. 인터넷 연결을 확인하세요.</p>';
+  }
+}
+function closePlay() { $('player').src = ''; $('playWrap').style.display = 'none'; }
+$('btnShorts').addEventListener('click', findShorts);
+$('shortsQ').addEventListener('keydown', ev => { if (ev.key === 'Enter') findShorts(); });
+$('shortsQ').addEventListener('input', instaLink);
+$('btnPlayClose').addEventListener('click', closePlay);
+$('playWrap').addEventListener('click', ev => { if (ev.target === $('playWrap')) closePlay(); });
+instaLink();
+
+loadSrc();
+preview();
+</script>
+</body>
+</html>

@@ -1,0 +1,650 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>뉴보대 인스타 올리기</title>
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="/static/style.css">
+<style>
+  /* 🔴 `body{overflow:hidden}` 이라 이 안이 스스로 넘겨 줘야 한다. 없으면 창(844px)보다
+     긴 내용(약 2000px)이 **잘린 채 멈춘다** — 휠을 굴려도 0px, 사진 고르기 아래로
+     못 내려간다(실측). 앞장·뒷장은 `.panel` 이 넘겨 주므로 이 화면에만 없던 구멍이었다. */
+  .wrap.one{display:block;max-width:1040px;margin:0 auto;padding:18px;overflow-y:auto;min-height:0}
+  .card{background:#12151b;border:1px solid #2a2f3a;border-radius:10px;padding:13px 14px;margin-bottom:12px}
+  .card h3{margin:0 0 9px;font-size:12.5px;color:#e8eaee}
+  .st{display:flex;gap:10px;align-items:center;font-size:12.5px;flex-wrap:wrap}
+  .dot{width:9px;height:9px;border-radius:50%;background:#7b8398;flex:none}
+  .dot.ok{background:#3ecf8e}.dot.no{background:#f0a848}.dot.bad{background:#e5534b}
+  .grp{margin-bottom:12px}
+  .grp b{font-size:11.5px;color:#9aa4ba;display:block;margin-bottom:6px}
+  .thumbs{display:flex;gap:8px;flex-wrap:wrap}
+  .th{width:96px;cursor:pointer;border:2px solid transparent;border-radius:8px;padding:3px;position:relative}
+  .th.on{border-color:#3b6ef5;background:rgba(59,110,245,.10)}
+  .th img{width:100%;aspect-ratio:4/5;object-fit:contain;border-radius:5px;display:block;background:#0f1219}
+  .th span{display:block;font-size:10px;color:#8a909e;margin-top:3px;word-break:break-all;line-height:1.35}
+  .th em{display:block;font-size:9.5px;color:#5f6675;font-style:normal}
+  .th i{position:absolute;top:5px;left:5px;width:19px;height:19px;border-radius:50%;
+        background:#3b6ef5;color:#fff;font-size:11px;font-style:normal;display:none;
+        align-items:center;justify-content:center;font-weight:700}
+  .th.on i{display:flex}
+  /* 뒷장 고르기 — 뒷장 화면까지 갔다 오지 않아도 되게 */
+  .outro-pick{margin-top:12px;padding-top:11px;border-top:1px solid #2a2f3a}
+  .outro-pick > b{font-size:11.5px;color:#9aa4ba;display:block;margin-bottom:6px}
+  .outro-pick .th canvas{width:100%;aspect-ratio:1080/1350;border-radius:5px;display:block;background:#0f1219}
+  /* 고른 것만 순서대로 다시 보여 준다 — 캐러셀은 순서가 곧 결과물이다 */
+  .picked{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px;padding-top:10px;border-top:1px solid #2a2f3a}
+  .pk{width:78px;position:relative}
+  .pk img{width:100%;aspect-ratio:4/5;object-fit:contain;border-radius:5px;display:block;background:#0f1219}
+  .pk .no{position:absolute;top:3px;left:3px;background:#3b6ef5;color:#fff;font-size:10px;
+          width:17px;height:17px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700}
+  .pk .ops{display:flex;gap:2px;margin-top:3px}
+  .pk .ops button{flex:1;padding:2px 0;font-size:10px;border-radius:4px;background:#1b2029;
+                  border:1px solid #2a2f3a;color:#c9cfdb;cursor:pointer}
+  .pk .ops button:hover{background:#242a35}
+  textarea{width:100%;min-height:200px;background:#0f1219;color:#e8eaee;border:1px solid #2a2f3a;
+           border-radius:8px;padding:10px;font:inherit;font-size:12.5px;line-height:1.75;resize:vertical}
+  input[type=text]{background:#0f1219;color:#e8eaee;border:1px solid #2a2f3a;border-radius:8px;
+                   padding:7px 9px;font:inherit;font-size:12.5px}
+  .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  .grow{flex:1;min-width:120px}
+  .note{color:#8a909e;font-size:11.5px;line-height:1.75;margin:9px 0 0}
+  .warn{border-color:#7a5b1a;background:#1b1710}
+  .warn .note{color:#e0b464}
+  .bad{color:#f0a848}
+  .danger{background:#7f1d1d;border-color:#7f1d1d;color:#fff}
+  .danger:disabled{opacity:.4}
+  pre.log{background:#0f1219;border:1px solid #2a2f3a;border-radius:8px;padding:10px;
+          font-size:11.5px;line-height:1.7;color:#9aa4ba;white-space:pre-wrap;max-height:230px;overflow:auto;margin:9px 0 0}
+  .cnt{font-size:11.5px;color:#7b8398}
+  /* 문구 후보 — 앞장 만들기의 제목 추천과 같은 결(여러 개 주고 고치게 한다) */
+  .cands{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px;margin-top:10px}
+  .cand{background:#0f1219;border:1px solid #2a2f3a;border-radius:8px;padding:9px 10px;cursor:pointer;text-align:left}
+  .cand:hover{border-color:#3b6ef5}
+  .cand.on{border-color:#3b6ef5;background:rgba(59,110,245,.10)}
+  .cand b{display:block;font-size:11.5px;color:#e8eaee;margin-bottom:2px}
+  .cand small{display:block;font-size:10px;color:#7b8398;line-height:1.5;margin-bottom:5px}
+  .cand p{margin:0;font-size:10.5px;color:#9aa4ba;line-height:1.55;white-space:pre-wrap;
+          max-height:76px;overflow:hidden}
+  .cand .n{display:block;margin-top:5px;font-size:10px;color:#5f6675}
+  .cand .n.over{color:#f0a848}
+  .sub{border-top:1px solid #2a2f3a;margin-top:11px;padding-top:11px}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="brand">뉴보대 <span>인스타 올리기</span></div>
+  <div class="top-actions">
+    <span data-nav-slot></span>
+    <a class="ghost" data-carry="/static/feed.html" href="/static/feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">피드 글</a>
+    <a class="ghost" href="/static/outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">뒷장 만들기</a>
+    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">저장 폴더</a>
+    <a class="ghost" data-carry="/" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">← 앞장 만들기</a>
+  </div>
+</header>
+
+<div class="wrap one">
+
+  <div class="card">
+    <h3>1. 크롬 · 로그인</h3>
+    <div class="st">
+      <span class="dot" id="dot"></span>
+      <span id="stTxt" class="grow">확인 중…</span>
+      <button id="btnLaunch" class="ghost">크롬 열기</button>
+      <button id="btnCheck" class="ghost">상태 확인</button>
+    </div>
+    <p class="note">
+      이 도구는 <b>비밀번호를 대신 넣지 않습니다.</b> `크롬 열기` 를 누르면 전용 창이 뜨니
+      거기서 <b>@news_univ 로 직접 로그인</b>해 주세요. 한 번 하면 다음부터는 그대로 열립니다.
+      (평소 쓰는 크롬과 프로필이 분리돼 있어 기존 로그인은 건드리지 않습니다.)
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>2. 올릴 그림 고르기 <span class="cnt" id="cnt">0장</span></h3>
+    <div class="row" style="margin-bottom:10px">
+      <input type="text" id="q" class="grow" placeholder="파일 이름으로 거르기 (예: 표지)">
+      <select id="sort" class="ghost" style="padding:7px 9px;border-radius:8px">
+        <option value="new">새로 만든 것 먼저</option>
+        <option value="name">이름 순서</option>
+      </select>
+      <button id="btnReload" class="ghost">그림 다시 읽기</button>
+      <button id="btnClearPick" class="ghost">고른 것 비우기</button>
+      <button id="btnClearStage" class="ghost" hidden>임시 그림 지우기</button>
+    </div>
+    <div id="groups"></div>
+
+    <div class="outro-pick">
+      <b>뒷장 5종 — 하나 고르면 그대로 담깁니다</b>
+      <div class="thumbs" id="outroThumbs"></div>
+      <p class="note" id="outroMsg">
+        `뒷장 만들기` 화면에서 맞춰 둔 문구·배경·워터마크가 그대로 반영됩니다.
+        저장은 하지 않습니다.
+      </p>
+    </div>
+
+    <div class="picked" id="picked" hidden></div>
+    <p class="note" id="stageMsg"></p>
+    <p class="note" id="ratio"></p>
+    <p class="note">
+      누른 <b>순서대로</b> 올라갑니다. 최대 10장. 순서는 아래 줄의 <b>←  →</b> 로 바꿉니다.
+      캐러셀은 <b>첫 장 비율을 기준으로 나머지를 자르므로</b> 크기가 다른 그림을 섞지 마세요.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>3. 문구 고르기</h3>
+    <div class="row">
+      <input type="text" id="capUrl" class="grow" placeholder="기사 주소를 넣으면 그 기사로 문구를 만듭니다 (비워 두면 빈 틀 5개)">
+      <button id="btnIdeas">문구 5개 추천</button>
+      <button id="btnSaved" class="ghost">저장해 둔 글</button>
+    </div>
+    <p class="note" id="capMsg">
+      앞장 만들 때처럼 <b>후보를 5개</b> 뽑아 줍니다. 눌러서 고른 뒤 아래 칸에서 고쳐 쓰세요.
+    </p>
+    <details style="margin-top:8px">
+      <summary style="font-size:11.5px;color:#9aa4ba;cursor:pointer">기사 본문을 직접 붙여넣기 (언론사가 막을 때)</summary>
+      <textarea id="capBody" style="min-height:110px;margin-top:7px" placeholder="기사 본문을 붙여 넣으세요."></textarea>
+    </details>
+    <div class="cands" id="cands"></div>
+
+    <div class="sub">
+      <div class="row" style="margin-bottom:7px">
+        <b style="font-size:11.5px;color:#9aa4ba" class="grow">올라갈 문구</b>
+        <button id="btnCopy" class="ghost">복사</button>
+        <button id="btnSaveTxt" class="ghost">글로 저장</button>
+      </div>
+      <textarea id="cap" placeholder="위에서 후보를 고르거나, 여기에 직접 쓰세요."></textarea>
+      <p class="note"><span id="capLen">0</span>자 · 인스타 캡션은 2,200자까지입니다.
+        <span id="capOver" class="bad"></span></p>
+    </div>
+  </div>
+
+  <div class="card warn">
+    <h3>4. 올리기</h3>
+    <div class="row">
+      <button id="btnDry" class="grow">시험 실행 (공유 안 누름)</button>
+      <button id="btnGo" class="danger" disabled>실제로 게시하기</button>
+    </div>
+    <p class="note">
+      <b>시험 실행</b>은 그림 넣기 · 다음 · 문구 입력까지만 하고 `공유하기` 앞에서 멈춥니다.
+      먼저 이걸 돌려서 화면이 제대로 넘어가는지 보고, 그 다음에 게시하세요.
+      시험이 한 번이라도 성공해야 `실제로 게시하기` 가 열립니다.
+    </p>
+    <p class="note">
+      🔴 자동화는 인스타 약관 밖입니다. 새 계정에서 자주 돌리면 기능 제한이 걸릴 수 있으니
+      <b>한 번에 하나씩, 사람이 보는 앞에서</b> 쓰세요.
+    </p>
+    <pre class="log" id="log" hidden></pre>
+  </div>
+
+</div>
+
+<script src="/static/hiddenmark.js"></script>
+<script src="/static/prog.js"></script>
+<script src="/static/nav.js"></script>
+<script src="/static/outro.js"></script>
+<script src="/static/outrostate.js"></script>
+<script>
+const $ = s => document.querySelector(s);
+let picks = [];          // [{dir,name}] 누른 순서 유지
+let groups = [];         // 서버가 준 폴더별 목록 (거르기·정렬은 화면에서)
+let dryOk = false;
+// 앞장·뒷장에서 **저장을 거치지 않고** 담아 온 것. 목록을 읽은 뒤에 골라야 한다.
+let pendingStage = NAV.takeStage();
+let stageDir = '';
+const ratios = {};       // 'dir|name' → 가로/세로. 그림이 실제로 뜬 뒤에만 채워진다
+
+const key = p => p.dir + '|' + p.name;
+const thumbUrl = p => '/api/insta-thumb?dir=' + encodeURIComponent(p.dir) +
+                      '&name=' + encodeURIComponent(p.name);
+
+function setStatus(cls, txt){
+  $('#dot').className = 'dot ' + cls;
+  $('#stTxt').textContent = txt;
+}
+
+async function jget(u){ const r = await fetch(u); return r.json(); }
+async function jpost(u, b){
+  const r = await fetch(u, {method:'POST', headers:{'Content-Type':'application/json'},
+                           body: JSON.stringify(b||{})});
+  return r.json();
+}
+
+async function check(){
+  setStatus('', '확인 중…');
+  const d = await jget('/api/insta-status');
+  if(!d.chrome){ setStatus('no', '크롬이 안 떠 있습니다 — `크롬 열기` 를 누르세요.'); return; }
+  if(!d.logged_in){ setStatus('no', '크롬은 떴지만 로그인이 안 돼 있습니다. 그 창에서 로그인해 주세요.'); return; }
+  setStatus('ok', '로그인됨' + (d.user ? ' — ' + d.user : ''));
+}
+
+/* ── 2. 그림 고르기 ─────────────────────────────────────────────────────
+   그림을 **실제로 보여 준다.** 이름만으로는 `01_표지` 와 `02_시사` 를 못 가른다.
+
+   🔴 다만 원본을 그대로 <img> 에 걸면 안 된다 — 1080×1350 PNG 열다섯 장이면
+   화면 그리는 쪽이 통째로 멎는다(실측: 그 상태에서 스크린샷이 30초 시간 초과).
+   그래서 ① 화면에 들어온 것만 ② 두 장씩만 ③ **220px 로 줄여 받아** 캐시한다.
+   줄이는 일은 `createImageBitmap(resizeWidth)` 이 디코딩하면서 해 주므로
+   큰 그림이 통째로 메모리에 올라오지 않는다. */
+const small = {};              // 'dir|name' → 줄인 그림(dataURL)
+const thumbQ = [];
+let thumbRun = 0;
+
+const lazy = new IntersectionObserver(es => {
+  es.forEach(e => {
+    if(!e.isIntersecting) return;
+    lazy.unobserve(e.target);
+    queueThumb(e.target);
+  });
+}, {rootMargin: '150px'});
+
+function queueThumb(img){
+  const p = {dir: img.dataset.dir, name: img.dataset.name};
+  if(small[key(p)]){ img.src = small[key(p)]; return; }
+  thumbQ.push([p, img]);
+  pumpThumbs();
+}
+
+async function shrink(p){
+  const b = await (await fetch(thumbUrl(p))).blob();
+  const bm = await createImageBitmap(b, {resizeWidth: 220, resizeQuality: 'medium'});
+  const cv = document.createElement('canvas');
+  cv.width = bm.width; cv.height = bm.height;
+  cv.getContext('2d').drawImage(bm, 0, 0);
+  bm.close();
+  return cv.toDataURL('image/jpeg', 0.82);
+}
+
+function pumpThumbs(){
+  while(thumbRun < 2 && thumbQ.length){
+    const [p, img] = thumbQ.shift();
+    thumbRun++;
+    shrink(p)
+      .then(url => { small[key(p)] = url; img.src = url; })
+      // 줄이기가 안 되는 환경(옛 엔진)이면 원본을 그대로 건다 — 안 보이는 것보다 낫다
+      .catch(() => { img.src = thumbUrl(p); })
+      .finally(() => { thumbRun--; pumpThumbs(); });
+  }
+}
+
+async function loadFiles(){
+  const d = await jget('/api/insta-files');
+  groups = d.groups || [];
+  const stage = groups.find(g => g.label.indexOf('임시') >= 0);
+  stageDir = stage ? stage.dir : '';
+  $('#btnClearStage').hidden = !stage;
+  drawFiles();
+  if(pendingStage){ applyStage(pendingStage); pendingStage = null; }
+}
+
+/* 담아 온 것을 **담긴 순서대로 전부** 골라 둔다.
+   이번에 담은 것만 고르면 안 된다 — 앞장·뒷장을 나눠 담으면 그게 곧 캐러셀이다.
+   화면을 넘어오자마자 고를 것과 문구가 다 차 있어야 '저장 없이 올리기'가 성립한다. */
+function applyStage(st){
+  const dir = st.dir || stageDir;
+  const all = (groups.find(g => g.dir === dir)?.items || [])
+    .map(it => it.name).sort((a, b) => a.localeCompare(b, 'ko'));   // 이름 앞 번호 = 담긴 순서
+  picks = all.map(n => ({dir, name: n}));
+  paint();
+  if(st.caption && !$('#cap').value.trim()){
+    $('#cap').value = st.caption;
+    updateCap();
+  }
+  const n = picks.length;
+  const added = st.added || 0;
+  if(!n){
+    $('#stageMsg').textContent = '담아 온 그림을 못 찾았습니다. 앞장·뒷장에서 다시 눌러 주세요.';
+    return;
+  }
+  $('#stageMsg').textContent =
+    (added && n > added ? '방금 ' + added + '장을 더 담아 모두 ' + n + '장입니다. '
+                        : '지금 화면에서 ' + n + '장을 담아 왔습니다. ') +
+    'out 폴더에 저장하지 않았습니다. 더 담으려면 앞장·뒷장에서 다시 누르세요.';
+  // 문구 쪽 안내는 후보를 다 뽑은 뒤에 덮어써야 한다(뽑는 쪽도 같은 자리에 쓴다)
+  capNote = st.caption
+    ? (st.fromCard ? '문구는 「카드에 적은 글」로 초안을 깔아 뒀습니다 — 그대로 올리지 말고 고쳐 쓰세요. 아래 후보로 갈아 끼울 수도 있습니다.'
+                   : '피드 글 화면에서 쓴 글을 그대로 가져왔습니다. 아래에서 고쳐 쓰거나 후보로 갈아 끼우세요.')
+    : '';
+}
+
+function drawFiles(){
+  const q = $('#q').value.trim().toLowerCase();
+  const bySort = $('#sort').value;
+  const box = $('#groups'); box.innerHTML = '';
+  let shown = 0;
+  groups.forEach(g => {
+    let items = g.items.filter(it => !q || it.name.toLowerCase().includes(q));
+    // 임시 그룹의 이름 앞 번호는 **담긴 순서**다. 여기서만은 정렬 설정과 무관하게
+    // 그 순서로 보여 준다 — 캐러셀 순서를 눈으로 확인하려고 담은 것이므로.
+    const byName = (a, b) => a.name.localeCompare(b.name, 'ko');
+    items = items.slice().sort((g.dir === stageDir || bySort === 'name')
+      ? byName
+      : (a, b) => (b.mtime || 0) - (a.mtime || 0));
+    if(!items.length) return;
+    shown += items.length;
+    const wrap = document.createElement('div'); wrap.className = 'grp';
+    wrap.dataset.dir = g.dir;
+    const b = document.createElement('b'); b.textContent = g.label + ' — ' + g.dir;
+    wrap.appendChild(b);
+    const row = document.createElement('div'); row.className = 'thumbs';
+    items.forEach(it => {
+      const el = document.createElement('div'); el.className = 'th';
+      el.dataset.dir = g.dir; el.dataset.name = it.name;
+      el.innerHTML = '<img alt=""><i></i><span></span><em></em>';
+      const img = el.querySelector('img');
+      img.dataset.dir = g.dir; img.dataset.name = it.name;
+      // 크기는 서버가 머리표에서 읽어 준다 — 그림을 다 불러오기 전에 비율을 알 수 있다
+      if(it.w && it.h){
+        ratios[g.dir + '|' + it.name] = it.w / it.h;
+        el.querySelector('em').textContent = it.w + '×' + it.h;
+      }
+      // 못 읽는 파일이면 조용히 빈칸으로 두지 않고 그렇다고 말한다
+      img.onerror = () => { el.querySelector('em').textContent = '못 읽음'; };
+      lazy.observe(img);
+      el.querySelector('span').textContent = it.name;
+      el.onclick = () => toggle(g.dir, it.name);
+      row.appendChild(el);
+    });
+    wrap.appendChild(row); box.appendChild(wrap);
+  });
+  if(!shown){
+    box.innerHTML = '<p class="note">' +
+      (q ? '「' + q + '」 에 맞는 그림이 없습니다.' : '올릴 그림이 없습니다. 먼저 앞장·뒷장을 저장하세요.') +
+      '</p>';
+  }
+  paint();
+}
+
+function toggle(dir, name){
+  const i = picks.findIndex(p => p.dir === dir && p.name === name);
+  if(i >= 0) picks.splice(i, 1);
+  else {
+    if(picks.length >= 10){ alert('캐러셀은 최대 10장입니다.'); return; }
+    picks.push({dir, name});
+  }
+  paint();
+}
+
+function move(i, d){
+  const j = i + d;
+  if(j < 0 || j >= picks.length) return;
+  [picks[i], picks[j]] = [picks[j], picks[i]];
+  paint();
+}
+
+function paint(){
+  const order = {};
+  picks.forEach((p, n) => order[key(p)] = n + 1);
+  // 🔴 `#groups` 안으로 좁힌다 — 뒷장 5종 썸네일도 같은 `.th` 를 쓰는데 그쪽에는
+  //    번호 배지(`i`)가 없어서, 전부를 훑으면 `null.textContent` 로 넘어진다(실측).
+  document.querySelectorAll('#groups .th').forEach(el => {
+    const n = order[el.dataset.dir + '|' + el.dataset.name];
+    el.classList.toggle('on', !!n);
+    el.querySelector('i').textContent = n || '';
+  });
+  $('#cnt').textContent = picks.length + '장';
+
+  const box = $('#picked'); box.innerHTML = ''; box.hidden = !picks.length;
+  picks.forEach((p, i) => {
+    const el = document.createElement('div'); el.className = 'pk';
+    el.innerHTML = '<span class="no"></span><img alt=""><div class="ops">' +
+                   '<button title="앞으로">←</button><button title="뒤로">→</button>' +
+                   '<button title="빼기">×</button></div>';
+    el.querySelector('.no').textContent = i + 1;
+    const img = el.querySelector('img');
+    img.title = p.name;
+    // 줄여 둔 것을 다시 쓴다. 아직 없으면(거른 목록 밖에서 고른 경우) 그때 만든다.
+    img.dataset.dir = p.dir; img.dataset.name = p.name;
+    queueThumb(img);
+    const bs = el.querySelectorAll('button');
+    bs[0].onclick = () => move(i, -1);
+    bs[1].onclick = () => move(i, 1);
+    bs[2].onclick = () => toggle(p.dir, p.name);
+    box.appendChild(el);
+  });
+  paintRatio();
+
+  // 그림이나 문구가 바뀌면 시험 결과는 무효다 — 다시 시험해야 게시가 열린다
+  invalidate();
+}
+
+/* 인스타는 **첫 장 비율로 나머지를 자른다.** 섞였는지는 그림을 실제로 띄운
+   지금은 잴 수 있으므로, 경고문으로만 두지 말고 숫자로 알려 준다. */
+function paintRatio(){
+  const el = $('#ratio');
+  const known = picks.map(p => ratios[key(p)]).filter(r => r);
+  if(picks.length < 2 || known.length < 2){ el.textContent = ''; el.className = 'note'; return; }
+  const first = ratios[key(picks[0])];
+  if(!first){ el.textContent = ''; return; }
+  const odd = picks.filter(p => ratios[key(p)] && Math.abs(ratios[key(p)] - first) / first > 0.01);
+  if(!odd.length){
+    el.className = 'note';
+    el.textContent = '✔ 고른 ' + known.length + '장이 모두 같은 비율입니다.';
+  } else {
+    el.className = 'note bad';
+    el.textContent = '⚠ 비율이 다른 그림이 ' + odd.length + '장 섞였습니다 (' +
+      odd.map(p => p.name).join(', ') + '). 첫 장 기준으로 잘려 나갑니다.';
+  }
+}
+
+/* ── 2-1. 뒷장 5종 고르기 ────────────────────────────────────────────────
+   뒷장 하나 담자고 화면을 옮겼다 오는 게 번거로워서 여기서 바로 고르게 한다.
+   그리는 것은 `뒷장 만들기` 와 **같은 코드·같은 설정**(outro.js + outrostate.js)이라
+   화면에서 보던 것과 올라가는 그림이 갈리지 않는다. 워터마크도 저장 때와 같은 길
+   (`HIDDEN.exportCanvas`)을 거친다. */
+let OST = null, ostImgs = {logoImg: null, bgImg: null};
+
+async function drawOutroThumbs(){
+  const box = $('#outroThumbs');
+  if(typeof OUTRO === 'undefined' || typeof OUTROST === 'undefined'){
+    box.innerHTML = '<p class="note">뒷장 그리기 코드를 못 불러왔습니다.</p>';
+    return;
+  }
+  OST = OUTROST.load();
+  ostImgs = await OUTROST.images(OST);
+  await OUTRO.loadFonts();
+  box.innerHTML = '';
+  OUTRO.TEMPLATES.forEach((t, i) => {
+    const el = document.createElement('div');
+    el.className = 'th';
+    el.innerHTML = '<canvas width="216" height="270"></canvas><span></span>';
+    el.querySelector('span').textContent = (i + 1) + '. ' + (t.name || t.id);
+    const c = el.querySelector('canvas');
+    OUTRO.draw(c.getContext('2d'), t.id, OUTROST.opts(OST, t.id, ostImgs.logoImg, ostImgs.bgImg),
+               c.width / OUTRO.W);
+    el.title = '눌러서 담기';
+    el.onclick = () => addOutro(t.id, el);
+    box.appendChild(el);
+  });
+}
+
+async function addOutro(id, el){
+  const p = PROG.start(el, 'PNG 만드는 중');   // 막대는 누른 그림 바로 아래에 뜬다
+  try{
+    const c = document.createElement('canvas');
+    c.width = OUTRO.W; c.height = OUTRO.H;
+    OUTRO.draw(c.getContext('2d'), id, OUTROST.opts(OST, id, ostImgs.logoImg, ostImgs.bgImg));
+    const name = OUTROST.fileName(OST, id);
+    await p.at(0.35, 'PNG 만드는 중');
+    const out = (typeof HIDDEN !== 'undefined') ? HIDDEN.exportCanvas(c, {name}) : c;
+    await p.at(0.55, '보내는 중');
+    const d = await PROG.postJSON('/api/insta-stage',
+      {items: [{name, dataUrl: out.toDataURL('image/png')}]},
+      f => p.at(0.55 + 0.4 * f, '보내는 중'));
+    // 담은 것은 **뒤에** 붙인다 — 뒷장은 캐러셀 마지막 장이다
+    (d.names || []).forEach(n => picks.push({dir: d.dir, name: n}));
+    await loadFiles();
+    p.done('담았습니다');
+    $('#outroMsg').textContent = '「' + (OUTRO.byId[id].name || id) + '」 을(를) 담았습니다. ' +
+      '아래 순서 줄에서 자리를 바꿀 수 있습니다.';
+  } catch(e){
+    p.fail(e.message);
+    $('#outroMsg').textContent = '담지 못했습니다: ' + e.message;
+  }
+}
+
+/* ── 3. 문구 ─────────────────────────────────────────────────────────── */
+let cands = [];
+let capNote = '';        // 담아 온 문구에 대한 안내(후보를 뽑은 뒤에 띄운다)
+
+function drawCands(list, msg){
+  cands = list || [];
+  const box = $('#cands'); box.innerHTML = '';
+  cands.forEach((c, i) => {
+    const el = document.createElement('button');
+    el.className = 'cand'; el.type = 'button';
+    el.innerHTML = '<b></b><small></small><p></p><span class="n"></span>';
+    el.querySelector('b').textContent = (i + 1) + '. ' + (c.name || '후보');
+    el.querySelector('small').textContent = c.note || '';
+    el.querySelector('p').textContent = c.text;
+    const n = el.querySelector('.n');
+    n.textContent = c.chars + '자' + (c.warn ? ' · 2,200자 넘음' : '');
+    if(c.warn) n.classList.add('over');
+    el.onclick = () => {
+      $('#cap').value = c.text;
+      updateCap();
+      document.querySelectorAll('.cand').forEach(x => x.classList.toggle('on', x === el));
+      $('#capMsg').textContent = '「' + (c.name || '후보') +
+        '」 을(를) 넣었습니다. 아래 칸에서 고쳐 쓴 뒤 4번으로 가세요.';
+    };
+    box.appendChild(el);
+  });
+  if(msg) $('#capMsg').textContent = msg;
+}
+
+async function ideas(){
+  const url = $('#capUrl').value.trim();
+  const body = $('#capBody').value.trim();
+  $('#btnIdeas').disabled = true;
+  $('#capMsg').textContent = url && !body ? '기사를 읽는 중…' : '문구를 만드는 중…';
+  try{
+    const d = await jpost('/api/insta-captions', {url, text: body});
+    if(!d.ok){ $('#capMsg').textContent = d.error || '문구를 만들지 못했습니다.'; return; }
+    drawCands(d.items, d.blank
+      ? '기사를 안 주셔서 「채울 자리를 남긴 틀」 5개를 뽑았습니다. 대괄호 [ ] 를 채워 쓰세요.'
+      : '「' + (d.main.title || '기사') + '」 로 후보 ' + d.items.length + '개를 뽑았습니다. 눌러서 고르세요.');
+  } catch(e){
+    $('#capMsg').textContent = '요청 실패: ' + e.message;
+  } finally { $('#btnIdeas').disabled = false; }
+}
+
+async function savedTexts(){
+  const d = await jget('/api/insta-texts');
+  if(!d.ok || !(d.items||[]).length){
+    $('#capMsg').textContent = '저장해 둔 글이 없습니다. `피드 글` 화면에서 [글로 저장] 을 눌러 두면 여기 뜹니다.';
+    drawCands([]);
+    return;
+  }
+  drawCands(d.items.map(it => ({
+    name: it.name.replace(/\.txt$/i, ''), note: '저장해 둔 글', text: it.text,
+    chars: it.chars, warn: it.chars > 2200
+  })), '저장해 둔 글 ' + d.items.length + '개입니다. 눌러서 고르세요.');
+}
+
+function updateCap(){
+  const n = $('#cap').value.length;
+  $('#capLen').textContent = n;
+  $('#capOver').textContent = n > 2200 ? '· 2,200자를 넘어 인스타가 자릅니다.' : '';
+  invalidate();
+}
+
+function invalidate(){ dryOk = false; $('#btnGo').disabled = true; }
+
+/* ── 4. 올리기 ───────────────────────────────────────────────────────── */
+async function run(dry){
+  const cap = $('#cap').value.trim();
+  if(!picks.length){ alert('올릴 그림을 고르세요.'); return; }
+  if(!cap){ alert('문구를 넣으세요.'); return; }
+  if(!dry && !confirm('@news_univ 에 ' + picks.length + '장을 실제로 게시합니다.\n되돌릴 수 없습니다. 진행할까요?')) return;
+  const log = $('#log'); log.hidden = false;
+  log.textContent = (dry ? '시험 실행' : '게시') + ' 시작…\n';
+  $('#btnDry').disabled = $('#btnGo').disabled = true;
+  try{
+    const d = await jpost('/api/insta-post', {files: picks, caption: cap, dry_run: dry});
+    (d.log||[]).forEach(l => log.textContent += '  · ' + l + '\n');
+    if(d.ok){
+      // 자르기를 못 맞췄으면 화면은 멀쩡히 넘어가고 **결과만 잘린다** — 꼭 말해 준다
+      if(!d.crop){
+        log.textContent += '\n🔴 자르기를 자동으로 못 맞췄습니다. 그대로 게시하면 ' +
+          '4:5 카드의 좌우가 잘립니다. 크롬 창에서 자르기 아이콘을 눌러 `원본` 을 고르세요.\n';
+      }
+      log.textContent += dry ? '\n시험 통과 — `실제로 게시하기` 가 열렸습니다.' +
+                               (d.crop ? ' (자르기 ' + d.crop + ')' : '') + '\n'
+                             : '\n게시 완료' + (d.confirmed ? ' (화면에서 확인됨)' : ' (확인 문구는 못 봤습니다 — 계정에서 직접 확인해 주세요)') + '\n';
+      if(dry){ dryOk = true; }
+    } else {
+      log.textContent += '\n막혔습니다: ' + d.error + '\n';
+      dryOk = false;
+    }
+  } catch(e){
+    log.textContent += '\n요청 실패: ' + e.message + '\n';
+  } finally {
+    $('#btnDry').disabled = false;
+    $('#btnGo').disabled = !dryOk;
+    log.scrollTop = log.scrollHeight;
+  }
+}
+
+$('#btnCheck').onclick = check;
+$('#btnReload').onclick = loadFiles;
+$('#btnClearPick').onclick = () => { picks = []; paint(); };
+$('#btnClearStage').onclick = async () => {
+  if(!confirm('앞장·뒷장에서 담아 온 임시 그림을 지웁니다.\nout 폴더에 저장한 카드는 그대로입니다.')) return;
+  const d = await jpost('/api/insta-stage', {clear: true});
+  picks = picks.filter(p => p.dir !== stageDir);
+  await loadFiles();
+  $('#capMsg').textContent = d.ok ? '임시 그림 ' + (d.cleared || 0) + '장을 지웠습니다.'
+                                  : (d.error || '지우지 못했습니다.');
+};
+$('#q').oninput = drawFiles;
+$('#sort').onchange = drawFiles;
+$('#btnLaunch').onclick = async () => {
+  $('#btnLaunch').disabled = true;
+  setStatus('', '크롬 띄우는 중…');
+  const d = await jpost('/api/insta-launch');
+  $('#btnLaunch').disabled = false;
+  if(!d.ok){ setStatus('bad', '크롬을 띄우지 못했습니다: ' + (d.error||'')); return; }
+  setTimeout(check, 1500);
+};
+$('#btnIdeas').onclick = ideas;
+$('#btnSaved').onclick = savedTexts;
+$('#cap').oninput = updateCap;
+$('#btnCopy').onclick = async () => {
+  const t = $('#cap').value;
+  if(!t.trim()){ $('#capMsg').textContent = '복사할 문구가 없습니다.'; return; }
+  try{ await navigator.clipboard.writeText(t); $('#capMsg').textContent = '복사했습니다.'; }
+  catch(e){ $('#cap').select(); document.execCommand('copy'); $('#capMsg').textContent = '복사했습니다.'; }
+};
+$('#btnSaveTxt').onclick = async () => {
+  const t = $('#cap').value;
+  if(!t.trim()){ $('#capMsg').textContent = '저장할 문구가 없습니다.'; return; }
+  const d = await jpost('/api/save-text', {text: t, name: '인스타문구'});
+  $('#capMsg').textContent = d.ok ? '저장했습니다 → ' + d.path : (d.error || '저장하지 못했습니다.');
+};
+$('#btnDry').onclick = () => run(true);
+$('#btnGo').onclick = () => run(false);
+$('#capUrl').oninput = () => NAV.setUrl($('#capUrl').value);
+NAV.mount();
+
+/* 다른 화면에서 넣은 기사 링크를 이어받는다. 링크로 넘어온 경우(`?url=`)에만
+   후보까지 바로 뽑는다 — 화면을 열 때마다 언론사에 요청을 보내면 곤란하다. */
+const qUrl = new URLSearchParams(location.search).get('url');
+if(qUrl || NAV.url()){
+  $('#capUrl').value = qUrl || NAV.url();
+  NAV.setUrl($('#capUrl').value);
+}
+
+/* 🔴 후보를 **저절로** 깔아 둔다. 전에는 사람이 `문구 5개 추천` 을 눌러야만 나와서,
+   담아 오면 문구 칸도 후보도 비어 있었다 — 고를 게 없으니 '문구 고르기' 단계가
+   있으나 마나였다(실측). 기사 주소가 있으면 그 기사로, 없으면 빈 틀 5개라도 깐다. */
+loadFiles().then(async () => {
+  if(!cands.length) await ideas();
+  if(capNote) $('#capMsg').textContent = capNote;
+});
+drawOutroThumbs();
+check();
+</script>
+</body>
+</html>

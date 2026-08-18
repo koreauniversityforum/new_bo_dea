@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>뉴보대 카드뉴스 메이커</title>
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="brand">뉴보대 <span>카드뉴스 메이커</span></div>
+  <div class="top-actions">
+    <a class="ghost" data-carry="/static/feed.html" href="/static/feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">피드 글 →</a>
+    <a class="ghost" href="/static/outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">뒷장 만들기 →</a>
+    <span data-insta-slot></span>
+    <button id="btnDownload" class="primary">PNG 내려받기</button>
+    <button id="btnSave">out 폴더에 저장</button>
+    <button id="btnOpenOut" class="ghost">폴더 열기</button>
+    <a class="ghost" href="/static/mark.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">워터마크</a>
+    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">폴더 정리</a>
+    <button id="btnNew" class="ghost" title="글·사진·문구만 비웁니다. 디자인(테마·글꼴·자리)은 그대로 둡니다.">새 기사</button>
+    <button id="btnReset" class="ghost">초기화</button>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- ────────── 좌: 내용 ────────── -->
+  <section class="panel left">
+    <h2>1. 기사 넣기</h2>
+    <label class="lbl">기사 URL</label>
+    <div class="row">
+      <input id="inUrl" type="text" placeholder="https://n.news.naver.com/... (붙여넣기)">
+      <button id="btnFetch" class="primary sm">가져오기</button>
+    </div>
+    <label class="lbl">또는 기사 본문 직접 붙여넣기</label>
+    <textarea id="inBody" rows="7" placeholder="기사 전문을 그대로 붙여넣으세요. URL이 막힌 언론사는 이쪽을 쓰면 됩니다."></textarea>
+    <div class="row">
+      <input id="inTitle" type="text" placeholder="원문 제목(선택)">
+      <button id="btnAnalyze" class="sm">본문 분석</button>
+    </div>
+    <div id="fetchMsg" class="msg"></div>
+
+    <h2>2. 문구 고르기 <span class="hint">후보를 클릭 → 아래에서 자유롭게 수정</span></h2>
+
+    <div class="field">
+      <div class="fhead"><label>위 띠 문구 <em>카드 맨 위 띠 · 속보 · BREAKING NEWS</em></label>
+        <button class="mini" data-band-toggle="top">표시</button></div>
+      <input id="txtBandTop" type="text" class="edit" placeholder="스타일 모드를 고르면 그 브랜드 문구가 들어옵니다 (예: MONEY LETTER)">
+    </div>
+
+    <div class="field">
+      <div class="fhead"><label>후킹 문구 <em>상단 작은 줄</em></label>
+        <button class="mini" data-toggle="kicker">표시</button></div>
+      <div class="chips" id="chipsHook"></div>
+      <textarea id="txtKicker" rows="2" class="edit" data-layer="kicker"></textarea>
+    </div>
+
+    <div class="field">
+      <div class="fhead"><label>제목 <em>가장 큰 글씨 · **별표** 로 감싸면 강조색</em></label>
+        <button class="mini" data-toggle="title">표시</button></div>
+      <div class="chips" id="chipsTitle"></div>
+      <textarea id="txtTitle" rows="3" class="edit" data-layer="title"></textarea>
+    </div>
+
+    <div class="field">
+      <div class="fhead"><label>요약문 <em>하단 설명</em></label>
+        <button class="mini" data-toggle="body">표시</button></div>
+      <div class="chips" id="chipsSummary"></div>
+      <textarea id="txtBody" rows="3" class="edit" data-layer="body"></textarea>
+    </div>
+
+    <div class="field">
+      <div class="fhead"><label>출처 표기 <em>선택</em></label>
+        <button class="mini" data-toggle="credit">표시</button></div>
+      <textarea id="txtCredit" rows="1" class="edit" data-layer="credit"></textarea>
+    </div>
+
+    <div class="field">
+      <div class="fhead"><label>아래 띠 문구 <em>카드 맨 아래 띠 · 날짜 · 시리즈명</em></label>
+        <button class="mini" data-band-toggle="bottom">표시</button></div>
+      <input id="txtBandBottom" type="text" class="edit" placeholder="예: 오늘의 뉴스 · 2026.08.18">
+    </div>
+
+    <h2>3. 사진</h2>
+    <div class="row">
+      <button id="btnPick" class="sm">내 PC에서 고르기</button>
+      <button id="btnClearBg" class="sm ghost">사진 비우기</button>
+      <input id="filePick" type="file" accept="image/*" hidden>
+    </div>
+    <p class="tip">캔버스 위로 이미지를 <b>끌어다 놓거나</b> <b>Ctrl+V</b> 로 붙여넣어도 됩니다.
+       사진 위에서 <b>드래그=이동</b>, <b>휠=확대/축소</b>.</p>
+
+    <div class="subhead">기사 속 사진 <span id="imgCount"></span></div>
+    <div id="gridArticle" class="thumbs"></div>
+
+    <div class="subhead">사진 검색 <span class="hint">(키 없이 됩니다)</span></div>
+    <div class="row">
+      <select id="stockProvider" style="flex:0 0 128px">
+        <option value="openverse">Openverse</option>
+        <option value="wikimedia">위키미디어 공용</option>
+        <option value="pexels">Pexels (키 필요)</option>
+        <option value="unsplash">Unsplash (키 필요)</option>
+      </select>
+      <input id="stockQ" type="text" placeholder="검색어 (영어가 결과가 좋습니다)">
+      <button id="btnStock" class="sm">검색</button>
+    </div>
+    <p class="tip" id="stockNote"></p>
+    <details class="cfg" id="stockKeyBox" hidden>
+      <summary>API 키 설정</summary>
+      <input id="stockKey" type="password" placeholder="API 키 붙여넣기">
+      <p class="tip">Pexels: pexels.com/api · Unsplash: unsplash.com/developers 에서 무료 발급.
+        키는 이 브라우저에만 저장됩니다.</p>
+    </details>
+    <div id="gridStock" class="thumbs"></div>
+
+    <div class="subhead">고른 사진 <span class="hint" id="mixCount">0장</span></div>
+    <p class="tip">사진을 <b>여러 장 누르면</b> 아래에서 한 장으로 합쳐 씁니다(2~5장).
+      한 장만 누르면 그 사진이 바로 배경이 됩니다.</p>
+    <div id="mixPicked" class="thumbs"></div>
+    <div class="row">
+      <select id="mixMode">
+        <option value="grid">칸 나누기</option>
+        <option value="blend">거치게 섞기</option>
+        <option value="strip">띠로 잇기</option>
+      </select>
+      <button id="btnMix" class="sm">합쳐서 배경으로</button>
+      <button id="btnMixClear" class="sm ghost">비우기</button>
+    </div>
+    <div class="ctl" id="mixGapRow">
+      <label>사이 여백</label>
+      <input id="mixGap" type="range" min="0" max="40" value="10">
+      <span class="val">10</span>
+    </div>
+  </section>
+
+  <!-- ────────── 중앙: 캔버스 ────────── -->
+  <section class="stage">
+    <div id="dropzone" class="canvas-box">
+      <canvas id="cv" width="1080" height="1350"></canvas>
+      <div id="dropHint" class="drop-hint">여기로 사진을 끌어다 놓으세요</div>
+    </div>
+    <div class="stage-foot">
+      <span id="selInfo">선택: 없음</span>
+      <span class="sep">·</span>
+      <span>글자를 클릭하면 선택되고, 드래그로 위치를 옮깁니다</span>
+    </div>
+  </section>
+
+  <!-- ────────── 우: 디자인 ────────── -->
+  <section class="panel right">
+    <h2>4. 디자인</h2>
+
+    <div class="subhead">스타일 모드 <span class="hint">잘나가는 카드뉴스 결 — 글꼴·색·장식이 통째로 바뀝니다</span></div>
+    <div id="styles" class="themes"></div>
+
+    <div class="subhead" id="brandHead">브랜드 스타일 <span class="hint" id="brandCount"></span> <span class="hint">design.md 토큰 — 고르면 바로 입힙니다</span></div>
+    <div class="row" id="brandRow">
+      <select id="brandSel"></select>
+      <button id="btnBrandApply" class="sm">입히기</button>
+    </div>
+
+    <div class="subhead">색 테마</div>
+    <div id="themes" class="themes"></div>
+
+    <div class="subhead">배경 어둡게 (그라데이션)</div>
+    <div class="ctl"><label>세기</label><input id="ovStrength" type="range" min="0" max="100" value="88"><span class="val"></span></div>
+    <div class="ctl"><label>시작 위치</label><input id="ovStart" type="range" min="0" max="100" value="38"><span class="val"></span></div>
+    <div class="ctl"><label>색</label><input id="ovColor" type="color" value="#000000"></div>
+    <div class="ctl"><label>상단 그늘</label><input id="ovTop" type="range" min="0" max="100" value="22"><span class="val"></span></div>
+
+    <div class="subhead">사진 보정</div>
+    <div class="ctl"><label>밝기</label><input id="imgBright" type="range" min="40" max="150" value="100"><span class="val"></span></div>
+    <div class="ctl"><label>대비</label><input id="imgContrast" type="range" min="50" max="160" value="100"><span class="val"></span></div>
+    <div class="ctl"><label>채도</label><input id="imgSat" type="range" min="0" max="180" value="100"><span class="val"></span></div>
+    <div class="row"><button id="btnFitCover" class="sm ghost">사진 맞춤 초기화</button></div>
+
+    <div class="subhead">선택한 글자 <span id="selName" class="hint">—</span></div>
+    <div class="ctl"><label>글꼴</label>
+      <select id="tFont">
+        <option value="Pretendard">Pretendard</option>
+        <option value="Pretendard Black">Pretendard Black</option>
+        <option value="Gmarket Sans">지마켓 산스</option>
+        <option value="S-Core Dream">에스코어 드림</option>
+        <option value="검은고딕">검은고딕</option>
+        <option value="Paperlogy">페이퍼로지</option>
+        <option value="Noto Sans KR">Noto Sans KR</option>
+        <option value="Noto Sans KR Black">Noto Sans KR Black</option>
+        <option value="NanumGothic">나눔고딕</option>
+        <option value="NanumGothicExtraBold">나눔고딕 ExtraBold</option>
+        <option value="Malgun Gothic">맑은 고딕</option>
+        <option value="Noto Serif KR">Noto Serif KR (명조)</option>
+        <option value="Nanum Pen Script">나눔손글씨 펜</option>
+      </select>
+    </div>
+    <div class="ctl"><label>굵기</label>
+      <select id="tWeight">
+        <option value="300">가늘게 300</option><option value="400">보통 400</option>
+        <option value="500">미디엄 500</option><option value="700">볼드 700</option>
+        <option value="800">엑스트라볼드 800</option><option value="900">블랙 900</option>
+      </select>
+    </div>
+    <div class="ctl"><label>크기</label><input id="tSize" type="range" min="14" max="160" value="86"><span class="val"></span></div>
+    <div class="ctl"><label>글자색</label><input id="tColor" type="color" value="#ffffff"></div>
+    <div class="ctl"><label>강조색</label><input id="tAccent" type="color" value="#ffd400"></div>
+    <div class="ctl"><label>줄간격</label><input id="tLine" type="range" min="90" max="220" value="118"><span class="val"></span></div>
+    <div class="ctl"><label>자간</label><input id="tSpace" type="range" min="-60" max="40" value="-20"><span class="val"></span></div>
+    <div class="ctl"><label>투명도</label><input id="tOpacity" type="range" min="10" max="100" value="100"><span class="val"></span></div>
+    <div class="ctl"><label>줄폭</label><input id="tWidth" type="range" min="30" max="100" value="88"><span class="val"></span></div>
+    <div class="ctl"><label>정렬</label>
+      <div class="seg" id="tAlign">
+        <button data-v="left">왼쪽</button><button data-v="center">가운데</button><button data-v="right">오른쪽</button>
+      </div>
+    </div>
+    <div class="ctl"><label>그림자</label><input id="tShadow" type="range" min="0" max="100" value="45"><span class="val"></span></div>
+    <div class="ctl"><label>글자 뒷배경</label>
+      <div class="seg" id="tBox">
+        <button data-v="none">없음</button><button data-v="bar">띠</button><button data-v="pill">둥근띠</button>
+      </div>
+    </div>
+    <div class="ctl"><label>뒷배경 색</label><input id="tBoxColor" type="color" value="#e11d48"></div>
+
+    <div class="subhead">위/아래 띠 <span class="hint">속보·BREAKING NEWS·날짜·시리즈명</span></div>
+    <div id="bandPresets" class="themes bands-presets">
+      <button data-preset="breaking_kr" style="background:#e11d48;color:#fff;border-color:#e11d48">속보(빨강)</button>
+      <button data-preset="breaking_en" style="background:#111;color:#fff;border-color:#444">BREAKING NEWS(검정)</button>
+      <button data-preset="date" style="background:#15181f;color:#fff;border-color:#3a4152">날짜 띠</button>
+      <button data-preset="off" class="ghost">끄기</button>
+    </div>
+    <div id="bands"></div>
+
+    <div class="subhead">부속</div>
+    <div class="ctl"><label>» 화살표</label><input id="chevOn" type="checkbox" checked></div>
+    <div class="ctl"><label>화살표 색</label><input id="chevColor" type="color" value="#ffffff"></div>
+    <div class="ctl"><label>로고</label>
+      <select id="logoSel"><option value="">없음</option></select>
+    </div>
+    <div class="ctl"><label>로고 크기</label><input id="logoSize" type="range" min="40" max="360" value="150"><span class="val"></span></div>
+
+    <div class="subhead">워터마크 <span class="hint">저장하는 파일에만</span></div>
+    <div class="ctl"><label>보이는 워터마크</label><input id="wmVisible" type="checkbox"></div>
+    <div class="ctl"><label>숨긴 표시</label><input id="wmHidden" type="checkbox"></div>
+    <p class="tip" id="wmTip"></p>
+    <div class="row">
+      <a class="ghost" href="/static/mark.html" style="padding:6px 10px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:11.5px">자세히 설정 →</a>
+    <a class="ghost" href="/static/insta.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">인스타 올리기</a>
+    </div>
+
+    <div class="subhead">저장 이름</div>
+    <input id="saveName" type="text" placeholder="뉴보대_카드">
+  </section>
+</main>
+
+<script src="/static/hiddenmark.js"></script>
+<script src="/static/prog.js"></script>
+<script src="/static/nav.js"></script>
+<!-- pure 판 스위치 — app.js 보다 먼저, 동기로 와야 한다(스타일 모드 단추를 만들지 말지) -->
+<script src="/api/config.js"></script>
+<!-- 브랜드 토큰(브랜드_동기화.py 가 만든 정적 파일). 없어도 앱은 그대로 돈다 -->
+<script src="/static/brands.js" onerror="window.BRAND_STYLES = window.BRAND_STYLES || []"></script>
+<script src="/static/app.js"></script>
+</body>
+</html>

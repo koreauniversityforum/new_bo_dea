@@ -1,0 +1,487 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<script src="config.js"></script>
+<script src="summarizer.js"></script>
+<script src="폰shim.js"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>뉴보대 뒷장 만들기</title>
+<link rel="icon" href="assets/뉴보대_로고.png">
+<link rel="stylesheet" href="style.css">
+<style>
+  /* 뒷장 화면: 왼쪽 고르기 / 가운데 미리보기 / 오른쪽 문구 */
+  .picks{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+  .pick{background:#12151b;border:1px solid #2a2f3a;border-radius:10px;padding:6px;cursor:pointer;text-align:left}
+  .pick canvas{width:100%;height:auto;display:block;border-radius:6px;background:#0d0f13}
+  .pick b{display:block;font-size:11px;font-weight:700;color:#c8cedd;margin-top:6px}
+  .pick.on{border-color:#0050eb;box-shadow:0 0 0 1px #0050eb inset}
+  .pick.on b{color:#7cb0ff}
+
+  .bgs{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}
+  .bg{border:1px solid #2a2f3a;border-radius:8px;padding:0;overflow:hidden;cursor:pointer;background:#12151b;line-height:0}
+  .bg canvas{width:100%;height:auto;display:block}
+  .bg.on{border-color:#0050eb;box-shadow:0 0 0 1px #0050eb inset}
+  .bg span{display:block;font-size:9.5px;line-height:1.5;color:#9aa1b1;padding:3px 2px;text-align:center}
+
+  /* 미리보기는 앞장 화면과 똑같은 틀(.canvas-box)을 써서 1080×1350 비율을 지킨다.
+     이 틀이 없으면 style.css 의 #cv{width:100%;height:100%} 가 캔버스를 늘려 버린다. */
+  .canvas-box{max-width:100%}
+  .fields label{display:block;color:#9aa1b1;font-size:11.5px;margin:10px 0 3px}
+  .fields textarea{width:100%;resize:vertical;min-height:52px}
+  .fields input[type=text]{width:100%}
+  .warn{color:#ffbe3d;font-size:11.5px;line-height:1.6;margin:8px 0 0}
+  .note{color:#8a909e;font-size:11.5px;line-height:1.6;margin:2px 0 0}
+  .seg{display:flex;gap:4px}
+  .seg button{flex:1}
+  .seg button.on{background:#0050eb;border-color:#0050eb;color:#fff}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="brand">뉴보대 <span>뒷장 만들기</span></div>
+  <div class="top-actions">
+    <a class="ghost" data-carry="feed.html" href="feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">피드 글 →</a>
+    <a class="ghost" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">← 앞장 만들기</a>
+    <span data-insta-slot></span>
+    <button id="btnPng" class="primary">PNG 내려받기</button>
+    <button id="btnSave">out 폴더에 저장</button>
+    <button id="btnAll" class="ghost">5종 모두 저장</button>
+    <button id="btnReset" class="ghost">초기화</button>
+    <a class="ghost" href="mark.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">워터마크</a>
+    <a class="ghost" href="out.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">폴더 정리</a>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- ────────── 좌: 고르기 ────────── -->
+  <section class="panel left">
+    <h2>1. 뒷장 고르기 <span class="hint">눌러서 선택</span></h2>
+    <div class="picks" id="picks"></div>
+    <p class="note" id="pickNote"></p>
+
+    <h2>2. 배경</h2>
+    <label class="lbl">준비된 배경 <span class="hint">시사·경제·정치·법률용. 사진이 아니라 그려서 만듭니다</span></label>
+    <div class="bgs" id="bgPresets"></div>
+
+    <label class="lbl" style="margin-top:12px">종류</label>
+    <select id="bgKind"></select>
+
+    <label class="lbl">배경색 <span class="hint">아무 색이나 고르면 그 색으로 다시 그립니다</span></label>
+    <div class="row">
+      <input id="bgColor" type="color" value="#1f7bff">
+      <button id="btnSeed" class="sm">모양 다시 뽑기</button>
+    </div>
+
+    <label class="lbl">사진 <span class="hint">종류를 ‘사진’으로 두면 쓰입니다</span></label>
+    <div class="row">
+      <button id="oPick" class="sm">사진 고르기</button>
+      <button id="oClear" class="sm ghost">사진 없애기</button>
+      <input id="oFile" type="file" accept="image/*" hidden>
+    </div>
+    <div class="ctl">
+      <label>사진 확대 <span class="val">100</span></label>
+      <input id="oZoom" type="range" min="100" max="260" value="100">
+    </div>
+    <div class="ctl">
+      <label>세로 위치 <span class="val">50</span></label>
+      <input id="oPos" type="range" min="0" max="100" value="50">
+    </div>
+
+    <div id="paperCtl" class="ctl" style="display:none">
+      <label>바탕 밝기 <span class="val">90</span> <span class="hint">낮추면 배경이 비쳐 보입니다</span></label>
+      <input id="oPaper" type="range" min="55" max="100" value="90">
+    </div>
+
+    <h2>3. 로고 · 저장</h2>
+    <label class="lbl">로고 (프로필 사진으로 쓰입니다)</label>
+    <select id="oLogo"><option value="">(로고 없음)</option></select>
+
+    <label class="lbl" style="margin-top:12px">로고 워터마크 <span class="hint">배경 위에 옅게 얹습니다</span></label>
+    <div class="row">
+      <select id="wmPos"></select>
+      <select id="wmTone"></select>
+    </div>
+    <div id="wmBox" style="display:none">
+      <div class="ctl">
+        <label>크기 <span class="val">16</span></label>
+        <input id="wmSize" type="range" min="6" max="34" value="16">
+      </div>
+      <div class="ctl">
+        <label>진하기 <span class="val">18</span></label>
+        <input id="wmAlpha" type="range" min="3" max="80" value="18">
+      </div>
+      <label style="display:flex;gap:6px;align-items:center;font-size:11.5px;color:#8f97a8;margin-top:4px">
+        <input id="wmMark" type="checkbox"> 심벌만 쓰기 (아래 글자 빼고)
+      </label>
+      <p class="note" style="margin-top:5px">색을 <b>자동</b>으로 두면 어두운 배경엔 흰색,
+        밝은 바탕 뒷장엔 남색으로 알아서 바뀝니다.</p>
+    </div>
+
+    <label class="lbl">저장 이름</label>
+    <input id="oName" type="text" value="뉴보대_뒷장">
+    <div id="oMsg" class="msg" style="margin-top:8px"></div>
+  </section>
+
+  <!-- ────────── 중: 미리보기 ────────── -->
+  <section class="stage">
+    <div class="canvas-box">
+      <canvas id="cv" width="1080" height="1350"></canvas>
+    </div>
+    <div class="stage-foot">
+      <span>1080 × 1350 (4:5)</span><span class="sep">·</span>
+      <span>저장되는 그림 그대로입니다</span><span class="sep">·</span>
+      <span id="zoomInfo"></span>
+    </div>
+  </section>
+
+  <!-- ────────── 우: 문구 ────────── -->
+  <section class="panel right">
+    <h2>문구 <span class="hint" id="selName"></span></h2>
+    <div class="fields" id="fields"></div>
+    <p class="warn" id="fieldWarn"></p>
+    <p class="note" style="margin-top:14px">
+      <b>**별표 두 개**</b>로 감싼 부분만 강조색이 됩니다.<br>
+      줄바꿈은 입력한 그대로 나옵니다.
+    </p>
+  </section>
+
+</main>
+
+<script src="hiddenmark.js"></script>
+<script src="prog.js"></script>
+<script src="nav.js"></script>
+<script src="outro.js"></script>
+<script src="outrostate.js"></script>
+<script>
+'use strict';
+const $ = (id) => document.getElementById(id);
+const LABEL = {
+  label:'윗줄 라벨', head:'큰 문구', handle:'계정 아이디', sub:'설명 한 줄', foot:'아래 워터마크',
+  wordmark:'워드마크', mark:'브랜드 이름', user:'사용자 이름', category:'카테고리',
+  stats:'게시물/팔로워 줄 (비우면 안 나옴)', bio:'소개글', btn1:'왼쪽 버튼', btn2:'오른쪽 버튼'
+};
+const MULTI = new Set(['head','sub','bio']);
+const KEY = OUTROST.KEY;
+
+/* 상태 읽기·저장·옵션 조립은 `outrostate.js` 하나로 모았다.
+   올리기 화면에서도 뒷장 5종을 그려야 하는데, 여기 두면 반드시 갈라진다. */
+let ST = OUTROST.load();
+let logoImg = null, bgImg = null;
+const cv = $('cv'), ctx = cv.getContext('2d');
+const thumbs = {};
+
+const save = () => OUTROST.save(ST);
+const loadImage = OUTROST.loadImage;
+function opts(id) { return OUTROST.opts(ST, id, logoImg, bgImg); }
+
+/* 화면에 몇 %로 줄여 보여주는지 알려 준다 (원본은 늘 1080×1350) */
+function updateZoom() {
+  const w = cv.getBoundingClientRect().width;
+  $('zoomInfo').textContent = w ? '화면에는 ' + Math.round(w / OUTRO.W * 100) + '% 크기로 보임' : '';
+}
+addEventListener('resize', updateZoom);
+
+function renderMain() { OUTRO.draw(ctx, ST.sel, opts(ST.sel)); updateZoom(); save(); }
+function renderThumbs() {
+  OUTRO.TEMPLATES.forEach(t => {
+    const c = thumbs[t.id];
+    OUTRO.draw(c.getContext('2d'), t.id, opts(t.id), c.width / OUTRO.W);
+  });
+}
+function renderAll() { renderMain(); renderThumbs(); }
+
+/* ── 왼쪽: 뒷장 5종 고르기 ── */
+OUTRO.TEMPLATES.forEach(t => {
+  const b = document.createElement('button');
+  b.className = 'pick';
+  const c = document.createElement('canvas');
+  c.width = 216; c.height = 270;
+  thumbs[t.id] = c;
+  b.appendChild(c);
+  const nm = document.createElement('b');
+  nm.textContent = t.name;
+  b.appendChild(nm);
+  b.addEventListener('click', () => selectTpl(t.id));
+  b.dataset.id = t.id;
+  $('picks').appendChild(b);
+});
+
+function selectTpl(id) {
+  ST.sel = id;
+  const t = OUTRO.byId[id];
+  document.querySelectorAll('.pick').forEach(p => p.classList.toggle('on', p.dataset.id === id));
+  $('selName').textContent = t.name;
+  $('pickNote').textContent = t.note;
+  $('paperCtl').style.display = t.light ? '' : 'none';
+  $('fieldWarn').textContent = id === 'profile'
+    ? '⚠ 게시물/팔로워 줄은 비워 두었습니다. 실제 계정 숫자를 확인해 직접 넣어 주세요.' : '';
+  buildFields(t);
+  renderMain();
+}
+
+function buildFields(t) {
+  const box = $('fields');
+  box.innerHTML = '';
+  t.fields.forEach(f => {
+    const lab = document.createElement('label');
+    lab.textContent = LABEL[f] || f;
+    box.appendChild(lab);
+    const el = document.createElement(MULTI.has(f) ? 'textarea' : 'input');
+    if (!MULTI.has(f)) el.type = 'text'; else el.rows = 3;
+    el.value = ST.t[t.id][f] || '';
+    el.placeholder = t.defaults[f] || '';
+    el.addEventListener('input', () => {
+      ST.t[t.id][f] = el.value;
+      renderMain();
+      clearTimeout(el._tm);
+      el._tm = setTimeout(renderThumbs, 400);   // 작은 그림은 한 박자 늦게
+    });
+    box.appendChild(el);
+  });
+}
+
+/* ── 왼쪽: 배경 ── */
+OUTRO.BG_PRESETS.forEach((p, i) => {
+  const b = document.createElement('button');
+  b.className = 'bg';
+  b.title = p.name;
+  const c = document.createElement('canvas');
+  c.width = 96; c.height = 120;
+  b.appendChild(c);
+  const s = document.createElement('span');
+  s.textContent = p.name.replace('오로라 ', '');
+  b.appendChild(s);
+  b.addEventListener('click', () => {
+    ST.bgKind = p.kind; ST.bgColor = p.color; ST.bgSeed = p.seed;
+    syncBg(); renderAll();
+  });
+  b.dataset.i = i;
+  $('bgPresets').appendChild(b);
+  // 프리셋 그림은 한 번만 그려 둔다 (배경만)
+  requestAnimationFrame(() => {
+    OUTRO.drawBackground(c.getContext('2d'),
+      { bgKind: p.kind, bgColor: p.color, bgSeed: p.seed }, c.width / OUTRO.W);
+  });
+});
+
+OUTRO.BG_KINDS.forEach(k => {
+  const o = document.createElement('option');
+  o.value = k.v; o.textContent = k.n;
+  $('bgKind').appendChild(o);
+});
+$('bgKind').addEventListener('change', () => {
+  ST.bgKind = $('bgKind').value;
+  if (ST.bgKind === 'photo' && !bgImg) $('oFile').click();
+  syncBg(); renderAll();
+});
+$('bgColor').addEventListener('input', () => { ST.bgColor = $('bgColor').value; syncBg(); renderAll(); });
+$('btnSeed').addEventListener('click', () => {
+  ST.bgSeed = (ST.bgSeed * 7 + 13) % 9973;   // 눌를 때마다 다른 모양
+  syncBg(); renderAll();
+});
+
+function syncBg() {
+  $('bgColor').value = ST.bgColor;
+  $('bgKind').value = ST.bgKind;
+  document.querySelectorAll('.bg').forEach(b => {
+    const p = OUTRO.BG_PRESETS[+b.dataset.i];
+    b.classList.toggle('on', p.kind === ST.bgKind && p.color === ST.bgColor && p.seed === ST.bgSeed);
+  });
+  save();
+}
+
+/* ── 사진 ── */
+async function setBg(src) {
+  try { bgImg = await loadImage(src); ST.bg = src.startsWith('blob:') ? '' : src; }
+  catch (e) { return msg(e.message, 'err'); }
+  ST.bgKind = 'photo';
+  syncBg(); renderAll();
+}
+$('oPick').addEventListener('click', () => $('oFile').click());
+$('oFile').addEventListener('change', e => { const f = e.target.files[0]; if (f) setBg(URL.createObjectURL(f)); });
+$('oClear').addEventListener('click', () => {
+  bgImg = null; ST.bg = '';
+  if (ST.bgKind === 'photo') ST.bgKind = 'aurora';
+  syncBg(); renderAll();
+});
+document.addEventListener('paste', ev => {
+  if (/^(INPUT|TEXTAREA)$/.test(ev.target.tagName)) return;
+  for (const it of ev.clipboardData.items)
+    if (it.type.startsWith('image/')) { setBg(URL.createObjectURL(it.getAsFile())); ev.preventDefault(); return; }
+});
+['dragenter','dragover'].forEach(e => document.addEventListener(e, ev => ev.preventDefault()));
+document.addEventListener('drop', ev => {
+  ev.preventDefault();
+  const f = [...(ev.dataTransfer.files||[])].find(x => x.type.startsWith('image/'));
+  if (f) setBg(URL.createObjectURL(f));
+});
+
+/* 미리보기 위에서 드래그=위치, 휠=확대 (사진일 때만) */
+let drag = null;
+cv.addEventListener('pointerdown', ev => {
+  if (ST.bgKind !== 'photo' || !bgImg) return;
+  cv.setPointerCapture(ev.pointerId);
+  drag = ev.clientY;
+});
+cv.addEventListener('pointermove', ev => {
+  if (drag === null) return;
+  const r = cv.getBoundingClientRect();
+  ST.pos = Math.min(100, Math.max(0, ST.pos + (drag - ev.clientY) * 100 / r.height));
+  drag = ev.clientY;
+  $('oPos').value = Math.round(ST.pos); sync(); renderMain();
+});
+['pointerup','pointercancel'].forEach(e => cv.addEventListener(e, () => { drag = null; }));
+cv.addEventListener('wheel', ev => {
+  if (ST.bgKind !== 'photo' || !bgImg) return;
+  ev.preventDefault();
+  ST.zoom = Math.min(260, Math.max(100, ST.zoom + (ev.deltaY < 0 ? 8 : -8)));
+  $('oZoom').value = ST.zoom; sync(); renderMain();
+}, { passive:false });
+
+/* ── 로고 워터마크 ── */
+const fillSel = (id, list) => list.forEach(x => {
+  const o = document.createElement('option');
+  o.value = x.v; o.textContent = x.n;
+  $(id).appendChild(o);
+});
+fillSel('wmPos', OUTRO.WM_POS);
+fillSel('wmTone', OUTRO.WM_TONE);
+$('wmPos').addEventListener('change', () => { ST.wmPos = $('wmPos').value; syncWm(); renderAll(); });
+$('wmTone').addEventListener('change', () => { ST.wmTone = $('wmTone').value; save(); renderAll(); });
+$('wmMark').addEventListener('change', () => { ST.wmMark = $('wmMark').checked; save(); renderAll(); });
+function syncWm() {
+  $('wmBox').style.display = ST.wmPos ? '' : 'none';
+  save();
+}
+
+/* ── 나머지 조작 ── */
+const bindRange = (id, fn) => $(id).addEventListener('input', () => { fn(+$(id).value); sync(); renderAll(); });
+bindRange('wmSize', v => ST.wmSize = v);
+bindRange('wmAlpha', v => ST.wmAlpha = v);
+bindRange('oZoom', v => ST.zoom = v);
+bindRange('oPos', v => ST.pos = v);
+bindRange('oPaper', v => ST.paper = v);
+$('oName').addEventListener('input', () => { ST.name = $('oName').value; save(); });
+$('oLogo').addEventListener('change', async () => {
+  ST.logo = $('oLogo').value;
+  logoImg = ST.logo ? await loadImage(ST.logo).catch(() => null) : null;
+  renderAll();
+});
+
+function sync() {
+  document.querySelectorAll('.ctl').forEach(c => {
+    const r = c.querySelector('input[type=range]'), v = c.querySelector('.val');
+    if (r && v) v.textContent = Math.round(r.value);
+  });
+  save();
+}
+function msg(text, cls) { const el = $('oMsg'); el.className = 'msg ' + (cls||''); el.textContent = text; }
+
+/* ── 저장 ── */
+const fileName = (id) => OUTROST.fileName(ST, id);
+function pngOf(id) {
+  let c = cv;
+  if (id !== ST.sel) {
+    c = document.createElement('canvas');
+    c.width = OUTRO.W; c.height = OUTRO.H;
+    OUTRO.draw(c.getContext('2d'), id, opts(id));
+  }
+  // 내보낼 때만 파일 속에 글자를 심는다(원본 캔버스는 그대로 둔다)
+  return (typeof HIDDEN !== 'undefined')
+    ? HIDDEN.exportCanvas(c, { name: fileName(id) }) : c;
+}
+/* 진행도는 **끝난 단계**로만 올린다(prog.js 주석). 보내는 구간만 바이트로 잰다. */
+$('btnPng').addEventListener('click', async () => {
+  const p = PROG.start('btnPng', '워터마크 심는 중');
+  try {
+    await p.at(0.05, '워터마크 심는 중');
+    const c = pngOf(ST.sel);
+    await p.at(0.4, 'PNG 만드는 중');
+    const blob = await new Promise(r => c.toBlob(r, 'image/png'));
+    await p.at(0.85, '내려받는 중');
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = fileName(ST.sel) + '.png';
+    a.click();
+    setTimeout(() => URL.revokeObjectURL(a.href), 3000);
+    p.done('내려받음');
+  } catch (e) { p.fail(e.message); msg(e.message, 'err'); }
+});
+/** @param {object} [p] 진행바 손잡이 · [span] 이 장이 차지할 구간 [시작, 끝] */
+async function saveOne(id, p, span) {
+  const [a, b] = span || [0, 1];
+  if (p) await p.at(a + (b - a) * 0.1, '워터마크 심는 중');
+  const c = pngOf(id);
+  if (p) await p.at(a + (b - a) * 0.4, 'PNG 만드는 중');
+  const dataUrl = c.toDataURL('image/png');
+  if (p) await p.at(a + (b - a) * 0.6, '보내는 중');
+  const j = await PROG.postJSON('/api/save', { dataUrl, name: fileName(id) },
+    f => { if (p) p.at(a + (b - a) * (0.6 + 0.38 * f), '보내는 중'); });
+  return j.path;
+}
+const hiddenNote = () => {
+  if (typeof HIDDEN === 'undefined') return '';
+  const c = HIDDEN.load();
+  const on = [c.vOn && '보이는 워터마크', c.on && '숨긴 표시'].filter(Boolean);
+  return on.length ? ' (' + on.join(' + ') + ' 포함)' : '';
+};
+// 로고는 늦게 도착한다. 오면 숨긴 무늬를 다시 깔아야 한다.
+if (typeof HIDDEN !== 'undefined') HIDDEN.onReady(() => renderAll());
+$('btnSave').addEventListener('click', async () => {
+  const p = PROG.start('btnSave', '준비');
+  try {
+    const path = await saveOne(ST.sel, p);
+    p.done('저장함');
+    msg('저장했습니다 → ' + path + hiddenNote(), 'ok');
+  } catch (e) { p.fail(e.message); msg(e.message, 'err'); }
+});
+$('btnAll').addEventListener('click', async () => {
+  // 여기는 **진짜 몇 장 중 몇 장**이 있다. 장 단위로 구간을 나눠 준다.
+  const p = PROG.start('btnAll', '준비');
+  const n = OUTRO.TEMPLATES.length;
+  try {
+    for (let i = 0; i < n; i++) {
+      await saveOne(OUTRO.TEMPLATES[i].id, p, [i / n, (i + 1) / n]);
+    }
+    p.done(n + '장 저장함');
+    msg('5종을 모두 out 폴더에 저장했습니다.' + hiddenNote(), 'ok');
+  } catch (e) { p.fail(e.message); msg(e.message, 'err'); }
+});
+/* 머리글 — 인스타 단추는 저장을 거치지 않고 지금 뒷장을 그대로 가져간다.
+   뒷장 문구는 팔로우 유도라 캡션 재료가 아니다 → 초안은 넘기지 않는다(앞장이 넘긴다). */
+NAV.mount({ stage: () => [{ canvas: pngOf(ST.sel), name: fileName(ST.sel) }] });
+$('btnReset').addEventListener('click', () => {
+  if (!confirm('문구와 배경을 모두 처음 상태로 되돌릴까요?')) return;
+  localStorage.removeItem(KEY);
+  location.reload();
+});
+
+/* ── 시작 ── */
+(async function boot() {
+  $('oZoom').value = ST.zoom; $('oPos').value = ST.pos;
+  $('oPaper').value = ST.paper; $('oName').value = ST.name;
+  $('wmPos').value = ST.wmPos; $('wmTone').value = ST.wmTone;
+  $('wmSize').value = ST.wmSize; $('wmAlpha').value = ST.wmAlpha;
+  $('wmMark').checked = !!ST.wmMark;
+  sync(); syncBg(); syncWm();
+  try {
+    const j = await (await fetch('/api/assets')).json();
+    (j.items || []).forEach(u => {
+      const o = document.createElement('option');
+      o.value = u; o.textContent = decodeURIComponent(u.split('/').pop());
+      $('oLogo').appendChild(o);
+    });
+    const pick = (j.items || []).includes(ST.logo) ? ST.logo : (j.items || [])[0] || '';
+    if (pick) { $('oLogo').value = pick; ST.logo = pick; logoImg = await loadImage(pick).catch(() => null); }
+  } catch (e) { /* assets 없음 */ }
+  if (ST.bg) await loadImage(ST.bg).then(i => bgImg = i).catch(() => {});
+  await OUTRO.loadFonts();
+  selectTpl(ST.sel);
+  renderThumbs();
+})();
+</script>
+</body>
+</html>

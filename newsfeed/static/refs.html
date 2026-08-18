@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>뉴보대 참고 사이트</title>
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="/static/style.css">
+<style>
+  .stage.refs{align-items:stretch;justify-content:flex-start;padding:16px 18px;overflow:auto;
+              display:block}
+  .brandcard{border:1px solid #2a2f3a;border-radius:10px;padding:11px 13px;margin-bottom:9px}
+  .brandcard h3{font-size:13px;font-weight:800;margin:0 0 7px;color:#e8eaee}
+  .brandcard h3 .n{font-size:10.5px;color:#6d7688;font-weight:600;margin-left:6px}
+  .reflink{display:flex;gap:8px;align-items:center;padding:5px 6px;border-radius:7px;
+           text-decoration:none;color:#c4ccdb;font-size:12px}
+  .reflink:hover{background:#1f232c;color:#fff}
+  .reflink .plat{flex:none;width:64px;font-size:10px;color:#8f97a8;border:1px solid #333a4a;
+                 border-radius:9px;padding:1px 0;text-align:center}
+  .reflink .lb{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .reflink .u{flex:none;display:flex;gap:4px}
+  .reflink .u i{font-style:normal;font-size:9.5px;color:#7b8398;border:1px solid #2e3442;
+                border-radius:8px;padding:1px 6px}
+  .reflink .u i.t{color:#8fb8ff;border-color:#33507e}
+  .reflink .u i.c{color:#ffb38f;border-color:#7e5233}
+  .reflink .u i.w{color:#a7e6b8;border-color:#33683f}
+  .reflink .u i.r{color:#d9b8ff;border-color:#5d3f82}
+  .empty{color:#6d7688;font-size:12px;padding:26px 0;text-align:center}
+  .tipbox{border:1px solid #2a2f3a;border-radius:9px;padding:10px 12px;margin-top:10px}
+  .tipbox b{color:#c4ccdb}
+  .tipbox li{font-size:11.5px;color:#9aa4ba;line-height:1.55;margin:4px 0 4px 14px;
+             word-break:keep-all}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="brand">뉴보대 <span>참고 사이트</span></div>
+  <div class="top-actions">
+    <a class="ghost" data-carry="/" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">← 앞장 만들기</a>
+    <a class="ghost" data-carry="/static/feed.html" href="/static/feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">피드 글 만들기</a>
+    <a class="ghost" href="/static/outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">뒷장 만들기 →</a>
+    <span data-insta-slot></span>
+    <a class="ghost" href="/static/mark.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">워터마크</a>
+    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">폴더 정리</a>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- ────────── 좌: 거르개 + 팁 ────────── -->
+  <section class="panel left">
+    <h2>어디에 쓸 링크인가 <span class="hint">용도로 거르기</span></h2>
+    <p class="tip">잘나가는 계정·매체 모음입니다(뉴보대 태그가 붙은 것만).
+      링크는 전부 <b>새 탭</b>으로 열립니다. 인스타그램·X 는 로그인해야 보일 수 있습니다.</p>
+    <div class="chips" id="useChips"></div>
+    <h2 style="margin-top:12px">플랫폼</h2>
+    <div class="chips" id="platChips"></div>
+    <h2 style="margin-top:12px">브랜드</h2>
+    <div class="chips" id="brandChips"></div>
+
+    <div class="tipbox">
+      <b>카드 제작 참고 팁</b>
+      <ul>
+        <li><b>첫 장이 전부</b> — 잘나가는 계정은 첫 장에 후킹 한 줄 + 큰 제목 두 덩이만 둔다.
+          글자가 넷 이상이면 뉴닉·토스처럼 과감히 지운다.</li>
+        <li><b>결이 곧 브랜드</b> — 뉴닉은 오렌지+흰 종이, 어피티는 레드 띠, 토스는 여백.
+          앞장 만들기의 <b>스타일 모드</b>가 이 결을 실측 색으로 담고 있다.</li>
+        <li><b>숫자는 그림으로</b> — 비주얼 캐피탈리스트·로이터 그래픽스처럼 수치는
+          비교 하나만 남기고 나머지는 피드 글로 뺀다.</li>
+        <li><b>마지막 장은 행동 유도</b> — 순살브리핑처럼 "저장하고 두고 보기" 같은
+          한 줄로 끝낸다(뒷장 만들기 참고).</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ────────── 중: 브랜드별 링크 ────────── -->
+  <section class="stage refs">
+    <div class="hubbar" style="display:flex;gap:8px;align-items:center;margin-bottom:10px">
+      <input id="filter" type="text" placeholder="브랜드·라벨로 거르기" style="width:220px">
+      <span class="hint" id="count"></span>
+    </div>
+    <div id="list"></div>
+  </section>
+
+  <!-- ────────── 우: 다음 걸음 ────────── -->
+  <section class="panel right">
+    <h2>주제가 잡혔다면</h2>
+    <p class="tip">여기서 눈으로 훑어 <b>감</b>을 잡고, 실제 후보 목록이 필요하면
+      <b>주제 찾기</b> 화면으로 가세요. 참고 계정의 최신 글·영상 제목과
+      <b>오늘의 주제 후보</b>(구글 뉴스 갈래별)를 칩으로 모아 줍니다.</p>
+    <a class="primary" href="/static/topics.html"
+       style="display:block;text-align:center;text-decoration:none;padding:9px 0;border-radius:8px;background:#3b6ef5;color:#fff;font-weight:700;font-size:12.5px">주제 찾기로 가기</a>
+    <p class="tip" style="margin-top:10px">용도 표시 —
+      <i style="font-style:normal;color:#8fb8ff">주제</i> 주제 찾기 ·
+      <i style="font-style:normal;color:#ffb38f">카드</i> 카드제작 참고 ·
+      <i style="font-style:normal;color:#a7e6b8">글</i> 글 작성 ·
+      <i style="font-style:normal;color:#d9b8ff">리서치</i> 리서치·인사이트</p>
+  </section>
+
+</main>
+
+<script src="/static/nav.js"></script>
+<script src="/static/refs.js"></script>
+<script>
+'use strict';
+const $ = id => document.getElementById(id);
+const USE_SHORT = { '주제 찾기': '주제', '카드제작': '카드', '글 작성': '글', '리서치·인사이트': '리서치' };
+const USE_CLS = { '주제 찾기': 't', '카드제작': 'c', '글 작성': 'w', '리서치·인사이트': 'r' };
+
+const S = { use: '', plat: '', brand: '', filter: '' };
+
+function chipRow(host, values, cur, onpick) {
+  host.innerHTML = '';
+  values.forEach(([v, label]) => {
+    const b = document.createElement('button');
+    b.className = 'chip' + (v === cur ? ' on' : '');
+    b.textContent = label;
+    b.onclick = () => onpick(v);
+    host.appendChild(b);
+  });
+}
+
+function platforms() {
+  const set = new Set();
+  NB_REFS.forEach(br => br.links.forEach(l => set.add(NB_REF_PLAT(l.url))));
+  return [...set];
+}
+
+function drawChips() {
+  chipRow($('useChips'), [['', '전체']].concat(NB_REF_USES.map(u => [u, u])), S.use,
+    v => { S.use = v; drawChips(); drawList(); });
+  chipRow($('platChips'), [['', '전체']].concat(platforms().map(p => [p, p])), S.plat,
+    v => { S.plat = v; drawChips(); drawList(); });
+  chipRow($('brandChips'), [['', '전체']].concat(NB_REFS.map(b => [b.name, b.name])), S.brand,
+    v => { S.brand = v; drawChips(); drawList(); });
+}
+
+function drawList() {
+  const host = $('list');
+  host.innerHTML = '';
+  const f = S.filter.trim().toLowerCase();
+  let shown = 0;
+  NB_REFS.forEach(br => {
+    if (S.brand && br.name !== S.brand) return;
+    const links = br.links.filter(l => {
+      if (S.use && !l.uses.includes(S.use)) return false;
+      if (S.plat && NB_REF_PLAT(l.url) !== S.plat) return false;
+      if (f && !(br.name + ' ' + l.label).toLowerCase().includes(f)) return false;
+      return true;
+    });
+    if (!links.length) return;
+    shown += links.length;
+    const card = document.createElement('div');
+    card.className = 'brandcard';
+    const h = document.createElement('h3');
+    h.textContent = br.name;
+    const n = document.createElement('span');
+    n.className = 'n';
+    n.textContent = links.length + '곳';
+    h.appendChild(n);
+    card.appendChild(h);
+    links.forEach(l => {
+      const a = document.createElement('a');
+      a.className = 'reflink';
+      a.href = l.url; a.target = '_blank'; a.rel = 'noreferrer noopener';
+      a.title = l.url;
+      const plat = document.createElement('span');
+      plat.className = 'plat';
+      plat.textContent = NB_REF_PLAT(l.url);
+      const lb = document.createElement('span');
+      lb.className = 'lb';
+      lb.textContent = l.label;
+      const u = document.createElement('span');
+      u.className = 'u';
+      l.uses.forEach(use => {
+        const i = document.createElement('i');
+        i.className = USE_CLS[use] || '';
+        i.textContent = USE_SHORT[use] || use;
+        u.appendChild(i);
+      });
+      a.append(plat, lb, u);
+      card.appendChild(a);
+    });
+    host.appendChild(card);
+  });
+  $('count').textContent = shown ? '링크 ' + shown + '곳' : '';
+  if (!shown) host.innerHTML = '<div class="empty">조건에 맞는 링크가 없습니다. 거르개를 풀어 보세요.</div>';
+}
+
+NAV.mount();
+drawChips();
+drawList();
+$('filter').oninput = e => { S.filter = e.target.value; drawList(); };
+</script>
+</body>
+</html>
