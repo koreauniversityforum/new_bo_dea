@@ -62,6 +62,9 @@ def relativize(s: str) -> str:
     s = s.replace('"/assets/', '"assets/').replace("'/assets/", "'assets/")
     s = s.replace('"/api/config.js"', '"config.js"')
     s = s.replace('href="/favicon.ico"', 'href="assets/뉴보대_로고.png"')
+    # 🔴 「← 앞장 만들기」 는 서버판에선 루트(/)가 맞지만, 하위 폴더에 올린 폰판에선
+    #    호스팅 루트(=남의 첫 화면)로 튀어 404 가 된다. 같은 폴더 기준으로 바꾼다.
+    s = s.replace('href="/"', 'href="./"').replace("data-carry=\"/\"", 'data-carry="./"')
     return s
 
 
