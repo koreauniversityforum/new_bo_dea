@@ -397,8 +397,28 @@ function loadImage(src) {
   });
 }
 
-/* 폰판: 서버가 없으므로 주소를 그대로 쓴다 */
-const proxy = (url) => url;
+/* 폰판: 서버가 없으니 사진도 대리인을 하나 거친다.
+
+   🔴 언론사 사진 서버(imgnews.pstatic.net 등)는 CORS 헤더를 주지 않는다. 아래
+      loadImage() 가 crossOrigin='anonymous' 를 붙이므로 브라우저가 **아예 거부**한다
+      — 폰에서 기사 사진이 안 뜨던 정체가 이것이다. crossOrigin 을 떼면 보이기는
+      하나 캔버스가 오염돼 저장이 통째로 막히므로, 떼는 대신 CORS 를 붙여 주는
+      곳(wsrv.nl)을 거친다. 실측: 200 · CORS=* · 원본 그대로의 PNG.
+
+   🔴 이미 CORS 를 주는 곳(위키미디어·Openverse)은 **그냥 둔다.** 전부 대리인에게
+      맡기면, 지금 잘 되는 사진 검색까지 남의 서비스와 함께 죽는다.
+
+   🔴 두 번 감싸면 안 된다 — app.js 안에서 proxy() 가 겹쳐 불릴 수 있고(1090줄 주석),
+      저장된 상태를 다시 읽을 때도 겹친다. 이미 감싼 주소는 그대로 돌려준다. */
+const IMG_DIRECT = /(^|\.)(wikimedia\.org|wikipedia\.org|openverse\.org)$/i;
+const IMG_PROXY = 'https://wsrv.nl/?url=';
+const proxy = (url) => {
+  const u = String(url || '');
+  if (!/^https?:\/\//i.test(u)) return u;          // data: · blob: · 같은 폴더 파일
+  if (u.startsWith(IMG_PROXY)) return u;           // 이미 감쌌다
+  try { if (IMG_DIRECT.test(new URL(u).hostname)) return u; } catch (e) { return u; }
+  return IMG_PROXY + encodeURIComponent(u);
+};
 
 async function setBg(src, resetView = true) {
   try {

@@ -12,6 +12,8 @@ r"""폰판의 「기사 URL 가져오기」 — 대리인(r.jina.ai)을 거쳐 �
   ③ 출처(언론사)가 비지 않는가 — `og:site_name` 이 없어 대체 경로로 찾는 자리다
   ④ 요약기가 그 본문으로 제목·요약 후보를 만드는가
   ⑤ 본문 붙여넣기(대리인 없이 되는 길)는 여전히 되는가 — 대리인이 죽어도 이건 살아야 한다
+  ⑥ 사진 — `proxy()` 가 감쌀 곳만 감싸는가, 기사 사진이 캔버스에 올라가고 **저장까지** 되는가
+     (그려지는 것만 봐서는 모른다. 캔버스가 오염되면 `toDataURL` 에서야 터진다)
 
     python 시험_폰_기사가져오기.py
 
@@ -194,6 +196,58 @@ def main():
         })()""", timeout=40)
         pj = json.loads(paste)
         ck("붙여넣기는 대리인 없이도 된다", pj.get("ok") and pj.get("t", 0) >= 3, paste)
+
+        print("\n[5] 사진 — 감쌀 곳만 감싸는가")
+        # 이미 CORS 를 주는 곳까지 감싸면, 지금 잘 되는 사진 검색이 남의 서비스와 함께 죽는다
+        for label, url, want_wrap in [
+            ("언론사 사진(CORS 없음)", "https://imgnews.pstatic.net/image/a.png?type=w800", True),
+            ("위키미디어(CORS 줌)", "https://upload.wikimedia.org/wikipedia/commons/thumb/x.jpg", False),
+            ("Openverse(CORS 줌)", "https://api.openverse.org/v1/images/abc/thumb/", False),
+            ("내 사진(data:)", "data:image/png;base64,AAA", False),
+            ("내 사진(blob:)", "blob:http://x/y", False),
+            ("이미 감싼 주소", "https://wsrv.nl/?url=https%3A%2F%2Fa.com%2Fb.png", False),
+        ]:
+            out = ch.js("proxy(%s)" % json.dumps(url))
+            wrapped = str(out).startswith("https://wsrv.nl/?url=") and out != url
+            ck("%s — %s" % (label, "감싼다" if want_wrap else "그대로 둔다"),
+               wrapped == want_wrap, str(out)[:70])
+
+        print("\n[6] 기사 사진을 캔버스에 얹고 저장까지 (오염되면 여기서 터진다)")
+        shot = ch.js("""(async () => {
+          try {
+            const r = await fetch('/api/extract', {method:'POST',
+              headers:{'Content-Type':'application/json'}, body: JSON.stringify({url:%s})});
+            const j = await r.json();
+            if (!j.ok || !(j.images||[]).length)
+              return JSON.stringify({ok:false, err:'기사에 사진이 없다: ' + (j.error||'')});
+            const im = await loadImage(proxy(j.images[0]));
+            const c = document.createElement('canvas'); c.width = 200; c.height = 200;
+            c.getContext('2d').drawImage(im, 0, 0, 200, 200);
+            try { c.toDataURL('image/png'); }
+            catch (e) { return JSON.stringify({ok:false, err:'캔버스 오염 — ' + e.message}); }
+            return JSON.stringify({ok:true, size: im.naturalWidth + 'x' + im.naturalHeight});
+          } catch (e) { return JSON.stringify({ok:false, err:String(e.message||e)}); }
+        })()""" % json.dumps(art), timeout=120)
+        sj = json.loads(shot)
+        ck("기사 사진이 캔버스에 올라가고 저장된다", sj.get("ok"), sj.get("err") or sj.get("size"))
+
+        print("\n[7] 사진 검색 결과도 캔버스에 올라가는가 (대리인 없이)")
+        found = ch.js("""(async () => {
+          const r = await fetch('/api/stock?provider=wikimedia&q=university');
+          const j = await r.json();
+          if (!j.ok || !(j.items||[]).length) return JSON.stringify({ok:false, err:j.error||'결과 없음'});
+          const src = proxy(j.items[0].full || j.items[0].thumb);
+          try {
+            const im = await loadImage(src);
+            const c = document.createElement('canvas'); c.width = 100; c.height = 100;
+            c.getContext('2d').drawImage(im, 0, 0, 100, 100);
+            c.toDataURL('image/png');
+            return JSON.stringify({ok:true, n:j.items.length, viaProxy: src.indexOf('wsrv') >= 0});
+          } catch (e) { return JSON.stringify({ok:false, err:String(e.message||e)}); }
+        })()""", timeout=90)
+        fj = json.loads(found)
+        ck("위키미디어 사진이 캔버스에 올라가고 저장된다", fj.get("ok"), fj.get("err") or ("%s장" % fj.get("n")))
+        ck("위키미디어는 대리인을 거치지 않는다", fj.get("ok") and not fj.get("viaProxy"), fj.get("viaProxy"))
     finally:
         try:
             ch.close()
