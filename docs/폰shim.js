@@ -67,12 +67,34 @@
     : Promise.resolve((download(blob, name), '내려받기 폴더 / ' + name)));
 
   /* ── 기사 가져오기 ──────────────────────────────────────────────────────
-   * 서버가 없으니 언론사 사이트는 대부분 CORS 로 막힌다(정상이다 — 브라우저가
-   * 남의 사이트 본문을 읽지 못하게 막는 것). 그래서 **본문 붙여넣기가 기본**이고,
-   * URL 은 "열려 있으면 덤" 으로만 시도한다. 실패를 조용히 삼키지 않고 이유를 말한다. */
+   * 브라우저는 남의 사이트 본문을 **직접 읽지 못한다**(CORS). 언론사가 우리를
+   * 허락해 줄 리 없으니 직접 부르면 100% `Failed to fetch` 다 — 예전 이 자리의
+   * "열려 있으면 덤" 은 사실상 언제나 실패하는 길이었다.
+   *
+   * 그래서 대신 읽어 주는 대리인을 하나 거친다. `r.jina.ai/<주소>` 는 가입도
+   * 열쇠도 서버도 필요 없고, `x-return-format: html` 을 주면 **렌더링된 HTML**
+   * 을 그대로 돌려준다 — 덕분에 아래 파싱(og:title·#dic_area…)을 한 줄도 고치지
+   * 않는다. 프리플라이트(OPTIONS)까지 통과하는 것을 확인했다.
+   *
+   * 🔴 분당 20회 제한이 있다(키 없이 쓸 때). 넘으면 429 가 오는데, 그냥 실패로
+   *    보이면 사용자가 주소를 의심하게 되므로 아래에서 따로 말해 준다.
+   * 🔴 기사 주소가 jina.ai 를 거친다. 공개된 뉴스 링크라 민감하지 않지만,
+   *    남의 서비스에 기대는 자리라는 것은 알고 있어야 한다. */
+  const READER = 'https://r.jina.ai/';
+
   async function fetchArticle(url) {
-    const r = await global.__nbdFetch(url, { mode: 'cors', credentials: 'omit' });
-    if (!r.ok) throw new Error('HTTP ' + r.status);
+    let r;
+    try {
+      r = await global.__nbdFetch(READER + url, {
+        mode: 'cors', credentials: 'omit', headers: { 'x-return-format': 'html' },
+      });
+    } catch (e) {
+      throw new Error('대신 읽어 주는 곳(r.jina.ai)에 닿지 못했습니다 — 인터넷 연결을 확인해 주세요.');
+    }
+    if (r.status === 429) {
+      throw new Error('잠깐 사이에 너무 많이 불렀습니다(분당 20회). 1분 뒤에 다시 눌러 주세요.');
+    }
+    if (!r.ok) throw new Error('HTTP ' + r.status + ' — 주소가 맞는지, 로그인이 필요한 기사는 아닌지 확인해 주세요.');
     const html = await r.text();
     const doc = new DOMParser().parseFromString(html, 'text/html');
     const meta = (p) => {
@@ -85,9 +107,18 @@
     const body = [...new Set(ps)].join('\n');
     const images = [...doc.querySelectorAll('meta[property="og:image"]')]
       .map(el => el.getAttribute('content')).filter(Boolean);
+    /* 🔴 대리인이 돌려주는 HTML 에는 `og:site_name` 과 `article:published_time` 이
+       빠져 있는 일이 잦다(네이버 실측). 출처 칸(credit)이 비면 카드 아래가 휑하게
+       나가므로, 같은 뜻이 적혀 있는 다른 자리를 차례로 뒤진다. */
+    const firstOf = (...vals) => (vals.find(v => (v || '').trim()) || '').trim();
+    const stamp = doc.querySelector('[data-date-time]');
     return {
       title: meta('og:title') || (doc.querySelector('title') || {}).textContent || '',
-      body, images, press: meta('og:site_name') || '', date: meta('article:published_time') || '',
+      body, images,
+      press: firstOf(meta('og:site_name'), meta('twitter:creator'),
+                     (meta('og:article:author') || '').split('|')[0]),
+      date: firstOf(meta('article:published_time'),
+                    stamp && stamp.getAttribute('data-date-time')),
     };
   }
 
@@ -202,8 +233,8 @@
           res.date = got.date;
           res.url = url;
         } catch (e) {
-          return err('이 판(' + UA_NOTE + ')은 언론사 사이트를 대신 읽어 줄 서버가 없습니다. '
-            + '기사 본문을 복사해 아래 칸에 붙여넣어 주세요. (막힌 이유: ' + e.message + ')');
+          return err('기사를 가져오지 못했습니다: ' + e.message
+            + ' — 계속 안 되면 기사 본문을 복사해 아래 칸에 붙여넣어 주세요(그 길은 항상 됩니다).');
         }
       }
       if (!(res.body || '').trim()) {
