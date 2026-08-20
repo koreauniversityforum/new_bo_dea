@@ -275,7 +275,7 @@ def outro():
     capsule(im, ov, x + tw(cta, cf) / 2 + cpad, 1058, cta, cf, tracking=0, pad=cpad,
             fg=(255, 255, 255), solid=APPLE_BLUE)
     ttext(ImageDraw.Draw(ov, "RGBA"), (W // 2, H - 84),
-          "한국대학생포럼  @universityforum_korea", F("Medium", 27), GRAY2, 2, anchor="ms")
+          "한국대학생포럼  @universityfourm_korea", F("Medium", 27), GRAY2, 2, anchor="ms")
     im.alpha_composite(ov)
     return grain(im)
 

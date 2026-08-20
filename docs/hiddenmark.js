@@ -27,7 +27,7 @@ const HIDDEN = (() => {
     /* ① 숨긴 무늬 */
     on: true,
     org: '한국대학생포럼',
-    handle: '@universityforum_korea',
+    handle: '@universityfourm_korea',
     alpha: 1.5,                // %  (0.3~5). 실측 3%부터 눈에 띄기 시작한다
     size: 30,                  // 글자 크기 px
     gap: 300,                  // 타일 최소 간격 px (실제 폭이 더 넓으면 그쪽을 쓴다)
@@ -56,15 +56,6 @@ const HIDDEN = (() => {
     let s = { ...DEFAULT };
     try { s = { ...DEFAULT, ...JSON.parse(localStorage.getItem(KEY) || '{}') }; }
     catch (e) { /* 처음이거나 깨졌으면 기본값 */ }
-
-    /* 🔴 옛 저장값 고치기 - 계정 철자가 fourm 으로 저장돼 있던 시절이 있다.
-       실제 계정은 universityforum_korea 이고 fourm 쪽은 없는 페이지다(2026-08-20 확인).
-       기본값만 고치면 이미 한 번 저장한 기기에서는 옛 글자가 그대로 남는다. */
-    if (typeof s.handle === 'string' && s.handle.indexOf('fourm') >= 0) {
-      s.handle = s.handle.replace('fourm', 'forum');
-      try { localStorage.setItem(KEY, JSON.stringify(s)); }
-      catch (e2) { /* 못 저장해도 이번 판은 고쳐진 값으로 돈다 */ }
-    }
     _cache = s;
     return s;
   }
