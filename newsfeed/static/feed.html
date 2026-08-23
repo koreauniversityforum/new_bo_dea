@@ -116,6 +116,10 @@
     <h2>3. 글투 고르기</h2>
     <div class="styles" id="styles"></div>
     <button id="btnMake" class="primary" style="width:100%;margin-top:8px">글 만들기</button>
+    <button id="btnMakeAI" class="ai" style="width:100%;margin-top:6px" disabled title="만들기 화면의 「AI 설정」에 키를 넣으면 살아납니다">✨ AI 로 쓰기 (뉴스 전달형·매거진형·짧은 브리핑)</button>
+    <div id="aiPicks" class="chips" style="margin-top:6px"></div>
+    <p class="tip" id="aiNote">AI 글은 <b>만들기 화면 → AI 설정</b>의 키를 그대로 씁니다. 받은 글 3개 중 하나를 누르면 위 칸에 들어갑니다.
+      기사에 있는 사실만 쓰라고 시켜 두었지만 숫자·이름은 올리기 전에 본문과 대조하세요.</p>
 
     <h2>4. 제목 추천 <span class="hint" id="titleNote"></span></h2>
     <p class="tip">고른 글투에 맞는 후보입니다. <b>눌러서 고르고</b>, 아래 칸에서
@@ -359,6 +363,51 @@ $('btnMake').addEventListener('click', async () => {
     $('count').className = 'n' + (j.warn ? ' over' : '');
     if (j.titles) drawTitles(j.titles, j.titleNote);
   } catch (e) { msg($('msg'), e.message, 'err'); }
+});
+
+/* ── AI 로 쓰기 — 만들기 화면(app.js)의 AI 설정(localStorage nb_ai)을 같이 쓴다 ── */
+function aiCfgFeed() {
+  let c = {};
+  try { c = JSON.parse(localStorage.getItem('nb_ai') || '{}'); } catch (e) { c = {}; }
+  const prov = c.provider || 'anthropic';
+  const ready = prov === 'ollama' ? !!(c.omodel || '').trim() : !!(c.key || '').trim();
+  return { ready, on: true, provider: prov, key: c.key || '', model: prov === 'ollama' ? (c.omodel || '') : (c.model || 'claude-opus-5'), base: c.base || '' };
+}
+(function () {
+  const cfg = aiCfgFeed();
+  $('btnMakeAI').disabled = !cfg.ready;
+  if (cfg.ready) $('btnMakeAI').title = (cfg.provider === 'ollama' ? 'Ollama · ' : 'Claude · ') + cfg.model;
+})();
+$('btnMakeAI').addEventListener('click', async () => {
+  readMain();
+  if (!main.body) return msg($('msg'), '기사 본문이 없습니다.', 'err');
+  const p = (typeof PROG !== 'undefined') ? PROG.start('btnMakeAI', 'AI 가 쓰는 중') : null;
+  try {
+    if (p) await p.at(0.15, 'AI 가 쓰는 중');
+    const j = await api('/api/ai', { task: 'caption', text: main.body, title: main.title || '', ai: aiCfgFeed() });
+    const texts = (j.result && j.result.texts) || [];
+    if (!texts.length) throw new Error('AI 가 글을 돌려주지 않았습니다.');
+    const box = $('aiPicks'); box.innerHTML = '';
+    texts.forEach((t, i) => {
+      const c = document.createElement('div'); c.className = 'chip';
+      c.textContent = `${t.style} · ${t.text.length}자`;
+      c.title = t.text.slice(0, 120);
+      c.addEventListener('click', () => {
+        $('out').value = t.text;
+        $('count').textContent = `${t.text.length}자 / 인스타 상한 2,200자 (AI)`;
+        $('count').className = 'n' + (t.text.length > 2200 ? ' over' : '');
+        $('styleName').textContent = t.style + ' (AI)';
+        keepFeed();
+      });
+      box.appendChild(c);
+      if (i === 0) c.click();
+    });
+    if (p) p.done('AI 글');
+    msg($('msg'), `AI 글 ${texts.length}개를 받았습니다. 오른쪽 칩을 눌러 바꿔 보세요. 출처 표기 줄은 직접 붙이세요.`, 'ok');
+  } catch (e) {
+    if (p) p.fail('실패');
+    msg($('msg'), 'AI 실패: ' + e.message, 'err');
+  }
 });
 
 /* ── 제목 추천 ──────────────────────────────────────────────────────────

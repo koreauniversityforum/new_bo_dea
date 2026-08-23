@@ -336,6 +336,8 @@ function drawLogo() {
 }
 
 function render() {
+  // 시리즈의 '뒷장' 이 떠 있으면 앞장 렌더러가 그 위를 덮으면 안 된다 — deck.js 가 대신 그린다
+  if (window.DECK && DECK.isOutroActive()) { DECK.renderOutro(); return; }
   ctx.setTransform(1, 0, 0, 1, 0, 0);
   ctx.clearRect(0, 0, W, H);
   const paper = S.paper || '#20242e';
@@ -382,6 +384,8 @@ function render() {
   // 한국대학생포럼 표시를 눈에 안 보이게 깔아 둔다 (설정은 '워터마크' 화면)
   if (typeof HIDDEN !== 'undefined') HIDDEN.pattern(ctx, W, H);
   saveLocal();
+  // 시리즈 편집기(deck.js)가 있으면 지금 장의 작은 그림을 갱신한다
+  if (window.DECK) DECK.afterRender();
 }
 
 /* ─────────────────────── 이미지 로드 ─────────────────────── */
@@ -428,6 +432,7 @@ function hit(p) {
 }
 
 cv.addEventListener('pointerdown', (ev) => {
+  if (window.DECK && DECK.isOutroActive()) return;      // 뒷장은 여기서 안 만진다
   const p = toCanvas(ev);
   const k = hit(p);
   cv.setPointerCapture(ev.pointerId);
@@ -462,7 +467,7 @@ cv.addEventListener('pointerup', endDrag);
 cv.addEventListener('pointercancel', endDrag);
 
 cv.addEventListener('wheel', (ev) => {
-  if (!bgImg) return;
+  if (!bgImg || (window.DECK && DECK.isOutroActive())) return;
   ev.preventDefault();
   const p = toCanvas(ev);
   const r = bgRect();
@@ -477,6 +482,7 @@ cv.addEventListener('wheel', (ev) => {
 
 document.addEventListener('keydown', (ev) => {
   if (/^(INPUT|TEXTAREA|SELECT)$/.test(ev.target.tagName)) return;
+  if (window.DECK && DECK.isOutroActive()) return;
   const d = ev.shiftKey ? 10 : 2;
   const map = { ArrowLeft: [-d, 0], ArrowRight: [d, 0], ArrowUp: [0, -d], ArrowDown: [0, d] };
   if (!map[ev.key]) return;
@@ -1288,6 +1294,8 @@ function newArticle(opt) {
     S.bg.src = ''; bgImg = null;
     S.bg.x = 0.5; S.bg.y = 0.45; S.bg.zoom = 1;
   }
+  // 시리즈도 새 기사와 함께 한 장으로 돌아간다(디자인은 지금 장 것을 물려받는다)
+  if (window.DECK && !opt.keepDeck) DECK.resetToOne();
   render();
 }
 
@@ -1427,6 +1435,172 @@ $('btnMix').addEventListener('click', async () => {
   }
 });
 
+
+/* ─────────────────────── 디자인 한 벌 (프리셋 · 시리즈 전 장 적용) ───────────────────────
+   "디자인" = 글·사진을 뺀 나머지. 글(layers[k].text)·사진(bg.src/x/y/zoom)은 장마다
+   다르고, 그 밖의 전부(색·글꼴·크기·자리·띠·로고·화살표·보정)는 시리즈 안에서 같아야
+   한 묶음으로 보인다. 프리셋 저장과 「전 장에 적용」이 **같은 함수**를 쓴다. */
+function designOf(st) {
+  st = st || S;
+  const layers = {};
+  TEXT_KEYS.forEach(k => { const { text, ...rest } = st.layers[k]; layers[k] = { ...rest }; });
+  const bands = {};
+  BAND_KEYS.forEach(k => { bands[k] = { ...(st.bands || {})[k] }; });
+  const { src, x, y, zoom, ...bgAdj } = st.bg;
+  return {
+    v: 1,
+    overlay: { ...st.overlay }, paper: st.paper, deco: st.deco, decoColor: st.decoColor,
+    chev: { ...st.chev }, logo: { ...st.logo }, bands, layers, bgAdj
+  };
+}
+function applyDesign(st, d) {
+  if (!d) return st;
+  const out = mergeState(st);
+  if (d.overlay) out.overlay = { ...out.overlay, ...d.overlay };
+  if (d.paper) out.paper = d.paper;
+  if (d.deco) out.deco = d.deco;
+  if (d.decoColor) out.decoColor = d.decoColor;
+  if (d.chev) out.chev = { ...out.chev, ...d.chev };
+  if (d.logo) out.logo = { ...out.logo, ...d.logo };
+  if (d.bgAdj) out.bg = { ...out.bg, ...d.bgAdj };
+  TEXT_KEYS.forEach(k => {
+    if (!d.layers || !d.layers[k]) return;
+    const text = out.layers[k].text;
+    out.layers[k] = { ...out.layers[k], ...d.layers[k], text };
+    out.layers[k].weight = snapWeight(out.layers[k].font, out.layers[k].weight);
+  });
+  BAND_KEYS.forEach(k => {
+    if (!d.bands || !d.bands[k]) return;
+    out.bands[k] = { ...bandDefault(), ...d.bands[k] };
+    out.bands[k].weight = snapWeight(out.bands[k].font, out.bands[k].weight);
+  });
+  return out;
+}
+
+/* ── 내 프리셋 — 이름 붙여 두고 다음 시리즈에 그대로 ── */
+const PRESET_KEY = PURE ? 'nb_presets_pure' : 'nb_presets';
+function presets() { try { return JSON.parse(localStorage.getItem(PRESET_KEY) || '[]'); } catch (e) { return []; } }
+function savePresets(list) { try { localStorage.setItem(PRESET_KEY, JSON.stringify(list)); } catch (e) { /* 용량 초과 */ } }
+function paintPresets() {
+  const el = $('presetSel');
+  if (!el) return;
+  const cur = el.value;
+  el.innerHTML = '';
+  const list = presets();
+  if (!list.length) {
+    const o = document.createElement('option'); o.value = ''; o.textContent = '(저장한 프리셋 없음)'; el.appendChild(o);
+  }
+  list.forEach(p => {
+    const o = document.createElement('option'); o.value = p.name; o.textContent = p.name; el.appendChild(o);
+  });
+  if (cur && list.some(p => p.name === cur)) el.value = cur;
+}
+async function applyDesignEverywhere(d, all) {
+  if (all && window.DECK && DECK.count() > 1) {
+    await DECK.applyDesignAll(d);      // 지금 장 포함 전 장 — 안에서 render 까지
+  } else {
+    S = applyDesign(S, d);
+    if (S.logo.src) logoImg = await loadImage(S.logo.src).catch(() => null); else logoImg = null;
+    syncAllFromState();
+    render();
+    await loadFonts();
+    render();
+  }
+}
+if ($('btnPresetSave')) {
+  paintPresets();
+  $('btnPresetSave').addEventListener('click', () => {
+    const name = ($('presetName').value || '').trim();
+    if (!name) { msg($('fetchMsg'), '프리셋 이름을 적으세요.', 'err'); $('presetName').focus(); return; }
+    const list = presets().filter(p => p.name !== name);
+    list.unshift({ name, at: Date.now(), d: designOf(S) });
+    savePresets(list.slice(0, 40));
+    paintPresets();
+    $('presetSel').value = name;
+    msg($('fetchMsg'), `프리셋 「${name}」 저장 — 글·사진은 빼고 디자인만 담았습니다.`, 'ok');
+  });
+  $('btnPresetLoad').addEventListener('click', async () => {
+    const name = $('presetSel').value;
+    const p = presets().find(x => x.name === name);
+    if (!p) return msg($('fetchMsg'), '불러올 프리셋을 고르세요.', 'err');
+    await applyDesignEverywhere(p.d, $('presetAll').checked);
+    $('presetName').value = name;
+    msg($('fetchMsg'), `프리셋 「${name}」 적용` + ($('presetAll').checked && window.DECK && DECK.count() > 1 ? ' (시리즈 전 장)' : ''), 'ok');
+  });
+  $('btnPresetDel').addEventListener('click', () => {
+    const name = $('presetSel').value;
+    if (!name || !confirm(`프리셋 「${name}」 을 지울까요?`)) return;
+    savePresets(presets().filter(p => p.name !== name));
+    paintPresets();
+  });
+}
+
+/* ─────────────────────── AI 문구 (선택) ───────────────────────
+   규칙기반 옆의 한 길. 키가 없으면 아무것도 바뀌지 않는다.
+   키는 **이 브라우저(localStorage)** 에만 있고 요청마다 우리 서버를 거쳐 제공자에게 간다 —
+   서버 파일에 남기지 않는다(배포 ZIP 에 딸려 나가면 안 된다). */
+const AI_KEY = 'nb_ai';
+function aiLoad() { try { return JSON.parse(localStorage.getItem(AI_KEY) || '{}'); } catch (e) { return {}; } }
+function aiSave(c) { try { localStorage.setItem(AI_KEY, JSON.stringify(c)); } catch (e) { /* */ } }
+/** 화면이 아는 설정 한 벌. ready=키(또는 모델)가 있다, on=시리즈·피드 글까지 AI 로. */
+function aiCfg() {
+  const c = aiLoad();
+  const prov = c.provider || 'anthropic';
+  const ready = prov === 'ollama' ? !!(c.omodel || '').trim() : !!(c.key || '').trim();
+  return { on: !!c.on && ready, ready, provider: prov, key: c.key || '', model: c.model || 'claude-opus-5',
+    omodel: c.omodel || '', base: c.base || '' };
+}
+/** 서버에 보낼 꼴. on=false 면 서버는 규칙기반으로 간다. */
+function aiServerCfg() {
+  const c = aiCfg();
+  return { on: c.on, provider: c.provider, key: c.key, model: c.provider === 'ollama' ? c.omodel : c.model, base: c.base };
+}
+function syncAiPanel() {
+  if (!$('aiProv')) return;
+  const c = aiLoad();
+  $('aiProv').value = c.provider || 'anthropic';
+  $('aiKey').value = c.key || '';
+  $('aiModel').value = c.model || 'claude-opus-5';
+  $('aiOModel').value = c.omodel || '';
+  $('aiOn').checked = !!c.on;
+  const oll = $('aiProv').value === 'ollama';
+  $('aiKeyRow').hidden = oll; $('aiModelRow').hidden = oll; $('aiORow').hidden = !oll;
+  const r = aiCfg();
+  $('aiState').textContent = r.ready
+    ? (oll ? `Ollama · ${r.omodel}` : `Claude · ${r.model}`) + (r.on ? ' · 시리즈·피드 글도 AI' : '')
+    : (oll ? 'Ollama 모델 이름을 적으세요' : '키를 넣으면 ✨ AI 문구 단추가 살아납니다');
+  $('btnAI').disabled = !r.ready;
+  $('btnAI').title = r.ready ? '본문을 AI 에게 주고 제목·후킹·요약 후보를 받습니다' : 'AI 설정에서 키(또는 Ollama 모델)를 먼저 넣으세요';
+}
+if ($('aiProv')) {
+  syncAiPanel();
+  const pick = () => {
+    const c = aiLoad();
+    c.provider = $('aiProv').value; c.key = $('aiKey').value.trim(); c.model = $('aiModel').value;
+    c.omodel = $('aiOModel').value.trim(); c.on = $('aiOn').checked;
+    aiSave(c); syncAiPanel();
+  };
+  ['aiProv', 'aiKey', 'aiModel', 'aiOModel', 'aiOn'].forEach(id => {
+    $(id).addEventListener('input', pick); $(id).addEventListener('change', pick);
+  });
+  $('btnAI').addEventListener('click', async () => {
+    const text = $('inBody').value.trim();
+    if (!text) return msg($('fetchMsg'), '먼저 기사를 가져오거나 본문을 붙여넣으세요.', 'err');
+    const p = PROG.start('btnAI', 'AI 가 읽는 중');
+    try {
+      await p.at(0.15, 'AI 가 읽는 중');
+      const j = await api('/api/ai', { task: 'copy', text, title: $('inTitle').value.trim(), ai: { ...aiServerCfg(), on: true } });
+      await p.at(0.9, '채우는 중');
+      applyAnalysis(j.result);
+      p.done('AI 문구');
+      msg($('fetchMsg'), `AI 후보를 받았습니다 · 제목 ${(j.result.titles || []).length}·후킹 ${(j.result.hooks || []).length}·요약 ${(j.result.summaries || []).length}. 칩을 눌러 고르세요.`, 'ok');
+    } catch (e) {
+      p.fail('실패');
+      msg($('fetchMsg'), 'AI 실패: ' + e.message, 'err');
+    }
+  });
+}
+
 /* ─────────────────────── 저장 ─────────────────────── */
 const outName = () => ($('saveName').value.trim() || '뉴보대_카드');
 
@@ -1521,7 +1695,11 @@ const cardDraft = () => {
   const rows = [t('kicker'), t('title'), t('body')].filter(Boolean);
   return rows.length ? rows.join('\n\n') : '';
 };
-NAV.mount({ stage: () => [{ canvas: outCanvas(), name: outName() }], draft: cardDraft });
+NAV.mount({
+  // 시리즈가 두 장 이상이면 **전부** 담는다(표지→본문→뒷장 순서 그대로 캐러셀).
+  stage: () => (window.DECK && DECK.count() > 1) ? DECK.stageItems() : [{ canvas: outCanvas(), name: outName() }],
+  draft: cardDraft
+});
 $('inUrl').addEventListener('input', () => NAV.setUrl($('inUrl').value));
 
 $('btnOpenOut').addEventListener('click', () => fetch('/api/open-out'));
@@ -1573,30 +1751,28 @@ function syncOverlayControls() {
   updateVals();
 }
 
-async function boot() {
-  // 저장 위치 줄 — 폴더를 고를 수 있는 브라우저에서만 생긴다(save.js)
-  if (typeof SAVE !== 'undefined') SAVE.mount($('saveWhereHost'));
-  try {
-    const raw = localStorage.getItem(STATE_KEY);
-    if (raw) {
-      const old = JSON.parse(raw);
-      const d = defaults();
-      S = {
-        ...d, ...old,
-        bg: { ...d.bg, ...(old.bg || {}) },
-        overlay: { ...d.overlay, ...(old.overlay || {}) },
-        chev: { ...d.chev, ...(old.chev || {}) },
-        logo: { ...d.logo, ...(old.logo || {}) },
-        layers: Object.fromEntries(TEXT_KEYS.map(k =>
-          [k, { ...d.layers[k], ...((old.layers || {})[k] || {}) }])),
-        // 띠는 나중에 생겼다 — 옛 상태에 없으면 기본값(둘 다 꺼짐)
-        bands: Object.fromEntries(BAND_KEYS.map(k =>
-          [k, { ...d.bands[k], ...((old.bands || {})[k] || {}) }]))
-      };
-    }
-  } catch (e) { S = defaults(); }
-  if (!S.bands) S.bands = defaults().bands;
+/** 저장돼 있던 상태(옛 버전 포함)를 지금 기본값 위에 얹어 빠진 칸을 채운다.
+ *  boot() 의 복원과 시리즈 편집기(deck.js)의 장 전환이 **같은 길**을 쓴다. */
+function mergeState(old) {
+  const d = defaults();
+  old = old || {};
+  return {
+    ...d, ...old,
+    bg: { ...d.bg, ...(old.bg || {}) },
+    overlay: { ...d.overlay, ...(old.overlay || {}) },
+    chev: { ...d.chev, ...(old.chev || {}) },
+    logo: { ...d.logo, ...(old.logo || {}) },
+    layers: Object.fromEntries(TEXT_KEYS.map(k =>
+      [k, { ...d.layers[k], ...((old.layers || {})[k] || {}) }])),
+    // 띠는 나중에 생겼다 — 옛 상태에 없으면 기본값(둘 다 꺼짐)
+    bands: Object.fromEntries(BAND_KEYS.map(k =>
+      [k, { ...d.bands[k], ...((old.bands || {})[k] || {}) }]))
+  };
+}
 
+/** 상태 S → 왼쪽·오른쪽 패널 전부. S 를 통째로 갈아 끼운 뒤(복원·장 전환) 부른다. */
+function syncAllFromState() {
+  if (!S.bands) S.bands = defaults().bands;
   Object.entries(TA).forEach(([k, id]) => $(id).value = S.layers[k].text || '');
   document.querySelectorAll('[data-toggle]').forEach(b => {
     const on = S.layers[b.dataset.toggle].on;
@@ -1605,7 +1781,18 @@ async function boot() {
   });
   syncOverlayControls();
   syncBandControls();
-  selectLayer('title');
+  if ($('logoSel')) $('logoSel').value = S.logo.src || '';
+  selectLayer(sel && S.layers[sel] ? sel : 'title');
+}
+
+async function boot() {
+  // 저장 위치 줄 — 폴더를 고를 수 있는 브라우저에서만 생긴다(save.js)
+  if (typeof SAVE !== 'undefined') SAVE.mount($('saveWhereHost'));
+  try {
+    const raw = localStorage.getItem(STATE_KEY);
+    if (raw) S = mergeState(JSON.parse(raw));
+  } catch (e) { S = defaults(); }
+  syncAllFromState();
 
   $('stockKey').value = localStorage.getItem('nb_key_pexels') || '';
 
@@ -1646,4 +1833,5 @@ async function boot() {
   }
 }
 
-boot();
+/* deck.js(시리즈 편집기)가 이 약속 뒤에 붙는다 — 복원이 끝난 S 위에서 장을 세워야 한다 */
+const APP_READY = boot();

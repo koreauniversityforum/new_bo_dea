@@ -339,6 +339,36 @@ def _img_urls(node: Node, base: str):
     return urls
 
 
+# ── 오류·로그인 담벼락을 기사로 오인하지 않기 ──────────────────────────────
+# 가짜 기사 번호로 시험하면 네이버 오류 페이지(341자)를 본문으로 읽고 ok:true 가 났다.
+# 본문 길이만으로는 못 가른다 — 제목·본문의 **문구**를 본다. 짧은 본문(<600자)에 아래
+# 문구가 보이면 기사가 아니라고 판단한다. (긴 본문은 진짜 기사 안에 '로그인' 같은
+# 낱말이 섞일 수 있어 건드리지 않는다.)
+NOT_ARTICLE = re.compile(
+    r"(페이지를 찾을 수 없|존재하지 않는 (기사|페이지)|삭제된 기사|요청하신 페이지|잘못된 (접근|주소|요청)|"
+    r"서비스 (이용에 불편|점검)|일시적인 오류|오류가 발생|접근(이 |이)?(제한|차단)|권한이 없|"
+    r"로그인(이 필요| 후 이용| 해 주세요|하세요|이 필요합니다)|회원 전용|유료 (회원|구독)|"
+    r"404 Not Found|Page Not Found|Access Denied|Forbidden|Too Many Requests|"
+    r"자동 등록 방지|보안 문자|captcha|robot)", re.I)
+
+
+def looks_like_error_page(title: str, body: str) -> str:
+    """기사가 아닌 화면이면 그 까닭 한 줄, 기사면 빈 문자열."""
+    t = (title or "").strip()
+    b = re.sub(r"\s+", " ", body or "").strip()
+    n = len(re.sub(r"\s", "", b))
+    m = NOT_ARTICLE.search(t)
+    if m:
+        return "제목이 오류·안내 페이지 같습니다: " + t[:40]
+    if n < 600:
+        m = NOT_ARTICLE.search(b)
+        if m:
+            return "오류·로그인 안내 페이지입니다(기사 아님): …" + b[max(0, m.start() - 15):m.end() + 15]
+        if n < 80:
+            return "본문이 너무 짧습니다(%d자) - 기사 페이지가 아니거나 본문이 막혀 있습니다." % n
+    return ""
+
+
 def extract(url: str) -> dict:
     raw, ctype, final = fetch(url)
     html = _decode(raw, ctype)
@@ -381,6 +411,10 @@ def extract(url: str) -> dict:
               _img_urls(t.root, final)):
         if u and u not in imgs:
             imgs.append(urljoin(final, u))
+
+    why = looks_like_error_page(title, body)
+    if why:
+        raise ValueError(why + " 기사 본문을 직접 붙여넣어 주세요.")
 
     return {"ok": True, "url": final, "title": title, "press": press,
             "date": date, "body": body, "images": imgs[:24]}

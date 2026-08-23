@@ -24,6 +24,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from urllib.parse import parse_qs, quote, unquote, urlparse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import ai  # noqa: E402
 import appwindow  # noqa: E402
 import extractor  # noqa: E402
 import feed  # noqa: E402
@@ -306,6 +307,10 @@ class Handler(BaseHTTPRequestHandler):
                 return self._extract()
             if u.path == "/api/analyze":
                 return self._analyze()
+            if u.path == "/api/series":
+                return self._series()
+            if u.path == "/api/ai":
+                return self._ai()
             if u.path == "/api/related":
                 return self._related()
             if u.path == "/api/fetch-many":
@@ -375,6 +380,35 @@ class Handler(BaseHTTPRequestHandler):
             return self._err("본문이 비어 있습니다.")
         return self._send(200, {"ok": True,
                                 "analysis": summarizer.analyze(body, d.get("title", ""))})
+
+    def _series(self):
+        """기사 → 표지 + 본문 장 N (시리즈 편집기의 「자동 구성」).
+        AI 설정(`ai`)이 같이 오면 AI 로, 없으면 규칙기반(summarizer.series). 꼴은 같다."""
+        d = self._json_body()
+        body = (d.get("text") or "").strip()
+        if not body:
+            return self._err("본문이 비어 있습니다.")
+        n = int(d.get("n") or 3)
+        cfg = d.get("ai") or {}
+        if cfg.get("on"):
+            out = ai.run("series", body, d.get("title", ""), n, cfg)
+            out["by"] = "ai"
+        else:
+            out = summarizer.series(body, d.get("title", ""), n)
+            out["by"] = "rule"
+        return self._send(200, {"ok": True, "series": out})
+
+    def _ai(self):
+        """AI 문구 - task: copy(앞장 후보) / caption(피드 글). 키는 요청에 실려 오고
+        서버에는 남기지 않는다(로그에도 안 찍는다)."""
+        d = self._json_body()
+        task = (d.get("task") or "copy").strip()
+        body = (d.get("text") or "").strip()
+        if not body:
+            return self._err("본문이 비어 있습니다.")
+        cfg = d.get("ai") or {}
+        out = ai.run(task, body, d.get("title", ""), int(d.get("n") or 3), cfg)
+        return self._send(200, {"ok": True, "result": out, "task": task})
 
     def _related(self):
         """같은 시각대에 나온 유사 기사 찾기. 구글/빙 뉴스 RSS를 쓴다(키 불필요)."""

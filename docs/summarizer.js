@@ -475,8 +475,82 @@
     };
   }
 
+  /* ── 시리즈(캐러셀) 자동 구성 — summarizer.py series() 의 옮김 ──
+     표지 = analyze 첫 후보, 본문 장 = 서로 다른 핵심 문장 하나씩(기사 차례). 종류는
+     문장 생김새로: 숫자 박힌 문장 → number, 따옴표 말 → quote, 나머지 point.
+     소제목 = 그 문장 제목투(44자), 설명 = **다음 문장**(겹쳐 쓰면 싱거워서). */
+  const NUM_RE = /(\d[\d,.]*\s*(?:%|퍼센트|억\s?원|조\s?원|만\s?원|천\s?원|억|조|만\s?명|명|건|배|원|달러|년|개월|일|시간|위|곳|개|대|톤|km|㎞|m|㎡|%p|p))/;
+  function _pick_number(s) {
+    const m = NUM_RE.exec(s);
+    if (!m) return "";
+    return m[1].replace(/\s+/g, "").replace("퍼센트", "%").slice(0, 10);
+  }
+  function _kind_of(s) {
+    const m = /["“]([^"”]{12,80})["”]/.exec(s);
+    if (m) { const q = clean_quote(m[1]); if (q && q.length >= 12) return ["quote", q]; }
+    const n = _pick_number(s);
+    if (n) return ["number", n];
+    return ["point", ""];
+  }
+  const nows = (s) => (s || "").replace(/\s/g, "");
+  function series(text, orig_title, n) {
+    text = _norm(text || "");
+    orig_title = orig_title || "";
+    n = Math.max(1, Math.min(+n || 3, 6));
+    const a = analyze(text, orig_title);
+    const cover = { hook: (a.hooks[0] || ""), title: (a.titles[0] || orig_title), summary: (a.summaries[0] || "") };
+    const sents = sentences(text);
+    const order = new Map(sents.map((s, i) => [s, i]));
+    const ranked = rank_sentences(text, orig_title).map(r => r[0]).filter(s => !is_deck(s));
+    const used = new Set(sents.filter(s => s && cover.summary && cover.summary.indexOf(s.slice(0, 25)) >= 0));
+    const picked = [], seen = new Set();
+    for (const s of ranked) {
+      if (used.has(s) || nows(s).length < 18) continue;
+      const head = _headline_from(s, 30) || _compress(_to_noun(s), 30);
+      const key = nows(head).slice(0, 12);
+      if (!head || seen.has(key)) continue;
+      seen.add(key); picked.push([s, head]);
+      if (picked.length >= n) break;
+    }
+    if (picked.length && !picked.some(([s]) => _kind_of(s)[0] === "number")) {
+      for (const s of ranked) {
+        if (used.has(s) || picked.some(([q]) => q === s)) continue;
+        if (_kind_of(s)[0] !== "number" || nows(s).length < 18) continue;
+        const head = _headline_from(s, 30) || _compress(_to_noun(s), 30);
+        if (head) picked[picked.length - 1] = [s, head];
+        break;
+      }
+    }
+    picked.sort((x, y) => (order.get(x[0]) ?? 999) - (order.get(y[0]) ?? 999));
+    const actor = _actor(orig_title + " " + text.slice(0, 600), orig_title);
+    const pickedSet = new Set(picked.map(p => p[0])), usedNext = new Set();
+    const pages = [];
+    let quotes = 0;
+    picked.forEach(([s], i) => {
+      let [kind, extra] = _kind_of(s);
+      const head = _headline_from(s, 44) || _compress(_to_noun(s), 44);
+      const idx = order.get(s) ?? -1;
+      let nxt = "";
+      for (let j = idx + 1; j < Math.min(idx + 3, sents.length); j++) {
+        const c = sents[j];
+        if (c && !is_deck(c) && !pickedSet.has(c) && !usedNext.has(c) && nows(c).length >= 12) { nxt = c; usedNext.add(c); break; }
+      }
+      const body = nxt ? _compress(nxt, 110) : "";
+      if (kind === "quote" && quotes >= 1) { kind = "point"; extra = ""; }
+      const pg = { kind, label: "POINT " + (i + 1), head, body, num: "", who: "" };
+      if (kind === "number") pg.num = extra;
+      else if (kind === "quote") {
+        quotes++;
+        pg.head = extra; pg.who = actor;
+        pg.body = _compress(s.replace(/["“][^"”]*["”]/g, "").replace(/^[\s,·]+|[\s,·]+$/g, ""), 90) || body;
+      }
+      pages.push(pg);
+    });
+    return { cover, pages, by: "rule" };
+  }
+
   const API = {
-    analyze, titles, hooks, summarize, keywords, topics, topic_words,
+    analyze, series, titles, hooks, summarize, keywords, topics, topic_words,
     sentences, rank_sentences, tokens, josa, is_deck, clean_quote, _norm, _actor, _event,
   };
   root.SUMMARIZER = API;

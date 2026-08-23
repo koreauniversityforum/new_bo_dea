@@ -81,6 +81,19 @@
    * 🔴 기사 주소가 jina.ai 를 거친다. 공개된 뉴스 링크라 민감하지 않지만,
    *    남의 서비스에 기대는 자리라는 것은 알고 있어야 한다. */
   const READER = 'https://r.jina.ai/';
+  const NOT_ARTICLE = /(페이지를 찾을 수 없|존재하지 않는 (기사|페이지)|삭제된 기사|요청하신 페이지|잘못된 (접근|주소|요청)|서비스 (이용에 불편|점검)|일시적인 오류|오류가 발생|접근(이 |이)?(제한|차단)|권한이 없|로그인(이 필요| 후 이용| 해 주세요|하세요|이 필요합니다)|회원 전용|유료 (회원|구독)|404 Not Found|Page Not Found|Access Denied|Forbidden|Too Many Requests|자동 등록 방지|보안 문자|captcha|robot)/i;
+  function looksLikeErrorPage(title, body) {
+    const t = (title || '').trim();
+    const b = (body || '').replace(/\s+/g, ' ').trim();
+    const n = b.replace(/\s/g, '').length;
+    if (NOT_ARTICLE.test(t)) return '제목이 오류·안내 페이지 같습니다: ' + t.slice(0, 40);
+    if (n < 600) {
+      const m = NOT_ARTICLE.exec(b);
+      if (m) return '오류·로그인 안내 페이지입니다(기사 아님): …' + b.slice(Math.max(0, m.index - 15), m.index + m[0].length + 15);
+      if (n < 80) return '본문이 너무 짧습니다(' + n + '자) - 기사 페이지가 아니거나 본문이 막혀 있습니다.';
+    }
+    return '';
+  }
 
   async function fetchArticle(url) {
     let r;
@@ -112,8 +125,13 @@
        나가므로, 같은 뜻이 적혀 있는 다른 자리를 차례로 뒤진다. */
     const firstOf = (...vals) => (vals.find(v => (v || '').trim()) || '').trim();
     const stamp = doc.querySelector('[data-date-time]');
+    const title = meta('og:title') || (doc.querySelector('title') || {}).textContent || '';
+    /* 🔴 오류·로그인 담벼락을 기사로 읽던 미결 — 가짜 기사 번호면 네이버 오류 페이지
+       (341자)를 본문으로 받아 ok 가 났다. 서버 extractor.looks_like_error_page 와 같은 규칙. */
+    const why = looksLikeErrorPage(title, body);
+    if (why) throw new Error(why);
     return {
-      title: meta('og:title') || (doc.querySelector('title') || {}).textContent || '',
+      title,
       body, images,
       press: firstOf(meta('og:site_name'), meta('twitter:creator'),
                      (meta('og:article:author') || '').split('|')[0]),
@@ -244,6 +262,16 @@
       return json(res);
     }
 
+    if (path === '/api/series') {
+      const text = (body.text || '').trim();
+      if (!text) return err('본문이 비어 있습니다.');
+      if (typeof S.series !== 'function') return err('이 폰판은 시리즈 자동 구성이 없는 옛 판입니다. 새로고침해 보세요.');
+      return json({ ok: true, series: S.series(text, body.title || '', body.n || 3) });
+    }
+    if (path === '/api/ai') {
+      return err('AI 문구는 PC 앱(뉴보대 카드뉴스 메이커)에서만 됩니다. 폰판은 서버가 없어 규칙기반으로 갑니다.');
+    }
+
     if (path === '/api/stock') {
       const prov = query.get('provider') || 'openverse';
       const term = (query.get('q') || '').trim();
@@ -359,6 +387,10 @@
    * 서버가 있어야만 되는 단추(폴더 열기·폴더 정리·인스타 올리기·피드 글·주제 찾기)를
    * 남겨 두면 눌렀을 때 오류만 본다. 폰판에서는 아예 감춘다. */
   const HIDE = ['#btnOpenOut', '[data-insta-slot]', '.insta-btn',
+    /* AI 문구는 우리 서버를 거쳐 제공자로 가는 길이라 서버 없는 폰판에는 없다 */
+    '#btnAI', '#aiBox', '#btnMakeAI',
+    /* 시리즈 「out 폴더에 저장」— 폰판은 out 폴더가 없다(PNG 전부 = 내려받기 는 남긴다) */
+    '#btnDeckSaveAll',
     /* `out 폴더에 저장` 은 폰판에서 `PNG 내려받기` 와 결과가 같다 — 단추가 둘이면
        어느 쪽이 진짜인지 헷갈리므로 하나만 남긴다. */
     '#btnSave',

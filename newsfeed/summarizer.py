@@ -498,3 +498,121 @@ def analyze(text: str, orig_title: str = "") -> dict:
         "keywords": keywords(text, 10),
         "sentences": [s for s, _ in rank_sentences(text, orig_title)[:8]],
     }
+
+
+# ── 시리즈(캐러셀) 자동 구성 ──────────────────────────────────────────────
+# 기사 하나를 「표지 + 본문 장 N + (뒷장)」으로 나눈다. 앞장(표지)은 analyze() 의
+# 첫 후보를 그대로 쓰고, 본문 장은 **서로 다른 핵심 문장** 하나씩을 맡는다.
+# 장의 종류는 문장 생김새로 고른다 — 숫자가 박힌 문장은 '숫자 강조', 따옴표 안의
+# 말은 '인용', 나머지는 '포인트'. 같은 문장을 두 장에 쓰지 않고, 기사 차례를
+# 지킨다(읽는 순서가 기사 전개와 같아야 헷갈리지 않는다).
+_NUM_RE = re.compile(
+    r"(\d[\d,.]*\s*(?:%|퍼센트|억\s?원|조\s?원|만\s?원|천\s?원|억|조|만\s?명|명|건|배|원|"
+    r"달러|년|개월|일|시간|위|곳|개|대|톤|km|㎞|m|㎡|%p|p))")
+
+
+def _pick_number(s: str) -> str:
+    """문장에서 카드에 크게 박을 숫자 한 토막. 없으면 빈 문자열."""
+    m = _NUM_RE.search(s)
+    if not m:
+        return ""
+    n = re.sub(r"\s+", "", m.group(1))
+    n = n.replace("퍼센트", "%")
+    return n[:10]
+
+
+def _kind_of(s: str):
+    """문장 → (장 종류, 덧붙이는 값). quote 는 따옴표 안 글, number 는 숫자."""
+    m = re.search(r"[\"“]([^\"”]{12,80})[\"”]", s)
+    if m:
+        q = clean_quote(m.group(1))
+        if q and len(q) >= 12:
+            return "quote", q
+    n = _pick_number(s)
+    if n:
+        return "number", n
+    return "point", ""
+
+
+def series(text: str, orig_title: str = "", n: int = 3) -> dict:
+    """기사 → 표지 1장 + 본문 장 n장 재료. 뒷장은 화면이 붙인다.
+
+    돌려주는 꼴(AI 판 `ai.series()` 와 **같다** — 화면은 둘을 구별하지 않는다):
+      { "cover": {"hook","title","summary"},
+        "pages": [ {"kind": "point|number|quote", "label": "POINT 1",
+                    "head": "...", "body": "...", "num": "38%", "who": "..."} ] }
+    """
+    text = _norm(text or "")
+    n = max(1, min(int(n or 3), 6))
+    a = analyze(text, orig_title)
+    cover = {
+        "hook": (a["hooks"] or [""])[0],
+        "title": (a["titles"] or [orig_title or ""])[0],
+        "summary": (a["summaries"] or [""])[0],
+    }
+    sents = sentences(text)
+    order = {s: i for i, s in enumerate(sents)}
+    ranked = [s for s, _ in rank_sentences(text, orig_title) if not is_deck(s)]
+    # 표지 요약문에 이미 쓴 문장은 본문 장에서 뺀다 — 같은 말이 두 번 나오면 싱겁다
+    used = set(s for s in sents if s and cover["summary"] and s[:25] in cover["summary"])
+    picked = []
+    seen_heads = set()
+    for s in ranked:
+        if s in used:
+            continue
+        if len(re.sub(r"\s", "", s)) < 18:
+            continue
+        head = _headline_from(s, 30) or _compress(_to_noun(s), 30)
+        key = re.sub(r"\s", "", head)[:12]
+        if not head or key in seen_heads:
+            continue
+        seen_heads.add(key)
+        picked.append((s, head))
+        if len(picked) >= n:
+            break
+    # 숫자가 박힌 문장이 하나도 안 뽑혔는데 기사에 있으면, 순위가 가장 낮은 포인트 장과
+    # 바꾼다 — 카드뉴스에서 숫자 한 장은 가장 잘 읽히는 장이라서(기사에 숫자가 있을 때만).
+    if picked and not any(_kind_of(s)[0] == "number" for s, _ in picked):
+        for s in ranked:
+            if s in used or any(s == q for q, _ in picked):
+                continue
+            if _kind_of(s)[0] != "number" or len(re.sub(r"\s", "", s)) < 18:
+                continue
+            head = _headline_from(s, 30) or _compress(_to_noun(s), 30)
+            if head:
+                picked[-1] = (s, head)
+            break
+    picked.sort(key=lambda p: order.get(p[0], 999))       # 기사 전개 순서로
+    actor = _actor(orig_title + " " + text[:600], prefer=orig_title)
+    pages = []
+    quotes_used = 0
+    picked_set = set(q for q, _ in picked)
+    used_next = set()
+    for i, (s, head) in enumerate(picked, 1):
+        kind, extra = _kind_of(s)
+        # 소제목 = 그 문장을 제목투로(3줄까지 허용), 설명 = **다음 문장**(기사 전개를 잇는다).
+        # 같은 문장을 소제목·설명에 겹쳐 쓰면 '…' 로 잘린 앞토막 + 전문이 두 번 나와 싱겁다.
+        head = _headline_from(s, 44) or _compress(_to_noun(s), 44)
+        idx = order.get(s, -1)
+        nxt = ""
+        for j in range(idx + 1, min(idx + 3, len(sents))):
+            cand = sents[j]
+            if (cand and not is_deck(cand) and cand not in picked_set and cand not in used_next
+                    and len(re.sub(r"\s", "", cand)) >= 12):
+                nxt = cand
+                used_next.add(cand)
+                break
+        body = _compress(nxt, 110) if nxt else ""
+        if kind == "quote" and quotes_used >= 1:          # 인용 장은 한 장이면 족하다
+            kind, extra = "point", ""
+        pg = {"kind": kind, "label": f"POINT {i}", "head": head,
+              "body": body, "num": "", "who": ""}
+        if kind == "number":
+            pg["num"] = extra
+        elif kind == "quote":
+            quotes_used += 1
+            pg["head"] = extra                              # 인용 장의 큰 글씨 = 인용문
+            pg["who"] = actor
+            pg["body"] = _compress(re.sub(r"[\"“][^\"”]*[\"”]", "", s).strip(" ,·"), 90) or body
+        pages.append(pg)
+    return {"cover": cover, "pages": pages}

@@ -43,8 +43,28 @@
     <div class="row">
       <input id="inTitle" type="text" placeholder="원문 제목(선택)">
       <button id="btnAnalyze" class="sm">본문 분석</button>
+      <button id="btnAI" class="sm ai" disabled title="AI 설정에서 키를 먼저 넣으세요">✨ AI 문구</button>
     </div>
     <div id="fetchMsg" class="msg"></div>
+    <details class="cfg" id="aiBox">
+      <summary>AI 설정 <span class="hint" id="aiState"></span></summary>
+      <div class="ctl"><label>제공자</label>
+        <select id="aiProv">
+          <option value="anthropic">Claude API (키 필요)</option>
+          <option value="ollama">Ollama (내 PC · 키 없음)</option>
+        </select></div>
+      <div class="ctl" id="aiKeyRow"><label>API 키</label><input id="aiKey" type="password" placeholder="sk-ant-… (console.anthropic.com 에서 발급)"></div>
+      <div class="ctl" id="aiModelRow"><label>모델</label>
+        <select id="aiModel">
+          <option value="claude-opus-5">Claude Opus 5 (기본 · 가장 좋음)</option>
+          <option value="claude-sonnet-5">Claude Sonnet 5 (빠르고 쌈)</option>
+          <option value="claude-haiku-4-5">Claude Haiku 4.5 (가장 쌈)</option>
+        </select></div>
+      <div class="ctl" id="aiORow" hidden><label>모델 이름</label><input id="aiOModel" type="text" placeholder="예: gemma3 · llama3.1 (ollama list 에 나오는 이름)"></div>
+      <div class="ctl"><label>범위</label><label class="tip" style="width:auto;flex:1"><input type="checkbox" id="aiOn"> 시리즈 자동 구성·피드 글도 AI 로 (끄면 규칙기반)</label></div>
+      <p class="tip">키는 <b>이 브라우저에만</b> 저장되고, 누를 때만 이 앱을 거쳐 제공자로 갑니다. 키가 없어도 앱은 그대로 돕니다(규칙기반).
+        AI 는 <b>기사에 있는 사실만</b> 쓰라고 시켜 두었지만, 숫자·이름은 올리기 전에 본문과 한 번 대조하세요.</p>
+    </details>
 
     <h2>2. 문구 고르기 <span class="hint">후보를 클릭 → 아래에서 자유롭게 수정</span></h2>
 
@@ -140,10 +160,36 @@
   </section>
 
   <!-- ────────── 중앙: 캔버스 ────────── -->
-  <section class="stage">
+  <section class="stage has-deck">
+    <!-- 시리즈(캐러셀) 띠 — 장 목록·추가·자동 구성·전체 저장. deck.js 가 채운다 -->
+    <div id="deckBar" class="deck-bar">
+      <div id="deckPages" class="deck-pages"></div>
+      <div class="deck-tools">
+        <div class="deck-add">
+          <button id="btnDeckAdd" class="sm" title="지금 장의 디자인을 물려받은 새 장을 뒤에 붙입니다">+ 장 추가 ▾</button>
+          <div id="deckAddMenu" class="deck-menu" hidden>
+            <button data-tpl="point">포인트 <em>POINT n · 소제목 · 설명</em></button>
+            <button data-tpl="number">숫자 강조 <em>큰 숫자 하나 · 설명</em></button>
+            <button data-tpl="quote">인용 <em>따옴표 큰 글 · 발언자</em></button>
+            <button data-tpl="list">목록 <em>핵심 ①②③ 줄글</em></button>
+            <button data-tpl="cover">표지형 <em>후킹 · 제목 · 요약</em></button>
+            <button data-tpl="blank">빈 장 <em>글 없이 디자인만</em></button>
+            <button data-tpl="outro">뒷장 <em>팔로우 유도 · 「뒷장 만들기」 설정 그대로</em></button>
+          </div>
+        </div>
+        <button id="btnDeckAuto" class="sm primary" title="기사 본문을 표지 + 본문 장으로 나눠 한 번에 만듭니다">자동 구성</button>
+        <select id="deckAutoN" title="본문 장 수"><option value="2">본문 2장</option><option value="3" selected>본문 3장</option><option value="4">본문 4장</option><option value="5">본문 5장</option></select>
+        <label class="deck-chk" title="마지막에 뒷장(팔로우 유도)을 붙입니다"><input type="checkbox" id="deckAutoOutro" checked> 뒷장</label>
+        <span class="deck-sep"></span>
+        <button id="btnDeckDesignAll" class="sm ghost" title="지금 장의 디자인(색·글꼴·띠·로고)을 모든 장에 입힙니다. 글·사진은 그대로">디자인 전 장 적용</button>
+        <button id="btnDeckSaveAll" class="sm" title="모든 장을 번호 붙여 한 번에 저장합니다">시리즈 저장</button>
+        <button id="btnDeckDownloadAll" class="sm ghost" title="모든 장을 PNG 로 내려받습니다">PNG 전부</button>
+      </div>
+    </div>
     <div id="dropzone" class="canvas-box">
       <canvas id="cv" width="1080" height="1350"></canvas>
       <div id="dropHint" class="drop-hint">여기로 사진을 끌어다 놓으세요</div>
+      <div id="deckOutroNote" class="deck-outro-note" hidden>뒷장은 <a href="outro.html">뒷장 만들기 →</a> 화면에서 고칩니다. 여기서는 순서·저장만.</div>
     </div>
     <div class="stage-foot">
       <span id="selInfo">선택: 없음</span>
@@ -167,6 +213,18 @@
 
     <div class="subhead">색 테마</div>
     <div id="themes" class="themes"></div>
+
+    <div class="subhead">내 프리셋 <span class="hint">지금 디자인을 이름 붙여 두고 다음 시리즈에</span></div>
+    <div class="row">
+      <input id="presetName" type="text" placeholder="예: 시사 남색 · 경제 노랑">
+      <button id="btnPresetSave" class="sm">저장</button>
+    </div>
+    <div class="row">
+      <select id="presetSel"></select>
+      <button id="btnPresetLoad" class="sm">불러오기</button>
+      <button id="btnPresetDel" class="sm ghost">삭제</button>
+    </div>
+    <label class="tip"><input type="checkbox" id="presetAll" checked> 불러올 때 시리즈 전 장에 적용</label>
 
     <div class="subhead">배경 어둡게 (그라데이션)</div>
     <div class="ctl"><label>세기</label><input id="ovStrength" type="range" min="0" max="100" value="88"><span class="val"></span></div>
@@ -266,5 +324,9 @@
 <!-- 브랜드 토큰(브랜드_동기화.py 가 만든 정적 파일). 없어도 앱은 그대로 돈다 -->
 <script src="brands.js" onerror="window.BRAND_STYLES = window.BRAND_STYLES || []"></script>
 <script src="app.js"></script>
+<!-- 시리즈(캐러셀) 편집기 — 뒷장을 같은 장으로 그리려면 outro.js·outrostate.js 가 먼저 와야 한다 -->
+<script src="outro.js"></script>
+<script src="outrostate.js"></script>
+<script src="deck.js"></script>
 </body>
 </html>
