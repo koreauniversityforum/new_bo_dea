@@ -161,8 +161,13 @@
     </div>
   </div>
 
+  <div class="card">
+    <h3>4. 추천 노래 <span class="cnt">인스타에서 고르세요</span></h3>
+    <div id="bgmHost"></div>
+  </div>
+
   <div class="card warn">
-    <h3>4. 올리기</h3>
+    <h3>5. 올리기</h3>
     <div class="row">
       <button id="btnDry" class="grow">시험 실행 (공유 안 누름)</button>
       <button id="btnGo" class="danger" disabled>실제로 게시하기</button>
@@ -181,6 +186,7 @@
 
 </div>
 
+<script src="/static/bgm.js"></script>
 <script src="/static/hiddenmark.js"></script>
 <script src="/static/prog.js"></script>
 <script src="/static/nav.js"></script>
@@ -197,6 +203,14 @@ let stageDir = '';
 const ratios = {};       // 'dir|name' → 가로/세로. 그림이 실제로 뜬 뒤에만 채워진다
 
 const key = p => p.dir + '|' + p.name;
+
+/* 추천 노래 — 캡션이 곧 이 게시물의 성격이라 캡션 글로 잡는다.
+   캡션이 아직 비었으면 고른 그림 이름으로라도 잡는다(표지·경제 같은 말이 들어 있다). */
+const BGM = window.NB_BGM ? NB_BGM.mount($('#bgmHost'), () => ({
+  title: ($('#cap').value || '').split(/\r?\n/)[0].trim(),
+  body: ($('#cap').value || '') + ' ' + picks.map(p => p.name).join(' '),
+  cat: ''
+})) : null;
 const thumbUrl = p => '/api/insta-thumb?dir=' + encodeURIComponent(p.dir) +
                       '&name=' + encodeURIComponent(p.name);
 
@@ -547,12 +561,13 @@ function updateCap(){
   const n = $('#cap').value.length;
   $('#capLen').textContent = n;
   $('#capOver').textContent = n > 2200 ? '· 2,200자를 넘어 인스타가 자릅니다.' : '';
+  if (BGM) BGM.redraw();          // 캡션이 바뀌면 추천도 다시 잡는다
   invalidate();
 }
 
 function invalidate(){ dryOk = false; $('#btnGo').disabled = true; }
 
-/* ── 4. 올리기 ───────────────────────────────────────────────────────── */
+/* ── 5. 올리기 ───────────────────────────────────────────────────────── */
 async function run(dry){
   const cap = $('#cap').value.trim();
   if(!picks.length){ alert('올릴 그림을 고르세요.'); return; }

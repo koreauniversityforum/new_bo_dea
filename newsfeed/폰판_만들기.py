@@ -36,7 +36,8 @@ OUT = os.path.join(os.path.dirname(BASE), "docs")
 PAGES = ["index.html", "outro.html", "mark.html", "reel.html", "refs.html"]
 SCRIPTS = ["app.js", "brands.js", "nav.js", "prog.js", "hiddenmark.js",
            "outro.js", "outrostate.js", "refs.js", "save.js", "style.css",
-           "deck.js"]                       # 시리즈(캐러셀) 편집기 - 2026-08-23
+           "deck.js",                      # 시리즈(캐러셀) 편집기 - 2026-08-23
+           "bgm.js"]                        # 추천 노래(무드+검색어) - 2026-08-24
 EXTRA = ["summarizer.js", "폰shim.js", "README.md",
          # 메타 로그인이 끝나고 돌아올 자리. 화면 코드가 아니라 **주소창의 code 를
          # 보여 주기만 하는** 한 장이라 폰shim 을 끼우지 않는다(PAGES 가 아닌 이유).

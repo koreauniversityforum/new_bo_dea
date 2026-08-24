@@ -935,6 +935,16 @@ async function applyStyle(st) {
   render();                 // 폰트가 아직이어도 일단 보여 주고
   await loadFonts();
   render();                 // 폰트가 뜨면 제대로 다시
+
+  /* 추천 노래 — 카드에 적은 글과 기사 원문을 함께 본다.
+     카드 글(후킹·제목·요약)이 그 카드의 성격을 제일 잘 말해 주고,
+     기사 본문은 카드에 안 실린 맥락을 채워 준다. */
+  BGM = window.NB_BGM ? NB_BGM.mount($('bgmHost'), () => ({
+    title: [layerText('kicker'), layerText('title')].filter(Boolean).join(' ') ||
+           $('inTitle').value.trim(),
+    body: [layerText('body'), $('inBody').value.trim()].filter(Boolean).join('\n'),
+    cat: ''
+  })) : null;
 }
 
 if (PURE) {
@@ -1604,6 +1614,10 @@ if ($('aiProv')) {
 /* ─────────────────────── 저장 ─────────────────────── */
 const outName = () => ($('saveName').value.trim() || '뉴보대_카드');
 
+/* 켜져 있는 글자 층의 글만 꺼낸다 (꺼 둔 층은 카드에 안 보이므로 셈에서 뺀다) */
+const layerText = k => (S.layers[k] && S.layers[k].on ? (S.layers[k].text || '').trim() : '');
+let BGM = null;   // bgm.js 가 만들어 주는 추천 노래 패널
+
 /* 내보낼 때만 파일 속에 글자를 심는다. 미리보기 캔버스는 건드리지 않는다. */
 const outCanvas = () => (typeof HIDDEN !== 'undefined')
   ? HIDDEN.exportCanvas(cv, { name: outName() }) : cv;
@@ -1679,6 +1693,7 @@ $('btnSave').addEventListener('click', async () => {
       f => p.at(0.55 + 0.42 * f, '보내는 중'));
     p.done('저장함');
     msg($('fetchMsg'), '저장했습니다 → ' + j.path + hiddenNote(), 'ok');
+    if (BGM) BGM.redraw();   // 카드가 완성됐으니 지금 글로 노래를 다시 잡는다
   } catch (e) {
     p.fail(e.message);
     msg($('fetchMsg'), e.message, 'err');

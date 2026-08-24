@@ -312,6 +312,9 @@
     <div class="subhead">저장 이름</div>
     <input id="saveName" type="text" placeholder="뉴보대_카드">
     <div id="saveWhereHost"></div>
+
+    <div class="subhead">인스타에 올릴 때 <span class="hint">저장하면 다시 잡습니다</span></div>
+    <div id="bgmHost"></div>
   </section>
 </main>
 
@@ -323,6 +326,7 @@
 <script src="config.js"></script>
 <!-- 브랜드 토큰(브랜드_동기화.py 가 만든 정적 파일). 없어도 앱은 그대로 돈다 -->
 <script src="brands.js" onerror="window.BRAND_STYLES = window.BRAND_STYLES || []"></script>
+<script src="bgm.js"></script>
 <script src="app.js"></script>
 <!-- 시리즈(캐러셀) 편집기 — 뒷장을 같은 장으로 그리려면 outro.js·outrostate.js 가 먼저 와야 한다 -->
 <script src="outro.js"></script>

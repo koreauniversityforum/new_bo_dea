@@ -132,13 +132,16 @@
       <b>카드가 화면 가운데, 뒤는 그 카드를 흐려 채운 바탕</b>, 장마다 천천히
       확대(켄 번즈), 장 사이 0.35초 크로스페이드, 아래 진행줄.<br><br>
       🔇 <b>소리는 넣지 않습니다.</b> 언론사·매거진 계정도 업로드하며 인스타 앱에서
-      유행 음악을 고르는 방식이 보통이고, 그쪽이 노출에도 유리합니다.<br><br>
+      유행 음악을 고르는 방식이 보통이고, 그쪽이 노출에도 유리합니다.
+      어떤 결의 곡을 고르면 좋을지는 아래 <b>추천 노래</b>를 참고하세요.<br><br>
       ⚠ 녹화는 실제 시간만큼 걸립니다(15초 릴스 = 15초). <b>녹화 중 창을 최소화하지
       마세요</b> — 화면이 멈춘 채 녹화됩니다.<br><br>
       📺 왼쪽 <b>관련 숏폼 참고</b>는 유튜브·인스타의 같은 주제 숏폼을 보여 주는
       벤치마킹용입니다. <b>남의 영상을 내려받아 릴스에 넣지는 않습니다</b>(저작권) —
       구도·자막·전개만 참고하세요.
     </p>
+
+    <div id="bgmHost"></div>
   </section>
 
 </main>
@@ -149,6 +152,7 @@
   <button id="btnPlayClose" class="ghost" style="padding:8px 20px;font-size:13px">닫기</button>
 </div>
 
+<script src="/static/bgm.js"></script>
 <script src="/static/save.js"></script>
 <script src="/static/nav.js"></script>
 <script>
@@ -163,6 +167,16 @@ const W = 1080, H = 1920, FPS = 30, FADE = 0.35, ZOOM = 0.055;
 const ACCENT = '#3b6ef5', PAPER = '#0d0f14';
 
 let picked = [];              // { dir, name, img(HTMLImageElement), bg(canvas) }
+
+/* 추천 노래 — 릴스는 음악 비중이 커서 여기서 결을 먼저 정하고 인스타에서 고른다.
+   릴스 화면은 카드 본문을 안 들고 있으므로(그림만 담는다) 기사 제목과
+   담은 카드 이름으로 잡는다. 담을 때마다 다시 잡히게 redraw 를 걸어 둔다. */
+const BGM = window.NB_BGM ? NB_BGM.mount($('bgmHost'), () => ({
+  title: $('shortsQ').value.trim(),
+  body: picked.map(it => it.name).join(' '),
+  cat: ''
+})) : null;
+
 let blob = null, blobExt = 'mp4';
 
 const msg = (t, c) => { const e = $('msg'); e.className = 'msg ' + (c || ''); e.textContent = t; };
@@ -246,6 +260,7 @@ function preview() {
     : '예상 길이 –';
   $('btnMake').disabled = !picked.length;
   $('cnt').textContent = picked.length + '장';
+  if (BGM) BGM.redraw();          // 담은 카드가 바뀌면 추천도 다시 잡는다
 }
 
 /* ── 고르기 화면 ──────────────────────────────────────────────────── */
