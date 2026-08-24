@@ -1,6 +1,7 @@
 # 다시 구우면 나오는 것들 — 깃에 넣으면 영원히 따라다닌다
 앱/
-build/
+build/*
+!build/*.spec
 *.zip
 *.exe
 *.lnk
