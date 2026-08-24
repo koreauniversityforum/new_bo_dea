@@ -427,6 +427,9 @@
       if (!raw) return false;
       const j = JSON.parse(raw);
       if (!j || !Array.isArray(j.pages) || !j.pages.length) return false;
+      // 한 장짜리는 앱의 원래 저장(nb_state)이 진실이다 — 두 곳이 갈라지지 않게 여기선 물러난다.
+      // (장이 둘 이상일 때만 장 목록이 진실.) 옛 상태 복원·다른 시험들이 nb_state 만 본다.
+      if (j.pages.length === 1 && j.pages[0].kind !== 'outro') return false;
       j.pages.forEach(p => {
         if (p.kind === 'outro') pages.push({ id: p.id || uid(), kind: 'outro', tpl: 'outro', S: null, bgImg: null, outroId: p.outroId || '', thumb: null });
         else pages.push({ id: p.id || uid(), kind: 'card', tpl: p.tpl || 'cover', S: mergeState(p.S || {}), bgImg: null, thumb: null });

@@ -37,7 +37,14 @@ PAGES = ["index.html", "outro.html", "mark.html", "reel.html", "refs.html"]
 SCRIPTS = ["app.js", "brands.js", "nav.js", "prog.js", "hiddenmark.js",
            "outro.js", "outrostate.js", "refs.js", "save.js", "style.css",
            "deck.js"]                       # 시리즈(캐러셀) 편집기 - 2026-08-23
-EXTRA = ["summarizer.js", "폰shim.js", "README.md"]
+EXTRA = ["summarizer.js", "폰shim.js", "README.md",
+         # 메타 로그인이 끝나고 돌아올 자리. 화면 코드가 아니라 **주소창의 code 를
+         # 보여 주기만 하는** 한 장이라 폰shim 을 끼우지 않는다(PAGES 가 아닌 이유).
+         "connect.html"]
+
+# 🔴 docs/ 를 비울 때 남겨 둘 것. `올림/` 은 메타 API 가 게시하는 동안 그림을 잠깐
+#    올려 두는 자리다 - 여기서 지워 버리면 올리던 중에 그림이 사라진다.
+KEEP = {".git", "올림"}
 
 
 def fail(msg):
@@ -129,10 +136,10 @@ def build():
     if not os.path.isdir(STATIC):
         fail("static 폴더가 없습니다: " + STATIC)
     # 🔴 폴더를 통째로 지우면 안 된다. 이 폴더가 곧 깃 저장소(=올리는 곳)라
-    #    `.git` 까지 날아가 버린다. 안에 든 것만 비우고 `.git` 은 남긴다.
+    #    `.git` 까지 날아가 버린다. 안에 든 것만 비우고 KEEP 은 남긴다.
     os.makedirs(OUT, exist_ok=True)
     for name in os.listdir(OUT):
-        if name == ".git":
+        if name in KEEP:
             continue
         p = os.path.join(OUT, name)
         shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
