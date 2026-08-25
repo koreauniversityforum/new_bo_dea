@@ -15,6 +15,7 @@ import os
 import re
 import socket
 import struct
+import subprocess
 import sys
 import threading
 import time
@@ -72,6 +73,39 @@ os.makedirs(OUT, exist_ok=True)
 os.makedirs(ASSETS, exist_ok=True)
 
 SAFE_NAME = re.compile(r'[\\/:*?"<>|\r\n\t]')
+
+
+def _studio_exe():
+    """동봉한 Shortform Studio 실행 파일을 찾는다. 없으면 None.
+
+    찾는 순서: ① NB_SHORTFORM_EXE 환경변수 ② exe 옆 shortform\\ (배포본)
+    ③ 뉴보대\\앱\\<판>\\shortform\\ (소스로 돌 때) ④ ~/shortform-studio/dist*/win-unpacked
+    (개발 PC, 가장 최근 빌드). 🔴 PyInstaller 는 앱 폴더를 통째로 지우고 다시 만드니
+    shortform\\ 은 **빌드 뒤에** 다시 복사해 넣어야 한다.
+    """
+    cands = []
+    env = os.environ.get("NB_SHORTFORM_EXE")
+    if env:
+        cands.append(env)
+    if getattr(sys, "frozen", False):
+        here = os.path.dirname(os.path.abspath(sys.executable))
+        cands.append(os.path.join(here, "shortform", "Shortform Studio.exe"))
+    app_root = os.path.join(os.path.dirname(BASE), "앱")
+    for name in ("뉴보대 카드뉴스 메이커", "뉴보대 카드뉴스 메이커 (pure)"):
+        cands.append(os.path.join(app_root, name, "shortform", "Shortform Studio.exe"))
+    dev = os.path.join(os.path.expanduser("~"), "shortform-studio")
+    if os.path.isdir(dev):
+        try:
+            dists = [d for d in os.listdir(dev) if d.startswith("dist")]
+            dists.sort(key=lambda d: os.path.getmtime(os.path.join(dev, d)), reverse=True)
+            for d in dists:
+                cands.append(os.path.join(dev, d, "win-unpacked", "Shortform Studio.exe"))
+        except OSError:
+            pass
+    for c in cands:
+        if os.path.isfile(c):
+            return c
+    return None
 
 VERBOSE = False          # --verbose 로 켠다. 아래 log_message 주석 참고.
 
@@ -285,6 +319,8 @@ class Handler(BaseHTTPRequestHandler):
                 return self._topic_ideas(q)
             if u.path == "/api/shorts":
                 return self._shorts(q)
+            if u.path == "/api/shortform-status":
+                return self._shortform_status()
             if u.path == "/api/hub-sources":
                 return self._send(200, {"ok": True, "groups": hub.GROUP_ORDER,
                                         "sources": hub.listing(use="news")})
@@ -299,6 +335,8 @@ class Handler(BaseHTTPRequestHandler):
         if self._key_gate(u):
             return
         try:
+            if u.path == "/api/shortform-launch":
+                return self._shortform_launch()
             if u.path == "/api/reel-save":
                 # 🔴 다른 POST 와 달리 본문이 JSON 이 아니라 **영상 바이트 그대로**다.
                 # base64 로 싸면 30MB 영상이 40MB 글자가 된다 — 이름·확장자만 쿼리로.
@@ -1016,6 +1054,59 @@ class Handler(BaseHTTPRequestHandler):
                 raise ValueError("허용된 폴더의 파일이 아닙니다: %s" % n)
             out.append(p)
         return out
+
+    # ── 숏폼 만들기 = Shortform Studio 를 이 앱 안에서 띄운다 ────────────────
+    # 뉴보대가 큰 틀이고 Shortform Studio(Electron, 레퍼런스 분해·타임라인 편집·
+    # ffmpeg 내보내기)는 그 안의 한 기능이다. 화면은 붙일 수 없어(WebView2 안에
+    # Electron 을 못 넣는다) **같은 앱 폴더에 동봉한 exe 를 자식으로 띄우고**, 지금
+    # 고른 카드 그림·검색어를 맥락 파일로 넘긴다. 두 번 눌러도 창이 하나만 뜬다
+    # (Studio 쪽 single instance 가 맥락만 갈아 끼운다).
+    def _shortform_status(self):
+        exe = _studio_exe()
+        return self._send(200, {"ok": True, "found": bool(exe), "exe": exe or "",
+                                "hint": "" if exe else
+                                "Shortform Studio 실행 파일을 찾지 못했습니다. 앱 폴더의 "
+                                "shortform\\Shortform Studio.exe 가 있어야 합니다."})
+
+    def _shortform_launch(self):
+        d = self._json_body()
+        exe = _studio_exe()
+        if not exe:
+            return self._err("Shortform Studio 실행 파일을 찾지 못했습니다(앱 폴더의 "
+                             "shortform\\Shortform Studio.exe).", 404)
+        # 화면이 준 (폴더, 이름) 은 인스타 올리기와 같은 검사(_insta_resolve)를 거친다 -
+        # 허용된 폴더(out·임시) 밖의 파일은 넘기지 않는다.
+        files = [f for f in (d.get("files") or [])[:40] if isinstance(f, dict)]
+        try:
+            images = [p for p in self._insta_resolve(files)
+                      if p.lower().endswith((".png", ".jpg", ".jpeg", ".webp"))]
+        except ValueError as e:
+            return self._err(str(e))
+        ctx_dir = os.path.join(OUT, "_shortform")   # 영문 경로: 넘겨 주는 쪽 부담을 줄인다
+        os.makedirs(ctx_dir, exist_ok=True)
+        ctx_path = os.path.join(ctx_dir, "context.json")
+        ctx = {"source": "newbodae",
+               "keyword": str(d.get("keyword") or "").strip()[:80],
+               "title": str(d.get("title") or "").strip()[:120],
+               "images": images,
+               "at": time.strftime("%Y-%m-%d %H:%M:%S")}
+        try:
+            with open(ctx_path, "w", encoding="utf-8") as f:
+                json.dump(ctx, f, ensure_ascii=False, indent=1)
+            flags = 0
+            if os.name == "nt":
+                flags = (getattr(subprocess, "DETACHED_PROCESS", 0)
+                         | getattr(subprocess, "CREATE_NEW_PROCESS_GROUP", 0))
+            subprocess.Popen([exe, "--from-newbodae=" + ctx_path],
+                             cwd=os.path.dirname(exe), close_fds=True,
+                             creationflags=flags,
+                             stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL,
+                             stderr=subprocess.DEVNULL)
+        except OSError as e:
+            log_exc("shortform-launch")
+            return self._err("Shortform Studio 를 띄우지 못했습니다: %s" % e, 500)
+        return self._send(200, {"ok": True, "exe": exe, "images": len(images),
+                                "context": ctx_path})
 
     def _reel_save(self, q):
         """릴스 영상 저장 — 화면(MediaRecorder)이 녹화한 바이트를 그대로 받는다.
