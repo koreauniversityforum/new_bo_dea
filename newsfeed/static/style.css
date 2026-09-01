@@ -53,6 +53,23 @@ body{
 .brand span{font-weight:500;color:var(--dim);font-size:13px;margin-left:6px}
 .top-actions{display:flex;gap:8px}
 
+
+/* ── 정기 뉴스 메이커 입구 ──────────────────────────────────────────────
+   머리글 링크만 두었더니 "어디 있는지 모르겠다"는 지적을 받았다(2026-09-01).
+   매일 쓰는 길이므로 화면 맨 위에 눈에 띄게 둔다. */
+.daily-cta{
+  display:flex;align-items:center;gap:10px;text-decoration:none;
+  background:linear-gradient(135deg,#3b6ef5,#5b8cff);color:#fff;
+  border-radius:11px;padding:12px 14px;margin:0 0 14px;
+  box-shadow:0 2px 10px rgba(59,110,245,.28);transition:.12s;
+}
+.daily-cta:hover{filter:brightness(1.07);transform:translateY(-1px)}
+.daily-cta .ic{font-size:20px;line-height:1}
+.daily-cta .tx{display:flex;flex-direction:column;line-height:1.35;flex:1;min-width:0}
+.daily-cta .tx b{font-size:14px;font-weight:800}
+.daily-cta .tx em{font-style:normal;font-size:11.5px;opacity:.85}
+.daily-cta .go{font-size:17px;font-weight:800;opacity:.9}
+
 /* ── 버튼 / 입력 ───────────────────────────────────────── */
 button{
   font-family:inherit;font-size:12.5px;font-weight:700;cursor:pointer;

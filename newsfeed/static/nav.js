@@ -201,6 +201,10 @@
       frag.appendChild(themeButton());
       slot.replaceWith(frag);
     });
+    // 화면 안 큰 입구도 판에 맞는 주소로 (앱=오늘의 뉴스 / 홈페이지=정기 뉴스 메이커)
+    document.querySelectorAll('[data-daily-cta]').forEach(a => {
+      a.href = isPhoneBuild() ? '오늘.html' : '/static/daily.html';
+    });
     applyTheme(theme());
     refresh();
   }
