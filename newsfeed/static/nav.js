@@ -111,16 +111,19 @@
     } catch (e) { return false; }
   }
   const SCREENS = [
-    // 「오늘의 뉴스」는 서버가 봇의 JSON 을 읽어 주는 화면이라 폰판(서버 0개)에는 없다
-    ...(isPhoneBuild() ? [] : [{ href: '/static/daily.html', label: '오늘의 뉴스' }]),
+    // 「오늘의 뉴스」는 서버가 봇의 JSON 을 읽어 주는 화면이라 폰판(서버 0개)에는 없다.
+    // 폰판에는 대신 **정기 뉴스 메이커**(오늘.html) — 새벽에 구워 둔 카드를 확인·내려받는 곳.
+    ...(isPhoneBuild()
+      ? [{ href: '오늘.html', label: '정기 뉴스 메이커', strong: true }]
+      : [{ href: '/static/daily.html', label: '오늘의 뉴스' }]),
     { href: '/static/topics.html', label: '주제 찾기' },
     { href: '/static/refs.html', label: '참고 사이트' },
     isPhoneBuild()
       ? { href: '/static/reel.html', label: '릴스 만들기' }
       : { href: '/static/shortform.html', label: '숏폼 만들기' },   // reel.html 은 숏폼 화면 안 「간단 릴스」로 이어진다
   ];
-  const LINK_STYLE = 'padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;' +
-    'color:#e8eaee;text-decoration:none;font-size:12px';
+  const LINK_STYLE = 'padding:7px 12px;border-radius:8px;border:1px solid var(--line);' +
+    'color:var(--ink);text-decoration:none;font-size:12px';
 
   function screenLinks() {
     const here = location.pathname.replace(/\/index\.html$/, '/');
@@ -131,11 +134,41 @@
       a.className = 'ghost';
       a.href = s.href;
       a.textContent = s.label;
-      a.style.cssText = LINK_STYLE;
+      // 「정기 뉴스 메이커」는 매일 쓰는 입구라 눈에 띄게 둔다(나머지는 수수한 링크)
+      a.style.cssText = s.strong
+        ? LINK_STYLE + ';border-color:#3b6ef5;color:#fff;background:#3b6ef5;font-weight:700'
+        : LINK_STYLE;
       out.push(a);
     });
     return out;
   }
+
+  /* ── 밝은 판 / 어두운 판 ────────────────────────────────────────────
+   * 색은 style.css 의 이름(:root 변수)이 쥐고 있고, 여기서는 `data-theme` 만 바꾼다.
+   * 화면마다 따로 두면 갈라지므로 머리글을 만드는 이 파일이 한 번만 맡는다.
+   * 🔴 카드 그림은 캔버스가 그리므로 판을 바꿔도 그대로다(작업 화면 색만 바뀐다). */
+  const THEME_KEY = 'nb_theme';
+  function theme() {
+    try { return localStorage.getItem(THEME_KEY) === 'light' ? 'light' : 'dark'; }
+    catch (e) { return 'dark'; }
+  }
+  function applyTheme(t) {
+    document.documentElement.setAttribute('data-theme', t);
+    try { localStorage.setItem(THEME_KEY, t); } catch (e) { /* 사생활 보호 모드 */ }
+    document.querySelectorAll('[data-theme-btn]').forEach(b => {
+      b.textContent = t === 'light' ? '🌙' : '☀️';
+      b.title = t === 'light' ? '어두운 판으로' : '밝은 판으로';
+    });
+  }
+  function themeButton() {
+    const b = document.createElement('button');
+    b.className = 'ghost';
+    b.dataset.themeBtn = '1';
+    b.style.cssText = LINK_STYLE + ';cursor:pointer;background:none;line-height:1';
+    b.addEventListener('click', () => applyTheme(theme() === 'light' ? 'dark' : 'light'));
+    return b;
+  }
+  applyTheme(theme());                    // 화면이 그려지기 전에 판부터 정한다
 
   /** @param {object} [opt] `opt.stage` 를 주면 단추가 **지금 화면을 담아** 간다. */
   function mount(opt) {
@@ -158,14 +191,17 @@
       const frag = document.createDocumentFragment();
       screenLinks().forEach(a => frag.appendChild(a));
       frag.appendChild(el);
+      frag.appendChild(themeButton());
       slot.replaceWith(frag);
     });
     // 인스타 올리기 화면처럼 단추는 필요 없고 **링크만** 놓을 자리
     document.querySelectorAll('[data-nav-slot]').forEach(slot => {
       const frag = document.createDocumentFragment();
       screenLinks().forEach(a => frag.appendChild(a));
+      frag.appendChild(themeButton());
       slot.replaceWith(frag);
     });
+    applyTheme(theme());
     refresh();
   }
 

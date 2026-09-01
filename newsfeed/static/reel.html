@@ -10,14 +10,14 @@
   /* 3단: 왼쪽 그림 고르기 / 가운데 미리보기 / 오른쪽 설정·녹화 */
   .wrap.reel{display:grid;grid-template-columns:330px 1fr 330px;gap:14px;
              max-width:1400px;margin:0 auto;padding:16px}
-  .pane{background:#12151b;border:1px solid #2a2f3a;border-radius:10px;padding:12px;
+  .pane{background:#12151b;border:1px solid var(--line);border-radius:10px;padding:12px;
         min-height:0;display:flex;flex-direction:column}
   .pane h2{font-size:12px;color:#7b8398;font-weight:600;margin:0 0 8px}
   .src{overflow:auto;max-height:70vh}
   .src .grp{font-size:11px;color:#7b8398;margin:10px 0 6px}
   .src .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
   .src img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:6px;
-           border:1px solid #2a2f3a;cursor:pointer;background:#0d0f14}
+           border:1px solid var(--line);cursor:pointer;background:#0d0f14}
   .src img:hover{border-color:#3b6ef5}
   .picked{overflow:auto;max-height:26vh;margin-top:8px}
   .picked .row{display:flex;align-items:center;gap:8px;padding:5px 6px;
@@ -25,14 +25,14 @@
   .picked img{width:30px;height:38px;object-fit:cover;border-radius:4px}
   .picked .nm{flex:1;word-break:break-all;color:#c8cdd6}
   .picked button{padding:2px 7px;font-size:11px}
-  .picked input.sec{width:52px;background:#0d0f14;border:1px solid #2a2f3a;color:#e8eaee;
+  .picked input.sec{width:52px;background:#0d0f14;border:1px solid var(--line);color:var(--ink);
         border-radius:5px;padding:3px 5px;font-size:11px}
   #scrub{width:min(300px,100%);accent-color:#3b6ef5}
   /* 관련 숏폼 (유튜브 embed 참고) */
-  #shortsQ{flex:1;min-width:0;background:#0d0f14;border:1px solid #2a2f3a;color:#e8eaee;
+  #shortsQ{flex:1;min-width:0;background:#0d0f14;border:1px solid var(--line);color:var(--ink);
         border-radius:6px;padding:6px 8px;font-size:12px}
   .shorts{display:grid;grid-template-columns:repeat(2,1fr);gap:6px;overflow:auto;max-height:38vh}
-  .shorts .it{cursor:pointer;border:1px solid #2a2f3a;border-radius:8px;overflow:hidden;
+  .shorts .it{cursor:pointer;border:1px solid var(--line);border-radius:8px;overflow:hidden;
         background:#0d0f14}
   .shorts .it:hover{border-color:#3b6ef5}
   .shorts img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block}
@@ -44,11 +44,11 @@
   #playWrap iframe{width:min(330px,90vw);aspect-ratio:9/16;border:0;border-radius:12px;background:#000}
   .stage{display:flex;flex-direction:column;align-items:center;gap:10px}
   #prev{width:min(300px,100%);aspect-ratio:9/16;background:#0d0f14;
-        border:1px solid #2a2f3a;border-radius:12px}
+        border:1px solid var(--line);border-radius:12px}
   video{width:min(300px,100%);aspect-ratio:9/16;background:#000;border-radius:12px;display:none}
   .ctl{display:flex;flex-direction:column;gap:9px;font-size:12.5px}
   .ctl label{display:flex;align-items:center;justify-content:space-between;gap:8px;color:#c8cdd6}
-  .ctl input[type=number]{width:76px;background:#0d0f14;border:1px solid #2a2f3a;color:#e8eaee;
+  .ctl input[type=number]{width:76px;background:#0d0f14;border:1px solid var(--line);color:var(--ink);
         border-radius:6px;padding:5px 7px;font-size:12.5px}
   .big{width:100%;padding:11px;font-size:13.5px;font-weight:700;border-radius:9px;
        background:#3b6ef5;border:0;color:#fff;cursor:pointer}
@@ -72,7 +72,7 @@
   <div class="top-actions">
     <span data-insta-slot></span>
     <button id="btnOpen" class="ghost">폴더 열기</button>
-    <a class="ghost" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">← 앞장 만들기</a>
+    <a class="ghost" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">← 앞장 만들기</a>
   </div>
 </header>
 
@@ -94,7 +94,7 @@
       <input id="shortsQ" type="text" placeholder="검색어 — 비우면 실어 온 기사 제목">
       <button id="btnShorts" class="ghost" style="white-space:nowrap;padding:6px 10px;font-size:12px">유튜브</button>
       <a id="lnkInsta" class="ghost" target="_blank" rel="noreferrer noopener"
-         style="white-space:nowrap;padding:6px 10px;font-size:12px;border:1px solid #2a2f3a;border-radius:8px;color:#e8eaee;text-decoration:none">인스타</a>
+         style="white-space:nowrap;padding:6px 10px;font-size:12px;border:1px solid var(--line);border-radius:8px;color:var(--ink);text-decoration:none">인스타</a>
     </div>
     <div id="shorts" class="shorts"></div>
   </section>
@@ -125,7 +125,7 @@
       <button id="btnAutoAll" class="big" style="background:#7c3aed">⚡ 자동 제작 (담기→녹화→저장)</button>
       <button id="btnSave" class="big" style="background:#059669;display:none">out 폴더에 저장</button>
       <button id="btnDl" class="big" style="background:#0e7490;display:none">이 기기에 내려받기 (폰→인스타용)</button>
-      <button id="btnEdit" class="big" style="background:#1d212b;border:1px solid #2a2f3a;display:none">← 편집으로 돌아가기</button>
+      <button id="btnEdit" class="big" style="background:#1d212b;border:1px solid var(--line);display:none">← 편집으로 돌아가기</button>
     </div>
     <p class="note">
       방식은 연합뉴스·YTN 같은 언론사 공식 릴스를 따랐습니다 —

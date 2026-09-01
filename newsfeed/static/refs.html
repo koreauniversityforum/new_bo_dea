@@ -9,13 +9,13 @@
 <style>
   .stage.refs{align-items:stretch;justify-content:flex-start;padding:16px 18px;overflow:auto;
               display:block}
-  .brandcard{border:1px solid #2a2f3a;border-radius:10px;padding:11px 13px;margin-bottom:9px}
-  .brandcard h3{font-size:13px;font-weight:800;margin:0 0 7px;color:#e8eaee}
-  .brandcard h3 .n{font-size:10.5px;color:#6d7688;font-weight:600;margin-left:6px}
+  .brandcard{border:1px solid var(--line);border-radius:10px;padding:11px 13px;margin-bottom:9px}
+  .brandcard h3{font-size:13px;font-weight:800;margin:0 0 7px;color:var(--ink)}
+  .brandcard h3 .n{font-size:10.5px;color:var(--dim4);font-weight:600;margin-left:6px}
   .reflink{display:flex;gap:8px;align-items:center;padding:5px 6px;border-radius:7px;
-           text-decoration:none;color:#c4ccdb;font-size:12px}
+           text-decoration:none;color:var(--ink3);font-size:12px}
   .reflink:hover{background:#1f232c;color:#fff}
-  .reflink .plat{flex:none;width:64px;font-size:10px;color:#8f97a8;border:1px solid #333a4a;
+  .reflink .plat{flex:none;width:64px;font-size:10px;color:var(--dim);border:1px solid #333a4a;
                  border-radius:9px;padding:1px 0;text-align:center}
   .reflink .lb{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .reflink .u{flex:none;display:flex;gap:4px}
@@ -25,9 +25,9 @@
   .reflink .u i.c{color:#ffb38f;border-color:#7e5233}
   .reflink .u i.w{color:#a7e6b8;border-color:#33683f}
   .reflink .u i.r{color:#d9b8ff;border-color:#5d3f82}
-  .empty{color:#6d7688;font-size:12px;padding:26px 0;text-align:center}
-  .tipbox{border:1px solid #2a2f3a;border-radius:9px;padding:10px 12px;margin-top:10px}
-  .tipbox b{color:#c4ccdb}
+  .empty{color:var(--dim4);font-size:12px;padding:26px 0;text-align:center}
+  .tipbox{border:1px solid var(--line);border-radius:9px;padding:10px 12px;margin-top:10px}
+  .tipbox b{color:var(--ink3)}
   .tipbox li{font-size:11.5px;color:#9aa4ba;line-height:1.55;margin:4px 0 4px 14px;
              word-break:keep-all}
 </style>
@@ -37,12 +37,12 @@
 <header class="top">
   <div class="brand">뉴보대 <span>참고 사이트</span></div>
   <div class="top-actions">
-    <a class="ghost" data-carry="/" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">← 앞장 만들기</a>
-    <a class="ghost" data-carry="/static/feed.html" href="/static/feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">피드 글 만들기</a>
-    <a class="ghost" href="/static/outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">뒷장 만들기 →</a>
+    <a class="ghost" data-carry="/" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">← 앞장 만들기</a>
+    <a class="ghost" data-carry="/static/feed.html" href="/static/feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">피드 글 만들기</a>
+    <a class="ghost" href="/static/outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">뒷장 만들기 →</a>
     <span data-insta-slot></span>
-    <a class="ghost" href="/static/mark.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">워터마크</a>
-    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">폴더 정리</a>
+    <a class="ghost" href="/static/mark.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">워터마크</a>
+    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">폴더 정리</a>
   </div>
 </header>
 

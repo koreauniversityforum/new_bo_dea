@@ -8,7 +8,7 @@
  *   node render.js --data 기사.json --out 낼곳 [--quality 0.9]
  *
  * 기사.json = { date, items:[{title, source, url}], outro }
- * 낼곳에 01.jpg … NN.jpg 와 목록.json 을 쓴다.
+ * 낼곳에 01.jpg/01.png … 과 목록.json(장 종류 포함)을 쓴다.
  */
 const fs = require('fs');
 const http = require('http');
@@ -110,19 +110,35 @@ function chromePath() {
     await page.evaluate(() => window.DECK.activate(0));
     await new Promise(r => setTimeout(r, 400));
 
+    // 두 벌을 낸다.
+    //  - jpg : 인스타·스레드가 JPEG 만 받는다(그림 주소로 넘길 것).
+    //  - png : 사람이 내려받아 쓰는 원본(앱의 「저장」과 같은 꼴).
     const shots = await page.evaluate(async (q) => {
       const items = DECK.stageItems();
-      return items.map(it => ({ name: it.name, dataUrl: it.canvas.toDataURL('image/jpeg', q) }));
+      const kinds = DECK.pages().map(p => p.tpl);
+      return items.map((it, i) => ({
+        name: it.name, kind: kinds[i] || 'point',
+        jpg: it.canvas.toDataURL('image/jpeg', q),
+        png: it.canvas.toDataURL('image/png'),
+      }));
     }, quality);
 
+    const KIND_KO = { cover: '표지', outro: '뒷장' };
     const list = [];
+    let 뉴스번호 = 0;
     shots.forEach((s, i) => {
-      const name = String(i + 1).padStart(2, '0') + '.jpg';
-      const b64 = s.dataUrl.replace(/^data:image\/jpeg;base64,/, '');
-      const buf = Buffer.from(b64, 'base64');
-      fs.writeFileSync(path.join(outDir, name), buf);
-      list.push({ file: name, bytes: buf.length });
-      console.log('  · ' + name + ' (' + Math.round(buf.length / 1024) + 'KB)');
+      const no = String(i + 1).padStart(2, '0');
+      const 것 = KIND_KO[s.kind] || ('뉴스 ' + String(++뉴스번호).padStart(2, '0'));
+      const row = { no: i + 1, kind: s.kind, label: 것 };
+      [['jpg', 'image/jpeg'], ['png', 'image/png']].forEach(([ext, mime]) => {
+        const buf = Buffer.from(s[ext].slice(('data:' + mime + ';base64,').length), 'base64');
+        fs.writeFileSync(path.join(outDir, no + '.' + ext), buf);
+        row[ext] = no + '.' + ext;
+        row[ext + 'Bytes'] = buf.length;
+      });
+      list.push(row);
+      console.log('  · ' + no + ' ' + 것 +
+        ' (jpg ' + Math.round(row.jpgBytes / 1024) + 'KB / png ' + Math.round(row.pngBytes / 1024) + 'KB)');
     });
     fs.writeFileSync(path.join(outDir, '목록.json'),
       JSON.stringify({ date: data.date || '', cards: list }, null, 1), 'utf8');

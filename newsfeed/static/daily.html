@@ -9,10 +9,10 @@
 <style>
   /* 목록 화면이라 가운데 정렬을 풀고 위에서부터 쌓는다 (참고 사이트 화면과 같은 규칙) */
   .stage.daily{align-items:stretch;justify-content:flex-start;padding:14px 16px;overflow:auto;display:block}
-  .grp{border:1px solid #2a2f3a;border-radius:10px;padding:10px 12px;margin-bottom:9px}
-  .grp h3{font-size:13px;font-weight:800;margin:0 0 8px;color:#e8eaee;display:flex;gap:8px;align-items:center}
-  .grp h3 .n{font-size:10.5px;color:#6d7688;font-weight:600}
-  .grp h3 .all{margin-left:auto;font-size:10.5px;color:#8f97a8;border:1px solid #333a4a;
+  .grp{border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-bottom:9px}
+  .grp h3{font-size:13px;font-weight:800;margin:0 0 8px;color:var(--ink);display:flex;gap:8px;align-items:center}
+  .grp h3 .n{font-size:10.5px;color:var(--dim4);font-weight:600}
+  .grp h3 .all{margin-left:auto;font-size:10.5px;color:var(--dim);border:1px solid #333a4a;
                border-radius:9px;padding:2px 8px;cursor:pointer;background:none}
   .grp h3 .all:hover{color:#fff;border-color:#4a5468}
   .art{display:flex;gap:9px;align-items:flex-start;padding:6px;border-radius:7px}
@@ -21,21 +21,21 @@
   .art .mid{flex:1;min-width:0}
   .art .t{font-size:12.5px;color:#dfe4ee;line-height:1.45;word-break:keep-all;cursor:pointer}
   .art:hover .t{color:#fff}
-  .art .o{font-size:10.5px;color:#6d7688;margin-top:2px;word-break:break-all}
+  .art .o{font-size:10.5px;color:var(--dim4);margin-top:2px;word-break:break-all}
   .art .meta{font-size:10px;color:#7b8398;margin-top:3px;display:flex;gap:6px;flex-wrap:wrap}
   .art .meta i{font-style:normal;border:1px solid #2e3442;border-radius:8px;padding:1px 6px}
   .art .meta i.r{color:#8fb8ff;border-color:#33507e}
   .art .meta i.c{color:#ffb38f;border-color:#7e5233}
   .art .go{flex:none;display:flex;gap:5px}
   .art .go button,.art .go a{font-size:10.5px;padding:3px 8px;border-radius:8px;
-      border:1px solid #333a4a;background:none;color:#c4ccdb;cursor:pointer;text-decoration:none}
+      border:1px solid #333a4a;background:none;color:var(--ink3);cursor:pointer;text-decoration:none}
   .art .go button:hover,.art .go a:hover{color:#fff;border-color:#4a5468}
-  .empty{color:#6d7688;font-size:12px;padding:26px 0;text-align:center;line-height:1.7}
-  .bar{position:sticky;bottom:0;background:#12151b;border-top:1px solid #2a2f3a;
+  .empty{color:var(--dim4);font-size:12px;padding:26px 0;text-align:center;line-height:1.7}
+  .bar{position:sticky;bottom:0;background:#12151b;border-top:1px solid var(--line);
        padding:9px 10px;display:flex;gap:8px;align-items:center;margin:0 -16px -14px}
-  .bar .cnt{font-size:11.5px;color:#8f97a8;margin-right:auto}
+  .bar .cnt{font-size:11.5px;color:var(--dim);margin-right:auto}
   .note{font-size:11px;color:#7b8398;margin:0 0 8px;line-height:1.6}
-  .note b{color:#c4ccdb}
+  .note b{color:var(--ink3)}
 </style>
 </head>
 <body>
@@ -43,9 +43,9 @@
 <header class="top">
   <div class="brand">뉴보대 <span>오늘의 뉴스</span></div>
   <div class="top-actions">
-    <a class="ghost" data-carry="/" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">← 앞장 만들기</a>
+    <a class="ghost" data-carry="/" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">← 앞장 만들기</a>
     <span data-insta-slot></span>
-    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">폴더 정리</a>
+    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">폴더 정리</a>
   </div>
 </header>
 

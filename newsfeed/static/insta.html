@@ -11,8 +11,8 @@
      긴 내용(약 2000px)이 **잘린 채 멈춘다** — 휠을 굴려도 0px, 사진 고르기 아래로
      못 내려간다(실측). 앞장·뒷장은 `.panel` 이 넘겨 주므로 이 화면에만 없던 구멍이었다. */
   .wrap.one{display:block;max-width:1040px;margin:0 auto;padding:18px;overflow-y:auto;min-height:0}
-  .card{background:#12151b;border:1px solid #2a2f3a;border-radius:10px;padding:13px 14px;margin-bottom:12px}
-  .card h3{margin:0 0 9px;font-size:12.5px;color:#e8eaee}
+  .card{background:#12151b;border:1px solid var(--line);border-radius:10px;padding:13px 14px;margin-bottom:12px}
+  .card h3{margin:0 0 9px;font-size:12.5px;color:var(--ink)}
   .st{display:flex;gap:10px;align-items:center;font-size:12.5px;flex-wrap:wrap}
   .dot{width:9px;height:9px;border-radius:50%;background:#7b8398;flex:none}
   .dot.ok{background:#3ecf8e}.dot.no{background:#f0a848}.dot.bad{background:#e5534b}
@@ -29,22 +29,22 @@
         align-items:center;justify-content:center;font-weight:700}
   .th.on i{display:flex}
   /* 뒷장 고르기 — 뒷장 화면까지 갔다 오지 않아도 되게 */
-  .outro-pick{margin-top:12px;padding-top:11px;border-top:1px solid #2a2f3a}
+  .outro-pick{margin-top:12px;padding-top:11px;border-top:1px solid var(--line)}
   .outro-pick > b{font-size:11.5px;color:#9aa4ba;display:block;margin-bottom:6px}
   .outro-pick .th canvas{width:100%;aspect-ratio:1080/1350;border-radius:5px;display:block;background:#0f1219}
   /* 고른 것만 순서대로 다시 보여 준다 — 캐러셀은 순서가 곧 결과물이다 */
-  .picked{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px;padding-top:10px;border-top:1px solid #2a2f3a}
+  .picked{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px;padding-top:10px;border-top:1px solid var(--line)}
   .pk{width:78px;position:relative}
   .pk img{width:100%;aspect-ratio:4/5;object-fit:contain;border-radius:5px;display:block;background:#0f1219}
   .pk .no{position:absolute;top:3px;left:3px;background:#3b6ef5;color:#fff;font-size:10px;
           width:17px;height:17px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700}
   .pk .ops{display:flex;gap:2px;margin-top:3px}
   .pk .ops button{flex:1;padding:2px 0;font-size:10px;border-radius:4px;background:#1b2029;
-                  border:1px solid #2a2f3a;color:#c9cfdb;cursor:pointer}
+                  border:1px solid var(--line);color:#c9cfdb;cursor:pointer}
   .pk .ops button:hover{background:#242a35}
-  textarea{width:100%;min-height:200px;background:#0f1219;color:#e8eaee;border:1px solid #2a2f3a;
+  textarea{width:100%;min-height:200px;background:#0f1219;color:var(--ink);border:1px solid var(--line);
            border-radius:8px;padding:10px;font:inherit;font-size:12.5px;line-height:1.75;resize:vertical}
-  input[type=text]{background:#0f1219;color:#e8eaee;border:1px solid #2a2f3a;border-radius:8px;
+  input[type=text]{background:#0f1219;color:var(--ink);border:1px solid var(--line);border-radius:8px;
                    padding:7px 9px;font:inherit;font-size:12.5px}
   .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
   .grow{flex:1;min-width:120px}
@@ -54,21 +54,21 @@
   .bad{color:#f0a848}
   .danger{background:#7f1d1d;border-color:#7f1d1d;color:#fff}
   .danger:disabled{opacity:.4}
-  pre.log{background:#0f1219;border:1px solid #2a2f3a;border-radius:8px;padding:10px;
+  pre.log{background:#0f1219;border:1px solid var(--line);border-radius:8px;padding:10px;
           font-size:11.5px;line-height:1.7;color:#9aa4ba;white-space:pre-wrap;max-height:230px;overflow:auto;margin:9px 0 0}
   .cnt{font-size:11.5px;color:#7b8398}
   /* 문구 후보 — 앞장 만들기의 제목 추천과 같은 결(여러 개 주고 고치게 한다) */
   .cands{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px;margin-top:10px}
-  .cand{background:#0f1219;border:1px solid #2a2f3a;border-radius:8px;padding:9px 10px;cursor:pointer;text-align:left}
+  .cand{background:#0f1219;border:1px solid var(--line);border-radius:8px;padding:9px 10px;cursor:pointer;text-align:left}
   .cand:hover{border-color:#3b6ef5}
   .cand.on{border-color:#3b6ef5;background:rgba(59,110,245,.10)}
-  .cand b{display:block;font-size:11.5px;color:#e8eaee;margin-bottom:2px}
+  .cand b{display:block;font-size:11.5px;color:var(--ink);margin-bottom:2px}
   .cand small{display:block;font-size:10px;color:#7b8398;line-height:1.5;margin-bottom:5px}
   .cand p{margin:0;font-size:10.5px;color:#9aa4ba;line-height:1.55;white-space:pre-wrap;
           max-height:76px;overflow:hidden}
   .cand .n{display:block;margin-top:5px;font-size:10px;color:#5f6675}
   .cand .n.over{color:#f0a848}
-  .sub{border-top:1px solid #2a2f3a;margin-top:11px;padding-top:11px}
+  .sub{border-top:1px solid var(--line);margin-top:11px;padding-top:11px}
 </style>
 </head>
 <body>
@@ -77,10 +77,10 @@
   <div class="brand">뉴보대 <span>인스타 올리기</span></div>
   <div class="top-actions">
     <span data-nav-slot></span>
-    <a class="ghost" data-carry="/static/feed.html" href="/static/feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">피드 글</a>
-    <a class="ghost" href="/static/outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">뒷장 만들기</a>
-    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">저장 폴더</a>
-    <a class="ghost" data-carry="/" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">← 앞장 만들기</a>
+    <a class="ghost" data-carry="/static/feed.html" href="/static/feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">피드 글</a>
+    <a class="ghost" href="/static/outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">뒷장 만들기</a>
+    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">저장 폴더</a>
+    <a class="ghost" data-carry="/" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">← 앞장 만들기</a>
   </div>
 </header>
 

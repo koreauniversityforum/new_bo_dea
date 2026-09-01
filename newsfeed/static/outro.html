@@ -9,14 +9,14 @@
 <style>
   /* 뒷장 화면: 왼쪽 고르기 / 가운데 미리보기 / 오른쪽 문구 */
   .picks{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
-  .pick{background:#12151b;border:1px solid #2a2f3a;border-radius:10px;padding:6px;cursor:pointer;text-align:left}
+  .pick{background:#12151b;border:1px solid var(--line);border-radius:10px;padding:6px;cursor:pointer;text-align:left}
   .pick canvas{width:100%;height:auto;display:block;border-radius:6px;background:#0d0f13}
   .pick b{display:block;font-size:11px;font-weight:700;color:#c8cedd;margin-top:6px}
   .pick.on{border-color:#0050eb;box-shadow:0 0 0 1px #0050eb inset}
   .pick.on b{color:#7cb0ff}
 
   .bgs{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}
-  .bg{border:1px solid #2a2f3a;border-radius:8px;padding:0;overflow:hidden;cursor:pointer;background:#12151b;line-height:0}
+  .bg{border:1px solid var(--line);border-radius:8px;padding:0;overflow:hidden;cursor:pointer;background:#12151b;line-height:0}
   .bg canvas{width:100%;height:auto;display:block}
   .bg.on{border-color:#0050eb;box-shadow:0 0 0 1px #0050eb inset}
   .bg span{display:block;font-size:9.5px;line-height:1.5;color:#9aa1b1;padding:3px 2px;text-align:center}
@@ -39,15 +39,15 @@
 <header class="top">
   <div class="brand">뉴보대 <span>뒷장 만들기</span></div>
   <div class="top-actions">
-    <a class="ghost" data-carry="/static/feed.html" href="/static/feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">피드 글 →</a>
-    <a class="ghost" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">← 앞장 만들기</a>
+    <a class="ghost" data-carry="/static/feed.html" href="/static/feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">피드 글 →</a>
+    <a class="ghost" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">← 앞장 만들기</a>
     <span data-insta-slot></span>
     <button id="btnPng" class="primary">PNG 내려받기</button>
     <button id="btnSave">out 폴더에 저장</button>
     <button id="btnAll" class="ghost">5종 모두 저장</button>
     <button id="btnReset" class="ghost">초기화</button>
-    <a class="ghost" href="/static/mark.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">워터마크</a>
-    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">폴더 정리</a>
+    <a class="ghost" href="/static/mark.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">워터마크</a>
+    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">폴더 정리</a>
   </div>
 </header>
 
@@ -110,7 +110,7 @@
         <label>진하기 <span class="val">18</span></label>
         <input id="wmAlpha" type="range" min="3" max="80" value="18">
       </div>
-      <label style="display:flex;gap:6px;align-items:center;font-size:11.5px;color:#8f97a8;margin-top:4px">
+      <label style="display:flex;gap:6px;align-items:center;font-size:11.5px;color:var(--dim);margin-top:4px">
         <input id="wmMark" type="checkbox"> 심벌만 쓰기 (아래 글자 빼고)
       </label>
       <p class="note" style="margin-top:5px">색을 <b>자동</b>으로 두면 어두운 배경엔 흰색,

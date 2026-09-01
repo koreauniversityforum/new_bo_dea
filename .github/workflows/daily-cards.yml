@@ -88,24 +88,33 @@ jobs:
           python - <<'PY'
           import json, os
           repo = os.environ["REPO"]
-          # raw 는 그림을 image/jpeg 로 그대로 내려준다(릴리스 주소와 달리 임시 서명이 없다)
+          # raw 는 그림을 image/jpeg·image/png 로 그대로 내려준다(릴리스 주소와 달리 임시 서명이 없다)
           base = "https://raw.githubusercontent.com/%s/cards/%s/" % (repo, os.environ["CARD_DATE"])
           with open(".cards/기사.json", encoding="utf-8") as f:
               기사 = json.load(f)
           with open(".cards/문구.txt", encoding="utf-8") as f:
               문구 = f.read().strip()
-          그림 = sorted(x for x in os.listdir(".cards/그림") if x.endswith(".jpg"))
-          out = {
-              "date": 기사.get("date", ""),
-              "outro": 기사.get("outro", True),
-              "items": 기사.get("items", []),
-              "cards": [{"file": n, "url": base + n} for n in 그림],
-              "caption": 문구,
-          }
+          with open(".cards/그림/목록.json", encoding="utf-8") as f:
+              구운것 = json.load(f)["cards"]
+          items = 기사.get("items", [])
+          cards = []
+          뉴스 = 0
+          for c in 구운것:
+              row = {"no": c["no"], "kind": c["kind"], "label": c["label"],
+                     "file": c["jpg"], "url": base + c["jpg"],
+                     "png": base + c["png"], "pngBytes": c["pngBytes"]}
+              if c["kind"] not in ("cover", "outro") and 뉴스 < len(items):
+                  row["title"] = items[뉴스].get("title", "")
+                  row["source"] = items[뉴스].get("source", "")
+                  row["link"] = items[뉴스].get("url", "")
+                  뉴스 += 1
+              cards.append(row)
+          out = {"date": 기사.get("date", ""), "outro": 기사.get("outro", True),
+                 "items": items, "cards": cards, "caption": 문구}
           os.makedirs("docs", exist_ok=True)
           with open("docs/오늘.json", "w", encoding="utf-8") as f:
               json.dump(out, f, ensure_ascii=False, indent=1)
-          print("카드 %d장 · 문구 %d자" % (len(그림), len(문구)))
+          print("카드 %d장 · 문구 %d자" % (len(cards), len(문구)))
           PY
 
       - name: 검토용 이슈 열기

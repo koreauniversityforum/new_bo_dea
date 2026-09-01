@@ -11,33 +11,33 @@
   .stage.hubs{align-items:stretch;justify-content:flex-start;padding:16px 18px;overflow:auto}
   .srcgrp{margin-bottom:10px}
   .srcgrp .g{display:flex;justify-content:space-between;align-items:center;
-             font-size:11.5px;font-weight:800;color:#8f97a8;margin:10px 0 5px}
+             font-size:11.5px;font-weight:800;color:var(--dim);margin:10px 0 5px}
   .srcgrp .g button{padding:2px 8px;font-size:10.5px;font-weight:600}
   .src{display:flex;gap:7px;align-items:center;padding:4px 2px;cursor:pointer;
        font-size:12px;border-radius:6px}
   .src:hover{background:#1f232c}
   .src input{flex:none}
-  .src .md{font-size:10px;color:#6d7688;border:1px solid #333a4a;border-radius:9px;
+  .src .md{font-size:10px;color:var(--dim4);border:1px solid #333a4a;border-radius:9px;
            padding:1px 6px;flex:none}
-  .src a{color:#6d7688;text-decoration:none;font-size:11px;flex:none}
+  .src a{color:var(--dim4);text-decoration:none;font-size:11px;flex:none}
   .src a:hover{color:#9aa4ba}
   .src .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 
   .hubbar{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-bottom:10px}
   .hubbar input[type=text]{width:200px;flex:none}
   .cand{display:flex;gap:10px;align-items:flex-start;padding:9px 11px;margin-bottom:6px;
-        border:1px solid #2a2f3a;border-radius:9px;cursor:pointer}
+        border:1px solid var(--line);border-radius:9px;cursor:pointer}
   .cand:hover{border-color:#4d566b}
   .cand.on{border-color:#3b6ef5;background:rgba(59,110,245,.08)}
   .cand .t{font-size:12.5px;font-weight:600;line-height:1.45}
   .cand .m{font-size:11px;color:#7b8398;margin-top:3px}
   .cand .m b{color:#9aa4ba;font-weight:700}
-  .cand .md{flex:none;font-size:10px;color:#8f97a8;border:1px solid #333a4a;
+  .cand .md{flex:none;font-size:10px;color:var(--dim);border:1px solid #333a4a;
             border-radius:9px;padding:1px 7px;margin-top:2px}
   .cand .md.v{color:#f0a8b8;border-color:#5a3844}
-  .empty{color:#6d7688;font-size:12px;padding:26px 0;text-align:center}
+  .empty{color:var(--dim4);font-size:12px;padding:26px 0;text-align:center}
 
-  .hit{padding:8px 10px;border:1px solid #2a2f3a;border-radius:8px;margin-bottom:6px}
+  .hit{padding:8px 10px;border:1px solid var(--line);border-radius:8px;margin-bottom:6px}
   .hit .t{font-size:12px;font-weight:600;line-height:1.4}
   .hit .m{font-size:10.5px;color:#7b8398;margin:3px 0 6px}
   .hit .row{margin:0}
@@ -45,12 +45,12 @@
             color:#fff;font-size:11px;font-weight:700;text-decoration:none}
   .hit a.mk:hover{background:#5581ff}
   .hit a.op{display:inline-block;padding:4px 9px;border-radius:6px;border:1px solid #3a4152;
-            color:#c4ccdb;font-size:11px;text-decoration:none}
+            color:var(--ink3);font-size:11px;text-decoration:none}
   .hit a.op:hover{border-color:#4d566b;color:#fff}
 
   /* 오늘의 주제 후보 (구글 뉴스 갈래별) */
-  .ideas{border:1px solid #2a2f3a;border-radius:10px;padding:10px 12px;margin-bottom:12px}
-  .ideas .ihead{font-size:12px;font-weight:800;color:#c4ccdb;margin-bottom:7px}
+  .ideas{border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-bottom:12px}
+  .ideas .ihead{font-size:12px;font-weight:800;color:var(--ink3);margin-bottom:7px}
   .ideas .ihead .hint{font-weight:600}
   .idea{display:flex;gap:8px;align-items:center;padding:5px 6px;border-radius:7px;
         font-size:12px;cursor:pointer}
@@ -72,12 +72,12 @@
 <header class="top">
   <div class="brand">뉴보대 <span>주제 찾기</span></div>
   <div class="top-actions">
-    <a class="ghost" data-carry="/" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">← 앞장 만들기</a>
-    <a class="ghost" data-carry="/static/feed.html" href="/static/feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">피드 글 만들기</a>
-    <a class="ghost" href="/static/outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">뒷장 만들기 →</a>
+    <a class="ghost" data-carry="/" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">← 앞장 만들기</a>
+    <a class="ghost" data-carry="/static/feed.html" href="/static/feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">피드 글 만들기</a>
+    <a class="ghost" href="/static/outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">뒷장 만들기 →</a>
     <span data-insta-slot></span>
-    <a class="ghost" href="/static/mark.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">워터마크</a>
-    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">폴더 정리</a>
+    <a class="ghost" href="/static/mark.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">워터마크</a>
+    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">폴더 정리</a>
   </div>
 </header>
 
@@ -352,7 +352,7 @@ function pick(r) {
   const a = document.createElement('a');
   a.href = r.link; a.target = '_blank'; a.rel = 'noreferrer';
   a.textContent = '원문 열기';
-  a.style.color = '#8f97a8';
+  a.style.color = 'var(--dim)';
   $('selMeta').appendChild(a);
   const isText = r.media === '글';
   $('directRow').style.display = isText ? 'flex' : 'none';

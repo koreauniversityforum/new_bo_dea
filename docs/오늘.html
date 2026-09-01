@@ -2,200 +2,347 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>오늘의 카드 — 확인하고 발행</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>정기 뉴스 메이커 — 뉴보대</title>
+<link rel="icon" href="favicon.ico">
+<script>
+  /* 판(밝게/어둡게)은 화면이 그려지기 **전에** 정한다 — 안 그러면 흰 판이 한 번 번쩍인다.
+     앱 화면들과 같은 칸(nb_theme)을 쓰므로 어디서 바꾸든 따라온다. */
+  try {
+    document.documentElement.setAttribute(
+      'data-theme', localStorage.getItem('nb_theme') === 'light' ? 'light' : 'dark');
+  } catch (e) { document.documentElement.setAttribute('data-theme', 'dark'); }
+</script>
 <style>
-  :root{ color-scheme: dark; }
-  *{ box-sizing:border-box }
-  body{ margin:0; background:#12151b; color:#e8eaee; font:15px/1.6 Pretendard, "Malgun Gothic", system-ui, sans-serif }
-  header{ position:sticky; top:0; z-index:5; background:#12151b; border-bottom:1px solid #2a2f3a;
-          padding:12px 14px; display:flex; align-items:center; gap:10px }
-  header b{ font-size:16px } header .d{ color:#8f97a8; font-size:12.5px }
-  main{ padding:14px; max-width:760px; margin:0 auto }
-  h2{ font-size:14px; margin:20px 0 8px; color:#c4ccdb }
-  .cards{ display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:8px }
-  .cards figure{ margin:0; border:1px solid #2a2f3a; border-radius:10px; overflow:hidden; background:#171b23 }
-  .cards img{ width:100%; display:block }
-  .cards figcaption{ font-size:11px; color:#8f97a8; padding:5px 7px }
-  textarea{ width:100%; min-height:190px; background:#171b23; color:#e8eaee; border:1px solid #2a2f3a;
-            border-radius:10px; padding:11px; font:13.5px/1.6 inherit; resize:vertical }
-  .row{ display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin:9px 0 }
-  label.ch{ font-size:13px; display:flex; align-items:center; gap:5px }
-  button{ font:600 14px inherit; padding:11px 15px; border-radius:10px; border:1px solid #333a4a;
-          background:#1d2129; color:#e8eaee; cursor:pointer }
-  button:hover:not(:disabled){ border-color:#4a5468 }
+  :root{
+    --bg:#11131a; --panel:#1a1e27; --panel2:#232833;
+    --line:#2c3140; --line2:#333a4a;
+    --ink:#e8eaee; --ink3:#c4ccdb; --dim:#8f97a8; --dim4:#6d7688;
+    --accent:#3b6ef5; --accent-ink:#fff; --ok:#4ade80; --warn:#ffb38f;
+    --shadow:0 1px 3px rgba(0,0,0,.4);
+  }
+  :root[data-theme="light"]{
+    --bg:#f4f5f7; --panel:#ffffff; --panel2:#eef1f6;
+    --line:#e0e4ea; --line2:#d3d8e0;
+    --ink:#141619; --ink3:#3b414c; --dim:#5f6875; --dim4:#8a929e;
+    --accent:#1f6feb; --accent-ink:#fff; --ok:#0f9d58; --warn:#b45309;
+    --shadow:0 1px 3px rgba(16,24,40,.08);
+  }
+  *{box-sizing:border-box}
+  body{ margin:0; background:var(--bg); color:var(--ink); line-height:1.6;
+        font-family:Pretendard,"Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+        padding-bottom:calc(28px + env(safe-area-inset-bottom)) }
+  header{ position:sticky; top:0; z-index:5; background:var(--bg);
+          border-bottom:1px solid var(--line); padding:11px 14px;
+          display:flex; align-items:center; gap:9px }
+  header .home{ text-decoration:none; color:var(--ink); font-weight:800; font-size:15px }
+  header .d{ color:var(--dim); font-size:12.5px }
+  header .sp{ margin-left:auto }
+  main{ padding:14px; max-width:820px; margin:0 auto }
+  h2{ font-size:14px; margin:22px 0 9px; color:var(--ink3); display:flex; align-items:center; gap:8px }
+  h2 .n{ font-size:11px; color:var(--dim4); font-weight:600 }
+  .grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(158px,1fr)); gap:10px }
+  .card{ background:var(--panel); border:1px solid var(--line); border-radius:12px;
+         overflow:hidden; box-shadow:var(--shadow) }
+  .card .thumb{ display:block; width:100%; border:0; padding:0; background:var(--panel2); cursor:zoom-in }
+  .card img{ width:100%; display:block }
+  .card .meta{ padding:7px 9px 9px }
+  .card .lb{ font-size:12px; font-weight:700; display:flex; align-items:center; gap:6px }
+  .card .lb i{ font-style:normal; font-size:10px; color:var(--accent);
+               border:1px solid var(--accent); border-radius:7px; padding:0 5px }
+  .card .tt{ font-size:11.5px; color:var(--dim); margin-top:3px;
+             display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden }
+  .card .act{ display:flex; gap:6px; margin-top:8px }
+  button, .btn{ font:600 13px inherit; padding:9px 12px; border-radius:9px; cursor:pointer;
+                border:1px solid var(--line2); background:var(--panel2); color:var(--ink);
+                text-decoration:none; text-align:center }
+  button:hover:not(:disabled), .btn:hover{ border-color:var(--accent) }
   button:disabled{ opacity:.45; cursor:default }
-  button.go{ background:#e11d48; border-color:#e11d48; color:#fff; flex:1 }
-  button.dry{ flex:1 }
-  input[type=password], input[type=text]{ flex:1; min-width:180px; background:#171b23; color:#e8eaee;
-            border:1px solid #2a2f3a; border-radius:9px; padding:10px; font:13px inherit }
-  .note{ font-size:12px; color:#8f97a8; line-height:1.7 }
-  .note b{ color:#c4ccdb }
-  .warn{ border:1px solid #7e5233; background:#241a12; border-radius:10px; padding:10px 12px; font-size:12.5px }
-  pre.log{ background:#0d1016; border:1px solid #2a2f3a; border-radius:10px; padding:10px;
-           font-size:12px; white-space:pre-wrap; word-break:break-all; max-height:280px; overflow:auto }
-  details{ border:1px solid #2a2f3a; border-radius:10px; padding:9px 12px; margin-top:14px }
-  summary{ cursor:pointer; font-size:13px; color:#c4ccdb }
-  a{ color:#8fb8ff }
+  .card .act button{ flex:1; padding:7px 8px; font-size:12px }
+  button.pri{ background:var(--accent); border-color:var(--accent); color:var(--accent-ink) }
+  .bar{ display:flex; gap:8px; flex-wrap:wrap; margin:10px 0 }
+  textarea{ width:100%; min-height:210px; background:var(--panel); color:var(--ink);
+            border:1px solid var(--line); border-radius:12px; padding:12px;
+            font:13.5px/1.65 inherit; resize:vertical }
+  .note{ font-size:12px; color:var(--dim); line-height:1.75 }
+  .note b{ color:var(--ink3) }
+  .box{ background:var(--panel); border:1px solid var(--line); border-radius:12px;
+        padding:12px 14px; box-shadow:var(--shadow) }
+  .tag{ font-size:12px; color:var(--dim); word-break:break-all }
+  .empty{ text-align:center; color:var(--dim); padding:40px 10px; line-height:1.9 }
+  details{ border:1px solid var(--line); border-radius:12px; padding:10px 13px; margin-top:16px;
+           background:var(--panel) }
+  summary{ cursor:pointer; font-size:13px; color:var(--ink3) }
+  input[type=password]{ flex:1; min-width:170px; background:var(--panel2); color:var(--ink);
+            border:1px solid var(--line); border-radius:9px; padding:9px; font:13px inherit }
+  a{ color:var(--accent) }
+  #lb{ position:fixed; inset:0; background:rgba(0,0,0,.86); display:none; z-index:20;
+       align-items:center; justify-content:center; padding:18px; cursor:zoom-out }
+  #lb img{ max-width:100%; max-height:100%; border-radius:8px }
+  .toast{ position:fixed; left:50%; bottom:22px; transform:translateX(-50%);
+          background:var(--panel); border:1px solid var(--line2); color:var(--ink);
+          padding:10px 16px; border-radius:999px; font-size:13px; box-shadow:var(--shadow);
+          opacity:0; pointer-events:none; transition:opacity .18s; z-index:30 }
+  .toast.on{ opacity:1 }
 </style>
 </head>
 <body>
 
-<header><b>오늘의 카드</b><span class="d" id="date">불러오는 중…</span></header>
+<header>
+  <a class="home" href="./">뉴보대</a>
+  <span class="d">정기 뉴스 메이커</span>
+  <span class="d" id="date"></span>
+  <span class="sp"></span>
+  <button id="theme" title="판 바꾸기">☀️</button>
+</header>
 
 <main>
-  <div id="empty" class="warn" hidden>
-    아직 구워진 카드가 없습니다. 뉴스 봇이 아침에 한 번 돌면 생깁니다.
+  <div id="empty" class="empty" hidden>
+    아직 구워진 카드가 없습니다.<br>뉴스 봇이 아침 <b>08:58</b> 에 돌면 여기에 그날 카드가 올라옵니다.
   </div>
 
   <div id="body" hidden>
-    <h2>카드 <span class="d" id="cnt"></span></h2>
-    <div class="cards" id="cards"></div>
+    <h2>카드 <span class="n" id="cnt"></span></h2>
+    <div class="bar">
+      <button class="pri" id="allPng">PNG 전부 내려받기</button>
+      <button id="reload">새로고침</button>
+    </div>
 
-    <h2>문구 <span class="d">고쳐 쓰면 고친 글로 나갑니다</span></h2>
+    <div id="groups"></div>
+
+    <h2>피드 글 <span class="n">고쳐 쓰고 복사해서 인스타에 붙여 넣으세요</span></h2>
     <textarea id="cap"></textarea>
+    <div class="bar">
+      <button class="pri" id="copyCap">문구 복사</button>
+      <button id="copyTags">해시태그만 복사</button>
+      <button id="copyTh">스레드용(500자) 복사</button>
+      <button id="resetCap">초안으로 되돌리기</button>
+    </div>
     <p class="note" id="capLen"></p>
     <p class="note">🔴 초안의 제목 줄은 <b>언론사 문장</b>입니다. 본인 말로 바꿔 쓰는 것을 전제로 한 뼈대입니다.</p>
 
-    <h2>보낼 곳</h2>
-    <div class="row">
-      <label class="ch"><input type="checkbox" id="chIg" checked> 인스타그램</label>
-      <label class="ch"><input type="checkbox" id="chFb" checked> 페이스북 페이지</label>
-      <label class="ch"><input type="checkbox" id="chTh" checked> 스레드</label>
-    </div>
-
-    <div class="row">
-      <button class="dry" id="btnDry">점검만 (안 보냄)</button>
-      <button class="go" id="btnGo">발행</button>
-    </div>
-    <p class="note" id="stat"></p>
-    <pre class="log" id="log" hidden></pre>
-
-    <details id="keybox">
-      <summary>발행 열쇠 (이 기기에 한 번만 넣으면 됩니다)</summary>
-      <p class="note">
-        홈페이지는 정적 파일이라 서버가 없습니다. [발행]은 <b>이 브라우저에 저장된 열쇠</b>로
-        GitHub 에 「올려라」 하고 알리고, 실제 게시는 GitHub Actions 가 합니다.
-        열쇠는 <b>이 기기에만</b> 남고 홈페이지에는 들어가지 않습니다.
-      </p>
-      <p class="note">
-        만드는 법 — GitHub → Settings → Developer settings → <b>Fine-grained tokens</b> →
-        이 레포 하나만 고르고 <b>Contents: Read and write</b> 권한. 만든 문자열을 아래에 붙여 넣으세요.
-      </p>
-      <div class="row">
+    <details id="pubbox">
+      <summary>바로 올리기 (인스타 · 페이스북 · 스레드)</summary>
+      <p class="note" id="pubStat">API 열쇠가 아직 준비되지 않았습니다. 준비되면 여기서 바로 올라갑니다.
+        지금은 위에서 <b>PNG 를 내려받고 문구를 복사</b>해 손으로 올리시면 됩니다.</p>
+      <div class="bar">
+        <button id="btnDry">점검만 (안 보냄)</button>
+        <button class="pri" id="btnGo">발행</button>
+      </div>
+      <p class="note">발행 열쇠(이 기기에만 저장) — GitHub → Settings → Developer settings →
+        Fine-grained tokens → 이 레포만, <b>Contents: Read and write</b></p>
+      <div class="bar">
         <input type="password" id="pat" placeholder="github_pat_… 붙여넣기" autocomplete="off">
         <button id="btnKey">저장</button>
         <button id="btnKeyDel">지우기</button>
       </div>
-      <p class="note">열쇠 없이 발행하려면 → <a id="issueLink" href="https://github.com/koreauniversityforum/new_bo_dea/issues" target="_blank" rel="noopener">검토 이슈</a>에 <b>발행</b> 이라고 댓글을 달아도 똑같이 나갑니다.</p>
+      <p class="note">열쇠 없이 올리려면 →
+        <a id="issueLink" href="https://github.com/koreauniversityforum/new_bo_dea/issues" target="_blank" rel="noopener">검토 이슈</a>에
+        <b>발행</b> 이라고 댓글을 달아도 똑같이 나갑니다.</p>
     </details>
   </div>
 </main>
 
+<div id="lb"><img alt=""></div>
+<div class="toast" id="toast"></div>
+
 <script>
-/* 오늘의 카드 검토·발행 화면 (깃허브 페이지, 서버 0개)
+/* 정기 뉴스 메이커 — 새벽에 구워 둔 카드를 확인하고 내려받는 화면 (서버 0개).
  *
- * 그림·문구는 워크플로가 써 둔 `오늘.json` 에서 읽는다. [발행]은 GitHub 의
- * repository_dispatch 를 부르고, 실제 게시는 `publish-cards.yml` 이 한다.
- * 🔴 열쇠(PAT)는 localStorage 에만 둔다 — 이 파일에 박아 두면 공개 페이지라 누구나 쓴다.
+ * 재료는 워크플로가 써 둔 `오늘.json` 한 장. 그림은 raw.githubusercontent 의 공개 주소다.
+ * 🔴 「내려받기」는 blob 을 만들어 <a download> 로 누른다 — 주소를 그대로 걸면
+ *    다른 출처라 브라우저가 새 탭으로 열어 버리고 파일 이름도 안 지켜진다.
  */
 (function () {
   'use strict';
   const $ = (id) => document.getElementById(id);
   const REPO = 'koreauniversityforum/new_bo_dea';
-  const KEY = 'nbd_pat';
-  let DATA = null;
+  const PAT_KEY = 'nbd_pat';
+  const THEME_KEY = 'nb_theme';
+  let DATA = null, 초안 = '';
 
-  const key = () => { try { return localStorage.getItem(KEY) || ''; } catch (e) { return ''; } };
+  const esc = (s) => String(s == null ? '' : s)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  const key = () => { try { return localStorage.getItem(PAT_KEY) || ''; } catch (e) { return ''; } };
 
+  let toastT = 0;
+  function toast(msg) {
+    const t = $('toast');
+    t.textContent = msg; t.classList.add('on');
+    clearTimeout(toastT);
+    toastT = setTimeout(() => t.classList.remove('on'), 1800);
+  }
+
+  /* ── 판 ───────────────────────────────────────────────────────────── */
+  function theme() {
+    try { return localStorage.getItem(THEME_KEY) === 'light' ? 'light' : 'dark'; }
+    catch (e) { return 'dark'; }
+  }
+  function applyTheme(t) {
+    document.documentElement.setAttribute('data-theme', t);
+    try { localStorage.setItem(THEME_KEY, t); } catch (e) { /* 무시 */ }
+    $('theme').textContent = t === 'light' ? '🌙' : '☀️';
+    $('theme').title = t === 'light' ? '어두운 판으로' : '밝은 판으로';
+  }
+
+  /* ── 불러오기 ─────────────────────────────────────────────────────── */
   async function load() {
     try {
       const r = await fetch('오늘.json?v=' + Date.now());
       if (!r.ok) throw new Error('HTTP ' + r.status);
       DATA = await r.json();
     } catch (e) {
-      $('empty').hidden = false;
-      $('date').textContent = '';
+      $('empty').hidden = false; $('body').hidden = true;
       return;
     }
-    $('body').hidden = false;
+    초안 = DATA.caption || '';
+    $('body').hidden = false; $('empty').hidden = true;
     $('date').textContent = DATA.date || '';
     $('cnt').textContent = (DATA.cards || []).length + '장';
-    $('cards').innerHTML = (DATA.cards || []).map((c, i) =>
-      '<figure><img loading="lazy" src="' + c.url + '" alt="카드 ' + (i + 1) + '">' +
-      '<figcaption>' + (i + 1) + ' / ' + c.file + '</figcaption></figure>').join('');
-    $('cap').value = DATA.caption || '';
+    draw();
+    $('cap').value = 초안;
     len();
-    if (!key()) $('keybox').open = true;
   }
 
+  /* 종류별로 묶어 보여 준다 — 표지 / 뉴스 / 뒷장 */
+  function draw() {
+    const 묶음 = [
+      { key: 'cover', name: '표지', hint: '캐러셀 첫 장' },
+      { key: 'news', name: '뉴스 카드', hint: '기사 한 건에 한 장' },
+      { key: 'outro', name: '뒷장', hint: '계정 소개' },
+    ];
+    const of = (c) => (c.kind === 'cover' || c.kind === 'outro') ? c.kind : 'news';
+    $('groups').innerHTML = 묶음.map(g => {
+      const 것들 = (DATA.cards || []).filter(c => of(c) === g.key);
+      if (!것들.length) return '';
+      return '<h2>' + g.name + ' <span class="n">' + 것들.length + '장 · ' + g.hint + '</span></h2>' +
+        '<div class="grid">' + 것들.map(c => `
+          <div class="card">
+            <button class="thumb" data-zoom="${esc(c.png || c.url)}">
+              <img loading="lazy" src="${esc(c.url)}" alt="${esc(c.label)}">
+            </button>
+            <div class="meta">
+              <div class="lb">${esc(c.label)}<i>${c.no}</i></div>
+              ${c.title ? `<div class="tt">${esc(c.title)}</div>` : ''}
+              <div class="act">
+                <button data-png="${esc(c.png || c.url)}" data-name="${esc(DATA.date + '_' + c.label)}">PNG 내려받기</button>
+              </div>
+            </div>
+          </div>`).join('') + '</div>';
+    }).join('');
+  }
+
+  /* ── 내려받기 ─────────────────────────────────────────────────────── */
+  async function download(url, name) {
+    const r = await fetch(url, { cache: 'no-store' });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const blob = await r.blob();
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = (name || 'card').replace(/[\\/:*?"<>|]/g, '_') + '.png';
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+  }
+
+  /* ── 문구 ─────────────────────────────────────────────────────────── */
   function len() {
     const n = $('cap').value.length;
-    $('capLen').textContent = n + '자 · 인스타 2,200자 / 스레드는 500자가 넘으면 앞부분만 나갑니다.';
+    $('capLen').textContent = n + '자 · 인스타는 2,200자까지, 스레드는 500자까지입니다' +
+      (n > 500 ? ' (스레드용은 앞 500자만 복사됩니다)' : '');
+  }
+  async function copy(text, what) {
+    try {
+      await navigator.clipboard.writeText(text);
+      toast(what + ' 복사했습니다');
+    } catch (e) {
+      const t = document.createElement('textarea');
+      t.value = text; document.body.appendChild(t); t.select();
+      try { document.execCommand('copy'); toast(what + ' 복사했습니다'); }
+      catch (e2) { toast('복사하지 못했습니다'); }
+      t.remove();
+    }
   }
 
-  function channels() {
-    const c = [];
-    if ($('chIg').checked) c.push('instagram');
-    if ($('chFb').checked) c.push('facebook');
-    if ($('chTh').checked) c.push('threads');
-    return c;
-  }
-
+  /* ── 발행(열쇠가 있을 때만) ───────────────────────────────────────── */
   async function send(dry) {
     const k = key();
-    if (!k) { $('keybox').open = true; $('stat').textContent = '먼저 발행 열쇠를 넣어 주세요.'; return; }
+    if (!k) { toast('먼저 발행 열쇠를 넣어 주세요'); $('pat').focus(); return; }
     const cap = $('cap').value.trim();
-    if (!cap) { $('stat').textContent = '문구가 비었습니다.'; return; }
-    const ch = channels();
-    if (!ch.length) { $('stat').textContent = '보낼 곳을 하나 이상 고르세요.'; return; }
-    if (!dry && !confirm((DATA.cards || []).length + '장을 실제로 발행합니다.\n보낼 곳: ' +
-        ch.join(', ') + '\n되돌릴 수 없습니다. 진행할까요?')) return;
-
+    if (!cap) { toast('문구가 비었습니다'); return; }
+    if (!dry && !confirm((DATA.cards || []).length + '장을 실제로 발행합니다.\n되돌릴 수 없습니다. 진행할까요?')) return;
     $('btnGo').disabled = $('btnDry').disabled = true;
-    $('stat').textContent = dry ? '점검을 요청하는 중…' : '발행을 요청하는 중…';
+    $('pubStat').textContent = (dry ? '점검' : '발행') + '을 요청하는 중…';
     try {
       const r = await fetch('https://api.github.com/repos/' + REPO + '/dispatches', {
         method: 'POST',
         headers: { 'Authorization': 'Bearer ' + k, 'Accept': 'application/vnd.github+json' },
         body: JSON.stringify({ event_type: 'publish-cards',
-                               client_payload: { caption: cap, channels: ch, dry: !!dry } })
+          client_payload: { caption: cap, channels: ['instagram', 'facebook', 'threads'], dry: !!dry } })
       });
       if (r.status === 204) {
-        $('stat').innerHTML = (dry ? '점검' : '발행') + ' 요청을 보냈습니다. 1~3분 걸립니다 — ' +
-          '결과는 <a href="https://github.com/' + REPO + '/actions" target="_blank" rel="noopener">Actions</a> ' +
-          '또는 <a href="https://github.com/' + REPO + '/issues" target="_blank" rel="noopener">검토 이슈</a>에 남습니다.';
+        $('pubStat').innerHTML = (dry ? '점검' : '발행') + ' 요청을 보냈습니다. 1~3분 걸립니다 — 결과는 ' +
+          '<a href="https://github.com/' + REPO + '/issues" target="_blank" rel="noopener">검토 이슈</a>에 남습니다.';
       } else {
-        const t = await r.text();
-        $('log').hidden = false;
-        $('log').textContent = 'HTTP ' + r.status + '\n' + t;
-        $('stat').textContent = r.status === 401 || r.status === 403
-          ? '열쇠가 없거나 권한이 모자랍니다(Contents: Read and write 인지 확인하세요).'
-          : '요청이 거절됐습니다.';
+        $('pubStat').textContent = 'HTTP ' + r.status + ' — ' +
+          (r.status === 401 || r.status === 403 ? '열쇠가 없거나 권한이 모자랍니다.' : '요청이 거절됐습니다.');
       }
     } catch (e) {
-      $('stat').textContent = '보내지 못했습니다: ' + e.message;
+      $('pubStat').textContent = '보내지 못했습니다: ' + e.message;
     } finally {
       $('btnGo').disabled = $('btnDry').disabled = false;
     }
   }
 
+  /* ── 손잡이 ───────────────────────────────────────────────────────── */
+  $('groups').addEventListener('click', async (e) => {
+    const z = e.target.closest('[data-zoom]');
+    if (z) { $('lb').style.display = 'flex'; $('lb').querySelector('img').src = z.dataset.zoom; return; }
+    const b = e.target.closest('[data-png]');
+    if (!b) return;
+    b.disabled = true; const 옛 = b.textContent; b.textContent = '받는 중…';
+    try { await download(b.dataset.png, b.dataset.name); toast('다운로드 폴더에 저장했습니다'); }
+    catch (err) { toast('내려받지 못했습니다: ' + err.message); }
+    finally { b.disabled = false; b.textContent = 옛; }
+  });
+  $('lb').addEventListener('click', () => { $('lb').style.display = 'none'; });
+
+  $('allPng').addEventListener('click', async (e) => {
+    const b = e.currentTarget; b.disabled = true;
+    const 것들 = DATA.cards || [];
+    for (let i = 0; i < 것들.length; i++) {
+      b.textContent = (i + 1) + ' / ' + 것들.length + ' 받는 중…';
+      try { await download(것들[i].png || 것들[i].url, DATA.date + '_' + 것들[i].label); }
+      catch (err) { /* 한 장 실패해도 나머지는 계속 */ }
+      await new Promise(r => setTimeout(r, 350));      // 브라우저가 연속 저장을 막지 않게
+    }
+    b.textContent = 'PNG 전부 내려받기'; b.disabled = false;
+    toast('다운로드 폴더를 확인하세요');
+  });
+
+  $('reload').addEventListener('click', load);
+  $('theme').addEventListener('click', () => applyTheme(theme() === 'light' ? 'dark' : 'light'));
   $('cap').addEventListener('input', len);
+  $('copyCap').addEventListener('click', () => copy($('cap').value.trim(), '문구를'));
+  $('copyTh').addEventListener('click', () => copy($('cap').value.trim().slice(0, 500), '스레드용 500자를'));
+  $('copyTags').addEventListener('click', () => {
+    const 태그 = ($('cap').value.match(/#[^\s#]+/g) || []).join(' ');
+    태그 ? copy(태그, '해시태그를') : toast('문구에 해시태그가 없습니다');
+  });
+  $('resetCap').addEventListener('click', () => { $('cap').value = 초안; len(); toast('초안으로 되돌렸습니다'); });
   $('btnGo').addEventListener('click', () => send(false));
   $('btnDry').addEventListener('click', () => send(true));
   $('btnKey').addEventListener('click', () => {
     const v = $('pat').value.trim();
     if (!v) return;
-    try { localStorage.setItem(KEY, v); } catch (e) { $('stat').textContent = '저장 실패: ' + e.message; return; }
-    $('pat').value = '';
-    $('stat').textContent = '열쇠를 이 기기에 저장했습니다.';
-    $('keybox').open = false;
+    try { localStorage.setItem(PAT_KEY, v); $('pat').value = ''; toast('이 기기에 저장했습니다'); }
+    catch (e) { toast('저장 실패: ' + e.message); }
   });
   $('btnKeyDel').addEventListener('click', () => {
-    try { localStorage.removeItem(KEY); } catch (e) { /* 무시 */ }
-    $('stat').textContent = '열쇠를 지웠습니다.';
+    try { localStorage.removeItem(PAT_KEY); } catch (e) { /* 무시 */ }
+    toast('열쇠를 지웠습니다');
   });
 
+  applyTheme(theme());
   load();
 })();
 </script>
