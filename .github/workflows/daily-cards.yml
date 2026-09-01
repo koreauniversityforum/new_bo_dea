@@ -75,7 +75,9 @@ jobs:
           #  - orphan 브랜치를 force-push 하면 어제 것은 닿을 수 없게 되어 저장소가 안 큰다.
           DATE=$(python -c "import json;print(json.load(open('.cards/기사.json',encoding='utf-8'))['date'])")
           rm -rf .pub && mkdir -p .pub/$DATE
-          cp .cards/그림/*.jpg .pub/$DATE/
+          # 🔴 jpg(인스타용)와 png(사람이 내려받는 원본) **둘 다** 올린다.
+          #    jpg 만 올렸더니 화면의 PNG 주소가 404 였다(실측).
+          cp .cards/그림/*.jpg .cards/그림/*.png .pub/$DATE/
           cd .pub
           git init -q
           git config user.name  "nbd-cards"
