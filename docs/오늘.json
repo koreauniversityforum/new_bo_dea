@@ -34,73 +34,78 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "_시험카드/01.jpg",
-   "png": "_시험카드/01.png",
-   "pngBytes": 591214
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/01.png",
+   "pngBytes": 570844
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "_시험카드/02.jpg",
-   "png": "_시험카드/02.png",
-   "pngBytes": 606401,
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/02.png",
+   "pngBytes": 592070,
    "title": "'김민석표' 민주당TV 첫 방송 동접자 5.5만명…\"기조방송 되길 희망\"",
-   "source": "네이버 뉴스"
+   "source": "네이버 뉴스",
+   "link": "https://n.news.naver.com/mnews/article/277/0005810021"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "_시험카드/03.jpg",
-   "png": "_시험카드/03.png",
-   "pngBytes": 599366,
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/03.png",
+   "pngBytes": 584474,
    "title": "추석 13대 성수품 16만3000 푼다…농축산물 최대 40% 할인",
-   "source": "네이버 뉴스"
+   "source": "네이버 뉴스",
+   "link": "https://n.news.naver.com/mnews/article/008/0005407596"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "_시험카드/04.jpg",
-   "png": "_시험카드/04.png",
-   "pngBytes": 604445,
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/04.png",
+   "pngBytes": 587369,
    "title": "공무원 3851명 늘린다…안전·특허·수사인력 확충[2027 예산안]",
-   "source": "네이버 뉴스"
+   "source": "네이버 뉴스",
+   "link": "https://n.news.naver.com/mnews/article/277/0005810252"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "_시험카드/05.jpg",
-   "png": "_시험카드/05.png",
-   "pngBytes": 594484,
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/05.png",
+   "pngBytes": 581721,
    "title": "르노코리아, 그랑 콜레오스 2027년형 출시…가격 45만원 낮춰",
-   "source": "네이버 뉴스"
+   "source": "네이버 뉴스",
+   "link": "https://n.news.naver.com/mnews/article/243/0000102440"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "_시험카드/06.jpg",
-   "png": "_시험카드/06.png",
-   "pngBytes": 622864,
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/06.png",
+   "pngBytes": 608941,
    "title": "AI 대전환 가속…과기정통부 예산 29.6조원 '역대 최대 증가폭'[2027년 예산안]",
-   "source": "네이버 뉴스"
+   "source": "네이버 뉴스",
+   "link": "https://n.news.naver.com/mnews/article/584/0000039142"
   },
   {
    "no": 7,
    "kind": "outro",
    "label": "뒷장",
    "file": "07.jpg",
-   "url": "_시험카드/07.jpg",
-   "png": "_시험카드/07.png",
-   "pngBytes": 1404970
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/07.png",
+   "pngBytes": 1346242
   }
  ],
  "caption": "📰 9월 1일 오늘의 뉴스\n\n1. '김민석표' 민주당TV 첫 방송 동접자 5.5만명…\"기조방송 되길 희망\"\n2. 추석 13대 성수품 16만3000 푼다…농축산물 최대 40% 할인\n3. 공무원 3851명 늘린다…안전·특허·수사인력 확충[2027 예산안]\n4. 르노코리아, 그랑 콜레오스 2027년형 출시…가격 45만원 낮춰\n5. AI 대전환 가속…과기정통부 예산 29.6조원 '역대 최대 증가폭'[2027년 예산안]\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #예산안 #AI #추석\n\n출처: 네이버 뉴스"
