@@ -27,6 +27,7 @@ from urllib.parse import parse_qs, quote, unquote, urlparse
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import ai  # noqa: E402
 import appwindow  # noqa: E402
+import daily  # noqa: E402
 import extractor  # noqa: E402
 import feed  # noqa: E402
 import hub  # noqa: E402
@@ -321,6 +322,10 @@ class Handler(BaseHTTPRequestHandler):
                 return self._shorts(q)
             if u.path == "/api/shortform-status":
                 return self._shortform_status()
+            if u.path == "/api/publish-status":
+                return self._publish_status()
+            if u.path == "/api/daily":
+                return self._daily(u)
             if u.path == "/api/hub-sources":
                 return self._send(200, {"ok": True, "groups": hub.GROUP_ORDER,
                                         "sources": hub.listing(use="news")})
@@ -371,6 +376,8 @@ class Handler(BaseHTTPRequestHandler):
                 return self._insta_launch()
             if u.path == "/api/insta-post":
                 return self._insta_post()
+            if u.path == "/api/publish":
+                return self._publish()
             if u.path == "/api/hub-fetch":
                 return self._hub_fetch()
             if u.path == "/api/hub-search":
@@ -594,6 +601,92 @@ class Handler(BaseHTTPRequestHandler):
         elif isinstance(node, list):
             for v in node:
                 self._walk_shorts(v, out)
+
+    def _publish_status(self):
+        """공식 API(메타) 로 발행할 준비가 됐는지 - 계정·창구·토큰 남은 날.
+
+        토큰은 **돌려주지 않는다.** 화면은 "무엇이 이어져 있나"만 알면 된다.
+        """
+        try:
+            import meta_api as M
+        except Exception as e:
+            return self._send(200, {"ok": False, "error": "메타 모듈을 못 읽었습니다: %s" % e,
+                                    "accounts": []})
+        try:
+            cfg = M.설정읽기()
+        except Exception as e:
+            return self._send(200, {"ok": False, "error": str(e), "accounts": []})
+        out = []
+        for key, acc in (cfg.get("계정") or {}).items():
+            ch = []
+            for name in ("instagram", "facebook", "threads"):
+                part = acc.get(name) or {}
+                if not part:
+                    continue
+                ch.append({"name": name, "left": M.남은날(part)})
+            out.append({"key": key, "channels": ch})
+        return self._send(200, {"ok": True, "accounts": out,
+                                "hosting": bool((cfg.get("호스팅") or {}).get("갈래")),
+                                "app": bool((cfg.get("앱") or {}).get("id"))})
+
+    def _publish(self):
+        """[발행] - 고른 카드를 메타 공식 API 로 인스타·페이스북 페이지·스레드에.
+
+        브라우저 CDP 경로(`/api/insta-post`)와 **나란히** 둔다. 이쪽이 약관 안이고
+        세 곳에 한 번에 가지만, 앱 등록·토큰·공개 주소가 갖춰져 있어야 한다.
+        `dry_run` 이면 앞단만 점검하고 실제로 보내지 않는다.
+        """
+        import meta_api as M
+        d = self._json_body()
+        picks = d.get("files") or []
+        caption = (d.get("caption") or "").strip()
+        th_caption = d.get("threads_caption")
+        account = (d.get("account") or "").strip()
+        channels = tuple(d.get("channels") or ("instagram", "facebook", "threads"))
+        dry = bool(d.get("dry_run", True))
+        if not picks:
+            return self._err("올릴 그림을 고르지 않았습니다.")
+        if not caption:
+            return self._err("문구가 비어 있습니다.")
+        try:
+            files = self._insta_resolve(picks)
+        except ValueError as e:
+            return self._err(e)
+
+        lines = []
+        try:
+            cfg = M.설정읽기()
+            keys = list(cfg.get("계정") or {})
+            if not keys:
+                return self._err("이어진 계정이 없습니다. `메타_연결.py` 로 먼저 연결하세요.")
+            if account and account not in keys:
+                return self._err("`%s` 계정을 찾을 수 없습니다." % account)
+            key = account or keys[0]
+            res = M.올리기(key, files, caption, 창구=channels,
+                          스레드문구=th_caption, 설정=cfg,
+                          로그=lines.append, 시늉=dry)
+            bad = [r for r in res if not r.get("ok")]
+            return self._send(200, {"ok": not bad, "account": key,
+                                    "results": res, "log": lines})
+        except M.MetaError as e:
+            log_exc("publish")
+            return self._send(200, {"ok": False, "error": str(e), "log": lines})
+        except Exception as e:                # 어떤 실패든 화면에 이유가 남아야 한다
+            log_exc("publish")
+            return self._send(200, {"ok": False, "error": "%s: %s" % (type(e).__name__, e),
+                                    "log": lines})
+
+    def _daily(self, u):
+        """오늘의 뉴스 - 텔레그램 봇이 종합해 둔 기사 목록.
+
+        `?day=2026-09-01` 로 지난 날짜도 본다. `?pull=0` 이면 git 으로 받아오지 않는다
+        (화면을 여러 번 새로 고칠 때 매번 네트워크를 쓰지 않게).
+        """
+        q = parse_qs(u.query or "")
+        day = (q.get("day") or [""])[0].strip()
+        pull = (q.get("pull") or ["1"])[0] != "0"
+        res = daily.load(day, pull=pull)
+        return self._send(200 if res.get("ok") else 200, res)
 
     def _hub_fetch(self):
         """주제 허브 - 참고 계정·매체의 최신 글/영상 후보를 모아 준다."""

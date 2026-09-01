@@ -184,6 +184,31 @@
     <pre class="log" id="log" hidden></pre>
   </div>
 
+  <div class="card">
+    <h3>6. 공식 API 로 발행 <span class="cnt">인스타 · 페이스북 페이지 · 스레드</span></h3>
+    <p class="note" id="pubStat">준비 상태를 보는 중…</p>
+    <div class="row">
+      <select id="pubAcc" style="flex:1"></select>
+    </div>
+    <div class="row" style="gap:12px;flex-wrap:wrap">
+      <label><input type="checkbox" id="chIg" checked> 인스타그램</label>
+      <label><input type="checkbox" id="chFb" checked> 페이스북 페이지</label>
+      <label><input type="checkbox" id="chTh" checked> 스레드</label>
+    </div>
+    <div class="row">
+      <button id="btnPubDry" class="grow">점검만 (안 보냄)</button>
+      <button id="btnPub" class="danger">발행</button>
+    </div>
+    <p class="note">
+      위 <b>5. 올리기</b>는 크롬을 사람처럼 몰아 인스타 한 곳에만 올립니다.
+      여기는 메타 공식 API 라 <b>세 곳에 한 번에</b> 가고 약관 안입니다. 대신
+      <b>앱 등록 · 토큰 · 그림을 올려 둘 공개 주소</b>가 있어야 합니다
+      (`메타_연결.py` 로 한 번 맞춰 두면 60일 갑니다).
+    </p>
+    <p class="note">🔴 스레드는 500자까지입니다. 문구가 길면 스레드만 앞부분이 잘려 올라갑니다.</p>
+    <pre class="log" id="pubLog" hidden></pre>
+  </div>
+
 </div>
 
 <script src="/static/bgm.js"></script>
@@ -601,6 +626,78 @@ async function run(dry){
     log.scrollTop = log.scrollHeight;
   }
 }
+
+/* ── 6. 공식 API 로 발행 ─────────────────────────────────────────────────
+   `/api/publish` 는 meta_api.올리기() 를 그대로 부른다. 창구 하나가 실패해도
+   나머지는 간다 — 결과를 창구별로 받아 그대로 적는다. */
+const CH_NAME = {instagram:'인스타그램', facebook:'페이스북 페이지', threads:'스레드'};
+
+async function pubStatus(){
+  try{
+    const r = await fetch('/api/publish-status');
+    const d = await r.json();
+    const sel = $('#pubAcc');
+    if(!d.ok || !(d.accounts||[]).length){
+      sel.innerHTML = '<option>연결된 계정 없음</option>';
+      $('#pubStat').textContent = d.error ||
+        '이어진 계정이 없습니다. `python 메타_연결.py 연결 <이름>` 을 먼저 하세요.';
+      $('#btnPub').disabled = $('#btnPubDry').disabled = true;
+      return;
+    }
+    sel.innerHTML = d.accounts.map(a => {
+      const ch = a.channels.map(c => CH_NAME[c.name] + (c.left != null ? '(' + c.left + '일)' : '')).join(' · ');
+      return '<option value="' + a.key + '">' + a.key + ' — ' + (ch || '창구 없음') + '</option>';
+    }).join('');
+    $('#pubStat').textContent = '계정 ' + d.accounts.length + '개' +
+      (d.hosting ? ' · 공개 주소 설정됨' : ' · 🔴 공개 주소(호스팅)가 없어 인스타·스레드는 막힙니다');
+    $('#btnPub').disabled = $('#btnPubDry').disabled = false;
+  }catch(e){
+    $('#pubStat').textContent = '준비 상태를 못 읽었습니다: ' + e.message;
+  }
+}
+
+async function publish(dry){
+  const cap = $('#cap').value.trim();
+  if(!picks.length){ alert('올릴 그림을 고르세요.'); return; }
+  if(!cap){ alert('문구를 넣으세요.'); return; }
+  const chans = [];
+  if($('#chIg').checked) chans.push('instagram');
+  if($('#chFb').checked) chans.push('facebook');
+  if($('#chTh').checked) chans.push('threads');
+  if(!chans.length){ alert('보낼 곳을 하나 이상 고르세요.'); return; }
+  const acc = $('#pubAcc').value;
+  if(!dry && !confirm(acc + ' 계정으로 ' + picks.length + '장을 실제로 발행합니다.\n' +
+      '보낼 곳: ' + chans.map(c=>CH_NAME[c]).join(', ') + '\n되돌릴 수 없습니다. 진행할까요?')) return;
+  const log = $('#pubLog'); log.hidden = false;
+  log.textContent = (dry ? '점검' : '발행') + ' 시작…\n';
+  $('#btnPub').disabled = $('#btnPubDry').disabled = true;
+  try{
+    const d = await jpost('/api/publish', {files: picks, caption: cap, account: acc,
+                                           channels: chans, dry_run: dry});
+    (d.log||[]).forEach(l => { log.textContent += '  ' + l + '\n'; });
+    (d.results||[]).forEach(r => {
+      log.textContent += (r.ok ? '✔ ' : '✘ ') + (CH_NAME[r['창구']] || r['창구'] || '') + ' ' +
+                         (r['링크'] || r['왜'] || (r['시늉'] ? '(점검만)' : '')) + '\n';
+    });
+    if(d.error){
+      log.textContent += '\n막혔습니다: ' + d.error + '\n';
+    } else if(d.ok){
+      log.textContent += dry ? '\n점검 통과 — `발행` 을 누르면 실제로 갑니다.\n'
+                             : '\n발행 완료.\n';
+    } else {
+      log.textContent += '\n일부 창구가 실패했습니다. 위 줄을 보세요.\n';
+    }
+  }catch(e){
+    log.textContent += '\n요청 실패: ' + e.message + '\n';
+  } finally {
+    $('#btnPub').disabled = $('#btnPubDry').disabled = false;
+    log.scrollTop = log.scrollHeight;
+  }
+}
+
+$('#btnPubDry').onclick = () => publish(true);
+$('#btnPub').onclick = () => publish(false);
+pubStatus();
 
 $('#btnCheck').onclick = check;
 $('#btnReload').onclick = loadFiles;

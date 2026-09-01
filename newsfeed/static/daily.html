@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>뉴보대 오늘의 뉴스</title>
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="/static/style.css">
+<style>
+  /* 목록 화면이라 가운데 정렬을 풀고 위에서부터 쌓는다 (참고 사이트 화면과 같은 규칙) */
+  .stage.daily{align-items:stretch;justify-content:flex-start;padding:14px 16px;overflow:auto;display:block}
+  .grp{border:1px solid #2a2f3a;border-radius:10px;padding:10px 12px;margin-bottom:9px}
+  .grp h3{font-size:13px;font-weight:800;margin:0 0 8px;color:#e8eaee;display:flex;gap:8px;align-items:center}
+  .grp h3 .n{font-size:10.5px;color:#6d7688;font-weight:600}
+  .grp h3 .all{margin-left:auto;font-size:10.5px;color:#8f97a8;border:1px solid #333a4a;
+               border-radius:9px;padding:2px 8px;cursor:pointer;background:none}
+  .grp h3 .all:hover{color:#fff;border-color:#4a5468}
+  .art{display:flex;gap:9px;align-items:flex-start;padding:6px;border-radius:7px}
+  .art:hover{background:#1f232c}
+  .art input{margin-top:3px;flex:none}
+  .art .mid{flex:1;min-width:0}
+  .art .t{font-size:12.5px;color:#dfe4ee;line-height:1.45;word-break:keep-all;cursor:pointer}
+  .art:hover .t{color:#fff}
+  .art .o{font-size:10.5px;color:#6d7688;margin-top:2px;word-break:break-all}
+  .art .meta{font-size:10px;color:#7b8398;margin-top:3px;display:flex;gap:6px;flex-wrap:wrap}
+  .art .meta i{font-style:normal;border:1px solid #2e3442;border-radius:8px;padding:1px 6px}
+  .art .meta i.r{color:#8fb8ff;border-color:#33507e}
+  .art .meta i.c{color:#ffb38f;border-color:#7e5233}
+  .art .go{flex:none;display:flex;gap:5px}
+  .art .go button,.art .go a{font-size:10.5px;padding:3px 8px;border-radius:8px;
+      border:1px solid #333a4a;background:none;color:#c4ccdb;cursor:pointer;text-decoration:none}
+  .art .go button:hover,.art .go a:hover{color:#fff;border-color:#4a5468}
+  .empty{color:#6d7688;font-size:12px;padding:26px 0;text-align:center;line-height:1.7}
+  .bar{position:sticky;bottom:0;background:#12151b;border-top:1px solid #2a2f3a;
+       padding:9px 10px;display:flex;gap:8px;align-items:center;margin:0 -16px -14px}
+  .bar .cnt{font-size:11.5px;color:#8f97a8;margin-right:auto}
+  .note{font-size:11px;color:#7b8398;margin:0 0 8px;line-height:1.6}
+  .note b{color:#c4ccdb}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="brand">뉴보대 <span>오늘의 뉴스</span></div>
+  <div class="top-actions">
+    <a class="ghost" data-carry="/" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">← 앞장 만들기</a>
+    <span data-insta-slot></span>
+    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;color:#e8eaee;text-decoration:none;font-size:12px">폴더 정리</a>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- ────────── 좌: 어느 날짜를 볼지 · 어떻게 쓰는지 ────────── -->
+  <section class="panel left">
+    <h2>어느 날 뉴스 <span class="hint">봇이 종합해 둔 것</span></h2>
+    <p class="tip">매일 아침 <b>08:58</b> 에 도는 텔레그램 뉴스 봇이 네이버 랭킹·정부정책·
+      오피니언·팩트체크·화제를 훑어 둡니다. 여기서는 그 목록을 그대로 받아 카드로 만듭니다.</p>
+
+    <label class="row"><span>날짜</span>
+      <select id="day"></select>
+    </label>
+    <div class="row">
+      <button class="ghost" id="btnReload">다시 받아오기</button>
+      <button class="ghost" id="btnClear">고른 것 비우기</button>
+    </div>
+    <p class="tip" id="stat">불러오는 중…</p>
+
+    <h2 style="margin-top:12px">쓰는 순서</h2>
+    <p class="note">
+      <b>①</b> 기사 하나만 깊게 → 줄 오른쪽 <b>카드</b>. 본문을 가져와 표지+본문 장을 자동 구성합니다.<br>
+      <b>②</b> 여러 꼭지를 한 게시물로 → 왼쪽 네모를 체크하고 아래 <b>브리핑 만들기</b>.
+      표지 1장 + 기사마다 1장이 만들어집니다.<br>
+      <b>③</b> 만들어진 장은 위 띠에서 눌러 고치고, <b>인스타 올리기</b>에서 발행합니다.
+    </p>
+    <p class="note">요약 문장은 원문에서 <b>뽑아낸 것</b>이라 그대로 올리면 언론사 문장을 옮기는 셈입니다.
+      본인 말로 고쳐 쓰는 것을 전제로 쓰세요.</p>
+  </section>
+
+  <!-- ────────── 우: 기사 목록 ────────── -->
+  <section class="panel stage daily">
+    <div id="list"><p class="empty">불러오는 중…</p></div>
+    <div class="bar">
+      <span class="cnt" id="cnt">고른 기사 0건</span>
+      <button class="ghost" id="btnBriefKeep">브리핑 만들기(뒷장 포함)</button>
+      <button class="primary" id="btnBrief">브리핑 만들기</button>
+    </div>
+  </section>
+
+</main>
+
+<script src="/static/nav.js"></script>
+<script>
+/* 오늘의 뉴스 — 봇이 남긴 JSON(`/api/daily`)을 목록으로 보여 주고,
+ * 고른 기사를 앞장 만들기 화면으로 넘긴다.
+ *
+ * 넘기는 방법 두 가지
+ *  - 기사 1건: 주소로 (`/?url=…&title=…&auto=series`) — 기존 북마크 규칙 그대로.
+ *  - 여러 건 : localStorage `nb_daily` 에 담고 `/?auto=brief`. 주소에 실으면 너무 길다.
+ */
+(function () {
+  'use strict';
+  const $ = (id) => document.getElementById(id);
+  const KEY = 'nb_daily';
+  let DATA = null;
+  const picked = new Map();                  // url → {title, source}
+
+  const esc = (s) => String(s == null ? '' : s)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+  async function load(day, pull) {
+    $('stat').textContent = '불러오는 중…';
+    try {
+      const q = new URLSearchParams();
+      if (day) q.set('day', day);
+      if (!pull) q.set('pull', '0');
+      const r = await fetch('/api/daily?' + q.toString());
+      DATA = await r.json();
+    } catch (e) {
+      DATA = { ok: false, error: '서버에 닿지 못했습니다: ' + e.message, groups: [], days: [] };
+    }
+    draw();
+  }
+
+  function draw() {
+    const d = DATA || {};
+    const sel = $('day');
+    const days = d.days || [];
+    sel.innerHTML = '<option value="">최신</option>' +
+      days.map(x => `<option value="${esc(x)}"${x === d.date ? ' selected' : ''}>${esc(x)}</option>`).join('');
+
+    if (!d.ok) {
+      $('stat').textContent = d.error || '불러오지 못했습니다.';
+      $('list').innerHTML = `<p class="empty">${esc(d.error || '')}<br><br>` +
+        `봇 폴더를 못 찾으면 <b>설정.json</b> 의 <b>news_data</b> 에 경로를 적어 주세요.</p>`;
+      return;
+    }
+    $('stat').textContent = `${d.date || ''} · 기사 ${d.count || 0}건` +
+      (d.note ? ' · ' + d.note : '');
+
+    const html = (d.groups || []).map(g => {
+      const rows = g.items.map(a => {
+        const meta = [];
+        if (a.rank) meta.push(`<i class="r">조회 ${a.rank}위</i>`);
+        if (a.comments) meta.push(`<i class="c">댓글 ${a.comments.toLocaleString()}</i>`);
+        if (a.source) meta.push(`<i>${esc(a.source)}</i>`);
+        if (a.sources && a.sources.length) meta.push(`<i>${esc(a.sources.join(' · '))}</i>`);
+        if (a.published) meta.push(`<i>${esc(a.published)}</i>`);
+        return `<div class="art" data-url="${esc(a.url)}">
+          <input type="checkbox" ${picked.has(a.url) ? 'checked' : ''}>
+          <div class="mid">
+            <div class="t">${esc(a.title)}</div>
+            ${a.origin ? `<div class="o">${esc(a.origin)}</div>` : ''}
+            <div class="meta">${meta.join('')}</div>
+          </div>
+          <div class="go">
+            <button class="mk">카드</button>
+            <a href="${esc(a.url)}" target="_blank" rel="noopener">원문</a>
+          </div>
+        </div>`;
+      }).join('');
+      return `<div class="grp"><h3>${esc(g.name)} <span class="n">${g.items.length}건</span>
+        <button class="all">묶음 전체 고르기</button></h3>${rows}</div>`;
+    }).join('');
+    $('list').innerHTML = html || '<p class="empty">기사가 없습니다.</p>';
+    count();
+  }
+
+  function count() {
+    $('cnt').textContent = `고른 기사 ${picked.size}건`;
+  }
+
+  function itemOf(el) {
+    const url = el.getAttribute('data-url');
+    for (const g of (DATA.groups || [])) {
+      for (const a of g.items) if (a.url === url) return a;
+    }
+    return null;
+  }
+
+  function toCard(a) {
+    const q = new URLSearchParams({ url: a.url, title: a.title, auto: 'series' });
+    location.href = '/?' + q.toString();
+  }
+
+  function brief(withOutro) {
+    if (!picked.size) { $('stat').textContent = '기사를 먼저 고르세요.'; return; }
+    const items = [];
+    for (const [url, v] of picked) items.push({ url, title: v.title, source: v.source });
+    try {
+      localStorage.setItem(KEY, JSON.stringify({
+        date: (DATA && DATA.date) || '', outro: !!withOutro, items
+      }));
+    } catch (e) {
+      $('stat').textContent = '넘기지 못했습니다(저장 공간 부족): ' + e.message;
+      return;
+    }
+    location.href = '/?auto=brief';
+  }
+
+  /* ───────────── 손잡이 ───────────── */
+  $('list').addEventListener('click', (e) => {
+    const all = e.target.closest('.all');
+    if (all) {
+      const grp = all.closest('.grp');
+      const arts = [...grp.querySelectorAll('.art')];
+      const on = arts.some(x => !x.querySelector('input').checked);
+      arts.forEach(x => {
+        const a = itemOf(x);
+        x.querySelector('input').checked = on;
+        if (!a) return;
+        if (on) picked.set(a.url, { title: a.title, source: a.source });
+        else picked.delete(a.url);
+      });
+      count();
+      return;
+    }
+    const art = e.target.closest('.art');
+    if (!art) return;
+    const a = itemOf(art);
+    if (!a) return;
+    if (e.target.closest('.mk')) { toCard(a); return; }
+    if (e.target.tagName === 'A') return;                 // 원문 링크는 그대로
+    const box = art.querySelector('input');
+    if (e.target !== box) box.checked = !box.checked;      // 줄 아무 데나 눌러도 체크
+    if (box.checked) picked.set(a.url, { title: a.title, source: a.source });
+    else picked.delete(a.url);
+    count();
+  });
+
+  $('day').addEventListener('change', () => load($('day').value, false));
+  $('btnReload').addEventListener('click', () => load($('day').value, true));
+  $('btnClear').addEventListener('click', () => {
+    picked.clear();
+    document.querySelectorAll('.art input').forEach(x => { x.checked = false; });
+    count();
+  });
+  $('btnBrief').addEventListener('click', () => brief(false));
+  $('btnBriefKeep').addEventListener('click', () => brief(true));
+
+  if (window.NAV && NAV.mount) NAV.mount();
+  load('', true);
+})();
+</script>
+</body>
+</html>

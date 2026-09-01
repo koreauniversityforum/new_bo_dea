@@ -111,6 +111,8 @@
     } catch (e) { return false; }
   }
   const SCREENS = [
+    // 「오늘의 뉴스」는 서버가 봇의 JSON 을 읽어 주는 화면이라 폰판(서버 0개)에는 없다
+    ...(isPhoneBuild() ? [] : [{ href: '/static/daily.html', label: '오늘의 뉴스' }]),
     { href: '/static/topics.html', label: '주제 찾기' },
     { href: '/static/refs.html', label: '참고 사이트' },
     isPhoneBuild()
