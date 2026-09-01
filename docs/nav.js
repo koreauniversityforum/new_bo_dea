@@ -102,10 +102,22 @@
   /* 모든 화면에 똑같이 놓이는 머리글 링크. 화면마다 markup 을 복사하면 반드시
    * 갈라진다(주제 찾기 링크가 실제로 여섯 화면에 복사됐었다) — 인스타 단추처럼
    * 슬롯에서 한 번만 만든다. 지금 보고 있는 화면으로 가는 링크는 안 만든다. */
+  /* 「숏폼 만들기」는 PC 앱이 Shortform Studio exe 를 띄우는 일이라 서버가 있어야 한다.
+   * 폰판(깃허브 페이지, 서버 0개)에서는 옛 「릴스 만들기」(reel.html, 브라우저만으로 됨)를
+   * 그대로 보여 준다. 판별은 폰shim 이 심는 NBD_PHONE 또는 주소로. */
+  function isPhoneBuild() {
+    try {
+      return !!global.NBD_PHONE || location.protocol === 'file:' || /github\.io$/.test(location.hostname);
+    } catch (e) { return false; }
+  }
   const SCREENS = [
+    // 「오늘의 뉴스」는 서버가 봇의 JSON 을 읽어 주는 화면이라 폰판(서버 0개)에는 없다
+    ...(isPhoneBuild() ? [] : [{ href: 'daily.html', label: '오늘의 뉴스' }]),
     { href: 'topics.html', label: '주제 찾기' },
     { href: 'refs.html', label: '참고 사이트' },
-    { href: 'reel.html', label: '릴스 만들기' },
+    isPhoneBuild()
+      ? { href: 'reel.html', label: '릴스 만들기' }
+      : { href: 'shortform.html', label: '숏폼 만들기' },   // reel.html 은 숏폼 화면 안 「간단 릴스」로 이어진다
   ];
   const LINK_STYLE = 'padding:7px 12px;border-radius:8px;border:1px solid #2a2f3a;' +
     'color:#e8eaee;text-decoration:none;font-size:12px';

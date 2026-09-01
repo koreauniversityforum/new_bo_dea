@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>오늘의 카드 — 확인하고 발행</title>
+<style>
+  :root{ color-scheme: dark; }
+  *{ box-sizing:border-box }
+  body{ margin:0; background:#12151b; color:#e8eaee; font:15px/1.6 Pretendard, "Malgun Gothic", system-ui, sans-serif }
+  header{ position:sticky; top:0; z-index:5; background:#12151b; border-bottom:1px solid #2a2f3a;
+          padding:12px 14px; display:flex; align-items:center; gap:10px }
+  header b{ font-size:16px } header .d{ color:#8f97a8; font-size:12.5px }
+  main{ padding:14px; max-width:760px; margin:0 auto }
+  h2{ font-size:14px; margin:20px 0 8px; color:#c4ccdb }
+  .cards{ display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:8px }
+  .cards figure{ margin:0; border:1px solid #2a2f3a; border-radius:10px; overflow:hidden; background:#171b23 }
+  .cards img{ width:100%; display:block }
+  .cards figcaption{ font-size:11px; color:#8f97a8; padding:5px 7px }
+  textarea{ width:100%; min-height:190px; background:#171b23; color:#e8eaee; border:1px solid #2a2f3a;
+            border-radius:10px; padding:11px; font:13.5px/1.6 inherit; resize:vertical }
+  .row{ display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin:9px 0 }
+  label.ch{ font-size:13px; display:flex; align-items:center; gap:5px }
+  button{ font:600 14px inherit; padding:11px 15px; border-radius:10px; border:1px solid #333a4a;
+          background:#1d2129; color:#e8eaee; cursor:pointer }
+  button:hover:not(:disabled){ border-color:#4a5468 }
+  button:disabled{ opacity:.45; cursor:default }
+  button.go{ background:#e11d48; border-color:#e11d48; color:#fff; flex:1 }
+  button.dry{ flex:1 }
+  input[type=password], input[type=text]{ flex:1; min-width:180px; background:#171b23; color:#e8eaee;
+            border:1px solid #2a2f3a; border-radius:9px; padding:10px; font:13px inherit }
+  .note{ font-size:12px; color:#8f97a8; line-height:1.7 }
+  .note b{ color:#c4ccdb }
+  .warn{ border:1px solid #7e5233; background:#241a12; border-radius:10px; padding:10px 12px; font-size:12.5px }
+  pre.log{ background:#0d1016; border:1px solid #2a2f3a; border-radius:10px; padding:10px;
+           font-size:12px; white-space:pre-wrap; word-break:break-all; max-height:280px; overflow:auto }
+  details{ border:1px solid #2a2f3a; border-radius:10px; padding:9px 12px; margin-top:14px }
+  summary{ cursor:pointer; font-size:13px; color:#c4ccdb }
+  a{ color:#8fb8ff }
+</style>
+</head>
+<body>
+
+<header><b>오늘의 카드</b><span class="d" id="date">불러오는 중…</span></header>
+
+<main>
+  <div id="empty" class="warn" hidden>
+    아직 구워진 카드가 없습니다. 뉴스 봇이 아침에 한 번 돌면 생깁니다.
+  </div>
+
+  <div id="body" hidden>
+    <h2>카드 <span class="d" id="cnt"></span></h2>
+    <div class="cards" id="cards"></div>
+
+    <h2>문구 <span class="d">고쳐 쓰면 고친 글로 나갑니다</span></h2>
+    <textarea id="cap"></textarea>
+    <p class="note" id="capLen"></p>
+    <p class="note">🔴 초안의 제목 줄은 <b>언론사 문장</b>입니다. 본인 말로 바꿔 쓰는 것을 전제로 한 뼈대입니다.</p>
+
+    <h2>보낼 곳</h2>
+    <div class="row">
+      <label class="ch"><input type="checkbox" id="chIg" checked> 인스타그램</label>
+      <label class="ch"><input type="checkbox" id="chFb" checked> 페이스북 페이지</label>
+      <label class="ch"><input type="checkbox" id="chTh" checked> 스레드</label>
+    </div>
+
+    <div class="row">
+      <button class="dry" id="btnDry">점검만 (안 보냄)</button>
+      <button class="go" id="btnGo">발행</button>
+    </div>
+    <p class="note" id="stat"></p>
+    <pre class="log" id="log" hidden></pre>
+
+    <details id="keybox">
+      <summary>발행 열쇠 (이 기기에 한 번만 넣으면 됩니다)</summary>
+      <p class="note">
+        홈페이지는 정적 파일이라 서버가 없습니다. [발행]은 <b>이 브라우저에 저장된 열쇠</b>로
+        GitHub 에 「올려라」 하고 알리고, 실제 게시는 GitHub Actions 가 합니다.
+        열쇠는 <b>이 기기에만</b> 남고 홈페이지에는 들어가지 않습니다.
+      </p>
+      <p class="note">
+        만드는 법 — GitHub → Settings → Developer settings → <b>Fine-grained tokens</b> →
+        이 레포 하나만 고르고 <b>Contents: Read and write</b> 권한. 만든 문자열을 아래에 붙여 넣으세요.
+      </p>
+      <div class="row">
+        <input type="password" id="pat" placeholder="github_pat_… 붙여넣기" autocomplete="off">
+        <button id="btnKey">저장</button>
+        <button id="btnKeyDel">지우기</button>
+      </div>
+      <p class="note">열쇠 없이 발행하려면 → <a id="issueLink" href="https://github.com/koreauniversityforum/new_bo_dea/issues" target="_blank" rel="noopener">검토 이슈</a>에 <b>발행</b> 이라고 댓글을 달아도 똑같이 나갑니다.</p>
+    </details>
+  </div>
+</main>
+
+<script>
+/* 오늘의 카드 검토·발행 화면 (깃허브 페이지, 서버 0개)
+ *
+ * 그림·문구는 워크플로가 써 둔 `오늘.json` 에서 읽는다. [발행]은 GitHub 의
+ * repository_dispatch 를 부르고, 실제 게시는 `publish-cards.yml` 이 한다.
+ * 🔴 열쇠(PAT)는 localStorage 에만 둔다 — 이 파일에 박아 두면 공개 페이지라 누구나 쓴다.
+ */
+(function () {
+  'use strict';
+  const $ = (id) => document.getElementById(id);
+  const REPO = 'koreauniversityforum/new_bo_dea';
+  const KEY = 'nbd_pat';
+  let DATA = null;
+
+  const key = () => { try { return localStorage.getItem(KEY) || ''; } catch (e) { return ''; } };
+
+  async function load() {
+    try {
+      const r = await fetch('오늘.json?v=' + Date.now());
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      DATA = await r.json();
+    } catch (e) {
+      $('empty').hidden = false;
+      $('date').textContent = '';
+      return;
+    }
+    $('body').hidden = false;
+    $('date').textContent = DATA.date || '';
+    $('cnt').textContent = (DATA.cards || []).length + '장';
+    $('cards').innerHTML = (DATA.cards || []).map((c, i) =>
+      '<figure><img loading="lazy" src="' + c.url + '" alt="카드 ' + (i + 1) + '">' +
+      '<figcaption>' + (i + 1) + ' / ' + c.file + '</figcaption></figure>').join('');
+    $('cap').value = DATA.caption || '';
+    len();
+    if (!key()) $('keybox').open = true;
+  }
+
+  function len() {
+    const n = $('cap').value.length;
+    $('capLen').textContent = n + '자 · 인스타 2,200자 / 스레드는 500자가 넘으면 앞부분만 나갑니다.';
+  }
+
+  function channels() {
+    const c = [];
+    if ($('chIg').checked) c.push('instagram');
+    if ($('chFb').checked) c.push('facebook');
+    if ($('chTh').checked) c.push('threads');
+    return c;
+  }
+
+  async function send(dry) {
+    const k = key();
+    if (!k) { $('keybox').open = true; $('stat').textContent = '먼저 발행 열쇠를 넣어 주세요.'; return; }
+    const cap = $('cap').value.trim();
+    if (!cap) { $('stat').textContent = '문구가 비었습니다.'; return; }
+    const ch = channels();
+    if (!ch.length) { $('stat').textContent = '보낼 곳을 하나 이상 고르세요.'; return; }
+    if (!dry && !confirm((DATA.cards || []).length + '장을 실제로 발행합니다.\n보낼 곳: ' +
+        ch.join(', ') + '\n되돌릴 수 없습니다. 진행할까요?')) return;
+
+    $('btnGo').disabled = $('btnDry').disabled = true;
+    $('stat').textContent = dry ? '점검을 요청하는 중…' : '발행을 요청하는 중…';
+    try {
+      const r = await fetch('https://api.github.com/repos/' + REPO + '/dispatches', {
+        method: 'POST',
+        headers: { 'Authorization': 'Bearer ' + k, 'Accept': 'application/vnd.github+json' },
+        body: JSON.stringify({ event_type: 'publish-cards',
+                               client_payload: { caption: cap, channels: ch, dry: !!dry } })
+      });
+      if (r.status === 204) {
+        $('stat').innerHTML = (dry ? '점검' : '발행') + ' 요청을 보냈습니다. 1~3분 걸립니다 — ' +
+          '결과는 <a href="https://github.com/' + REPO + '/actions" target="_blank" rel="noopener">Actions</a> ' +
+          '또는 <a href="https://github.com/' + REPO + '/issues" target="_blank" rel="noopener">검토 이슈</a>에 남습니다.';
+      } else {
+        const t = await r.text();
+        $('log').hidden = false;
+        $('log').textContent = 'HTTP ' + r.status + '\n' + t;
+        $('stat').textContent = r.status === 401 || r.status === 403
+          ? '열쇠가 없거나 권한이 모자랍니다(Contents: Read and write 인지 확인하세요).'
+          : '요청이 거절됐습니다.';
+      }
+    } catch (e) {
+      $('stat').textContent = '보내지 못했습니다: ' + e.message;
+    } finally {
+      $('btnGo').disabled = $('btnDry').disabled = false;
+    }
+  }
+
+  $('cap').addEventListener('input', len);
+  $('btnGo').addEventListener('click', () => send(false));
+  $('btnDry').addEventListener('click', () => send(true));
+  $('btnKey').addEventListener('click', () => {
+    const v = $('pat').value.trim();
+    if (!v) return;
+    try { localStorage.setItem(KEY, v); } catch (e) { $('stat').textContent = '저장 실패: ' + e.message; return; }
+    $('pat').value = '';
+    $('stat').textContent = '열쇠를 이 기기에 저장했습니다.';
+    $('keybox').open = false;
+  });
+  $('btnKeyDel').addEventListener('click', () => {
+    try { localStorage.removeItem(KEY); } catch (e) { /* 무시 */ }
+    $('stat').textContent = '열쇠를 지웠습니다.';
+  });
+
+  load();
+})();
+</script>
+</body>
+</html>

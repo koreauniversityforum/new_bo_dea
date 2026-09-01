@@ -335,6 +335,7 @@ function drawLogo() {
   boxes.logo = { x0: S.logo.x, y0: S.logo.y, x1: S.logo.x + w, y1: S.logo.y + h };
 }
 
+let noHint = false;          // 내보내기 중에는 「사진을 끌어다…」 안내를 그리지 않는다
 function render() {
   // 시리즈의 '뒷장' 이 떠 있으면 앞장 렌더러가 그 위를 덮으면 안 된다 — deck.js 가 대신 그린다
   if (window.DECK && DECK.isOutroActive()) { DECK.renderOutro(); return; }
@@ -355,7 +356,7 @@ function render() {
     ctx.fillStyle = (pr * 0.299 + pg * 0.587 + pb * 0.114) > 140 ? '#b7bcc6' : '#2b3040';
     ctx.font = '500 30px Pretendard, "Malgun Gothic", sans-serif';
     ctx.textAlign = 'center';
-    ctx.fillText('사진을 끌어다 놓거나 왼쪽에서 고르세요', W / 2, H / 2);
+    if (!noHint) ctx.fillText('사진을 끌어다 놓거나 왼쪽에서 고르세요', W / 2, H / 2);
     ctx.textAlign = 'left';
   }
 
@@ -1641,9 +1642,18 @@ const outName = () => ($('saveName').value.trim() || '뉴보대_카드');
 const layerText = k => (S.layers[k] && S.layers[k].on ? (S.layers[k].text || '').trim() : '');
 let BGM = null;   // bgm.js 가 만들어 주는 추천 노래 패널
 
-/* 내보낼 때만 파일 속에 글자를 심는다. 미리보기 캔버스는 건드리지 않는다. */
-const outCanvas = () => (typeof HIDDEN !== 'undefined')
-  ? HIDDEN.exportCanvas(cv, { name: outName() }) : cv;
+/* 내보낼 때만 파일 속에 글자를 심는다. 미리보기 캔버스는 건드리지 않는다.
+   사진이 없을 때 그리는 「사진을 끌어다…」 안내는 **미리보기용**이다. 그대로 내보내면
+   안내 문구가 박힌 카드가 저장된다(실측 - 시리즈 자동 구성처럼 사진 없이 만든 장에서 났다).
+   그래서 내보내기 직전에만 안내를 끄고 한 번 더 그린다. 뒷장은 outro.js 가 그린 것이
+   캔버스에 얹혀 있으므로 다시 그리면 안 된다. */
+const outCanvas = () => {
+  const isOutro = (typeof DECK !== 'undefined' && DECK.isOutroActive) ? DECK.isOutroActive() : false;
+  if (!isOutro) { noHint = true; render(); }
+  const out = (typeof HIDDEN !== 'undefined') ? HIDDEN.exportCanvas(cv, { name: outName() }) : cv;
+  if (!isOutro) { noHint = false; render(); }
+  return out;
+};
 const hiddenNote = () => {
   if (typeof HIDDEN === 'undefined') return '';
   const c = HIDDEN.load();

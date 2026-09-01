@@ -1,0 +1,133 @@
+name: 오늘의 카드 굽기
+
+# 뉴스 봇(korea_news_bot)이 08:58 에 발송을 마치면 곧바로 이 워크플로를 부른다.
+# GitHub 자체 schedule 은 수십 분~수 시간 늦게 뜨는 것을 실측했으므로 쓰지 않는다.
+on:
+  repository_dispatch:
+    types: [make-cards]
+  workflow_dispatch:
+    inputs:
+      기사:
+        description: '{"date":"…","outro":true,"items":[{"title":"…","source":"…","url":"…"}]} — 비우면 지난번 것으로 다시 굽는다'
+        required: false
+        default: ''
+
+permissions:
+  contents: write      # docs/오늘.json 커밋 · 릴리스에 그림 올리기
+  issues: write        # 검토용 이슈 열기
+
+concurrency:
+  group: daily-cards
+  cancel-in-progress: false
+
+jobs:
+  bake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 기사 꾸러미 받아 적기
+        env:
+          FROM_DISPATCH: ${{ toJSON(github.event.client_payload) }}
+          FROM_INPUT: ${{ inputs.기사 }}
+        run: |
+          mkdir -p .cards
+          if [ -n "$FROM_INPUT" ]; then
+            printf '%s' "$FROM_INPUT" > .cards/기사.json
+          elif [ "$FROM_DISPATCH" != "null" ] && [ -n "$FROM_DISPATCH" ]; then
+            printf '%s' "$FROM_DISPATCH" > .cards/기사.json
+          elif [ -f docs/오늘.json ]; then
+            python -c "import json;d=json.load(open('docs/오늘.json',encoding='utf-8'));json.dump({'date':d['date'],'outro':d.get('outro',True),'items':d['items']},open('.cards/기사.json','w',encoding='utf-8'),ensure_ascii=False)"
+          else
+            echo "구울 기사가 없습니다."; exit 1
+          fi
+          python -c "import json;d=json.load(open('.cards/기사.json',encoding='utf-8'));print('날짜',d.get('date'),'/ 기사',len(d.get('items') or []),'건');[print(' -',x['title'][:40]) for x in d['items']]"
+
+      - name: 크롬 준비물 설치
+        working-directory: .github/cards
+        run: npm install --no-audit --no-fund --loglevel=error
+
+      - name: 카드 굽기
+        run: node .github/cards/render.js --data .cards/기사.json --out .cards/그림 --quality 0.9
+
+      - name: 문구 초안 쓰기
+        run: python .github/cards/caption.py --data .cards/기사.json --out .cards/문구.txt
+
+      - name: 릴리스에 그림 올리기
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # 그림은 **릴리스**에 둔다. 레포에 커밋하면 하루 1MB 씩 깃 이력이 불어나고,
+          # 지워도 이력에는 남는다. 릴리스는 지우면 실제로 줄어든다.
+          gh release delete daily-cards --yes --cleanup-tag || true
+          gh release create daily-cards .cards/그림/*.jpg \
+            --title "오늘의 카드" \
+            --notes "매일 아침 자동으로 구워지는 카드입니다. 다음 날 덮어써집니다."
+
+      - name: 검토 화면이 읽을 목록 쓰기
+        env:
+          REPO: ${{ github.repository }}
+        run: |
+          python - <<'PY'
+          import json, os
+          repo = os.environ["REPO"]
+          base = "https://github.com/%s/releases/download/daily-cards/" % repo
+          with open(".cards/기사.json", encoding="utf-8") as f:
+              기사 = json.load(f)
+          with open(".cards/문구.txt", encoding="utf-8") as f:
+              문구 = f.read().strip()
+          그림 = sorted(x for x in os.listdir(".cards/그림") if x.endswith(".jpg"))
+          out = {
+              "date": 기사.get("date", ""),
+              "outro": 기사.get("outro", True),
+              "items": 기사.get("items", []),
+              "cards": [{"file": n, "url": base + n} for n in 그림],
+              "caption": 문구,
+          }
+          os.makedirs("docs", exist_ok=True)
+          with open("docs/오늘.json", "w", encoding="utf-8") as f:
+              json.dump(out, f, ensure_ascii=False, indent=1)
+          print("카드 %d장 · 문구 %d자" % (len(그림), len(문구)))
+          PY
+
+      - name: 검토용 이슈 열기
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          gh label create 오늘의카드 --color BFD4F2 --description "매일 자동으로 구운 카드" || true
+          DATE=$(python -c "import json;print(json.load(open('docs/오늘.json',encoding='utf-8'))['date'])")
+          {
+            echo "아래 카드를 확인하고, 올려도 되면 이 이슈에 **\`발행\`** 이라고 댓글을 다세요."
+            echo "문구를 바꾸려면 \`발행\` 다음 줄부터 새 문구를 적으면 그 글로 나갑니다."
+            echo ""
+            echo "홈페이지에서 보려면 → https://koreauniversityforum.github.io/new_bo_dea/오늘.html"
+            echo ""
+            python - <<'PY'
+          import json
+          d = json.load(open("docs/오늘.json", encoding="utf-8"))
+          for c in d["cards"]:
+              print('<img src="%s" width="220">' % c["url"])
+          print()
+          print("### 문구 초안")
+          print("```")
+          print(d["caption"])
+          print("```")
+          PY
+          } > 이슈본문.md
+          gh issue create --title "오늘의 카드 $DATE" --label 오늘의카드 --body-file 이슈본문.md
+          rm -f 이슈본문.md
+
+      - name: 목록 커밋
+        run: |
+          git config user.name  "nbd-cards"
+          git config user.email "cards@users.noreply.github.com"
+          git add docs/오늘.json
+          git diff --staged --quiet || git commit -m "오늘의 카드 목록 갱신"
+          git push

@@ -23,3 +23,8 @@ tunnel.log
 desktop.ini
 Thumbs.db
 .DS_Store
+
+# 카드 굽기 작업물 — 릴리스로 올라가므로 레포에는 안 남긴다
+.cards/
+.github/cards/node_modules/
+.github/cards/package-lock.json

@@ -268,6 +268,81 @@
     }
   }
 
+  /* ───────────── 오늘의 뉴스 → 브리핑 한 벌 ─────────────
+     「오늘의 뉴스」 화면(daily.html)에서 기사 여러 건을 골라 오면 표지 1장 +
+     기사마다 1장을 세운다. **본문을 가져오지 않는다** — 제목·매체만으로 세우고
+     살은 사람이 붙인다(기사 N건의 본문을 한 번에 긁으면 언론사에 무리도 가고
+     느리다). 기사 하나를 깊게 다룰 때는 `카드` 단추 → `?auto=series` 쪽이다. */
+  const MONTH_DAY = /^(\d{4})-(\d{2})-(\d{2})$/;
+  function briefTitle(date) {
+    const m = MONTH_DAY.exec(date || '');
+    if (!m) return '오늘의 뉴스';
+    return `${+m[2]}월 ${+m[3]}일 뉴스`;
+  }
+  async function briefFrom(d) {
+    const items = (d && d.items || []).filter(x => x && x.title);
+    if (!items.length) return msg($('fetchMsg'), '고른 기사가 없습니다.', 'err');
+    const p = PROG.start('btnDeckAuto', '브리핑 세우는 중');
+    try {
+      commit();
+      const base = baseCard();
+      const baseS = base ? base.S : S;
+      const baseBg = base ? base.bgImg : bgImg;
+
+      const cover = mergeState(clone(baseS));
+      coverGeometry(cover);
+      cover.layers.kicker.text = '오늘의 뉴스';
+      cover.layers.title.text = briefTitle(d.date);
+      cover.layers.body.text = items.slice(0, 3).map(x => '· ' + x.title).join('\n');
+      const list = [{ id: uid(), kind: 'card', tpl: 'cover', S: cover, bgImg: baseBg || null, thumb: null }];
+
+      items.forEach((it, i) => {
+        list.push(makeCard('point', {
+          label: 'NEWS ' + pad2(i + 1),
+          head: it.title,
+          body: it.source ? it.source : ''
+        }, cover, baseBg || null));
+      });
+      if (d.outro) list.push(makeOutro());
+
+      pages.length = 0;
+      list.forEach(x => pages.push(x));
+      await activate(0, { noCommit: true });
+      p.done('세웠음');
+      msg($('fetchMsg'), `브리핑 ${pages.length}장 — 표지 1 + 기사 ${items.length}` +
+        (d.outro ? ' + 뒷장 1' : '') + '. 위 띠에서 장을 눌러 문구를 고치세요.', 'ok');
+    } catch (e) {
+      p.fail('실패');
+      msg($('fetchMsg'), '브리핑 만들기 실패: ' + e.message, 'err');
+    }
+  }
+
+  /* 「오늘의 뉴스」에서 넘어온 일감 처리 — 주소의 `?auto=` 를 본다.
+       series : `?url=` 로 이미 가져오기가 걸려 있다. 본문이 차기를 기다렸다 자동 구성.
+       brief  : localStorage `nb_daily` 에 담겨 온 기사들로 브리핑. */
+  async function autoFromDaily() {
+    let sp;
+    try { sp = new URLSearchParams(location.search); } catch (e) { return; }
+    const want = sp.get('auto') || '';
+    if (!want) return;
+    if (want === 'brief') {
+      let d = null;
+      try { d = JSON.parse(localStorage.getItem('nb_daily') || 'null'); } catch (e) { d = null; }
+      try { localStorage.removeItem('nb_daily'); } catch (e) { /* 무시 */ }
+      if (d) await briefFrom(d);
+      return;
+    }
+    if (want !== 'series') return;
+    // 본문이 채워질 때까지 기다린다(가져오기는 app.js 가 이미 눌렀다). 최대 25초.
+    const t0 = Date.now();
+    while (Date.now() - t0 < 25000) {
+      const body = ($('inBody').value || '').trim();
+      if (body.length > 120) { await autoCompose(); return; }
+      await new Promise(r => setTimeout(r, 400));
+    }
+    msg($('fetchMsg'), '본문을 못 가져와 자동 구성을 건너뜁니다. 본문을 붙여넣고 「자동 구성」을 누르세요.', 'err');
+  }
+
   /* ───────────── 디자인 전 장 적용 ───────────── */
   async function applyDesignAll(d) {
     commit();
@@ -478,11 +553,13 @@
       paint();
       persist();
     }
+    autoFromDaily();                         // 「오늘의 뉴스」에서 넘어왔으면 이어서
   }
 
   global.DECK = {
     boot, count: () => pages.length, pages: () => pages, current: () => cur,
     activate, add, remove, move, duplicate, resetToOne, autoCompose, applyDesignAll,
+    briefFrom,
     stageItems, saveAll, afterRender, renderOutro, paint,
     isOutroActive: () => isOutro(pages[cur])
   };

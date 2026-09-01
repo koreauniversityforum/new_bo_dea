@@ -1,0 +1,127 @@
+name: 카드 발행
+
+# 승인 길은 둘 - 어느 쪽이든 같은 발행 코드를 탄다.
+#   ① 홈페이지 「오늘.html」의 [발행] 단추 → repository_dispatch (publish-cards)
+#   ② 검토 이슈에 `발행` 댓글            → issue_comment
+# 실제로 SNS 에 나가는 일이므로 **권한 있는 사람의 승인**만 받는다(아래 if 절).
+on:
+  repository_dispatch:
+    types: [publish-cards]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write      # 그림을 페이지에 잠깐 올렸다 치우기 · 발행기록 커밋
+  issues: write        # 결과 댓글 · 이슈 닫기
+
+concurrency:
+  group: publish-cards
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    # 이슈 댓글일 때: 자동으로 연 검토 이슈 + 권한 있는 사람 + 첫 줄이 `발행`
+    if: >
+      github.event_name == 'repository_dispatch' ||
+      (github.event.issue.pull_request == null &&
+       contains(github.event.issue.labels.*.name, '오늘의카드') &&
+       startsWith(github.event.comment.body, '발행') &&
+       contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.comment.author_association))
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 구워 둔 그림 내려받기
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p .cards/그림
+          gh release download daily-cards -D .cards/그림 --pattern '*.jpg'
+          ls -la .cards/그림
+
+      - name: 문구·설정 정하기
+        env:
+          FROM_DISPATCH: ${{ toJSON(github.event.client_payload) }}
+          COMMENT: ${{ github.event.comment.body }}
+          EVENT: ${{ github.event_name }}
+        run: |
+          python - <<'PY'
+          import json, os
+          ev = os.environ["EVENT"]
+          기본 = json.load(open("docs/오늘.json", encoding="utf-8"))
+          문구 = 기본.get("caption", "")
+          창구 = "instagram,facebook,threads"
+          시늉 = False
+          if ev == "repository_dispatch":
+              p = json.loads(os.environ.get("FROM_DISPATCH") or "{}") or {}
+              문구 = (p.get("caption") or 문구).strip()
+              창구 = ",".join(p.get("channels") or []) or 창구
+              시늉 = bool(p.get("dry"))
+          else:
+              # `발행` 다음 줄부터 새 문구로 본다. 없으면 초안 그대로.
+              몸 = os.environ.get("COMMENT", "")
+              뒤 = 몸.split("\n", 1)[1].strip() if "\n" in 몸 else ""
+              if 뒤:
+                  문구 = 뒤
+              머리 = 몸.split("\n", 1)[0].strip()
+              시늉 = "점검" in 머리
+          open(".cards/문구.txt", "w", encoding="utf-8").write(문구)
+          with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as f:
+              f.write("채널=%s\n날짜=%s\n시늉=%s\n" % (창구, 기본.get("date", ""), "1" if 시늉 else ""))
+          print("문구 %d자 / 창구 %s%s" % (len(문구), 창구, " [점검만]" if 시늉 else ""))
+          PY
+
+      - name: 발행
+        env:
+          META_CONFIG: ${{ secrets.META_CONFIG }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name  "nbd-cards"
+          git config user.email "cards@users.noreply.github.com"
+          set +e
+          python .github/cards/publish.py \
+            --images .cards/그림 \
+            --caption .cards/문구.txt \
+            --channels "$채널" \
+            --date "$날짜" \
+            ${시늉:+--dry} 2>&1 | tee .cards/결과.txt
+          echo "코드=${PIPESTATUS[0]}" >> $GITHUB_ENV
+
+      - name: 발행기록 커밋
+        if: env.시늉 == ''
+        run: |
+          git add 발행기록 || true
+          git diff --staged --quiet || git commit -m "발행기록 $날짜"
+          git push || true
+
+      - name: 결과 알리기
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          NUM="$ISSUE"
+          if [ -z "$NUM" ]; then
+            NUM=$(gh issue list --label 오늘의카드 --state open --limit 1 --json number -q '.[0].number')
+          fi
+          [ -z "$NUM" ] && { echo "알릴 이슈가 없습니다."; exit 0; }
+          {
+            if [ "$코드" = "0" ]; then echo "✅ 발행했습니다."; else echo "⚠️ 발행이 끝까지 못 갔습니다."; fi
+            echo ""
+            echo '```'
+            tail -c 3000 .cards/결과.txt
+            echo '```'
+          } > 결과.md
+          gh issue comment "$NUM" --body-file 결과.md
+          if [ "$코드" = "0" ] && [ -z "$시늉" ]; then
+            gh issue close "$NUM"
+            # 올라간 그림은 인스타에 남았으므로 릴리스에서 치운다(레포에 기록만 남긴다)
+            gh release delete daily-cards --yes --cleanup-tag || true
+          fi
+          rm -f 결과.md
