@@ -289,19 +289,37 @@
       const baseS = base ? base.S : S;
       const baseBg = base ? base.bgImg : bgImg;
 
+      // 기사 사진을 먼저 싣는다. 사진이 없으면 카드가 '검은 화면'처럼 보인다(2026-09-02 지적).
+      // 부르는 쪽이 **같은 출처** 주소로 줘야 한다 - 다른 출처면 캔버스가 오염돼 저장이 막힌다.
+      const 사진 = {};
+      for (const it of items) {
+        if (!it.photo || 사진[it.photo]) continue;
+        try { 사진[it.photo] = await loadImage(it.photo); } catch (e) { /* 없으면 없는 대로 */ }
+      }
+
       const cover = mergeState(clone(baseS));
       coverGeometry(cover);
       cover.layers.kicker.text = '오늘의 뉴스';
       cover.layers.title.text = briefTitle(d.date);
       cover.layers.body.text = items.slice(0, 3).map(x => '· ' + x.title).join('\n');
-      const list = [{ id: uid(), kind: 'card', tpl: 'cover', S: cover, bgImg: baseBg || null, thumb: null }];
+      // 표지에도 첫 기사 사진을 깔아 준다(사진이 하나도 없으면 지금 카드 그대로).
+      const 표지감 = items.find(x => x.photo && 사진[x.photo]);
+      cover.bg.src = 표지감 ? 표지감.photo : '';
+      const list = [{
+        id: uid(), kind: 'card', tpl: 'cover', S: cover,
+        bgImg: 표지감 ? 사진[표지감.photo] : (baseBg || null), thumb: null
+      }];
 
       items.forEach((it, i) => {
-        list.push(makeCard('point', {
+        const img = it.photo ? 사진[it.photo] : null;
+        const card = makeCard('point', {
           label: 'NEWS ' + pad2(i + 1),
           head: it.title,
-          body: it.source ? it.source : ''
-        }, cover, baseBg || null));
+          // 요약이 있으면 요약을, 없으면 매체 이름만. 카드에 할 말이 있어야 한다.
+          body: (it.summary || '').trim() || it.press || it.source || ''
+        }, cover, img || null);
+        card.S.bg.src = img ? it.photo : '';
+        list.push(card);
       });
       if (d.outro) list.push(makeOutro());
 

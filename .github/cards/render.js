@@ -1,11 +1,11 @@
-/* 카드 굽기 — 노트북 없이 GitHub Actions 안에서 카드 그림을 만든다.
+/* 카드 굽기 - 노트북 없이 GitHub Actions 안에서 카드 그림을 만든다.
  *
  * 왜 브라우저를 띄우나: 카드 디자인(글꼴·띠·그라데이션·자동 줄바꿈)은 전부 캔버스
  * JS 다. 서버에서 파이썬으로 다시 그리면 두 벌이 되어 반드시 갈라진다. 그래서
  * **폰판(docs/, 서버 0개)을 헤드리스 크롬으로 그대로 열어** 사람이 누르는 것과
  * 같은 길(`?auto=brief` → DECK.briefFrom)을 밟게 하고, 캔버스만 꺼내 온다.
  *
- *   node render.js --data 기사.json --out 낼곳 [--quality 0.9]
+ *   node render.js --data 기사.json --out 낼곳 [--photos 사진폴더] [--quality 0.9]
  *
  * 기사.json = { date, items:[{title, source, url}], outro }
  * 낼곳에 01.jpg/01.png … 과 목록.json(장 종류 포함)을 쓴다.
@@ -30,12 +30,21 @@ function arg(name, fallback) {
   return i > 0 && process.argv[i + 1] ? process.argv[i + 1] : fallback;
 }
 
-/* 폰판을 그대로 얹는 정적 서버. file:// 로 열면 localStorage 와 글꼴이 막힌다. */
-function serve() {
+/* 폰판을 그대로 얹는 정적 서버. file:// 로 열면 localStorage 와 글꼴이 막힌다.
+   `/사진/` 은 기사 사진을 받아 둔 폴더로 보낸다 - **같은 출처**여야 캔버스가 안 더러워진다
+   (다른 출처 그림을 얹으면 toDataURL() 이 막혀 카드를 못 꺼낸다). */
+function serve(photoDir) {
   const srv = http.createServer((req, res) => {
     let rel = decodeURIComponent(req.url.split('?')[0]);
     if (rel === '/') rel = '/index.html';
-    const p = path.join(DOCS, rel);
+    let p;
+    if (rel.startsWith('/사진/') && photoDir) {
+      p = path.join(photoDir, path.basename(rel));
+      if (!fs.existsSync(p)) { res.writeHead(404); return res.end('no photo'); }
+      res.writeHead(200, { 'Content-Type': MIME[path.extname(p).toLowerCase()] || 'image/jpeg' });
+      return fs.createReadStream(p).pipe(res);
+    }
+    p = path.join(DOCS, rel);
     if (!p.startsWith(DOCS) || !fs.existsSync(p) || fs.statSync(p).isDirectory()) {
       res.writeHead(404); return res.end('not found');
     }
@@ -62,7 +71,10 @@ function chromePath() {
   const quality = parseFloat(arg('quality', '0.9'));
   fs.mkdirSync(outDir, { recursive: true });
 
-  const srv = await serve();
+  const photoDir = arg('photos', '');
+  // 기사 사진은 주소가 아니라 **우리 서버 경로**로 넘긴다(같은 출처 규칙).
+  (data.items || []).forEach(it => { if (it.photo) it.photo = '/사진/' + it.photo; });
+  const srv = await serve(photoDir);
   const base = 'http://127.0.0.1:' + srv.address().port;
   const browser = await puppeteer.launch({
     executablePath: chromePath(),
@@ -113,6 +125,10 @@ function chromePath() {
     // 두 벌을 낸다.
     //  - jpg : 인스타·스레드가 JPEG 만 받는다(그림 주소로 넘길 것).
     //  - png : 사람이 내려받아 쓰는 원본(앱의 「저장」과 같은 꼴).
+    if (process.env.CARD_DEBUG) {
+      console.log(JSON.stringify(await page.evaluate(() => DECK.pages().map(
+        p => ({ tpl: p.tpl, src: p.S && p.S.bg && p.S.bg.src, img: !!p.bgImg })))));
+    }
     const shots = await page.evaluate(async (q) => {
       const items = DECK.stageItems();
       const kinds = DECK.pages().map(p => p.tpl);

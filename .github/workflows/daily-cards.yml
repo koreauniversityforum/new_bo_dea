@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       articles:
-        description: '{"date":"…","outro":true,"items":[{"title":"…","source":"…","url":"…"}]} — 비우면 지난번 것으로 다시 굽는다'
+        description: '{"date":"…","outro":true,"items":[{"title":"…","source":"…","url":"…"}]} - 비우면 지난번 것으로 다시 굽는다'
         required: false
         default: ''
 
@@ -53,8 +53,13 @@ jobs:
         working-directory: .github/cards
         run: npm install --no-audit --no-fund --loglevel=error
 
+      - name: 기사 사진·요약 챙기기
+        run: |
+          # 카드에 사진과 할 말을 넣는다. 없으면 '검은 화면' 같은 카드가 나온다.
+          python .github/cards/prep.py --data .cards/기사.json --photos .cards/사진
+
       - name: 카드 굽기
-        run: node .github/cards/render.js --data .cards/기사.json --out .cards/그림 --quality 0.9
+        run: node .github/cards/render.js --data .cards/기사.json --photos .cards/사진 --out .cards/그림 --quality 0.9
 
       - name: 문구 초안 쓰기
         run: python .github/cards/caption.py --data .cards/기사.json --out .cards/문구.txt
@@ -104,10 +109,24 @@ jobs:
                      "file": c["jpg"], "url": base + c["jpg"],
                      "png": base + c["png"], "pngBytes": c["pngBytes"]}
               if c["kind"] not in ("cover", "outro") and 뉴스 < len(items):
-                  row["title"] = items[뉴스].get("title", "")
-                  row["source"] = items[뉴스].get("source", "")
-                  row["link"] = items[뉴스].get("url", "")
+                  it = items[뉴스]
+                  row["title"] = it.get("title", "")
+                  row["summary"] = it.get("summary", "")
+                  row["press"] = it.get("press", "") or it.get("source", "")
+                  row["source"] = it.get("source", "")
+                  row["link"] = it.get("url", "")
+                  # 카드 한 장만 따로 올릴 때 쓰는 글. 카드를 눌러 바로 복사한다.
+                  줄 = [row["label"] + ". " + row["title"]]
+                  if row["summary"]:
+                      줄 += ["", row["summary"]]
+                  꼬리 = " / ".join(x for x in (row["press"], row["link"]) if x)
+                  if 꼬리:
+                      줄 += ["", "출처: " + 꼬리]
+                  row["feed"] = "\n".join(줄)
                   뉴스 += 1
+              elif c["kind"] == "cover":
+                  row["feed"] = "\n".join(["오늘의 뉴스 " + (기사.get("date") or ""), ""] +
+                                          ["· " + (x.get("title") or "") for x in items])
               cards.append(row)
           out = {"date": 기사.get("date", ""), "outro": 기사.get("outro", True),
                  "items": items, "cards": cards, "caption": 문구}

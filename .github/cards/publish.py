@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""발행 — 구워 둔 카드를 인스타 · 페이스북 페이지 · 스레드에 올린다 (Actions 안에서).
+"""발행 - 구워 둔 카드를 인스타 · 페이스북 페이지 · 스레드에 올린다 (Actions 안에서).
 
     python publish.py --images 카드폴더 --caption 문구.txt --urls 주소.json [--dry]
 
@@ -15,7 +15,7 @@
 로그에 절대 찍지 않는다.
 
 ## 남기는 것
-`발행기록/YYYY-MM-DD.json` — 무엇을 언제 어디에 올렸는지와 게시물 링크.
+`발행기록/YYYY-MM-DD.json` - 무엇을 언제 어디에 올렸는지와 게시물 링크.
 그림은 안 남긴다(인스타에 올라갔고, 레포에 두면 저장소만 뚱뚱해진다).
 """
 from __future__ import annotations

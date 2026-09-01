@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>정기 뉴스 메이커 — 뉴보대</title>
+<title>정기 뉴스 메이커 - 뉴보대</title>
 <link rel="icon" href="favicon.ico">
 <script>
-  /* 판(밝게/어둡게)은 화면이 그려지기 **전에** 정한다 — 안 그러면 흰 판이 한 번 번쩍인다.
+  /* 판(밝게/어둡게)은 화면이 그려지기 **전에** 정한다 - 안 그러면 흰 판이 한 번 번쩍인다.
      앱 화면들과 같은 칸(nb_theme)을 쓰므로 어디서 바꾸든 따라온다. */
   try {
     document.documentElement.setAttribute(
@@ -77,8 +77,14 @@
             border:1px solid var(--line); border-radius:9px; padding:9px; font:13px inherit }
   a{ color:var(--accent) }
   #lb{ position:fixed; inset:0; background:rgba(0,0,0,.86); display:none; z-index:20;
-       align-items:center; justify-content:center; padding:18px; cursor:zoom-out }
-  #lb img{ max-width:100%; max-height:100%; border-radius:8px }
+       align-items:center; justify-content:center; padding:14px }
+  #lb .sheet{ background:var(--bg); border:1px solid var(--line2); border-radius:14px;
+              max-width:520px; width:100%; max-height:92vh; overflow:auto; padding:14px }
+  #lb img{ width:100%; border-radius:10px; display:block }
+  #lb h3{ font-size:14px; margin:12px 0 6px }
+  #lb .fd{ white-space:pre-wrap; font-size:13px; line-height:1.7; background:var(--panel);
+           border:1px solid var(--line); border-radius:10px; padding:11px; margin:0 0 10px }
+  #lb .src{ font-size:11.5px; color:var(--dim); word-break:break-all; margin:0 0 10px }
   .toast{ position:fixed; left:50%; bottom:22px; transform:translateX(-50%);
           background:var(--panel); border:1px solid var(--line2); color:var(--ink);
           padding:10px 16px; border-radius:999px; font-size:13px; box-shadow:var(--shadow);
@@ -129,7 +135,7 @@
         <button id="btnDry">점검만 (안 보냄)</button>
         <button class="pri" id="btnGo">발행</button>
       </div>
-      <p class="note">발행 열쇠(이 기기에만 저장) — GitHub → Settings → Developer settings →
+      <p class="note">발행 열쇠(이 기기에만 저장) - GitHub → Settings → Developer settings →
         Fine-grained tokens → 이 레포만, <b>Contents: Read and write</b></p>
       <div class="bar">
         <input type="password" id="pat" placeholder="github_pat_… 붙여넣기" autocomplete="off">
@@ -143,14 +149,24 @@
   </div>
 </main>
 
-<div id="lb"><img alt=""></div>
+<div id="lb"><div class="sheet">
+  <img alt="">
+  <h3 id="lbTitle"></h3>
+  <p class="fd" id="lbFeed"></p>
+  <p class="src" id="lbSrc"></p>
+  <div class="bar">
+    <button class="pri" id="lbCopy">이 카드 글 복사</button>
+    <button id="lbPng">PNG 내려받기</button>
+    <button id="lbClose">닫기</button>
+  </div>
+</div></div>
 <div class="toast" id="toast"></div>
 
 <script>
-/* 정기 뉴스 메이커 — 새벽에 구워 둔 카드를 확인하고 내려받는 화면 (서버 0개).
+/* 정기 뉴스 메이커 - 새벽에 구워 둔 카드를 확인하고 내려받는 화면 (서버 0개).
  *
  * 재료는 워크플로가 써 둔 `오늘.json` 한 장. 그림은 raw.githubusercontent 의 공개 주소다.
- * 🔴 「내려받기」는 blob 을 만들어 <a download> 로 누른다 — 주소를 그대로 걸면
+ * 🔴 「내려받기」는 blob 을 만들어 <a download> 로 누른다 - 주소를 그대로 걸면
  *    다른 출처라 브라우저가 새 탭으로 열어 버리고 파일 이름도 안 지켜진다.
  */
 (function () {
@@ -204,7 +220,7 @@
     len();
   }
 
-  /* 종류별로 묶어 보여 준다 — 표지 / 뉴스 / 뒷장 */
+  /* 종류별로 묶어 보여 준다 - 표지 / 뉴스 / 뒷장 */
   function draw() {
     const 묶음 = [
       { key: 'cover', name: '표지', hint: '캐러셀 첫 장' },
@@ -225,7 +241,8 @@
               <div class="lb">${esc(c.label)}<i>${c.no}</i></div>
               ${c.title ? `<div class="tt">${esc(c.title)}</div>` : ''}
               <div class="act">
-                <button data-png="${esc(c.png || c.url)}" data-name="${esc(DATA.date + '_' + c.label)}">PNG 내려받기</button>
+                <button data-open="${c.no}">글 보기</button>
+                <button data-png="${esc(c.png || c.url)}" data-name="${esc(DATA.date + '_' + c.label)}">PNG</button>
               </div>
             </div>
           </div>`).join('') + '</div>';
@@ -280,10 +297,10 @@
           client_payload: { caption: cap, channels: ['instagram', 'facebook', 'threads'], dry: !!dry } })
       });
       if (r.status === 204) {
-        $('pubStat').innerHTML = (dry ? '점검' : '발행') + ' 요청을 보냈습니다. 1~3분 걸립니다 — 결과는 ' +
+        $('pubStat').innerHTML = (dry ? '점검' : '발행') + ' 요청을 보냈습니다. 1~3분 걸립니다 - 결과는 ' +
           '<a href="https://github.com/' + REPO + '/issues" target="_blank" rel="noopener">검토 이슈</a>에 남습니다.';
       } else {
-        $('pubStat').textContent = 'HTTP ' + r.status + ' — ' +
+        $('pubStat').textContent = 'HTTP ' + r.status + ' - ' +
           (r.status === 401 || r.status === 403 ? '열쇠가 없거나 권한이 모자랍니다.' : '요청이 거절됐습니다.');
       }
     } catch (e) {
@@ -294,9 +311,27 @@
   }
 
   /* ── 손잡이 ───────────────────────────────────────────────────────── */
+  /* 카드 한 장을 눌렀을 때 - 그림과 **그 카드의 글**을 같이 보여 준다.
+     카드를 눌러도 무슨 내용인지 알 수 없다는 지적(2026-09-02)으로 붙였다. */
+  let 열린카드 = null;
+  function openCard(no) {
+    const c = (DATA.cards || []).find(x => String(x.no) === String(no));
+    if (!c) return;
+    열린카드 = c;
+    $('lb').querySelector('img').src = c.png || c.url;
+    $('lbTitle').textContent = c.label + (c.title ? ' · ' + c.title : '');
+    $('lbFeed').textContent = c.feed || '(이 카드에는 따로 붙는 글이 없습니다)';
+    $('lbSrc').innerHTML = c.link
+      ? '원문: <a href="' + esc(c.link) + '" target="_blank" rel="noopener">' + esc(c.link) + '</a>'
+      : '';
+    $('lb').style.display = 'flex';
+  }
+
   $('groups').addEventListener('click', async (e) => {
+    const o = e.target.closest('[data-open]');
+    if (o) { openCard(o.dataset.open); return; }
     const z = e.target.closest('[data-zoom]');
-    if (z) { $('lb').style.display = 'flex'; $('lb').querySelector('img').src = z.dataset.zoom; return; }
+    if (z) { openCard(z.closest('.card').querySelector('[data-open]').dataset.open); return; }
     const b = e.target.closest('[data-png]');
     if (!b) return;
     b.disabled = true; const 옛 = b.textContent; b.textContent = '받는 중…';
@@ -304,7 +339,17 @@
     catch (err) { toast('내려받지 못했습니다: ' + err.message); }
     finally { b.disabled = false; b.textContent = 옛; }
   });
-  $('lb').addEventListener('click', () => { $('lb').style.display = 'none'; });
+  $('lb').addEventListener('click', (e) => { if (e.target.id === 'lb') $('lb').style.display = 'none'; });
+  $('lbClose').addEventListener('click', () => { $('lb').style.display = 'none'; });
+  $('lbCopy').addEventListener('click', () => 열린카드 && copy(열린카드.feed || '', '이 카드 글을'));
+  $('lbPng').addEventListener('click', async (e) => {
+    if (!열린카드) return;
+    const b = e.currentTarget; b.disabled = true;
+    try { await download(열린카드.png || 열린카드.url, DATA.date + '_' + 열린카드.label);
+          toast('다운로드 폴더에 저장했습니다'); }
+    catch (err) { toast('내려받지 못했습니다: ' + err.message); }
+    finally { b.disabled = false; }
+  });
 
   $('allPng').addEventListener('click', async (e) => {
     const b = e.currentTarget; b.disabled = true;
