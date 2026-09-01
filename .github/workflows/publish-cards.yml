@@ -38,11 +38,18 @@ jobs:
           python-version: '3.11'
 
       - name: 구워 둔 그림 내려받기
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: |
+          # 그림은 `cards` 브랜치(=raw.githubusercontent 공개 주소)에 있다.
+          # 인스타·스레드에는 이 주소를 그대로 주고, 페이스북만 바이트를 올리므로 받아 둔다.
           mkdir -p .cards/그림
-          gh release download daily-cards -D .cards/그림 --pattern '*.jpg'
+          python - <<'PY'
+          import json, os, urllib.request
+          d = json.load(open("docs/오늘.json", encoding="utf-8"))
+          for c in d["cards"]:
+              p = os.path.join(".cards/그림", c["file"])
+              urllib.request.urlretrieve(c["url"], p)
+              print("  %s (%d바이트)" % (c["file"], os.path.getsize(p)))
+          PY
           ls -la .cards/그림
 
       - name: 문구·설정 정하기
@@ -121,7 +128,15 @@ jobs:
           gh issue comment "$NUM" --body-file 결과.md
           if [ "$CODE" = "0" ] && [ -z "$DRY" ]; then
             gh issue close "$NUM"
-            # 올라간 그림은 인스타에 남았으므로 릴리스에서 치운다(레포에 기록만 남긴다)
-            gh release delete daily-cards --yes --cleanup-tag || true
+            # 올라간 그림은 인스타에 남았으므로 공개 자리에서 치운다(레포에는 기록만 남긴다).
+            # 빈 커밋으로 갈아 끼우면 어제 그림은 닿을 수 없게 된다.
+            rm -rf .empty && mkdir .empty && cd .empty
+            git init -q
+            git config user.name  "nbd-cards"
+            git config user.email "cards@users.noreply.github.com"
+            echo "발행이 끝나 그림을 치웠습니다." > README.md
+            git add . && git commit -qm "발행 뒤 정리"
+            git push -q --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:cards || true
+            cd ..
           fi
           rm -f 결과.md

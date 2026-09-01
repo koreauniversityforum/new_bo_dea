@@ -59,16 +59,27 @@ jobs:
       - name: 문구 초안 쓰기
         run: python .github/cards/caption.py --data .cards/기사.json --out .cards/문구.txt
 
-      - name: 릴리스에 그림 올리기
+      - name: 그림을 공개 자리에 올리기
         env:
-          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
         run: |
-          # 그림은 **릴리스**에 둔다. 레포에 커밋하면 하루 1MB 씩 깃 이력이 불어나고,
-          # 지워도 이력에는 남는다. 릴리스는 지우면 실제로 줄어든다.
-          gh release delete daily-cards --yes --cleanup-tag || true
-          gh release create daily-cards .cards/그림/*.jpg \
-            --title "오늘의 카드" \
-            --notes "매일 아침 자동으로 구워지는 카드입니다. 다음 날 덮어써집니다."
+          # 그림은 `cards` 브랜치 하나에 **날마다 통째로 갈아 끼운다**(orphan + force).
+          #  - 릴리스는 못 쓴다: 내려받기 주소가 서명 붙은 임시 주소로 넘어가고
+          #    `attachment` 로 내려와 <img> 에도 안 뜨고 인스타도 못 읽는다(실측).
+          #  - docs/ 에 커밋하면 페이지로는 뜨지만 하루 0.7MB 씩 깃 이력이 영원히 불어난다.
+          #  - orphan 브랜치를 force-push 하면 어제 것은 닿을 수 없게 되어 저장소가 안 큰다.
+          DATE=$(python -c "import json;print(json.load(open('.cards/기사.json',encoding='utf-8'))['date'])")
+          rm -rf .pub && mkdir -p .pub/$DATE
+          cp .cards/그림/*.jpg .pub/$DATE/
+          cd .pub
+          git init -q
+          git config user.name  "nbd-cards"
+          git config user.email "cards@users.noreply.github.com"
+          git add .
+          git commit -qm "카드 $DATE"
+          git push -q --force "https://x-access-token:${{ github.token }}@github.com/$REPO.git" HEAD:cards
+          cd ..
+          echo "CARD_DATE=$DATE" >> $GITHUB_ENV
 
       - name: 검토 화면이 읽을 목록 쓰기
         env:
@@ -77,7 +88,8 @@ jobs:
           python - <<'PY'
           import json, os
           repo = os.environ["REPO"]
-          base = "https://github.com/%s/releases/download/daily-cards/" % repo
+          # raw 는 그림을 image/jpeg 로 그대로 내려준다(릴리스 주소와 달리 임시 서명이 없다)
+          base = "https://raw.githubusercontent.com/%s/cards/%s/" % (repo, os.environ["CARD_DATE"])
           with open(".cards/기사.json", encoding="utf-8") as f:
               기사 = json.load(f)
           with open(".cards/문구.txt", encoding="utf-8") as f:
