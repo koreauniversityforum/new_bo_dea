@@ -75,6 +75,10 @@ def relativize(s: str) -> str:
     # 🔴 「← 앞장 만들기」 는 서버판에선 루트(/)가 맞지만, 하위 폴더에 올린 폰판에선
     #    호스팅 루트(=남의 첫 화면)로 튀어 404 가 된다. 같은 폴더 기준으로 바꾼다.
     s = s.replace('href="/"', 'href="./"').replace("data-carry=\"/\"", 'data-carry="./"')
+    # 🔴 「오늘의 뉴스」(서버가 봇 JSON 을 읽는 화면)는 폰판에 없다. 대신 같은 일을 하는
+    #    「정기 뉴스 메이커」(오늘.html)로 보낸다. nav.js 도 실행 중에 같은 일을 하지만,
+    #    nav.js 가 캐시로 늦게 오면 링크가 404 로 새므로 **구울 때 주소를 박아 둔다.**
+    s = s.replace('href="daily.html"', 'href="오늘.html"')
     return s
 
 
