@@ -100,6 +100,16 @@ function chromePath() {
     await page.evaluate(() => document.fonts.ready);
     await new Promise(r => setTimeout(r, 1200));       // 글꼴 적용 뒤 한 번 더 그리게
 
+    // 🔴 장을 하나씩 열어 준다. 안 열면 **뒷장이 앞 장의 복사본으로 나온다**(실측).
+    // 뒷장은 outro.js 가 그리는데, 그 설정·그림은 그 장을 한 번 열어야 실린다.
+    // 사람이 띠에서 장을 눌러 보는 것과 같은 일 - stageItems() 는 그 뒤라야 제 그림을 준다.
+    for (let i = 0; i < want; i++) {
+      await page.evaluate(n => window.DECK.activate(n), i);
+      await new Promise(r => setTimeout(r, 400));
+    }
+    await page.evaluate(() => window.DECK.activate(0));
+    await new Promise(r => setTimeout(r, 400));
+
     const shots = await page.evaluate(async (q) => {
       const items = DECK.stageItems();
       return items.map(it => ({ name: it.name, dataUrl: it.canvas.toDataURL('image/jpeg', q) }));
