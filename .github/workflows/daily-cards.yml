@@ -7,7 +7,7 @@ on:
     types: [make-cards]
   workflow_dispatch:
     inputs:
-      기사:
+      articles:
         description: '{"date":"…","outro":true,"items":[{"title":"…","source":"…","url":"…"}]} — 비우면 지난번 것으로 다시 굽는다'
         required: false
         default: ''
@@ -35,7 +35,7 @@ jobs:
       - name: 기사 꾸러미 받아 적기
         env:
           FROM_DISPATCH: ${{ toJSON(github.event.client_payload) }}
-          FROM_INPUT: ${{ inputs.기사 }}
+          FROM_INPUT: ${{ inputs.articles }}
         run: |
           mkdir -p .cards
           if [ -n "$FROM_INPUT" ]; then

@@ -73,7 +73,7 @@ jobs:
               시늉 = "점검" in 머리
           open(".cards/문구.txt", "w", encoding="utf-8").write(문구)
           with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as f:
-              f.write("채널=%s\n날짜=%s\n시늉=%s\n" % (창구, 기본.get("date", ""), "1" if 시늉 else ""))
+              f.write("CHANNELS=%s\nPDATE=%s\nDRY=%s\n" % (창구, 기본.get("date", ""), "1" if 시늉 else ""))
           print("문구 %d자 / 창구 %s%s" % (len(문구), 창구, " [점검만]" if 시늉 else ""))
           PY
 
@@ -88,16 +88,16 @@ jobs:
           python .github/cards/publish.py \
             --images .cards/그림 \
             --caption .cards/문구.txt \
-            --channels "$채널" \
-            --date "$날짜" \
-            ${시늉:+--dry} 2>&1 | tee .cards/결과.txt
-          echo "코드=${PIPESTATUS[0]}" >> $GITHUB_ENV
+            --channels "$CHANNELS" \
+            --date "$PDATE" \
+            ${DRY:+--dry} 2>&1 | tee .cards/결과.txt
+          echo "CODE=${PIPESTATUS[0]}" >> $GITHUB_ENV
 
       - name: 발행기록 커밋
-        if: env.시늉 == ''
+        if: env.DRY == ''
         run: |
           git add 발행기록 || true
-          git diff --staged --quiet || git commit -m "발행기록 $날짜"
+          git diff --staged --quiet || git commit -m "발행기록 $PDATE"
           git push || true
 
       - name: 결과 알리기
@@ -112,14 +112,14 @@ jobs:
           fi
           [ -z "$NUM" ] && { echo "알릴 이슈가 없습니다."; exit 0; }
           {
-            if [ "$코드" = "0" ]; then echo "✅ 발행했습니다."; else echo "⚠️ 발행이 끝까지 못 갔습니다."; fi
+            if [ "$CODE" = "0" ]; then echo "✅ 발행했습니다."; else echo "⚠️ 발행이 끝까지 못 갔습니다."; fi
             echo ""
             echo '```'
             tail -c 3000 .cards/결과.txt
             echo '```'
           } > 결과.md
           gh issue comment "$NUM" --body-file 결과.md
-          if [ "$코드" = "0" ] && [ -z "$시늉" ]; then
+          if [ "$CODE" = "0" ] && [ -z "$DRY" ]; then
             gh issue close "$NUM"
             # 올라간 그림은 인스타에 남았으므로 릴리스에서 치운다(레포에 기록만 남긴다)
             gh release delete daily-cards --yes --cleanup-tag || true
