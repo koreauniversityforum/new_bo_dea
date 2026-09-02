@@ -30,12 +30,42 @@ def 날짜말(s: str) -> str:
     return "%d월 %d일" % (int(m.group(2)), int(m.group(3))) if m else "오늘"
 
 
+def 인용줄(items) -> list:
+    """같은 발언을 실은 보도가 가장 많이 붙은 기사 하나를 골라 그 묶음을 적는다.
+
+    붙여 주는 쪽은 `prep.py`(→ prepare.인용찾기) 다. 없으면 이 절은 통째로 빠진다.
+    """
+    후보 = [it for it in items if (it.get("quoted") or {}).get("items")]
+    if not 후보:
+        return []
+    it = max(후보, key=lambda x: x["quoted"]["n"])
+    q = it["quoted"]
+    매체 = []
+    for r in q["items"]:
+        p = (r.get("press") or "").strip()
+        if p and p not in 매체:
+            매체.append(p)
+    줄 = ["", "🗣 “%s”" % q["quote"],
+          "이 발언을 그대로 실은 보도 %d건%s"
+          % (q["n"], (" · " + " · ".join(매체[:4])) if 매체 else "")]
+    if q["n"] < 3:
+        줄.append("(3건을 채우지 못했습니다 — 같은 발언을 실은 기사가 이만큼만 잡혔습니다)")
+    for r in q["items"][:5]:
+        줄.append("· %s — %s" % ((r.get("press") or "(언론사 미상)"), (r.get("title") or "").strip()))
+    return 줄
+
+
 def 만들기(d: dict) -> str:
     items = d.get("items") or []
     날 = 날짜말(d.get("date") or "")
     줄 = ["📰 %s 오늘의 뉴스" % 날, ""]
     for i, it in enumerate(items, 1):
         줄.append("%d. %s" % (i, (it.get("title") or "").strip()))
+        # 14차부터 기사마다 두 문장 요약이 붙는다. 제목만 늘어놓으면 읽을 것이 없다.
+        요약 = (it.get("summary") or "").strip()
+        if 요약:
+            줄.append("   " + 요약)
+    줄 += 인용줄(items)
     줄 += ["", "자세한 내용은 각 카드에서 확인하세요.", ""]
 
     태그 = list(TAGS)

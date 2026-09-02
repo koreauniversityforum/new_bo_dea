@@ -48,6 +48,10 @@ body{
 .top{
   display:flex;align-items:center;justify-content:space-between;
   padding:10px 16px;background:var(--panel);border-bottom:1px solid var(--line);flex:none;
+  /* 🔴 머리글은 무슨 일이 있어도 맨 위에 있어야 한다. 아래 편집 판(.stage)이 넘치면
+     머리글의 「뒷장 만들기·정기 뉴스 메이커·참고 사이트·릴스 만들기」를 덮어 버렸다
+     (2026-09-02 지적, 1440x900 실측). 넘침 자체도 아래에서 막지만 빗장을 하나 더 건다. */
+  position:relative; z-index:60;
 }
 .brand{font-weight:900;font-size:17px;letter-spacing:-.5px}
 .brand span{font-weight:500;color:var(--dim);font-size:13px;margin-left:6px}
@@ -273,7 +277,12 @@ input.edit{width:100%;font-size:12.5px}
 
 /* ── 시리즈(캐러셀) 띠 — deck.js ─────────────────────────────────
    캔버스 위에 장 목록을 한 줄로. 띠 높이만큼 캔버스 칸을 줄인다(높이 기준 calc). */
-.stage.has-deck .canvas-box{height:calc(100% - 34px - 104px)}
+/* 🔴 장 목록 띠(.deck-bar)가 붙으면 .stage 안 내용이 화면보다 커진다. 그런데 .stage 는
+   가운데 정렬(justify-content:center)이라 넘친 만큼이 **위로도** 삐져나가 머리글 단추를
+   덮었다. 띠가 있을 때는 위에서부터 쌓고, 캔버스는 남는 높이만 차지하게 한다
+   (칸 높이를 손으로 빼던 calc 는 띠 높이가 바뀌면 또 틀어진다). */
+.stage.has-deck{justify-content:flex-start}
+.stage.has-deck .canvas-box{flex:1 1 0;min-height:0;height:auto}
 .deck-bar{
   flex:none;width:100%;max-width:1100px;display:flex;flex-direction:column;gap:6px;
   padding:8px 10px;border:1px solid var(--panel2);border-radius:10px;background:var(--bg);
@@ -322,7 +331,8 @@ body.deck-outro .panel.left,body.deck-outro .panel.right{opacity:.35;pointer-eve
 button.ai{background:linear-gradient(135deg,#6a3df5,#e34a9a);border-color:transparent;color:#fff;font-weight:800}
 button.ai:disabled{opacity:.35;cursor:not-allowed;filter:grayscale(.6)}
 @media (max-width:820px){
-  .stage.has-deck .canvas-box{height:min(38vh,80vw)}
+  /* 폰은 미리보기를 화면 위에 붙여 두므로 높이를 못 박는다(flex 로 늘어나면 안 된다) */
+  .stage.has-deck .canvas-box{flex:none;height:min(38vh,80vw)}
   .deck-bar{padding:6px 8px;gap:4px}
   .deck-pages{min-height:72px}
   .deck-thumb{width:48px;height:60px}

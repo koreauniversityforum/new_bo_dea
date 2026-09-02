@@ -294,7 +294,12 @@
       const 사진 = {};
       for (const it of items) {
         if (!it.photo || 사진[it.photo]) continue;
-        try { 사진[it.photo] = await loadImage(it.photo); } catch (e) { /* 없으면 없는 대로 */ }
+        // 🔴 우리 서버 경로(`/기사사진/…`·`/사진/…`)와 data: 는 그대로, **남의 주소**는
+        //    대리인을 거친다. 폰판은 CORS 를 안 주는 언론사 사진을 그냥 얹으면 캔버스가
+        //    막히고, 앱판은 /api/proxy 가 받아 온다. 정기 뉴스 메이커가 og:image 주소를
+        //    그대로 넘기기 시작하면서(2026-09-02) 필요해졌다.
+        const src = /^https?:/i.test(it.photo) ? proxy(it.photo) : it.photo;
+        try { 사진[it.photo] = await loadImage(src); } catch (e) { /* 없으면 없는 대로 */ }
       }
 
       const cover = mergeState(clone(baseS));

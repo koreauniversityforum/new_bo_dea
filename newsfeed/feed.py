@@ -183,6 +183,79 @@ def cross(main_body: str, main_title: str, related, n_common: int = 4, n_diff: i
             "used": len(withbody), "words": common[:n_common * 2]}
 
 
+def quote_block(main_body: str, main_title: str, related, n_show: int = 6) -> dict:
+    """**같은 발언(쌍따옴표)을 인용한** 기사들을 한 덩어리로 정리한다.
+
+    2026-09-02 요구: "인용한 쌍따옴표 내부 문장이 같은 기사들을 3개 이상 요약해서
+    동일한 맥락으로 피드 글을 작성". 낱말이 비슷한 기사는 주제만 같을 수 있지만,
+    같은 발언을 글자 그대로 옮긴 기사는 **같은 사안**이 거의 확실하다. 그래서 이
+    묶음을 따로 세워 캡션의 맥락을 여기에 맞춘다.
+
+    related 항목은 `related.find()` 가 붙여 준 `by_quote` 표시로 가른다.
+    """
+    rows = [r for r in (related or []) if r.get("by_quote")]
+    말 = ""
+    for r in rows:
+        말 = (r.get("quote") or "").strip()
+        if 말:
+            break
+    if not 말:
+        말 = (related_quotes(main_body) or [""])[0]
+
+    presses, lines, seen = [], [], set()
+    for r in rows[:n_show]:
+        p = (r.get("press") or "").strip() or "(언론사 미상)"
+        if p not in presses:
+            presses.append(p)
+        t = (r.get("title") or "").strip()
+        k = re.sub(r"\W", "", t)[:24]
+        if not t or k in seen:
+            continue
+        seen.add(k)
+        표 = " ✔" if r.get("quote_ok") else ""          # 본문에서 그 발언을 실제로 확인
+        lines.append(f"· {p} — {t}{표}")
+
+    cx = cross(main_body, main_title, rows, n_common=3, n_diff=4)
+    return {"quote": 말, "n": len(rows), "presses": presses, "lines": lines,
+            "common": cx["common"], "diff": cx["diff"], "bodies": cx["used"],
+            "enough": len(rows) >= 3}
+
+
+def _quote_section(qb: dict, short: bool = False) -> list:
+    """캡션에 넣을 인용 묶음. 건수가 모자라면 **모자란 대로** 적는다(부풀리지 않는다)."""
+    if not qb or not qb["n"]:
+        return []
+    말 = qb["quote"]
+    머리 = (f'🗣 “{말}”' if 말 else "🗣 같은 발언을 실은 보도")
+    셈 = f'이 발언을 그대로 실은 보도 {qb["n"]}건' + \
+        (f' · {" · ".join(qb["presses"][:4])}' if qb["presses"] else "")
+    if short:                                   # 짧은 브리핑·표지용 - 두 줄까지만
+        L = ["", 머리, 셈]
+        if qb["common"]:
+            L.append(f'· {qb["common"][0]}')
+        return L
+
+    L = ["", 머리, 셈]
+    if not qb["enough"]:
+        L.append("(3건을 채우지 못했습니다 — 같은 발언을 실은 기사가 이만큼만 잡혔습니다)")
+    L += qb["lines"]
+    if qb["common"]:
+        L += ["", "— 이 보도들이 함께 짚은 맥락"] + [f"· {s}" for s in qb["common"]]
+    if qb["diff"]:
+        L += ["", "— 매체마다 다르게 덧붙인 대목"] + qb["diff"]
+    return L
+
+
+def related_quotes(body: str, n: int = 3) -> list:
+    """발언 뽑기는 related 쪽에 있다. feed 는 검색 모듈에 기대지 않는 것이 원칙이라
+    맨 위에서 import 하지 않고 필요할 때만 빌려 쓴다(없어도 캡션은 나와야 한다)."""
+    try:
+        import related as _r
+        return _r.quotes(body, n)
+    except Exception:
+        return []
+
+
 # 우리 계정의 시각은 프로그램이 지어낼 수 없다. 빈칸으로 남겨 두고 표시한다.
 MINE = "[여기에 우리 계정의 시각을 한두 문장 덧붙이세요]"
 
@@ -306,6 +379,8 @@ def compose(main: dict, related=None, style: str = "news") -> dict:
     tags = hashtags(title, body, related)
     others = _others(related)
     cx = cross(body, title, related)          # 본문이 있는 관련 기사만 쓴다
+    qb = quote_block(body, title, related)     # 같은 발언을 인용한 기사 묶음
+    qs = _quote_section(qb)
     src = _source_line(press, title, date, url)
     note = "※ 원문을 요약·재구성한 초안입니다. 올리기 전에 사실관계와 표현을 확인하세요."
 
@@ -314,7 +389,8 @@ def compose(main: dict, related=None, style: str = "news") -> dict:
         L = [title or head, ""]
         for s in _sents(body, title, 3, limit=130):
             L.append(f"· {s}")
-        if others:
+        L += _quote_section(qb, short=True)
+        if others and not qb["enough"]:
             L += ["", f"🗞 같은 사안을 다룬 보도 {len(related)}건"]
         L += ["", src, note, "", " ".join(tags)]
 
@@ -339,12 +415,13 @@ def compose(main: dict, related=None, style: str = "news") -> dict:
         L += ["", f"━━ {last}장 · 뒷장 ━━",
               "「뒷장 만들기」에서 5종 중 하나를 골라 저장하세요.",
               "출처 표기 ▸ " + (f"{press or '언론사'} 「{title}」" if title else "원문 기사")]
+        L += _quote_section(qb)
         if cx["common"]:
             L += ["", f"🔁 {cx['used']}개 매체가 함께 짚은 대목 — 골라 쓸 재료"]
             L += [f"· {s}" for s in cx["common"]]
         if cx["diff"]:
             L += ["", "🗞 매체별로 다르게 다룬 부분"] + cx["diff"]
-        elif others:
+        elif others and not qb["enough"]:
             L += ["", "🗞 다른 매체는 이렇게 봤다"] + others
         L += ["", MINE, "", src, note, "", " ".join(tags)]
 
@@ -355,11 +432,12 @@ def compose(main: dict, related=None, style: str = "news") -> dict:
         for i in range(0, len(rows), 2):        # 두 문장씩 한 문단
             L.append("")
             L += rows[i:i + 2]
+        L += _quote_section(qb)
         if cx["common"]:
             L += ["", f"여러 매체가 공통으로 짚은 대목은 이렇습니다.", *cx["common"]]
         if cx["diff"]:
             L += ["", "— 같은 시각, 다른 지면에서는", *cx["diff"]]
-        elif others:
+        elif others and not qb["enough"]:
             L += ["", "— 같은 시각, 다른 지면에서는", *others]
         L += ["", MINE, "", src, note, "", " ".join(tags)]
 
@@ -375,6 +453,7 @@ def compose(main: dict, related=None, style: str = "news") -> dict:
             L.append("📊 짚어볼 점")
             for s in rows[3:]:
                 L.append(f"· {s}")
+        L += _quote_section(qb)
         if cx["common"]:
             L.append("")
             L.append(f"🔁 {cx['used']}개 매체가 함께 짚은 대목")
@@ -384,7 +463,7 @@ def compose(main: dict, related=None, style: str = "news") -> dict:
             L.append("")
             L.append("🗞 매체별로 다르게 다룬 부분")
             L += cx["diff"]
-        elif others:
+        elif others and not qb["enough"]:
             L.append("")
             L.append("🗞 다른 매체는 이렇게 봤다")
             L += others
@@ -393,6 +472,7 @@ def compose(main: dict, related=None, style: str = "news") -> dict:
     text = "\n".join(L).strip()
     return {"text": text, "hashtags": tags, "style": style,
             "chars": len(text), "others": len(others),
+            "quote": qb["quote"], "quoted": qb["n"], "quoteEnough": qb["enough"],
             "titles": title_ideas(title, body, style),
             "titleNote": STYLE_TITLE_NOTE.get(style, ""),
             "warn": len(text) > 2200}      # 인스타 캡션 상한 2,200자

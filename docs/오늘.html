@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>정기 뉴스 메이커 - 뉴보대</title>
-<link rel="icon" href="favicon.ico">
+<link rel="icon" href="assets/뉴보대_로고.png">
 <script>
   /* 판(밝게/어둡게)은 화면이 그려지기 **전에** 정한다 - 안 그러면 흰 판이 한 번 번쩍인다.
      앱 화면들과 같은 칸(nb_theme)을 쓰므로 어디서 바꾸든 따라온다. */
@@ -60,7 +60,7 @@
   button:disabled{ opacity:.45; cursor:default }
   .card .act button{ flex:1; padding:7px 8px; font-size:12px }
   button.pri{ background:var(--accent); border-color:var(--accent); color:var(--accent-ink) }
-  .bar{ display:flex; gap:8px; flex-wrap:wrap; margin:10px 0 }
+  .bar{ display:flex; gap:8px; flex-wrap:wrap; margin:10px 0; align-items:center }
   textarea{ width:100%; min-height:210px; background:var(--panel); color:var(--ink);
             border:1px solid var(--line); border-radius:12px; padding:12px;
             font:13.5px/1.65 inherit; resize:vertical }
@@ -73,18 +73,41 @@
   details{ border:1px solid var(--line); border-radius:12px; padding:10px 13px; margin-top:16px;
            background:var(--panel) }
   summary{ cursor:pointer; font-size:13px; color:var(--ink3) }
-  input[type=password]{ flex:1; min-width:170px; background:var(--panel2); color:var(--ink);
+  input[type=password],input[type=url]{ flex:1; min-width:170px; background:var(--panel2); color:var(--ink);
             border:1px solid var(--line); border-radius:9px; padding:9px; font:13px inherit }
   a{ color:var(--accent) }
+
+  /* 글투 탭 - 앱의 「피드 글」 화면과 같은 네 가지 */
+  .tabs{ display:flex; gap:6px; flex-wrap:wrap; margin:6px 0 }
+  .tabs button{ padding:6px 11px; font-size:12px; border-radius:999px }
+  .tabs button.on{ background:var(--accent); border-color:var(--accent); color:var(--accent-ink) }
+  .styleNote{ font-size:11.5px; color:var(--dim4); margin:2px 0 8px }
+
+  /* 지금 뉴스 */
+  #nowBox{ margin-top:14px }
+  .arts{ max-height:44vh; overflow:auto; border:1px solid var(--line); border-radius:12px;
+         background:var(--panel) }
+  .art{ display:flex; gap:9px; align-items:flex-start; padding:9px 11px; border-bottom:1px solid var(--line) }
+  .art:last-child{ border-bottom:0 }
+  .art input{ margin-top:4px; flex:none }
+  .art .t{ font-size:12.5px; color:var(--ink3); line-height:1.5; word-break:keep-all; cursor:pointer }
+  .art .s{ font-size:10.5px; color:var(--dim4); margin-top:2px; word-break:break-all }
+
+  /* 모달 */
   #lb{ position:fixed; inset:0; background:rgba(0,0,0,.86); display:none; z-index:20;
        align-items:center; justify-content:center; padding:14px }
   #lb .sheet{ background:var(--bg); border:1px solid var(--line2); border-radius:14px;
-              max-width:520px; width:100%; max-height:92vh; overflow:auto; padding:14px }
-  #lb img{ width:100%; border-radius:10px; display:block }
+              max-width:560px; width:100%; max-height:92vh; overflow:auto; padding:14px }
+  #lb img.big{ width:100%; border-radius:10px; display:block }
   #lb h3{ font-size:14px; margin:12px 0 6px }
-  #lb .fd{ white-space:pre-wrap; font-size:13px; line-height:1.7; background:var(--panel);
-           border:1px solid var(--line); border-radius:10px; padding:11px; margin:0 0 10px }
   #lb .src{ font-size:11.5px; color:var(--dim); word-break:break-all; margin:0 0 10px }
+  #lb textarea{ min-height:190px }
+  .quoted{ border:1px solid var(--line2); border-radius:10px; padding:9px 11px; margin:8px 0;
+           background:var(--panel2); font-size:12px; line-height:1.7 }
+  .quoted b{ color:var(--ink) }
+  .quoted ul{ margin:6px 0 0; padding-left:17px; color:var(--dim) }
+  .photoPrev{ width:100%; max-height:220px; object-fit:contain; border-radius:10px;
+              background:var(--panel2); display:block; margin:8px 0 }
   .toast{ position:fixed; left:50%; bottom:22px; transform:translateX(-50%);
           background:var(--panel); border:1px solid var(--line2); color:var(--ink);
           padding:10px 16px; border-radius:999px; font-size:13px; box-shadow:var(--shadow);
@@ -104,19 +127,39 @@
 
 <main>
   <div id="empty" class="empty" hidden>
-    아직 구워진 카드가 없습니다.<br>뉴스 봇이 아침 <b>08:58</b> 에 돌면 여기에 그날 카드가 올라옵니다.
+    아직 구워진 카드가 없습니다.<br>뉴스 봇이 아침 <b>08:58</b> 에 돌면 여기에 그날 카드가 올라옵니다.<br><br>
+    <button class="pri" id="emptyNow">지금 뉴스로 바로 만들기</button>
   </div>
 
   <div id="body" hidden>
     <h2>카드 <span class="n" id="cnt"></span></h2>
     <div class="bar">
-      <button class="pri" id="allPng">PNG 전부 내려받기</button>
-      <button id="reload">새로고침</button>
+      <button class="pri" id="btnNow">새로고침 - 지금 뉴스 불러오기</button>
+      <button id="allPng">PNG 전부 내려받기</button>
+      <button id="reload">구운 카드만 다시 읽기</button>
     </div>
 
     <div id="groups"></div>
 
-    <h2>피드 글 <span class="n">고쳐 쓰고 복사해서 인스타에 붙여 넣으세요</span></h2>
+    <!-- ── 지금 뉴스 : 새벽에 구운 것 말고 **이 시각** 기사로 다시 만든다 ────── -->
+    <div id="nowBox" class="box" hidden>
+      <h2 style="margin-top:0">지금 뉴스 <span class="n" id="nowStat">불러오는 중…</span></h2>
+      <p class="note">네이버 뉴스 랭킹(지금 이 시각)에서 가져옵니다. 고른 기사로 카드를
+        <b>다시</b> 만들면 새벽에 구운 카드 대신 지금 것이 만들어집니다.</p>
+      <div class="arts" id="nowList"></div>
+      <div class="bar">
+        <label class="note" style="display:flex;gap:5px;align-items:center">
+          <input type="checkbox" id="nowPrep" checked> 사진·요약 챙기기(기사당 1~2초)
+        </label>
+        <span style="flex:1"></span>
+        <button id="nowClose">닫기</button>
+        <button class="pri" id="nowMake">고른 기사로 카드 만들기</button>
+      </div>
+    </div>
+
+    <h2>피드 글 <span class="n">글투를 고르고, 고쳐 쓰고, 복사해서 인스타에 붙여 넣으세요</span></h2>
+    <div class="tabs" id="capTabs"></div>
+    <p class="styleNote" id="capNote"></p>
     <textarea id="cap"></textarea>
     <div class="bar">
       <button class="pri" id="copyCap">문구 복사</button>
@@ -125,7 +168,9 @@
       <button id="resetCap">초안으로 되돌리기</button>
     </div>
     <p class="note" id="capLen"></p>
-    <p class="note">🔴 초안의 제목 줄은 <b>언론사 문장</b>입니다. 본인 말로 바꿔 쓰는 것을 전제로 한 뼈대입니다.</p>
+    <div id="capQuoted"></div>
+    <p class="note">🔴 초안의 문장은 <b>언론사 문장</b>을 뽑아낸 것입니다. 본인 말로 바꿔 쓰는 것을
+      전제로 한 뼈대입니다.</p>
 
     <details id="pubbox">
       <summary>바로 올리기 (인스타 · 페이스북 · 스레드)</summary>
@@ -149,25 +194,66 @@
   </div>
 </main>
 
+<!-- ── 카드 하나 자세히 보기 : 사진 고치기 + 글투별 글 ────────────────────── -->
 <div id="lb"><div class="sheet">
-  <img alt="">
+  <img class="big" alt="">
   <h3 id="lbTitle"></h3>
-  <p class="fd" id="lbFeed"></p>
   <p class="src" id="lbSrc"></p>
-  <div class="bar">
-    <button class="pri" id="lbCopy">이 카드 글 복사</button>
-    <button id="lbPng">PNG 내려받기</button>
-    <button id="lbClose">닫기</button>
+
+  <div class="tabs" id="lbTop">
+    <button data-pane="text" class="on">글</button>
+    <button data-pane="photo">사진 고치기</button>
   </div>
+
+  <div id="paneText">
+    <div class="tabs" id="lbTabs"></div>
+    <p class="styleNote" id="lbNote"></p>
+    <textarea id="lbFeed"></textarea>
+    <div id="lbQuoted"></div>
+    <div class="bar">
+      <button class="pri" id="lbCopy">이 글 복사</button>
+      <button id="lbFill">본문 가져와 더 채우기</button>
+      <button id="lbPng">PNG 내려받기</button>
+    </div>
+    <p class="note" id="lbMsg"></p>
+  </div>
+
+  <div id="panePhoto" hidden>
+    <p class="note">카드 배경 사진을 바꾼 뒤 <b>이 사진으로 카드 다시 만들기</b>를 누르면
+      「앞장 만들기」로 넘어가 그 사진으로 카드를 새로 그립니다.</p>
+    <div class="bar">
+      <button id="lbPick">내 사진 고르기</button>
+      <button id="lbFromArticle">기사 사진 다시 가져오기</button>
+    </div>
+    <div class="bar">
+      <input type="url" id="lbUrl" placeholder="사진 주소(https://…) 를 넣어도 됩니다">
+      <button id="lbUrlOk">넣기</button>
+    </div>
+    <img class="photoPrev" id="lbPrev" alt="">
+    <p class="note" id="lbPhotoMsg"></p>
+    <div class="bar">
+      <button class="pri" id="lbRemake">이 사진으로 카드 다시 만들기</button>
+    </div>
+  </div>
+
+  <div class="bar"><button id="lbClose">닫기</button></div>
 </div></div>
+<input type="file" id="filePick" accept="image/*" hidden>
 <div class="toast" id="toast"></div>
 
+<script src="summarizer.js"></script>
+<script src="feedstyles.js"></script>
 <script>
-/* 정기 뉴스 메이커 - 새벽에 구워 둔 카드를 확인하고 내려받는 화면 (서버 0개).
+/* 정기 뉴스 메이커 - 새벽에 구운 카드를 확인하고, 지금 뉴스로 다시 만들고, 글을 쓰는 화면.
+ * 서버가 없다(깃허브 페이지). 그래서
+ *   · 재료      : 워크플로가 써 둔 `오늘.json` + 필요할 때 대신 읽어 주는 r.jina.ai
+ *   · 카드 굽기 : 「앞장 만들기」(index.html) 의 캔버스에 맡긴다 - 여기서 다시 그리면 두 벌이 된다
+ *   · 글        : feedstyles.js (feed.py 의 옮김, 네 가지 글투)
  *
- * 재료는 워크플로가 써 둔 `오늘.json` 한 장. 그림은 raw.githubusercontent 의 공개 주소다.
  * 🔴 「내려받기」는 blob 을 만들어 <a download> 로 누른다 - 주소를 그대로 걸면
  *    다른 출처라 브라우저가 새 탭으로 열어 버리고 파일 이름도 안 지켜진다.
+ * 🔴 인용(같은 발언을 실은 보도) 검색은 여기서 못 한다 - 구글 뉴스는 대리인을 403 으로
+ *    막는다(실측). 굽는 쪽(prep.py)이 찾아 `오늘.json` 에 넣어 두고 여기서는 보여만 준다.
  */
 (function () {
   'use strict';
@@ -175,7 +261,13 @@
   const REPO = 'koreauniversityforum/new_bo_dea';
   const PAT_KEY = 'nbd_pat';
   const THEME_KEY = 'nb_theme';
-  let DATA = null, 초안 = '';
+  const DAILY_KEY = 'nb_daily';          // 「앞장 만들기」와 주고받는 칸
+  const READER = 'https://r.jina.ai/';   // 남의 페이지를 대신 읽어 주는 곳(가입 불필요)
+  const RANK = 'https://news.naver.com/main/ranking/popularDay.naver';
+
+  let DATA = null, 초안 = '', 글투 = 'news';
+  let 지금 = [];                          // 지금 뉴스 목록
+  let 열린카드 = null, 열린기사 = null, 열린글투 = 'news', 새사진 = '';
 
   const esc = (s) => String(s == null ? '' : s)
     .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -216,8 +308,9 @@
     $('date').textContent = DATA.date || '';
     $('cnt').textContent = (DATA.cards || []).length + '장';
     draw();
+    drawCapTabs();
     $('cap').value = 초안;
-    len();
+    len(); drawCapQuoted();
   }
 
   /* 종류별로 묶어 보여 준다 - 표지 / 뉴스 / 뒷장 */
@@ -261,12 +354,188 @@
     setTimeout(() => URL.revokeObjectURL(a.href), 4000);
   }
 
-  /* ── 문구 ─────────────────────────────────────────────────────────── */
+  /* ── 대신 읽어 주기 (서버가 없으니 남의 페이지는 여기를 거친다) ────── */
+  async function 읽기(url) {
+    const r = await fetch(READER + url, { headers: { 'x-return-format': 'html' } });
+    if (!r.ok) throw new Error('대신 읽어 주는 곳이 HTTP ' + r.status + ' 를 줬습니다');
+    return new DOMParser().parseFromString(await r.text(), 'text/html');
+  }
+
+  const 메타 = (doc, p) => {
+    const el = doc.querySelector(`meta[property="${p}"]`) || doc.querySelector(`meta[name="${p}"]`);
+    return el ? (el.getAttribute('content') || '') : '';
+  };
+
+  /** 기사 본문 긁기. 네이버가 대부분이라 그 자리부터 본다. */
+  function 본문뽑기(doc) {
+    const 자리 = ['#dic_area', '#newsct_article', '#articleBodyContents', '#articeBody',
+                 'article', '.news_body', '#article-view-content-div'];
+    for (const sel of 자리) {
+      const el = doc.querySelector(sel);
+      const t = el ? (el.textContent || '').replace(/\s+/g, ' ').trim() : '';
+      if (t.length > 200) return t;
+    }
+    // 못 찾으면 가장 긴 문단 뭉치
+    const ps = [...doc.querySelectorAll('p')].map(p => (p.textContent || '').trim())
+      .filter(s => s.length > 40);
+    return ps.join(' ').replace(/\s+/g, ' ').trim();
+  }
+
+  /** 기사 한 건 손질 - 사진(og:image)·요약·언론사. 실패해도 예외를 밖에 안 낸다. */
+  async function 손질(it) {
+    try {
+      const doc = await 읽기(it.url);
+      const img = 메타(doc, 'og:image');
+      if (img) it.photo = img;
+      const press = 메타(doc, 'og:site_name') || 메타(doc, 'dable:author');
+      if (press) it.press = press;
+      const body = 본문뽑기(doc);
+      if (body) {
+        it.body = body;
+        try {
+          const 후보 = (window.SUMMARIZER && SUMMARIZER.summarize(body, it.title, 95, 2)) || [];
+          if (후보[0]) it.summary = String(후보[0]).trim();
+        } catch (e) { /* 요약은 못 해도 카드는 나와야 한다 */ }
+      }
+    } catch (e) {
+      it.prepError = e.message;
+    }
+    return it;
+  }
+
+  /* ── 지금 뉴스 ────────────────────────────────────────────────────── */
+  async function 지금뉴스(열기) {
+    if (열기) { $('nowBox').hidden = false; $('nowBox').scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+    $('nowStat').textContent = '불러오는 중…';
+    $('nowList').innerHTML = '';
+    try {
+      const doc = await 읽기(RANK);
+      const out = [], seen = new Set();
+      doc.querySelectorAll('a[href*="n.news.naver.com/"]').forEach(a => {
+        const href = (a.getAttribute('href') || '').split('?')[0];
+        const t = (a.textContent || '').replace(/\s+/g, ' ').trim();
+        if (!/^https?:\/\/n\.news\.naver\.com\//.test(href)) return;
+        if (t.length < 10 || seen.has(href)) return;
+        seen.add(href);
+        out.push({ url: href, title: t, source: '네이버 뉴스' });
+      });
+      지금 = out.slice(0, 30);
+      if (!지금.length) throw new Error('기사를 한 건도 찾지 못했습니다');
+      $('nowStat').textContent = 지금.length + '건 · ' + 이제() + ' 기준';
+      $('nowList').innerHTML = 지금.map((a, i) => `
+        <div class="art">
+          <input type="checkbox" data-i="${i}" ${i < 5 ? 'checked' : ''}>
+          <div style="min-width:0">
+            <div class="t" data-i="${i}">${esc(a.title)}</div>
+            <div class="s">${esc(a.url)}</div>
+          </div>
+        </div>`).join('');
+    } catch (e) {
+      $('nowStat').textContent = '불러오지 못했습니다';
+      $('nowList').innerHTML = `<p class="empty">${esc(e.message)}<br><br>` +
+        '잠시 뒤 다시 눌러 보세요. (대신 읽어 주는 곳이 붐비면 이렇게 됩니다)</p>';
+    }
+  }
+
+  function 이제() {
+    const d = new Date();
+    return `${d.getMonth() + 1}월 ${d.getDate()}일 ${String(d.getHours()).padStart(2, '0')}:` +
+           String(d.getMinutes()).padStart(2, '0');
+  }
+
+  /** 고른 기사를 「앞장 만들기」로 넘긴다. 카드는 그쪽 캔버스가 그린다. */
+  async function 카드만들기(items, opts) {
+    opts = opts || {};
+    const btn = opts.button;
+    const 옛 = btn ? btn.textContent : '';
+    if (btn) btn.disabled = true;
+    try {
+      if (opts.prep) {
+        for (let i = 0; i < items.length; i++) {
+          const 말 = `손질 중 ${i + 1}/${items.length}…`;
+          if (btn) btn.textContent = 말;
+          $('nowStat').textContent = 말;
+          await 손질(items[i]);
+        }
+      }
+      // 본문은 넘기지 않는다 - localStorage 는 좁고, 카드에 쓰는 것은 요약·사진뿐이다.
+      const 짐 = items.map(x => ({
+        url: x.url, title: x.title, source: x.source || '',
+        press: x.press || '', summary: x.summary || '', photo: 쓸사진(x),
+      }));
+      try {
+        localStorage.setItem(DAILY_KEY, JSON.stringify({
+          date: (opts.date || 오늘날짜()), outro: true, items: 짐,
+        }));
+      } catch (e) {
+        toast('넘기지 못했습니다(저장 공간 부족): ' + e.message);
+        return;
+      }
+      location.href = 'index.html?auto=brief';
+    } finally {
+      if (btn) { btn.disabled = false; btn.textContent = 옛; }
+    }
+  }
+
+  /** 화면에서 바로 쓸 수 있는 사진 주소만 돌려준다.
+   *  🔴 새벽에 구운 기사의 `photo` 는 **굽는 기계 안에서만 있던 파일 이름**(01.jpg)이다.
+   *     공개된 자리에 없으므로 그대로 <img> 에 걸면 404 가 난다(실측). */
+  const 쓸사진 = (it) => {
+    const p = (it && it.photo) || '';
+    return /^(https?:|data:|blob:)/i.test(p) ? p : '';
+  };
+
+  function 오늘날짜() {
+    const d = new Date();
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-` +
+           String(d.getDate()).padStart(2, '0');
+  }
+
+  /* ── 피드 글 (네 가지 글투) ───────────────────────────────────────── */
+  function drawCapTabs() {
+    $('capTabs').innerHTML = FEEDSTYLES.STYLES.map(s =>
+      `<button data-style="${s.id}" class="${s.id === 글투 ? 'on' : ''}">${esc(s.name)}</button>`).join('') +
+      '<button data-style="draft" class="' + (글투 === 'draft' ? 'on' : '') + '">새벽 초안</button>';
+    const s = 글투 === 'draft'
+      ? { note: '워크플로가 새벽에 써 둔 초안 그대로입니다.' } : FEEDSTYLES.styleOf(글투);
+    $('capNote').textContent = s.note || '';
+  }
+
+  function 전체글(style) {
+    if (style === 'draft') return 초안;
+    const items = (DATA.items || []).map(x => Object.assign({}, x));
+    if (!items.length) return 초안;
+    return FEEDSTYLES.many(items, style, { date: DATA.date, quoted: 큰인용() }).text;
+  }
+
+  /** 카드 묶음에 붙은 인용 가운데 가장 많이 걸린 것 하나. */
+  function 큰인용() {
+    const 것들 = (DATA.items || []).map(x => x.quoted).filter(q => q && (q.items || []).length);
+    if (!것들.length) return null;
+    return 것들.reduce((a, b) => ((b.items.length > a.items.length) ? b : a));
+  }
+
+  function drawCapQuoted() {
+    $('capQuoted').innerHTML = 인용판(큰인용());
+  }
+
+  function 인용판(q) {
+    if (!q || !(q.items || []).length) return '';
+    return `<div class="quoted">🗣 <b>“${esc(q.quote)}”</b><br>` +
+      `이 발언을 그대로 실은 보도 ${q.items.length}건` +
+      (q.items.length < 3 ? ' <i>(3건을 채우지 못했습니다)</i>' : '') +
+      '<ul>' + q.items.slice(0, 6).map(r =>
+        `<li>${esc(r.press || '(언론사 미상)')} — ${r.link
+          ? `<a href="${esc(r.link)}" target="_blank" rel="noopener">${esc(r.title)}</a>`
+          : esc(r.title)}</li>`).join('') + '</ul></div>';
+  }
+
   function len() {
     const n = $('cap').value.length;
     $('capLen').textContent = n + '자 · 인스타는 2,200자까지, 스레드는 500자까지입니다' +
       (n > 500 ? ' (스레드용은 앞 500자만 복사됩니다)' : '');
   }
+
   async function copy(text, what) {
     try {
       await navigator.clipboard.writeText(text);
@@ -278,6 +547,95 @@
       catch (e2) { toast('복사하지 못했습니다'); }
       t.remove();
     }
+  }
+
+  /* ── 카드 하나 열기 ───────────────────────────────────────────────── */
+  /* 카드를 눌러도 무슨 내용인지 알 수 없다는 지적(2026-09-02)으로 붙였고,
+     같은 날 "사진 수정과 글을 여러 개" 요구로 글투 탭·사진 고치기를 더했다. */
+  function openCard(no) {
+    const c = (DATA.cards || []).find(x => String(x.no) === String(no));
+    if (!c) return;
+    열린카드 = c;
+    열린기사 = 기사찾기(c);
+    새사진 = '';
+    $('lb').querySelector('img.big').src = c.png || c.url;
+    $('lbTitle').textContent = c.label + (c.title ? ' · ' + c.title : '');
+    $('lbSrc').innerHTML = c.link
+      ? '원문: <a href="' + esc(c.link) + '" target="_blank" rel="noopener">' + esc(c.link) + '</a>'
+      : '';
+    $('lbPrev').src = (열린기사 && 쓸사진(열린기사)) || c.url || '';
+    $('lbMsg').textContent = ''; $('lbPhotoMsg').textContent = '';
+    $('lbRemake').disabled = !열린기사;
+    $('lbFill').disabled = !(열린기사 && 열린기사.url);
+    $('lbFromArticle').disabled = !(열린기사 && 열린기사.url);
+    pane('text');
+    열린글투 = 'news';
+    drawLbTabs();
+    $('lb').style.display = 'flex';
+  }
+
+  /** 카드 ↔ 기사 짝짓기. 뉴스 카드는 link 로, 표지·뒷장은 기사가 없다. */
+  function 기사찾기(c) {
+    const items = DATA.items || [];
+    if (c.link) {
+      const hit = items.find(x => (x.url || '') === c.link);
+      if (hit) return hit;
+    }
+    if (c.title) {
+      const hit = items.find(x => (x.title || '') === c.title);
+      if (hit) return hit;
+    }
+    return null;
+  }
+
+  function drawLbTabs() {
+    const 있음 = !!열린기사;
+    $('lbTabs').innerHTML = FEEDSTYLES.STYLES.map(s =>
+      `<button data-style="${s.id}" class="${s.id === 열린글투 ? 'on' : ''}">${esc(s.name)}</button>`).join('') +
+      `<button data-style="card" class="${열린글투 === 'card' ? 'on' : ''}">카드에 붙은 글</button>`;
+    $('lbNote').textContent = 열린글투 === 'card'
+      ? '새벽에 카드마다 붙여 둔 글입니다.'
+      : (FEEDSTYLES.styleOf(열린글투).note || '');
+    $('lbFeed').value = 카드글(열린글투);
+    $('lbQuoted').innerHTML = 있음 ? 인용판(열린기사.quoted) : '';
+    $('lbTabs').querySelectorAll('button[data-style]').forEach(b => {
+      if (b.dataset.style !== 'card' && !있음) b.disabled = true;
+    });
+  }
+
+  function 카드글(style) {
+    if (style === 'card' || !열린기사) return 열린카드 ? (열린카드.feed || '(이 카드에는 따로 붙는 글이 없습니다)') : '';
+    const it = Object.assign({}, 열린기사, { date: DATA.date });
+    return FEEDSTYLES.one(it, style, { date: DATA.date, quoted: 열린기사.quoted }).text;
+  }
+
+  function pane(which) {
+    $('paneText').hidden = which !== 'text';
+    $('panePhoto').hidden = which !== 'photo';
+    $('lbTop').querySelectorAll('button').forEach(b =>
+      b.classList.toggle('on', b.dataset.pane === which));
+  }
+
+  /** 파일로 고른 사진을 카드에 쓸 만큼만 줄여 data URL 로. 그대로 넣으면 저장 칸이 넘친다. */
+  function 줄이기(file, maxW) {
+    return new Promise((res, rej) => {
+      const fr = new FileReader();
+      fr.onerror = () => rej(new Error('파일을 읽지 못했습니다'));
+      fr.onload = () => {
+        const im = new Image();
+        im.onerror = () => rej(new Error('그림이 아닙니다'));
+        im.onload = () => {
+          const w = Math.min(maxW || 1080, im.naturalWidth || maxW);
+          const h = Math.round((im.naturalHeight || 1) * (w / (im.naturalWidth || 1)));
+          const cv = document.createElement('canvas');
+          cv.width = w; cv.height = h;
+          cv.getContext('2d').drawImage(im, 0, 0, w, h);
+          res(cv.toDataURL('image/jpeg', 0.85));
+        };
+        im.src = fr.result;
+      };
+      fr.readAsDataURL(file);
+    });
   }
 
   /* ── 발행(열쇠가 있을 때만) ───────────────────────────────────────── */
@@ -311,22 +669,6 @@
   }
 
   /* ── 손잡이 ───────────────────────────────────────────────────────── */
-  /* 카드 한 장을 눌렀을 때 - 그림과 **그 카드의 글**을 같이 보여 준다.
-     카드를 눌러도 무슨 내용인지 알 수 없다는 지적(2026-09-02)으로 붙였다. */
-  let 열린카드 = null;
-  function openCard(no) {
-    const c = (DATA.cards || []).find(x => String(x.no) === String(no));
-    if (!c) return;
-    열린카드 = c;
-    $('lb').querySelector('img').src = c.png || c.url;
-    $('lbTitle').textContent = c.label + (c.title ? ' · ' + c.title : '');
-    $('lbFeed').textContent = c.feed || '(이 카드에는 따로 붙는 글이 없습니다)';
-    $('lbSrc').innerHTML = c.link
-      ? '원문: <a href="' + esc(c.link) + '" target="_blank" rel="noopener">' + esc(c.link) + '</a>'
-      : '';
-    $('lb').style.display = 'flex';
-  }
-
   $('groups').addEventListener('click', async (e) => {
     const o = e.target.closest('[data-open]');
     if (o) { openCard(o.dataset.open); return; }
@@ -339,9 +681,34 @@
     catch (err) { toast('내려받지 못했습니다: ' + err.message); }
     finally { b.disabled = false; b.textContent = 옛; }
   });
+
+  /* 모달 */
   $('lb').addEventListener('click', (e) => { if (e.target.id === 'lb') $('lb').style.display = 'none'; });
   $('lbClose').addEventListener('click', () => { $('lb').style.display = 'none'; });
-  $('lbCopy').addEventListener('click', () => 열린카드 && copy(열린카드.feed || '', '이 카드 글을'));
+  $('lbTop').addEventListener('click', (e) => {
+    const b = e.target.closest('button[data-pane]');
+    if (b) pane(b.dataset.pane);
+  });
+  $('lbTabs').addEventListener('click', (e) => {
+    const b = e.target.closest('button[data-style]');
+    if (!b || b.disabled) return;
+    열린글투 = b.dataset.style;
+    drawLbTabs();
+  });
+  $('lbCopy').addEventListener('click', () => copy($('lbFeed').value.trim(), '이 카드 글을'));
+  $('lbFill').addEventListener('click', async (e) => {
+    if (!열린기사 || !열린기사.url) return;
+    const b = e.currentTarget; b.disabled = true; const 옛 = b.textContent;
+    b.textContent = '본문 가져오는 중…';
+    $('lbMsg').textContent = '기사 본문을 대신 읽어 오는 중입니다(5~15초).';
+    await 손질(열린기사);
+    b.disabled = false; b.textContent = 옛;
+    $('lbMsg').textContent = 열린기사.body
+      ? `본문 ${열린기사.body.length}자를 가져왔습니다 - 글투를 눌러 다시 만들어 보세요.`
+      : ('본문을 가져오지 못했습니다' + (열린기사.prepError ? ' (' + 열린기사.prepError + ')' : ''));
+    if (쓸사진(열린기사)) $('lbPrev').src = 쓸사진(열린기사);
+    drawLbTabs();
+  });
   $('lbPng').addEventListener('click', async (e) => {
     if (!열린카드) return;
     const b = e.currentTarget; b.disabled = true;
@@ -349,6 +716,110 @@
           toast('다운로드 폴더에 저장했습니다'); }
     catch (err) { toast('내려받지 못했습니다: ' + err.message); }
     finally { b.disabled = false; }
+  });
+
+  /* 사진 고치기 */
+  $('lbPick').addEventListener('click', () => $('filePick').click());
+  $('filePick').addEventListener('change', async (e) => {
+    const f = e.target.files && e.target.files[0];
+    e.target.value = '';
+    if (!f) return;
+    try {
+      새사진 = await 줄이기(f, 1080);
+      $('lbPrev').src = 새사진;
+      $('lbPhotoMsg').textContent = '새 사진을 넣었습니다(1080px 로 줄였습니다). 아래 단추로 카드를 다시 만드세요.';
+    } catch (err) { $('lbPhotoMsg').textContent = '사진을 읽지 못했습니다: ' + err.message; }
+  });
+  $('lbUrlOk').addEventListener('click', () => {
+    const u = $('lbUrl').value.trim();
+    if (!/^https?:\/\//i.test(u)) { $('lbPhotoMsg').textContent = 'https:// 로 시작하는 주소를 넣어 주세요.'; return; }
+    새사진 = u; $('lbPrev').src = u;
+    $('lbPhotoMsg').textContent = '주소를 넣었습니다. 카드를 만들 때 그림이 안 뜨면 다른 주소를 써 보세요.';
+  });
+  $('lbFromArticle').addEventListener('click', async (e) => {
+    if (!열린기사 || !열린기사.url) return;
+    const b = e.currentTarget; b.disabled = true; const 옛 = b.textContent;
+    b.textContent = '가져오는 중…';
+    await 손질(열린기사);
+    b.disabled = false; b.textContent = 옛;
+    if (쓸사진(열린기사)) {
+      새사진 = 쓸사진(열린기사); $('lbPrev').src = 새사진;
+      $('lbPhotoMsg').textContent = '기사에서 사진을 다시 가져왔습니다.';
+    } else {
+      $('lbPhotoMsg').textContent = '이 기사에서는 사진을 찾지 못했습니다.';
+    }
+  });
+  $('lbRemake').addEventListener('click', (e) => {
+    if (!열린기사) return;
+    const it = Object.assign({}, 열린기사);
+    if (새사진) it.photo = 새사진;
+    카드만들기([it], { button: e.currentTarget, date: DATA.date });
+  });
+
+  /* 지금 뉴스 */
+  /* 「새로고침」 = 구운 카드를 다시 읽고, **지금 이 시각** 기사도 새로 불러온다.
+     새벽에 구운 것만 다시 읽어 봐야 달라질 게 없다는 지적(2026-09-02)으로 이렇게 묶었다. */
+  $('btnNow').addEventListener('click', async (e) => {
+    const b = e.currentTarget, 옛 = b.textContent;
+    b.disabled = true; b.textContent = '새로고침 중…';
+    try { await load(); } catch (err) { /* 구운 카드가 없어도 지금 뉴스는 본다 */ }
+    b.disabled = false; b.textContent = 옛;
+    지금뉴스(true);
+  });
+  $('emptyNow').addEventListener('click', () => {
+    $('empty').hidden = true; $('body').hidden = false;
+    DATA = DATA || { cards: [], items: [], date: 오늘날짜() };
+    drawCapTabs();
+    지금뉴스(true);
+  });
+  $('nowClose').addEventListener('click', () => { $('nowBox').hidden = true; });
+  $('nowList').addEventListener('click', (e) => {
+    const t = e.target.closest('.t');
+    if (!t) return;
+    const box = $('nowList').querySelector(`input[data-i="${t.dataset.i}"]`);
+    if (box) box.checked = !box.checked;
+  });
+  $('nowMake').addEventListener('click', (e) => {
+    const 고른것 = [...$('nowList').querySelectorAll('input:checked')]
+      .map(x => 지금[+x.dataset.i]).filter(Boolean);
+    if (!고른것.length) { toast('기사를 먼저 고르세요'); return; }
+    카드만들기(고른것.map(x => Object.assign({}, x)),
+             { button: e.currentTarget, prep: $('nowPrep').checked, date: 오늘날짜() });
+  });
+
+  /* 피드 글 */
+  $('capTabs').addEventListener('click', (e) => {
+    const b = e.target.closest('button[data-style]');
+    if (!b) return;
+    글투 = b.dataset.style;
+    drawCapTabs();
+    $('cap').value = 전체글(글투);
+    len();
+  });
+  $('reload').addEventListener('click', load);
+  $('theme').addEventListener('click', () => applyTheme(theme() === 'light' ? 'dark' : 'light'));
+  $('cap').addEventListener('input', len);
+  $('copyCap').addEventListener('click', () => copy($('cap').value.trim(), '문구를'));
+  $('copyTh').addEventListener('click', () => copy($('cap').value.trim().slice(0, 500), '스레드용 500자를'));
+  $('copyTags').addEventListener('click', () => {
+    const 태그 = ($('cap').value.match(/#[^\s#]+/g) || []).join(' ');
+    태그 ? copy(태그, '해시태그를') : toast('문구에 해시태그가 없습니다');
+  });
+  $('resetCap').addEventListener('click', () => {
+    글투 = 'draft'; drawCapTabs();
+    $('cap').value = 초안; len(); toast('새벽 초안으로 되돌렸습니다');
+  });
+  $('btnGo').addEventListener('click', () => send(false));
+  $('btnDry').addEventListener('click', () => send(true));
+  $('btnKey').addEventListener('click', () => {
+    const v = $('pat').value.trim();
+    if (!v) return;
+    try { localStorage.setItem(PAT_KEY, v); $('pat').value = ''; toast('이 기기에 저장했습니다'); }
+    catch (e) { toast('저장 실패: ' + e.message); }
+  });
+  $('btnKeyDel').addEventListener('click', () => {
+    try { localStorage.removeItem(PAT_KEY); } catch (e) { /* 무시 */ }
+    toast('열쇠를 지웠습니다');
   });
 
   $('allPng').addEventListener('click', async (e) => {
@@ -362,29 +833,6 @@
     }
     b.textContent = 'PNG 전부 내려받기'; b.disabled = false;
     toast('다운로드 폴더를 확인하세요');
-  });
-
-  $('reload').addEventListener('click', load);
-  $('theme').addEventListener('click', () => applyTheme(theme() === 'light' ? 'dark' : 'light'));
-  $('cap').addEventListener('input', len);
-  $('copyCap').addEventListener('click', () => copy($('cap').value.trim(), '문구를'));
-  $('copyTh').addEventListener('click', () => copy($('cap').value.trim().slice(0, 500), '스레드용 500자를'));
-  $('copyTags').addEventListener('click', () => {
-    const 태그 = ($('cap').value.match(/#[^\s#]+/g) || []).join(' ');
-    태그 ? copy(태그, '해시태그를') : toast('문구에 해시태그가 없습니다');
-  });
-  $('resetCap').addEventListener('click', () => { $('cap').value = 초안; len(); toast('초안으로 되돌렸습니다'); });
-  $('btnGo').addEventListener('click', () => send(false));
-  $('btnDry').addEventListener('click', () => send(true));
-  $('btnKey').addEventListener('click', () => {
-    const v = $('pat').value.trim();
-    if (!v) return;
-    try { localStorage.setItem(PAT_KEY, v); $('pat').value = ''; toast('이 기기에 저장했습니다'); }
-    catch (e) { toast('저장 실패: ' + e.message); }
-  });
-  $('btnKeyDel').addEventListener('click', () => {
-    try { localStorage.removeItem(PAT_KEY); } catch (e) { /* 무시 */ }
-    toast('열쇠를 지웠습니다');
   });
 
   applyTheme(theme());

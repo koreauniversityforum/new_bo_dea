@@ -39,6 +39,8 @@ SCRIPTS = ["app.js", "brands.js", "nav.js", "prog.js", "hiddenmark.js",
            "deck.js",                      # 시리즈(캐러셀) 편집기 - 2026-08-23
            "bgm.js"]                        # 추천 노래(무드+검색어) - 2026-08-24
 EXTRA = ["summarizer.js", "폰shim.js", "README.md",
+         # 피드 글 네 가지 글투(feed.py 의 옮김). 「정기 뉴스 메이커」가 쓴다 - 2026-09-02
+         "feedstyles.js",
          # 메타 로그인이 끝나고 돌아올 자리. 화면 코드가 아니라 **주소창의 code 를
          # 보여 주기만 하는** 한 장이라 폰shim 을 끼우지 않는다(PAGES 가 아닌 이유).
          "connect.html"]

@@ -26,18 +26,26 @@ def main(argv=None):
     ap = argparse.ArgumentParser(description="기사 사진·요약 챙기기")
     ap.add_argument("--data", required=True)
     ap.add_argument("--photos", required=True)
+    ap.add_argument("--no-quotes", action="store_true",
+                    help="같은 발언을 실은 보도 찾기를 건너뛴다(검색을 아낄 때)")
     a = ap.parse_args(argv)
 
+    말하기 = lambda s: print(s, flush=True)          # noqa: E731
     with open(a.data, encoding="utf-8") as f:
         d = json.load(f)
-    d["items"] = prepare.손질(d.get("items") or [], a.photos,
-                            알림=lambda s: print(s, flush=True))
+    d["items"] = prepare.손질(d.get("items") or [], a.photos, 알림=말하기)
+    if not a.no_quotes:
+        # 화면(정기 뉴스 메이커)은 서버가 없어 검색을 못 한다. 여기서 찾아 붙여 둔다.
+        print("같은 발언을 실은 보도 찾는 중…", flush=True)
+        prepare.인용찾기(d["items"], 알림=말하기)
     with open(a.data, "w", encoding="utf-8") as f:
         json.dump(d, f, ensure_ascii=False, indent=1)
 
     사진 = sum(1 for x in d["items"] if x.get("photo"))
     요약 = sum(1 for x in d["items"] if x.get("summary"))
-    print("사진 %d/%d · 요약 %d/%d" % (사진, len(d["items"]), 요약, len(d["items"])))
+    인용 = sum(1 for x in d["items"] if (x.get("quoted") or {}).get("n"))
+    print("사진 %d/%d · 요약 %d/%d · 인용 묶음 %d건"
+          % (사진, len(d["items"]), 요약, len(d["items"]), 인용))
     return 0
 
 

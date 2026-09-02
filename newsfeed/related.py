@@ -213,6 +213,127 @@ def topic_ideas(cat: str, limit: int = 20, timeout: int = 20) -> dict:
     return {"cat": cat, "items": out[:max(1, min(50, limit))]}
 
 
+# ── 인용문(쌍따옴표) ───────────────────────────────────────────────────────
+# 발언은 여러 매체가 **글자 그대로** 옮긴다. 그래서 낱말로 찾는 것보다 훨씬 정확하게
+# "같은 사안을 다룬 기사" 를 모을 수 있다(2026-09-02 요구). 홑따옴표는 강조에도 쓰여
+# 발언이 아닌 경우가 많아 쓰지 않는다.
+QUOTE_RE = re.compile(u'[“”"＂]([^“”"＂\n]{10,160})[“”"＂]')
+# 검색어로 쓸 때 잘라 낼 꼬리 - 인용 끝의 어미까지 같아야 걸리는 것을 줄인다
+QUOTE_CUT = re.compile(u"[,.…·!?]+$")
+
+
+def quotes(body: str, n: int = 3, minlen: int = 12) -> list:
+    """본문에서 큰따옴표 안 발언을 뽑는다. 긴 것부터, 같은 말은 하나만.
+
+    긴 발언일수록 다른 기사와 **글자 그대로** 겹칠 확률이 높아 검색에 유리하다.
+    """
+    out, seen = [], set()
+    for m in QUOTE_RE.finditer(body or ""):
+        s = re.sub(r"\s+", " ", m.group(1)).strip()
+        # 🔴 기자가 끼워 넣은 괄호 설명(예: "…생각에서 (민주당TV 첫 방송)")은 매체마다
+        #    달라서 그대로 검색하면 한 건도 안 걸린다(실측). 닫히지 않은 괄호부터 버린다.
+        열림 = s.find("(")
+        if 열림 > 0 and s.count("(") > s.count(")"):
+            s = s[:열림].strip()
+        s = QUOTE_CUT.sub("", s)
+        if len(s) < minlen:
+            continue
+        k = _key(s)
+        if not k or k in seen:
+            continue
+        seen.add(k)
+        out.append(s)
+    out.sort(key=len, reverse=True)
+    return out[:max(1, n)]
+
+
+def _quote_tries(q: str) -> list:
+    """검색에 넣어 볼 토막들. 길수록 정확하지만 0건이 되기 쉬워 짧게도 해 본다.
+
+    🔴 통째로 넣으면 마침표·조사 하나만 달라도 안 걸린다. 그래서 앞에서부터
+       **어절 경계**로 줄여 가며 두 번 더 시도한다(가운데를 자르면 말이 끊긴다).
+    """
+    q = q.strip()
+    tries = [q]
+    for want in (34, 20):
+        if len(q) <= want + 4:
+            continue
+        cut = q[:want]
+        sp = cut.rfind(" ")
+        if sp >= 12:
+            cut = cut[:sp]
+        cut = cut.strip()
+        if len(cut) >= 12 and cut not in tries:
+            tries.append(cut)
+    return tries
+
+
+def find_quoted(quote_text, days: int = 7, limit: int = 10,
+                need: int = 3, deep: bool = True) -> dict:
+    """**같은 발언을 인용한** 기사들. 구글·빙 모두 따옴표를 정확 구절로 받는다.
+
+    `quote_text` 는 발언 하나(str)여도 되고 여러 개(list)여도 된다.
+    `need` 건을 채울 때까지만 다음 발언·짧은 토막으로 넘어간다 - 다 채웠으면 더 안
+    부른다(기사 하나에 바깥 요청이 몇 개나 나가는지가 이 화면의 체감 속도다).
+
+    🔴 **가장 긴 발언이 가장 잘 걸리는 것은 아니다**(실측). 긴 발언에는 그 매체만 쓴
+       군말이 섞여 한 건도 안 나오는 반면, 두 번째 발언이 6건씩 걸리기도 한다.
+       그래서 발언을 하나만 보지 않고 위에서부터 차례로 시도한다.
+
+    돌려주는 항목은 `find()` 와 같은 꼴에 `by_quote=True` 가 붙는다. 본문을 읽어 온
+    항목은 그 발언이 **정말 들어 있는지** 확인해 `quote_ok` 로 표시한다.
+    """
+    말들 = [quote_text] if isinstance(quote_text, str) else list(quote_text or [])
+    말들 = [(m or "").strip() for m in 말들]
+    말들 = [m for m in 말들 if len(m) >= 12]
+    out, seen, used = [], set(), ""
+    if not 말들:
+        return {"quote": (말들 or [""])[0] if 말들 else "", "items": [],
+                "query": "", "found": 0, "verified": 0}
+
+    # 발언 여러 개를 **가로로** 훑는다 - 첫 발언을 짧게 자르며 매달리는 것보다
+    # 두 번째 발언을 통째로 넣는 쪽이 훨씬 잘 걸린다(실측: 1건 대 6건).
+    토막표 = [_quote_tries(m) for m in 말들]
+    후보 = []
+    for i in range(max(len(t) for t in 토막표)):
+        for m, t in zip(말들, 토막표):
+            if i < len(t):
+                후보.append((m, t[i]))
+    for 원문, 토막 in 후보:
+        used = 토막
+        rows = search_google('"%s"' % 토막, days=days) + search_bing('"%s"' % 토막)
+        for r in rows:
+            k = _key(r["title"])
+            if not k or k in seen:
+                continue
+            seen.add(k)
+            w = r.get("when")
+            out.append({"title": r["title"],
+                        "press": _press_name(r["press"], r.get("link", "")) or "(언론사 미상)",
+                        "link": r["link"], "direct": r["direct"], "src": r["src"],
+                        "date": _fmt(w) if w else "", "gap_h": None,
+                        "score": 9.0, "body": "", "body_ok": False,
+                        "by_quote": True, "quote": 원문, "quote_ok": False})
+        if len(out) >= need:
+            break
+    q = next((원문 for 원문, 토막 in 후보 if 토막 == used), 말들[0])
+
+    out = out[:limit]
+    if deep:
+        cands = [i for i in out if i.get("direct")][:4]
+        if cands:
+            with ThreadPoolExecutor(max_workers=min(4, len(cands))) as ex:
+                list(ex.map(try_body, cands))
+            # 발언 **어느 하나라도** 그대로 들어 있으면 확인된 것으로 본다. 매체마다
+            # 같은 회견에서 다른 대목을 인용하므로, 걸린 토막 하나만 보면 거의 다 놓친다.
+            핵심들 = [re.sub(r"\s+", "", m)[:20] for m in 말들 if len(m) >= 12]
+            for i in cands:
+                몸 = re.sub(r"\s+", "", i.get("body") or "")
+                i["quote_ok"] = bool(몸 and any(k and k in 몸 for k in 핵심들))
+    return {"quote": q, "query": used, "items": out, "found": len(out),
+            "verified": sum(1 for i in out if i.get("quote_ok"))}
+
+
 # ── 검색어 만들기 ──────────────────────────────────────────────────────────
 # 조사가 덜 떨어진 낱말('명문학교서')은 검색어로 쓰면 결과가 거의 안 나온다
 JOSA_TAIL = re.compile(r"(서|에|은|는|이|가|을|를|와|과|도|만|의|로|으로|께|부터|까지)$")
@@ -311,11 +432,16 @@ def try_body(item: dict, timeout: int = 8) -> dict:
 
 # ── 본체 ───────────────────────────────────────────────────────────────────
 def find(title: str, body: str = "", when: str = "", url: str = "",
-         hours: int = 48, limit: int = 12, deep: bool = False) -> dict:
+         hours: int = 48, limit: int = 12, deep: bool = False,
+         quote_first: bool = True, quote_need: int = 3) -> dict:
     """기준 기사와 비슷한 시각·비슷한 내용의 기사 목록.
 
     hours — 기준 기사 발행시각 앞뒤로 몇 시간까지 볼 것인가.
     deep  — 직접 주소인 항목의 본문까지 시도할 것인가(느리고 성공률이 낮다).
+    quote_first — 본문에 **쌍따옴표 발언**이 있으면 그 발언을 그대로 인용한 기사를
+        먼저 찾아 맨 앞에 둔다(2026-09-02 요구). 낱말 검색은 '비슷한 주제'까지
+        끌어오지만, 같은 발언을 실은 기사는 **같은 사안**이 거의 확실하다.
+    quote_need — 그렇게 몇 건까지 모을 것인가.
     """
     base = parse_when(when) or datetime.now(timezone.utc)
     days = max(1, int((hours + 23) // 24) + 1)
@@ -376,6 +502,29 @@ def find(title: str, body: str = "", when: str = "", url: str = "",
             with ThreadPoolExecutor(max_workers=min(4, len(cands))) as ex:
                 list(ex.map(try_body, cands))       # try_body 는 항목을 그 자리에서 고친다
 
+    # ── 같은 발언을 인용한 기사를 앞에 세운다 ──────────────────────────────
+    말들 = quotes(body, 3) if quote_first else []
+    인용 = {"quote": "", "query": "", "items": [], "found": 0, "verified": 0}
+    if 말들:
+        try:
+            인용 = find_quoted(말들, days=max(2, (hours + 23) // 24 + 1),
+                             need=quote_need, deep=True)
+        except Exception:
+            인용 = {"quote": 말들[0], "query": "", "items": [], "found": 0, "verified": 0}
+        이미 = {_key(i["title"]) for i in out} | {main_key}
+        새것 = [i for i in 인용["items"] if _key(i["title"]) not in 이미]
+        # 낱말로 찾은 것에도 표시를 남긴다 - 화면에서 둘을 구분해 보여 줄 수 있게
+        붙은말 = {_key(i["title"]): i for i in 인용["items"]}
+        for i in out:
+            j = 붙은말.get(_key(i["title"]))
+            if j:
+                i["by_quote"] = True
+                i["quote"] = j.get("quote", "")
+                i["quote_ok"] = j.get("quote_ok", False)
+        out = (새것 + out)[:limit]      # 인용이 앞자리를 가져간다 - 같은 사안이 더 확실하다
+
     return {"query": query, "base": _fmt(base), "hours": hours,
             "items": out, "found": len(rows),
+            "quotes": 말들, "quoted": {k: 인용[k] for k in ("quote", "query", "found", "verified")},
+            "quoted_n": sum(1 for i in out if i.get("by_quote")),
             "body_ok": sum(1 for i in out if i.get("body_ok"))}

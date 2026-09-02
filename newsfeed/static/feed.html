@@ -233,10 +233,13 @@ $('btnRel').addEventListener('click', async () => {
       hours: +$('hours').value, deep: $('deep').checked
     });
     rel = j.items || [];
-    picked = new Set(rel.slice(0, 4).map((_, i) => i));
+    /* 인용으로 걸린 것이 맨 앞에 온다 - 같은 사안일 확률이 높아 기본으로 골라 둔다 */
+    picked = new Set(rel.slice(0, Math.max(4, j.quoted_n || 0)).map((_, i) => i));
     drawRel();
+    const 인용말 = ((j.quoted || {}).quote || '').slice(0, 22);
     msg($('relMsg'), rel.length
-      ? `검색어 「${j.query}」 · 후보 ${j.found}건 중 ${rel.length}건`
+      ? `검색어 「${j.query}」 · 후보 ${j.found}건 중 ${rel.length}건` +
+        (j.quoted_n ? ` · 같은 발언 「${인용말}…」 인용 ${j.quoted_n}건` : '')
       : `검색어 「${j.query}」 · 조건에 맞는 기사가 없습니다. 시간 범위를 넓혀 보세요.`,
       rel.length ? 'ok' : 'err');
   } catch (e) { msg($('relMsg'), e.message, 'err'); }
@@ -322,6 +325,9 @@ function drawRel() {
         <div class="m"><b></b> · <span></span>${r.gap_h!=null?` · 기준보다 ${r.gap_h}h`:''}` +
         (r.body_ok ? ' · <b style="color:#4ade80">본문 확보</b>'
                    : r.error ? ` · <b style="color:#f87171">${r.error}</b>` : ' · 제목만') +
+        /* 같은 발언(쌍따옴표)을 그대로 실은 기사. 낱말만 비슷한 것과 구분해 보여 준다. */
+        (r.by_quote ? ' · <b style="color:#8fb8ff">같은 발언 인용' +
+                      (r.quote_ok ? ' ✔' : '') + '</b>' : '') +
       `</div></div>`;
     d.querySelector('.t').textContent = r.title;
     d.querySelector('.m b').textContent = r.press;

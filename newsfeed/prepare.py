@@ -75,6 +75,15 @@ def 한건(it: dict, 사진폴더: str, 이름: str) -> dict:
             it["summary"] = (후보[0] if 후보 else "").strip()
         except Exception:
             pass
+        try:
+            # 쌍따옴표 발언. 여기서 뽑아 두면 나중에 **같은 발언을 실은 보도**를 찾을 수
+            # 있다(2026-09-02 요구). 본문 자체는 안 남긴다 - 오늘.json 이 매일 커진다.
+            import related
+            말 = related.quotes(본문, 3)
+            if 말:
+                it["quotes"] = 말
+        except Exception:
+            pass
     if got.get("press"):
         it["press"] = got["press"]
 
@@ -99,6 +108,43 @@ def 손질(items, 사진폴더: str, 이름짓기=None, 알림=None):
             알림("  · %d/%d %s - 사진 %s / 요약 %d자"
                  % (i, len(items), (it.get("title") or "")[:28],
                     it.get("photo", "없음"), len(it.get("summary", ""))))
+    return items
+
+
+def 인용찾기(items, need: int = 3, 알림=None):
+    """기사마다 **같은 발언을 실은 다른 보도**를 찾아 붙인다.
+
+    카드 화면(정기 뉴스 메이커)은 서버가 없어 검색을 못 한다 - 구글 뉴스는 대리인
+    (r.jina.ai)이 403 으로 막고, 네이버 검색 화면은 짜임이 자주 바뀐다(실측). 그래서
+    **굽는 쪽에서 미리 찾아** `quoted` 로 붙여 두고, 화면은 그것을 보여 주기만 한다.
+
+    붙는 것(작게): {"quote", "n", "verified", "items":[{press,title,link}]}
+    """
+    try:
+        import related
+    except Exception:
+        return items
+    for i, it in enumerate(items, 1):
+        말 = it.get("quotes") or []
+        if not 말:
+            continue
+        try:
+            r = related.find_quoted(말, need=need, deep=False)
+        except Exception as e:
+            if 알림:
+                알림("  · %d 인용 검색 실패(%s)" % (i, e))
+            continue
+        if not r.get("items"):
+            continue
+        it["quoted"] = {
+            "quote": r.get("quote") or 말[0],
+            "n": len(r["items"]), "verified": r.get("verified", 0),
+            "items": [{"press": x.get("press", ""), "title": x.get("title", ""),
+                       "link": x.get("link", "")} for x in r["items"][:6]],
+        }
+        if 알림:
+            알림("  · %d/%d 같은 발언 보도 %d건 — %s"
+                 % (i, len(items), it["quoted"]["n"], it["quoted"]["quote"][:26]))
     return items
 
 
