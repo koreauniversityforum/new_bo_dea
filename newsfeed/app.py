@@ -772,7 +772,8 @@ class Handler(BaseHTTPRequestHandler):
         main = d.get("main") or {}
         if not (main.get("body") or "").strip():
             return self._err("기사 본문이 없습니다. 먼저 기사를 가져오세요.")
-        out = feed.compose(main, d.get("related") or [], d.get("style") or "news")
+        out = feed.compose(main, d.get("related") or [], d.get("style") or "news",
+                           d.get("channel") or "instagram")
         out["ok"] = True
         return self._send(200, out)
 

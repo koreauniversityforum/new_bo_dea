@@ -114,10 +114,26 @@
       const el = doc.querySelector(`meta[property="${p}"], meta[name="${p}"]`);
       return el ? (el.getAttribute('content') || '').trim() : '';
     };
-    const ps = [...doc.querySelectorAll('article p, #dic_area, #articleBodyContents, .article_body p, p')]
-      .map(el => (el.textContent || '').trim())
-      .filter(t => t.length >= 20);
-    const body = [...new Set(ps)].join('\n');
+    /* 🔴 예전에는 `p` 를 전부 긁었다. 그러면 네이버 화면의 안내문("머니투데이 언론사
+       구독되었습니다", "보러가기", "닫기")까지 본문에 섞여 **캡션 첫 줄로 나갔다**
+       (2026-09-02 실측). 기사 본문 칸이 있으면 거기만 쓰고, 없을 때만 p 를 훑는다. */
+    const 본문칸 = ['#dic_area', '#newsct_article', '#articleBodyContents', '#articeBody',
+                  '#article-view-content-div', '.article_body', 'article'];
+    let body = '';
+    for (const sel of 본문칸) {
+      const el = doc.querySelector(sel);
+      const t = el ? (el.textContent || '').replace(/\s+/g, ' ').trim() : '';
+      if (t.length > 200) { body = t; break; }
+    }
+    if (!body) {
+      /* 🔴 여기서만 걸러야 한다. 본문 칸을 통째로 잡았을 때 같은 잣대를 대면
+         저작권 문구 한 줄 때문에 **기사 전체가 사라진다**(경향신문 실측, 0자). */
+      const JUNK = /(언론사 구독|구독되었습니다|구독 해지|보러가기|앱 다운로드|많이 본 뉴스|관련 ?기사|Copyright|기사 제보|구독하기)/;
+      const ps = [...doc.querySelectorAll('article p, .article_body p, p')]
+        .map(el => (el.textContent || '').trim())
+        .filter(t => t.length >= 20 && !JUNK.test(t));
+      body = [...new Set(ps)].join('\n');
+    }
     const images = [...doc.querySelectorAll('meta[property="og:image"]')]
       .map(el => el.getAttribute('content')).filter(Boolean);
     /* 🔴 대리인이 돌려주는 HTML 에는 `og:site_name` 과 `article:published_time` 이
@@ -225,6 +241,41 @@
     }));
   }
 
+  /* 글투마다 어떤 제목이 어울리는지 — feed.py 의 STYLE_TITLE_NOTE 와 같은 표. */
+  const TITLE_NOTE = {
+    news: '사실 그대로 — 누가 무엇을 했는지',
+    magazine: '기획 톤 — 묻고 들여다보는 말투',
+    brief: '짧고 굵게 — 14자 안팎',
+    question: '물음표로 끝나는 한 줄 — 댓글을 부르는 결',
+    oneline: '한 줄로 끝내기 — 카드가 이미 다 말했을 때',
+    cards: '표지 후킹 — 넘겨보게 만드는 한 줄',
+  };
+
+  /** 함께 실을 기사 가운데 **기준 기사와 같은 발언을 실은 것**만 골라 낸다.
+   *
+   * 폰판은 검색을 못 하지만, 사람이 「링크 직접 넣기」로 넣은 기사는 본문이 있다.
+   * 그 본문에 기준 기사의 발언이 그대로 들어 있는지는 **여기서 확인할 수 있다** —
+   * 검색 없이도 "같은 발언을 실은 보도" 묶음을 만들 수 있는 이유다.
+   */
+  function quotedFrom(main, related) {
+    const F = global.FEEDSTYLES;
+    if (!F) return null;
+    const 말들 = F.quotes((main && main.body) || '', 3);
+    if (!말들.length) return null;
+    const norm = (s) => String(s || '').replace(/\s+/g, '');
+    const items = [];
+    let 쓴말 = '';
+    for (const r of (related || [])) {
+      const 몸 = norm(r.body || '');
+      if (!몸) continue;
+      const hit = 말들.find(m => 몸.includes(norm(m).slice(0, 20)));
+      if (!hit) continue;
+      쓴말 = 쓴말 || hit;
+      items.push({ press: r.press || '', title: r.title || '', link: r.link || '' });
+    }
+    return items.length ? { quote: 쓴말, items } : null;
+  }
+
   /* ── 길목 ───────────────────────────────────────────────────────────── */
   async function route(path, query, body) {
     const S = global.SUMMARIZER;
@@ -296,6 +347,73 @@
       if (!blob) return err('이미지 데이터가 올바르지 않습니다.');
       const name = safeName(body.name) + (blob.type === 'image/jpeg' ? '.jpg' : '.png');
       return json({ ok: true, path: await put(blob, name) });
+    }
+
+    /* ── 피드 글 만들기 ────────────────────────────────────────────────
+       feed.py 가 하던 일을 feedstyles.js 가 대신한다. 화면(feed.html)은 앱과 **같은
+       파일**이라 두 판이 갈라지지 않는다 - 다른 것은 이 아래 계산뿐이다.
+       2026-09-02: "기본 모드에서 피드 내용 만들기가 사라졌다"는 지적으로 되살렸다. */
+    if (path === '/api/feed') {
+      const F = global.FEEDSTYLES;
+      if (!F) return err('글투 꾸러미(feedstyles.js)를 못 찾았습니다. 새로고침해 보세요.');
+      const main = body.main || {};
+      if (!(main.body || '').trim()) return err('기사 본문이 없습니다. 먼저 기사를 가져오세요.');
+      const style = body.style || 'news';
+      const out = F.one(main, style, {
+        date: main.date, channel: body.channel || 'instagram',
+        quoted: quotedFrom(main, body.related),
+      });
+      out.ok = true;
+      out.titles = F.titles(main, style, 6);
+      out.titleNote = TITLE_NOTE[style] || '';
+      out.others = (body.related || []).length;
+      return json(out);
+    }
+
+    if (path === '/api/titles') {
+      const F = global.FEEDSTYLES;
+      if (!F) return err('글투 꾸러미(feedstyles.js)를 못 찾았습니다.');
+      const main = body.main || {};
+      if (!((main.body || '') + (main.title || '')).trim()) {
+        return err('기사 본문이나 제목이 필요합니다.');
+      }
+      const style = body.style || 'news';
+      return json({ ok: true, style, titles: F.titles(main, style, 6),
+                    note: TITLE_NOTE[style] || '' });
+    }
+
+    /* 유사 기사 **검색**은 폰판에서 못 한다 - 구글 뉴스는 대신 읽어 주는 곳을 403 으로
+       막고, 네이버 검색 화면은 짜임이 자주 바뀐다(2026-09-02 실측). 대신 주소를 직접
+       넣는 길(`/api/fetch-many`)은 되므로 그쪽으로 안내한다. */
+    if (path === '/api/related') {
+      return err('폰·홈페이지 판에서는 유사 기사 **검색**이 안 됩니다(구글이 막습니다). '
+        + '아래 「링크 직접 넣기」에 기사 주소를 넣으면 본문까지 가져와 같이 씁니다.');
+    }
+
+    if (path === '/api/fetch-many') {
+      let urls = body.urls || [];
+      if (typeof urls === 'string') urls = urls.split(/[\s,]+/);
+      urls = urls.map(u => (u || '').trim()).filter(Boolean).slice(0, 8);
+      if (!urls.length) return err('주소를 한 줄에 하나씩 넣어 주세요.');
+      const items = [];
+      for (const u0 of urls) {
+        const u = /^https?:\/\//i.test(u0) ? u0 : 'https://' + u0;
+        const row = { title: '', press: '', link: u, direct: true, src: '직접 링크',
+                      date: '', gap_h: null, score: 9.9, body: '', body_ok: false, error: '' };
+        try {
+          const got = await fetchArticle(u);
+          row.title = got.title || u;
+          row.press = got.press || '';
+          row.date = (got.date || '').replace('T', ' ').slice(0, 16);
+          row.body = got.body || '';
+          row.body_ok = row.body.length > 200;
+        } catch (e) {
+          row.error = e.message;
+          row.title = row.title || u;
+        }
+        items.push(row);
+      }
+      return json({ ok: true, items, body_ok: items.filter(i => i.body_ok).length });
     }
 
     if (path === '/api/save-text') {
@@ -394,10 +512,21 @@
     /* `out 폴더에 저장` 은 폰판에서 `PNG 내려받기` 와 결과가 같다 — 단추가 둘이면
        어느 쪽이 진짜인지 헷갈리므로 하나만 남긴다. */
     '#btnSave',
-    'a[href$="out.html"]', 'a[href$="feed.html"]', 'a[href$="topics.html"]',
+    /* 🔴 `피드 글`(feed.html)은 2026-09-02 부터 폰판에도 있다 — feedstyles.js 가
+       캡션 생성기를 대신한다. 여기서 감추면 그 화면으로 갈 길이 없어진다. */
+    'a[href$="out.html"]', 'a[href$="topics.html"]',
     'a[href$="insta.html"]'];
 
+  /* 같은 단추라도 폰판에서는 하는 일이 다르다 — 이름을 바꿔 준다.
+     (out 폴더가 없으니 「저장」은 실제로는 **내려받기**다) */
+  const RENAME = { '#btnSaveTxt': '글 내려받기' };
+
   function tidy() {
+    Object.keys(RENAME).forEach(sel => document.querySelectorAll(sel).forEach(el => {
+      if (el.dataset.nbdRenamed) return;
+      el.dataset.nbdRenamed = '1';
+      el.textContent = RENAME[sel];
+    }));
     HIDE.forEach(sel => document.querySelectorAll(sel).forEach(el => {
       /* 🔴 이미 감춘 것은 건드리지 않는다. 아래 MutationObserver 가 이 함수를 다시
          부르므로, 매번 style 을 다시 쓰면 스스로를 끝없이 깨우게 된다. */

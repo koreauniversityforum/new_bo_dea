@@ -20,8 +20,57 @@
     { id: 'news', name: '뉴스 전달형', note: '무슨 일인지 → 왜 중요한지 순서. 시사 계정 기본형.' },
     { id: 'magazine', name: '매거진형', note: '문장을 이어 쓰는 에세이 톤. 기획·주간 정리에 어울림.' },
     { id: 'brief', name: '짧은 브리핑', note: '3줄 요약 + 해시태그. 스토리·릴스 설명에.' },
+    { id: 'question', name: '질문 던지기', note: '표지 후킹을 첫 줄로. 댓글을 부르는 결.' },
+    { id: 'oneline', name: '한 줄 + 태그', note: '카드가 이미 다 말한 경우. 캡션은 짧게.' },
     { id: 'cards', name: '카드 대사 뽑기', note: '카드 한 장씩 넣을 문구를 장 단위로.' },
   ];
+
+  /* 어디에 올리나 — feed.py 의 CHANNELS 와 같은 표. 문장을 새로 쓰지 않고
+     길이 상한과 해시태그 개수만 손본다. */
+  const CHANNELS = [
+    { id: 'instagram', name: '인스타 피드', limit: 2200, tags: 30, note: '기본. 2,200자까지, 해시태그 그대로.' },
+    { id: 'threads', name: '스레드', limit: 500, tags: 3, note: '500자까지. 해시태그는 셋만.' },
+    { id: 'x', name: 'X(트위터)', limit: 280, tags: 2, note: '280자까지. 핵심 한두 줄 + 링크.' },
+    { id: 'facebook', name: '페이스북', limit: 0, tags: 3, note: '길이는 자유. 해시태그는 적게.' },
+    { id: 'blog', name: '블로그·뉴스레터', limit: 0, tags: 0, note: '해시태그 없이 소제목·문단 그대로.' },
+  ];
+  const channelOf = (id) => CHANNELS.find(c => c.id === id) || CHANNELS[0];
+
+  /** 내용이 다 잘려 혼자 남은 절 제목인가. */
+  const 머리만 = (s) => ['📌', '📊', '🔁', '🗞', '🗣', '🗂', '—'].includes((s || '').trim().slice(0, 1));
+
+  /** 이미 쓴 글을 채널 규격에 맞춘다. 기본값(인스타)은 손대지 않는다. */
+  function shape(text, tags, channel) {
+    const ch = channelOf(channel);
+    if (ch.id === 'instagram') return text;
+    tags = (tags || []).slice();
+    const 줄 = String(text || '').split('\n');
+    const 출처 = 줄.find(l => l.startsWith('🔗')) || '';
+    let 몸 = 줄.filter(l => !l.startsWith('🔗') && !l.startsWith('※') && !l.trim().startsWith('#'));
+    const 쓸태그 = ch.tags ? tags.slice(0, ch.tags) : [];
+    const 짧음 = !!ch.limit && ch.limit <= 700;      // 스레드·X 는 안내문을 뺀다
+
+    const 합치기 = (몸줄) => {
+      const 조각 = [몸줄.join('\n').trim()];
+      if (출처) 조각.push(출처);
+      if (!짧음) 조각.push(NOTE);
+      if (쓸태그.length) 조각.push(쓸태그.join(' '));
+      return 조각.filter(Boolean).join('\n\n').trim();
+    };
+
+    let 글 = 합치기(몸);
+    if (!ch.limit) return 글;
+    while (글.length > ch.limit && 몸.length > 1) {
+      몸.pop();
+      while (몸.length && (!몸[몸.length - 1].trim() || 머리만(몸[몸.length - 1]))) 몸.pop();
+      글 = 합치기(몸);
+    }
+    if (글.length > ch.limit && 몸.length) {
+      const 여백 = 글.length - 몸[0].length;
+      글 = 합치기([몸[0].slice(0, Math.max(20, ch.limit - 여백 - 1)).trim() + '…']);
+    }
+    return 글;
+  }
 
   const MINE = '[여기에 우리 계정의 시각을 한두 문장 덧붙이세요]';
   const NOTE = '※ 원문을 요약·재구성한 초안입니다. 올리기 전에 사실관계와 표현을 확인하세요.';
@@ -163,7 +212,23 @@
     const src = sourceLine(press, title, opts.date || item.date);
     let L = [];
 
-    if (style === 'brief') {
+    if (style === 'question') {
+      // 「인스타 올리기」의 캡션 후보에만 있던 결. 글투로도 고를 수 있게 올렸다.
+      const 낱말 = ((root.SUMMARIZER && root.SUMMARIZER.topic_words)
+        ? (root.SUMMARIZER.topic_words(title + ' ' + (item.body || ''), 3) || []) : []);
+      const k0 = 낱말[0] || (title || '이번 사안').slice(0, 8);
+      L = [(hook(item) || `${k0}, 어떻게 보시나요?`), ''];
+      L = L.concat(qs.slice(1));
+      rows.slice(0, 3).forEach(s => L.push('· ' + s));
+      L = L.concat(['', `${k0}, 여러분에게는 어떤 이야기인가요? 댓글로 남겨 주세요.`,
+        '', MINE, '', src, NOTE, '', tags.join(' ')]);
+
+    } else if (style === 'oneline') {
+      L = [title];
+      if (rows[0] && rows[0] !== title) L = L.concat(['', rows[0]]);
+      L = L.concat(['', src, NOTE, '', tags.slice(0, 8).join(' ')]);
+
+    } else if (style === 'brief') {
       L = [title, ''];
       rows.slice(0, 3).forEach(s => L.push('· ' + s));
       L = L.concat(qs, ['', src, NOTE, '', tags.join(' ')]);
@@ -216,7 +281,17 @@
     const qs = quoteSection(opts.quoted, style === 'brief');
     let L = [];
 
-    if (style === 'brief') {
+    if (style === 'question') {
+      L = [`${날}, 오늘 이 소식은 어떻게 보시나요?`, ''];
+      items.forEach((it, i) => L.push(`${i + 1}. ${clean(it.title)}`));
+      L = L.concat(qs, ['', '가장 눈에 띈 번호를 댓글로 남겨 주세요.', '', MINE]);
+
+    } else if (style === 'oneline') {
+      L = [`📰 ${날} 오늘의 뉴스 ${items.length}꼭지`, '',
+        items.map(x => clean(x.title)).join(' / ')];
+      L = L.concat(qs.slice(0, 3));
+
+    } else if (style === 'brief') {
       L = [`📰 ${날} 뉴스 ${items.length}꼭지`, ''];
       items.forEach((it, i) => L.push(`${i + 1}. ${clean(it.title)}`));
       L = L.concat(qs);
@@ -261,18 +336,72 @@
     return finish(L, style, { title: `${날} 오늘의 뉴스` }, opts);
   }
 
+  /** 후킹 문구 한 줄. summarizer 가 있으면 그쪽 것을 쓴다. */
+  function hook(item) {
+    try {
+      if (root.SUMMARIZER && root.SUMMARIZER.hooks) {
+        return (root.SUMMARIZER.hooks(item.body || '', item.title || '') || [''])[0] || '';
+      }
+    } catch (e) { /* 없으면 없는 대로 */ }
+    return '';
+  }
+
   function finish(L, style, item, opts) {
-    const text = L.join('\n').replace(/\n{3,}/g, '\n\n').trim();
+    opts = opts || {};
+    const raw = L.join('\n').replace(/\n{3,}/g, '\n\n').trim();
+    const tags = (raw.match(/#[^\s#]+/g) || []);
+    const ch = channelOf(opts.channel);
+    const text = shape(raw, tags, ch.id);
     return {
       text: text, style: style, chars: text.length,
-      warn: text.length > 2200,                 // 인스타 캡션 상한
-      quoted: ((opts && opts.quoted && opts.quoted.items) || []).length,
+      channel: ch.id, channelName: ch.name, limit: ch.limit,
+      warn: !!ch.limit && text.length > ch.limit,
+      quoted: ((opts.quoted && opts.quoted.items) || []).length,
       title: (item && item.title) || '',
     };
   }
 
+  /** 글투에 맞는 제목 후보. 재료는 전부 기사에서 나온다(지어내지 않는다). */
+  function titles(item, style, n) {
+    item = item || {};
+    const 길이 = { brief: 14, oneline: 18, cards: 22, question: 24, news: 28, magazine: 30 };
+    const 자름 = 길이[style] || 26;
+    const out = [];
+    try {
+      if (root.SUMMARIZER && root.SUMMARIZER.titles) {
+        (root.SUMMARIZER.titles(item.body || '', item.title || '', 자름) || [])
+          .forEach(t => out.push(t));
+      }
+    } catch (e) { /* 없으면 아래 재료로만 */ }
+    const 낱말 = ((root.SUMMARIZER && root.SUMMARIZER.topic_words)
+      ? (root.SUMMARIZER.topic_words((item.title || '') + ' ' + (item.body || ''), 3) || []) : []);
+    const k0 = 낱말[0] || (clean(item.title) || '이번 사안').slice(0, 8);
+    const k1 = 낱말[1] || k0;
+    const 덧 = {
+      brief: [`${k0} ${k1}`, `${k0}, 무슨 일`, `${k0} 3줄 정리`],
+      magazine: [`${k0}, 다시 묻는다`, `${k0}의 안쪽`, `${k0}, 그 다음은`],
+      question: [`${k0}, 어떻게 보시나요`, `${k0}, 여러분 생각은`],
+      oneline: [`${k0} 한 줄 정리`, `${k0}, 이것만`],
+      cards: [`${k0}, 알고 계셨나요`, `${k0}, 정리했습니다`],
+      news: [`${k0}, ${k1} 어떻게 되나`, `${k0}, 이렇게 바뀐다`],
+    }[style] || [];
+    덧.forEach(t => out.push(t));
+    const 본 = clean(item.title);
+    if (본) out.push(본.length > 30 ? 본.slice(0, 29) + '…' : 본);
+    const seen = new Set(), 결과 = [];
+    for (const t of out) {
+      const s = clean(t);
+      if (!s || seen.has(s)) continue;
+      seen.add(s);
+      결과.push(s);
+      if (결과.length >= (n || 6)) break;
+    }
+    return 결과;
+  }
+
   root.FEEDSTYLES = {
-    STYLES, one, many, quotes, hashtags, sents, clean,
+    STYLES, CHANNELS, one, many, quotes, hashtags, sents, clean, shape, titles,
     styleOf: (id) => STYLES.find(s => s.id === id) || STYLES[0],
+    channelOf,
   };
 })(typeof globalThis !== 'undefined' ? globalThis : this);

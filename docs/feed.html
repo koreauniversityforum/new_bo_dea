@@ -1,11 +1,15 @@
 <!doctype html>
 <html lang="ko">
 <head>
+<script src="config.js"></script>
+<script src="summarizer.js"></script>
+<script src="feedstyles.js"></script>
+<script src="폰shim.js"></script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>뉴보대 피드 글 만들기</title>
-<link rel="icon" href="/favicon.ico">
-<link rel="stylesheet" href="/static/style.css">
+<link rel="icon" href="assets/뉴보대_로고.png">
+<link rel="stylesheet" href="style.css">
 <style>
   .stage.feed{align-items:stretch;justify-content:flex-start;padding:18px;overflow:auto}
   .rel{display:flex;gap:9px;align-items:flex-start;padding:9px 10px;border:1px solid var(--line);
@@ -34,13 +38,13 @@
 <header class="top">
   <div class="brand">뉴보대 <span>피드 글 만들기</span></div>
   <div class="top-actions">
-    <a class="ghost" data-carry="/" href="/" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">← 앞장 만들기</a>
-    <a class="ghost" href="/static/outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">뒷장 만들기 →</a>
+    <a class="ghost" data-carry="./" href="./" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">← 앞장 만들기</a>
+    <a class="ghost" href="outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">뒷장 만들기 →</a>
     <span data-insta-slot></span>
     <button id="btnCopy" class="primary">글 복사</button>
     <button id="btnSaveTxt">out 폴더에 저장</button>
-    <a class="ghost" href="/static/mark.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">워터마크</a>
-    <a class="ghost" href="/static/out.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">폴더 정리</a>
+    <a class="ghost" href="mark.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">워터마크</a>
+    <a class="ghost" href="out.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">폴더 정리</a>
   </div>
 </header>
 
@@ -146,8 +150,8 @@
 
 </main>
 
-<script src="/static/prog.js"></script>
-<script src="/static/nav.js"></script>
+<script src="prog.js"></script>
+<script src="nav.js"></script>
 <script>
 'use strict';
 const $ = (id) => document.getElementById(id);

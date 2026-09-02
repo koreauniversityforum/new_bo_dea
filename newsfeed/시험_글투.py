@@ -55,6 +55,11 @@ for (const s of out.styles) {
                               s, { date: '2026-09-02', quoted });
 }
 out.noQuote = FEEDSTYLES.many(items, 'news', { date: '2026-09-02' });
+out.channels = {};
+for (const c of FEEDSTYLES.CHANNELS) {
+  out.channels[c.id] = FEEDSTYLES.one({ title: '김 대표 회의 발언', body: body, press: '연합뉴스' },
+                                      'news', { date: '2026-09-02', quoted, channel: c.id });
+}
 out.few = FEEDSTYLES.one({ title: 'ㄱ', body: body, press: '연합뉴스' }, 'news',
                          { quoted: { quote: quoted.quote, items: quoted.items.slice(0, 2) } });
 process.stdout.write(JSON.stringify(out));
@@ -81,11 +86,12 @@ def main():
     d = 돌리기()
 
     print("■ 글투 목록")
-    확인("네 가지가 그대로 있다", d["styles"] == ["news", "magazine", "brief", "cards"], d["styles"])
+    확인("글투 여섯 가지가 그대로 있다",
+        d["styles"] == ["news", "magazine", "brief", "question", "oneline", "cards"], d["styles"])
 
     print("■ 묶음 글(브리핑 전체)")
     본 = {k: v["text"] for k, v in d["many"].items()}
-    확인("글투마다 글이 다르다", len(set(본.values())) == 4)
+    확인("글투마다 글이 다르다", len(set(본.values())) == len(본), len(set(본.values())))
     확인("모든 글에 기사 제목이 들어간다",
         all(ITEMS[0]["title"] in t for t in 본.values()))
     확인("모든 글에 해시태그가 붙는다", all("#뉴스" in t for t in 본.values()))
@@ -103,9 +109,19 @@ def main():
 
     print("■ 기사 한 건")
     한 = {k: v["text"] for k, v in d["one"].items()}
-    확인("글투마다 글이 다르다", len(set(한.values())) == 4)
+    확인("글투마다 글이 다르다", len(set(한.values())) == len(한), len(set(한.values())))
     확인("본문에서 문장을 뽑아 쓴다", "속도보다 방향" in 한["news"])
     확인("출처 줄이 붙는다", all("🔗 출처: 연합뉴스" in t for t in 한.values()))
+
+    print("■ 채널(올릴 곳)")
+    ch = d["channels"]
+    확인("인스타는 손대지 않는다", ch["instagram"]["text"] == d["one"]["news"]["text"])
+    확인("스레드는 500자 안", ch["threads"]["chars"] <= 500, ch["threads"]["chars"])
+    확인("X 는 280자 안", ch["x"]["chars"] <= 280, ch["x"]["chars"])
+    확인("짧은 채널은 출처를 남긴다",
+        all("🔗 출처" in ch[c]["text"] for c in ("threads", "x")))
+    확인("블로그는 해시태그가 없다", "#" not in ch["blog"]["text"])
+    확인("X 는 해시태그를 둘까지", len([w for w in ch["x"]["text"].split() if w.startswith("#")]) <= 2)
 
     print("■ 발언 뽑기 (related.quotes 와 같은 규칙)")
     확인("쌍따옴표 안을 뽑는다", d["quotes"] == ["지금은 속도보다 방향이 중요하다"], d["quotes"])

@@ -20,9 +20,83 @@ STYLES = [
     {"id": "news", "name": "뉴스 전달형", "note": "무슨 일인지 → 왜 중요한지 순서. 시사 계정 기본형."},
     {"id": "magazine", "name": "매거진형", "note": "문장을 이어 쓰는 에세이 톤. 기획·주간 정리에 어울림."},
     {"id": "brief", "name": "짧은 브리핑", "note": "3줄 요약 + 해시태그. 스토리·릴스 설명에."},
+    {"id": "question", "name": "질문 던지기", "note": "표지 후킹을 첫 줄로. 댓글을 부르는 결."},
+    {"id": "oneline", "name": "한 줄 + 태그", "note": "카드가 이미 다 말한 경우. 캡션은 짧게."},
     {"id": "cards", "name": "카드 대사 뽑기",
      "note": "카드 한 장씩 넣을 문구를 장 단위로. 앞장 만들기에 그대로 옮겨 쓰는 용."},
 ]
+
+# ── 올릴 곳(채널) ─────────────────────────────────────────────────────────
+# 같은 글이라도 스레드는 500자, X 는 280자에서 잘린다. 그래서 **글투(무엇을 쓰나)** 와
+# **채널(어디에 올리나)** 을 따로 고르게 한다. 채널은 문장을 새로 쓰지 않고
+# 길이 상한과 해시태그 개수만 손본다 - 지어내지 않는 것이 이 프로그램의 규칙이다.
+CHANNELS = [
+    {"id": "instagram", "name": "인스타 피드", "limit": 2200, "tags": 30,
+     "note": "기본. 2,200자까지, 해시태그 그대로."},
+    {"id": "threads", "name": "스레드", "limit": 500, "tags": 3,
+     "note": "500자까지. 해시태그는 셋만."},
+    {"id": "x", "name": "X(트위터)", "limit": 280, "tags": 2,
+     "note": "280자까지. 핵심 한두 줄 + 링크."},
+    {"id": "facebook", "name": "페이스북", "limit": 0, "tags": 3,
+     "note": "길이는 자유. 해시태그는 적게."},
+    {"id": "blog", "name": "블로그·뉴스레터", "limit": 0, "tags": 0,
+     "note": "해시태그 없이 소제목·문단 그대로."},
+]
+
+
+def _머리만(줄: str) -> bool:
+    """내용이 다 잘려 혼자 남은 절 제목인가(🗣·📌 만 남으면 볼썽사납다)."""
+    return (줄 or "").strip()[:1] in ("📌", "📊", "🔁", "🗞", "🗣", "🗂", "—")
+
+
+def channel_of(cid: str) -> dict:
+    for c in CHANNELS:
+        if c["id"] == cid:
+            return c
+    return CHANNELS[0]
+
+
+def shape(text: str, tags=None, channel: str = "instagram") -> str:
+    """이미 쓴 글을 채널 규격에 맞춘다. **문장을 새로 쓰지는 않는다.**
+
+    🔴 잘라 낼 때는 뒤에서부터 줄 단위로 덜어 내고 **출처 줄은 마지막까지 남긴다**
+       (출처를 지우면 남의 문장을 출처 없이 올리는 셈이 된다).
+    🔴 기본값(인스타)은 손대지 않는다 - 지금까지 나오던 글이 그대로 나와야 한다.
+    """
+    ch = channel_of(channel)
+    if ch["id"] == "instagram":
+        return text
+    tags = list(tags or [])
+    줄 = (text or "").split("\n")
+    출처 = next((l for l in 줄 if l.startswith("🔗")), "")
+    몸 = [l for l in 줄
+          if not l.startswith("🔗") and not l.startswith("※") and not l.strip().startswith("#")]
+    쓸태그 = tags[:ch["tags"]] if ch["tags"] else []
+    짧음 = bool(ch["limit"]) and ch["limit"] <= 700     # 스레드·X 는 안내문을 뺀다
+
+    def 합치기(몸줄):
+        조각 = ["\n".join(몸줄).strip()]
+        if 출처:
+            조각.append(출처)
+        if not 짧음:
+            조각.append("※ 원문을 요약·재구성한 초안입니다. 올리기 전에 사실관계와 표현을 확인하세요.")
+        if 쓸태그:
+            조각.append(" ".join(쓸태그))
+        return "\n\n".join(x for x in 조각 if x).strip()
+
+    글 = 합치기(몸)
+    if not ch["limit"]:
+        return 글
+    while len(글) > ch["limit"] and len(몸) > 1:
+        몸.pop()                                        # 뒤에서부터 한 줄씩 덜어 낸다
+        while 몸 and (not 몸[-1].strip() or _머리만(몸[-1])):
+            몸.pop()                                    # 내용이 없어진 절 제목도 같이 뗀다
+        글 = 합치기(몸)
+    if len(글) > ch["limit"]:                            # 그래도 넘치면 첫 덩어리를 자른다
+        여백 = len(글) - len(몸[0]) if 몸 else 0
+        머리 = 몸[0][:max(20, ch["limit"] - 여백 - 1)].rstrip() + "…" if 몸 else ""
+        글 = 합치기([머리])
+    return 글
 
 
 # ── 재료 ───────────────────────────────────────────────────────────────────
@@ -263,6 +337,8 @@ STYLE_TITLE_NOTE = {
     "news": "사실 그대로 — 누가 무엇을 했는지",
     "magazine": "기획 톤 — 묻고 들여다보는 말투",
     "brief": "짧고 굵게 — 14자 안팎",
+    "question": "물음표로 끝나는 한 줄 — 댓글을 부르는 결",
+    "oneline": "한 줄로 끝내기 — 카드가 이미 다 말했을 때",
     "cards": "표지 후킹 — 넘겨보게 만드는 한 줄",
 }
 
@@ -294,6 +370,13 @@ def title_ideas(title: str = "", body: str = "", style: str = "news", n: int = 6
         cands = [f"{k0}, 다시 묻는다", f"{k0}의 안쪽", f"{k0}, 무엇이 남았나",
                  f"{k0}{j(k0, ('과', '와'))} {k1} 사이", f"{k0}, 그 다음은"]
         cands += [squeeze(t, 30) for t in facts]
+    elif style == "question":
+        cands = [f"{k0}, 어떻게 보시나요", f"{k0}{j(k0, ('은', '는'))} 괜찮은 걸까",
+                 f"{k0}, 여러분 생각은", f"{k0}{j(k0, ('과', '와'))} {k1}, 무엇이 먼저일까"]
+        cands += hooked[:2]
+    elif style == "oneline":
+        cands = [squeeze(t, 18) for t in facts]
+        cands += [f"{k0} 한 줄 정리", f"{k0}, 이것만"]
     elif style == "cards":
         cands = hooked[:4]
         cands += [squeeze(t, 22) for t in facts]
@@ -365,7 +448,7 @@ def _others(related, n=4):
 
 
 # ── 본체 ───────────────────────────────────────────────────────────────────
-def compose(main: dict, related=None, style: str = "news") -> dict:
+def compose(main: dict, related=None, style: str = "news", channel: str = "instagram") -> dict:
     title = (main.get("title") or "").strip()
     body = (main.get("body") or "").strip()
     press = (main.get("press") or "").strip()
@@ -385,7 +468,15 @@ def compose(main: dict, related=None, style: str = "news") -> dict:
     note = "※ 원문을 요약·재구성한 초안입니다. 올리기 전에 사실관계와 표현을 확인하세요."
 
     L = []
-    if style == "brief":
+    if style == "question":
+        # 「인스타 올리기」의 캡션 후보에만 있던 결. 글투로도 고를 수 있게 올렸다(2026-09-02).
+        L = _cap_question(body, title, an, tags, src, note)
+        L[1:1] = _quote_section(qb, short=True)
+
+    elif style == "oneline":
+        L = _cap_oneline(body, title, an, tags, src, note)
+
+    elif style == "brief":
         L = [title or head, ""]
         for s in _sents(body, title, 3, limit=130):
             L.append(f"· {s}")
@@ -469,13 +560,15 @@ def compose(main: dict, related=None, style: str = "news") -> dict:
             L += others
         L += ["", MINE, "", src, note, "", " ".join(tags)]
 
-    text = "\n".join(L).strip()
+    text = shape("\n".join(L).strip(), tags, channel)
+    ch = channel_of(channel)
     return {"text": text, "hashtags": tags, "style": style,
             "chars": len(text), "others": len(others),
+            "channel": ch["id"], "channelName": ch["name"], "limit": ch["limit"],
             "quote": qb["quote"], "quoted": qb["n"], "quoteEnough": qb["enough"],
             "titles": title_ideas(title, body, style),
             "titleNote": STYLE_TITLE_NOTE.get(style, ""),
-            "warn": len(text) > 2200}      # 인스타 캡션 상한 2,200자
+            "warn": bool(ch["limit"]) and len(text) > ch["limit"]}
 
 
 # ── 캡션 후보 5개 ─────────────────────────────────────────────────────────

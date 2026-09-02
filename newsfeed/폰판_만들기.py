@@ -12,7 +12,8 @@
   3) 머리에 `summarizer.js` + `폰shim.js` 를 끼워 `/api/*` 를 브라우저가 처리하게 한다
 
 담기는 화면: 만들기(index) · 뒷장(outro) · 워터마크(mark) · 릴스(reel) · 참고 사이트(refs)
-빼는 화면  : 피드 글(캡션 생성기가 서버에 있다) · 주제 찾기(RSS 수집) ·
+             · 피드 글(feed — 캡션은 feedstyles.js 가 만든다, 2026-09-02 추가)
+빼는 화면  : 주제 찾기(RSS 수집) ·
              폴더 정리 · 인스타 올리기
              (기사 수집·크롬 조종처럼 서버가 있어야만 되는 것들)
 
@@ -33,7 +34,9 @@ SRC = os.path.join(BASE, "폰판_소스")
 # (Pages 설정에서 main 브랜치의 /docs 를 가리키면 끝).
 OUT = os.path.join(os.path.dirname(BASE), "docs")
 
-PAGES = ["index.html", "outro.html", "mark.html", "reel.html", "refs.html"]
+# 🔴 feed.html 은 2026-09-02 에 들어왔다. 캡션 생성기(feed.py)가 서버에만 있어 빼 뒀었는데,
+#    feedstyles.js 로 옮겨 폰에서도 돌아간다("피드 글 만들기가 사라졌다"는 지적).
+PAGES = ["index.html", "outro.html", "mark.html", "reel.html", "refs.html", "feed.html"]
 SCRIPTS = ["app.js", "brands.js", "nav.js", "prog.js", "hiddenmark.js",
            "outro.js", "outrostate.js", "refs.js", "save.js", "style.css",
            "deck.js",                      # 시리즈(캐러셀) 편집기 - 2026-08-23
@@ -137,6 +140,8 @@ def patch_app_js(s: str) -> str:
 HEAD_TAG = "<head>"
 INJECT = ('\n<script src="config.js"></script>'
           '\n<script src="summarizer.js"></script>'
+          # 피드 글 네 가지 글투 + 채널(인스타·스레드·X…) — 폰shim 이 이걸 불러 쓴다
+          '\n<script src="feedstyles.js"></script>'
           '\n<script src="폰shim.js"></script>')
 
 
@@ -200,7 +205,8 @@ def build():
           "              위키미디어), 내 사진 넣기, 카드 디자인 전부, 뒷장, 워터마크,\n"
           "              시리즈(캐러셀) 편집기 - 장 추가·자동 구성(규칙기반)·PNG 전부 내려받기,\n"
           "              내 프리셋, 릴스(손으로 녹화 - 사진을 골라 만든다), 사진으로 저장(내려받기)\n"
-          "  · 안 되는 것 : 인스타 자동 올리기, out 폴더 정리·시리즈 out 저장, 피드 글, 주제 찾기,\n"
+          "              피드 글 만들기(글투 6종 · 인스타/스레드/X/페이스북/블로그 규격),\n"
+          "  · 안 되는 것 : 인스타 자동 올리기, out 폴더 정리·시리즈 out 저장, 유사 기사 검색, 주제 찾기,\n"
           "              AI 문구(PC 앱에서만), 릴스 「최근 세트 자동 담기」(서버 out 폴더가 있어야 한다)\n"
           "\n"
           "고칠 때는 이 폴더를 고치지 말고 static/ 을 고친 뒤\n"
