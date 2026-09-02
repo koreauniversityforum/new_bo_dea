@@ -125,10 +125,20 @@
     return out;
   }
 
-  /** 기사 재료 한 건에서 쓸 문장들 — 본문이 있으면 본문, 없으면 요약 한 줄. */
+  /** 기사 재료 한 건에서 쓸 문장들.
+   *
+   * 차례: 본문 → **긴 요약**(3문장짜리 문단 2개) → 짧은 요약 한 줄.
+   * 🔴 짧은 요약만 쓰면 홈페이지 글이 두 문장으로 끝나 무슨 일인지 알 수 없다는
+   *    지적이 있었다(2026-09-02). 굽는 쪽이 `summary_long` 을 붙여 준다.
+   */
   function lines(it, n) {
     const 본문 = sents(it.body, it.title, n, 180);
     if (본문.length) return 본문;
+    const 긴 = clean(it.summary_long).replace(/\s*\n\s*/g, ' ');
+    if (긴) {
+      const 문장 = 긴.split(/(?<=[.!?…”"])\s+/).map(clean).filter(s => s.length >= 10);
+      if (문장.length) return 문장.slice(0, n || 6);
+    }
     const s = clean(it.summary);
     return s ? [s] : [];
   }

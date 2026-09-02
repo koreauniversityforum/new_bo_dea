@@ -147,6 +147,50 @@ class 손질(unittest.TestCase):
         self.assertFalse(os.path.exists(옛것))
         self.assertTrue(os.path.exists(새것))
 
+    def test_긴요약은_세문장짜리_문단_둘(self):
+        본문 = ("정부가 추석을 앞두고 성수품 공급을 평시보다 1.6배 늘린다고 밝혔다. "
+              "할인 지원 예산은 590억원으로 역대 최대다. 사과와 배, 한우와 계란이 대상이다. "
+              "대형마트에서는 국산 농축산물을 최대 40% 싸게 판다. "
+              "직거래장터는 전국 스무 곳에서 열린다. "
+              "농식품부는 장바구니 부담을 덜겠다고 말했다. "
+              "지난해에도 비슷한 대책이 나왔지만 체감 효과는 크지 않았다.")
+        긴 = prepare.긴요약(본문, "추석 성수품 대책")
+        문단 = [p for p in 긴.split("\n\n") if p.strip()]
+        self.assertEqual(len(문단), 2, 긴)
+        for p in 문단:
+            self.assertGreaterEqual(len([s for s in p.split(". ") if s.strip()]), 2, p)
+        self.assertGreater(len(긴), 120, 긴)
+
+    def test_긴요약은_같은_말을_두_번_넣지_않는다(self):
+        본문 = ("할인 지원 예산은 590억원으로 역대 최대다. "
+              "역대 최대인 할인 지원 예산 590억원이 편성됐다. "
+              "사과와 배, 한우와 계란이 대상이다. "
+              "대형마트에서는 국산 농축산물을 최대 40% 싸게 판다. "
+              "직거래장터는 전국 스무 곳에서 열린다. "
+              "농식품부는 장바구니 부담을 덜겠다고 말했다.")
+        긴 = prepare.긴요약(본문, "추석 대책")
+        self.assertEqual(긴.count("590억원"), 1, 긴)
+
+    def test_본문이_짧으면_있는_만큼만(self):
+        긴 = prepare.긴요약("한 문장뿐인 짧은 기사다.", "제목")
+        self.assertNotIn("\n\n", 긴)
+
+    def test_본문이_없으면_빈_문자열(self):
+        self.assertEqual(prepare.긴요약("", "제목"), "")
+
+    def test_손질이_긴요약도_채운다(self):
+        본문 = ("정부가 추석을 앞두고 성수품 공급을 평시보다 1.6배 늘린다고 밝혔다. "
+              "할인 지원 예산은 590억원으로 역대 최대다. 사과와 배, 한우와 계란이 대상이다. "
+              "대형마트에서는 국산 농축산물을 최대 40% 싸게 판다. "
+              "직거래장터는 전국 스무 곳에서 열린다. "
+              "농식품부는 장바구니 부담을 덜겠다고 말했다. "
+              "지난해에도 비슷한 대책이 나왔지만 체감 효과는 크지 않았다.")
+        self._본문(**{"u1": {"body": 본문, "press": "머니투데이", "images": []}})
+        it = {"url": "u1", "title": "추석 성수품"}
+        prepare.한건(it, self.사진, "01")
+        self.assertIn("summary_long", it)
+        self.assertGreater(len(it["summary_long"]), len(it["summary"]))
+
     def test_없는_폴더에_묵은사진지우기를_불러도_안_터진다(self):
         self.assertEqual(prepare.묵은사진지우기(os.path.join(self.tmp, "없음")), 0)
 

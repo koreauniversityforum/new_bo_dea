@@ -53,6 +53,64 @@ def 사진받기(url: str, 낼자리: str, 보낸곳: str = "") -> str:
     return p
 
 
+def _닮았나(문장: str, 이미: list, 기준: float = 0.6) -> bool:
+    """이미 고른 문장과 같은 말인가. 낱말이 6할 넘게 겹치면 같은 말로 본다."""
+    try:
+        t = set(summarizer.tokens(문장))
+    except Exception:
+        return False
+    if not t:
+        return True
+    for o in 이미:
+        u = set(summarizer.tokens(o))
+        if u and len(t & u) / len(t) >= 기준:
+            return True
+    return False
+
+
+def 긴요약(본문: str, 제목: str = "", 문단: int = 2, 문장: int = 3, limit: int = 170) -> str:
+    """**읽을 요약** - 3문장짜리 문단 2개.
+
+    카드 그림에 얹는 `summary` 는 한두 문장이어야 한다(칸이 좁다). 그런데 홈페이지에서
+    글을 읽을 때는 그 두 문장이 너무 압축돼 무슨 일인지 알 수 없다는 지적이 있었다
+    (2026-09-02). 그래서 **읽는 자리용 요약을 따로** 만든다 - 카드용은 그대로 둔다.
+
+    문장은 새로 쓰지 않고 본문에서 고른다(지어내지 않는 것이 이 프로그램의 규칙).
+    고른 뒤에는 **기사에 나온 차례대로** 되돌려 놓아야 말이 이어진다.
+    """
+    본문 = (본문 or "").strip()
+    if not 본문:
+        return ""
+    try:
+        ranked = summarizer.rank_sentences(본문, 제목) or []
+        차례 = {s: i for i, s in enumerate(summarizer.sentences(본문))}
+    except Exception:
+        return ""
+    # 🔴 점수만 보고 위에서부터 자르면 **같은 말이 두 번** 들어간다(실측: "역대 최대
+    #    할인 지원 예산 590억원" 이 두 문단에 다 나왔다). 후보를 넉넉히 받아 겹치는 것을
+    #    걸러 낸 뒤 필요한 만큼만 쓴다.
+    골라둠 = []
+    for s, _ in ranked[:(문단 * 문장) + 8]:
+        if len((s or "").strip()) < 10 or _닮았나(s, 골라둠):
+            continue
+        골라둠.append(s)
+        if len(골라둠) >= 문단 * 문장:
+            break
+    고른것 = sorted(골라둠, key=lambda s: 차례.get(s, 999))
+    다듬 = []
+    for s in 고른것:
+        s = (s or "").strip()
+        if len(s) < 10:
+            continue
+        if len(s) > limit:
+            s = s[:limit - 1].rstrip() + "…"
+        elif not s.endswith((".", "!", "?", '"', "”", "…")):
+            s += "."
+        다듬.append(s)
+    문단들 = [" ".join(다듬[i:i + 문장]) for i in range(0, len(다듬), 문장)]
+    return "\n\n".join(p for p in 문단들 if p.strip())
+
+
 def 한건(it: dict, 사진폴더: str, 이름: str) -> dict:
     """기사 한 줄을 손질해 **그 자리에서** 채운다. 어떤 실패도 밖으로 내보내지 않는다.
 
@@ -75,6 +133,10 @@ def 한건(it: dict, 사진폴더: str, 이름: str) -> dict:
             it["summary"] = (후보[0] if 후보 else "").strip()
         except Exception:
             pass
+        # 카드 그림에 얹는 것(summary)과 **읽는 자리에 붙는 것**(summary_long)은 다르다
+        긴 = 긴요약(본문, it.get("title", ""))
+        if 긴:
+            it["summary_long"] = 긴
         try:
             # 쌍따옴표 발언. 여기서 뽑아 두면 나중에 **같은 발언을 실은 보도**를 찾을 수
             # 있다(2026-09-02 요구). 본문 자체는 안 남긴다 - 오늘.json 이 매일 커진다.

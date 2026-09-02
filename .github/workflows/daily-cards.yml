@@ -118,9 +118,12 @@ jobs:
                   row["source"] = it.get("source", "")
                   row["link"] = it.get("url", "")
                   # 카드 한 장만 따로 올릴 때 쓰는 글. 카드를 눌러 바로 복사한다.
+                  # 🔴 여기는 **읽는 자리**라 카드 그림에 얹는 두 문장이 아니라 긴 요약
+                  #    (3문장짜리 문단 2개)을 쓴다 - 2026-09-02 "너무 압축됐다" 지적.
+                  row["summary_long"] = it.get("summary_long", "")
                   줄 = [row["label"] + ". " + row["title"]]
-                  if row["summary"]:
-                      줄 += ["", row["summary"]]
+                  if row["summary_long"] or row["summary"]:
+                      줄 += ["", row["summary_long"] or row["summary"]]
                   꼬리 = " / ".join(x for x in (row["press"], row["link"]) if x)
                   if 꼬리:
                       줄 += ["", "출처: " + 꼬리]
