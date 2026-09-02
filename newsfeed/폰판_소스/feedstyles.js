@@ -334,8 +334,9 @@
       L = [`📰 ${날} 오늘의 뉴스`, ''];
       items.forEach((it, i) => {
         L.push(`${i + 1}. ${clean(it.title)}`);
-        const s = lines(it, 1)[0];
-        if (s) L.push(`   ${s}`);
+        // 한 줄만 붙이면 목록이 제목 나열이 된다. 두 문장까지 붙인다
+        // (5건 × 두 문장이면 인스타 2,200자 안에 들어온다).
+        lines(it, 2).forEach(s => L.push(`   ${s}`));
       });
       L = L.concat(qs, ['', '자세한 내용은 각 카드에서 확인하세요.', '', MINE]);
     }

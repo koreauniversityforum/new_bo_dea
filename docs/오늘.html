@@ -92,6 +92,7 @@
   .art input{ margin-top:4px; flex:none }
   .art .t{ font-size:12.5px; color:var(--ink3); line-height:1.5; word-break:keep-all; cursor:pointer }
   .art .s{ font-size:10.5px; color:var(--dim4); margin-top:2px; word-break:break-all }
+  .art .mini{ flex:none; padding:4px 8px; font-size:12px }
 
   /* 모달 */
   #lb{ position:fixed; inset:0; background:rgba(0,0,0,.86); display:none; z-index:20;
@@ -106,6 +107,13 @@
            background:var(--panel2); font-size:12px; line-height:1.7 }
   .quoted b{ color:var(--ink) }
   .quoted ul{ margin:6px 0 0; padding-left:17px; color:var(--dim) }
+  .edit{ border:1px solid var(--line2); border-radius:10px; padding:10px 12px; margin:8px 0;
+         background:var(--panel) }
+  .edit label{ display:block; font-size:11.5px; color:var(--dim); margin:6px 0 3px }
+  .edit input, .edit textarea{ width:100%; background:var(--panel2); color:var(--ink);
+         border:1px solid var(--line); border-radius:9px; padding:9px; font:13px/1.6 inherit }
+  .edit textarea{ min-height:120px; resize:vertical }
+  .hint{ font-size:11px; color:var(--dim4); font-weight:500 }
   .photoPrev{ width:100%; max-height:220px; object-fit:contain; border-radius:10px;
               background:var(--panel2); display:block; margin:8px 0 }
   .toast{ position:fixed; left:50%; bottom:22px; transform:translateX(-50%);
@@ -206,6 +214,20 @@
   </div>
 
   <div id="paneText">
+    <!-- 그 자리에서 고치기 — 제목·요약을 바로 손보면 아래 글이 다시 만들어진다
+         (2026-09-03 요구: "각 뉴스를 클릭했을 때 그 자리에서 수정") -->
+    <div class="edit" id="lbEdit">
+      <label>제목</label>
+      <input type="text" id="edTitle" placeholder="카드에 들어갈 제목">
+      <label>요약 <span class="hint">피드 글에 쓰입니다. 3문장짜리 문단 2개가 기본입니다.</span></label>
+      <textarea id="edSum" rows="6" placeholder="기사 요약(문단 사이는 빈 줄로)"></textarea>
+      <div class="bar">
+        <button class="pri" id="edSave">고친 대로 저장</button>
+        <button id="edReset">원래대로</button>
+        <span class="hint" id="edMsg"></span>
+      </div>
+    </div>
+
     <div class="tabs" id="lbTabs"></div>
     <p class="styleNote" id="lbNote"></p>
     <textarea id="lbFeed"></textarea>
@@ -304,6 +326,7 @@
       return;
     }
     초안 = DATA.caption || '';
+    고친것입히기();
     $('body').hidden = false; $('empty').hidden = true;
     $('date').textContent = DATA.date || '';
     $('cnt').textContent = (DATA.cards || []).length + '장';
@@ -422,19 +445,51 @@
       지금 = out.slice(0, 30);
       if (!지금.length) throw new Error('기사를 한 건도 찾지 못했습니다');
       $('nowStat').textContent = 지금.length + '건 · ' + 이제() + ' 기준';
-      $('nowList').innerHTML = 지금.map((a, i) => `
-        <div class="art">
-          <input type="checkbox" data-i="${i}" ${i < 5 ? 'checked' : ''}>
-          <div style="min-width:0">
-            <div class="t" data-i="${i}">${esc(a.title)}</div>
-            <div class="s">${esc(a.url)}</div>
-          </div>
-        </div>`).join('');
+      draw지금();
     } catch (e) {
       $('nowStat').textContent = '불러오지 못했습니다';
       $('nowList').innerHTML = `<p class="empty">${esc(e.message)}<br><br>` +
         '잠시 뒤 다시 눌러 보세요. (대신 읽어 주는 곳이 붐비면 이렇게 됩니다)</p>';
     }
+  }
+
+  /* 지금 뉴스 목록. 제목은 ✎ 를 눌러 **그 자리에서** 고친다 - 언론사 제목이 그대로
+     카드에 올라가면 안 되기 때문이다(2026-09-03 요구). */
+  function draw지금() {
+    $('nowList').innerHTML = 지금.map((a, i) => `
+      <div class="art">
+        <input type="checkbox" data-i="${i}" ${i < 5 ? 'checked' : ''}>
+        <div style="min-width:0;flex:1">
+          <div class="t" data-i="${i}">${esc(a.title)}</div>
+          <div class="s">${esc(a.url)}</div>
+        </div>
+        <button class="mini" data-edit="${i}" title="제목 고치기">✎</button>
+      </div>`).join('');
+  }
+
+  function 제목고치기(i) {
+    const 줄 = $('nowList').querySelectorAll('.art')[i];
+    if (!줄 || 줄.querySelector('input[type=text]')) return;
+    const t = 줄.querySelector('.t');
+    const box = document.createElement('input');
+    box.type = 'text';
+    box.value = 지금[i].title;
+    box.style.cssText = 'width:100%;background:var(--panel2);color:var(--ink);border:1px solid var(--accent);border-radius:8px;padding:6px;font:12.5px inherit';
+    /* 🔴 Enter 로 끝낸 뒤 blur 가 한 번 더 온다. 그때 이미 뗀 칸을 또 바꾸려 들면
+       NotFoundError 가 난다(실측) - 한 번만 돌게 잠근다. */
+    let 끝났다 = false;
+    const 끝내기 = () => {
+      if (끝났다) return;
+      끝났다 = true;
+      지금[i].title = box.value.trim() || 지금[i].title;
+      t.textContent = 지금[i].title;
+      box.replaceWith(t);
+    };
+    box.addEventListener('keydown', (e) => { if (e.key === 'Enter') 끝내기(); });
+    box.addEventListener('blur', 끝내기);
+    t.replaceWith(box);
+    box.focus();
+    box.select();
   }
 
   function 이제() {
@@ -459,9 +514,14 @@
         }
       }
       // 본문은 넘기지 않는다 - localStorage 는 좁고, 카드에 쓰는 것은 요약·사진뿐이다.
+      // 🔴 카드 **그림**에 얹히는 것은 `summary`(두 줄)다. 긴 요약을 그대로 넣으면
+      //    카드가 글로 덮인다. 짧은 것이 없으면 긴 요약의 첫 문장만 잘라 쓴다.
+      const 두줄 = (x) => (x.summary || '').trim() ||
+        ((x.summary_long || '').trim().split(/(?<=[.!?…])\s+/)[0] || '');
       const 짐 = items.map(x => ({
         url: x.url, title: x.title, source: x.source || '',
-        press: x.press || '', summary: x.summary || '', photo: 쓸사진(x),
+        press: x.press || '', summary: 두줄(x), summary_long: x.summary_long || '',
+        photo: 쓸사진(x),
       }));
       try {
         localStorage.setItem(DAILY_KEY, JSON.stringify({
@@ -480,6 +540,37 @@
   /** 화면에서 바로 쓸 수 있는 사진 주소만 돌려준다.
    *  🔴 새벽에 구운 기사의 `photo` 는 **굽는 기계 안에서만 있던 파일 이름**(01.jpg)이다.
    *     공개된 자리에 없으므로 그대로 <img> 에 걸면 404 가 난다(실측). */
+  /* ── 그 자리에서 고친 내용 ──────────────────────────────────────────
+     새벽에 구운 `오늘.json` 은 워크플로가 다시 쓰므로 고친 것을 거기에 담을 수 없다.
+     그래서 **이 기기에만** 남겨 두고, 화면을 그릴 때 덮어씌운다. */
+  const EDIT_KEY = 'nb_today_edits';
+  function 고친것() {
+    try { return JSON.parse(localStorage.getItem(EDIT_KEY) || '{}') || {}; }
+    catch (e) { return {}; }
+  }
+  function 고친것저장(map) {
+    try { localStorage.setItem(EDIT_KEY, JSON.stringify(map)); } catch (e) { /* 용량 초과 */ }
+  }
+  /** 기사 하나를 가리키는 열쇠. 주소가 없으면 제목으로. */
+  const 열쇠 = (it) => (it && (it.url || it.title)) || '';
+
+  function 고친것입히기() {
+    const map = 고친것();
+    (DATA.items || []).forEach(it => {
+      const e = map[열쇠(it)];
+      if (!e) return;
+      if (e.title) it.title = e.title;
+      if (e.summary_long) it.summary_long = e.summary_long;
+      if (e.photo) it.photo = e.photo;
+      it.edited = true;
+    });
+    // 카드 목록에 보이는 제목도 같이 바꾼다(카드 ↔ 기사는 link 로 짝짓는다)
+    (DATA.cards || []).forEach(c => {
+      const it = (DATA.items || []).find(x => (x.url || '') === (c.link || '') && c.link);
+      if (it && it.edited) c.title = it.title;
+    });
+  }
+
   const 쓸사진 = (it) => {
     const p = (it && it.photo) || '';
     return /^(https?:|data:|blob:)/i.test(p) ? p : '';
@@ -570,6 +661,7 @@
     $('lbFromArticle').disabled = !(열린기사 && 열린기사.url);
     pane('text');
     열린글투 = 'news';
+    drawEdit();
     drawLbTabs();
     $('lb').style.display = 'flex';
   }
@@ -586,6 +678,16 @@
       if (hit) return hit;
     }
     return null;
+  }
+
+  /* 제목·요약 고치는 칸. 기사가 붙지 않은 장(표지·뒷장)에서는 감춘다. */
+  function drawEdit() {
+    const 있음 = !!열린기사;
+    $('lbEdit').hidden = !있음;
+    if (!있음) return;
+    $('edTitle').value = 열린기사.title || '';
+    $('edSum').value = 열린기사.summary_long || 열린기사.summary || '';
+    $('edMsg').textContent = 열린기사.edited ? '이 기기에서 고친 내용입니다.' : '';
   }
 
   function drawLbTabs() {
@@ -695,6 +797,33 @@
     열린글투 = b.dataset.style;
     drawLbTabs();
   });
+  /* 고친 대로 저장 — 이 기기에 남기고, 카드 목록·글을 그 자리에서 다시 그린다. */
+  $('edSave').addEventListener('click', () => {
+    if (!열린기사) return;
+    const map = 고친것();
+    map[열쇠(열린기사)] = Object.assign(map[열쇠(열린기사)] || {}, {
+      title: $('edTitle').value.trim() || 열린기사.title,
+      summary_long: $('edSum').value.trim(),
+    });
+    고친것저장(map);
+    고친것입히기();
+    draw();
+    drawLbTabs();
+    drawCapTabs();
+    $('cap').value = 전체글(글투); len();
+    $('lbTitle').textContent = 열린카드.label + (열린기사.title ? ' · ' + 열린기사.title : '');
+    $('edMsg').textContent = '저장했습니다 — 아래 글도 다시 만들었습니다.';
+    toast('고친 대로 저장했습니다');
+  });
+  $('edReset').addEventListener('click', () => {
+    if (!열린기사) return;
+    const map = 고친것();
+    delete map[열쇠(열린기사)];
+    고친것저장(map);
+    $('edMsg').textContent = '되돌렸습니다. 새로고침하면 원래 글이 보입니다.';
+    toast('원래대로 돌렸습니다');
+  });
+
   $('lbCopy').addEventListener('click', () => copy($('lbFeed').value.trim(), '이 카드 글을'));
   $('lbFill').addEventListener('click', async (e) => {
     if (!열린기사 || !열린기사.url) return;
@@ -751,7 +880,11 @@
   });
   $('lbRemake').addEventListener('click', (e) => {
     if (!열린기사) return;
-    const it = Object.assign({}, 열린기사);
+    // 고치는 칸에 적은 것이 있으면 그 내용으로 만든다(저장을 안 눌렀어도).
+    const it = Object.assign({}, 열린기사, {
+      title: $('edTitle').value.trim() || 열린기사.title,
+      summary_long: $('edSum').value.trim() || 열린기사.summary_long || '',
+    });
     if (새사진) it.photo = 새사진;
     카드만들기([it], { button: e.currentTarget, date: DATA.date });
   });
@@ -774,6 +907,8 @@
   });
   $('nowClose').addEventListener('click', () => { $('nowBox').hidden = true; });
   $('nowList').addEventListener('click', (e) => {
+    const ed = e.target.closest('[data-edit]');
+    if (ed) { 제목고치기(+ed.dataset.edit); return; }
     const t = e.target.closest('.t');
     if (!t) return;
     const box = $('nowList').querySelector(`input[data-i="${t.dataset.i}"]`);
