@@ -34,6 +34,8 @@
   .bar{position:sticky;bottom:0;background:#12151b;border-top:1px solid var(--line);
        padding:9px 10px;display:flex;gap:8px;align-items:center;margin:0 -16px -14px}
   .bar .cnt{font-size:11.5px;color:var(--dim);margin-right:auto}
+  .bar .prep{font-size:11px;color:var(--dim);display:flex;gap:4px;align-items:center;cursor:pointer}
+  .bar .prep input{margin:0}
   .note{font-size:11px;color:#7b8398;margin:0 0 8px;line-height:1.6}
   .note b{color:var(--ink3)}
 </style>
@@ -71,7 +73,10 @@
       <b>①</b> 기사 하나만 깊게 → 줄 오른쪽 <b>카드</b>. 본문을 가져와 표지+본문 장을 자동 구성합니다.<br>
       <b>②</b> 여러 꼭지를 한 게시물로 → 왼쪽 네모를 체크하고 아래 <b>브리핑 만들기</b>.
       표지 1장 + 기사마다 1장이 만들어집니다.<br>
-      <b>③</b> 만들어진 장은 위 띠에서 눌러 고치고, <b>인스타 올리기</b>에서 발행합니다.
+      <b>③</b> 만들어진 장은 위 띠에서 눌러 고치고, <b>인스타 올리기</b>에서 발행합니다.<br>
+      <b>사진·요약 챙기기</b>를 켜 두면 넘기기 전에 기사마다 본문을 한 번 읽어
+      <b>사진</b>을 카드에 깔고 <b>두 문장 요약</b>을 본문에 넣습니다(기사당 1~2초).
+      끄면 제목과 매체 이름만 들어갑니다.
     </p>
     <p class="note">요약 문장은 원문에서 <b>뽑아낸 것</b>이라 그대로 올리면 언론사 문장을 옮기는 셈입니다.
       본인 말로 고쳐 쓰는 것을 전제로 쓰세요.</p>
@@ -82,6 +87,9 @@
     <div id="list"><p class="empty">불러오는 중…</p></div>
     <div class="bar">
       <span class="cnt" id="cnt">고른 기사 0건</span>
+      <label class="prep" title="기사마다 본문을 한 번 읽어 사진과 두 문장 요약을 챙깁니다. 기사당 1~2초.">
+        <input type="checkbox" id="doPrep" checked> 사진·요약 챙기기
+      </label>
       <button class="ghost" id="btnBriefKeep">브리핑 만들기(뒷장 포함)</button>
       <button class="primary" id="btnBrief">브리핑 만들기</button>
     </div>
@@ -183,10 +191,43 @@
     location.href = '/?' + q.toString();
   }
 
-  function brief(withOutro) {
+  /* 사진·요약 챙기기 - 기사 하나에 요청 하나. 몇 건째인지 보이도록 **한 건씩** 부른다.
+     실패한 기사는 그대로 두고 넘어간다(카드는 어떻게든 나와야 한다). */
+  async function prep(items) {
+    for (let i = 0; i < items.length; i++) {
+      $('stat').textContent =
+        `기사 손질 중 ${i + 1}/${items.length} — ${(items[i].title || '').slice(0, 22)}…`;
+      try {
+        const r = await fetch('/api/daily-prep', {
+          method: 'POST', headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ items: [items[i]] })
+        });
+        const d = await r.json();
+        if (d && d.ok && d.items && d.items[0]) Object.assign(items[i], d.items[0]);
+      } catch (e) { /* 이 기사만 사진·요약 없이 간다 */ }
+    }
+    const 사진 = items.filter(x => x.photo).length;
+    const 요약 = items.filter(x => (x.summary || '').trim()).length;
+    $('stat').textContent =
+      `손질 끝 — 사진 ${사진}/${items.length} · 요약 ${요약}/${items.length}. 넘깁니다…`;
+  }
+
+  let busy = false;
+  async function brief(withOutro) {
+    if (busy) return;
     if (!picked.size) { $('stat').textContent = '기사를 먼저 고르세요.'; return; }
     const items = [];
     for (const [url, v] of picked) items.push({ url, title: v.title, source: v.source });
+
+    busy = true;
+    $('btnBrief').disabled = $('btnBriefKeep').disabled = true;
+    try {
+      if ($('doPrep').checked) await prep(items);
+    } finally {
+      busy = false;
+      $('btnBrief').disabled = $('btnBriefKeep').disabled = false;
+    }
+
     try {
       localStorage.setItem(KEY, JSON.stringify({
         date: (DATA && DATA.date) || '', outro: !!withOutro, items
@@ -237,6 +278,12 @@
   });
   $('btnBrief').addEventListener('click', () => brief(false));
   $('btnBriefKeep').addEventListener('click', () => brief(true));
+
+  const PREP_KEY = 'nb_daily_prep';
+  $('doPrep').checked = localStorage.getItem(PREP_KEY) !== '0';
+  $('doPrep').addEventListener('change', () => {
+    localStorage.setItem(PREP_KEY, $('doPrep').checked ? '1' : '0');
+  });
 
   if (window.NAV && NAV.mount) NAV.mount();
   load('', true);

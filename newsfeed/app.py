@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import argparse
 import base64
+import hashlib
 import json
 import mimetypes
 import os
@@ -31,6 +32,7 @@ import daily  # noqa: E402
 import extractor  # noqa: E402
 import feed  # noqa: E402
 import hub  # noqa: E402
+import prepare  # noqa: E402
 import related  # noqa: E402
 import summarizer  # noqa: E402
 
@@ -70,6 +72,9 @@ OUT = os.path.join(BASE, "out")
 # 저장하지 않고 올릴 때 쓰는 임시 자리. `out\` 바로 아래 폴더라 저장 목록에는 안 낀다
 # (`_out_list` 는 파일만 센다).
 STAGE = os.path.join(OUT, "_임시_인스타")
+# 브리핑에 깔 기사 사진을 받아 두는 자리. 화면은 `/기사사진/…` 으로 **같은 출처**에서
+# 가져간다 - 원본 주소로 얹으면 캔버스가 오염돼 저장이 막힌다(prepare.py 첫머리).
+PHOTOS = os.path.join(OUT, "_임시_기사사진")
 os.makedirs(OUT, exist_ok=True)
 os.makedirs(ASSETS, exist_ok=True)
 
@@ -297,6 +302,8 @@ class Handler(BaseHTTPRequestHandler):
                 return self._file(os.path.join(ASSETS, os.path.basename(path)))
             if path.startswith("/fonts/"):
                 return self._file(os.path.join(FONTS, os.path.basename(path)))
+            if path.startswith("/기사사진/"):
+                return self._file(os.path.join(PHOTOS, os.path.basename(path)))
             if u.path == "/api/open-out":
                 os.startfile(OUT)  # noqa: S606 (사용자 PC 로컬 전용)
                 return self._send(200, {"ok": True})
@@ -378,6 +385,8 @@ class Handler(BaseHTTPRequestHandler):
                 return self._insta_post()
             if u.path == "/api/publish":
                 return self._publish()
+            if u.path == "/api/daily-prep":
+                return self._daily_prep()
             if u.path == "/api/hub-fetch":
                 return self._hub_fetch()
             if u.path == "/api/hub-search":
@@ -687,6 +696,31 @@ class Handler(BaseHTTPRequestHandler):
         pull = (q.get("pull") or ["1"])[0] != "0"
         res = daily.load(day, pull=pull)
         return self._send(200 if res.get("ok") else 200, res)
+
+    def _daily_prep(self):
+        """브리핑에 쓸 기사 손질 - 사진과 두 문장 요약을 챙긴다.
+
+        화면이 **한 건씩** 부른다(몇 건째인지 보여 주려고). 기사 하나에 바깥 요청
+        하나뿐이라, 사람이 줄 오른쪽 「카드」를 누르는 것과 같은 양이다.
+
+        돌려주는 `photo` 는 원본 주소가 아니라 **우리 서버 경로**(`/기사사진/…`)다.
+        다른 출처 그림을 캔버스에 얹으면 오염돼 저장이 막힌다(prepare.py 첫머리).
+        """
+        d = self._json_body()
+        items = d.get("items") or []
+        if isinstance(items, dict):
+            items = [items]
+        items = [x for x in items
+                 if isinstance(x, dict) and (x.get("url") or "").strip()][:12]
+        if not items:
+            return self._err("손질할 기사가 없습니다.")
+        prepare.묵은사진지우기(PHOTOS)
+        prepare.손질(items, PHOTOS, 이름짓기=lambda i, it: hashlib.md5(
+            (it.get("url") or "").encode("utf-8")).hexdigest()[:12])
+        for it in items:
+            if it.get("photo"):
+                it["photo"] = "/기사사진/" + it["photo"]
+        return self._send(200, {"ok": True, "items": items})
 
     def _hub_fetch(self):
         """주제 허브 - 참고 계정·매체의 최신 글/영상 후보를 모아 준다."""
