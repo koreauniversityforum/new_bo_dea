@@ -1,0 +1,92 @@
+name: 정기 뉴스 자동 갱신
+
+on:
+  # UTC 23:00 = KST 08:00. 정기 실행은 전날 00:00~23:59 기사 기준이다.
+  schedule:
+    - cron: '0 23 * * *'
+  repository_dispatch:
+    types: [refresh-cards-v2]
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: daily=전날, recent=최근 5시간
+        required: true
+        default: recent
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-cards-v2
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 기사 자동 선정
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          PAYLOAD: ${{ toJSON(github.event.client_payload) }}
+          INPUT_MODE: ${{ inputs.mode }}
+        run: |
+          mkdir -p .cards
+          pip install --disable-pip-version-check -q beautifulsoup4
+          MODE=$(python -c 'import json,os; p=json.loads(os.environ.get("PAYLOAD") or "null") or {}; print(p.get("mode") or os.environ.get("INPUT_MODE") or "daily")')
+          HOURS=$(python -c 'import json,os; p=json.loads(os.environ.get("PAYLOAD") or "null") or {}; print(p.get("window_hours") or 5)')
+          if [ "$EVENT_NAME" = "schedule" ]; then MODE=daily; fi
+          python .github/cards/select_news.py --mode "$MODE" --hours "$HOURS" --output .cards/기사.json
+
+      - name: 렌더러 설치
+        working-directory: .github/cards
+        run: npm ci --no-audit --no-fund --loglevel=error
+
+      - name: 사진과 요약 준비
+        run: python .github/cards/prep.py --data .cards/기사.json --photos .cards/사진
+
+      - name: 카드 원본 렌더
+        run: node .github/cards/render.js --data .cards/기사.json --photos .cards/사진 --out .cards/그림 --quality 0.9
+
+      - name: 피드 문구 작성
+        run: python .github/cards/caption.py --data .cards/기사.json --out .cards/문구.txt
+
+      - name: 카드 원본 공개
+        env:
+          REPO: ${{ github.repository }}
+        run: |
+          DATE=$(python -c "import json;print(json.load(open('.cards/기사.json',encoding='utf-8'))['date'])")
+          mkdir -p .pub/$DATE
+          cp .cards/그림/*.jpg .cards/그림/*.png .pub/$DATE/
+          cd .pub
+          git init -q
+          git config user.name nbd-cards
+          git config user.email cards@users.noreply.github.com
+          git add .
+          git commit -qm "카드 $DATE"
+          git push -q --force "https://x-access-token:${{ github.token }}@github.com/$REPO.git" HEAD:cards
+
+      - name: 정기뉴스메이커 데이터 작성
+        env:
+          REPO: ${{ github.repository }}
+        run: |
+          python .github/cards/build_manifest.py \
+            --articles .cards/기사.json --rendered .cards/그림/목록.json \
+            --caption .cards/문구.txt --repo "$REPO" --output docs/오늘.json
+
+      - name: 페이지 갱신 커밋
+        run: |
+          git config user.name nbd-cards
+          git config user.email cards@users.noreply.github.com
+          git add docs/오늘.json
+          git diff --staged --quiet || git commit -m "정기 뉴스 자동 갱신"
+          git push
