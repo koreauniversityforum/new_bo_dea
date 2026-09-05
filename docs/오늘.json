@@ -1,46 +1,373 @@
 {
- "date": "2026-09-01",
+ "date": "2026-09-06",
+ "generated_at": "2026-09-06T01:44:44+09:00",
+ "mode": "daily",
+ "window_start": "2026-09-05T00:00:00+09:00",
+ "window_end": "2026-09-05T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "'김민석표' 민주당TV 첫 방송 동접자 5.5만명…\"기조방송 되길 희망\"",
-   "source": "네이버 뉴스",
-   "url": "https://n.news.naver.com/mnews/article/277/0005810021",
-   "summary": "첫 방송 동시접속자는 최고 5만5000여명으로 김민석 민주당 대표는 \"그날, 그 시점의 민주당 기조가 무엇인지 엄선해서 최소한 1개씩 말하는 게 좋을 것 같다. 김…",
-   "press": "아시아경제",
-   "photo": "01.jpg"
+   "title": "김승원·용혜인 논란에 '김현지 실세설'까지…靑 인사검증 도마 위",
+   "source": "시사저널",
+   "url": "https://n.news.naver.com/article/586/0000137551",
+   "published_at": "2026-09-05T06:15:09+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "selection": "정치",
+   "summary": "윤건영 민주당 의원은 3일 MBC 라디오에서 용 후보자의 겸직 문제를 두고 \"이 부분은 인사 검증에 관한 부분\"이라며 \"이번 기회를 통해 청와대의 검증 단위를 다시…",
+   "summary_long": "이재명 대통령의 2기 개각 후폭풍이 장관 후보자 개인을 넘어 청와대 인사검증 시스템으로 번지고 있다. 김승원 법무부 장관 후보자의 신약 임상시험 관련 청탁 의혹과 음주운전 전력, 용혜인 성평등가족부 장관 후보자의 비례대표직 겸직 및 배우자 당직 논란 등이 잇따라 불거지면서다. 여기에 민주당 상근부대변인 출신 서용주 맥정치사회연구소장이 방송 전 대화에서 \"인사라인이 김현지잖아\"라고 말한 장면까지 공개되면서 논란은 '누가 인사를 결정했느냐'는 문제로 확산하는 모양새다.\n\n윤건영 민주당 의원은 3일 MBC 라디오에서 용 후보자의 겸직 문제를 두고 \"이 부분은 인사 검증에 관한 부분\"이라며 \"이번 기회를 통해 청와대의 검증 단위를 다시 살펴봐야 하는 것 아닌가 생각한다\"고 말했다. 다만 정치권 한편에선 논란의 초점을 김 실장의 실제 인사 개입 여부보다 청와대의 공식 검증 시스템 자체에 맞춰야 한다는 지적도 나온다. 용 후보자의 겸직 문제처럼 위법 여부를 떠나 충분히 예상 가능한 '국민 눈높이' 논란조차 사전에 걸러내지 못했다면 검증 과정 전반을 되짚어봐야 한다는 것이다.",
+   "quotes": [
+    "역대 어느 정부도 잡음 없는 인사는 없었다. 특정 인사의 경우 야권과 일부 언론이 논란을 과장해거나 왜곡하는 측면도 있다고 본다",
+    "이 정도 사안이라면 스스로 장관직을 고사하거나 청와대 인사검증 단계에서 걸러졌어야 한다",
+    "대통령의 인사는 그 자체로 메시지다. 인사가 흔들리면 정부의 신뢰가 흔들릴 수 있다"
+   ],
+   "press": "시사저널",
+   "photo": "01.png",
+   "quoted": {
+    "quote": "이 정도 사안이라면 스스로 장관직을 고사하거나 청와대 인사검증 단계에서 걸러졌어야 한다",
+    "n": 7,
+    "verified": 0,
+    "items": [
+     {
+      "press": "시사저널",
+      "title": "김승원·용혜인 논란에 ‘김현지 실세설’까지…靑 인사검증 도마 위",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EVXprQzk0VFJVQ3NLMlA4ZDdnNlBmMmdmN0hvblNNcFVhaEVWeXpvNFVjMUhTYkVyN0F3Z0NlWkpSWldfOUdDNnphLUtRS2FqUUVGN3N1Q2FIVDZRalhpZm1yaWxiM0RJb3JSQzRhSdIBc0FVX3lxTFBiQmdwdk5IUmV4V1VBLXZmS2JoV04tVDRtUjJPa3lZYU1UbFF0OHotNGl1b2ExM0VpSUE0ck5Fekxzc2VSTTk0MHZienZweXdCNHJhUjA2cWFxVHpwX1doR1VQQU54NEZybFlpM0NXWjBBVkE?oc=5"
+     },
+     {
+      "press": "시사타파NEWS",
+      "title": "김승원, 청문회 앞두고 서영교에 “송구합니다” 문자 포착...‘식약처 민원·기소유예’ 논란 재점화",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LbDB5TTJDUEQ2MGNXNE14ZkYyTWtZV01WbUhEZzlxZVYtYmluM05UQ2JFMTBtNzVFV01yN0JSbmJJZzd3aFltX29LUTA1NGNEcUY0eXF0UnpvS2tkMXE3S25sdVhLcE55MXl30gFrQVVfeXFMTktsMHlNMkNQRDYwY1c0TXhmRjJNa1lXTVZtSERnOXFlVi1iaW4zTlRDYkUxMG03NUVXTXI3QlJuYklnN3doWW1fb0tRMDU0Y0RxRjR5cXRSem9La2QxcTdLbmx1WEtwTnkxeXc?oc=5"
+     },
+     {
+      "press": "한겨레",
+      "title": "‘청탁 문자’ 김승원·‘겸직 고수’ 용혜인…청문 정국 뇌관으로",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oNmpYWTROZHIzeW56QXp4U2Q3ZEtsSVdzamh0YjNkajJyU3NRSDVzSzZhVUM1T0VwTWZwR0RJcWZ4c3FfSERnT2pJdU5mWUlOTVRiR3lmYUtoa3FsREh1dmNEc09kLXFzckY4?oc=5"
+     },
+     {
+      "press": "경북매일",
+      "title": "‘청문회’ 장외서 시작됐다, 김승원·용혜인에 비판 쏟아져",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oQkdfUWFUR3RHMV9YTGswZFYxcWZkZzBQU1NlVU96dk94S3ptYWRmd3ZLUWhta3FwNFdSODVxSWRyQjF5WHBMc2VfeTloME5JMzZ3Z2JSaUIxZw?oc=5"
+     },
+     {
+      "press": "아시아투데이",
+      "title": "野 ‘김승원 낙마’ 올인… 용혜인, 與조차 부정기류",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xbWxmSlhmZV9mRnlHa0lsekhBYnA5ZVphUHZiU3RXZVFmYllBS1Jva2dGbE1OWnRYb0s3d001ZkhpZThNVXpJUExsRFR4YzdwY09UQ3VmaU5nbmV2aE9SdXFrS1FlZWdkRVpyVk93?oc=5"
+     },
+     {
+      "press": "네이트",
+      "title": "최은석 \"김승원, 서영교에 사죄 문자…철통방어 필요한 사안임을 스스로 인식\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwcS1BaHJVMDBvdHhjTkp0UFU4Wk9SUVZvdVZYOUM4TWJjeTEtUlNiSHlQOVZ4TG9EbU01eTNRMXdGYWtJeDluS1dQTW5SOG95Q0h3?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "추석 13대 성수품 16만3000 푼다…농축산물 최대 40% 할인",
-   "source": "네이버 뉴스",
-   "url": "https://n.news.naver.com/mnews/article/008/0005407596",
-   "summary": "추석을 앞두고 사과·배·한우·계란 등 성수품 공급이 평시보다 1.6배 늘어난다. 추석 기준 역대 최대 할인 지원 예산인 590억원을 들였다.",
-   "press": "머니투데이",
-   "photo": "02.jpg"
+   "title": "\"지금 달려가?\" \"기다릴게\"...한동훈, 김승원 '우연히' 주장에 녹취록 공개",
+   "source": "MBN",
+   "url": "https://n.news.naver.com/article/057/0001967439",
+   "published_at": "2026-09-05T09:47:09+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "selection": "정치",
+   "summary": "김승원 법무부 장관 후보자가 '신약 로비 의혹'과 관련해 논란이 된 영장판사와 브로커 양 모 씨와의 이른바 '3인 셀카'에 대해 \"셋이 우연히 마주친 것\"이란 취지로…",
+   "summary_long": "지난 3일 인사청문회 준비 사무실로 출근한 김승원 법무장관 후보자 / 사진=연합뉴스. 김승원 법무부 장관 후보자가 '신약 로비 의혹'과 관련해 논란이 된 영장판사와 브로커 양 모 씨와의 이른바 '3인 셀카'에 대해 \"셋이 우연히 마주친 것\"이란 취지로 해명하자 무소속 한동훈 후보는 사전 약속 정황이 담긴 녹취록을 오늘(5일) 공개했습니다. 한 의원은 이날 페이스북을 통해 \"김 후보자가 뻔뻔하게 거짓말 하니 공개한다\"며 지난 2022년 2월 9일 김 후보자와 브로커로 지목된 여성 사업가 양 모 씨와의 전화통화 녹취록을 공개했습니다.\n\n이에 한 의원은 \"김 후보자가 2022년 2월경 양 씨를 '우연히' 마주친 게 맞느냐\"며 \"우연히 마주친 게 전혀 아니더라\"고 지적했습니다. 한 의원은 추가로 글을 올려 감 후보자에게 \"우연히 만났다고 새빨간 거짓말을 한 2022년 2월 9일, 밤 양 씨로부터 잔뜩 받은 '물건'은 뭐냐\"고 물었습니다. 김 후보자는 어제(4일) \"사적 모임에서 양 씨 등을 우연히 마주쳤을 뿐, 이후 이들과 만나거나 연락하지 않았다\"고 공식 해명한 바 있습니다.",
+   "quotes": [
+    "우연히 만났다고 새빨간 거짓말을 한 2022년 2월 9일, 밤 양 씨로부터 잔뜩 받은 '물건'은 뭐냐",
+    "사적 모임에서 양 씨 등을 우연히 마주쳤을 뿐, 이후 이들과 만나거나 연락하지 않았다",
+    "김 후보자가 2022년 2월경 양 씨를 '우연히' 마주친 게 맞느냐"
+   ],
+   "press": "MBN",
+   "photo": "02.jpg",
+   "quoted": {
+    "quote": "사적 모임에서 양 씨 등을 우연히 마주쳤을 뿐, 이후 이들과 만나거나 연락하지 않았다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "다음뉴스",
+      "title": "\"지금 달려가?\" \"기다릴게\"...한동훈, 김승원 '우연히' 주장에 녹취록 공개",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Rd1ZBc1FHZWtKMk9hMnRnWld3bHdBdUFhMU1OOXJvVDZiZFpIUWpMNXhxX1JxX0lUbEtSNjNnYmNEVDNtaHlQUENzT255T2tiNGpoSA?oc=5"
+     },
+     {
+      "press": "insight.co.kr",
+      "title": "한동훈, 김승원 ‘우연 만남’ 해명에 녹취록 공개... “새빨간 거짓말”",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UbUQwSFBIdkZsQ3VkTDVDbUVNemlRRDhoSklxU1VmbTI4cmF1MnRTcWQzR0xUUWhVdVFlSDZOV3B5RzFhblVqVGJ0a3JIZw?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "'3인 셀카' 찍고 안 만났다더니…또 브로커와 찍은 사진",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3UTNnUXpjeHVVNmRRRm41QndyMzFSSllDdF83bzRVRWE3WTNNQllOa1pHOTk1R09ZQ29jTVhKNmZNZ3k2WlFQZmxLdFdDdXJGRng3Zw?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "공무원 3851명 늘린다…안전·특허·수사인력 확충[2027 예산안]",
-   "source": "네이버 뉴스",
-   "url": "https://n.news.naver.com/mnews/article/277/0005810252",
-   "summary": "첨단기술 특허 심사 인력 105명 늘려. 국민 안전과 글로벌 초격차 산업 경쟁력 확보를 위한 조직·인력 강화에 나선다.",
-   "press": "아시아경제",
-   "photo": "03.jpg"
+   "title": "\"배가 아파서\"…남의 집 몰래 들어가 용변 본 대가는?",
+   "source": "연합뉴스",
+   "url": "https://n.news.naver.com/article/001/0016291515",
+   "published_at": "2026-09-05T10:00:04+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "청주지법 형사1단독 박광민 부장판사는 배가 아프자 남의 집에 몰래 들어가 대변을 본 50대 A씨에게 벌금 300만원을 선고했다. 6일 법조계에 따르면 A씨는 지난해…",
+   "summary_long": "휴지로 가려놨다가 들통, 청주지법 벌금 300만원 선고. 청주지법 형사1단독 박광민 부장판사는 배가 아프자 남의 집에 몰래 들어가 대변을 본 50대 A씨에게 벌금 300만원을 선고했다. 6일 법조계에 따르면 A씨는 지난해 12월 31일 오후 3시 50분께 충북 보은군 보은읍의 한 단독주택 마당을 가로질러 보일러실 앞에 대변을 눈 혐의(주거침입)로 기소됐다.\n\n그는 근처에서 자신의 가족을 만나기로 하고 차량을 몰고 갔다가 갑자기 배가 아파지자 이같이 범행한 것으로 조사됐다. 특정범죄가중처벌법상 강도상해 혐의로 징역 7년형을 살고 지난해 10월 출소한 A씨는 보호관찰(음주 금지) 명령을 위반했다가 징역 10개월을 선고받고 올해 4월 다시 수감돼 복역 중이다. 박 부장판사는 \"피고인의 범행 동기와 범행 후의 정황 등을 고려해 형을 정했다\"고 판시했다.",
+   "quotes": [
+    "피고인의 범행 동기와 범행 후의 정황 등을 고려해 형을 정했다"
+   ],
+   "press": "연합뉴스",
+   "photo": "03.jpg",
+   "quoted": {
+    "quote": "피고인의 범행 동기와 범행 후의 정황 등을 고려해 형을 정했다",
+    "n": 10,
+    "verified": 0,
+    "items": [
+     {
+      "press": "연합뉴스",
+      "title": "\"배가 아파서\"…남의 집 몰래 들어가 용변 본 대가는?",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0SGVVT29kbmRIenF0TTR3eDdacWMxeE9mbGUwODdnTmlDRWVVbUx6ZmJDLWJRZmI3dFFDckxnT1VBLUVqTU1MU0N5RHBJcFlaU3pEM2xadFpqaU3SAWBBVV95cUxQY0NjcTM5WXFLQW03azZDY0FvYks1dDkxbDgzRjdiMGxBdkxBYWt4UEZobzV4Vk9jUWdmaHZrRXBOZmZzbnJWc3F4dEtHajdSN1ZKLWRpR1dtT29JWnZFWXg?oc=5"
+     },
+     {
+      "press": "경기일보",
+      "title": "\"배가 아파\" 남의 집 마당서 대변 본 50대…벌금은?",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzaUJoMC1IdHhteDJSV2V3dU5sM3VpdnYwNUV3MU42ZGRCOXVMUjJ5SHlxS1J6LXdzSGVVNk53cGRVWTBXRUhTSUZyVUJTQ25yN3JrZ2xtcllYR28?oc=5"
+     },
+     {
+      "press": "kwnews.co.kr",
+      "title": "배 아프다며 남의 집 들어가 대변 본 50대…벌금 300만원",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00NG9iOTNmcjFKS2ozU0pySlROT0FvMjZmSElCaHQ3M0w4SnY1X3NKS1AyS00zYmFXOVJ3Wm9jbWJZVW8xcFhDb0ZmRTB3d2pJQlpiWXFmcDhjalk?oc=5"
+     },
+     {
+      "press": "매일신문",
+      "title": "\"갑자기 배 아파\" 남의 집 몰래 들어가 대변 본 50대…대가는?",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyWlMxZ0ZKT0ZKMnVkM3BhSkg3bG0yRnRIaVZlWHdJenNOOVpjYVUzck4wSVo3clpOUmtyV3NHSWJOTE5PWl9xcFdNSGxaNkhudUNUWEVGWm1CcTAtMkpVSFRn?oc=5"
+     },
+     {
+      "press": "한국일보",
+      "title": "\"급해서\"…남의 집 몰래 들어가 대변 본 50대 '벌금 300만 원'",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qS1dmZ0JGbVlzdXQtTmhHOVFjN3NaM3lyeFZyRUFZNkJrd1lUWTVvOHRucThyV2xiUGx1Q1d1N0Nta1ZBVVpVejZBZG41MUtydEZqTm1Ga3laX0U0RzNHeGNmVlpCcmIzQ3RwV2Jn0gFzQVVfeXFMTloybG53a1JfeC0yT0JoZEFVVm05eUtIRS1RekM1c0dHVE9qZ3FWZUhZNEM0a1V2UHRGa1VLR2RyR19IMjhBdzVNRHRrZTBKX2EtSkZQWldlOWQ3QjJ1ajZ5aWpRWkhkWEpIT0ExU29haDN6WQ?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "'으악, 배아파' 급똥…남의 집서 몰래 대변 '벌금 300만원'",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BTVBXRDFOdDljeEM2eDV6NkpLNXplTmMwOUdpOU41SDk5TVdod3FMa3Bnak92a1RvUnhuSWxJQ2cyTkViTEYwaGxwZ2J4bmtmUS1uTFBoeVN0SXc3YkY4SdIBeEFVX3lxTE9aQWJSMlVTRnROMmtxTzNrY0ZyNU5icDRnbXFhTVk5MU1fUGw0OGZ6MVN4ZXh1cV9oU196XzRxazRLdmhZSF9hZ2lmMEE2OVVyR1FjUHdsb2N3Uy1abzMzOGg3OE1Hd2pPS1pjcVd4WmZJeU9SZW1uWQ?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "르노코리아, 그랑 콜레오스 2027년형 출시…가격 45만원 낮춰",
-   "source": "네이버 뉴스",
-   "url": "https://n.news.naver.com/mnews/article/243/0000102440",
-   "summary": "르노코리아가 중형 스포츠유틸리티차 그랑 콜레오스의 2027년형 모델과 한정판 에디션을 선보였다. 르노코리아는 1일 그랑 콜레오스 2027년형 모델을 출시하고 리미티드…",
-   "press": "이코노미스트",
-   "photo": "04.jpg"
+   "title": "\"네 덕에 두 아이 키워\"…29년 몬 '포터' 차주 찾는 현대차 사연 보니",
+   "source": "동행미디어 시대",
+   "url": "https://n.news.naver.com/article/417/0001157452",
+   "published_at": "2026-09-05T14:26:46+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "29년 동안 44만8000㎞를 무사고로 달리며 함께한 트럭을 떠나보내며 차주가 직접 쓴 고별편지가 온라인에서 화제가 되고 있다. /사진=온라인 커뮤니티29년 동안 한…",
+   "summary_long": "29년 동안 44만8000㎞를 무사고로 달리며 함께한 트럭을 떠나보내며 차주가 직접 쓴 고별편지가 온라인에서 화제가 되고 있다. /사진=온라인 커뮤니티29년 동안 한 가족의 생계를 책임지며 주인과 함께 44만8000㎞를 달린 낡은 트럭 한 대에 붙은 '이별 편지'에 제조사인 현대자동차가 차주를 찾아 나섰다. 파란색 트럭 앞유리에 붙은 '고별 운행'이라는 제목의 손편지가 붙어있 차량은 현대자동차의 1톤 트럭 포터로 추정된다.\n\n차주는 편지에서 트럭을 향해 \"29년을 동고동락한 사랑하는 나의 친구에게 이 글을 바친다\"며 \"우리 서로 만나 IMF의 역풍도 겪었고 그 긴 시간 동안 너는 묵묵히 나의 고생을 감당해줬다\"고 적었다. 이어 \"29년이라는 긴 시간 동안 함께해주신 마음이 정말 깊이 와닿는다\"며 \"혹시 차주님을 아시는 분이나 본인이시라면 현대자동차 공식 계정으로 연락 부탁드린다\"고 전했다. 이 목격담의 진위는 확인되지 않았지만, 현대차가 직접 차주를 찾아 나선 만큼 29년 동안 이어진 감동 사연의 주인공을 만날 수 있을지 관심이 집중되고 있다.",
+   "quotes": [
+    "현대차가 꼭 인사를 전하고 싶다. 29년이라는 긴 시간 동안 함께해주신 마음이 정말 깊이 와닿는다",
+    "우리 서로 만나 IMF의 역풍도 겪었고 그 긴 시간 동안 너는 묵묵히 나의 고생을 감당해줬다",
+    "그 덕분에 두 아이를 키우고 교육시키고, 지금은 각자의 길에서 최선을 다하며 살아가고 있다"
+   ],
+   "press": "동행미디어 시대",
+   "photo": "04.jpg",
+   "quoted": {
+    "quote": "우리 서로 만나 IMF의 역풍도 겪었고 그 긴 시간 동안 너는 묵묵히 나의 고생을 감당해줬다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "네이트",
+      "title": "\"네 덕분에 두 아이 키워\"…29년 몬 '포터' 차주 찾는 현대차 사연 보니",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41U0lreUJvV1BYamprUFVqNUtyd2hQWGxsY1RlNlE0OEZiVVI0THpoemIzWGo1NlMtUHN3YUlsdnBoV3JLV01iYVVlSm5sT2c3dzNF?oc=5"
+     },
+     {
+      "press": "네이트",
+      "title": "\"너의 헌신 영원히 간직할게\" 30살 트럭 '고별운행' 손편지로 알린 기사",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0bURIN1FiQXNScTNxQzhwU3NWWGRPdFQxMFlOenR5S0dmMENqTDd5dlhXTDlkS0ZVUzhpaWtXUnp5M3JWWUdLdDlUdXdLVW1BMEFr?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "29년 함께한 포터 떠나보내며 쓴 '고별 편지'…현대차도 차주 찾았다",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PejcwQ2I0bkdPaVB3T0VNN3dlYUdKZXF6Z2ZzbXJIN3Z2QlpacUJPZ01LRk1fSC01LV9ERUNqTWVYRHBKdFVlVTRfNzdWR0lGTFJYN19pQ1VsMUFyOHM1Z9IBeEFVX3lxTE9WS1cxM2cxUHVuZzZTUENkazB5SlA4NjFXUHdqYnJ1eFZ0dnRZa0Q5dEw3VnJ3YUhDVVM4SUhFWHh6ZDhCZnVCYXdHcnVjVXc3TnJJME1KZ3c3a0ZsbVU4ejR5VFRTVjNyX0o3REpDdldWRmNlam91dQ?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "AI 대전환 가속…과기정통부 예산 29.6조원 '역대 최대 증가폭'[2027년 예산안]",
-   "source": "네이버 뉴스",
-   "url": "https://n.news.naver.com/mnews/article/584/0000039142",
-   "summary": "과기정통부 제공 과학기술정보통신부가 내년도 예산안을 29조 6000억원으로 편성했다. 과기정통부의 AI 예산은 올해 5조 1000억원에서 내년 9조 4000억원으로…",
-   "press": "동아사이언스",
-   "photo": "05.png"
+   "title": "한동훈 “김승원, 뻔뻔한 거짓말”…김 후보자-제약 브로커 통화 녹취 공개",
+   "source": "한겨레",
+   "url": "https://n.news.naver.com/article/028/0002821756",
+   "published_at": "2026-09-05T14:18:15+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 368,
+   "comment_agree": 187,
+   "comment_disagree": 36,
+   "division_balance": 0.32287,
+   "division_score": 1.747258,
+   "selection": "찬반 쟁점",
+   "summary": "김승원 법무부 장관 후보자가 ‘신약 임상시험 신속 처리 청탁 의혹’에 연루된 브로커 양아무개씨와, 제약사 대주주의 구속영장을 기각한 판사가 함께 찍힌 사진에 대해…",
+   "summary_long": "김승원 법무부 장관 후보자가 ‘신약 임상시험 신속 처리 청탁 의혹’에 연루된 브로커 양아무개씨와, 제약사 대주주의 구속영장을 기각한 판사가 함께 찍힌 사진에 대해 “우연히 마주친 것”이라고 해명하자, 한동훈 무소속 의원이 “뻔뻔한 거짓말”이라며 김 후보자의 통화 녹취라고 주장하는 내용을 공개했다. 브로커로 알려진 양씨는 제약사 제넨셀의 최대주주였던 강아무개씨 부탁으로 김 후보자에게 코로나19 치료제 임상시험 계획 관련 민원을 넣었다. 김 후보자는 2021년 10월12일 김강립 당시 식품의약품안전처장에게 회사명과 함께 “빠르게 처리할 수 있도록 부탁드린다”는 내용의 문자 메시지를 보냈다.\n\n하지만 구속영장을 기각한 정아무개 판사와 김 후보자, 양씨가 아는 사이였다는 사실이 드러나면서 논란이 커지고 있다. 김 후보자는 코로나19 치료제 임상시험 승인 신속 처리를 식약처장에게 청탁한 혐의로 2024년 12월 기소유예 처분됐다. 이와 관련해 김 후보자 인사청문 준비단은 이날 입장문을 내어 “해외 임상시험 2상까지 진행돼 치료 효과가 있다는 자료를 검토한 뒤, 국산 치료제의 임상시험 절차가 부당하게 지연되지 않도록 식약처장에게 고충 민원을 단순 전달했다”며 “치료제 허가나 무조건적인 승인을 요구한 것이 아니라, 식약처가 제출자료…",
+   "quotes": [
+    "해외 임상시험 2상까지 진행돼 치료 효과가 있다는 자료를 검토한 뒤, 국산 치료제의 임상시험 절차가 부당하게 지연되지 않도록 식약처장에게 고충 민원을 단순 전달했다",
+    "치료제 허가나 무조건적인 승인을 요구한 것이 아니라, 식약처가 제출자료를 전문적으로 검토해 임상시험계획의 승인 여부를 공정하게 판단해 달라는 취지였다",
+    "이라고 해명하자, 한동훈 무소속 의원이"
+   ],
+   "press": "한겨레",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "해외 임상시험 2상까지 진행돼 치료 효과가 있다는 자료를 검토한 뒤, 국산 치료제의 임상시험 절차가 부당하게 지연되지 않도록 식약처장에게 고충 민원을 단순 전달했다",
+    "n": 5,
+    "verified": 0,
+    "items": [
+     {
+      "press": "연합뉴스",
+      "title": "김승원 측 \"실험자료 조작 몰랐고 승인 특혜도 없어\" 반박",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90aUtHRE8zVkxYU2IySGFKZFlLaXBRYWNsbXpqaG1LblpKeGRqa1YwY0lvbUh4TjZ2VnFVdEdXMS1ZX2I0UzFnZVcxbnVDYXF3NlBfd1BUam5jelnSAWBBVV95cUxQWW5mRzg2dzZCU05VV1MxQjlJeTZTZk9GZ3o0T3RCcjlnSURhWE9STjhnblNJM05pUjMwQlg2U2FpSVdVNXhZc0ZQeThER210Ym9JcUhCSkIxaHJxaTQyb0k?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "김승원, 신약임상 청탁의혹에 \"오히려 더 걸려…실험조작 몰랐다\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82OGJHZ3BWYnE3Q2pjRHliekEwUTNyTm1oTWRjdGo4ekhNclVmRjVIVHlYWXlIQU1IOUREWkRkUjBzSWp5WDZCR2RQaU5hNmc?oc=5"
+     },
+     {
+      "press": "네이트",
+      "title": "김승원, 신약임상 청탁 의혹 반박…\"동물실험 조작·누락 몰랐다\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oSk4xaFNPUXdrYWJsbC1id2d1OENCci1uakRLSVVNemQ3UkpiM0VxdjlDdDA5ZmNUYTZ0dzdObVVNY2ROT0hlQkRrVzVKQWdEaGJV?oc=5"
+     },
+     {
+      "press": "네이트",
+      "title": "김승원 법무장관 후보자 \"동물실험 누락·조작 몰랐다\" 반박",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JNkxEUWpNVE1BYnlGUDlxUVJSTjQyV05YN1hYV002RnpOVm11ZFhhMjNEZXRya2t5X2VhSlUwdVQxRUdEUGZCd1VQOVpncHVxNFNn?oc=5"
+     },
+     {
+      "press": "네이트",
+      "title": "김승원 \"동물실험 조작 몰랐다\"…'신약 로비 의혹' 반박",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MWVRQOUl6V0tVUFVUU1ozSUhuY1pSQTVJTzQwYWVZcDJVcEZJbjl5bVdBRHpJSW1DMm1weW5RQm1ncE5CSWQwMThLNGk0ekRfcDFN?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "국힘 “이 대통령, ‘연임 없다’ 네 마디를 못 해…‘꼼수 개헌’ 우려”",
+   "source": "한겨레",
+   "url": "https://n.news.naver.com/article/028/0002821759",
+   "published_at": "2026-09-05T15:42:06+09:00",
+   "section_id": "100",
+   "view_rank": 5,
+   "comment_count": 194,
+   "comment_agree": 99,
+   "comment_disagree": 17,
+   "division_balance": 0.293103,
+   "division_score": 1.39581,
+   "selection": "찬반 쟁점",
+   "summary": "이재명 대통령이 연임 불출마 선언 요구에 “도둑질은 안 하겠다고 하라고 하는 것과 같은 것인데 굳이 해야 하나”라는 취지의 발언을 한 데 대해 국민의힘이 “‘연임 없다’…",
+   "summary_long": "이재명 대통령이 4일 청와대에서 열린 시민사회 초청 간담회에서 인사말을 하고 있다. 이재명 대통령이 연임 불출마 선언 요구에 “도둑질은 안 하겠다고 하라고 하는 것과 같은 것인데 굳이 해야 하나”라는 취지의 발언을 한 데 대해 국민의힘이 “‘연임 없다’ 네 마디를 못 한다”며 공세에 나섰다. 조용술 국민의힘 대변인은 5일 논평을 내어 이 대통령의 발언을 거론하며 “‘도둑질하지 않고 바르게 살겠다’는 말 한마디가 그렇게 어렵냐”고 반문했다.\n\n이어 “이 대통령은 국정 지지율이 급락하자 돌연 개헌 카드를 꺼내 들었다”며 “많은 국민이 진정성 있는 개헌 논의를 위해 ‘연임 없다’는 선언을 요구했지만, 이 대통령은 묵묵부답으로 일관하며 끝까지 회피했다”고 지적했다. 또 “대통령 연임이 가능하도록 개헌하더라도 현직 대통령에게는 적용되지 않는다는 점이 분명하다”면서도 “꼼수 개헌에 대한 국민적 우려가 커지고 있다”고 강조했다. 이 대통령은 전날 청와대에서 열린 시민사회단체와 간담회에서 ‘연임을 안 하겠다고 좀 더 명시적으로 얘기하는 게 어떻겠느냐’는 질문에 “굳이 해야 하나”라며 “그리고 추진해도 국민도 국회도 안 받아들일 텐데 (그런 말을) 뭐하러 하느냐”는 취지로 말했다고 복수의 참석자가 전했다.",
+   "quotes": [
+    "법을 지키며 도둑질을 안 할 것 같은 평범한 사람이야 그런 말을 할 필요가 없겠지만, 그동안 온갖 꼼수와 법꾸라지 같은 행보를 이어온 이 대통령의 경우는 다르다",
+    "많은 국민이 진정성 있는 개헌 논의를 위해 ‘연임 없다’는 선언을 요구했지만, 이 대통령은 묵묵부답으로 일관하며 끝까지 회피했다",
+    "대통령 연임이 가능하도록 개헌하더라도 현직 대통령에게는 적용되지 않는다는 점이 분명하다"
+   ],
+   "press": "한겨레",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "법을 지키며 도둑질을 안 할 것 같은 평범한 사람이야 그런 말을 할 필요가 없겠지만, 그동안 온갖 꼼수와 법꾸라지 같은 행보를 이어온 이 대통령의 경우는 다르다",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
+      "press": "한겨레",
+      "title": "국힘 “이 대통령, ‘연임 없다’ 네 마디를 못 해…‘꼼수 개헌’ 우려”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QaUR0S3B4UXh6NE1ONm10OTZscEJ6bWEwN1oydmVuWWVMUVdJQ2dUd2s5MlZoclQ4WjltOE1iMFNZR3FrSmdldWpLTDRhUE9XSm16dTA1UEs1Z0pxNjM5OEtMRTNSTURYOEFHTzNiZ01RaDdC?oc=5"
+     },
+     {
+      "press": "hidomin.com",
+      "title": "국힘 \"이 대통령, '연임 없다' 단 네 마디가 그리 어렵나\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lY2ttN1ZNWGpuc25McFlSY0dNZVBvbFFCWFRhZnVoYXBUWFhINE1aNElKVzhNVjlrUWkyU2YxSVVpRHdPQzRhejJrQVM3NXVVWFF3WWhQdjh3QVdyZmRjOGNjeDZHSEFqS3c?oc=5"
+     },
+     {
+      "press": "한국경제",
+      "title": "\"개헌 진정성 증명하라\"…국민의힘, 李대통령 '네 마디' 요구",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vVUZEMUlQWW14SXhveERLOXlKR280NEVvOE1ZWEJwUzBGbHk0UEJlOE1MY3d3T0ZnOEhfMmRWLUVQZjdtX21uT2lpYU9lVEFrd2lnLTFqNFdaUQ?oc=5"
+     },
+     {
+      "press": "뉴스1",
+      "title": "장동혁 \"李대통령,'연임 없다' 왜 못하나…'도둑질'은 인정하는 모양\"",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUOUVjYUxqclNwTjRJcTJfNHhCNEtleWJFSkNXNmhCWkJuWHlsNjl6RzVtUGtaMjNJYlVXQXNzSklReWQ4cFdpMTdKSlBpSVhKMUVQbEZRQmdVbzlkSmw00gFfQVVfeXFMUFQ5RWNhTGpyU3BONElxMl80eEI0S2V5YkVKQ1c2aEJaQm5YeWw2OXpHNW1Qa1oyM0liVVdBc3NKSVF5ZDhwV2kxN0pKUGlJWEoxRVBsRlFCZ1VvOWRKbDQ?oc=5"
+     },
+     {
+      "press": "네이트",
+      "title": "국힘 \"이 대통령, '연임 없다' 네 마디가 그리 어렵나\" 공세",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZeHRtWjRUanhsLVFhSFExQzRXUXVxMFB4c3JjR3dTMXR1YVdxdUNGbGZHbWJtc29PR0d4ZVdZMkZyeFZmWGhka2p1ZUJSMUNPWXZSVnpZclUwRUE2NnpvRHM5RW1iQ1pLZ0Zzb1Rsa2FKN0ZHWGhkZg?oc=5"
+     },
+     {
+      "press": "네이트",
+      "title": "국힘 \"이 대통령, '연임 없다' 단 네 마디 못해…그리 어렵나\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIbmNlbVRnRnh2bDhJN0lGU3RlaUtPQjVwdEZSUnBTNktucDZXMncza0lzQ1prYXhpUUk2ZzhDM0pUOEN5clV6TUo3LWtNZlVfQ1J5WVJxNm1nYzVONWNjLWlCb2lqWFkweWhfdXBVbWtubUdKX2NlUA?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "새벽 6시부터 김승원 때린 한동훈…하루 페북 30건 ‘폭풍 업로드’, 왜?",
+   "source": "헤럴드경제",
+   "url": "https://n.news.naver.com/article/016/0002693176",
+   "published_at": "2026-09-05T11:54:14+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 205,
+   "comment_agree": 226,
+   "comment_disagree": 24,
+   "division_balance": 0.192,
+   "division_score": 1.060887,
+   "selection": "찬반 쟁점",
+   "summary": "한동훈 무소속 의원이 3일 국회에서 열릴 예정인 본회의에 참석하며 김승원 법무부 장관 후보자를 둘러싼 의혹과 관련한 취재진 질의에 답하고 있다. 서영교 민주당 의원은…",
+   "summary_long": "한동훈 무소속 의원이 3일 국회에서 열릴 예정인 본회의에 참석하며 김승원 법무부 장관 후보자를 둘러싼 의혹과 관련한 취재진 질의에 답하고 있다. 한동훈 무소속 의원이 페이스북을 활용해 이재명 정부를 향한 공세 수위를 끌어올리고 있다. 하루에 30건 넘는 게시물을 올리는 등 활동량을 크게 늘렸는데, 최근에는 김승원 법무부 장관 후보자를 집중 겨냥하고 있다.\n\n한 의원은 전날 오전 6시께 김 후보자의 신약 임상시험 청탁 의혹과 관련해 “송영길 의원이 김승원 후보자가 들어준 유흥주점 여동생의 식약처 로비를 ‘좋은 민원’이라면서 이것을 비판하는 저를 원색적으로 비난했다”며 “송 의원도 친한 동생들 이런 로비 부탁 들어준 것 많이 있나”라고 썼다. 한 의원은 “이재명, 민주당이 챙겨야 할 ‘진짜 고충’은 제넨셀 피해자들의 고충이지 유흥주점 여동생의 고충이 아니다”라며 “이재명, 민주당의 ‘공익 민원’이란 ‘범죄 민원’인가. 서영교 민주당 의원은 YTN 라디오에서 김 후보자 관련 의혹을 두고 “3년을 털었고 11명의 검사가 투입됐고 그때 법무부 장관이 한동훈이고 대통령이 윤석열”이라고 주장했다.",
+   "quotes": [
+    "송영길 의원이 김승원 후보자가 들어준 유흥주점 여동생의 식약처 로비를 ‘좋은 민원’이라면서 이것을 비판하는 저를 원색적으로 비난했다",
+    "국민의힘에서 상대를 안 해줘서 민주당에 자꾸 관심을 가지는 것 같은데 의정활동의 방향에 일관되게 초점을 가졌으면 좋겠다",
+    "이재명, 민주당이 챙겨야 할 ‘진짜 고충’은 제넨셀 피해자들의 고충이지 유흥주점 여동생의 고충이 아니다"
+   ],
+   "press": "헤럴드경제",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "국민의힘에서 상대를 안 해줘서 민주당에 자꾸 관심을 가지는 것 같은데 의정활동의 방향에 일관되게 초점을 가졌으면 좋겠다",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
+      "press": "문화일보",
+      "title": "“김승원 민원, 좋은 내용” 송영길 주장에 한동훈 “신약 함부로 승인하면 국민 죽어” 반박",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NMEczMW9DemtaOExRUzJjXzJGSHV0STBQRkVhYk1NdE9MWEp0WDM2WmNoMlIzdlppZ09KZ2VOVmFlYTNndVBnaWJHRXhGUEFV?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "새벽 6시부터 김승원 때린 한동훈…하루 페북 30건 ‘폭풍 업로드’, 왜?",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Uc1RrN25hMXA2Qm9zelN6RWpkRGQtU2VYQXVTSUhVQTZ6YVcweDliRF90SU9kdjF3N3M0V240dTJlMjVjVzNHc1RpQQ?oc=5"
+     },
+     {
+      "press": "채널A",
+      "title": "‘김승원 공세’ 한동훈에…김민석 “국민의힘이 상대 안해주니…”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wX2ZJS2UySmdwSlVWM0p3YnFxV2RGS0habUNySDBKTmNwSWUtX2VHZURTYzdEX2hnV1F4eDFhaktkZ1NoNTVLN0Z4RkpGbGJHM1A0NThFVzJvdmZreUHSAWNBVV95cUxNS0VBNTRCdUZIS3VhVzZjcjNsRHhnd3VmUVVEQjNRcm9tQkx1RFRCakJEbFd1VVVId3FpYjI2aUN4Nk1FVUVoX0lpTVlDUXZWT1FPbXltNG1xNFk0Nm8xZHAySzA?oc=5"
+     },
+     {
+      "press": "시사저널",
+      "title": "김민석, 김승원 때리는 한동훈에 “청문회 관심 말고 자기 청문할 시간”",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WVndzOVNPenZOTjhNZWMwMXFrd3dvUm1oNkFkUXdrQlREVGZJeGxwaVp0ZGhULTR6dTZ1d0Q3R0VGNVhtM2F5aDdDaUZyZVpYcXNYX0tiM2VJNlZiVUNkUU4wY1JUS0lyRWZmMTZueFhncUnSAXNBVV95cUxOVlZ3czlTT3p2Tk44TWVjMDFxa3d3b1JtaDZBZFF3a0JURFRmSXhscGladGRoVC00enU2dXdEN0dFRjVYbTNheWg3Q2lGcmVaWHFzWF9LYjNlSTZWYlVDZFFOMGNSVEtJckVmZjE2bnhYZ3FJ?oc=5"
+     },
+     {
+      "press": "MBC 뉴스",
+      "title": "김민석, '김승원 공세' 한동훈에 \"갑자기 총기난사‥자기 성찰하셔야\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYVnJhUHBTMDBQVkNMeWRnQ3F1ZXo0dWRpWkstSzVKUFlFLTd6NzR4UEdYMTRCSGxMdkdicXN6ZFZkeE1aY1Z4WWdlWm1zb3Q0UF9aTVl2VV9OUjV4YlpnbGJPUWtHRjZ6RHhxSDJIQXFUYnNteUpxUdIBeEFVX3lxTFBYVnJhUHBTMDBQVkNMeWRnQ3F1ZXo0dWRpWkstSzVKUFlFLTd6NzR4UEdYMTRCSGxMdkdicXN6ZFZkeE1aY1Z4WWdlWm1zb3Q0UF9aTVl2VV9OUjV4YlpnbGJPUWtHRjZ6RHhxSDJIQXFUYnNteUpxUQ?oc=5"
+     },
+     {
+      "press": "naewaynews.com",
+      "title": "김민석,한동훈 향해 ˝청문회 관심 갖지 말고 자신을 청문하고 성찰해야˝:내외신문",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yRnYyOEdJazZ3NE15TWJ0MVRKSU1pQ3hNVl8xVEpVdmIyWkllTFdqa2w1cEtZY2pxYzVYamtFTDFkMV91dGNR0gFkQVVfeXFMTjk0NEMyNEFZTjNycG5Mc3l1WkxFNU11eDZJUVQzeDZvWEE4NU1LUThxV0lIOVBBQlVraFdlVlRVSG12Wi1wQWZjZDhYQ2Rrd2Y5NU1mdFMtdVdUSTlXYU9iSU84dQ?oc=5"
+     }
+    ]
+   }
   }
  ],
  "cards": [
@@ -49,95 +376,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/01.png",
-   "pngBytes": 1742968,
-   "feed": "오늘의 뉴스 2026-09-01\n\n· '김민석표' 민주당TV 첫 방송 동접자 5.5만명…\"기조방송 되길 희망\"\n· 추석 13대 성수품 16만3000 푼다…농축산물 최대 40% 할인\n· 공무원 3851명 늘린다…안전·특허·수사인력 확충[2027 예산안]\n· 르노코리아, 그랑 콜레오스 2027년형 출시…가격 45만원 낮춰\n· AI 대전환 가속…과기정통부 예산 29.6조원 '역대 최대 증가폭'[2027년 예산안]"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/01.png",
+   "pngBytes": 2218164,
+   "feed": "오늘의 뉴스 2026-09-06\n\n· 김승원·용혜인 논란에 '김현지 실세설'까지…靑 인사검증 도마 위\n· \"지금 달려가?\" \"기다릴게\"...한동훈, 김승원 '우연히' 주장에 녹취록 공개\n· \"배가 아파서\"…남의 집 몰래 들어가 용변 본 대가는?\n· \"네 덕에 두 아이 키워\"…29년 몬 '포터' 차주 찾는 현대차 사연 보니\n· 한동훈 “김승원, 뻔뻔한 거짓말”…김 후보자-제약 브로커 통화 녹취 공개\n· 국힘 “이 대통령, ‘연임 없다’ 네 마디를 못 해…‘꼼수 개헌’ 우려”\n· 새벽 6시부터 김승원 때린 한동훈…하루 페북 30건 ‘폭풍 업로드’, 왜?"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/02.png",
-   "pngBytes": 1751870,
-   "title": "'김민석표' 민주당TV 첫 방송 동접자 5.5만명…\"기조방송 되길 희망\"",
-   "summary": "첫 방송 동시접속자는 최고 5만5000여명으로 김민석 민주당 대표는 \"그날, 그 시점의 민주당 기조가 무엇인지 엄선해서 최소한 1개씩 말하는 게 좋을 것 같다. 김…",
-   "press": "아시아경제",
-   "source": "네이버 뉴스",
-   "link": "https://n.news.naver.com/mnews/article/277/0005810021",
-   "feed": "뉴스 01. '김민석표' 민주당TV 첫 방송 동접자 5.5만명…\"기조방송 되길 희망\"\n\n첫 방송 동시접속자는 최고 5만5000여명으로 김민석 민주당 대표는 \"그날, 그 시점의 민주당 기조가 무엇인지 엄선해서 최소한 1개씩 말하는 게 좋을 것 같다. 김…\n\n출처: 아시아경제 / https://n.news.naver.com/mnews/article/277/0005810021"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/02.png",
+   "pngBytes": 2201808,
+   "title": "김승원·용혜인 논란에 '김현지 실세설'까지…靑 인사검증 도마 위",
+   "summary": "윤건영 민주당 의원은 3일 MBC 라디오에서 용 후보자의 겸직 문제를 두고 \"이 부분은 인사 검증에 관한 부분\"이라며 \"이번 기회를 통해 청와대의 검증 단위를 다시…",
+   "summary_long": "이재명 대통령의 2기 개각 후폭풍이 장관 후보자 개인을 넘어 청와대 인사검증 시스템으로 번지고 있다. 김승원 법무부 장관 후보자의 신약 임상시험 관련 청탁 의혹과 음주운전 전력, 용혜인 성평등가족부 장관 후보자의 비례대표직 겸직 및 배우자 당직 논란 등이 잇따라 불거지면서다. 여기에 민주당 상근부대변인 출신 서용주 맥정치사회연구소장이 방송 전 대화에서 \"인사라인이 김현지잖아\"라고 말한 장면까지 공개되면서 논란은 '누가 인사를 결정했느냐'는 문제로 확산하는 모양새다.\n\n윤건영 민주당 의원은 3일 MBC 라디오에서 용 후보자의 겸직 문제를 두고 \"이 부분은 인사 검증에 관한 부분\"이라며 \"이번 기회를 통해 청와대의 검증 단위를 다시 살펴봐야 하는 것 아닌가 생각한다\"고 말했다. 다만 정치권 한편에선 논란의 초점을 김 실장의 실제 인사 개입 여부보다 청와대의 공식 검증 시스템 자체에 맞춰야 한다는 지적도 나온다. 용 후보자의 겸직 문제처럼 위법 여부를 떠나 충분히 예상 가능한 '국민 눈높이' 논란조차 사전에 걸러내지 못했다면 검증 과정 전반을 되짚어봐야 한다는 것이다.",
+   "press": "시사저널",
+   "source": "시사저널",
+   "link": "https://n.news.naver.com/article/586/0000137551",
+   "selection": "정치",
+   "feed": "뉴스 01. 김승원·용혜인 논란에 '김현지 실세설'까지…靑 인사검증 도마 위\n\n이재명 대통령의 2기 개각 후폭풍이 장관 후보자 개인을 넘어 청와대 인사검증 시스템으로 번지고 있다. 김승원 법무부 장관 후보자의 신약 임상시험 관련 청탁 의혹과 음주운전 전력, 용혜인 성평등가족부 장관 후보자의 비례대표직 겸직 및 배우자 당직 논란 등이 잇따라 불거지면서다. 여기에 민주당 상근부대변인 출신 서용주 맥정치사회연구소장이 방송 전 대화에서 \"인사라인이 김현지잖아\"라고 말한 장면까지 공개되면서 논란은 '누가 인사를 결정했느냐'는 문제로 확산하는 모양새다.\n\n윤건영 민주당 의원은 3일 MBC 라디오에서 용 후보자의 겸직 문제를 두고 \"이 부분은 인사 검증에 관한 부분\"이라며 \"이번 기회를 통해 청와대의 검증 단위를 다시 살펴봐야 하는 것 아닌가 생각한다\"고 말했다. 다만 정치권 한편에선 논란의 초점을 김 실장의 실제 인사 개입 여부보다 청와대의 공식 검증 시스템 자체에 맞춰야 한다는 지적도 나온다. 용 후보자의 겸직 문제처럼 위법 여부를 떠나 충분히 예상 가능한 '국민 눈높이' 논란조차 사전에 걸러내지 못했다면 검증 과정 전반을 되짚어봐야 한다는 것이다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000137551"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/03.png",
-   "pngBytes": 2261227,
-   "title": "추석 13대 성수품 16만3000 푼다…농축산물 최대 40% 할인",
-   "summary": "추석을 앞두고 사과·배·한우·계란 등 성수품 공급이 평시보다 1.6배 늘어난다. 추석 기준 역대 최대 할인 지원 예산인 590억원을 들였다.",
-   "press": "머니투데이",
-   "source": "네이버 뉴스",
-   "link": "https://n.news.naver.com/mnews/article/008/0005407596",
-   "feed": "뉴스 02. 추석 13대 성수품 16만3000 푼다…농축산물 최대 40% 할인\n\n추석을 앞두고 사과·배·한우·계란 등 성수품 공급이 평시보다 1.6배 늘어난다. 추석 기준 역대 최대 할인 지원 예산인 590억원을 들였다.\n\n출처: 머니투데이 / https://n.news.naver.com/mnews/article/008/0005407596"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/03.png",
+   "pngBytes": 1562218,
+   "title": "\"지금 달려가?\" \"기다릴게\"...한동훈, 김승원 '우연히' 주장에 녹취록 공개",
+   "summary": "김승원 법무부 장관 후보자가 '신약 로비 의혹'과 관련해 논란이 된 영장판사와 브로커 양 모 씨와의 이른바 '3인 셀카'에 대해 \"셋이 우연히 마주친 것\"이란 취지로…",
+   "summary_long": "지난 3일 인사청문회 준비 사무실로 출근한 김승원 법무장관 후보자 / 사진=연합뉴스. 김승원 법무부 장관 후보자가 '신약 로비 의혹'과 관련해 논란이 된 영장판사와 브로커 양 모 씨와의 이른바 '3인 셀카'에 대해 \"셋이 우연히 마주친 것\"이란 취지로 해명하자 무소속 한동훈 후보는 사전 약속 정황이 담긴 녹취록을 오늘(5일) 공개했습니다. 한 의원은 이날 페이스북을 통해 \"김 후보자가 뻔뻔하게 거짓말 하니 공개한다\"며 지난 2022년 2월 9일 김 후보자와 브로커로 지목된 여성 사업가 양 모 씨와의 전화통화 녹취록을 공개했습니다.\n\n이에 한 의원은 \"김 후보자가 2022년 2월경 양 씨를 '우연히' 마주친 게 맞느냐\"며 \"우연히 마주친 게 전혀 아니더라\"고 지적했습니다. 한 의원은 추가로 글을 올려 감 후보자에게 \"우연히 만났다고 새빨간 거짓말을 한 2022년 2월 9일, 밤 양 씨로부터 잔뜩 받은 '물건'은 뭐냐\"고 물었습니다. 김 후보자는 어제(4일) \"사적 모임에서 양 씨 등을 우연히 마주쳤을 뿐, 이후 이들과 만나거나 연락하지 않았다\"고 공식 해명한 바 있습니다.",
+   "press": "MBN",
+   "source": "MBN",
+   "link": "https://n.news.naver.com/article/057/0001967439",
+   "selection": "정치",
+   "feed": "뉴스 02. \"지금 달려가?\" \"기다릴게\"...한동훈, 김승원 '우연히' 주장에 녹취록 공개\n\n지난 3일 인사청문회 준비 사무실로 출근한 김승원 법무장관 후보자 / 사진=연합뉴스. 김승원 법무부 장관 후보자가 '신약 로비 의혹'과 관련해 논란이 된 영장판사와 브로커 양 모 씨와의 이른바 '3인 셀카'에 대해 \"셋이 우연히 마주친 것\"이란 취지로 해명하자 무소속 한동훈 후보는 사전 약속 정황이 담긴 녹취록을 오늘(5일) 공개했습니다. 한 의원은 이날 페이스북을 통해 \"김 후보자가 뻔뻔하게 거짓말 하니 공개한다\"며 지난 2022년 2월 9일 김 후보자와 브로커로 지목된 여성 사업가 양 모 씨와의 전화통화 녹취록을 공개했습니다.\n\n이에 한 의원은 \"김 후보자가 2022년 2월경 양 씨를 '우연히' 마주친 게 맞느냐\"며 \"우연히 마주친 게 전혀 아니더라\"고 지적했습니다. 한 의원은 추가로 글을 올려 감 후보자에게 \"우연히 만났다고 새빨간 거짓말을 한 2022년 2월 9일, 밤 양 씨로부터 잔뜩 받은 '물건'은 뭐냐\"고 물었습니다. 김 후보자는 어제(4일) \"사적 모임에서 양 씨 등을 우연히 마주쳤을 뿐, 이후 이들과 만나거나 연락하지 않았다\"고 공식 해명한 바 있습니다.\n\n출처: MBN / https://n.news.naver.com/article/057/0001967439"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/04.png",
-   "pngBytes": 2041222,
-   "title": "공무원 3851명 늘린다…안전·특허·수사인력 확충[2027 예산안]",
-   "summary": "첨단기술 특허 심사 인력 105명 늘려. 국민 안전과 글로벌 초격차 산업 경쟁력 확보를 위한 조직·인력 강화에 나선다.",
-   "press": "아시아경제",
-   "source": "네이버 뉴스",
-   "link": "https://n.news.naver.com/mnews/article/277/0005810252",
-   "feed": "뉴스 03. 공무원 3851명 늘린다…안전·특허·수사인력 확충[2027 예산안]\n\n첨단기술 특허 심사 인력 105명 늘려. 국민 안전과 글로벌 초격차 산업 경쟁력 확보를 위한 조직·인력 강화에 나선다.\n\n출처: 아시아경제 / https://n.news.naver.com/mnews/article/277/0005810252"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/04.png",
+   "pngBytes": 2368529,
+   "title": "\"배가 아파서\"…남의 집 몰래 들어가 용변 본 대가는?",
+   "summary": "청주지법 형사1단독 박광민 부장판사는 배가 아프자 남의 집에 몰래 들어가 대변을 본 50대 A씨에게 벌금 300만원을 선고했다. 6일 법조계에 따르면 A씨는 지난해…",
+   "summary_long": "휴지로 가려놨다가 들통, 청주지법 벌금 300만원 선고. 청주지법 형사1단독 박광민 부장판사는 배가 아프자 남의 집에 몰래 들어가 대변을 본 50대 A씨에게 벌금 300만원을 선고했다. 6일 법조계에 따르면 A씨는 지난해 12월 31일 오후 3시 50분께 충북 보은군 보은읍의 한 단독주택 마당을 가로질러 보일러실 앞에 대변을 눈 혐의(주거침입)로 기소됐다.\n\n그는 근처에서 자신의 가족을 만나기로 하고 차량을 몰고 갔다가 갑자기 배가 아파지자 이같이 범행한 것으로 조사됐다. 특정범죄가중처벌법상 강도상해 혐의로 징역 7년형을 살고 지난해 10월 출소한 A씨는 보호관찰(음주 금지) 명령을 위반했다가 징역 10개월을 선고받고 올해 4월 다시 수감돼 복역 중이다. 박 부장판사는 \"피고인의 범행 동기와 범행 후의 정황 등을 고려해 형을 정했다\"고 판시했다.",
+   "press": "연합뉴스",
+   "source": "연합뉴스",
+   "link": "https://n.news.naver.com/article/001/0016291515",
+   "selection": "경제·시사",
+   "feed": "뉴스 03. \"배가 아파서\"…남의 집 몰래 들어가 용변 본 대가는?\n\n휴지로 가려놨다가 들통, 청주지법 벌금 300만원 선고. 청주지법 형사1단독 박광민 부장판사는 배가 아프자 남의 집에 몰래 들어가 대변을 본 50대 A씨에게 벌금 300만원을 선고했다. 6일 법조계에 따르면 A씨는 지난해 12월 31일 오후 3시 50분께 충북 보은군 보은읍의 한 단독주택 마당을 가로질러 보일러실 앞에 대변을 눈 혐의(주거침입)로 기소됐다.\n\n그는 근처에서 자신의 가족을 만나기로 하고 차량을 몰고 갔다가 갑자기 배가 아파지자 이같이 범행한 것으로 조사됐다. 특정범죄가중처벌법상 강도상해 혐의로 징역 7년형을 살고 지난해 10월 출소한 A씨는 보호관찰(음주 금지) 명령을 위반했다가 징역 10개월을 선고받고 올해 4월 다시 수감돼 복역 중이다. 박 부장판사는 \"피고인의 범행 동기와 범행 후의 정황 등을 고려해 형을 정했다\"고 판시했다.\n\n출처: 연합뉴스 / https://n.news.naver.com/article/001/0016291515"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/05.png",
-   "pngBytes": 1342211,
-   "title": "르노코리아, 그랑 콜레오스 2027년형 출시…가격 45만원 낮춰",
-   "summary": "르노코리아가 중형 스포츠유틸리티차 그랑 콜레오스의 2027년형 모델과 한정판 에디션을 선보였다. 르노코리아는 1일 그랑 콜레오스 2027년형 모델을 출시하고 리미티드…",
-   "press": "이코노미스트",
-   "source": "네이버 뉴스",
-   "link": "https://n.news.naver.com/mnews/article/243/0000102440",
-   "feed": "뉴스 04. 르노코리아, 그랑 콜레오스 2027년형 출시…가격 45만원 낮춰\n\n르노코리아가 중형 스포츠유틸리티차 그랑 콜레오스의 2027년형 모델과 한정판 에디션을 선보였다. 르노코리아는 1일 그랑 콜레오스 2027년형 모델을 출시하고 리미티드…\n\n출처: 이코노미스트 / https://n.news.naver.com/mnews/article/243/0000102440"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/05.png",
+   "pngBytes": 2238381,
+   "title": "\"네 덕에 두 아이 키워\"…29년 몬 '포터' 차주 찾는 현대차 사연 보니",
+   "summary": "29년 동안 44만8000㎞를 무사고로 달리며 함께한 트럭을 떠나보내며 차주가 직접 쓴 고별편지가 온라인에서 화제가 되고 있다. /사진=온라인 커뮤니티29년 동안 한…",
+   "summary_long": "29년 동안 44만8000㎞를 무사고로 달리며 함께한 트럭을 떠나보내며 차주가 직접 쓴 고별편지가 온라인에서 화제가 되고 있다. /사진=온라인 커뮤니티29년 동안 한 가족의 생계를 책임지며 주인과 함께 44만8000㎞를 달린 낡은 트럭 한 대에 붙은 '이별 편지'에 제조사인 현대자동차가 차주를 찾아 나섰다. 파란색 트럭 앞유리에 붙은 '고별 운행'이라는 제목의 손편지가 붙어있 차량은 현대자동차의 1톤 트럭 포터로 추정된다.\n\n차주는 편지에서 트럭을 향해 \"29년을 동고동락한 사랑하는 나의 친구에게 이 글을 바친다\"며 \"우리 서로 만나 IMF의 역풍도 겪었고 그 긴 시간 동안 너는 묵묵히 나의 고생을 감당해줬다\"고 적었다. 이어 \"29년이라는 긴 시간 동안 함께해주신 마음이 정말 깊이 와닿는다\"며 \"혹시 차주님을 아시는 분이나 본인이시라면 현대자동차 공식 계정으로 연락 부탁드린다\"고 전했다. 이 목격담의 진위는 확인되지 않았지만, 현대차가 직접 차주를 찾아 나선 만큼 29년 동안 이어진 감동 사연의 주인공을 만날 수 있을지 관심이 집중되고 있다.",
+   "press": "동행미디어 시대",
+   "source": "동행미디어 시대",
+   "link": "https://n.news.naver.com/article/417/0001157452",
+   "selection": "경제·시사",
+   "feed": "뉴스 04. \"네 덕에 두 아이 키워\"…29년 몬 '포터' 차주 찾는 현대차 사연 보니\n\n29년 동안 44만8000㎞를 무사고로 달리며 함께한 트럭을 떠나보내며 차주가 직접 쓴 고별편지가 온라인에서 화제가 되고 있다. /사진=온라인 커뮤니티29년 동안 한 가족의 생계를 책임지며 주인과 함께 44만8000㎞를 달린 낡은 트럭 한 대에 붙은 '이별 편지'에 제조사인 현대자동차가 차주를 찾아 나섰다. 파란색 트럭 앞유리에 붙은 '고별 운행'이라는 제목의 손편지가 붙어있 차량은 현대자동차의 1톤 트럭 포터로 추정된다.\n\n차주는 편지에서 트럭을 향해 \"29년을 동고동락한 사랑하는 나의 친구에게 이 글을 바친다\"며 \"우리 서로 만나 IMF의 역풍도 겪었고 그 긴 시간 동안 너는 묵묵히 나의 고생을 감당해줬다\"고 적었다. 이어 \"29년이라는 긴 시간 동안 함께해주신 마음이 정말 깊이 와닿는다\"며 \"혹시 차주님을 아시는 분이나 본인이시라면 현대자동차 공식 계정으로 연락 부탁드린다\"고 전했다. 이 목격담의 진위는 확인되지 않았지만, 현대차가 직접 차주를 찾아 나선 만큼 29년 동안 이어진 감동 사연의 주인공을 만날 수 있을지 관심이 집중되고 있다.\n\n출처: 동행미디어 시대 / https://n.news.naver.com/article/417/0001157452"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/06.png",
-   "pngBytes": 652671,
-   "title": "AI 대전환 가속…과기정통부 예산 29.6조원 '역대 최대 증가폭'[2027년 예산안]",
-   "summary": "과기정통부 제공 과학기술정보통신부가 내년도 예산안을 29조 6000억원으로 편성했다. 과기정통부의 AI 예산은 올해 5조 1000억원에서 내년 9조 4000억원으로…",
-   "press": "동아사이언스",
-   "source": "네이버 뉴스",
-   "link": "https://n.news.naver.com/mnews/article/584/0000039142",
-   "feed": "뉴스 05. AI 대전환 가속…과기정통부 예산 29.6조원 '역대 최대 증가폭'[2027년 예산안]\n\n과기정통부 제공 과학기술정보통신부가 내년도 예산안을 29조 6000억원으로 편성했다. 과기정통부의 AI 예산은 올해 5조 1000억원에서 내년 9조 4000억원으로…\n\n출처: 동아사이언스 / https://n.news.naver.com/mnews/article/584/0000039142"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/06.png",
+   "pngBytes": 1957812,
+   "title": "한동훈 “김승원, 뻔뻔한 거짓말”…김 후보자-제약 브로커 통화 녹취 공개",
+   "summary": "김승원 법무부 장관 후보자가 ‘신약 임상시험 신속 처리 청탁 의혹’에 연루된 브로커 양아무개씨와, 제약사 대주주의 구속영장을 기각한 판사가 함께 찍힌 사진에 대해…",
+   "summary_long": "김승원 법무부 장관 후보자가 ‘신약 임상시험 신속 처리 청탁 의혹’에 연루된 브로커 양아무개씨와, 제약사 대주주의 구속영장을 기각한 판사가 함께 찍힌 사진에 대해 “우연히 마주친 것”이라고 해명하자, 한동훈 무소속 의원이 “뻔뻔한 거짓말”이라며 김 후보자의 통화 녹취라고 주장하는 내용을 공개했다. 브로커로 알려진 양씨는 제약사 제넨셀의 최대주주였던 강아무개씨 부탁으로 김 후보자에게 코로나19 치료제 임상시험 계획 관련 민원을 넣었다. 김 후보자는 2021년 10월12일 김강립 당시 식품의약품안전처장에게 회사명과 함께 “빠르게 처리할 수 있도록 부탁드린다”는 내용의 문자 메시지를 보냈다.\n\n하지만 구속영장을 기각한 정아무개 판사와 김 후보자, 양씨가 아는 사이였다는 사실이 드러나면서 논란이 커지고 있다. 김 후보자는 코로나19 치료제 임상시험 승인 신속 처리를 식약처장에게 청탁한 혐의로 2024년 12월 기소유예 처분됐다. 이와 관련해 김 후보자 인사청문 준비단은 이날 입장문을 내어 “해외 임상시험 2상까지 진행돼 치료 효과가 있다는 자료를 검토한 뒤, 국산 치료제의 임상시험 절차가 부당하게 지연되지 않도록 식약처장에게 고충 민원을 단순 전달했다”며 “치료제 허가나 무조건적인 승인을 요구한 것이 아니라, 식약처가 제출자료…",
+   "press": "한겨레",
+   "source": "한겨레",
+   "link": "https://n.news.naver.com/article/028/0002821756",
+   "selection": "찬반 쟁점",
+   "feed": "뉴스 05. 한동훈 “김승원, 뻔뻔한 거짓말”…김 후보자-제약 브로커 통화 녹취 공개\n\n김승원 법무부 장관 후보자가 ‘신약 임상시험 신속 처리 청탁 의혹’에 연루된 브로커 양아무개씨와, 제약사 대주주의 구속영장을 기각한 판사가 함께 찍힌 사진에 대해 “우연히 마주친 것”이라고 해명하자, 한동훈 무소속 의원이 “뻔뻔한 거짓말”이라며 김 후보자의 통화 녹취라고 주장하는 내용을 공개했다. 브로커로 알려진 양씨는 제약사 제넨셀의 최대주주였던 강아무개씨 부탁으로 김 후보자에게 코로나19 치료제 임상시험 계획 관련 민원을 넣었다. 김 후보자는 2021년 10월12일 김강립 당시 식품의약품안전처장에게 회사명과 함께 “빠르게 처리할 수 있도록 부탁드린다”는 내용의 문자 메시지를 보냈다.\n\n하지만 구속영장을 기각한 정아무개 판사와 김 후보자, 양씨가 아는 사이였다는 사실이 드러나면서 논란이 커지고 있다. 김 후보자는 코로나19 치료제 임상시험 승인 신속 처리를 식약처장에게 청탁한 혐의로 2024년 12월 기소유예 처분됐다. 이와 관련해 김 후보자 인사청문 준비단은 이날 입장문을 내어 “해외 임상시험 2상까지 진행돼 치료 효과가 있다는 자료를 검토한 뒤, 국산 치료제의 임상시험 절차가 부당하게 지연되지 않도록 식약처장에게 고충 민원을 단순 전달했다”며 “치료제 허가나 무조건적인 승인을 요구한 것이 아니라, 식약처가 제출자료…\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002821756"
   },
   {
    "no": 7,
+   "kind": "point",
+   "label": "뉴스 06",
+   "file": "07.jpg",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/07.png",
+   "pngBytes": 1739937,
+   "title": "국힘 “이 대통령, ‘연임 없다’ 네 마디를 못 해…‘꼼수 개헌’ 우려”",
+   "summary": "이재명 대통령이 연임 불출마 선언 요구에 “도둑질은 안 하겠다고 하라고 하는 것과 같은 것인데 굳이 해야 하나”라는 취지의 발언을 한 데 대해 국민의힘이 “‘연임 없다’…",
+   "summary_long": "이재명 대통령이 4일 청와대에서 열린 시민사회 초청 간담회에서 인사말을 하고 있다. 이재명 대통령이 연임 불출마 선언 요구에 “도둑질은 안 하겠다고 하라고 하는 것과 같은 것인데 굳이 해야 하나”라는 취지의 발언을 한 데 대해 국민의힘이 “‘연임 없다’ 네 마디를 못 한다”며 공세에 나섰다. 조용술 국민의힘 대변인은 5일 논평을 내어 이 대통령의 발언을 거론하며 “‘도둑질하지 않고 바르게 살겠다’는 말 한마디가 그렇게 어렵냐”고 반문했다.\n\n이어 “이 대통령은 국정 지지율이 급락하자 돌연 개헌 카드를 꺼내 들었다”며 “많은 국민이 진정성 있는 개헌 논의를 위해 ‘연임 없다’는 선언을 요구했지만, 이 대통령은 묵묵부답으로 일관하며 끝까지 회피했다”고 지적했다. 또 “대통령 연임이 가능하도록 개헌하더라도 현직 대통령에게는 적용되지 않는다는 점이 분명하다”면서도 “꼼수 개헌에 대한 국민적 우려가 커지고 있다”고 강조했다. 이 대통령은 전날 청와대에서 열린 시민사회단체와 간담회에서 ‘연임을 안 하겠다고 좀 더 명시적으로 얘기하는 게 어떻겠느냐’는 질문에 “굳이 해야 하나”라며 “그리고 추진해도 국민도 국회도 안 받아들일 텐데 (그런 말을) 뭐하러 하느냐”는 취지로 말했다고 복수의 참석자가 전했다.",
+   "press": "한겨레",
+   "source": "한겨레",
+   "link": "https://n.news.naver.com/article/028/0002821759",
+   "selection": "찬반 쟁점",
+   "feed": "뉴스 06. 국힘 “이 대통령, ‘연임 없다’ 네 마디를 못 해…‘꼼수 개헌’ 우려”\n\n이재명 대통령이 4일 청와대에서 열린 시민사회 초청 간담회에서 인사말을 하고 있다. 이재명 대통령이 연임 불출마 선언 요구에 “도둑질은 안 하겠다고 하라고 하는 것과 같은 것인데 굳이 해야 하나”라는 취지의 발언을 한 데 대해 국민의힘이 “‘연임 없다’ 네 마디를 못 한다”며 공세에 나섰다. 조용술 국민의힘 대변인은 5일 논평을 내어 이 대통령의 발언을 거론하며 “‘도둑질하지 않고 바르게 살겠다’는 말 한마디가 그렇게 어렵냐”고 반문했다.\n\n이어 “이 대통령은 국정 지지율이 급락하자 돌연 개헌 카드를 꺼내 들었다”며 “많은 국민이 진정성 있는 개헌 논의를 위해 ‘연임 없다’는 선언을 요구했지만, 이 대통령은 묵묵부답으로 일관하며 끝까지 회피했다”고 지적했다. 또 “대통령 연임이 가능하도록 개헌하더라도 현직 대통령에게는 적용되지 않는다는 점이 분명하다”면서도 “꼼수 개헌에 대한 국민적 우려가 커지고 있다”고 강조했다. 이 대통령은 전날 청와대에서 열린 시민사회단체와 간담회에서 ‘연임을 안 하겠다고 좀 더 명시적으로 얘기하는 게 어떻겠느냐’는 질문에 “굳이 해야 하나”라며 “그리고 추진해도 국민도 국회도 안 받아들일 텐데 (그런 말을) 뭐하러 하느냐”는 취지로 말했다고 복수의 참석자가 전했다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002821759"
+  },
+  {
+   "no": 8,
+   "kind": "point",
+   "label": "뉴스 07",
+   "file": "08.jpg",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/08.png",
+   "pngBytes": 1720068,
+   "title": "새벽 6시부터 김승원 때린 한동훈…하루 페북 30건 ‘폭풍 업로드’, 왜?",
+   "summary": "한동훈 무소속 의원이 3일 국회에서 열릴 예정인 본회의에 참석하며 김승원 법무부 장관 후보자를 둘러싼 의혹과 관련한 취재진 질의에 답하고 있다. 서영교 민주당 의원은…",
+   "summary_long": "한동훈 무소속 의원이 3일 국회에서 열릴 예정인 본회의에 참석하며 김승원 법무부 장관 후보자를 둘러싼 의혹과 관련한 취재진 질의에 답하고 있다. 한동훈 무소속 의원이 페이스북을 활용해 이재명 정부를 향한 공세 수위를 끌어올리고 있다. 하루에 30건 넘는 게시물을 올리는 등 활동량을 크게 늘렸는데, 최근에는 김승원 법무부 장관 후보자를 집중 겨냥하고 있다.\n\n한 의원은 전날 오전 6시께 김 후보자의 신약 임상시험 청탁 의혹과 관련해 “송영길 의원이 김승원 후보자가 들어준 유흥주점 여동생의 식약처 로비를 ‘좋은 민원’이라면서 이것을 비판하는 저를 원색적으로 비난했다”며 “송 의원도 친한 동생들 이런 로비 부탁 들어준 것 많이 있나”라고 썼다. 한 의원은 “이재명, 민주당이 챙겨야 할 ‘진짜 고충’은 제넨셀 피해자들의 고충이지 유흥주점 여동생의 고충이 아니다”라며 “이재명, 민주당의 ‘공익 민원’이란 ‘범죄 민원’인가. 서영교 민주당 의원은 YTN 라디오에서 김 후보자 관련 의혹을 두고 “3년을 털었고 11명의 검사가 투입됐고 그때 법무부 장관이 한동훈이고 대통령이 윤석열”이라고 주장했다.",
+   "press": "헤럴드경제",
+   "source": "헤럴드경제",
+   "link": "https://n.news.naver.com/article/016/0002693176",
+   "selection": "찬반 쟁점",
+   "feed": "뉴스 07. 새벽 6시부터 김승원 때린 한동훈…하루 페북 30건 ‘폭풍 업로드’, 왜?\n\n한동훈 무소속 의원이 3일 국회에서 열릴 예정인 본회의에 참석하며 김승원 법무부 장관 후보자를 둘러싼 의혹과 관련한 취재진 질의에 답하고 있다. 한동훈 무소속 의원이 페이스북을 활용해 이재명 정부를 향한 공세 수위를 끌어올리고 있다. 하루에 30건 넘는 게시물을 올리는 등 활동량을 크게 늘렸는데, 최근에는 김승원 법무부 장관 후보자를 집중 겨냥하고 있다.\n\n한 의원은 전날 오전 6시께 김 후보자의 신약 임상시험 청탁 의혹과 관련해 “송영길 의원이 김승원 후보자가 들어준 유흥주점 여동생의 식약처 로비를 ‘좋은 민원’이라면서 이것을 비판하는 저를 원색적으로 비난했다”며 “송 의원도 친한 동생들 이런 로비 부탁 들어준 것 많이 있나”라고 썼다. 한 의원은 “이재명, 민주당이 챙겨야 할 ‘진짜 고충’은 제넨셀 피해자들의 고충이지 유흥주점 여동생의 고충이 아니다”라며 “이재명, 민주당의 ‘공익 민원’이란 ‘범죄 민원’인가. 서영교 민주당 의원은 YTN 라디오에서 김 후보자 관련 의혹을 두고 “3년을 털었고 11명의 검사가 투입됐고 그때 법무부 장관이 한동훈이고 대통령이 윤석열”이라고 주장했다.\n\n출처: 헤럴드경제 / https://n.news.naver.com/article/016/0002693176"
+  },
+  {
+   "no": 9,
    "kind": "outro",
    "label": "뒷장",
-   "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-01/07.png",
-   "pngBytes": 1346234
+   "file": "09.jpg",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-06/09.png",
+   "pngBytes": 1346200
   }
  ],
- "caption": "📰 9월 1일 오늘의 뉴스\n\n1. '김민석표' 민주당TV 첫 방송 동접자 5.5만명…\"기조방송 되길 희망\"\n2. 추석 13대 성수품 16만3000 푼다…농축산물 최대 40% 할인\n3. 공무원 3851명 늘린다…안전·특허·수사인력 확충[2027 예산안]\n4. 르노코리아, 그랑 콜레오스 2027년형 출시…가격 45만원 낮춰\n5. AI 대전환 가속…과기정통부 예산 29.6조원 '역대 최대 증가폭'[2027년 예산안]\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #예산안 #AI #추석\n\n출처: 네이버 뉴스"
+ "caption": "📰 9월 6일 오늘의 뉴스\n\n1. 김승원·용혜인 논란에 '김현지 실세설'까지…靑 인사검증 도마 위\n   윤건영 민주당 의원은 3일 MBC 라디오에서 용 후보자의 겸직 문제를 두고 \"이 부분은 인사 검증에 관한 부분\"이라며 \"이번 기회를 통해 청와대의 검증 단위를 다시…\n2. \"지금 달려가?\" \"기다릴게\"...한동훈, 김승원 '우연히' 주장에 녹취록 공개\n   김승원 법무부 장관 후보자가 '신약 로비 의혹'과 관련해 논란이 된 영장판사와 브로커 양 모 씨와의 이른바 '3인 셀카'에 대해 \"셋이 우연히 마주친 것\"이란 취지로…\n3. \"배가 아파서\"…남의 집 몰래 들어가 용변 본 대가는?\n   청주지법 형사1단독 박광민 부장판사는 배가 아프자 남의 집에 몰래 들어가 대변을 본 50대 A씨에게 벌금 300만원을 선고했다. 6일 법조계에 따르면 A씨는 지난해…\n4. \"네 덕에 두 아이 키워\"…29년 몬 '포터' 차주 찾는 현대차 사연 보니\n   29년 동안 44만8000㎞를 무사고로 달리며 함께한 트럭을 떠나보내며 차주가 직접 쓴 고별편지가 온라인에서 화제가 되고 있다. /사진=온라인 커뮤니티29년 동안 한…\n5. 한동훈 “김승원, 뻔뻔한 거짓말”…김 후보자-제약 브로커 통화 녹취 공개\n   김승원 법무부 장관 후보자가 ‘신약 임상시험 신속 처리 청탁 의혹’에 연루된 브로커 양아무개씨와, 제약사 대주주의 구속영장을 기각한 판사가 함께 찍힌 사진에 대해…\n6. 국힘 “이 대통령, ‘연임 없다’ 네 마디를 못 해…‘꼼수 개헌’ 우려”\n   이재명 대통령이 연임 불출마 선언 요구에 “도둑질은 안 하겠다고 하라고 하는 것과 같은 것인데 굳이 해야 하나”라는 취지의 발언을 한 데 대해 국민의힘이 “‘연임 없다’…\n7. 새벽 6시부터 김승원 때린 한동훈…하루 페북 30건 ‘폭풍 업로드’, 왜?\n   한동훈 무소속 의원이 3일 국회에서 열릴 예정인 본회의에 참석하며 김승원 법무부 장관 후보자를 둘러싼 의혹과 관련한 취재진 질의에 답하고 있다. 서영교 민주당 의원은…\n\n🗣 “피고인의 범행 동기와 범행 후의 정황 등을 고려해 형을 정했다”\n이 발언을 그대로 실은 보도 10건 · 연합뉴스 · 경기일보 · kwnews.co.kr · 매일신문\n· 연합뉴스 — \"배가 아파서\"…남의 집 몰래 들어가 용변 본 대가는?\n· 경기일보 — \"배가 아파\" 남의 집 마당서 대변 본 50대…벌금은?\n· kwnews.co.kr — 배 아프다며 남의 집 들어가 대변 본 50대…벌금 300만원\n· 매일신문 — \"갑자기 배 아파\" 남의 집 몰래 들어가 대변 본 50대…대가는?\n· 한국일보 — \"급해서\"…남의 집 몰래 들어가 대변 본 50대 '벌금 300만 원'\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: MBN, 동행미디어 시대, 시사저널, 연합뉴스, 한겨레, 헤럴드경제"
 }
