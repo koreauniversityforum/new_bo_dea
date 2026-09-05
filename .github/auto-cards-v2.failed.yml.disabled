@@ -32,7 +32,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '24'
+          node-version: '20'
 
       - name: 기사 자동 선정
         env:
@@ -49,7 +49,7 @@ jobs:
 
       - name: 렌더러 설치
         working-directory: .github/cards
-        run: npm install --no-audit --no-fund --loglevel=error
+        run: npm ci --no-audit --no-fund --loglevel=error
 
       - name: 사진과 요약 준비
         run: python .github/cards/prep.py --data .cards/기사.json --photos .cards/사진
