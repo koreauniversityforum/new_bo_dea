@@ -1,283 +1,297 @@
 {
- "date": "2026-09-07",
- "generated_at": "2026-09-07T08:04:57+09:00",
+ "date": "2026-09-08",
+ "generated_at": "2026-09-08T08:05:57+09:00",
  "mode": "daily",
- "window_start": "2026-09-06T00:00:00+09:00",
- "window_end": "2026-09-06T23:59:59+09:00",
+ "window_start": "2026-09-07T00:00:00+09:00",
+ "window_end": "2026-09-07T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "이진숙, '여자 히틀러' 발언 김민석 고소…경찰 출석",
-   "source": "kbc광주방송",
-   "url": "https://n.news.naver.com/article/660/0000116626",
-   "published_at": "2026-09-06T16:26:17+09:00",
+   "title": "김어준, '지지율 37%' 듣더니 \"한달 내 '앞자리 2' 가능성\"",
+   "source": "MBN",
+   "url": "https://n.news.naver.com/article/057/0001967707",
+   "published_at": "2026-09-07T14:50:11+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "자신을 '여자 히틀러'라고 지칭한 김민석 더불어민주당 대표를 모욕 혐의로 고소한 국민의힘 이진숙 의원이 6일 경찰에 출석했습니다. 김 대표는 지난달 15일 민주당 전남…",
-   "summary_long": "자신을 '여자 히틀러'라고 지칭한 김민석 더불어민주당 대표를 모욕 혐의로 고소한 국민의힘 이진숙 의원이 6일 경찰에 출석했습니다. 서울 영등포경찰서는 이날 이 의원을 소환해 첫 고소인 조사를 진행했습니다. 이 의원은 조사실에 들어서며 취재진과 만나 \"히틀러는 유대인 600만 명을 학살한 인종 청소범\"이라며 \"(김 대표가) 저를 히틀러로 비유하면서 대한민국에 발 못 붙이게 하겠다고 협박을 하는 것이냐\"고 목소리를 높였습니다.\n\n김 대표는 지난달 15일 민주당 전남·광주 합동연설회에서 이 의원을 거론하며 \"여자 전두환도, 여자 히틀러도 대한민국에 발붙이지 못하게 하겠다\"고 말했습니다. 이 의원은 \"김 대표가 가능한 빠른 시간 안에 피고소인 조사를 받길 강력하게 촉구한다\"고 말했습니다. 김민석 대표는 지난달 26일 이 의원을 향해 \"'여자 전두환'으로 통일해서 불러드리는 것이 어떨까하는 생각이 들었다\"고도 발언했습니다.",
+   "summary": "이재명 대통령의 국정수행 지지도가 취임 후 최저치를 경신했다는 여론조사 결과가 나온 가운데, 방송인 김어준 씨가 지지율 20%대 가능성을 언급했습니다. 김 씨는 오늘…",
+   "summary_long": "이재명 대통령의 국정수행 지지도가 취임 후 최저치를 경신했다는 여론조사 결과가 나온 가운데, 방송인 김어준 씨가 지지율 20%대 가능성을 언급했습니다. 김 씨는 오늘(7일) '김어준의 겸손은힘들다 뉴스공장' 방송에서 이택수 리얼미터 대표와 이날 나온 여론조사 결과를 분석했습니다. 지난달 31일부터 이달 4일 리얼미터가 전국 18세 이상 유권자 2,510명을 대상으로 조사한 결과, 이 대통령 국정 수행 긍정 평가는 지난주보다 1.5%포인트(p) 내린 37.4%로 집계됐습니다.\n\n이에 대해 이택수 리얼미터 대표는 “지난주 KTX-SRT 통합 운영, 8월 수출 역대 최대, 7월 경상수지 역대 2위 이런 호재들이 있었는데 2기 개각 장관 후보자들 관련된 여러 논란들, 부동산 세제 개편안 유턴 논란, 대통령 사법처리와 관련된 진보 진영 내의 여러 발언, 논란이 부정적인 영향을 미쳤다… 김어준 씨는 \"중요한 건 (하락) 추세가 벌써 두 달 넘게 이어지고 있다는 것\"이라며 \"긍정뉴스가 지지층에게 도달이 안 된다. 이어 \"이 추세로 가면 앞에 2자가 한 달 이내에 나올 가능성이 높다\"면서 \"지금은 대통령이 직접 나와서 본인의 언어로 계속 얘기할 수밖에 없는 국면\"이라고 주장했습니다.",
    "quotes": [
-    "(김 대표가) 저를 히틀러로 비유하면서 대한민국에 발 못 붙이게 하겠다고 협박을 하는 것이냐",
-    "김 대표가 가능한 빠른 시간 안에 피고소인 조사를 받길 강력하게 촉구한다",
-    "'여자 전두환'으로 통일해서 불러드리는 것이 어떨까하는 생각이 들었다"
+    "지난주 KTX-SRT 통합 운영, 8월 수출 역대 최대, 7월 경상수지 역대 2위 이런 호재들이 있었는데 2기 개각 장관 후보자들 관련된 여러 논란들, 부동산 세제 개편안 유턴 논란, 대통령 사법처리와 관련된 진보 진영 내의 여러 발언, 논란이 부정적인 영향을 미쳤다",
+    "긍정뉴스가 지지층에게 도달이 안 된다. 그런 뉴스를 봐도 냉담한 상황이기 때문에 긍정 뉴스가 긍정 요인으로 작용하지 않고 부정 뉴스만 작동하고 있다",
+    "지금은 대통령이 직접 나와서 본인의 언어로 계속 얘기할 수밖에 없는 국면"
    ],
-   "press": "kbc광주방송",
-   "photo": "01.jpg",
+   "press": "MBN",
+   "photo": "01.png",
    "quoted": {
-    "quote": "(김 대표가) 저를 히틀러로 비유하면서 대한민국에 발 못 붙이게 하겠다고 협박을 하는 것이냐",
+    "quote": "지난주 KTX-SRT 통합 운영, 8월 수출 역대 최대, 7월 경상수지 역대 2위 이런 호재들이 있었는데 2기 개각 장관 후보자들 관련된 여러 논란들, 부동산 세제 개편안 유턴 논란, 대통령 사법처리와 관련된 진보 진영 내의 여러 발언, 논란이 부정적인 영향을 미쳤다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "이데일리TV",
+      "title": "호재도 안 먹힌다…李 최저 지지율에 김어준 “한 달 내 20%대”",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03OEIzdFBoMTdkZzBTQjlGUVlvNG1KU2pGZjF1R0VJb3hsOVpocW00MzFUU3hnOGdieEVfc0phVUFjeDBMVWhNbjg1emQ4V2VYRDBxczZyTGxVOVN6RjVfSkZmRnFILWgzYWhnMEFFQjYxLWh6TVlsVDNObw?oc=5"
+     },
+     {
+      "press": "네이트",
+      "title": "김어준, '지지율 37%' 듣더니 \"한달 내 '앞자리 2' 가능성\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCaDRDbmFvTTNDbnI0YjRhQ293dnVVcmFDaFpYdTJHYjBNdlV0Q1ozMEM3cWZ5akZqcmZQNm1heDlOOV9OazVZcDFXbjgwal9rRnBV?oc=5"
+     },
+     {
+      "press": "네이트",
+      "title": "김어준 \"李지지율, 이 추세면 한달 내 20%대\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2dWg2RkNvNm5KUzdmdkFNcXlkWVl2UUNtbWhndW02VDV5THowLUhoNE9obG5kVEJyQV9PdGVLYVV4eG9adVR3Z0IxRGppVGI3VHlN?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "‘가족소득당’ 논란 와중에… 용혜인 남편 최고위원 선출",
+   "source": "조선일보",
+   "url": "https://n.news.naver.com/article/023/0003997054",
+   "published_at": "2026-09-07T10:41:10+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "selection": "정치",
+   "summary": "용혜인 성평등가족부 장관 후보자의 남편인 기본소득당 박기홍 최고위원이 7일 서울 여의도 중앙당사에서 열린 최고위원회의에 입장하고 있다 / 연합뉴스. 박 최고위원은…",
+   "summary_long": "비서관 출신은 기본소득당 당대표로. 용혜인 성평등가족부 장관 후보자의 남편인 기본소득당 박기홍 최고위원이 7일 서울 여의도 중앙당사에서 열린 최고위원회의에 입장하고 있다 / 연합뉴스. 당대표 선거에는 용혜인 의원실 비서관 등을 지낸 오준호 후보가 단독 출마해 득표율 93.89%로 당선됐다.\n\n국민의힘은 기본소득당에 대해 ‘가족정당’ ‘가족소득당’이라고 비판하고 있다. 용혜인 후보자는 7일 오전 서울 서대문구 한국청소년활동진흥원에 마련된 인사청문회 준비 사무실로 출근하면서 취재진과 만나 비례대표 의원직 겸직과 청문회 완주 여부 등에 대해 “(인사) 청문회에서 말씀드리겠다”고 했다. 오준호 기본소득당 신임 대표는 이날 최고위원회의에서 “이재명 정부 성평등가족부가 성과를 내도록 용혜인 장관과 기본소득당이 함께 뛰겠다”고 했다.",
+   "quotes": [
+    "이재명 정부 성평등가족부가 성과를 내도록 용혜인 장관과 기본소득당이 함께 뛰겠다",
+    "(인사) 청문회에서 말씀드리겠다"
+   ],
+   "press": "조선일보",
+   "photo": "02.jpg",
+   "quoted": {
+    "quote": "이재명 정부 성평등가족부가 성과를 내도록 용혜인 장관과 기본소득당이 함께 뛰겠다",
     "n": 10,
     "verified": 0,
     "items": [
      {
+      "press": "주간경향",
+      "title": "기본소득당 대표 “용혜인 장관과 정부 성과 내도록 함께 뛰겠다”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tcVFpaUc3b3kwLVZhOUNSWFRWbHRZOEphUjQ5WmdZMktxaWNIU1BTYlE3TXhQaGFyeHhNbjBRck5wSUNsdnh0eHUwc1U3OHpzQ1hyQ0Y1bVFqMmJpM3c?oc=5"
+     },
+     {
       "press": "연합뉴스",
-      "title": "이진숙, '여자 히틀러' 김민석 발언 모욕죄 고소…영등포서 출석",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yaGRJNUxURHJrUUVWcVE1eHdvbm5aSVhfSW9DdDhUVDdRMDVPZEpVY1h2QXgzWm5pd0N0cGFkM2w4NG42dlFZTllkdTZlMnNyWkhYZjkzUGtGel9qQjZHWNIBYEFVX3lxTE1yaGRJNUxURHJrUUVWcVE1eHdvbm5aSVhfSW9DdDhUVDdRMDVPZEpVY1h2QXgzWm5pd0N0cGFkM2w4NG42dlFZTllkdTZlMnNyWkhYZjkzUGtGel9qQjZHWA?oc=5"
+      "title": "기본소득당 신임대표에 오준호…용혜인 배우자는 최고위원 당선",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44dmZic0tpM1lkQlk1WGt4RzdoYkk3aFJIcTc1b2lfdFJCaVBkdGZpNGdENGh1ZFFHRTFLU093bHBIQ0hxN0hOODlwa3BvdGtwR2VyUVphT0J0Wm_SAWBBVV95cUxOeW53S0paSUhHUE1aeXR0S0RqNzhnX3gwRi1QV1VZYmtEUnR0Z0M4QlVBdkFSQklXZU9iY0ZhRG4zRXhrV1pVUnhOTmxxbnlxRHIxbkFBWmxpT2Q3VGNBQUU?oc=5"
+     },
+     {
+      "press": "한겨레",
+      "title": "용혜인 남편, 기본소득당 최고위원 당선…새 대표는 “원내정당 유지”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vUmRjVGF2SjlvZE4yM0JrcUEzVzg2cjNUNm51VVh4MW5zZ1Z5U1JhLWZJRThUeC1FbXRlMl8teVItSDhuQ1JEVUpzZkw3R2U5S0s3MXJEUDNNeTUtR1g5VzFXdXBXNlFFWlNNSkxQSmg3aC05?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "[자막뉴스] \"가족·보좌진이 당 독식?\"…용혜인 남편도 최고위원 당선",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9pQjhkbm1iM3JIaUtvYlQ3NlZ2N2VqdU9XRzczUnd3V1VVc3laMmJoNGhCeWdkQUVoQzRfR3liSUo4WlB5SHc?oc=5"
+     },
+     {
+      "press": "kyongbuk.co.kr",
+      "title": "기본소득당 새 지도부, ‘용혜인 장관’ 지원 사격…TK 비판 확산",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FVFBQYUdyWmRVb09BY1J5OWVQS0tfbldHRGJJSFRiVGpKeFhOdGliYi1nQnVMZldLaFpjTGJTSFNneDFfNDlpczlXVGRRdThfcUJWUzNhWFY3RTJpLU9iajFkYXhtakNtajVnNDhMSQ?oc=5"
      },
      {
       "press": "강원일보",
-      "title": "[속보]“유대인 600만명 학살한 인종 청소범 히틀러에 비유하며 나를 협박하는 것이냐”⋯이진숙, 김민석 대표 모욕죄 고소 관련 경찰서 출석",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUUzZsQ0s5QVQ0aUVIVTVUY0dSSndEa1R1MThVQVNLdkNhS0d2cU5mNC1NUjlkb0QzWElGMUpMWHFnb29WZ3RNQU5odHNrTUEzUnRyWGNJT2luWFk?oc=5"
-     },
+      "title": "용혜인, 의원직 사퇴 여부 등 각종 의혹에 “청문회서 말씀 드리겠다”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zVTBFdUdTQ3hKd002LTBHNmtocHlxRlhsY1pEOG9ycURMM3V4UF9zYUhVTndnT0R1M3lrRlVHWG5CZC1ma1k5QVIyWC0yNUZwWjhVNXdwWFJxTEk?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "\"의대 그만둘게요\" 자퇴하더니…다시 향하는 곳",
+   "source": "SBS",
+   "url": "https://n.news.naver.com/article/055/0001386329",
+   "published_at": "2026-09-07T07:02:43+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "지난해 의대를 그만둔 학생 다수의 특징이 있었습니다. 한 입시 학원이 대학 알리미 공시자료를 분석해 봤더니 지난해 전국 39개 의대 중도 탈락자가 383명으로…",
+   "summary_long": "지난해 의대를 그만둔 학생 다수의 특징이 있었습니다. 10명 중 8명이 의대 중에 지방의대 출신이라는 조사 결과가 나왔습니다. 한 입시 학원이 대학 알리미 공시자료를 분석해 봤더니 지난해 전국 39개 의대 중도 탈락자가 383명으로 집계됐습니다.\n\n이 중 301명은 비수도권 의대 재학생이었고요. 비수도권 의대 중도 탈락 학생은 해마다 증가 추세를 보이고 있습니다. 입시 업계는 지역 인재 전형이 확대되며 지방의 상위권 학생들이 우선 지방의대에 진학을 하고 이후에 수도권 의대로 재진입하는 경우도 많아졌다고 판단했습니다.",
+   "press": "SBS",
+   "photo": "03.jpg"
+  },
+  {
+   "title": "추미애 '12억 대형관사' 논란…더 가까운 '국평 9억대' 존재[뉴스럽다]",
+   "source": "노컷뉴스",
+   "url": "https://n.news.naver.com/article/079/0004186538",
+   "published_at": "2026-09-07T11:32:12+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "추미애 지사가 관사로 사용 중인 아파트 단지. 재정 위기를 선언하며 지출 줄이기에 나선 추미애 경기도지사가 12억 원이 넘는 도 예산을 투입해 대형 평수 아파트를 관사로…",
+   "summary_long": "추미애 지사가 관사로 사용 중인 아파트 단지. 재정 위기를 선언하며 지출 줄이기에 나선 추미애 경기도지사가 12억 원이 넘는 도 예산을 투입해 대형 평수 아파트를 관사로 사용하자 내부 불만이 제기되고 있다. 7일 경기도 등에 따르면, 도는 지난 6월 도청 인근의 전용면적 156㎡(47평) 아파트를 보증금 12억 2천만 원에 전세 계약해 도지사 관사로 제공했다.\n\n문제는 추 지사가 관사를 계약한 이후인 지난달 5일, 경기도의 '재정 비상상황'을 공식 선언하고 5400억 원이 넘는 감액 추경안을 발표했다는 점이다. 이혜원 경기도의회 의원(국민의힘·양평2)은 \"시·군 지원금까지 줄이려는 상황에서 대형 평수의 지사 관사는 현 재정 상황과 전혀 맞지 않는다\"고 지적했다. 한 직원은 \"남경필·이재명 전 지사는 자택에서 출퇴근했고, 김동연 전 지사는 자비로 전세를 구했다\"며 \"재정 위기라면서 도 예산으로 47평 아파트를 계약하는 것이 말이 되느냐\"고 꼬집었다.",
+   "quotes": [
+    "계약은 이미 체결돼 있는 상황이었고, 재정 위기가 이렇게 심각한 지 취임 이후 구체적으로 알 수 있었다",
+    "시·군 지원금까지 줄이려는 상황에서 대형 평수의 지사 관사는 현 재정 상황과 전혀 맞지 않는다",
+    "남경필·이재명 전 지사는 자택에서 출퇴근했고, 김동연 전 지사는 자비로 전세를 구했다"
+   ],
+   "press": "노컷뉴스",
+   "photo": "04.jpg",
+   "quoted": {
+    "quote": "계약은 이미 체결돼 있는 상황이었고, 재정 위기가 이렇게 심각한 지 취임 이후 구체적으로 알 수 있었다",
+    "n": 4,
+    "verified": 0,
+    "items": [
      {
       "press": "다음뉴스",
-      "title": "이진숙 “‘여자 히틀러’ 이어 ‘여자 전두환’까지…김민석, 추가 고소할 것”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BTERvaEk5OUl0NHdHNGhXNlpzSHB1YVh2NzJsS214Z095YWF2b1FyOC16dmpqa2RxZEpJTV9WcXBhVmhmcjdtZDdLNGt3M2s?oc=5"
+      "title": "추미애 '12억 대형관사' 논란…더 가까운 '국평 9억대' 존재[뉴스럽다]",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtVjM1S1R4eVdPS256WnoySjNmalZiSlpLUnQwLWlTUTRFcG1vRTRrY2ZoNGczR25DYzVNMnE1R3FUWUVWSHc?oc=5"
      },
      {
-      "press": "국제신문",
-      "title": "‘여자 히틀러’ 김민석 발언 모욕죄 고소한 이진숙, 영등포서 출석",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0NNdllqclE4NWZONU9CU0hyT25MaHlsdUxaTGlkMVpUeHplN045SXA1cjQtQ3dpbkg2MlZycUNmbnJnOWNWTERfN20zckZRZDNNQVRtZnMtQ3ZrVnF0NXJibjNlNGNNQm44YktYVmo5RkxjY3BtWEw2YTZsRFJsdUVKdFgyWmZpb3hEY2x3?oc=5"
+      "press": "뉴시스",
+      "title": "'재정 비상상황' 선언 추미애, 12억 관사 두고 '뒷말'",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2Qkx1Q0Y2OXFlWlppRzZNR1g0bGJGa0h6Tng4V3JiLUhjbGIxOTRnZVJ3V29pSFk1NUhGaWdSQk1Pa1ZoR0Z3THpfZHV4b2RqQ0o2OHU2c001bE90UkM3Vk9PQ3JTUDcwODdUTU1ZVHROT2ZodTQ2WtIBeEFVX3lxTFA2Qkx1Q0Y2OXFlWlppRzZNR1g0bGJGa0h6Tng4V3JiLUhjbGIxOTRnZVJ3V29pSFk1NUhGaWdSQk1Pa1ZoR0Z3THpfZHV4b2RqQ0o2OHU2c001bE90UkM3Vk9PQ3JTUDcwODdUTU1ZVHROT2ZodTQ2Wg?oc=5"
      },
      {
-      "press": "경기일보",
-      "title": "이진숙, 김민석 ‘여자 히틀러’ 고소 이어 ‘여자 전두환’ 추가 고소",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kRlkzRTdvRTNiZElYQVFMX1pwQlZZMXBleHdDcE84MUhYYzFQVjVEOGJWTVB1a2pDM21lZzkxbzhaTFpLdTFZcldnS2pSZEFBRTN5UVRzRGRFblk?oc=5"
+      "press": "TV조선뉴스",
+      "title": "추미애, '파산 직전'이라며 직원 체육대회비 깎았는데…12억 관사 논란",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zLWd5bkFnMGEyWVh4OFVucEdXWWpnTXZFR1l4YUstd0VHMHZ5N2JNTW8wdm1YM1EtY2w4aW9zQmN2OGFGWHFPYkVDcEZLV05oZmgwaEFiWE9nWmJJRTZJRmRSVEd6QnVaVzR0LTZHcFM2OVVDTXQ0UElCa0FZdnc?oc=5"
      },
      {
-      "press": "매일신문",
-      "title": "\"여자 히틀러\" 발언에 뿔난 이진숙…김민석 고소 후 경찰 출석 [영상]",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41Nmtkcm1lcnRFejIwQ092WFhNMkd0dmNxMHIwaXRXcWliWXNMLTZxRjF2T3FrSDRaRGdTLWhYMmJ3MjdLamh3TVNrMVl5b1pPM0tPck9uemMyRjM0eHppX0xB?oc=5"
+      "press": "콜뉴스24",
+      "title": "재정위기 선언한 추미애, 관사는 12억대 전세 아파트",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yWTlPYmlhV29oT1ctbkNnRXhfQW1DeFYyZjFWMEJTZlNOM0pJMlJPdnhhbzNkeldCOXhXUjN0V2hQcVRZV3M0cXViRGJ0bVNKMmVBbUlwS3MxZVJuTGZRTFA4Y3drT3NfQVJ4VA?oc=5"
      }
     ]
    }
   },
   {
-   "title": "이 대통령 20대 지지율 첫 20%대…‘용혜인 인선’ 파장",
-   "source": "한겨레",
-   "url": "https://n.news.naver.com/article/028/0002821840",
-   "published_at": "2026-09-06T17:00:15+09:00",
+   "title": "이 대통령 지지율 8주 연속 하락…김어준 \"20%대 추락 가능\"",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000509803",
+   "published_at": "2026-09-07T09:48:57+09:00",
    "section_id": "100",
    "view_rank": 1,
-   "selection": "정치",
-   "summary": "국정 동력 확보와 지지율 반등을 노린 이재명 정부 2기 개각이 후보자들을 둘러싼 각종 논란으로 역풍을 맞고 있다. 지난 4일 발표된 대통령 국정 운영 평가 조사에선…",
-   "summary_long": "프랑스를 국빈방문 하는 이재명 대통령이 6일 경기 성남 서울공항에서 환송 나온 김민석 더불어민주당 김민석 대표와 공군 1호기로 이동하고 있다. 국정 동력 확보와 지지율 반등을 노린 이재명 정부 2기 개각이 후보자들을 둘러싼 각종 논란으로 역풍을 맞고 있다. 지난 4일 발표된 대통령 국정 운영 평가 조사에선 20대 지지율이 처음으로 20%대로 떨어졌다.\n\n용혜인 성평등가족부 장관 후보자의 ‘비례대표 국회의원 겸직’ 논란과 김승원 법무부 장관 후보자의 ‘신약 임상시험 승인 청탁 의혹’ 등이 연일 터져나오며 여론에 악영향을 미쳤다는 분석이 나온다. 한국갤럽이 지난 1~3일 전국 만 18살 이상 1001명을 대상으로 조사(표본오차는 95% 신뢰수준에서 ±3.1%포인트, 전화면접조사)한 결과, 이 대통령 직무수행에 대한 긍정 평가는 40%였고, 부정 평가는 51%였다. 김민석 민주당 대표가 취임 후 3개월 내 당 지지율을 10%포인트 끌어올리겠다고 공언한 가운데 이번 인사청문 정국은 김 대표의 첫 시험대가 될 것이란 전망이 나온다.",
+   "comment_count": 698,
+   "comment_agree": 225,
+   "comment_disagree": 45,
+   "division_balance": 0.333333,
+   "division_score": 1.867373,
+   "selection": "찬반 쟁점",
+   "summary": "이재명 대통령의 국정 수행 지지도가 8주 연속 하락해 취임 후 최저치를 기록했습니다. 지난달 31일부터 이달 4일 리얼미터 조사 결과, 이 대통령 국정 수행 긍정 평가는…",
+   "summary_long": "방송인 김어준 씨는 \"이 추세라면 한 달 내에 20%대 지지율이 나올 가능성이 높다\"고 진단했습니다. 이재명 대통령의 국정 수행 지지도가 8주 연속 하락해 취임 후 최저치를 기록했습니다. 지난달 31일부터 이달 4일 리얼미터 조사 결과, 이 대통령 국정 수행 긍정 평가는 지난주보다 1.5%p 내린 37.4%로 집계됐습니다.\n\n반대로 부정 평가는 0.8%p 오른 59.5%로, 격차가 22.1%p까지 벌어졌습니다. [김어준 / 방송인(유튜브 '김어준의 겸손은힘들다 뉴스공장'): \"청와대 대변인이나 대통령의 SNS로 해결될 상황이 아닙니다. 조사일시 : 2026년 8월 31일~9월 4일(대통령 국정 수행) / 9월 3~4일(정당 지지도).",
    "quotes": [
-    "(비례대표 의원-장관 겸직이라는) 기존 관례를 깨는 것이라면 그 혜택을 전체가 받을 수 있게끔 노력해야 좋은 정치인데, 그 이유가 나와 내 정당의 이익을 위한 것으로 비치고 있다",
-    "청년층은 용 후보자의 욕심이 과하다고 보는 것"
+    "이 추세라면 한 달 내에 20%대 지지율이 나올 가능성이 높다"
    ],
-   "press": "한겨레",
-   "photo": "02.jpg",
+   "press": "JTBC",
+   "photo": "05.png",
    "quoted": {
-    "quote": "(비례대표 의원-장관 겸직이라는) 기존 관례를 깨는 것이라면 그 혜택을 전체가 받을 수 있게끔 노력해야 좋은 정치인데, 그 이유가 나와 내 정당의 이익을 위한 것으로 비치고 있다",
+    "quote": "이 추세라면 한 달 내에 20%대 지지율이 나올 가능성이 높다",
     "n": 1,
     "verified": 0,
     "items": [
      {
-      "press": "한겨레",
-      "title": "이 대통령 20대 지지율 첫 20%대…‘용혜인 인선’ 파장",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OTDlKTnQ1VnlGX3hKTnFITDZKbVVySEM4aFJmX0J4MEFIMkllNWdDYU5IWFpFeW9BU3JPUUtoU203cUJqSDJoVEhQTktJdXVDTlNaYlBYeDdUMUVsWm9yZzhnc0k0M0hhTFowbWNMUGZxcnd2?oc=5"
+      "press": "다음뉴스",
+      "title": "이 대통령 지지율 8주 연속 하락…김어준 \"20%대 추락 가능\"",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuZVI0ajgyNkVjRnY2a19yYWVuV0ZXUFNjVk5JTVVlZXM2c0xzaHp5SUhyamQyMC1UbENrU1BXZ2hSUk1uUUE?oc=5"
      }
     ]
    }
   },
   {
-   "title": "‘삼전닉스’ 25조원 선납 받아도 역부족…한전, 전기료 인상 대신 채권 발행 늘리나",
-   "source": "조선비즈",
-   "url": "https://n.news.naver.com/article/366/0001190565",
-   "published_at": "2026-09-06T06:01:13+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "한전은 정부 지원에 더해 내년 말까지 삼성전자, SK하이닉스로부터 선납금 25조원을 확보하면 기존 한전채 발행 한도가 2배로 회귀해도 필요한 운영 재원을 마련하는 게…",
-   "summary_long": "한전, 송전망 확충 100조원 투자 여력 부족. 한국전력이 재무 구조 개선과 송전망 등 인프라 투자 확대를 위해 채권 발행을 대폭 늘려 자금을 조달할 것이라는 관측이 나오고 있다. 한전은 정부 지원에 더해 내년 말까지 삼성전자, SK하이닉스로부터 선납금 25조원을 확보하면 기존 한전채 발행 한도가 2배로 회귀해도 필요한 운영 재원을 마련하는 게 가능할 것으로 보고 있다.\n\n한전 관계자는 “내년 종료되는 한전채 발행 한도 5~6배 확대 조치 연장은 고려하지 않으며, 기존 한도인 2배에서 자금 운용이 가능하도록 여러 방안을 고심하고 있다”고 말했다. 김진수 한양대 자원환경공학과 교수는 “전기 요금 정상화로 재무 구조를 개선하고 투자 여력을 만드는 게 근본적인 해법이지만, 어렵다고 본다”며 “2028년 총선을 앞두고 내년 종료되는 한전채 발행 한도 확대 조치를 연장할 가능성이 크다”고 전망했다. 정연제 서울과학기술대 에너지정책학과 교수도 “내년 여야 합의로 한전법을 개정해 한전채 발행 한도를 조정할 것으로 보인다”며 “반도체 호황에 따른 추가 세수를 한전에 자본을 투입하는 방안도 고려해야 한다”고 말했다.",
-   "quotes": [
-    "내년 종료되는 한전채 발행 한도 5~6배 확대 조치 연장은 고려하지 않으며, 기존 한도인 2배에서 자금 운용이 가능하도록 여러 방안을 고심하고 있다",
-    "전기 요금 정상화로 재무 구조를 개선하고 투자 여력을 만드는 게 근본적인 해법이지만, 어렵다고 본다",
-    "2028년 총선을 앞두고 내년 종료되는 한전채 발행 한도 확대 조치를 연장할 가능성이 크다"
-   ],
-   "press": "조선비즈",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "2028년 총선을 앞두고 내년 종료되는 한전채 발행 한도 확대 조치를 연장할 가능성이 크다",
-    "n": 1,
-    "verified": 0,
-    "items": [
-     {
-      "press": "Chosunbiz",
-      "title": "‘삼전닉스’ 25조원 선납 받아도 역부족…한전, 전기료 인상 대신 채권 발행 늘리나 - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRm1hMDVxc1FIckJTRXlJcUo2Wl9CUGt5bzh5ejZ5NEJxZGtBMmUyVEpBSWZ0WV9Ockwza2ZaRy14X3preTV3d05FQl9IZlVZclRFQzVJX000Q0ZiUnVVS2dudG1meHZ1Z0ZWblNOMkJ5SWx2THhjZENpREIzZF91c1poZFLSAZgBQVVfeXFMTjBxLUJLa0FZbDNTM2hhbWlxMTVfR1ZjMnU0V2RmMTl2Uk1PeEc5eVZhSGNGY0RaSVNVX2NlN1NIUjJxaVJQMVlrM3p0c1JqbjEwSnB3dm55STRhR094S3lUUmVjdUhpSWFWNVRvR0NSUkhGVk1CWG1wQWFXMmo3WmFVVEc1MExEc19GWUdNbEJDdS1iX2d2Njk?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "'성시경 믿고 샀는데, 과연?' 4700원 비빔밥…김밥천국 놀랄 기세[먹어보고서]",
-   "source": "이데일리",
-   "url": "https://n.news.naver.com/article/018/0006364332",
-   "published_at": "2026-09-06T09:16:16+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "성시경 참여 '시경 Pick' 비빔밥 3종 선봬. 세븐일레븐 ‘시경 Pick 전주식소고기비빔밥’에 소고기 등 8가지 고명이 칸별로 나뉘어 담겨 있다.",
-   "summary_long": "성시경 참여 '시경 Pick' 비빔밥 3종 선봬. 가격은 외식 비빔밥(1만 1769원)의 40% 수준. 세븐일레븐 비빔밥 매출 25%↑…'밥 경쟁' 가열 무엇이든 먹어보고 보고해 드립니다.\n\n‘시경 Pick 전주식소고기비빔밥’의 고명과 고추장, 참기름을 밥에 넣은 모습. 전주식소고기비빔밥은 기존 인기 제품을 시리즈에 편입한 것으로, 소고기 등 8가지 고명에 고추장을 곁들였다. 세븐일레븐 ‘시경 Pick 전주식소고기비빔밥’에 소고기 등 8가지 고명이 칸별로 나뉘어 담겨 있다.",
-   "press": "이데일리",
-   "photo": "04.jpg"
-  },
-  {
-   "title": "李대통령 프랑스 출국…나경원 “인사 참사 쑥대밭인데, 도피외유냐”",
-   "source": "헤럴드경제",
-   "url": "https://n.news.naver.com/article/016/0002693343",
-   "published_at": "2026-09-06T13:11:06+09:00",
+   "title": "장동혁 \"김승원 지명 철회 넘어 내각 전면 철회해야\"",
+   "source": "아이뉴스24",
+   "url": "https://n.news.naver.com/article/031/0001055860",
+   "published_at": "2026-09-07T09:34:08+09:00",
    "section_id": "100",
    "view_rank": 4,
-   "comment_count": 142,
-   "comment_agree": 137,
-   "comment_disagree": 34,
-   "division_balance": 0.397661,
-   "division_score": 2.046957,
+   "comment_count": 209,
+   "comment_agree": 89,
+   "comment_disagree": 15,
+   "division_balance": 0.288462,
+   "division_score": 1.342489,
    "selection": "찬반 쟁점",
-   "summary": "나경원 국민의힘 의원이 6일 이재명 대통령이 프랑스 국빈 방문을 위해 출국한 것에 대해 “도피외유”라고 비판했다. 나 의원은 이날 자신의 페이스북에 “온 나라가 김승원…",
-   "summary_long": "나경원 “인사부터 철회하고 가라” 나경원 국민의힘 의원이 6일 이재명 대통령이 프랑스 국빈 방문을 위해 출국한 것에 대해 “도피외유”라고 비판했다. 나 의원은 이날 자신의 페이스북에 “온 나라가 김승원, 용혜인, 강신철, 홍지선 등 개각 인사 참사로 쑥대밭인데, 정작 사태를 수습해야 할 임명권자는 (프랑스) 파리행”이라며 이같이 말했다.\n\n이어 “당장 닥친 위기만 모면하려는 비겁한 외유가 아니라면, 프랑스가기 전 잘못된 인사부터 당장 철회하고 가라”고 주장했다. 앞서 이 대통령은 이날 오전 프랑스 국빈 방문을 위해 서울공항을 통해 출국했다. 이 대통령은 이날 출국 직전 엑스(X·옛 트위터)에 글을 올려 “네팔 홍수 참사로 실종된 우리 국민 아홉 분에 대한 수색과 구조가 아직 계속되고 있다”며 “참사 발생 열흘이 넘도록 애타게 소식을 기다리고 계실 가족분들 마음을 생각하면 참으로 안타깝고 무겁다”고 적었다.",
+   "summary": "장동혁 국민의힘 대표는 7일 이재명 대통령의 최근 개각을 두고 \"김승원 후보자 지명 철회는 물론 내각 자체를 전면 철회해야 한다\"며 공세 수위를 높였다. 김승원 법무부…",
+   "summary_long": "장동혁 국민의힘 대표는 7일 이재명 대통령의 최근 개각을 두고 \"김승원 후보자 지명 철회는 물론 내각 자체를 전면 철회해야 한다\"며 공세 수위를 높였다. 장 대표는 이날 국회에서 열린 최고위원회의에서 \"이번 개각은 이재명 대통령의 국민 포기 선언이나 마찬가지\"라며 \"개각의 목표는 분명하다. 김승원 법무부 장관 후보자와 용혜인 후보자를 둘러싼 각종 의혹을 거론하는 동시에 물가와 부동산 문제까지 연결해 이번 개각을 \"민생 포기 선언\"이라고 비판했다.\n\n장 대표는 김 후보자의 신약 임상시험 승인 청탁 의혹을 거론하며 \"문제는 이 청탁 사건의 결과\"라며 \"김 후보자는 청문회장에 앉을 자격조차 없다\"고 주장했다. 장 대표는 용 후보자의 과거 정치 활동과 기본소득당 관련 발언 등을 거론하며 \"이재명 정권의 좌파 정책 특공대\"라고 주장했다. 장 대표는 \"이 대통령은 재정부장관 후보자에게 추석 물가를 못잡으면 장관 지명을 철회하겠다고 했다.",
    "quotes": [
-    "온 나라가 김승원, 용혜인, 강신철, 홍지선 등 개각 인사 참사로 쑥대밭인데, 정작 사태를 수습해야 할 임명권자는 (프랑스) 파리행",
-    "당장 닥친 위기만 모면하려는 비겁한 외유가 아니라면, 프랑스가기 전 잘못된 인사부터 당장 철회하고 가라",
-    "참사 발생 열흘이 넘도록 애타게 소식을 기다리고 계실 가족분들 마음을 생각하면 참으로 안타깝고 무겁다"
+    "이 대통령은 재정부장관 후보자에게 추석 물가를 못잡으면 장관 지명을 철회하겠다고 했다. 그런데 밥상 물가는 연일 고공행진중",
+    "김승원 후보자 지명 철회는 물론 내각 자체를 전면 철회해야 한다. 이들 모두 청문회장에 앉을 자격조차 없다",
+    "민생은 파탄이고 안보는 벼랑 끝이다. 좌향좌 폭주의 끝은 정권의 몰락이며 국민이 반드시 심판할 것"
    ],
-   "press": "헤럴드경제",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "온 나라가 김승원, 용혜인, 강신철, 홍지선 등 개각 인사 참사로 쑥대밭인데, 정작 사태를 수습해야 할 임명권자는 (프랑스) 파리행",
-    "n": 3,
-    "verified": 0,
-    "items": [
-     {
-      "press": "문화일보",
-      "title": "“온나라 인사 참사 쑥대밭인데, 대통령 도피외유” 나경원의 말",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlQlE3Sm5wdmJjUl91WUNwNGlFTW00R2NEcEktclF0TnZPdmdwSUJvX1ZlTlFJN3VBWmZHRm16R3BwVG92SHltM25HTjFqZEZD?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "李대통령 프랑스 출국…나경원 “인사 참사 쑥대밭인데, 도피외유냐”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBR1Z0Qk8xNUhWMTcwQ1h0eEI5U1draENkZHE5WmhRd20yOWFJOGdCU1UxSnhPdmpWRVNTeHUxNUxrMHkxVWl5TURadlU1OFE?oc=5"
-     },
-     {
-      "press": "펜앤마이크",
-      "title": "李대통령 \"무거운 발걸음\"...프랑스로 출국",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMQ1lLcXdjYlM0SkpPZ3cyVTlDVHFZTFpwSWQ2TUlsbFNSbmJNeTZ0UkEyQXpITUJZNjhhcndrV1JhU0tGdGZSS3NQcGxCOTZNekxuU2NCV1VtUW1DbGFVYnd4ZFFPR2JUdVkw0gFvQVVfeXFMTzU5WHlfLWttU2J3M1I3ZmlWZkRFVjRKcmc5SW52ZmR5VmJpckItMG5KeElwM2FrS2tkYmFtY0pqVE5PQ0hSUnlEMGtTc0dYUUFZRndrdjFtOTNueHRZWW94V1R1bVNtUmlOcERLSWJr?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "\"한국 파병하면 전쟁 참여 간주\" 엄포…정부, 여론 '촉각'",
-   "source": "SBS",
-   "url": "https://n.news.naver.com/article/055/0001386266",
-   "published_at": "2026-09-06T20:02:54+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 466,
-   "comment_agree": 213,
-   "comment_disagree": 27,
-   "division_balance": 0.225,
-   "division_score": 1.234079,
-   "selection": "찬반 쟁점",
-   "summary": "우리 군이 호르무즈 해협에 파병할 경우 '전쟁 참여'로 간주하겠다고 이란 고위 당국자가 경고했다는 보도가 나왔습니다. 레바논의 한 친헤즈볼라 매체 알마야딘은 현지 시간…",
-   "summary_long": "우리 군이 호르무즈 해협에 파병할 경우 '전쟁 참여'로 간주하겠다고 이란 고위 당국자가 경고했다는 보도가 나왔습니다. 파병을 둘러싸고 국내외 여론에 촉각을 곤두세우고 있는 우리 정부의 셈법이 더 복잡해지고 있습니다. 이재명 대통령과 마크롱 프랑스 대통령의 정상회담에서 이 문제가 논의될지도 관심입니다.\n\n레바논의 한 친헤즈볼라 매체 알마야딘은 현지 시간 지난 4일, 이란 고위 당국자가 \"호르무즈 해협에서 한국이 이란에 맞서는 행동을 한다면 이란에 대한 직접적인 군사적 침략이자 전쟁 참여로 간주하겠다\"는 경고를 했다고 전했습니다. 특히 이재명 대통령이 프랑스 국빈 방문을 위해 오늘(6일) 출국해 모레 마크롱 프랑스 대통령과 정상회담을 갖는 만큼 양국 정상 간 관련 논의가 이뤄질 거라는 것이 청와대 관계자의 전망입니다. 국민의힘은 정부가 눈치를 보느라 결정을 미루는 사이 '샌드위치' 신세가 됐다고 비판하면서도 명확한 파병 촉구 입장은 내지 않고 있는데, 여론의 흐름을 지켜보겠다는 의도로 풀이됩니다.",
-   "quotes": [
-    "중동 지역 평화·안정의 조속한 회복과 호르무즈 해협에서의 자유로운 통항을 위해 관련국들을 포함한 국제사회와 긴밀히 소통하고 있다",
-    "호르무즈 해협에서 한국이 이란에 맞서는 행동을 한다면 이란에 대한 직접적인 군사적 침략이자 전쟁 참여로 간주하겠다"
-   ],
-   "press": "SBS",
+   "press": "아이뉴스24",
    "photo": "06.jpg",
    "quoted": {
-    "quote": "호르무즈 해협에서 한국이 이란에 맞서는 행동을 한다면 이란에 대한 직접적인 군사적 침략이자 전쟁 참여로 간주하겠다",
+    "quote": "민생은 파탄이고 안보는 벼랑 끝이다. 좌향좌 폭주의 끝은 정권의 몰락이며 국민이 반드시 심판할 것",
     "n": 3,
     "verified": 0,
     "items": [
      {
       "press": "다음뉴스",
-      "title": "\"한국 파병하면 전쟁 참여 간주\" 엄포…정부, 여론 '촉각'",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WUlZlOVBPaTc4RTlFX0daYjlzV1ZmYjJFMndaQk9DMnJoNkN1WkV5QUdoNXY4M1M1N2VHeUZRdzREckZQQVZJMk9fbkhCam1tVFVmaA?oc=5"
+      "title": "장동혁 \"김승원 지명 철회 넘어 내각 전면 철회해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1GSEMyMHh1ZHpDZzRGN2ttS2NNR1Y0YjVOVlFsb0ZfV0EtdUlyQXBkT1VNWWdWS3R3WUJrRlNuYmVDOURYSXc?oc=5"
      },
      {
-      "press": "news.nate.com",
-      "title": "미-이란 사이 고심↑…내일 마크롱과 호르무즈 논의",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTUTVZcWhHOTg0MVUzUXdtbW1vbEhKNGtKR2k0SDFka1JROU05bklqOW04QlpnWV9WWVdSUGdWbHRlRmpKRkFCWldjYm1YUUZGeGNV?oc=5"
+      "press": "시사위크",
+      "title": "장동혁 “국민 포기 개각”… 대정부 공세 고삐",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94WFo1SjhBdE5Sbkp5QjlGQU1wU0Q5Mzg2Ul9QbG55bjYwT0xTd1dNQ0wxdXhwTTU2YkNsT1dZN05ZY2x4N0wtUE1FZ2VMeldrVy1lZnQ1ZDV5N3RwRG91MG94NnEwbWkydnlVcUNQWdIBb0FVX3lxTE94WFo1SjhBdE5Sbkp5QjlGQU1wU0Q5Mzg2Ul9QbG55bjYwT0xTd1dNQ0wxdXhwTTU2YkNsT1dZN05ZY2x4N0wtUE1FZ2VMeldrVy1lZnQ1ZDV5N3RwRG91MG94NnEwbWkydnlVcUNQWQ?oc=5"
      },
      {
-      "press": "아시아투데이",
-      "title": "이란 “韓, 호르무즈 파병시 전쟁 참여 간주할 것”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZbzAzNVZVS1NpS3dUdVhMeTk1LV9xV1JfM29TOXZETjBya2NFZ0RaRnktbXpvaWR4VHE1b2JNMi01UGo2SkNpanB2VGNTTkZ1Qkw1cVd1b19PdGljM1JWSTJ4cE5UVlNrbU1PdmNR?oc=5"
+      "press": "네이트",
+      "title": "장동혁 \"李, 국민포기 선언 개각…김현지가 인사 검증 뭉갰는지 확인해야\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtNXFoNGFYdzRLM1dYUG9yUVNDMnh0dlpuOWxyeHBpcTlLY2tBMUdJYU5zc2hDOHowd2dtNXl3QzZISDhDbVhoZGUtTXNaQWJZT1RBRGUzTzJ6dENsbl9wWmlXMC10YWdsOGw2X3owQ2xIdFdtOU81TA?oc=5"
      }
     ]
    }
   },
   {
-   "title": "“과장 선에서 막혀?”…한동훈, 김승원 ‘신약 청탁’ 의혹 녹취 또 공개",
+   "title": "김계리 “한동훈, 급해서 버르적…” 김승원 녹취 공개에 “주목받으려고”",
    "source": "한겨레",
-   "url": "https://n.news.naver.com/article/028/0002821800",
-   "published_at": "2026-09-06T11:58:19+09:00",
+   "url": "https://n.news.naver.com/article/028/0002821955",
+   "published_at": "2026-09-07T14:38:14+09:00",
    "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 197,
-   "comment_agree": 214,
+   "view_rank": 1,
+   "comment_count": 769,
+   "comment_agree": 218,
    "comment_disagree": 27,
-   "division_balance": 0.224066,
-   "division_score": 1.229886,
+   "division_balance": 0.220408,
+   "division_score": 1.21342,
    "selection": "찬반 쟁점",
-   "summary": "한동훈 무소속 의원이 김승원 법무부 장관 후보자의 식약처 ‘코로나19 치료제 임상시험 승인 청탁 의혹’과 관련해 김 후보자와 브로커 양아무개씨 간에 오간 청탁 통화…",
-   "summary_long": "한동훈 무소속 의원이 김승원 법무부 장관 후보자의 식약처 ‘코로나19 치료제 임상시험 승인 청탁 의혹’과 관련해 김 후보자와 브로커 양아무개씨 간에 오간 청탁 통화 녹취를 공개했다. 또 해당 내용이 김강립 당시 식약처장을 통해 식약처 담당 과장에게 전달됐다고 주장했다. 해당 통화 녹취를 보면, 양씨가 “담당자들이 연락은 오는데 과장 선에서 넘어가지를 않는다고 한다”고 말했고, 김 후보자가 “과장 선에서 막혀있다?\n\n앞서 김 후보자는 양씨의 부탁을 받고 2021년 10월12일 코로나19 치료제 개발 업체인 제넨셀의 임상 2·3상 시험 계획 승인을 당시 김 처장에게 신속 처리해달라고 부탁하는 취지의 메시지를 보낸 혐의로 수사를 받았다. 한 의원은 이를 두고 “브로커 양(씨의) 청부받은 김승원 후보자가 김강립 (당시) 식약처장에게 로비한 후, 김강립 (당시) 식약처장은 그걸 혼자 묵살한 것이 아니라 실제로 식약처 담당자에게 김승원 로비를 전달했다”며 “실무진까지 전달된 성공한 로비”라고 주장했다. 김승원 의원에 대한 검찰의 표적 수사 당시 휴대전화 4년치를 털었다고 하는데, 그거냐”며 “불법적인 녹취와 수사자료 입수 경위를 소상하게 밝히고 국민 앞에 사과하고 용서를 구하라”고 했다.",
+   "summary": "한동훈 무소속 의원이 7일 국회에서 열린 본회의에 참석하기 위해 국회 본청에 들어서다 취재진과 만나 연일 제기하고 있는 김승원 법무부 장관 후보자 의혹과 관련한 질문에…",
+   "summary_long": "(왼쪽) 한동훈 무소속 의원이 7일 국회에서 열린 본회의에 참석하기 위해 국회 본청에 들어서다 취재진과 만나 연일 제기하고 있는 김승원 법무부 장관 후보자 의혹과 관련한 질문에 답하고 있다. 윤석열 전 대통령 변호인 김계리 변호사가 김승원 법무부 장관 후보자의 ‘신약 임상시험 계획 승인 청탁 의혹’과 관련해 연일 통화 녹취를 공개하는 한동훈 무소속 의원을 두고 “당장 주목받지 못하면 두려운 것”이라고 말했다. 김 변호사는 6일 페이스북에 글을 올려 “한동훈이 김승원 법무부 장관 후보자 녹취록을 자신의 (페이스북) 피드에 직접 만들어 공개한 것을 보고 빵 터졌다”며 “조급하구나”라고 썼다.\n\n김 변호사는 지난 1월 윤 전 대통령의 내란 우두머리 혐의 사건 1심 결심 공판 당시 “가장 큰 민주적 정당성을 가진 대한민국 대통령이 거대 야당과 국회의원도 아닌 당대표 한동훈과 그를 따르는 국회의원 일부에 의해 어떤 조사도 없이, 계엄이 갑자기 내란이 돼 탄핵소추안이 상정돼 가결됐다”며 한 의원을… 한편, 민주당은 이날 김 후보자의 ‘신약 청탁 의혹’ 등을 주도적으로 제기하는 한 의원의 녹취 입수 경위를 문제 삼으며 한 의원을 공무상 비밀 누설 등의 혐의로 고위공직자범죄수사처에 고발했다. 김 후보자 역시 7일 오전 기자들과 만나 “한 의원이 수사 자료를 조금씩 언론에 흘리면서 정치 공세를 벌이는데, 수사 자료 유출이야말로 형사처벌감”이라고 주장했다.",
    "quotes": [
-    "브로커 양(씨의) 청부받은 김승원 후보자가 김강립 (당시) 식약처장에게 로비한 후, 김강립 (당시) 식약처장은 그걸 혼자 묵살한 것이 아니라 실제로 식약처 담당자에게 김승원 로비를 전달했다",
-    "과장님, 김승원 의원이 따로 문자를 보냈습니다. 처장님이 챙겨보되, 다음부터는 그쪽에서 이런 얘기 안 나오게끔 해달라고 하셨습니다",
-    "그 녹취, 어디서 났냐. 김승원 의원에 대한 검찰의 표적 수사 당시 휴대전화 4년치를 털었다고 하는데, 그거냐"
+    "가장 큰 민주적 정당성을 가진 대한민국 대통령이 거대 야당과 국회의원도 아닌 당대표 한동훈과 그를 따르는 국회의원 일부에 의해 어떤 조사도 없이, 계엄이 갑자기 내란이 돼 탄핵소추안이 상정돼 가결됐다",
+    "한동훈이 김승원 법무부 장관 후보자 녹취록을 자신의 (페이스북) 피드에 직접 만들어 공개한 것을 보고 빵 터졌다",
+    "명백한 공무상 비밀 누설이자, 피의사실 공표, 개인정보보호법 및 공공기록물관리법 위반에 해당하는 중대 범죄"
    ],
    "press": "한겨레",
    "photo": "07.jpg",
    "quoted": {
-    "quote": "과장님, 김승원 의원이 따로 문자를 보냈습니다. 처장님이 챙겨보되, 다음부터는 그쪽에서 이런 얘기 안 나오게끔 해달라고 하셨습니다",
+    "quote": "명백한 공무상 비밀 누설이자, 피의사실 공표, 개인정보보호법 및 공공기록물관리법 위반에 해당하는 중대 범죄",
     "n": 10,
     "verified": 0,
     "items": [
      {
       "press": "한겨레",
-      "title": "“과장 선에서 막혀?”…한동훈, 김승원 ‘신약 청탁’ 의혹 녹취 또 공개",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVLVd4aDVlUFNPVmF1aERYTjBySkhCLXFoMDFDWXA2VEswbFhTZ2IwaVY0SUxGcGw4WlFsQ2JsalhVRjYyY1dLWFg1bU44enU2cVFWZWh1LTJiSTEzR2ppT3gtZ1dseE1mekxJU3VoYUpSUU10?oc=5"
-     },
-     {
-      "press": "news.nate.com",
-      "title": "한동훈, 김승원 '임상시험 승인 청탁' 통화 또 공개…민주 \"입수 경위 밝혀야\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZ2tPeFJlSU5zVk9MWjFYOEx3MlBSa0pEM0hsQm14dVRpa25Zel9iUG1NQVJCbERpeDNvbUc5RVNEbHJRb0tZcmpHcmJXbDlQZkwzcmhzS1ViNF9nZ3RTZGRmRkNmSjJxSm1udmhCWnp4dWx4X1pOVg?oc=5"
+      "title": "김계리 “한동훈, 급해서 버르적…” 김승원 녹취 공개에 “주목받으려고”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQcGxUSTlWdGNFb25OOVdIVzlFc0Zad1U3TWlwSG5sN1NZbGZsODh3ckIxc2VyRVRRZ1FXekdCLW14V2lTRk5RRENIajRuOVpOZ0NVdDJKUmxId2w1WVhfbjFkUzFpOGRwNWxodkxsQzV5c0pp?oc=5"
      },
      {
       "press": "연합뉴스",
-      "title": "\"과장선에서 막혀? 알았어\"…韓, 김승원-브로커 통화 녹취 공개(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkTTh2cXdEZFozVGpZVWtHT2E2UW51WU90TU10NkxFS3dNSjRYckw5NHhkNjlOeV9ROFlueXdGR0dES240aGczOUhsRGRZcm9kZFVkWU13S1pGMzBjUU9MZdIBYEFVX3lxTFBkTTh2cXdEZFozVGpZVWtHT2E2UW51WU90TU10NkxFS3dNSjRYckw5NHhkNjlOeV9ROFlueXdGR0dES240aGczOUhsRGRZcm9kZFVkWU13S1pGMzBjUU9MZQ?oc=5"
+      "title": "與, 한동훈에 \"수사기록 불법 유출\" 역공…공수처 고발도(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45WV80aFV2MGNjSmJzZGZEMFJYZkRJU3N1eXhhSXB6QVp3ckEyOU9DWWVRTTdPcWl1RkozUDFJY1dOTVk1OHRTRERabUlaV2Jhc05hZ1hfczltRmh3dzk4cdIBYEFVX3lxTE45WV80aFV2MGNjSmJzZGZEMFJYZkRJU3N1eXhhSXB6QVp3ckEyOU9DWWVRTTdPcWl1RkozUDFJY1dOTVk1OHRTRERabUlaV2Jhc05hZ1hfczltRmh3dzk4cQ?oc=5"
      },
      {
-      "press": "다음뉴스",
-      "title": "한동훈 “김승원 ‘신약 로비’ 의혹 녹취록” 또 공개…“성공한 로비”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04SjM3VWpYNnY0bVpfWTQzQzlCa0JxXzNIRHdxVDlOLVNjRm96clVQUG1laWJzSVB1RERoOHBQYVJCOVJLV0YxcnFUSjFZeTQ?oc=5"
+      "press": "뉴시스",
+      "title": "與김동아 \"한동훈, 김승원 수사기록 불법으로 받아…공수처에 고발\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IX2lNZXBHVnVzRjdOMG1yazdGN3NnQU9reHNJd0YxMHR5UGQwNVJZRlZKRzN5U05wc2IzTURYcHhfVkJmU2prWF9BbTZCRUdoeEtLeU42QmNCbGZTUFRYT0tsUmRuS1pQVk1GZXJlQ256R1ZlSWhQWdIBeEFVX3lxTE9IX2lNZXBHVnVzRjdOMG1yazdGN3NnQU9reHNJd0YxMHR5UGQwNVJZRlZKRzN5U05wc2IzTURYcHhfVkJmU2prWF9BbTZCRUdoeEtLeU42QmNCbGZTUFRYT0tsUmRuS1pQVk1GZXJlQ256R1ZlSWhQWQ?oc=5"
      },
      {
-      "press": "여성신문",
-      "title": "김승원 법무장관 후보, 한동훈 ‘식약처 로비’ 주장에 “녹취록 왜곡”",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pTDZrQ3RLYXoyMmhxUGZlaEpqeUFjTzhOc1RyRlo2NFRMcWlNU1ZPU1FaZHZNSVU1ZXdUSWNweEx4bWZzbThlSGFzWm8wZEdCUGtUY0VyeV9OcnRIMEt1YVdzeHRWVW00eUFIM28zZ3czT3fSAXNBVV95cUxNaUw2a0N0S2F6MjJocVBmZWhKanlBY084TnNUckZaNjRUTHFpTVNWT1NRWmR2TUlVNWV3VEljcHhMeG1mc204ZUhhc1pvMGRHQlBrVGNFcnlfTnJ0SDBLdWFXc3h0VlVtNHlBSDNvM2d3M093?oc=5"
+      "press": "한겨레",
+      "title": "민주, ‘김승원 의혹 제기’ 한동훈에 “비공개 수사기록으로 정치 공작”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CZS1fN2lWQ2JpVjgzcVM1d2J0SDJUMTVuSVBiZkx6MWxaczdTNUFHVkNwODNPR3V6TDd6OEh5Ti1sd1o0cHhpRDRmNDUyaTRUSUMyc0UtQ0FDYWxkNUFITEdXaTAtZGRaZld4ZnEwQjFVTHhy?oc=5"
      },
      {
-      "press": "시사저널",
-      "title": "식약처장 비서 문자까지 공개한 한동훈…與 “악의적인 캐비닛 정치”",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZEhqbmRjWjl2Yk03UlhTdXQ0ZXNqSVlma1loRGU5Z21kSHFEM2tzbUpCLVdFNU1wVk9COW9QR2FnaGVrcWx0ekhadmNnUDBueXlwc2c2VXNkcjF2N1BFSlZTUHFDRHhndm5OSXhENnhZVDjSAXNBVV95cUxPd2RIam5kY1o5dmJNN1JYU3V0NGVzaklZZmtZaERlOWdtZEhxRDNrc21KQi1XRTVNcFZPQjlvUEdhZ2hla3FsdHpIWnZjZ1Awbnl5cHNnNlVzZHIxdjdQRUpWU1BxQ0R4Z3ZuTkl4RDZ4WVQ4?oc=5"
+      "press": "국제신문",
+      "title": "민주, 한동훈에 “수사기록 불법 유출” 역공…공수처 고발도",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdDFOVXFVbkhWekZhanZwTGFsd0pPTk5TOElRZTFocC1nNi1EZUhySVFZakFqQkJuNmw5SFdWaWRyV0ZXa0JHTElXT29BcVRRMDJYdDk1alVIT1NaSWJLbGZpc0o3emx3MjJzTUpHSDR3ei1lRlBnNEpGOXduYWkyMU9wbXB4cmZibmhrNTBR?oc=5"
+     },
+     {
+      "press": "조선일보",
+      "title": "與, 한동훈 고발 \"김승원 녹취 입수 경위 밝혀라\"",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQblRyUERZSzZ4cFR6cTJpMDY1Vy03YzUzOTRsOHBFdlN2Umt1TTk2MWF3RGxDMC1ySzRTWVdEMnRUVVQ0cldpN1EwT05MTElNaHlXUXZJVE9KMDdtcjk1Wk83aHVUcVVLa2U1enF4TlN5RlhKUjFQYzljSks4a2x3aWpUVVNXUQ?oc=5"
      }
     ]
    }
@@ -289,139 +303,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/01.png",
-   "pngBytes": 1732049,
-   "feed": "오늘의 뉴스 2026-09-07\n\n· 이진숙, '여자 히틀러' 발언 김민석 고소…경찰 출석\n· 이 대통령 20대 지지율 첫 20%대…‘용혜인 인선’ 파장\n· ‘삼전닉스’ 25조원 선납 받아도 역부족…한전, 전기료 인상 대신 채권 발행 늘리나\n· '성시경 믿고 샀는데, 과연?' 4700원 비빔밥…김밥천국 놀랄 기세[먹어보고서]\n· 李대통령 프랑스 출국…나경원 “인사 참사 쑥대밭인데, 도피외유냐”\n· \"한국 파병하면 전쟁 참여 간주\" 엄포…정부, 여론 '촉각'\n· “과장 선에서 막혀?”…한동훈, 김승원 ‘신약 청탁’ 의혹 녹취 또 공개"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/01.png",
+   "pngBytes": 1244269,
+   "feed": "오늘의 뉴스 2026-09-08\n\n· 김어준, '지지율 37%' 듣더니 \"한달 내 '앞자리 2' 가능성\"\n· ‘가족소득당’ 논란 와중에… 용혜인 남편 최고위원 선출\n· \"의대 그만둘게요\" 자퇴하더니…다시 향하는 곳\n· 추미애 '12억 대형관사' 논란…더 가까운 '국평 9억대' 존재[뉴스럽다]\n· 이 대통령 지지율 8주 연속 하락…김어준 \"20%대 추락 가능\"\n· 장동혁 \"김승원 지명 철회 넘어 내각 전면 철회해야\"\n· 김계리 “한동훈, 급해서 버르적…” 김승원 녹취 공개에 “주목받으려고”"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/02.png",
-   "pngBytes": 1741992,
-   "title": "이진숙, '여자 히틀러' 발언 김민석 고소…경찰 출석",
-   "summary": "자신을 '여자 히틀러'라고 지칭한 김민석 더불어민주당 대표를 모욕 혐의로 고소한 국민의힘 이진숙 의원이 6일 경찰에 출석했습니다. 김 대표는 지난달 15일 민주당 전남…",
-   "summary_long": "자신을 '여자 히틀러'라고 지칭한 김민석 더불어민주당 대표를 모욕 혐의로 고소한 국민의힘 이진숙 의원이 6일 경찰에 출석했습니다. 서울 영등포경찰서는 이날 이 의원을 소환해 첫 고소인 조사를 진행했습니다. 이 의원은 조사실에 들어서며 취재진과 만나 \"히틀러는 유대인 600만 명을 학살한 인종 청소범\"이라며 \"(김 대표가) 저를 히틀러로 비유하면서 대한민국에 발 못 붙이게 하겠다고 협박을 하는 것이냐\"고 목소리를 높였습니다.\n\n김 대표는 지난달 15일 민주당 전남·광주 합동연설회에서 이 의원을 거론하며 \"여자 전두환도, 여자 히틀러도 대한민국에 발붙이지 못하게 하겠다\"고 말했습니다. 이 의원은 \"김 대표가 가능한 빠른 시간 안에 피고소인 조사를 받길 강력하게 촉구한다\"고 말했습니다. 김민석 대표는 지난달 26일 이 의원을 향해 \"'여자 전두환'으로 통일해서 불러드리는 것이 어떨까하는 생각이 들었다\"고도 발언했습니다.",
-   "press": "kbc광주방송",
-   "source": "kbc광주방송",
-   "link": "https://n.news.naver.com/article/660/0000116626",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/02.png",
+   "pngBytes": 1259836,
+   "title": "김어준, '지지율 37%' 듣더니 \"한달 내 '앞자리 2' 가능성\"",
+   "summary": "이재명 대통령의 국정수행 지지도가 취임 후 최저치를 경신했다는 여론조사 결과가 나온 가운데, 방송인 김어준 씨가 지지율 20%대 가능성을 언급했습니다. 김 씨는 오늘…",
+   "summary_long": "이재명 대통령의 국정수행 지지도가 취임 후 최저치를 경신했다는 여론조사 결과가 나온 가운데, 방송인 김어준 씨가 지지율 20%대 가능성을 언급했습니다. 김 씨는 오늘(7일) '김어준의 겸손은힘들다 뉴스공장' 방송에서 이택수 리얼미터 대표와 이날 나온 여론조사 결과를 분석했습니다. 지난달 31일부터 이달 4일 리얼미터가 전국 18세 이상 유권자 2,510명을 대상으로 조사한 결과, 이 대통령 국정 수행 긍정 평가는 지난주보다 1.5%포인트(p) 내린 37.4%로 집계됐습니다.\n\n이에 대해 이택수 리얼미터 대표는 “지난주 KTX-SRT 통합 운영, 8월 수출 역대 최대, 7월 경상수지 역대 2위 이런 호재들이 있었는데 2기 개각 장관 후보자들 관련된 여러 논란들, 부동산 세제 개편안 유턴 논란, 대통령 사법처리와 관련된 진보 진영 내의 여러 발언, 논란이 부정적인 영향을 미쳤다… 김어준 씨는 \"중요한 건 (하락) 추세가 벌써 두 달 넘게 이어지고 있다는 것\"이라며 \"긍정뉴스가 지지층에게 도달이 안 된다. 이어 \"이 추세로 가면 앞에 2자가 한 달 이내에 나올 가능성이 높다\"면서 \"지금은 대통령이 직접 나와서 본인의 언어로 계속 얘기할 수밖에 없는 국면\"이라고 주장했습니다.",
+   "press": "MBN",
+   "source": "MBN",
+   "link": "https://n.news.naver.com/article/057/0001967707",
    "selection": "정치",
-   "feed": "뉴스 01. 이진숙, '여자 히틀러' 발언 김민석 고소…경찰 출석\n\n자신을 '여자 히틀러'라고 지칭한 김민석 더불어민주당 대표를 모욕 혐의로 고소한 국민의힘 이진숙 의원이 6일 경찰에 출석했습니다. 서울 영등포경찰서는 이날 이 의원을 소환해 첫 고소인 조사를 진행했습니다. 이 의원은 조사실에 들어서며 취재진과 만나 \"히틀러는 유대인 600만 명을 학살한 인종 청소범\"이라며 \"(김 대표가) 저를 히틀러로 비유하면서 대한민국에 발 못 붙이게 하겠다고 협박을 하는 것이냐\"고 목소리를 높였습니다.\n\n김 대표는 지난달 15일 민주당 전남·광주 합동연설회에서 이 의원을 거론하며 \"여자 전두환도, 여자 히틀러도 대한민국에 발붙이지 못하게 하겠다\"고 말했습니다. 이 의원은 \"김 대표가 가능한 빠른 시간 안에 피고소인 조사를 받길 강력하게 촉구한다\"고 말했습니다. 김민석 대표는 지난달 26일 이 의원을 향해 \"'여자 전두환'으로 통일해서 불러드리는 것이 어떨까하는 생각이 들었다\"고도 발언했습니다.\n\n출처: kbc광주방송 / https://n.news.naver.com/article/660/0000116626"
+   "feed": "뉴스 01. 김어준, '지지율 37%' 듣더니 \"한달 내 '앞자리 2' 가능성\"\n\n이재명 대통령의 국정수행 지지도가 취임 후 최저치를 경신했다는 여론조사 결과가 나온 가운데, 방송인 김어준 씨가 지지율 20%대 가능성을 언급했습니다. 김 씨는 오늘(7일) '김어준의 겸손은힘들다 뉴스공장' 방송에서 이택수 리얼미터 대표와 이날 나온 여론조사 결과를 분석했습니다. 지난달 31일부터 이달 4일 리얼미터가 전국 18세 이상 유권자 2,510명을 대상으로 조사한 결과, 이 대통령 국정 수행 긍정 평가는 지난주보다 1.5%포인트(p) 내린 37.4%로 집계됐습니다.\n\n이에 대해 이택수 리얼미터 대표는 “지난주 KTX-SRT 통합 운영, 8월 수출 역대 최대, 7월 경상수지 역대 2위 이런 호재들이 있었는데 2기 개각 장관 후보자들 관련된 여러 논란들, 부동산 세제 개편안 유턴 논란, 대통령 사법처리와 관련된 진보 진영 내의 여러 발언, 논란이 부정적인 영향을 미쳤다… 김어준 씨는 \"중요한 건 (하락) 추세가 벌써 두 달 넘게 이어지고 있다는 것\"이라며 \"긍정뉴스가 지지층에게 도달이 안 된다. 이어 \"이 추세로 가면 앞에 2자가 한 달 이내에 나올 가능성이 높다\"면서 \"지금은 대통령이 직접 나와서 본인의 언어로 계속 얘기할 수밖에 없는 국면\"이라고 주장했습니다.\n\n출처: MBN / https://n.news.naver.com/article/057/0001967707"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/03.png",
-   "pngBytes": 2096246,
-   "title": "이 대통령 20대 지지율 첫 20%대…‘용혜인 인선’ 파장",
-   "summary": "국정 동력 확보와 지지율 반등을 노린 이재명 정부 2기 개각이 후보자들을 둘러싼 각종 논란으로 역풍을 맞고 있다. 지난 4일 발표된 대통령 국정 운영 평가 조사에선…",
-   "summary_long": "프랑스를 국빈방문 하는 이재명 대통령이 6일 경기 성남 서울공항에서 환송 나온 김민석 더불어민주당 김민석 대표와 공군 1호기로 이동하고 있다. 국정 동력 확보와 지지율 반등을 노린 이재명 정부 2기 개각이 후보자들을 둘러싼 각종 논란으로 역풍을 맞고 있다. 지난 4일 발표된 대통령 국정 운영 평가 조사에선 20대 지지율이 처음으로 20%대로 떨어졌다.\n\n용혜인 성평등가족부 장관 후보자의 ‘비례대표 국회의원 겸직’ 논란과 김승원 법무부 장관 후보자의 ‘신약 임상시험 승인 청탁 의혹’ 등이 연일 터져나오며 여론에 악영향을 미쳤다는 분석이 나온다. 한국갤럽이 지난 1~3일 전국 만 18살 이상 1001명을 대상으로 조사(표본오차는 95% 신뢰수준에서 ±3.1%포인트, 전화면접조사)한 결과, 이 대통령 직무수행에 대한 긍정 평가는 40%였고, 부정 평가는 51%였다. 김민석 민주당 대표가 취임 후 3개월 내 당 지지율을 10%포인트 끌어올리겠다고 공언한 가운데 이번 인사청문 정국은 김 대표의 첫 시험대가 될 것이란 전망이 나온다.",
-   "press": "한겨레",
-   "source": "한겨레",
-   "link": "https://n.news.naver.com/article/028/0002821840",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/03.png",
+   "pngBytes": 1911258,
+   "title": "‘가족소득당’ 논란 와중에… 용혜인 남편 최고위원 선출",
+   "summary": "용혜인 성평등가족부 장관 후보자의 남편인 기본소득당 박기홍 최고위원이 7일 서울 여의도 중앙당사에서 열린 최고위원회의에 입장하고 있다 / 연합뉴스. 박 최고위원은…",
+   "summary_long": "비서관 출신은 기본소득당 당대표로. 용혜인 성평등가족부 장관 후보자의 남편인 기본소득당 박기홍 최고위원이 7일 서울 여의도 중앙당사에서 열린 최고위원회의에 입장하고 있다 / 연합뉴스. 당대표 선거에는 용혜인 의원실 비서관 등을 지낸 오준호 후보가 단독 출마해 득표율 93.89%로 당선됐다.\n\n국민의힘은 기본소득당에 대해 ‘가족정당’ ‘가족소득당’이라고 비판하고 있다. 용혜인 후보자는 7일 오전 서울 서대문구 한국청소년활동진흥원에 마련된 인사청문회 준비 사무실로 출근하면서 취재진과 만나 비례대표 의원직 겸직과 청문회 완주 여부 등에 대해 “(인사) 청문회에서 말씀드리겠다”고 했다. 오준호 기본소득당 신임 대표는 이날 최고위원회의에서 “이재명 정부 성평등가족부가 성과를 내도록 용혜인 장관과 기본소득당이 함께 뛰겠다”고 했다.",
+   "press": "조선일보",
+   "source": "조선일보",
+   "link": "https://n.news.naver.com/article/023/0003997054",
    "selection": "정치",
-   "feed": "뉴스 02. 이 대통령 20대 지지율 첫 20%대…‘용혜인 인선’ 파장\n\n프랑스를 국빈방문 하는 이재명 대통령이 6일 경기 성남 서울공항에서 환송 나온 김민석 더불어민주당 김민석 대표와 공군 1호기로 이동하고 있다. 국정 동력 확보와 지지율 반등을 노린 이재명 정부 2기 개각이 후보자들을 둘러싼 각종 논란으로 역풍을 맞고 있다. 지난 4일 발표된 대통령 국정 운영 평가 조사에선 20대 지지율이 처음으로 20%대로 떨어졌다.\n\n용혜인 성평등가족부 장관 후보자의 ‘비례대표 국회의원 겸직’ 논란과 김승원 법무부 장관 후보자의 ‘신약 임상시험 승인 청탁 의혹’ 등이 연일 터져나오며 여론에 악영향을 미쳤다는 분석이 나온다. 한국갤럽이 지난 1~3일 전국 만 18살 이상 1001명을 대상으로 조사(표본오차는 95% 신뢰수준에서 ±3.1%포인트, 전화면접조사)한 결과, 이 대통령 직무수행에 대한 긍정 평가는 40%였고, 부정 평가는 51%였다. 김민석 민주당 대표가 취임 후 3개월 내 당 지지율을 10%포인트 끌어올리겠다고 공언한 가운데 이번 인사청문 정국은 김 대표의 첫 시험대가 될 것이란 전망이 나온다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002821840"
+   "feed": "뉴스 02. ‘가족소득당’ 논란 와중에… 용혜인 남편 최고위원 선출\n\n비서관 출신은 기본소득당 당대표로. 용혜인 성평등가족부 장관 후보자의 남편인 기본소득당 박기홍 최고위원이 7일 서울 여의도 중앙당사에서 열린 최고위원회의에 입장하고 있다 / 연합뉴스. 당대표 선거에는 용혜인 의원실 비서관 등을 지낸 오준호 후보가 단독 출마해 득표율 93.89%로 당선됐다.\n\n국민의힘은 기본소득당에 대해 ‘가족정당’ ‘가족소득당’이라고 비판하고 있다. 용혜인 후보자는 7일 오전 서울 서대문구 한국청소년활동진흥원에 마련된 인사청문회 준비 사무실로 출근하면서 취재진과 만나 비례대표 의원직 겸직과 청문회 완주 여부 등에 대해 “(인사) 청문회에서 말씀드리겠다”고 했다. 오준호 기본소득당 신임 대표는 이날 최고위원회의에서 “이재명 정부 성평등가족부가 성과를 내도록 용혜인 장관과 기본소득당이 함께 뛰겠다”고 했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0003997054"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/04.png",
-   "pngBytes": 2072874,
-   "title": "‘삼전닉스’ 25조원 선납 받아도 역부족…한전, 전기료 인상 대신 채권 발행 늘리나",
-   "summary": "한전은 정부 지원에 더해 내년 말까지 삼성전자, SK하이닉스로부터 선납금 25조원을 확보하면 기존 한전채 발행 한도가 2배로 회귀해도 필요한 운영 재원을 마련하는 게…",
-   "summary_long": "한전, 송전망 확충 100조원 투자 여력 부족. 한국전력이 재무 구조 개선과 송전망 등 인프라 투자 확대를 위해 채권 발행을 대폭 늘려 자금을 조달할 것이라는 관측이 나오고 있다. 한전은 정부 지원에 더해 내년 말까지 삼성전자, SK하이닉스로부터 선납금 25조원을 확보하면 기존 한전채 발행 한도가 2배로 회귀해도 필요한 운영 재원을 마련하는 게 가능할 것으로 보고 있다.\n\n한전 관계자는 “내년 종료되는 한전채 발행 한도 5~6배 확대 조치 연장은 고려하지 않으며, 기존 한도인 2배에서 자금 운용이 가능하도록 여러 방안을 고심하고 있다”고 말했다. 김진수 한양대 자원환경공학과 교수는 “전기 요금 정상화로 재무 구조를 개선하고 투자 여력을 만드는 게 근본적인 해법이지만, 어렵다고 본다”며 “2028년 총선을 앞두고 내년 종료되는 한전채 발행 한도 확대 조치를 연장할 가능성이 크다”고 전망했다. 정연제 서울과학기술대 에너지정책학과 교수도 “내년 여야 합의로 한전법을 개정해 한전채 발행 한도를 조정할 것으로 보인다”며 “반도체 호황에 따른 추가 세수를 한전에 자본을 투입하는 방안도 고려해야 한다”고 말했다.",
-   "press": "조선비즈",
-   "source": "조선비즈",
-   "link": "https://n.news.naver.com/article/366/0001190565",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/04.png",
+   "pngBytes": 1704610,
+   "title": "\"의대 그만둘게요\" 자퇴하더니…다시 향하는 곳",
+   "summary": "지난해 의대를 그만둔 학생 다수의 특징이 있었습니다. 한 입시 학원이 대학 알리미 공시자료를 분석해 봤더니 지난해 전국 39개 의대 중도 탈락자가 383명으로…",
+   "summary_long": "지난해 의대를 그만둔 학생 다수의 특징이 있었습니다. 10명 중 8명이 의대 중에 지방의대 출신이라는 조사 결과가 나왔습니다. 한 입시 학원이 대학 알리미 공시자료를 분석해 봤더니 지난해 전국 39개 의대 중도 탈락자가 383명으로 집계됐습니다.\n\n이 중 301명은 비수도권 의대 재학생이었고요. 비수도권 의대 중도 탈락 학생은 해마다 증가 추세를 보이고 있습니다. 입시 업계는 지역 인재 전형이 확대되며 지방의 상위권 학생들이 우선 지방의대에 진학을 하고 이후에 수도권 의대로 재진입하는 경우도 많아졌다고 판단했습니다.",
+   "press": "SBS",
+   "source": "SBS",
+   "link": "https://n.news.naver.com/article/055/0001386329",
    "selection": "경제·시사",
-   "feed": "뉴스 03. ‘삼전닉스’ 25조원 선납 받아도 역부족…한전, 전기료 인상 대신 채권 발행 늘리나\n\n한전, 송전망 확충 100조원 투자 여력 부족. 한국전력이 재무 구조 개선과 송전망 등 인프라 투자 확대를 위해 채권 발행을 대폭 늘려 자금을 조달할 것이라는 관측이 나오고 있다. 한전은 정부 지원에 더해 내년 말까지 삼성전자, SK하이닉스로부터 선납금 25조원을 확보하면 기존 한전채 발행 한도가 2배로 회귀해도 필요한 운영 재원을 마련하는 게 가능할 것으로 보고 있다.\n\n한전 관계자는 “내년 종료되는 한전채 발행 한도 5~6배 확대 조치 연장은 고려하지 않으며, 기존 한도인 2배에서 자금 운용이 가능하도록 여러 방안을 고심하고 있다”고 말했다. 김진수 한양대 자원환경공학과 교수는 “전기 요금 정상화로 재무 구조를 개선하고 투자 여력을 만드는 게 근본적인 해법이지만, 어렵다고 본다”며 “2028년 총선을 앞두고 내년 종료되는 한전채 발행 한도 확대 조치를 연장할 가능성이 크다”고 전망했다. 정연제 서울과학기술대 에너지정책학과 교수도 “내년 여야 합의로 한전법을 개정해 한전채 발행 한도를 조정할 것으로 보인다”며 “반도체 호황에 따른 추가 세수를 한전에 자본을 투입하는 방안도 고려해야 한다”고 말했다.\n\n출처: 조선비즈 / https://n.news.naver.com/article/366/0001190565"
+   "feed": "뉴스 03. \"의대 그만둘게요\" 자퇴하더니…다시 향하는 곳\n\n지난해 의대를 그만둔 학생 다수의 특징이 있었습니다. 10명 중 8명이 의대 중에 지방의대 출신이라는 조사 결과가 나왔습니다. 한 입시 학원이 대학 알리미 공시자료를 분석해 봤더니 지난해 전국 39개 의대 중도 탈락자가 383명으로 집계됐습니다.\n\n이 중 301명은 비수도권 의대 재학생이었고요. 비수도권 의대 중도 탈락 학생은 해마다 증가 추세를 보이고 있습니다. 입시 업계는 지역 인재 전형이 확대되며 지방의 상위권 학생들이 우선 지방의대에 진학을 하고 이후에 수도권 의대로 재진입하는 경우도 많아졌다고 판단했습니다.\n\n출처: SBS / https://n.news.naver.com/article/055/0001386329"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/05.png",
-   "pngBytes": 2289963,
-   "title": "'성시경 믿고 샀는데, 과연?' 4700원 비빔밥…김밥천국 놀랄 기세[먹어보고서]",
-   "summary": "성시경 참여 '시경 Pick' 비빔밥 3종 선봬. 세븐일레븐 ‘시경 Pick 전주식소고기비빔밥’에 소고기 등 8가지 고명이 칸별로 나뉘어 담겨 있다.",
-   "summary_long": "성시경 참여 '시경 Pick' 비빔밥 3종 선봬. 가격은 외식 비빔밥(1만 1769원)의 40% 수준. 세븐일레븐 비빔밥 매출 25%↑…'밥 경쟁' 가열 무엇이든 먹어보고 보고해 드립니다.\n\n‘시경 Pick 전주식소고기비빔밥’의 고명과 고추장, 참기름을 밥에 넣은 모습. 전주식소고기비빔밥은 기존 인기 제품을 시리즈에 편입한 것으로, 소고기 등 8가지 고명에 고추장을 곁들였다. 세븐일레븐 ‘시경 Pick 전주식소고기비빔밥’에 소고기 등 8가지 고명이 칸별로 나뉘어 담겨 있다.",
-   "press": "이데일리",
-   "source": "이데일리",
-   "link": "https://n.news.naver.com/article/018/0006364332",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/05.png",
+   "pngBytes": 1925825,
+   "title": "추미애 '12억 대형관사' 논란…더 가까운 '국평 9억대' 존재[뉴스럽다]",
+   "summary": "추미애 지사가 관사로 사용 중인 아파트 단지. 재정 위기를 선언하며 지출 줄이기에 나선 추미애 경기도지사가 12억 원이 넘는 도 예산을 투입해 대형 평수 아파트를 관사로…",
+   "summary_long": "추미애 지사가 관사로 사용 중인 아파트 단지. 재정 위기를 선언하며 지출 줄이기에 나선 추미애 경기도지사가 12억 원이 넘는 도 예산을 투입해 대형 평수 아파트를 관사로 사용하자 내부 불만이 제기되고 있다. 7일 경기도 등에 따르면, 도는 지난 6월 도청 인근의 전용면적 156㎡(47평) 아파트를 보증금 12억 2천만 원에 전세 계약해 도지사 관사로 제공했다.\n\n문제는 추 지사가 관사를 계약한 이후인 지난달 5일, 경기도의 '재정 비상상황'을 공식 선언하고 5400억 원이 넘는 감액 추경안을 발표했다는 점이다. 이혜원 경기도의회 의원(국민의힘·양평2)은 \"시·군 지원금까지 줄이려는 상황에서 대형 평수의 지사 관사는 현 재정 상황과 전혀 맞지 않는다\"고 지적했다. 한 직원은 \"남경필·이재명 전 지사는 자택에서 출퇴근했고, 김동연 전 지사는 자비로 전세를 구했다\"며 \"재정 위기라면서 도 예산으로 47평 아파트를 계약하는 것이 말이 되느냐\"고 꼬집었다.",
+   "press": "노컷뉴스",
+   "source": "노컷뉴스",
+   "link": "https://n.news.naver.com/article/079/0004186538",
    "selection": "경제·시사",
-   "feed": "뉴스 04. '성시경 믿고 샀는데, 과연?' 4700원 비빔밥…김밥천국 놀랄 기세[먹어보고서]\n\n성시경 참여 '시경 Pick' 비빔밥 3종 선봬. 가격은 외식 비빔밥(1만 1769원)의 40% 수준. 세븐일레븐 비빔밥 매출 25%↑…'밥 경쟁' 가열 무엇이든 먹어보고 보고해 드립니다.\n\n‘시경 Pick 전주식소고기비빔밥’의 고명과 고추장, 참기름을 밥에 넣은 모습. 전주식소고기비빔밥은 기존 인기 제품을 시리즈에 편입한 것으로, 소고기 등 8가지 고명에 고추장을 곁들였다. 세븐일레븐 ‘시경 Pick 전주식소고기비빔밥’에 소고기 등 8가지 고명이 칸별로 나뉘어 담겨 있다.\n\n출처: 이데일리 / https://n.news.naver.com/article/018/0006364332"
+   "feed": "뉴스 04. 추미애 '12억 대형관사' 논란…더 가까운 '국평 9억대' 존재[뉴스럽다]\n\n추미애 지사가 관사로 사용 중인 아파트 단지. 재정 위기를 선언하며 지출 줄이기에 나선 추미애 경기도지사가 12억 원이 넘는 도 예산을 투입해 대형 평수 아파트를 관사로 사용하자 내부 불만이 제기되고 있다. 7일 경기도 등에 따르면, 도는 지난 6월 도청 인근의 전용면적 156㎡(47평) 아파트를 보증금 12억 2천만 원에 전세 계약해 도지사 관사로 제공했다.\n\n문제는 추 지사가 관사를 계약한 이후인 지난달 5일, 경기도의 '재정 비상상황'을 공식 선언하고 5400억 원이 넘는 감액 추경안을 발표했다는 점이다. 이혜원 경기도의회 의원(국민의힘·양평2)은 \"시·군 지원금까지 줄이려는 상황에서 대형 평수의 지사 관사는 현 재정 상황과 전혀 맞지 않는다\"고 지적했다. 한 직원은 \"남경필·이재명 전 지사는 자택에서 출퇴근했고, 김동연 전 지사는 자비로 전세를 구했다\"며 \"재정 위기라면서 도 예산으로 47평 아파트를 계약하는 것이 말이 되느냐\"고 꼬집었다.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004186538"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/06.png",
-   "pngBytes": 2042617,
-   "title": "李대통령 프랑스 출국…나경원 “인사 참사 쑥대밭인데, 도피외유냐”",
-   "summary": "나경원 국민의힘 의원이 6일 이재명 대통령이 프랑스 국빈 방문을 위해 출국한 것에 대해 “도피외유”라고 비판했다. 나 의원은 이날 자신의 페이스북에 “온 나라가 김승원…",
-   "summary_long": "나경원 “인사부터 철회하고 가라” 나경원 국민의힘 의원이 6일 이재명 대통령이 프랑스 국빈 방문을 위해 출국한 것에 대해 “도피외유”라고 비판했다. 나 의원은 이날 자신의 페이스북에 “온 나라가 김승원, 용혜인, 강신철, 홍지선 등 개각 인사 참사로 쑥대밭인데, 정작 사태를 수습해야 할 임명권자는 (프랑스) 파리행”이라며 이같이 말했다.\n\n이어 “당장 닥친 위기만 모면하려는 비겁한 외유가 아니라면, 프랑스가기 전 잘못된 인사부터 당장 철회하고 가라”고 주장했다. 앞서 이 대통령은 이날 오전 프랑스 국빈 방문을 위해 서울공항을 통해 출국했다. 이 대통령은 이날 출국 직전 엑스(X·옛 트위터)에 글을 올려 “네팔 홍수 참사로 실종된 우리 국민 아홉 분에 대한 수색과 구조가 아직 계속되고 있다”며 “참사 발생 열흘이 넘도록 애타게 소식을 기다리고 계실 가족분들 마음을 생각하면 참으로 안타깝고 무겁다”고 적었다.",
-   "press": "헤럴드경제",
-   "source": "헤럴드경제",
-   "link": "https://n.news.naver.com/article/016/0002693343",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/06.png",
+   "pngBytes": 1961770,
+   "title": "이 대통령 지지율 8주 연속 하락…김어준 \"20%대 추락 가능\"",
+   "summary": "이재명 대통령의 국정 수행 지지도가 8주 연속 하락해 취임 후 최저치를 기록했습니다. 지난달 31일부터 이달 4일 리얼미터 조사 결과, 이 대통령 국정 수행 긍정 평가는…",
+   "summary_long": "방송인 김어준 씨는 \"이 추세라면 한 달 내에 20%대 지지율이 나올 가능성이 높다\"고 진단했습니다. 이재명 대통령의 국정 수행 지지도가 8주 연속 하락해 취임 후 최저치를 기록했습니다. 지난달 31일부터 이달 4일 리얼미터 조사 결과, 이 대통령 국정 수행 긍정 평가는 지난주보다 1.5%p 내린 37.4%로 집계됐습니다.\n\n반대로 부정 평가는 0.8%p 오른 59.5%로, 격차가 22.1%p까지 벌어졌습니다. [김어준 / 방송인(유튜브 '김어준의 겸손은힘들다 뉴스공장'): \"청와대 대변인이나 대통령의 SNS로 해결될 상황이 아닙니다. 조사일시 : 2026년 8월 31일~9월 4일(대통령 국정 수행) / 9월 3~4일(정당 지지도).",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000509803",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 李대통령 프랑스 출국…나경원 “인사 참사 쑥대밭인데, 도피외유냐”\n\n나경원 “인사부터 철회하고 가라” 나경원 국민의힘 의원이 6일 이재명 대통령이 프랑스 국빈 방문을 위해 출국한 것에 대해 “도피외유”라고 비판했다. 나 의원은 이날 자신의 페이스북에 “온 나라가 김승원, 용혜인, 강신철, 홍지선 등 개각 인사 참사로 쑥대밭인데, 정작 사태를 수습해야 할 임명권자는 (프랑스) 파리행”이라며 이같이 말했다.\n\n이어 “당장 닥친 위기만 모면하려는 비겁한 외유가 아니라면, 프랑스가기 전 잘못된 인사부터 당장 철회하고 가라”고 주장했다. 앞서 이 대통령은 이날 오전 프랑스 국빈 방문을 위해 서울공항을 통해 출국했다. 이 대통령은 이날 출국 직전 엑스(X·옛 트위터)에 글을 올려 “네팔 홍수 참사로 실종된 우리 국민 아홉 분에 대한 수색과 구조가 아직 계속되고 있다”며 “참사 발생 열흘이 넘도록 애타게 소식을 기다리고 계실 가족분들 마음을 생각하면 참으로 안타깝고 무겁다”고 적었다.\n\n출처: 헤럴드경제 / https://n.news.naver.com/article/016/0002693343"
+   "feed": "뉴스 05. 이 대통령 지지율 8주 연속 하락…김어준 \"20%대 추락 가능\"\n\n방송인 김어준 씨는 \"이 추세라면 한 달 내에 20%대 지지율이 나올 가능성이 높다\"고 진단했습니다. 이재명 대통령의 국정 수행 지지도가 8주 연속 하락해 취임 후 최저치를 기록했습니다. 지난달 31일부터 이달 4일 리얼미터 조사 결과, 이 대통령 국정 수행 긍정 평가는 지난주보다 1.5%p 내린 37.4%로 집계됐습니다.\n\n반대로 부정 평가는 0.8%p 오른 59.5%로, 격차가 22.1%p까지 벌어졌습니다. [김어준 / 방송인(유튜브 '김어준의 겸손은힘들다 뉴스공장'): \"청와대 대변인이나 대통령의 SNS로 해결될 상황이 아닙니다. 조사일시 : 2026년 8월 31일~9월 4일(대통령 국정 수행) / 9월 3~4일(정당 지지도).\n\n출처: JTBC / https://n.news.naver.com/article/437/0000509803"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/07.png",
-   "pngBytes": 2066370,
-   "title": "\"한국 파병하면 전쟁 참여 간주\" 엄포…정부, 여론 '촉각'",
-   "summary": "우리 군이 호르무즈 해협에 파병할 경우 '전쟁 참여'로 간주하겠다고 이란 고위 당국자가 경고했다는 보도가 나왔습니다. 레바논의 한 친헤즈볼라 매체 알마야딘은 현지 시간…",
-   "summary_long": "우리 군이 호르무즈 해협에 파병할 경우 '전쟁 참여'로 간주하겠다고 이란 고위 당국자가 경고했다는 보도가 나왔습니다. 파병을 둘러싸고 국내외 여론에 촉각을 곤두세우고 있는 우리 정부의 셈법이 더 복잡해지고 있습니다. 이재명 대통령과 마크롱 프랑스 대통령의 정상회담에서 이 문제가 논의될지도 관심입니다.\n\n레바논의 한 친헤즈볼라 매체 알마야딘은 현지 시간 지난 4일, 이란 고위 당국자가 \"호르무즈 해협에서 한국이 이란에 맞서는 행동을 한다면 이란에 대한 직접적인 군사적 침략이자 전쟁 참여로 간주하겠다\"는 경고를 했다고 전했습니다. 특히 이재명 대통령이 프랑스 국빈 방문을 위해 오늘(6일) 출국해 모레 마크롱 프랑스 대통령과 정상회담을 갖는 만큼 양국 정상 간 관련 논의가 이뤄질 거라는 것이 청와대 관계자의 전망입니다. 국민의힘은 정부가 눈치를 보느라 결정을 미루는 사이 '샌드위치' 신세가 됐다고 비판하면서도 명확한 파병 촉구 입장은 내지 않고 있는데, 여론의 흐름을 지켜보겠다는 의도로 풀이됩니다.",
-   "press": "SBS",
-   "source": "SBS",
-   "link": "https://n.news.naver.com/article/055/0001386266",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/07.png",
+   "pngBytes": 1790413,
+   "title": "장동혁 \"김승원 지명 철회 넘어 내각 전면 철회해야\"",
+   "summary": "장동혁 국민의힘 대표는 7일 이재명 대통령의 최근 개각을 두고 \"김승원 후보자 지명 철회는 물론 내각 자체를 전면 철회해야 한다\"며 공세 수위를 높였다. 김승원 법무부…",
+   "summary_long": "장동혁 국민의힘 대표는 7일 이재명 대통령의 최근 개각을 두고 \"김승원 후보자 지명 철회는 물론 내각 자체를 전면 철회해야 한다\"며 공세 수위를 높였다. 장 대표는 이날 국회에서 열린 최고위원회의에서 \"이번 개각은 이재명 대통령의 국민 포기 선언이나 마찬가지\"라며 \"개각의 목표는 분명하다. 김승원 법무부 장관 후보자와 용혜인 후보자를 둘러싼 각종 의혹을 거론하는 동시에 물가와 부동산 문제까지 연결해 이번 개각을 \"민생 포기 선언\"이라고 비판했다.\n\n장 대표는 김 후보자의 신약 임상시험 승인 청탁 의혹을 거론하며 \"문제는 이 청탁 사건의 결과\"라며 \"김 후보자는 청문회장에 앉을 자격조차 없다\"고 주장했다. 장 대표는 용 후보자의 과거 정치 활동과 기본소득당 관련 발언 등을 거론하며 \"이재명 정권의 좌파 정책 특공대\"라고 주장했다. 장 대표는 \"이 대통령은 재정부장관 후보자에게 추석 물가를 못잡으면 장관 지명을 철회하겠다고 했다.",
+   "press": "아이뉴스24",
+   "source": "아이뉴스24",
+   "link": "https://n.news.naver.com/article/031/0001055860",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. \"한국 파병하면 전쟁 참여 간주\" 엄포…정부, 여론 '촉각'\n\n우리 군이 호르무즈 해협에 파병할 경우 '전쟁 참여'로 간주하겠다고 이란 고위 당국자가 경고했다는 보도가 나왔습니다. 파병을 둘러싸고 국내외 여론에 촉각을 곤두세우고 있는 우리 정부의 셈법이 더 복잡해지고 있습니다. 이재명 대통령과 마크롱 프랑스 대통령의 정상회담에서 이 문제가 논의될지도 관심입니다.\n\n레바논의 한 친헤즈볼라 매체 알마야딘은 현지 시간 지난 4일, 이란 고위 당국자가 \"호르무즈 해협에서 한국이 이란에 맞서는 행동을 한다면 이란에 대한 직접적인 군사적 침략이자 전쟁 참여로 간주하겠다\"는 경고를 했다고 전했습니다. 특히 이재명 대통령이 프랑스 국빈 방문을 위해 오늘(6일) 출국해 모레 마크롱 프랑스 대통령과 정상회담을 갖는 만큼 양국 정상 간 관련 논의가 이뤄질 거라는 것이 청와대 관계자의 전망입니다. 국민의힘은 정부가 눈치를 보느라 결정을 미루는 사이 '샌드위치' 신세가 됐다고 비판하면서도 명확한 파병 촉구 입장은 내지 않고 있는데, 여론의 흐름을 지켜보겠다는 의도로 풀이됩니다.\n\n출처: SBS / https://n.news.naver.com/article/055/0001386266"
+   "feed": "뉴스 06. 장동혁 \"김승원 지명 철회 넘어 내각 전면 철회해야\"\n\n장동혁 국민의힘 대표는 7일 이재명 대통령의 최근 개각을 두고 \"김승원 후보자 지명 철회는 물론 내각 자체를 전면 철회해야 한다\"며 공세 수위를 높였다. 장 대표는 이날 국회에서 열린 최고위원회의에서 \"이번 개각은 이재명 대통령의 국민 포기 선언이나 마찬가지\"라며 \"개각의 목표는 분명하다. 김승원 법무부 장관 후보자와 용혜인 후보자를 둘러싼 각종 의혹을 거론하는 동시에 물가와 부동산 문제까지 연결해 이번 개각을 \"민생 포기 선언\"이라고 비판했다.\n\n장 대표는 김 후보자의 신약 임상시험 승인 청탁 의혹을 거론하며 \"문제는 이 청탁 사건의 결과\"라며 \"김 후보자는 청문회장에 앉을 자격조차 없다\"고 주장했다. 장 대표는 용 후보자의 과거 정치 활동과 기본소득당 관련 발언 등을 거론하며 \"이재명 정권의 좌파 정책 특공대\"라고 주장했다. 장 대표는 \"이 대통령은 재정부장관 후보자에게 추석 물가를 못잡으면 장관 지명을 철회하겠다고 했다.\n\n출처: 아이뉴스24 / https://n.news.naver.com/article/031/0001055860"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/08.png",
-   "pngBytes": 2036853,
-   "title": "“과장 선에서 막혀?”…한동훈, 김승원 ‘신약 청탁’ 의혹 녹취 또 공개",
-   "summary": "한동훈 무소속 의원이 김승원 법무부 장관 후보자의 식약처 ‘코로나19 치료제 임상시험 승인 청탁 의혹’과 관련해 김 후보자와 브로커 양아무개씨 간에 오간 청탁 통화…",
-   "summary_long": "한동훈 무소속 의원이 김승원 법무부 장관 후보자의 식약처 ‘코로나19 치료제 임상시험 승인 청탁 의혹’과 관련해 김 후보자와 브로커 양아무개씨 간에 오간 청탁 통화 녹취를 공개했다. 또 해당 내용이 김강립 당시 식약처장을 통해 식약처 담당 과장에게 전달됐다고 주장했다. 해당 통화 녹취를 보면, 양씨가 “담당자들이 연락은 오는데 과장 선에서 넘어가지를 않는다고 한다”고 말했고, 김 후보자가 “과장 선에서 막혀있다?\n\n앞서 김 후보자는 양씨의 부탁을 받고 2021년 10월12일 코로나19 치료제 개발 업체인 제넨셀의 임상 2·3상 시험 계획 승인을 당시 김 처장에게 신속 처리해달라고 부탁하는 취지의 메시지를 보낸 혐의로 수사를 받았다. 한 의원은 이를 두고 “브로커 양(씨의) 청부받은 김승원 후보자가 김강립 (당시) 식약처장에게 로비한 후, 김강립 (당시) 식약처장은 그걸 혼자 묵살한 것이 아니라 실제로 식약처 담당자에게 김승원 로비를 전달했다”며 “실무진까지 전달된 성공한 로비”라고 주장했다. 김승원 의원에 대한 검찰의 표적 수사 당시 휴대전화 4년치를 털었다고 하는데, 그거냐”며 “불법적인 녹취와 수사자료 입수 경위를 소상하게 밝히고 국민 앞에 사과하고 용서를 구하라”고 했다.",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/08.png",
+   "pngBytes": 1967603,
+   "title": "김계리 “한동훈, 급해서 버르적…” 김승원 녹취 공개에 “주목받으려고”",
+   "summary": "한동훈 무소속 의원이 7일 국회에서 열린 본회의에 참석하기 위해 국회 본청에 들어서다 취재진과 만나 연일 제기하고 있는 김승원 법무부 장관 후보자 의혹과 관련한 질문에…",
+   "summary_long": "(왼쪽) 한동훈 무소속 의원이 7일 국회에서 열린 본회의에 참석하기 위해 국회 본청에 들어서다 취재진과 만나 연일 제기하고 있는 김승원 법무부 장관 후보자 의혹과 관련한 질문에 답하고 있다. 윤석열 전 대통령 변호인 김계리 변호사가 김승원 법무부 장관 후보자의 ‘신약 임상시험 계획 승인 청탁 의혹’과 관련해 연일 통화 녹취를 공개하는 한동훈 무소속 의원을 두고 “당장 주목받지 못하면 두려운 것”이라고 말했다. 김 변호사는 6일 페이스북에 글을 올려 “한동훈이 김승원 법무부 장관 후보자 녹취록을 자신의 (페이스북) 피드에 직접 만들어 공개한 것을 보고 빵 터졌다”며 “조급하구나”라고 썼다.\n\n김 변호사는 지난 1월 윤 전 대통령의 내란 우두머리 혐의 사건 1심 결심 공판 당시 “가장 큰 민주적 정당성을 가진 대한민국 대통령이 거대 야당과 국회의원도 아닌 당대표 한동훈과 그를 따르는 국회의원 일부에 의해 어떤 조사도 없이, 계엄이 갑자기 내란이 돼 탄핵소추안이 상정돼 가결됐다”며 한 의원을… 한편, 민주당은 이날 김 후보자의 ‘신약 청탁 의혹’ 등을 주도적으로 제기하는 한 의원의 녹취 입수 경위를 문제 삼으며 한 의원을 공무상 비밀 누설 등의 혐의로 고위공직자범죄수사처에 고발했다. 김 후보자 역시 7일 오전 기자들과 만나 “한 의원이 수사 자료를 조금씩 언론에 흘리면서 정치 공세를 벌이는데, 수사 자료 유출이야말로 형사처벌감”이라고 주장했다.",
    "press": "한겨레",
    "source": "한겨레",
-   "link": "https://n.news.naver.com/article/028/0002821800",
+   "link": "https://n.news.naver.com/article/028/0002821955",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. “과장 선에서 막혀?”…한동훈, 김승원 ‘신약 청탁’ 의혹 녹취 또 공개\n\n한동훈 무소속 의원이 김승원 법무부 장관 후보자의 식약처 ‘코로나19 치료제 임상시험 승인 청탁 의혹’과 관련해 김 후보자와 브로커 양아무개씨 간에 오간 청탁 통화 녹취를 공개했다. 또 해당 내용이 김강립 당시 식약처장을 통해 식약처 담당 과장에게 전달됐다고 주장했다. 해당 통화 녹취를 보면, 양씨가 “담당자들이 연락은 오는데 과장 선에서 넘어가지를 않는다고 한다”고 말했고, 김 후보자가 “과장 선에서 막혀있다?\n\n앞서 김 후보자는 양씨의 부탁을 받고 2021년 10월12일 코로나19 치료제 개발 업체인 제넨셀의 임상 2·3상 시험 계획 승인을 당시 김 처장에게 신속 처리해달라고 부탁하는 취지의 메시지를 보낸 혐의로 수사를 받았다. 한 의원은 이를 두고 “브로커 양(씨의) 청부받은 김승원 후보자가 김강립 (당시) 식약처장에게 로비한 후, 김강립 (당시) 식약처장은 그걸 혼자 묵살한 것이 아니라 실제로 식약처 담당자에게 김승원 로비를 전달했다”며 “실무진까지 전달된 성공한 로비”라고 주장했다. 김승원 의원에 대한 검찰의 표적 수사 당시 휴대전화 4년치를 털었다고 하는데, 그거냐”며 “불법적인 녹취와 수사자료 입수 경위를 소상하게 밝히고 국민 앞에 사과하고 용서를 구하라”고 했다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002821800"
+   "feed": "뉴스 07. 김계리 “한동훈, 급해서 버르적…” 김승원 녹취 공개에 “주목받으려고”\n\n(왼쪽) 한동훈 무소속 의원이 7일 국회에서 열린 본회의에 참석하기 위해 국회 본청에 들어서다 취재진과 만나 연일 제기하고 있는 김승원 법무부 장관 후보자 의혹과 관련한 질문에 답하고 있다. 윤석열 전 대통령 변호인 김계리 변호사가 김승원 법무부 장관 후보자의 ‘신약 임상시험 계획 승인 청탁 의혹’과 관련해 연일 통화 녹취를 공개하는 한동훈 무소속 의원을 두고 “당장 주목받지 못하면 두려운 것”이라고 말했다. 김 변호사는 6일 페이스북에 글을 올려 “한동훈이 김승원 법무부 장관 후보자 녹취록을 자신의 (페이스북) 피드에 직접 만들어 공개한 것을 보고 빵 터졌다”며 “조급하구나”라고 썼다.\n\n김 변호사는 지난 1월 윤 전 대통령의 내란 우두머리 혐의 사건 1심 결심 공판 당시 “가장 큰 민주적 정당성을 가진 대한민국 대통령이 거대 야당과 국회의원도 아닌 당대표 한동훈과 그를 따르는 국회의원 일부에 의해 어떤 조사도 없이, 계엄이 갑자기 내란이 돼 탄핵소추안이 상정돼 가결됐다”며 한 의원을… 한편, 민주당은 이날 김 후보자의 ‘신약 청탁 의혹’ 등을 주도적으로 제기하는 한 의원의 녹취 입수 경위를 문제 삼으며 한 의원을 공무상 비밀 누설 등의 혐의로 고위공직자범죄수사처에 고발했다. 김 후보자 역시 7일 오전 기자들과 만나 “한 의원이 수사 자료를 조금씩 언론에 흘리면서 정치 공세를 벌이는데, 수사 자료 유출이야말로 형사처벌감”이라고 주장했다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002821955"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-07/09.png",
-   "pngBytes": 1346079
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-08/09.png",
+   "pngBytes": 1346244
   }
  ],
- "caption": "📰 9월 7일 오늘의 뉴스\n\n1. 이진숙, '여자 히틀러' 발언 김민석 고소…경찰 출석\n   자신을 '여자 히틀러'라고 지칭한 김민석 더불어민주당 대표를 모욕 혐의로 고소한 국민의힘 이진숙 의원이 6일 경찰에 출석했습니다. 김 대표는 지난달 15일 민주당 전남…\n2. 이 대통령 20대 지지율 첫 20%대…‘용혜인 인선’ 파장\n   국정 동력 확보와 지지율 반등을 노린 이재명 정부 2기 개각이 후보자들을 둘러싼 각종 논란으로 역풍을 맞고 있다. 지난 4일 발표된 대통령 국정 운영 평가 조사에선…\n3. ‘삼전닉스’ 25조원 선납 받아도 역부족…한전, 전기료 인상 대신 채권 발행 늘리나\n   한전은 정부 지원에 더해 내년 말까지 삼성전자, SK하이닉스로부터 선납금 25조원을 확보하면 기존 한전채 발행 한도가 2배로 회귀해도 필요한 운영 재원을 마련하는 게…\n4. '성시경 믿고 샀는데, 과연?' 4700원 비빔밥…김밥천국 놀랄 기세[먹어보고서]\n   성시경 참여 '시경 Pick' 비빔밥 3종 선봬. 세븐일레븐 ‘시경 Pick 전주식소고기비빔밥’에 소고기 등 8가지 고명이 칸별로 나뉘어 담겨 있다.\n5. 李대통령 프랑스 출국…나경원 “인사 참사 쑥대밭인데, 도피외유냐”\n   나경원 국민의힘 의원이 6일 이재명 대통령이 프랑스 국빈 방문을 위해 출국한 것에 대해 “도피외유”라고 비판했다. 나 의원은 이날 자신의 페이스북에 “온 나라가 김승원…\n6. \"한국 파병하면 전쟁 참여 간주\" 엄포…정부, 여론 '촉각'\n   우리 군이 호르무즈 해협에 파병할 경우 '전쟁 참여'로 간주하겠다고 이란 고위 당국자가 경고했다는 보도가 나왔습니다. 레바논의 한 친헤즈볼라 매체 알마야딘은 현지 시간…\n7. “과장 선에서 막혀?”…한동훈, 김승원 ‘신약 청탁’ 의혹 녹취 또 공개\n   한동훈 무소속 의원이 김승원 법무부 장관 후보자의 식약처 ‘코로나19 치료제 임상시험 승인 청탁 의혹’과 관련해 김 후보자와 브로커 양아무개씨 간에 오간 청탁 통화…\n\n🗣 “(김 대표가) 저를 히틀러로 비유하면서 대한민국에 발 못 붙이게 하겠다고 협박을 하는 것이냐”\n이 발언을 그대로 실은 보도 10건 · 연합뉴스 · 강원일보 · 다음뉴스 · 국제신문\n· 연합뉴스 — 이진숙, '여자 히틀러' 김민석 발언 모욕죄 고소…영등포서 출석\n· 강원일보 — [속보]“유대인 600만명 학살한 인종 청소범 히틀러에 비유하며 나를 협박하는 것이냐”⋯이진숙, 김민석 대표 모욕죄 고소 관련 경찰서 출석\n· 다음뉴스 — 이진숙 “‘여자 히틀러’ 이어 ‘여자 전두환’까지…김민석, 추가 고소할 것”\n· 국제신문 — ‘여자 히틀러’ 김민석 발언 모욕죄 고소한 이진숙, 영등포서 출석\n· 경기일보 — 이진숙, 김민석 ‘여자 히틀러’ 고소 이어 ‘여자 전두환’ 추가 고소\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: SBS, kbc광주방송, 이데일리, 조선비즈, 한겨레, 헤럴드경제"
+ "caption": "📰 9월 8일 오늘의 뉴스\n\n1. 김어준, '지지율 37%' 듣더니 \"한달 내 '앞자리 2' 가능성\"\n   이재명 대통령의 국정수행 지지도가 취임 후 최저치를 경신했다는 여론조사 결과가 나온 가운데, 방송인 김어준 씨가 지지율 20%대 가능성을 언급했습니다. 김 씨는 오늘…\n2. ‘가족소득당’ 논란 와중에… 용혜인 남편 최고위원 선출\n   용혜인 성평등가족부 장관 후보자의 남편인 기본소득당 박기홍 최고위원이 7일 서울 여의도 중앙당사에서 열린 최고위원회의에 입장하고 있다 / 연합뉴스. 박 최고위원은…\n3. \"의대 그만둘게요\" 자퇴하더니…다시 향하는 곳\n   지난해 의대를 그만둔 학생 다수의 특징이 있었습니다. 한 입시 학원이 대학 알리미 공시자료를 분석해 봤더니 지난해 전국 39개 의대 중도 탈락자가 383명으로…\n4. 추미애 '12억 대형관사' 논란…더 가까운 '국평 9억대' 존재[뉴스럽다]\n   추미애 지사가 관사로 사용 중인 아파트 단지. 재정 위기를 선언하며 지출 줄이기에 나선 추미애 경기도지사가 12억 원이 넘는 도 예산을 투입해 대형 평수 아파트를 관사로…\n5. 이 대통령 지지율 8주 연속 하락…김어준 \"20%대 추락 가능\"\n   이재명 대통령의 국정 수행 지지도가 8주 연속 하락해 취임 후 최저치를 기록했습니다. 지난달 31일부터 이달 4일 리얼미터 조사 결과, 이 대통령 국정 수행 긍정 평가는…\n6. 장동혁 \"김승원 지명 철회 넘어 내각 전면 철회해야\"\n   장동혁 국민의힘 대표는 7일 이재명 대통령의 최근 개각을 두고 \"김승원 후보자 지명 철회는 물론 내각 자체를 전면 철회해야 한다\"며 공세 수위를 높였다. 김승원 법무부…\n7. 김계리 “한동훈, 급해서 버르적…” 김승원 녹취 공개에 “주목받으려고”\n   한동훈 무소속 의원이 7일 국회에서 열린 본회의에 참석하기 위해 국회 본청에 들어서다 취재진과 만나 연일 제기하고 있는 김승원 법무부 장관 후보자 의혹과 관련한 질문에…\n\n🗣 “이재명 정부 성평등가족부가 성과를 내도록 용혜인 장관과 기본소득당이 함께 뛰겠다”\n이 발언을 그대로 실은 보도 10건 · 주간경향 · 연합뉴스 · 한겨레 · 다음뉴스\n· 주간경향 — 기본소득당 대표 “용혜인 장관과 정부 성과 내도록 함께 뛰겠다”\n· 연합뉴스 — 기본소득당 신임대표에 오준호…용혜인 배우자는 최고위원 당선\n· 한겨레 — 용혜인 남편, 기본소득당 최고위원 당선…새 대표는 “원내정당 유지”\n· 다음뉴스 — [자막뉴스] \"가족·보좌진이 당 독식?\"…용혜인 남편도 최고위원 당선\n· kyongbuk.co.kr — 기본소득당 새 지도부, ‘용혜인 장관’ 지원 사격…TK 비판 확산\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, MBN, SBS, 노컷뉴스, 아이뉴스24, 조선일보, 한겨레"
 }
