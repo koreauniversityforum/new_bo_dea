@@ -1,259 +1,259 @@
 {
- "date": "2026-09-10",
- "generated_at": "2026-09-10T08:05:09+09:00",
+ "date": "2026-09-11",
+ "generated_at": "2026-09-11T08:04:31+09:00",
  "mode": "daily",
- "window_start": "2026-09-09T00:00:00+09:00",
- "window_end": "2026-09-09T23:59:59+09:00",
+ "window_start": "2026-09-10T00:00:00+09:00",
+ "window_end": "2026-09-10T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "[단독]제주서 감귤농사 강신철 父도 ‘철거민 특공’...3代가 서초·분당에 부동산",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0003997505",
-   "published_at": "2026-09-09T16:12:14+09:00",
+   "title": "한동훈, ‘서영교 찌릿’ 사진 올리며 “‘계엄’하시게요?” 비아냥",
+   "source": "한겨레",
+   "url": "https://n.news.naver.com/article/028/0002822433",
+   "published_at": "2026-09-10T10:10:13+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "강신철 국방부 장관 후보자의 부친 강모씨가 재개발을 앞두고 제주 서귀포시에서 서울 구로구 천왕동으로 전입했고, 강 후보자처럼 ‘철거민 특별공급’ 자격으로 호가…",
-   "summary_long": "강 후보자, 부친 재산 청문회 앞두고 ‘고지 거부’. 강신철 국방부 장관 후보자의 부친 강모(83)씨가 재개발을 앞두고 제주 서귀포시에서 서울 구로구 천왕동으로 전입했고, 강 후보자처럼 ‘철거민 특별공급’ 자격으로 호가 20여억원대 서초구 아파트를 분양받은 사실이 9일 확인됐다. 강 후보자 본인은 강원 화천에서, 부친은 제주에서 비슷한 시기 천왕동으로 위장 전입해 나란히 분양 자격을 얻은 것이다.\n\n‘이모 찬스’로 경기 분당에 7억원대 상가를 구입한 강 후보자의 아들까지 포함하면 강 후보자3대(代)가 서초·분당에 부동산을 갖고 있다. 본지가 입수한 인사청문자료에 따르면 강 후보자의 부친 강모씨는 2008년 3월 강 후보자 소유 주택 인근에 있는 본인 소유 서울 구로구 천왕동 주택에 전입했다. 강 후보자 측은 부친과 본인의 ‘위장전입’ 논란과 관련해 9일 “특별공급 청약은 절차에 따라 정상적으로 이루어진 것으로 알고 있다”고 했다.",
+   "summary": "한동훈 무소속 의원이 국회 법제사법위원장인 서영교 더불어민주당 의원이 자신을 쏘아보는 사진을 공유하며 “‘계엄’이라도 하시게요?”라고 비꼬았다. 한 의원은 9일…",
+   "summary_long": "서영교 민주당 의원, 재차 “필요하면 체포해야” 주장. 국회 법제사법위원장인 서영교 더불어민주당 의원이 9일 국회 로텐더홀에서 김승원 법무부 장관 후보자와 관련해 취재진 질문에 답하는 한동훈 무소속 의원을 보며 지나가고 있다. 한동훈 무소속 의원이 국회 법제사법위원장인 서영교 더불어민주당 의원이 자신을 쏘아보는 사진을 공유하며 “‘계엄’이라도 하시게요?”라고 비꼬았다.\n\n한 의원은 9일 페이스북에서 “서 의원이 국회 본회의장에서 저를 ‘긴급체포, 체포해야 해’라고 했다”라며 “‘계엄’이라도 하시게요?”라고 말했다. 이날 국회 본회의 대정부질문에서 서 의원은 연일 김 후보자 수사 자료를 공개하는 한 의원을 겨냥해 “긴급체포”를 외친 바 있다. 서 의원은 10일 페이스북에서 “한동훈과 자료 유출한 검사들 그리고 그것을 불법적으로 손댄 자들 모두 수사해 처벌해야 한다”며 이같이 말했다.",
    "quotes": [
-    "아들 상가 취득은 최초에 누락하고 부친의 재산은 공개 거부한 것은 부동산 관련 의혹 제기를 예상했기 때문 아닌가",
-    "실거주지와 주민등록상 주소를 일치시키는 등 일부 행정절차를 세심하게 살피지 못한 것은 사실",
-    "특별공급 청약은 절차에 따라 정상적으로 이루어진 것으로 알고 있다"
+    "한동훈과 자료 유출한 검사들 그리고 그것을 불법적으로 손댄 자들 모두 수사해 처벌해야 한다",
+    "비공개 수사 자료가 적법한 절차를 거치지 않고 외부로 유출됐다면 매우 엄중한 사안",
+    "서 의원이 국회 본회의장에서 저를 ‘긴급체포, 체포해야 해’라고 했다"
    ],
-   "press": "조선일보",
+   "press": "한겨레",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "실거주지와 주민등록상 주소를 일치시키는 등 일부 행정절차를 세심하게 살피지 못한 것은 사실",
-    "n": 2,
+    "quote": "비공개 수사 자료가 적법한 절차를 거치지 않고 외부로 유출됐다면 매우 엄중한 사안",
+    "n": 7,
     "verified": 0,
     "items": [
      {
-      "press": "조선일보",
-      "title": "[단독]제주서 감귤농사 강신철 父도 ‘철거민 특공’...3代가 서초·분당에 부동산",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDhza1BaUG5tVGNTaG4wMU5PeE9Jb2Y1a2pqSmFSME5VNmYwUE1aX3hqemwyUDVJN0RqWnpORTBqczNtOG4xWWotdERwSmNEa1Uxa0lqUkw4NlBjd3B2NWVNRDNPejl5ZTJha1hSVk5xaC1jVVVRTVBuMUpQZDJNS19oUlh0dUM4S21kaVdTLW5yQQ?oc=5"
+      "press": "한겨레",
+      "title": "한동훈, ‘서영교 찌릿’ 사진 올리며 “‘계엄’하시게요?” 비아냥",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zSTZROHJtT0dVRFVCcXVETzlFLTRZa1lHQnkzLVFIUXE0Tk5ieUd4S3hGWjBnamZfMEU0MndqWGJNYnExU3UwTkUzU0d4VFJOSkFnanRUZzBVR3p4dnd4MjVpeGJ4cS1wSnBfVEFTc1BHeTk5?oc=5"
+     },
+     {
+      "press": "문화일보",
+      "title": "“한동훈 긴급체포”에 “계엄하시게?”…서영교와 한동훈이 나눈 거침없는 다툼",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqZWVZMFhVamQ3ZHZ0UDNuVnU3dE02cm5iT1M1ZXhLanNzSVBwcVdfSk1FTUNHMXViV284TG1iZVo3UGhNcFhvZDhVeW8xYWFt?oc=5"
+     },
+     {
+      "press": "한겨레",
+      "title": "한동훈 ‘김승원 녹취’ 공개…한성숙 “수사자료 유출 경위 확인 지시”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EU1dzZUhQWGpZOVRpdHprVG1XSjhWTDl4TTNraGJhTmNtdUNSbTdpc0pHMWRUOEVKUmhjMDY4WU1uYWtxcTFQamRGZVBCcHN4UXVwQWEteVlEMzRHem1MMDRHWGZnMVJwcG9nYk5oUWpoUThm?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "한 총리, '한동훈의 김승원 수사기록 공개'에 \"관계기관이 유출 경위 확인하도록 지시\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjUl92WWZsY2VLNlFJZFNLX3picGY3QmhNZVk1REkzaEZhdTdBS0ZfRzQycHY2TzM0aG5ZRTR1ZGxES2RLaFh6Y014cDZYeUVPc2QzUkJ1eUhsTG1hdkFNTdIBeEFVX3lxTE12QTduVUF5Nm9NVFlYcG44bTZXcFpBand3blM2Wk1hUE1YM1AxWkNja2ZoWHBLWDA2QVliUkJMb0xyaEItbkIwX0ZXa0JjRE5fMGVhTkU3VEFYaG9rY2pqVHV2V2xGTVBtTW1fYWg2M1ZSNlBXcExSeA?oc=5"
+     },
+     {
+      "press": "조세일보",
+      "title": "한동훈, '김승원 녹취' 공개…한 총리 \"유출 경위 확인토록 지시\"",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YTmNpMV9pckRaNWlEOXA2YXpTLUR3QnpXNDYzb3FiQTg3c3NhaE1rVHRKUjhDSmZ4cm1ibHNPYlFPZERlOWg1cU5Jc0ZSa18wY3FyTnhfR0lDVEtQb3cw?oc=5"
      },
      {
       "press": "조선일보",
-      "title": "비거주·영끌 ‘나쁜 1주택자’ 된 장관 후보들… 李정부의 자승자박",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ3dLNDZzeTR3QzRkZmdNY2lScjd3MFlIWVVnWHBUelh5Q0pBZmNVQmNBT3FqaWIteHFOWHlZM0w0N1ItVTRibFdWVlpWUHlrS1ItQ3loUkhSZVBoel90cGx2QzZwbEtSZ0hZanhNdHlOeElPZTN4LUlQSzQ5MU4zVDlGOEd5RURtMGFjalV5NFc?oc=5"
+      "title": "與 \"녹취록 불법 입수\" 한동훈 \"제보자 지킬 것\"",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNERHVFNTSHd5akh1ZHJCU2ltQmVRdWxRTUFGbW14Wkg3eEdaaUJUYnVFb25iYTFRaWMzY0pObjNhYmZubWlCMFBlOFdwTDhXVlFtaWtRVDJNRlVYQldGNDZjWlBENnJvQVJYOU85WGxiNFBVWEtkTDlEREpJVjVza053TnRfdw?oc=5"
      }
     ]
    }
   },
   {
-   "title": "용혜인 의혹 해명 자리서 '꽃 문신' 드러낸 부대변인… 누리꾼들 갑론을박",
-   "source": "한국일보",
-   "url": "https://n.news.naver.com/article/469/0000952983",
-   "published_at": "2026-09-09T11:00:08+09:00",
+   "title": "이 대통령 \"제 임기 헌법상 제한\"...연임 논란 공개 언급",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002405036",
+   "published_at": "2026-09-10T00:51:28+09:00",
    "section_id": "100",
-   "view_rank": 2,
+   "view_rank": 1,
    "selection": "정치",
-   "summary": "7일 국회 소통관에서 열린 기본소득당의 기자회견 중 김진서 부대변인의 팔에 새겨진 꽃 문신이 포착됐다. 최근 기자회견에서 김진서 부대변인의 팔에 큼지막하게 새겨진 문신이…",
-   "summary_long": "반팔 소매 아래 커다란 '꽃 문신' 노출. 7일 국회 소통관에서 열린 기본소득당의 기자회견 중 김진서 부대변인의 팔에 새겨진 꽃 문신이 포착됐다. 온라인에선 \"공식 석상에서 문신을 드러낸 건 부적절하다\"는 지적이 이어졌다.\n\n용혜인 성평등가족부 장관 후보자를 둘러싼 정치권 공방이 계속되는 가운데, 용 후보자의 소속 정당인 기본소득당이 또 다른 논란에 휩싸였다. 최근 기자회견에서 김진서 부대변인의 팔에 큼지막하게 새겨진 문신이 언론사 카메라에 포착됐기 때문이다. 신 최고위원은 용 후보자가 의원직을 유지한 채 장관 인사청문회에 임하려 하는 것과 관련, 미소를 띠면서 \"이번 논란에는 비례대표 의원에 대한 편견과 젊은 여성 의원에 대한 과도한 비난이 분명히 있다고 생각한다\"고 말했다.",
-   "quotes": [
-    "이번 논란에는 비례대표 의원에 대한 편견과 젊은 여성 의원에 대한 과도한 비난이 분명히 있다고 생각한다",
-    "정치계에 있는 사람은 국민 앞에 설 때 지켜야 할 매너와 기본 소양이 있다",
-    "문신한 게 문제가 아니라 저런 자리에서 과시하듯 드러낸 게 무개념"
-   ],
-   "press": "한국일보",
-   "photo": "02.jpg",
-   "quoted": {
-    "quote": "정치계에 있는 사람은 국민 앞에 설 때 지켜야 할 매너와 기본 소양이 있다",
-    "n": 2,
-    "verified": 0,
-    "items": [
-     {
-      "press": "kyeonggi.com",
-      "title": "국회 회견서 '꽃 문신' 노출한 김진서 기본소득당 최고위원…'갑론을박'",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nV2ZzelZuT3QxZWxWbEttang4QW1DMGxPTVVQd3g4dTNUX2txdWFNVEtjcktKSTJ0WUg4U2ppV3ZDdzItb0RTd0U4NUZPVDdpWjBsR2p4WFFnZms?oc=5"
-     },
-     {
-      "press": "한국일보",
-      "title": "용혜인 의혹 해명 자리서 '꽃 문신' 드러낸 부대변인… 누리꾼들 갑론을박",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNzhlazJNVHBrZW5PWjQzN29aSVZhUk1UY2QzRklMNEhOZnA3RlBlbVdLYV9oSWlZc2QyVURrVENJdGRZRGRoMC1WblZNNmtRM0VjeW9SSGFFWURuTUtIR0xkYkRfSnJvZWs1SkxGbEFiS2JYbkVUaDQ1YnBldFI2dENmUXFsaFhvV2JIRzF0YUM1Nk02VDFOeHZnMU9vdjJkZHpFU3dFNnhOLXV6SEtSTkN0ZENYdGk1d3dpNi1aQndzVm50Ri1FSnJ6ZW9seC03T0tRTEFIOGI2cjhmZmVkX3ZCQTdlWW9Z0gFzQVVfeXFMUFBKQVNnTXNGVWJwNmM5SWh0Y2prQ2RPOVNyRVpOR3c0azFpOTltM05HbkNTUUZJem1PQWxINmRhckFpeXFzTG45NzdEdXl0YkgzUTdJVTVyZjZQak5IUUxEU2JIR3YxU2tXSE55V3poNzJ3cw?oc=5"
-     }
-    ]
-   }
+   "summary": "프랑스 국빈 방문 중인 이재명 대통령이 해외 동포와의 간담회에서, 대통령의 임기는 헌법상 명확하게 제한돼 있다고 말했습니다. 연임 개헌에 대한 야당의 공세가 이어지는…",
+   "summary_long": "프랑스 국빈 방문 중인 이재명 대통령이 해외 동포와의 간담회에서, 대통령의 임기는 헌법상 명확하게 제한돼 있다고 말했습니다. 연임 개헌에 대한 야당의 공세가 이어지는 상황에서 대통령의 공개 언급이 나온 겁니다. 프랑스 국빈 방문 마지막 날 파리 시내에서 재외동포들을 만난 이재명 대통령, 취임 초 해외 방문을 많이 잡아 놓은 상태라며 이같이 말했습니다.\n\n[이재명 / 대통령 : 어쨌든 저의 임기는 헌법상 명확하게 제한돼 있기 때문에 빨리 시작해야 (정상외교) 효과를 오랫동안 누릴 수가 있죠. 이에 청와대는 그동안 현행 헌법상 개헌을 통한 이 대통령의 연임은 불가능하다는 입장을 거듭 밝혀왔습니다. 이 대통령의 이번 발언은 '헌법상 임기 제한'을 짚었다는 점에서, 사실상 연임 가능성에 간접적으로 선을 그은 것으로 풀이됩니다.",
+   "press": "YTN",
+   "photo": "02.jpg"
   },
   {
-   "title": "\"가만히 앉아서 11조 날릴 판\" 경고…삼성전자 '초비상' [분석+]",
-   "source": "한국경제",
-   "url": "https://n.news.naver.com/article/015/0005330370",
-   "published_at": "2026-09-09T10:59:10+09:00",
+   "title": "“한강러닝 다녀오겠단 아들, 그 속 몰랐습니다”…생명의전화 절반이 1020",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005733020",
+   "published_at": "2026-09-10T06:58:15+09:00",
    "section_id": "101",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "수출 기업 입장에서는 원·달러 환율 하락이 원화 기준 매출과 이익의 감소 요인으로 작용한다. 삼성전자 관계자는 \"환율이 너무 빠르게 하락하면서 내년 사업계획의 환율…",
-   "summary_long": "또한 반도체와 자동차 등 수출 비중이 높은 기업들은 원화 환산 매출과 이익 감소를 피하기 어려워 기존 환율 가정부터 생산·투자·인력 배치 계획까지 다시 들여다보고 있다. 김동영 삼성증권 연구원은 \"반도체를 중심으로 한 수출 호조로 대규모 경상수지 흑자가 발생해 수출 기업의 달러 매도 물량이 시장에 지속적으로 공급된 게 환율 하락의 이유\"라고 했다. 수출 기업 입장에서는 원·달러 환율 하락이 원화 기준 매출과 이익의 감소 요인으로 작용한다.\n\n삼성전자 관계자는 \"환율이 너무 빠르게 하락하면서 내년 사업계획의 환율 가정부터 다시 점검해야 하는 상황\"이라며 \"메모리는 달러 매출 비중이 높아 원화 강세가 평균판매가격(ASP)과 매출의 원화 환산액, 영업이익에 직접적인 영향을 줄 수 있다\"고 말했다. \"급락세 더 간다\" vs \"조정 끝\"…환율 전망 엇갈려향후 원·달러 환율 방향에 대해선 증권가의 전망이 다소 엇갈린다. 권아민 NH투자증권 연구원은 \"최근에는 달러 수요보다 수출 호조로 인한 기업발 달러 공급이 두드러지며 원·달러 환율의 급락세가 나타나는 중\"이라며 환율이 단기에 기존 전망보다 낮은 1300원대 초반까지 하락할 수 있다고 했다.",
-   "quotes": [
-    "고대역폭메모리(HBM)와 서버용 DDR5 등 고부가가치 제품의 믹스 개선으로 일부 상쇄할 수 있지만 환율 변동성이 커지면 생산량, 투자, 인력 배치까지 전반적인 계획의 불확실성이 높아질 수밖에 없다",
-    "고객사 팹 증설 일정과 장비 발주 시점, 생산능력 증설에 필요한 인력 확보까지 환율 변수가 경영계획에 미치는 영향이 커질 텐데 잘 대응할 수 있을지 걱정되는 것은 사실",
-    "방산은 대규모 수출 프로젝트의 계약금이 달러 기준인 데다 계약 이후 납품과 매출 인식까지 장기간이 소요되기 때문에 환율 가정이 중장기 사업계획에 중요한 변수"
-   ],
-   "press": "한국경제",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "고대역폭메모리(HBM)와 서버용 DDR5 등 고부가가치 제품의 믹스 개선으로 일부 상쇄할 수 있지만 환율 변동성이 커지면 생산량, 투자, 인력 배치까지 전반적인 계획의 불확실성이 높아질 수밖에 없다",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "한국경제",
-      "title": "\"가만히 앉아서 11조 날릴 판\" 경고…삼성전자 '초비상' [분석+]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96Y2kzQllhb1BCS1luQk9wNkM3MURIbFo0ZlJoS1RMNVhzTlBZNUVlWC0yQmVFNTBZbndUaUE2R3RiU2tFbHlBTktFUk9HS18zeEMtc1pLRzd3QQ?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "中 CXMT도 D램값 상승 베팅…“하반기 메모리 공급 부족 계속”",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tWDJFMGtLNWNRSTVwVk1IdDB0c0xhZkx5em9XeVVENm5SNmV5VUJ6U2hteDFlWjBlQ2hwM29xc1djVXhlb1hLTXE3QjFnWUV4bnRiUA?oc=5"
-     },
-     {
-      "press": "비즈니스포스트",
-      "title": "메모리 가격 상승으로 빅테크 AI 투자 '한계점' 임박 분석 나와, \"수요 파괴\" 시나리오 거론",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1STzFHN0xLaUVXMWJoUDl0d25iSFNBWUlkUlZoWHhpX0tDVGx0bk1uR09leVZjcHV5VndwckdLeE9aQURGQzYzUXdKeHcxbVBFOVZRN2VwUU9xWkFobTVXd0MwWktXVE5aRGdXaXpjLS1vNmc?oc=5"
-     },
-     {
-      "press": "조선일보",
-      "title": "AI 열풍의 숨은 비용 청구서… 저가 100달러폰 사라지며 ‘디지털 접근권’ 흔들린다",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTmt0Rzl3WS1vcnhyc3JuVHR5Z0FVYVJiaFhnM0hnOWYzblAtVmZ3YWZtelNjQldjcUJ1LWE3WWFkQ1BxbDRXTllXNVN1WnFIWVpmVGo1czVzYUdfRzM4c0RaTzdMcFVELXNwUTV2aDUwaW5FOVR6QkRqWV9DY3NVVUw2SQ?oc=5"
-     },
-     {
-      "press": "Calgary Roughnecks",
-      "title": "토토 케이티 : 위험 피하기와 최적화 - 실용적인 접근법",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aZlV2eW1LQm53dU1EUWFWYVV1NTJSWGZRalpkMmFBb1NycVg5bDVXdWYxUGh0WmNEMGlIeGJXUWVnc1Z3cTRzXzRNZ3BiT05BWUZmMXRLUzVtMzU3eXVDeDZicFBmRlJhTVhtQl9obDRSLWpsVHQ0?oc=5"
-     },
-     {
-      "press": "KB Think",
-      "title": "'초거대 AI' 4번째 분기점 왔다…삼전닉스 '스트롱 바이'",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3b1BnckJSMGItNHdJelhVUUJIOEsxWG5WVG5LY1dTaGhpUG85emFqdEJZZkRGWHNLa2RjMkpwVklmaWluNXRFREZ0RnhoLXQ0TXdyaXpQbC1YRF9wUlVWSmVFMGdmeTF1WUNHMTFlUzEwUQ?oc=5"
-     }
-    ]
-   }
+   "summary": "한강교량 설치된 SOS생명의전화. 한강 교량 20곳에 설치된 SOS생명의전화를 찾는 시민 중 10·20대가 절반 이상인 것으로 나타났다.",
+   "summary_long": "한강 교량 20곳에 설치된 SOS생명의전화를 찾는 시민 중 10·20대가 절반 이상인 것으로 나타났다. 9일 생명보험사회공헌재단이 세계 자살예방의 날(9월 10일)을 맞아 생명의전화 운영 15년 성과를 발표했다. 생명의전화는 위기 상황에 놓인 시민이 수화기를 들면 365일 24시간 전문 상담사와 연결되는 시스템이다.\n\n2011년 생명의전화를 설치한 후 15년간 위기 상담 건수는 1만606건을 기록했다. 고민 유형은 대인 관계(20%), 진로·학업(17%), 인생 전반(16%), 가족 문제(13%) 순으로 높았다. 상담이 가장 많이 몰린 시간대는 오후 6시부터 자정까지로, 전체의 절반에 가까운 5275건(49.7%)이 이 시간에 접수됐다.",
+   "press": "매일경제",
+   "photo": "03.jpg"
   },
   {
-   "title": "“민망해서 어떻게 입어” 말 나오더니 결국…찬밥 신세 된 레깅스, 주가 급락에 ‘비명’",
-   "source": "서울경제",
-   "url": "https://n.news.naver.com/article/011/0004659942",
-   "published_at": "2026-09-09T07:59:11+09:00",
-   "section_id": "101",
+   "title": "파주 아파트서 30대 탈북 여성 시신 발견…유력 용의자 해외 출국",
+   "source": "디지털타임스",
+   "url": "https://n.news.naver.com/article/029/0003047408",
+   "published_at": "2026-09-10T18:27:12+09:00",
+   "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "레깅스 판매가 급감하는 상황에서 주가도 하락하면서 신임 최고경영자의 리더십이 시험대에 올랐다. 8일 WWD 등 현지 매체에 따르면 룰루레몬의 신임 최고경영자 하이디…",
-   "summary_long": "레깅스 판매가 급감하는 상황에서 주가도 하락하면서 신임 최고경영자(CEO)의 리더십이 시험대에 올랐다. 8일(현지시간) WWD 등 현지 매체에 따르면 룰루레몬의 신임 최고경영자(CEO) 하이디 오닐은 9일 공식 취임한다. 룰루레몬은 지난 3일 장 마감 후 2분기(6~8월) 실적을 발표했고 매출은 전년 동기 대비 4% 줄어든 24억2000만달러, 순이익은 11% 감소한 3억7090만달러를 기록했다.\n\n오닐 신임 CEO는 나이키에서 30년 가까이 몸담으며 연간 매출을 90억달러에서 450억달러로 끌어올리는 데 기여한 인물로 평가받는다. 모닝스타의 데이비드 스와츠 애널리스트는 룰루레몬이 주요 시장 전반에서 매출이 약화되고 있고 올 하반기는 더욱 어려워질 것으로 예상되는 상황에서 중요한 리더십 전환기를 맞이하고 있다고 밝혔다. 나이키·데커스·온홀딩스 등 스포츠웨어 업계 전반이 동시에 난항을 겪고 있어 오닐 CEO의 돌파구 마련이 더욱 쉽지 않다는 분석이다.",
-   "press": "서울경제",
+   "summary": "현장에선 범죄로 볼 만한 정황이 포착됐으며, 유력한 용의자는 해외로 출국한 것으로 파악됐다. 10일 경찰 등에 따르면 지난 9일 오전 10시 35분쯤 파주시 와동동의 한…",
+   "summary_long": "경기 파주시의 한 아파트에서 30대 북한이탈주민 여성의 시신이 발견됐다. 현장에선 범죄로 볼 만한 정황이 포착됐으며, 유력한 용의자는 해외로 출국한 것으로 파악됐다. 10일 경찰 등에 따르면 지난 9일 오전 10시 35분쯤 파주시 와동동의 한 아파트에서 연락이 닿지 않는 탈북 여성 30대 A씨의 상태를 확인하기 위해 경찰과 소방 당국이 공동으로 출입문을 개방, 집안에 들어간 뒤 숨진 상태의 A씨를 발견했다.\n\n발견 당시 시신은 상당한 정도까지 부패가 진행된 상태였던 것으로 전해졌다. 경찰의 현장 확인과 부검 소견을 통해 타살 정황이 확인됐다. 경찰은 A씨의 연인이었던 B씨가 사건 이후 해외로 출국한 사실을 확인한 뒤, 그를 유력한 용의자로 보고 행방을 쫓고 있다.",
+   "press": "디지털타임스",
    "photo": "04.png"
   },
   {
-   "title": "이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"",
+   "title": "청와대 \"이 대통령 '헌법상 임기 제한' 발언, 연임 안 한다는 뜻\"",
    "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001523001",
-   "published_at": "2026-09-09T19:55:55+09:00",
+   "url": "https://n.news.naver.com/article/214/0001523128",
+   "published_at": "2026-09-10T10:59:25+09:00",
    "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 407,
-   "comment_agree": 251,
-   "comment_disagree": 65,
-   "division_balance": 0.411392,
-   "division_score": 2.369168,
+   "view_rank": 5,
+   "comment_count": 467,
+   "comment_agree": 162,
+   "comment_disagree": 35,
+   "division_balance": 0.35533,
+   "division_score": 1.87908,
    "selection": "찬반 쟁점",
-   "summary": "프랑스를 국빈 방문 중인 이재명 대통령이 \"제 임기는 헌법상 제한돼 있다\"고 언급했습니다. 이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"",
-   "summary_long": "프랑스를 국빈 방문 중인 이재명 대통령이 \"제 임기는 헌법상 제한돼 있다\"고 언급했습니다. 이 대통령은 프랑스 파리에서 열린 현지 동포들과의 간담회에서 \"정상외교는 대한민국의 무역, 투자나 안보환경에 좋은 기회를 준다\"면서 \"어쨌든 자신의 임기는 헌법상 명확하게 제한돼 있기 때문에 빨리 시작해야 그 효과를 누릴 수 있다\"고 말했습니다. 이 기사는 언론사에서 정치 섹션으로 분류했습니다.\n\n29개 언론사54,224개 기사. 이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"",
+   "summary": "청와대는 이재명 대통령이 직접 본인의 임기는 헌법상 명확하게 제한돼있다고 밝힌 데 대해, 연임 개헌 의사가 없는 거라고 해석했습니다. 성기홍 청와대 홍보소통수석은 오늘…",
+   "summary_long": "청와대는 이재명 대통령이 직접 본인의 임기는 헌법상 명확하게 제한돼있다고 밝힌 데 대해, 연임 개헌 의사가 없는 거라고 해석했습니다. 성기홍 청와대 홍보소통수석은 오늘 오전 MBC라디오 '김종배의 시선집중'에서 \"항간에서 얘기하는 연임이라는 것 자체는 아예 불가능한 사안이고, 검토될 수도 없는 사안이라는 말씀을 하신 걸로 저는 해석하고 있다\"고 말했습니다. 앞서 이 대통령은 프랑스에서 열린 동포간담회 오찬에서 \"취임 초 해외 방문을 많이 잡아 놓은 상태\"라며 \"저의 임기는 헌법상 명확하게 제한돼 있기 때문에 빨리 시작해야 그 효과를 누릴 수 있다\"고 말했습니다.\n\n성 수석은 대통령의 발언을 '연임 안 한다'로 직결해서 이해해도 되는지 묻는 질문에 \"그렇게 해석될 수 있을 것 같다\"면서 \"이 대통령께서는 그런 야당에서 말하는 것 내지 언론에서 얘기하는 부분도 많이 듣고 계신다\"고 설명했습니다. 성 수석은 \"동포간담회 자리가 아니라 다른 공개적으로 국민과 만나는 자리에서 말씀하실 기회가 있을 수도 있을 것이라고 보지만, 기본적으로는 대통령이 연임하지 않겠다고 해서 대통령 연임이 금지되는 게 아니라 헌법에 이미 금지돼 있는 것\"이라고 덧붙였습니다. 이 대통령이 공개적으로 입장을 표명할 가능성을 두고는 \"여러 가지 형식의 대국민 소통 자리는 있을 것\"이라며 \"다만 구체적으로 어떤 형식으로 어떤 시기에 있을지 부분에 대해서는 내부적으로 결정이 된다면 그때 말씀드릴 수 있는 기회가 있을 것\"이라고 했습니다.",
    "quotes": [
-    "어쨌든 자신의 임기는 헌법상 명확하게 제한돼 있기 때문에 빨리 시작해야 그 효과를 누릴 수 있다",
-    "정상외교는 대한민국의 무역, 투자나 안보환경에 좋은 기회를 준다",
-    "남편이 대통령 되며 재산·명예 모두 잃어… 최소한의 명예라도"
+    "동포간담회 자리가 아니라 다른 공개적으로 국민과 만나는 자리에서 말씀하실 기회가 있을 수도 있을 것이라고 보지만, 기본적으로는 대통령이 연임하지 않겠다고 해서 대통령 연임이 금지되는 게 아니라 헌법에 이미 금지돼 있는 것",
+    "항간에서 얘기하는 연임이라는 것 자체는 아예 불가능한 사안이고, 검토될 수도 없는 사안이라는 말씀을 하신 걸로 저는 해석하고 있다",
+    "다만 구체적으로 어떤 형식으로 어떤 시기에 있을지 부분에 대해서는 내부적으로 결정이 된다면 그때 말씀드릴 수 있는 기회가 있을 것"
    ],
    "press": "MBC",
    "photo": "05.jpg",
    "quoted": {
-    "quote": "어쨌든 자신의 임기는 헌법상 명확하게 제한돼 있기 때문에 빨리 시작해야 그 효과를 누릴 수 있다",
-    "n": 2,
+    "quote": "다만 구체적으로 어떤 형식으로 어떤 시기에 있을지 부분에 대해서는 내부적으로 결정이 된다면 그때 말씀드릴 수 있는 기회가 있을 것",
+    "n": 4,
     "verified": 0,
     "items": [
      {
-      "press": "MBC 뉴스",
-      "title": "이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0M285c0FiRlVCNEVlcm0zUXd1X0dwTnlVb2J0OEFuTU53M3JRRUFtY3RSalBYVnM0a2l3R1F5WFNEQzJ4NDlMdkFDSzVhekctaHVPcGxpSkhBMFpiT0JBYmw3U0UwWXZWT0NlbllzWG1LajBudzR6aNIBeEFVX3lxTFAwV2toNTBKRF8tbkNydkRXcWp5QnlMdXl5V05DUkRENEE0dW0xM1NENmpRS3ZBU3NXQU11VXotLW1lUkRHcEtETG5yQ2FZM3Bra0I0SnlxT1BYUFowanVwSnJOTVlKV0REMGswb2tvZldraEI0RWhueA?oc=5"
+      "press": "MBC",
+      "title": "청와대 \"이 대통령 '헌법상 임기 제한' 발언, 연임 안 한다는 뜻\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TamFWZWV4eUh6OU40V3ctcnJZVmNRNDRDaUoyQll1SHdEbS1JemU3ejYzRXhOa0U0RGhqY0NEZzQ5UngwY0FzU09pbHgyTlpMRGhob1p6eml3a2prVHM5LXNjamVMdlpqbDdTalctaU5kTUlFMFU0eNIBeEFVX3lxTFBiMGdJWDNLVnk4ZUtVQVl5Y2NUNkpQYzhTd0c4NGV6ZE1JdzF2cW1CaHFJa25FLWZJZUpxWEtYN3J6WnNBNUZCakJIM1lHcThrOVAxaDJaSlhfSmt0MERhbmdTTEFVRlRQZ0RvbjhnRExWMUJ6M0ZNUQ?oc=5"
      },
      {
-      "press": "부산일보",
-      "title": "김건희, 눈물의 호소 \"남편이 대통령 되며 재산·명예 모두 잃어… 최소한의 명예라도\"",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zeklVek9oWDUyd0VFUks0ZUdEVGVpR09iYlE1dGhaRUV2MjNQdWpHWExIVzB6eVY3b29IRGpsVDhYNjhDWWxIQ3c4cDFFUzFnS2pjWHlmR2xzMXNnVU1XVFpZekVaUnZ0NjMtQU1HcEVzbVNxMW9zQ0YwQQ?oc=5"
+      "press": "중앙일보",
+      "title": "성기홍 “연임 안 하나” 질문에 “헌정질서 변화 생각할 수 없어”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jVWFOcm41Nm81VlF0eTR1bUp5SGp1dHRyMTZMQ3JKX0Y4bkxKTmFsTzFzN3dlOVM0NU5ybzRmY0phQlM0MmYxSzNkQjdMWHpSRXk1UTh3?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "靑, 李대통령 '임기 헌법상 제한' 발언에 \"'연임 불가능' 말씀하신 것\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tblNsa3FOSGtsVVRNZ2JCRUs5c1pjWjJaTXhFWm44dG1hSTVYYjVGT3VVYkN2TVdld3FFTk9Tc1FDYnJxcTFBMDdfQ2lkeEtCbUtDRTNCbUpIa2lFUklXYmdZSzliT281Q0I2Mjg5bnZZTTB0MnVVVNIBeEFVX3lxTE1tblNsa3FOSGtsVVRNZ2JCRUs5c1pjWjJaTXhFWm44dG1hSTVYYjVGT3VVYkN2TVdld3FFTk9Tc1FDYnJxcTFBMDdfQ2lkeEtCbUtDRTNCbUpIa2lFUklXYmdZSzliT281Q0I2Mjg5bnZZTTB0MnVVVA?oc=5"
+     },
+     {
+      "press": "매일경제",
+      "title": "靑 “연임? 아예 불가능한 사안…이 대통령, 대국민 소통자리 있을 것”",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBGQVpib1dxSmJXSmJGMzVGVXlWVV9LVnpvZWlMNjdUTUo5Y0c2OFF5UklqQVFZQUhFWFlFeXdwZ2Y4Sm5vSlE?oc=5"
      }
     ]
    }
   },
   {
-   "title": "김승원 '신약 청탁' 의혹 당사자 입 열었다…\"한동훈 녹취록 황당, 왜곡된 짜깁기\"",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000510259",
-   "published_at": "2026-09-09T11:29:23+09:00",
+   "title": "한동훈 \"검찰서 자료 받은 적 없다\"…허위사실 유포로 김민석 고소",
+   "source": "아시아경제",
+   "url": "https://n.news.naver.com/article/277/0005814726",
+   "published_at": "2026-09-10T16:05:08+09:00",
    "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 406,
-   "comment_agree": 236,
-   "comment_disagree": 41,
-   "division_balance": 0.296029,
-   "division_score": 1.665938,
+   "view_rank": 4,
+   "comment_count": 155,
+   "comment_agree": 121,
+   "comment_disagree": 24,
+   "division_balance": 0.331034,
+   "division_score": 1.649746,
    "selection": "찬반 쟁점",
-   "summary": "한동훈 무소속 의원이 연이어 공개하고 있는 김승원 법무부 장관 후보자의 '신약 청탁' 의혹 관련 녹취록. 이 녹취록엔 신약 개발 업체 제넨셀의 창업자 강세찬 교수가…",
-   "summary_long": "한동훈 무소속 의원이 연이어 공개하고 있는 김승원 법무부 장관 후보자의 '신약 청탁' 의혹 관련 녹취록. 이 녹취록엔 신약 개발 업체 제넨셀의 창업자 강세찬 교수가 등장합니다. 강 교수는 한 의원이 공개하는 녹취록에 대해 \"황당한 내용\"이라고 했습니다.\n\n검찰에서도 어느 부분 일부분만 지정하면서 거기에 읽어보고 거기에 대해서 답을 해라 이러던데 앞뒤 맥락을 전체를 보면 이건 검찰이 주장하는 내용이 아닌 것 같아서 저도 '전체 내용을 다 보겠다' 그래서 다 보고 나서 대답을 했었거든요. 양 씨가 다른 컨설턴트와 통화하는 녹취록에서 '승인을 못 받으면 강 교수가 67억원을 토해내야 한다' 언급한건 \"전혀 근거 없는 이야기\"라고 했습니다. 양 씨가 여러 가지 지인들이나 그런 사람들한테 저랑 얘기됐거나 또는 김승원 의원과 얘기가 됐거나 하지 않은 전혀 얘기가 없는 것들에 대해서 혼자 많이 얘기를 했더라고요.",
+   "summary": "이재명 대통령에 김승원 지명 철회 촉구한동훈 무소속 의원이 김승원 법무부 장관 후보자 관련 자료를 검찰로부터 받았다는 의혹을 부인하며 김민석 국무총리를 경찰에 고소했다고…",
+   "summary_long": "이재명 대통령에 김승원 지명 철회 촉구한동훈 무소속 의원이 김승원 법무부 장관 후보자 관련 자료를 검찰로부터 받았다는 의혹을 부인하며 김민석 국무총리를 경찰에 고소했다고 밝혔다. 한 의원은 10일 국회 본관 로텐더홀에서 기자들과 만나 \"검찰이나 검찰 관계자로부터 자료를 받은 바도, 협력한 바도 없다\"며 \"오늘 영등포경찰서에 김 총리를 허위사실 유포 혐의로 고소했다\"고 말했다. 한동훈 무소속 의원이 9일 국회 로텐더홀에서 김승원 법무부장관 후보자 의혹과 관련해 백브리핑을 하고 있다.\n\n한 의원은 \"국무총리가 특정 사건에 대해 검찰이나 법무부에 지시할 수 있느냐\"며 \"수사가 이미 진행 중인 사안에 총리실이 감찰 명목으로 나서는 것은 어불성설이다. 민주당이 한 의원이 공개한 자료의 유출 경위를 문제 삼는 데 대해서는 \"핵심은 폭로가 공익적이냐 아니냐\"라며 \"김 후보자의 이른바 '오빠 독약 로비' 의혹과 법무부 장관으로서의 적격성을 검증하는 것은 공익성이 차고 넘친다\"고 주장했다. 한 의원은 \"아직은 '의혹이 이렇게 심각한 줄 몰랐다'며 지명을 철회할 기회가 있다\"며 \"오늘이 지나면 이 대통령도 공범\"이라고 주장했다.",
    "quotes": [
-    "전혀 근거 없는 이야기"
+    "김 후보자의 이른바 '오빠 독약 로비' 의혹과 법무부 장관으로서의 적격성을 검증하는 것은 공익성이 차고 넘친다",
+    "수사가 이미 진행 중인 사안에 총리실이 감찰 명목으로 나서는 것은 어불성설이다. 낄 때 끼고 빠질 때 빠지라",
+    "국정감사까지 갈 정도의 특혜와 일종의 커미션에 대해 김 후보자도 걱정하고 있었다는 사실이 드러났다"
    ],
-   "press": "JTBC",
-   "photo": "06.png",
+   "press": "아시아경제",
+   "photo": "06.jpg",
    "quoted": {
-    "quote": "전혀 근거 없는 이야기",
-    "n": 5,
+    "quote": "국정감사까지 갈 정도의 특혜와 일종의 커미션에 대해 김 후보자도 걱정하고 있었다는 사실이 드러났다",
+    "n": 3,
     "verified": 0,
     "items": [
-     {
-      "press": "JTBC",
-      "title": "김승원 ‘신약 청탁’ 의혹 당사자 입 열었다…\"한동훈 녹취록 황당, 왜곡된 짜깁기\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9McHJ2NVk5UmFGR3h6Q05NTE5hZjBaQU85X2VvVE0yaEtFelRBRFhXRUlMWWE0Rm11T0FKdEFoQ1ZJbFJqLVV4NFBSTkNkcDdGTlFuNw?oc=5"
-     },
-     {
-      "press": "용인신문",
-      "title": "“지난번엔 50점, 이번엔 12점?”…정자검사 성적표가 들쑥날쑥한 이유",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94WXl5alJxbmp4TGtGSXdvNHJNQWRDOFlNd3g2aVhsbXhLMk1NTHFUbnlxN3VmQl9QdEEzb2NwZ3lKcnpBZ09LWVk4ckZCUU4tS3g4a1JscFJCc0hCMFQ4ZU9ILVI?oc=5"
-     },
-     {
-      "press": "이데일리",
-      "title": "\"한동훈 녹취록은 짜깁기\"…'김승원 로비 의혹' 제넨셀 창업주 맞불",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWkRWSk5hRFhFMTh5enBCRXh0eXZiS3AtTjV0Tl9mRTZabW1JVmZlOW1Ka3d0dS1mVTZWQ0RtMjVGbndyY2d6Q19aZ0k4QVBpZEZwS2ZTYXBVbEVfbG1QYm51N3JiTmdSanlJYnBzcXhZTC1RUlptaXd5ZkN6elQzUQ?oc=5"
-     },
      {
       "press": "다음뉴스",
-      "title": "\"부글부글 끓다 터질 수도\" '조회수 500만' 외국인이 담근 '유리병 김치'에 쏟아진 우려",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mWDdhVnVFTHlDZTQ1bmRvc3VJemRUMm1ZQzBPQmVUTnUzcmNpRGtJdVlSZ0lBX3dJdXQyREFwTUxzUmlFN0lBSFZDSQ?oc=5"
+      "title": "한동훈 \"검찰서 자료 받은 적 없다\"…허위사실 유포로 김민석 고소",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zSEE2cDZ4cDRYX001cE9yVUxkdElzUFkzNjg2WWgwV2V2Y2hpR3VyZnhUaTRXMGhZbGVEeDVrMElCZ2d0c1JMc2xSRXJvWXM?oc=5"
      },
      {
-      "press": "헤럴드경제",
-      "title": "이병헌-이민정 결혼? 이민정 소속사 측 “전혀 근거 없는 이야기”",
-      "link": "https://biz.heraldcorp.com/article/10289919"
+      "press": "국민일보",
+      "title": "한동훈, 김민석 허위사실로 고소…“검찰 자료 받은 적 없다”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sZjh0cUFYYW5lQ1ltZExxX2dGcVlfbWZFZmFDaFJKSFZtYmFkRHNQVzk4cXUyNG5OV0N2XzJiMUVpV0ZqbXJ5bHFTS0d1WmprZFhMeHFrUmhBQVdlOGdNYldKQ3EyWk9UNEdQLdIBbEFVX3lxTE1sZjh0cUFYYW5lQ1ltZExxX2dGcVlfbWZFZmFDaFJKSFZtYmFkRHNQVzk4cXUyNG5OV0N2XzJiMUVpV0ZqbXJ5bHFTS0d1WmprZFhMeHFrUmhBQVdlOGdNYldKQ3EyWk9UNEdQLQ?oc=5"
+     },
+     {
+      "press": "경향신문",
+      "title": "한동훈 “검찰에서 자료 안 받아”···김민석 허위사실 유포로 형사고소",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xY2xlYml4VE42bFF6VENiTjZtZmE3TmdTR0xIVVJyRnloTHY1WVJmQXhtWk8talgtOVlOWnByV2dqNjlEN0g5OFN1ZEo4bmpsdVZtSGMtTEVGQdIBX0FVX3lxTE1YV3Y2emdjWHVUR2RfY1VaeFhxeFhBZzBrdVFmUUQ1clI2S2duNjM3SWI2Z2ZDLXp4OWhITldNWlViVlhJLXY4Snh3eEtGRk5YX01rNUZIc1g0XzJYYjM4?oc=5"
      }
     ]
    }
   },
   {
-   "title": "“윤석열 편들던 사람을…” 초대 중수청장 내정에 야권 ‘발칵’",
-   "source": "세계일보",
-   "url": "https://n.news.naver.com/article/022/0004157710",
-   "published_at": "2026-09-09T16:44:15+09:00",
+   "title": "수사자료 유출했나‥민주, 한동훈 제명 추진",
+   "source": "MBC",
+   "url": "https://n.news.naver.com/article/214/0001523151",
+   "published_at": "2026-09-10T12:04:20+09:00",
    "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 193,
-   "comment_agree": 138,
-   "comment_disagree": 17,
-   "division_balance": 0.219355,
-   "division_score": 1.10771,
+   "view_rank": 4,
+   "comment_count": 695,
+   "comment_agree": 243,
+   "comment_disagree": 37,
+   "division_balance": 0.264286,
+   "division_score": 1.490137,
    "selection": "찬반 쟁점",
-   "summary": "김지용 초대 중대범죄수사청장 후보자의 인사청문회에서 과거 검찰 재직 시절의 행보와 검찰 개혁에 대한 견해가 핵심 쟁점으로 부각될 전망이다. 이에 따라 검찰 출신인 김…",
-   "summary_long": "김지용 초대 중대범죄수사청장 후보자의 인사청문회에서 과거 검찰 재직 시절의 행보와 검찰 개혁에 대한 견해가 핵심 쟁점으로 부각될 전망이다. 법조계에 따르면 김 후보자는 사법연수원 28기로 24년 동안 검찰에 몸담았으며, 지난 2023년 광주고검 차장검사직을 끝으로 퇴임했다. 중수청은 비대해진 검찰 권한을 해소하기 위해 신설되는 조직으로, 오는 10월 2일부터는 수사하는 검사가 사라지고 검찰은 기소와 공소유지만 맡게 된다.\n\n이에 따라 검찰 출신인 김 후보자가 과거 검찰의 전철을 밟지 않고 조직을 이끌 비전을 증명해야 하는 입장에 놓였다. 특히 김 후보자는 대검 형사부장이던 지난 2022년 검찰의 보완수사권 필요성을 강조하며 ‘검수완박’에 공개 반대했고, 2020년에도 윤석열 검찰총장에 대한 직무정지 명령 당시 반대 성명에 동참한 이력이 있다. 더불어민주당 박주민 의원은 SNS를 통해 수사·기소 분리 원칙에 동의하는지 입장을 먼저 밝히라고 지적했으며, 조국혁신당 신장식 대표는 윤석열 총장을 편드는 연판장에 이름을 올린 인사를 앉히는 것은 검찰 개혁이 아니라 ‘검찰 개명’이라고 비판했다.",
-   "press": "세계일보",
-   "photo": "07.jpg"
+   "summary": "더불어민주당은 \"수사자료 유출은 범죄\"라며 한동훈 의원에 대한 제명을 추진하겠다고 엄포를 놨고, 국민의힘은 \"김 후보의 '주가조작 로비'를 청와대에서 몰랐겠냐\"며 이재명…",
+   "summary_long": "김승원 법무부 장관 후보자에 대한 인사청문회를 앞두고 여·야의 공방이 한층 더 격화되고 있습니다. 더불어민주당은 \"수사자료 유출은 범죄\"라며 한동훈 의원에 대한 제명을 추진하겠다고 엄포를 놨고, 국민의힘은 \"김 후보의 '주가조작 로비'를 청와대에서 몰랐겠냐\"며 이재명 대통령을 겨냥했습니다. 더불어민주당은 연일 김승원 법무부 장관 후보자 관련 의혹 제기에 나선 무소속 한동훈 의원에 대해 집중포화를 날렸습니다.\n\n김민석 대표는 '수사자료 유출은 범죄'라고 한 이진수 법무부 장관 대행의 발언을 근거로 \"한 의원에 대한 제명을 추진하겠다\"고 밝혔습니다. 한병도 원내대표도 \"수사팀과 대검찰청 지휘부 등 극히 일부만 열람할 수 있는 기소계획서가 SNS 콘텐츠로 전락됐다\"며 \"한 의원에 대한 고발장이 접수된 만큼 국가수사본부는 신속한 수사에 돌입해야 한다\"고 공세를 폈습니다. 특히 김 후보자의 '신약 로비 의혹'을 \"3만 소액주주를 피눈물 나게 한 주가조작 사건\"으로 규정지으며 김 후보자를 지명한 이재명 대통령을 비판했습니다.",
+   "quotes": [
+    "법적인 위반이 걸려 있다고 합리적인 의심 이상의 거의 확신이 되는… 제명 및 징계 자격 정지를 추구할 것이고, 한동훈 의원도 국회의원 자격이 없죠",
+    "하자가 많아야 말을 잘 들을 테니까 공소취소 돌격대로 지명한 겁니다. 국민에게는 '결격 사유'가 대통령에게는 '발탁 사유'가 됐습니다",
+    "수사팀과 대검찰청 지휘부 등 극히 일부만 열람할 수 있는 기소계획서가 SNS 콘텐츠로 전락됐다"
+   ],
+   "press": "MBC",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "하자가 많아야 말을 잘 들을 테니까 공소취소 돌격대로 지명한 겁니다. 국민에게는 '결격 사유'가 대통령에게는 '발탁 사유'가 됐습니다",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
+      "press": "MBC",
+      "title": "수사자료 유출했나‥민주, 한동훈 제명 추진",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ieG1lMXU0dy1OVVUwOFNzSVFoRDNlYjNYYmQ1cWxzb0h6SG5FMHdwdmY3Nm91ZWMwOEQydTQ2V19yVDROTUxPNGI4R21QblkwY0N4bXUwUEVuZTZQMzFLdXZGZ2NkNFdFWUNYQ1d6U05KZVJva1UtdNIBeEFVX3lxTE9ieG1lMXU0dy1OVVUwOFNzSVFoRDNlYjNYYmQ1cWxzb0h6SG5FMHdwdmY3Nm91ZWMwOEQydTQ2V19yVDROTUxPNGI4R21QblkwY0N4bXUwUEVuZTZQMzFLdXZGZ2NkNFdFWUNYQ1d6U05KZVJva1UtdA?oc=5"
+     },
+     {
+      "press": "연합뉴스",
+      "title": "與, 한동훈 연일 맹공…\"제명 처음도 아냐\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOeVlsd1dYeWV1X19xNmRFWGVHWGlrWTNyb2J5YWlMSE4taUliSTkzeGhMR2c5SGNrd1BYMTVVbnNwUzJpWmpsN0lUdUdKcDFCTG05dzBWa0RQT0JPNGxMVdIBYEFVX3lxTFBOeVlsd1dYeWV1X19xNmRFWGVHWGlrWTNyb2J5YWlMSE4taUliSTkzeGhMR2c5SGNrd1BYMTVVbnNwUzJpWmpsN0lUdUdKcDFCTG05dzBWa0RQT0JPNGxMVQ?oc=5"
+     },
+     {
+      "press": "YTN",
+      "title": "'김승원 공방' 격화...\"불법 정치공작\"·\"주가 조작로비\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tR2syX0xGTmhPdHlZSlBqRUtNdXRSZnBLeVdqSkppMWpPaVk4Y0dHdmVBdkE4T1ZyekIzRi1fQ3Q2bnlaUi0wM0daeVJ1RGdQNWFHMWlPbHdpa0RoZ3c?oc=5"
+     },
+     {
+      "press": "연합뉴스",
+      "title": "용혜인, 의혹 정면 돌파…자진 사퇴엔 선그어",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80eUhVc1dYMG9kcVF3MjdLWjc4b1pHTy1CY0oyV0kyLVhGVG43b0JKa0RIM2FfRTZmbWg5cFRBOGFQNFdQOU9GY0dZRlVYaGJKcVVRVnJic2Mzd2fSAWBBVV95cUxOSWJ6Z0RkWlRMem5IOU5Dbm00cWYyTGNfSVB2LXpYNUZ1MUhMVnEzZlh0QWtHY3JYMTh5VGMxRjIyYTVZLUY4REZQNVZ4U2k2V2xVakNyeEtZR1hfTlZ6c2k?oc=5"
+     },
+     {
+      "press": "연합뉴스",
+      "title": "용혜인 '정면 돌파' 의지…\"겸직, 법률이 허용\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HRU9YZEd6RlZOMGRkTHoxWXpDc1dKeEJ3YXFLd0g5Uk9EdG9Ca0ZVVVktMElFV011REE5VzI3NHFVRzB6d3hsS29hLVJhdmVKX2s3clM1UEhTX1XSAWBBVV95cUxNMFJ2d18zUnhVNFVnNV9hOWpHY1VFUTNrOTk0aEF2ZF93TDBkNUc0dlpOc21EM1BhWk9YY3pzSkdWYVBvd0RtS0YtVm1UajZCa21YZ0lOZ0ZqeUtrZEFwVzY?oc=5"
+     },
+     {
+      "press": "YTN",
+      "title": "민주, '한동훈 아웃' 파상공세...국힘은 '청문회 투입' 내전",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HOFZOeXRKaTA0b1JsNmotdWdiOWJ4alhSZHloT3R0RkJhR0M4ZHJqVzB5dnpPTHdWeXZfN2FNX1NMbnJsOUI5M0dYemxMSUdLYm4tWXZGc1FzeXFDVVQ5bFB0QXNhdnZjWTFkS240Ty1ZTUtqWFE?oc=5"
+     }
+    ]
+   }
   }
  ],
  "cards": [
@@ -262,139 +262,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/01.png",
-   "pngBytes": 1776175,
-   "feed": "오늘의 뉴스 2026-09-10\n\n· [단독]제주서 감귤농사 강신철 父도 ‘철거민 특공’...3代가 서초·분당에 부동산\n· 용혜인 의혹 해명 자리서 '꽃 문신' 드러낸 부대변인… 누리꾼들 갑론을박\n· \"가만히 앉아서 11조 날릴 판\" 경고…삼성전자 '초비상' [분석+]\n· “민망해서 어떻게 입어” 말 나오더니 결국…찬밥 신세 된 레깅스, 주가 급락에 ‘비명’\n· 이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"\n· 김승원 '신약 청탁' 의혹 당사자 입 열었다…\"한동훈 녹취록 황당, 왜곡된 짜깁기\"\n· “윤석열 편들던 사람을…” 초대 중수청장 내정에 야권 ‘발칵’"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/01.png",
+   "pngBytes": 2035183,
+   "feed": "오늘의 뉴스 2026-09-11\n\n· 한동훈, ‘서영교 찌릿’ 사진 올리며 “‘계엄’하시게요?” 비아냥\n· 이 대통령 \"제 임기 헌법상 제한\"...연임 논란 공개 언급\n· “한강러닝 다녀오겠단 아들, 그 속 몰랐습니다”…생명의전화 절반이 1020\n· 파주 아파트서 30대 탈북 여성 시신 발견…유력 용의자 해외 출국\n· 청와대 \"이 대통령 '헌법상 임기 제한' 발언, 연임 안 한다는 뜻\"\n· 한동훈 \"검찰서 자료 받은 적 없다\"…허위사실 유포로 김민석 고소\n· 수사자료 유출했나‥민주, 한동훈 제명 추진"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/02.png",
-   "pngBytes": 1805526,
-   "title": "[단독]제주서 감귤농사 강신철 父도 ‘철거민 특공’...3代가 서초·분당에 부동산",
-   "summary": "강신철 국방부 장관 후보자의 부친 강모씨가 재개발을 앞두고 제주 서귀포시에서 서울 구로구 천왕동으로 전입했고, 강 후보자처럼 ‘철거민 특별공급’ 자격으로 호가…",
-   "summary_long": "강 후보자, 부친 재산 청문회 앞두고 ‘고지 거부’. 강신철 국방부 장관 후보자의 부친 강모(83)씨가 재개발을 앞두고 제주 서귀포시에서 서울 구로구 천왕동으로 전입했고, 강 후보자처럼 ‘철거민 특별공급’ 자격으로 호가 20여억원대 서초구 아파트를 분양받은 사실이 9일 확인됐다. 강 후보자 본인은 강원 화천에서, 부친은 제주에서 비슷한 시기 천왕동으로 위장 전입해 나란히 분양 자격을 얻은 것이다.\n\n‘이모 찬스’로 경기 분당에 7억원대 상가를 구입한 강 후보자의 아들까지 포함하면 강 후보자3대(代)가 서초·분당에 부동산을 갖고 있다. 본지가 입수한 인사청문자료에 따르면 강 후보자의 부친 강모씨는 2008년 3월 강 후보자 소유 주택 인근에 있는 본인 소유 서울 구로구 천왕동 주택에 전입했다. 강 후보자 측은 부친과 본인의 ‘위장전입’ 논란과 관련해 9일 “특별공급 청약은 절차에 따라 정상적으로 이루어진 것으로 알고 있다”고 했다.",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0003997505",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/02.png",
+   "pngBytes": 2037406,
+   "title": "한동훈, ‘서영교 찌릿’ 사진 올리며 “‘계엄’하시게요?” 비아냥",
+   "summary": "한동훈 무소속 의원이 국회 법제사법위원장인 서영교 더불어민주당 의원이 자신을 쏘아보는 사진을 공유하며 “‘계엄’이라도 하시게요?”라고 비꼬았다. 한 의원은 9일…",
+   "summary_long": "서영교 민주당 의원, 재차 “필요하면 체포해야” 주장. 국회 법제사법위원장인 서영교 더불어민주당 의원이 9일 국회 로텐더홀에서 김승원 법무부 장관 후보자와 관련해 취재진 질문에 답하는 한동훈 무소속 의원을 보며 지나가고 있다. 한동훈 무소속 의원이 국회 법제사법위원장인 서영교 더불어민주당 의원이 자신을 쏘아보는 사진을 공유하며 “‘계엄’이라도 하시게요?”라고 비꼬았다.\n\n한 의원은 9일 페이스북에서 “서 의원이 국회 본회의장에서 저를 ‘긴급체포, 체포해야 해’라고 했다”라며 “‘계엄’이라도 하시게요?”라고 말했다. 이날 국회 본회의 대정부질문에서 서 의원은 연일 김 후보자 수사 자료를 공개하는 한 의원을 겨냥해 “긴급체포”를 외친 바 있다. 서 의원은 10일 페이스북에서 “한동훈과 자료 유출한 검사들 그리고 그것을 불법적으로 손댄 자들 모두 수사해 처벌해야 한다”며 이같이 말했다.",
+   "press": "한겨레",
+   "source": "한겨레",
+   "link": "https://n.news.naver.com/article/028/0002822433",
    "selection": "정치",
-   "feed": "뉴스 01. [단독]제주서 감귤농사 강신철 父도 ‘철거민 특공’...3代가 서초·분당에 부동산\n\n강 후보자, 부친 재산 청문회 앞두고 ‘고지 거부’. 강신철 국방부 장관 후보자의 부친 강모(83)씨가 재개발을 앞두고 제주 서귀포시에서 서울 구로구 천왕동으로 전입했고, 강 후보자처럼 ‘철거민 특별공급’ 자격으로 호가 20여억원대 서초구 아파트를 분양받은 사실이 9일 확인됐다. 강 후보자 본인은 강원 화천에서, 부친은 제주에서 비슷한 시기 천왕동으로 위장 전입해 나란히 분양 자격을 얻은 것이다.\n\n‘이모 찬스’로 경기 분당에 7억원대 상가를 구입한 강 후보자의 아들까지 포함하면 강 후보자3대(代)가 서초·분당에 부동산을 갖고 있다. 본지가 입수한 인사청문자료에 따르면 강 후보자의 부친 강모씨는 2008년 3월 강 후보자 소유 주택 인근에 있는 본인 소유 서울 구로구 천왕동 주택에 전입했다. 강 후보자 측은 부친과 본인의 ‘위장전입’ 논란과 관련해 9일 “특별공급 청약은 절차에 따라 정상적으로 이루어진 것으로 알고 있다”고 했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0003997505"
+   "feed": "뉴스 01. 한동훈, ‘서영교 찌릿’ 사진 올리며 “‘계엄’하시게요?” 비아냥\n\n서영교 민주당 의원, 재차 “필요하면 체포해야” 주장. 국회 법제사법위원장인 서영교 더불어민주당 의원이 9일 국회 로텐더홀에서 김승원 법무부 장관 후보자와 관련해 취재진 질문에 답하는 한동훈 무소속 의원을 보며 지나가고 있다. 한동훈 무소속 의원이 국회 법제사법위원장인 서영교 더불어민주당 의원이 자신을 쏘아보는 사진을 공유하며 “‘계엄’이라도 하시게요?”라고 비꼬았다.\n\n한 의원은 9일 페이스북에서 “서 의원이 국회 본회의장에서 저를 ‘긴급체포, 체포해야 해’라고 했다”라며 “‘계엄’이라도 하시게요?”라고 말했다. 이날 국회 본회의 대정부질문에서 서 의원은 연일 김 후보자 수사 자료를 공개하는 한 의원을 겨냥해 “긴급체포”를 외친 바 있다. 서 의원은 10일 페이스북에서 “한동훈과 자료 유출한 검사들 그리고 그것을 불법적으로 손댄 자들 모두 수사해 처벌해야 한다”며 이같이 말했다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002822433"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/03.png",
-   "pngBytes": 1490570,
-   "title": "용혜인 의혹 해명 자리서 '꽃 문신' 드러낸 부대변인… 누리꾼들 갑론을박",
-   "summary": "7일 국회 소통관에서 열린 기본소득당의 기자회견 중 김진서 부대변인의 팔에 새겨진 꽃 문신이 포착됐다. 최근 기자회견에서 김진서 부대변인의 팔에 큼지막하게 새겨진 문신이…",
-   "summary_long": "반팔 소매 아래 커다란 '꽃 문신' 노출. 7일 국회 소통관에서 열린 기본소득당의 기자회견 중 김진서 부대변인의 팔에 새겨진 꽃 문신이 포착됐다. 온라인에선 \"공식 석상에서 문신을 드러낸 건 부적절하다\"는 지적이 이어졌다.\n\n용혜인 성평등가족부 장관 후보자를 둘러싼 정치권 공방이 계속되는 가운데, 용 후보자의 소속 정당인 기본소득당이 또 다른 논란에 휩싸였다. 최근 기자회견에서 김진서 부대변인의 팔에 큼지막하게 새겨진 문신이 언론사 카메라에 포착됐기 때문이다. 신 최고위원은 용 후보자가 의원직을 유지한 채 장관 인사청문회에 임하려 하는 것과 관련, 미소를 띠면서 \"이번 논란에는 비례대표 의원에 대한 편견과 젊은 여성 의원에 대한 과도한 비난이 분명히 있다고 생각한다\"고 말했다.",
-   "press": "한국일보",
-   "source": "한국일보",
-   "link": "https://n.news.naver.com/article/469/0000952983",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/03.png",
+   "pngBytes": 1321188,
+   "title": "이 대통령 \"제 임기 헌법상 제한\"...연임 논란 공개 언급",
+   "summary": "프랑스 국빈 방문 중인 이재명 대통령이 해외 동포와의 간담회에서, 대통령의 임기는 헌법상 명확하게 제한돼 있다고 말했습니다. 연임 개헌에 대한 야당의 공세가 이어지는…",
+   "summary_long": "프랑스 국빈 방문 중인 이재명 대통령이 해외 동포와의 간담회에서, 대통령의 임기는 헌법상 명확하게 제한돼 있다고 말했습니다. 연임 개헌에 대한 야당의 공세가 이어지는 상황에서 대통령의 공개 언급이 나온 겁니다. 프랑스 국빈 방문 마지막 날 파리 시내에서 재외동포들을 만난 이재명 대통령, 취임 초 해외 방문을 많이 잡아 놓은 상태라며 이같이 말했습니다.\n\n[이재명 / 대통령 : 어쨌든 저의 임기는 헌법상 명확하게 제한돼 있기 때문에 빨리 시작해야 (정상외교) 효과를 오랫동안 누릴 수가 있죠. 이에 청와대는 그동안 현행 헌법상 개헌을 통한 이 대통령의 연임은 불가능하다는 입장을 거듭 밝혀왔습니다. 이 대통령의 이번 발언은 '헌법상 임기 제한'을 짚었다는 점에서, 사실상 연임 가능성에 간접적으로 선을 그은 것으로 풀이됩니다.",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002405036",
    "selection": "정치",
-   "feed": "뉴스 02. 용혜인 의혹 해명 자리서 '꽃 문신' 드러낸 부대변인… 누리꾼들 갑론을박\n\n반팔 소매 아래 커다란 '꽃 문신' 노출. 7일 국회 소통관에서 열린 기본소득당의 기자회견 중 김진서 부대변인의 팔에 새겨진 꽃 문신이 포착됐다. 온라인에선 \"공식 석상에서 문신을 드러낸 건 부적절하다\"는 지적이 이어졌다.\n\n용혜인 성평등가족부 장관 후보자를 둘러싼 정치권 공방이 계속되는 가운데, 용 후보자의 소속 정당인 기본소득당이 또 다른 논란에 휩싸였다. 최근 기자회견에서 김진서 부대변인의 팔에 큼지막하게 새겨진 문신이 언론사 카메라에 포착됐기 때문이다. 신 최고위원은 용 후보자가 의원직을 유지한 채 장관 인사청문회에 임하려 하는 것과 관련, 미소를 띠면서 \"이번 논란에는 비례대표 의원에 대한 편견과 젊은 여성 의원에 대한 과도한 비난이 분명히 있다고 생각한다\"고 말했다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000952983"
+   "feed": "뉴스 02. 이 대통령 \"제 임기 헌법상 제한\"...연임 논란 공개 언급\n\n프랑스 국빈 방문 중인 이재명 대통령이 해외 동포와의 간담회에서, 대통령의 임기는 헌법상 명확하게 제한돼 있다고 말했습니다. 연임 개헌에 대한 야당의 공세가 이어지는 상황에서 대통령의 공개 언급이 나온 겁니다. 프랑스 국빈 방문 마지막 날 파리 시내에서 재외동포들을 만난 이재명 대통령, 취임 초 해외 방문을 많이 잡아 놓은 상태라며 이같이 말했습니다.\n\n[이재명 / 대통령 : 어쨌든 저의 임기는 헌법상 명확하게 제한돼 있기 때문에 빨리 시작해야 (정상외교) 효과를 오랫동안 누릴 수가 있죠. 이에 청와대는 그동안 현행 헌법상 개헌을 통한 이 대통령의 연임은 불가능하다는 입장을 거듭 밝혀왔습니다. 이 대통령의 이번 발언은 '헌법상 임기 제한'을 짚었다는 점에서, 사실상 연임 가능성에 간접적으로 선을 그은 것으로 풀이됩니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002405036"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/04.png",
-   "pngBytes": 2210909,
-   "title": "\"가만히 앉아서 11조 날릴 판\" 경고…삼성전자 '초비상' [분석+]",
-   "summary": "수출 기업 입장에서는 원·달러 환율 하락이 원화 기준 매출과 이익의 감소 요인으로 작용한다. 삼성전자 관계자는 \"환율이 너무 빠르게 하락하면서 내년 사업계획의 환율…",
-   "summary_long": "또한 반도체와 자동차 등 수출 비중이 높은 기업들은 원화 환산 매출과 이익 감소를 피하기 어려워 기존 환율 가정부터 생산·투자·인력 배치 계획까지 다시 들여다보고 있다. 김동영 삼성증권 연구원은 \"반도체를 중심으로 한 수출 호조로 대규모 경상수지 흑자가 발생해 수출 기업의 달러 매도 물량이 시장에 지속적으로 공급된 게 환율 하락의 이유\"라고 했다. 수출 기업 입장에서는 원·달러 환율 하락이 원화 기준 매출과 이익의 감소 요인으로 작용한다.\n\n삼성전자 관계자는 \"환율이 너무 빠르게 하락하면서 내년 사업계획의 환율 가정부터 다시 점검해야 하는 상황\"이라며 \"메모리는 달러 매출 비중이 높아 원화 강세가 평균판매가격(ASP)과 매출의 원화 환산액, 영업이익에 직접적인 영향을 줄 수 있다\"고 말했다. \"급락세 더 간다\" vs \"조정 끝\"…환율 전망 엇갈려향후 원·달러 환율 방향에 대해선 증권가의 전망이 다소 엇갈린다. 권아민 NH투자증권 연구원은 \"최근에는 달러 수요보다 수출 호조로 인한 기업발 달러 공급이 두드러지며 원·달러 환율의 급락세가 나타나는 중\"이라며 환율이 단기에 기존 전망보다 낮은 1300원대 초반까지 하락할 수 있다고 했다.",
-   "press": "한국경제",
-   "source": "한국경제",
-   "link": "https://n.news.naver.com/article/015/0005330370",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/04.png",
+   "pngBytes": 1867337,
+   "title": "“한강러닝 다녀오겠단 아들, 그 속 몰랐습니다”…생명의전화 절반이 1020",
+   "summary": "한강교량 설치된 SOS생명의전화. 한강 교량 20곳에 설치된 SOS생명의전화를 찾는 시민 중 10·20대가 절반 이상인 것으로 나타났다.",
+   "summary_long": "한강 교량 20곳에 설치된 SOS생명의전화를 찾는 시민 중 10·20대가 절반 이상인 것으로 나타났다. 9일 생명보험사회공헌재단이 세계 자살예방의 날(9월 10일)을 맞아 생명의전화 운영 15년 성과를 발표했다. 생명의전화는 위기 상황에 놓인 시민이 수화기를 들면 365일 24시간 전문 상담사와 연결되는 시스템이다.\n\n2011년 생명의전화를 설치한 후 15년간 위기 상담 건수는 1만606건을 기록했다. 고민 유형은 대인 관계(20%), 진로·학업(17%), 인생 전반(16%), 가족 문제(13%) 순으로 높았다. 상담이 가장 많이 몰린 시간대는 오후 6시부터 자정까지로, 전체의 절반에 가까운 5275건(49.7%)이 이 시간에 접수됐다.",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005733020",
    "selection": "경제·시사",
-   "feed": "뉴스 03. \"가만히 앉아서 11조 날릴 판\" 경고…삼성전자 '초비상' [분석+]\n\n또한 반도체와 자동차 등 수출 비중이 높은 기업들은 원화 환산 매출과 이익 감소를 피하기 어려워 기존 환율 가정부터 생산·투자·인력 배치 계획까지 다시 들여다보고 있다. 김동영 삼성증권 연구원은 \"반도체를 중심으로 한 수출 호조로 대규모 경상수지 흑자가 발생해 수출 기업의 달러 매도 물량이 시장에 지속적으로 공급된 게 환율 하락의 이유\"라고 했다. 수출 기업 입장에서는 원·달러 환율 하락이 원화 기준 매출과 이익의 감소 요인으로 작용한다.\n\n삼성전자 관계자는 \"환율이 너무 빠르게 하락하면서 내년 사업계획의 환율 가정부터 다시 점검해야 하는 상황\"이라며 \"메모리는 달러 매출 비중이 높아 원화 강세가 평균판매가격(ASP)과 매출의 원화 환산액, 영업이익에 직접적인 영향을 줄 수 있다\"고 말했다. \"급락세 더 간다\" vs \"조정 끝\"…환율 전망 엇갈려향후 원·달러 환율 방향에 대해선 증권가의 전망이 다소 엇갈린다. 권아민 NH투자증권 연구원은 \"최근에는 달러 수요보다 수출 호조로 인한 기업발 달러 공급이 두드러지며 원·달러 환율의 급락세가 나타나는 중\"이라며 환율이 단기에 기존 전망보다 낮은 1300원대 초반까지 하락할 수 있다고 했다.\n\n출처: 한국경제 / https://n.news.naver.com/article/015/0005330370"
+   "feed": "뉴스 03. “한강러닝 다녀오겠단 아들, 그 속 몰랐습니다”…생명의전화 절반이 1020\n\n한강 교량 20곳에 설치된 SOS생명의전화를 찾는 시민 중 10·20대가 절반 이상인 것으로 나타났다. 9일 생명보험사회공헌재단이 세계 자살예방의 날(9월 10일)을 맞아 생명의전화 운영 15년 성과를 발표했다. 생명의전화는 위기 상황에 놓인 시민이 수화기를 들면 365일 24시간 전문 상담사와 연결되는 시스템이다.\n\n2011년 생명의전화를 설치한 후 15년간 위기 상담 건수는 1만606건을 기록했다. 고민 유형은 대인 관계(20%), 진로·학업(17%), 인생 전반(16%), 가족 문제(13%) 순으로 높았다. 상담이 가장 많이 몰린 시간대는 오후 6시부터 자정까지로, 전체의 절반에 가까운 5275건(49.7%)이 이 시간에 접수됐다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005733020"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/05.png",
-   "pngBytes": 1272306,
-   "title": "“민망해서 어떻게 입어” 말 나오더니 결국…찬밥 신세 된 레깅스, 주가 급락에 ‘비명’",
-   "summary": "레깅스 판매가 급감하는 상황에서 주가도 하락하면서 신임 최고경영자의 리더십이 시험대에 올랐다. 8일 WWD 등 현지 매체에 따르면 룰루레몬의 신임 최고경영자 하이디…",
-   "summary_long": "레깅스 판매가 급감하는 상황에서 주가도 하락하면서 신임 최고경영자(CEO)의 리더십이 시험대에 올랐다. 8일(현지시간) WWD 등 현지 매체에 따르면 룰루레몬의 신임 최고경영자(CEO) 하이디 오닐은 9일 공식 취임한다. 룰루레몬은 지난 3일 장 마감 후 2분기(6~8월) 실적을 발표했고 매출은 전년 동기 대비 4% 줄어든 24억2000만달러, 순이익은 11% 감소한 3억7090만달러를 기록했다.\n\n오닐 신임 CEO는 나이키에서 30년 가까이 몸담으며 연간 매출을 90억달러에서 450억달러로 끌어올리는 데 기여한 인물로 평가받는다. 모닝스타의 데이비드 스와츠 애널리스트는 룰루레몬이 주요 시장 전반에서 매출이 약화되고 있고 올 하반기는 더욱 어려워질 것으로 예상되는 상황에서 중요한 리더십 전환기를 맞이하고 있다고 밝혔다. 나이키·데커스·온홀딩스 등 스포츠웨어 업계 전반이 동시에 난항을 겪고 있어 오닐 CEO의 돌파구 마련이 더욱 쉽지 않다는 분석이다.",
-   "press": "서울경제",
-   "source": "서울경제",
-   "link": "https://n.news.naver.com/article/011/0004659942",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/05.png",
+   "pngBytes": 1724880,
+   "title": "파주 아파트서 30대 탈북 여성 시신 발견…유력 용의자 해외 출국",
+   "summary": "현장에선 범죄로 볼 만한 정황이 포착됐으며, 유력한 용의자는 해외로 출국한 것으로 파악됐다. 10일 경찰 등에 따르면 지난 9일 오전 10시 35분쯤 파주시 와동동의 한…",
+   "summary_long": "경기 파주시의 한 아파트에서 30대 북한이탈주민 여성의 시신이 발견됐다. 현장에선 범죄로 볼 만한 정황이 포착됐으며, 유력한 용의자는 해외로 출국한 것으로 파악됐다. 10일 경찰 등에 따르면 지난 9일 오전 10시 35분쯤 파주시 와동동의 한 아파트에서 연락이 닿지 않는 탈북 여성 30대 A씨의 상태를 확인하기 위해 경찰과 소방 당국이 공동으로 출입문을 개방, 집안에 들어간 뒤 숨진 상태의 A씨를 발견했다.\n\n발견 당시 시신은 상당한 정도까지 부패가 진행된 상태였던 것으로 전해졌다. 경찰의 현장 확인과 부검 소견을 통해 타살 정황이 확인됐다. 경찰은 A씨의 연인이었던 B씨가 사건 이후 해외로 출국한 사실을 확인한 뒤, 그를 유력한 용의자로 보고 행방을 쫓고 있다.",
+   "press": "디지털타임스",
+   "source": "디지털타임스",
+   "link": "https://n.news.naver.com/article/029/0003047408",
    "selection": "경제·시사",
-   "feed": "뉴스 04. “민망해서 어떻게 입어” 말 나오더니 결국…찬밥 신세 된 레깅스, 주가 급락에 ‘비명’\n\n레깅스 판매가 급감하는 상황에서 주가도 하락하면서 신임 최고경영자(CEO)의 리더십이 시험대에 올랐다. 8일(현지시간) WWD 등 현지 매체에 따르면 룰루레몬의 신임 최고경영자(CEO) 하이디 오닐은 9일 공식 취임한다. 룰루레몬은 지난 3일 장 마감 후 2분기(6~8월) 실적을 발표했고 매출은 전년 동기 대비 4% 줄어든 24억2000만달러, 순이익은 11% 감소한 3억7090만달러를 기록했다.\n\n오닐 신임 CEO는 나이키에서 30년 가까이 몸담으며 연간 매출을 90억달러에서 450억달러로 끌어올리는 데 기여한 인물로 평가받는다. 모닝스타의 데이비드 스와츠 애널리스트는 룰루레몬이 주요 시장 전반에서 매출이 약화되고 있고 올 하반기는 더욱 어려워질 것으로 예상되는 상황에서 중요한 리더십 전환기를 맞이하고 있다고 밝혔다. 나이키·데커스·온홀딩스 등 스포츠웨어 업계 전반이 동시에 난항을 겪고 있어 오닐 CEO의 돌파구 마련이 더욱 쉽지 않다는 분석이다.\n\n출처: 서울경제 / https://n.news.naver.com/article/011/0004659942"
+   "feed": "뉴스 04. 파주 아파트서 30대 탈북 여성 시신 발견…유력 용의자 해외 출국\n\n경기 파주시의 한 아파트에서 30대 북한이탈주민 여성의 시신이 발견됐다. 현장에선 범죄로 볼 만한 정황이 포착됐으며, 유력한 용의자는 해외로 출국한 것으로 파악됐다. 10일 경찰 등에 따르면 지난 9일 오전 10시 35분쯤 파주시 와동동의 한 아파트에서 연락이 닿지 않는 탈북 여성 30대 A씨의 상태를 확인하기 위해 경찰과 소방 당국이 공동으로 출입문을 개방, 집안에 들어간 뒤 숨진 상태의 A씨를 발견했다.\n\n발견 당시 시신은 상당한 정도까지 부패가 진행된 상태였던 것으로 전해졌다. 경찰의 현장 확인과 부검 소견을 통해 타살 정황이 확인됐다. 경찰은 A씨의 연인이었던 B씨가 사건 이후 해외로 출국한 사실을 확인한 뒤, 그를 유력한 용의자로 보고 행방을 쫓고 있다.\n\n출처: 디지털타임스 / https://n.news.naver.com/article/029/0003047408"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/06.png",
-   "pngBytes": 1473772,
-   "title": "이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"",
-   "summary": "프랑스를 국빈 방문 중인 이재명 대통령이 \"제 임기는 헌법상 제한돼 있다\"고 언급했습니다. 이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"",
-   "summary_long": "프랑스를 국빈 방문 중인 이재명 대통령이 \"제 임기는 헌법상 제한돼 있다\"고 언급했습니다. 이 대통령은 프랑스 파리에서 열린 현지 동포들과의 간담회에서 \"정상외교는 대한민국의 무역, 투자나 안보환경에 좋은 기회를 준다\"면서 \"어쨌든 자신의 임기는 헌법상 명확하게 제한돼 있기 때문에 빨리 시작해야 그 효과를 누릴 수 있다\"고 말했습니다. 이 기사는 언론사에서 정치 섹션으로 분류했습니다.\n\n29개 언론사54,224개 기사. 이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/06.png",
+   "pngBytes": 1681106,
+   "title": "청와대 \"이 대통령 '헌법상 임기 제한' 발언, 연임 안 한다는 뜻\"",
+   "summary": "청와대는 이재명 대통령이 직접 본인의 임기는 헌법상 명확하게 제한돼있다고 밝힌 데 대해, 연임 개헌 의사가 없는 거라고 해석했습니다. 성기홍 청와대 홍보소통수석은 오늘…",
+   "summary_long": "청와대는 이재명 대통령이 직접 본인의 임기는 헌법상 명확하게 제한돼있다고 밝힌 데 대해, 연임 개헌 의사가 없는 거라고 해석했습니다. 성기홍 청와대 홍보소통수석은 오늘 오전 MBC라디오 '김종배의 시선집중'에서 \"항간에서 얘기하는 연임이라는 것 자체는 아예 불가능한 사안이고, 검토될 수도 없는 사안이라는 말씀을 하신 걸로 저는 해석하고 있다\"고 말했습니다. 앞서 이 대통령은 프랑스에서 열린 동포간담회 오찬에서 \"취임 초 해외 방문을 많이 잡아 놓은 상태\"라며 \"저의 임기는 헌법상 명확하게 제한돼 있기 때문에 빨리 시작해야 그 효과를 누릴 수 있다\"고 말했습니다.\n\n성 수석은 대통령의 발언을 '연임 안 한다'로 직결해서 이해해도 되는지 묻는 질문에 \"그렇게 해석될 수 있을 것 같다\"면서 \"이 대통령께서는 그런 야당에서 말하는 것 내지 언론에서 얘기하는 부분도 많이 듣고 계신다\"고 설명했습니다. 성 수석은 \"동포간담회 자리가 아니라 다른 공개적으로 국민과 만나는 자리에서 말씀하실 기회가 있을 수도 있을 것이라고 보지만, 기본적으로는 대통령이 연임하지 않겠다고 해서 대통령 연임이 금지되는 게 아니라 헌법에 이미 금지돼 있는 것\"이라고 덧붙였습니다. 이 대통령이 공개적으로 입장을 표명할 가능성을 두고는 \"여러 가지 형식의 대국민 소통 자리는 있을 것\"이라며 \"다만 구체적으로 어떤 형식으로 어떤 시기에 있을지 부분에 대해서는 내부적으로 결정이 된다면 그때 말씀드릴 수 있는 기회가 있을 것\"이라고 했습니다.",
    "press": "MBC",
    "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001523001",
+   "link": "https://n.news.naver.com/article/214/0001523128",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"\n\n프랑스를 국빈 방문 중인 이재명 대통령이 \"제 임기는 헌법상 제한돼 있다\"고 언급했습니다. 이 대통령은 프랑스 파리에서 열린 현지 동포들과의 간담회에서 \"정상외교는 대한민국의 무역, 투자나 안보환경에 좋은 기회를 준다\"면서 \"어쨌든 자신의 임기는 헌법상 명확하게 제한돼 있기 때문에 빨리 시작해야 그 효과를 누릴 수 있다\"고 말했습니다. 이 기사는 언론사에서 정치 섹션으로 분류했습니다.\n\n29개 언론사54,224개 기사. 이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"\n\n출처: MBC / https://n.news.naver.com/article/214/0001523001"
+   "feed": "뉴스 05. 청와대 \"이 대통령 '헌법상 임기 제한' 발언, 연임 안 한다는 뜻\"\n\n청와대는 이재명 대통령이 직접 본인의 임기는 헌법상 명확하게 제한돼있다고 밝힌 데 대해, 연임 개헌 의사가 없는 거라고 해석했습니다. 성기홍 청와대 홍보소통수석은 오늘 오전 MBC라디오 '김종배의 시선집중'에서 \"항간에서 얘기하는 연임이라는 것 자체는 아예 불가능한 사안이고, 검토될 수도 없는 사안이라는 말씀을 하신 걸로 저는 해석하고 있다\"고 말했습니다. 앞서 이 대통령은 프랑스에서 열린 동포간담회 오찬에서 \"취임 초 해외 방문을 많이 잡아 놓은 상태\"라며 \"저의 임기는 헌법상 명확하게 제한돼 있기 때문에 빨리 시작해야 그 효과를 누릴 수 있다\"고 말했습니다.\n\n성 수석은 대통령의 발언을 '연임 안 한다'로 직결해서 이해해도 되는지 묻는 질문에 \"그렇게 해석될 수 있을 것 같다\"면서 \"이 대통령께서는 그런 야당에서 말하는 것 내지 언론에서 얘기하는 부분도 많이 듣고 계신다\"고 설명했습니다. 성 수석은 \"동포간담회 자리가 아니라 다른 공개적으로 국민과 만나는 자리에서 말씀하실 기회가 있을 수도 있을 것이라고 보지만, 기본적으로는 대통령이 연임하지 않겠다고 해서 대통령 연임이 금지되는 게 아니라 헌법에 이미 금지돼 있는 것\"이라고 덧붙였습니다. 이 대통령이 공개적으로 입장을 표명할 가능성을 두고는 \"여러 가지 형식의 대국민 소통 자리는 있을 것\"이라며 \"다만 구체적으로 어떤 형식으로 어떤 시기에 있을지 부분에 대해서는 내부적으로 결정이 된다면 그때 말씀드릴 수 있는 기회가 있을 것\"이라고 했습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001523128"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/07.png",
-   "pngBytes": 1799053,
-   "title": "김승원 '신약 청탁' 의혹 당사자 입 열었다…\"한동훈 녹취록 황당, 왜곡된 짜깁기\"",
-   "summary": "한동훈 무소속 의원이 연이어 공개하고 있는 김승원 법무부 장관 후보자의 '신약 청탁' 의혹 관련 녹취록. 이 녹취록엔 신약 개발 업체 제넨셀의 창업자 강세찬 교수가…",
-   "summary_long": "한동훈 무소속 의원이 연이어 공개하고 있는 김승원 법무부 장관 후보자의 '신약 청탁' 의혹 관련 녹취록. 이 녹취록엔 신약 개발 업체 제넨셀의 창업자 강세찬 교수가 등장합니다. 강 교수는 한 의원이 공개하는 녹취록에 대해 \"황당한 내용\"이라고 했습니다.\n\n검찰에서도 어느 부분 일부분만 지정하면서 거기에 읽어보고 거기에 대해서 답을 해라 이러던데 앞뒤 맥락을 전체를 보면 이건 검찰이 주장하는 내용이 아닌 것 같아서 저도 '전체 내용을 다 보겠다' 그래서 다 보고 나서 대답을 했었거든요. 양 씨가 다른 컨설턴트와 통화하는 녹취록에서 '승인을 못 받으면 강 교수가 67억원을 토해내야 한다' 언급한건 \"전혀 근거 없는 이야기\"라고 했습니다. 양 씨가 여러 가지 지인들이나 그런 사람들한테 저랑 얘기됐거나 또는 김승원 의원과 얘기가 됐거나 하지 않은 전혀 얘기가 없는 것들에 대해서 혼자 많이 얘기를 했더라고요.",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000510259",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/07.png",
+   "pngBytes": 1759475,
+   "title": "한동훈 \"검찰서 자료 받은 적 없다\"…허위사실 유포로 김민석 고소",
+   "summary": "이재명 대통령에 김승원 지명 철회 촉구한동훈 무소속 의원이 김승원 법무부 장관 후보자 관련 자료를 검찰로부터 받았다는 의혹을 부인하며 김민석 국무총리를 경찰에 고소했다고…",
+   "summary_long": "이재명 대통령에 김승원 지명 철회 촉구한동훈 무소속 의원이 김승원 법무부 장관 후보자 관련 자료를 검찰로부터 받았다는 의혹을 부인하며 김민석 국무총리를 경찰에 고소했다고 밝혔다. 한 의원은 10일 국회 본관 로텐더홀에서 기자들과 만나 \"검찰이나 검찰 관계자로부터 자료를 받은 바도, 협력한 바도 없다\"며 \"오늘 영등포경찰서에 김 총리를 허위사실 유포 혐의로 고소했다\"고 말했다. 한동훈 무소속 의원이 9일 국회 로텐더홀에서 김승원 법무부장관 후보자 의혹과 관련해 백브리핑을 하고 있다.\n\n한 의원은 \"국무총리가 특정 사건에 대해 검찰이나 법무부에 지시할 수 있느냐\"며 \"수사가 이미 진행 중인 사안에 총리실이 감찰 명목으로 나서는 것은 어불성설이다. 민주당이 한 의원이 공개한 자료의 유출 경위를 문제 삼는 데 대해서는 \"핵심은 폭로가 공익적이냐 아니냐\"라며 \"김 후보자의 이른바 '오빠 독약 로비' 의혹과 법무부 장관으로서의 적격성을 검증하는 것은 공익성이 차고 넘친다\"고 주장했다. 한 의원은 \"아직은 '의혹이 이렇게 심각한 줄 몰랐다'며 지명을 철회할 기회가 있다\"며 \"오늘이 지나면 이 대통령도 공범\"이라고 주장했다.",
+   "press": "아시아경제",
+   "source": "아시아경제",
+   "link": "https://n.news.naver.com/article/277/0005814726",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 김승원 '신약 청탁' 의혹 당사자 입 열었다…\"한동훈 녹취록 황당, 왜곡된 짜깁기\"\n\n한동훈 무소속 의원이 연이어 공개하고 있는 김승원 법무부 장관 후보자의 '신약 청탁' 의혹 관련 녹취록. 이 녹취록엔 신약 개발 업체 제넨셀의 창업자 강세찬 교수가 등장합니다. 강 교수는 한 의원이 공개하는 녹취록에 대해 \"황당한 내용\"이라고 했습니다.\n\n검찰에서도 어느 부분 일부분만 지정하면서 거기에 읽어보고 거기에 대해서 답을 해라 이러던데 앞뒤 맥락을 전체를 보면 이건 검찰이 주장하는 내용이 아닌 것 같아서 저도 '전체 내용을 다 보겠다' 그래서 다 보고 나서 대답을 했었거든요. 양 씨가 다른 컨설턴트와 통화하는 녹취록에서 '승인을 못 받으면 강 교수가 67억원을 토해내야 한다' 언급한건 \"전혀 근거 없는 이야기\"라고 했습니다. 양 씨가 여러 가지 지인들이나 그런 사람들한테 저랑 얘기됐거나 또는 김승원 의원과 얘기가 됐거나 하지 않은 전혀 얘기가 없는 것들에 대해서 혼자 많이 얘기를 했더라고요.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000510259"
+   "feed": "뉴스 06. 한동훈 \"검찰서 자료 받은 적 없다\"…허위사실 유포로 김민석 고소\n\n이재명 대통령에 김승원 지명 철회 촉구한동훈 무소속 의원이 김승원 법무부 장관 후보자 관련 자료를 검찰로부터 받았다는 의혹을 부인하며 김민석 국무총리를 경찰에 고소했다고 밝혔다. 한 의원은 10일 국회 본관 로텐더홀에서 기자들과 만나 \"검찰이나 검찰 관계자로부터 자료를 받은 바도, 협력한 바도 없다\"며 \"오늘 영등포경찰서에 김 총리를 허위사실 유포 혐의로 고소했다\"고 말했다. 한동훈 무소속 의원이 9일 국회 로텐더홀에서 김승원 법무부장관 후보자 의혹과 관련해 백브리핑을 하고 있다.\n\n한 의원은 \"국무총리가 특정 사건에 대해 검찰이나 법무부에 지시할 수 있느냐\"며 \"수사가 이미 진행 중인 사안에 총리실이 감찰 명목으로 나서는 것은 어불성설이다. 민주당이 한 의원이 공개한 자료의 유출 경위를 문제 삼는 데 대해서는 \"핵심은 폭로가 공익적이냐 아니냐\"라며 \"김 후보자의 이른바 '오빠 독약 로비' 의혹과 법무부 장관으로서의 적격성을 검증하는 것은 공익성이 차고 넘친다\"고 주장했다. 한 의원은 \"아직은 '의혹이 이렇게 심각한 줄 몰랐다'며 지명을 철회할 기회가 있다\"며 \"오늘이 지나면 이 대통령도 공범\"이라고 주장했다.\n\n출처: 아시아경제 / https://n.news.naver.com/article/277/0005814726"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/08.png",
-   "pngBytes": 1807070,
-   "title": "“윤석열 편들던 사람을…” 초대 중수청장 내정에 야권 ‘발칵’",
-   "summary": "김지용 초대 중대범죄수사청장 후보자의 인사청문회에서 과거 검찰 재직 시절의 행보와 검찰 개혁에 대한 견해가 핵심 쟁점으로 부각될 전망이다. 이에 따라 검찰 출신인 김…",
-   "summary_long": "김지용 초대 중대범죄수사청장 후보자의 인사청문회에서 과거 검찰 재직 시절의 행보와 검찰 개혁에 대한 견해가 핵심 쟁점으로 부각될 전망이다. 법조계에 따르면 김 후보자는 사법연수원 28기로 24년 동안 검찰에 몸담았으며, 지난 2023년 광주고검 차장검사직을 끝으로 퇴임했다. 중수청은 비대해진 검찰 권한을 해소하기 위해 신설되는 조직으로, 오는 10월 2일부터는 수사하는 검사가 사라지고 검찰은 기소와 공소유지만 맡게 된다.\n\n이에 따라 검찰 출신인 김 후보자가 과거 검찰의 전철을 밟지 않고 조직을 이끌 비전을 증명해야 하는 입장에 놓였다. 특히 김 후보자는 대검 형사부장이던 지난 2022년 검찰의 보완수사권 필요성을 강조하며 ‘검수완박’에 공개 반대했고, 2020년에도 윤석열 검찰총장에 대한 직무정지 명령 당시 반대 성명에 동참한 이력이 있다. 더불어민주당 박주민 의원은 SNS를 통해 수사·기소 분리 원칙에 동의하는지 입장을 먼저 밝히라고 지적했으며, 조국혁신당 신장식 대표는 윤석열 총장을 편드는 연판장에 이름을 올린 인사를 앉히는 것은 검찰 개혁이 아니라 ‘검찰 개명’이라고 비판했다.",
-   "press": "세계일보",
-   "source": "세계일보",
-   "link": "https://n.news.naver.com/article/022/0004157710",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/08.png",
+   "pngBytes": 1880794,
+   "title": "수사자료 유출했나‥민주, 한동훈 제명 추진",
+   "summary": "더불어민주당은 \"수사자료 유출은 범죄\"라며 한동훈 의원에 대한 제명을 추진하겠다고 엄포를 놨고, 국민의힘은 \"김 후보의 '주가조작 로비'를 청와대에서 몰랐겠냐\"며 이재명…",
+   "summary_long": "김승원 법무부 장관 후보자에 대한 인사청문회를 앞두고 여·야의 공방이 한층 더 격화되고 있습니다. 더불어민주당은 \"수사자료 유출은 범죄\"라며 한동훈 의원에 대한 제명을 추진하겠다고 엄포를 놨고, 국민의힘은 \"김 후보의 '주가조작 로비'를 청와대에서 몰랐겠냐\"며 이재명 대통령을 겨냥했습니다. 더불어민주당은 연일 김승원 법무부 장관 후보자 관련 의혹 제기에 나선 무소속 한동훈 의원에 대해 집중포화를 날렸습니다.\n\n김민석 대표는 '수사자료 유출은 범죄'라고 한 이진수 법무부 장관 대행의 발언을 근거로 \"한 의원에 대한 제명을 추진하겠다\"고 밝혔습니다. 한병도 원내대표도 \"수사팀과 대검찰청 지휘부 등 극히 일부만 열람할 수 있는 기소계획서가 SNS 콘텐츠로 전락됐다\"며 \"한 의원에 대한 고발장이 접수된 만큼 국가수사본부는 신속한 수사에 돌입해야 한다\"고 공세를 폈습니다. 특히 김 후보자의 '신약 로비 의혹'을 \"3만 소액주주를 피눈물 나게 한 주가조작 사건\"으로 규정지으며 김 후보자를 지명한 이재명 대통령을 비판했습니다.",
+   "press": "MBC",
+   "source": "MBC",
+   "link": "https://n.news.naver.com/article/214/0001523151",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. “윤석열 편들던 사람을…” 초대 중수청장 내정에 야권 ‘발칵’\n\n김지용 초대 중대범죄수사청장 후보자의 인사청문회에서 과거 검찰 재직 시절의 행보와 검찰 개혁에 대한 견해가 핵심 쟁점으로 부각될 전망이다. 법조계에 따르면 김 후보자는 사법연수원 28기로 24년 동안 검찰에 몸담았으며, 지난 2023년 광주고검 차장검사직을 끝으로 퇴임했다. 중수청은 비대해진 검찰 권한을 해소하기 위해 신설되는 조직으로, 오는 10월 2일부터는 수사하는 검사가 사라지고 검찰은 기소와 공소유지만 맡게 된다.\n\n이에 따라 검찰 출신인 김 후보자가 과거 검찰의 전철을 밟지 않고 조직을 이끌 비전을 증명해야 하는 입장에 놓였다. 특히 김 후보자는 대검 형사부장이던 지난 2022년 검찰의 보완수사권 필요성을 강조하며 ‘검수완박’에 공개 반대했고, 2020년에도 윤석열 검찰총장에 대한 직무정지 명령 당시 반대 성명에 동참한 이력이 있다. 더불어민주당 박주민 의원은 SNS를 통해 수사·기소 분리 원칙에 동의하는지 입장을 먼저 밝히라고 지적했으며, 조국혁신당 신장식 대표는 윤석열 총장을 편드는 연판장에 이름을 올린 인사를 앉히는 것은 검찰 개혁이 아니라 ‘검찰 개명’이라고 비판했다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004157710"
+   "feed": "뉴스 07. 수사자료 유출했나‥민주, 한동훈 제명 추진\n\n김승원 법무부 장관 후보자에 대한 인사청문회를 앞두고 여·야의 공방이 한층 더 격화되고 있습니다. 더불어민주당은 \"수사자료 유출은 범죄\"라며 한동훈 의원에 대한 제명을 추진하겠다고 엄포를 놨고, 국민의힘은 \"김 후보의 '주가조작 로비'를 청와대에서 몰랐겠냐\"며 이재명 대통령을 겨냥했습니다. 더불어민주당은 연일 김승원 법무부 장관 후보자 관련 의혹 제기에 나선 무소속 한동훈 의원에 대해 집중포화를 날렸습니다.\n\n김민석 대표는 '수사자료 유출은 범죄'라고 한 이진수 법무부 장관 대행의 발언을 근거로 \"한 의원에 대한 제명을 추진하겠다\"고 밝혔습니다. 한병도 원내대표도 \"수사팀과 대검찰청 지휘부 등 극히 일부만 열람할 수 있는 기소계획서가 SNS 콘텐츠로 전락됐다\"며 \"한 의원에 대한 고발장이 접수된 만큼 국가수사본부는 신속한 수사에 돌입해야 한다\"고 공세를 폈습니다. 특히 김 후보자의 '신약 로비 의혹'을 \"3만 소액주주를 피눈물 나게 한 주가조작 사건\"으로 규정지으며 김 후보자를 지명한 이재명 대통령을 비판했습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001523151"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-10/09.png",
-   "pngBytes": 1346388
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-11/09.png",
+   "pngBytes": 1346405
   }
  ],
- "caption": "📰 9월 10일 오늘의 뉴스\n\n1. [단독]제주서 감귤농사 강신철 父도 ‘철거민 특공’...3代가 서초·분당에 부동산\n   강신철 국방부 장관 후보자의 부친 강모씨가 재개발을 앞두고 제주 서귀포시에서 서울 구로구 천왕동으로 전입했고, 강 후보자처럼 ‘철거민 특별공급’ 자격으로 호가…\n2. 용혜인 의혹 해명 자리서 '꽃 문신' 드러낸 부대변인… 누리꾼들 갑론을박\n   7일 국회 소통관에서 열린 기본소득당의 기자회견 중 김진서 부대변인의 팔에 새겨진 꽃 문신이 포착됐다. 최근 기자회견에서 김진서 부대변인의 팔에 큼지막하게 새겨진 문신이…\n3. \"가만히 앉아서 11조 날릴 판\" 경고…삼성전자 '초비상' [분석+]\n   수출 기업 입장에서는 원·달러 환율 하락이 원화 기준 매출과 이익의 감소 요인으로 작용한다. 삼성전자 관계자는 \"환율이 너무 빠르게 하락하면서 내년 사업계획의 환율…\n4. “민망해서 어떻게 입어” 말 나오더니 결국…찬밥 신세 된 레깅스, 주가 급락에 ‘비명’\n   레깅스 판매가 급감하는 상황에서 주가도 하락하면서 신임 최고경영자의 리더십이 시험대에 올랐다. 8일 WWD 등 현지 매체에 따르면 룰루레몬의 신임 최고경영자 하이디…\n5. 이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"\n   프랑스를 국빈 방문 중인 이재명 대통령이 \"제 임기는 헌법상 제한돼 있다\"고 언급했습니다. 이재명 대통령 \"제 임기는 헌법상 명확하게 제한돼\"\n6. 김승원 '신약 청탁' 의혹 당사자 입 열었다…\"한동훈 녹취록 황당, 왜곡된 짜깁기\"\n   한동훈 무소속 의원이 연이어 공개하고 있는 김승원 법무부 장관 후보자의 '신약 청탁' 의혹 관련 녹취록. 이 녹취록엔 신약 개발 업체 제넨셀의 창업자 강세찬 교수가…\n7. “윤석열 편들던 사람을…” 초대 중수청장 내정에 야권 ‘발칵’\n   김지용 초대 중대범죄수사청장 후보자의 인사청문회에서 과거 검찰 재직 시절의 행보와 검찰 개혁에 대한 견해가 핵심 쟁점으로 부각될 전망이다. 이에 따라 검찰 출신인 김…\n\n🗣 “고대역폭메모리(HBM)와 서버용 DDR5 등 고부가가치 제품의 믹스 개선으로 일부 상쇄할 수 있지만 환율 변동성이 커지면 생산량, 투자, 인력 배치까지 전반적인 계획의 불확실성이 높아질 수밖에 없다”\n이 발언을 그대로 실은 보도 10건 · 한국경제 · 다음뉴스 · 비즈니스포스트 · 조선일보\n· 한국경제 — \"가만히 앉아서 11조 날릴 판\" 경고…삼성전자 '초비상' [분석+]\n· 다음뉴스 — 中 CXMT도 D램값 상승 베팅…“하반기 메모리 공급 부족 계속”\n· 비즈니스포스트 — 메모리 가격 상승으로 빅테크 AI 투자 '한계점' 임박 분석 나와, \"수요 파괴\" 시나리오 거론\n· 조선일보 — AI 열풍의 숨은 비용 청구서… 저가 100달러폰 사라지며 ‘디지털 접근권’ 흔들린다\n· Calgary Roughnecks — 토토 케이티 : 위험 피하기와 최적화 - 실용적인 접근법\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #부동산 #대통령실\n\n출처: JTBC, MBC, 서울경제, 세계일보, 조선일보, 한국경제, 한국일보"
+ "caption": "📰 9월 11일 오늘의 뉴스\n\n1. 한동훈, ‘서영교 찌릿’ 사진 올리며 “‘계엄’하시게요?” 비아냥\n   한동훈 무소속 의원이 국회 법제사법위원장인 서영교 더불어민주당 의원이 자신을 쏘아보는 사진을 공유하며 “‘계엄’이라도 하시게요?”라고 비꼬았다. 한 의원은 9일…\n2. 이 대통령 \"제 임기 헌법상 제한\"...연임 논란 공개 언급\n   프랑스 국빈 방문 중인 이재명 대통령이 해외 동포와의 간담회에서, 대통령의 임기는 헌법상 명확하게 제한돼 있다고 말했습니다. 연임 개헌에 대한 야당의 공세가 이어지는…\n3. “한강러닝 다녀오겠단 아들, 그 속 몰랐습니다”…생명의전화 절반이 1020\n   한강교량 설치된 SOS생명의전화. 한강 교량 20곳에 설치된 SOS생명의전화를 찾는 시민 중 10·20대가 절반 이상인 것으로 나타났다.\n4. 파주 아파트서 30대 탈북 여성 시신 발견…유력 용의자 해외 출국\n   현장에선 범죄로 볼 만한 정황이 포착됐으며, 유력한 용의자는 해외로 출국한 것으로 파악됐다. 10일 경찰 등에 따르면 지난 9일 오전 10시 35분쯤 파주시 와동동의 한…\n5. 청와대 \"이 대통령 '헌법상 임기 제한' 발언, 연임 안 한다는 뜻\"\n   청와대는 이재명 대통령이 직접 본인의 임기는 헌법상 명확하게 제한돼있다고 밝힌 데 대해, 연임 개헌 의사가 없는 거라고 해석했습니다. 성기홍 청와대 홍보소통수석은 오늘…\n6. 한동훈 \"검찰서 자료 받은 적 없다\"…허위사실 유포로 김민석 고소\n   이재명 대통령에 김승원 지명 철회 촉구한동훈 무소속 의원이 김승원 법무부 장관 후보자 관련 자료를 검찰로부터 받았다는 의혹을 부인하며 김민석 국무총리를 경찰에 고소했다고…\n7. 수사자료 유출했나‥민주, 한동훈 제명 추진\n   더불어민주당은 \"수사자료 유출은 범죄\"라며 한동훈 의원에 대한 제명을 추진하겠다고 엄포를 놨고, 국민의힘은 \"김 후보의 '주가조작 로비'를 청와대에서 몰랐겠냐\"며 이재명…\n\n🗣 “비공개 수사 자료가 적법한 절차를 거치지 않고 외부로 유출됐다면 매우 엄중한 사안”\n이 발언을 그대로 실은 보도 7건 · 한겨레 · 문화일보 · 뉴시스 · 조세일보\n· 한겨레 — 한동훈, ‘서영교 찌릿’ 사진 올리며 “‘계엄’하시게요?” 비아냥\n· 문화일보 — “한동훈 긴급체포”에 “계엄하시게?”…서영교와 한동훈이 나눈 거침없는 다툼\n· 한겨레 — 한동훈 ‘김승원 녹취’ 공개…한성숙 “수사자료 유출 경위 확인 지시”\n· 뉴시스 — 한 총리, '한동훈의 김승원 수사기록 공개'에 \"관계기관이 유출 경위 확인하도록 지시\"\n· 조세일보 — 한동훈, '김승원 녹취' 공개…한 총리 \"유출 경위 확인토록 지시\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실 #검찰\n\n출처: MBC, YTN, 디지털타임스, 매일경제, 아시아경제, 한겨레"
 }
