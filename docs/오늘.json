@@ -1,277 +1,284 @@
 {
- "date": "2026-09-13",
- "generated_at": "2026-09-13T09:30:55+09:00",
+ "date": "2026-09-14",
+ "generated_at": "2026-09-14T09:33:37+09:00",
  "mode": "daily",
- "window_start": "2026-09-12T00:00:00+09:00",
- "window_end": "2026-09-12T23:59:59+09:00",
+ "window_start": "2026-09-13T00:00:00+09:00",
+ "window_end": "2026-09-13T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "개표소 지키겠다며 출입 막은 30대 여성…황교안 정당 최고위원 출마",
-   "source": "조선비즈",
-   "url": "https://n.news.naver.com/article/366/0001191924",
-   "published_at": "2026-09-12T11:32:17+09:00",
+   "title": "\"용혜인에 들끓는 청년 여론 좌시 못 해\"...오늘 고위당정 주목",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002406265",
+   "published_at": "2026-09-13T04:38:47+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "자유와혁신 최고위원 후보 기호 5번 등록. 서울 송파구 올림픽공원 일대에서 개표소를 지키겠다며 대한체육회 관계자 등의 출입을 막아 업무방해 혐의로 송치된 30대 여성이…",
-   "summary_long": "“법적 리스크 때 도와준 고마운 정당” 서울 송파구 올림픽공원 일대에서 개표소를 지키겠다며 대한체육회 관계자 등의 출입을 막아 업무방해 혐의로 송치된 30대 여성이 황교안 전 국무총리가 만든 정당 ‘자유와혁신’의 최고위원 후보로 나섰다. 지난 7월 16일 서울 송파구 올림픽공원 개표소 봉쇄 시위 현장에서 체육단체 관계자들의 진입을 막고 있는 30대 여성 오자연 씨.\n\n12일 정치권에 따르면 오자연씨는 최근 유튜브 채널 ‘황교안TV’를 통해 생중계된 제2회 자유와혁신 전당대회 선출직 최고위원 선거 후보자 기호 추첨 행사에 참석했다. 자유와혁신 홈페이지에는 오 씨가 최고위원 후보 기호 5번으로 등록돼 있다. 오 씨는 자신의 유튜브 채널에서도 최고위원 선거 기호 5번으로 출마한 사실을 알렸다.",
-   "quotes": [
-    "제가 법적 리스크를 짊어지고 있을 때 저를 도와준 고마운 정당",
-    "자유와혁신에서 인재가 필요한 상황이라고 해서 돕고자 지원했다",
-    "용기와 열정을 동원해 최선을 다해 헌신하고자 한다"
-   ],
-   "press": "조선비즈",
-   "photo": "01.jpg",
-   "quoted": {
-    "quote": "제가 법적 리스크를 짊어지고 있을 때 저를 도와준 고마운 정당",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "조선비즈",
-      "title": "개표소 지키겠다며 출입 막은 30대 여성…황교안 정당 최고위원 출마 - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbWJZNDlfbTZodG1lMGVGMmthY2E1NjdMUnNlVExFUk4tZUUyNUN0a0xUc0todW4yallEdHp2TXh4OGsyNFpKN211UXZHUGo0Z3hWVGNiRFFHbWRpbjJ5c3FVaWlHTnhvR1RLeTF2VXRZRFZPbUxkaWZwNk1mZVQwTDVZWdIBlwFBVV95cUxORDFHWTZkZ1hkYmxWajhxVzF2blVucWNTWG01S2ttMC1DbU1QSjduUTRzMFZ0dzVSUURjOUxJVmRRbGpDLW15SWhQMDZHNkpEMlpGMVVHMHR4WlF5UUtDRHBCcFFxSGZXWEdhclF1ZlRReW8wVVZaNFhOV0wyZDZqX252dzM4OE9Ib1lkZGJLaVdhby1Ob1pZ?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "마스크 벗은 '올다르크'…'황교안당' 최고위원 후보 나왔다",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wVUI2VS0tZDhEaGc3Q0pydkJ2c2tSMDlxYXhySUJmSW5Ya196NU1iZGNuLTNRU1JLeG9FSlVXbE1hbS16UGc?oc=5"
-     },
-     {
-      "press": "한국일보",
-      "title": "베일 벗은 94년생 '올다르크'…황교안 정당 최고위원 출마",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rSDdQVjV5Tm13NVVibW80X2VyTV9iRmtlbUMxTzdQSjk3cV8wV0ZtMTlyZmFHM1I0SEJ4MnRCYXlfTnJDR0lPYXR4QTZKWG5OTDRuOFA2dTlFTWxWcWVWQUt2em9xR290LXVlRkJR0gFzQVVfeXFMUHhZOWVOZmNQZW9haHRQSWZFMHJycnBqZEo2dl9Icy1nWXZKbnlFVS1UeEhINUkzRG1fbnFiUHZvUjkzOEdQQ1BJWS1mbmQwRThlaE13OEM0bzhQSGNnVF9YdW1TSUpTM3ctYldJMElVNnRsYw?oc=5"
-     },
-     {
-      "press": "뉴시스",
-      "title": "'올다르크', 얼굴·실명 공개…황교안 자유와혁신 최고위원 출마",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jZmlaV1NLRWhOV2M2SWhKUVNvck1nTlQxOHF4N2hPYWd6b2VrOVZQMUF2SF8tZzNHdXVFOHhhdmgtcU00MjdYYUp1Q295bGZJOWJDcE82OXVid1NjU3B4a9IBeEFVX3lxTE5UTzZiZ0xHNmVwWmhKZksyNy1iNURvbkFIb1R2S0VwQUdXMTVKYTVpem4wM2ZKWDYxSFM1S3hFcXBoMlRjT1l6dS1nREJ3WURlcU1aNnlmZ1M3T2VXTUFVTlM4YTlfR2g1VS03SnUzaENhNkNzWUFsSQ?oc=5"
-     },
-     {
-      "press": "뉴스1",
-      "title": "'올다르크' 오자연, 얼굴·실명 공개…자유와 혁신 최고위원 출마",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYbk83dnBJU1FDVUJmdEVNV21lbE5zdE4xTnZ1M1l5VTFrWFl3XzVHOEZPZksyZlI1QngtdlBMQXg1NWRzQ0NLZzEtNzhKN3lTTndhay1obFc2dTZHQTJZ0gFfQVVfeXFMUFhuTzd2cElTUUNVQmZ0RU1XbWVsTnN0TjFOdnUzWXlVMWtYWXdfNUc4Rk9mSzJmUjVCeC12UExBeDU1ZHNDQ0tnMS03OEo3eVNOd2FrLWhsVzZ1NkdBMlk?oc=5"
-     },
-     {
-      "press": "위키트리",
-      "title": "올다르크, 얼굴·실명 전격 공개…정치 활동 깜짝 선언",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fR0pERENwSkxWOUYzaU9KNlF6cUlLbk9fN2t0eGJVQ1gxanoxRFZGNU5jX3BCRGROZUtLVlRuT1NQTUtVTXJ0R3ZjZE4xN2t5ZzBUbFR3?oc=5"
-     }
-    ]
-   }
+   "summary": "용혜인 성평등가족부 장관 후보자를 둘러싼 논란이 이어지는 가운데, 민주당 내부에서도 거취를 정리해야 한다는 목소리가 커지고 있습니다. 당 지도부의 메시지도 확연히…",
+   "summary_long": "용혜인 성평등가족부 장관 후보자를 둘러싼 논란이 이어지는 가운데, 민주당 내부에서도 거취를 정리해야 한다는 목소리가 커지고 있습니다. 당 지도부의 메시지도 확연히 달라졌는데, 오늘(13일) 열리는 고위 당정 협의가 용 후보자의 거취를 가를 분기점이 될지 주목됩니다. 청와대가 거듭 인사청문회를 지켜보겠다는 입장을 밝히자, 야권의 공세 수위는 더욱 높아졌습니다.\n\n용혜인 후보자는 청년 세대가 가장 민감해 하는 공정과 상식을 정면으로 위반했다며, 임명을 강행한다면 국민 눈높이에 대한 정면 도전이 될 것이라고 날을 세웠습니다. [박성훈 / 국민의힘 수석대변인 : 이쯤 되면 이재명 대통령과 청와대가 용혜인 후보자에게 무슨 약점이라도 잡힌 거 아닌지 되묻지 않을 수 없습니다.]. 앞서 용 후보자 논란과 거리를 두던 민주당 지도부는 주말을 앞두고 공식적인 우려를 드러냈고,.",
+   "press": "YTN",
+   "photo": "01.jpg"
   },
   {
-   "title": "與, '용혜인 논란' 두고 \"청년 여론 좌시 못해\"…김승원 논란엔 \"한동훈 뇌피셜\"",
-   "source": "시사저널",
-   "url": "https://n.news.naver.com/article/586/0000138056",
-   "published_at": "2026-09-12T14:30:14+09:00",
+   "title": "용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)",
+   "source": "연합뉴스",
+   "url": "https://n.news.naver.com/article/001/0016306694",
+   "published_at": "2026-09-13T12:11:17+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "용 후보자에 대해선 \"청년 세대의 여론이 들끓고 있다\"며 대책의 필요성을 강조하는 반면 김 후보자와 관련해선 공세를 주도하고 있는 한동훈 무소속 의원에 대해 비판하며…",
-   "summary_long": "용혜인 성평등가족부 장관 후보자와 김승원 법무부 장관 후보자를 둘러싼 각종 의혹과 논란이 잇따르는 가운데 두 인사에 대한 더불어민주당의 반응은 온도차를 보인다. 용 후보자에 대해선 \"청년 세대의 여론이 들끓고 있다\"며 대책의 필요성을 강조하는 반면 김 후보자와 관련해선 공세를 주도하고 있는 한동훈 무소속 의원에 대해 비판하며 방어에 나선 모습이다. 조계원 민주당 대변인은 12일 국회 브리핑 후 취재진과 만나 용 후보자와 관련해 \"국민 눈높이에서 심각하게 지켜보고 있다\"면서 \"이 사안으로 청년 세대의 여론이 들끓고 있고, 이런 부분들을 마냥 좌시할 수 없다.\n\n조 대변인은 '당내에서 용 후보자 거취를 조기에 정리해야 한다는 기류가 계속 나온다'는 질문엔 \"당내 여러 기류가 있는 것으로 알고 있다\"며 \"이와 관련해 지도부 입장이 나올 수 있지 않겠는가\"라고 답변했다. 또한 오는 13일 고위 당정 협의회에서 용 후보자 문제를 논의할지에 대해서도 \"논의가 될 수 있을 것 같다\"면서 \"국민 눈높이에서 제대로 점검하고 대응 방안도 논의할 것 같다\"고 가능성을 열어뒀다. 반면 조 대변인은 김승원 후보자의 제넨셀 신약 임상실험 승인 로비 의혹과 연결된 주가조작 의혹에 대해선 공세를 주도 중인 한동훈 의원을 거명하며 \"한동훈 뇌피셜(자기만의 생각)\"이라고 반박했다.",
+   "summary": "용혜인 성평등가족부 장관 후보자 기자회견. 박경준 = 용혜인 성평등가족부 장관 후보자가 13일 후보직에서 자진 사퇴했다.",
+   "summary_long": "용혜인 성평등가족부 장관 후보자 기자회견. 박경준 = 용혜인 성평등가족부 장관 후보자가 13일 후보직에서 자진 사퇴했다. 이재명 대통령이 성평등부 장관 후보자로 지명한 지 14일 만이다.\n\n현역 의원이 장관 후보자에 지명됐다가 낙마한 것은 역시 성평등부 장관 후보자로 지명됐다가 자진해 사퇴한 강선우 전 더불어민주당 의원에 이어 두 번째다. 용 후보자는 \"이재명 정부의 성평등부 장관 후보자로서 모두를 위한 성평등 사회를 만들어 내고자 했던 결심과 함께 장관 후보직을 오늘로써 내려놓고자 한다\"고 말했다. 용 후보자는 장관 후보자로 지명된 이후 비례대표 의원 겸직 논란 등이 불거지며 야당뿐만 아니라 여당 일각에서도 사퇴 압박을 받아 왔다.",
    "quotes": [
-    "한 의원이 법무부 장관이던 시절에 시작한 사건이고, 특수부 검사가 탈탈 털어도 결국 기소할 수 없다고 판단한 사건",
-    "이 사안으로 청년 세대의 여론이 들끓고 있고, 이런 부분들을 마냥 좌시할 수 없다. 어떠한 대책이 필요하다",
-    "국민이 선출한 국회의원에게 쓰는 말이 아니다. 한 의원의 언어는 검사 시절 그대로"
+    "민주당으로부터 '후보자와 기본소득당이 처한 상황을 존중하지만, 비례대표 의원직과 장관직 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 후보자가 결단해 달라'는 의사를 전달받았다",
+    "떳떳하지 않은 것이 없기에 국민 앞에 하나하나 소명하고 싶어 인사청문회를 기다렸지만, 일방적으로 쏟아지는 가짜 정보와 억측 속에 국민께 진실과 제 진심을 직접 전할 수밖에 없었다",
+    "국무위원은 국회와 정부를 유기적으로 연결해 협력을 끌어내야 하므로 여당도 우려를 표하는 상황에서 그 직을 수행하는 것은 현실적으로 어렵다고 판단했다"
    ],
-   "press": "시사저널",
+   "press": "연합뉴스",
    "photo": "02.jpg",
    "quoted": {
-    "quote": "이 사안으로 청년 세대의 여론이 들끓고 있고, 이런 부분들을 마냥 좌시할 수 없다. 어떠한 대책이 필요하다",
+    "quote": "민주당으로부터 '후보자와 기본소득당이 처한 상황을 존중하지만, 비례대표 의원직과 장관직 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 후보자가 결단해 달라'는 의사를 전달받았다",
     "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "시사저널",
-      "title": "與, ‘용혜인 논란’ 두고 “청년 여론 좌시 못해”…김승원 논란엔 “한동훈 뇌피셜”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXZWJnVjRTNE1oZlpYT1l3UGk4VFBZVVpTS0dLWTd3a2pNbndwQTJGM2xjQ2lOcnJfZEl0Z3c1dlBVTmMyc0huVmRneTFpWHBSOGlTM2IwZWc5RXdURVBLRTEwd21uem1NWlM3RDB2c9IBc0FVX3lxTE5ZRFpmLVhhSV9DWEhrczRqZFhQTm15MnBiQzNQSG1JTGJXUHo1LS01MWFaOGtMSHBwcld5UEJLU0x3LWtSYUFhdmRUZGo5QVFNd2l3NXZNUlpPc191c3RfRkJCREhVbGNNVWNlSkpCRDVQZDQ?oc=5"
-     },
-     {
       "press": "연합뉴스",
-      "title": "與 \"용혜인에 들끓는 청년 여론 좌시못해\"…내일 고당 논의 주목",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBod3BFTTdwQ2NibHcyV1Z6VnZsZ2pMbDFGMV8zNHRlU2ZHMDdjcFNpVER6U0xDU3ppOWlCNWh6M0VkVHBlalc3ZFJkR3hQS1dkcFBaaGlYMXhRVXfSAWBBVV95cUxNOVl6SHF5X2lwSnBOeHBCVnZGXzFOQlA2UHJ6SFFOcnJjbXBIV09mcHlsaVBSUFFzNTZWcmV2YV9PYVJsTHk2ZjFrdDFfNVlsQ182MzBrX2tKRWtzYzd3SEw?oc=5"
+      "title": "용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JSG5SM2hhak55b2ZwWTJ1c3kwWm1MVjg3U01yMHRoMkJ6SGhfVE1UTnJKSVRlWm1oUWphUDF2QzVvYXZPaTBDQ0N5cWhicV95d25Tbm5NQ3Q0MXItQ2RSMtIBYEFVX3lxTE9JSG5SM2hhak55b2ZwWTJ1c3kwWm1MVjg3U01yMHRoMkJ6SGhfVE1UTnJKSVRlWm1oUWphUDF2QzVvYXZPaTBDQ0N5cWhicV95d25Tbm5NQ3Q0MXItQ2RSMg?oc=5"
      },
      {
-      "press": "주간경향",
-      "title": "민주 “용혜인 좌시할 수 없어”···오늘 고위당정 주목",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pOWtLcHQwSmpxemw0azNERks1Q21GZExDRXNoQURYSlZNYnBsTWtFT044ZHgtb1lWd2RzLTZIOC1BR0hZcDZER24zRGhVVlFibVhyLWgyajd3NmstdWc?oc=5"
-     },
-     {
-      "press": "시사저널",
-      "title": "李대통령 ‘용혜인 지명철회’ 초읽기? 與 “청년 여론 좌시못해”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lNVVndlNRT1Vodzc4MW9wRkpWaTJEQmxpS2ZEUUpjbGZPZTJNWC1IcUpZWWRNMzU0aGpBWTA2MU1WZWVqUldPUGZWZW5CM3pWNnN5ejhndTNsaGc4X0t3bkphcnhKYmZJYVNkeXpEa9IBc0FVX3lxTE9oTXRLRHpVY3Zsa0dPZ1NoSldIWFNfMEFGMGFKaXAtQUhpUWxaTHdpUllQODVqUndzb0ZmVzNOSC1FZ0dUeG9UeUVFdE9FS1FQMy00RVV4V0FFbWFYWkVMazZzb3U5MWZZQndFSWNJNml4ZjA?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "민주 “용혜인에 들끓는 청년 여론 좌시할 수 없어”…사실상 ‘손절’ 수순",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1WXJ0N0JGWlc1eHpFUWhJYTNacWU5VE14czI3OXNVUlQ3WUxVaFZIQTRQR0Z3dGd4RURJbk8tQ1UySHhTOHVxTGt3bEtXNDQ?oc=5"
-     },
-     {
-      "press": "아주경제",
-      "title": "용혜인으로 청년 여론 들끓어…與 깊어지는 고심",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MM0hISEFtY2NERjhKT0c4ZEswRXB3SzZHNmxjVTNoYnRCT0pxWTlLa1ZuSURRRmNLRGpwX256QUtTQ0s4eUh2NHhHYi1LZFYxR1R4YnRmdXbSAVhBVV95cUxOTDNISEhBbWNjREY4Sk9HOGRLMEVwd0s2RzZsY1UzaGJ0Qk9KcVk5S2tWbklEUUZjS0RqcF9uekFLU0NLOHlIdjR4R2ItS2RWMUdUeGJ0ZnV2?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "“아이들 구하려고 바다에 들어갔다가”…진도서 엄마·아들 참변",
-   "source": "경기일보",
-   "url": "https://n.news.naver.com/article/666/0000123066",
-   "published_at": "2026-09-12T15:59:11+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "전남 진도 해상에서 물놀이를 하던 일가족 4명이 물에 빠진 뒤 마와 어린 아들이 숨지는 사고가 발생했다. 해경은 일가족이 물놀이를 하던 중 썰물에 휬쓸려 사고를 당한…",
-   "summary_long": "물놀이하던 3남매 구하려 바다에 들어가...해경, 사고 경위 조사 중. 전남 진도 해상에서 물놀이를 하던 일가족 4명이 물에 빠진 뒤 마와 어린 아들이 숨지는 사고가 발생했다. 12일 해경과 소방당국에 따르면 이날 오후 1시 51분께 전남광주 진도군 의신면 신비의 바닷길 인근 해안에서 물놀이를 하던 가족들이 물에 빠졌다는 신고가 접수됐다.\n\n이 사고로 어머니 A씨(40대)와 3세 아들이 심정지 상태로 구조돼 응급 처치를 받으며 인근 병원으로 긴급 이송됐으나 숨을 거뒀다. 함께 물에 빠진 8세 아들은 양식장 밧줄을 붙잡고 버티던 중 구조됐으나 저체온증 증상을 보여 인근 병원에서 치료를 받고 있다. 해경은 일가족이 물놀이를 하던 중 썰물에 휬쓸려 사고를 당한 것으로 보도 정확한 사고 경위를 조사 중이다.",
-   "press": "경기일보",
-   "photo": "03.jpg"
-  },
-  {
-   "title": "\"순찰차 빼달라\" 요구한 시민 패대기 치고 뒷수갑 채운 강원 경찰",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000510783",
-   "published_at": "2026-09-12T10:15:08+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "그에 따르면 지난달 18일 중앙선을 침범했던 덤프트럭 한 대가 계량소 안으로 들어왔고 이를 쫓아 경찰 암행순찰차도 들어왔습니다. 덤프트럭이 계량소 바닥에 설치된 저울…",
-   "summary_long": "그에 따르면 지난달 18일 중앙선을 침범했던 덤프트럭 한 대가 계량소 안으로 들어왔고 이를 쫓아 경찰 암행순찰차도 들어왔습니다. 덤프트럭이 계량소 바닥에 설치된 저울 위에 멈춰섰고 순찰차가 그 앞을 가로막아 세운게 화근이 됐습니다. 그는 이 과정에서 수갑 한쪽이 거꾸로 채워지며, 손목에 흉터도 남았다고 설명했습니다.\n\n그러나 경찰 측 설명은 다릅니다. 강원경찰청 관계자는 덤프트럭 단속으로 계량소 진입 때부터 영업을 방해할 상황이 아니었다는 입장을 밝혔습니다. 제작진은 경찰의 주장을 확인하기 위해 당시 상황이 담겨 있는 블랙박스 및 보디캠 영상의 제공을 요청했으나 수사 중인 사안이라는 이유로 거부당했습니다.",
-   "press": "JTBC",
-   "photo": "04.jpg"
-  },
-  {
-   "title": "추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001523574",
-   "published_at": "2026-09-12T19:29:31+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 2264,
-   "comment_agree": 341,
-   "comment_disagree": 57,
-   "division_balance": 0.286432,
-   "division_score": 1.715431,
-   "selection": "찬반 쟁점",
-   "summary": "추미애 경기도지사가 검찰 개혁 문제 등과 관련해 이재명 대통령을 겨냥해 작심 발언을 쏟아냈습니다. 추 지사는 \"민생을 옥죄는, 가로막는 검찰 세력이 모든 권력, 수사권을…",
-   "summary_long": "추미애 경기도지사가 검찰 개혁 문제 등과 관련해 이재명 대통령을 겨냥해 작심 발언을 쏟아냈습니다. 추 지사는 남양주시 모란공원 민주열사묘역에서 열린 '2026년 경기도 민주화운동희생자 추모제'에 참석해 준비한 원고 없이 \"민주화는 현재진행형\"이라며 본인의 생각을 가감 없이 밝혔습니다. 추 지사는 \"민생을 옥죄는, 가로막는 검찰 세력이 모든 권력, 수사권을 쥐고 기소권과 영장청구권을 쥐고 허위자백을 이용하고 증인을 회유하고 진술세미나를 벌리고 술파티를 벌여서 사건을 왜곡하는데 그 모순을 해결하지 않고 어떻게 민주화가 되겠냐\"고 발언을 시작했습니다.\n\n추 지사는 \"사람들이 힘을 모아서 내란을 극복하고 선거 민주주의를 일으켜 세웠으며 내란세력이 훔쳐 갈 뻔했던 헌법 질서를 돌려세웠다\"며 \"그렇다면 대통령은 이들 세력을 징벌해야 하는데 왜 이들 세력에게 업혀서 전전긍긍하는 것인가, 왜 민주영령들을 과거처럼 취급하는 것인가\"라고 직격했습니다. 추 지사는 \"저는 오늘 이 자리를 경기도지사로서 온 것이 아니고 이 시대를 살아가는 한 양심으로써 이 자리에 섰으며 소임을 다하지 못해 무척 송구함을 영령들께 고백하지 않을 수 없다\"며 발언을 마쳤습니다. 김지용 중수청장 후보 지명에 대해서는 김학의 출국금지 사건 수사라인 이력 등을 언급하며 \"왜곡의 왜곡을 능사로 한 사람을 수사 잘해야 하는 자리에 앉힌다는 것은 모순의 극치\"라고 비판한 바 있습니다.",
-   "quotes": [
-    "민생을 옥죄는, 가로막는 검찰 세력이 모든 권력, 수사권을 쥐고 기소권과 영장청구권을 쥐고 허위자백을 이용하고 증인을 회유하고 진술세미나를 벌리고 술파티를 벌여서 사건을 왜곡하는데 그 모순을 해결하지 않고 어떻게 민주화가 되겠냐",
-    "한동훈과 한배를 탔던 사람이 초대중수청장이 된다면 그것이 민주화입니까, 그것이 나라를 바꾸는 겁니까, 그것이 주권자 국민의 뜻을 섬기는 것입니까, 그래서 민주화는 끝난 것이 결코 아닌 것",
-    "저는 오늘 이 자리를 경기도지사로서 온 것이 아니고 이 시대를 살아가는 한 양심으로써 이 자리에 섰으며 소임을 다하지 못해 무척 송구함을 영령들께 고백하지 않을 수 없다"
-   ],
-   "press": "MBC",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "민생을 옥죄는, 가로막는 검찰 세력이 모든 권력, 수사권을 쥐고 기소권과 영장청구권을 쥐고 허위자백을 이용하고 증인을 회유하고 진술세미나를 벌리고 술파티를 벌여서 사건을 왜곡하는데 그 모순을 해결하지 않고 어떻게 민주화가 되겠냐",
-    "n": 9,
-    "verified": 0,
-    "items": [
-     {
-      "press": "주간조선",
-      "title": "추미애 “李대통령 왜 내란세력에 업혀 전전긍긍하나…여기서 빌어야”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tSW9jMHJlWS1uM1l0dFFsNV9XWUgxdUtWLWpQZ2xsRWRYa25xLUtDYjF6VEhlTzc5dTJ0cy1CWVNrbUdSTXZyMU1LTnZmU1JJMHNGWjhheUV4YTRzVGNhRkRxRXJuSTRpSTBz0gFuQVVfeXFMTjZlcmZka0wzclJENW83bFJsWVJ6SWdRVW9HRVZ2QXdRVWZkelcyRzZzOXdpNmswa0loQ1k5czhJTTFOanhhSU9UdVpYOEdrdy00ai1kdjUwS2F0a2YyUEdERkRPbzhvV3JBQ1RNTUE?oc=5"
-     },
-     {
-      "press": "MBC 뉴스",
-      "title": "추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4dVZuV2g5WWFrU2dyZGRmZnVjanNFQnRvcDR0Y1F5eGtTN0dZR0E3U0RNLThaRUFxNHpnOEl5MUtzS2R6dlM0ZzBUNEZBaXFMb3F4Rk1lbThMbVFxa0E5X0M0Ui1oaVNPdDZqX0lIdzdDWXlNMmMxdNIBeEFVX3lxTFB4dVZuV2g5WWFrU2dyZGRmZnVjanNFQnRvcDR0Y1F5eGtTN0dZR0E3U0RNLThaRUFxNHpnOEl5MUtzS2R6dlM0ZzBUNEZBaXFMb3F4Rk1lbThMbVFxa0E5X0M0Ui1oaVNPdDZqX0lIdzdDWXlNMmMxdA?oc=5"
+      "press": "머니투데이",
+      "title": "용혜인 장관 후보자, 2주만에 자진 사퇴…\"與 결단해달란 의사 전달 받아\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YTWFTMDB1M21OdnBfYzV1RlFYOGtnY3JYR2tiRXNTbmh6RUJBakRJRzJPYkxUM3VIamxsaE93UTFBVGQ2cXRNU0xCQ0M3RFdHcjJwVElnemlRMWtWOWxVRWE0d0F2SlFEVXpjStIBckFVX3lxTE5iMnJkWmhLMzI5M3VWUWpnUFh4RzZhUV9kNlZlaHFUR3VrOTNnaEJ6Zi1YV01lWXJjeGltd1o5dVh4TS1ZRURFVGduZmhtYmNyX3R3cmRsY3k4OE03cFNGWjV4ZXA2blZqMWNOZnpZNTlFZw?oc=5"
      },
      {
       "press": "국제신문",
-      "title": "추미애 “대통령은 왜 내란 세력에 전전긍긍하나”",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFc0X3hPUHJUaWdZc0otcF84eGFNNE5Zc0pjb3FnamdaY1RkTWZhazNnZkJydk9DSnNTS0JVYzJyeTJPc1FZUlZnNjAzWFk4ZmN2bHFLR1dsQUpFaFlWYk5OOTBQSEVDeXU3dGtXdEZibWJnaHFHQ2FUSERnaDl3cERDOTVic1ZieTlWTk9R?oc=5"
+      "title": "용혜인 성평등 장관후보 사퇴 “여당도 우려…직 수행 어렵다”(종합)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdEoyZElGUTlnNkpuckgzWlA0UTlJX2NSd3NaU2kwdDNGbTAxU1VCSS1TUDRSZlk2R3J1Y1BwQWU2bDMyZ2ducWNWTjlJdWFJZ2NJUFVSbWFYRkpUVVFnOXIzOUFfM0NjeHBLdW15ejctNnhuVUZ0ZEg5TjVrSHdPaEJUd2lIaHEtc0pPUlh3?oc=5"
      },
      {
-      "press": "KBC광주방송",
-      "title": "추미애, 작심 비판 \"대통령은 왜 내란세력에 전전긍긍하나\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zTW1EakQtNENsSHdlMFFiYTNQLTVheUZ5TDRhZHhnRHE5RWt6bVYwZ19nYlQ1QWxEM0FERTVvVVgtVU51WWJJZ2FsUURQYVB5U2pKcmI5SjlLMUI4bFZsRg?oc=5"
+      "press": "경향신문",
+      "title": "[속보] 용혜인, 성평등가족부 장관 후보자 자진 사퇴···지명 14일 만에 낙마",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iRWhMNDRDSDA0R25NQ0REQTdfR0V1MFl4aUxOXzlOU1ZQZGFxQkgzYkd0aEo2c044VS1jWVI5MXZZSEtyREJHZDhhekV5SnRQVGhIS1dvVFd0d9IBX0FVX3lxTE1ZMTNVcTNEMDhQUUdtekRYaURhSUNveWhTRkF0Rk9HSzZSTUFYbUI0Rk84NmE2NXI0dE9HYThLWFREN29renUwaFpCMzZjYk5jdEYxSnBkZkxBdDE4V3Rv?oc=5"
      },
      {
-      "press": "다음뉴스",
-      "title": "추미애 \"李대통령, 왜 내란세력에 전전긍긍하나\"",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zanJER3YwcDdUVWx1d040a2x6RHlReHRLN3VUMkNrbHNsbWFjNWhHX0FNbktRUXhBRnQ4dWhFLS1kRDVvQUE?oc=5"
+      "press": "hidomin.com",
+      "title": "용혜인, 사퇴 요구 거부 사흘 만에 결국 자진사퇴…\"민주당도 결단 요청\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YQVl0a1pvcWk2b1J4TUcxQUJ6MHZ6blNlTVhfZnFEUUlfc3o0ZkU4TldRd2VtUnl1ODEzWUFjekQxcHdfZndxV044ZGoxcUlXS3pKZWF5Z1dEREtFUEJhbXd0Yk5lcTU3OVE?oc=5"
      },
      {
       "press": "한겨레",
-      "title": "추미애 “이 대통령, 내란 세력에 업혀 전전긍긍”…중수청장 인사 비판",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NV095bUx6d1BMczN6VVVhOHlDV1BnbDFrd2JpWXFnYkZvNUZXUTZWTG5wVkhvMWJZbkdXSF9LNExUcER2QUpmai03cEVrZTUwN3dSRzdFSzBxSEVla3EzWVpkVVFYWUg5c0JYT3B2azNoc0NC?oc=5"
+      "title": "버티던 용혜인, 대통령 지지율 하락속 민주 결단 촉구에 ‘백기’",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLbVVRaWVjZE4yMEIxQ0YyWXdHYjBSSjA1bUdndWFMYXNsc2FWaWp1VElMV3N0OU5xcWJ1aWYyU3o2SXFQNnFsZHN2Q0JzLVhYelFiTDAtNF9nbk83eFFLdXRVc05ETkJTQjBOaDlPNzJ2cHJ6?oc=5"
      }
     ]
    }
   },
   {
-   "title": "'올공' 문 막던 '그 여성'…'황교안당' 최고위원 후보 나왔다",
-   "source": "MBN",
-   "url": "https://n.news.naver.com/article/057/0001968651",
-   "published_at": "2026-09-12T13:55:09+09:00",
+   "title": "'삼전닉스' 개미 13조 매도에도…SK하이닉스 8% 상승한 이유는",
+   "source": "부산일보",
+   "url": "https://n.news.naver.com/article/082/0001398006",
+   "published_at": "2026-09-13T12:07:10+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "외국인 이탈에도 반도체주에 대한 투자를 이어오던 개인 투자자들이 이달 들어 삼성전자와 SK하이닉스를 매도하기 시작했다. 13일 한국거래소에 따르면 이달 들어 지난…",
+   "summary_long": "외국인 이탈에도 반도체주에 대한 투자를 이어오던 개인 투자자들이 이달 들어 삼성전자와 SK하이닉스를 매도하기 시작했다. 13일 한국거래소에 따르면 이달 들어 지난 11일까지 개인 투자자들은 삼성전자를 5조 2120억 원, SK하이닉스를 7조 8180억 원 각각 순매도했다. 개인 투자자들은 지난 5월부터 지난달까지 4개월 연속 삼성전자와 SK하이닉스를 순매수하며 주가 하단을 지지해왔다.\n\n외국인은 지난 5월 이후 5개월 연속 두 종목을 순매도하고 있으며, 이달 들어 11일까지 삼성전자와 SK하이닉스를 각각 1조 9600억 원씩 순매도했다. 삼성전자와 SK하이닉스의 자사주 매입 영향으로 최근 주요 수급 주체로 부상한 기타법인은 이달 들어 삼성전자를 4조 6580억 원, SK하이닉스를 9조 8900억 원 각각 순매수했다. 이달 들어 11일까지 삼성전자 주가는 0.19% 하락한 반면, SK하이닉스는 8.24% 상승했다.",
+   "quotes": [
+    "이란, 금리 관련 불확실성이 높은 지금, 여타 부문의 매력도 하락이라는 동력으로 반도체가 상대적 강세를 보일 것",
+    "빅테크들의 AI 투자 경쟁과 D램의 타이트한 수급을 고려하면 D램 호황기는 내년에도 지속될 것"
+   ],
+   "press": "부산일보",
+   "photo": "03.jpg",
+   "quoted": {
+    "quote": "이란, 금리 관련 불확실성이 높은 지금, 여타 부문의 매력도 하락이라는 동력으로 반도체가 상대적 강세를 보일 것",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "연합뉴스",
+      "title": "삼전·닉스 떠나는 개미들…9월들어 5개월 만에 '팔자' 전환",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FZm1IVFg2bHh6eVVUSGJ3WjhtV185UDlqWWdFcjRHZFNGc2ZPa3NyWFhQWW9oeXlfSnFpUjE2SWlKZVh3Q0ZlcWdxTzZkYlpPUG82VEt5ZmQxZjktbUwyQ9IBYEFVX3lxTE9FZm1IVFg2bHh6eVVUSGJ3WjhtV185UDlqWWdFcjRHZFNGc2ZPa3NyWFhQWW9oeXlfSnFpUjE2SWlKZVh3Q0ZlcWdxTzZkYlpPUG82VEt5ZmQxZjktbUwyQw?oc=5"
+     },
+     {
+      "press": "부산일보",
+      "title": "`삼전닉스` 개미 13조 매도에도…SK하이닉스 8% 상승한 이유는",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWDF3NDVQOEVuQ0x3VExLNmFsSFMwWVNBdmhYUUxFRUxZcVE4Tm5WY3I3V3F2MThXeldUODJ6anpUU3FPQkxpM2pMR1ZQSEhrVjBCMWxIaDhOWTQxdFhhemtOM1pKcE15Q0dSNzlhSXB2T2I0RmRYWEdzVW10aU1icF9pbHlDbHBHRWtINVN3cW5vaTVYaXdzNHpmN2M0RVVWVFhnUUF6V0FtZ2dRQkx6cC10M01TenAxYmZkUjcxNlpaMFprcjl3QlhhVkYyU2M4M185SWU2dnp3YWs?oc=5"
+     },
+     {
+      "press": "조선비즈",
+      "title": "“美 국채금리 결국 5% 뚫는다”… 고유가에 수급 부담까지 ‘겹악재’ - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmVBTEhoNXZVSWhfV3BtYl9lSWpzY1FUOFdGQksxOEdnSDhWOGUtR1hmajBJZ2o0dDBIYzFsTTFzdm9iLWZpVjFxRG14X0hqZ0NwX09fdE9iVDlmUE4xOC00c0RXVmdDWEdhRnlwS0I0TXdpUktGNUgzWGFjYnFfelBNbEp4dmlL0gGcAUFVX3lxTE5xUjlFUmo4ZW9OVWp6UDNzNjRlZ0hHbUhyWF83WjEyQV96ZkNwSTNRSzg4YmNoYXh2NVV4R1lRVkJraGhYVU93ZmZGZ1NyQmt4NVJFaUFUdkphRWszbl9qOEw5eGdIdTd2Q3hYa1hrVXFMT2JSb2pHWmI3UmNVQTE1YjhjV2RtdGYtSUFtSXNTcFVTekI1dzBlXy1UYQ?oc=5"
+     },
+     {
+      "press": "한국경제TV",
+      "title": "＂이제 어디 투자할까?＂…삼전닉스 개미들 5개월 만에 ＇팔자＇",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ud2dkQXlBejFkeTZ0a2tkUmV5aTNnRG1wVVNkaEZNYm5hTHpEQUpLeDNXdm9PVTdFOG5Ja2oteXJRNlVMR2VtSGJlbDRIYi1tbG9vQkVaXy1CMW81M3p6UkttaTJRNl9vYktldXN0elgwU25UVjFz?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "“월급 끊겨도 매달 400만원 들어옵니다”...은퇴 앞둔 직장인이 알아야 할 자산",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005734488",
+   "published_at": "2026-09-13T17:42:16+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "이달 발행되는 개인투자용 국채를 만기까지 보유할 경우 세전 만기 수익률은 10년물의 경우 약 59.3%, 20년물은 약 161.3%에 달한다. 개인투자용 국채 10년물에…",
+   "summary_long": "9월부터 확정기여(DC)형 퇴직연금 및 개인형 퇴직연금(IRP) 계좌를 통한 ‘개인투자용 국채’ 매입이 본격 허용되면서 은퇴를 앞둔 직장인과 자산가들 사이에서 ‘채권 사다리(풍차 돌리기)’ 투자 전략이 주목받고 있다. 퇴직연금 계좌(DC·IRP)에서는 장기 자금 운용에 적합한 국채 10년물과 20년물을 매입할 수 있다. 이달 발행되는 개인투자용 국채를 만기까지 보유할 경우 세전 만기 수익률은 10년물의 경우 약 59.3%(연평균 5.9% 수준), 20년물은 약 161.3%(연평균 8.1% 수준)에 달한다.\n\n개인투자용 국채 10년물에 1억원을 투자하면 10년 뒤 세전 약 1억5928만원을 받는다. 개인투자용 국채는 만기까지 보유 시 가산금리와 연 복리 혜택이 적용된다. 매일경제가 미래에셋증권에 의뢰한 시뮬레이션 결과에 따르면 총 3억원을 2026년부터 2035년까지 매년 3000만원씩 국채 10년물에 나눠 투자하면 2036년부터 2045년까지 매년 약 4778만원, 매월 398만원을 받는 구조를 만들 수 있다.",
+   "press": "매일경제",
+   "photo": "04.jpg"
+  },
+  {
+   "title": "이하늘 \"민주당 누가 나와도 한동훈한테 안 될 걸\"…한동훈 \"팬입니다\" 화답",
+   "source": "파이낸셜뉴스",
+   "url": "https://n.news.naver.com/article/014/0005574908",
+   "published_at": "2026-09-13T16:35:15+09:00",
    "section_id": "100",
    "view_rank": 1,
-   "comment_count": 383,
-   "comment_agree": 186,
-   "comment_disagree": 27,
-   "division_balance": 0.253521,
-   "division_score": 1.360388,
+   "comment_count": 283,
+   "comment_agree": 209,
+   "comment_disagree": 43,
+   "division_balance": 0.34127,
+   "division_score": 1.888379,
    "selection": "찬반 쟁점",
-   "summary": "투표용지 부족 사태로 촉발된 올림픽공원 봉쇄 시위 현장에서 '성조기 여성', '올다르크'라는 별명을 얻은 오자연 씨가 황교안 전 국무총리가 이끄는 자유와혁신의 최고위원…",
-   "summary_long": "투표용지 부족 사태로 촉발된 올림픽공원 봉쇄 시위 현장에서 '성조기 여성', '올다르크(올림픽공원+잔다르크)'라는 별명을 얻은 오자연 씨가 황교안 전 국무총리가 이끄는 자유와혁신의 최고위원 후보로 나섰습니다. 자유와혁신이 그제(10일) 유튜브 채널 '황교안TV'를 통해 생중계한 최고위원 선거 후보자 기호 추첨 행사에서 오 씨는 후보로 참석해 기호 5번을 뽑았습니다. 이 자리에서 오 씨는 본인을 '올다르크'라는 별명으로 소개했습니다.\n\n그는 \"자유와혁신은 저와 아젠다가 완전히 일치하는 올바른 정당이자, 제가 법적 리스크를 짊어지고 있을 때 저를 도와준 고마운 정당\"이라고 최고위원 후보로 나선 배경을 설명했습니다. 오 씨는 지난 6월 올림픽공원 핸드볼경기장 봉쇄 시위 당시 2-1 게이트 앞에서 성조기를 몸에 두른 채 체육 단체 관계자들의 진입을 막은 혐의로 검찰에 송치됐습니다. 그는 최고위원 후보자 주요 경력에 '올다르크 대표'를 기재한 것으로 알려졌습니다.",
+   "summary": "한동훈 무소속 의원을 민주당 인사로는 상대하기 어렵다는 DJ DOC 이하늘의 발언에 한 의원이 직접 화답했다. 그는 \"지금 민주당 쪽에 김민석 당대표든 송영길이든 누가…",
+   "summary_long": "한동훈 무소속 의원을 민주당 인사로는 상대하기 어렵다는 DJ DOC 이하늘의 발언에 한 의원이 직접 화답했다. 이하늘은 13일 자신의 유튜브에 올린 영상에서 야권 인사들의 정치적 경쟁력을 평가하며 정국에 대한 개인 생각을 털어놨다. 그는 \"지금 민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸\"이라고 말했다.\n\n한동훈을 두고 이하늘은 이렇게도 말했다. 영상이 퍼지자 한 의원은 자신의 페이스북에 이하늘 발언 장면이 담긴 캡처 사진을 올리며 바로 반응했다. 한 의원은 이하늘이 속한 그룹 DJ DOC의 대표곡 'Dance with DOC'를 배경음악으로 건 뒤 \"팬입니다 ㅎ.",
    "quotes": [
-    "자유와혁신은 저와 아젠다가 완전히 일치하는 올바른 정당이자, 제가 법적 리스크를 짊어지고 있을 때 저를 도와준 고마운 정당"
+    "그동안 한동훈 내가 엄청 놀렸는데 내가 그동안 맨날 뚜껑 뚜껑…그러면서 놀렸는데 나중에 한동훈이 되면 나 X될 거 같아",
+    "지금 민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸"
    ],
-   "press": "MBN",
-   "photo": "06.png",
+   "press": "파이낸셜뉴스",
+   "photo": "05.jpg",
    "quoted": {
-    "quote": "자유와혁신은 저와 아젠다가 완전히 일치하는 올바른 정당이자, 제가 법적 리스크를 짊어지고 있을 때 저를 도와준 고마운 정당",
+    "quote": "그동안 한동훈 내가 엄청 놀렸는데 내가 그동안 맨날 뚜껑 뚜껑…그러면서 놀렸는데 나중에 한동훈이 되면 나 X될 거 같아",
     "n": 5,
     "verified": 0,
     "items": [
      {
-      "press": "한국일보",
-      "title": "베일 벗은 94년생 '올다르크'…황교안 정당 최고위원 출마",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rSDdQVjV5Tm13NVVibW80X2VyTV9iRmtlbUMxTzdQSjk3cV8wV0ZtMTlyZmFHM1I0SEJ4MnRCYXlfTnJDR0lPYXR4QTZKWG5OTDRuOFA2dTlFTWxWcWVWQUt2em9xR290LXVlRkJR0gFzQVVfeXFMUHhZOWVOZmNQZW9haHRQSWZFMHJycnBqZEo2dl9Icy1nWXZKbnlFVS1UeEhINUkzRG1fbnFiUHZvUjkzOEdQQ1BJWS1mbmQwRThlaE13OEM0bzhQSGNnVF9YdW1TSUpTM3ctYldJMElVNnRsYw?oc=5"
+      "press": "주간경향",
+      "title": "이하늘 “‘뚜껑 뚜껑’ 놀렸는데”···한동훈 “팬입니다 ㅎ”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wdHNlSnBuNUxQOGtZZ0FaNlVvUk8tTXg1UHMyVUdGWURYcnhUWEhGWGNJLUFtdmJadHN6aFBGS2tibWxUN0d5SXRTSkV0LWdzLUduU1JuWndFRGFnN1E?oc=5"
      },
      {
-      "press": "뉴스1",
-      "title": "'올다르크' 오자연, 얼굴·실명 공개…자유와 혁신 최고위원 출마",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYbk83dnBJU1FDVUJmdEVNV21lbE5zdE4xTnZ1M1l5VTFrWFl3XzVHOEZPZksyZlI1QngtdlBMQXg1NWRzQ0NLZzEtNzhKN3lTTndhay1obFc2dTZHQTJZ0gFfQVVfeXFMUFhuTzd2cElTUUNVQmZ0RU1XbWVsTnN0TjFOdnUzWXlVMWtYWXdfNUc4Rk9mSzJmUjVCeC12UExBeDU1ZHNDQ0tnMS03OEo3eVNOd2FrLWhsVzZ1NkdBMlk?oc=5"
+      "press": "한국경제",
+      "title": "이하늘 \"민주당 누구든 한동훈 못 이겨\"…韓 \"팬입니다 ㅎ\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43SlNtOU9zang3cThTQnJoNnM2bDZqSzNaM2Fwd2U2Nk11OE5EREI2dUNCb0U2dGRZUVJ1cE00c3hxWUN0N0dEWjB1R25fNkpEeG9zRnJJYmxKQQ?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "이하늘 \"민주당 누가 나와도 한동훈한테 안 될 걸\"…한동훈 \"팬입니다\" 화답",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBPVElUVEVNZk82N3hSMXNtREpXeFlDLWN0VTVnZW1TZWZDeW9tSE05cktySDU5Y212NUY2UUVHaWt3UlVSWXc?oc=5"
+     },
+     {
+      "press": "데일리안",
+      "title": "\"민주당 누구든 한동훈한테 안 돼, 나 X될 듯\" 이하늘 발언에 한동훈 반응",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORHp4aldfVUc2NjJKbGpxLXJDU0VicGY3TVZ6RHNkelNsaWtWWGkxZ1JuUWRaM0VxR2daTDdBWnBMQjNCTy05MlJwdXUySzJTUkxwdTk1X2w0MTBpYi13XzlhTFZjWTFLbHBOWXVnVlAtc242aFA5Ukw2dWdlVnVFSlVLS0dHY1Flb2UxbE45d3M3Q2NwVFRfd3F2U0xVajRQVWo5V2ZkdXcyLXYwNGR0dHVlSEVjdUpnY2JKWEJOWWFnQVk5UlE2Z0p1ZGdDMDVMb1JaTF9pM0htdHI5eE1KQXp3NHZESXQ1c3pTWC14WjlrTnBFclY2UTZwTEhkWGpuV2hV?oc=5"
      },
      {
       "press": "네이트",
-      "title": "얼굴·실명 공개한 '올다르크'···황교안 정당 최고위원 출마한다",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13b2laMGQwZlNtdkd6Mi1pOG9ZU3V2RzE5ZGFROFdCZEVPdHFXVW9tU3hyWnh4azk1ZHRoWEJmMThzTjNJOEV4UlFwRUxYMzRQRGxB?oc=5"
-     },
-     {
-      "press": "supple.kr",
-      "title": "올림픽공원 시위 ‘성조기 여성’, 황교안당 최고위원 후보로",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qTkhmSWFTZllWWkVucVkxamR3OHA1LXg0RGU0Q3hsWVJ3VlAta1dTNkc1MmZtYTBrWVpDNENPRnU2TFV6bi1uUm8yUjUyM3JGWjViWnZsanBJLWJB?oc=5"
-     },
-     {
-      "press": "네이트",
-      "title": "'올공' 문 막던 '그 여성'…'황교안당' 최고위원 후보 나왔다",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KaTc1TzdiZm8xaUFrbDNSdV96RFBhY3JLOEN4SFlZQ1g3ZFM4eTN1b2FOZldRTGgxb2FPdkUwRVhTVlVNYTI2cUNTaWEtZjdmWWc0?oc=5"
+      "title": "이하늘 \"민주당 누구든 한동훈 못이겨, 나 X될 듯\"…韓 \"팬입니다, 화이팅\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRQmhFSlM4NjU1NG0yRjBIbENnaFVvZ1BxeGVpSGc1VXZUVmRoQnVxeXpFb2x3TGJiU2NyWG5VbjQ2Q19PX3RFV1AxeXN2aU0zaWJv?oc=5"
      }
     ]
    }
   },
   {
-   "title": "23년 전 노무현 때보다 더 어렵다...이 대통령 결단에 '촉각'",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002406169",
-   "published_at": "2026-09-12T16:19:07+09:00",
+   "title": "[단독]檢, 김승원 수사 초기부터 이재명·대장동 조준…문건 입수",
+   "source": "노컷뉴스",
+   "url": "https://n.news.naver.com/article/079/0004188664",
+   "published_at": "2026-09-13T05:01:35+09:00",
    "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 251,
-   "comment_agree": 176,
-   "comment_disagree": 24,
-   "division_balance": 0.24,
-   "division_score": 1.272793,
+   "view_rank": 2,
+   "comment_count": 465,
+   "comment_agree": 306,
+   "comment_disagree": 43,
+   "division_balance": 0.246418,
+   "division_score": 1.443502,
    "selection": "찬반 쟁점",
-   "summary": "호르무즈 해협 파병 문제를 둘러싼 이재명 대통령의 고심이 깊어지고 있습니다. 지난 2003년 노무현 전 대통령의 이라크 파병 결정 때보다 훨씬 복잡한 변수들이 얽혀 있기…",
-   "summary_long": "호르무즈 해협 파병 문제를 둘러싼 이재명 대통령의 고심이 깊어지고 있습니다. 지난 2003년 노무현 전 대통령의 이라크 파병 결정 때보다 훨씬 복잡한 변수들이 얽혀 있기 때문인데, 이 대통령의 결단에 이목이 쏠리고 있습니다. 호르무즈 해협 파병 여건 파악을 위해 중동 현지 조사에 나섰던 국방부 실사단은 지난 10일 귀국했습니다.\n\n이재명 대통령은 실사단 보고를 토대로, 조만간 국가안전보장회의 NSC에서 파병 여부를 큰 틀에서 결정할 것으로 보입니다. 지난 2003년, 노무현 전 대통령의 이라크 파병 때와 비슷한 결단의 순간을 앞두게 된 겁니다. 당시에도 반대 여론이 컸고 미국의 파병 요구도 거셌는데, 노 전 대통령은 북핵 위기란 현실 속 한미동맹을 고려해 결국 파병을 결정했습니다.",
-   "press": "YTN",
-   "photo": "07.jpg"
+   "summary": "검찰이 김승원 법무부 장관 후보자의 '식약처 로비 의혹' 수사 초기 단계부터 이재명 당시 더불어민주당 대표 및 대장동 개발 의혹과의 연결 고리를 집중적으로 파악한 사실이…",
+   "summary_long": "검찰이 김승원 법무부 장관 후보자의 '식약처 로비 의혹' 수사 초기 단계부터 이재명 당시 더불어민주당 대표 및 대장동 개발 의혹과의 연결 고리를 집중적으로 파악한 사실이 확인됐다. 김 후보자가 법정에서 \"담당 검사가 '김승원 국회의원 옷을 꼭 벗기겠다'고 했다는 말을 들었다\"는 취지로 증언한 사실도 파악됐다. 13일 CBS노컷뉴스가 확보한 서울서부지검의 2022년 11월 28일자 수사보고서에는 김 후보자의 정치적 이력과 대장동 사건 관련 인맥이 상세히 담겼다.\n\n김 후보자는 강세찬 제넨셀 대표와 브로커 양모씨 재판에 증인으로 출석해, 담당 검사가 \"김승원 국회의원 옷을 꼭 벗기겠다\"고 했다는 말을 들었다고 증언했다. 김 후보자는 \"최근 수사 기록을 보고 이 사실을 알았다. 반부패 전담 부서와 검사 10여명을 투입한 수사는 결국 김 후보자를 재판에 넘기지 않는 것으로 마무리됐다.",
+   "quotes": [
+    "최근 수사 기록을 보고 이 사실을 알았다. 너무 터무니없는 것으로 수사가 시작돼 깜짝 놀랐다",
+    "담당 검사가 '김승원 국회의원 옷을 꼭 벗기겠다'고 했다는 말을 들었다",
+    "식약부(식품의약범죄조사부)와 식약처의 업무상 긴밀성을 고려한 조처"
+   ],
+   "press": "노컷뉴스",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "담당 검사가 '김승원 국회의원 옷을 꼭 벗기겠다'고 했다는 말을 들었다",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "다음뉴스",
+      "title": "[단독]檢, 김승원 수사 초기부터 이재명·대장동 조준…문건 입수",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8yTjQwWFFONlhFOXlidnRIdjFwenFoUzZ3S2FydEd6SmkwZi1WTk9FellBQWhTQWNVcWpCeVpDQTI3TzdWSkE?oc=5"
+     },
+     {
+      "press": "세상을 바꾸는 시민언론 민들레",
+      "title": "'김승원 게이트' 아니라 '한동훈 사건'?",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53OU1TT01wd1hjRXVyemRrSFp4WDg0LWExVXAxNkd4ZU4zaGRkVTUzQ1JlN1F5TTNDNjE2MW5mb1MzbC1GT0VBOWc1bTR0OVZQSW9oZ0ExS2R3eWIyOTVFTWlWZF9GdlEtbWFhUw?oc=5"
+     },
+     {
+      "press": "세상을 바꾸는 시민언론 민들레",
+      "title": "식약처 수사라더니…검찰보고서 \"김승원은 친이재명계\" |",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RNFRjQTZQcURPS3U3U2RyZVdaaW54b0RLa3ZOTm5nME43eW1rUEh6VnNWM3pSWFdUbnQ2bXVVSjNIY21RQmZIQ0NrMjFpUEUyYlFIc1VNbzRpb25zMFlmeXBZaFZoTlU0SWNYb2MtdjU?oc=5"
+     },
+     {
+      "press": "미디어오늘",
+      "title": "與 “김승원 수사 초기부터 李 엮으려” 한동훈 “누가 듣보잡을 표적으로?” |",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByY051RTVlanJJZzdjdW5aZnJxU090QUEwcU1yOUZsZTZSNllZdGZMdWJGd0NkeFZxRF96eEpUOHh3eFRRWHZzaERfejM5bVhqTHNWZldLMHp1eTNjTVMwbFZxZm14SDFxVTlGdDlrcUZxLUVJ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "용혜인 성평등부 장관 후보자 14일 만에 자진 사퇴‥\"여당서 결단 의사 전달받아\"",
+   "source": "MBC",
+   "url": "https://n.news.naver.com/article/214/0001523626",
+   "published_at": "2026-09-13T11:37:29+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "comment_count": 1063,
+   "comment_agree": 204,
+   "comment_disagree": 31,
+   "division_balance": 0.26383,
+   "division_score": 1.441522,
+   "selection": "찬반 쟁점",
+   "summary": "용혜인 성평등가족부 장관 후보자가 '의원·장관 겸직' 등에 대한 논란 끝에 후보직에서 자진 사퇴했습니다. 용 후보자는 오늘 오전 국회 소통관에서 기자회견을 열고 \"…",
+   "summary_long": "용혜인 성평등가족부 장관 후보자가 '의원·장관 겸직' 등에 대한 논란 끝에 후보직에서 자진 사퇴했습니다. 용 후보자는 오늘 오전 국회 소통관에서 기자회견을 열고 \"(민주당으로부터) 비례대표 의원과 장관 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 결단해 달라는 의사를 전달받았다\"면서 \"여당도 우려를 표하는데 직 수행은 현실적으로 어렵다고 판단했다\"고 설명했습니다. 다만 그동안 제기된 논란과 의혹에 대해서는 \"떳떳하지 않은 것이 없기에, 국민 앞에 하나하나 소명하고 싶었다\"면서 \"인사청문회를 통해 남은 의혹들 역시 해소해 나가겠다라는 입장에는 지금도 변함이 없다\"고 밝혔습니다.",
+   "quotes": [
+    "(민주당으로부터) 비례대표 의원과 장관 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 결단해 달라는 의사를 전달받았다",
+    "인사청문회를 통해 남은 의혹들 역시 해소해 나가겠다라는 입장에는 지금도 변함이 없다",
+    "떳떳하지 않은 것이 없기에, 국민 앞에 하나하나 소명하고 싶었다"
+   ],
+   "press": "MBC",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "(민주당으로부터) 비례대표 의원과 장관 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 결단해 달라는 의사를 전달받았다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "MBC 뉴스",
+      "title": "용혜인 성평등부 장관 후보자 14일 만에 자진 사퇴‥\"여당서 결단 의사 전달받아\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tbFVJelFVUWZtM2dobGJZdGlpYWdhcTNXN3czSmpWaDgwSzQ3T091WHBhamRBbTB2c28wcFJ3LUxZQ3ZMc0VYazlsem1IbWIwSXR3TTVCZV94Uy1pY1hEN2d4eFFHN0pmN3A1cXZBaFNMcGNkMVhWTNIBeEFVX3lxTE9QLWxoY1FBSUZ4M3JtTlFJNC10UjktQkdTX0FFQ3ZtRXYwbVp4cjhSMXhSdW9BTjNNckYzZUtOUHNDbjRJY1AyUlU5Nk1peDEya3paaVlQQWtJWXNzNUp2MEJHTXI3amRiNmFFOWZlUXZBNEF0aUZjbg?oc=5"
+     },
+     {
+      "press": "매일신문",
+      "title": "김현철 \"용혜인 더 버텼으면 민주당 정권 망하는 데 기여\"",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uME0yNURQblF5dGFfQ0Y2RFlrdTRpdzlKTHFCWHc2aVU3TlFLVW5sT01iOG0td2V3S3NzZzgzRVdJLVVsVTFSaXJCYkd0X29NaEhBdlduS1l3UGtZLUNlM3pn?oc=5"
+     },
+     {
+      "press": "MBC 뉴스",
+      "title": "용혜인 성평등가족부 장관 후보자 자진 사퇴",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HQWdVOHdlLWJaakt5aUdHVzBDeThYOE9rWGU5eDNaMVJYOW9oWEZMT21XTi1UbHBpRFJKNXBJakRyczMzc1BYb1RnRlpvejhjZVhWdjdQaUtTYTE3Q2ozcENmcGN0UDBGRlpLV0MxQ1FadGlTRnN1RNIBeEFVX3lxTFA1Znc0aXBEdGRFRHNpd0xjZUhRXzlMZFB4STl1VjNoWnhCdFUwTlZ5Xzh4cy04MFlPemE3WEgzeEFzWTBERjlRbkVmSF9tXzdIUHhmVTdPMlduSEg0blFRSFhWYjdLMTV1aS1Hck53VXo5aUNQUVRGVg?oc=5"
+     }
+    ]
+   }
   }
  ],
  "cards": [
@@ -280,139 +287,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/01.png",
-   "pngBytes": 2083806,
-   "feed": "오늘의 뉴스 2026-09-13\n\n· 개표소 지키겠다며 출입 막은 30대 여성…황교안 정당 최고위원 출마\n· 與, '용혜인 논란' 두고 \"청년 여론 좌시 못해\"…김승원 논란엔 \"한동훈 뇌피셜\"\n· “아이들 구하려고 바다에 들어갔다가”…진도서 엄마·아들 참변\n· \"순찰차 빼달라\" 요구한 시민 패대기 치고 뒷수갑 채운 강원 경찰\n· 추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판\n· '올공' 문 막던 '그 여성'…'황교안당' 최고위원 후보 나왔다\n· 23년 전 노무현 때보다 더 어렵다...이 대통령 결단에 '촉각'"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/01.png",
+   "pngBytes": 1778514,
+   "feed": "오늘의 뉴스 2026-09-14\n\n· \"용혜인에 들끓는 청년 여론 좌시 못 해\"...오늘 고위당정 주목\n· 용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)\n· '삼전닉스' 개미 13조 매도에도…SK하이닉스 8% 상승한 이유는\n· “월급 끊겨도 매달 400만원 들어옵니다”...은퇴 앞둔 직장인이 알아야 할 자산\n· 이하늘 \"민주당 누가 나와도 한동훈한테 안 될 걸\"…한동훈 \"팬입니다\" 화답\n· [단독]檢, 김승원 수사 초기부터 이재명·대장동 조준…문건 입수\n· 용혜인 성평등부 장관 후보자 14일 만에 자진 사퇴‥\"여당서 결단 의사 전달받아\""
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/02.png",
-   "pngBytes": 2077215,
-   "title": "개표소 지키겠다며 출입 막은 30대 여성…황교안 정당 최고위원 출마",
-   "summary": "자유와혁신 최고위원 후보 기호 5번 등록. 서울 송파구 올림픽공원 일대에서 개표소를 지키겠다며 대한체육회 관계자 등의 출입을 막아 업무방해 혐의로 송치된 30대 여성이…",
-   "summary_long": "“법적 리스크 때 도와준 고마운 정당” 서울 송파구 올림픽공원 일대에서 개표소를 지키겠다며 대한체육회 관계자 등의 출입을 막아 업무방해 혐의로 송치된 30대 여성이 황교안 전 국무총리가 만든 정당 ‘자유와혁신’의 최고위원 후보로 나섰다. 지난 7월 16일 서울 송파구 올림픽공원 개표소 봉쇄 시위 현장에서 체육단체 관계자들의 진입을 막고 있는 30대 여성 오자연 씨.\n\n12일 정치권에 따르면 오자연씨는 최근 유튜브 채널 ‘황교안TV’를 통해 생중계된 제2회 자유와혁신 전당대회 선출직 최고위원 선거 후보자 기호 추첨 행사에 참석했다. 자유와혁신 홈페이지에는 오 씨가 최고위원 후보 기호 5번으로 등록돼 있다. 오 씨는 자신의 유튜브 채널에서도 최고위원 선거 기호 5번으로 출마한 사실을 알렸다.",
-   "press": "조선비즈",
-   "source": "조선비즈",
-   "link": "https://n.news.naver.com/article/366/0001191924",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/02.png",
+   "pngBytes": 1785943,
+   "title": "\"용혜인에 들끓는 청년 여론 좌시 못 해\"...오늘 고위당정 주목",
+   "summary": "용혜인 성평등가족부 장관 후보자를 둘러싼 논란이 이어지는 가운데, 민주당 내부에서도 거취를 정리해야 한다는 목소리가 커지고 있습니다. 당 지도부의 메시지도 확연히…",
+   "summary_long": "용혜인 성평등가족부 장관 후보자를 둘러싼 논란이 이어지는 가운데, 민주당 내부에서도 거취를 정리해야 한다는 목소리가 커지고 있습니다. 당 지도부의 메시지도 확연히 달라졌는데, 오늘(13일) 열리는 고위 당정 협의가 용 후보자의 거취를 가를 분기점이 될지 주목됩니다. 청와대가 거듭 인사청문회를 지켜보겠다는 입장을 밝히자, 야권의 공세 수위는 더욱 높아졌습니다.\n\n용혜인 후보자는 청년 세대가 가장 민감해 하는 공정과 상식을 정면으로 위반했다며, 임명을 강행한다면 국민 눈높이에 대한 정면 도전이 될 것이라고 날을 세웠습니다. [박성훈 / 국민의힘 수석대변인 : 이쯤 되면 이재명 대통령과 청와대가 용혜인 후보자에게 무슨 약점이라도 잡힌 거 아닌지 되묻지 않을 수 없습니다.]. 앞서 용 후보자 논란과 거리를 두던 민주당 지도부는 주말을 앞두고 공식적인 우려를 드러냈고,.",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002406265",
    "selection": "정치",
-   "feed": "뉴스 01. 개표소 지키겠다며 출입 막은 30대 여성…황교안 정당 최고위원 출마\n\n“법적 리스크 때 도와준 고마운 정당” 서울 송파구 올림픽공원 일대에서 개표소를 지키겠다며 대한체육회 관계자 등의 출입을 막아 업무방해 혐의로 송치된 30대 여성이 황교안 전 국무총리가 만든 정당 ‘자유와혁신’의 최고위원 후보로 나섰다. 지난 7월 16일 서울 송파구 올림픽공원 개표소 봉쇄 시위 현장에서 체육단체 관계자들의 진입을 막고 있는 30대 여성 오자연 씨.\n\n12일 정치권에 따르면 오자연씨는 최근 유튜브 채널 ‘황교안TV’를 통해 생중계된 제2회 자유와혁신 전당대회 선출직 최고위원 선거 후보자 기호 추첨 행사에 참석했다. 자유와혁신 홈페이지에는 오 씨가 최고위원 후보 기호 5번으로 등록돼 있다. 오 씨는 자신의 유튜브 채널에서도 최고위원 선거 기호 5번으로 출마한 사실을 알렸다.\n\n출처: 조선비즈 / https://n.news.naver.com/article/366/0001191924"
+   "feed": "뉴스 01. \"용혜인에 들끓는 청년 여론 좌시 못 해\"...오늘 고위당정 주목\n\n용혜인 성평등가족부 장관 후보자를 둘러싼 논란이 이어지는 가운데, 민주당 내부에서도 거취를 정리해야 한다는 목소리가 커지고 있습니다. 당 지도부의 메시지도 확연히 달라졌는데, 오늘(13일) 열리는 고위 당정 협의가 용 후보자의 거취를 가를 분기점이 될지 주목됩니다. 청와대가 거듭 인사청문회를 지켜보겠다는 입장을 밝히자, 야권의 공세 수위는 더욱 높아졌습니다.\n\n용혜인 후보자는 청년 세대가 가장 민감해 하는 공정과 상식을 정면으로 위반했다며, 임명을 강행한다면 국민 눈높이에 대한 정면 도전이 될 것이라고 날을 세웠습니다. [박성훈 / 국민의힘 수석대변인 : 이쯤 되면 이재명 대통령과 청와대가 용혜인 후보자에게 무슨 약점이라도 잡힌 거 아닌지 되묻지 않을 수 없습니다.]. 앞서 용 후보자 논란과 거리를 두던 민주당 지도부는 주말을 앞두고 공식적인 우려를 드러냈고,.\n\n출처: YTN / https://n.news.naver.com/article/052/0002406265"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/03.png",
-   "pngBytes": 1899243,
-   "title": "與, '용혜인 논란' 두고 \"청년 여론 좌시 못해\"…김승원 논란엔 \"한동훈 뇌피셜\"",
-   "summary": "용 후보자에 대해선 \"청년 세대의 여론이 들끓고 있다\"며 대책의 필요성을 강조하는 반면 김 후보자와 관련해선 공세를 주도하고 있는 한동훈 무소속 의원에 대해 비판하며…",
-   "summary_long": "용혜인 성평등가족부 장관 후보자와 김승원 법무부 장관 후보자를 둘러싼 각종 의혹과 논란이 잇따르는 가운데 두 인사에 대한 더불어민주당의 반응은 온도차를 보인다. 용 후보자에 대해선 \"청년 세대의 여론이 들끓고 있다\"며 대책의 필요성을 강조하는 반면 김 후보자와 관련해선 공세를 주도하고 있는 한동훈 무소속 의원에 대해 비판하며 방어에 나선 모습이다. 조계원 민주당 대변인은 12일 국회 브리핑 후 취재진과 만나 용 후보자와 관련해 \"국민 눈높이에서 심각하게 지켜보고 있다\"면서 \"이 사안으로 청년 세대의 여론이 들끓고 있고, 이런 부분들을 마냥 좌시할 수 없다.\n\n조 대변인은 '당내에서 용 후보자 거취를 조기에 정리해야 한다는 기류가 계속 나온다'는 질문엔 \"당내 여러 기류가 있는 것으로 알고 있다\"며 \"이와 관련해 지도부 입장이 나올 수 있지 않겠는가\"라고 답변했다. 또한 오는 13일 고위 당정 협의회에서 용 후보자 문제를 논의할지에 대해서도 \"논의가 될 수 있을 것 같다\"면서 \"국민 눈높이에서 제대로 점검하고 대응 방안도 논의할 것 같다\"고 가능성을 열어뒀다. 반면 조 대변인은 김승원 후보자의 제넨셀 신약 임상실험 승인 로비 의혹과 연결된 주가조작 의혹에 대해선 공세를 주도 중인 한동훈 의원을 거명하며 \"한동훈 뇌피셜(자기만의 생각)\"이라고 반박했다.",
-   "press": "시사저널",
-   "source": "시사저널",
-   "link": "https://n.news.naver.com/article/586/0000138056",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/03.png",
+   "pngBytes": 1736389,
+   "title": "용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)",
+   "summary": "용혜인 성평등가족부 장관 후보자 기자회견. 박경준 = 용혜인 성평등가족부 장관 후보자가 13일 후보직에서 자진 사퇴했다.",
+   "summary_long": "용혜인 성평등가족부 장관 후보자 기자회견. 박경준 = 용혜인 성평등가족부 장관 후보자가 13일 후보직에서 자진 사퇴했다. 이재명 대통령이 성평등부 장관 후보자로 지명한 지 14일 만이다.\n\n현역 의원이 장관 후보자에 지명됐다가 낙마한 것은 역시 성평등부 장관 후보자로 지명됐다가 자진해 사퇴한 강선우 전 더불어민주당 의원에 이어 두 번째다. 용 후보자는 \"이재명 정부의 성평등부 장관 후보자로서 모두를 위한 성평등 사회를 만들어 내고자 했던 결심과 함께 장관 후보직을 오늘로써 내려놓고자 한다\"고 말했다. 용 후보자는 장관 후보자로 지명된 이후 비례대표 의원 겸직 논란 등이 불거지며 야당뿐만 아니라 여당 일각에서도 사퇴 압박을 받아 왔다.",
+   "press": "연합뉴스",
+   "source": "연합뉴스",
+   "link": "https://n.news.naver.com/article/001/0016306694",
    "selection": "정치",
-   "feed": "뉴스 02. 與, '용혜인 논란' 두고 \"청년 여론 좌시 못해\"…김승원 논란엔 \"한동훈 뇌피셜\"\n\n용혜인 성평등가족부 장관 후보자와 김승원 법무부 장관 후보자를 둘러싼 각종 의혹과 논란이 잇따르는 가운데 두 인사에 대한 더불어민주당의 반응은 온도차를 보인다. 용 후보자에 대해선 \"청년 세대의 여론이 들끓고 있다\"며 대책의 필요성을 강조하는 반면 김 후보자와 관련해선 공세를 주도하고 있는 한동훈 무소속 의원에 대해 비판하며 방어에 나선 모습이다. 조계원 민주당 대변인은 12일 국회 브리핑 후 취재진과 만나 용 후보자와 관련해 \"국민 눈높이에서 심각하게 지켜보고 있다\"면서 \"이 사안으로 청년 세대의 여론이 들끓고 있고, 이런 부분들을 마냥 좌시할 수 없다.\n\n조 대변인은 '당내에서 용 후보자 거취를 조기에 정리해야 한다는 기류가 계속 나온다'는 질문엔 \"당내 여러 기류가 있는 것으로 알고 있다\"며 \"이와 관련해 지도부 입장이 나올 수 있지 않겠는가\"라고 답변했다. 또한 오는 13일 고위 당정 협의회에서 용 후보자 문제를 논의할지에 대해서도 \"논의가 될 수 있을 것 같다\"면서 \"국민 눈높이에서 제대로 점검하고 대응 방안도 논의할 것 같다\"고 가능성을 열어뒀다. 반면 조 대변인은 김승원 후보자의 제넨셀 신약 임상실험 승인 로비 의혹과 연결된 주가조작 의혹에 대해선 공세를 주도 중인 한동훈 의원을 거명하며 \"한동훈 뇌피셜(자기만의 생각)\"이라고 반박했다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000138056"
+   "feed": "뉴스 02. 용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)\n\n용혜인 성평등가족부 장관 후보자 기자회견. 박경준 = 용혜인 성평등가족부 장관 후보자가 13일 후보직에서 자진 사퇴했다. 이재명 대통령이 성평등부 장관 후보자로 지명한 지 14일 만이다.\n\n현역 의원이 장관 후보자에 지명됐다가 낙마한 것은 역시 성평등부 장관 후보자로 지명됐다가 자진해 사퇴한 강선우 전 더불어민주당 의원에 이어 두 번째다. 용 후보자는 \"이재명 정부의 성평등부 장관 후보자로서 모두를 위한 성평등 사회를 만들어 내고자 했던 결심과 함께 장관 후보직을 오늘로써 내려놓고자 한다\"고 말했다. 용 후보자는 장관 후보자로 지명된 이후 비례대표 의원 겸직 논란 등이 불거지며 야당뿐만 아니라 여당 일각에서도 사퇴 압박을 받아 왔다.\n\n출처: 연합뉴스 / https://n.news.naver.com/article/001/0016306694"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/04.png",
-   "pngBytes": 1764991,
-   "title": "“아이들 구하려고 바다에 들어갔다가”…진도서 엄마·아들 참변",
-   "summary": "전남 진도 해상에서 물놀이를 하던 일가족 4명이 물에 빠진 뒤 마와 어린 아들이 숨지는 사고가 발생했다. 해경은 일가족이 물놀이를 하던 중 썰물에 휬쓸려 사고를 당한…",
-   "summary_long": "물놀이하던 3남매 구하려 바다에 들어가...해경, 사고 경위 조사 중. 전남 진도 해상에서 물놀이를 하던 일가족 4명이 물에 빠진 뒤 마와 어린 아들이 숨지는 사고가 발생했다. 12일 해경과 소방당국에 따르면 이날 오후 1시 51분께 전남광주 진도군 의신면 신비의 바닷길 인근 해안에서 물놀이를 하던 가족들이 물에 빠졌다는 신고가 접수됐다.\n\n이 사고로 어머니 A씨(40대)와 3세 아들이 심정지 상태로 구조돼 응급 처치를 받으며 인근 병원으로 긴급 이송됐으나 숨을 거뒀다. 함께 물에 빠진 8세 아들은 양식장 밧줄을 붙잡고 버티던 중 구조됐으나 저체온증 증상을 보여 인근 병원에서 치료를 받고 있다. 해경은 일가족이 물놀이를 하던 중 썰물에 휬쓸려 사고를 당한 것으로 보도 정확한 사고 경위를 조사 중이다.",
-   "press": "경기일보",
-   "source": "경기일보",
-   "link": "https://n.news.naver.com/article/666/0000123066",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/04.png",
+   "pngBytes": 2323007,
+   "title": "'삼전닉스' 개미 13조 매도에도…SK하이닉스 8% 상승한 이유는",
+   "summary": "외국인 이탈에도 반도체주에 대한 투자를 이어오던 개인 투자자들이 이달 들어 삼성전자와 SK하이닉스를 매도하기 시작했다. 13일 한국거래소에 따르면 이달 들어 지난…",
+   "summary_long": "외국인 이탈에도 반도체주에 대한 투자를 이어오던 개인 투자자들이 이달 들어 삼성전자와 SK하이닉스를 매도하기 시작했다. 13일 한국거래소에 따르면 이달 들어 지난 11일까지 개인 투자자들은 삼성전자를 5조 2120억 원, SK하이닉스를 7조 8180억 원 각각 순매도했다. 개인 투자자들은 지난 5월부터 지난달까지 4개월 연속 삼성전자와 SK하이닉스를 순매수하며 주가 하단을 지지해왔다.\n\n외국인은 지난 5월 이후 5개월 연속 두 종목을 순매도하고 있으며, 이달 들어 11일까지 삼성전자와 SK하이닉스를 각각 1조 9600억 원씩 순매도했다. 삼성전자와 SK하이닉스의 자사주 매입 영향으로 최근 주요 수급 주체로 부상한 기타법인은 이달 들어 삼성전자를 4조 6580억 원, SK하이닉스를 9조 8900억 원 각각 순매수했다. 이달 들어 11일까지 삼성전자 주가는 0.19% 하락한 반면, SK하이닉스는 8.24% 상승했다.",
+   "press": "부산일보",
+   "source": "부산일보",
+   "link": "https://n.news.naver.com/article/082/0001398006",
    "selection": "경제·시사",
-   "feed": "뉴스 03. “아이들 구하려고 바다에 들어갔다가”…진도서 엄마·아들 참변\n\n물놀이하던 3남매 구하려 바다에 들어가...해경, 사고 경위 조사 중. 전남 진도 해상에서 물놀이를 하던 일가족 4명이 물에 빠진 뒤 마와 어린 아들이 숨지는 사고가 발생했다. 12일 해경과 소방당국에 따르면 이날 오후 1시 51분께 전남광주 진도군 의신면 신비의 바닷길 인근 해안에서 물놀이를 하던 가족들이 물에 빠졌다는 신고가 접수됐다.\n\n이 사고로 어머니 A씨(40대)와 3세 아들이 심정지 상태로 구조돼 응급 처치를 받으며 인근 병원으로 긴급 이송됐으나 숨을 거뒀다. 함께 물에 빠진 8세 아들은 양식장 밧줄을 붙잡고 버티던 중 구조됐으나 저체온증 증상을 보여 인근 병원에서 치료를 받고 있다. 해경은 일가족이 물놀이를 하던 중 썰물에 휬쓸려 사고를 당한 것으로 보도 정확한 사고 경위를 조사 중이다.\n\n출처: 경기일보 / https://n.news.naver.com/article/666/0000123066"
+   "feed": "뉴스 03. '삼전닉스' 개미 13조 매도에도…SK하이닉스 8% 상승한 이유는\n\n외국인 이탈에도 반도체주에 대한 투자를 이어오던 개인 투자자들이 이달 들어 삼성전자와 SK하이닉스를 매도하기 시작했다. 13일 한국거래소에 따르면 이달 들어 지난 11일까지 개인 투자자들은 삼성전자를 5조 2120억 원, SK하이닉스를 7조 8180억 원 각각 순매도했다. 개인 투자자들은 지난 5월부터 지난달까지 4개월 연속 삼성전자와 SK하이닉스를 순매수하며 주가 하단을 지지해왔다.\n\n외국인은 지난 5월 이후 5개월 연속 두 종목을 순매도하고 있으며, 이달 들어 11일까지 삼성전자와 SK하이닉스를 각각 1조 9600억 원씩 순매도했다. 삼성전자와 SK하이닉스의 자사주 매입 영향으로 최근 주요 수급 주체로 부상한 기타법인은 이달 들어 삼성전자를 4조 6580억 원, SK하이닉스를 9조 8900억 원 각각 순매수했다. 이달 들어 11일까지 삼성전자 주가는 0.19% 하락한 반면, SK하이닉스는 8.24% 상승했다.\n\n출처: 부산일보 / https://n.news.naver.com/article/082/0001398006"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/05.png",
-   "pngBytes": 1492555,
-   "title": "\"순찰차 빼달라\" 요구한 시민 패대기 치고 뒷수갑 채운 강원 경찰",
-   "summary": "그에 따르면 지난달 18일 중앙선을 침범했던 덤프트럭 한 대가 계량소 안으로 들어왔고 이를 쫓아 경찰 암행순찰차도 들어왔습니다. 덤프트럭이 계량소 바닥에 설치된 저울…",
-   "summary_long": "그에 따르면 지난달 18일 중앙선을 침범했던 덤프트럭 한 대가 계량소 안으로 들어왔고 이를 쫓아 경찰 암행순찰차도 들어왔습니다. 덤프트럭이 계량소 바닥에 설치된 저울 위에 멈춰섰고 순찰차가 그 앞을 가로막아 세운게 화근이 됐습니다. 그는 이 과정에서 수갑 한쪽이 거꾸로 채워지며, 손목에 흉터도 남았다고 설명했습니다.\n\n그러나 경찰 측 설명은 다릅니다. 강원경찰청 관계자는 덤프트럭 단속으로 계량소 진입 때부터 영업을 방해할 상황이 아니었다는 입장을 밝혔습니다. 제작진은 경찰의 주장을 확인하기 위해 당시 상황이 담겨 있는 블랙박스 및 보디캠 영상의 제공을 요청했으나 수사 중인 사안이라는 이유로 거부당했습니다.",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000510783",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/05.png",
+   "pngBytes": 2183762,
+   "title": "“월급 끊겨도 매달 400만원 들어옵니다”...은퇴 앞둔 직장인이 알아야 할 자산",
+   "summary": "이달 발행되는 개인투자용 국채를 만기까지 보유할 경우 세전 만기 수익률은 10년물의 경우 약 59.3%, 20년물은 약 161.3%에 달한다. 개인투자용 국채 10년물에…",
+   "summary_long": "9월부터 확정기여(DC)형 퇴직연금 및 개인형 퇴직연금(IRP) 계좌를 통한 ‘개인투자용 국채’ 매입이 본격 허용되면서 은퇴를 앞둔 직장인과 자산가들 사이에서 ‘채권 사다리(풍차 돌리기)’ 투자 전략이 주목받고 있다. 퇴직연금 계좌(DC·IRP)에서는 장기 자금 운용에 적합한 국채 10년물과 20년물을 매입할 수 있다. 이달 발행되는 개인투자용 국채를 만기까지 보유할 경우 세전 만기 수익률은 10년물의 경우 약 59.3%(연평균 5.9% 수준), 20년물은 약 161.3%(연평균 8.1% 수준)에 달한다.\n\n개인투자용 국채 10년물에 1억원을 투자하면 10년 뒤 세전 약 1억5928만원을 받는다. 개인투자용 국채는 만기까지 보유 시 가산금리와 연 복리 혜택이 적용된다. 매일경제가 미래에셋증권에 의뢰한 시뮬레이션 결과에 따르면 총 3억원을 2026년부터 2035년까지 매년 3000만원씩 국채 10년물에 나눠 투자하면 2036년부터 2045년까지 매년 약 4778만원, 매월 398만원을 받는 구조를 만들 수 있다.",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005734488",
    "selection": "경제·시사",
-   "feed": "뉴스 04. \"순찰차 빼달라\" 요구한 시민 패대기 치고 뒷수갑 채운 강원 경찰\n\n그에 따르면 지난달 18일 중앙선을 침범했던 덤프트럭 한 대가 계량소 안으로 들어왔고 이를 쫓아 경찰 암행순찰차도 들어왔습니다. 덤프트럭이 계량소 바닥에 설치된 저울 위에 멈춰섰고 순찰차가 그 앞을 가로막아 세운게 화근이 됐습니다. 그는 이 과정에서 수갑 한쪽이 거꾸로 채워지며, 손목에 흉터도 남았다고 설명했습니다.\n\n그러나 경찰 측 설명은 다릅니다. 강원경찰청 관계자는 덤프트럭 단속으로 계량소 진입 때부터 영업을 방해할 상황이 아니었다는 입장을 밝혔습니다. 제작진은 경찰의 주장을 확인하기 위해 당시 상황이 담겨 있는 블랙박스 및 보디캠 영상의 제공을 요청했으나 수사 중인 사안이라는 이유로 거부당했습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000510783"
+   "feed": "뉴스 04. “월급 끊겨도 매달 400만원 들어옵니다”...은퇴 앞둔 직장인이 알아야 할 자산\n\n9월부터 확정기여(DC)형 퇴직연금 및 개인형 퇴직연금(IRP) 계좌를 통한 ‘개인투자용 국채’ 매입이 본격 허용되면서 은퇴를 앞둔 직장인과 자산가들 사이에서 ‘채권 사다리(풍차 돌리기)’ 투자 전략이 주목받고 있다. 퇴직연금 계좌(DC·IRP)에서는 장기 자금 운용에 적합한 국채 10년물과 20년물을 매입할 수 있다. 이달 발행되는 개인투자용 국채를 만기까지 보유할 경우 세전 만기 수익률은 10년물의 경우 약 59.3%(연평균 5.9% 수준), 20년물은 약 161.3%(연평균 8.1% 수준)에 달한다.\n\n개인투자용 국채 10년물에 1억원을 투자하면 10년 뒤 세전 약 1억5928만원을 받는다. 개인투자용 국채는 만기까지 보유 시 가산금리와 연 복리 혜택이 적용된다. 매일경제가 미래에셋증권에 의뢰한 시뮬레이션 결과에 따르면 총 3억원을 2026년부터 2035년까지 매년 3000만원씩 국채 10년물에 나눠 투자하면 2036년부터 2045년까지 매년 약 4778만원, 매월 398만원을 받는 구조를 만들 수 있다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005734488"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/06.png",
-   "pngBytes": 1758991,
-   "title": "추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판",
-   "summary": "추미애 경기도지사가 검찰 개혁 문제 등과 관련해 이재명 대통령을 겨냥해 작심 발언을 쏟아냈습니다. 추 지사는 \"민생을 옥죄는, 가로막는 검찰 세력이 모든 권력, 수사권을…",
-   "summary_long": "추미애 경기도지사가 검찰 개혁 문제 등과 관련해 이재명 대통령을 겨냥해 작심 발언을 쏟아냈습니다. 추 지사는 남양주시 모란공원 민주열사묘역에서 열린 '2026년 경기도 민주화운동희생자 추모제'에 참석해 준비한 원고 없이 \"민주화는 현재진행형\"이라며 본인의 생각을 가감 없이 밝혔습니다. 추 지사는 \"민생을 옥죄는, 가로막는 검찰 세력이 모든 권력, 수사권을 쥐고 기소권과 영장청구권을 쥐고 허위자백을 이용하고 증인을 회유하고 진술세미나를 벌리고 술파티를 벌여서 사건을 왜곡하는데 그 모순을 해결하지 않고 어떻게 민주화가 되겠냐\"고 발언을 시작했습니다.\n\n추 지사는 \"사람들이 힘을 모아서 내란을 극복하고 선거 민주주의를 일으켜 세웠으며 내란세력이 훔쳐 갈 뻔했던 헌법 질서를 돌려세웠다\"며 \"그렇다면 대통령은 이들 세력을 징벌해야 하는데 왜 이들 세력에게 업혀서 전전긍긍하는 것인가, 왜 민주영령들을 과거처럼 취급하는 것인가\"라고 직격했습니다. 추 지사는 \"저는 오늘 이 자리를 경기도지사로서 온 것이 아니고 이 시대를 살아가는 한 양심으로써 이 자리에 섰으며 소임을 다하지 못해 무척 송구함을 영령들께 고백하지 않을 수 없다\"며 발언을 마쳤습니다. 김지용 중수청장 후보 지명에 대해서는 김학의 출국금지 사건 수사라인 이력 등을 언급하며 \"왜곡의 왜곡을 능사로 한 사람을 수사 잘해야 하는 자리에 앉힌다는 것은 모순의 극치\"라고 비판한 바 있습니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001523574",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/06.png",
+   "pngBytes": 1932306,
+   "title": "이하늘 \"민주당 누가 나와도 한동훈한테 안 될 걸\"…한동훈 \"팬입니다\" 화답",
+   "summary": "한동훈 무소속 의원을 민주당 인사로는 상대하기 어렵다는 DJ DOC 이하늘의 발언에 한 의원이 직접 화답했다. 그는 \"지금 민주당 쪽에 김민석 당대표든 송영길이든 누가…",
+   "summary_long": "한동훈 무소속 의원을 민주당 인사로는 상대하기 어렵다는 DJ DOC 이하늘의 발언에 한 의원이 직접 화답했다. 이하늘은 13일 자신의 유튜브에 올린 영상에서 야권 인사들의 정치적 경쟁력을 평가하며 정국에 대한 개인 생각을 털어놨다. 그는 \"지금 민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸\"이라고 말했다.\n\n한동훈을 두고 이하늘은 이렇게도 말했다. 영상이 퍼지자 한 의원은 자신의 페이스북에 이하늘 발언 장면이 담긴 캡처 사진을 올리며 바로 반응했다. 한 의원은 이하늘이 속한 그룹 DJ DOC의 대표곡 'Dance with DOC'를 배경음악으로 건 뒤 \"팬입니다 ㅎ.",
+   "press": "파이낸셜뉴스",
+   "source": "파이낸셜뉴스",
+   "link": "https://n.news.naver.com/article/014/0005574908",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판\n\n추미애 경기도지사가 검찰 개혁 문제 등과 관련해 이재명 대통령을 겨냥해 작심 발언을 쏟아냈습니다. 추 지사는 남양주시 모란공원 민주열사묘역에서 열린 '2026년 경기도 민주화운동희생자 추모제'에 참석해 준비한 원고 없이 \"민주화는 현재진행형\"이라며 본인의 생각을 가감 없이 밝혔습니다. 추 지사는 \"민생을 옥죄는, 가로막는 검찰 세력이 모든 권력, 수사권을 쥐고 기소권과 영장청구권을 쥐고 허위자백을 이용하고 증인을 회유하고 진술세미나를 벌리고 술파티를 벌여서 사건을 왜곡하는데 그 모순을 해결하지 않고 어떻게 민주화가 되겠냐\"고 발언을 시작했습니다.\n\n추 지사는 \"사람들이 힘을 모아서 내란을 극복하고 선거 민주주의를 일으켜 세웠으며 내란세력이 훔쳐 갈 뻔했던 헌법 질서를 돌려세웠다\"며 \"그렇다면 대통령은 이들 세력을 징벌해야 하는데 왜 이들 세력에게 업혀서 전전긍긍하는 것인가, 왜 민주영령들을 과거처럼 취급하는 것인가\"라고 직격했습니다. 추 지사는 \"저는 오늘 이 자리를 경기도지사로서 온 것이 아니고 이 시대를 살아가는 한 양심으로써 이 자리에 섰으며 소임을 다하지 못해 무척 송구함을 영령들께 고백하지 않을 수 없다\"며 발언을 마쳤습니다. 김지용 중수청장 후보 지명에 대해서는 김학의 출국금지 사건 수사라인 이력 등을 언급하며 \"왜곡의 왜곡을 능사로 한 사람을 수사 잘해야 하는 자리에 앉힌다는 것은 모순의 극치\"라고 비판한 바 있습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001523574"
+   "feed": "뉴스 05. 이하늘 \"민주당 누가 나와도 한동훈한테 안 될 걸\"…한동훈 \"팬입니다\" 화답\n\n한동훈 무소속 의원을 민주당 인사로는 상대하기 어렵다는 DJ DOC 이하늘의 발언에 한 의원이 직접 화답했다. 이하늘은 13일 자신의 유튜브에 올린 영상에서 야권 인사들의 정치적 경쟁력을 평가하며 정국에 대한 개인 생각을 털어놨다. 그는 \"지금 민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸\"이라고 말했다.\n\n한동훈을 두고 이하늘은 이렇게도 말했다. 영상이 퍼지자 한 의원은 자신의 페이스북에 이하늘 발언 장면이 담긴 캡처 사진을 올리며 바로 반응했다. 한 의원은 이하늘이 속한 그룹 DJ DOC의 대표곡 'Dance with DOC'를 배경음악으로 건 뒤 \"팬입니다 ㅎ.\n\n출처: 파이낸셜뉴스 / https://n.news.naver.com/article/014/0005574908"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/07.png",
-   "pngBytes": 2003707,
-   "title": "'올공' 문 막던 '그 여성'…'황교안당' 최고위원 후보 나왔다",
-   "summary": "투표용지 부족 사태로 촉발된 올림픽공원 봉쇄 시위 현장에서 '성조기 여성', '올다르크'라는 별명을 얻은 오자연 씨가 황교안 전 국무총리가 이끄는 자유와혁신의 최고위원…",
-   "summary_long": "투표용지 부족 사태로 촉발된 올림픽공원 봉쇄 시위 현장에서 '성조기 여성', '올다르크(올림픽공원+잔다르크)'라는 별명을 얻은 오자연 씨가 황교안 전 국무총리가 이끄는 자유와혁신의 최고위원 후보로 나섰습니다. 자유와혁신이 그제(10일) 유튜브 채널 '황교안TV'를 통해 생중계한 최고위원 선거 후보자 기호 추첨 행사에서 오 씨는 후보로 참석해 기호 5번을 뽑았습니다. 이 자리에서 오 씨는 본인을 '올다르크'라는 별명으로 소개했습니다.\n\n그는 \"자유와혁신은 저와 아젠다가 완전히 일치하는 올바른 정당이자, 제가 법적 리스크를 짊어지고 있을 때 저를 도와준 고마운 정당\"이라고 최고위원 후보로 나선 배경을 설명했습니다. 오 씨는 지난 6월 올림픽공원 핸드볼경기장 봉쇄 시위 당시 2-1 게이트 앞에서 성조기를 몸에 두른 채 체육 단체 관계자들의 진입을 막은 혐의로 검찰에 송치됐습니다. 그는 최고위원 후보자 주요 경력에 '올다르크 대표'를 기재한 것으로 알려졌습니다.",
-   "press": "MBN",
-   "source": "MBN",
-   "link": "https://n.news.naver.com/article/057/0001968651",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/07.png",
+   "pngBytes": 2106232,
+   "title": "[단독]檢, 김승원 수사 초기부터 이재명·대장동 조준…문건 입수",
+   "summary": "검찰이 김승원 법무부 장관 후보자의 '식약처 로비 의혹' 수사 초기 단계부터 이재명 당시 더불어민주당 대표 및 대장동 개발 의혹과의 연결 고리를 집중적으로 파악한 사실이…",
+   "summary_long": "검찰이 김승원 법무부 장관 후보자의 '식약처 로비 의혹' 수사 초기 단계부터 이재명 당시 더불어민주당 대표 및 대장동 개발 의혹과의 연결 고리를 집중적으로 파악한 사실이 확인됐다. 김 후보자가 법정에서 \"담당 검사가 '김승원 국회의원 옷을 꼭 벗기겠다'고 했다는 말을 들었다\"는 취지로 증언한 사실도 파악됐다. 13일 CBS노컷뉴스가 확보한 서울서부지검의 2022년 11월 28일자 수사보고서에는 김 후보자의 정치적 이력과 대장동 사건 관련 인맥이 상세히 담겼다.\n\n김 후보자는 강세찬 제넨셀 대표와 브로커 양모씨 재판에 증인으로 출석해, 담당 검사가 \"김승원 국회의원 옷을 꼭 벗기겠다\"고 했다는 말을 들었다고 증언했다. 김 후보자는 \"최근 수사 기록을 보고 이 사실을 알았다. 반부패 전담 부서와 검사 10여명을 투입한 수사는 결국 김 후보자를 재판에 넘기지 않는 것으로 마무리됐다.",
+   "press": "노컷뉴스",
+   "source": "노컷뉴스",
+   "link": "https://n.news.naver.com/article/079/0004188664",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. '올공' 문 막던 '그 여성'…'황교안당' 최고위원 후보 나왔다\n\n투표용지 부족 사태로 촉발된 올림픽공원 봉쇄 시위 현장에서 '성조기 여성', '올다르크(올림픽공원+잔다르크)'라는 별명을 얻은 오자연 씨가 황교안 전 국무총리가 이끄는 자유와혁신의 최고위원 후보로 나섰습니다. 자유와혁신이 그제(10일) 유튜브 채널 '황교안TV'를 통해 생중계한 최고위원 선거 후보자 기호 추첨 행사에서 오 씨는 후보로 참석해 기호 5번을 뽑았습니다. 이 자리에서 오 씨는 본인을 '올다르크'라는 별명으로 소개했습니다.\n\n그는 \"자유와혁신은 저와 아젠다가 완전히 일치하는 올바른 정당이자, 제가 법적 리스크를 짊어지고 있을 때 저를 도와준 고마운 정당\"이라고 최고위원 후보로 나선 배경을 설명했습니다. 오 씨는 지난 6월 올림픽공원 핸드볼경기장 봉쇄 시위 당시 2-1 게이트 앞에서 성조기를 몸에 두른 채 체육 단체 관계자들의 진입을 막은 혐의로 검찰에 송치됐습니다. 그는 최고위원 후보자 주요 경력에 '올다르크 대표'를 기재한 것으로 알려졌습니다.\n\n출처: MBN / https://n.news.naver.com/article/057/0001968651"
+   "feed": "뉴스 06. [단독]檢, 김승원 수사 초기부터 이재명·대장동 조준…문건 입수\n\n검찰이 김승원 법무부 장관 후보자의 '식약처 로비 의혹' 수사 초기 단계부터 이재명 당시 더불어민주당 대표 및 대장동 개발 의혹과의 연결 고리를 집중적으로 파악한 사실이 확인됐다. 김 후보자가 법정에서 \"담당 검사가 '김승원 국회의원 옷을 꼭 벗기겠다'고 했다는 말을 들었다\"는 취지로 증언한 사실도 파악됐다. 13일 CBS노컷뉴스가 확보한 서울서부지검의 2022년 11월 28일자 수사보고서에는 김 후보자의 정치적 이력과 대장동 사건 관련 인맥이 상세히 담겼다.\n\n김 후보자는 강세찬 제넨셀 대표와 브로커 양모씨 재판에 증인으로 출석해, 담당 검사가 \"김승원 국회의원 옷을 꼭 벗기겠다\"고 했다는 말을 들었다고 증언했다. 김 후보자는 \"최근 수사 기록을 보고 이 사실을 알았다. 반부패 전담 부서와 검사 10여명을 투입한 수사는 결국 김 후보자를 재판에 넘기지 않는 것으로 마무리됐다.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004188664"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/08.png",
-   "pngBytes": 1741569,
-   "title": "23년 전 노무현 때보다 더 어렵다...이 대통령 결단에 '촉각'",
-   "summary": "호르무즈 해협 파병 문제를 둘러싼 이재명 대통령의 고심이 깊어지고 있습니다. 지난 2003년 노무현 전 대통령의 이라크 파병 결정 때보다 훨씬 복잡한 변수들이 얽혀 있기…",
-   "summary_long": "호르무즈 해협 파병 문제를 둘러싼 이재명 대통령의 고심이 깊어지고 있습니다. 지난 2003년 노무현 전 대통령의 이라크 파병 결정 때보다 훨씬 복잡한 변수들이 얽혀 있기 때문인데, 이 대통령의 결단에 이목이 쏠리고 있습니다. 호르무즈 해협 파병 여건 파악을 위해 중동 현지 조사에 나섰던 국방부 실사단은 지난 10일 귀국했습니다.\n\n이재명 대통령은 실사단 보고를 토대로, 조만간 국가안전보장회의 NSC에서 파병 여부를 큰 틀에서 결정할 것으로 보입니다. 지난 2003년, 노무현 전 대통령의 이라크 파병 때와 비슷한 결단의 순간을 앞두게 된 겁니다. 당시에도 반대 여론이 컸고 미국의 파병 요구도 거셌는데, 노 전 대통령은 북핵 위기란 현실 속 한미동맹을 고려해 결국 파병을 결정했습니다.",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002406169",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/08.png",
+   "pngBytes": 1783983,
+   "title": "용혜인 성평등부 장관 후보자 14일 만에 자진 사퇴‥\"여당서 결단 의사 전달받아\"",
+   "summary": "용혜인 성평등가족부 장관 후보자가 '의원·장관 겸직' 등에 대한 논란 끝에 후보직에서 자진 사퇴했습니다. 용 후보자는 오늘 오전 국회 소통관에서 기자회견을 열고 \"…",
+   "summary_long": "용혜인 성평등가족부 장관 후보자가 '의원·장관 겸직' 등에 대한 논란 끝에 후보직에서 자진 사퇴했습니다. 용 후보자는 오늘 오전 국회 소통관에서 기자회견을 열고 \"(민주당으로부터) 비례대표 의원과 장관 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 결단해 달라는 의사를 전달받았다\"면서 \"여당도 우려를 표하는데 직 수행은 현실적으로 어렵다고 판단했다\"고 설명했습니다. 다만 그동안 제기된 논란과 의혹에 대해서는 \"떳떳하지 않은 것이 없기에, 국민 앞에 하나하나 소명하고 싶었다\"면서 \"인사청문회를 통해 남은 의혹들 역시 해소해 나가겠다라는 입장에는 지금도 변함이 없다\"고 밝혔습니다.",
+   "press": "MBC",
+   "source": "MBC",
+   "link": "https://n.news.naver.com/article/214/0001523626",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 23년 전 노무현 때보다 더 어렵다...이 대통령 결단에 '촉각'\n\n호르무즈 해협 파병 문제를 둘러싼 이재명 대통령의 고심이 깊어지고 있습니다. 지난 2003년 노무현 전 대통령의 이라크 파병 결정 때보다 훨씬 복잡한 변수들이 얽혀 있기 때문인데, 이 대통령의 결단에 이목이 쏠리고 있습니다. 호르무즈 해협 파병 여건 파악을 위해 중동 현지 조사에 나섰던 국방부 실사단은 지난 10일 귀국했습니다.\n\n이재명 대통령은 실사단 보고를 토대로, 조만간 국가안전보장회의 NSC에서 파병 여부를 큰 틀에서 결정할 것으로 보입니다. 지난 2003년, 노무현 전 대통령의 이라크 파병 때와 비슷한 결단의 순간을 앞두게 된 겁니다. 당시에도 반대 여론이 컸고 미국의 파병 요구도 거셌는데, 노 전 대통령은 북핵 위기란 현실 속 한미동맹을 고려해 결국 파병을 결정했습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002406169"
+   "feed": "뉴스 07. 용혜인 성평등부 장관 후보자 14일 만에 자진 사퇴‥\"여당서 결단 의사 전달받아\"\n\n용혜인 성평등가족부 장관 후보자가 '의원·장관 겸직' 등에 대한 논란 끝에 후보직에서 자진 사퇴했습니다. 용 후보자는 오늘 오전 국회 소통관에서 기자회견을 열고 \"(민주당으로부터) 비례대표 의원과 장관 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 결단해 달라는 의사를 전달받았다\"면서 \"여당도 우려를 표하는데 직 수행은 현실적으로 어렵다고 판단했다\"고 설명했습니다. 다만 그동안 제기된 논란과 의혹에 대해서는 \"떳떳하지 않은 것이 없기에, 국민 앞에 하나하나 소명하고 싶었다\"면서 \"인사청문회를 통해 남은 의혹들 역시 해소해 나가겠다라는 입장에는 지금도 변함이 없다\"고 밝혔습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001523626"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-13/09.png",
-   "pngBytes": 1346406
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/09.png",
+   "pngBytes": 1346030
   }
  ],
- "caption": "📰 9월 13일 오늘의 뉴스\n\n1. 개표소 지키겠다며 출입 막은 30대 여성…황교안 정당 최고위원 출마\n   자유와혁신 최고위원 후보 기호 5번 등록. 서울 송파구 올림픽공원 일대에서 개표소를 지키겠다며 대한체육회 관계자 등의 출입을 막아 업무방해 혐의로 송치된 30대 여성이…\n2. 與, '용혜인 논란' 두고 \"청년 여론 좌시 못해\"…김승원 논란엔 \"한동훈 뇌피셜\"\n   용 후보자에 대해선 \"청년 세대의 여론이 들끓고 있다\"며 대책의 필요성을 강조하는 반면 김 후보자와 관련해선 공세를 주도하고 있는 한동훈 무소속 의원에 대해 비판하며…\n3. “아이들 구하려고 바다에 들어갔다가”…진도서 엄마·아들 참변\n   전남 진도 해상에서 물놀이를 하던 일가족 4명이 물에 빠진 뒤 마와 어린 아들이 숨지는 사고가 발생했다. 해경은 일가족이 물놀이를 하던 중 썰물에 휬쓸려 사고를 당한…\n4. \"순찰차 빼달라\" 요구한 시민 패대기 치고 뒷수갑 채운 강원 경찰\n   그에 따르면 지난달 18일 중앙선을 침범했던 덤프트럭 한 대가 계량소 안으로 들어왔고 이를 쫓아 경찰 암행순찰차도 들어왔습니다. 덤프트럭이 계량소 바닥에 설치된 저울…\n5. 추미애, 이 대통령 향해 \"왜 내란세력에 전전긍긍하나\" 작심 비판\n   추미애 경기도지사가 검찰 개혁 문제 등과 관련해 이재명 대통령을 겨냥해 작심 발언을 쏟아냈습니다. 추 지사는 \"민생을 옥죄는, 가로막는 검찰 세력이 모든 권력, 수사권을…\n6. '올공' 문 막던 '그 여성'…'황교안당' 최고위원 후보 나왔다\n   투표용지 부족 사태로 촉발된 올림픽공원 봉쇄 시위 현장에서 '성조기 여성', '올다르크'라는 별명을 얻은 오자연 씨가 황교안 전 국무총리가 이끄는 자유와혁신의 최고위원…\n7. 23년 전 노무현 때보다 더 어렵다...이 대통령 결단에 '촉각'\n   호르무즈 해협 파병 문제를 둘러싼 이재명 대통령의 고심이 깊어지고 있습니다. 지난 2003년 노무현 전 대통령의 이라크 파병 결정 때보다 훨씬 복잡한 변수들이 얽혀 있기…\n\n🗣 “제가 법적 리스크를 짊어지고 있을 때 저를 도와준 고마운 정당”\n이 발언을 그대로 실은 보도 10건 · 조선비즈 · 다음뉴스 · 한국일보 · 뉴시스\n· 조선비즈 — 개표소 지키겠다며 출입 막은 30대 여성…황교안 정당 최고위원 출마 - 조선비즈\n· 다음뉴스 — 마스크 벗은 '올다르크'…'황교안당' 최고위원 후보 나왔다\n· 한국일보 — 베일 벗은 94년생 '올다르크'…황교안 정당 최고위원 출마\n· 뉴시스 — '올다르크', 얼굴·실명 공개…황교안 자유와혁신 최고위원 출마\n· 뉴스1 — '올다르크' 오자연, 얼굴·실명 공개…자유와 혁신 최고위원 출마\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, MBC, MBN, YTN, 경기일보, 시사저널, 조선비즈"
+ "caption": "📰 9월 14일 오늘의 뉴스\n\n1. \"용혜인에 들끓는 청년 여론 좌시 못 해\"...오늘 고위당정 주목\n   용혜인 성평등가족부 장관 후보자를 둘러싼 논란이 이어지는 가운데, 민주당 내부에서도 거취를 정리해야 한다는 목소리가 커지고 있습니다. 당 지도부의 메시지도 확연히…\n2. 용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)\n   용혜인 성평등가족부 장관 후보자 기자회견. 박경준 = 용혜인 성평등가족부 장관 후보자가 13일 후보직에서 자진 사퇴했다.\n3. '삼전닉스' 개미 13조 매도에도…SK하이닉스 8% 상승한 이유는\n   외국인 이탈에도 반도체주에 대한 투자를 이어오던 개인 투자자들이 이달 들어 삼성전자와 SK하이닉스를 매도하기 시작했다. 13일 한국거래소에 따르면 이달 들어 지난…\n4. “월급 끊겨도 매달 400만원 들어옵니다”...은퇴 앞둔 직장인이 알아야 할 자산\n   이달 발행되는 개인투자용 국채를 만기까지 보유할 경우 세전 만기 수익률은 10년물의 경우 약 59.3%, 20년물은 약 161.3%에 달한다. 개인투자용 국채 10년물에…\n5. 이하늘 \"민주당 누가 나와도 한동훈한테 안 될 걸\"…한동훈 \"팬입니다\" 화답\n   한동훈 무소속 의원을 민주당 인사로는 상대하기 어렵다는 DJ DOC 이하늘의 발언에 한 의원이 직접 화답했다. 그는 \"지금 민주당 쪽에 김민석 당대표든 송영길이든 누가…\n6. [단독]檢, 김승원 수사 초기부터 이재명·대장동 조준…문건 입수\n   검찰이 김승원 법무부 장관 후보자의 '식약처 로비 의혹' 수사 초기 단계부터 이재명 당시 더불어민주당 대표 및 대장동 개발 의혹과의 연결 고리를 집중적으로 파악한 사실이…\n7. 용혜인 성평등부 장관 후보자 14일 만에 자진 사퇴‥\"여당서 결단 의사 전달받아\"\n   용혜인 성평등가족부 장관 후보자가 '의원·장관 겸직' 등에 대한 논란 끝에 후보직에서 자진 사퇴했습니다. 용 후보자는 오늘 오전 국회 소통관에서 기자회견을 열고 \"…\n\n🗣 “민주당으로부터 '후보자와 기본소득당이 처한 상황을 존중하지만, 비례대표 의원직과 장관직 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 후보자가 결단해 달라'는 의사를 전달받았다”\n이 발언을 그대로 실은 보도 10건 · 연합뉴스 · 머니투데이 · 국제신문 · 경향신문\n· 연합뉴스 — 용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)\n· 머니투데이 — 용혜인 장관 후보자, 2주만에 자진 사퇴…\"與 결단해달란 의사 전달 받아\" - 머니투데이\n· 국제신문 — 용혜인 성평등 장관후보 사퇴 “여당도 우려…직 수행 어렵다”(종합)\n· 경향신문 — [속보] 용혜인, 성평등가족부 장관 후보자 자진 사퇴···지명 14일 만에 낙마\n· hidomin.com — 용혜인, 사퇴 요구 거부 사흘 만에 결국 자진사퇴…\"민주당도 결단 요청\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼\n\n출처: MBC, YTN, 노컷뉴스, 매일경제, 부산일보, 연합뉴스, 파이낸셜뉴스"
 }
