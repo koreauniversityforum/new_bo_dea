@@ -1,281 +1,364 @@
 {
- "date": "2026-09-14",
- "generated_at": "2026-09-14T09:33:37+09:00",
+ "date": "2026-09-15",
+ "generated_at": "2026-09-15T10:06:12+09:00",
  "mode": "daily",
- "window_start": "2026-09-13T00:00:00+09:00",
- "window_end": "2026-09-13T23:59:59+09:00",
+ "window_start": "2026-09-14T00:00:00+09:00",
+ "window_end": "2026-09-14T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "\"용혜인에 들끓는 청년 여론 좌시 못 해\"...오늘 고위당정 주목",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002406265",
-   "published_at": "2026-09-13T04:38:47+09:00",
+   "title": "김승원 “취임하면 국민의힘 정당해산 검토…공소취소 제도 필요성 있어”",
+   "source": "채널A",
+   "url": "https://n.news.naver.com/article/449/0000360614",
+   "published_at": "2026-09-14T14:07:09+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "용혜인 성평등가족부 장관 후보자를 둘러싼 논란이 이어지는 가운데, 민주당 내부에서도 거취를 정리해야 한다는 목소리가 커지고 있습니다. 당 지도부의 메시지도 확연히…",
-   "summary_long": "용혜인 성평등가족부 장관 후보자를 둘러싼 논란이 이어지는 가운데, 민주당 내부에서도 거취를 정리해야 한다는 목소리가 커지고 있습니다. 당 지도부의 메시지도 확연히 달라졌는데, 오늘(13일) 열리는 고위 당정 협의가 용 후보자의 거취를 가를 분기점이 될지 주목됩니다. 청와대가 거듭 인사청문회를 지켜보겠다는 입장을 밝히자, 야권의 공세 수위는 더욱 높아졌습니다.\n\n용혜인 후보자는 청년 세대가 가장 민감해 하는 공정과 상식을 정면으로 위반했다며, 임명을 강행한다면 국민 눈높이에 대한 정면 도전이 될 것이라고 날을 세웠습니다. [박성훈 / 국민의힘 수석대변인 : 이쯤 되면 이재명 대통령과 청와대가 용혜인 후보자에게 무슨 약점이라도 잡힌 거 아닌지 되묻지 않을 수 없습니다.]. 앞서 용 후보자 논란과 거리를 두던 민주당 지도부는 주말을 앞두고 공식적인 우려를 드러냈고,.",
-   "press": "YTN",
-   "photo": "01.jpg"
+   "summary": "김승원 법무부 장관 후보자가 공소 취소 제도 폐지 주장에 대해 \"필요성이 있일 수 있으므로 제도 자체를 폐지하는 것은 신중히 검토할 필요가 있다\"고 밝혔습니다. 공소…",
+   "summary_long": "김승원 법무부 장관 후보자가 공소 취소 제도 폐지 주장에 대해 \"필요성이 있일 수 있으므로 제도 자체를 폐지하는 것은 신중히 검토할 필요가 있다\"고 밝혔습니다. 공소 취소 제도 자체를 폐지하는 것에 어떻느냐는 곽규택 국민의힘 의원 서면질의에 김 후보자는 \"공소 제기 후에 발생한 사정변경에 의하여 공소 유지가 불필요하거나 불가능한 경우에는 공소 취소의 필요성이 있을 수 있으므로, 제도 자체를 폐지하는 것은 각계의 의견을 수렴하여 신중히 검토할 필요가 있다고 생각… 국민의힘 정당해산 청구 여부에 대한 의견을 묻는 김용민 더불어민주당 의원은 질의에는 \"헌법재판소는 정당해산은 정당활동의 자유에 대한 근본적 제약이므로, 그 위헌성을 해결할 대안이 없고, 해산 결정으로 인한 사회적 이익이 불이익을 초과할 수 있을 경우에 가능하다고 판시한 것으로 알고 있다\"면서 \"취임하게…",
+   "quotes": [
+    "공소 제기 후에 발생한 사정변경에 의하여 공소 유지가 불필요하거나 불가능한 경우에는 공소 취소의 필요성이 있을 수 있으므로, 제도 자체를 폐지하는 것은 각계의 의견을 수렴하여 신중히 검토할 필요가 있다고 생각한다",
+    "헌법재판소는 정당해산은 정당활동의 자유에 대한 근본적 제약이므로, 그 위헌성을 해결할 대안이 없고, 해산 결정으로 인한 사회적 이익이 불이익을 초과할 수 있을 경우에 가능하다고 판시한 것으로 알고 있다",
+    "취임하게 되면 헌재 결정의 취지와 관련 사건 진행 경과를 면밀히 살펴 요건 해당 여부 등을 검토하겠다"
+   ],
+   "press": "채널A",
+   "photo": "01.jpg",
+   "quoted": {
+    "quote": "공소 제기 후에 발생한 사정변경에 의하여 공소 유지가 불필요하거나 불가능한 경우에는 공소 취소의 필요성이 있을 수 있으므로, 제도 자체를 폐지하는 것은 각계의 의견을 수렴하여 신중히 검토할 필요가 있다고 생각한다",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "채널A",
+      "title": "김승원 “취임하면 국민의힘 정당해산 검토…공소취소 제도 필요성 있어”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PeENEeXM1eVpDVUVPbzVGVHlLeUZ1RU83a2E3NGxKajN2Y2RtN1NqY2tNYklBMUZxSFhQZ3FKOUVhdkpsRDhGTC11d1lCNExfS2ZZbm50TDF0OGc5T3fSAWNBVV95cUxObS1DYWg4MjJsd1dHM3J6QVlMTTVPQjBueTBOZlZ5Y0F0Q1NSWEZJWVFzUW90bDRPaDlhWUQ2aTBDZklPRGZCQ1JWLVRwYmlOcmNreExvbm5KbTdvRkRweF9WYVk?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "김승원 “장관 되면 국힘 정당해산 요건 검토…공소취소 필요성 있어”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XaVJib05wYXFheC1RYUdsTENUMEVTREFsZk9LVEhFdFZNU3lkRngxREpiV0ZFVmx1bnBCbXlmVVpBRlR0bFhaOUtPc2tPZVk?oc=5"
+     },
+     {
+      "press": "동아일보",
+      "title": "김승원 “공소취소 제도 필요성 있어…폐지는 신중검토해야”",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lTGdOVi1jSnFabDNBLXBTZm1YV3k0QjJ1T2hRTWtfalJJMndBUzNHZXpFQjhFanE0V0FoXzJVNkJVZG1yUWtjaWI0bGNqcER0NmdHSTRCaEV6bjlOcVF5UjVkU3pvNjBJSnpGRzNYeEtzU0N4NFlR0gFmQVVfeXFMTVNPLTN0c1pTY20zUEI0RXJhWnM5eHRhQnF2Vk1mWjFHMW9Oal9xajg5UkFseS0zSldYZ0p6QmlocjNEWWRiVkp2aGFwdC1ubUo2czZoOXA2eENtaFN4c1UtRHNQNmJ3?oc=5"
+     },
+     {
+      "press": "더팩트",
+      "title": "龍 사퇴에 김승원 '최대 고비'…임명 강행도 추가 낙마도 부담",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ZmVKUndfMW81VkZIdG5IQUU2RzZGR3hXUFJnaS1FdVJsVl9qanM5SUFVbURHTFk0bXQ2MEFxcFNnV29tUGhFbWRPUVIwcE5TeVVJ0gFTQVVfeXFMTzRmZUpSd18xbzVWRkh0bkhBRTZHNkZHeFdQUmdpLUV1UmxWX2pqczlJQVVtREdMWTRtdDYwQXFwU2dXb21QaEVtZE9RUjBwTlN5VUk?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)",
-   "source": "연합뉴스",
-   "url": "https://n.news.naver.com/article/001/0016306694",
-   "published_at": "2026-09-13T12:11:17+09:00",
+   "title": "용혜인 사퇴하니 바로…기본소득당 “의원·장관 겸직 금지하자”",
+   "source": "국민일보",
+   "url": "https://n.news.naver.com/article/005/0001872764",
+   "published_at": "2026-09-14T15:04:15+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "용혜인 성평등가족부 장관 후보자 기자회견. 박경준 = 용혜인 성평등가족부 장관 후보자가 13일 후보직에서 자진 사퇴했다.",
-   "summary_long": "용혜인 성평등가족부 장관 후보자 기자회견. 박경준 = 용혜인 성평등가족부 장관 후보자가 13일 후보직에서 자진 사퇴했다. 이재명 대통령이 성평등부 장관 후보자로 지명한 지 14일 만이다.\n\n현역 의원이 장관 후보자에 지명됐다가 낙마한 것은 역시 성평등부 장관 후보자로 지명됐다가 자진해 사퇴한 강선우 전 더불어민주당 의원에 이어 두 번째다. 용 후보자는 \"이재명 정부의 성평등부 장관 후보자로서 모두를 위한 성평등 사회를 만들어 내고자 했던 결심과 함께 장관 후보직을 오늘로써 내려놓고자 한다\"고 말했다. 용 후보자는 장관 후보자로 지명된 이후 비례대표 의원 겸직 논란 등이 불거지며 야당뿐만 아니라 여당 일각에서도 사퇴 압박을 받아 왔다.",
+   "summary": "오준호 기본소득당 대표는 14일 최고위원회의에서 “이제 민주당이 연합 정치의 책임 있는 모습을 보여달라”며 “이번 일을 계기로 적어도 두 가지 정치 개혁을 함께…",
+   "summary_long": "용혜인 성평등가족부 장관 후보자가 13일 국회 소통관에서 후보직 자진 사퇴 기자회견을 마친 뒤 고개 숙여 인사하고 있다. 의원직·장관직 겸직 논란을 일으킨 용혜인 의원이 성평등가족부 장관 후보자에서 물러난 지 하루 만이다. 오준호 기본소득당 대표는 14일 최고위원회의에서 “이제 민주당이 연합 정치의 책임 있는 모습을 보여달라”며 “이번 일을 계기로 적어도 두 가지 정치 개혁을 함께 논의하자”고 밝혔다.\n\n그는 “행정부와 입법부의 상호 견제 원칙이 중요하다면 장관직을 지역구 의원에게는 허용하고 비례대표 의원만 사퇴를 요구할 이유는 없다”고 지적했다. 오 대표는 “위성 정당 없는 연합 정치를 만들기 위한 선거제도 개혁에 나서자”며 “위성 정당 발생을 막으면서 다당제 연합 정치의 대의를 살리는 핵심 과제는 비례대표 의석을 확대하고 연동성을 강화하는 것”이라고 주장했다. 그는 “연합 정치의 상대인 민주당이 국민 여론과 국정 운영의 부담을 이유로 결단을 요청하자, 그 부담을 모른 체할 수 없었다”며 “용 의원과 기본소득당은 장관 한 자리를 지키는 것보다 민주진보 진영의 신뢰와 연합 정치의 조건을 지키기로 선택했다”고 했다.",
    "quotes": [
-    "민주당으로부터 '후보자와 기본소득당이 처한 상황을 존중하지만, 비례대표 의원직과 장관직 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 후보자가 결단해 달라'는 의사를 전달받았다",
-    "떳떳하지 않은 것이 없기에 국민 앞에 하나하나 소명하고 싶어 인사청문회를 기다렸지만, 일방적으로 쏟아지는 가짜 정보와 억측 속에 국민께 진실과 제 진심을 직접 전할 수밖에 없었다",
-    "국무위원은 국회와 정부를 유기적으로 연결해 협력을 끌어내야 하므로 여당도 우려를 표하는 상황에서 그 직을 수행하는 것은 현실적으로 어렵다고 판단했다"
+    "행정부와 입법부의 상호 견제 원칙이 중요하다면 장관직을 지역구 의원에게는 허용하고 비례대표 의원만 사퇴를 요구할 이유는 없다",
+    "국민이 입법자로 선출한 사람은 국회에서 행정부를 견제하고, 국무위원으로 임명되는 의원은 의원직을 내려놓도록 원칙을 정하자",
+    "위성 정당 발생을 막으면서 다당제 연합 정치의 대의를 살리는 핵심 과제는 비례대표 의석을 확대하고 연동성을 강화하는 것"
    ],
-   "press": "연합뉴스",
+   "press": "국민일보",
    "photo": "02.jpg",
    "quoted": {
-    "quote": "민주당으로부터 '후보자와 기본소득당이 처한 상황을 존중하지만, 비례대표 의원직과 장관직 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 후보자가 결단해 달라'는 의사를 전달받았다",
+    "quote": "행정부와 입법부의 상호 견제 원칙이 중요하다면 장관직을 지역구 의원에게는 허용하고 비례대표 의원만 사퇴를 요구할 이유는 없다",
     "n": 10,
     "verified": 0,
     "items": [
      {
       "press": "연합뉴스",
-      "title": "용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JSG5SM2hhak55b2ZwWTJ1c3kwWm1MVjg3U01yMHRoMkJ6SGhfVE1UTnJKSVRlWm1oUWphUDF2QzVvYXZPaTBDQ0N5cWhicV95d25Tbm5NQ3Q0MXItQ2RSMtIBYEFVX3lxTE9JSG5SM2hhak55b2ZwWTJ1c3kwWm1MVjg3U01yMHRoMkJ6SGhfVE1UTnJKSVRlWm1oUWphUDF2QzVvYXZPaTBDQ0N5cWhicV95d25Tbm5NQ3Q0MXItQ2RSMg?oc=5"
+      "title": "기본소득당, \"국회의원의 국무위원 겸직 금지\" 법개정 논의 제안",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tWjg1bE9JOXhJZ1JVbHJVdkN3Rk54ZHByRWV4UUFJUXE1YW9KOVVhUUZWdXRlVEUwUFNKR3VzUWJEN2w5NWQ0M3NxRFU4eF9WT3A2TENJSFdGMzRsSmJnUtIBYEFVX3lxTE8tWjg1bE9JOXhJZ1JVbHJVdkN3Rk54ZHByRWV4UUFJUXE1YW9KOVVhUUZWdXRlVEUwUFNKR3VzUWJEN2w5NWQ0M3NxRFU4eF9WT3A2TENJSFdGMzRsSmJnUg?oc=5"
      },
      {
-      "press": "머니투데이",
-      "title": "용혜인 장관 후보자, 2주만에 자진 사퇴…\"與 결단해달란 의사 전달 받아\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YTWFTMDB1M21OdnBfYzV1RlFYOGtnY3JYR2tiRXNTbmh6RUJBakRJRzJPYkxUM3VIamxsaE93UTFBVGQ2cXRNU0xCQ0M3RFdHcjJwVElnemlRMWtWOWxVRWE0d0F2SlFEVXpjStIBckFVX3lxTE5iMnJkWmhLMzI5M3VWUWpnUFh4RzZhUV9kNlZlaHFUR3VrOTNnaEJ6Zi1YV01lWXJjeGltd1o5dVh4TS1ZRURFVGduZmhtYmNyX3R3cmRsY3k4OE03cFNGWjV4ZXA2blZqMWNOZnpZNTlFZw?oc=5"
+      "press": "KBC광주방송",
+      "title": "[속보]용혜인 사퇴 하루 만에…기본소득당 \"지역·비례 모두 장관 겸직 금지하자\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oaHJBa1BSQ3IwNlBpSExSWnV5X29YNmM1d3cwZW5sRUZoOVZkaWpRNWZxRzV1RmtDYU1NcTAwZVdFQmJXZm4tbU45c2JQMW9GVGQtNUktY2ZzZW55OTA1NQ?oc=5"
      },
      {
-      "press": "국제신문",
-      "title": "용혜인 성평등 장관후보 사퇴 “여당도 우려…직 수행 어렵다”(종합)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdEoyZElGUTlnNkpuckgzWlA0UTlJX2NSd3NaU2kwdDNGbTAxU1VCSS1TUDRSZlk2R3J1Y1BwQWU2bDMyZ2ducWNWTjlJdWFJZ2NJUFVSbWFYRkpUVVFnOXIzOUFfM0NjeHBLdW15ejctNnhuVUZ0ZEg5TjVrSHdPaEJUd2lIaHEtc0pPUlh3?oc=5"
+      "press": "경기일보",
+      "title": "용혜인 사퇴 하루 만에…기본소득당 “지역·비례 모두 장관 겸직 못하게 하자”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uNHBtMWZxaUlGNzRvZkxLU0lnUjZvVjJJN1hyZG9mSXZlblRacHR2RDZDT1NEd0RNWDZvc0k0WmEtU2JNSVFHSm5aa3ozU3ZjZkdta3dhc0hCLUk?oc=5"
      },
      {
-      "press": "경향신문",
-      "title": "[속보] 용혜인, 성평등가족부 장관 후보자 자진 사퇴···지명 14일 만에 낙마",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iRWhMNDRDSDA0R25NQ0REQTdfR0V1MFl4aUxOXzlOU1ZQZGFxQkgzYkd0aEo2c044VS1jWVI5MXZZSEtyREJHZDhhekV5SnRQVGhIS1dvVFd0d9IBX0FVX3lxTE1ZMTNVcTNEMDhQUUdtekRYaURhSUNveWhTRkF0Rk9HSzZSTUFYbUI0Rk84NmE2NXI0dE9HYThLWFREN29renUwaFpCMzZjYk5jdEYxSnBkZkxBdDE4V3Rv?oc=5"
+      "press": "조선일보",
+      "title": "용혜인黨, 민주당에 청구서 \"지역구·장관도 겸직 막아야\"",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeFlWcXVRNGo0LVJrOTJMZnFidW43THlNZ0lYckhENW1QUUFMOU5NZ3Yta1ZsUU5FTWxPU1ExVzQ0ekhnTkJXZFE1TjhTLWVBVTdpVmVlV19DOEs1SU5JbG42TEVJVUk2QUpDaHBUM0UxbDBXX095WE9kVTJQRFBXRHloNllxQQ?oc=5"
      },
      {
-      "press": "hidomin.com",
-      "title": "용혜인, 사퇴 요구 거부 사흘 만에 결국 자진사퇴…\"민주당도 결단 요청\"",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YQVl0a1pvcWk2b1J4TUcxQUJ6MHZ6blNlTVhfZnFEUUlfc3o0ZkU4TldRd2VtUnl1ODEzWUFjekQxcHdfZndxV044ZGoxcUlXS3pKZWF5Z1dEREtFUEJhbXd0Yk5lcTU3OVE?oc=5"
+      "press": "강원일보",
+      "title": "기본소득당, ‘용혜인 장관 낙마’ 하루 만에 민주당에 ‘국회의원의 국무위원 겸직 금지하는 국회법 개정안’ 추진 제안",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OOGMxMWozYXpWN3NjVzNRdFY1TGlaY0dNUEFWelRGSzVhZ3NpeXRUOENwN3ZnVmk1M25VTVV3Z1hLUmhpeDBiVG54OHJBT0lfLU55MENlVkJyTUU?oc=5"
      },
      {
-      "press": "한겨레",
-      "title": "버티던 용혜인, 대통령 지지율 하락속 민주 결단 촉구에 ‘백기’",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLbVVRaWVjZE4yMEIxQ0YyWXdHYjBSSjA1bUdndWFMYXNsc2FWaWp1VElMV3N0OU5xcWJ1aWYyU3o2SXFQNnFsZHN2Q0JzLVhYelFiTDAtNF9nbk83eFFLdXRVc05ETkJTQjBOaDlPNzJ2cHJ6?oc=5"
+      "press": "국민일보",
+      "title": "용혜인 사퇴하니 바로…기본소득당 “의원·장관 겸직 금지하자”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yZUZycHFac3VxdjNsOWFNbG1iMUotRlVpcWQyR29EOW40Y0hkeElnZ2psdzNzSUxnVTRXY1BET1U1T3Bib0pLSFdZMGRMWFNacVNPZHBlUk1oRW9vcVFBZGp2NldWWDhPRlVLbtIBbEFVX3lxTE0yZUZycHFac3VxdjNsOWFNbG1iMUotRlVpcWQyR29EOW40Y0hkeElnZ2psdzNzSUxnVTRXY1BET1U1T3Bib0pLSFdZMGRMWFNacVNPZHBlUk1oRW9vcVFBZGp2NldWWDhPRlVLbg?oc=5"
      }
     ]
    }
   },
   {
-   "title": "'삼전닉스' 개미 13조 매도에도…SK하이닉스 8% 상승한 이유는",
-   "source": "부산일보",
-   "url": "https://n.news.naver.com/article/082/0001398006",
-   "published_at": "2026-09-13T12:07:10+09:00",
-   "section_id": "101",
+   "title": "350번 연락, 결국 장갑 끼고 여자화장실로…28세 역무원은 그렇게 숨졌다 [오늘의 그날]",
+   "source": "서울경제",
+   "url": "https://n.news.naver.com/article/011/0004661370",
+   "published_at": "2026-09-14T00:01:07+09:00",
+   "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "외국인 이탈에도 반도체주에 대한 투자를 이어오던 개인 투자자들이 이달 들어 삼성전자와 SK하이닉스를 매도하기 시작했다. 13일 한국거래소에 따르면 이달 들어 지난…",
-   "summary_long": "외국인 이탈에도 반도체주에 대한 투자를 이어오던 개인 투자자들이 이달 들어 삼성전자와 SK하이닉스를 매도하기 시작했다. 13일 한국거래소에 따르면 이달 들어 지난 11일까지 개인 투자자들은 삼성전자를 5조 2120억 원, SK하이닉스를 7조 8180억 원 각각 순매도했다. 개인 투자자들은 지난 5월부터 지난달까지 4개월 연속 삼성전자와 SK하이닉스를 순매수하며 주가 하단을 지지해왔다.\n\n외국인은 지난 5월 이후 5개월 연속 두 종목을 순매도하고 있으며, 이달 들어 11일까지 삼성전자와 SK하이닉스를 각각 1조 9600억 원씩 순매도했다. 삼성전자와 SK하이닉스의 자사주 매입 영향으로 최근 주요 수급 주체로 부상한 기타법인은 이달 들어 삼성전자를 4조 6580억 원, SK하이닉스를 9조 8900억 원 각각 순매수했다. 이달 들어 11일까지 삼성전자 주가는 0.19% 하락한 반면, SK하이닉스는 8.24% 상승했다.",
+   "summary": "서울 지하철 2호선 신당역 여자화장실 입구 앞에서 지하철 보안관들이 순찰을 돌고 있다. 31세 전주환이 서울 지하철 2호선 신당역 여자화장실에서 입사 동기였던 28세…",
+   "summary_long": "서울 지하철 2호선 신당역 여자화장실 입구 앞에서 지하철 보안관들이 순찰을 돌고 있다. 신당역 스토킹 살인범‘ 전주환, 연합뉴스스토킹은 사랑이 아니다. 31세 전주환이 서울 지하철 2호선 신당역 여자화장실에서 입사 동기였던 28세 여성 역무원을 흉기로 찔러 숨지게 했다.\n\n전주환은 2019년 11월부터 피해자에게 전화·문자를 350여 차례 보내는 등 3년 가까이 스토킹을 이어갔다. 피해자는 2021년 10월 불법촬영 혐의로 전주환을 고소했다. 피해자의 작은아버지는 “조카는 마지막까지 할 일을 한 것”이라며 눈시울을 붉혔다.",
    "quotes": [
-    "이란, 금리 관련 불확실성이 높은 지금, 여타 부문의 매력도 하락이라는 동력으로 반도체가 상대적 강세를 보일 것",
-    "빅테크들의 AI 투자 경쟁과 D램의 타이트한 수급을 고려하면 D램 호황기는 내년에도 지속될 것"
+    "보복 범죄는 형사사법체계를 무력화하는 범죄",
+    "조카는 마지막까지 할 일을 한 것",
+    "앞으로 연락하지 않겠다"
    ],
-   "press": "부산일보",
-   "photo": "03.jpg",
+   "press": "서울경제",
+   "photo": "03.png",
    "quoted": {
-    "quote": "이란, 금리 관련 불확실성이 높은 지금, 여타 부문의 매력도 하락이라는 동력으로 반도체가 상대적 강세를 보일 것",
-    "n": 4,
+    "quote": "앞으로 연락하지 않겠다",
+    "n": 2,
     "verified": 0,
     "items": [
      {
-      "press": "연합뉴스",
-      "title": "삼전·닉스 떠나는 개미들…9월들어 5개월 만에 '팔자' 전환",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FZm1IVFg2bHh6eVVUSGJ3WjhtV185UDlqWWdFcjRHZFNGc2ZPa3NyWFhQWW9oeXlfSnFpUjE2SWlKZVh3Q0ZlcWdxTzZkYlpPUG82VEt5ZmQxZjktbUwyQ9IBYEFVX3lxTE9FZm1IVFg2bHh6eVVUSGJ3WjhtV185UDlqWWdFcjRHZFNGc2ZPa3NyWFhQWW9oeXlfSnFpUjE2SWlKZVh3Q0ZlcWdxTzZkYlpPUG82VEt5ZmQxZjktbUwyQw?oc=5"
+      "press": "서울경제",
+      "title": "350번 연락, 결국 장갑 끼고 여자화장실로…28세 역무원은 그렇게 숨졌다 [오늘의 그날]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QdnJxWXhKVzRQUVBmRkdEa0dYR01ETGFEbFdOZlZPWVEyTkRnM3N4RDB3dm5iQzNmYnUxMks4b19RRVctYjR6N2FFbEY4aEc5NEHSAVNBVV95cUxQNF9zU283amM0bW92ZWRseVIya0hoRVo4Yzl2MDJITVJLUlBLVHdacGZCS21VV0JtMExvMEpVYmxzNzFybmlBOW5ZNWRUUWxTbnRfOA?oc=5"
      },
      {
-      "press": "부산일보",
-      "title": "`삼전닉스` 개미 13조 매도에도…SK하이닉스 8% 상승한 이유는",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWDF3NDVQOEVuQ0x3VExLNmFsSFMwWVNBdmhYUUxFRUxZcVE4Tm5WY3I3V3F2MThXeldUODJ6anpUU3FPQkxpM2pMR1ZQSEhrVjBCMWxIaDhOWTQxdFhhemtOM1pKcE15Q0dSNzlhSXB2T2I0RmRYWEdzVW10aU1icF9pbHlDbHBHRWtINVN3cW5vaTVYaXdzNHpmN2M0RVVWVFhnUUF6V0FtZ2dRQkx6cC10M01TenAxYmZkUjcxNlpaMFprcjl3QlhhVkYyU2M4M185SWU2dnp3YWs?oc=5"
-     },
-     {
-      "press": "조선비즈",
-      "title": "“美 국채금리 결국 5% 뚫는다”… 고유가에 수급 부담까지 ‘겹악재’ - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmVBTEhoNXZVSWhfV3BtYl9lSWpzY1FUOFdGQksxOEdnSDhWOGUtR1hmajBJZ2o0dDBIYzFsTTFzdm9iLWZpVjFxRG14X0hqZ0NwX09fdE9iVDlmUE4xOC00c0RXVmdDWEdhRnlwS0I0TXdpUktGNUgzWGFjYnFfelBNbEp4dmlL0gGcAUFVX3lxTE5xUjlFUmo4ZW9OVWp6UDNzNjRlZ0hHbUhyWF83WjEyQV96ZkNwSTNRSzg4YmNoYXh2NVV4R1lRVkJraGhYVU93ZmZGZ1NyQmt4NVJFaUFUdkphRWszbl9qOEw5eGdIdTd2Q3hYa1hrVXFMT2JSb2pHWmI3UmNVQTE1YjhjV2RtdGYtSUFtSXNTcFVTekI1dzBlXy1UYQ?oc=5"
-     },
-     {
-      "press": "한국경제TV",
-      "title": "＂이제 어디 투자할까?＂…삼전닉스 개미들 5개월 만에 ＇팔자＇",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ud2dkQXlBejFkeTZ0a2tkUmV5aTNnRG1wVVNkaEZNYm5hTHpEQUpLeDNXdm9PVTdFOG5Ja2oteXJRNlVMR2VtSGJlbDRIYi1tbG9vQkVaXy1CMW81M3p6UkttaTJRNl9vYktldXN0elgwU25UVjFz?oc=5"
+      "press": "위키트리",
+      "title": "“다시 한 번 고인의 명복을 빈다” 이재명 대통령이 방금 올린 글, 주목받는 중",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QS0JSY0pkQnBZaEh0Ym5MWllLOENEaVdDbFVnS09UN0JkSmlGM09FSm9wQ012c2Jtck1jMEtnUFlFZkVQUnNJdnlJTmJaWmp4aDRtejF3?oc=5"
      }
     ]
    }
   },
   {
-   "title": "“월급 끊겨도 매달 400만원 들어옵니다”...은퇴 앞둔 직장인이 알아야 할 자산",
-   "source": "매일경제",
-   "url": "https://n.news.naver.com/article/009/0005734488",
-   "published_at": "2026-09-13T17:42:16+09:00",
+   "title": "[단독] “5년치 전기료 25조 선납” 한전 제안에 삼전닉스 “NO”",
+   "source": "조선일보",
+   "url": "https://n.news.naver.com/article/023/0003998260",
+   "published_at": "2026-09-14T05:01:10+09:00",
    "section_id": "101",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "이달 발행되는 개인투자용 국채를 만기까지 보유할 경우 세전 만기 수익률은 10년물의 경우 약 59.3%, 20년물은 약 161.3%에 달한다. 개인투자용 국채 10년물에…",
-   "summary_long": "9월부터 확정기여(DC)형 퇴직연금 및 개인형 퇴직연금(IRP) 계좌를 통한 ‘개인투자용 국채’ 매입이 본격 허용되면서 은퇴를 앞둔 직장인과 자산가들 사이에서 ‘채권 사다리(풍차 돌리기)’ 투자 전략이 주목받고 있다. 퇴직연금 계좌(DC·IRP)에서는 장기 자금 운용에 적합한 국채 10년물과 20년물을 매입할 수 있다. 이달 발행되는 개인투자용 국채를 만기까지 보유할 경우 세전 만기 수익률은 10년물의 경우 약 59.3%(연평균 5.9% 수준), 20년물은 약 161.3%(연평균 8.1% 수준)에 달한다.\n\n개인투자용 국채 10년물에 1억원을 투자하면 10년 뒤 세전 약 1억5928만원을 받는다. 개인투자용 국채는 만기까지 보유 시 가산금리와 연 복리 혜택이 적용된다. 매일경제가 미래에셋증권에 의뢰한 시뮬레이션 결과에 따르면 총 3억원을 2026년부터 2035년까지 매년 3000만원씩 국채 10년물에 나눠 투자하면 2036년부터 2045년까지 매년 약 4778만원, 매월 398만원을 받는 구조를 만들 수 있다.",
-   "press": "매일경제",
-   "photo": "04.jpg"
-  },
-  {
-   "title": "이하늘 \"민주당 누가 나와도 한동훈한테 안 될 걸\"…한동훈 \"팬입니다\" 화답",
-   "source": "파이낸셜뉴스",
-   "url": "https://n.news.naver.com/article/014/0005574908",
-   "published_at": "2026-09-13T16:35:15+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 283,
-   "comment_agree": 209,
-   "comment_disagree": 43,
-   "division_balance": 0.34127,
-   "division_score": 1.888379,
-   "selection": "찬반 쟁점",
-   "summary": "한동훈 무소속 의원을 민주당 인사로는 상대하기 어렵다는 DJ DOC 이하늘의 발언에 한 의원이 직접 화답했다. 그는 \"지금 민주당 쪽에 김민석 당대표든 송영길이든 누가…",
-   "summary_long": "한동훈 무소속 의원을 민주당 인사로는 상대하기 어렵다는 DJ DOC 이하늘의 발언에 한 의원이 직접 화답했다. 이하늘은 13일 자신의 유튜브에 올린 영상에서 야권 인사들의 정치적 경쟁력을 평가하며 정국에 대한 개인 생각을 털어놨다. 그는 \"지금 민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸\"이라고 말했다.\n\n한동훈을 두고 이하늘은 이렇게도 말했다. 영상이 퍼지자 한 의원은 자신의 페이스북에 이하늘 발언 장면이 담긴 캡처 사진을 올리며 바로 반응했다. 한 의원은 이하늘이 속한 그룹 DJ DOC의 대표곡 'Dance with DOC'를 배경음악으로 건 뒤 \"팬입니다 ㅎ.",
+   "summary": "한국전력이 전력망 건설에 필요한 자금 마련을 위해 삼성전자와 SK하이닉스에 제안한 ‘5년 치 전기 요금 25조원 선납’ 구상이 무산된 것으로 확인됐다. 한전은 지난 7월…",
+   "summary_long": "한국전력이 전력망 건설에 필요한 자금 마련을 위해 삼성전자와 SK하이닉스에 제안한 ‘5년 치 전기 요금 25조원 선납’ 구상이 무산된 것으로 확인됐다. 삼성전자와 SK하이닉스 모두 선납 제안을 받아들이지 않기로 하고 최근 한전에 거절 의사를 전달한 것이다. 13일 재계에 따르면, 삼성전자는 지난 9일 부사장급 인사를 통해 한전에 “전기료 선납 제안에 응하기 어렵다”는 뜻을 전했다.\n\n한전은 국회 기후에너지환경노동위원회 소속 이철규 국민의힘 의원실에 제출한 답변서에서도 “전기 요금 선납안에 대해 참여가 어렵다는 답변을 받았다”고 밝혔다. 한전은 지난 7월 9일 삼성전자와 SK하이닉스에 ‘전력망 건설 재원 확보를 위한 전기 요금 선납 제안서’를 전달했다. 지난해 납부한 전기료를 기준으로 삼성전자 약 20조원, SK하이닉스 약 5조원 등 총 25조원 규모였다.",
    "quotes": [
-    "그동안 한동훈 내가 엄청 놀렸는데 내가 그동안 맨날 뚜껑 뚜껑…그러면서 놀렸는데 나중에 한동훈이 되면 나 X될 거 같아",
-    "지금 민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸"
+    "전기 요금 선납안에 대해 참여가 어렵다는 답변을 받았다",
+    "전기료 선납 제안에 응하기 어렵다"
    ],
-   "press": "파이낸셜뉴스",
-   "photo": "05.jpg",
+   "press": "조선일보",
+   "photo": "04.jpg",
    "quoted": {
-    "quote": "그동안 한동훈 내가 엄청 놀렸는데 내가 그동안 맨날 뚜껑 뚜껑…그러면서 놀렸는데 나중에 한동훈이 되면 나 X될 거 같아",
+    "quote": "전기 요금 선납안에 대해 참여가 어렵다는 답변을 받았다",
     "n": 5,
     "verified": 0,
     "items": [
      {
-      "press": "주간경향",
-      "title": "이하늘 “‘뚜껑 뚜껑’ 놀렸는데”···한동훈 “팬입니다 ㅎ”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wdHNlSnBuNUxQOGtZZ0FaNlVvUk8tTXg1UHMyVUdGWURYcnhUWEhGWGNJLUFtdmJadHN6aFBGS2tibWxUN0d5SXRTSkV0LWdzLUduU1JuWndFRGFnN1E?oc=5"
-     },
-     {
-      "press": "한국경제",
-      "title": "이하늘 \"민주당 누구든 한동훈 못 이겨\"…韓 \"팬입니다 ㅎ\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43SlNtOU9zang3cThTQnJoNnM2bDZqSzNaM2Fwd2U2Nk11OE5EREI2dUNCb0U2dGRZUVJ1cE00c3hxWUN0N0dEWjB1R25fNkpEeG9zRnJJYmxKQQ?oc=5"
+      "press": "조선일보",
+      "title": "[단독] \"5년치 전기료 25조 선납\" 한전 제안에 삼전닉스 \"NO\"",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjhYZUkzSlFrNDlLWE1HeWV5M09wV3ZsRG1GaVh4RzJBN2piNTI3dC14QW9NaFpEOXZlYVZhSFduY1ZQaFdVUlBCM3pkR1R6UkRnMkJ2VkxFR3BGdkQ4WmtxTjlxR1paV3BuR3NSLTN3dlJYQVczc0ZHdVVIYzFTX1Z4NWp1bl9BRlFLUUxwMA?oc=5"
      },
      {
       "press": "다음뉴스",
-      "title": "이하늘 \"민주당 누가 나와도 한동훈한테 안 될 걸\"…한동훈 \"팬입니다\" 화답",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBPVElUVEVNZk82N3hSMXNtREpXeFlDLWN0VTVnZW1TZWZDeW9tSE05cktySDU5Y212NUY2UUVHaWt3UlVSWXc?oc=5"
+      "title": "삼성전자·SK하이닉스, ‘전기료 25조 선납’ 한전 제안 거절",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51cXVNN19EXzl4NFJLcV96WHlFb3lRTGhBZ21vUUZOczctaDIyUkY2LWRpQzUzRkU5OEh6UFVuZEZ0SnNfU0E?oc=5"
      },
      {
-      "press": "데일리안",
-      "title": "\"민주당 누구든 한동훈한테 안 돼, 나 X될 듯\" 이하늘 발언에 한동훈 반응",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORHp4aldfVUc2NjJKbGpxLXJDU0VicGY3TVZ6RHNkelNsaWtWWGkxZ1JuUWRaM0VxR2daTDdBWnBMQjNCTy05MlJwdXUySzJTUkxwdTk1X2w0MTBpYi13XzlhTFZjWTFLbHBOWXVnVlAtc242aFA5Ukw2dWdlVnVFSlVLS0dHY1Flb2UxbE45d3M3Q2NwVFRfd3F2U0xVajRQVWo5V2ZkdXcyLXYwNGR0dHVlSEVjdUpnY2JKWEJOWWFnQVk5UlE2Z0p1ZGdDMDVMb1JaTF9pM0htdHI5eE1KQXp3NHZESXQ1c3pTWC14WjlrTnBFclY2UTZwTEhkWGpuV2hV?oc=5"
+      "press": "뉴스핌",
+      "title": "삼성·SK하이닉스, 한전 '5년 치 전기요금 선납' 제안 거절",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtWDRuY3o1dkxFTDB3R1pvSWk2OVN2NjhaQ01WUVNPazNOcnRWWHlVaFQxRWtxclVkNTBOcjQ5ZE44WERwMHBjVHVuTmdjRkJBS0R0Z2tLdV9hYUJo?oc=5"
      },
      {
-      "press": "네이트",
-      "title": "이하늘 \"민주당 누구든 한동훈 못이겨, 나 X될 듯\"…韓 \"팬입니다, 화이팅\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRQmhFSlM4NjU1NG0yRjBIbENnaFVvZ1BxeGVpSGc1VXZUVmRoQnVxeXpFb2x3TGJiU2NyWG5VbjQ2Q19PX3RFV1AxeXN2aU0zaWJv?oc=5"
+      "press": "중소기업신문",
+      "title": "삼성전자·SK하이닉스, 한전 '전기료 25조 선납' 결국 거절",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtdFFzdU9lZ3FnSkhBTlJEdjJRbVZMZ3RGNEdVSjhVMWEzdEthdzF6MURCY2tzRjAtUlhGZF9BM1cycXVYbjFac3VWMWEwYjFVSExuLWtnWXFEQlNpOHZIWmZnemdUNU9lRGY3akVR?oc=5"
+     },
+     {
+      "press": "abcn.kr",
+      "title": "“5년치 전기료 25조원 먼저 내달라” 한전 제안, 삼성·SK 모두 거절",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Wdm9ZeFdtclZlc1A3dlpPVldSSXBWR0VrM1hBejg5VHJqQjB1aVQwLVFrZ182Rk5YblY0YjNJaHJkUnFUSHpZc2JjZU5pT2NrUkI0MkVxYTlQYUJYanUzWnhab2xrN2_SAWdBVV95cUxNVnZvWXhXbXJWZXNQN3ZaT1ZXUklwVkdFazNYQXo4OVRyakIwdWlUMC1Ra2dfNkZOWG5WNGIzSWhyZFJxVEh6WXNiY2VOaU9ja1JCNDJFcWE5UGFCWGp1M1p4Wm9sazdv?oc=5"
      }
     ]
    }
   },
   {
-   "title": "[단독]檢, 김승원 수사 초기부터 이재명·대장동 조준…문건 입수",
-   "source": "노컷뉴스",
-   "url": "https://n.news.naver.com/article/079/0004188664",
-   "published_at": "2026-09-13T05:01:35+09:00",
+   "title": "20대 여성 등 돌렸다…이 대통령 지지율 33.8% '최저' 이유",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000510996",
+   "published_at": "2026-09-14T14:46:22+09:00",
    "section_id": "100",
    "view_rank": 2,
-   "comment_count": 465,
-   "comment_agree": 306,
-   "comment_disagree": 43,
-   "division_balance": 0.246418,
-   "division_score": 1.443502,
+   "comment_count": 472,
+   "comment_agree": 201,
+   "comment_disagree": 44,
+   "division_balance": 0.359184,
+   "division_score": 1.977425,
    "selection": "찬반 쟁점",
-   "summary": "검찰이 김승원 법무부 장관 후보자의 '식약처 로비 의혹' 수사 초기 단계부터 이재명 당시 더불어민주당 대표 및 대장동 개발 의혹과의 연결 고리를 집중적으로 파악한 사실이…",
-   "summary_long": "검찰이 김승원 법무부 장관 후보자의 '식약처 로비 의혹' 수사 초기 단계부터 이재명 당시 더불어민주당 대표 및 대장동 개발 의혹과의 연결 고리를 집중적으로 파악한 사실이 확인됐다. 김 후보자가 법정에서 \"담당 검사가 '김승원 국회의원 옷을 꼭 벗기겠다'고 했다는 말을 들었다\"는 취지로 증언한 사실도 파악됐다. 13일 CBS노컷뉴스가 확보한 서울서부지검의 2022년 11월 28일자 수사보고서에는 김 후보자의 정치적 이력과 대장동 사건 관련 인맥이 상세히 담겼다.\n\n김 후보자는 강세찬 제넨셀 대표와 브로커 양모씨 재판에 증인으로 출석해, 담당 검사가 \"김승원 국회의원 옷을 꼭 벗기겠다\"고 했다는 말을 들었다고 증언했다. 김 후보자는 \"최근 수사 기록을 보고 이 사실을 알았다. 반부패 전담 부서와 검사 10여명을 투입한 수사는 결국 김 후보자를 재판에 넘기지 않는 것으로 마무리됐다.",
+   "summary": "지난 7~11일 리얼미터가 에너지경제신문 의뢰로 성인 2515명을 대상으로 조사한 결과, 이재명 대통령의 국정 수행 긍정 평가는 일주일 전보다 3.6%p 떨어진…",
+   "summary_long": "지난 7~11일 리얼미터가 에너지경제신문 의뢰로 성인 2515명을 대상으로 조사한 결과, 이재명 대통령의 국정 수행 긍정 평가는 일주일 전보다 3.6%p 떨어진 33.8%로 집계됐습니다. 리얼미터 조사에서 9주 연속 지지율이 떨어지며, 취임 후 또 다시 최저치를 기록했습니다. 특히 20대 청년층의 이탈이 지지율 하락에 큰 영향을 미쳤습니다.전체 지지율은 일주일 사이 10%대로 떨어졌습니다.\n\n이 가운데 20대 여성 지지율은 지난주보다 무려 19.3%p 폭락해 17.6%에 그쳤습니다. 진보층 지지율도 49.3%로 떨어지며 50%선 아래로 내려갔습니다. 리얼미터는 \"개각 인선 논란과 부동산 정책 불확실성에 호르무즈 파병 검토까지 겹치며 청년층과 진보층이 대거 이탈한 것으로 보인다\"고 분석했습니다.",
    "quotes": [
-    "최근 수사 기록을 보고 이 사실을 알았다. 너무 터무니없는 것으로 수사가 시작돼 깜짝 놀랐다",
-    "담당 검사가 '김승원 국회의원 옷을 꼭 벗기겠다'고 했다는 말을 들었다",
-    "식약부(식품의약범죄조사부)와 식약처의 업무상 긴밀성을 고려한 조처"
+    "개각 인선 논란과 부동산 정책 불확실성에 호르무즈 파병 검토까지 겹치며 청년층과 진보층이 대거 이탈한 것으로 보인다"
    ],
-   "press": "노컷뉴스",
+   "press": "JTBC",
+   "photo": "05.png",
+   "quoted": {
+    "quote": "개각 인선 논란과 부동산 정책 불확실성에 호르무즈 파병 검토까지 겹치며 청년층과 진보층이 대거 이탈한 것으로 보인다",
+    "n": 5,
+    "verified": 0,
+    "items": [
+     {
+      "press": "JTBC",
+      "title": "20대 여성 등 돌렸다…이 대통령 지지율 33.8% ‘최저’ 이유",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40cjFBeFlnNW5rUmZ2X2hua2piblRON0pvX09aVUZGNl9PSTF1bkFmZWdEZldET0dzUFBYTEpDZWdFMWpDSkdKRUZORWR5US13N0RmZA?oc=5"
+     },
+     {
+      "press": "간추린 뉴스",
+      "title": "📰간추린 아침 뉴스 - 26년 9월 15일(화)",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsUGxSbzQ3emdtZ1RlODNyUjF0Q0xUQURkZkZka3kzN19DNmtPRDFDWmxqekU1TnJITUFCMmVJNEJ3a0NWMmdTTkhoa21PbmJs?oc=5"
+     },
+     {
+      "press": "더퍼블릭",
+      "title": "李지지율 33.8% 연일 최저치… 민주 36.1% VS 국힘 42.1% '지지율 역전'[리얼미터]",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GdzVZYjk0c2ZGMlBCeFZzUndWeDYtYVlrbUthVFlTbXVuOEZlQ2VjNmJZNUpWYW54Zm80b0w1VDVxMVFON0Jrc3ZiTUNheTNHOGhDYkpqWjhDVHpsOHAtLWFJSDRGSGlzdTdNUXhoWdIBb0FVX3lxTE5GdzVZYjk0c2ZGMlBCeFZzUndWeDYtYVlrbUthVFlTbXVuOEZlQ2VjNmJZNUpWYW54Zm80b0w1VDVxMVFON0Jrc3ZiTUNheTNHOGhDYkpqWjhDVHpsOHAtLWFJSDRGSGlzdTdNUXhoWQ?oc=5"
+     },
+     {
+      "press": "한국미디어뉴스통신",
+      "title": "이재명 대통령 지지율 33.8%…9주 연속 하락, 민심 이탈 어디서 시작됐나",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQNFc3M2tKdUJKWkpRd1JndjAtSVU2NWRNUVlGeWhxbTJJV1pGeXhzZDkzdEJ4VVg2NHRpcnNteVRKVmU2NlBWak1nbG1kOERqMUh2T0dnS1MtalhEVTNyNkdYM3FEWEVCSE8tNg?oc=5"
+     },
+     {
+      "press": "엔지오프레스",
+      "title": "이재명 정권 지지율 ‘마의 30%대’ 붕괴 직전…20대·TK·PK 민심까지 돌아섰다",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FY0ZYZWlZczN2TmZRVVFxZFFaNW9oUGx6eDltNVFOZlJLUU92dFVNTWRqc1d2ZVlRYmVVVHAxZk1HTXVpX2NQX3pISE5BUVQyU3Bjb1Z6aUxsWkZodWxpckcxNHk0MndLenBWedIBbEFVX3lxTE5FY0ZYZWlZczN2TmZRVVFxZFFaNW9oUGx6eDltNVFOZlJLUU92dFVNTWRqc1d2ZVlRYmVVVHAxZk1HTXVpX2NQX3pISE5BUVQyU3Bjb1Z6aUxsWkZodWxpckcxNHk0MndLenBWeQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "이 대통령 지지율 33.8%, 9주 연속 하락…민주 36.1%·국힘 42.1%ㅣ리얼미터",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000510921",
+   "published_at": "2026-09-14T08:49:07+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 426,
+   "comment_agree": 201,
+   "comment_disagree": 33,
+   "division_balance": 0.282051,
+   "division_score": 1.539883,
+   "selection": "찬반 쟁점",
+   "summary": "리얼미터가 에너지경제신문 의뢰로 지난 7일부터 11일까지 전국 18세 이상 유권자 2515명을 대상으로 조사한 결과 이 대통령의 국정수행 긍정 평가는 33.8%로…",
+   "summary_long": "리얼미터가 에너지경제신문 의뢰로 지난 7일부터 11일까지 전국 18세 이상 유권자 2515명을 대상으로 조사한 결과 이 대통령의 국정수행 긍정 평가는 33.8%로 집계됐습니다. 반면 부정 평가는 직전 조사보다 3.8%포인트 오른 63.3%로 나타났습니다. 그러면서 \"개각 인선 논란과 호르무즈 파병 검토, 부동산 정책 불확실성 등 국정 현안에 대한 부정 여론이 확산된 데다 진보층과 20대 청년층의 상당 폭 이탈까지 더해지며 지지율이 하락한 것으로 보인다\"고 분석했습니다.\n\n지난 10일부터 11일까지 전국 18세 이상 유권자 1003명을 대상으로 진행한 정당 지지도 조사에서 민주당은 36.1%, 국민의힘은 42.1%로 집계됐습니다. 민주당에 대해선 \"여당으로서 부동산 정책 불확실성과 2기 개각 인사 논란 등 국정 현안 부담이 겹치며 대통령 지지율 하락과 연동해 20대 청년층 및 진보층의 큰 폭 지지 이탈로 지지율이 하락한 것으로 보인다\"고 해석했습니다. 표본오차는 대통령 국정수행 평가가 95% 신뢰수준에 ±2.0%포인트, 정당 지지도 조사가 95% 신뢰수준에 ±3.1%포인트입니다.",
+   "quotes": [
+    "개각 인선 논란과 호르무즈 파병 검토, 부동산 정책 불확실성 등 국정 현안에 대한 부정 여론이 확산된 데다 진보층과 20대 청년층의 상당 폭 이탈까지 더해지며 지지율이 하락한 것으로 보인다",
+    "여당으로서 부동산 정책 불확실성과 2기 개각 인사 논란 등 국정 현안 부담이 겹치며 대통령 지지율 하락과 연동해 20대 청년층 및 진보층의 큰 폭 지지 이탈로 지지율이 하락한 것으로 보인다",
+    "국민의힘은 정부의 2기 개각 인선 논란 등 국정 현안에 대한 반사이익 속에 20대 청년층과 충청·PK 지역층이 대거 결집하며 지지율 상승을 이끈 것으로 판단된다"
+   ],
+   "press": "JTBC",
    "photo": "06.jpg",
    "quoted": {
-    "quote": "담당 검사가 '김승원 국회의원 옷을 꼭 벗기겠다'고 했다는 말을 들었다",
-    "n": 4,
+    "quote": "개각 인선 논란과 호르무즈 파병 검토, 부동산 정책 불확실성 등 국정 현안에 대한 부정 여론이 확산된 데다 진보층과 20대 청년층의 상당 폭 이탈까지 더해지며 지지율이 하락한 것으로 보인다",
+    "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "다음뉴스",
-      "title": "[단독]檢, 김승원 수사 초기부터 이재명·대장동 조준…문건 입수",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8yTjQwWFFONlhFOXlidnRIdjFwenFoUzZ3S2FydEd6SmkwZi1WTk9FellBQWhTQWNVcWpCeVpDQTI3TzdWSkE?oc=5"
+      "press": "리얼미터",
+      "title": "[에너지경제신문-리얼미터 9월 2주 차, 주간 동향] 李 대통령 국정수행 긍정 평가 33.8%(3.6%P↓) 민주 36.1%(5.7%P↓), 국힘 42.1%(4.5%P↑)",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPbl85a2Mzc2FpX0FteExaUkptSUJJakJqdm9kYVRCVHo3TXJKajUyY1l3Ujc3OTRReHJ3emdUTTNZSHMwTldPRDRHdkVmLWVqOTRFZ1VKTV9NdlBNYWJSUHNfdXV0dzNUbjRYR1dfSDU3V1hzZDMyRTdybThKSWlwYi1yYmg3eFk0ZVZWTmllOTg0UGJ0alBDSTF4dVlYaGNpaWxHVE5ZR2NQemQ5My1UdXdORDI4c2pRbkpQLUpJUUFjdVVFMUw3b1IzOWdLQUxHeXhmZFF3M1cwZUtNRlpicjBpcnF4N3BDOU9wb0U1U3hwcjhrd2hsOVFMOHFVZGdXb2RxZ0ZaVmdPTFNibHRQWGNtQmtHdXZ1WWJaN3ZHTk1qZXJNc3VzMXM4VW9TUWJrN3VqRDE2UFlickw4cTdv?oc=5"
      },
      {
-      "press": "세상을 바꾸는 시민언론 민들레",
-      "title": "'김승원 게이트' 아니라 '한동훈 사건'?",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53OU1TT01wd1hjRXVyemRrSFp4WDg0LWExVXAxNkd4ZU4zaGRkVTUzQ1JlN1F5TTNDNjE2MW5mb1MzbC1GT0VBOWc1bTR0OVZQSW9oZ0ExS2R3eWIyOTVFTWlWZF9GdlEtbWFhUw?oc=5"
+      "press": "매일일보",
+      "title": "[리얼미터] 李대통령 지지율 33.8%…국힘 42.1%·민주 36.1% 역전",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tVTNwLWxWU0NVRmc3Slh2MWpMZk8tUUFyS1ozYlJLaEdtT2NTY0dIbURhemRSUEh6bDhUdFp2alZESGEySjN3UTdVdlRCTG5sZURnb0ZkSlI5a3RVSnFtQVJfeVh0WDlH0gFoQVVfeXFMTS1VM3AtbFZTQ1VGZzdKWHYxakxmTy1RQXJLWjNiUktoR21PY1NjR0htRGF6ZFJQSHpsOFR0WnZqVkRIYTJKM3dRN1V2VEJMbmxlRGdvRmRKUjlrdFVKcW1BUl95WHRYOUc?oc=5"
      },
      {
-      "press": "세상을 바꾸는 시민언론 민들레",
-      "title": "식약처 수사라더니…검찰보고서 \"김승원은 친이재명계\" |",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RNFRjQTZQcURPS3U3U2RyZVdaaW54b0RLa3ZOTm5nME43eW1rUEh6VnNWM3pSWFdUbnQ2bXVVSjNIY21RQmZIQ0NrMjFpUEUyYlFIc1VNbzRpb25zMFlmeXBZaFZoTlU0SWNYb2MtdjU?oc=5"
+      "press": "JTBC",
+      "title": "이 대통령 지지율 33.8%, 9주 연속 하락…민주 36.1%·국힘 42.1%ㅣ리얼미터",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iSExJTk9xeXZubFo3Wi1WLTBvcHpyYzJkeHd6eV9CRUhZV0RIZTAwbWpGeE5SUEl1Qkc1RW9ZVXg2c3lGcWtfQjc0Y0JNS0g1X2FJcQ?oc=5"
      },
      {
-      "press": "미디어오늘",
-      "title": "與 “김승원 수사 초기부터 李 엮으려” 한동훈 “누가 듣보잡을 표적으로?” |",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByY051RTVlanJJZzdjdW5aZnJxU090QUEwcU1yOUZsZTZSNllZdGZMdWJGd0NkeFZxRF96eEpUOHh3eFRRWHZzaERfejM5bVhqTHNWZldLMHp1eTNjTVMwbFZxZm14SDFxVTlGdDlrcUZxLUVJ?oc=5"
+      "press": "hidomin.com",
+      "title": "이 대통령 지지도 33.8% 취임 후 최저... 20대 지지도 10%대 [리얼미터]",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MNXR5SDV2WlJiSFpiS0xWdGgzOEo4cGM5RWh2Uk53enZjSHIxcXpyMURwV01WWkkwOXBwN29JMjhIalg5Vlh4WHZuZERFMUpXZW9jM2IzQ3phc3gwV2JuVHBkZlhSNmhWbWc?oc=5"
+     },
+     {
+      "press": "공공뉴스",
+      "title": "[이재명 직무평가] 지지율 9주 ‘뚝’ 33.8% 또 최저",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FRFYtSEZFYV9QaU5kS1A2Z1E3eTU2MW5oQ2diTUw1UjhlMnVEaWxOZURXaWx4a2FuUXg0Wnp3V2hLNU5jTF96NEFuYTk4N2x0Tnd3cDFKbjFMYUFLUXV6ZC1FRWNNR185TTlGbkp30gFuQVVfeXFMTkVEVi1IRkVhX1BpTmRLUDZnUTd5NTYxbmhDZ2JNTDVSOGUydURpbE5lRFdpbHhrYW5ReDRaendXaEs1TmNMX3o0QW5hOTg3bHROd3dwMUpuMUxhQUtRdXpkLUVFY01HXzlNOUZuSnc?oc=5"
+     },
+     {
+      "press": "뉴스1",
+      "title": "李대통령 지지율 33.8% '또 최저'…국힘 42.1%·민주 36.1% 역전 [리얼미터]",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnd3hmbzdTVDBpYU80OHJPY1kyWEt6QTZUYk9VRGgwUVJZSGNYRkM2VDBVMEVRem13VmxaOWZxWXpnREM5YWNpcmpiV20zYVdwOUZqWHYyeGd0RHFpNVo40gFfQVVfeXFMUGd3eGZvN1NUMGlhTzQ4ck9jWTJYS3pBNlRiT1VEaDBRUllIY1hGQzZUMFUwRVF6bXdWbFo5ZnFZemdEQzlhY2lyamJXbTNhV3A5RmpYdjJ4Z3REcWk1Wjg?oc=5"
      }
     ]
    }
   },
   {
-   "title": "용혜인 성평등부 장관 후보자 14일 만에 자진 사퇴‥\"여당서 결단 의사 전달받아\"",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001523626",
-   "published_at": "2026-09-13T11:37:29+09:00",
+   "title": "추미애 발언에 민주당 발칵…김민석 \"노무현 탄핵 전조 같다\"",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000511047",
+   "published_at": "2026-09-14T19:14:22+09:00",
    "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 1063,
-   "comment_agree": 204,
-   "comment_disagree": 31,
-   "division_balance": 0.26383,
-   "division_score": 1.441522,
+   "view_rank": 4,
+   "comment_count": 393,
+   "comment_agree": 197,
+   "comment_disagree": 30,
+   "division_balance": 0.264317,
+   "division_score": 1.435069,
    "selection": "찬반 쟁점",
-   "summary": "용혜인 성평등가족부 장관 후보자가 '의원·장관 겸직' 등에 대한 논란 끝에 후보직에서 자진 사퇴했습니다. 용 후보자는 오늘 오전 국회 소통관에서 기자회견을 열고 \"…",
-   "summary_long": "용혜인 성평등가족부 장관 후보자가 '의원·장관 겸직' 등에 대한 논란 끝에 후보직에서 자진 사퇴했습니다. 용 후보자는 오늘 오전 국회 소통관에서 기자회견을 열고 \"(민주당으로부터) 비례대표 의원과 장관 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 결단해 달라는 의사를 전달받았다\"면서 \"여당도 우려를 표하는데 직 수행은 현실적으로 어렵다고 판단했다\"고 설명했습니다. 다만 그동안 제기된 논란과 의혹에 대해서는 \"떳떳하지 않은 것이 없기에, 국민 앞에 하나하나 소명하고 싶었다\"면서 \"인사청문회를 통해 남은 의혹들 역시 해소해 나가겠다라는 입장에는 지금도 변함이 없다\"고 밝혔습니다.",
+   "summary": "김민석 대표는 당 안팎의 세력들이 힘을 합쳐 노무현 전 대통령을 탄핵하려 했던 전조와 비슷하다고 비판했습니다. 추미애 지사는 그 당시 노무현 대통령 탄핵 추진에 참여했고…",
+   "summary_long": "추미애 \"대통령, 내란 세력에 업혀 전전긍긍\" 이재명 대통령이 '내란세력에 업혀 전전긍긍한다'는 추미애 경기지사의 발언에 민주당이 발칵 뒤집혔습니다. 김민석 대표는 당 안팎의 세력들이 힘을 합쳐 노무현 전 대통령을 탄핵하려 했던 전조와 비슷하다고 비판했습니다.\n\n추미애 지사는 그 당시 노무현 대통령 탄핵 추진에 참여했고, 그 뒤 총선 때 이를 반성한다며 '삼보일배'를 하기도 했습니다. [김민석/더불어민주당 대표 : 노무현 대통령 첫 1년 안착에 (당) 안팎의 세력들이 힘을 합쳐가지고 탄핵하려 했던 그런 시기의 전조 비슷한 상황으로 가는 것이 아닌가.]. 분노한다\"거나 \"당이 기강을 잡아야 한다\"는 비판도 나오지만, 조국 조국혁신당 혁신연구원장은 '노무현 탄핵'으로 '이재명 탄핵'이 떠오르게 됐다며 김민석 대표를 비판하기도 했습니다.",
    "quotes": [
-    "(민주당으로부터) 비례대표 의원과 장관 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 결단해 달라는 의사를 전달받았다",
-    "인사청문회를 통해 남은 의혹들 역시 해소해 나가겠다라는 입장에는 지금도 변함이 없다",
-    "떳떳하지 않은 것이 없기에, 국민 앞에 하나하나 소명하고 싶었다"
+    "윤석열에게나 할 극언을 했다. 분노한다",
+    "대통령, 내란 세력에 업혀 전전긍긍",
+    "당이 기강을 잡아야 한다"
    ],
-   "press": "MBC",
+   "press": "JTBC",
    "photo": "07.jpg",
    "quoted": {
-    "quote": "(민주당으로부터) 비례대표 의원과 장관 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 결단해 달라는 의사를 전달받았다",
-    "n": 3,
+    "quote": "대통령, 내란 세력에 업혀 전전긍긍",
+    "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "MBC 뉴스",
-      "title": "용혜인 성평등부 장관 후보자 14일 만에 자진 사퇴‥\"여당서 결단 의사 전달받아\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tbFVJelFVUWZtM2dobGJZdGlpYWdhcTNXN3czSmpWaDgwSzQ3T091WHBhamRBbTB2c28wcFJ3LUxZQ3ZMc0VYazlsem1IbWIwSXR3TTVCZV94Uy1pY1hEN2d4eFFHN0pmN3A1cXZBaFNMcGNkMVhWTNIBeEFVX3lxTE9QLWxoY1FBSUZ4M3JtTlFJNC10UjktQkdTX0FFQ3ZtRXYwbVp4cjhSMXhSdW9BTjNNckYzZUtOUHNDbjRJY1AyUlU5Nk1peDEya3paaVlQQWtJWXNzNUp2MEJHTXI3amRiNmFFOWZlUXZBNEF0aUZjbg?oc=5"
+      "press": "JTBC",
+      "title": "추미애 발언에 민주당 발칵…김민석 \"노무현 탄핵 전조 같다\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Fd1VCSmpubndGT0Z4MXUzYkhfRV91bVdxYmR3R2pGeS1WTFB1M18xSGF5YXZvaHFWOVVCZGc2cm90SG5SUmlvVFJOQXprYTN2RlpnMQ?oc=5"
      },
      {
-      "press": "매일신문",
-      "title": "김현철 \"용혜인 더 버텼으면 민주당 정권 망하는 데 기여\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uME0yNURQblF5dGFfQ0Y2RFlrdTRpdzlKTHFCWHc2aVU3TlFLVW5sT01iOG0td2V3S3NzZzgzRVdJLVVsVTFSaXJCYkd0X29NaEhBdlduS1l3UGtZLUNlM3pn?oc=5"
+      "press": "주간경향",
+      "title": "추미애 “대통령 내란 세력에 업혀 전전긍긍···소임 못 다한 것 빌어야”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aMXR6SFBvbnVmbXAxVHg2d2hxc3UwM1NoXy1ad05IMExhenJPZHktZ2N3bFVFN2JPbXQxR2lGTHh4b2JDVzdibkQ5TGRQUkRFZmVlc2RMQUJqcU9sR1E?oc=5"
      },
      {
-      "press": "MBC 뉴스",
-      "title": "용혜인 성평등가족부 장관 후보자 자진 사퇴",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HQWdVOHdlLWJaakt5aUdHVzBDeThYOE9rWGU5eDNaMVJYOW9oWEZMT21XTi1UbHBpRFJKNXBJakRyczMzc1BYb1RnRlpvejhjZVhWdjdQaUtTYTE3Q2ozcENmcGN0UDBGRlpLV0MxQ1FadGlTRnN1RNIBeEFVX3lxTFA1Znc0aXBEdGRFRHNpd0xjZUhRXzlMZFB4STl1VjNoWnhCdFUwTlZ5Xzh4cy04MFlPemE3WEgzeEFzWTBERjlRbkVmSF9tXzdIUHhmVTdPMlduSEg0blFRSFhWYjdLMTV1aS1Hck53VXo5aUNQUVRGVg?oc=5"
+      "press": "한겨레",
+      "title": "추미애 “이 대통령, 내란 세력에 업혀 전전긍긍”…중수청장 인사 비판",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NV095bUx6d1BMczN6VVVhOHlDV1BnbDFrd2JpWXFnYkZvNUZXUTZWTG5wVkhvMWJZbkdXSF9LNExUcER2QUpmai03cEVrZTUwN3dSRzdFSzBxSEVla3EzWVpkVVFYWUg5c0JYT3B2azNoc0NC?oc=5"
+     },
+     {
+      "press": "경인일보",
+      "title": "추미애 경기도지사 “이재명 대통령, 내란세력에 업혀 전전긍긍”",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zTmNWYmhCRzJoclRHVmVxNk9NVkt1OXQ0ajd5M2xydl9pR2FIS2p5LVNCaTlxcHJjcmZ6RGlDb3ZMRGFXeEFJUF92X3ZleUh3emc?oc=5"
+     },
+     {
+      "press": "한국일보",
+      "title": "이 대통령 \"과격한 선동으로 역결집 초래... 필히 경계해야\"... 여권 내 강경파 겨냥",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZdktBcXpRcHhNNXM0TXk0UWY3NDZXcXhJLXlLdGZzNnhsWFdSRmJUbDA2elQ2MlV0anY2SHA1V081UGc2MkM3WUJIV3hFdWJWa2JmSU9JdjQxY3I5THZzMHExV2gxZk5KSVhCQ2NURU9CWFHSAXNBVV95cUxOWXZLQXF6UXB4TTVzNE15NFFmNzQ2V3F4SS15S3RmczZ4bFhXUkZiVGwwNnpUNjJVdGp2NkhwNVdPNVBnNjJDN1lCSFd4RXViVmtiZklPSXY0MWNyOUx2czBxMVdoMWZOSklYQkNjVEVPQlhR?oc=5"
+     },
+     {
+      "press": "한겨레",
+      "title": "이 대통령, 이창동 베네치아 영화제 수상에 “한국 영화 빛나는 여정 응원”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rSlpublVRdTYtQTdUYWdmcExrQzBYZ3FkNDY2QXR5UkRGU3FUejJIYy1rN1d1U1JkM3JwNlc3N0JvSlRPNmlTSU9mYU5WaHBOWWt4ZUVUaWJKNVdfaXNsQ3dpbm1qVFJzcUZlaXU2Qnp2RzZN?oc=5"
      }
     ]
    }
@@ -287,139 +370,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/01.png",
-   "pngBytes": 1778514,
-   "feed": "오늘의 뉴스 2026-09-14\n\n· \"용혜인에 들끓는 청년 여론 좌시 못 해\"...오늘 고위당정 주목\n· 용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)\n· '삼전닉스' 개미 13조 매도에도…SK하이닉스 8% 상승한 이유는\n· “월급 끊겨도 매달 400만원 들어옵니다”...은퇴 앞둔 직장인이 알아야 할 자산\n· 이하늘 \"민주당 누가 나와도 한동훈한테 안 될 걸\"…한동훈 \"팬입니다\" 화답\n· [단독]檢, 김승원 수사 초기부터 이재명·대장동 조준…문건 입수\n· 용혜인 성평등부 장관 후보자 14일 만에 자진 사퇴‥\"여당서 결단 의사 전달받아\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/01.png",
+   "pngBytes": 1878247,
+   "feed": "오늘의 뉴스 2026-09-15\n\n· 김승원 “취임하면 국민의힘 정당해산 검토…공소취소 제도 필요성 있어”\n· 용혜인 사퇴하니 바로…기본소득당 “의원·장관 겸직 금지하자”\n· 350번 연락, 결국 장갑 끼고 여자화장실로…28세 역무원은 그렇게 숨졌다 [오늘의 그날]\n· [단독] “5년치 전기료 25조 선납” 한전 제안에 삼전닉스 “NO”\n· 20대 여성 등 돌렸다…이 대통령 지지율 33.8% '최저' 이유\n· 이 대통령 지지율 33.8%, 9주 연속 하락…민주 36.1%·국힘 42.1%ㅣ리얼미터\n· 추미애 발언에 민주당 발칵…김민석 \"노무현 탄핵 전조 같다\""
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/02.png",
-   "pngBytes": 1785943,
-   "title": "\"용혜인에 들끓는 청년 여론 좌시 못 해\"...오늘 고위당정 주목",
-   "summary": "용혜인 성평등가족부 장관 후보자를 둘러싼 논란이 이어지는 가운데, 민주당 내부에서도 거취를 정리해야 한다는 목소리가 커지고 있습니다. 당 지도부의 메시지도 확연히…",
-   "summary_long": "용혜인 성평등가족부 장관 후보자를 둘러싼 논란이 이어지는 가운데, 민주당 내부에서도 거취를 정리해야 한다는 목소리가 커지고 있습니다. 당 지도부의 메시지도 확연히 달라졌는데, 오늘(13일) 열리는 고위 당정 협의가 용 후보자의 거취를 가를 분기점이 될지 주목됩니다. 청와대가 거듭 인사청문회를 지켜보겠다는 입장을 밝히자, 야권의 공세 수위는 더욱 높아졌습니다.\n\n용혜인 후보자는 청년 세대가 가장 민감해 하는 공정과 상식을 정면으로 위반했다며, 임명을 강행한다면 국민 눈높이에 대한 정면 도전이 될 것이라고 날을 세웠습니다. [박성훈 / 국민의힘 수석대변인 : 이쯤 되면 이재명 대통령과 청와대가 용혜인 후보자에게 무슨 약점이라도 잡힌 거 아닌지 되묻지 않을 수 없습니다.]. 앞서 용 후보자 논란과 거리를 두던 민주당 지도부는 주말을 앞두고 공식적인 우려를 드러냈고,.",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002406265",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/02.png",
+   "pngBytes": 1868319,
+   "title": "김승원 “취임하면 국민의힘 정당해산 검토…공소취소 제도 필요성 있어”",
+   "summary": "김승원 법무부 장관 후보자가 공소 취소 제도 폐지 주장에 대해 \"필요성이 있일 수 있으므로 제도 자체를 폐지하는 것은 신중히 검토할 필요가 있다\"고 밝혔습니다. 공소…",
+   "summary_long": "김승원 법무부 장관 후보자가 공소 취소 제도 폐지 주장에 대해 \"필요성이 있일 수 있으므로 제도 자체를 폐지하는 것은 신중히 검토할 필요가 있다\"고 밝혔습니다. 공소 취소 제도 자체를 폐지하는 것에 어떻느냐는 곽규택 국민의힘 의원 서면질의에 김 후보자는 \"공소 제기 후에 발생한 사정변경에 의하여 공소 유지가 불필요하거나 불가능한 경우에는 공소 취소의 필요성이 있을 수 있으므로, 제도 자체를 폐지하는 것은 각계의 의견을 수렴하여 신중히 검토할 필요가 있다고 생각… 국민의힘 정당해산 청구 여부에 대한 의견을 묻는 김용민 더불어민주당 의원은 질의에는 \"헌법재판소는 정당해산은 정당활동의 자유에 대한 근본적 제약이므로, 그 위헌성을 해결할 대안이 없고, 해산 결정으로 인한 사회적 이익이 불이익을 초과할 수 있을 경우에 가능하다고 판시한 것으로 알고 있다\"면서 \"취임하게…",
+   "press": "채널A",
+   "source": "채널A",
+   "link": "https://n.news.naver.com/article/449/0000360614",
    "selection": "정치",
-   "feed": "뉴스 01. \"용혜인에 들끓는 청년 여론 좌시 못 해\"...오늘 고위당정 주목\n\n용혜인 성평등가족부 장관 후보자를 둘러싼 논란이 이어지는 가운데, 민주당 내부에서도 거취를 정리해야 한다는 목소리가 커지고 있습니다. 당 지도부의 메시지도 확연히 달라졌는데, 오늘(13일) 열리는 고위 당정 협의가 용 후보자의 거취를 가를 분기점이 될지 주목됩니다. 청와대가 거듭 인사청문회를 지켜보겠다는 입장을 밝히자, 야권의 공세 수위는 더욱 높아졌습니다.\n\n용혜인 후보자는 청년 세대가 가장 민감해 하는 공정과 상식을 정면으로 위반했다며, 임명을 강행한다면 국민 눈높이에 대한 정면 도전이 될 것이라고 날을 세웠습니다. [박성훈 / 국민의힘 수석대변인 : 이쯤 되면 이재명 대통령과 청와대가 용혜인 후보자에게 무슨 약점이라도 잡힌 거 아닌지 되묻지 않을 수 없습니다.]. 앞서 용 후보자 논란과 거리를 두던 민주당 지도부는 주말을 앞두고 공식적인 우려를 드러냈고,.\n\n출처: YTN / https://n.news.naver.com/article/052/0002406265"
+   "feed": "뉴스 01. 김승원 “취임하면 국민의힘 정당해산 검토…공소취소 제도 필요성 있어”\n\n김승원 법무부 장관 후보자가 공소 취소 제도 폐지 주장에 대해 \"필요성이 있일 수 있으므로 제도 자체를 폐지하는 것은 신중히 검토할 필요가 있다\"고 밝혔습니다. 공소 취소 제도 자체를 폐지하는 것에 어떻느냐는 곽규택 국민의힘 의원 서면질의에 김 후보자는 \"공소 제기 후에 발생한 사정변경에 의하여 공소 유지가 불필요하거나 불가능한 경우에는 공소 취소의 필요성이 있을 수 있으므로, 제도 자체를 폐지하는 것은 각계의 의견을 수렴하여 신중히 검토할 필요가 있다고 생각… 국민의힘 정당해산 청구 여부에 대한 의견을 묻는 김용민 더불어민주당 의원은 질의에는 \"헌법재판소는 정당해산은 정당활동의 자유에 대한 근본적 제약이므로, 그 위헌성을 해결할 대안이 없고, 해산 결정으로 인한 사회적 이익이 불이익을 초과할 수 있을 경우에 가능하다고 판시한 것으로 알고 있다\"면서 \"취임하게…\n\n출처: 채널A / https://n.news.naver.com/article/449/0000360614"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/03.png",
-   "pngBytes": 1736389,
-   "title": "용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)",
-   "summary": "용혜인 성평등가족부 장관 후보자 기자회견. 박경준 = 용혜인 성평등가족부 장관 후보자가 13일 후보직에서 자진 사퇴했다.",
-   "summary_long": "용혜인 성평등가족부 장관 후보자 기자회견. 박경준 = 용혜인 성평등가족부 장관 후보자가 13일 후보직에서 자진 사퇴했다. 이재명 대통령이 성평등부 장관 후보자로 지명한 지 14일 만이다.\n\n현역 의원이 장관 후보자에 지명됐다가 낙마한 것은 역시 성평등부 장관 후보자로 지명됐다가 자진해 사퇴한 강선우 전 더불어민주당 의원에 이어 두 번째다. 용 후보자는 \"이재명 정부의 성평등부 장관 후보자로서 모두를 위한 성평등 사회를 만들어 내고자 했던 결심과 함께 장관 후보직을 오늘로써 내려놓고자 한다\"고 말했다. 용 후보자는 장관 후보자로 지명된 이후 비례대표 의원 겸직 논란 등이 불거지며 야당뿐만 아니라 여당 일각에서도 사퇴 압박을 받아 왔다.",
-   "press": "연합뉴스",
-   "source": "연합뉴스",
-   "link": "https://n.news.naver.com/article/001/0016306694",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/03.png",
+   "pngBytes": 1777611,
+   "title": "용혜인 사퇴하니 바로…기본소득당 “의원·장관 겸직 금지하자”",
+   "summary": "오준호 기본소득당 대표는 14일 최고위원회의에서 “이제 민주당이 연합 정치의 책임 있는 모습을 보여달라”며 “이번 일을 계기로 적어도 두 가지 정치 개혁을 함께…",
+   "summary_long": "용혜인 성평등가족부 장관 후보자가 13일 국회 소통관에서 후보직 자진 사퇴 기자회견을 마친 뒤 고개 숙여 인사하고 있다. 의원직·장관직 겸직 논란을 일으킨 용혜인 의원이 성평등가족부 장관 후보자에서 물러난 지 하루 만이다. 오준호 기본소득당 대표는 14일 최고위원회의에서 “이제 민주당이 연합 정치의 책임 있는 모습을 보여달라”며 “이번 일을 계기로 적어도 두 가지 정치 개혁을 함께 논의하자”고 밝혔다.\n\n그는 “행정부와 입법부의 상호 견제 원칙이 중요하다면 장관직을 지역구 의원에게는 허용하고 비례대표 의원만 사퇴를 요구할 이유는 없다”고 지적했다. 오 대표는 “위성 정당 없는 연합 정치를 만들기 위한 선거제도 개혁에 나서자”며 “위성 정당 발생을 막으면서 다당제 연합 정치의 대의를 살리는 핵심 과제는 비례대표 의석을 확대하고 연동성을 강화하는 것”이라고 주장했다. 그는 “연합 정치의 상대인 민주당이 국민 여론과 국정 운영의 부담을 이유로 결단을 요청하자, 그 부담을 모른 체할 수 없었다”며 “용 의원과 기본소득당은 장관 한 자리를 지키는 것보다 민주진보 진영의 신뢰와 연합 정치의 조건을 지키기로 선택했다”고 했다.",
+   "press": "국민일보",
+   "source": "국민일보",
+   "link": "https://n.news.naver.com/article/005/0001872764",
    "selection": "정치",
-   "feed": "뉴스 02. 용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)\n\n용혜인 성평등가족부 장관 후보자 기자회견. 박경준 = 용혜인 성평등가족부 장관 후보자가 13일 후보직에서 자진 사퇴했다. 이재명 대통령이 성평등부 장관 후보자로 지명한 지 14일 만이다.\n\n현역 의원이 장관 후보자에 지명됐다가 낙마한 것은 역시 성평등부 장관 후보자로 지명됐다가 자진해 사퇴한 강선우 전 더불어민주당 의원에 이어 두 번째다. 용 후보자는 \"이재명 정부의 성평등부 장관 후보자로서 모두를 위한 성평등 사회를 만들어 내고자 했던 결심과 함께 장관 후보직을 오늘로써 내려놓고자 한다\"고 말했다. 용 후보자는 장관 후보자로 지명된 이후 비례대표 의원 겸직 논란 등이 불거지며 야당뿐만 아니라 여당 일각에서도 사퇴 압박을 받아 왔다.\n\n출처: 연합뉴스 / https://n.news.naver.com/article/001/0016306694"
+   "feed": "뉴스 02. 용혜인 사퇴하니 바로…기본소득당 “의원·장관 겸직 금지하자”\n\n용혜인 성평등가족부 장관 후보자가 13일 국회 소통관에서 후보직 자진 사퇴 기자회견을 마친 뒤 고개 숙여 인사하고 있다. 의원직·장관직 겸직 논란을 일으킨 용혜인 의원이 성평등가족부 장관 후보자에서 물러난 지 하루 만이다. 오준호 기본소득당 대표는 14일 최고위원회의에서 “이제 민주당이 연합 정치의 책임 있는 모습을 보여달라”며 “이번 일을 계기로 적어도 두 가지 정치 개혁을 함께 논의하자”고 밝혔다.\n\n그는 “행정부와 입법부의 상호 견제 원칙이 중요하다면 장관직을 지역구 의원에게는 허용하고 비례대표 의원만 사퇴를 요구할 이유는 없다”고 지적했다. 오 대표는 “위성 정당 없는 연합 정치를 만들기 위한 선거제도 개혁에 나서자”며 “위성 정당 발생을 막으면서 다당제 연합 정치의 대의를 살리는 핵심 과제는 비례대표 의석을 확대하고 연동성을 강화하는 것”이라고 주장했다. 그는 “연합 정치의 상대인 민주당이 국민 여론과 국정 운영의 부담을 이유로 결단을 요청하자, 그 부담을 모른 체할 수 없었다”며 “용 의원과 기본소득당은 장관 한 자리를 지키는 것보다 민주진보 진영의 신뢰와 연합 정치의 조건을 지키기로 선택했다”고 했다.\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001872764"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/04.png",
-   "pngBytes": 2323007,
-   "title": "'삼전닉스' 개미 13조 매도에도…SK하이닉스 8% 상승한 이유는",
-   "summary": "외국인 이탈에도 반도체주에 대한 투자를 이어오던 개인 투자자들이 이달 들어 삼성전자와 SK하이닉스를 매도하기 시작했다. 13일 한국거래소에 따르면 이달 들어 지난…",
-   "summary_long": "외국인 이탈에도 반도체주에 대한 투자를 이어오던 개인 투자자들이 이달 들어 삼성전자와 SK하이닉스를 매도하기 시작했다. 13일 한국거래소에 따르면 이달 들어 지난 11일까지 개인 투자자들은 삼성전자를 5조 2120억 원, SK하이닉스를 7조 8180억 원 각각 순매도했다. 개인 투자자들은 지난 5월부터 지난달까지 4개월 연속 삼성전자와 SK하이닉스를 순매수하며 주가 하단을 지지해왔다.\n\n외국인은 지난 5월 이후 5개월 연속 두 종목을 순매도하고 있으며, 이달 들어 11일까지 삼성전자와 SK하이닉스를 각각 1조 9600억 원씩 순매도했다. 삼성전자와 SK하이닉스의 자사주 매입 영향으로 최근 주요 수급 주체로 부상한 기타법인은 이달 들어 삼성전자를 4조 6580억 원, SK하이닉스를 9조 8900억 원 각각 순매수했다. 이달 들어 11일까지 삼성전자 주가는 0.19% 하락한 반면, SK하이닉스는 8.24% 상승했다.",
-   "press": "부산일보",
-   "source": "부산일보",
-   "link": "https://n.news.naver.com/article/082/0001398006",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/04.png",
+   "pngBytes": 2022687,
+   "title": "350번 연락, 결국 장갑 끼고 여자화장실로…28세 역무원은 그렇게 숨졌다 [오늘의 그날]",
+   "summary": "서울 지하철 2호선 신당역 여자화장실 입구 앞에서 지하철 보안관들이 순찰을 돌고 있다. 31세 전주환이 서울 지하철 2호선 신당역 여자화장실에서 입사 동기였던 28세…",
+   "summary_long": "서울 지하철 2호선 신당역 여자화장실 입구 앞에서 지하철 보안관들이 순찰을 돌고 있다. 신당역 스토킹 살인범‘ 전주환, 연합뉴스스토킹은 사랑이 아니다. 31세 전주환이 서울 지하철 2호선 신당역 여자화장실에서 입사 동기였던 28세 여성 역무원을 흉기로 찔러 숨지게 했다.\n\n전주환은 2019년 11월부터 피해자에게 전화·문자를 350여 차례 보내는 등 3년 가까이 스토킹을 이어갔다. 피해자는 2021년 10월 불법촬영 혐의로 전주환을 고소했다. 피해자의 작은아버지는 “조카는 마지막까지 할 일을 한 것”이라며 눈시울을 붉혔다.",
+   "press": "서울경제",
+   "source": "서울경제",
+   "link": "https://n.news.naver.com/article/011/0004661370",
    "selection": "경제·시사",
-   "feed": "뉴스 03. '삼전닉스' 개미 13조 매도에도…SK하이닉스 8% 상승한 이유는\n\n외국인 이탈에도 반도체주에 대한 투자를 이어오던 개인 투자자들이 이달 들어 삼성전자와 SK하이닉스를 매도하기 시작했다. 13일 한국거래소에 따르면 이달 들어 지난 11일까지 개인 투자자들은 삼성전자를 5조 2120억 원, SK하이닉스를 7조 8180억 원 각각 순매도했다. 개인 투자자들은 지난 5월부터 지난달까지 4개월 연속 삼성전자와 SK하이닉스를 순매수하며 주가 하단을 지지해왔다.\n\n외국인은 지난 5월 이후 5개월 연속 두 종목을 순매도하고 있으며, 이달 들어 11일까지 삼성전자와 SK하이닉스를 각각 1조 9600억 원씩 순매도했다. 삼성전자와 SK하이닉스의 자사주 매입 영향으로 최근 주요 수급 주체로 부상한 기타법인은 이달 들어 삼성전자를 4조 6580억 원, SK하이닉스를 9조 8900억 원 각각 순매수했다. 이달 들어 11일까지 삼성전자 주가는 0.19% 하락한 반면, SK하이닉스는 8.24% 상승했다.\n\n출처: 부산일보 / https://n.news.naver.com/article/082/0001398006"
+   "feed": "뉴스 03. 350번 연락, 결국 장갑 끼고 여자화장실로…28세 역무원은 그렇게 숨졌다 [오늘의 그날]\n\n서울 지하철 2호선 신당역 여자화장실 입구 앞에서 지하철 보안관들이 순찰을 돌고 있다. 신당역 스토킹 살인범‘ 전주환, 연합뉴스스토킹은 사랑이 아니다. 31세 전주환이 서울 지하철 2호선 신당역 여자화장실에서 입사 동기였던 28세 여성 역무원을 흉기로 찔러 숨지게 했다.\n\n전주환은 2019년 11월부터 피해자에게 전화·문자를 350여 차례 보내는 등 3년 가까이 스토킹을 이어갔다. 피해자는 2021년 10월 불법촬영 혐의로 전주환을 고소했다. 피해자의 작은아버지는 “조카는 마지막까지 할 일을 한 것”이라며 눈시울을 붉혔다.\n\n출처: 서울경제 / https://n.news.naver.com/article/011/0004661370"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/05.png",
-   "pngBytes": 2183762,
-   "title": "“월급 끊겨도 매달 400만원 들어옵니다”...은퇴 앞둔 직장인이 알아야 할 자산",
-   "summary": "이달 발행되는 개인투자용 국채를 만기까지 보유할 경우 세전 만기 수익률은 10년물의 경우 약 59.3%, 20년물은 약 161.3%에 달한다. 개인투자용 국채 10년물에…",
-   "summary_long": "9월부터 확정기여(DC)형 퇴직연금 및 개인형 퇴직연금(IRP) 계좌를 통한 ‘개인투자용 국채’ 매입이 본격 허용되면서 은퇴를 앞둔 직장인과 자산가들 사이에서 ‘채권 사다리(풍차 돌리기)’ 투자 전략이 주목받고 있다. 퇴직연금 계좌(DC·IRP)에서는 장기 자금 운용에 적합한 국채 10년물과 20년물을 매입할 수 있다. 이달 발행되는 개인투자용 국채를 만기까지 보유할 경우 세전 만기 수익률은 10년물의 경우 약 59.3%(연평균 5.9% 수준), 20년물은 약 161.3%(연평균 8.1% 수준)에 달한다.\n\n개인투자용 국채 10년물에 1억원을 투자하면 10년 뒤 세전 약 1억5928만원을 받는다. 개인투자용 국채는 만기까지 보유 시 가산금리와 연 복리 혜택이 적용된다. 매일경제가 미래에셋증권에 의뢰한 시뮬레이션 결과에 따르면 총 3억원을 2026년부터 2035년까지 매년 3000만원씩 국채 10년물에 나눠 투자하면 2036년부터 2045년까지 매년 약 4778만원, 매월 398만원을 받는 구조를 만들 수 있다.",
-   "press": "매일경제",
-   "source": "매일경제",
-   "link": "https://n.news.naver.com/article/009/0005734488",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/05.png",
+   "pngBytes": 1489196,
+   "title": "[단독] “5년치 전기료 25조 선납” 한전 제안에 삼전닉스 “NO”",
+   "summary": "한국전력이 전력망 건설에 필요한 자금 마련을 위해 삼성전자와 SK하이닉스에 제안한 ‘5년 치 전기 요금 25조원 선납’ 구상이 무산된 것으로 확인됐다. 한전은 지난 7월…",
+   "summary_long": "한국전력이 전력망 건설에 필요한 자금 마련을 위해 삼성전자와 SK하이닉스에 제안한 ‘5년 치 전기 요금 25조원 선납’ 구상이 무산된 것으로 확인됐다. 삼성전자와 SK하이닉스 모두 선납 제안을 받아들이지 않기로 하고 최근 한전에 거절 의사를 전달한 것이다. 13일 재계에 따르면, 삼성전자는 지난 9일 부사장급 인사를 통해 한전에 “전기료 선납 제안에 응하기 어렵다”는 뜻을 전했다.\n\n한전은 국회 기후에너지환경노동위원회 소속 이철규 국민의힘 의원실에 제출한 답변서에서도 “전기 요금 선납안에 대해 참여가 어렵다는 답변을 받았다”고 밝혔다. 한전은 지난 7월 9일 삼성전자와 SK하이닉스에 ‘전력망 건설 재원 확보를 위한 전기 요금 선납 제안서’를 전달했다. 지난해 납부한 전기료를 기준으로 삼성전자 약 20조원, SK하이닉스 약 5조원 등 총 25조원 규모였다.",
+   "press": "조선일보",
+   "source": "조선일보",
+   "link": "https://n.news.naver.com/article/023/0003998260",
    "selection": "경제·시사",
-   "feed": "뉴스 04. “월급 끊겨도 매달 400만원 들어옵니다”...은퇴 앞둔 직장인이 알아야 할 자산\n\n9월부터 확정기여(DC)형 퇴직연금 및 개인형 퇴직연금(IRP) 계좌를 통한 ‘개인투자용 국채’ 매입이 본격 허용되면서 은퇴를 앞둔 직장인과 자산가들 사이에서 ‘채권 사다리(풍차 돌리기)’ 투자 전략이 주목받고 있다. 퇴직연금 계좌(DC·IRP)에서는 장기 자금 운용에 적합한 국채 10년물과 20년물을 매입할 수 있다. 이달 발행되는 개인투자용 국채를 만기까지 보유할 경우 세전 만기 수익률은 10년물의 경우 약 59.3%(연평균 5.9% 수준), 20년물은 약 161.3%(연평균 8.1% 수준)에 달한다.\n\n개인투자용 국채 10년물에 1억원을 투자하면 10년 뒤 세전 약 1억5928만원을 받는다. 개인투자용 국채는 만기까지 보유 시 가산금리와 연 복리 혜택이 적용된다. 매일경제가 미래에셋증권에 의뢰한 시뮬레이션 결과에 따르면 총 3억원을 2026년부터 2035년까지 매년 3000만원씩 국채 10년물에 나눠 투자하면 2036년부터 2045년까지 매년 약 4778만원, 매월 398만원을 받는 구조를 만들 수 있다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005734488"
+   "feed": "뉴스 04. [단독] “5년치 전기료 25조 선납” 한전 제안에 삼전닉스 “NO”\n\n한국전력이 전력망 건설에 필요한 자금 마련을 위해 삼성전자와 SK하이닉스에 제안한 ‘5년 치 전기 요금 25조원 선납’ 구상이 무산된 것으로 확인됐다. 삼성전자와 SK하이닉스 모두 선납 제안을 받아들이지 않기로 하고 최근 한전에 거절 의사를 전달한 것이다. 13일 재계에 따르면, 삼성전자는 지난 9일 부사장급 인사를 통해 한전에 “전기료 선납 제안에 응하기 어렵다”는 뜻을 전했다.\n\n한전은 국회 기후에너지환경노동위원회 소속 이철규 국민의힘 의원실에 제출한 답변서에서도 “전기 요금 선납안에 대해 참여가 어렵다는 답변을 받았다”고 밝혔다. 한전은 지난 7월 9일 삼성전자와 SK하이닉스에 ‘전력망 건설 재원 확보를 위한 전기 요금 선납 제안서’를 전달했다. 지난해 납부한 전기료를 기준으로 삼성전자 약 20조원, SK하이닉스 약 5조원 등 총 25조원 규모였다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0003998260"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/06.png",
-   "pngBytes": 1932306,
-   "title": "이하늘 \"민주당 누가 나와도 한동훈한테 안 될 걸\"…한동훈 \"팬입니다\" 화답",
-   "summary": "한동훈 무소속 의원을 민주당 인사로는 상대하기 어렵다는 DJ DOC 이하늘의 발언에 한 의원이 직접 화답했다. 그는 \"지금 민주당 쪽에 김민석 당대표든 송영길이든 누가…",
-   "summary_long": "한동훈 무소속 의원을 민주당 인사로는 상대하기 어렵다는 DJ DOC 이하늘의 발언에 한 의원이 직접 화답했다. 이하늘은 13일 자신의 유튜브에 올린 영상에서 야권 인사들의 정치적 경쟁력을 평가하며 정국에 대한 개인 생각을 털어놨다. 그는 \"지금 민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸\"이라고 말했다.\n\n한동훈을 두고 이하늘은 이렇게도 말했다. 영상이 퍼지자 한 의원은 자신의 페이스북에 이하늘 발언 장면이 담긴 캡처 사진을 올리며 바로 반응했다. 한 의원은 이하늘이 속한 그룹 DJ DOC의 대표곡 'Dance with DOC'를 배경음악으로 건 뒤 \"팬입니다 ㅎ.",
-   "press": "파이낸셜뉴스",
-   "source": "파이낸셜뉴스",
-   "link": "https://n.news.naver.com/article/014/0005574908",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/06.png",
+   "pngBytes": 1822173,
+   "title": "20대 여성 등 돌렸다…이 대통령 지지율 33.8% '최저' 이유",
+   "summary": "지난 7~11일 리얼미터가 에너지경제신문 의뢰로 성인 2515명을 대상으로 조사한 결과, 이재명 대통령의 국정 수행 긍정 평가는 일주일 전보다 3.6%p 떨어진…",
+   "summary_long": "지난 7~11일 리얼미터가 에너지경제신문 의뢰로 성인 2515명을 대상으로 조사한 결과, 이재명 대통령의 국정 수행 긍정 평가는 일주일 전보다 3.6%p 떨어진 33.8%로 집계됐습니다. 리얼미터 조사에서 9주 연속 지지율이 떨어지며, 취임 후 또 다시 최저치를 기록했습니다. 특히 20대 청년층의 이탈이 지지율 하락에 큰 영향을 미쳤습니다.전체 지지율은 일주일 사이 10%대로 떨어졌습니다.\n\n이 가운데 20대 여성 지지율은 지난주보다 무려 19.3%p 폭락해 17.6%에 그쳤습니다. 진보층 지지율도 49.3%로 떨어지며 50%선 아래로 내려갔습니다. 리얼미터는 \"개각 인선 논란과 부동산 정책 불확실성에 호르무즈 파병 검토까지 겹치며 청년층과 진보층이 대거 이탈한 것으로 보인다\"고 분석했습니다.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000510996",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 이하늘 \"민주당 누가 나와도 한동훈한테 안 될 걸\"…한동훈 \"팬입니다\" 화답\n\n한동훈 무소속 의원을 민주당 인사로는 상대하기 어렵다는 DJ DOC 이하늘의 발언에 한 의원이 직접 화답했다. 이하늘은 13일 자신의 유튜브에 올린 영상에서 야권 인사들의 정치적 경쟁력을 평가하며 정국에 대한 개인 생각을 털어놨다. 그는 \"지금 민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸\"이라고 말했다.\n\n한동훈을 두고 이하늘은 이렇게도 말했다. 영상이 퍼지자 한 의원은 자신의 페이스북에 이하늘 발언 장면이 담긴 캡처 사진을 올리며 바로 반응했다. 한 의원은 이하늘이 속한 그룹 DJ DOC의 대표곡 'Dance with DOC'를 배경음악으로 건 뒤 \"팬입니다 ㅎ.\n\n출처: 파이낸셜뉴스 / https://n.news.naver.com/article/014/0005574908"
+   "feed": "뉴스 05. 20대 여성 등 돌렸다…이 대통령 지지율 33.8% '최저' 이유\n\n지난 7~11일 리얼미터가 에너지경제신문 의뢰로 성인 2515명을 대상으로 조사한 결과, 이재명 대통령의 국정 수행 긍정 평가는 일주일 전보다 3.6%p 떨어진 33.8%로 집계됐습니다. 리얼미터 조사에서 9주 연속 지지율이 떨어지며, 취임 후 또 다시 최저치를 기록했습니다. 특히 20대 청년층의 이탈이 지지율 하락에 큰 영향을 미쳤습니다.전체 지지율은 일주일 사이 10%대로 떨어졌습니다.\n\n이 가운데 20대 여성 지지율은 지난주보다 무려 19.3%p 폭락해 17.6%에 그쳤습니다. 진보층 지지율도 49.3%로 떨어지며 50%선 아래로 내려갔습니다. 리얼미터는 \"개각 인선 논란과 부동산 정책 불확실성에 호르무즈 파병 검토까지 겹치며 청년층과 진보층이 대거 이탈한 것으로 보인다\"고 분석했습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000510996"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/07.png",
-   "pngBytes": 2106232,
-   "title": "[단독]檢, 김승원 수사 초기부터 이재명·대장동 조준…문건 입수",
-   "summary": "검찰이 김승원 법무부 장관 후보자의 '식약처 로비 의혹' 수사 초기 단계부터 이재명 당시 더불어민주당 대표 및 대장동 개발 의혹과의 연결 고리를 집중적으로 파악한 사실이…",
-   "summary_long": "검찰이 김승원 법무부 장관 후보자의 '식약처 로비 의혹' 수사 초기 단계부터 이재명 당시 더불어민주당 대표 및 대장동 개발 의혹과의 연결 고리를 집중적으로 파악한 사실이 확인됐다. 김 후보자가 법정에서 \"담당 검사가 '김승원 국회의원 옷을 꼭 벗기겠다'고 했다는 말을 들었다\"는 취지로 증언한 사실도 파악됐다. 13일 CBS노컷뉴스가 확보한 서울서부지검의 2022년 11월 28일자 수사보고서에는 김 후보자의 정치적 이력과 대장동 사건 관련 인맥이 상세히 담겼다.\n\n김 후보자는 강세찬 제넨셀 대표와 브로커 양모씨 재판에 증인으로 출석해, 담당 검사가 \"김승원 국회의원 옷을 꼭 벗기겠다\"고 했다는 말을 들었다고 증언했다. 김 후보자는 \"최근 수사 기록을 보고 이 사실을 알았다. 반부패 전담 부서와 검사 10여명을 투입한 수사는 결국 김 후보자를 재판에 넘기지 않는 것으로 마무리됐다.",
-   "press": "노컷뉴스",
-   "source": "노컷뉴스",
-   "link": "https://n.news.naver.com/article/079/0004188664",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/07.png",
+   "pngBytes": 1738401,
+   "title": "이 대통령 지지율 33.8%, 9주 연속 하락…민주 36.1%·국힘 42.1%ㅣ리얼미터",
+   "summary": "리얼미터가 에너지경제신문 의뢰로 지난 7일부터 11일까지 전국 18세 이상 유권자 2515명을 대상으로 조사한 결과 이 대통령의 국정수행 긍정 평가는 33.8%로…",
+   "summary_long": "리얼미터가 에너지경제신문 의뢰로 지난 7일부터 11일까지 전국 18세 이상 유권자 2515명을 대상으로 조사한 결과 이 대통령의 국정수행 긍정 평가는 33.8%로 집계됐습니다. 반면 부정 평가는 직전 조사보다 3.8%포인트 오른 63.3%로 나타났습니다. 그러면서 \"개각 인선 논란과 호르무즈 파병 검토, 부동산 정책 불확실성 등 국정 현안에 대한 부정 여론이 확산된 데다 진보층과 20대 청년층의 상당 폭 이탈까지 더해지며 지지율이 하락한 것으로 보인다\"고 분석했습니다.\n\n지난 10일부터 11일까지 전국 18세 이상 유권자 1003명을 대상으로 진행한 정당 지지도 조사에서 민주당은 36.1%, 국민의힘은 42.1%로 집계됐습니다. 민주당에 대해선 \"여당으로서 부동산 정책 불확실성과 2기 개각 인사 논란 등 국정 현안 부담이 겹치며 대통령 지지율 하락과 연동해 20대 청년층 및 진보층의 큰 폭 지지 이탈로 지지율이 하락한 것으로 보인다\"고 해석했습니다. 표본오차는 대통령 국정수행 평가가 95% 신뢰수준에 ±2.0%포인트, 정당 지지도 조사가 95% 신뢰수준에 ±3.1%포인트입니다.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000510921",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. [단독]檢, 김승원 수사 초기부터 이재명·대장동 조준…문건 입수\n\n검찰이 김승원 법무부 장관 후보자의 '식약처 로비 의혹' 수사 초기 단계부터 이재명 당시 더불어민주당 대표 및 대장동 개발 의혹과의 연결 고리를 집중적으로 파악한 사실이 확인됐다. 김 후보자가 법정에서 \"담당 검사가 '김승원 국회의원 옷을 꼭 벗기겠다'고 했다는 말을 들었다\"는 취지로 증언한 사실도 파악됐다. 13일 CBS노컷뉴스가 확보한 서울서부지검의 2022년 11월 28일자 수사보고서에는 김 후보자의 정치적 이력과 대장동 사건 관련 인맥이 상세히 담겼다.\n\n김 후보자는 강세찬 제넨셀 대표와 브로커 양모씨 재판에 증인으로 출석해, 담당 검사가 \"김승원 국회의원 옷을 꼭 벗기겠다\"고 했다는 말을 들었다고 증언했다. 김 후보자는 \"최근 수사 기록을 보고 이 사실을 알았다. 반부패 전담 부서와 검사 10여명을 투입한 수사는 결국 김 후보자를 재판에 넘기지 않는 것으로 마무리됐다.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004188664"
+   "feed": "뉴스 06. 이 대통령 지지율 33.8%, 9주 연속 하락…민주 36.1%·국힘 42.1%ㅣ리얼미터\n\n리얼미터가 에너지경제신문 의뢰로 지난 7일부터 11일까지 전국 18세 이상 유권자 2515명을 대상으로 조사한 결과 이 대통령의 국정수행 긍정 평가는 33.8%로 집계됐습니다. 반면 부정 평가는 직전 조사보다 3.8%포인트 오른 63.3%로 나타났습니다. 그러면서 \"개각 인선 논란과 호르무즈 파병 검토, 부동산 정책 불확실성 등 국정 현안에 대한 부정 여론이 확산된 데다 진보층과 20대 청년층의 상당 폭 이탈까지 더해지며 지지율이 하락한 것으로 보인다\"고 분석했습니다.\n\n지난 10일부터 11일까지 전국 18세 이상 유권자 1003명을 대상으로 진행한 정당 지지도 조사에서 민주당은 36.1%, 국민의힘은 42.1%로 집계됐습니다. 민주당에 대해선 \"여당으로서 부동산 정책 불확실성과 2기 개각 인사 논란 등 국정 현안 부담이 겹치며 대통령 지지율 하락과 연동해 20대 청년층 및 진보층의 큰 폭 지지 이탈로 지지율이 하락한 것으로 보인다\"고 해석했습니다. 표본오차는 대통령 국정수행 평가가 95% 신뢰수준에 ±2.0%포인트, 정당 지지도 조사가 95% 신뢰수준에 ±3.1%포인트입니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000510921"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/08.png",
-   "pngBytes": 1783983,
-   "title": "용혜인 성평등부 장관 후보자 14일 만에 자진 사퇴‥\"여당서 결단 의사 전달받아\"",
-   "summary": "용혜인 성평등가족부 장관 후보자가 '의원·장관 겸직' 등에 대한 논란 끝에 후보직에서 자진 사퇴했습니다. 용 후보자는 오늘 오전 국회 소통관에서 기자회견을 열고 \"…",
-   "summary_long": "용혜인 성평등가족부 장관 후보자가 '의원·장관 겸직' 등에 대한 논란 끝에 후보직에서 자진 사퇴했습니다. 용 후보자는 오늘 오전 국회 소통관에서 기자회견을 열고 \"(민주당으로부터) 비례대표 의원과 장관 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 결단해 달라는 의사를 전달받았다\"면서 \"여당도 우려를 표하는데 직 수행은 현실적으로 어렵다고 판단했다\"고 설명했습니다. 다만 그동안 제기된 논란과 의혹에 대해서는 \"떳떳하지 않은 것이 없기에, 국민 앞에 하나하나 소명하고 싶었다\"면서 \"인사청문회를 통해 남은 의혹들 역시 해소해 나가겠다라는 입장에는 지금도 변함이 없다\"고 밝혔습니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001523626",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/08.png",
+   "pngBytes": 1924522,
+   "title": "추미애 발언에 민주당 발칵…김민석 \"노무현 탄핵 전조 같다\"",
+   "summary": "김민석 대표는 당 안팎의 세력들이 힘을 합쳐 노무현 전 대통령을 탄핵하려 했던 전조와 비슷하다고 비판했습니다. 추미애 지사는 그 당시 노무현 대통령 탄핵 추진에 참여했고…",
+   "summary_long": "추미애 \"대통령, 내란 세력에 업혀 전전긍긍\" 이재명 대통령이 '내란세력에 업혀 전전긍긍한다'는 추미애 경기지사의 발언에 민주당이 발칵 뒤집혔습니다. 김민석 대표는 당 안팎의 세력들이 힘을 합쳐 노무현 전 대통령을 탄핵하려 했던 전조와 비슷하다고 비판했습니다.\n\n추미애 지사는 그 당시 노무현 대통령 탄핵 추진에 참여했고, 그 뒤 총선 때 이를 반성한다며 '삼보일배'를 하기도 했습니다. [김민석/더불어민주당 대표 : 노무현 대통령 첫 1년 안착에 (당) 안팎의 세력들이 힘을 합쳐가지고 탄핵하려 했던 그런 시기의 전조 비슷한 상황으로 가는 것이 아닌가.]. 분노한다\"거나 \"당이 기강을 잡아야 한다\"는 비판도 나오지만, 조국 조국혁신당 혁신연구원장은 '노무현 탄핵'으로 '이재명 탄핵'이 떠오르게 됐다며 김민석 대표를 비판하기도 했습니다.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000511047",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 용혜인 성평등부 장관 후보자 14일 만에 자진 사퇴‥\"여당서 결단 의사 전달받아\"\n\n용혜인 성평등가족부 장관 후보자가 '의원·장관 겸직' 등에 대한 논란 끝에 후보직에서 자진 사퇴했습니다. 용 후보자는 오늘 오전 국회 소통관에서 기자회견을 열고 \"(민주당으로부터) 비례대표 의원과 장관 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 결단해 달라는 의사를 전달받았다\"면서 \"여당도 우려를 표하는데 직 수행은 현실적으로 어렵다고 판단했다\"고 설명했습니다. 다만 그동안 제기된 논란과 의혹에 대해서는 \"떳떳하지 않은 것이 없기에, 국민 앞에 하나하나 소명하고 싶었다\"면서 \"인사청문회를 통해 남은 의혹들 역시 해소해 나가겠다라는 입장에는 지금도 변함이 없다\"고 밝혔습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001523626"
+   "feed": "뉴스 07. 추미애 발언에 민주당 발칵…김민석 \"노무현 탄핵 전조 같다\"\n\n추미애 \"대통령, 내란 세력에 업혀 전전긍긍\" 이재명 대통령이 '내란세력에 업혀 전전긍긍한다'는 추미애 경기지사의 발언에 민주당이 발칵 뒤집혔습니다. 김민석 대표는 당 안팎의 세력들이 힘을 합쳐 노무현 전 대통령을 탄핵하려 했던 전조와 비슷하다고 비판했습니다.\n\n추미애 지사는 그 당시 노무현 대통령 탄핵 추진에 참여했고, 그 뒤 총선 때 이를 반성한다며 '삼보일배'를 하기도 했습니다. [김민석/더불어민주당 대표 : 노무현 대통령 첫 1년 안착에 (당) 안팎의 세력들이 힘을 합쳐가지고 탄핵하려 했던 그런 시기의 전조 비슷한 상황으로 가는 것이 아닌가.]. 분노한다\"거나 \"당이 기강을 잡아야 한다\"는 비판도 나오지만, 조국 조국혁신당 혁신연구원장은 '노무현 탄핵'으로 '이재명 탄핵'이 떠오르게 됐다며 김민석 대표를 비판하기도 했습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000511047"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-14/09.png",
-   "pngBytes": 1346030
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-15/09.png",
+   "pngBytes": 1346108
   }
  ],
- "caption": "📰 9월 14일 오늘의 뉴스\n\n1. \"용혜인에 들끓는 청년 여론 좌시 못 해\"...오늘 고위당정 주목\n   용혜인 성평등가족부 장관 후보자를 둘러싼 논란이 이어지는 가운데, 민주당 내부에서도 거취를 정리해야 한다는 목소리가 커지고 있습니다. 당 지도부의 메시지도 확연히…\n2. 용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)\n   용혜인 성평등가족부 장관 후보자 기자회견. 박경준 = 용혜인 성평등가족부 장관 후보자가 13일 후보직에서 자진 사퇴했다.\n3. '삼전닉스' 개미 13조 매도에도…SK하이닉스 8% 상승한 이유는\n   외국인 이탈에도 반도체주에 대한 투자를 이어오던 개인 투자자들이 이달 들어 삼성전자와 SK하이닉스를 매도하기 시작했다. 13일 한국거래소에 따르면 이달 들어 지난…\n4. “월급 끊겨도 매달 400만원 들어옵니다”...은퇴 앞둔 직장인이 알아야 할 자산\n   이달 발행되는 개인투자용 국채를 만기까지 보유할 경우 세전 만기 수익률은 10년물의 경우 약 59.3%, 20년물은 약 161.3%에 달한다. 개인투자용 국채 10년물에…\n5. 이하늘 \"민주당 누가 나와도 한동훈한테 안 될 걸\"…한동훈 \"팬입니다\" 화답\n   한동훈 무소속 의원을 민주당 인사로는 상대하기 어렵다는 DJ DOC 이하늘의 발언에 한 의원이 직접 화답했다. 그는 \"지금 민주당 쪽에 김민석 당대표든 송영길이든 누가…\n6. [단독]檢, 김승원 수사 초기부터 이재명·대장동 조준…문건 입수\n   검찰이 김승원 법무부 장관 후보자의 '식약처 로비 의혹' 수사 초기 단계부터 이재명 당시 더불어민주당 대표 및 대장동 개발 의혹과의 연결 고리를 집중적으로 파악한 사실이…\n7. 용혜인 성평등부 장관 후보자 14일 만에 자진 사퇴‥\"여당서 결단 의사 전달받아\"\n   용혜인 성평등가족부 장관 후보자가 '의원·장관 겸직' 등에 대한 논란 끝에 후보직에서 자진 사퇴했습니다. 용 후보자는 오늘 오전 국회 소통관에서 기자회견을 열고 \"…\n\n🗣 “민주당으로부터 '후보자와 기본소득당이 처한 상황을 존중하지만, 비례대표 의원직과 장관직 겸직을 두고 국민적 공감대가 넓지 못한 상황을 고려해 후보자가 결단해 달라'는 의사를 전달받았다”\n이 발언을 그대로 실은 보도 10건 · 연합뉴스 · 머니투데이 · 국제신문 · 경향신문\n· 연합뉴스 — 용혜인 성평등부 장관 후보자 자진 사퇴…지명 14일 만(종합)\n· 머니투데이 — 용혜인 장관 후보자, 2주만에 자진 사퇴…\"與 결단해달란 의사 전달 받아\" - 머니투데이\n· 국제신문 — 용혜인 성평등 장관후보 사퇴 “여당도 우려…직 수행 어렵다”(종합)\n· 경향신문 — [속보] 용혜인, 성평등가족부 장관 후보자 자진 사퇴···지명 14일 만에 낙마\n· hidomin.com — 용혜인, 사퇴 요구 거부 사흘 만에 결국 자진사퇴…\"민주당도 결단 요청\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼\n\n출처: MBC, YTN, 노컷뉴스, 매일경제, 부산일보, 연합뉴스, 파이낸셜뉴스"
+ "caption": "📰 9월 15일 오늘의 뉴스\n\n1. 김승원 “취임하면 국민의힘 정당해산 검토…공소취소 제도 필요성 있어”\n   김승원 법무부 장관 후보자가 공소 취소 제도 폐지 주장에 대해 \"필요성이 있일 수 있으므로 제도 자체를 폐지하는 것은 신중히 검토할 필요가 있다\"고 밝혔습니다. 공소…\n2. 용혜인 사퇴하니 바로…기본소득당 “의원·장관 겸직 금지하자”\n   오준호 기본소득당 대표는 14일 최고위원회의에서 “이제 민주당이 연합 정치의 책임 있는 모습을 보여달라”며 “이번 일을 계기로 적어도 두 가지 정치 개혁을 함께…\n3. 350번 연락, 결국 장갑 끼고 여자화장실로…28세 역무원은 그렇게 숨졌다 [오늘의 그날]\n   서울 지하철 2호선 신당역 여자화장실 입구 앞에서 지하철 보안관들이 순찰을 돌고 있다. 31세 전주환이 서울 지하철 2호선 신당역 여자화장실에서 입사 동기였던 28세…\n4. [단독] “5년치 전기료 25조 선납” 한전 제안에 삼전닉스 “NO”\n   한국전력이 전력망 건설에 필요한 자금 마련을 위해 삼성전자와 SK하이닉스에 제안한 ‘5년 치 전기 요금 25조원 선납’ 구상이 무산된 것으로 확인됐다. 한전은 지난 7월…\n5. 20대 여성 등 돌렸다…이 대통령 지지율 33.8% '최저' 이유\n   지난 7~11일 리얼미터가 에너지경제신문 의뢰로 성인 2515명을 대상으로 조사한 결과, 이재명 대통령의 국정 수행 긍정 평가는 일주일 전보다 3.6%p 떨어진…\n6. 이 대통령 지지율 33.8%, 9주 연속 하락…민주 36.1%·국힘 42.1%ㅣ리얼미터\n   리얼미터가 에너지경제신문 의뢰로 지난 7일부터 11일까지 전국 18세 이상 유권자 2515명을 대상으로 조사한 결과 이 대통령의 국정수행 긍정 평가는 33.8%로…\n7. 추미애 발언에 민주당 발칵…김민석 \"노무현 탄핵 전조 같다\"\n   김민석 대표는 당 안팎의 세력들이 힘을 합쳐 노무현 전 대통령을 탄핵하려 했던 전조와 비슷하다고 비판했습니다. 추미애 지사는 그 당시 노무현 대통령 탄핵 추진에 참여했고…\n\n🗣 “행정부와 입법부의 상호 견제 원칙이 중요하다면 장관직을 지역구 의원에게는 허용하고 비례대표 의원만 사퇴를 요구할 이유는 없다”\n이 발언을 그대로 실은 보도 10건 · 연합뉴스 · KBC광주방송 · 경기일보 · 조선일보\n· 연합뉴스 — 기본소득당, \"국회의원의 국무위원 겸직 금지\" 법개정 논의 제안\n· KBC광주방송 — [속보]용혜인 사퇴 하루 만에…기본소득당 \"지역·비례 모두 장관 겸직 금지하자\"\n· 경기일보 — 용혜인 사퇴 하루 만에…기본소득당 “지역·비례 모두 장관 겸직 못하게 하자”\n· 조선일보 — 용혜인黨, 민주당에 청구서 \"지역구·장관도 겸직 막아야\"\n· 강원일보 — 기본소득당, ‘용혜인 장관 낙마’ 하루 만에 민주당에 ‘국회의원의 국무위원 겸직 금지하는 국회법 개정안’ 추진 제안\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, 국민일보, 서울경제, 조선일보, 채널A"
 }
