@@ -36,7 +36,9 @@ OUT = os.path.join(os.path.dirname(BASE), "docs")
 
 # 🔴 feed.html 은 2026-09-02 에 들어왔다. 캡션 생성기(feed.py)가 서버에만 있어 빼 뒀었는데,
 #    feedstyles.js 로 옮겨 폰에서도 돌아간다("피드 글 만들기가 사라졌다"는 지적).
-PAGES = ["index.html", "outro.html", "mark.html", "reel.html", "refs.html", "feed.html"]
+PAGES = ["index.html", "outro.html", "mark.html", "reel.html", "refs.html", "feed.html",
+         # 2026-09-18: 주제 찾기도 폰판에. RSS 를 읽는 일은 깃허브 Actions(api-call)가 대신한다.
+         "topics.html"]
 SCRIPTS = ["app.js", "brands.js", "nav.js", "prog.js", "hiddenmark.js",
            "outro.js", "outrostate.js", "refs.js", "save.js", "style.css",
            "deck.js",                      # 시리즈(캐러셀) 편집기 - 2026-08-23
@@ -145,10 +147,41 @@ def patch_app_js(s: str) -> str:
 
 HEAD_TAG = "<head>"
 INJECT = ('\n<script src="config.js"></script>'
+          # AI 문구 재료(ai.py 에서 구울 때 뽑는다 - 아래 ai_data() 참고)
+          '\n<script src="ai_data.js"></script>'
           '\n<script src="summarizer.js"></script>'
           # 피드 글 네 가지 글투 + 채널(인스타·스레드·X…) — 폰shim 이 이걸 불러 쓴다
           '\n<script src="feedstyles.js"></script>'
           '\n<script src="폰shim.js"></script>')
+
+
+def ai_data() -> str:
+    """AI 문구에 쓰는 시스템 문구·JSON 꼴·요청문을 **ai.py 에서 그대로 뽑는다.**
+
+    폰판은 서버가 없어 브라우저가 Claude API 를 직접 부른다(키는 앱처럼 브라우저에만).
+    요청문을 JS 로 다시 적으면 두 벌이 갈라지므로, 자리표시(@@TEXT@@ 등)를 넣고
+    ai._prompt() 를 불러 나온 글을 싣는다. JS 는 자리표시만 갈아 끼운다.
+    """
+    sys.path.insert(0, BASE)
+    import ai
+    N = 987654                                    # 본문에 나올 리 없는 숫자 = n 자리표시
+    prompts = {t: ai._prompt(t, "@@TEXT@@", "@@TITLE@@", N).replace(str(N), "@@N@@")
+               for t in ("copy", "series", "caption")}
+    import json
+    data = {"system": ai.SYSTEM, "schemas": ai.SCHEMAS, "prompts": prompts,
+            "model": ai.DEFAULT_MODEL, "url": ai.ANTHROPIC_URL}
+    return ("/* 자동 생성 - newsfeed/ai.py 에서 뽑았다. 여기를 고치지 말고 ai.py 를 고친 뒤 "
+            "폰판_만들기.py 를 다시 돌릴 것 */\nwindow.NBD_AI_DATA = "
+            + json.dumps(data, ensure_ascii=False) + ";\n")
+
+
+def hub_sources() -> str:
+    """주제 찾기의 출처 목록은 고정값이라 구울 때 적어 둔다(깃허브를 부를 필요 없음)."""
+    sys.path.insert(0, BASE)
+    import hub
+    import json
+    return json.dumps({"ok": True, "groups": hub.GROUP_ORDER, "sources": hub.listing(use="news")},
+                      ensure_ascii=False)
 
 
 def build():
@@ -189,6 +222,9 @@ def build():
             fail("폰판 소스가 없습니다: " + name)
         write(os.path.join(OUT, name), read(src))
 
+    write(os.path.join(OUT, "ai_data.js"), ai_data())
+    write(os.path.join(OUT, "hub-sources.json"), hub_sources())
+
     # 스타일 모드를 쓰는 본판 설정 (pure 판이 아니다)
     write(os.path.join(OUT, "config.js"),
           "window.NB_CONFIG = {\"pure\": false};\n"
@@ -213,8 +249,10 @@ def build():
           "              내 프리셋, 릴스(손으로 녹화 - 사진을 골라 만든다), 사진으로 저장(내려받기)\n"
           "              피드 글 만들기(글투 6종 · 인스타/스레드/X/페이스북/블로그 규격),\n"
           "              인스타·페이스북 올리기(담은 카드 → 깃허브 → 공식 API, 깃허브 열쇠 필요),\n"
-          "  · 안 되는 것 : out 폴더 정리·시리즈 out 저장, 유사 기사 검색, 주제 찾기,\n"
-          "              AI 문구(PC 앱에서만), 릴스 「최근 세트 자동 담기」(서버 out 폴더가 있어야 한다)\n"
+          "              유사 기사 검색·주제 찾기·관련 숏폼(깃허브 Actions 가 대신 - 30초 남짓, 같은 열쇠),\n"
+          "              AI 문구(Claude 키를 이 기기에 넣으면 브라우저가 직접 부른다)\n"
+          "  · 안 되는 것 : out 폴더 정리·시리즈 out 저장, 숏폼 스튜디오(PC 프로그램), Ollama AI,\n"
+          "              릴스 「최근 세트 자동 담기」(서버 out 폴더가 있어야 한다)\n"
           "\n"
           "고칠 때는 이 폴더를 고치지 말고 static/ 을 고친 뒤\n"
           "`python 폰판_만들기.py` 를 다시 돌리세요. 이 폴더는 매번 새로 굽습니다.\n")

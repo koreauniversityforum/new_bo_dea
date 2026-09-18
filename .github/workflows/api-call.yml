@@ -1,0 +1,47 @@
+name: 홈페이지 서버 대행
+
+# 홈페이지(폰판)는 서버가 없다. 남의 사이트를 읽어야 하는 기능(유사 기사 검색·주제 찾기·
+# 유튜브 숏폼 찾기)을 폰이 요청하면 여기서 앱과 같은 파이썬으로 처리하고
+# 답을 `api` 브랜치 res/<id>.json 에 둔다. 자세한 것은 .github/cards/api_call.py 머리 주석.
+#
+# 🔴 저장소가 공개라 로그도 공개다. 요청 내용을 env 로 넘기지 않는다(로그 머리에 찍힌다).
+on:
+  repository_dispatch:
+    types: [api-call]
+  schedule:
+    - cron: '40 18 * * *'     # 매일 03:40 KST - 쌓인 답을 치운다
+
+permissions:
+  contents: write
+
+jobs:
+  call:
+    if: github.event_name == 'repository_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - name: Checkout (코드만)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: |
+            newsfeed
+            .github/cards
+      - name: 대신 처리
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 .github/cards/api_call.py
+
+  clean:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - name: api 브랜치 비우기
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir e && cd e && git init -q
+          git config user.name nbd-api && git config user.email api@users.noreply.github.com
+          echo "홈페이지 서버 대행의 답이 잠깐 머무는 자리. 매일 새벽 비운다." > README.md
+          git add . && git commit -qm "api 정리"
+          git push -q --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:api

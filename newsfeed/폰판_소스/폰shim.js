@@ -317,6 +317,119 @@
   };
   global.NBD_STAGE = STAGE;
 
+  /* ── AI 문구 (2026-09-18) ────────────────────────────────────────────────
+   * 앱은 키를 **브라우저에만** 두고 요청마다 서버(ai.py)를 거쳐 Claude 로 보낸다.
+   * 폰판에는 서버가 없으니 브라우저가 Claude API 를 직접 부른다(키는 똑같이 이 기기에만).
+   * 요청문·JSON 꼴은 ai.py 에서 구울 때 뽑은 ai_data.js 를 쓴다 - 두 벌로 갈라지지 않게.
+   * 🔴 Anthropic 은 브라우저 직접 호출에 `anthropic-dangerous-direct-browser-access` 머리를
+   *    요구한다(없으면 CORS 로 막힌다). 키가 이 브라우저에 있다는 뜻이라 앱과 위험도는 같다.
+   * 🔴 Ollama 는 폰판에서 못 쓴다 - 남의 PC(127.0.0.1)에 닿을 수 없고 CORS 도 막혀 있다. */
+  function aiJson(s) {
+    s = String(s || '').trim().replace(/^```(?:json)?\s*|\s*```$/g, '');
+    try { return JSON.parse(s); } catch (e) { /* 아래로 */ }
+    const m = /\{[\s\S]*\}/.exec(s);
+    if (!m) throw new Error('AI 응답에 JSON 이 없습니다: ' + s.slice(0, 120));
+    return JSON.parse(m[0]);
+  }
+  const aiList = (xs, n) => {
+    const out = [];
+    (xs || []).forEach(x => { x = String(x || '').replace(/\s+/g, ' ').trim(); if (x && !out.includes(x)) out.push(x); });
+    return out.slice(0, n);
+  };
+  async function aiRun(task, text, title, n, cfg) {
+    const D = global.NBD_AI_DATA;
+    if (!D) throw new Error('AI 재료(ai_data.js)를 못 찾았습니다. 새로고침해 보세요.');
+    cfg = cfg || {};
+    if ((cfg.provider || 'anthropic').toLowerCase() === 'ollama') {
+      throw new Error('Ollama 는 PC 앱에서만 됩니다(홈페이지는 내 PC 에 닿을 수 없습니다). AI 설정에서 Claude 를 고르세요.');
+    }
+    if (!(cfg.key || '').trim()) throw new Error('Claude API 키가 없습니다. 「AI 설정」에 넣으세요(이 기기에만 저장).');
+    text = String(text || '').trim();
+    if (text.length < 40) throw new Error('본문이 너무 짧습니다(40자 이상).');
+    text = text.slice(0, 12000);
+    const tpl = D.prompts[task];
+    if (!tpl) throw new Error('모르는 작업: ' + task);
+    const prompt = tpl.split('@@TITLE@@').join(title || '').split('@@N@@').join(String(n || 3))
+      .split('@@TEXT@@').join(text);
+    let r;
+    try {
+      r = await global.__nbdFetch(D.url, {
+        method: 'POST',
+        headers: { 'content-type': 'application/json', 'x-api-key': cfg.key.trim(),
+          'anthropic-version': '2023-06-01', 'anthropic-dangerous-direct-browser-access': 'true' },
+        body: JSON.stringify({ model: cfg.model || D.model, max_tokens: 4000, system: D.system,
+          messages: [{ role: 'user', content: prompt }],
+          output_config: { format: { type: 'json_schema', schema: D.schemas[task] }, effort: 'medium' } }),
+      });
+    } catch (e) { throw new Error('AI 서버에 못 닿았습니다: ' + e.message); }
+    const j = await r.json().catch(() => ({}));
+    if (!r.ok) {
+      if (r.status === 401) throw new Error('API 키가 틀렸거나 만료됐습니다 (401).');
+      if (r.status === 429) throw new Error('요청 한도에 걸렸습니다 (429). 잠시 뒤 다시.');
+      throw new Error('AI 서버 오류 ' + r.status + ': ' + String(((j.error || {}).message) || '').slice(0, 200));
+    }
+    if (j.stop_reason === 'refusal') throw new Error('AI 가 이 요청을 거절했습니다.');
+    if (j.stop_reason === 'max_tokens') throw new Error('AI 응답이 잘렸습니다. 본문을 줄여 다시 시도하세요.');
+    const out = aiJson((j.content || []).filter(b => b.type === 'text').map(b => b.text).join(''));
+    // ai.run() 과 같은 손질 - 화면이 규칙기반 결과와 구별 없이 쓰도록
+    if (task === 'copy') {
+      return { titles: aiList(out.titles, 6), hooks: aiList(out.hooks, 6),
+               summaries: aiList(out.summaries, 4), keywords: aiList(out.keywords, 5), sentences: [] };
+    }
+    if (task === 'series') {
+      const c = out.cover || {};
+      const pages = (out.pages || []).filter(p => p && typeof p === 'object').map((p, i) => ({
+        kind: ['point', 'number', 'quote', 'list'].includes(p.kind) ? p.kind : 'point',
+        label: String(p.label || ('POINT ' + (i + 1))).trim(), head: String(p.head || '').trim(),
+        body: String(p.body || '').trim(), num: String(p.num || '').trim(), who: String(p.who || '').trim() }));
+      return { cover: { hook: String(c.hook || '').trim(), title: String(c.title || '').trim(),
+                        summary: String(c.summary || '').trim() },
+               pages: pages.slice(0, Math.max(1, Math.min(+n || 3, 6))) };
+    }
+    if (task === 'caption') {
+      return { texts: (out.texts || []).filter(t => t && String(t.text || '').trim())
+        .map(t => ({ style: String(t.style || 'AI'), text: String(t.text).trim() })).slice(0, 3) };
+    }
+    return out;
+  }
+
+  /* ── 깃허브가 대신하는 서버 일 (2026-09-18) ──────────────────────────────
+   * 남의 사이트를 읽는 기능은 `api-call` 워크플로에 맡긴다: 요청을 dispatch 로 보내고
+   * `api` 브랜치에 답(res/<id>.json)이 생길 때까지 기다린다. 열쇠는 「인스타 올리기」와
+   * 같은 깃허브 열쇠(nbd_pat) 하나. 🔴 raw.githubusercontent 로 읽으면 없는 파일(404)을
+   * 몇 분씩 캐시해 답이 생겨도 못 본다 - API(contents)로 읽는다. */
+  const GH_REPO = 'koreauniversityforum/new_bo_dea';
+  async function ghCall(method, path, query, body) {
+    let k = '';
+    try { k = localStorage.getItem('nbd_pat') || ''; } catch (e) { /* 무시 */ }
+    if (!k) {
+      return err('이 기능은 홈페이지에서 **깃허브가 대신** 합니다. 「인스타 올리기」 화면 3번 칸에 '
+        + '깃허브 열쇠를 한 번 넣어 주세요(같은 열쇠를 씁니다).');
+    }
+    const H = { 'Authorization': 'Bearer ' + k, 'Accept': 'application/vnd.github+json',
+                'X-GitHub-Api-Version': '2022-11-28' };
+    const id = Array.from(crypto.getRandomValues(new Uint8Array(12)), b => (b % 36).toString(36)).join('');
+    const r = await global.__nbdFetch('https://api.github.com/repos/' + GH_REPO + '/dispatches', {
+      method: 'POST', headers: H,
+      body: JSON.stringify({ event_type: 'api-call', client_payload: { id, method, path, query, body } }),
+    });
+    if (r.status !== 204) {
+      return err('깃허브에 요청하지 못했습니다(HTTP ' + r.status + ') - '
+        + (r.status === 401 ? '열쇠가 틀렸거나 만료됐습니다.' : r.status === 403 || r.status === 404
+          ? '열쇠 권한(Contents 쓰기)을 확인하세요.' : '잠시 뒤 다시 해 보세요.'));
+    }
+    const until = Date.now() + 150000;               // 깃허브 일꾼이 뜨는 데 20~60초
+    await new Promise(s => setTimeout(s, 12000));
+    while (Date.now() < until) {
+      const g = await global.__nbdFetch('https://api.github.com/repos/' + GH_REPO
+        + '/contents/res/' + id + '.json?ref=api',
+        { headers: Object.assign({}, H, { 'Accept': 'application/vnd.github.raw+json' }), cache: 'no-store' });
+      if (g.ok) return json(await g.json());
+      await new Promise(s => setTimeout(s, 3000));
+    }
+    return err('깃허브가 2분 반 안에 답하지 않았습니다. 깃허브 Actions 의 「홈페이지 서버 대행」을 확인하세요.');
+  }
+
   /* ── 길목 ───────────────────────────────────────────────────────────── */
   async function route(path, query, body) {
     const S = global.SUMMARIZER;
@@ -357,11 +470,25 @@
     if (path === '/api/series') {
       const text = (body.text || '').trim();
       if (!text) return err('본문이 비어 있습니다.');
+      // 앱과 같다: AI 설정이 켜져(on) 오면 AI 로, 아니면 규칙기반. 꼴은 같다.
+      if (body.ai && body.ai.on) {
+        try {
+          const out = await aiRun('series', text, body.title || '', body.n || 3, body.ai);
+          out.by = 'ai';
+          return json({ ok: true, series: out });
+        } catch (e) { return err(e.message); }
+      }
       if (typeof S.series !== 'function') return err('이 폰판은 시리즈 자동 구성이 없는 옛 판입니다. 새로고침해 보세요.');
       return json({ ok: true, series: S.series(text, body.title || '', body.n || 3) });
     }
     if (path === '/api/ai') {
-      return err('AI 문구는 PC 앱(뉴보대 카드뉴스 메이커)에서만 됩니다. 폰판은 서버가 없어 규칙기반으로 갑니다.');
+      const text = (body.text || '').trim();
+      if (!text) return err('본문이 비어 있습니다.');
+      try {
+        const task = (body.task || 'copy').trim();
+        return json({ ok: true, task,
+          result: await aiRun(task, text, body.title || '', body.n || 3, body.ai || {}) });
+      } catch (e) { return err(e.message); }
     }
 
     if (path === '/api/stock') {
@@ -423,12 +550,18 @@
                     note: TITLE_NOTE[style] || '' });
     }
 
-    /* 유사 기사 **검색**은 폰판에서 못 한다 - 구글 뉴스는 대신 읽어 주는 곳을 403 으로
-       막고, 네이버 검색 화면은 짜임이 자주 바뀐다(2026-09-02 실측). 대신 주소를 직접
-       넣는 길(`/api/fetch-many`)은 되므로 그쪽으로 안내한다. */
-    if (path === '/api/related') {
-      return err('폰·홈페이지 판에서는 유사 기사 **검색**이 안 됩니다(구글이 막습니다). '
-        + '아래 「링크 직접 넣기」에 기사 주소를 넣으면 본문까지 가져와 같이 씁니다.');
+    /* 유사 기사 **검색**·주제 찾기·숏폼 찾기는 브라우저가 못 한다(구글이 대리인을 403,
+       RSS·유튜브는 CORS 없음). 2026-09-18 부터 깃허브 Actions 가 앱과 같은 파이썬으로
+       대신 한다 - 아래 ghCall() 과 .github/cards/api_call.py 참고. 30초 남짓 걸린다. */
+    if (path === '/api/related') return ghCall('POST', path, '', body);
+    if (path === '/api/topic-ideas') return ghCall('GET', path, query.toString(), null);
+    if (path === '/api/hub-fetch') return ghCall('POST', path, '', body);
+    if (path === '/api/hub-search') return ghCall('POST', path, '', body);
+    if (path === '/api/shorts') return ghCall('GET', path, query.toString(), null);
+    if (path === '/api/hub-sources') {
+      // 출처 목록은 고정값 - 구울 때 적어 둔 파일을 읽는다(깃허브를 부르지 않는다)
+      const r = await global.__nbdFetch('hub-sources.json', { cache: 'no-cache' });
+      return r.ok ? json(await r.json()) : err('출처 목록(hub-sources.json)을 못 읽었습니다.');
     }
 
     if (path === '/api/fetch-many') {
@@ -556,9 +689,9 @@
    * 남겨 두면 눌렀을 때 오류만 본다. 폰판에서는 아예 감춘다. */
   /* 🆕 2026-09-18 인스타 올리기 단추(`[data-insta-slot]`·`.insta-btn`·insta.html 링크)는
      더 이상 감추지 않는다 - 폰판 전용 insta.html 이 깃허브를 거쳐 공식 API 로 올린다. */
+  /* 🆕 2026-09-18 AI 문구(#btnAI·#aiBox·#btnMakeAI)와 주제 찾기 링크도 되살렸다 -
+     AI 는 브라우저가 Claude 를 직접, 주제 찾기는 깃허브 Actions 가 대신한다(위 aiRun·ghCall). */
   const HIDE = ['#btnOpenOut',
-    /* AI 문구는 우리 서버를 거쳐 제공자로 가는 길이라 서버 없는 폰판에는 없다 */
-    '#btnAI', '#aiBox', '#btnMakeAI',
     /* 시리즈 「out 폴더에 저장」— 폰판은 out 폴더가 없다(PNG 전부 = 내려받기 는 남긴다) */
     '#btnDeckSaveAll',
     /* `out 폴더에 저장` 은 폰판에서 `PNG 내려받기` 와 결과가 같다 — 단추가 둘이면
@@ -566,7 +699,7 @@
     '#btnSave',
     /* 🔴 `피드 글`(feed.html)은 2026-09-02 부터 폰판에도 있다 — feedstyles.js 가
        캡션 생성기를 대신한다. 여기서 감추면 그 화면으로 갈 길이 없어진다. */
-    'a[href$="out.html"]', 'a[href$="topics.html"]'];
+    'a[href$="out.html"]'];
 
   /* 같은 단추라도 폰판에서는 하는 일이 다르다 — 이름을 바꿔 준다.
      (out 폴더가 없으니 「저장」은 실제로는 **내려받기**다) */
