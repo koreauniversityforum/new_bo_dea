@@ -303,6 +303,8 @@
       return { ok: true, media: await adopt(r.media) };
     }),
     downloadFromUrl: wrap(async (url) => {
+      // 한글이 든 주소를 원본(media-library)이 그대로 fetch 해 "ByteString" 오류가 났다(실측) - 여기서 인코딩
+      try { url = encodeURI(decodeURI(String(url).trim())); } catch (e) { url = encodeURI(String(url).trim()); }
       const r = await call('webmedia:downloadUrl', [url], [], say('주소에서 받는 중'));
       return r && r.ok ? { ok: true, media: await adopt(r.media) } : r;
     }),

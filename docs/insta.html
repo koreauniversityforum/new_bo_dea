@@ -58,7 +58,11 @@
     <h2>1. 담은 카드 <span id="cnt" class="muted"></span></h2>
     <div class="muted">앞장·뒷장 화면 머리글의 <b>인스타 올리기</b> 단추를 누를 때마다 지금 카드가 여기 쌓입니다(최대 10장). 번호 순서가 캐러셀 순서입니다.</div>
     <div id="grid" class="grid"></div>
-    <div class="row"><button class="btn" id="btnClear">담은 카드 비우기</button></div>
+    <div class="row">
+      <button class="btn" id="btnFromOut">보관함에서 담기</button>
+      <button class="btn" id="btnClear">담은 카드 비우기</button>
+    </div>
+    <div id="outPick" class="grid" hidden></div>
   </div>
 
   <div class="box">
@@ -159,6 +163,32 @@
     });
     buttons();
   }
+  /* 보관함(앱의 out 폴더)에 저장해 둔 카드를 골라 담는다 - 앱 올리기 화면의 「out 폴더에서 고르기」 */
+  $('btnFromOut').addEventListener('click', async () => {
+    const box = $('outPick');
+    if (!box.hidden) { box.hidden = true; box.querySelectorAll('img').forEach(i => URL.revokeObjectURL(i.src)); box.textContent = ''; return; }
+    const list = (await window.NBD_OUT.list()).filter(x => /\.(png|jpe?g|webp)$/i.test(x.name));
+    box.hidden = false;
+    box.textContent = '';
+    if (!list.length) { box.innerHTML = '<div class="muted">보관함이 비었습니다. 앞장·뒷장 화면의 「보관함에 저장」으로 쌓아 두세요.</div>'; return; }
+    list.forEach(x => {
+      const el = document.createElement('div');
+      el.className = 'th';
+      el.innerHTML = '<img alt=""><div class="ctl"><button>+ 담기</button></div>';
+      el.querySelector('img').src = URL.createObjectURL(x.blob);
+      el.querySelector('img').title = x.name;
+      el.querySelector('button').addEventListener('click', async () => {
+        try {
+          const fr = new FileReader();
+          const dataUrl = await new Promise((r, j) => { fr.onload = () => r(fr.result); fr.onerror = j; fr.readAsDataURL(x.blob); });
+          await S.add([{ name: x.name.replace(/\.[^.]+$/, ''), dataUrl }]);
+          await load();
+        } catch (e) { alert(e.message); }
+      });
+      box.appendChild(el);
+    });
+  });
+
   $('btnClear').addEventListener('click', async () => {
     if (!cards.length || busy) return;
     if (!confirm('담은 카드 ' + cards.length + '장을 비울까요? (만든 카드 화면에는 영향 없음)')) return;

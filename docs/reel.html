@@ -185,7 +185,7 @@ const BGM = window.NB_BGM ? NB_BGM.mount($('bgmHost'), () => ({
 let blob = null, blobExt = 'mp4';
 
 const msg = (t, c) => { const e = $('msg'); e.className = 'msg ' + (c || ''); e.textContent = t; };
-const thumbUrl = (d, n) => '/api/insta-thumb?dir=' + encodeURIComponent(d) + '&name=' + encodeURIComponent(n);
+const thumbUrl = (d, n) => (window.NBD_THUMB && window.NBD_THUMB(d, n)) || ('/api/insta-thumb?dir=' + encodeURIComponent(d) + '&name=' + encodeURIComponent(n));
 
 /* 장 하나의 흐린 바탕을 **미리** 만들어 둔다 — 매 프레임 blur 를 걸면
    그래픽카드 없는 노트북에서 프레임이 뚝뚝 끊긴다(이 PC 가 그렇다). */

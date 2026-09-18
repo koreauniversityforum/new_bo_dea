@@ -38,7 +38,9 @@ OUT = os.path.join(os.path.dirname(BASE), "docs")
 #    feedstyles.js 로 옮겨 폰에서도 돌아간다("피드 글 만들기가 사라졌다"는 지적).
 PAGES = ["index.html", "outro.html", "mark.html", "reel.html", "refs.html", "feed.html",
          # 2026-09-18: 주제 찾기도 폰판에. RSS 를 읽는 일은 깃허브 Actions(api-call)가 대신한다.
-         "topics.html"]
+         "topics.html",
+         # 2026-09-18: 폴더 정리도. out 폴더 = 이 기기 보관함(폰shim 의 OUT)
+         "out.html"]
 SCRIPTS = ["app.js", "brands.js", "nav.js", "prog.js", "hiddenmark.js",
            "outro.js", "outrostate.js", "refs.js", "save.js", "style.css",
            "deck.js",                      # 시리즈(캐러셀) 편집기 - 2026-08-23
@@ -153,6 +155,16 @@ def patch_app_js(s: str) -> str:
     return s
 
 
+# 화면 파일별 한 줄 손질. 못 찾으면 멈춘다(원본이 바뀐 것을 조용히 넘기지 않게).
+PAGE_PATCHES = {
+    # 릴스: 그림을 <img src="/api/insta-thumb…"> 로 띄운다. <img> 는 fetch 가로채기에 안 걸리므로
+    # 폰shim 이 만들어 둔 이 기기 blob 주소(NBD_THUMB)를 쓰게 한다 - 담은 카드·보관함 그림.
+    "reel.html": [(
+        "const thumbUrl = (d, n) => '/api/insta-thumb?dir=' + encodeURIComponent(d) + '&name=' + encodeURIComponent(n);",
+        "const thumbUrl = (d, n) => (window.NBD_THUMB && window.NBD_THUMB(d, n)) || "
+        "('/api/insta-thumb?dir=' + encodeURIComponent(d) + '&name=' + encodeURIComponent(n));")],
+}
+
 HEAD_TAG = "<head>"
 INJECT = ('\n<script src="config.js"></script>'
           # AI 문구 재료(ai.py 에서 구울 때 뽑는다 - 아래 ai_data() 참고)
@@ -260,6 +272,10 @@ def build():
         if not os.path.isfile(src):
             fail("화면 파일이 없습니다: " + name)
         s = relativize(read(src))
+        for old, new in PAGE_PATCHES.get(name, []):
+            if old not in s:
+                fail(name + " 에서 손볼 줄을 못 찾았습니다 - 원본이 바뀌었는지 확인하세요: " + old[:60])
+            s = s.replace(old, new)
         if HEAD_TAG not in s:
             fail(name + " 에 <head> 가 없습니다.")
         # 다른 스크립트보다 먼저 들어가야 fetch/XHR 을 가로챌 수 있다
@@ -311,8 +327,9 @@ def build():
           "              인스타·페이스북 올리기(담은 카드 → 깃허브 → 공식 API, 깃허브 열쇠 필요),\n"
           "              유사 기사 검색·주제 찾기·관련 숏폼(깃허브 Actions 가 대신 - 30초 남짓, 같은 열쇠),\n"
           "              AI 문구(Claude 키를 이 기기에 넣으면 브라우저가 직접 부른다)\n"
-          "  · 안 되는 것 : out 폴더 정리·시리즈 out 저장, 숏폼 스튜디오(PC 프로그램), Ollama AI,\n"
-          "              릴스 「최근 세트 자동 담기」(서버 out 폴더가 있어야 한다)\n"
+          "              숏폼 스튜디오(shortform/ - 굽기·음성·트렌드는 깃허브 Actions, 같은 열쇠),\n"
+          "              out 폴더 저장·정리(= 이 기기 보관함, 브라우저 데이터를 지우면 사라짐)\n"
+          "  · 안 되는 것 : Ollama AI(내 PC 의 프로그램이라 홈페이지가 닿을 수 없다)\n"
           "\n"
           "고칠 때는 이 폴더를 고치지 말고 static/ 을 고친 뒤\n"
           "`python 폰판_만들기.py` 를 다시 돌리세요. 이 폴더는 매번 새로 굽습니다.\n")

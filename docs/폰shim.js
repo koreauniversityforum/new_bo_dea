@@ -317,6 +317,43 @@
   };
   global.NBD_STAGE = STAGE;
 
+  /* ── out 폴더 = 이 기기 보관함 (2026-09-18) ──────────────────────────────
+   * 앱의 「out 폴더에 저장」·「시리즈 저장」·폴더 정리 화면(out.html)은 서버의 out 폴더를 쓴다.
+   * 홈페이지에는 그 폴더가 없으니 이 브라우저의 IndexedDB 를 out 폴더로 쓴다. 「PNG 내려받기」
+   * (SAVE.file)는 그대로 내려받기 - 두 단추가 하는 일이 앱과 같게 갈린다.
+   * 🔴 보관함은 이 기기·이 브라우저에만 있다(사이트 데이터를 지우면 사라진다). 남길 것은 내려받기. */
+  const OUT_DB = 'nbd_out';
+  function outTx(mode, fn) {
+    return new Promise((res, rej) => {
+      const q = indexedDB.open(OUT_DB, 1);
+      q.onupgradeneeded = () => q.result.createObjectStore('files', { keyPath: 'name' });
+      q.onerror = () => rej(q.error || new Error('보관함(IndexedDB)을 열 수 없습니다.'));
+      q.onsuccess = () => {
+        const t = q.result.transaction('files', mode);
+        const r = fn(t.objectStore('files'));
+        t.oncomplete = () => { q.result.close(); res(r && 'result' in r ? r.result : undefined); };
+        t.onerror = () => { q.result.close(); rej(t.error); };
+      };
+    });
+  }
+  const OUT = {
+    list: () => outTx('readonly', s => s.getAll()).then(a => (a || []).sort((x, y) => y.mtime - x.mtime)),
+    get: (name) => outTx('readonly', s => s.get(name)),
+    remove: (name) => outTx('readwrite', s => s.delete(name)),
+    async put(blob, name) {
+      // 같은 이름이 있으면 앱의 out 폴더처럼 덮지 않고 _2, _3 을 붙인다
+      const names = new Set((await OUT.list()).map(x => x.name));
+      let n = name, i = 2;
+      const dot = name.lastIndexOf('.');
+      while (names.has(n)) n = (dot > 0 ? name.slice(0, dot) : name) + '_' + (i++) + (dot > 0 ? name.slice(dot) : '');
+      await outTx('readwrite', s => s.put({ name: n, blob, size: blob.size, mtime: Math.floor(Date.now() / 1000) }));
+      return n;
+    },
+  };
+  global.NBD_OUT = OUT;
+  const THUMBS = new Map();                                  // 'stage/이름' · 'out/이름' → blob 주소
+  global.NBD_THUMB = (d, n) => THUMBS.get(d + '/' + n) || '';
+
   /* ── AI 문구 (2026-09-18) ────────────────────────────────────────────────
    * 앱은 키를 **브라우저에만** 두고 요청마다 서버(ai.py)를 거쳐 Claude 로 보낸다.
    * 폰판에는 서버가 없으니 브라우저가 Claude API 를 직접 부른다(키는 똑같이 이 기기에만).
@@ -514,7 +551,28 @@
       const blob = dataUrlToBlob(body.dataUrl || '');
       if (!blob) return err('이미지 데이터가 올바르지 않습니다.');
       const name = safeName(body.name) + (blob.type === 'image/jpeg' ? '.jpg' : '.png');
-      return json({ ok: true, path: await put(blob, name) });
+      // 앱의 out 폴더 = 이 기기 보관함 (위 OUT 참고). 내려받기는 「PNG 내려받기」가 맡는다.
+      return json({ ok: true, path: '보관함 / ' + await OUT.put(blob, name) });
+    }
+
+    /* 폴더 정리 화면(out.html) - 앱과 같은 꼴로 답한다 */
+    if (path === '/api/out-list') {
+      const rows = (await OUT.list()).map(x => ({ name: x.name, size: x.size, mtime: x.mtime }));
+      return json({ ok: true, dir: '이 기기 보관함(브라우저)', items: rows, count: rows.length,
+                    total: rows.reduce((a, x) => a + (x.size || 0), 0) });
+    }
+    if (path === '/api/out-delete') {
+      const names = Array.isArray(body.names) ? body.names : [];
+      if (!names.length) return err('지울 파일을 고르지 않았습니다.');
+      let freed = 0; const done = [];
+      for (const n of names.slice(0, 2000)) {
+        const x = await OUT.get(String(n));
+        if (!x) continue;
+        freed += x.size || 0;
+        await OUT.remove(x.name);
+        done.push(x.name);
+      }
+      return json({ ok: true, deleted: done.length, freed, failed: [] });
     }
 
     /* ── 피드 글 만들기 ────────────────────────────────────────────────
@@ -598,7 +656,25 @@
 
     /* 릴스 — 서버 out 폴더 대신 이 기기에서 고른 파일을 쓴다(reel.html 참고).
        목록 요청은 빈손으로 돌려주면 화면이 파일 고르기 안내를 띄운다. */
-    if (path === '/api/insta-files') return json({ ok: true, groups: [] });
+    /* 릴스 「최근 세트 자동 담기」·그림 고르기 - 앱은 out 폴더와 임시(담은 카드)를 훑는다.
+       여기서는 담은 카드(STAGE)와 보관함(OUT)을 같은 꼴로 준다. 그림은 <img> 로 뜨므로
+       fetch 가로채기가 안 먹는다 - blob 주소를 만들어 두고 NBD_THUMB 로 건넨다(구울 때
+       reel.html 의 thumbUrl 이 이걸 쓰게 바꾼다). */
+    if (path === '/api/insta-files') {
+      THUMBS.forEach(u => URL.revokeObjectURL(u));
+      THUMBS.clear();
+      const img = /\.(png|jpe?g|webp)$/i;
+      const staged = (await STAGE.list()).map((x, i) => ({ name: String(i + 1).padStart(2, '0') + '_' + x.name + '.png', blob: x.blob, at: x.at }));
+      const outs = (await OUT.list()).filter(x => img.test(x.name)).sort((a, b) => a.name < b.name ? -1 : 1);
+      const groups = [];
+      [['임시(담은 카드)', 'stage', staged.map(x => ({ name: x.name, blob: x.blob, mtime: Math.floor((x.at || 0) / 1000) }))],
+       ['out', 'out', outs]].forEach(([label, dir, rows]) => {
+        if (!rows.length) return;
+        rows.forEach(r => THUMBS.set(dir + '/' + r.name, URL.createObjectURL(r.blob)));
+        groups.push({ label, dir, items: rows.map(r => ({ name: r.name, size: r.blob.size, w: 1080, h: 1350, mtime: r.mtime })) });
+      });
+      return json({ ok: true, groups });
+    }
 
     /* 인스타 올리기 단추(nav.js)가 카드를 담는 자리 - 위 STAGE 참고 */
     if (path === '/api/insta-stage') {
@@ -618,7 +694,11 @@
     if (path === '/api/assets') return json({ ok: true, items: ASSETS });
 
     if (path === '/api/open-out') {
-      return json({ ok: true, note: '폰판에는 out 폴더가 없습니다 — 내려받기 폴더를 보세요.' });
+      // 「폴더 열기」: 보관함 화면에서는 전부 내려받기, 다른 화면에서는 보관함 화면으로
+      if (!/out\.html$/.test(location.pathname)) { location.href = 'out.html'; return json({ ok: true }); }
+      const all = await OUT.list();
+      for (const x of all) { download(x.blob, x.name); await new Promise(s => setTimeout(s, 350)); }
+      return json({ ok: true, note: all.length + '개를 내려받았습니다.' });
     }
 
     return err('이 기능(' + path + ')은 ' + UA_NOTE + '에서는 쓸 수 없습니다. '
@@ -691,19 +771,15 @@
      더 이상 감추지 않는다 - 폰판 전용 insta.html 이 깃허브를 거쳐 공식 API 로 올린다. */
   /* 🆕 2026-09-18 AI 문구(#btnAI·#aiBox·#btnMakeAI)와 주제 찾기 링크도 되살렸다 -
      AI 는 브라우저가 Claude 를 직접, 주제 찾기는 깃허브 Actions 가 대신한다(위 aiRun·ghCall). */
-  const HIDE = ['#btnOpenOut',
-    /* 시리즈 「out 폴더에 저장」— 폰판은 out 폴더가 없다(PNG 전부 = 내려받기 는 남긴다) */
-    '#btnDeckSaveAll',
-    /* `out 폴더에 저장` 은 폰판에서 `PNG 내려받기` 와 결과가 같다 — 단추가 둘이면
-       어느 쪽이 진짜인지 헷갈리므로 하나만 남긴다. */
-    '#btnSave',
-    /* 🔴 `피드 글`(feed.html)은 2026-09-02 부터 폰판에도 있다 — feedstyles.js 가
-       캡션 생성기를 대신한다. 여기서 감추면 그 화면으로 갈 길이 없어진다. */
-    'a[href$="out.html"]'];
+  /* 🆕 2026-09-18 out 폴더 단추(#btnOpenOut·#btnDeckSaveAll·#btnSave·out.html 링크)도 되살렸다 -
+     out 폴더는 이 기기 보관함(위 OUT)이다. 감출 것이 더 없다(Ollama 는 AI 설정 안에서 안내). */
+  const HIDE = [];
 
-  /* 같은 단추라도 폰판에서는 하는 일이 다르다 — 이름을 바꿔 준다.
-     (out 폴더가 없으니 「저장」은 실제로는 **내려받기**다) */
-  const RENAME = { '#btnSaveTxt': '글 내려받기' };
+  /* 같은 단추라도 폰판에서는 하는 일이 다르다 — 이름을 바꿔 준다(out 폴더 = 이 기기 보관함). */
+  const RENAME = { '#btnSaveTxt': '글 내려받기', '#btnSave': '보관함에 저장',
+                   '#btnOpenOut': '보관함', '#btnDeckSaveAll': '시리즈 보관함에 저장',
+                   // out.html 의 「폴더 열기」 - 보관함 화면에서는 전부 내려받기가 된다
+                   '#btnOpen': '전부 내려받기' };
 
   function tidy() {
     Object.keys(RENAME).forEach(sel => document.querySelectorAll(sel).forEach(el => {
