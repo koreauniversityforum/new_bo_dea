@@ -34,6 +34,9 @@ def 앱넣기():
     print("메타 개발자 대시보드(developers.facebook.com) → 내 앱 → 설정 → 기본 설정 에서 가져오세요.\n")
     앱["app_id"] = 물음("페이스북 앱 ID", 앱.get("app_id", ""))
     앱["app_secret"] = 물음("페이스북 앱 시크릿", 앱.get("app_secret", ""))
+    print("\n「비즈니스용 Facebook 로그인」 앱이면 구성 ID 가 필요합니다 "
+          "(비즈니스용 Facebook 로그인 → 구성 → 만든 구성의 ID). 없으면 엔터.")
+    앱["config_id"] = 물음("구성 ID(config_id)", 앱.get("config_id", ""))
     print("\n스레드는 같은 앱 안에서도 ID·시크릿이 **따로** 나옵니다 "
           "(앱 → 유스 케이스 → Threads API → 설정).")
     print("스레드를 안 쓸 거면 그냥 엔터를 치세요.")

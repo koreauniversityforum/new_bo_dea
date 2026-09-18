@@ -195,13 +195,18 @@ def 계정가져오기(키, d=None):
 
 # ────────────────────────────────────────────────── 로그인 (토큰 받기)
 def 페이스북_동의주소(앱):
-    """사람이 브라우저에서 열 주소. 여기서 인스타 + 페이지 권한을 한 번에 받는다."""
-    return FB_OAUTH + "?" + urllib.parse.urlencode({
-        "client_id": 앱["app_id"],
-        "redirect_uri": 앱["redirect_uri"],
-        "scope": ",".join(FB_SCOPES),
-        "response_type": "code",
-    })
+    """사람이 브라우저에서 열 주소. 여기서 인스타 + 페이지 권한을 한 번에 받는다.
+
+    🔴 「비즈니스용 Facebook 로그인」 앱은 `scope` 를 안 받고 **구성 ID(config_id)** 로
+    권한을 넘긴다(대시보드 → 비즈니스용 Facebook 로그인 → 구성). 구성 ID 가 있으면 그쪽을 쓴다.
+    """
+    q = {"client_id": 앱["app_id"], "redirect_uri": 앱["redirect_uri"], "response_type": "code"}
+    if 앱.get("config_id"):
+        q["config_id"] = 앱["config_id"]
+        q["override_default_response_type"] = "true"
+    else:
+        q["scope"] = ",".join(FB_SCOPES)
+    return FB_OAUTH + "?" + urllib.parse.urlencode(q)
 
 
 def 스레드_동의주소(앱):
