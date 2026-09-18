@@ -59,7 +59,15 @@ EXTRA = ["summarizer.js", "폰shim.js", "README.md",
 #    올려 두는 자리다 - 여기서 지워 버리면 올리던 중에 그림이 사라진다.
 # 🔴 `오늘-legacy.html` 은 지금 `오늘.html` 이 iframe 으로 띄우는 본체다(2026-09 개편).
 #    KEEP 에 없으면 폰판을 다시 굽는 순간 정기 뉴스 메이커가 빈 화면이 된다.
-KEEP = {".git", "올림", "오늘.html", "오늘.json", "오늘-legacy.html"}
+KEEP = {".git", "올림", "오늘.html", "오늘.json", "오늘-legacy.html",
+        # 숏폼 스튜디오 웹판. 원본(~/shortform-studio)이 있는 PC 에서만 새로 싣고, 없으면 있던 것을 둔다
+        "shortform"}
+
+# 숏폼 스튜디오 원본 - 깃 저장소가 아닌 개인 폴더라 여기서 docs/shortform 으로 옮겨 싣는다.
+# 🔴 docs/shortform 을 고치지 말 것. 원본을 고치고 이 스크립트를 다시 돌린다.
+#    깃허브 Actions(sf-call)도 이 사본의 main.js 를 그대로 돌린다(서버 쪽도 같은 코드).
+SF_SRC = os.environ.get("NBD_SHORTFORM_SRC") or os.path.join(os.path.expanduser("~"), "shortform-studio")
+SF_OUT = os.path.join(OUT, "shortform")
 
 
 def fail(msg):
@@ -184,6 +192,57 @@ def hub_sources() -> str:
                       ensure_ascii=False)
 
 
+SF_FILEURL_OLD = ("function fileUrl(filePath) {\n"
+                  "  return `file:///${String(filePath).replace(/\\\\/g, '/').replace(/^\\/+/, '')}`;\n"
+                  "}")
+SF_FILEURL_NEW = ("function fileUrl(filePath) {\n"
+                  "  // 웹판: 이 기기 IndexedDB 의 blob 주소(없으면 깃허브 사본) - studio-web.js 가 준다\n"
+                  "  return window.studio.fileUrl(filePath);\n"
+                  "}")
+# 화면 스크립트는 소재 창고(IndexedDB)를 읽은 뒤에 돌아야 첫 화면부터 미리보기가 뜬다
+SF_DEFER = ("<script>window.__sfReady.then(function(){var s=document.createElement('script');"
+            "s.src='%s';document.body.appendChild(s);});</script>")
+
+
+def vendor_shortform():
+    """숏폼 스튜디오를 docs/shortform 으로 옮겨 싣는다 (2026-09-18).
+
+    화면 코드는 **고치지 않는다.** 바꾸는 것은 세 가지뿐이고, 못 찾으면 멈춘다.
+      1) <head> 에 studio-web.js (PC 판 preload 의 window.studio 를 브라우저판으로)
+      2) editor.js 의 fileUrl() - file:/// 대신 이 기기 소재 주소
+      3) editor.js·hunter.js 를 소재 창고가 준비된 뒤에 싣기
+    """
+    if not os.path.isdir(os.path.join(SF_SRC, "src")):
+        print("  (숏폼 스튜디오 원본이 없어 docs/shortform 은 있던 것을 둡니다: %s)" % SF_SRC)
+        return
+    if os.path.isdir(SF_OUT):
+        shutil.rmtree(SF_OUT)
+    os.makedirs(SF_OUT)
+    for name in ("main.js", "package.json"):
+        shutil.copy2(os.path.join(SF_SRC, name), os.path.join(SF_OUT, name))
+    shutil.copytree(os.path.join(SF_SRC, "src"), os.path.join(SF_OUT, "src"))
+    shutil.copytree(os.path.join(SF_SRC, "assets"), os.path.join(SF_OUT, "assets"))
+    src = os.path.join(SF_OUT, "src")
+    write(os.path.join(src, "studio-web.js"), read(os.path.join(SRC, "studio-web.js")))
+
+    ed = read(os.path.join(src, "editor.js"))
+    if SF_FILEURL_OLD not in ed:
+        fail("숏폼 editor.js 의 fileUrl() 을 못 찾았습니다 - 원본이 바뀌었는지 확인하세요.")
+    write(os.path.join(src, "editor.js"), ed.replace(SF_FILEURL_OLD, SF_FILEURL_NEW))
+
+    for page, script in (("editor.html", "editor.js"), ("hunter.html", "hunter.js")):
+        p = os.path.join(src, page)
+        s = read(p)
+        tag = '<script src="%s"></script>' % script
+        if HEAD_TAG not in s or tag not in s:
+            fail("숏폼 %s 에서 <head> 나 %s 를 못 찾았습니다." % (page, tag))
+        s = s.replace(HEAD_TAG, HEAD_TAG + '\n<script src="studio-web.js"></script>', 1)
+        s = s.replace(tag, SF_DEFER % script)
+        write(p, s)
+    n = sum(len(fs) for _, _, fs in os.walk(SF_OUT))
+    print("  숏폼 스튜디오 웹판 → docs/shortform (파일 %d개)" % n)
+
+
 def build():
     if not os.path.isdir(STATIC):
         fail("static 폴더가 없습니다: " + STATIC)
@@ -222,6 +281,7 @@ def build():
             fail("폰판 소스가 없습니다: " + name)
         write(os.path.join(OUT, name), read(src))
 
+    vendor_shortform()
     write(os.path.join(OUT, "ai_data.js"), ai_data())
     write(os.path.join(OUT, "hub-sources.json"), hub_sources())
 

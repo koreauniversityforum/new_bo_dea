@@ -118,9 +118,11 @@
       : [{ href: 'daily.html', label: '오늘의 뉴스' }]),
     { href: 'topics.html', label: '주제 찾기' },
     { href: 'refs.html', label: '참고 사이트' },
-    isPhoneBuild()
-      ? { href: 'reel.html', label: '릴스 만들기' }
-      : { href: 'shortform.html', label: '숏폼 만들기' },   // reel.html 은 숏폼 화면 안 「간단 릴스」로 이어진다
+    // 2026-09-18: 폰판에도 숏폼 스튜디오(웹판, docs/shortform)가 생겼다. 담은 카드·제목을 이어받는다.
+    ...(isPhoneBuild()
+      ? [{ href: 'shortform/src/editor.html?from=newbodae', label: '숏폼 만들기', sf: true },
+         { href: 'reel.html', label: '간단 릴스' }]
+      : [{ href: 'shortform.html', label: '숏폼 만들기' }]),   // reel.html 은 숏폼 화면 안 「간단 릴스」로 이어진다
   ];
   const LINK_STYLE = 'padding:7px 12px;border-radius:8px;border:1px solid var(--line);' +
     'color:var(--ink);text-decoration:none;font-size:12px';
@@ -138,6 +140,16 @@
       a.style.cssText = s.strong
         ? LINK_STYLE + ';border-color:#3b6ef5;color:#fff;background:#3b6ef5;font-weight:700'
         : LINK_STYLE;
+      if (s.sf) {
+        // 스튜디오가 읽을 맥락(제목·검색어). 카드는 「인스타 올리기」로 담아 둔 것을 스튜디오가 가져간다.
+        a.addEventListener('click', () => {
+          const t = ((document.getElementById('inTitle') || {}).value || '').trim();
+          try {
+            localStorage.setItem('nb_sf_ctx', JSON.stringify({
+              title: t, keyword: t.replace(/[^\p{L}\p{N}\s]/gu, ' ').split(/\s+/).filter(Boolean).slice(0, 3).join(' ') }));
+          } catch (e) { /* 사생활 보호 모드 */ }
+        });
+      }
       out.push(a);
     });
     return out;

@@ -1,0 +1,52 @@
+name: 숏폼 스튜디오 서버 대행
+
+# 홈페이지의 숏폼 스튜디오(docs/shortform)가 영상 굽기·음성·트렌드 수집·소재 내려받기·발행을
+# 요청하면 여기서 PC 판 main.js 를 그대로 돌린다. 자세한 것은 .github/cards/sf_call.js 머리 주석.
+# 🔴 공개 저장소 = 공개 로그. 요청 내용을 env 로 넘기지 않는다(로그 머리에 찍힌다).
+on:
+  repository_dispatch:
+    types: [sf-call]
+  schedule:
+    - cron: '50 18 * * 0'     # 매주 월요일 03:50 KST - 7일 넘은 소재·영상을 치운다
+
+permissions:
+  contents: write
+
+jobs:
+  call:
+    if: github.event_name == 'repository_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout (스튜디오 사본만)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: |
+            docs/shortform
+            .github/cards
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: 준비 (ffmpeg · 음성 모듈)
+        run: |
+          command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null)
+          cd docs/shortform && npm install --no-audit --no-fund --silent --omit=dev node-edge-tts@1.2.10 >/dev/null
+      - name: 대신 처리
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node .github/cards/sf_call.js
+
+  clean:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - name: sf-media 비우기
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir e && cd e && git init -q
+          git config user.name nbd-shortform && git config user.email shortform@users.noreply.github.com
+          echo "숏폼 스튜디오 웹판의 소재·영상이 잠깐 머무는 자리. 매주 비운다 - 필요한 영상은 내려받아 두세요." > README.md
+          git add . && git commit -qm "sf-media 정리"
+          git push -q --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:sf-media

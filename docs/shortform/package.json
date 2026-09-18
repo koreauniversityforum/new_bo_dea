@@ -1,0 +1,40 @@
+{
+  "name": "shortform-studio",
+  "version": "0.3.0",
+  "description": "유행 숏폼을 분석해 새 대본을 만들고 편집·발행하는 데스크톱 스튜디오",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "electron .",
+    "check": "node --check main.js && node --check preload.js && node --check src/editor.js && node --check src/hunter.js && node --check src/hunter-engine.js && node --check src/shortform-analysis.js && node --check src/media-library.js && node --check src/smart-edit.js && node src/verify-editor.js",
+    "dist": "electron-builder --win nsis"
+  },
+  "devDependencies": {
+    "electron": "^39.0.0",
+    "electron-builder": "^26.0.12"
+  },
+  "build": {
+    "appId": "kr.shortformstudio.app",
+    "productName": "Shortform Studio",
+    "files": [
+      "main.js",
+      "preload.js",
+      "src/**/*",
+      "assets/**/*",
+      "package.json"
+    ],
+    "asarUnpack": [
+      "assets/fonts/**/*"
+    ],
+    "win": {
+      "target": "nsis"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  },
+  "dependencies": {
+    "node-edge-tts": "^1.2.10"
+  }
+}

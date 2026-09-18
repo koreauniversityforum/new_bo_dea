@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<script src="studio-web.js"></script>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>콘텐츠 헌터 · Shortform Studio</title>
+  <link rel="stylesheet" href="studio.css">
+  <link rel="stylesheet" href="hunter.css">
+</head>
+<body class="trends-body">
+  <main class="trend-shell">
+    <header class="trend-header">
+      <div class="trend-brand"><span class="brand-mark">S</span><div><strong>콘텐츠 헌터</strong><small>유행하는 숏폼을 찾아 구조를 뜯어봅니다</small></div></div>
+      <div class="hunter-status" id="hunterStatus"><i></i><span>수집 준비 중</span></div>
+    </header>
+
+    <section class="hunter-intro">
+      <h1>지금 잘 되는 숏폼을<br>그대로 베끼지 않고 <em>구조만</em> 가져옵니다.</h1>
+      <p>Instagram Reels · TikTok · YouTube Shorts의 공개 지표를 모아 훅, 자막 문체, 장면 전환, 길이, 구성을 분석하고 새 대본을 만듭니다. 남의 영상·사진은 내려받지 않습니다.</p>
+    </section>
+
+    <section class="hunter-query">
+      <div class="query-input">
+        <span>⌕</span>
+        <input id="hunterSearch" placeholder="주제나 키워드 입력 · 예: 자취 요리, 러닝, 아이폰 촬영">
+        <button id="clearSearch" aria-label="검색어 지우기">×</button>
+      </div>
+      <label class="query-select">기간
+        <select id="periodSelect">
+          <option value="day1">최근 1일</option>
+          <option value="day3">최근 3일</option>
+          <option value="day5">최근 5일</option>
+          <option value="week">최근 7일</option>
+          <option value="month" selected>최근 30일</option>
+          <option value="all">기간 전체</option>
+        </select>
+      </label>
+      <label class="query-select">정렬
+        <select id="sortSelect">
+          <option value="views">조회수 높은 순</option>
+          <option value="engagement">반응률 높은 순</option>
+          <option value="velocity">하루 조회수 증가 순</option>
+          <option value="recent">최신 게시 순</option>
+        </select>
+      </label>
+      <button class="refresh-button" id="refreshButton"><span>✦</span> 숏폼 수집</button>
+    </section>
+
+    <nav class="platform-bar" id="platformBar" aria-label="플랫폼 선택">
+      <button class="active" data-platform="all">전체</button>
+      <button data-platform="youtube"><i class="dot"></i>YouTube Shorts</button>
+      <button data-platform="instagram"><i class="dot"></i>Instagram Reels</button>
+      <button data-platform="tiktok"><i class="dot"></i>TikTok</button>
+      <button class="settings-link" id="openSettings">계정·API 연결 설정</button>
+    </nav>
+
+    <section class="source-strip" id="sourceStrip"></section>
+
+    <section class="analysis-block" id="analysisBlock" hidden>
+      <div class="block-head"><h2>수집한 숏폼에서 읽어낸 공식</h2><span id="analysisSummary"></span></div>
+      <div class="signal-grid" id="signalGrid"></div>
+    </section>
+
+    <section class="results-block">
+      <div class="block-head">
+        <h2>유행 중인 공개 숏폼</h2>
+        <span class="result-stats"><b id="resultCount">0</b>편 · <span id="updatedAt">수집 전</span></span>
+      </div>
+      <div class="shorts-grid" id="shortsGrid">
+        <div class="loading-cards"><i></i><strong>키워드를 입력하고 숏폼 수집을 눌러 주세요</strong><span>플랫폼별 공개 조회수·좋아요·댓글을 모아 정렬합니다.</span></div>
+      </div>
+    </section>
+
+    <section class="blueprint-block" id="blueprintBlock" hidden>
+      <div class="block-head">
+        <h2>레퍼런스 분해 · 구조 편집</h2>
+        <span id="blueprintSummary">카드에서 「참고로 담기」를 누르면 여기서 뼈대를 뜯어 고칠 수 있습니다</span>
+      </div>
+      <div class="picked-strip" id="pickedStrip"></div>
+      <div class="blueprint-tools">
+        <button id="decomposeButton" class="primary">고른 영상 분해 →</button>
+        <button id="clearPickedButton">담은 것 비우기</button>
+      </div>
+      <div class="blueprint-editor" id="blueprintEditor" hidden>
+        <div class="blueprint-head">
+          <label>길이(초)<input type="number" id="bpDuration" min="4" max="180" step="1"></label>
+          <label>훅 유형<select id="bpHook"></select></label>
+          <label>문체<select id="bpTone"></select></label>
+          <label>구조<select id="bpStructure"></select></label>
+          <label>장면 수<input type="number" id="bpCount" min="2" max="14" step="1"></label>
+        </div>
+        <p class="blueprint-note" id="blueprintNote"></p>
+        <div class="scene-table" id="sceneTable"></div>
+        <div class="blueprint-actions">
+          <button id="bpAddScene">장면 추가</button>
+          <button id="bpRedistribute">시간 다시 배분</button>
+          <button id="bpRewrite">문장 새로 짓기</button>
+          <button id="bpFindMedia">이 구조에 쓸 소재 찾기</button>
+          <button class="primary" id="bpSendButton">이 구조로 편집 앱에 보내기 →</button>
+        </div>
+        <p class="originality-note">가져오는 것은 길이·훅 유형·장면 수·구조·문체뿐입니다. 자막 문장과 화면은 새로 짓고, 모든 칸은 여기서 직접 고칠 수 있습니다.</p>
+      </div>
+    </section>
+
+    <section class="concept-block" id="conceptBlock" hidden>
+      <div class="block-head">
+        <h2>분석을 반영한 새 대본</h2>
+        <div class="concept-tools">
+          <button id="remixButton">다른 문장 조합</button>
+          <button id="findMediaButton">이 구성에 쓸 소재 찾기</button>
+          <button class="primary" id="sendConceptButton">편집 앱으로 보내기 →</button>
+        </div>
+      </div>
+      <div class="concept-layout">
+        <article class="concept-hook" id="conceptHook"></article>
+        <article class="concept-board"><div class="board-head"><span>스토리보드</span><small>시간 · 화면 · 전환 · 자막</small></div><div id="conceptBoard"></div></article>
+      </div>
+      <p class="originality-note" id="originalityNote"></p>
+    </section>
+
+    <p class="source-note">공개 메타데이터와 원문 링크만 사용합니다. 타인의 영상·사진 파일은 프로젝트에 복사하지 않습니다. 공식 API를 연결하지 않은 플랫폼은 수치 대신 원문 검색 링크만 제공합니다.</p>
+  </main>
+
+  <div class="detail-overlay" id="detailOverlay"><article class="detail-card" id="detailCard"></article></div>
+  <datalist id="visualOptions"></datalist>
+  <script>window.__sfReady.then(function(){var s=document.createElement('script');s.src='hunter.js';document.body.appendChild(s);});</script>
+</body>
+</html>
