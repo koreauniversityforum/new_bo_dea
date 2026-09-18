@@ -30,6 +30,10 @@ const ALLOW = new Set(['hunter:load', 'webmedia:search', 'webmedia:download', 'w
 const TMP = fs.mkdtempSync(path.join(os.tmpdir(), 'sf-'));
 const USERDATA = path.join(TMP, 'userData');
 fs.mkdirSync(USERDATA, { recursive: true });
+// 🔴 main.js 의 asciiWorkRoot() 는 첫 후보로 %PUBLIC%(없으면 'C:\Users\Public')을 쓴다. 리눅스에서는
+//    그 윈도 경로가 이름 그대로 만들어지고 ffmpeg 필터가 'C:' 를 못 읽어 자막 파일을 못 찾는다(실측).
+//    원본을 고치지 않고 PUBLIC 을 리눅스 임시 폴더로 돌려 둔다.
+process.env.PUBLIC = path.join(TMP, 'pub');
 
 // ── 가짜 electron ────────────────────────────────────────────────────────
 const handlers = {};
