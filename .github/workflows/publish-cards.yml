@@ -38,17 +38,32 @@ jobs:
           python-version: '3.11'
 
       - name: 구워 둔 그림 내려받기
+        env:
+          FROM_DISPATCH: ${{ toJSON(github.event.client_payload) }}
         run: |
           # 그림은 `cards` 브랜치(=raw.githubusercontent 공개 주소)에 있다.
           # 인스타·스레드에는 이 주소를 그대로 주고, 페이스북만 바이트를 올리므로 받아 둔다.
+          # 🆕 폰판 「인스타 올리기」는 자기가 올린 그림 주소를 payload.urls 로 보낸다
+          #    (그때는 오늘.json 이 아니라 그 주소들이 올릴 카드다).
           mkdir -p .cards/그림
           python - <<'PY'
           import json, os, urllib.request
-          d = json.load(open("docs/오늘.json", encoding="utf-8"))
-          for c in d["cards"]:
-              p = os.path.join(".cards/그림", c["file"])
-              urllib.request.urlretrieve(c["url"], p)
-              print("  %s (%d바이트)" % (c["file"], os.path.getsize(p)))
+          p = json.loads(os.environ.get("FROM_DISPATCH") or "null") or {}
+          urls = [u for u in (p.get("urls") or []) if isinstance(u, str) and u.startswith("https://")]
+          if urls:
+              cards = [{"file": "%02d.jpg" % (i + 1), "url": u} for i, u in enumerate(urls[:10])]
+              print("폰판에서 올린 카드 %d장" % len(cards))
+          else:
+              cards = json.load(open("docs/오늘.json", encoding="utf-8"))["cards"]
+          for c in cards:
+              f = os.path.join(".cards/그림", c["file"])
+              urllib.request.urlretrieve(c["url"], f)
+              print("  %s (%d바이트)" % (c["file"], os.path.getsize(f)))
+          # publish.py 에 공개 주소를 그대로 넘긴다 - 안 넘기면 meta_api 가 노트북 경로로
+          # 호스팅을 하려 든다(Actions 에는 그 폴더가 없다).
+          json.dump({"cards": cards}, open(".cards/주소.json", "w", encoding="utf-8"), ensure_ascii=False)
+          with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as g:
+              g.write("SOURCE=%s\n" % ("phone" if urls else "daily"))
           PY
           ls -la .cards/그림
 
@@ -79,8 +94,12 @@ jobs:
               머리 = 몸.split("\n", 1)[0].strip()
               시늉 = "점검" in 머리
           open(".cards/문구.txt", "w", encoding="utf-8").write(문구)
+          # 폰판에서 올린 것은 오늘.json 과 무관하다 - 날짜는 지금(한국 시각)으로
+          from datetime import datetime, timedelta, timezone
+          날짜 = (datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d")
+                if os.environ.get("SOURCE") == "phone" else 기본.get("date", ""))
           with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as f:
-              f.write("CHANNELS=%s\nPDATE=%s\nDRY=%s\n" % (창구, 기본.get("date", ""), "1" if 시늉 else ""))
+              f.write("CHANNELS=%s\nPDATE=%s\nDRY=%s\n" % (창구, 날짜, "1" if 시늉 else ""))
           print("문구 %d자 / 창구 %s%s" % (len(문구), 창구, " [점검만]" if 시늉 else ""))
           PY
 
@@ -94,6 +113,7 @@ jobs:
           set +e
           python .github/cards/publish.py \
             --images .cards/그림 \
+            --urls .cards/주소.json \
             --caption .cards/문구.txt \
             --channels "$CHANNELS" \
             --date "$PDATE" \
@@ -113,6 +133,16 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           ISSUE: ${{ github.event.issue.number }}
         run: |
+          # 결과는 실행 요약에 늘 남긴다 - 폰판 화면이 이 실행을 찾아 링크를 건다
+          {
+            if [ "$CODE" = "0" ]; then echo "### ✅ 발행 ($SOURCE)"; else echo "### ⚠️ 발행 실패 ($SOURCE)"; fi
+            echo '```'
+            tail -c 3000 .cards/결과.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          # 🔴 폰판에서 올린 것은 새벽 검토 이슈와 무관하다. 그 이슈를 닫거나
+          #    cards 브랜치(새벽 카드가 든 자리)를 비우면 안 된다.
+          if [ "$SOURCE" = "phone" ]; then exit 0; fi
           NUM="$ISSUE"
           if [ -z "$NUM" ]; then
             NUM=$(gh issue list --label 오늘의카드 --state open --limit 1 --json number -q '.[0].number')

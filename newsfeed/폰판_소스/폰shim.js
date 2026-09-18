@@ -276,6 +276,47 @@
     return items.length ? { quote: 쓴말, items } : null;
   }
 
+  /* ── 올릴 카드 담아 두기 (2026-09-18) ────────────────────────────────────
+   * PC 앱의 「인스타 올리기」 단추는 카드를 서버 `out\_임시_인스타\` 에 **쌓아** 두고
+   * 올리기 화면으로 간다. 폰판에는 서버가 없으니 그 자리를 이 기기의 IndexedDB 로 한다.
+   * 🔴 localStorage 가 아닌 이유: 1080×1350 PNG 한 장이 1~3MB 라 5MB 한도를 두 장이면 넘는다.
+   * 🔴 쌓는다(갈아 끼우지 않는다) - 앞장 담고 뒷장 담는 순간 앞장이 사라지면 캐러셀을 못 만든다.
+   *    비우기는 올리기 화면의 「담은 카드 비우기」가 맡는다. 상한은 인스타 캐러셀과 같은 10장. */
+  const STAGE_DB = 'nbd_stage', STAGE_STORE = 'cards', STAGE_MAX = 10;
+  function stageDb() {
+    return new Promise((res, rej) => {
+      const q = indexedDB.open(STAGE_DB, 1);
+      q.onupgradeneeded = () => q.result.createObjectStore(STAGE_STORE, { keyPath: 'id', autoIncrement: true });
+      q.onsuccess = () => res(q.result);
+      q.onerror = () => rej(q.error || new Error('이 브라우저는 카드를 담아 둘 수 없습니다(IndexedDB).'));
+    });
+  }
+  async function stageTx(mode, fn) {
+    const db = await stageDb();
+    return new Promise((res, rej) => {
+      const tx = db.transaction(STAGE_STORE, mode);
+      const out = fn(tx.objectStore(STAGE_STORE));
+      tx.oncomplete = () => { db.close(); res(out && 'result' in out ? out.result : out); };
+      tx.onerror = () => { db.close(); rej(tx.error); };
+    });
+  }
+  const STAGE = {
+    list: () => stageTx('readonly', s => s.getAll()).then(a => (a || []).sort((x, y) => x.id - y.id)),
+    clear: () => stageTx('readwrite', s => s.clear()),
+    remove: (id) => stageTx('readwrite', s => s.delete(id)),
+    async add(items) {
+      const now = await STAGE.list();
+      if (now.length + items.length > STAGE_MAX) {
+        throw new Error('인스타 캐러셀은 ' + STAGE_MAX + '장까지입니다. 지금 ' + now.length
+          + '장이 담겨 있어요 - 올리기 화면에서 몇 장 빼고 다시 담아 주세요.');
+      }
+      await stageTx('readwrite', s => items.forEach(it => s.add({
+        name: safeName(it.name || 'card'), blob: dataUrlToBlob(it.dataUrl), at: Date.now() })));
+      return STAGE.list();
+    },
+  };
+  global.NBD_STAGE = STAGE;
+
   /* ── 길목 ───────────────────────────────────────────────────────────── */
   async function route(path, query, body) {
     const S = global.SUMMARIZER;
@@ -426,6 +467,15 @@
        목록 요청은 빈손으로 돌려주면 화면이 파일 고르기 안내를 띄운다. */
     if (path === '/api/insta-files') return json({ ok: true, groups: [] });
 
+    /* 인스타 올리기 단추(nav.js)가 카드를 담는 자리 - 위 STAGE 참고 */
+    if (path === '/api/insta-stage') {
+      if (body.clear) { await STAGE.clear(); return json({ ok: true, names: [] }); }
+      const items = (body.items || []).filter(it => it && it.dataUrl);
+      if (!items.length) return err('담을 카드가 없습니다.');
+      const all = await STAGE.add(items);
+      return json({ ok: true, dir: 'phone', names: all.map(x => x.name) });
+    }
+
     if (path === '/api/reel-save') {
       const name = safeName(query.get('name') || '릴스') + '.' + (query.get('ext') || 'mp4');
       if (!(body instanceof Blob)) return err('영상 데이터를 받지 못했습니다.');
@@ -504,7 +554,9 @@
   /* ── 화면 손질 ────────────────────────────────────────────────────────
    * 서버가 있어야만 되는 단추(폴더 열기·폴더 정리·인스타 올리기·피드 글·주제 찾기)를
    * 남겨 두면 눌렀을 때 오류만 본다. 폰판에서는 아예 감춘다. */
-  const HIDE = ['#btnOpenOut', '[data-insta-slot]', '.insta-btn',
+  /* 🆕 2026-09-18 인스타 올리기 단추(`[data-insta-slot]`·`.insta-btn`·insta.html 링크)는
+     더 이상 감추지 않는다 - 폰판 전용 insta.html 이 깃허브를 거쳐 공식 API 로 올린다. */
+  const HIDE = ['#btnOpenOut',
     /* AI 문구는 우리 서버를 거쳐 제공자로 가는 길이라 서버 없는 폰판에는 없다 */
     '#btnAI', '#aiBox', '#btnMakeAI',
     /* 시리즈 「out 폴더에 저장」— 폰판은 out 폴더가 없다(PNG 전부 = 내려받기 는 남긴다) */
@@ -514,8 +566,7 @@
     '#btnSave',
     /* 🔴 `피드 글`(feed.html)은 2026-09-02 부터 폰판에도 있다 — feedstyles.js 가
        캡션 생성기를 대신한다. 여기서 감추면 그 화면으로 갈 길이 없어진다. */
-    'a[href$="out.html"]', 'a[href$="topics.html"]',
-    'a[href$="insta.html"]'];
+    'a[href$="out.html"]', 'a[href$="topics.html"]'];
 
   /* 같은 단추라도 폰판에서는 하는 일이 다르다 — 이름을 바꿔 준다.
      (out 폴더가 없으니 「저장」은 실제로는 **내려받기**다) */

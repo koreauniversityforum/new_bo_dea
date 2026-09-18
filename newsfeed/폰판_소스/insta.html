@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>인스타 올리기 - 뉴보대</title>
+<link rel="icon" href="assets/뉴보대_로고.png">
+<link rel="stylesheet" href="style.css">
+<script src="config.js"></script>
+<script src="폰shim.js"></script>
+<style>
+  /* 폰판 전용 올리기 화면 (2026-09-18).
+     PC 앱의 insta.html 은 크롬을 조종하거나(서버) meta_api 로 직접 올린다(서버).
+     폰판에는 서버가 없으므로 **깃허브가 서버 노릇**을 한다:
+       ① 담은 카드를 JPEG 로 바꿔 `cards` 브랜치에 올린다(raw.githubusercontent = 공개 주소)
+       ② publish-cards 워크플로를 부른다(메타 열쇠는 깃허브 시크릿 META_CONFIG 에만 있다)
+       ③ 그 실행을 따라가며 결과를 보여 준다
+     이 기기에 두는 것은 깃허브 열쇠(PAT) 하나뿐이고, 메타 토큰은 폰에 오지 않는다. */
+  /* 🔴 style.css 는 편집 화면용으로 body 를 화면 높이에 고정하고 overflow:hidden 을 건다.
+        이 화면은 위에서 아래로 읽는 한 장이라 그대로 두면 3·4번 칸까지 스크롤이 안 된다. */
+  html,body{height:auto;overflow:auto}
+  body{display:block;background:var(--bg,#14161a);color:var(--ink,#eee)}
+  .wrap{max-width:860px;margin:0 auto;padding:16px;display:flex;flex-direction:column;gap:14px}
+  .top{display:flex;flex-wrap:wrap;gap:8px;align-items:center;position:relative;z-index:60}
+  .top h1{font-size:18px;margin:0 8px 0 0}
+  .box{border:1px solid var(--line,#333);border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:10px}
+  .box h2{font-size:15px;margin:0}
+  .muted{opacity:.7;font-size:12px;line-height:1.5}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:10px}
+  .th{position:relative;border:1px solid var(--line,#333);border-radius:8px;overflow:hidden;background:#000}
+  .th img{display:block;width:100%;aspect-ratio:4/5;object-fit:contain;background:#fff}
+  .th .n{position:absolute;left:6px;top:6px;background:#3b6ef5;color:#fff;font-size:12px;font-weight:700;border-radius:10px;padding:1px 7px}
+  .th .ctl{display:flex;justify-content:space-between;padding:4px}
+  .th button{background:none;border:1px solid var(--line,#444);color:var(--ink,#eee);border-radius:6px;padding:2px 8px;cursor:pointer}
+  textarea{width:100%;min-height:180px;box-sizing:border-box;border-radius:8px;border:1px solid var(--line,#333);background:transparent;color:inherit;padding:10px;font:inherit;line-height:1.5;word-break:keep-all}
+  input[type=password],input[type=text]{flex:1;min-width:0;border-radius:8px;border:1px solid var(--line,#333);background:transparent;color:inherit;padding:8px}
+  .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .btn{padding:9px 14px;border-radius:8px;border:1px solid var(--line,#444);background:none;color:inherit;cursor:pointer;font-size:14px}
+  .btn.primary{background:#3b6ef5;border-color:#3b6ef5;color:#fff;font-weight:700}
+  .btn:disabled{opacity:.45;cursor:default}
+  .count.over{color:#ff6b6b;font-weight:700}
+  #log{white-space:pre-wrap;font-size:12px;line-height:1.5;background:rgba(127,127,127,.08);border-radius:8px;padding:10px;min-height:40px}
+  .ok{color:#3ecf8e}.bad{color:#ff6b6b}
+  a{color:#6d9bff}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <h1>인스타 올리기</h1>
+    <a class="ghost" href="./" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">← 앞장 만들기</a>
+    <a class="ghost" href="outro.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">뒷장 만들기</a>
+    <a class="ghost" href="feed.html" style="padding:7px 12px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:12px">피드 글</a>
+    <span data-nav-slot></span>
+  </div>
+
+  <div class="box">
+    <h2>1. 담은 카드 <span id="cnt" class="muted"></span></h2>
+    <div class="muted">앞장·뒷장 화면 머리글의 <b>인스타 올리기</b> 단추를 누를 때마다 지금 카드가 여기 쌓입니다(최대 10장). 번호 순서가 캐러셀 순서입니다.</div>
+    <div id="grid" class="grid"></div>
+    <div class="row"><button class="btn" id="btnClear">담은 카드 비우기</button></div>
+  </div>
+
+  <div class="box">
+    <h2>2. 올릴 글</h2>
+    <textarea id="cap" placeholder="피드 글 화면에서 만든 글이 있으면 자동으로 들어옵니다."></textarea>
+    <div class="row muted">
+      <span id="len" class="count"></span>
+      <a href="feed.html">피드 글 만들기로 →</a>
+    </div>
+    <div class="row">
+      <label><input type="checkbox" name="ch" value="instagram" checked> 인스타그램</label>
+      <label><input type="checkbox" name="ch" value="facebook" checked> 페이스북 페이지</label>
+      <label><input type="checkbox" name="ch" value="threads"> 스레드</label>
+    </div>
+    <div class="muted">스레드는 아직 연결 전이면 건너뜁니다(500자 넘으면 잘라서 보냅니다).</div>
+  </div>
+
+  <div class="box">
+    <h2>3. 발행 열쇠(깃허브)</h2>
+    <div class="muted" id="keyState"></div>
+    <div class="row">
+      <input type="password" id="pat" placeholder="github_pat_… 를 붙여넣기" autocomplete="off">
+      <button class="btn" id="btnKeySave">이 기기에 저장</button>
+      <button class="btn" id="btnKeyDel">지우기</button>
+    </div>
+    <div class="muted">
+      깃허브(koreauniversityforum) → Settings → Developer settings → Fine-grained tokens 에서
+      저장소 <b>new_bo_dea</b> 하나만 고르고 권한 <b>Contents: Read and write</b> ·
+      <b>Actions: Read</b> 를 준 열쇠입니다. 이 기기의 브라우저에만 저장되고, 메타(인스타) 열쇠는 폰에 오지 않습니다.
+      「정기 뉴스 메이커」의 발행 열쇠와 같은 것이라 한 번만 넣으면 됩니다.
+    </div>
+  </div>
+
+  <div class="box">
+    <h2>4. 올리기</h2>
+    <div class="row">
+      <button class="btn" id="btnDry">점검만</button>
+      <button class="btn primary" id="btnGo">실제로 발행</button>
+    </div>
+    <div class="muted">점검만: 그림을 공개 자리에 올리고 주소가 열리는지까지만 보고, 인스타에는 안 보냅니다.</div>
+    <div id="log"></div>
+  </div>
+</div>
+
+<script src="nav.js"></script>
+<script>
+(function () {
+  'use strict';
+  const REPO = 'koreauniversityforum/new_bo_dea';
+  const BRANCH = 'cards';                 // raw.githubusercontent 로 곧바로 공개되는 자리
+  const PAT_KEY = 'nbd_pat';              // 정기 뉴스 메이커와 같은 열쇠
+  const LIMIT = { instagram: 2200, threads: 500 };
+  const $ = id => document.getElementById(id);
+  const S = window.NBD_STAGE;
+  let cards = [];                         // {id,name,blob,url}
+  let busy = false;
+
+  if (window.NAV) NAV.mount();
+
+  const key = () => { try { return localStorage.getItem(PAT_KEY) || ''; } catch (e) { return ''; } };
+  const log = (s, cls) => {
+    const d = document.createElement('div');
+    if (cls) d.className = cls;
+    d.textContent = s;
+    $('log').appendChild(d);
+  };
+  const clearLog = () => { $('log').textContent = ''; };
+
+  /* ── 담은 카드 ── */
+  async function load() {
+    cards.forEach(c => c.url && URL.revokeObjectURL(c.url));
+    cards = (await S.list()).map(c => Object.assign(c, { url: URL.createObjectURL(c.blob) }));
+    draw();
+  }
+  function draw() {
+    const g = $('grid');
+    g.textContent = '';
+    $('cnt').textContent = cards.length ? '(' + cards.length + '장)' : '';
+    if (!cards.length) {
+      g.innerHTML = '<div class="muted">아직 담은 카드가 없습니다. <a href="./">앞장 만들기</a>에서 카드를 만든 뒤 머리글의 <b>인스타 올리기</b>를 누르세요.</div>';
+    }
+    cards.forEach((c, i) => {
+      const el = document.createElement('div');
+      el.className = 'th';
+      el.innerHTML = '<span class="n">' + (i + 1) + '</span><img alt=""><div class="ctl">' +
+        '<button data-a="l">←</button><button data-a="x" title="빼기">×</button><button data-a="r">→</button></div>';
+      el.querySelector('img').src = c.url;
+      el.querySelector('img').title = c.name;
+      el.addEventListener('click', async e => {
+        const a = e.target.dataset && e.target.dataset.a;
+        if (!a || busy) return;
+        if (a === 'x') { await S.remove(c.id); URL.revokeObjectURL(c.url); cards.splice(i, 1); }
+        if (a === 'l' && i > 0) [cards[i - 1], cards[i]] = [cards[i], cards[i - 1]];
+        if (a === 'r' && i < cards.length - 1) [cards[i + 1], cards[i]] = [cards[i], cards[i + 1]];
+        draw();
+      });
+      g.appendChild(el);
+    });
+    buttons();
+  }
+  $('btnClear').addEventListener('click', async () => {
+    if (!cards.length || busy) return;
+    if (!confirm('담은 카드 ' + cards.length + '장을 비울까요? (만든 카드 화면에는 영향 없음)')) return;
+    await S.clear();
+    await load();
+  });
+
+  /* ── 글 ── */
+  function initCaption() {
+    let staged = null;
+    if (window.NAV && NAV.takeStage) staged = NAV.takeStage();
+    const fromFeed = (window.NAV && NAV.feedText) ? NAV.feedText() : '';
+    // 🔴 담을 때 넘어온 초안(takeStage)은 한 번 읽으면 사라진다 - 화면을 다시 열면 빈칸이
+    //    되므로 쓰던 글은 이 기기에 따로 남겨 둔다(새로 담아 온 초안이 있으면 그쪽이 먼저).
+    let kept = '';
+    try { kept = localStorage.getItem(CAP_KEY) || ''; } catch (e) { /* 무시 */ }
+    $('cap').value = (staged && staged.caption) || kept || fromFeed || '';
+    keepCap();
+    count();
+  }
+  const CAP_KEY = 'nb_insta_cap';
+  const keepCap = () => { try { localStorage.setItem(CAP_KEY, $('cap').value); } catch (e) { /* 무시 */ } };
+  $('cap').addEventListener('input', keepCap);
+  const channels = () => [...document.querySelectorAll('input[name=ch]:checked')].map(x => x.value);
+  function count() {
+    const n = [...$('cap').value].length;
+    const over = channels().includes('instagram') && n > LIMIT.instagram;
+    $('len').textContent = n + '자' + (channels().includes('instagram') ? ' / 인스타 ' + LIMIT.instagram : '')
+      + (channels().includes('threads') && n > LIMIT.threads ? ' (스레드는 ' + LIMIT.threads + '자로 잘림)' : '');
+    $('len').classList.toggle('over', over);
+    buttons();
+  }
+  $('cap').addEventListener('input', count);
+  document.querySelectorAll('input[name=ch]').forEach(x => x.addEventListener('change', count));
+
+  /* ── 열쇠 ── */
+  function keyState() {
+    const k = key();
+    $('keyState').innerHTML = k ? '<span class="ok">이 기기에 열쇠가 있습니다</span> (' + k.slice(0, 11) + '…)'
+      : '<span class="bad">열쇠가 없습니다</span> - 아래에 한 번 넣어 두면 계속 씁니다.';
+    buttons();
+  }
+  $('btnKeySave').addEventListener('click', () => {
+    const v = $('pat').value.trim();
+    if (!v) return;
+    try { localStorage.setItem(PAT_KEY, v); $('pat').value = ''; } catch (e) { alert('저장 실패: ' + e.message); }
+    keyState();
+  });
+  $('btnKeyDel').addEventListener('click', () => {
+    try { localStorage.removeItem(PAT_KEY); } catch (e) { /* 무시 */ }
+    keyState();
+  });
+
+  function buttons() {
+    const n = [...$('cap').value].length;
+    const ok = !busy && cards.length > 0 && n > 0 && key() && channels().length
+      && !(channels().includes('instagram') && n > LIMIT.instagram);
+    $('btnDry').disabled = $('btnGo').disabled = !ok;
+  }
+
+  /* ── 깃허브 ── */
+  const gh = (path, opt) => window.__nbdFetch('https://api.github.com' + path, Object.assign({}, opt, {
+    headers: Object.assign({ 'Authorization': 'Bearer ' + key(), 'Accept': 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28' }, (opt && opt.headers) || {}),
+  }));
+  function why(status) {
+    if (status === 401) return '열쇠가 틀렸거나 만료됐습니다.';
+    if (status === 403) return '열쇠 권한이 모자랍니다(Contents 쓰기 · Actions 읽기).';
+    if (status === 404) return '저장소나 브랜치를 못 찾았습니다(열쇠에 new_bo_dea 가 들어 있나요?).';
+    if (status === 422) return '깃허브가 요청을 거절했습니다.';
+    return 'HTTP ' + status;
+  }
+
+  /* 인스타는 JPEG 만 받는다. 투명한 곳은 흰색을 먼저 깔아야 검게 안 나온다(meta_api 와 같은 규칙). */
+  function toJpegBase64(blob) {
+    return new Promise((res, rej) => {
+      const u = URL.createObjectURL(blob);
+      const im = new Image();
+      im.onload = () => {
+        const w = Math.min(1440, im.naturalWidth), h = Math.round(im.naturalHeight * w / im.naturalWidth);
+        const cv = document.createElement('canvas');
+        cv.width = w; cv.height = h;
+        const x = cv.getContext('2d');
+        x.fillStyle = '#fff'; x.fillRect(0, 0, w, h);
+        x.drawImage(im, 0, 0, w, h);
+        URL.revokeObjectURL(u);
+        res(cv.toDataURL('image/jpeg', 0.92).split(',')[1]);
+      };
+      im.onerror = () => { URL.revokeObjectURL(u); rej(new Error('그림을 읽지 못했습니다.')); };
+      im.src = u;
+    });
+  }
+
+  async function upload() {
+    const stamp = 'up/p' + new Date().toISOString().replace(/\D/g, '').slice(2, 14);
+    const urls = [];
+    for (let i = 0; i < cards.length; i++) {
+      const name = String(i + 1).padStart(2, '0') + '.jpg';
+      log('  ' + (i + 1) + '/' + cards.length + ' JPEG 로 바꿔 올리는 중…');
+      const b64 = await toJpegBase64(cards[i].blob);
+      const r = await gh('/repos/' + REPO + '/contents/' + stamp + '/' + name, {
+        method: 'PUT',
+        body: JSON.stringify({ message: '폰판 올림: ' + stamp + '/' + name, content: b64, branch: BRANCH }),
+      });
+      if (!r.ok) throw new Error('그림 올리기 실패 - ' + why(r.status));
+      urls.push('https://raw.githubusercontent.com/' + REPO + '/' + BRANCH + '/' + stamp + '/' + name);
+    }
+    return urls;
+  }
+
+  async function follow(since) {
+    // 방금 부른 실행을 찾는다(요청 시각 이후에 생긴 repository_dispatch 실행)
+    let run = null;
+    for (let t = 0; t < 20 && !run; t++) {
+      await new Promise(r => setTimeout(r, 3000));
+      const r = await gh('/repos/' + REPO + '/actions/workflows/publish-cards.yml/runs?event=repository_dispatch&per_page=5');
+      if (!r.ok) { log('실행을 따라가지 못했습니다 - ' + why(r.status) + ' (발행 자체는 진행됩니다)', 'bad'); return; }
+      const j = await r.json();
+      run = (j.workflow_runs || []).find(x => new Date(x.created_at).getTime() >= since - 5000);
+    }
+    if (!run) { log('실행을 아직 못 찾았습니다. 깃허브 Actions 탭에서 「카드 발행」을 확인하세요.'); return; }
+    const link = document.createElement('a');
+    link.href = run.html_url; link.target = '_blank'; link.rel = 'noopener';
+    link.textContent = '깃허브에서 실행 보기';
+    $('log').appendChild(link);
+    for (let t = 0; t < 60; t++) {
+      const r = await gh('/repos/' + REPO + '/actions/runs/' + run.id);
+      if (r.ok) {
+        const x = await r.json();
+        if (x.status === 'completed') {
+          if (x.conclusion === 'success') log('✔ 끝났습니다. 자세한 결과는 위 링크의 요약(Summary)에 있습니다.', 'ok');
+          else log('✘ 실행이 ' + x.conclusion + ' 로 끝났습니다. 위 링크에서 이유를 확인하세요.', 'bad');
+          return x.conclusion;
+        }
+      }
+      await new Promise(r => setTimeout(r, 5000));
+    }
+    log('5분이 지나도 안 끝났습니다. 위 링크에서 확인하세요.');
+  }
+
+  async function send(dry) {
+    if (busy) return;
+    const cap = $('cap').value.trim();
+    const ch = channels();
+    if (!dry && !confirm(cards.length + '장을 ' + ch.join(', ') + ' 에 실제로 발행합니다.\n되돌릴 수 없습니다. 진행할까요?')) return;
+    busy = true; buttons(); clearLog();
+    try {
+      log((dry ? '[점검만] ' : '') + '1) 그림을 공개 자리(깃허브 cards 브랜치)에 올립니다');
+      const urls = await upload();
+      log('2) 발행 요청을 보냅니다');
+      const since = Date.now();
+      const r = await gh('/repos/' + REPO + '/dispatches', {
+        method: 'POST',
+        body: JSON.stringify({ event_type: 'publish-cards',
+          client_payload: { caption: cap, channels: ch, dry: !!dry, urls, source: 'phone' } }),
+      });
+      if (r.status !== 204) throw new Error('발행 요청이 거절됐습니다 - ' + why(r.status));
+      log('3) 깃허브가 발행 중입니다(1~3분)');
+      const end = await follow(since);
+      if (end === 'success' && !dry && confirm('발행이 끝났습니다. 담은 카드를 비울까요?')) {
+        await S.clear(); await load();
+        // 올린 글이 다음 게시물에 딸려 가지 않게(앱 12차에서 겪은 함정) 같이 비운다
+        $('cap').value = ''; keepCap(); count();
+      }
+    } catch (e) {
+      log('‼ ' + e.message, 'bad');
+    } finally {
+      busy = false; buttons();
+    }
+  }
+  $('btnDry').addEventListener('click', () => send(true));
+  $('btnGo').addEventListener('click', () => send(false));
+
+  if (!S) { log('이 화면은 폰판(홈페이지)에서만 씁니다.', 'bad'); return; }
+  initCaption();
+  keyState();
+  load().catch(e => log('담은 카드를 못 읽었습니다: ' + e.message, 'bad'));
+})();
+</script>
+</body>
+</html>
