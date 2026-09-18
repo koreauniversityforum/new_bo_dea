@@ -148,10 +148,21 @@ def _멀티파트(fields, files):
 
 
 # ────────────────────────────────────────────────── 설정 파일
+def _앱폴더():
+    """exe 로 구웠으면 exe 옆, 아니면 소스 폴더."""
+    return os.path.dirname(sys.executable) if getattr(sys, "frozen", False) else BASE
+
+
 def 설정읽기():
-    if not os.path.isfile(설정경로):
-        return {"앱": {}, "호스팅": {}, "계정": {}}
-    with open(설정경로, encoding="utf-8") as f:
+    경로 = 설정경로
+    if not os.path.isfile(경로):
+        # 다른 PC 로 옮길 때는 받은 `메타_계정.json` 을 앱 폴더(exe 옆)에 두기만 해도 읽는다.
+        # 토큰 갱신 등으로 한 번 쓰면 그때부터는 %LOCALAPPDATA% 쪽이 진짜가 된다.
+        옆 = os.path.join(_앱폴더(), "메타_계정.json")
+        if not os.path.isfile(옆):
+            return {"앱": {}, "호스팅": {}, "계정": {}}
+        경로 = 옆
+    with open(경로, encoding="utf-8-sig") as f:
         d = json.load(f)
     d.setdefault("앱", {})
     d.setdefault("호스팅", {})
@@ -590,9 +601,81 @@ class 터널호스팅:
             self.서버 = None
 
 
+def _깃허브열쇠(h):
+    """깃허브API 호스팅에 쓸 열쇠. 설정 → 환경변수 → `깃허브_열쇠.txt` 순서.
+
+    🔴 열쇠는 `메타_계정.json` 과 **따로** 둔다(다른 PC 에 json 을 넘길 때 열쇠까지 딸려 가지
+       않게). `깃허브_열쇠.txt` 는 설정 파일과 같은 폴더에 사람이 직접 넣는다.
+    """
+    k = (h.get("토큰") or os.environ.get("NBD_GH_TOKEN") or "").strip()
+    if k:
+        return k
+    for 폴더 in (설정폴더, _앱폴더()):
+        p = os.path.join(폴더, "깃허브_열쇠.txt")
+        if os.path.isfile(p):
+            with open(p, encoding="utf-8-sig", errors="replace") as f:
+                k = f.read().strip()
+            if k:
+                return k
+    raise MetaError("깃허브 열쇠가 없습니다. `%s` 에 github_pat_… 한 줄을 넣어 주세요."
+                    % os.path.join(설정폴더, "깃허브_열쇠.txt"))
+
+
+class 깃허브API호스팅:
+    """깃 저장소 없이 **열쇠 하나로** 깃허브 `cards` 브랜치에 올린다 (2026-09-18).
+
+    다른 PC(깃 없음·저장소 사본 없음)에서도 게시할 수 있게 만든 방식이다. 폰판 올리기
+    화면과 같은 자리(`cards/up/…`)를 쓰고, 주소는 raw.githubusercontent 라 페이지 배포를
+    기다릴 필요가 없다. 새벽 워크플로가 cards 브랜치를 갈아 끼우므로 따로 치우지 않는다.
+    설정: {"방식":"깃허브API", "저장소":"koreauniversityforum/new_bo_dea", "브랜치":"cards"}
+    """
+
+    def __init__(self, 저장소, 브랜치, 열쇠):
+        self.저장소 = 저장소
+        self.브랜치 = 브랜치
+        self.열쇠 = 열쇠
+
+    def 올리기(self, 파일들, 로그=print):
+        import base64
+        하위 = "up/pc" + datetime.now().strftime("%y%m%d%H%M%S")
+        주소들 = []
+        for i, p in enumerate(파일들, 1):
+            이름 = "%02d%s" % (i, os.path.splitext(p)[1].lower() or ".jpg")   # 한글 이름은 주소에서 피한다
+            with open(p, "rb") as f:
+                몸 = json.dumps({"message": "PC 올림: %s/%s" % (하위, 이름),
+                                "content": base64.b64encode(f.read()).decode("ascii"),
+                                "branch": self.브랜치}).encode("utf-8")
+            req = urllib.request.Request(
+                "https://api.github.com/repos/%s/contents/%s/%s" % (self.저장소, 하위, 이름),
+                data=몸, method="PUT",
+                headers={"Authorization": "Bearer " + self.열쇠,
+                         "Accept": "application/vnd.github+json",
+                         "Content-Type": "application/json", "User-Agent": "newbodae"})
+            try:
+                with _열기(req):
+                    pass
+            except urllib.error.HTTPError as e:
+                왜 = {401: "열쇠가 틀렸거나 만료됨", 403: "열쇠 권한 부족(Contents 쓰기)",
+                     404: "저장소·브랜치를 못 찾음"}.get(e.code, "HTTP %s" % e.code)
+                raise MetaError("깃허브에 그림을 못 올렸습니다: %s" % 왜)
+            주소들.append("https://raw.githubusercontent.com/%s/%s/%s/%s"
+                        % (self.저장소, self.브랜치, 하위, 이름))
+            로그("  깃허브에 올림 %d/%d" % (i, len(파일들)))
+        for u in 주소들:
+            _주소확인(u, 기다림=60, 로그=로그)
+        로그("  공개 주소 확인됨 (%d장)" % len(주소들))
+        return 주소들
+
+    def 치우기(self, 로그=print):
+        pass
+
+
 def 호스팅만들기(설정, 임시폴더):
     h = dict(설정.get("호스팅") or {})
     방식 = h.get("방식") or "깃허브페이지"
+    if 방식 == "깃허브API":
+        return 깃허브API호스팅(h.get("저장소") or "koreauniversityforum/new_bo_dea",
+                             h.get("브랜치") or "cards", _깃허브열쇠(h))
     if 방식 == "직접":
         if not h.get("폴더") or not h.get("공개주소"):
             raise MetaError("직접 호스팅에는 `폴더`와 `공개주소`가 필요합니다.")

@@ -649,7 +649,8 @@ async function pubStatus(){
       return '<option value="' + a.key + '">' + a.key + ' — ' + (ch || '창구 없음') + '</option>';
     }).join('');
     $('#pubStat').textContent = '계정 ' + d.accounts.length + '개' +
-      (d.hosting ? ' · 공개 주소 설정됨' : ' · 🔴 공개 주소(호스팅)가 없어 인스타·스레드는 막힙니다');
+      (d.hosting ? ' · 그림 공개 방식: ' + d.hosting : ' · 🔴 공개 주소(호스팅)가 없어 인스타·스레드는 막힙니다') +
+      (d.app === false ? ' · 🔴 메타 앱 정보(앱 ID)가 없습니다' : '');
     $('#btnPub').disabled = $('#btnPubDry').disabled = false;
   }catch(e){
     $('#pubStat').textContent = '준비 상태를 못 읽었습니다: ' + e.message;

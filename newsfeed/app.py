@@ -634,9 +634,13 @@ class Handler(BaseHTTPRequestHandler):
                     continue
                 ch.append({"name": name, "left": M.남은날(part)})
             out.append({"key": key, "channels": ch})
+        # 🔴 예전엔 없는 키(`호스팅.갈래`·`앱.id`)를 봐서 늘 false 였다 - 연결이 다 됐는데도
+        #    화면이 「공개 주소가 없어 막힙니다」라고 거짓 경고를 띄웠다(2026-09-18 실측).
+        #    meta_api 는 방식이 비어 있으면 깃허브페이지로 가므로, 방식 이름을 그대로 준다.
+        h = cfg.get("호스팅") or {}
         return self._send(200, {"ok": True, "accounts": out,
-                                "hosting": bool((cfg.get("호스팅") or {}).get("갈래")),
-                                "app": bool((cfg.get("앱") or {}).get("id"))})
+                                "hosting": h.get("방식") or "깃허브페이지",
+                                "app": bool((cfg.get("앱") or {}).get("app_id"))})
 
     def _publish(self):
         """[발행] - 고른 카드를 메타 공식 API 로 인스타·페이스북 페이지·스레드에.

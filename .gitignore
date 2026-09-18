@@ -28,3 +28,9 @@ Thumbs.db
 .cards/
 .github/cards/node_modules/
 .github/cards/package-lock.json
+
+# 메타 토큰·앱 시크릿이 든 파일 - 공개 저장소에 절대 올리지 않는다 (2026-09-18)
+메타_계정.json
+깃허브_열쇠.txt
+다른 PC용/
+앱_새빌드/
