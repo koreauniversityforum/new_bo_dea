@@ -169,6 +169,16 @@
     <!-- 시리즈(캐러셀) 띠 — 장 목록·추가·자동 구성·전체 저장. deck.js 가 채운다 -->
     <div id="deckBar" class="deck-bar">
       <div id="deckPages" class="deck-pages"></div>
+      <!-- 골라 지우기 띠 — 「☑ 골라 지우기」를 누르거나 장을 Ctrl·Shift 로 누르면 열린다 -->
+      <div id="deckPickBar" class="deck-pick" hidden>
+        <b id="deckPickCount">0장 선택</b>
+        <span class="deck-pick-tip">장을 눌러 고르고 · Shift 로 사이 전부</span>
+        <button id="btnDeckPickAll" class="sm ghost">전부 고르기</button>
+        <button id="btnDeckPickNone" class="sm ghost">선택 풀기</button>
+        <span class="deck-sep"></span>
+        <button id="btnDeckPickDel" class="sm deck-del" disabled>고른 장 지우기</button>
+        <button id="btnDeckPickOff" class="sm ghost">끝내기</button>
+      </div>
       <div class="deck-tools">
         <div class="deck-add">
           <button id="btnDeckAdd" class="sm" title="지금 장의 디자인을 물려받은 새 장을 뒤에 붙입니다">+ 장 추가 ▾</button>
@@ -182,6 +192,7 @@
             <button data-tpl="outro">뒷장 <em>팔로우 유도 · 「뒷장 만들기」 설정 그대로</em></button>
           </div>
         </div>
+        <button id="btnDeckPick" class="sm ghost" title="여러 장을 골라 한 번에 지웁니다. Ctrl(⌘)·Shift 를 누른 채 눌러도 골라집니다">☑ 골라 지우기</button>
         <button id="btnDeckAuto" class="sm primary" title="기사 본문을 표지 + 본문 장으로 나눠 한 번에 만듭니다">자동 구성</button>
         <select id="deckAutoN" title="본문 장 수"><option value="2">본문 2장</option><option value="3" selected>본문 3장</option><option value="4">본문 4장</option><option value="5">본문 5장</option></select>
         <label class="deck-chk" title="마지막에 뒷장(팔로우 유도)을 붙입니다"><input type="checkbox" id="deckAutoOutro" checked> 뒷장</label>

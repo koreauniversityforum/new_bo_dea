@@ -29,6 +29,12 @@
   let sweeping = false;                        // 전 장 훑는 중(작은 그림 갱신 금지)
   let booted = false;
   let outroST = null, outroImgs = null;        // 뒷장 설정·그림 캐시
+  /* 골라 지우기 — 장이 쌓이면 ✕ 를 한 장씩 누르는 것이 일이다(2026-09-20 지적).
+     고른 장은 **번호가 아니라 id** 로 들고 있는다. 지우기·옮기기로 번호는 계속 밀린다. */
+  let picking = false;
+  const picked = new Set();
+  let lastPick = null;                         // Shift 로 사이를 고를 때의 기준 장
+  let longPressAt = 0;                         // 폰 길게 누르기 뒤 따라오는 click 무시용
 
   const uid = () => 'p' + Math.random().toString(36).slice(2, 8);
   const clone = (o) => JSON.parse(JSON.stringify(o));
@@ -194,6 +200,70 @@
     pages.splice(i, 1);
     await activate(Math.min(i, pages.length - 1), { noCommit: true });
   }
+  /** 여러 장을 한 번에. 번호가 밀리지 않게 **뒤에서부터** 뺀다.
+   *  지운 뒤 설 자리는 ①고른 장에 안 들어 있던 지금 장, 없으면 ②첫 번째로 지운 자리. */
+  async function removeMany(idxs) {
+    const list = [...new Set(idxs)].filter(i => i >= 0 && i < pages.length).sort((a, b) => a - b);
+    if (!list.length) return false;
+    if (list.length >= pages.length) {
+      msg($('fetchMsg'), '마지막 한 장은 남겨야 합니다. 전부 비우려면 「새 기사」를 누르세요.', 'err');
+      return false;
+    }
+    commit();
+    const keepId = list.indexOf(cur) < 0 && pages[cur] ? pages[cur].id : null;
+    for (let k = list.length - 1; k >= 0; k--) pages.splice(list[k], 1);
+    let next = keepId ? pages.findIndex(p => p.id === keepId) : -1;
+    if (next < 0) next = Math.min(list[0], pages.length - 1);
+    await activate(next, { noCommit: true });
+    return true;
+  }
+
+  /* ───────────── 골라 지우기 ───────────── */
+  function openPick() {
+    if (picking) return;
+    picking = true;
+    if ($('deckPickBar')) $('deckPickBar').hidden = false;
+    if ($('btnDeckPick')) $('btnDeckPick').classList.add('primary');
+  }
+  function closePick() {
+    picking = false;
+    picked.clear();
+    lastPick = null;
+    if ($('deckPickBar')) $('deckPickBar').hidden = true;
+    if ($('btnDeckPick')) $('btnDeckPick').classList.remove('primary');
+  }
+  function togglePick(i) {
+    const p = pages[i];
+    if (!p) return;
+    if (picked.has(p.id)) picked.delete(p.id); else picked.add(p.id);
+  }
+  function pickRange(a, b) {
+    const lo = Math.min(a, b), hi = Math.max(a, b);
+    for (let i = lo; i <= hi; i++) if (pages[i]) picked.add(pages[i].id);
+  }
+  const pickedIdx = () => pages.map((p, i) => picked.has(p.id) ? i : -1).filter(i => i >= 0);
+  function paintPickBar() {
+    const bar = $('deckPickBar');
+    if (!bar) return;
+    bar.hidden = !picking;
+    $('deckPickCount').textContent = picked.size + '장 선택';
+    $('btnDeckPickDel').disabled = !picked.size;
+  }
+  async function deletePicked() {
+    const idxs = pickedIdx();
+    if (!idxs.length) return;
+    const nums = idxs.map(i => i + 1);
+    const head = nums.slice(0, 10).join('·') + (nums.length > 10 ? ` 외 ${nums.length - 10}` : '');
+    if (!confirm(`${idxs.length}장(${head}장)을 지웁니다.\n되돌릴 수 없습니다. 계속할까요?`)) return;
+    const n = idxs.length;
+    const ok = await removeMany(idxs);
+    if (!ok) return;
+    picked.clear();
+    lastPick = null;
+    paint();
+    msg($('fetchMsg'), `${n}장을 지웠습니다 · 남은 장 ${pages.length}장.`, 'ok');
+  }
+
   async function duplicate(i) {
     commit();
     const src = pages[i];
@@ -213,6 +283,7 @@
   function resetToOne() {
     // 새 기사: 지금 장(카드) 한 장만 남긴다. 뒷장이 떠 있었으면 가장 가까운 카드로.
     const keep = baseCard();
+    closePick();
     pages.length = 0;
     if (keep) { pages.push(keep); }
     else pages.push({ id: uid(), kind: 'card', tpl: 'cover', S, bgImg: bgImg || null, thumb: null });
@@ -477,6 +548,9 @@
   function paint() {
     const root = $('deckPages');
     if (!root) return;
+    // 지워진 장이 고른 목록에 남지 않게 턴다
+    [...picked].forEach(id => { if (!pages.some(p => p.id === id)) picked.delete(id); });
+    root.classList.toggle('picking', picking);
     root.innerHTML = '';
     pages.forEach((p, i) => {
       const d = document.createElement('div');
@@ -488,8 +562,37 @@
       d.appendChild(c);
       const n = document.createElement('span'); n.className = 'num'; n.textContent = i + 1; d.appendChild(n);
       const t = document.createElement('span'); t.className = 'tpl'; t.textContent = TPL_NAMES[p.tpl] || ''; d.appendChild(t);
-      d.addEventListener('click', (ev) => { if (ev.target.closest('.deck-ops')) return; activate(i); });
-      if (i === cur) {
+      if (picking) {
+        const k = document.createElement('span'); k.className = 'pick';
+        k.textContent = picked.has(p.id) ? '✓' : '';
+        d.appendChild(k);
+        if (picked.has(p.id)) d.classList.add('picked');
+      }
+      d.addEventListener('click', (ev) => {
+        if (ev.target.closest('.deck-ops')) return;
+        if (Date.now() - longPressAt < 700) return;          // 길게 누른 뒤 따라오는 click
+        if (picking || ev.ctrlKey || ev.metaKey || ev.shiftKey) {
+          ev.preventDefault();
+          openPick();
+          if (ev.shiftKey && lastPick != null) pickRange(lastPick, i);
+          else togglePick(i);
+          lastPick = i;
+          paint();
+          return;
+        }
+        activate(i);
+      });
+      // 폰에는 Ctrl 이 없다 — 길게 누르면 고르기가 열린다(사진 썸네일과 같은 조작)
+      let lpTimer = null;
+      d.addEventListener('touchstart', () => {
+        lpTimer = setTimeout(() => {
+          longPressAt = Date.now();
+          openPick(); togglePick(i); lastPick = i; paint();
+        }, 500);
+      }, { passive: true });
+      ['touchend', 'touchmove', 'touchcancel'].forEach(e =>
+        d.addEventListener(e, () => clearTimeout(lpTimer), { passive: true }));
+      if (i === cur && !picking) {
         const ops = document.createElement('div'); ops.className = 'deck-ops';
         const mk = (txt, title, fn) => { const b = document.createElement('button'); b.textContent = txt; b.title = title; b.addEventListener('click', (ev) => { ev.stopPropagation(); fn(); }); ops.appendChild(b); };
         mk('◀', '앞으로', () => move(i, -1));
@@ -502,6 +605,7 @@
     });
     const cnt = $('deckCount');
     if (cnt) cnt.textContent = `${pages.length}장`;
+    paintPickBar();
     const on = document.querySelector('.deck-thumb.on');
     if (on && on.scrollIntoView) on.scrollIntoView({ block: 'nearest', inline: 'nearest' });
   }
@@ -549,6 +653,16 @@
       await add(tpl, { label: `POINT ${n}` });
       msg($('fetchMsg'), `${cur + 1}장(${TPL_NAMES[tpl]}) 추가 — 지금 장의 디자인을 물려받았습니다. 왼쪽에서 글을 고치세요.`, 'ok');
     }));
+    if ($('btnDeckPick')) {
+      $('btnDeckPick').addEventListener('click', () => {
+        if (picking) closePick(); else openPick();
+        paint();
+      });
+      $('btnDeckPickAll').addEventListener('click', () => { pages.forEach(p => picked.add(p.id)); paint(); });
+      $('btnDeckPickNone').addEventListener('click', () => { picked.clear(); lastPick = null; paint(); });
+      $('btnDeckPickDel').addEventListener('click', deletePicked);
+      $('btnDeckPickOff').addEventListener('click', () => { closePick(); paint(); });
+    }
     $('btnDeckAuto').addEventListener('click', autoCompose);
     $('btnDeckDesignAll').addEventListener('click', async () => {
       if (isOutro(pages[cur])) return msg($('fetchMsg'), '카드 장을 골라 놓고 누르세요(그 장의 디자인을 퍼뜨립니다).', 'err');
@@ -581,7 +695,8 @@
 
   global.DECK = {
     boot, count: () => pages.length, pages: () => pages, current: () => cur,
-    activate, add, remove, move, duplicate, resetToOne, autoCompose, applyDesignAll,
+    activate, add, remove, removeMany, move, duplicate, resetToOne, autoCompose, applyDesignAll,
+    pick: { open: openPick, close: closePick, picked: () => [...picked], deletePicked },
     briefFrom,
     stageItems, saveAll, afterRender, renderOutro, paint,
     isOutroActive: () => isOutro(pages[cur])

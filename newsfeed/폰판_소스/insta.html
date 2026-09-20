@@ -261,6 +261,20 @@
     if (status === 422) return '깃허브가 요청을 거절했습니다.';
     return 'HTTP ' + status;
   }
+  /* 🔴 2026-09-20: 열쇠가 읽기만 되어 있어 1/2 장에서 멈췄다. 401·403 은 고칠 자리가
+     깃허브 설정 화면이라, 거기까지 바로 갈 수 있게 링크를 붙여 준다. */
+  function howToFix(status) {
+    if (status !== 401 && status !== 403) return;
+    log('고치는 곳: 깃허브 → Settings → Developer settings → Personal access tokens →');
+    log('  Fine-grained tokens → 이 열쇠 → Repository permissions 에서');
+    log('  Contents 를 Read and write 로, Actions 를 Read 로 바꾸고 Save 하세요' +
+        (status === 401 ? ' (만료됐으면 새로 발급해 3번 칸에 다시 넣습니다)' : '') + '.');
+    const a = document.createElement('a');
+    a.href = 'https://github.com/settings/personal-access-tokens';
+    a.target = '_blank'; a.rel = 'noopener';
+    a.textContent = '열쇠 설정 열기 →';
+    $('log').appendChild(a);
+  }
 
   /* 인스타는 JPEG 만 받는다. 투명한 곳은 흰색을 먼저 깔아야 검게 안 나온다(meta_api 와 같은 규칙). */
   function toJpegBase64(blob) {
@@ -293,7 +307,7 @@
         method: 'PUT',
         body: JSON.stringify({ message: '폰판 올림: ' + stamp + '/' + name, content: b64, branch: BRANCH }),
       });
-      if (!r.ok) throw new Error('그림 올리기 실패 - ' + why(r.status));
+      if (!r.ok) { const e = new Error('그림 올리기 실패 - ' + why(r.status)); e.status = r.status; throw e; }
       urls.push('https://raw.githubusercontent.com/' + REPO + '/' + BRANCH + '/' + stamp + '/' + name);
     }
     return urls;
@@ -345,7 +359,7 @@
         body: JSON.stringify({ event_type: 'publish-cards',
           client_payload: { caption: cap, channels: ch, dry: !!dry, urls, source: 'phone' } }),
       });
-      if (r.status !== 204) throw new Error('발행 요청이 거절됐습니다 - ' + why(r.status));
+      if (r.status !== 204) { const e = new Error('발행 요청이 거절됐습니다 - ' + why(r.status)); e.status = r.status; throw e; }
       log('3) 깃허브가 발행 중입니다(1~3분)');
       const end = await follow(since);
       if (end === 'success' && !dry && confirm('발행이 끝났습니다. 담은 카드를 비울까요?')) {
@@ -355,6 +369,7 @@
       }
     } catch (e) {
       log('‼ ' + e.message, 'bad');
+      howToFix(e.status || (/401/.test(e.message) ? 401 : /권한/.test(e.message) ? 403 : 0));
     } finally {
       busy = false; buttons();
     }
