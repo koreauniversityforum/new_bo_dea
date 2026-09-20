@@ -130,7 +130,10 @@ def _호출(method, url, params=None, token=None, files=None):
 
 def _멀티파트(fields, files):
     """파일 업로드용 몸통을 손으로 만든다 (requests 없이)."""
-    경계 = "----뉴보대%s" % os.urandom(8).hex()
+    # 🔴 경계 이름에 한글을 쓰면 안 된다 - 이 값이 그대로 Content-Type **머리말**로 가는데
+    #    http.client 는 머리말을 latin-1 로 인코딩한다. 그래서 페이스북 사진 올리기가
+    #    `'latin-1' codec can't encode characters in position 34-36` 으로 죽었다(2026-09-20).
+    경계 = "----nbd%s" % os.urandom(8).hex()
     조각 = []
     for k, v in fields.items():
         조각.append(("--%s\r\nContent-Disposition: form-data; name=\"%s\"\r\n\r\n%s\r\n"
