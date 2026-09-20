@@ -1,0 +1,25 @@
+{
+ "날짜": "2026-09-20",
+ "발행": [
+  {
+   "때": "2026-09-20T15:48:57+09:00",
+   "계정": "news_univ",
+   "장수": 2,
+   "문구": "청와대에 전달된 ‘성추행 의혹’ 탄원서…김승원 사퇴 결정적 배경 됐나\n\n📌 무슨 일인가\n· 사퇴 기자회견에서 김 후보자가 \"정부에 작은 부담이 더해져서는 안 된다고 생각했다\"고 밝힌 가운데, 최근 김 후보자의 지명 철회를 촉구하는 전직 보좌진들의 탄원서가 청와대 측에 전달됐던 것으로 KBS 취재 결과 확인됐습니다. KBS 입수한 탄원서에는 김 후보자의 과거 성추행 의혹과 보좌진들의 무마 과정, 김 후보자 추가…\n· 김승원 법무부 장관 후보자가 오늘 전격 사퇴했습니다\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #장관후보자 #사퇴",
+   "결과": [
+    {
+     "창구": "instagram",
+     "ok": false,
+     "링크": "",
+     "왜": "메타 오류 190: Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page.  → 토큰이 만료됐거나 취소됐습니다. `python 메타_연결.py 연결 <계정>` 으로 다시 이으세요."
+    },
+    {
+     "창구": "facebook",
+     "ok": false,
+     "링크": "",
+     "왜": "'latin-1' codec can't encode characters in position 34-36: ordinal not in range(256)"
+    }
+   ]
+  }
+ ]
+}
