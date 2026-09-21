@@ -1,256 +1,292 @@
 {
- "date": "2026-09-20",
- "generated_at": "2026-09-20T09:31:35+09:00",
+ "date": "2026-09-21",
+ "generated_at": "2026-09-21T09:42:59+09:00",
  "mode": "daily",
- "window_start": "2026-09-19T00:00:00+09:00",
- "window_end": "2026-09-19T23:59:59+09:00",
+ "window_start": "2026-09-20T00:00:00+09:00",
+ "window_end": "2026-09-20T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "[단독] 청와대에 전달된 ‘성추행 의혹’ 탄원서…김승원 사퇴 결정적 배경 됐나",
-   "source": "KBS",
-   "url": "https://n.news.naver.com/article/056/0012260574",
-   "published_at": "2026-09-19T13:10:26+09:00",
+   "title": "與, 김승원 낙마에 \"이제 한동훈 차례\"…내부선 \"인사 검증 시스템 재점검\" 목소리도",
+   "source": "뉴시스",
+   "url": "https://n.news.naver.com/article/003/0014201943",
+   "published_at": "2026-09-20T06:00:00+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "사퇴 기자회견에서 김 후보자가 \"정부에 작은 부담이 더해져서는 안 된다고 생각했다\"고 밝힌 가운데, 최근 김 후보자의 지명 철회를 촉구하는 전직 보좌진들의 탄원서가…",
-   "summary_long": "사퇴 기자회견에서 김 후보자가 \"정부에 작은 부담이 더해져서는 안 된다고 생각했다\"고 밝힌 가운데, 최근 김 후보자의 지명 철회를 촉구하는 전직 보좌진들의 탄원서가 청와대 측에 전달됐던 것으로 KBS 취재 결과 확인됐습니다. KBS 입수한 탄원서에는 김 후보자의 과거 성추행 의혹과 보좌진들의 무마 과정, 김 후보자 추가 음주운전 의혹, 음주 뒤 보좌진에 대한 상습적인 욕설과 폭언 의혹, '신약 로비 의혹' 외 추가 청탁 의혹 등이 담겼습니다. 다른 탄원서에는 김 후보자가 위원장을 맡았던 경기도당 회계 부정 의혹에 대한 문제 제기를 하며, \"김 후보자의 알려지지 않은 흠결들이 조국 때처럼 끊임없이 나올 것\"이라고 청와대의 지명 철회를 촉구하는 내용도 적혔습니다.\n\n김승원 의원실은 입장문에서 탄원서에 대해 \"내용에 대하여 청와대로부터 연락받은 사실은 없다. 또한, \"언론에 보도된 탄원서 소문은 사실과 다르거나 과장 오류가 있다\"며 \"후보자 사퇴 배경과 관련한 위 소문에 대해 당시 근무했던 보좌관은 사실과 다르다는 점을 밝혀왔다\"고 말했습니다. 김 후보자에 대한 보좌진들의 탄원서와 관련한 보다 자세한 내용은 오늘 KBS <뉴스9>에서 다룰 예정입니다.",
+   "summary": "\"한 의원의 수사 기록 유출 의혹 끝까지 단죄\" 한 재선 의원도 \"후보자가 직접 제출하는 소명 자료 외에 나머지 의혹에 대해서는 청와대가 정무적 판단 하에 검증하는…",
+   "summary_long": "\"한 의원의 수사 기록 유출 의혹 끝까지 단죄\" 민주당은 한 의원이 불법 유출된 검찰 수사 자료를 김 후보자의 신약 청탁 의혹 제기 수단으로 사용했다고 보고 있다. 국회 법사위원장인 서영교 의원은 19일 \"김승원 후보자에 대한 조작·표적수사, 그 진실은 밝혀질 것\"이라며 \"윤석열 정치검찰 조작수사·조작기소 진상규명을 위한 검찰개혁은 계속된다\"고 했다.\n\n법사위 여당 간사인 김의겸 의원은 페이스북에 \"불법수사기록 유출과 표적수사의 진실은 법사위 간사로서 끝까지 밝혀내겠다\"라며 \"더 이상 정치검찰의 캐비닛에 개혁이 멈춰서서는 안 된다\"고 적었다. 민주당의 한 4선 중진 의원은 20일 뉴시스와 통화에서 \"지금까지는 서류상의 검증에 멈췄는데, 실질적인 평판 검증 등이 잘 이뤄지도록 청와대 인사 검증 시스템을 더 강화해야 한다\"고 했다. 한 재선 의원도 \"후보자가 직접 제출하는 소명 자료 외에 나머지 의혹에 대해서는 청와대가 정무적 판단 하에 검증하는 것\"이라며 \"청와대가 인사 검증 시스템을 살펴봐야 한다\"고 했다．.",
    "quotes": [
-    "후보자 사퇴 배경과 관련한 위 소문에 대해 당시 근무했던 보좌관은 사실과 다르다는 점을 밝혀왔다",
-    "내용에 대하여 청와대로부터 연락받은 사실은 없다. 제출됐는지도 알지 못한다",
-    "김 후보자의 알려지지 않은 흠결들이 조국 때처럼 끊임없이 나올 것"
+    "김 후보자가 사퇴했다. 그러나 이와 별개로 국민의힘에서 제명된 한 의원의 수사기록 유출 연루 의혹 등에 대해선 끝까지 무관용의 원칙으로 단죄해야 한다",
+    "지금까지는 서류상의 검증에 멈췄는데, 실질적인 평판 검증 등이 잘 이뤄지도록 청와대 인사 검증 시스템을 더 강화해야 한다",
+    "윤석열·한동훈 정치 검찰의 표적 수사와 한동훈 수사 기밀 불법 유출 짜깁기 사태 전모를 끝까지 밝히겠다"
    ],
-   "press": "KBS",
+   "press": "뉴시스",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "후보자 사퇴 배경과 관련한 위 소문에 대해 당시 근무했던 보좌관은 사실과 다르다는 점을 밝혀왔다",
-    "n": 10,
+    "quote": "김 후보자가 사퇴했다. 그러나 이와 별개로 국민의힘에서 제명된 한 의원의 수사기록 유출 연루 의혹 등에 대해선 끝까지 무관용의 원칙으로 단죄해야 한다",
+    "n": 5,
     "verified": 0,
     "items": [
      {
-      "press": "경향신문",
-      "title": "김승원, ‘성추행 등 청와대 탄원’ 보도에 “사실과 다르거나 과장”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZN3F5cGN0aDY4dU9qYzBVTGlYcGtubXR4dFllbFJwRnRrVHFSeHVuTUZBTWtxeFloYUxMc2sxQ1FNV21LV0p0SkYyUWs1aUp6VTRoOUVhR1Y0d9IBX0FVX3lxTFAxS3cwR0w1a200elpkb3ZCYk9sMEQ1UDFlYWdNSTg5NG83THV0azhLajZKMXFhY1lGWHlLX2d4TjNiX2tvblpITFhId1E5aC1OOERsU1ZzRXFSaF9vcDFV?oc=5"
+      "press": "채널A",
+      "title": "민주당 “이제 한동훈 차례…무관용으로 단죄해야”",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvTW5RZ1B1Q3hTM3ZnbldqbWhNLU56aWFadjJwV081X21KQlhFZDY3WGR0c3lGMFh5Slg1X1RXR0MzSTJKX3BURXdQM2NsTHkwbmZwU1V1Mk50UXh0T09FWkxwc9IBY0FVX3lxTFBvTW5RZ1B1Q3hTM3ZnbldqbWhNLU56aWFadjJwV081X21KQlhFZDY3WGR0c3lGMFh5Slg1X1RXR0MzSTJKX3BURXdQM2NsTHkwbmZwU1V1Mk50UXh0T09FWkxwcw?oc=5"
      },
      {
-      "press": "주간조선",
-      "title": "김승원 사퇴 전날 “성추행 의혹” 탄원서 전달 보도에…靑 “확인 어렵다”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51MzlHeldHRi1RbFVrZHdkbDNpUVh1VXIxak9MbnEwdXQ2NkFIcXlnMzFhN1NBRXdzczN3a3ZnWHF3TE84bUJNeVZpa1dHUjdZTGNIYlBremVFZ21HY0RlYnpYZGFZZklQdFhNVTJn0gFuQVVfeXFMTnUzOUd6V0dGLVFsVWtkd2RsM2lRWHVVcjFqT0xucTB1dDY2QUhxeWczMWE3U0FFd3NzM3drdmdYcXdMTzhtQk15VmlrV0dSN1lMY0hiUGt6ZUVnbUdjRGVielhkYVlmSVB0WE1VMmc?oc=5"
+      "press": "진일보",
+      "title": "더불어민주당, 김승원 후보자 사퇴 후 한동훈 향해 ‘총공세’",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXNVJhTEJrNXZrQS03RC1vWDd4MkJDSFdaeGRXNE5NOE4zMVFaVVAtZUxkVEdPN09ISF9FMnpJdk5qWk1NYUViUk1DVkhfRmc2S1pzYmxCdHNuY3V4Zzk1U3pTR3RzekNwUnp4c3ozTQ?oc=5"
      },
      {
-      "press": "MBC 뉴스",
-      "title": "김승원 측, '추가의혹 靑 탄원' 보도에 \"사실 다르거나 과장 오류\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44dTFMTXNYUm9nYVdNNHZUaTVSUEJ3UFNfX1RkLXdvcXp6TG94LURRcGJuWHFfN29Gd0tEVG44aC1GdlpuNHV1MDVLS3NRTEZ0QWJZWHF3bDdtRXhWNHFLalhEck1rd0dnOVJrWTFlNWFVTjNwVmp3RtIBeEFVX3lxTE44dTFMTXNYUm9nYVdNNHZUaTVSUEJ3UFNfX1RkLXdvcXp6TG94LURRcGJuWHFfN29Gd0tEVG44aC1GdlpuNHV1MDVLS3NRTEZ0QWJZWHF3bDdtRXhWNHFLalhEck1rd0dnOVJrWTFlNWFVTjNwVmp3Rg?oc=5"
+      "press": "뉴시스",
+      "title": "與, 김승원 사퇴에 \"고뇌에 찬 결정 존중…이제 한동훈 차례, 반드시 심판\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIN2V4Ty05RC1JRVFaOERhakhsOXB6dFoyMW9RWTV5VFgtWHRxZy1CallMdnByekhHaV9ZdXI1cGtaY2xDb2ZyWDZrRnFzYUxUWmp6TUJDN1lFVF82OE5Oa9IBeEFVX3lxTE90d1htNEFIaTIwTXNGcWRXS2QwLUdkQlREMGVxckF1SkVCUUlhTlkzUzZDT1g5LVp5Ul82QVpibEJYMTF6SzJmR0dLdnliRmtsRDZuaVVvUC1RN0x5ek9uOWo4dm9uTGVab3Vxc1RKemhId0I1c1M3Mg?oc=5"
      },
      {
-      "press": "부산일보",
-      "title": "`성추행 의혹` 탄원서 보도에 靑 `확인 어렵다`·김승원 `사실과 달라`",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yNWdjeExERnNvTVliS0F4eHBlaWNNUEhxa2NNcEsxcGhoM0ZGS0sxMzZEYlEtQmVmU3FQbjRKa3dMcm5rS29DelM4cTcySmk2bDJHcDZxWURZXzVWcW41RUFQbE1NSE5SZzFRd3pkYTlILWdv?oc=5"
+      "press": "뉴스1",
+      "title": "與, 김승원 자진사퇴 엄호 속 \"이제 한동훈 차례…반드시 심판\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SV1lEakFuaG42Q1c1SUZ2NXF1Rk4wSldjNDhXaUpxNXl6dHVZcXVuaEVnbVVhSmIwODFpNVBvYmFvdmRLVExadEd5cnBuU0hQZVRTZnlJMFdaQdIBX0FVX3lxTE9oZDlFSmZmUndNUUZVMC0xUnZpaUQzTU15U0ItTVVPdV9PVHdlNmItZmFQLV9UcDUzOGtsUmV1d2FseW95QWZCWlIzQVk3R1IzWjZ6QV8zeEtsWTd3UmtB?oc=5"
      },
      {
-      "press": "다음뉴스",
-      "title": "김승원 '추가 의혹' 보도에 \"사실과 달라\"…野 \"자진 사퇴 아닌 도주\"",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3S0xMWER3cHYyUHhIYUdHNi14YkZjS1U5RXNMdUpZWUpPUlFvRWotZm0xdk5EZDdvS2NNZS1jZHB2eGJ3RjdoMzdYSQ?oc=5"
-     },
-     {
-      "press": "한겨레",
-      "title": "사퇴 김승원, ‘성추행 의혹 탄원서’ 보도에 “과장·오류…사실관계 확인 뒤 조치”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Bd1BMODJmTWlnQ3hiT1VrZGlhc3l0anpKdnJ6bUlmTktWczVzV05VSlJFTEFjZmJVRWVuWWw2SkVKVXZkOWdpQWs3dkR4T2VvT0FaS19TTklIMmJpR1NaUTN3VzdXekMwTWZPUlhzV2lWekVT?oc=5"
+      "press": "뉴시스",
+      "title": "與, 김승원 낙마에 \"이제 한동훈 차례\"…내부선 \"인사 검증 시스템 재점검\" 목소리도",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LU2dCNlhjZ3NQWjdMdmt4YTRId25hLWlYbjMwakRTQjlXcVJTbEM5LTJ5Rk1LQWVlbU43eW1ZeG1aaHVhTk9iUTBDcHY3TWpYV092b25WdFJCUzBlVWdob9IBeEFVX3lxTE5Rc3Zyc0ZsV0ZQeFJxUEV2Y2FKZDhJbm4xTWNUZjRPX2s5UzNZaGgyOHB1S3JpZnlnQ2lpcHR3eXhxVnVUWVc4TzBOZlJ4WkRyOHd1ZGYtRk9TQWsyNlpKS1czQWtoQ0U4d0laTnFHSGNISTRUdmtYeA?oc=5"
      }
     ]
    }
   },
   {
-   "title": "미 언론 \"트럼프 파병 요청 거절\"...청 \"요청 거절 아니다\"",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002409177",
-   "published_at": "2026-09-19T17:05:29+09:00",
+   "title": "고 노회찬 불러낸 홍준표 “한동훈 의원직 상실하려나? 못 빠져나갈 것”",
+   "source": "한겨레",
+   "url": "https://n.news.naver.com/article/028/0002823861",
+   "published_at": "2026-09-20T10:36:17+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "전투 파병 불가 입장을 트럼프 요청 거절로 해석. 전투 파병은 하지 않겠다는 이재명 대통령의 발언에 대해 미국 언론은 이 대통령이 트럼프의 파병 요청을 거절했다고…",
-   "summary_long": "전투 파병 불가 입장을 트럼프 요청 거절로 해석. '비전투 파병' 관련 미국 측 입장은 확인 안 돼. 전투 파병은 하지 않겠다는 이재명 대통령의 발언에 대해 미국 언론은 이 대통령이 트럼프의 파병 요청을 거절했다고 보도했는데요.\n\n청와대는 트럼프의 요청을 거절한 건 아니라며, 실질적 기여 방안을 검토하고 있다는 비전투 분야 파병 의지를 재확인했습니다. 트럼프 입장에서는 이란의 군사력에 함께 맞설 지원군을 원하는 것이기 때문에 전투 파병 거절은 사실상 트럼프 요청을 거절했다고 보는 겁니다. 청와대는 그러나 트럼프의 협조 요청을 거절한 것은 아니라는 입장을 밝혔습니다.",
+   "summary": "홍준표 전 대구시장이 한동훈 무소속 의원을 향해 “이제 김승원은 갔으니 더 이상 화제는 안 될 것”이라며 “한동훈 수사만 남았다”고 말했다. 홍 전 시장은 이날…",
+   "summary_long": "홍준표 전 대구시장이 한동훈 무소속 의원을 향해 “이제 김승원은 갔으니 더 이상 화제는 안 될 것”이라며 “한동훈 수사만 남았다”고 말했다. 김승원 더불어민주당 의원이 19일 법무부 장관 후보직에서 자진 사퇴한 가운데, 앞서 그에 대해 폭로를 이어온 한 의원을 언급한 것이다. 홍 전 시장은 이날 페이스북에서 “노회찬 의원이 삼성 떡값 검사들 폭로하고 출처와 관련해서 기소돼 집행유예 판결 받고 의원직 상실한 적이 있었는데, 이번에 한동훈이는 어떻게 되려나”라고 말했다.\n\n홍 전 시장이 거론한 건 2005년 8월 노회찬 전 정의당 의원이 국가정보원 불법도청 녹취록 ‘삼성 엑스(X)파일’에 등장한 ‘떡값 검사’ 명단을 공개한 일이다. 홍 전 시장은 “이제 김승원이는 갔으니 더 이상 화제는 안 될 것 같고 한동훈이 수사만 남았다”며 “당원게시판 사건도 수사 중인데 엎친 데 덮친 격이다. 앞서 김승원 후보자 관련 ‘신약 임상시험 계획 승인 청탁 의혹’을 제기하며 한 의원이 공개한 관련자들 문자메시지, 통화 내용, 검찰 내부 문서인 기소계획서 내용 등이 내부 수사 자료를 입수해 공개한 것이라 문제라는 취지다.",
    "quotes": [
-    "트럼프 협조 요청 거절한 것 아니다"
+    "재직 중 직무와 관련해 지득한 자료나 검찰로부터 내밀히 그걸 받아 폭로에 사용했다면 정치적으로 주목받는 데는 성공했을지 모르나, 과정의 불법이 문제인지 폭로 내용이 문제인지 또다시 돌아보게 되는 계기가 될 듯하다",
+    "노회찬 의원이 삼성 떡값 검사들 폭로하고 출처와 관련해서 기소돼 집행유예 판결 받고 의원직 상실한 적이 있었는데, 이번에 한동훈이는 어떻게 되려나",
+    "당원게시판 사건도 수사 중인데 엎친 데 덮친 격이다. 이번에는 빠져나가기 어렵겠다"
    ],
-   "press": "YTN",
+   "press": "한겨레",
    "photo": "02.jpg",
    "quoted": {
-    "quote": "트럼프 협조 요청 거절한 것 아니다",
+    "quote": "재직 중 직무와 관련해 지득한 자료나 검찰로부터 내밀히 그걸 받아 폭로에 사용했다면 정치적으로 주목받는 데는 성공했을지 모르나, 과정의 불법이 문제인지 폭로 내용이 문제인지 또다시 돌아보게 되는 계기가 될 듯하다",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
+      "press": "한겨레",
+      "title": "고 노회찬 불러낸 홍준표 “한동훈 의원직 상실하려나? 못 빠져나갈 것”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xRkNpRzB2cXhVeURpZ2hGTTRTYVM0MmxYbTRMWEpESGhzRF9hNkZDUEpVZ0RLWmJkalZfWmNSOGVUcTlzUjVkbDl0UVhZU3lkTG51dnBJcnZPWjRPU0NmNHlpSjRoUVpuNHB6NEEtT1djVkxU?oc=5"
+     },
+     {
+      "press": "이데일리TV",
+      "title": "홍준표 “노회찬 의원은 의원직 상실, 한동훈이는 어떻게?”",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VZmRPWXI4ZVBwSmRuaHZRQkUxY21wNXVpQTh2dXJPWjlHa01TdEs2TVdURUV2QUR3bWE4VFNBVHJiemdhaE9ZWF82N1B1by14bTNUc1JLXzUxNi05WmNuZDdZQk12aVFzTk9rOXhUNmZib1NiU1lrSXhyRQ?oc=5"
+     },
+     {
+      "press": "news.nate.com",
+      "title": "\"김승원은 갔고 한동훈 수사만 남아\"…홍준표 \"이번엔 빠져나가기 어렵겠다\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xSFo3N1FnVUZoRGdsZDI3Yk1TRG1aUkRVeGpPVjVOS1hQNDgyd2hDanlBVG9FUEVKWnExNTZpMlpIWFMxamxqdHZuNmZDSHZFSlZB?oc=5"
+     },
+     {
+      "press": "싱글리스트",
+      "title": "홍준표 “金 물러났으니 한동훈 수사만 남았다”...故노회찬 소환",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PQVY1ZWNvakNMSTBHUm5SanlDVWg0ZThrV2R6aWliX3RrajZMM0tYU3UzeHFzb2RiSjQ4Qk1kdlM0SERMakpDSU82QnUwSnp2YVp2WWpSUVBJdmVvNVhmTEFsRkM4QQ?oc=5"
+     },
+     {
+      "press": "truthdaily.co.kr",
+      "title": "죽은 김승원이 산 한동훈 잡아가나… 수사 기밀 유출 ‘제2의 노회찬’?",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10bV9lcWZCRDZHRjJWNldIVHFGclAxM1hzVkpaSlNlVl9rMTlmZDF6SG54QXpCTnozTE5lSlZCSEpRMUlGTExXd1l5VHo3MFRkdEl5Y25WdnVmWU1kXzludnRLeHhiUFBrZVBUVFJB?oc=5"
+     },
+     {
+      "press": "엔지오프레스",
+      "title": "홍준표 \"김승원 다음엔 한동훈, 이번엔 빠져나가기 어려울 것\" |",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zcW5vcFpIdGJPdkJkb3JnaWM5dzlLTThyTG1YY3NBdGkyOXdwN0l2elRjTUJMWUFqWWJkSGlxVU41M1lvYVFUOGdQcGxhejFFaFFTMVkyRnVCR29Mb2JKcXZVem5BV05aa1hidQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "포켓몬 카드팩 구매하려 인산인해...경찰·소방 출동",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002409369",
+   "published_at": "2026-09-20T13:15:28+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "한정판 포켓몬스터 카드를 사려는 사람들이 한꺼번에 몰리면서 경찰과 소방이 출동하는 소동이 벌어졌습니다. 포켓몬스터 30주년을 기념하기 위해 전 세계에 동시 발매된 포켓몬…",
+   "summary_long": "한정판 포켓몬스터 카드를 사려는 사람들이 한꺼번에 몰리면서 경찰과 소방이 출동하는 소동이 벌어졌습니다. 포켓몬스터 카드 숍이 입점한 경기 구리시 수택동 모습인데요. 포켓몬스터 30주년을 기념하기 위해 전 세계에 동시 발매된 포켓몬 한정판 확장팩을 구매하기 위해 줄을 선 시민들입니다.\n\n인파가 몰려 사고 우려가 있다는 신고를 받고 경찰과 소방이 출동해 현장 관리에 나섰습니다. 포켓몬 카드 숍 구리지점은 SNS 게시물을 통해, 현장 안전을 위해 오늘 판매를 중지했다고 안내했습니다. 한 팩에 7만 원 정도에 구매할 수 있는 이 포켓몬 카드 팩은 중고 거래 사이트에서 웃돈이 붙어 판매되는데, 정가의 두 배에 거래되는 경우도 있는 거로 전해졌습니다.",
+   "press": "YTN",
+   "photo": "03.jpg"
+  },
+  {
+   "title": "세상에 이런 남편…성병도 옮기고 생활비도 끊고[양친소]",
+   "source": "이데일리",
+   "url": "https://n.news.naver.com/article/018/0006372753",
+   "published_at": "2026-09-20T06:32:15+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "남편 명의 아파트인데, 아내가 아이들을 키우게 되면 이혼 후에도 계속 살 수 있나요? 따라서 아내가 두 아이를 계속 양육하고, 아이들의 학교와 생활환경을 유지해야 한다는…",
+   "summary_long": "양소영 변호사의 친절한 상담소[양소영 법무법인 숭인 대표 변호사(한국여성변호사회 부회장) 백수현 법무법인 숭인 대표 변호사]. 하지만 아내에게 감염 가능성이 달리 없고, 부부관계 이후 발병했다는 의료기록이 있으며, 같은 시기에 남편 역시 관련 치료나 약을 복용했고, 반복적인 해외여행 등 다른 정황까지 존재한다면 부정행위를 의심하게 하는 간접사실 중 하나로 사용될 여지는 있습니다. 남편 명의 아파트인데, 아내가 아이들을 키우게 되면 이혼 후에도 계속 살 수 있나요?\n\n아이들이 지금 학교를 다니고 있고 생활환경을 유지할 필요가 있다는 사정은 중요하지만, 그것만으로 남편 소유권을 제한해 아내와 자녀에게 계속 살게 해주는 권리가 바로 발생하는 것은 아닙니다. 혼인 중 부부가 함께 형성하고 유지한 아파트라면 명의가 남편 한 사람 앞으로 되어 있더라도 재산분할 대상이 될 수 있습니다. 따라서 아내가 두 아이를 계속 양육하고, 아이들의 학교와 생활환경을 유지해야 한다는 사정 등을 설명하면서 아파트를 아내에게 귀속시키고 남편 몫을 다른 재산이나 현금으로 정산하는 방식을 주장해 볼 수 있습니다.",
+   "quotes": [
+    "계속 이런 식으로 마음대로 떠나면 더 이상 같이 살기 힘들다. 이혼까지 생각할 수밖에 없다",
+    "도대체 밖에서 무슨 일을 하고 다니는 거냐"
+   ],
+   "press": "이데일리",
+   "photo": "04.jpg",
+   "quoted": {
+    "quote": "계속 이런 식으로 마음대로 떠나면 더 이상 같이 살기 힘들다. 이혼까지 생각할 수밖에 없다",
     "n": 1,
     "verified": 0,
     "items": [
      {
-      "press": "YTN",
-      "title": "미 언론 \"트럼프 파병 요청 거절\"...청 \"요청 거절 아니다\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tNm5vc0M4T1dBU1lPMzlUVGtVU2JpODFTZWUtZmd4NmhBM0FRdWlfQWk3b1Y5ZlpPMjdkV2RQR3kzTDkyNHNZbU1Db2tjRG4tUlJwSEp1c1JxY1lzSUE?oc=5"
+      "press": "이데일리",
+      "title": "세상에 이런 남편…성병도 옮기고 생활비도 끊고[양친소]",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT1dpWmc4dHg2bTkwcFRuNVRJV3FSTTRSeE1KYlUtOU1HZkpTeVM2NWJha1RyMC1icFFXS2lscHU1MmIxbll4cUVsbVYyOThNV2Q3VzhMY3p2blpoNEhNMUQ4Nl9nS29ZOTh1Sjg1QWhadHQ0ZVRDUWdxdGc1cExnNA?oc=5"
      }
     ]
    }
   },
   {
-   "title": "조민, 홈쇼핑 방송 90분 전 돌연 취소…“논란 우려된다더라”",
-   "source": "국민일보",
-   "url": "https://n.news.naver.com/article/005/0001873969",
-   "published_at": "2026-09-19T09:52:09+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "조민 인스타그램 캡처 조국 조국혁신당 혁신정책연구원장의 딸 조민 주식회사 사적표시 대표이사가 롯데홈쇼핑 라이브 방송을 불과 90분 앞두고 출연 취소 통보를 받았다고…",
-   "summary_long": "조민 인스타그램 캡처 조국 조국혁신당 혁신정책연구원장의 딸 조민 주식회사 사적표시 대표이사가 롯데홈쇼핑 라이브 방송을 불과 90분 앞두고 출연 취소 통보를 받았다고 밝혔다. 조씨는 18일 자신의 소셜미디어에 “롯데홈쇼핑 출연이 갑작스럽게 취소된 것에 대해 질문이 많아 사실관계 파악 후 답변드린다”며 방송 취소 경위를 공개했다. 조씨에 따르면 롯데홈쇼핑 측은 예정된 방송 약 90분 전 출연 취소를 통보했다.\n\n조민 인스타그램 캡처 당초 조씨는 17일 오후 8시 롯데홈쇼핑 모바일 라이브 방송 ‘엘라이브’에 출연할 예정이었다. 그러나 방송을 앞두고 일정이 취소되자 SNS를 통해 “본사 사정으로 취소됐다”고 먼저 알렸다. 조씨는 대체 방송을 마친 뒤 “준비한 것이 많았어서 아쉽지만 바로픽 창고의 빠른 대응으로 어제 좋은 대체 방송 진행할 수 있어 만족한다”고 밝혔다.",
-   "quotes": [
-    "준비한 것이 많았어서 아쉽지만 바로픽 창고의 빠른 대응으로 어제 좋은 대체 방송 진행할 수 있어 만족한다",
-    "롯데홈쇼핑 출연이 갑작스럽게 취소된 것에 대해 질문이 많아 사실관계 파악 후 답변드린다",
-    "대내외적으로 논란이 될까 우려가 생겨 취소한다"
-   ],
-   "press": "국민일보",
-   "photo": "03.png",
-   "quoted": {
-    "quote": "롯데홈쇼핑 출연이 갑작스럽게 취소된 것에 대해 질문이 많아 사실관계 파악 후 답변드린다",
-    "n": 3,
-    "verified": 0,
-    "items": [
-     {
-      "press": "starnewskorea.com",
-      "title": "조민, 홈쇼핑 출연 90분 전 '취소 통보'..\"대내외적 논란 우려\" [스타이슈]",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RTjZscnhVanlRYmVVaFJOTTlwbm5fb0V3MXVjaEs0Mkg2WlUyeWx3WS02b01fNUVHd0Z6VmZjbF9TODdFTnNWS1ZYSEoxRUVIektoNkk0WVRfSVJtYnkwdU90bTFpWXF2cENKU3NUNmFqS3M?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "조민, 홈쇼핑 방송 90분 전 돌연 취소…“논란 우려된다더라”",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXdHpCM0lBT1p4aEJhV0g1eXhRN1QtQ1lJam8yMVZVWWZqMDgxYWZ4RDgwYWtEVDJVVUdSSDdiS3hyUUZmWkk3VHNUYw?oc=5"
-     },
-     {
-      "press": "문화일보",
-      "title": "조민, 홈쇼핑 방송 90분 전 ‘취소 통보’…“‘논란 우려’ 취지 통보받았다”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SclNVV1BHTEp4dG5QTjBnRWU3QnJHYkNENF9CX19sd2ZlaFZkTU9lSEZRNE9GbGdGOUtTWUtBRHY1UDVVczdlV1FPU3lQUl90?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "유독 지하철·화장실서 '픽'…쓰러지는 2030 무슨 일",
-   "source": "SBS",
-   "url": "https://n.news.naver.com/article/055/0001389557",
-   "published_at": "2026-09-19T07:21:08+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "[윤지은/순천향대학교 부천병원 신경과 교수 : 지하철은 미주신경성 실신을 유발할 수 있는 조건이 여러 가지가 겹치는 환경입니다. [윤지은/순천향대학교 부천병원 신경과…",
-   "summary_long": "'갑자기 귀가 안 들리고 앞이 안보였다', '다리에 힘이 풀려 그 자리에서 쓰러졌다' 이런 경험담이 최근 SNS나 커뮤니티에 종종 올라오는데요. [윤지은/순천향대학교 부천병원 신경과 교수 : 여성은 평균적으로 혈압도 낮고 순환하는 혈액량이 좀 낮은 편입니다. (또) 무리한 다이어트나 저체중 자체가 직접적인 어떤 원인이다라고 말하기는 어렵지만 다이어트하고 저체중 하게 되면 식사량도 줄고 수분 섭취도 줄고 염분 섭취도 부족해지면 혈액량과 혈압이 확 떨어져서 실신에 더 취약한 상황이 일어날 수가 있습니다.\n\n[윤지은/순천향대학교 부천병원 신경과 교수 : 지하철은 미주신경성 실신을 유발할 수 있는 조건이 여러 가지가 겹치는 환경입니다. [윤지은/순천향대학교 부천병원 신경과 교수 : 미주신경 실신이 일어날 때 단순히 혈압만 떨어지는 게 아니라 미주신경을 포함한 다른 부교감 신경 반응이 또 강해지게 됩니다. [윤지은/순천향대학교 부천병원 신경과 교수 : 예방에서 가장 중요한 것은 탈수와 혈압이 떨어지는 상황을 피하는 겁니다.",
-   "press": "SBS",
-   "photo": "04.jpg"
-  },
-  {
-   "title": "한동훈 의원 \"국민 이기는 권력 없어...상식과 함께할 것\" [현장영상+]",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002409145",
-   "published_at": "2026-09-19T14:03:04+09:00",
+   "title": "'연임 불가' 밝히자 민주 \"내년 상반기 개헌\"…국힘은 '냉담'",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000511985",
+   "published_at": "2026-09-20T18:48:14+09:00",
    "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 782,
-   "comment_agree": 268,
-   "comment_disagree": 64,
-   "division_balance": 0.385542,
-   "division_score": 2.239284,
+   "view_rank": 3,
+   "comment_count": 411,
+   "comment_agree": 239,
+   "comment_disagree": 65,
+   "division_balance": 0.427632,
+   "division_score": 2.446186,
    "selection": "찬반 쟁점",
-   "summary": "김승원 후보님 그리고 민주당이 떼거지로 나와서 저에게 복수하겠다고 협박하던데 이재명 민주당 정권이 그런 마음가짐이라면 이렇게 김승원을 철회해도 부정적 효과가 커지는 것을…",
-   "summary_long": "김승원 법무부 장관 후보자가 전격 사퇴하면서, '신약 청탁 의혹'으로 낙마 공세를 주도해오던 한동훈 의원도 기자회견을 자처했습니다. 앞서 김 후보자가 자리에서는 물러난다면서도, 한 의원을 겨냥해 '정치검찰 개혁'을 완수하겠다고 밝힌 데 대한 입장도 전할 것으로 보이는데요. 김승원 후보님 그리고 민주당이 떼거지로 나와서 저에게 복수하겠다고 협박하던데 이재명 민주당 정권이 그런 마음가짐이라면 이렇게 김승원을 철회해도 부정적 효과가 커지는 것을 막을 수가 없을 겁니다.\n\n국민 대다수가 김승원 오빠 독약로비를 절대 안 된다고 반대하시고 계시는데 국민을 대신해서 김승원 철회에 앞장선 저에게 복수하겠다는 것은 이재명 민주당 정권이 바로 국민께 복수하겠다는 것이기 때문입니다. 영리한 동남아파 NHK 오빠 송영길, 바바리맨의 수호자 서영교, 롯데호텔 38층의 박지원, 흑석 청담의 김의겸, 9억 받아 처먹고 NHK 강신성 스폰서 받는 김민석. 저는 국민만 보고 가겠습니다.",
-   "press": "YTN",
+   "summary": "이재명 대통령이 연임 개헌 불가 입장을 밝힌 가운데 민주당이 본격적으로 개헌 논의에 들어갔습니다. 다만 국민의힘은 대통령의 연임 불가 발언을 믿을 수 없다며 아직까진…",
+   "summary_long": "이재명 대통령이 연임 개헌 불가 입장을 밝힌 가운데 민주당이 본격적으로 개헌 논의에 들어갔습니다. 다만 국민의힘은 대통령의 연임 불가 발언을 믿을 수 없다며 아직까진 냉담한 반응을 보이고 있습니다. 더불어민주당이 당내 개헌추진단을 출범시키며 개헌 논의를 본격화했습니다.\n\n[김민석/더불어민주당 대표 : 이제 말꼬리 잡기보다는 진지한 개헌 논의로 전환할 때가 되었습니다.]. 민주당은 지난 18일 이 대통령이 기자회견에서 '연임 개헌 논란'을 명확히 정리했다는 입장입니다. 국민의힘에서 개헌 논의 선결 조건으로 요구하던 연임 불가 선언이 나온 만큼, 이제 야당도 논의에 본격 동참하라고 압박했습니다.",
+   "press": "JTBC",
    "photo": "05.jpg"
   },
   {
-   "title": "한동훈, 김승원 사퇴에 \"국민의 승리... 국민만 보고 가겠다\"",
-   "source": "한국일보",
-   "url": "https://n.news.naver.com/article/469/0000954984",
-   "published_at": "2026-09-19T14:06:09+09:00",
+   "title": "유시민, \"멸칭쓰는 지지층, 대통령 정치적으로 고립시켜\"",
+   "source": "MBC",
+   "url": "https://n.news.naver.com/article/214/0001524993",
+   "published_at": "2026-09-20T15:14:25+09:00",
    "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 596,
-   "comment_agree": 198,
-   "comment_disagree": 48,
-   "division_balance": 0.390244,
-   "division_score": 2.150005,
+   "view_rank": 1,
+   "comment_count": 3596,
+   "comment_agree": 433,
+   "comment_disagree": 87,
+   "division_balance": 0.334615,
+   "division_score": 2.09327,
    "selection": "찬반 쟁점",
-   "summary": "한동훈 무소속 의원이 15일 국회 의원회관에서 열린 토론회에 참석한 뒤 취재진과 가진 간담회에서 김승원 법무부 장관 후보자와 더불어민주당 김민석 대표의 SNS 메시지와…",
-   "summary_long": "한동훈 무소속 의원이 15일 국회 의원회관에서 열린 토론회에 참석한 뒤 취재진과 가진 간담회에서 김승원 법무부 장관 후보자와 더불어민주당 김민석 대표의 SNS 메시지와 관련해 발언하고 있다. 한동훈 무소속 의원이 19일 김승원 법무부장관 후보자의 자진 사퇴에 대해 \"국민의 승리\"라고 평했다. 한 의원은 이날 페이스북에 \"이재명 민주당이 오빠독약 로비를 '볼수록 잘한 인사'라며 총력으로 결사 옹호했지만 국민이 이겼다\"며 \"국민만 보고 모두 함께 가겠다\"고 적었다.\n\n최근 김민석 더불어민주당 대표가 김 후보자 인선에 대해 \"보면 볼수록 잘 된 인사\"라고 평가한 것을 겨냥한 발언으로 보인다. 한 의원은 김 후보자 지명 다음날인 지난달 31일 국회 예산결산특별위원회에서 '식약처 임상시험 승인 청탁 의혹'을 처음 제기했다. 김 후보자는 \"윤석열·한동훈 정치 검찰의 표적 수사와 한동훈의 수사 기밀 불법 유출, 짜깁기 사태의 전모를 끝까지 밝히겠다\"며 \"이번 일이야말로 검찰 개혁의 필요성을 국민들께 입증한 사례라 생각한다\"고 했다.",
+   "summary": "유시민 작가가 '멸칭'을 사용하는 일부 지지층을 '신발 속 돌멩이'에 빗대며 \"그 돌들이 대통령을 힘들게 하고 있고 대통령을 정치적으로 고립시키고 있다\"고 지적했습니다.…",
+   "summary_long": "유시민 작가가 '멸칭'을 사용하는 일부 지지층을 '신발 속 돌멩이'에 빗대며 \"그 돌들이 대통령을 힘들게 하고 있고 대통령을 정치적으로 고립시키고 있다\"고 지적했습니다. 유 작가는 오늘 공개된 유튜브 방송 '탁현민의 더뷰티플'에 출연해 \"그렇게 함으로써 저를 좋아하는 사람들로 하여금 그들이 칭송하는 이재명 대통령을 싫어하게 만드는 것\"이라며 이렇게 말했습니다. 그는 \"그것이 대통령을 몹시 고통스럽게 만들고 대통령을 정치적으로 고립시켜 왔는데, 지난 1년 넘는 세월 동안 대통령은 이 진단을 있는 그대로 하지는 않는 것 같다\"며 \"그래서 계속 발바닥에 작은 돌멩이들이 있는 채 걸어가실 것 같다\"고 했습니다.\n\n유 작가는 또, 검찰개혁을 신발에 비유해 이 대통령 본인이 원하지 않았던 신발을 국민에 의해 신게 된 것이라고 표현하기도 했습니다. 그는 \"본인이 원치 않는 신발을 신고 걸으니까 지금 불편하시다\"라며 \"살다 보면 때로는 불편한 신발을 어쩔 수 없이 신어야 할 때가 있다\"고 했습니다. 저는 그런 상태라고 본다\"며 \"지금이라도 신발을 털고 돌을 빼내고, 그리고 다시 걸어가면 얼마든지 또 원래의 속도로, 원래 가고자 했던 곳으로 갈 수 있다\"고 강조했습니다.",
    "quotes": [
-    "윤석열·한동훈 정치 검찰의 표적 수사와 한동훈의 수사 기밀 불법 유출, 짜깁기 사태의 전모를 끝까지 밝히겠다",
-    "이재명 민주당이 오빠독약 로비를 '볼수록 잘한 인사'라며 총력으로 결사 옹호했지만 국민이 이겼다",
-    "후보자로 지명해 주신 이재명 대통령께 감사드리며 기대에 부응하지 못해 정말 송구하다"
+    "그것이 대통령을 몹시 고통스럽게 만들고 대통령을 정치적으로 고립시켜 왔는데, 지난 1년 넘는 세월 동안 대통령은 이 진단을 있는 그대로 하지는 않는 것 같다",
+    "지금이라도 신발을 털고 돌을 빼내고, 그리고 다시 걸어가면 얼마든지 또 원래의 속도로, 원래 가고자 했던 곳으로 갈 수 있다",
+    "그렇게 함으로써 저를 좋아하는 사람들로 하여금 그들이 칭송하는 이재명 대통령을 싫어하게 만드는 것"
    ],
-   "press": "한국일보",
+   "press": "MBC",
    "photo": "06.jpg",
    "quoted": {
-    "quote": "윤석열·한동훈 정치 검찰의 표적 수사와 한동훈의 수사 기밀 불법 유출, 짜깁기 사태의 전모를 끝까지 밝히겠다",
+    "quote": "그것이 대통령을 몹시 고통스럽게 만들고 대통령을 정치적으로 고립시켜 왔는데, 지난 1년 넘는 세월 동안 대통령은 이 진단을 있는 그대로 하지는 않는 것 같다",
     "n": 10,
     "verified": 0,
     "items": [
      {
+      "press": "MBC 뉴스",
+      "title": "유시민, \"멸칭쓰는 지지층, 대통령 정치적으로 고립시켜\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBONWxZTlMwNW5PMFVMNUtxOTVTRGVfZVZQQk13bXlNcktMXzRuM1RGOXd3UUVwd2M1b0pOdDNsd1pQeUJIM1FEUmRsX0NMQ2lkS1VPU1ZpcnY0WnFhaFg3Z29YN1R3cGl6MEFHTDRfd211cjNrSWh0cNIBeEFVX3lxTE1qemR4WE9XMkZMQkFmTy04MF94XzkyWS00M1VmdzlMUC1HazloOVl1bjNnWDhCaXd0dHlTZENETVIxSW5MRjg4dVZPQTFHSkMtX3lDZ0poRzJtVXltTmRDSDFxWUcxQWRINE9wVS15ZXBEOUhHQVFXSA?oc=5"
+     },
+     {
       "press": "주간경향",
-      "title": "김승원 법무부장관 후보자 사퇴···“대통령 기자회견 보고 결심”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sV0h6TjU1VFpCbllvaWlldk5KTWNTV0ktb3BLOElVUlF0eDZRTmV6d0dnb1ZtbjBYTTZjNUxjUDFxbGF5TWU4eXo1NXJEMDZtV1dHb2FYSWpXWHlCSlE?oc=5"
+      "title": "유시민 “멸칭쓰는 ‘신발 속 돌멩이’가 대통령을 해코지”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FU1VxVXZ4VEdjVzc1U1Y2bnlwdGZIbzF2Y1JRcXlXVFRjakhRQWM4VkVFWVlRem1iMnBvTjJ4aEt1c25xdUE3ekhLNmR0Y3luU2ZGOFdSR2dpS3VXWGc?oc=5"
      },
      {
-      "press": "법률신문",
-      "title": "김승원 법무부 장관 후보자 사퇴",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xOHgxS1RHS2RNLXM5bHphRldNUXFWVHhHanVEMVdlVUEydDdROHpkSEhraDRpeWlyRng4R3ZlR0lJQnpINldIeFY0a2VhNmptN1hfMnM0WnBHY2FMMzBnU0h1elFZcW8zVFczanBHZDZkd9IBckFVX3lxTE0xOHgxS1RHS2RNLXM5bHphRldNUXFWVHhHanVEMVdlVUEydDdROHpkSEhraDRpeWlyRng4R3ZlR0lJQnpINldIeFY0a2VhNmptN1hfMnM0WnBHY2FMMzBnU0h1elFZcW8zVFczanBHZDZkdw?oc=5"
+      "press": "채널A",
+      "title": "유시민 “멸칭 쓰는 지지층은 신발 속 돌멩이…신발 벗고 털어야”",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zN2QwRGp1WExQQ2JTc2d3NUdmdXRTdWZHMWpaZmhKUDZHcnpfMjUzZVR6ZTA2cnR3c25ocTFyNW90RzRHV3lSaWNVOTNWX1R6NDIwcUV1MVhPcXlMeHNuaGxnONIBY0FVX3lxTE1zN2QwRGp1WExQQ2JTc2d3NUdmdXRTdWZHMWpaZmhKUDZHcnpfMjUzZVR6ZTA2cnR3c25ocTFyNW90RzRHV3lSaWNVOTNWX1R6NDIwcUV1MVhPcXlMeHNuaGxnOA?oc=5"
      },
      {
-      "press": "BBC",
-      "title": "장관 문턱까지 갔지만…의혹 남기고 떠난 김승원",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xbkVWNmE5VVk1WURzRHlEeEFQNVJ3eXhTMEZvVG5UTE5jNUtrcXRvTzg4VDFhNEhVN0FXT0NmUzJuNC1Edm9JQ2FsMkk5MG5ld2pYVkNfWXl5S01zblHSAWNBVV95cUxNTFpscmcwWkpQdVRpV1RxYWI3MllreFhVYzlWSlZxeC1sYzJfc3E1dk40c1JhVmJKYklYZnpCTEo2MFNzdVpEaHFEZmxEdGV3Y1lwTkZKbEJMOU8xSEgzQ3kyazg?oc=5"
+      "press": "한국경제",
+      "title": "유시민 \"李대통령 신발 속에 돌멩이…걸음 잘 못 떼는 상태\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMQ01XeEMwMlp3ODlqZGRrZTltTzJOZG5fVUpqeEFaODd1S3Q4dUF0N0JOTVZzU3AtYmw1QTd0TGlXSmMzR2E5UGo4d25OSWlidFZFQTJvQXdjZw?oc=5"
      },
      {
-      "press": "조선일보",
-      "title": "김승원 낙마에... 한동훈 \"국민의 승리\" 與 \"자료 유출 밝혀야\"",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEF0WVoxcXV5V3lzQXBzTmdDXzBMM2pvaXVaUU9fdnBJS0ZjNlBYMndJMXl3Q2dRWm1nQjB1cmhsOU1oanFGSl81bmJwWkZ4bXFoN1liaUMzR25RbmpLaVRlLU1GOXZ0ZFNhRTJsSnFMemppOVZXdHhteVBGWUFXMzQ1aEVSUQ?oc=5"
+      "press": "뉴스1",
+      "title": "유시민 \"멸칭 쓰는 지지층이 대통령 고립시켜…진단 이렇게 안 하는 듯\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3em9SQzFjVXpKNWwwalJKYjNZcGFLd2cwZUVPMEctSXl2d1hZQzEzNHlwZXZkZ0RYSVN2MmdyLUZGYW9vWndKSnFBS2ZqY2xYMUEzLU5kZVRRLVBnSGw0WdIBYEFVX3lxTFA3em9SQzFjVXpKNWwwalJKYjNZcGFLd2cwZUVPMEctSXl2d1hZQzEzNHlwZXZkZ0RYSVN2MmdyLUZGYW9vWndKSnFBS2ZqY2xYMUEzLU5kZVRRLVBnSGw0WQ?oc=5"
      },
      {
-      "press": "연합뉴스",
-      "title": "김승원 \"국민 눈높이 못 미쳤다\"…李대통령 회견 하루 만에 사퇴(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45Vl8zSG9HOGxKMFhwWVg4NUxZWXk5Y183MmVZSFZmTjkxY3UyMk82YWJrSXpnMVFoV3dkN1BlaHV1VF9lTGpVZDFQbjdGbjdfQWw2cHdZdjFhQW_SAWBBVV95cUxPaDFEaXE1VUZ0ME42c2lqT2dsQktiN1YzQXMzREgwM0tLRkZxV1h5ZWhTeXhHZGt1WG55VlhNaXdOMUx5dVpLNmpjR0hxdTZvQW1oUjg5a3gxWlRDVTc2ZFI?oc=5"
-     },
-     {
-      "press": "국민일보",
-      "title": "한동훈 “김승원 사퇴, 국민의 승리”…국민의힘 “이제 수사의 시간”",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5ZWRZVkJoSFFqWkpZQ3FtUUdGR2FmOVBYbDU3ZGJoeWZZZk92ZHRxNHF0MU5ULVdCc2dJOVdWNXVydXZhRGNVOW5rcnZLbHB0X3NXYUhxTVgzdTB5OWNzWUphZ3k5VVBuczFOatIBbEFVX3lxTFB5ZWRZVkJoSFFqWkpZQ3FtUUdGR2FmOVBYbDU3ZGJoeWZZZk92ZHRxNHF0MU5ULVdCc2dJOVdWNXVydXZhRGNVOW5rcnZLbHB0X3NXYUhxTVgzdTB5OWNzWUphZ3k5VVBuczFOag?oc=5"
+      "press": "매일신문",
+      "title": "유시민 \"대통령 힘들게 하는 신발 속 돌멩이\"…멸칭 지지층 직격",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xV0pmZER6SEJ4M0NMUV9VWWJWSkdDR04wZzQwVDNsZUZ6LXlmYWRqMDhmQ0FCTl9EMi1DQlJxckE3WHB5eGVzb3gzcG5BY2d1Uzd2bWp1OTBxODhCc1BzSTNB?oc=5"
      }
     ]
    }
   },
   {
-   "title": "\"김승원을 '제2의 조국'으로\"…한동훈도 장동혁도 \"거리로\"",
-   "source": "시사저널",
-   "url": "https://n.news.naver.com/article/586/0000138557",
-   "published_at": "2026-09-19T08:00:07+09:00",
+   "title": "유시민 \"대통령, 멸칭 문제 있는 그대로 진단 안 해…털고 가야\"",
+   "source": "SBS",
+   "url": "https://n.news.naver.com/article/055/0001389747",
+   "published_at": "2026-09-20T14:40:37+09:00",
    "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 146,
-   "comment_agree": 104,
-   "comment_disagree": 25,
-   "division_balance": 0.387597,
-   "division_score": 1.886641,
+   "view_rank": 3,
+   "comment_count": 372,
+   "comment_agree": 214,
+   "comment_disagree": 27,
+   "division_balance": 0.224066,
+   "division_score": 1.229886,
    "selection": "찬반 쟁점",
-   "summary": "한동훈 무소속 의원은 이재명 대통령이 김 후보자 임명을 강행하면 \"거리로 나가야 한다\"며 불씨를 키웠고, 장동혁 국민의힘 대표도 \"장외투쟁을 포함한 모든 방안을…",
-   "summary_long": "한동훈 무소속 의원은 이재명 대통령이 김 후보자 임명을 강행하면 \"거리로 나가야 한다\"며 불씨를 키웠고, 장동혁 국민의힘 대표도 \"장외투쟁을 포함한 모든 방안을 강구하겠다\"고 맞불을 놨다. 한 의원은 김승원 공세에서 확보한 주도권을 장외투쟁을 통해 계속 이어가려 하지만, 정작 친한(親한동훈)계에서는 정치권이 앞장서는 순간 복당 명분이 흐려질 수 있다는 신중론이 나온다. 동시에 장 대표와 일부 당권파는 장외투쟁을 통해 한 의원에게 넘어간 대여 투쟁 주도권을 되찾으려 하지만, 원내대표단과 의원들은 \"아직 계획도 없다\"며 선을 긋는다.\n\n우선 한 의원이 거리로 나가는 순간, 장 대표의 장외투쟁을 공격할 명분 하나가 사라진다. 한 친한계 의원은 통화에서 \"본인이 장외투쟁을 하겠다는 것이 아니라 국민이 장외로 나올 수 있지 않겠느냐는 취지로 이해했다\"고 말했다. 장예찬 전 국민의힘 여의도연구원 부원장은 \"당이 나서서 장외투쟁을 하면 무소속 개인이 장외에서 하는 것보다 훨씬 더 클 것\"이라며 \"국민의힘의 장외투쟁 검토에는 한 의원에게 대여 투쟁의 '주도권을 빼앗기지 않겠다'는 의미도 담겨 있을 수 있다\"고 분석했다.",
+   "summary": "범여권 논객인 유시민 작가가 이재명 대통령이 기자회견에서 진보 진영 내 멸칭 사용을 \"가슴 아픈 현실\"이라고 말한 것을 두고 \"진단을 있는 그대로 하지 않는 것 같다\"고…",
+   "summary_long": "범여권 논객인 유시민 작가가 이재명 대통령이 기자회견에서 진보 진영 내 멸칭 사용을 \"가슴 아픈 현실\"이라고 말한 것을 두고 \"진단을 있는 그대로 하지 않는 것 같다\"고 문제를 제기했습니다. 오늘(20일) 유튜브에 공개된 '탁현민의 더뷰티플' 영상에서 멸칭 사용을 '신발 속 돌멩이'에 빗댄 유 작가는 \"흙길 가다 보면 조그만 돌멩이 같은 게 발바닥에 들어가면 굉장히 불편하다\"며 \"그러면 그걸 꺼내고 털어서 가야 하는데 돌멩이가 들어왔다고는 생각하지 않고 '그냥 불편하다' 이런 상태 같다\"고… 또 \"그것이 대통령을 몹시 고통스럽게 만들고 대통령을 정치적으로 고립시켜 왔다\"면서도 \"계속 발바닥에 작은 돌멩이들이 있는 채 걸어가실 것 같다는 생각이 든다\"고 말했습니다.\n\n그러면서 \"제가 돌을 집어넣은 것이 아니고 저는 돌이 들었다고 말을 했다\"며 \"지금이라도 신발을 털고 돌을 빼내고 다시 걸어가면 얼마든지 원래 가고자 했던 곳으로 갈 수 있는데, 누가 옆에서 '쟤 때문에 지금 걸음이 힘든 거예요'라고 말하고 있다\"고 지적했습니다. 유 작가는 검찰개혁에 대해선 신발에 비유하면서 \"국민이 신겨 준 신발을 어쩔 수 없이 신고 가는 중이라고 본다\"며 \"때로는 불편한 신발을 어쩔 수 없이 신어야 될 때가 있다\"고 말했습니다.",
    "quotes": [
-    "장외투쟁을 여러 번 해본 경험에 비춰봤을 때 정부·여당에 민심이 좋지 않다고 해서 이를 발판 삼아 장외로 나가는 것을 남발해서는 안 된다",
-    "국회 안에서 야당이 할 수 있는 역할에 한계가 왔다고 판단되면 결국 시민사회에서 국민과 연대하는 방향으로 갈 수밖에 없다",
-    "그 밖의 장외투쟁 여부는 아직 원내대표실 안에서도 구체적으로 논의된 적이 없고 당대표실과도 이야기를 나눈 적이 아예 없다"
+    "지금이라도 신발을 털고 돌을 빼내고 다시 걸어가면 얼마든지 원래 가고자 했던 곳으로 갈 수 있는데, 누가 옆에서 '쟤 때문에 지금 걸음이 힘든 거예요'라고 말하고 있다",
+    "그러면 그걸 꺼내고 털어서 가야 하는데 돌멩이가 들어왔다고는 생각하지 않고 '그냥 불편하다' 이런 상태 같다",
+    "흙길 가다 보면 조그만 돌멩이 같은 게 발바닥에 들어가면 굉장히 불편하다"
    ],
-   "press": "시사저널",
+   "press": "SBS",
    "photo": "07.jpg",
    "quoted": {
-    "quote": "그 밖의 장외투쟁 여부는 아직 원내대표실 안에서도 구체적으로 논의된 적이 없고 당대표실과도 이야기를 나눈 적이 아예 없다",
-    "n": 1,
+    "quote": "지금이라도 신발을 털고 돌을 빼내고 다시 걸어가면 얼마든지 원래 가고자 했던 곳으로 갈 수 있는데, 누가 옆에서 '쟤 때문에 지금 걸음이 힘든 거예요'라고 말하고 있다",
+    "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "시사저널",
-      "title": "“김승원을 ‘제2의 조국’으로”…한동훈도 장동혁도 “거리로”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MQ3JVVVNRcGlGZ3ItN1E1OE1uSFIyNlZYQk42SW9uN0FzMXZxTG92alk3dmNIMldEeE5PNFBKUFlGTklTZVFSS0lFMkZJU1Y1TjMwUUsxdmxOWFkzS0FuMTJKSzlyYVA3MTNMY1ZIc9IBc0FVX3lxTE5kRkNiaThXWVRBdkpwRE9GanhEbndUNEl5N096MnJUYTY0TmtTejJGTWZlNkZzbzBycjBsdzhjRVZYZk0zYTNWaUxpXzhXNVN2OHNkWE9mOERRWHpMbUI4YkJPNThGT2xtd0dtQ05KamhSLVE?oc=5"
+      "press": "연합뉴스",
+      "title": "유시민 \"대통령, 멸칭 문제 있는 그대로 진단 안해…털고 가야\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VTnpsN1VsTFVNYlBiNmZKRC1iWkpWR181ZzY3ZURBdWtNanRHb0prNTI0M2NsbnFLY2JmLVJQYW5WWG5rSTYycVI3bTE4TnJnNDRnYUlJUEU5SzjSAWBBVV95cUxQZHV4VEh1YkFyQ3FfM2RWLWFSM1hXY1R1UUZrSy1abmRmY1JGX1VMczc2V2hkODZpaWNEUW12bHlrUUZGa0VpTlV3eHpfUndpdTNfbWFCaHJfRXV0WXFxaDA?oc=5"
+     },
+     {
+      "press": "부산일보",
+      "title": "유시민 `멸칭 쓰는 지지층은 `신발 속 돌멩이`…이 대통령 정치적 고립시켜`",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaFlPdU94YUJUWXhVQ0EzR2xhc1F4RGhfekh2VkZzSVJtQ0lzWE5rV0lQTE92UnNFTGI1cDJXeDdyeE5FOWxNZDRKbHpjeTU3TjZJTmhCOGNZWDJuODZLZWptaXBGVkVwMFFkemo3OERYZ3pZdVZaODF1M0sxdVFkZVJGRlJITjVHeVNndm93SDdwdjhMV0FyT2pzdm9HOXYxNml5Mk1WVExFdEhDYkJGM1lYaVFqQWQzLTZVMW1PT19idVpYMThjTkZqQThnRFJzdXRYY3pNOFdfLVE?oc=5"
+     },
+     {
+      "press": "국민일보",
+      "title": "유시민, 李대통령에 ‘돌직구’…“진단 있는 그대로 안 해”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tenhEbEFWbFA2dXJTb29uV0c1TEZwNk5NejVfbG95STRySlFRSDJua0I1MWFleElRZnJ6Q1ktT3c2ZGxxRXFJbmtaX0dxYVUwbk54VUl5Z0JfRzRaYUJwX2dhUlBlUnpGRXRkUtIBbEFVX3lxTE5tenhEbEFWbFA2dXJTb29uV0c1TEZwNk5NejVfbG95STRySlFRSDJua0I1MWFleElRZnJ6Q1ktT3c2ZGxxRXFJbmtaX0dxYVUwbk54VUl5Z0JfRzRaYUJwX2dhUlBlUnpGRXRkUg?oc=5"
+     },
+     {
+      "press": "국제신문",
+      "title": "유시민 작가 “대통령, 멸칭 문제 있는 그대로 진단 안해…털고 가야”",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVdjb3J3ZVRqeW9zOV9hX19LT2NJMlpjYU1lVXNsRDlZZDAzVElnM3lxV0R2bHA4N3dGMld0dUZ6eHJBVVB2aWZrc0hLcGJjaWRCaDBhRVJqT1pGUHNLRHdDazFReWRwT3dGUS10OExSRkhmYVVlVklOZ09OaGFNOVdHVHlFRWNWMkpBQzln?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "유시민 \"李대통령, 멸칭 문제 직시 안 해…털고 가야\"",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPdVdhZ0hiRkxsd0REanplYTJYbmtpWHE5WnZ0TUdkeHNDREpRLThNTHlNejk3c3dhX1Y0Wm9Qb2pZTTFnNW90YklBQQ?oc=5"
+     },
+     {
+      "press": "강원도민일보",
+      "title": "[속보] 유시민 “멸칭 문제 있는 그대로 진단 안해”…이 대통령에 “신발 털어야”",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uZTRvTi1nUkNqV2J0RklGSWZNRXU0Y3NhU1V1ODM2MmNTX3MxMUVQc3g4Tzh2MVV3YXlmY19QZGs5czd5d2c0anJ3RVlzcGxmcS1KVWV0dEhFQzJrenhNRlprRUpGb3hi?oc=5"
      }
     ]
    }
@@ -262,139 +298,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/01.png",
-   "pngBytes": 2206635,
-   "feed": "오늘의 뉴스 2026-09-20\n\n· [단독] 청와대에 전달된 ‘성추행 의혹’ 탄원서…김승원 사퇴 결정적 배경 됐나\n· 미 언론 \"트럼프 파병 요청 거절\"...청 \"요청 거절 아니다\"\n· 조민, 홈쇼핑 방송 90분 전 돌연 취소…“논란 우려된다더라”\n· 유독 지하철·화장실서 '픽'…쓰러지는 2030 무슨 일\n· 한동훈 의원 \"국민 이기는 권력 없어...상식과 함께할 것\" [현장영상+]\n· 한동훈, 김승원 사퇴에 \"국민의 승리... 국민만 보고 가겠다\"\n· \"김승원을 '제2의 조국'으로\"…한동훈도 장동혁도 \"거리로\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/01.png",
+   "pngBytes": 2107060,
+   "feed": "오늘의 뉴스 2026-09-21\n\n· 與, 김승원 낙마에 \"이제 한동훈 차례\"…내부선 \"인사 검증 시스템 재점검\" 목소리도\n· 고 노회찬 불러낸 홍준표 “한동훈 의원직 상실하려나? 못 빠져나갈 것”\n· 포켓몬 카드팩 구매하려 인산인해...경찰·소방 출동\n· 세상에 이런 남편…성병도 옮기고 생활비도 끊고[양친소]\n· '연임 불가' 밝히자 민주 \"내년 상반기 개헌\"…국힘은 '냉담'\n· 유시민, \"멸칭쓰는 지지층, 대통령 정치적으로 고립시켜\"\n· 유시민 \"대통령, 멸칭 문제 있는 그대로 진단 안 해…털고 가야\""
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/02.png",
-   "pngBytes": 2188312,
-   "title": "[단독] 청와대에 전달된 ‘성추행 의혹’ 탄원서…김승원 사퇴 결정적 배경 됐나",
-   "summary": "사퇴 기자회견에서 김 후보자가 \"정부에 작은 부담이 더해져서는 안 된다고 생각했다\"고 밝힌 가운데, 최근 김 후보자의 지명 철회를 촉구하는 전직 보좌진들의 탄원서가…",
-   "summary_long": "사퇴 기자회견에서 김 후보자가 \"정부에 작은 부담이 더해져서는 안 된다고 생각했다\"고 밝힌 가운데, 최근 김 후보자의 지명 철회를 촉구하는 전직 보좌진들의 탄원서가 청와대 측에 전달됐던 것으로 KBS 취재 결과 확인됐습니다. KBS 입수한 탄원서에는 김 후보자의 과거 성추행 의혹과 보좌진들의 무마 과정, 김 후보자 추가 음주운전 의혹, 음주 뒤 보좌진에 대한 상습적인 욕설과 폭언 의혹, '신약 로비 의혹' 외 추가 청탁 의혹 등이 담겼습니다. 다른 탄원서에는 김 후보자가 위원장을 맡았던 경기도당 회계 부정 의혹에 대한 문제 제기를 하며, \"김 후보자의 알려지지 않은 흠결들이 조국 때처럼 끊임없이 나올 것\"이라고 청와대의 지명 철회를 촉구하는 내용도 적혔습니다.\n\n김승원 의원실은 입장문에서 탄원서에 대해 \"내용에 대하여 청와대로부터 연락받은 사실은 없다. 또한, \"언론에 보도된 탄원서 소문은 사실과 다르거나 과장 오류가 있다\"며 \"후보자 사퇴 배경과 관련한 위 소문에 대해 당시 근무했던 보좌관은 사실과 다르다는 점을 밝혀왔다\"고 말했습니다. 김 후보자에 대한 보좌진들의 탄원서와 관련한 보다 자세한 내용은 오늘 KBS <뉴스9>에서 다룰 예정입니다.",
-   "press": "KBS",
-   "source": "KBS",
-   "link": "https://n.news.naver.com/article/056/0012260574",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/02.png",
+   "pngBytes": 2094084,
+   "title": "與, 김승원 낙마에 \"이제 한동훈 차례\"…내부선 \"인사 검증 시스템 재점검\" 목소리도",
+   "summary": "\"한 의원의 수사 기록 유출 의혹 끝까지 단죄\" 한 재선 의원도 \"후보자가 직접 제출하는 소명 자료 외에 나머지 의혹에 대해서는 청와대가 정무적 판단 하에 검증하는…",
+   "summary_long": "\"한 의원의 수사 기록 유출 의혹 끝까지 단죄\" 민주당은 한 의원이 불법 유출된 검찰 수사 자료를 김 후보자의 신약 청탁 의혹 제기 수단으로 사용했다고 보고 있다. 국회 법사위원장인 서영교 의원은 19일 \"김승원 후보자에 대한 조작·표적수사, 그 진실은 밝혀질 것\"이라며 \"윤석열 정치검찰 조작수사·조작기소 진상규명을 위한 검찰개혁은 계속된다\"고 했다.\n\n법사위 여당 간사인 김의겸 의원은 페이스북에 \"불법수사기록 유출과 표적수사의 진실은 법사위 간사로서 끝까지 밝혀내겠다\"라며 \"더 이상 정치검찰의 캐비닛에 개혁이 멈춰서서는 안 된다\"고 적었다. 민주당의 한 4선 중진 의원은 20일 뉴시스와 통화에서 \"지금까지는 서류상의 검증에 멈췄는데, 실질적인 평판 검증 등이 잘 이뤄지도록 청와대 인사 검증 시스템을 더 강화해야 한다\"고 했다. 한 재선 의원도 \"후보자가 직접 제출하는 소명 자료 외에 나머지 의혹에 대해서는 청와대가 정무적 판단 하에 검증하는 것\"이라며 \"청와대가 인사 검증 시스템을 살펴봐야 한다\"고 했다．.",
+   "press": "뉴시스",
+   "source": "뉴시스",
+   "link": "https://n.news.naver.com/article/003/0014201943",
    "selection": "정치",
-   "feed": "뉴스 01. [단독] 청와대에 전달된 ‘성추행 의혹’ 탄원서…김승원 사퇴 결정적 배경 됐나\n\n사퇴 기자회견에서 김 후보자가 \"정부에 작은 부담이 더해져서는 안 된다고 생각했다\"고 밝힌 가운데, 최근 김 후보자의 지명 철회를 촉구하는 전직 보좌진들의 탄원서가 청와대 측에 전달됐던 것으로 KBS 취재 결과 확인됐습니다. KBS 입수한 탄원서에는 김 후보자의 과거 성추행 의혹과 보좌진들의 무마 과정, 김 후보자 추가 음주운전 의혹, 음주 뒤 보좌진에 대한 상습적인 욕설과 폭언 의혹, '신약 로비 의혹' 외 추가 청탁 의혹 등이 담겼습니다. 다른 탄원서에는 김 후보자가 위원장을 맡았던 경기도당 회계 부정 의혹에 대한 문제 제기를 하며, \"김 후보자의 알려지지 않은 흠결들이 조국 때처럼 끊임없이 나올 것\"이라고 청와대의 지명 철회를 촉구하는 내용도 적혔습니다.\n\n김승원 의원실은 입장문에서 탄원서에 대해 \"내용에 대하여 청와대로부터 연락받은 사실은 없다. 또한, \"언론에 보도된 탄원서 소문은 사실과 다르거나 과장 오류가 있다\"며 \"후보자 사퇴 배경과 관련한 위 소문에 대해 당시 근무했던 보좌관은 사실과 다르다는 점을 밝혀왔다\"고 말했습니다. 김 후보자에 대한 보좌진들의 탄원서와 관련한 보다 자세한 내용은 오늘 KBS <뉴스9>에서 다룰 예정입니다.\n\n출처: KBS / https://n.news.naver.com/article/056/0012260574"
+   "feed": "뉴스 01. 與, 김승원 낙마에 \"이제 한동훈 차례\"…내부선 \"인사 검증 시스템 재점검\" 목소리도\n\n\"한 의원의 수사 기록 유출 의혹 끝까지 단죄\" 민주당은 한 의원이 불법 유출된 검찰 수사 자료를 김 후보자의 신약 청탁 의혹 제기 수단으로 사용했다고 보고 있다. 국회 법사위원장인 서영교 의원은 19일 \"김승원 후보자에 대한 조작·표적수사, 그 진실은 밝혀질 것\"이라며 \"윤석열 정치검찰 조작수사·조작기소 진상규명을 위한 검찰개혁은 계속된다\"고 했다.\n\n법사위 여당 간사인 김의겸 의원은 페이스북에 \"불법수사기록 유출과 표적수사의 진실은 법사위 간사로서 끝까지 밝혀내겠다\"라며 \"더 이상 정치검찰의 캐비닛에 개혁이 멈춰서서는 안 된다\"고 적었다. 민주당의 한 4선 중진 의원은 20일 뉴시스와 통화에서 \"지금까지는 서류상의 검증에 멈췄는데, 실질적인 평판 검증 등이 잘 이뤄지도록 청와대 인사 검증 시스템을 더 강화해야 한다\"고 했다. 한 재선 의원도 \"후보자가 직접 제출하는 소명 자료 외에 나머지 의혹에 대해서는 청와대가 정무적 판단 하에 검증하는 것\"이라며 \"청와대가 인사 검증 시스템을 살펴봐야 한다\"고 했다．.\n\n출처: 뉴시스 / https://n.news.naver.com/article/003/0014201943"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/03.png",
-   "pngBytes": 1506704,
-   "title": "미 언론 \"트럼프 파병 요청 거절\"...청 \"요청 거절 아니다\"",
-   "summary": "전투 파병 불가 입장을 트럼프 요청 거절로 해석. 전투 파병은 하지 않겠다는 이재명 대통령의 발언에 대해 미국 언론은 이 대통령이 트럼프의 파병 요청을 거절했다고…",
-   "summary_long": "전투 파병 불가 입장을 트럼프 요청 거절로 해석. '비전투 파병' 관련 미국 측 입장은 확인 안 돼. 전투 파병은 하지 않겠다는 이재명 대통령의 발언에 대해 미국 언론은 이 대통령이 트럼프의 파병 요청을 거절했다고 보도했는데요.\n\n청와대는 트럼프의 요청을 거절한 건 아니라며, 실질적 기여 방안을 검토하고 있다는 비전투 분야 파병 의지를 재확인했습니다. 트럼프 입장에서는 이란의 군사력에 함께 맞설 지원군을 원하는 것이기 때문에 전투 파병 거절은 사실상 트럼프 요청을 거절했다고 보는 겁니다. 청와대는 그러나 트럼프의 협조 요청을 거절한 것은 아니라는 입장을 밝혔습니다.",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002409177",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/03.png",
+   "pngBytes": 1894886,
+   "title": "고 노회찬 불러낸 홍준표 “한동훈 의원직 상실하려나? 못 빠져나갈 것”",
+   "summary": "홍준표 전 대구시장이 한동훈 무소속 의원을 향해 “이제 김승원은 갔으니 더 이상 화제는 안 될 것”이라며 “한동훈 수사만 남았다”고 말했다. 홍 전 시장은 이날…",
+   "summary_long": "홍준표 전 대구시장이 한동훈 무소속 의원을 향해 “이제 김승원은 갔으니 더 이상 화제는 안 될 것”이라며 “한동훈 수사만 남았다”고 말했다. 김승원 더불어민주당 의원이 19일 법무부 장관 후보직에서 자진 사퇴한 가운데, 앞서 그에 대해 폭로를 이어온 한 의원을 언급한 것이다. 홍 전 시장은 이날 페이스북에서 “노회찬 의원이 삼성 떡값 검사들 폭로하고 출처와 관련해서 기소돼 집행유예 판결 받고 의원직 상실한 적이 있었는데, 이번에 한동훈이는 어떻게 되려나”라고 말했다.\n\n홍 전 시장이 거론한 건 2005년 8월 노회찬 전 정의당 의원이 국가정보원 불법도청 녹취록 ‘삼성 엑스(X)파일’에 등장한 ‘떡값 검사’ 명단을 공개한 일이다. 홍 전 시장은 “이제 김승원이는 갔으니 더 이상 화제는 안 될 것 같고 한동훈이 수사만 남았다”며 “당원게시판 사건도 수사 중인데 엎친 데 덮친 격이다. 앞서 김승원 후보자 관련 ‘신약 임상시험 계획 승인 청탁 의혹’을 제기하며 한 의원이 공개한 관련자들 문자메시지, 통화 내용, 검찰 내부 문서인 기소계획서 내용 등이 내부 수사 자료를 입수해 공개한 것이라 문제라는 취지다.",
+   "press": "한겨레",
+   "source": "한겨레",
+   "link": "https://n.news.naver.com/article/028/0002823861",
    "selection": "정치",
-   "feed": "뉴스 02. 미 언론 \"트럼프 파병 요청 거절\"...청 \"요청 거절 아니다\"\n\n전투 파병 불가 입장을 트럼프 요청 거절로 해석. '비전투 파병' 관련 미국 측 입장은 확인 안 돼. 전투 파병은 하지 않겠다는 이재명 대통령의 발언에 대해 미국 언론은 이 대통령이 트럼프의 파병 요청을 거절했다고 보도했는데요.\n\n청와대는 트럼프의 요청을 거절한 건 아니라며, 실질적 기여 방안을 검토하고 있다는 비전투 분야 파병 의지를 재확인했습니다. 트럼프 입장에서는 이란의 군사력에 함께 맞설 지원군을 원하는 것이기 때문에 전투 파병 거절은 사실상 트럼프 요청을 거절했다고 보는 겁니다. 청와대는 그러나 트럼프의 협조 요청을 거절한 것은 아니라는 입장을 밝혔습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002409177"
+   "feed": "뉴스 02. 고 노회찬 불러낸 홍준표 “한동훈 의원직 상실하려나? 못 빠져나갈 것”\n\n홍준표 전 대구시장이 한동훈 무소속 의원을 향해 “이제 김승원은 갔으니 더 이상 화제는 안 될 것”이라며 “한동훈 수사만 남았다”고 말했다. 김승원 더불어민주당 의원이 19일 법무부 장관 후보직에서 자진 사퇴한 가운데, 앞서 그에 대해 폭로를 이어온 한 의원을 언급한 것이다. 홍 전 시장은 이날 페이스북에서 “노회찬 의원이 삼성 떡값 검사들 폭로하고 출처와 관련해서 기소돼 집행유예 판결 받고 의원직 상실한 적이 있었는데, 이번에 한동훈이는 어떻게 되려나”라고 말했다.\n\n홍 전 시장이 거론한 건 2005년 8월 노회찬 전 정의당 의원이 국가정보원 불법도청 녹취록 ‘삼성 엑스(X)파일’에 등장한 ‘떡값 검사’ 명단을 공개한 일이다. 홍 전 시장은 “이제 김승원이는 갔으니 더 이상 화제는 안 될 것 같고 한동훈이 수사만 남았다”며 “당원게시판 사건도 수사 중인데 엎친 데 덮친 격이다. 앞서 김승원 후보자 관련 ‘신약 임상시험 계획 승인 청탁 의혹’을 제기하며 한 의원이 공개한 관련자들 문자메시지, 통화 내용, 검찰 내부 문서인 기소계획서 내용 등이 내부 수사 자료를 입수해 공개한 것이라 문제라는 취지다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002823861"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/04.png",
-   "pngBytes": 1514450,
-   "title": "조민, 홈쇼핑 방송 90분 전 돌연 취소…“논란 우려된다더라”",
-   "summary": "조민 인스타그램 캡처 조국 조국혁신당 혁신정책연구원장의 딸 조민 주식회사 사적표시 대표이사가 롯데홈쇼핑 라이브 방송을 불과 90분 앞두고 출연 취소 통보를 받았다고…",
-   "summary_long": "조민 인스타그램 캡처 조국 조국혁신당 혁신정책연구원장의 딸 조민 주식회사 사적표시 대표이사가 롯데홈쇼핑 라이브 방송을 불과 90분 앞두고 출연 취소 통보를 받았다고 밝혔다. 조씨는 18일 자신의 소셜미디어에 “롯데홈쇼핑 출연이 갑작스럽게 취소된 것에 대해 질문이 많아 사실관계 파악 후 답변드린다”며 방송 취소 경위를 공개했다. 조씨에 따르면 롯데홈쇼핑 측은 예정된 방송 약 90분 전 출연 취소를 통보했다.\n\n조민 인스타그램 캡처 당초 조씨는 17일 오후 8시 롯데홈쇼핑 모바일 라이브 방송 ‘엘라이브’에 출연할 예정이었다. 그러나 방송을 앞두고 일정이 취소되자 SNS를 통해 “본사 사정으로 취소됐다”고 먼저 알렸다. 조씨는 대체 방송을 마친 뒤 “준비한 것이 많았어서 아쉽지만 바로픽 창고의 빠른 대응으로 어제 좋은 대체 방송 진행할 수 있어 만족한다”고 밝혔다.",
-   "press": "국민일보",
-   "source": "국민일보",
-   "link": "https://n.news.naver.com/article/005/0001873969",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/04.png",
+   "pngBytes": 2288969,
+   "title": "포켓몬 카드팩 구매하려 인산인해...경찰·소방 출동",
+   "summary": "한정판 포켓몬스터 카드를 사려는 사람들이 한꺼번에 몰리면서 경찰과 소방이 출동하는 소동이 벌어졌습니다. 포켓몬스터 30주년을 기념하기 위해 전 세계에 동시 발매된 포켓몬…",
+   "summary_long": "한정판 포켓몬스터 카드를 사려는 사람들이 한꺼번에 몰리면서 경찰과 소방이 출동하는 소동이 벌어졌습니다. 포켓몬스터 카드 숍이 입점한 경기 구리시 수택동 모습인데요. 포켓몬스터 30주년을 기념하기 위해 전 세계에 동시 발매된 포켓몬 한정판 확장팩을 구매하기 위해 줄을 선 시민들입니다.\n\n인파가 몰려 사고 우려가 있다는 신고를 받고 경찰과 소방이 출동해 현장 관리에 나섰습니다. 포켓몬 카드 숍 구리지점은 SNS 게시물을 통해, 현장 안전을 위해 오늘 판매를 중지했다고 안내했습니다. 한 팩에 7만 원 정도에 구매할 수 있는 이 포켓몬 카드 팩은 중고 거래 사이트에서 웃돈이 붙어 판매되는데, 정가의 두 배에 거래되는 경우도 있는 거로 전해졌습니다.",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002409369",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 조민, 홈쇼핑 방송 90분 전 돌연 취소…“논란 우려된다더라”\n\n조민 인스타그램 캡처 조국 조국혁신당 혁신정책연구원장의 딸 조민 주식회사 사적표시 대표이사가 롯데홈쇼핑 라이브 방송을 불과 90분 앞두고 출연 취소 통보를 받았다고 밝혔다. 조씨는 18일 자신의 소셜미디어에 “롯데홈쇼핑 출연이 갑작스럽게 취소된 것에 대해 질문이 많아 사실관계 파악 후 답변드린다”며 방송 취소 경위를 공개했다. 조씨에 따르면 롯데홈쇼핑 측은 예정된 방송 약 90분 전 출연 취소를 통보했다.\n\n조민 인스타그램 캡처 당초 조씨는 17일 오후 8시 롯데홈쇼핑 모바일 라이브 방송 ‘엘라이브’에 출연할 예정이었다. 그러나 방송을 앞두고 일정이 취소되자 SNS를 통해 “본사 사정으로 취소됐다”고 먼저 알렸다. 조씨는 대체 방송을 마친 뒤 “준비한 것이 많았어서 아쉽지만 바로픽 창고의 빠른 대응으로 어제 좋은 대체 방송 진행할 수 있어 만족한다”고 밝혔다.\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001873969"
+   "feed": "뉴스 03. 포켓몬 카드팩 구매하려 인산인해...경찰·소방 출동\n\n한정판 포켓몬스터 카드를 사려는 사람들이 한꺼번에 몰리면서 경찰과 소방이 출동하는 소동이 벌어졌습니다. 포켓몬스터 카드 숍이 입점한 경기 구리시 수택동 모습인데요. 포켓몬스터 30주년을 기념하기 위해 전 세계에 동시 발매된 포켓몬 한정판 확장팩을 구매하기 위해 줄을 선 시민들입니다.\n\n인파가 몰려 사고 우려가 있다는 신고를 받고 경찰과 소방이 출동해 현장 관리에 나섰습니다. 포켓몬 카드 숍 구리지점은 SNS 게시물을 통해, 현장 안전을 위해 오늘 판매를 중지했다고 안내했습니다. 한 팩에 7만 원 정도에 구매할 수 있는 이 포켓몬 카드 팩은 중고 거래 사이트에서 웃돈이 붙어 판매되는데, 정가의 두 배에 거래되는 경우도 있는 거로 전해졌습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002409369"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/05.png",
-   "pngBytes": 1390776,
-   "title": "유독 지하철·화장실서 '픽'…쓰러지는 2030 무슨 일",
-   "summary": "[윤지은/순천향대학교 부천병원 신경과 교수 : 지하철은 미주신경성 실신을 유발할 수 있는 조건이 여러 가지가 겹치는 환경입니다. [윤지은/순천향대학교 부천병원 신경과…",
-   "summary_long": "'갑자기 귀가 안 들리고 앞이 안보였다', '다리에 힘이 풀려 그 자리에서 쓰러졌다' 이런 경험담이 최근 SNS나 커뮤니티에 종종 올라오는데요. [윤지은/순천향대학교 부천병원 신경과 교수 : 여성은 평균적으로 혈압도 낮고 순환하는 혈액량이 좀 낮은 편입니다. (또) 무리한 다이어트나 저체중 자체가 직접적인 어떤 원인이다라고 말하기는 어렵지만 다이어트하고 저체중 하게 되면 식사량도 줄고 수분 섭취도 줄고 염분 섭취도 부족해지면 혈액량과 혈압이 확 떨어져서 실신에 더 취약한 상황이 일어날 수가 있습니다.\n\n[윤지은/순천향대학교 부천병원 신경과 교수 : 지하철은 미주신경성 실신을 유발할 수 있는 조건이 여러 가지가 겹치는 환경입니다. [윤지은/순천향대학교 부천병원 신경과 교수 : 미주신경 실신이 일어날 때 단순히 혈압만 떨어지는 게 아니라 미주신경을 포함한 다른 부교감 신경 반응이 또 강해지게 됩니다. [윤지은/순천향대학교 부천병원 신경과 교수 : 예방에서 가장 중요한 것은 탈수와 혈압이 떨어지는 상황을 피하는 겁니다.",
-   "press": "SBS",
-   "source": "SBS",
-   "link": "https://n.news.naver.com/article/055/0001389557",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/05.png",
+   "pngBytes": 2118423,
+   "title": "세상에 이런 남편…성병도 옮기고 생활비도 끊고[양친소]",
+   "summary": "남편 명의 아파트인데, 아내가 아이들을 키우게 되면 이혼 후에도 계속 살 수 있나요? 따라서 아내가 두 아이를 계속 양육하고, 아이들의 학교와 생활환경을 유지해야 한다는…",
+   "summary_long": "양소영 변호사의 친절한 상담소[양소영 법무법인 숭인 대표 변호사(한국여성변호사회 부회장) 백수현 법무법인 숭인 대표 변호사]. 하지만 아내에게 감염 가능성이 달리 없고, 부부관계 이후 발병했다는 의료기록이 있으며, 같은 시기에 남편 역시 관련 치료나 약을 복용했고, 반복적인 해외여행 등 다른 정황까지 존재한다면 부정행위를 의심하게 하는 간접사실 중 하나로 사용될 여지는 있습니다. 남편 명의 아파트인데, 아내가 아이들을 키우게 되면 이혼 후에도 계속 살 수 있나요?\n\n아이들이 지금 학교를 다니고 있고 생활환경을 유지할 필요가 있다는 사정은 중요하지만, 그것만으로 남편 소유권을 제한해 아내와 자녀에게 계속 살게 해주는 권리가 바로 발생하는 것은 아닙니다. 혼인 중 부부가 함께 형성하고 유지한 아파트라면 명의가 남편 한 사람 앞으로 되어 있더라도 재산분할 대상이 될 수 있습니다. 따라서 아내가 두 아이를 계속 양육하고, 아이들의 학교와 생활환경을 유지해야 한다는 사정 등을 설명하면서 아파트를 아내에게 귀속시키고 남편 몫을 다른 재산이나 현금으로 정산하는 방식을 주장해 볼 수 있습니다.",
+   "press": "이데일리",
+   "source": "이데일리",
+   "link": "https://n.news.naver.com/article/018/0006372753",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 유독 지하철·화장실서 '픽'…쓰러지는 2030 무슨 일\n\n'갑자기 귀가 안 들리고 앞이 안보였다', '다리에 힘이 풀려 그 자리에서 쓰러졌다' 이런 경험담이 최근 SNS나 커뮤니티에 종종 올라오는데요. [윤지은/순천향대학교 부천병원 신경과 교수 : 여성은 평균적으로 혈압도 낮고 순환하는 혈액량이 좀 낮은 편입니다. (또) 무리한 다이어트나 저체중 자체가 직접적인 어떤 원인이다라고 말하기는 어렵지만 다이어트하고 저체중 하게 되면 식사량도 줄고 수분 섭취도 줄고 염분 섭취도 부족해지면 혈액량과 혈압이 확 떨어져서 실신에 더 취약한 상황이 일어날 수가 있습니다.\n\n[윤지은/순천향대학교 부천병원 신경과 교수 : 지하철은 미주신경성 실신을 유발할 수 있는 조건이 여러 가지가 겹치는 환경입니다. [윤지은/순천향대학교 부천병원 신경과 교수 : 미주신경 실신이 일어날 때 단순히 혈압만 떨어지는 게 아니라 미주신경을 포함한 다른 부교감 신경 반응이 또 강해지게 됩니다. [윤지은/순천향대학교 부천병원 신경과 교수 : 예방에서 가장 중요한 것은 탈수와 혈압이 떨어지는 상황을 피하는 겁니다.\n\n출처: SBS / https://n.news.naver.com/article/055/0001389557"
+   "feed": "뉴스 04. 세상에 이런 남편…성병도 옮기고 생활비도 끊고[양친소]\n\n양소영 변호사의 친절한 상담소[양소영 법무법인 숭인 대표 변호사(한국여성변호사회 부회장) 백수현 법무법인 숭인 대표 변호사]. 하지만 아내에게 감염 가능성이 달리 없고, 부부관계 이후 발병했다는 의료기록이 있으며, 같은 시기에 남편 역시 관련 치료나 약을 복용했고, 반복적인 해외여행 등 다른 정황까지 존재한다면 부정행위를 의심하게 하는 간접사실 중 하나로 사용될 여지는 있습니다. 남편 명의 아파트인데, 아내가 아이들을 키우게 되면 이혼 후에도 계속 살 수 있나요?\n\n아이들이 지금 학교를 다니고 있고 생활환경을 유지할 필요가 있다는 사정은 중요하지만, 그것만으로 남편 소유권을 제한해 아내와 자녀에게 계속 살게 해주는 권리가 바로 발생하는 것은 아닙니다. 혼인 중 부부가 함께 형성하고 유지한 아파트라면 명의가 남편 한 사람 앞으로 되어 있더라도 재산분할 대상이 될 수 있습니다. 따라서 아내가 두 아이를 계속 양육하고, 아이들의 학교와 생활환경을 유지해야 한다는 사정 등을 설명하면서 아파트를 아내에게 귀속시키고 남편 몫을 다른 재산이나 현금으로 정산하는 방식을 주장해 볼 수 있습니다.\n\n출처: 이데일리 / https://n.news.naver.com/article/018/0006372753"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/06.png",
-   "pngBytes": 1795952,
-   "title": "한동훈 의원 \"국민 이기는 권력 없어...상식과 함께할 것\" [현장영상+]",
-   "summary": "김승원 후보님 그리고 민주당이 떼거지로 나와서 저에게 복수하겠다고 협박하던데 이재명 민주당 정권이 그런 마음가짐이라면 이렇게 김승원을 철회해도 부정적 효과가 커지는 것을…",
-   "summary_long": "김승원 법무부 장관 후보자가 전격 사퇴하면서, '신약 청탁 의혹'으로 낙마 공세를 주도해오던 한동훈 의원도 기자회견을 자처했습니다. 앞서 김 후보자가 자리에서는 물러난다면서도, 한 의원을 겨냥해 '정치검찰 개혁'을 완수하겠다고 밝힌 데 대한 입장도 전할 것으로 보이는데요. 김승원 후보님 그리고 민주당이 떼거지로 나와서 저에게 복수하겠다고 협박하던데 이재명 민주당 정권이 그런 마음가짐이라면 이렇게 김승원을 철회해도 부정적 효과가 커지는 것을 막을 수가 없을 겁니다.\n\n국민 대다수가 김승원 오빠 독약로비를 절대 안 된다고 반대하시고 계시는데 국민을 대신해서 김승원 철회에 앞장선 저에게 복수하겠다는 것은 이재명 민주당 정권이 바로 국민께 복수하겠다는 것이기 때문입니다. 영리한 동남아파 NHK 오빠 송영길, 바바리맨의 수호자 서영교, 롯데호텔 38층의 박지원, 흑석 청담의 김의겸, 9억 받아 처먹고 NHK 강신성 스폰서 받는 김민석. 저는 국민만 보고 가겠습니다.",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002409145",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/06.png",
+   "pngBytes": 1740760,
+   "title": "'연임 불가' 밝히자 민주 \"내년 상반기 개헌\"…국힘은 '냉담'",
+   "summary": "이재명 대통령이 연임 개헌 불가 입장을 밝힌 가운데 민주당이 본격적으로 개헌 논의에 들어갔습니다. 다만 국민의힘은 대통령의 연임 불가 발언을 믿을 수 없다며 아직까진…",
+   "summary_long": "이재명 대통령이 연임 개헌 불가 입장을 밝힌 가운데 민주당이 본격적으로 개헌 논의에 들어갔습니다. 다만 국민의힘은 대통령의 연임 불가 발언을 믿을 수 없다며 아직까진 냉담한 반응을 보이고 있습니다. 더불어민주당이 당내 개헌추진단을 출범시키며 개헌 논의를 본격화했습니다.\n\n[김민석/더불어민주당 대표 : 이제 말꼬리 잡기보다는 진지한 개헌 논의로 전환할 때가 되었습니다.]. 민주당은 지난 18일 이 대통령이 기자회견에서 '연임 개헌 논란'을 명확히 정리했다는 입장입니다. 국민의힘에서 개헌 논의 선결 조건으로 요구하던 연임 불가 선언이 나온 만큼, 이제 야당도 논의에 본격 동참하라고 압박했습니다.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000511985",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 한동훈 의원 \"국민 이기는 권력 없어...상식과 함께할 것\" [현장영상+]\n\n김승원 법무부 장관 후보자가 전격 사퇴하면서, '신약 청탁 의혹'으로 낙마 공세를 주도해오던 한동훈 의원도 기자회견을 자처했습니다. 앞서 김 후보자가 자리에서는 물러난다면서도, 한 의원을 겨냥해 '정치검찰 개혁'을 완수하겠다고 밝힌 데 대한 입장도 전할 것으로 보이는데요. 김승원 후보님 그리고 민주당이 떼거지로 나와서 저에게 복수하겠다고 협박하던데 이재명 민주당 정권이 그런 마음가짐이라면 이렇게 김승원을 철회해도 부정적 효과가 커지는 것을 막을 수가 없을 겁니다.\n\n국민 대다수가 김승원 오빠 독약로비를 절대 안 된다고 반대하시고 계시는데 국민을 대신해서 김승원 철회에 앞장선 저에게 복수하겠다는 것은 이재명 민주당 정권이 바로 국민께 복수하겠다는 것이기 때문입니다. 영리한 동남아파 NHK 오빠 송영길, 바바리맨의 수호자 서영교, 롯데호텔 38층의 박지원, 흑석 청담의 김의겸, 9억 받아 처먹고 NHK 강신성 스폰서 받는 김민석. 저는 국민만 보고 가겠습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002409145"
+   "feed": "뉴스 05. '연임 불가' 밝히자 민주 \"내년 상반기 개헌\"…국힘은 '냉담'\n\n이재명 대통령이 연임 개헌 불가 입장을 밝힌 가운데 민주당이 본격적으로 개헌 논의에 들어갔습니다. 다만 국민의힘은 대통령의 연임 불가 발언을 믿을 수 없다며 아직까진 냉담한 반응을 보이고 있습니다. 더불어민주당이 당내 개헌추진단을 출범시키며 개헌 논의를 본격화했습니다.\n\n[김민석/더불어민주당 대표 : 이제 말꼬리 잡기보다는 진지한 개헌 논의로 전환할 때가 되었습니다.]. 민주당은 지난 18일 이 대통령이 기자회견에서 '연임 개헌 논란'을 명확히 정리했다는 입장입니다. 국민의힘에서 개헌 논의 선결 조건으로 요구하던 연임 불가 선언이 나온 만큼, 이제 야당도 논의에 본격 동참하라고 압박했습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000511985"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/07.png",
-   "pngBytes": 1728997,
-   "title": "한동훈, 김승원 사퇴에 \"국민의 승리... 국민만 보고 가겠다\"",
-   "summary": "한동훈 무소속 의원이 15일 국회 의원회관에서 열린 토론회에 참석한 뒤 취재진과 가진 간담회에서 김승원 법무부 장관 후보자와 더불어민주당 김민석 대표의 SNS 메시지와…",
-   "summary_long": "한동훈 무소속 의원이 15일 국회 의원회관에서 열린 토론회에 참석한 뒤 취재진과 가진 간담회에서 김승원 법무부 장관 후보자와 더불어민주당 김민석 대표의 SNS 메시지와 관련해 발언하고 있다. 한동훈 무소속 의원이 19일 김승원 법무부장관 후보자의 자진 사퇴에 대해 \"국민의 승리\"라고 평했다. 한 의원은 이날 페이스북에 \"이재명 민주당이 오빠독약 로비를 '볼수록 잘한 인사'라며 총력으로 결사 옹호했지만 국민이 이겼다\"며 \"국민만 보고 모두 함께 가겠다\"고 적었다.\n\n최근 김민석 더불어민주당 대표가 김 후보자 인선에 대해 \"보면 볼수록 잘 된 인사\"라고 평가한 것을 겨냥한 발언으로 보인다. 한 의원은 김 후보자 지명 다음날인 지난달 31일 국회 예산결산특별위원회에서 '식약처 임상시험 승인 청탁 의혹'을 처음 제기했다. 김 후보자는 \"윤석열·한동훈 정치 검찰의 표적 수사와 한동훈의 수사 기밀 불법 유출, 짜깁기 사태의 전모를 끝까지 밝히겠다\"며 \"이번 일이야말로 검찰 개혁의 필요성을 국민들께 입증한 사례라 생각한다\"고 했다.",
-   "press": "한국일보",
-   "source": "한국일보",
-   "link": "https://n.news.naver.com/article/469/0000954984",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/07.png",
+   "pngBytes": 1839793,
+   "title": "유시민, \"멸칭쓰는 지지층, 대통령 정치적으로 고립시켜\"",
+   "summary": "유시민 작가가 '멸칭'을 사용하는 일부 지지층을 '신발 속 돌멩이'에 빗대며 \"그 돌들이 대통령을 힘들게 하고 있고 대통령을 정치적으로 고립시키고 있다\"고 지적했습니다.…",
+   "summary_long": "유시민 작가가 '멸칭'을 사용하는 일부 지지층을 '신발 속 돌멩이'에 빗대며 \"그 돌들이 대통령을 힘들게 하고 있고 대통령을 정치적으로 고립시키고 있다\"고 지적했습니다. 유 작가는 오늘 공개된 유튜브 방송 '탁현민의 더뷰티플'에 출연해 \"그렇게 함으로써 저를 좋아하는 사람들로 하여금 그들이 칭송하는 이재명 대통령을 싫어하게 만드는 것\"이라며 이렇게 말했습니다. 그는 \"그것이 대통령을 몹시 고통스럽게 만들고 대통령을 정치적으로 고립시켜 왔는데, 지난 1년 넘는 세월 동안 대통령은 이 진단을 있는 그대로 하지는 않는 것 같다\"며 \"그래서 계속 발바닥에 작은 돌멩이들이 있는 채 걸어가실 것 같다\"고 했습니다.\n\n유 작가는 또, 검찰개혁을 신발에 비유해 이 대통령 본인이 원하지 않았던 신발을 국민에 의해 신게 된 것이라고 표현하기도 했습니다. 그는 \"본인이 원치 않는 신발을 신고 걸으니까 지금 불편하시다\"라며 \"살다 보면 때로는 불편한 신발을 어쩔 수 없이 신어야 할 때가 있다\"고 했습니다. 저는 그런 상태라고 본다\"며 \"지금이라도 신발을 털고 돌을 빼내고, 그리고 다시 걸어가면 얼마든지 또 원래의 속도로, 원래 가고자 했던 곳으로 갈 수 있다\"고 강조했습니다.",
+   "press": "MBC",
+   "source": "MBC",
+   "link": "https://n.news.naver.com/article/214/0001524993",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 한동훈, 김승원 사퇴에 \"국민의 승리... 국민만 보고 가겠다\"\n\n한동훈 무소속 의원이 15일 국회 의원회관에서 열린 토론회에 참석한 뒤 취재진과 가진 간담회에서 김승원 법무부 장관 후보자와 더불어민주당 김민석 대표의 SNS 메시지와 관련해 발언하고 있다. 한동훈 무소속 의원이 19일 김승원 법무부장관 후보자의 자진 사퇴에 대해 \"국민의 승리\"라고 평했다. 한 의원은 이날 페이스북에 \"이재명 민주당이 오빠독약 로비를 '볼수록 잘한 인사'라며 총력으로 결사 옹호했지만 국민이 이겼다\"며 \"국민만 보고 모두 함께 가겠다\"고 적었다.\n\n최근 김민석 더불어민주당 대표가 김 후보자 인선에 대해 \"보면 볼수록 잘 된 인사\"라고 평가한 것을 겨냥한 발언으로 보인다. 한 의원은 김 후보자 지명 다음날인 지난달 31일 국회 예산결산특별위원회에서 '식약처 임상시험 승인 청탁 의혹'을 처음 제기했다. 김 후보자는 \"윤석열·한동훈 정치 검찰의 표적 수사와 한동훈의 수사 기밀 불법 유출, 짜깁기 사태의 전모를 끝까지 밝히겠다\"며 \"이번 일이야말로 검찰 개혁의 필요성을 국민들께 입증한 사례라 생각한다\"고 했다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000954984"
+   "feed": "뉴스 06. 유시민, \"멸칭쓰는 지지층, 대통령 정치적으로 고립시켜\"\n\n유시민 작가가 '멸칭'을 사용하는 일부 지지층을 '신발 속 돌멩이'에 빗대며 \"그 돌들이 대통령을 힘들게 하고 있고 대통령을 정치적으로 고립시키고 있다\"고 지적했습니다. 유 작가는 오늘 공개된 유튜브 방송 '탁현민의 더뷰티플'에 출연해 \"그렇게 함으로써 저를 좋아하는 사람들로 하여금 그들이 칭송하는 이재명 대통령을 싫어하게 만드는 것\"이라며 이렇게 말했습니다. 그는 \"그것이 대통령을 몹시 고통스럽게 만들고 대통령을 정치적으로 고립시켜 왔는데, 지난 1년 넘는 세월 동안 대통령은 이 진단을 있는 그대로 하지는 않는 것 같다\"며 \"그래서 계속 발바닥에 작은 돌멩이들이 있는 채 걸어가실 것 같다\"고 했습니다.\n\n유 작가는 또, 검찰개혁을 신발에 비유해 이 대통령 본인이 원하지 않았던 신발을 국민에 의해 신게 된 것이라고 표현하기도 했습니다. 그는 \"본인이 원치 않는 신발을 신고 걸으니까 지금 불편하시다\"라며 \"살다 보면 때로는 불편한 신발을 어쩔 수 없이 신어야 할 때가 있다\"고 했습니다. 저는 그런 상태라고 본다\"며 \"지금이라도 신발을 털고 돌을 빼내고, 그리고 다시 걸어가면 얼마든지 또 원래의 속도로, 원래 가고자 했던 곳으로 갈 수 있다\"고 강조했습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001524993"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/08.png",
-   "pngBytes": 1845180,
-   "title": "\"김승원을 '제2의 조국'으로\"…한동훈도 장동혁도 \"거리로\"",
-   "summary": "한동훈 무소속 의원은 이재명 대통령이 김 후보자 임명을 강행하면 \"거리로 나가야 한다\"며 불씨를 키웠고, 장동혁 국민의힘 대표도 \"장외투쟁을 포함한 모든 방안을…",
-   "summary_long": "한동훈 무소속 의원은 이재명 대통령이 김 후보자 임명을 강행하면 \"거리로 나가야 한다\"며 불씨를 키웠고, 장동혁 국민의힘 대표도 \"장외투쟁을 포함한 모든 방안을 강구하겠다\"고 맞불을 놨다. 한 의원은 김승원 공세에서 확보한 주도권을 장외투쟁을 통해 계속 이어가려 하지만, 정작 친한(親한동훈)계에서는 정치권이 앞장서는 순간 복당 명분이 흐려질 수 있다는 신중론이 나온다. 동시에 장 대표와 일부 당권파는 장외투쟁을 통해 한 의원에게 넘어간 대여 투쟁 주도권을 되찾으려 하지만, 원내대표단과 의원들은 \"아직 계획도 없다\"며 선을 긋는다.\n\n우선 한 의원이 거리로 나가는 순간, 장 대표의 장외투쟁을 공격할 명분 하나가 사라진다. 한 친한계 의원은 통화에서 \"본인이 장외투쟁을 하겠다는 것이 아니라 국민이 장외로 나올 수 있지 않겠느냐는 취지로 이해했다\"고 말했다. 장예찬 전 국민의힘 여의도연구원 부원장은 \"당이 나서서 장외투쟁을 하면 무소속 개인이 장외에서 하는 것보다 훨씬 더 클 것\"이라며 \"국민의힘의 장외투쟁 검토에는 한 의원에게 대여 투쟁의 '주도권을 빼앗기지 않겠다'는 의미도 담겨 있을 수 있다\"고 분석했다.",
-   "press": "시사저널",
-   "source": "시사저널",
-   "link": "https://n.news.naver.com/article/586/0000138557",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/08.png",
+   "pngBytes": 2232153,
+   "title": "유시민 \"대통령, 멸칭 문제 있는 그대로 진단 안 해…털고 가야\"",
+   "summary": "범여권 논객인 유시민 작가가 이재명 대통령이 기자회견에서 진보 진영 내 멸칭 사용을 \"가슴 아픈 현실\"이라고 말한 것을 두고 \"진단을 있는 그대로 하지 않는 것 같다\"고…",
+   "summary_long": "범여권 논객인 유시민 작가가 이재명 대통령이 기자회견에서 진보 진영 내 멸칭 사용을 \"가슴 아픈 현실\"이라고 말한 것을 두고 \"진단을 있는 그대로 하지 않는 것 같다\"고 문제를 제기했습니다. 오늘(20일) 유튜브에 공개된 '탁현민의 더뷰티플' 영상에서 멸칭 사용을 '신발 속 돌멩이'에 빗댄 유 작가는 \"흙길 가다 보면 조그만 돌멩이 같은 게 발바닥에 들어가면 굉장히 불편하다\"며 \"그러면 그걸 꺼내고 털어서 가야 하는데 돌멩이가 들어왔다고는 생각하지 않고 '그냥 불편하다' 이런 상태 같다\"고… 또 \"그것이 대통령을 몹시 고통스럽게 만들고 대통령을 정치적으로 고립시켜 왔다\"면서도 \"계속 발바닥에 작은 돌멩이들이 있는 채 걸어가실 것 같다는 생각이 든다\"고 말했습니다.\n\n그러면서 \"제가 돌을 집어넣은 것이 아니고 저는 돌이 들었다고 말을 했다\"며 \"지금이라도 신발을 털고 돌을 빼내고 다시 걸어가면 얼마든지 원래 가고자 했던 곳으로 갈 수 있는데, 누가 옆에서 '쟤 때문에 지금 걸음이 힘든 거예요'라고 말하고 있다\"고 지적했습니다. 유 작가는 검찰개혁에 대해선 신발에 비유하면서 \"국민이 신겨 준 신발을 어쩔 수 없이 신고 가는 중이라고 본다\"며 \"때로는 불편한 신발을 어쩔 수 없이 신어야 될 때가 있다\"고 말했습니다.",
+   "press": "SBS",
+   "source": "SBS",
+   "link": "https://n.news.naver.com/article/055/0001389747",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. \"김승원을 '제2의 조국'으로\"…한동훈도 장동혁도 \"거리로\"\n\n한동훈 무소속 의원은 이재명 대통령이 김 후보자 임명을 강행하면 \"거리로 나가야 한다\"며 불씨를 키웠고, 장동혁 국민의힘 대표도 \"장외투쟁을 포함한 모든 방안을 강구하겠다\"고 맞불을 놨다. 한 의원은 김승원 공세에서 확보한 주도권을 장외투쟁을 통해 계속 이어가려 하지만, 정작 친한(親한동훈)계에서는 정치권이 앞장서는 순간 복당 명분이 흐려질 수 있다는 신중론이 나온다. 동시에 장 대표와 일부 당권파는 장외투쟁을 통해 한 의원에게 넘어간 대여 투쟁 주도권을 되찾으려 하지만, 원내대표단과 의원들은 \"아직 계획도 없다\"며 선을 긋는다.\n\n우선 한 의원이 거리로 나가는 순간, 장 대표의 장외투쟁을 공격할 명분 하나가 사라진다. 한 친한계 의원은 통화에서 \"본인이 장외투쟁을 하겠다는 것이 아니라 국민이 장외로 나올 수 있지 않겠느냐는 취지로 이해했다\"고 말했다. 장예찬 전 국민의힘 여의도연구원 부원장은 \"당이 나서서 장외투쟁을 하면 무소속 개인이 장외에서 하는 것보다 훨씬 더 클 것\"이라며 \"국민의힘의 장외투쟁 검토에는 한 의원에게 대여 투쟁의 '주도권을 빼앗기지 않겠다'는 의미도 담겨 있을 수 있다\"고 분석했다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000138557"
+   "feed": "뉴스 07. 유시민 \"대통령, 멸칭 문제 있는 그대로 진단 안 해…털고 가야\"\n\n범여권 논객인 유시민 작가가 이재명 대통령이 기자회견에서 진보 진영 내 멸칭 사용을 \"가슴 아픈 현실\"이라고 말한 것을 두고 \"진단을 있는 그대로 하지 않는 것 같다\"고 문제를 제기했습니다. 오늘(20일) 유튜브에 공개된 '탁현민의 더뷰티플' 영상에서 멸칭 사용을 '신발 속 돌멩이'에 빗댄 유 작가는 \"흙길 가다 보면 조그만 돌멩이 같은 게 발바닥에 들어가면 굉장히 불편하다\"며 \"그러면 그걸 꺼내고 털어서 가야 하는데 돌멩이가 들어왔다고는 생각하지 않고 '그냥 불편하다' 이런 상태 같다\"고… 또 \"그것이 대통령을 몹시 고통스럽게 만들고 대통령을 정치적으로 고립시켜 왔다\"면서도 \"계속 발바닥에 작은 돌멩이들이 있는 채 걸어가실 것 같다는 생각이 든다\"고 말했습니다.\n\n그러면서 \"제가 돌을 집어넣은 것이 아니고 저는 돌이 들었다고 말을 했다\"며 \"지금이라도 신발을 털고 돌을 빼내고 다시 걸어가면 얼마든지 원래 가고자 했던 곳으로 갈 수 있는데, 누가 옆에서 '쟤 때문에 지금 걸음이 힘든 거예요'라고 말하고 있다\"고 지적했습니다. 유 작가는 검찰개혁에 대해선 신발에 비유하면서 \"국민이 신겨 준 신발을 어쩔 수 없이 신고 가는 중이라고 본다\"며 \"때로는 불편한 신발을 어쩔 수 없이 신어야 될 때가 있다\"고 말했습니다.\n\n출처: SBS / https://n.news.naver.com/article/055/0001389747"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-20/09.png",
-   "pngBytes": 1346077
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-21/09.png",
+   "pngBytes": 1346061
   }
  ],
- "caption": "📰 9월 20일 오늘의 뉴스\n\n1. [단독] 청와대에 전달된 ‘성추행 의혹’ 탄원서…김승원 사퇴 결정적 배경 됐나\n   사퇴 기자회견에서 김 후보자가 \"정부에 작은 부담이 더해져서는 안 된다고 생각했다\"고 밝힌 가운데, 최근 김 후보자의 지명 철회를 촉구하는 전직 보좌진들의 탄원서가…\n2. 미 언론 \"트럼프 파병 요청 거절\"...청 \"요청 거절 아니다\"\n   전투 파병 불가 입장을 트럼프 요청 거절로 해석. 전투 파병은 하지 않겠다는 이재명 대통령의 발언에 대해 미국 언론은 이 대통령이 트럼프의 파병 요청을 거절했다고…\n3. 조민, 홈쇼핑 방송 90분 전 돌연 취소…“논란 우려된다더라”\n   조민 인스타그램 캡처 조국 조국혁신당 혁신정책연구원장의 딸 조민 주식회사 사적표시 대표이사가 롯데홈쇼핑 라이브 방송을 불과 90분 앞두고 출연 취소 통보를 받았다고…\n4. 유독 지하철·화장실서 '픽'…쓰러지는 2030 무슨 일\n   [윤지은/순천향대학교 부천병원 신경과 교수 : 지하철은 미주신경성 실신을 유발할 수 있는 조건이 여러 가지가 겹치는 환경입니다. [윤지은/순천향대학교 부천병원 신경과…\n5. 한동훈 의원 \"국민 이기는 권력 없어...상식과 함께할 것\" [현장영상+]\n   김승원 후보님 그리고 민주당이 떼거지로 나와서 저에게 복수하겠다고 협박하던데 이재명 민주당 정권이 그런 마음가짐이라면 이렇게 김승원을 철회해도 부정적 효과가 커지는 것을…\n6. 한동훈, 김승원 사퇴에 \"국민의 승리... 국민만 보고 가겠다\"\n   한동훈 무소속 의원이 15일 국회 의원회관에서 열린 토론회에 참석한 뒤 취재진과 가진 간담회에서 김승원 법무부 장관 후보자와 더불어민주당 김민석 대표의 SNS 메시지와…\n7. \"김승원을 '제2의 조국'으로\"…한동훈도 장동혁도 \"거리로\"\n   한동훈 무소속 의원은 이재명 대통령이 김 후보자 임명을 강행하면 \"거리로 나가야 한다\"며 불씨를 키웠고, 장동혁 국민의힘 대표도 \"장외투쟁을 포함한 모든 방안을…\n\n🗣 “후보자 사퇴 배경과 관련한 위 소문에 대해 당시 근무했던 보좌관은 사실과 다르다는 점을 밝혀왔다”\n이 발언을 그대로 실은 보도 10건 · 경향신문 · 주간조선 · MBC 뉴스 · 부산일보\n· 경향신문 — 김승원, ‘성추행 등 청와대 탄원’ 보도에 “사실과 다르거나 과장”\n· 주간조선 — 김승원 사퇴 전날 “성추행 의혹” 탄원서 전달 보도에…靑 “확인 어렵다”\n· MBC 뉴스 — 김승원 측, '추가의혹 靑 탄원' 보도에 \"사실 다르거나 과장 오류\"\n· 부산일보 — `성추행 의혹` 탄원서 보도에 靑 `확인 어렵다`·김승원 `사실과 달라`\n· 다음뉴스 — 김승원 '추가 의혹' 보도에 \"사실과 달라\"…野 \"자진 사퇴 아닌 도주\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼\n\n출처: KBS, SBS, YTN, 국민일보, 시사저널, 한국일보"
+ "caption": "📰 9월 21일 오늘의 뉴스\n\n1. 與, 김승원 낙마에 \"이제 한동훈 차례\"…내부선 \"인사 검증 시스템 재점검\" 목소리도\n   \"한 의원의 수사 기록 유출 의혹 끝까지 단죄\" 한 재선 의원도 \"후보자가 직접 제출하는 소명 자료 외에 나머지 의혹에 대해서는 청와대가 정무적 판단 하에 검증하는…\n2. 고 노회찬 불러낸 홍준표 “한동훈 의원직 상실하려나? 못 빠져나갈 것”\n   홍준표 전 대구시장이 한동훈 무소속 의원을 향해 “이제 김승원은 갔으니 더 이상 화제는 안 될 것”이라며 “한동훈 수사만 남았다”고 말했다. 홍 전 시장은 이날…\n3. 포켓몬 카드팩 구매하려 인산인해...경찰·소방 출동\n   한정판 포켓몬스터 카드를 사려는 사람들이 한꺼번에 몰리면서 경찰과 소방이 출동하는 소동이 벌어졌습니다. 포켓몬스터 30주년을 기념하기 위해 전 세계에 동시 발매된 포켓몬…\n4. 세상에 이런 남편…성병도 옮기고 생활비도 끊고[양친소]\n   남편 명의 아파트인데, 아내가 아이들을 키우게 되면 이혼 후에도 계속 살 수 있나요? 따라서 아내가 두 아이를 계속 양육하고, 아이들의 학교와 생활환경을 유지해야 한다는…\n5. '연임 불가' 밝히자 민주 \"내년 상반기 개헌\"…국힘은 '냉담'\n   이재명 대통령이 연임 개헌 불가 입장을 밝힌 가운데 민주당이 본격적으로 개헌 논의에 들어갔습니다. 다만 국민의힘은 대통령의 연임 불가 발언을 믿을 수 없다며 아직까진…\n6. 유시민, \"멸칭쓰는 지지층, 대통령 정치적으로 고립시켜\"\n   유시민 작가가 '멸칭'을 사용하는 일부 지지층을 '신발 속 돌멩이'에 빗대며 \"그 돌들이 대통령을 힘들게 하고 있고 대통령을 정치적으로 고립시키고 있다\"고 지적했습니다.…\n7. 유시민 \"대통령, 멸칭 문제 있는 그대로 진단 안 해…털고 가야\"\n   범여권 논객인 유시민 작가가 이재명 대통령이 기자회견에서 진보 진영 내 멸칭 사용을 \"가슴 아픈 현실\"이라고 말한 것을 두고 \"진단을 있는 그대로 하지 않는 것 같다\"고…\n\n🗣 “그것이 대통령을 몹시 고통스럽게 만들고 대통령을 정치적으로 고립시켜 왔는데, 지난 1년 넘는 세월 동안 대통령은 이 진단을 있는 그대로 하지는 않는 것 같다”\n이 발언을 그대로 실은 보도 10건 · MBC 뉴스 · 주간경향 · 채널A · 한국경제\n· MBC 뉴스 — 유시민, \"멸칭쓰는 지지층, 대통령 정치적으로 고립시켜\"\n· 주간경향 — 유시민 “멸칭쓰는 ‘신발 속 돌멩이’가 대통령을 해코지”\n· 채널A — 유시민 “멸칭 쓰는 지지층은 신발 속 돌멩이…신발 벗고 털어야”\n· 한국경제 — 유시민 \"李대통령 신발 속에 돌멩이…걸음 잘 못 떼는 상태\"\n· 뉴스1 — 유시민 \"멸칭 쓰는 지지층이 대통령 고립시켜…진단 이렇게 안 하는 듯\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, MBC, SBS, YTN, 뉴시스, 이데일리, 한겨레"
 }
