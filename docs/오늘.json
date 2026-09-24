@@ -1,286 +1,276 @@
 {
- "date": "2026-09-23",
- "generated_at": "2026-09-23T10:06:54+09:00",
+ "date": "2026-09-24",
+ "generated_at": "2026-09-24T09:59:10+09:00",
  "mode": "daily",
- "window_start": "2026-09-22T00:00:00+09:00",
- "window_end": "2026-09-22T23:59:59+09:00",
+ "window_start": "2026-09-23T00:00:00+09:00",
+ "window_end": "2026-09-23T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "여의도에 돌던 김승원 성추행 의혹… 靑도 與도 몰랐나",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0003999802",
-   "published_at": "2026-09-22T00:51:17+09:00",
+   "title": "尹 “이 XX야, 네가 책임져!”…9시간 술친구 장제원에 온 전화",
+   "source": "중앙일보",
+   "url": "https://n.news.naver.com/article/025/0003553379",
+   "published_at": "2026-09-23T05:01:00+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "청와대와 여당은 김 의원의 추가 의혹이 담긴 탄원서의 존재를 알았는지 명확하게 답하지 않고 있다. 하지만 강유정 청와대 수석대변인은 이날 라디오에서 ‘청와대에서 김…",
-   "summary_long": "더불어민주당 김승원 의원이 지난 19일 법무부 장관 후보자직에서 사퇴했지만, 이후 과거 성추행과 음주운전 의혹 등이 추가로 제기되면서 논란이 커지고 있다. 특히 김 의원의 전직 보좌진이 청와대에 각종 의혹이 담긴 탄원서를 제출한 것으로 알려지면서, 청와대와 여당이 논란을 예상하고도 임명을 밀어붙이려 했던 것 아니냐는 비판이 제기됐다. A씨는 본지 인터뷰에서 “당일 아침 원래 이 대통령에게 먼저 텔레그램으로 탄원서를 보냈지만 답이 없어 홍 수석에게 텔레그램을 보냈다”면서 “또 다른 전직 보좌관인 B씨가 김 의원의 음주운전 등 추가 의혹이 담긴 탄원서를 나에게 보내와 내가 써 놓은 김 의원의 경기도당 회계부정 자료 등과 함께 총 2건의…\n\nA씨는 김 의원이 이 자리에서 음주 운전이나 폭언 의혹과 관련해 “기억이 안 난다”고 했다고 주장했다. 청와대와 여당은 김 의원의 추가 의혹이 담긴 탄원서의 존재를 알았는지 명확하게 답하지 않고 있다. 하지만 강유정 청와대 수석대변인은 이날 라디오에서 ‘청와대에서 김 의원의 의혹에 관한 탄원서를 받았느냐’는 질문에 “대답을 해야 할 책임이나 의무는 없다”고 했다.",
+   "summary": "그 독대 자리에서 김기현이 윤석열에게 차기 당대표 출마 의사를 피력하면서 지지를 구했다고 해. 제20대 대선을 석달 앞둔 2021년 12월 3일 국민의힘 이준석 대표와…",
+   "summary_long": "조코 위도도 인도네시아 대통령이 국빈 방문해 윤석열 대통령이 환영 만찬을 열어준 날이다. 그 독대 자리에서 김기현이 윤석열에게 차기 당대표 출마 의사를 피력하면서 지지를 구했다고 해. \" 그러자 김기현이 ‘대선에는 나가지 않겠다’는 취지로 답했는데, 그게 욕심 없는 모습으로 비춰져 윤석열이 그를 신뢰하게 됐다는 거야.\n\n그는 최근 취재팀에 “독대 내용은 당사자만이 정확히 알 수 있는 영역으로, 제3자의 발언은 추측과 상상이 혼재된 이야기”라며 “차기 대선 출마 등과 같은 무게감 있는 정치적 사안을 논의할 분위기가 아니었고, 그런 내용의 대화를 나눈 적도 없다”고 밝혔다. 제20대 대선을 석달 앞둔 2021년 12월 3일 국민의힘 이준석 대표(왼쪽부터)와 윤석열 대선후보, 김기현 원내대표가 울산 울주군의 한 식당에서 만찬 회동를 마친 뒤 포즈를 취하고 있다. ‘김·장 연대’ 배후에 ‘윤심’(尹心) 있었나 복수의 국민의힘 관계자들은 당시 이런 분위기 속에서 윤석열이 사실상 김기현을 차기 당대표로 낙점했다고 입을 모았다.",
    "quotes": [
-    "또 다른 전직 보좌관인 B씨가 김 의원의 음주운전 등 추가 의혹이 담긴 탄원서를 나에게 보내와 내가 써 놓은 김 의원의 경기도당 회계부정 자료 등과 함께 총 2건의 탄원서를 청와대에 제출한 것",
-    "지금은 더 이상 후보자에 대한 인사권이 남은 상태가 아니기 때문에 다른 이야기는 청와대 입장에서는 가십(gossip)인 것",
-    "당일 아침 원래 이 대통령에게 먼저 텔레그램으로 탄원서를 보냈지만 답이 없어 홍 수석에게 텔레그램을 보냈다"
+    "그러자 김기현이 ‘대선에는 나가지 않겠다’는 취지로 답했는데, 그게 욕심 없는 모습으로 비춰져 윤석열이 그를 신뢰하게 됐다는 거야",
+    "차기 대선 출마 등과 같은 무게감 있는 정치적 사안을 논의할 분위기가 아니었고, 그런 내용의 대화를 나눈 적도 없다",
+    "독대 내용은 당사자만이 정확히 알 수 있는 영역으로, 제3자의 발언은 추측과 상상이 혼재된 이야기"
    ],
-   "press": "조선일보",
+   "press": "중앙일보",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "지금은 더 이상 후보자에 대한 인사권이 남은 상태가 아니기 때문에 다른 이야기는 청와대 입장에서는 가십(gossip)인 것",
-    "n": 9,
-    "verified": 0,
-    "items": [
-     {
-      "press": "조선일보",
-      "title": "여의도에 돌던 김승원 성추행 의혹… 靑도 與도 몰랐나",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVJpOTg4M0hsS0M2UllFeXlYRk9vNUk2ZkNYTzlObUo4QUV5NzJEZHBsMFFBcVlTMnlmN1dsWFJwYlBZYkgzNG12YmViT0xkRkFPQ0FidmptazBkN3h4UnJvM2o3Um5HdzJCUDhTOU02eEgwbEh6RUszUXFUX0R4Z1hmTXZ2dw?oc=5"
-     },
-     {
-      "press": "연합뉴스",
-      "title": "靑, 김승원 논란에 \"인사권으로 답 드려…인사 시스템 검토\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRWpqVlUxbW5lVllFMFBEZlZibkhUYXd4anhZVkRaWWJoVTVSalBkME5JRXpRN2FnRk9RWEFNdndhZUJPNjNkbkxaa2pENHdjQU1GN0tzSTh5TjTSAWBBVV95cUxPaGpWZFJQXzl4b0lLU2o2c3prMnVvbFB0TnZuZ2pIeTBpeFZwZ3JHZ1AwNTBmYlVzSW5PWjJJamRRWGM5c0twUWVTOExuMmZiNU5lNXd0UElQSzlRV0RodG0?oc=5"
-     },
-     {
-      "press": "weekly.khan.co.kr",
-      "title": "청와대, 김승원 탄원서 논란에 “가십에 답할 의무 없어”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13OUd1RGJxZjZVU1ZONy1vSVdGNjlHWUNYZVdJR3ZFVG9YY2dxMW10NS1kdXdHVWRNVkIxUm5tYlNEWmV5VUt3SS1ndzhzaVg1Y0RwWktMSWR0WHAwU3c?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "靑 \"인사시스템 보완 검토 시작…이후 지명되는 분들이 바로미터\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVZDVCY0VnODNVcXFlbEVUdmFYaC0zYUx3cXB5bmhpcWZJdFZTZ2Y4N3RDMzFnRS0xUms3d2NFRUZrU3dHakNUdkFuR1MzcXVaYnluUw?oc=5"
-     },
-     {
-      "press": "매일일보",
-      "title": "靑, 김승원 낙마 뒤 추가 의혹에 \"인사권으로 답했다\" |",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QUWRRZ1cwaXctT0t6R0JuR1Z6cERHa0NpZ2d0dmdCTFk1cE9WcFVHb3Nxa0FEakhuaVFzU1FQR2lSWEtyTFBoQ2dxUGsxNGNka2pwMVdJMlQ3enB2UE9zWjBDYlJaTzc4?oc=5"
-     },
-     {
-      "press": "매일신문",
-      "title": "청와대, 김승원 추가 논란에 \"다른 이야기는 가십…인사권으로 답했다\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJLVhsUEphYTNBRXEycERvRE5TalpDM0s1MUFNbndOUHhpMkh2VDFsV05MLTBaR1JKVERYY3FaWVlPWEhibFN5X012NG8yNGVhMm5zUFRNNUl4WlE4RlFUTUdn?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "육군 25사단에서 장교 숨진 채 발견‥'DMZ 폭발'과는 관련 없는 듯",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001525355",
-   "published_at": "2026-09-22T15:51:18+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "selection": "정치",
-   "summary": "비무장지대 수색 작전 도중 지뢰로 추정되는 폭발 사고로 간부 3명이 다친 육군 25사단에서, 소속 장교가 숨진 채 발견돼 군과 경찰이 수사에 나섰습니다. MBC 취재…",
-   "summary_long": "비무장지대 수색 작전 도중 지뢰로 추정되는 폭발 사고로 간부 3명이 다친 육군 25사단에서, 소속 장교가 숨진 채 발견돼 군과 경찰이 수사에 나섰습니다. MBC 취재 결과 육군 25사단 본부에 근무하는 대위는 오늘 오전 자신의 숙소에서 숨진 채 발견됐습니다. 숨진 대위는 출근하지 않은 걸 이상하게 여긴 부대원들이 숙소로 찾아가 발견했으며, 범죄 혐의점은 없는 것으로 알려졌습니다.\n\n해당 대위가 근무하던 25사단에서는 어제 '수색로 개척' 작전 도중 지뢰 추정 폭발로 인해 대대장의 발목이 절단되는 등 장병 3명이 중경상을 입는 사건이 발생했습니다. 숨진 대위는 25사단 본부에서 군사작전 계획 수립 등에 관여하는 직책을 맡고 있었지만, 비무장지대 수색작전과 직접적인 관련성이 있는 병과는 아닌 것으로 파악됐습니다. 어제 오전에는 당직근무를 마치고 퇴근한 뒤 휴식 도중 최전방 폭발 상황을 전파받았고, 이른 오후 출근했다가 2시간 만에 다시 숙소로 돌아간 것으로 전해졌습니다.",
-   "press": "MBC",
-   "photo": "02.jpg"
-  },
-  {
-   "title": "“월 3백만 원 줘도 싫대요”…중국인 채용 나선 택시업계 [잇슈 키워드]",
-   "source": "KBS",
-   "url": "https://n.news.naver.com/article/056/0012261547",
-   "published_at": "2026-09-22T06:59:32+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "월급 3백만 원 이상 조건에도 사람을 구하지 못하자 한국어가 어느 정도 가능한 중국 동포 기사 채용에 나선 겁니다. 실제로 지난 10년간 전국 법인 택시 기사는 30%…",
-   "summary_long": "택시업계가 채용에 어려움을 겪으면서 외국인 기사를 모집하고 나섰습니다. 서울의 한 법인 택시 회사가 내건 구인 공고입니다. 월급 3백만 원 이상 조건에도 사람을 구하지 못하자 한국어가 어느 정도 가능한 중국 동포 기사 채용에 나선 겁니다.\n\n실제로 지난 10년간 전국 법인 택시 기사는 30% 넘게 줄었지만, 외국인 기사는 두 배 이상 늘었습니다. 장시간 노동과 제한된 수입으로 한국인 기사들이 떠난 빈자리를, 건설이나 제조업에서 넘어온 외국인 기사들이 메우고 있다는 분석입니다. 택시업계는 고령화와 인력난으로 외국인 기사 채용이 불가피하다는 입장인데요.",
-   "press": "KBS",
-   "photo": "03.jpg"
-  },
-  {
-   "title": "은행 너도나도 '슈퍼앱' 내놓더니, 체류시간 3년째 고작 ‘18분’",
-   "source": "비즈워치",
-   "url": "https://n.news.naver.com/article/648/0000050984",
-   "published_at": "2026-09-22T08:30:16+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "업권 칸막이 규제 '원앱' 한계…실효성도 '글쎄'은행들이 카드, 증권, 은행 업무를 하나의 앱에서 볼 수 있도록 하겠다며 내놓은 슈퍼앱이 기대 이하의 성적을 거두고…",
-   "summary_long": "업권 칸막이 규제 '원앱' 한계…실효성도 '글쎄'은행들이 카드, 증권, 은행 업무를 하나의 앱에서 볼 수 있도록 하겠다며 내놓은 슈퍼앱이 기대 이하의 성적을 거두고 있다. 은행 앱에 머무는 시간은 3년째 그대로였고, 목표로 잡았던 '원앱' 토스와의 격차는 더 벌어졌다. 같은 기간 4대 은행 앱은 KB가 1312만명에서 1475만명으로 163만명(12.4%) 늘었고, 신한과 우리는 각각 198만명(20.4%), 98만명(12.9%) 증가했다.\n\n토스와 KB의 격차는 490만명에서 788만명으로, 신한은 832만명에서 1095만명으로 커졌다. KB Pay는 같은 기간 776만명에서 952만명으로 22.7% 늘었고, 신한 SOL증권과 우리WON카드도 각각 21.5%, 11.5% 증가했다. 처음부터 은행이나 증권 전용 앱 없이 출발한 토스와 달리 계열사 앱이 있는 상태에서 위에 슈퍼앱을 얹은 구조인 점도 약점으로 꼽힌다.",
-   "quotes": [
-    "주식을 안 하던 은행 고객이 별도 영업 없이 은행 앱을 통해 넘어오는 흐름도 있다",
-    "슈퍼앱이 의미를 가질 정도로 새로운 것이나 혁신적인 시도도 부족한 것이 사실",
-    "수가 많지 않더라도 이렇게 유입된 고객은 거래 규모가 크고 이탈이 적다"
-   ],
-   "press": "비즈워치",
-   "photo": "04.jpg",
-   "quoted": {
-    "quote": "수가 많지 않더라도 이렇게 유입된 고객은 거래 규모가 크고 이탈이 적다",
+    "quote": "독대 내용은 당사자만이 정확히 알 수 있는 영역으로, 제3자의 발언은 추측과 상상이 혼재된 이야기",
     "n": 1,
     "verified": 0,
     "items": [
      {
-      "press": "비즈워치",
-      "title": "은행 너도나도 '슈퍼앱' 내놓더니, 체류시간 3년째 고작 ‘18분’",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBadndFZk9JS3NvUnU5X2RZSHJzTlgxZHQxbVEtQlVkNDJRNV90MlUtdDZFR1Z1NzgwYTVIdWl1VGZRRkpBWUNXNURRcHh1OEQ2d1BRbldXMkdEbUVMR0RDaXd1b3V0czZrbDdv?oc=5"
+      "press": "다음뉴스",
+      "title": "尹 “이 XX야, 네가 책임져!”…9시간 술친구 장제원에 온 전화",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NVk9oSHk1dW9LY0pjckdtZjViZkxXdjJMNTg4MTdod21pZlhQRXM2MUxDbGxxdHNXU2VNMFlHZy1aVFplWDgyWHRtY1hvWTA?oc=5"
      }
     ]
    }
   },
   {
-   "title": "청, 조희대 재제청 거부에 “헌법 위배…대통령 임명권 무력화”",
-   "source": "한겨레",
-   "url": "https://n.news.naver.com/article/028/0002824235",
-   "published_at": "2026-09-22T12:58:12+09:00",
+   "title": "유시민 “대통령이 국민 속였다” 발언에 與 지도부 “동의할 수 없어… 강한 유감”",
+   "source": "조선일보",
+   "url": "https://n.news.naver.com/article/023/0004000101",
+   "published_at": "2026-09-23T14:47:11+09:00",
    "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 771,
-   "comment_agree": 225,
-   "comment_disagree": 50,
-   "division_balance": 0.363636,
-   "division_score": 2.043782,
-   "selection": "찬반 쟁점",
-   "summary": "청와대가 22일 조희대 대법원장이 대법관 후보 재제청 요청에 응하지 않겠다는 데 대해 “깊은 유감을 표한다”고 말했다. 청와대 관계자는 이날 “대법원장의 입장 발표는…",
-   "summary_long": "청와대가 22일 조희대 대법원장이 대법관 후보 재제청 요청에 응하지 않겠다는 데 대해 “깊은 유감을 표한다”고 말했다. 청와대 관계자는 이날 “대법원장의 입장 발표는 대법원장의 제청권이 대통령의 임명권보다 우위에 있다는 것으로 대한민국 헌법에 위배되는 인식”이라며 “대법원장이 대법관 후보자를 제청하면 대통령이 그대로 임명하여야 한다는 것은 국민에 의해 선출된 대통령의 임명권을 무력화하는 것”이라고 말했다. 이 관계자는 이어 “대법원장은 대법관 공백 장기화가 국민들의 피해로 돌아간다는 사실을 직시하고, 더 이상 현 상황을 방치하지 말아야 할 것”이라고 덧붙였다.\n\n대법관 제청을 둘러싼 청와대와 대법원의 갈등은 지난 1월21일 후보추천위원회가 노태악 전 대법관 후임으로 김민기·박순영 서울고법 고법 판사, 윤성식 서울고법 부장판사, 손봉기 대구지법 부장판사 등 4명을 추천하면서 본격화됐다. 대법관 공백이 200일 넘게 이어지자 조희대 대법원장은 지난달 18일 청와대와 협의되지 않은 손봉기 대구지법 부장판사를 독자적으로 제청했다. 청와대가 기존 후보 가운데 손 부장판사를 제외한 후보의 재제청을 요구했지만, 조 대법원장은 이를 받아들이지 않았다.",
+   "view_rank": 1,
+   "selection": "정치",
+   "summary": "유시민씨가 이재명 대통령이 이른바 ‘검찰 개혁’과 관련해 “지금까지 국민을 속인 것”이라고 비판하는 등 이 대통령에 대한 공세를 이어가자 더불어민주당 의원들이 23일…",
+   "summary_long": "유시민씨가 이재명 대통령이 이른바 ‘검찰 개혁’과 관련해 “지금까지 국민을 속인 것”이라고 비판하는 등 이 대통령에 대한 공세를 이어가자 더불어민주당 의원들이 23일 반박에 나섰다. 김민석 대표는 이날 아침 민주당 유튜브 채널 ‘민주당TV’에서 유씨의 ‘돌멩이’ 발언에 대한 반박을 이어갔다. 유씨는 앞서 지난 20일 공개된 유튜브 인터뷰에서 여권 지지층 간의 멸칭 사용을 ‘신발 속 돌멩이’에 빗대면서 “그것이 대통령을 정치적으로 고립시켜 왔다”고 했다.\n\n이날 오전 국회에서 열린 당 최고위원회의에서는 친이재명계 전용기 최고위원이 “최근 일각에서 대통령이 검찰 개혁을 두고 국민을 속였다고까지 표현했는데, 강한 유감을 표한다”고 했다. 친정청래계 최민희 의원은 유씨 발언을 지칭하지는 않았으나 “민주 개혁 세력이 다시 하나 되자는, 그 이후 중도로 확장해 가자는 대통령님의 뜻은 분명하다”고 했다. 박범계 의원은 페이스북에 글을 올려 “이 대통령이 대통령이 돼 실행한 것이 검찰청 폐지, 수사권 전면 경찰 이관, 중수청 개청이라는 개혁”이라며 “(유씨가) 이것이 대통령께서 실행한 검찰 개혁의 종착역인 양 말을 호도했다”고 비판했다.",
    "quotes": [
-    "대법원장이 대법관 후보자를 제청하면 대통령이 그대로 임명하여야 한다는 것은 국민에 의해 선출된 대통령의 임명권을 무력화하는 것",
-    "대법원장은 대법관 공백 장기화가 국민들의 피해로 돌아간다는 사실을 직시하고, 더 이상 현 상황을 방치하지 말아야 할 것",
-    "대법원장의 입장 발표는 대법원장의 제청권이 대통령의 임명권보다 우위에 있다는 것으로 대한민국 헌법에 위배되는 인식"
+    "이 대통령도 기자회견을 통해 본인의 부족함에 대해 인정과 사과를 했고, ‘멸칭과 증오의 언어로 내란을 극복했던 우리가 서로 갈라치기하고 싸우는 것은 적정하지 않다. 싸우지 말고 미래를 위해서 나가자’는 큰 방향을 이야기했다",
+    "정치는 말이 반이다. 누군가를 공격하기 위한 정치적 도구로 말이 쓰일 수도 있고, 분열을 키우기 위한 수단으로 쓰일 수도 있다",
+    "(유씨 발언의) 표현에 대해서는 문제 제기를 할 수 있지만, 이재명 정부가 성공해야 한다는 마음에서 나온 것"
+   ],
+   "press": "조선일보",
+   "photo": "02.jpg",
+   "quoted": {
+    "quote": "이 대통령도 기자회견을 통해 본인의 부족함에 대해 인정과 사과를 했고, ‘멸칭과 증오의 언어로 내란을 극복했던 우리가 서로 갈라치기하고 싸우는 것은 적정하지 않다. 싸우지 말고 미래를 위해서 나가자’는 큰 방향을 이야기했다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "조선일보",
+      "title": "유시민 \"대통령이 국민 속였다\" 발언에 與 지도부 \"동의할 수 없어… 강한 유감\"",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRE9ESTAzQTZGaDdkZjhtdzB5SE92c1plSmxwWVYxUmk2RGNKNldaZmJ2RVVjY1FVWG0xVF8wSjRncktsR1EwYjRpb2VsRGczalRLR1FWVVNGMlFkRFJKN0NvbmRQNkJEY2Z0Z3FSaFhiVHc2TnVfTzA3Zm5GQnRZQS1FQUtDQQ?oc=5"
+     },
+     {
+      "press": "문화일보",
+      "title": "‘한편 맞나?’ 유시민에 흥분한 여권…“대통령이 국민 속였다? 검찰개혁 발언 호도”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tVWFhajkzcFlaQVF3MzJGMVVuNE9uSUJXemdNZ2lQX0NvMGNqLTViajJZT2twZUZJYVdUU1VNUDZCU2gxRkF6Ym5qbDMxa3N5?oc=5"
+     },
+     {
+      "press": "중앙일보",
+      "title": "與, 유시민 겨냥 공개 반박…“대통령 발언 왜곡·선동”·“유감”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDUTlUMVY4NVJ0ZVNJeW9FOVlxY3E1RWZOUHJRaldmdUUzbHlYbEE2MFdaR01Xa3BDQ3E1Skx2UDJFUFpBSkhBUFZ4QWR4bmFQYlRzQnRR?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "755억 주고 '날벼락'…\"JYP 신사옥 돌려내\" 폭발",
+   "source": "SBS",
+   "url": "https://n.news.naver.com/article/055/0001390648",
+   "published_at": "2026-09-23T14:49:09+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "JYP엔터테인먼트가 서울 강동구에 새 본사를 짓기로 한 가운데, 신사옥 바로 앞에 공원으로 예정됐던 땅이 업무·판매시설 등을 지을 수 있는 부지로 바뀌면서 주민들이…",
+   "summary_long": "JYP엔터테인먼트가 서울 강동구에 새 본사를 짓기로 한 가운데, 신사옥 바로 앞에 공원으로 예정됐던 땅이 업무·판매시설 등을 지을 수 있는 부지로 바뀌면서 주민들이 집단행동에 나섰습니다. JYP도 신사옥 설계를 변경해야 할 가능성까지 있어 대응 방안을 검토하고 있습니다. 'JYP 신사옥 앞 공원 지키기 주민연대'는 현재 고덕강일지구 자족8부지를 다시 공원 용지로 돌려달라는 온라인 서명을 받고 있습니다.\n\nJYP가 신사옥을 짓기 위해 매입한 땅과 도로 하나를 사이에 두고 마주 보고 있습니다. JYP도 이곳에 공원이 들어설 것으로 보고 신사옥 설계에 이를 반영한 것으로 알려졌습니다. 공원을 전제로 설계안을 만들었던 JYP는 신사옥 백지화 가능성까지 염두에 두며 \"대응 방안을 다각도로 검토하고 있다\"고 밝혔습니다.",
+   "quotes": [
+    "대응 방안을 다각도로 검토하고 있다"
+   ],
+   "press": "SBS",
+   "photo": "03.jpg",
+   "quoted": {
+    "quote": "대응 방안을 다각도로 검토하고 있다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "Chosunbiz",
+      "title": "JYP 본사 이전 차질 빚을라… 강동 주민들 “신사옥 앞 부지 공원으로” - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZktrT1ppdDBqSGtoZ3ItUWlDZHEyVjRjNUNfdDhOTmU1Ri1VVGZJX0xQc2Y2amVwQVdMa1lHc2paSkhwNHh3Z2dMa0h5X0VoYld0WThtT0tHRjczSUE1Y2c1SFZuNFEybEdiNVQtcmdaZG1xVlNBWUNURFhOY1hzWUJIUi1oTWFvV1poRy1IaVFXMVJPQWdOUtIBrAFBVV95cUxQUVJWUHhsNVhqZDk0WFFqNDRtT3U4cVlFYzczMWZtOENkQzFUV3NuZV8yMkVNcjJFbFBfWGxIWEg0M0Y0Z2FMNl91VUJ2WVZIbC1LUEdsSTJXLTJrbVl3NFJ4TXg3UEJpNnlSb1hkZ3Uta09Ha3BQYklIYk5mbU90Y000aHJmRmpqZ0FPdzVrMFUwMDZPSG5wNzZ0dUZCSTJydEJKWnBVYkdkYlBN?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "755억 주고 '날벼락'…\"JYP 신사옥 돌려내\" 폭발",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KbHdtTHA4blEtWUtMZUM4LVlTYmY2SHp2TFowWUNYVjlDVzZhTUZ5SC03UlpWSV9tbmNLNjVSa2dvU3pmMmFzZzhOcFdfRTA?oc=5"
+     },
+     {
+      "press": "공공뉴스",
+      "title": "조희대發 정치권 ‘사법공방’ 가열",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03Zl9WMDZmd1pkakFsaEpRdG9xMERJMG1MdWRhTHZLYWRHOGJDUGxrV05EbmxvN2l2NDk2SkZrSTJEeEh6djJUd3pXRjFZZmh2Ulg5RW5UZEFXVkpicnJiSXROdkY3T3RicXZN?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "\"명절 시댁서 차별\" 화냈더니, 고속도 휴게소에 아내 두고 간 남편…이혼",
+   "source": "뉴스1",
+   "url": "https://n.news.naver.com/article/421/0009188224",
+   "published_at": "2026-09-23T10:16:49+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "명절마다 시댁 식구들에게 차별적인 대우를 받았다는 아내가 남편에게 서운함을 토로했다가 휴게소에 홀로 남겨진 사연이 전해졌다. 반면 남편이 아내를 휴게소에 두고 떠난…",
+   "summary_long": "명절마다 시댁 식구들에게 차별적인 대우를 받았다는 아내가 남편에게 서운함을 토로했다가 휴게소에 홀로 남겨진 사연이 전해졌다. 22일 YTN 라디오 '슬기로운 라디오생활'에서는 최근 이혼 과정에서 재산분할 포기 각서의 법적 효력이 쟁점이 된 한 부부의 사연이 소개됐다. 이혼 과정에서 남편은 아내가 이미 재산분할 포기 각서를 작성했다며 재산분할을 받을 수 없다고 주장했다.\n\n실제로 해당 사연의 아내는 이혼 소송 과정에서 반소를 제기해 재산분할을 청구했고, 혼인 기간이 짧아 많은 금액은 아니었지만 재산분할을 받을 수 있었다. 반면 남편이 아내를 휴게소에 두고 떠난 행동에 대해서는 \"그건 부당한 대우\"라며 \"이혼 사유가 될 수 있다\"고 설명했다. 조 변호사는 \"재산분할에서는 혼인 기간 부부가 공동으로 형성한 재산과 각자의 기여도를 종합적으로 판단한다\"며 해당 사연처럼 아내가 가사와 육아를 담당한 경우 역시 재산 형성에 대한 기여로 인정될 수 있다고 설명했다.",
+   "quotes": [
+    "재산분할은 이혼했을 때 발생하는 권리다. 이혼하지 않은 상태에서는 재산분할을 청구할 수 있는 권리가 없는데 발생하지도 않은 권리를 미리 포기하겠다고 하는 것은 무효로 본다",
+    "매번 혼자 설거지를 하는 것 역시 부당한 대우이기는 하지만 법에서 말하는 '심히' 부당한 대우인지 여부는 구체적인 상황을 따져봐야 한다",
+    "민법 제840조에는 배우자 또는 그 배우자의 직계존속으로부터 심히 부당한 대우를 받은 경우를 이혼 사유로 규정하고 있다"
+   ],
+   "press": "뉴스1",
+   "photo": "04.jpg",
+   "quoted": {
+    "quote": "민법 제840조에는 배우자 또는 그 배우자의 직계존속으로부터 심히 부당한 대우를 받은 경우를 이혼 사유로 규정하고 있다",
+    "n": 2,
+    "verified": 0,
+    "items": [
+     {
+      "press": "매일신문",
+      "title": "\"시댁 식탁서 나만 나무젓가락\" 하소연 아내 휴게소에 버린 남편",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1cC1aMDgyME5FR1RpN093blNKUDJFMVRnaGp6elE3RFRxLVF4OUxodlJCV2FPS0lWOXk3WXk4OUYteVpOS0o1b3h1ZkhkUWhoOHhqZV9aU3BSNVJZLXR6aHdn?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "\"명절 시댁서 차별\" 화냈더니, 고속도 휴게소에 아내 두고 간 남편…이혼",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15dUY5OFluVXltc2pVQWlwMW5MQU5CTkZkSjQ2X0o1Mmo4elRmU1I0TGFsR0g3d2FmWmtzaGN5UWphY2xOU0RLNDNZYw?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "청, 조희대에 재반박 “임명 거부 명확히 밝혀…이게 재제청 사유”",
+   "source": "한겨레",
+   "url": "https://n.news.naver.com/article/028/0002824435",
+   "published_at": "2026-09-23T16:30:16+09:00",
+   "section_id": "100",
+   "view_rank": 5,
+   "comment_count": 240,
+   "comment_agree": 170,
+   "comment_disagree": 58,
+   "division_balance": 0.508772,
+   "division_score": 2.764525,
+   "selection": "찬반 쟁점",
+   "summary": "청와대가 23일 조희대 대법원장이 ‘명확한 사유가 없다’며 대법관 재제청 요구를 거부한 데 대해 “건전한 상식을 가진 평범한 시민의 관점에서 공문 내용을 이해하고…",
+   "summary_long": "청와대가 23일 조희대 대법원장이 ‘명확한 사유가 없다’며 대법관 재제청 요구를 거부한 데 대해 “건전한 상식을 가진 평범한 시민의 관점에서 공문 내용을 이해하고 국민들의 재판받을 권리가 침해되지 않도록 조속히 후속절차를 취해달라”고 말했다. 청와대는 이날 세번째 입장문을 내어 “대법원장이 대통령의 대법관 임명권에 대해, 특정 후보자를 제청하면 그대로 따라야 하는 형식적 권한으로 인식하고 있다면, 대통령의 임명 거부 및 재제청 요청을 있는 그대로 받아들이기 어려울 것”이라며 이렇게 전했다. 이날 오전 조 대법원장은 언론 공지를 통해 “재제청 요청 공문에는 재제청 요청의 사유가 무엇인지 명확하게 기재되어 있지 않다.\n\n공문의 문언상 명확한 근거와 사유가 제시되어야 그 효력에 다툼이 없고 헌법과 법률에 따른 절차를 진행할 수 있을 것”이라고 재제청 요청 거부 사유를 설명했다. 이에 청와대는 “국회에 임명동의안을 제출하지 않겠다는 것은 임명에 필요한 절차를 진행하지 않음으로써 임명할 의사가 없다는 거부 입장을 명확히 밝힌 것”이라며 “이것이 후속절차로서 재제청을 요청한 사유”라고 반박했다. 손봉기 대구지법 부장판사를 노태악 전 대법관 후임 후보자로 서면제청한 과정에 절차적 흠결이 없다는 조 대법원장의 주장에 대해서는 “법원조직법에 따라 대법관후보추천위원회로부터 4명의 후보자를 적법하게 추천받았음에도 법령상 근거 없이 후보자 추천 절차를 다시 진행하기 위해 후보자들에게 개별적으로 연락하여…",
+   "quotes": [
+    "법원조직법에 따라 대법관후보추천위원회로부터 4명의 후보자를 적법하게 추천받았음에도 법령상 근거 없이 후보자 추천 절차를 다시 진행하기 위해 후보자들에게 개별적으로 연락하여 사퇴 의사를 물은 것은 중대한 절차적 흠결",
+    "재제청 요청 공문에는 재제청 요청의 사유가 무엇인지 명확하게 기재되어 있지 않다. 공문의 문언상 명확한 근거와 사유가 제시되어야 그 효력에 다툼이 없고 헌법과 법률에 따른 절차를 진행할 수 있을 것",
+    "대법원장이 대통령의 대법관 임명권에 대해, 특정 후보자를 제청하면 그대로 따라야 하는 형식적 권한으로 인식하고 있다면, 대통령의 임명 거부 및 재제청 요청을 있는 그대로 받아들이기 어려울 것"
    ],
    "press": "한겨레",
    "photo": "05.jpg",
    "quoted": {
-    "quote": "대법원장이 대법관 후보자를 제청하면 대통령이 그대로 임명하여야 한다는 것은 국민에 의해 선출된 대통령의 임명권을 무력화하는 것",
+    "quote": "법원조직법에 따라 대법관후보추천위원회로부터 4명의 후보자를 적법하게 추천받았음에도 법령상 근거 없이 후보자 추천 절차를 다시 진행하기 위해 후보자들에게 개별적으로 연락하여 사퇴 의사를 물은 것은 중대한 절차적 흠결",
     "n": 10,
     "verified": 0,
     "items": [
-     {
-      "press": "경향신문",
-      "title": "[속보]청와대, ‘재제청 거부’ 조희대에 “헌법 위배·대통령 임명권 무력화···깊은 유감”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzUkIwaURYX2hqQllTZjZHZktiM3VFVV9SR1FTQl9YX29LeXZpamUwY2lLck52VjUyX08wZTdvZ2pSMXk1bFBpcDRwQ3lxblMxVTZ4NHpVbHF5QdIBX0FVX3lxTFB2cmEzT0RTb0FRelBWS3ZDWlk1WmxOb0dCaDFMWThDQnNNN3BtVk9ZOHdTdnNHQ3Z5OWk5SlFvc3NvXzFpcGhGNkY5TUlaeVQxQmtwdktlRzR4SHpDT0Z3?oc=5"
-     },
      {
       "press": "법률신문",
-      "title": "‘대법관 재제청’ 大法·靑 정면 충돌",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yMW9ERjludmRtOTRFaDVHNkpyY3huLTQ1dEVuejR3dDFuQ3BBLVIxdjNzX3dwVWhIcnZEVDZPWGhKamMzQllSZkt2T29PbkJNOWxjX1dydXZFUWxJNHhWQkdOb2RocEZnemVrMXhn0gFyQVVfeXFMT3dLMkNjcGZGTDFJaVlDWGdSRVA2cU9vQ1NnaXFOd3loZVFic0MtaTJGcTBSeGZpOGlLQjJ5cE9EZzVUWTVpWmczc0VXLWtUUU0xb2xBODVlZEdDMDVJRnB1RjByTTFfZjRaZmRaLXRLaEVR?oc=5"
+      "title": "靑, 조희대 대법원장에 재반박 “조속히 후속 절차 취해야”",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rT3VsdTNZU0owYi1vNUJJSTlUOGctSE1HcFJVOV9vSFc5dHZZQlVWVEZ1TzNzQ3QtMFdaUFJKb1hHQjJBaXd6QW1GV25PMFB2aG52cDJ4b1NXN0pMMGtjWnkxYXY3ZXAyX3h4VlFZUWgyQdIBckFVX3lxTE9rT3VsdTNZU0owYi1vNUJJSTlUOGctSE1HcFJVOV9vSFc5dHZZQlVWVEZ1TzNzQ3QtMFdaUFJKb1hHQjJBaXd6QW1GV25PMFB2aG52cDJ4b1NXN0pMMGtjWnkxYXY3ZXAyX3h4VlFZUWgyQQ?oc=5"
      },
      {
-      "press": "다음뉴스",
-      "title": "청와대, 조희대 재제청 거부에 “깊은 유감…헌법에 위배되는 인식”",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUZVY2V2ZzNFVfTGJQZFNISlBnQk9tU0hoc1RwZ0xvWTRXbEVoeFdJemNGVGVoLWU4Y0t0VFdTWHRJWDV2ajFzUGx4UXl2NlNIRUE2VA?oc=5"
+      "press": "주간경향",
+      "title": "청와대 “조희대, 재제청 사유없다 호도···누가 봐도 대통령 거부 입장 명확해”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43ME02SFlmdk1pamJ0dFFCXzltMWN3UHVwY1p5ZTYtQTAtRlZXWnpjWVUzM3hUYndhdHo5S05aczNnQ3M1RlBteGFUb2lJYmlFT3Q2emd1bngyLW1pQ0E?oc=5"
      },
      {
-      "press": "한겨레",
-      "title": "청, 조희대 재제청 거부에 “헌법 위배…대통령 임명권 무력화”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JcUpUZ3dsaGZSZjZ1MmJoWmRfVmNndzFDUERVNm9kaC1MOEhUVWV4WlJzamlMdUkzY0EyZnpabllGOHJkZ1dMY2dobm00YS1PQkJJc2MxMFd3Y0h5a2pjWjkzMDBrLVZiTlNz?oc=5"
+      "press": "연합뉴스",
+      "title": "靑 \"손봉기 임명거부 뜻 공문에 명확한데도 대법원장이 호도\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FSHZBRU5QS01Rbjd3bGoyeGRBeUZLSUN1X19McHNLZ08wTjFBREdpa2QtQVBhTVhnakV3UHE1Um1zY1ExUUUxUEh6aWNDbHljeUxSNFhjZVBCNGfSAWBBVV95cUxOeXVfWHFDcm1nVDJjUk8yTGhKSEZxSC11QkdUaHBZTWRWQWN5S1N5R1V5Y3NoNmowRmwzRjZkbzhqZV95T1RpcHVwd0tDTnRfLXhKN0EzbUR0b183aDJvcTQ?oc=5"
      },
      {
-      "press": "스트레이트뉴스",
-      "title": "조희대 헌법 근거 내세워 끝내 재제청 거부…靑·사법부 극한충돌",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aRFVPVk9PRWM2REpabjl1SXVzazBkQUJPRk1mcl94VDR4eWZhVzE0ektVXzAtZEJCMXFKMlhqRTJ0T2ZPTHF0ZUJJVURZRE9FWGVMa1k1cEcwV0lxZ1NKT0FvRHVULUpZSWJ2WEd4UVFnaGtnN1c00gF3QVVfeXFMT1pEVU9WT09FYzZESlpuOXVJdXNrMGRBQk9GTWZyX3hUNHh5ZmFXMTR6S1VfMC1kQkIxcUoyWGpFMnRPZk9McXRlQklVRFlET0VYZUxrWTVwRzBXSXFnU0pPQW9EdVQtSllJYnZYR3hRUWdoa2c3VzQ?oc=5"
+      "press": "JTBC",
+      "title": "청와대 \"조희대, 재제청 사유 명확치 않다고 호도…후속절차 취해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NWmo2ZDh5ajIxNzNWcDJQekxCQWI1bkY2Z19oNWg5TFlBOXltdzludHB6MDhIbVdxa0tKVTlybTM5ZFlpWE9JMW1PMnZFeWFCcTEtNQ?oc=5"
      },
      {
-      "press": "전자신문",
-      "title": "조희대, 대법관 재제청 거부에…靑 “헌법에 위배” 반박",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BQnMxNzMwdU85YWUtZnphSldic0thVDJPbF9GdzJfSzJjNzk2cnhYUnAzYTktUHlNMnZaek9BMzhvUXE4Y2NBbTJYTjdzUQ?oc=5"
+      "press": "채널A",
+      "title": "청와대, 조희대에 또 반박 “적법 추천 후보자 배제하려는 시도야말로 공정성 훼손”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aaEF5UnIzUUhYaFVIYjdLelNEZWhzRlpnWjl1bENHVzhhRllfbnRvUzJheVhOOG1DeDlFbDNRWTlzM2JDY1dGZFZVcFZWQUd6X1VJajBHZUJxRnZKNHfSAWNBVV95cUxQM01oQzlscmhzMUE2eXRYQVdYbS1LS3hYWHlWWVRRMEJPa0lCeEhidmJMcGpzdFdMMDdHejkzUE5lZVRsbGhyUERQRWV5QjI2bFFqaDM0UUwwSkRhcTJBYXNaYnM?oc=5"
+     },
+     {
+      "press": "국민일보",
+      "title": "[속보] 또 靑-法 핑퐁 “조희대, 사유 명확치 않다 호도”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xcEZiZW1YR0x4UUVMeEhWSmgycDBjX3JCQ0ctV1I1VHd2T01CdjNKV2dTbGU3SjExaXBDd0pINjZDb2d5UXFrVDlDMWt0bVFnYzBUeUpHZXRYNzg4Yks5Rlh0REg1UU1JWThtatIBbEFVX3lxTE5xcEZiZW1YR0x4UUVMeEhWSmgycDBjX3JCQ0ctV1I1VHd2T01CdjNKV2dTbGU3SjExaXBDd0pINjZDb2d5UXFrVDlDMWt0bVFnYzBUeUpHZXRYNzg4Yks5Rlh0REg1UU1JWThtag?oc=5"
      }
     ]
    }
   },
   {
-   "title": "[속보]청와대, ‘재제청 거부’ 조희대에 “헌법 위배·대통령 임명권 무력화···깊은 유감”",
-   "source": "경향신문",
-   "url": "https://n.news.naver.com/article/032/0003471978",
-   "published_at": "2026-09-22T12:43:00+09:00",
+   "title": "유시민 겨냥한 전용기 \"대통령이 검찰개혁 속였다? 강한 유감\"",
+   "source": "오마이뉴스",
+   "url": "https://n.news.naver.com/article/047/0002530087",
+   "published_at": "2026-09-23T12:26:12+09:00",
    "section_id": "100",
    "view_rank": 3,
-   "comment_count": 571,
-   "comment_agree": 274,
-   "comment_disagree": 58,
-   "division_balance": 0.349398,
-   "division_score": 2.029351,
+   "comment_count": 173,
+   "comment_agree": 173,
+   "comment_disagree": 46,
+   "division_balance": 0.420091,
+   "division_score": 2.265816,
    "selection": "찬반 쟁점",
-   "summary": "청와대는 22일 조희대 대법원장이 청와대의 대법관 후보 재제청 요청을 거부하자 “대한민국 헌법에 위배되는 인식이자 국민에 의해 선출된 대통령의 임명권을 무력화하는…",
-   "summary_long": "청와대는 22일 조희대 대법원장이 청와대의 대법관 후보 재제청 요청을 거부하자 “대한민국 헌법에 위배되는 인식이자 국민에 의해 선출된 대통령의 임명권을 무력화하는 것”이라며 유감을 표명했다. 청와대는 관계자는 이날 ‘대법원장의 재제청 거부 입장에 대하여’라는 제목의 입장문을 통해 “대통령의 제청 반려에도 불구하고 노태악 전 대법관 후임 대법관 후보자를 재제청하지 않겠다는 대법원장의 입장 발표에 대해 깊은 유감을 표한다”고 밝혔다. 이 관계자는 “대법원장의 입장 발표는 대법원장의 제청권이 대통령의 임명권보다 우위에 있다는 것으로, 대한민국 헌법에 위배되는 인식”이라며 “대법원장이 대법관 후보자를 제청하면 대통령이 그대로 임명하여야 한다는 것은 국민에 의해 선출된 대통령의 임명권을 무력화하는 것”이라고 밝혔다.\n\n청와대는 “대법원장은 대법관 공백 장기화가 국민들의 피해로 돌아간다는 사실을 직시하고 더 이상 현 상황을 방치하지 말아야 할 것”이라고 했다. 조희대 대법원장은 이날 청와대의 대법관 후보 재제청 요청에 대해 “달리 재체청 요청을 정당화할 구체적인 헌법적 근거와 사유를 찾을 수 없다”며 “재제청 요청에 응할 수 없음을 밝힌다”고 말했다. 조 대법원장의 입장은 지난달 28일 청와대가 조 대법원장의 손봉기 후보자 서면 제청을 사실상 반려하고 재제청을 요청한 지 25일 만에 나왔다.",
+   "summary": "전용기 더불어민주당 최고위원이 유시민 작가의 '대통령이 지금까지 국민을 속인 것'이란 발언에 23일 \"강한 유감\"을 표명했다. 그는 이날 최고위원회의에서 \"최근 일각에서…",
+   "summary_long": "전용기 더불어민주당 최고위원이 유시민 작가의 '대통령이 지금까지 국민을 속인 것'이란 발언에 23일 \"강한 유감\"을 표명했다. 그는 이날 최고위원회의에서 \"최근 일각에서 대통령이 검찰개혁을 두고 국민을 속였다고까지 표현했다\"라면서 유 작가 발언에 대한 의견을 밝혔다. 전 최고위원은 \"오랜 시간 진보 진영에서 개혁을 위해 노력한 절박함을 가볍게 여기지 않겠다\"라면서 \"그러나 속였다는 말은 동의하기가 어렵다\"라고 했다.\n\n이어 \"개혁의 진심은 말의 세기가 아니라 제도가 낳은 결과로 판단받아야 한다\"라며 \"그때도 결과가 부족하다면 저희를 더 엄하게 꾸짖어달라\"라고 말했다. 특히 \"우리 사이에 말이 거칠어질수록 웃는 쪽은 개혁을 멈추고 싶은 국민의힘뿐\"이라며 \"이를 두고 '국민을 속였다, 거짓말했다'라고 하는 취지의 조중동식 비판은 결코 바람직하지 않을 것\"이라고 지적했다. 이 대통령 국정 지지율 하락을 두고는 \"말 한마디로 빚어진 문제가 아니고 많은 사람들의 오랜 기간에 걸친 행위의 결과\"라며 \"기자회견에서 단합해야 한다는 말로 정리될 수 있는 단계는 이미 오래전에 지나갔다\"라고 지적했다.",
    "quotes": [
-    "이번 재제청 요청 관련 문서로는 8월28일자 ‘대법관 후보자 재제청 요청’이 있을 뿐인데, 거기에는 재제청을 요청하는 구체적인 사유와 그 헌법적 근거가 적혀 있지 않다",
-    "대법관 1인당 연간 3500~4600건의 사건을 처리하고 있는 상황에서 대법관 1인의 공백은 고스란히 국민의 신속한 재판받을 권리의 침해로 이어지고 있다",
-    "대통령의 제청 반려에도 불구하고 노태악 전 대법관 후임 대법관 후보자를 재제청하지 않겠다는 대법원장의 입장 발표에 대해 깊은 유감을 표한다"
+    "수사와 기소 (분리), 검찰개혁이라는 말은 같이 썼지만 내용이 달랐던 것이다. 대통령이 진작 말했어야 한다. 지금까지 국민을 속인 것",
+    "공소청의 인력과 조직, 수사 통제 장치 하나하나까지 살피겠다. 개혁의 취지에 어긋나는 것이 있다면 국회가 먼저 바로잡겠다",
+    "대통령이 생각한 검찰개혁은 우리가 생각한 검찰개혁, 민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 거였다"
    ],
-   "press": "경향신문",
+   "press": "오마이뉴스",
    "photo": "06.jpg",
    "quoted": {
-    "quote": "이번 재제청 요청 관련 문서로는 8월28일자 ‘대법관 후보자 재제청 요청’이 있을 뿐인데, 거기에는 재제청을 요청하는 구체적인 사유와 그 헌법적 근거가 적혀 있지 않다",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "다음뉴스",
-      "title": "조희대, 靑 대법관 재제청 요청 거부…\"헌법적 근거·사유 없어\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0alFpeGlPRzB5UUpDdDZXMkpqWHVnWkx2MWpudGpWenYtWks3MGhEOFpXYTBVa2dWXzBBQjdGZi1KRTF2bUl5WkVQeTNIT1k?oc=5"
-     },
-     {
-      "press": "weekly.khan.co.kr",
-      "title": "조희대 “대법관 재제청 요청 거부” VS 청와대 “헌법 위배 인식”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wVWxRdEdGbzVLUThQbFIwc3o5QXBXZHFxSVpnM19MYzJ0ajdPV1JPODZUSU5iZWZRRjdMblZNYlQtZGdKNzlETm1RR3dVQ0pUWWtmcEgwbnd5bHM5Tmc?oc=5"
-     },
-     {
-      "press": "강원일보",
-      "title": "조희대 “대법관 재제청 응할 수 없다”…靑 “깊은 유감, 헌법에 위배되는 인식”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1WXNSX3BBSkdHaUlYZHlJSF9OWkdOMVNDSGVjU3JKeWc5el9CbERyX0hTSm0tTUtNWFFNLTdCVnNtUDU1V2VaWDBKQl9pS19kNFZpM3dmSHBfMVk?oc=5"
-     },
-     {
-      "press": "ekn.kr",
-      "title": "조희대, 대법관 후보 재제청 거부…靑 “제청권이 임명권보다 우위라는 인식”",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxVnlKblB2Um5ub2FqQldzckczSm1EQXZRSzdpaEMzQVhlb0I3NnJINGcxdWdOenlmVFNRQ1FqRXBZczhyV2NPUkpUM1VvOFJPaU1nUGZLYWdYc3Z0Yjd3bDZhOA?oc=5"
-     },
-     {
-      "press": "국제신문",
-      "title": "조희대 재제청 거부에 靑 \"임명권 무력화\" 정면충돌(종합)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON29vRnhVT0hXaFFEQW1VUTF6M0ZKTHdSTC04WWR2STVDcWU2TjliMlVXTDhxdEJ3Y2hBd3czR1h6ZnB3b1FuRHlfS3N1bG9aWDBVbFV0V2NsZl9JWEhxOW5pZURqTk9ORGdob1ZUVV92TUp1ajFrSkEyblhVZG90RnZPbjk3Q3llRG9ZZS1B?oc=5"
-     },
-     {
-      "press": "kbsm.net",
-      "title": "조희대, 대법관 재제청 요청 거부하자 靑 \"깊은 유감\" 정면 충돌",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3VHdzNTJEMUtiZmJRVmZfeWRXUTNKTXZvR1hRZW1COXItbU1fU3JVZVV3Y1ktU3NSLWJLdVlZYm9fNGVaZFd0ZTQybXJlRlA0bmR1VUFydS0?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "한동훈, 대법관 재제청 갈등에 \"李, 차라리 계엄해서 왕 되시라\"",
-   "source": "대전일보",
-   "url": "https://n.news.naver.com/article/656/0000187556",
-   "published_at": "2026-09-22T15:37:12+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 1061,
-   "comment_agree": 231,
-   "comment_disagree": 45,
-   "division_balance": 0.326087,
-   "division_score": 1.833919,
-   "selection": "찬반 쟁점",
-   "summary": "한동훈 무소속 의원이 22일 조희대 대법원장의 대법관 후보 재제청 거부를 둘러싼 청와대와 대법원의 갈등에 대해 \"이재명 대통령, 네로 황제 흉내내냐\"고 따져 물었다.…",
-   "summary_long": "한동훈 무소속 의원이 22일 조희대 대법원장의 대법관 후보 재제청 거부를 둘러싼 청와대와 대법원의 갈등에 대해 \"이재명 대통령, 네로 황제 흉내내냐\"고 따져 물었다. 한 의원은 이날 자신의 페이스북을 통해 \"차라리 계엄해서 왕이 되시라\"라며 이같이 밝혔다. 그는 \"'대통령 마음대로 하지 말라고' 대법원장 제청권을 헌법에 보장한 것인데, 이 대통령은 '자기 마음에 들 때까지 재제청하라고 대법원장에게 명령할 수 있다'고 우기는 것\"이라고 꼬집었다.\n\n앞서 조 대법원장은 지난달 18일 노태악 전 대법관의 후임으로 손봉기 대구지법 부장판사를 이 대통령에게 서면으로 임명 제청했다. 청와대는 지난달 28일 손 후보자에 대한 임명동의안을 국회에 제출하지 않기로 하고 조 대법원장에게 다른 후보자를 재제청해 달라고 요청했다. 직후 청와대는 조 대법원장의 입장에 대해 \"헌법에 위배되는 인식\"이라며 \"대법원장의 제청권이 대통령의 임명권보다 우위에 있다는 인식은 대통령의 임명권을 무력화하는 것\"이라고 주장했다.",
-   "quotes": [
-    "'대통령 마음대로 하지 말라고' 대법원장 제청권을 헌법에 보장한 것인데, 이 대통령은 '자기 마음에 들 때까지 재제청하라고 대법원장에게 명령할 수 있다'고 우기는 것",
-    "대법원장의 제청권이 대통령의 임명권보다 우위에 있다는 인식은 대통령의 임명권을 무력화하는 것",
-    "재제청 요청에 대해 헌법적 근거와 구체적인 사유가 없다"
-   ],
-   "press": "대전일보",
-   "photo": "07.jpg",
-   "quoted": {
-    "quote": "'대통령 마음대로 하지 말라고' 대법원장 제청권을 헌법에 보장한 것인데, 이 대통령은 '자기 마음에 들 때까지 재제청하라고 대법원장에게 명령할 수 있다'고 우기는 것",
+    "quote": "공소청의 인력과 조직, 수사 통제 장치 하나하나까지 살피겠다. 개혁의 취지에 어긋나는 것이 있다면 국회가 먼저 바로잡겠다",
     "n": 3,
     "verified": 0,
     "items": [
      {
       "press": "다음뉴스",
-      "title": "한동훈 “李, 차라리 계엄해서 왕 되라”…靑 ‘조희대 재제청 거부’ 반발에 직격",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vNXpXdE1sVFdSc1FnbFBJMTJsc2NQc1laaWI2UjBrYnFZVl9wSklDbWN6SDY0X3B5THFMVUxabEhjN19yTFBwUzRqaw?oc=5"
+      "title": "유시민 겨냥한 전용기 \"대통령이 검찰개혁 속였다? 강한 유감\"",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zbnROekZ6bm9uUWlDWUlsWHJEb1NoUUtQSkJMLWEwcU9XZGFYNWlmQnRQU1E0bFZnLWFlUWhnT0hPTEdRWkFlRGhLTQ?oc=5"
      },
      {
-      "press": "매일신문",
-      "title": "`대법관 재제청 갈등`에…한동훈 `李, 차라리 계엄해서 왕 되시라`",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56M1l6bWMtRGYzdmF6SzVZbVh6VEVsU1h2Y0NlcThtZldGRkpxYXJ4dVdWdUZqUXV6MWRWTVIxZm10OVZXSmZkeGNzbnNocHItNFBDY0lHcTdaYWpycXpKOFJR?oc=5"
+      "press": "허프포스트코리아",
+      "title": "'민주당 친석계' 유시민에 긁히자 총공세 나섰다 : 전용기 \"조중동식 비판\", 이건태 \"이적행위\"",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZN2RCSUtobFZCQkVGYklyVWZ3S09YdEswMExyMk9ScS12QlNZQnRSWF9EU1F4dERtSnFzSUhEd2ZLby1NSTc0RnhpaHRiZ2RROTZiOXZjbw?oc=5"
      },
      {
-      "press": "다음뉴스",
-      "title": "한동훈, 대법관 재제청 갈등에 \"李, 차라리 계엄해서 왕 되시라\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85TnZobHc2NjNnUU1nYXJzeGNpNlo4M3dpMWY0Y013aU9BNnF5MG0yRUtXYTctSGtKOVVFcWoxU2hKNVM3TG05dHpRYnBVYk0?oc=5"
+      "press": "위키트리",
+      "title": "\"이재명 대통령이 국민 속였다\" 유시민 발언 일파만파",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pbUU4OU5WWFk2MTQ1TFdoY2ptR2pYUUFuRnhHaFd4OFpDVkw3TkgwS0hnWVFFYkhzWlp6V2phVkNtaDNES0k2R1dvWWh1Y3FpSzZ4TjF3?oc=5"
      }
     ]
    }
+  },
+  {
+   "title": "한동훈, 차기 대선주자 적합도 첫 1위…김민석은 2위 [조원씨앤아이]",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005739504",
+   "published_at": "2026-09-23T14:33:10+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "comment_count": 670,
+   "comment_agree": 271,
+   "comment_disagree": 59,
+   "division_balance": 0.357576,
+   "division_score": 2.074697,
+   "selection": "찬반 쟁점",
+   "summary": "차기 대통령 후보 적합도 조사에서 한동훈 무소속 의원이 김민석 더불어민주당 대표를 제치고 처음으로 선두에 올랐다는 여론조사 결과가 23일 나왔다. 여론조사기관…",
+   "summary_long": "차기 대통령 후보 적합도 조사에서 한동훈 무소속 의원이 김민석 더불어민주당 대표를 제치고 처음으로 선두에 올랐다는 여론조사 결과가 23일 나왔다. 여론조사기관 조원씨앤아이가 스트레이트뉴스 의뢰로 지난 19~21일 전국 만 18세 이상 남녀 2007명을 대상으로 실시해 이날 발표한 차기 대통령 후보 적합도 조사에 따르면 한 의원은 18.1%로 가장 높은 응답을 얻었다. 김 대표는 14.8%를 얻었고, 이어 오세훈 서울시장 12.6%, 장동혁 국민의힘 대표 11.9%, 조국 조국혁신당 혁신정책연구원장 8.6%, 정청래 민주당 의원 6.7% 등의 순이었다.\n\n송영길 민주당 의원은 5.5%, 김부겸 전 국무총리는 3.7%, 이준석 개혁신당 의원은 2.5%로 집계됐다. 직전 조사에서는 김 대표가 16.0%로 선두였고, 한 의원이 15.4%였다. 이번 조사에서 한 의원이 2.7%포인트 오르며 조원씨앤아이 차기 후보 적합도 조사에서 처음 1위를 기록했다.",
+   "press": "매일경제",
+   "photo": "07.jpg"
   }
  ],
  "cards": [
@@ -289,139 +279,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/01.png",
-   "pngBytes": 1767029,
-   "feed": "오늘의 뉴스 2026-09-23\n\n· 여의도에 돌던 김승원 성추행 의혹… 靑도 與도 몰랐나\n· 육군 25사단에서 장교 숨진 채 발견‥'DMZ 폭발'과는 관련 없는 듯\n· “월 3백만 원 줘도 싫대요”…중국인 채용 나선 택시업계 [잇슈 키워드]\n· 은행 너도나도 '슈퍼앱' 내놓더니, 체류시간 3년째 고작 ‘18분’\n· 청, 조희대 재제청 거부에 “헌법 위배…대통령 임명권 무력화”\n· [속보]청와대, ‘재제청 거부’ 조희대에 “헌법 위배·대통령 임명권 무력화···깊은 유감”\n· 한동훈, 대법관 재제청 갈등에 \"李, 차라리 계엄해서 왕 되시라\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/01.png",
+   "pngBytes": 2003226,
+   "feed": "오늘의 뉴스 2026-09-24\n\n· 尹 “이 XX야, 네가 책임져!”…9시간 술친구 장제원에 온 전화\n· 유시민 “대통령이 국민 속였다” 발언에 與 지도부 “동의할 수 없어… 강한 유감”\n· 755억 주고 '날벼락'…\"JYP 신사옥 돌려내\" 폭발\n· \"명절 시댁서 차별\" 화냈더니, 고속도 휴게소에 아내 두고 간 남편…이혼\n· 청, 조희대에 재반박 “임명 거부 명확히 밝혀…이게 재제청 사유”\n· 유시민 겨냥한 전용기 \"대통령이 검찰개혁 속였다? 강한 유감\"\n· 한동훈, 차기 대선주자 적합도 첫 1위…김민석은 2위 [조원씨앤아이]"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/02.png",
-   "pngBytes": 1777769,
-   "title": "여의도에 돌던 김승원 성추행 의혹… 靑도 與도 몰랐나",
-   "summary": "청와대와 여당은 김 의원의 추가 의혹이 담긴 탄원서의 존재를 알았는지 명확하게 답하지 않고 있다. 하지만 강유정 청와대 수석대변인은 이날 라디오에서 ‘청와대에서 김…",
-   "summary_long": "더불어민주당 김승원 의원이 지난 19일 법무부 장관 후보자직에서 사퇴했지만, 이후 과거 성추행과 음주운전 의혹 등이 추가로 제기되면서 논란이 커지고 있다. 특히 김 의원의 전직 보좌진이 청와대에 각종 의혹이 담긴 탄원서를 제출한 것으로 알려지면서, 청와대와 여당이 논란을 예상하고도 임명을 밀어붙이려 했던 것 아니냐는 비판이 제기됐다. A씨는 본지 인터뷰에서 “당일 아침 원래 이 대통령에게 먼저 텔레그램으로 탄원서를 보냈지만 답이 없어 홍 수석에게 텔레그램을 보냈다”면서 “또 다른 전직 보좌관인 B씨가 김 의원의 음주운전 등 추가 의혹이 담긴 탄원서를 나에게 보내와 내가 써 놓은 김 의원의 경기도당 회계부정 자료 등과 함께 총 2건의…\n\nA씨는 김 의원이 이 자리에서 음주 운전이나 폭언 의혹과 관련해 “기억이 안 난다”고 했다고 주장했다. 청와대와 여당은 김 의원의 추가 의혹이 담긴 탄원서의 존재를 알았는지 명확하게 답하지 않고 있다. 하지만 강유정 청와대 수석대변인은 이날 라디오에서 ‘청와대에서 김 의원의 의혹에 관한 탄원서를 받았느냐’는 질문에 “대답을 해야 할 책임이나 의무는 없다”고 했다.",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0003999802",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/02.png",
+   "pngBytes": 2006627,
+   "title": "尹 “이 XX야, 네가 책임져!”…9시간 술친구 장제원에 온 전화",
+   "summary": "그 독대 자리에서 김기현이 윤석열에게 차기 당대표 출마 의사를 피력하면서 지지를 구했다고 해. 제20대 대선을 석달 앞둔 2021년 12월 3일 국민의힘 이준석 대표와…",
+   "summary_long": "조코 위도도 인도네시아 대통령이 국빈 방문해 윤석열 대통령이 환영 만찬을 열어준 날이다. 그 독대 자리에서 김기현이 윤석열에게 차기 당대표 출마 의사를 피력하면서 지지를 구했다고 해. \" 그러자 김기현이 ‘대선에는 나가지 않겠다’는 취지로 답했는데, 그게 욕심 없는 모습으로 비춰져 윤석열이 그를 신뢰하게 됐다는 거야.\n\n그는 최근 취재팀에 “독대 내용은 당사자만이 정확히 알 수 있는 영역으로, 제3자의 발언은 추측과 상상이 혼재된 이야기”라며 “차기 대선 출마 등과 같은 무게감 있는 정치적 사안을 논의할 분위기가 아니었고, 그런 내용의 대화를 나눈 적도 없다”고 밝혔다. 제20대 대선을 석달 앞둔 2021년 12월 3일 국민의힘 이준석 대표(왼쪽부터)와 윤석열 대선후보, 김기현 원내대표가 울산 울주군의 한 식당에서 만찬 회동를 마친 뒤 포즈를 취하고 있다. ‘김·장 연대’ 배후에 ‘윤심’(尹心) 있었나 복수의 국민의힘 관계자들은 당시 이런 분위기 속에서 윤석열이 사실상 김기현을 차기 당대표로 낙점했다고 입을 모았다.",
+   "press": "중앙일보",
+   "source": "중앙일보",
+   "link": "https://n.news.naver.com/article/025/0003553379",
    "selection": "정치",
-   "feed": "뉴스 01. 여의도에 돌던 김승원 성추행 의혹… 靑도 與도 몰랐나\n\n더불어민주당 김승원 의원이 지난 19일 법무부 장관 후보자직에서 사퇴했지만, 이후 과거 성추행과 음주운전 의혹 등이 추가로 제기되면서 논란이 커지고 있다. 특히 김 의원의 전직 보좌진이 청와대에 각종 의혹이 담긴 탄원서를 제출한 것으로 알려지면서, 청와대와 여당이 논란을 예상하고도 임명을 밀어붙이려 했던 것 아니냐는 비판이 제기됐다. A씨는 본지 인터뷰에서 “당일 아침 원래 이 대통령에게 먼저 텔레그램으로 탄원서를 보냈지만 답이 없어 홍 수석에게 텔레그램을 보냈다”면서 “또 다른 전직 보좌관인 B씨가 김 의원의 음주운전 등 추가 의혹이 담긴 탄원서를 나에게 보내와 내가 써 놓은 김 의원의 경기도당 회계부정 자료 등과 함께 총 2건의…\n\nA씨는 김 의원이 이 자리에서 음주 운전이나 폭언 의혹과 관련해 “기억이 안 난다”고 했다고 주장했다. 청와대와 여당은 김 의원의 추가 의혹이 담긴 탄원서의 존재를 알았는지 명확하게 답하지 않고 있다. 하지만 강유정 청와대 수석대변인은 이날 라디오에서 ‘청와대에서 김 의원의 의혹에 관한 탄원서를 받았느냐’는 질문에 “대답을 해야 할 책임이나 의무는 없다”고 했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0003999802"
+   "feed": "뉴스 01. 尹 “이 XX야, 네가 책임져!”…9시간 술친구 장제원에 온 전화\n\n조코 위도도 인도네시아 대통령이 국빈 방문해 윤석열 대통령이 환영 만찬을 열어준 날이다. 그 독대 자리에서 김기현이 윤석열에게 차기 당대표 출마 의사를 피력하면서 지지를 구했다고 해. \" 그러자 김기현이 ‘대선에는 나가지 않겠다’는 취지로 답했는데, 그게 욕심 없는 모습으로 비춰져 윤석열이 그를 신뢰하게 됐다는 거야.\n\n그는 최근 취재팀에 “독대 내용은 당사자만이 정확히 알 수 있는 영역으로, 제3자의 발언은 추측과 상상이 혼재된 이야기”라며 “차기 대선 출마 등과 같은 무게감 있는 정치적 사안을 논의할 분위기가 아니었고, 그런 내용의 대화를 나눈 적도 없다”고 밝혔다. 제20대 대선을 석달 앞둔 2021년 12월 3일 국민의힘 이준석 대표(왼쪽부터)와 윤석열 대선후보, 김기현 원내대표가 울산 울주군의 한 식당에서 만찬 회동를 마친 뒤 포즈를 취하고 있다. ‘김·장 연대’ 배후에 ‘윤심’(尹心) 있었나 복수의 국민의힘 관계자들은 당시 이런 분위기 속에서 윤석열이 사실상 김기현을 차기 당대표로 낙점했다고 입을 모았다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003553379"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/03.png",
-   "pngBytes": 2578874,
-   "title": "육군 25사단에서 장교 숨진 채 발견‥'DMZ 폭발'과는 관련 없는 듯",
-   "summary": "비무장지대 수색 작전 도중 지뢰로 추정되는 폭발 사고로 간부 3명이 다친 육군 25사단에서, 소속 장교가 숨진 채 발견돼 군과 경찰이 수사에 나섰습니다. MBC 취재…",
-   "summary_long": "비무장지대 수색 작전 도중 지뢰로 추정되는 폭발 사고로 간부 3명이 다친 육군 25사단에서, 소속 장교가 숨진 채 발견돼 군과 경찰이 수사에 나섰습니다. MBC 취재 결과 육군 25사단 본부에 근무하는 대위는 오늘 오전 자신의 숙소에서 숨진 채 발견됐습니다. 숨진 대위는 출근하지 않은 걸 이상하게 여긴 부대원들이 숙소로 찾아가 발견했으며, 범죄 혐의점은 없는 것으로 알려졌습니다.\n\n해당 대위가 근무하던 25사단에서는 어제 '수색로 개척' 작전 도중 지뢰 추정 폭발로 인해 대대장의 발목이 절단되는 등 장병 3명이 중경상을 입는 사건이 발생했습니다. 숨진 대위는 25사단 본부에서 군사작전 계획 수립 등에 관여하는 직책을 맡고 있었지만, 비무장지대 수색작전과 직접적인 관련성이 있는 병과는 아닌 것으로 파악됐습니다. 어제 오전에는 당직근무를 마치고 퇴근한 뒤 휴식 도중 최전방 폭발 상황을 전파받았고, 이른 오후 출근했다가 2시간 만에 다시 숙소로 돌아간 것으로 전해졌습니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001525355",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/03.png",
+   "pngBytes": 1689339,
+   "title": "유시민 “대통령이 국민 속였다” 발언에 與 지도부 “동의할 수 없어… 강한 유감”",
+   "summary": "유시민씨가 이재명 대통령이 이른바 ‘검찰 개혁’과 관련해 “지금까지 국민을 속인 것”이라고 비판하는 등 이 대통령에 대한 공세를 이어가자 더불어민주당 의원들이 23일…",
+   "summary_long": "유시민씨가 이재명 대통령이 이른바 ‘검찰 개혁’과 관련해 “지금까지 국민을 속인 것”이라고 비판하는 등 이 대통령에 대한 공세를 이어가자 더불어민주당 의원들이 23일 반박에 나섰다. 김민석 대표는 이날 아침 민주당 유튜브 채널 ‘민주당TV’에서 유씨의 ‘돌멩이’ 발언에 대한 반박을 이어갔다. 유씨는 앞서 지난 20일 공개된 유튜브 인터뷰에서 여권 지지층 간의 멸칭 사용을 ‘신발 속 돌멩이’에 빗대면서 “그것이 대통령을 정치적으로 고립시켜 왔다”고 했다.\n\n이날 오전 국회에서 열린 당 최고위원회의에서는 친이재명계 전용기 최고위원이 “최근 일각에서 대통령이 검찰 개혁을 두고 국민을 속였다고까지 표현했는데, 강한 유감을 표한다”고 했다. 친정청래계 최민희 의원은 유씨 발언을 지칭하지는 않았으나 “민주 개혁 세력이 다시 하나 되자는, 그 이후 중도로 확장해 가자는 대통령님의 뜻은 분명하다”고 했다. 박범계 의원은 페이스북에 글을 올려 “이 대통령이 대통령이 돼 실행한 것이 검찰청 폐지, 수사권 전면 경찰 이관, 중수청 개청이라는 개혁”이라며 “(유씨가) 이것이 대통령께서 실행한 검찰 개혁의 종착역인 양 말을 호도했다”고 비판했다.",
+   "press": "조선일보",
+   "source": "조선일보",
+   "link": "https://n.news.naver.com/article/023/0004000101",
    "selection": "정치",
-   "feed": "뉴스 02. 육군 25사단에서 장교 숨진 채 발견‥'DMZ 폭발'과는 관련 없는 듯\n\n비무장지대 수색 작전 도중 지뢰로 추정되는 폭발 사고로 간부 3명이 다친 육군 25사단에서, 소속 장교가 숨진 채 발견돼 군과 경찰이 수사에 나섰습니다. MBC 취재 결과 육군 25사단 본부에 근무하는 대위는 오늘 오전 자신의 숙소에서 숨진 채 발견됐습니다. 숨진 대위는 출근하지 않은 걸 이상하게 여긴 부대원들이 숙소로 찾아가 발견했으며, 범죄 혐의점은 없는 것으로 알려졌습니다.\n\n해당 대위가 근무하던 25사단에서는 어제 '수색로 개척' 작전 도중 지뢰 추정 폭발로 인해 대대장의 발목이 절단되는 등 장병 3명이 중경상을 입는 사건이 발생했습니다. 숨진 대위는 25사단 본부에서 군사작전 계획 수립 등에 관여하는 직책을 맡고 있었지만, 비무장지대 수색작전과 직접적인 관련성이 있는 병과는 아닌 것으로 파악됐습니다. 어제 오전에는 당직근무를 마치고 퇴근한 뒤 휴식 도중 최전방 폭발 상황을 전파받았고, 이른 오후 출근했다가 2시간 만에 다시 숙소로 돌아간 것으로 전해졌습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001525355"
+   "feed": "뉴스 02. 유시민 “대통령이 국민 속였다” 발언에 與 지도부 “동의할 수 없어… 강한 유감”\n\n유시민씨가 이재명 대통령이 이른바 ‘검찰 개혁’과 관련해 “지금까지 국민을 속인 것”이라고 비판하는 등 이 대통령에 대한 공세를 이어가자 더불어민주당 의원들이 23일 반박에 나섰다. 김민석 대표는 이날 아침 민주당 유튜브 채널 ‘민주당TV’에서 유씨의 ‘돌멩이’ 발언에 대한 반박을 이어갔다. 유씨는 앞서 지난 20일 공개된 유튜브 인터뷰에서 여권 지지층 간의 멸칭 사용을 ‘신발 속 돌멩이’에 빗대면서 “그것이 대통령을 정치적으로 고립시켜 왔다”고 했다.\n\n이날 오전 국회에서 열린 당 최고위원회의에서는 친이재명계 전용기 최고위원이 “최근 일각에서 대통령이 검찰 개혁을 두고 국민을 속였다고까지 표현했는데, 강한 유감을 표한다”고 했다. 친정청래계 최민희 의원은 유씨 발언을 지칭하지는 않았으나 “민주 개혁 세력이 다시 하나 되자는, 그 이후 중도로 확장해 가자는 대통령님의 뜻은 분명하다”고 했다. 박범계 의원은 페이스북에 글을 올려 “이 대통령이 대통령이 돼 실행한 것이 검찰청 폐지, 수사권 전면 경찰 이관, 중수청 개청이라는 개혁”이라며 “(유씨가) 이것이 대통령께서 실행한 검찰 개혁의 종착역인 양 말을 호도했다”고 비판했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004000101"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/04.png",
-   "pngBytes": 2256737,
-   "title": "“월 3백만 원 줘도 싫대요”…중국인 채용 나선 택시업계 [잇슈 키워드]",
-   "summary": "월급 3백만 원 이상 조건에도 사람을 구하지 못하자 한국어가 어느 정도 가능한 중국 동포 기사 채용에 나선 겁니다. 실제로 지난 10년간 전국 법인 택시 기사는 30%…",
-   "summary_long": "택시업계가 채용에 어려움을 겪으면서 외국인 기사를 모집하고 나섰습니다. 서울의 한 법인 택시 회사가 내건 구인 공고입니다. 월급 3백만 원 이상 조건에도 사람을 구하지 못하자 한국어가 어느 정도 가능한 중국 동포 기사 채용에 나선 겁니다.\n\n실제로 지난 10년간 전국 법인 택시 기사는 30% 넘게 줄었지만, 외국인 기사는 두 배 이상 늘었습니다. 장시간 노동과 제한된 수입으로 한국인 기사들이 떠난 빈자리를, 건설이나 제조업에서 넘어온 외국인 기사들이 메우고 있다는 분석입니다. 택시업계는 고령화와 인력난으로 외국인 기사 채용이 불가피하다는 입장인데요.",
-   "press": "KBS",
-   "source": "KBS",
-   "link": "https://n.news.naver.com/article/056/0012261547",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/04.png",
+   "pngBytes": 2154580,
+   "title": "755억 주고 '날벼락'…\"JYP 신사옥 돌려내\" 폭발",
+   "summary": "JYP엔터테인먼트가 서울 강동구에 새 본사를 짓기로 한 가운데, 신사옥 바로 앞에 공원으로 예정됐던 땅이 업무·판매시설 등을 지을 수 있는 부지로 바뀌면서 주민들이…",
+   "summary_long": "JYP엔터테인먼트가 서울 강동구에 새 본사를 짓기로 한 가운데, 신사옥 바로 앞에 공원으로 예정됐던 땅이 업무·판매시설 등을 지을 수 있는 부지로 바뀌면서 주민들이 집단행동에 나섰습니다. JYP도 신사옥 설계를 변경해야 할 가능성까지 있어 대응 방안을 검토하고 있습니다. 'JYP 신사옥 앞 공원 지키기 주민연대'는 현재 고덕강일지구 자족8부지를 다시 공원 용지로 돌려달라는 온라인 서명을 받고 있습니다.\n\nJYP가 신사옥을 짓기 위해 매입한 땅과 도로 하나를 사이에 두고 마주 보고 있습니다. JYP도 이곳에 공원이 들어설 것으로 보고 신사옥 설계에 이를 반영한 것으로 알려졌습니다. 공원을 전제로 설계안을 만들었던 JYP는 신사옥 백지화 가능성까지 염두에 두며 \"대응 방안을 다각도로 검토하고 있다\"고 밝혔습니다.",
+   "press": "SBS",
+   "source": "SBS",
+   "link": "https://n.news.naver.com/article/055/0001390648",
    "selection": "경제·시사",
-   "feed": "뉴스 03. “월 3백만 원 줘도 싫대요”…중국인 채용 나선 택시업계 [잇슈 키워드]\n\n택시업계가 채용에 어려움을 겪으면서 외국인 기사를 모집하고 나섰습니다. 서울의 한 법인 택시 회사가 내건 구인 공고입니다. 월급 3백만 원 이상 조건에도 사람을 구하지 못하자 한국어가 어느 정도 가능한 중국 동포 기사 채용에 나선 겁니다.\n\n실제로 지난 10년간 전국 법인 택시 기사는 30% 넘게 줄었지만, 외국인 기사는 두 배 이상 늘었습니다. 장시간 노동과 제한된 수입으로 한국인 기사들이 떠난 빈자리를, 건설이나 제조업에서 넘어온 외국인 기사들이 메우고 있다는 분석입니다. 택시업계는 고령화와 인력난으로 외국인 기사 채용이 불가피하다는 입장인데요.\n\n출처: KBS / https://n.news.naver.com/article/056/0012261547"
+   "feed": "뉴스 03. 755억 주고 '날벼락'…\"JYP 신사옥 돌려내\" 폭발\n\nJYP엔터테인먼트가 서울 강동구에 새 본사를 짓기로 한 가운데, 신사옥 바로 앞에 공원으로 예정됐던 땅이 업무·판매시설 등을 지을 수 있는 부지로 바뀌면서 주민들이 집단행동에 나섰습니다. JYP도 신사옥 설계를 변경해야 할 가능성까지 있어 대응 방안을 검토하고 있습니다. 'JYP 신사옥 앞 공원 지키기 주민연대'는 현재 고덕강일지구 자족8부지를 다시 공원 용지로 돌려달라는 온라인 서명을 받고 있습니다.\n\nJYP가 신사옥을 짓기 위해 매입한 땅과 도로 하나를 사이에 두고 마주 보고 있습니다. JYP도 이곳에 공원이 들어설 것으로 보고 신사옥 설계에 이를 반영한 것으로 알려졌습니다. 공원을 전제로 설계안을 만들었던 JYP는 신사옥 백지화 가능성까지 염두에 두며 \"대응 방안을 다각도로 검토하고 있다\"고 밝혔습니다.\n\n출처: SBS / https://n.news.naver.com/article/055/0001390648"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/05.png",
-   "pngBytes": 1326965,
-   "title": "은행 너도나도 '슈퍼앱' 내놓더니, 체류시간 3년째 고작 ‘18분’",
-   "summary": "업권 칸막이 규제 '원앱' 한계…실효성도 '글쎄'은행들이 카드, 증권, 은행 업무를 하나의 앱에서 볼 수 있도록 하겠다며 내놓은 슈퍼앱이 기대 이하의 성적을 거두고…",
-   "summary_long": "업권 칸막이 규제 '원앱' 한계…실효성도 '글쎄'은행들이 카드, 증권, 은행 업무를 하나의 앱에서 볼 수 있도록 하겠다며 내놓은 슈퍼앱이 기대 이하의 성적을 거두고 있다. 은행 앱에 머무는 시간은 3년째 그대로였고, 목표로 잡았던 '원앱' 토스와의 격차는 더 벌어졌다. 같은 기간 4대 은행 앱은 KB가 1312만명에서 1475만명으로 163만명(12.4%) 늘었고, 신한과 우리는 각각 198만명(20.4%), 98만명(12.9%) 증가했다.\n\n토스와 KB의 격차는 490만명에서 788만명으로, 신한은 832만명에서 1095만명으로 커졌다. KB Pay는 같은 기간 776만명에서 952만명으로 22.7% 늘었고, 신한 SOL증권과 우리WON카드도 각각 21.5%, 11.5% 증가했다. 처음부터 은행이나 증권 전용 앱 없이 출발한 토스와 달리 계열사 앱이 있는 상태에서 위에 슈퍼앱을 얹은 구조인 점도 약점으로 꼽힌다.",
-   "press": "비즈워치",
-   "source": "비즈워치",
-   "link": "https://n.news.naver.com/article/648/0000050984",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/05.png",
+   "pngBytes": 2225614,
+   "title": "\"명절 시댁서 차별\" 화냈더니, 고속도 휴게소에 아내 두고 간 남편…이혼",
+   "summary": "명절마다 시댁 식구들에게 차별적인 대우를 받았다는 아내가 남편에게 서운함을 토로했다가 휴게소에 홀로 남겨진 사연이 전해졌다. 반면 남편이 아내를 휴게소에 두고 떠난…",
+   "summary_long": "명절마다 시댁 식구들에게 차별적인 대우를 받았다는 아내가 남편에게 서운함을 토로했다가 휴게소에 홀로 남겨진 사연이 전해졌다. 22일 YTN 라디오 '슬기로운 라디오생활'에서는 최근 이혼 과정에서 재산분할 포기 각서의 법적 효력이 쟁점이 된 한 부부의 사연이 소개됐다. 이혼 과정에서 남편은 아내가 이미 재산분할 포기 각서를 작성했다며 재산분할을 받을 수 없다고 주장했다.\n\n실제로 해당 사연의 아내는 이혼 소송 과정에서 반소를 제기해 재산분할을 청구했고, 혼인 기간이 짧아 많은 금액은 아니었지만 재산분할을 받을 수 있었다. 반면 남편이 아내를 휴게소에 두고 떠난 행동에 대해서는 \"그건 부당한 대우\"라며 \"이혼 사유가 될 수 있다\"고 설명했다. 조 변호사는 \"재산분할에서는 혼인 기간 부부가 공동으로 형성한 재산과 각자의 기여도를 종합적으로 판단한다\"며 해당 사연처럼 아내가 가사와 육아를 담당한 경우 역시 재산 형성에 대한 기여로 인정될 수 있다고 설명했다.",
+   "press": "뉴스1",
+   "source": "뉴스1",
+   "link": "https://n.news.naver.com/article/421/0009188224",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 은행 너도나도 '슈퍼앱' 내놓더니, 체류시간 3년째 고작 ‘18분’\n\n업권 칸막이 규제 '원앱' 한계…실효성도 '글쎄'은행들이 카드, 증권, 은행 업무를 하나의 앱에서 볼 수 있도록 하겠다며 내놓은 슈퍼앱이 기대 이하의 성적을 거두고 있다. 은행 앱에 머무는 시간은 3년째 그대로였고, 목표로 잡았던 '원앱' 토스와의 격차는 더 벌어졌다. 같은 기간 4대 은행 앱은 KB가 1312만명에서 1475만명으로 163만명(12.4%) 늘었고, 신한과 우리는 각각 198만명(20.4%), 98만명(12.9%) 증가했다.\n\n토스와 KB의 격차는 490만명에서 788만명으로, 신한은 832만명에서 1095만명으로 커졌다. KB Pay는 같은 기간 776만명에서 952만명으로 22.7% 늘었고, 신한 SOL증권과 우리WON카드도 각각 21.5%, 11.5% 증가했다. 처음부터 은행이나 증권 전용 앱 없이 출발한 토스와 달리 계열사 앱이 있는 상태에서 위에 슈퍼앱을 얹은 구조인 점도 약점으로 꼽힌다.\n\n출처: 비즈워치 / https://n.news.naver.com/article/648/0000050984"
+   "feed": "뉴스 04. \"명절 시댁서 차별\" 화냈더니, 고속도 휴게소에 아내 두고 간 남편…이혼\n\n명절마다 시댁 식구들에게 차별적인 대우를 받았다는 아내가 남편에게 서운함을 토로했다가 휴게소에 홀로 남겨진 사연이 전해졌다. 22일 YTN 라디오 '슬기로운 라디오생활'에서는 최근 이혼 과정에서 재산분할 포기 각서의 법적 효력이 쟁점이 된 한 부부의 사연이 소개됐다. 이혼 과정에서 남편은 아내가 이미 재산분할 포기 각서를 작성했다며 재산분할을 받을 수 없다고 주장했다.\n\n실제로 해당 사연의 아내는 이혼 소송 과정에서 반소를 제기해 재산분할을 청구했고, 혼인 기간이 짧아 많은 금액은 아니었지만 재산분할을 받을 수 있었다. 반면 남편이 아내를 휴게소에 두고 떠난 행동에 대해서는 \"그건 부당한 대우\"라며 \"이혼 사유가 될 수 있다\"고 설명했다. 조 변호사는 \"재산분할에서는 혼인 기간 부부가 공동으로 형성한 재산과 각자의 기여도를 종합적으로 판단한다\"며 해당 사연처럼 아내가 가사와 육아를 담당한 경우 역시 재산 형성에 대한 기여로 인정될 수 있다고 설명했다.\n\n출처: 뉴스1 / https://n.news.naver.com/article/421/0009188224"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/06.png",
-   "pngBytes": 1625305,
-   "title": "청, 조희대 재제청 거부에 “헌법 위배…대통령 임명권 무력화”",
-   "summary": "청와대가 22일 조희대 대법원장이 대법관 후보 재제청 요청에 응하지 않겠다는 데 대해 “깊은 유감을 표한다”고 말했다. 청와대 관계자는 이날 “대법원장의 입장 발표는…",
-   "summary_long": "청와대가 22일 조희대 대법원장이 대법관 후보 재제청 요청에 응하지 않겠다는 데 대해 “깊은 유감을 표한다”고 말했다. 청와대 관계자는 이날 “대법원장의 입장 발표는 대법원장의 제청권이 대통령의 임명권보다 우위에 있다는 것으로 대한민국 헌법에 위배되는 인식”이라며 “대법원장이 대법관 후보자를 제청하면 대통령이 그대로 임명하여야 한다는 것은 국민에 의해 선출된 대통령의 임명권을 무력화하는 것”이라고 말했다. 이 관계자는 이어 “대법원장은 대법관 공백 장기화가 국민들의 피해로 돌아간다는 사실을 직시하고, 더 이상 현 상황을 방치하지 말아야 할 것”이라고 덧붙였다.\n\n대법관 제청을 둘러싼 청와대와 대법원의 갈등은 지난 1월21일 후보추천위원회가 노태악 전 대법관 후임으로 김민기·박순영 서울고법 고법 판사, 윤성식 서울고법 부장판사, 손봉기 대구지법 부장판사 등 4명을 추천하면서 본격화됐다. 대법관 공백이 200일 넘게 이어지자 조희대 대법원장은 지난달 18일 청와대와 협의되지 않은 손봉기 대구지법 부장판사를 독자적으로 제청했다. 청와대가 기존 후보 가운데 손 부장판사를 제외한 후보의 재제청을 요구했지만, 조 대법원장은 이를 받아들이지 않았다.",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/06.png",
+   "pngBytes": 1892326,
+   "title": "청, 조희대에 재반박 “임명 거부 명확히 밝혀…이게 재제청 사유”",
+   "summary": "청와대가 23일 조희대 대법원장이 ‘명확한 사유가 없다’며 대법관 재제청 요구를 거부한 데 대해 “건전한 상식을 가진 평범한 시민의 관점에서 공문 내용을 이해하고…",
+   "summary_long": "청와대가 23일 조희대 대법원장이 ‘명확한 사유가 없다’며 대법관 재제청 요구를 거부한 데 대해 “건전한 상식을 가진 평범한 시민의 관점에서 공문 내용을 이해하고 국민들의 재판받을 권리가 침해되지 않도록 조속히 후속절차를 취해달라”고 말했다. 청와대는 이날 세번째 입장문을 내어 “대법원장이 대통령의 대법관 임명권에 대해, 특정 후보자를 제청하면 그대로 따라야 하는 형식적 권한으로 인식하고 있다면, 대통령의 임명 거부 및 재제청 요청을 있는 그대로 받아들이기 어려울 것”이라며 이렇게 전했다. 이날 오전 조 대법원장은 언론 공지를 통해 “재제청 요청 공문에는 재제청 요청의 사유가 무엇인지 명확하게 기재되어 있지 않다.\n\n공문의 문언상 명확한 근거와 사유가 제시되어야 그 효력에 다툼이 없고 헌법과 법률에 따른 절차를 진행할 수 있을 것”이라고 재제청 요청 거부 사유를 설명했다. 이에 청와대는 “국회에 임명동의안을 제출하지 않겠다는 것은 임명에 필요한 절차를 진행하지 않음으로써 임명할 의사가 없다는 거부 입장을 명확히 밝힌 것”이라며 “이것이 후속절차로서 재제청을 요청한 사유”라고 반박했다. 손봉기 대구지법 부장판사를 노태악 전 대법관 후임 후보자로 서면제청한 과정에 절차적 흠결이 없다는 조 대법원장의 주장에 대해서는 “법원조직법에 따라 대법관후보추천위원회로부터 4명의 후보자를 적법하게 추천받았음에도 법령상 근거 없이 후보자 추천 절차를 다시 진행하기 위해 후보자들에게 개별적으로 연락하여…",
    "press": "한겨레",
    "source": "한겨레",
-   "link": "https://n.news.naver.com/article/028/0002824235",
+   "link": "https://n.news.naver.com/article/028/0002824435",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 청, 조희대 재제청 거부에 “헌법 위배…대통령 임명권 무력화”\n\n청와대가 22일 조희대 대법원장이 대법관 후보 재제청 요청에 응하지 않겠다는 데 대해 “깊은 유감을 표한다”고 말했다. 청와대 관계자는 이날 “대법원장의 입장 발표는 대법원장의 제청권이 대통령의 임명권보다 우위에 있다는 것으로 대한민국 헌법에 위배되는 인식”이라며 “대법원장이 대법관 후보자를 제청하면 대통령이 그대로 임명하여야 한다는 것은 국민에 의해 선출된 대통령의 임명권을 무력화하는 것”이라고 말했다. 이 관계자는 이어 “대법원장은 대법관 공백 장기화가 국민들의 피해로 돌아간다는 사실을 직시하고, 더 이상 현 상황을 방치하지 말아야 할 것”이라고 덧붙였다.\n\n대법관 제청을 둘러싼 청와대와 대법원의 갈등은 지난 1월21일 후보추천위원회가 노태악 전 대법관 후임으로 김민기·박순영 서울고법 고법 판사, 윤성식 서울고법 부장판사, 손봉기 대구지법 부장판사 등 4명을 추천하면서 본격화됐다. 대법관 공백이 200일 넘게 이어지자 조희대 대법원장은 지난달 18일 청와대와 협의되지 않은 손봉기 대구지법 부장판사를 독자적으로 제청했다. 청와대가 기존 후보 가운데 손 부장판사를 제외한 후보의 재제청을 요구했지만, 조 대법원장은 이를 받아들이지 않았다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002824235"
+   "feed": "뉴스 05. 청, 조희대에 재반박 “임명 거부 명확히 밝혀…이게 재제청 사유”\n\n청와대가 23일 조희대 대법원장이 ‘명확한 사유가 없다’며 대법관 재제청 요구를 거부한 데 대해 “건전한 상식을 가진 평범한 시민의 관점에서 공문 내용을 이해하고 국민들의 재판받을 권리가 침해되지 않도록 조속히 후속절차를 취해달라”고 말했다. 청와대는 이날 세번째 입장문을 내어 “대법원장이 대통령의 대법관 임명권에 대해, 특정 후보자를 제청하면 그대로 따라야 하는 형식적 권한으로 인식하고 있다면, 대통령의 임명 거부 및 재제청 요청을 있는 그대로 받아들이기 어려울 것”이라며 이렇게 전했다. 이날 오전 조 대법원장은 언론 공지를 통해 “재제청 요청 공문에는 재제청 요청의 사유가 무엇인지 명확하게 기재되어 있지 않다.\n\n공문의 문언상 명확한 근거와 사유가 제시되어야 그 효력에 다툼이 없고 헌법과 법률에 따른 절차를 진행할 수 있을 것”이라고 재제청 요청 거부 사유를 설명했다. 이에 청와대는 “국회에 임명동의안을 제출하지 않겠다는 것은 임명에 필요한 절차를 진행하지 않음으로써 임명할 의사가 없다는 거부 입장을 명확히 밝힌 것”이라며 “이것이 후속절차로서 재제청을 요청한 사유”라고 반박했다. 손봉기 대구지법 부장판사를 노태악 전 대법관 후임 후보자로 서면제청한 과정에 절차적 흠결이 없다는 조 대법원장의 주장에 대해서는 “법원조직법에 따라 대법관후보추천위원회로부터 4명의 후보자를 적법하게 추천받았음에도 법령상 근거 없이 후보자 추천 절차를 다시 진행하기 위해 후보자들에게 개별적으로 연락하여…\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002824435"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/07.png",
-   "pngBytes": 1602548,
-   "title": "[속보]청와대, ‘재제청 거부’ 조희대에 “헌법 위배·대통령 임명권 무력화···깊은 유감”",
-   "summary": "청와대는 22일 조희대 대법원장이 청와대의 대법관 후보 재제청 요청을 거부하자 “대한민국 헌법에 위배되는 인식이자 국민에 의해 선출된 대통령의 임명권을 무력화하는…",
-   "summary_long": "청와대는 22일 조희대 대법원장이 청와대의 대법관 후보 재제청 요청을 거부하자 “대한민국 헌법에 위배되는 인식이자 국민에 의해 선출된 대통령의 임명권을 무력화하는 것”이라며 유감을 표명했다. 청와대는 관계자는 이날 ‘대법원장의 재제청 거부 입장에 대하여’라는 제목의 입장문을 통해 “대통령의 제청 반려에도 불구하고 노태악 전 대법관 후임 대법관 후보자를 재제청하지 않겠다는 대법원장의 입장 발표에 대해 깊은 유감을 표한다”고 밝혔다. 이 관계자는 “대법원장의 입장 발표는 대법원장의 제청권이 대통령의 임명권보다 우위에 있다는 것으로, 대한민국 헌법에 위배되는 인식”이라며 “대법원장이 대법관 후보자를 제청하면 대통령이 그대로 임명하여야 한다는 것은 국민에 의해 선출된 대통령의 임명권을 무력화하는 것”이라고 밝혔다.\n\n청와대는 “대법원장은 대법관 공백 장기화가 국민들의 피해로 돌아간다는 사실을 직시하고 더 이상 현 상황을 방치하지 말아야 할 것”이라고 했다. 조희대 대법원장은 이날 청와대의 대법관 후보 재제청 요청에 대해 “달리 재체청 요청을 정당화할 구체적인 헌법적 근거와 사유를 찾을 수 없다”며 “재제청 요청에 응할 수 없음을 밝힌다”고 말했다. 조 대법원장의 입장은 지난달 28일 청와대가 조 대법원장의 손봉기 후보자 서면 제청을 사실상 반려하고 재제청을 요청한 지 25일 만에 나왔다.",
-   "press": "경향신문",
-   "source": "경향신문",
-   "link": "https://n.news.naver.com/article/032/0003471978",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/07.png",
+   "pngBytes": 1978783,
+   "title": "유시민 겨냥한 전용기 \"대통령이 검찰개혁 속였다? 강한 유감\"",
+   "summary": "전용기 더불어민주당 최고위원이 유시민 작가의 '대통령이 지금까지 국민을 속인 것'이란 발언에 23일 \"강한 유감\"을 표명했다. 그는 이날 최고위원회의에서 \"최근 일각에서…",
+   "summary_long": "전용기 더불어민주당 최고위원이 유시민 작가의 '대통령이 지금까지 국민을 속인 것'이란 발언에 23일 \"강한 유감\"을 표명했다. 그는 이날 최고위원회의에서 \"최근 일각에서 대통령이 검찰개혁을 두고 국민을 속였다고까지 표현했다\"라면서 유 작가 발언에 대한 의견을 밝혔다. 전 최고위원은 \"오랜 시간 진보 진영에서 개혁을 위해 노력한 절박함을 가볍게 여기지 않겠다\"라면서 \"그러나 속였다는 말은 동의하기가 어렵다\"라고 했다.\n\n이어 \"개혁의 진심은 말의 세기가 아니라 제도가 낳은 결과로 판단받아야 한다\"라며 \"그때도 결과가 부족하다면 저희를 더 엄하게 꾸짖어달라\"라고 말했다. 특히 \"우리 사이에 말이 거칠어질수록 웃는 쪽은 개혁을 멈추고 싶은 국민의힘뿐\"이라며 \"이를 두고 '국민을 속였다, 거짓말했다'라고 하는 취지의 조중동식 비판은 결코 바람직하지 않을 것\"이라고 지적했다. 이 대통령 국정 지지율 하락을 두고는 \"말 한마디로 빚어진 문제가 아니고 많은 사람들의 오랜 기간에 걸친 행위의 결과\"라며 \"기자회견에서 단합해야 한다는 말로 정리될 수 있는 단계는 이미 오래전에 지나갔다\"라고 지적했다.",
+   "press": "오마이뉴스",
+   "source": "오마이뉴스",
+   "link": "https://n.news.naver.com/article/047/0002530087",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. [속보]청와대, ‘재제청 거부’ 조희대에 “헌법 위배·대통령 임명권 무력화···깊은 유감”\n\n청와대는 22일 조희대 대법원장이 청와대의 대법관 후보 재제청 요청을 거부하자 “대한민국 헌법에 위배되는 인식이자 국민에 의해 선출된 대통령의 임명권을 무력화하는 것”이라며 유감을 표명했다. 청와대는 관계자는 이날 ‘대법원장의 재제청 거부 입장에 대하여’라는 제목의 입장문을 통해 “대통령의 제청 반려에도 불구하고 노태악 전 대법관 후임 대법관 후보자를 재제청하지 않겠다는 대법원장의 입장 발표에 대해 깊은 유감을 표한다”고 밝혔다. 이 관계자는 “대법원장의 입장 발표는 대법원장의 제청권이 대통령의 임명권보다 우위에 있다는 것으로, 대한민국 헌법에 위배되는 인식”이라며 “대법원장이 대법관 후보자를 제청하면 대통령이 그대로 임명하여야 한다는 것은 국민에 의해 선출된 대통령의 임명권을 무력화하는 것”이라고 밝혔다.\n\n청와대는 “대법원장은 대법관 공백 장기화가 국민들의 피해로 돌아간다는 사실을 직시하고 더 이상 현 상황을 방치하지 말아야 할 것”이라고 했다. 조희대 대법원장은 이날 청와대의 대법관 후보 재제청 요청에 대해 “달리 재체청 요청을 정당화할 구체적인 헌법적 근거와 사유를 찾을 수 없다”며 “재제청 요청에 응할 수 없음을 밝힌다”고 말했다. 조 대법원장의 입장은 지난달 28일 청와대가 조 대법원장의 손봉기 후보자 서면 제청을 사실상 반려하고 재제청을 요청한 지 25일 만에 나왔다.\n\n출처: 경향신문 / https://n.news.naver.com/article/032/0003471978"
+   "feed": "뉴스 06. 유시민 겨냥한 전용기 \"대통령이 검찰개혁 속였다? 강한 유감\"\n\n전용기 더불어민주당 최고위원이 유시민 작가의 '대통령이 지금까지 국민을 속인 것'이란 발언에 23일 \"강한 유감\"을 표명했다. 그는 이날 최고위원회의에서 \"최근 일각에서 대통령이 검찰개혁을 두고 국민을 속였다고까지 표현했다\"라면서 유 작가 발언에 대한 의견을 밝혔다. 전 최고위원은 \"오랜 시간 진보 진영에서 개혁을 위해 노력한 절박함을 가볍게 여기지 않겠다\"라면서 \"그러나 속였다는 말은 동의하기가 어렵다\"라고 했다.\n\n이어 \"개혁의 진심은 말의 세기가 아니라 제도가 낳은 결과로 판단받아야 한다\"라며 \"그때도 결과가 부족하다면 저희를 더 엄하게 꾸짖어달라\"라고 말했다. 특히 \"우리 사이에 말이 거칠어질수록 웃는 쪽은 개혁을 멈추고 싶은 국민의힘뿐\"이라며 \"이를 두고 '국민을 속였다, 거짓말했다'라고 하는 취지의 조중동식 비판은 결코 바람직하지 않을 것\"이라고 지적했다. 이 대통령 국정 지지율 하락을 두고는 \"말 한마디로 빚어진 문제가 아니고 많은 사람들의 오랜 기간에 걸친 행위의 결과\"라며 \"기자회견에서 단합해야 한다는 말로 정리될 수 있는 단계는 이미 오래전에 지나갔다\"라고 지적했다.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002530087"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/08.png",
-   "pngBytes": 1829084,
-   "title": "한동훈, 대법관 재제청 갈등에 \"李, 차라리 계엄해서 왕 되시라\"",
-   "summary": "한동훈 무소속 의원이 22일 조희대 대법원장의 대법관 후보 재제청 거부를 둘러싼 청와대와 대법원의 갈등에 대해 \"이재명 대통령, 네로 황제 흉내내냐\"고 따져 물었다.…",
-   "summary_long": "한동훈 무소속 의원이 22일 조희대 대법원장의 대법관 후보 재제청 거부를 둘러싼 청와대와 대법원의 갈등에 대해 \"이재명 대통령, 네로 황제 흉내내냐\"고 따져 물었다. 한 의원은 이날 자신의 페이스북을 통해 \"차라리 계엄해서 왕이 되시라\"라며 이같이 밝혔다. 그는 \"'대통령 마음대로 하지 말라고' 대법원장 제청권을 헌법에 보장한 것인데, 이 대통령은 '자기 마음에 들 때까지 재제청하라고 대법원장에게 명령할 수 있다'고 우기는 것\"이라고 꼬집었다.\n\n앞서 조 대법원장은 지난달 18일 노태악 전 대법관의 후임으로 손봉기 대구지법 부장판사를 이 대통령에게 서면으로 임명 제청했다. 청와대는 지난달 28일 손 후보자에 대한 임명동의안을 국회에 제출하지 않기로 하고 조 대법원장에게 다른 후보자를 재제청해 달라고 요청했다. 직후 청와대는 조 대법원장의 입장에 대해 \"헌법에 위배되는 인식\"이라며 \"대법원장의 제청권이 대통령의 임명권보다 우위에 있다는 인식은 대통령의 임명권을 무력화하는 것\"이라고 주장했다.",
-   "press": "대전일보",
-   "source": "대전일보",
-   "link": "https://n.news.naver.com/article/656/0000187556",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/08.png",
+   "pngBytes": 1707786,
+   "title": "한동훈, 차기 대선주자 적합도 첫 1위…김민석은 2위 [조원씨앤아이]",
+   "summary": "차기 대통령 후보 적합도 조사에서 한동훈 무소속 의원이 김민석 더불어민주당 대표를 제치고 처음으로 선두에 올랐다는 여론조사 결과가 23일 나왔다. 여론조사기관…",
+   "summary_long": "차기 대통령 후보 적합도 조사에서 한동훈 무소속 의원이 김민석 더불어민주당 대표를 제치고 처음으로 선두에 올랐다는 여론조사 결과가 23일 나왔다. 여론조사기관 조원씨앤아이가 스트레이트뉴스 의뢰로 지난 19~21일 전국 만 18세 이상 남녀 2007명을 대상으로 실시해 이날 발표한 차기 대통령 후보 적합도 조사에 따르면 한 의원은 18.1%로 가장 높은 응답을 얻었다. 김 대표는 14.8%를 얻었고, 이어 오세훈 서울시장 12.6%, 장동혁 국민의힘 대표 11.9%, 조국 조국혁신당 혁신정책연구원장 8.6%, 정청래 민주당 의원 6.7% 등의 순이었다.\n\n송영길 민주당 의원은 5.5%, 김부겸 전 국무총리는 3.7%, 이준석 개혁신당 의원은 2.5%로 집계됐다. 직전 조사에서는 김 대표가 16.0%로 선두였고, 한 의원이 15.4%였다. 이번 조사에서 한 의원이 2.7%포인트 오르며 조원씨앤아이 차기 후보 적합도 조사에서 처음 1위를 기록했다.",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005739504",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 한동훈, 대법관 재제청 갈등에 \"李, 차라리 계엄해서 왕 되시라\"\n\n한동훈 무소속 의원이 22일 조희대 대법원장의 대법관 후보 재제청 거부를 둘러싼 청와대와 대법원의 갈등에 대해 \"이재명 대통령, 네로 황제 흉내내냐\"고 따져 물었다. 한 의원은 이날 자신의 페이스북을 통해 \"차라리 계엄해서 왕이 되시라\"라며 이같이 밝혔다. 그는 \"'대통령 마음대로 하지 말라고' 대법원장 제청권을 헌법에 보장한 것인데, 이 대통령은 '자기 마음에 들 때까지 재제청하라고 대법원장에게 명령할 수 있다'고 우기는 것\"이라고 꼬집었다.\n\n앞서 조 대법원장은 지난달 18일 노태악 전 대법관의 후임으로 손봉기 대구지법 부장판사를 이 대통령에게 서면으로 임명 제청했다. 청와대는 지난달 28일 손 후보자에 대한 임명동의안을 국회에 제출하지 않기로 하고 조 대법원장에게 다른 후보자를 재제청해 달라고 요청했다. 직후 청와대는 조 대법원장의 입장에 대해 \"헌법에 위배되는 인식\"이라며 \"대법원장의 제청권이 대통령의 임명권보다 우위에 있다는 인식은 대통령의 임명권을 무력화하는 것\"이라고 주장했다.\n\n출처: 대전일보 / https://n.news.naver.com/article/656/0000187556"
+   "feed": "뉴스 07. 한동훈, 차기 대선주자 적합도 첫 1위…김민석은 2위 [조원씨앤아이]\n\n차기 대통령 후보 적합도 조사에서 한동훈 무소속 의원이 김민석 더불어민주당 대표를 제치고 처음으로 선두에 올랐다는 여론조사 결과가 23일 나왔다. 여론조사기관 조원씨앤아이가 스트레이트뉴스 의뢰로 지난 19~21일 전국 만 18세 이상 남녀 2007명을 대상으로 실시해 이날 발표한 차기 대통령 후보 적합도 조사에 따르면 한 의원은 18.1%로 가장 높은 응답을 얻었다. 김 대표는 14.8%를 얻었고, 이어 오세훈 서울시장 12.6%, 장동혁 국민의힘 대표 11.9%, 조국 조국혁신당 혁신정책연구원장 8.6%, 정청래 민주당 의원 6.7% 등의 순이었다.\n\n송영길 민주당 의원은 5.5%, 김부겸 전 국무총리는 3.7%, 이준석 개혁신당 의원은 2.5%로 집계됐다. 직전 조사에서는 김 대표가 16.0%로 선두였고, 한 의원이 15.4%였다. 이번 조사에서 한 의원이 2.7%포인트 오르며 조원씨앤아이 차기 후보 적합도 조사에서 처음 1위를 기록했다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005739504"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-23/09.png",
-   "pngBytes": 1346566
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-24/09.png",
+   "pngBytes": 1346119
   }
  ],
- "caption": "📰 9월 23일 오늘의 뉴스\n\n1. 여의도에 돌던 김승원 성추행 의혹… 靑도 與도 몰랐나\n   청와대와 여당은 김 의원의 추가 의혹이 담긴 탄원서의 존재를 알았는지 명확하게 답하지 않고 있다. 하지만 강유정 청와대 수석대변인은 이날 라디오에서 ‘청와대에서 김…\n2. 육군 25사단에서 장교 숨진 채 발견‥'DMZ 폭발'과는 관련 없는 듯\n   비무장지대 수색 작전 도중 지뢰로 추정되는 폭발 사고로 간부 3명이 다친 육군 25사단에서, 소속 장교가 숨진 채 발견돼 군과 경찰이 수사에 나섰습니다. MBC 취재…\n3. “월 3백만 원 줘도 싫대요”…중국인 채용 나선 택시업계 [잇슈 키워드]\n   월급 3백만 원 이상 조건에도 사람을 구하지 못하자 한국어가 어느 정도 가능한 중국 동포 기사 채용에 나선 겁니다. 실제로 지난 10년간 전국 법인 택시 기사는 30%…\n4. 은행 너도나도 '슈퍼앱' 내놓더니, 체류시간 3년째 고작 ‘18분’\n   업권 칸막이 규제 '원앱' 한계…실효성도 '글쎄'은행들이 카드, 증권, 은행 업무를 하나의 앱에서 볼 수 있도록 하겠다며 내놓은 슈퍼앱이 기대 이하의 성적을 거두고…\n5. 청, 조희대 재제청 거부에 “헌법 위배…대통령 임명권 무력화”\n   청와대가 22일 조희대 대법원장이 대법관 후보 재제청 요청에 응하지 않겠다는 데 대해 “깊은 유감을 표한다”고 말했다. 청와대 관계자는 이날 “대법원장의 입장 발표는…\n6. [속보]청와대, ‘재제청 거부’ 조희대에 “헌법 위배·대통령 임명권 무력화···깊은 유감”\n   청와대는 22일 조희대 대법원장이 청와대의 대법관 후보 재제청 요청을 거부하자 “대한민국 헌법에 위배되는 인식이자 국민에 의해 선출된 대통령의 임명권을 무력화하는…\n7. 한동훈, 대법관 재제청 갈등에 \"李, 차라리 계엄해서 왕 되시라\"\n   한동훈 무소속 의원이 22일 조희대 대법원장의 대법관 후보 재제청 거부를 둘러싼 청와대와 대법원의 갈등에 대해 \"이재명 대통령, 네로 황제 흉내내냐\"고 따져 물었다.…\n\n🗣 “대법원장이 대법관 후보자를 제청하면 대통령이 그대로 임명하여야 한다는 것은 국민에 의해 선출된 대통령의 임명권을 무력화하는 것”\n이 발언을 그대로 실은 보도 10건 · 경향신문 · 법률신문 · 다음뉴스 · 한겨레\n· 경향신문 — [속보]청와대, ‘재제청 거부’ 조희대에 “헌법 위배·대통령 임명권 무력화···깊은 유감”\n· 법률신문 — ‘대법관 재제청’ 大法·靑 정면 충돌\n· 다음뉴스 — 청와대, 조희대 재제청 거부에 “깊은 유감…헌법에 위배되는 인식”\n· 한겨레 — 청, 조희대 재제청 거부에 “헌법 위배…대통령 임명권 무력화”\n· 스트레이트뉴스 — 조희대 헌법 근거 내세워 끝내 재제청 거부…靑·사법부 극한충돌\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: KBS, MBC, 경향신문, 대전일보, 비즈워치, 조선일보, 한겨레"
+ "caption": "📰 9월 24일 오늘의 뉴스\n\n1. 尹 “이 XX야, 네가 책임져!”…9시간 술친구 장제원에 온 전화\n   그 독대 자리에서 김기현이 윤석열에게 차기 당대표 출마 의사를 피력하면서 지지를 구했다고 해. 제20대 대선을 석달 앞둔 2021년 12월 3일 국민의힘 이준석 대표와…\n2. 유시민 “대통령이 국민 속였다” 발언에 與 지도부 “동의할 수 없어… 강한 유감”\n   유시민씨가 이재명 대통령이 이른바 ‘검찰 개혁’과 관련해 “지금까지 국민을 속인 것”이라고 비판하는 등 이 대통령에 대한 공세를 이어가자 더불어민주당 의원들이 23일…\n3. 755억 주고 '날벼락'…\"JYP 신사옥 돌려내\" 폭발\n   JYP엔터테인먼트가 서울 강동구에 새 본사를 짓기로 한 가운데, 신사옥 바로 앞에 공원으로 예정됐던 땅이 업무·판매시설 등을 지을 수 있는 부지로 바뀌면서 주민들이…\n4. \"명절 시댁서 차별\" 화냈더니, 고속도 휴게소에 아내 두고 간 남편…이혼\n   명절마다 시댁 식구들에게 차별적인 대우를 받았다는 아내가 남편에게 서운함을 토로했다가 휴게소에 홀로 남겨진 사연이 전해졌다. 반면 남편이 아내를 휴게소에 두고 떠난…\n5. 청, 조희대에 재반박 “임명 거부 명확히 밝혀…이게 재제청 사유”\n   청와대가 23일 조희대 대법원장이 ‘명확한 사유가 없다’며 대법관 재제청 요구를 거부한 데 대해 “건전한 상식을 가진 평범한 시민의 관점에서 공문 내용을 이해하고…\n6. 유시민 겨냥한 전용기 \"대통령이 검찰개혁 속였다? 강한 유감\"\n   전용기 더불어민주당 최고위원이 유시민 작가의 '대통령이 지금까지 국민을 속인 것'이란 발언에 23일 \"강한 유감\"을 표명했다. 그는 이날 최고위원회의에서 \"최근 일각에서…\n7. 한동훈, 차기 대선주자 적합도 첫 1위…김민석은 2위 [조원씨앤아이]\n   차기 대통령 후보 적합도 조사에서 한동훈 무소속 의원이 김민석 더불어민주당 대표를 제치고 처음으로 선두에 올랐다는 여론조사 결과가 23일 나왔다. 여론조사기관…\n\n🗣 “법원조직법에 따라 대법관후보추천위원회로부터 4명의 후보자를 적법하게 추천받았음에도 법령상 근거 없이 후보자 추천 절차를 다시 진행하기 위해 후보자들에게 개별적으로 연락하여 사퇴 의사를 물은 것은 중대한 절차적 흠결”\n이 발언을 그대로 실은 보도 10건 · 법률신문 · 주간경향 · 연합뉴스 · JTBC\n· 법률신문 — 靑, 조희대 대법원장에 재반박 “조속히 후속 절차 취해야”\n· 주간경향 — 청와대 “조희대, 재제청 사유없다 호도···누가 봐도 대통령 거부 입장 명확해”\n· 연합뉴스 — 靑 \"손봉기 임명거부 뜻 공문에 명확한데도 대법원장이 호도\"\n· JTBC — 청와대 \"조희대, 재제청 사유 명확치 않다고 호도…후속절차 취해야\"\n· 채널A — 청와대, 조희대에 또 반박 “적법 추천 후보자 배제하려는 시도야말로 공정성 훼손”\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실 #검찰\n\n출처: SBS, 뉴스1, 매일경제, 오마이뉴스, 조선일보, 중앙일보, 한겨레"
 }
