@@ -1,317 +1,350 @@
 {
- "date": "2026-09-25",
- "generated_at": "2026-09-25T10:03:41+09:00",
+ "date": "2026-09-26",
+ "generated_at": "2026-09-26T10:05:05+09:00",
  "mode": "daily",
- "window_start": "2026-09-24T00:00:00+09:00",
- "window_end": "2026-09-24T23:59:59+09:00",
+ "window_start": "2026-09-25T00:00:00+09:00",
+ "window_end": "2026-09-25T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "이 대통령, 김 여사 생가터 복원논란에 \"있지도 않은 일, 명예훼손 범죄\"",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001525652",
-   "published_at": "2026-09-24T00:50:12+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "selection": "정치",
-   "summary": "이재명 대통령이 일각에서 제기하는 김혜경 여사의 생가터 복원 논란과 관련해 \"하지도 않은 말, 있지도 않은 일을 사실처럼 전제하고 공격하는 건 지양해야 한다\"고…",
-   "summary_long": "이재명 대통령이 일각에서 제기하는 김혜경 여사의 생가터 복원 논란과 관련해 \"하지도 않은 말, 있지도 않은 일을 사실처럼 전제하고 공격하는 건 지양해야 한다\"고 비판했습니다. 이 대통령은 23일 자신의 SNS에 '김 여사 생가 복원 추진위원회 발족'이란 문구가 담긴 이미지를 업로드한 계정을 리트윗해 \"비판은 자유이나 없어진 사실을 지금 현재 일인 것처럼 만드는 것은 표현의 자유가 아니라 타인의 명예를 훼손하는 범죄\"라고 적었습니다. 이 대통령은 \"제 아내 생가터 복원 이야기는 지난해 7월 3일 벌어진 해프닝\"이라며 \"제 처가는 충북 충주였지만 아내의 생가는 서울 소재 산부인과\"라고 설명했습니다.\n\n이어 \"어처구니없는 생가 복원 운운에 대해 작년 7월 논란이 되자마자 관련자들을 찾아 엄중 경고해서 이 사안은 이미 소멸한 얘기\"라며 \"답글에 소개된 사진상으로도 과거 일임이 명백하다. 이 글 쓰신 분도 모르고 쓴 건 아니라고 보인다\"고 덧붙였습니다.",
-   "quotes": [
-    "어처구니없는 생가 복원 운운에 대해 작년 7월 논란이 되자마자 관련자들을 찾아 엄중 경고해서 이 사안은 이미 소멸한 얘기",
-    "비판은 자유이나 없어진 사실을 지금 현재 일인 것처럼 만드는 것은 표현의 자유가 아니라 타인의 명예를 훼손하는 범죄",
-    "답글에 소개된 사진상으로도 과거 일임이 명백하다. 이 글 쓰신 분도 모르고 쓴 건 아니라고 보인다"
-   ],
-   "press": "MBC",
-   "photo": "01.jpg",
-   "quoted": {
-    "quote": "비판은 자유이나 없어진 사실을 지금 현재 일인 것처럼 만드는 것은 표현의 자유가 아니라 타인의 명예를 훼손하는 범죄",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "MBC 뉴스",
-      "title": "이 대통령, 김 여사 생가터 복원논란에 \"있지도 않은 일, 명예훼손 범죄\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tQ2RiWG1YWk5EV3ZsejRkdlFfb2NETTNFNUV4djM0SlF4bkJrUWxlZ1NwYlJmNnlNMHdfa1J3X19hdndKaktfdWRHVGpMVHFfd2trTFVHbUlta245TktUbEU4ZHY3YWdqZFZ3c3EtdmstUHN2dy05TdIBeEFVX3lxTE5PYWhxSnBwa2dYNUZ1TGpqQjdKQWR4dTJOalNKU2FDSXZrMWpIWXpONzkzeWVHc1gtQ3J4WXlSUGI2Q0w1TnM1NDF4Wm9LeWU3RWJOdHl0SzY4M0ZPY1ZZMGhwb2V5ckV4dnV0OVJNY3NYc3FQdnV6OQ?oc=5"
-     },
-     {
-      "press": "뉴스1",
-      "title": "李대통령, 金여사 생가터 복원 논란 소환에 \"있지도 않은 일, 명예훼손 범죄\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tRWRQQnBZSXFBZkJoMVlVb3p3d2JqOExYYkdoRTBIdmZGcDE2TEEwWm9YQm5wVDlpQURkN3F0U0czazNYclhBQjdMbU5Ta2w4RV82T0hNNHhWUTjSAWBBVV95cUxNdTc2MXhoTk1FV1dXVDJJMndHWDJoaEpEaTNQY1N2ZEFEa192aHROYUJEV0FRRnpoWXJzSVpTZ244RGNRR3Z5VnVReTdOcU5GVzh0MFRFNVdoODVLdEpZdmY?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "이 대통령, ‘김 여사 생가 복원 추진’ 게시물에 “명예훼손 범죄, 이미 소멸된 이야기”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VSFdnYmdkRUJEcG1ESmNvTjVQRzhmRHB3eE8xTU1CN1Q3b3FhNjV5WWRLVXRVdno2VDNUTVc3SlBUdVZpR0ZlUFdjX2tuR3c?oc=5"
-     },
-     {
-      "press": "JTBC",
-      "title": "김혜경 여사 생가복원?…이 대통령 \"소멸된 얘기, 명예훼손\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nWm80VmlCVHpnUWFXeVNOcE1uMmRSUVlRam05eFEtREtRblh2V3U0a2pjbHNKNXBBMUZQTUpPM2FmeV9tRTZrMjBqX2FCX0RCRFpJeg?oc=5"
-     },
-     {
-      "press": "MBC 뉴스",
-      "title": "이 대통령, 김 여사 생가터 복원 논란 소환에 \"있지도 않은 일, 명예훼손 범죄\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PYWhxSnBwa2dYNUZ1TGpqQjdKQWR4dTJOalNKU2FDSXZrMWpIWXpONzkzeWVHc1gtQ3J4WXlSUGI2Q0w1TnM1NDF4Wm9LeWU3RWJOdHl0SzY4M0ZPY1ZZMGhwb2V5ckV4dnV0OVJNY3NYc3FQdnV6OdIBeEFVX3lxTE5PYWhxSnBwa2dYNUZ1TGpqQjdKQWR4dTJOalNKU2FDSXZrMWpIWXpONzkzeWVHc1gtQ3J4WXlSUGI2Q0w1TnM1NDF4Wm9LeWU3RWJOdHl0SzY4M0ZPY1ZZMGhwb2V5ckV4dnV0OVJNY3NYc3FQdnV6OQ?oc=5"
-     },
-     {
-      "press": "조선일보",
-      "title": "李대통령, ‘김 여사 생가 복원’ 주장에 “어처구니없어...명예훼손 범죄”",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZlJnNnRTQ3lnZGVuRHFSR1VqMkVsc2VxQXhZNDB0c2lWXzE0Tk5wa0tnSGQybDN5SWREUEN4elFrWDc0V08tRmFhUFRKWERWaW5sTllRUHFiMkJKR3g4MmV4Zm9YNnlEazdnamlfWHJSNVpsZ2lmM1V2bkxWNEVPcG00R2EyNlJ3WVk4Rkt5WHo?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "[단독] 지뢰에 발목 잃은 중령, 수술 뒤 첫마디 “부대원 괜찮나”",
-   "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003553630",
-   "published_at": "2026-09-24T05:00:00+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "selection": "정치",
-   "summary": "지난 21일 경기 파주 비무장지대 지뢰 폭발 사고로 발목을 잃은 육군 25사단 수색대대장 A중령이 마취에서 깨어난 뒤 이렇게 물었다. 23일 국방부와 군 관계자들에…",
-   "summary_long": "지난 21일 경기 파주 비무장지대(DMZ) 지뢰 폭발 사고로 발목을 잃은 육군 25사단 수색대대장 A중령이 마취에서 깨어난 뒤 이렇게 물었다. 중상을 입었고, 마취가 풀린 극심한 고통 속에서도 다른 부대원들의 안위부터 물었다고 한다. 23일 국방부와 군 관계자들에 따르면 A중령과 장병 10여명은 사고 당시 북한군의 국경선 요새화 작업을 확인하기 위한 현장조사를 준비하며 수색로를 개척하고 있었다.\n\n작전을 마무리하고 복귀하던 중 군사분계선(MDL)을 50여m 남겨둔 지점에서 첫 번째 폭발이 일어났고, 가장 선두에 있던 공병인 B중사가 크게 다쳤다. 사고 원인을 둘러싸고 군 내부에서는 북한군이 사용하는 목함지뢰(PMD-57)일 가능성에 무게가 실리는 분위기다. 합동참모본부와 국방부는 지뢰 종류와 매설 주체·시기 등에 대해 “현장조사와 화약 성분 등 정밀분석 전에는 확정할 수 없다”며 신중한 입장이다.",
-   "quotes": [
-    "나머지 병력들도 적에게 노출될 위험을 우려, 두 중상자의 사지를 들어 안전 지역으로 이동하는 등 긴박한 상황에서 전우를 살리기 위해 최선을 다했다",
-    "A중령은 극심한 통증이 있었을 텐데도 고통을 호소하기보다 부대원들을 먼저 걱정했다",
-    "작전 수행 과정에서 전우를 구하기 위해 부상을 입은 여러분이 진정한 영웅"
-   ],
-   "press": "중앙일보",
-   "photo": "02.jpg",
-   "quoted": {
-    "quote": "작전 수행 과정에서 전우를 구하기 위해 부상을 입은 여러분이 진정한 영웅",
-    "n": 2,
-    "verified": 0,
-    "items": [
-     {
-      "press": "다음뉴스",
-      "title": "[단독] 지뢰에 발목 잃은 중령, 수술 뒤 첫마디 “부대원 괜찮나”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RQ1RrRmM3ZHlDdXJXeHk0WUJCNXFhOS1ZRllCSWhHN3A2TkdyZ0t4c2VhLU5nWG9XMXBFZ0d5QVBUVkNHWlF1UkNrZzdWbHc?oc=5"
-     },
-     {
-      "press": "wikitree.co.kr",
-      "title": "'DMZ 지뢰 폭발'로 발목 절단된 육군 25사단 중령, 마취 풀리자 꺼낸 첫마디가…",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yZWwyaG8welBPNWp4QnVSUDNFQlpuVDVqNlQxRnRUejBiaEx6VmtiT2NCSDBuSldwRDIyY3gwbHVlaU50Rzhjc1E1MGhlM1ZIejUxaDl3?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "“엄마, 이번에 1000만원 드릴게”…추석 용돈에도 세금 붙나요",
-   "source": "이데일리",
-   "url": "https://n.news.naver.com/article/018/0006375224",
-   "published_at": "2026-09-24T07:02:18+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "생활비가 아닌 일반 증여로 보더라도 최근 10년간 자녀에게 받은 다른 재산이 없다면 5000만원 공제 한도 안에 들어 납부할 증여세는 없다. 이성호 세무법인 리치…",
-   "summary_long": "생활비·병원비 직접 사용이 핵심. 상속세법 제53조에 따르면 부모가 자녀 등 직계비속에게 받은 재산은 10년간 5000만원까지 세금을 내지 않아도 된다. 부모에게 충분한 소득과 재산이 있는데 자녀가 거액을 정기적으로 보냈다면 단순한 부양 목적의 생활비로 인정받기 어려울 수 있다.\n\n부모가 실제 생활비로 사용하고 부양 필요성이 인정된다면 비과세 생활비가 될 수 있다. 생활비가 아닌 일반 증여로 보더라도 최근 10년간 자녀에게 받은 다른 재산이 없다면 5000만원 공제 한도 안에 들어 납부할 증여세는 없다. 이성호 세무법인 리치 대표세무사는 “결국 부모가 받은 돈이 실제 생활비에 해당하는지가 중요하다”며 “생활비로 사용하면 증여세가 비과세될 수 있지만 재산 축적 용도로 활용하면 비과세되는 증여재산으로 보지 않는다”고 말했다.",
-   "quotes": [
-    "생활비로 사용하면 증여세가 비과세될 수 있지만 재산 축적 용도로 활용하면 비과세되는 증여재산으로 보지 않는다",
-    "결국 부모가 받은 돈이 실제 생활비에 해당하는지가 중요하다"
-   ],
-   "press": "이데일리",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "생활비로 사용하면 증여세가 비과세될 수 있지만 재산 축적 용도로 활용하면 비과세되는 증여재산으로 보지 않는다",
-    "n": 1,
-    "verified": 0,
-    "items": [
-     {
-      "press": "이데일리",
-      "title": "“엄마, 이번에 1000만원 드릴게”…추석 용돈에도 세금 붙나요",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcldUampyWXZ3ZlkyQ09GZGJaeVhVRlNVLUpLM1VzbnZMZEdQR013eTlad0NxVUlENHhiUFdjNEc5dS1haVVUdnJJbVlHRmYwMGdrUDA0Y0N4MkNlaTllYVNaNVNyOFJUZnF2aTU3UjRYYXBJLUl4RTZVdER1R1Fndg?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "\"딸과 성관계 영상 있냐\" 따지러 간 아버지…CCTV 돌려보니 '반전'",
-   "source": "파이낸셜뉴스",
-   "url": "https://n.news.naver.com/article/014/0005580579",
-   "published_at": "2026-09-24T06:30:11+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "딸과 사장 사이 '영상 여부' 따지다 폭행 시비. B씨가 A씨에게 다가간 뒤 수초 동안 A씨를 붙잡아 매장 쪽으로 밀었다가 다시 도로 쪽으로 잡아당겨 미는 모습이 영상에…",
-   "summary_long": "딸과 사장 사이 '영상 여부' 따지다 폭행 시비. B씨는 A씨가 자신이 매장 안으로 들어가려는 것을 가로막고 몸으로 여러 차례 밀었다고 주장했다. 이후 매장 안으로 들어가려는 모습이 찍혔고, 약 15초 동안 A씨와 B씨가 모두 화면에서 사라졌다.\n\nA씨가 출입구를 막은 채 B씨를 여러 차례 밀었다면 두 사람이 연달아 서게 돼 적어도 B씨의 모습 일부는 CCTV에 잡혀야 하는데, 해당 구간에는 두 사람 모두 보이지 않았다. 직원 C씨는 법정에서 A씨가 손으로 B씨를 잡는 모습은 봤다고 했지만, 실제로 밀었는지는 기억나지 않는다고 진술했다. B씨가 A씨에게 다가간 뒤 수초 동안 A씨를 붙잡아 매장 쪽으로 밀었다가 다시 도로 쪽으로 잡아당겨 미는 모습이 영상에 남았다.",
-   "quotes": [
-    "검사가 제출한 증거만으로는 공소사실을 인정하기 어렵다"
-   ],
-   "press": "파이낸셜뉴스",
-   "photo": "04.png",
-   "quoted": {
-    "quote": "검사가 제출한 증거만으로는 공소사실을 인정하기 어렵다",
-    "n": 7,
-    "verified": 0,
-    "items": [
-     {
-      "press": "다음뉴스",
-      "title": "\"딸과 성관계 영상 있냐\" 따지러 간 아버지…CCTV 돌려보니 '반전'",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VZUxHbGdhdUZhWDlDUER6Yl9JZWR0X00wLWlTVmZ0X21pX3pUZ2pycVhQVGNsOWx2TENXR1pXRHBkZWluTnN0WDFfUQ?oc=5"
-     },
-     {
-      "press": "KBS 뉴스",
-      "title": "“이적단체 증거 부족”…국보법위반 50대, 재심서 33년 만에 무죄",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2LXVrRkhjbWMzc3NqdlM5VzNYNUhzTFRDckFtQjBlQXlOVC1aVHdmYWNNekhqUWRlSFpBM2d6UTVkRmZDZjRCbG56aU0wekZNb0owTHJUUmljakE?oc=5"
-     },
-     {
-      "press": "조선일보",
-      "title": "국가보안법 위반 50대 2명… 재심에서 33년 만에 무죄",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTB1eEFKZThtaTN5SHJPZVU3MFNCU2Utbk5Dd2FLbXRJUmNNYnBpS19aR3ZaVmxCbWFJWEFkMnplbXdnOVY3U1RsS0JxWFIyNC1KV00tNHZac1V4TUplVXk5WEpCZlVKVVVwblpaZW43NEdlZDBoTVJ0MWpQZExYei02QTgxOW8?oc=5"
-     },
-     {
-      "press": "기호일보",
-      "title": "‘이적단체 구성’ 유죄 33년 만에 뒤집혔다…재심서 무죄",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRSXNPc2V2UzJMVVdDdXRwdjdrTGtWekU0NHMydTd4bnpLMkFJS2ppXzN1TTEzdjdtT1hOR1lRWi10VkdMUjUxSWltUmNZRFdiajdpLUJZYmp1eWdsNmJiWDYwZTRaMFlvVlBWNmJ2QQ?oc=5"
-     },
-     {
-      "press": "뉴시스",
-      "title": "민간업체에 뇌물 요구한 인천항만공사 전 부사장, 항소심서 감형",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaV1RZbmlwYzkzZlUxYjdTbWNfYmExRkhWQUs1UVZxR2c4dnZFamZmdUpGc29Ic1pOWXB6RDFrcXRtakp4UW9QbzMtMmlvaTZDUHpoZVNFaTRPOVllQU15cWNRTzFvaHBJTG9OelZEcVpzVjZTcGFILdIBeEFVX3lxTFBaV1RZbmlwYzkzZlUxYjdTbWNfYmExRkhWQUs1UVZxR2c4dnZFamZmdUpGc29Ic1pOWXB6RDFrcXRtakp4UW9QbzMtMmlvaTZDUHpoZVNFaTRPOVllQU15cWNRTzFvaHBJTG9OelZEcVpzVjZTcGFILQ?oc=5"
-     },
-     {
-      "press": "아주경제",
-      "title": "​​​​불법 선거운동 정준호 민주당 의원, 1심서 당선무효형 선고",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92Yjc0djY3LUR0U25ZcDhCRXFHVmpaeXBYUlJlTk85Q2dvdzhHNzM4cjFTSW5sZ1lnTUF3UnZ4SHdzbURtZVlJMWdhbHBVLUM1SDVUWVF4Njh1d9IBWEFVX3lxTE1kTlh5MG5SY0d3U2JvVUMtSU12bmJMQi1OR09IZmw3U2FOQ245MHJyZk9kMkc2YW5ycHUxSWtsWGRLczB0TkE2dHY0d1R5Vy1CREhxb0lxa0s?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "연휴에도 뜨거운 조희대…민주 “대통령에 사법권 휘두르는 정치꾼”",
+   "title": "이 대통령, 유시민 직격?…“누군가 국보법 ‘통째 폐지’ 주장해 독소조항 남았다”",
    "source": "한겨레",
-   "url": "https://n.news.naver.com/article/028/0002824575",
-   "published_at": "2026-09-24T11:32:09+09:00",
+   "url": "https://n.news.naver.com/article/028/0002824632",
+   "published_at": "2026-09-25T09:48:11+09:00",
    "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 402,
-   "comment_agree": 225,
-   "comment_disagree": 68,
-   "division_balance": 0.464164,
-   "division_score": 2.638112,
-   "selection": "찬반 쟁점",
-   "summary": "더불어민주당은 조 대법원장의 행동을 두고 “정치꾼 조희대”라고 반발했고, 국민의힘은 “대법관 임명 거부 사태를 만든 장본인은 이재명 대통령”이라며 화살을 이 대통령에게…",
-   "summary_long": "여야는 24일에도 조희대 대법원장의 ‘대법관 후보 재제청 요구 거부’를 두고 맞붙었다. 더불어민주당은 조 대법원장의 행동을 두고 “정치꾼 조희대”라고 반발했고, 국민의힘은 “대법관 임명 거부 사태를 만든 장본인은 이재명 대통령”이라며 화살을 이 대통령에게 돌렸다. 박성준 민주당 수석대변인은 이날 서면 브리핑을 내어 조 대법원장을 향해 “헌법과 국민이 대통령에게 부여한 임명권을 대법원장이 가로막는 초유의 월권 사태가 벌어졌다”며 “입만 열면 ‘사법권 독립’을 앵무새처럼 되뇌고 있는 조 대법원장은 정작 계엄군이 국회로 향하는 순간에 입을 다물었다”고 비판했다.\n\n또 “계엄 앞에서는 사법권을 내려놓고, 국민이 뽑은 대통령 앞에서는 사법권을 휘두르는 대법원장, 정치꾼 조희대의 모습”이라며 “명백한 월권이자 헌법 위반, 그리고 노골적인 자기 정치”라고 비판했다. 국민의힘은 조 대법원장의 재제청 요구 거부를 “청와대의 막무가내식 요구에 사법부 수장이 제동을 건 것”이라고 했다. 최수진 국민의힘 원내대변인은 논평에서 “사상 초유의 ‘대법관 임명 거부’ 사태를 만든 장본인은 이재명 대통령”이라며 “대법원장의 적법한 제청을 걷어차고 입맛에 맞는 인사를 다시 내놓으라는 것은 명백한 사법부 길들이기”라고 강하게 비판했다.",
+   "view_rank": 1,
+   "selection": "정치",
+   "summary": "유시민 작가, 이재명 대통령. 이 대통령은 이날 멕시코의 한 호텔에서 열린 동포 간담회에서 “제가 프랑스 갔을 때 프랑스 혁명 얘기를 한 번 했는데, 혁명적 상황이 되면…",
+   "summary_long": "유시민 작가, 이재명 대통령. 멕시코를 국빈 방문 중인 이재명 대통령이 24일(현지시각) “자기의 선명함을 드러내기 위해 과한 주장을 한다. 그러나 실제로 우리가 원하는 바람직한 상황을 만드는 데는 선명해서 멋있을지는 몰라도 실제로 좋은 결과를 만들기는 쉽지 않다”고 말했다.\n\n이 대통령은 이날 멕시코의 한 호텔에서 열린 동포 간담회에서 “제가 프랑스 갔을 때 프랑스 혁명 얘기를 한 번 했는데, 혁명적 상황이 되면 오버하는 경향이 있다”며 “쭉 달리는 길에서 적당하게 절제를 해야 되는데 상황이 바뀌었다 싶으면 더 빨리 질주하게 된다. 이 대통령은 “여야가 합의를 해서 국가보안법을 통째로 폐지하는 건 무리니까 독소조항 몇 개라도 삭제를 하자고, 거의 합의를 했다”며 “그런데 누군가 갑자기 ‘폐지를 해야지, 반만 폐지하는 게 세상에 어딨냐고 반대하는 바람에 결국 (폐지를) 못 했다”고 말했다. 이 대통령은 “그 법조항이 아직도 살아있어서 최근에 누군가가 (경찰에) 압색을 당했더라”고 말했다.",
    "quotes": [
-    "진짜 사법권이 침해받는 순간에는 입을 닫았던 사람이, 헌법상 대통령의 권한에 도전할 때만 사법권 독립을 방패처럼 내세우고 있다",
-    "자신의 ‘공소 취소’와 사법 리스크 방탄을 위해 사법부를 결재 도장이나 찍어주는 하부 기관으로 전락시키려는 오만한 발상",
-    "입만 열면 ‘사법권 독립’을 앵무새처럼 되뇌고 있는 조 대법원장은 정작 계엄군이 국회로 향하는 순간에 입을 다물었다"
+    "자기의 선명함을 드러내기 위해 과한 주장을 한다. 그러나 실제로 우리가 원하는 바람직한 상황을 만드는 데는 선명해서 멋있을지는 몰라도 실제로 좋은 결과를 만들기는 쉽지 않다",
+    "여야가 합의를 해서 국가보안법을 통째로 폐지하는 건 무리니까 독소조항 몇 개라도 삭제를 하자고, 거의 합의를 했다",
+    "그런데 누군가 갑자기 ‘폐지를 해야지, 반만 폐지하는 게 세상에 어딨냐고 반대하는 바람에 결국 (폐지를) 못 했다"
    ],
    "press": "한겨레",
-   "photo": "05.jpg",
+   "photo": "01.jpg",
    "quoted": {
-    "quote": "진짜 사법권이 침해받는 순간에는 입을 닫았던 사람이, 헌법상 대통령의 권한에 도전할 때만 사법권 독립을 방패처럼 내세우고 있다",
-    "n": 8,
+    "quote": "자기의 선명함을 드러내기 위해 과한 주장을 한다. 그러나 실제로 우리가 원하는 바람직한 상황을 만드는 데는 선명해서 멋있을지는 몰라도 실제로 좋은 결과를 만들기는 쉽지 않다",
+    "n": 3,
     "verified": 0,
     "items": [
      {
       "press": "한겨레",
-      "title": "연휴에도 뜨거운 조희대…민주 “대통령에 사법권 휘두르는 정치꾼”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JbkMwLUtQQ2xfaW5aRXpaMGhmVDdycGFJMGloTnBjLU1zMmp5M3NsaWxYUFlUUktnbUtZQTlUMXdDU1JVOF9xMWlqRm93STY1STZtdk1yX0kyV0Y2dGszNDRYUUFqQnNvNHZwX0x4ekRNdEIx?oc=5"
+      "title": "이 대통령 “선명해서 멋있을지 몰라도… 과한 주장은 좋은 결과 어렵다”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UY1hHQWlrQm1FSE9NZHRYNkdfakIzd2ZTRWp2eWdIREVJdFlvSDZLa2FQWjNHdjdUb29GRnRZNXRsN01uQ1NxREY0NGJ2MV9kVUxFS2NjMVRXZzNHNzU3NHNRX09nSTdJRHF3?oc=5"
      },
      {
-      "press": "뉴스1",
-      "title": "민주 \"조희대, 전형적 정치꾼 모습…법전 뒤 숨어 모사 꾸며\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JLVl2bEhhWGZZbTNzU291RGh4RWFtVUhURWh2WHVjajF4M1BZNHoyX1hVSFp5SVFINXpBRUJraDNOcjVmMXllTG1YV1R5bzRWdV9oN2ZPX0pZUdIBX0FVX3lxTE5yaWdtcFZ2eTBRZHBydDZZaERyS3RYMHFWYm9Od1pVakozZmlCcFRBOUF3VlhLR2ZneHRSZ1B2RlROQUVOelAyVVBKUVFWcm9Cc3l5dm95dmlaOGktRXhv?oc=5"
+      "press": "다음뉴스",
+      "title": "이 대통령, 유시민 직격?…“누군가 국보법 ‘통째 폐지’ 주장해 독소조항 남았다”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ySWpNaHU2TXJfX1hoNjJBdGpSUTNNdG1wWXoyV1FJbDN4RHAzMnZBeHRMcFM3SE5LdmN4UUIzaTZEcGFXeXdRa1hFRVV1dDA?oc=5"
      },
      {
-      "press": "hidomin.com",
-      "title": "민주당 \"조희대, 대법관 재제청 거부는 노골적 자기 정치\"",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DeHl2UVpFNU1lZmZCQ3dWanJydHNmTzV0cVFRM29CdnJmM2NDTWtBRW1MMjJvejEtYi1OampiT1BWdlRQM2tTaWhHVnFhekp3cEdEOS02OVF5anhMMWRBanVOVE1lMmFfVWc?oc=5"
-     },
-     {
-      "press": "뉴시스",
-      "title": "與 \"'재제청 거부' 조희대 노골적 정치 행위…정치세력과 공모하고 있나\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hTDRnbDFmLVQ2cnNrRVNNVWRqWXRNNU1ha1o4NUxZaEpaVnMtTDliQm5jQS1GTEJ1REZ0ZFl4YnN6bndTX1ZRQWthT2VRcjk1VkpEWkd5dHhTamx0SlU4OVptNEU4YmdEU3lkVmJ1Sm1IRVJKcktRT9IBeEFVX3lxTE9hTDRnbDFmLVQ2cnNrRVNNVWRqWXRNNU1ha1o4NUxZaEpaVnMtTDliQm5jQS1GTEJ1REZ0ZFl4YnN6bndTX1ZRQWthT2VRcjk1VkpEWkd5dHhTamx0SlU4OVptNEU4YmdEU3lkVmJ1Sm1IRVJKcktRTw?oc=5"
-     },
-     {
-      "press": "한국일보",
-      "title": "'재제청 거부' 조희대 향해… 與, \"명백한 월권, 노골적 자기 정치\"",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rOThLREhTcTRqbDIyaTVqQV96NndsbVo0VGNMWklkMmpMMkJrdUQyUnhMQkR0Rk52OXRHblBIVTFFeHRXY1pERVBnTUlKdDAzLTMxcTRLUnVpWHR1M0JJQ0h5Rm4zYUFVbTc2YkN30gFzQVVfeXFMTk1Mc1ZCV0xJaG1vVHQtUzMweVA5VGlnRS1jVnlTVFZoaVIzYTUxemFZVEJBdDBxMlNXc1pLbUtfanNxSUt3TFlvdUxsMkVpazRYYUl1M2JuNUFBTlRfVHdNbDFSMmhoWkxNeFRuZTNrZkJDUQ?oc=5"
-     },
-     {
-      "press": "고발뉴스닷컴",
-      "title": "민주당 “대법관 재제청 요청 거부 조희대, 노골적인 자기 정치”",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyQTVpWGMtU3E0NUJORFBGTEsycjN4YUJBd3JqNkpELTVaYnVhZkdUeW04ZFVZT0phWkZBdDF1NzJUWTFybmFMNzh6U0tXSHlhQnJMclNMSU1IdkNCWEJaemZhYnhpVHJhLV9kQg?oc=5"
+      "press": "MSN(재배포)",
+      "title": "이 대통령 “과한 주장은 좋은 결과 어렵다”… 유시민 겨냥한 듯",
+      "link": "https://www.msn.com/ko-kr/news/politics/%EC%9D%B4-%EB%8C%80%ED%86%B5%EB%A0%B9-%EA%B3%BC%ED%95%9C-%EC%A3%BC%EC%9E%A5%EC%9D%80-%EC%A2%8B%EC%9D%80-%EA%B2%B0%EA%B3%BC-%EC%96%B4%EB%A0%B5%EB%8B%A4-%EC%9C%A0%EC%8B%9C%EB%AF%BC-%EA%B2%A8%EB%83%A5%ED%95%9C-%EB%93%AF/ar-AA2cVdgj"
      }
     ]
    }
   },
   {
-   "title": "오조준한 여권, 당신들이 베야 할 용은 대통령이 아니다",
-   "source": "오마이뉴스",
-   "url": "https://n.news.naver.com/article/047/0002530207",
-   "published_at": "2026-09-24T19:26:27+09:00",
+   "title": "'4성 장군 출신' 김병주 \"한동훈, 모르면 제발 입 좀 닥치라\"…DMZ 설전",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000512746",
+   "published_at": "2026-09-25T12:35:56+09:00",
    "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 130,
-   "comment_agree": 179,
-   "comment_disagree": 47,
-   "division_balance": 0.415929,
-   "division_score": 2.256395,
-   "selection": "찬반 쟁점",
-   "summary": "지난 월요일 발표된 리얼미터에서는 대통령 지지율이 1%p 반등했습니다. 유시민 작가의 '대통령이 지금까지 국민을 속였다'라는 비평은 대통령의 본심이 드러났다는 식으로…",
-   "summary_long": "지난 월요일(21일) 발표된 리얼미터에서는 대통령 지지율이 1%p 반등했습니다. 한다면 금요일(25일) 나올 결과를 보면 대통령 기자회견 효과를 알 수 있을 듯합니다. 유시민 작가의 '대통령이 지금까지 국민을 속였다'라는 비평은 대통령의 본심이 드러났다는 식으로 들립니다.\n\n유시민 작가를 비롯한 반뉴이재명 그룹이 대통령을 계속 비판하는 이유는 역시 검찰 개혁의 불철저성이었나 봅니다. 유시민 작가는 대통령을, 조국 원장은 김민석 대표를, 김민석 대표와 송영길 의원은 추미애 경기지사와 조국 원장을, 도대체 하루도 조용할 날이 없습니다. 하물며 대통령은 장동혁, 오세훈, 한동훈에게 용이지, 여러분이 베야 할 용이 아닙니다.",
-   "press": "오마이뉴스",
-   "photo": "06.jpg"
+   "view_rank": 1,
+   "selection": "정치",
+   "summary": "김 의원은 한 의원이 '북한군이 추석에 쳐들어오면 연휴 끝나고 싸울 것이냐'고 말한 것을 언급하며 \"전투와 사고 현장 감식은 전혀 다른 일\"이라며 \"적이 도발하면 우리…",
+   "summary_long": "오늘(25일) 김병주 의원은 페이스북을 통해 \"한동훈 정신이 있나. 정쟁을 이유로 우리 장병들을 지뢰가 깔린 밭으로 뛰어들라는 거냐\"며 이같이 말했습니다. 김 의원은 한 의원이 '북한군이 추석에 쳐들어오면 연휴 끝나고 싸울 것이냐'고 말한 것을 언급하며 \"전투와 사고 현장 감식은 전혀 다른 일\"이라며 \"적이 도발하면 우리 군은 연휴든 한밤중이든 즉각 대응한다\"고 했습니다.\n\n이어 \"그러나 사고 현장에 들어가 감식하는 일은 다르다. 지뢰가 추가로 매설돼 있을지 모르는 땅에 한 걸음씩 조심을 다해 안전을 확인하며 길을 내야 한다\"며 \"전투태세와 사고 현장 감식을 뒤섞는 일은 부하를 죽음의 길로 전진하라는 말이다. 같은 날 한 의원은 페이스북을 통해 \"민주당 똥별 김병주 의원이 지뢰 폭발 지역은 위험한 곳이니 조사 속도를 내면 안된다고 한다\"며 \"김병주 말대로라면 그런 위험한 사지에 우리 장병들을 보내서 발목 절단 당하게 한 사람들은 채 상병 사건 때처럼 특검으로 수사해서 싹 다 감옥에 가야 하는 것이냐\"고 했습…",
+   "quotes": [
+    "투입된 장병들은 전우가 쓰러지는 모습을 눈앞에서 본 사람들이다. 병사들의 회복 상태를 살피고 이동로의 안전성을 다시 평가하고 유엔사 군사정전위원회와 진입 절차를 조율하는 것은 지연이 아니라 장병의 목숨이 걸린 일이기에 안전에 또 안전을 위한 절차",
+    "김병주 말대로라면 그런 위험한 사지에 우리 장병들을 보내서 발목 절단 당하게 한 사람들은 채 상병 사건 때처럼 특검으로 수사해서 싹 다 감옥에 가야 하는 것이냐",
+    "유엔사는 위험한 줄 몰라서 즉시 현장 조사하자고 한 것이냐. 비 와서 증거가 없어지면 당신들이 책임질 것이냐. 시간 끌다가 북한이 증거 조작하면 막을 수 있냐"
+   ],
+   "press": "JTBC",
+   "photo": "02.jpg",
+   "quoted": {
+    "quote": "투입된 장병들은 전우가 쓰러지는 모습을 눈앞에서 본 사람들이다. 병사들의 회복 상태를 살피고 이동로의 안전성을 다시 평가하고 유엔사 군사정전위원회와 진입 절차를 조율하는 것은 지연이 아니라 장병의 목숨이 걸린 일이기에 안전에 또 안전을 위한 절차",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "JTBC",
+      "title": "‘4성 장군 출신’ 김병주 \"한동훈, 모르면 제발 입 좀 닥치라\"…DMZ 설전",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81NXBTcUZFVnprTkRiSWIxOUFLSXpvUGNiNVliMGowMmlRd0owOHBFaTdKRGhPSFRPV09rZDByR2tUeXhyYVJaam0xQ0ZHb3UtcDFsQg?oc=5"
+     },
+     {
+      "press": "중앙일보",
+      "title": "한동훈 “지뢰폭발 조사 왜 미루나”…똥별 설전 김병주 “무식하면 위험 자초”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRR3AzdE5PRXJZTjJFbnpuQkxWQVcwOHBsZEhGUXc0dUk5c3FwMk16b3Q4M3NtMUpmb2FJNVlTVmtSZlk0RGlaR0VHMjJpa0ZxeFUwM2h3?oc=5"
+     },
+     {
+      "press": "위키트리",
+      "title": "한동훈 \"똥별들\" 김병주 \"같이 저렴해지지 않겠다\"",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85OFRRbWRWNVE1ZERHcy1ISnZWU1h4VUVHUVdSWFlPRWkwTUxTYUJmMUFnVG9VMzBHZkw0U1lsYmNwNmRzamxBeVZNRVhPaHRPazJ5V2Z3?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "靑, 유시민에 인내심 한계? “檢개혁 의지 왜곡” 법적 대응 검토",
-   "source": "헤럴드경제",
-   "url": "https://n.news.naver.com/article/016/0002701675",
-   "published_at": "2026-09-24T15:18:10+09:00",
-   "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 104,
-   "comment_agree": 120,
-   "comment_disagree": 29,
-   "division_balance": 0.389262,
-   "division_score": 1.950449,
-   "selection": "찬반 쟁점",
-   "summary": "청와대가 이재명 대통령의 검찰 개혁 발언을 비판한 유시민 작가에 대해 법적 대응을 검토하는 것으로 24일 알려졌다. 강유정 청와대 수석대변인은 당시 “수사와 기소의…",
-   "summary_long": "청와대가 이재명 대통령의 검찰 개혁 발언을 비판한 유시민 작가에 대해 법적 대응을 검토하는 것으로 24일 알려졌다. 여권 관계자는 이날 “청와대는 유 작가가 사실과 다른 주장으로 이 이 대통령의 검찰개혁 의지를 왜곡하고 있다는 점을 심각하게 받아들이고 있다”며 “청와대에서 법적 대응을 검토하는 것으로 안다”고 전했다. 그는 특히 “이 대통령은 법무부 안에 ‘수사를 하는 검찰’과 ‘기소를 하는 검찰’을 나누는 것이 원래 검찰 개혁의 최대치라고 말했다.\n\n그러나 청와대는 유 작가의 이런 발언이 이 대통령이 마치 수사·기소 분리에 소극적이라는 인식을 심어줄 우려가 있다고 보고 있다. 지난 7월에도 유 작가는 유튜브 채널 ‘매불쇼’에서 “1년 넘게 개혁이 이뤄지지 않은 것은 대통령이 수사·기소의 완전한 분리를 원하지 않기 때문”이라고 언급했다. 강유정 청와대 수석대변인은 당시 “수사와 기소의 분리라는 검찰 개혁의 핵심 가치에 대해 이재명 대통령과 청와대는 한 번도 흔들린 적이 없다”고 반박했다.",
+   "title": "‘칼치기’에 시속 157㎞ 과속까지…난폭운전 50대 붙잡혀",
+   "source": "강원일보",
+   "url": "https://n.news.naver.com/article/087/0001220320",
+   "published_at": "2026-09-25T17:10:10+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "추석 연휴 강원지역 국도에서 제한속도의 두 배에 가까운 시속 157㎞로 달리며 10분 동안 20차례 넘게 교통법규를 위반한 50대 운전자가 경찰에 붙잡혔다. 경찰 조사…",
+   "summary_long": "◇급차선 변경 등 교통법규 위반 운전자 적발. 추석 연휴 강원지역 국도에서 제한속도의 두 배에 가까운 시속 157㎞로 달리며 10분 동안 20차례 넘게 교통법규를 위반한 50대 운전자가 경찰에 붙잡혔다. A씨는 전날 오후 3시께 홍천군 화촌면 주음치리 국도 44호선에서 그랜저 승용차를 몰며 과속과 급차선 변경 등 난폭운전을 한 혐의를 받는다.\n\n경찰 조사 결과 A씨는 약 10분 동안 모두 22차례 교통법규를 위반한 것으로 파악됐다. A씨는 경찰 조사에서 “원주에 있는 딸이 아파서 교통법규를 위반하게 됐다”고 진술한 것으로 알려졌다. 경찰은 추석 연휴 기간 과속과 난폭운전 등 교통사고 위험을 높이는 중대 교통법규 위반 행위를 집중 단속할 방침이다.",
    "quotes": [
-    "이 대통령은 법무부 안에 ‘수사를 하는 검찰’과 ‘기소를 하는 검찰’을 나누는 것이 원래 검찰 개혁의 최대치라고 말했다. 이를 보면서 충격을 받았다",
-    "이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 더불어민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다",
-    "사실은 그 이상으로 진척되고 있다. 이제는 검사는 아예 수사를 못 한다. 소속 역시 수사를 하는 모든 기관은 행정안전부 소속"
+    "원주에 있는 딸이 아파서 교통법규를 위반하게 됐다"
    ],
-   "press": "헤럴드경제",
-   "photo": "07.jpg",
+   "press": "강원일보",
+   "photo": "03.jpg",
    "quoted": {
-    "quote": "이 대통령은 법무부 안에 ‘수사를 하는 검찰’과 ‘기소를 하는 검찰’을 나누는 것이 원래 검찰 개혁의 최대치라고 말했다. 이를 보면서 충격을 받았다",
+    "quote": "원주에 있는 딸이 아파서 교통법규를 위반하게 됐다",
     "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "연합뉴스",
-      "title": "靑, 유시민에 법적 대응 검토…\"李대통령 검찰 개혁 의지 왜곡\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JZTBvWVU4SEtmWUdGZjNIWUotY183ZlRzYlZ6UXcteGJrWllfclBkOWZmaWV2b2dYV0E0U1gxbS1PcmVBTVlJUmNsdmRWZnAxaWlrc1M2SFNmZDVIRmR1StIBYEFVX3lxTE5JZTBvWVU4SEtmWUdGZjNIWUotY183ZlRzYlZ6UXcteGJrWllfclBkOWZmaWV2b2dYV0E0U1gxbS1PcmVBTVlJUmNsdmRWZnAxaWlrc1M2SFNmZDVIRmR1Sg?oc=5"
+      "press": "kyeonggi.com",
+      "title": "“딸이 아파서”…추석 연휴 국도서 157㎞로 내달린 50대, 22차례 법규 위반",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVRktaNXU1RE1EWEJoOE5fekl2YTh1RkVmTnR0cE1TZDdVYkM4YUk3OU9BTWo1QlU4NnB3eDFmN0N3aXMyR19vaW04c19CQWxzeUVBbm1KTENMR2c?oc=5"
      },
      {
-      "press": "KBC광주방송",
-      "title": "[속보]靑, '국민 속였다' 발언한 유시민 작가에 \"법적 대응 결정된 바 없다\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sa0UzX29kbWdfbTZWVEtfRThzSUhFRWt5MW5FY2c1VXRZLTc5UkZlX0hzcE1XVFNzTVNhSHZwTkdHMzhKUFpWbFowaHlMWXkwNHVQZnluQ0FIY3RONk8zTQ?oc=5"
+      "press": "weekly.chosun.com",
+      "title": "“아픈 딸 보러 가려고”…국도서 시속 157㎞ 질주한 50대",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TR1N6VnVoOV9DaXdtS3hOSk12X29yYXdQcmlLUTRua29jSmNUSTllSVQxQjVmNEZ5ZUxuc0VKUHcxV2xvd1dFS2R0b25LaFVMVVh1c1pKamZwZWQwaklDZktMV0JnbVlQWmx3?oc=5"
      },
      {
-      "press": "경향신문",
-      "title": "청와대 “유시민, 대통령 검찰개혁 의지 왜곡 유감…법적 대응 여부는 미정”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15U1Y5bnBrS015UVRYOGRJeVdYQUFibFNwaUg3MmdTV0V0ZFJ6a3JtYXJzWGo4WlRuMHJWWWVyMTRzRHNuYXVnd0ZSY3l0dm5ITGZXYkRQMjZ0Z9IBX0FVX3lxTFBKR091TzFkYy1TYV9fVzQwNHBHSnFIY0tGUWNYblQzZU9jcUFXZjBUQWFNRXFaLWVJTkR6bjk1UDJ3eUt4OUxyekZ4OG1QS1hRdG9LaTRnbEdXU1ZnMjBn?oc=5"
+      "press": "강원일보",
+      "title": "‘칼치기’에 시속 157㎞ 과속까지…난폭운전 50대 붙잡혀",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iVGFlZmhuSWhka3ZpRjJsRXFjS3hpbkpNU0xFWGRYa1M2dndxSjJSUWw3RFFnUjZodVNqelM2MmVmaEJGOXd5NjVsNEcybFNWajZmQU9la1lRdWM?oc=5"
      },
      {
-      "press": "JTBC",
-      "title": "청와대, 유시민 \"대통령이 국민 속였다\" 발언에…\"검찰개혁 의지 왜곡 유감\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81MWh4ZUlMZW11eDRoX19fQzNqcmNHTjdaaThaRkJsOFdHVzVGSnhMTmtJenNST05lZnRMYW9WNEVFamYxYmVucG1nR0p6c0lmRi1meQ?oc=5"
-     },
-     {
-      "press": "국제신문",
-      "title": "청와대 ‘검찰개혁 국민 속였다’ 유시민에 법적 대응 검토",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc09HSWZsZURUWXJMX19RcENBVldvZ0kyTTlLeExKb0pFdlY1M2tQUno5QjA5ckh1Z2p5dUx3dzZsRzRNX2I1LUFYb0hPLWNzTnRxQS1mX2JPb1Fpb3pIbHRWZGdNenBQOHNJVnp3akZyZkFSWEc1UktuNk9uR2JfX19WNWVmVTI2bFhHelZR?oc=5"
+      "press": "한국경제",
+      "title": "\"딸이 아파서…\" 국도서 시속 157㎞ 질주 변명했지만 결국",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZ1NNektqU2E2R3NQZGZSZjZ5ME43UE8ydFhaQ0lUeDhpTk1rUS13TGpUVW45VThnSExlOTBlN2JBdWd2akc3MGRUZVhHXzRyU2NaTW5zcVhzUQ?oc=5"
      },
      {
       "press": "문화일보",
-      "title": "[속보]‘결국 갈라서나’ 靑, 유시민에 법적 대응 검토…“대통령 검찰 개혁 의지 왜곡”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1haDZpSm94cmtTakl0dGxWWWplWGkzMjJzTjlIMU9lcV93OEhmVDVTNjN0WWZmS2JZZTN4eWdzVDBrdHdfdU5XX1lhZUdNUFg5?oc=5"
+      "title": "“딸이 아파서 그랬다”…157㎞로 달리고 ‘칼치기’까지 22차례 교통법규 위반한 남성",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxdnNLcjBoVXg5XzhDX1hZclNFcXpfQS0xSTVtcjJfR1M5Ynp4aW1SMWFvb2VtX2tHYXFPcGJ5RjMtQ1RxT2xsbXQxaHFWZTVo?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "국도서 시속 157㎞ ‘칼치기’…“딸이 아파서” 난폭운전 50대 결국",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIMUJWc0laYm1nVHFmMHRveENGWGJ3Nng5NjlXRjZ0aS11dVdOZFl6OVZXX2dvU2dCNTRwMUJOQk9NREtGNlpxMkhaTQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "노래도 삶도 모른다? 김다현, 논란 속 보여준 진짜 '어른스러움'",
+   "source": "한국일보",
+   "url": "https://n.news.naver.com/article/469/0000955942",
+   "published_at": "2026-09-25T09:44:20+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "김다현은 21일 자신의 SNS에 \"심수봉 선생님과 직접 통화도 했고 선생님께서 직접 사과의 말씀도 해주시고 격려도, 따뜻한 위로도 해주셨다\"고 밝혔다. 가수 김다현이…",
+   "summary_long": "17살인 가수 김다현은 갑작스러웠을 상황에도 감정을 드러내기보다 정제된 짧은 글로 자신의 입장을 분명하게 밝혔다. 김다현은 21일 자신의 SNS에 \"심수봉 선생님과 직접 통화도 했고 선생님께서 직접 사과의 말씀도 해주시고 격려도, 따뜻한 위로도 해주셨다\"고 밝혔다. 대뜸 자신을 논란의 중심으로 이끈 선배 가수 심수봉이 사과의 뜻을 전했음을 알리며 직접 진화에 나선 것이다.\n\n김다현에 이어 무대에 오른 심수봉은 관객들 앞에서 \"제 앞에 노래 부른 여자\", \"제 머리를 어지럽게 만들었다\", \"젊은 아가씨가 노래가 뭔지 삶이 뭔지도 모르는 아가씨인 것 같다\" 등의 비판을 했다. 가수 김다현이 심수봉의 공개 비판 이후 차분하고 의연하게 심경을 밝혔다. 이런 상황에서 당사자인 김다현이 직접 나서 심수봉의 사과를 전하며 논란을 일단락하려는 모습을 보인 점도 눈길을 끌었다.",
+   "quotes": [
+    "팬님들 이번 일로 속상하시고 걱정하셨죠. 저는 마음 잘 추스를 테니 걱정 마시고 우리 밝은 모습으로 만나자",
+    "심수봉 선생님과 직접 통화도 했고 선생님께서 직접 사과의 말씀도 해주시고 격려도, 따뜻한 위로도 해주셨다",
+    "어른으로서 후배가수의 마음에 상처를 주는 말을 한 점은 분명 잘못됐다"
+   ],
+   "press": "한국일보",
+   "photo": "04.jpg",
+   "quoted": {
+    "quote": "팬님들 이번 일로 속상하시고 걱정하셨죠. 저는 마음 잘 추스를 테니 걱정 마시고 우리 밝은 모습으로 만나자",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "한국일보",
+      "title": "노래도 삶도 모른다? 김다현, 논란 속 보여준 진짜 '어른스러움'",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwX09iNXpYS2RKSHhqRjFHNkY0cWpUQ3ZZdE1QNkQ3MzZfcmQyVEFud1BlUHhzejVFdkIyMEtHbkU4SlJRVk82Tk9xMUNQcDd0MzNKTWVsazRseFdKaXktTGVFaXVPd09YcC1zdnp30gFzQVVfeXFMUGZ1Y0h0ZTlvblZCakpYLWk3aUMyS2NGNURIY2tLWTJUb19UNGVyUUt0aVNyN0ZGcDMwV24yY1Q2VDZuZjlSNEMxcjdIOW9CeXFuazA3S19kY28wbHVCSjFzOHRLdXpzdlByVUVDeXRhOGE1aw?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "[단독]심수봉 사과 일단락..김다현, 추석 연휴 '100대 명산' 오른다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53TU40elZQMjRQa0doSHRfb3lQMTBKWW4wR0UzS2o3NXJqRTViT1VPVnBYU1oweHJuc3hJNkNvVDAtcFpPYURtZFhlelp5NzZ1WUJaMQ?oc=5"
+     },
+     {
+      "press": "starnewskorea.com",
+      "title": "[전문] \"직접 통화, 맘 잘 추스르겠다\"..'17세' 김다현, '71세' 심수봉 막말 폭격 심경",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYTFdVMXM3Mkg2aEY1SE5vRUZDZ2RIZ2FhSVFFWVpMdXNJZ0ZKTnJRMlBRcUFtRGVhM0dvdzZVd08yQndNZFJJLXIzUGhtSzhIRlVXY21hb0gtOVlNcVIzMDRfeEJ3eFlRbTE4N3ZmdGhGX1U?oc=5"
+     },
+     {
+      "press": "starnewskorea.com",
+      "title": "'심수봉 저격' 맘 추스르고..김다현, 추석 스케줄 예정대로 '고성엑스포行'",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVY0RtaDdLeFdMQzVIZjc0ODRkVjRaemV0bjl1bkdGS1FGUXpLYXZPdVNtXy02dm1rbFN4RVRBTEM3al90LUdzZUxrclgxT1F6UENMRDZZeUVfV0VuS0JpLVZ0cjNLVVoyMnp6U3dxVkFBUWJv?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "'국민 속였다' 유시민에 청와대 \"왜곡·근거 없는 비난\"…법적 대응설엔 \"결정된 바 없어\"",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000512758",
+   "published_at": "2026-09-25T15:32:11+09:00",
+   "section_id": "100",
+   "view_rank": 5,
+   "comment_count": 282,
+   "comment_agree": 226,
+   "comment_disagree": 63,
+   "division_balance": 0.435986,
+   "division_score": 2.47199,
+   "selection": "찬반 쟁점",
+   "summary": "이재명 대통령의 검찰개혁을 두고 \"국민을 속였다\"고 비판한 유시민 작가에게 청와대가 어제 이례적으로 공개 유감을 표했습니다. \"근거 없는 비난\", \"사실과 다른…",
+   "summary_long": "이재명 대통령의 검찰개혁을 두고 \"국민을 속였다\"고 비판한 유시민 작가에게 청와대가 어제(24일) 이례적으로 공개 유감을 표했습니다. \"근거 없는 비난\", \"사실과 다른 왜곡\"이라고 했는데, 여당 의원들도 잇따라 유 작가를 공개 비판하고 나섰습니다. 유 작가에 대한 법적 대응 가능성까지 거론되면서 범여권 내부 갈등이 커지고 있는 모양샙니다.\n\n지난 18일 기자회견에서 이재명 대통령은 자신이 생각했던 검찰개혁의 당초 목표를 설명했습니다. \"대통령의 검찰개혁 의지를 사실과 다르게 왜곡하는 것에 유감\"이라며, 유 작가의 주장을 \"근거 없는 비난성 주장\"이라고 규정하고 \"사실관계를 확인 중\"이라고 밝혔습니다. 박지원 의원도 \"왜 둥근 달은 보지 않고 손가락의 손톱 때만 보느냐\"며, 유 작가가 대통령의 검찰개혁 발언에서 \"말꼬리를 잡고 비난하는 것은 심각한 왜곡\"이라고 비판했습니다.//.",
+   "quotes": [
+    "지금까지 이 모든 입법 예고안은 대통령의 의지를 반영한 거였어요. 검찰개혁이라는 말을 같이 썼지만 내용이 달랐던 거예요. 그러면 대통령이 진작에 말했어야 돼요 이거를. 지금까지 국민을 속인 거예요 대통령이",
+    "원래 최대치의 검찰개혁의 목표는 이랬습니다. 검사들이 수사를 담당하는 검사, 기소 즉 소추를 담당하는 검사를 분리해서…법무부 안에 수사 담당하는 기관, 소추 담당하는 기관을 나누자, 이거였습니다",
+    "고 비판한 유시민 작가에게 청와대가 어제(24일) 이례적으로 공개 유감을 표했습니다"
+   ],
+   "press": "JTBC",
+   "photo": "05.png",
+   "quoted": {
+    "quote": "지금까지 이 모든 입법 예고안은 대통령의 의지를 반영한 거였어요. 검찰개혁이라는 말을 같이 썼지만 내용이 달랐던 거예요. 그러면 대통령이 진작에 말했어야 돼요 이거를. 지금까지 국민을 속인 거예요 대통령이",
+    "n": 10,
+    "verified": 0,
+    "items": [
+     {
+      "press": "JTBC",
+      "title": "‘국민 속였다’ 유시민에 청와대 \"왜곡·근거 없는 비난\"…법적 대응설엔 \"결정된 바 없어\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wR1RGOTRmQjRkcnBsMjhVM2FiR0tHZHduVmlMQ2Q0cUdqUFptSjFQLXpvVjNhR3B6MGlKNkVEU29BNzZOTzVUSFZQQV8xVFJkWFZYRA?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "\"대통령이 검찰개혁 국민 속여\"...유시민 \"멸칭? 일방적 폭행 당해\"",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB4R0Q2TUx6NjA2MXc1Z2w4VG1ER2g0RDdpM21ycG1vMkMtRWJpVmR1eGRGNlBTcDd1SU5jeDdrRnlxUExEU3c?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "유시민 \"李대통령, 검찰개혁 놓고 지금까지 국민 속였다\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tbEpGX3NtTDZUbU9UVVhHVUlfWm1OcDBzdVR1SjhpVXJWUDNIdmFlUk1paDRIUnBUUTY2UXg0dXJNcmNUeHUwdktMZm1XSWM?oc=5"
+     },
+     {
+      "press": "KBC광주방송",
+      "title": "유시민 \"李, 국민 속였다…수사·기소 분리 원치 않아\"",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RUURoLUQ4Qk1LQXd4cU5Va2U4RmxHZDNUQ2xWdk9JRjNseUcxRjBMZHFDLWxoSGRxN2hvT1JWdTVLcWV3MjBObmIxcndRbV9ibjVuX09zcWNMa3NCdVkyOEF5NTZqTGdD?oc=5"
+     },
+     {
+      "press": "서울경제",
+      "title": "유시민 “李대통령이 말한 檢개혁 틀린 말…국민 속인 것”",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xR09MSGZUNklVYXBUVVBaTFA4TTFTWDZnX1puNkNMdE5YRDhOanE1NnlpSHF3MXVNYV9abjgzbGRWTXhvckhrRUtkWFBacVlDY3fSAVNBVV95cUxQOVFCU1locHVYai1RZHRFYlg2cUhuVWhFLWdkcTFMdzcwbTNIZko3eTBSX0tZRGdOV3BDS1o4T3Fwemk4dUliUjBjWWZfYndOdGE5QQ?oc=5"
+     },
+     {
+      "press": "데일리저널",
+      "title": "유시민 “이재명, 검찰 개혁 내용 달랐다…국민 속인 것” 직격",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vWXRqdlkwVWl0LVk1c2dnU2VqOVdQWEZXMkd2WElrT2s5YnFmWjRrYVI1dUFSSVhIdEh3UjE3X1I1aHJ2X2ozZjNHbnczOXY4WVc1TjE1NEJkNDNVX19jU1FuUjhuRk95MlE?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "\"합의 깬 우크라 아쉽다\"…'왜 숨겼나' 공세엔 직접 반박",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000512775",
+   "published_at": "2026-09-25T18:52:42+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 689,
+   "comment_agree": 487,
+   "comment_disagree": 83,
+   "division_balance": 0.291228,
+   "division_score": 1.848538,
+   "selection": "찬반 쟁점",
+   "summary": "젤렌스키 대통령이 북한군 포로들을 한국에 송환한 걸 일방적으로 공개하자 \"비공개 합의를 어겼다\"며 \"많이 아쉽다\"고 했습니다. 그러면서 '북한 눈치보느라 송환 사실…",
+   "summary_long": "이재명 대통령이 외교 일정 중에도 야권에서 제기한 문제들에 공개적으로 입장을 밝히며 반박했습니다. 젤렌스키 대통령이 북한군 포로들을 한국에 송환한 걸 일방적으로 공개하자 \"비공개 합의를 어겼다\"며 \"많이 아쉽다\"고 했습니다. 그러면서 '북한 눈치보느라 송환 사실 숨겼냐'는 야권을 향해 \"자기 이익을 위해 국익을 해치는 사람을 살인자, 매국노라 부른다\"고 강하게 비판했습니다.\n\n\"북한 포로 송환 문제는 외교, 안보, 한반도 정세에 크게 영향을 미치는 예민한 의제\"라면서 \"성과를 생색내느라 포로 송환 사실을 징 치고 춤추며 온 세상에 광고했을 그들 입장에서는 비공개 노력이 이해가 안 될 것\"이라고 했습니다. 이 대통령은 \"지지율 만회에 도움될 송환 사실을 공개하자는 내부 주장이 왜 없었겠냐\"면서 \"자기 이익을 위해 누군가의 생명과 국익을 해치는 사람을 살인자, 매국노라 부른다\"고도 했습니다. 한편, 우크라이나 측은 젤렌스키 대통령의 연설에 송환 관련 내용이 있을 거라고 알린 걸로 전해졌는데, 이 대통령은 공개 이후 \"사정이 있겠지만 비공개 합의를 어긴 게 많이 아쉽다\"고 밝혔습니다.",
+   "quotes": [
+    "성과를 생색내느라 포로 송환 사실을 징 치고 춤추며 온 세상에 광고했을 그들 입장에서는 비공개 노력이 이해가 안 될 것",
+    "북한 포로 송환 문제는 외교, 안보, 한반도 정세에 크게 영향을 미치는 예민한 의제",
+    "자기 이익을 위해 누군가의 생명과 국익을 해치는 사람을 살인자, 매국노라 부른다"
+   ],
+   "press": "JTBC",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "성과를 생색내느라 포로 송환 사실을 징 치고 춤추며 온 세상에 광고했을 그들 입장에서는 비공개 노력이 이해가 안 될 것",
+    "n": 10,
+    "verified": 0,
+    "items": [
+     {
+      "press": "JTBC",
+      "title": "\"합의 깬 우크라 아쉽다\"…‘왜 숨겼나’ 공세엔 직접 반박",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85ZHlnZklBQUJVX3ZSRzM2TXgxN1JONXZDZXl1cERDSm0xWjhXV01hLXdVdjEwQWdEbTc3NWdzUEVHc0JIVThDZGhYXzB6c2tTZ1FHUw?oc=5"
+     },
+     {
+      "press": "MBC 뉴스",
+      "title": "이 대통령, 젤렌스키 직격‥\"북한 포로 송환 징치고 춤추며 광고, 잔인·무책임\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CWXlMaU1ZZEk1cDd1TDRBZlNRTkctWlRmTkVQakdwWmpLSlVSSFM4WFI5Y2NwR2VtZjZtZlRzTHFFUTdXOVlzOGZWTFZCTV9KdWhpSVFMNjU5OVFvRVRiYkhjSTAtWDdjUmVKeE1iNmNTZk1YQTVGUtIBeEFVX3lxTE9MRVI5ZC1rbGxwVGRhT2xqRElDSm1oU3I1enBYakROSjNub3Fob0tZV3ZYMFBydUhNQlc3SzVrSWtNT2JlTEpWbFFRM3p6dGZ1cGU3bWV6dmdNNWJVOVAwaFU2WkNjODdRWmpTWkx3TGpIazM5T2JFYg?oc=5"
+     },
+     {
+      "press": "연합뉴스TV",
+      "title": "이 대통령 \"북한 포로 송환, 우크라가 비공개 합의 어기고 공개\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZSW94TVRidzlSZEZHYzVWZmJjM0p0RmtwQ25Bb1g1ZUNWWVVVZ0I5cllKQ2NZbHhtOUlEdkZ5WVpaTW1MV0NvdUdnanlXdmZpN0VKbWtYTEE2UWNucnM2Z2ZRbXo3Sk0?oc=5"
+     },
+     {
+      "press": "한겨레",
+      "title": "이 대통령 “북한 포로 송환 비공개 합의 어긴 우크라에 아쉬워”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zNXJrNWg2WmJ5QlJoRTY1TWNadG1Lai1FOWxJcGVHNm5FMWdWSVE5QjVoTWJYbkFudy1EQWRMNlYxQjBQQ3BEUHlybS1sQ19DUFVSYWc2dndNRG15UTVGby1VYlJGYjBZM3VZ?oc=5"
+     },
+     {
+      "press": "주간경향",
+      "title": "이 대통령 “지지율 위해 포로 송환 공개하자는 주장 왜 없었겠나”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ycF9KMjBXLVpjUFAzMUNfekxBZWNMV29PZXJyUWpEUHR3Vm5GVGpEZDR3MjhpY2l5SlVqN2F4TDFxMGxUVV9udV80VFJBZ2FqbW0wVEd1eGNhS2NRenc?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "李 “젤렌스키, 北포로 송환 징치고 춤추며 광고…비공개합의 위반”",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBObFNJM0Rtc1VsTkdGbDIyUHZfRnZCRU9rcGV5bkNrc28tWmxMYzhZUDZTVUJNdmRsOHdaY2J2LWF3YU92REE?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "이 대통령 \"선명한 주장, 멋있을지 몰라도 좋은 결과 어려워\"…유시민 겨냥?",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000512744",
+   "published_at": "2026-09-25T12:04:54+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 354,
+   "comment_agree": 230,
+   "comment_disagree": 39,
+   "division_balance": 0.289963,
+   "division_score": 1.623334,
+   "selection": "찬반 쟁점",
+   "summary": "너무 빨리, 멀리, 급하게 가다가 반동을 맞이한다며 노무현 정부 당시 국가보안법의 찬양·고무죄 폐지 논쟁 예로 들어. 그러나 그것은 실제로 우리가 원하는 바람직한 상황을…",
+   "summary_long": "멕시코 국빈 방문 중인 이재명 대통령, 현지시간 24일 동포 간담회 참석. 너무 빨리, 멀리, 급하게 가다가 반동을 맞이한다며 노무현 정부 당시 국가보안법의 찬양·고무죄 폐지 논쟁 예로 들어. \"국가보안법 통째로 폐지하는건 무리니까 독소조항 몇 개라도 삭제하자 다 여야가 합의를 거의 했어요.\n\n당시 국가보안법 폐지 강하게 주장했던 유시민 작가 겨냥? 그러나 그것은 실제로 우리가 원하는 바람직한 상황을 만드는 데에는 선명해서 멋있을지는 몰라도 실제로 좋은 결과를 만들기는 쉽지 않습니다.\" 이 대통령 \"한꺼번에 해치우면 좋지만 쉽지 않다\", \"가급적 저항, 반발 최소화하고 실질적 결과 만들어야\"",
+   "quotes": [
+    "국가보안법 통째로 폐지하는건 무리니까 독소조항 몇 개라도 삭제하자 다 여야가 합의를 거의 했어요. 그런데 누군가가 갑자기 반대를 하기 시작했습니다. 폐지를 해야지 반만 폐지하는게 세상에 어딨냐",
+    "자신들의 선명함을 드러내기 위해서 과한 주장을 하죠. 그러나 그것은 실제로 우리가 원하는 바람직한 상황을 만드는 데에는 선명해서 멋있을지는 몰라도 실제로 좋은 결과를 만들기는 쉽지 않습니다",
+    "혁명적 상황이 되면 오바하는 경향이 있어요. 쭉 달리던 길에서 적당하게 절제를 해야하는데. 상황이 바뀌었다 싶으면 그대로 더 빨리 질주를 하게돼요. 절제를 못하는거죠"
+   ],
+   "press": "JTBC",
+   "photo": "07.png",
+   "quoted": {
+    "quote": "자신들의 선명함을 드러내기 위해서 과한 주장을 하죠. 그러나 그것은 실제로 우리가 원하는 바람직한 상황을 만드는 데에는 선명해서 멋있을지는 몰라도 실제로 좋은 결과를 만들기는 쉽지 않습니다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "JTBC",
+      "title": "이 대통령 \"선명한 주장, 멋있을지 몰라도 좋은 결과 어려워\"…유시민 겨냥?",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43TXYzUXN1eGgtYUtSdER4SFVxMHlCazUwYk1JWFRIdnZJS0JITWFmQ1g4NW1MLXRKTVhMMk1WOGgyNDRhaHo2WEhMcndEcW4zWTY5aA?oc=5"
+     },
+     {
+      "press": "연합뉴스TV",
+      "title": "이 대통령 \"임기 절대 안 넘겨\"…유시민 우회 비판",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZMURQTXkxNlhoVXlXTzA3ZUxVbEF1VUZzZjc5bnBnWDlqNm4xdjl2N01ZM2xweFpSRDFPT2VJTUw5ZkFBWVlhTmUwN055el9KTzVrWHhTVnhVbnNocWVwT281bzhZS28?oc=5"
+     },
+     {
+      "press": "데일리브리프",
+      "title": "[스틸컷] 추석날 이재명 대통령이 먼 이국 땅에서 털어놓은 개혁의 어려움 [전문]",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nN3RLZGNFV1pfc2wydnhOQXpuTzQ0aTFFaEFEOTNjZDQ4T0RoLTZMczQ3aHA4cFNoemtvdXlLRHdabHh2S1puOURtMjJER0s0WERKUjZxazdabEFCbUJja0FqZXB0Q2t1TFVrOEtR?oc=5"
      }
     ]
    }
@@ -323,139 +356,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/01.png",
-   "pngBytes": 1386813,
-   "feed": "오늘의 뉴스 2026-09-25\n\n· 이 대통령, 김 여사 생가터 복원논란에 \"있지도 않은 일, 명예훼손 범죄\"\n· [단독] 지뢰에 발목 잃은 중령, 수술 뒤 첫마디 “부대원 괜찮나”\n· “엄마, 이번에 1000만원 드릴게”…추석 용돈에도 세금 붙나요\n· \"딸과 성관계 영상 있냐\" 따지러 간 아버지…CCTV 돌려보니 '반전'\n· 연휴에도 뜨거운 조희대…민주 “대통령에 사법권 휘두르는 정치꾼”\n· 오조준한 여권, 당신들이 베야 할 용은 대통령이 아니다\n· 靑, 유시민에 인내심 한계? “檢개혁 의지 왜곡” 법적 대응 검토"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/01.png",
+   "pngBytes": 1770195,
+   "feed": "오늘의 뉴스 2026-09-26\n\n· 이 대통령, 유시민 직격?…“누군가 국보법 ‘통째 폐지’ 주장해 독소조항 남았다”\n· '4성 장군 출신' 김병주 \"한동훈, 모르면 제발 입 좀 닥치라\"…DMZ 설전\n· ‘칼치기’에 시속 157㎞ 과속까지…난폭운전 50대 붙잡혀\n· 노래도 삶도 모른다? 김다현, 논란 속 보여준 진짜 '어른스러움'\n· '국민 속였다' 유시민에 청와대 \"왜곡·근거 없는 비난\"…법적 대응설엔 \"결정된 바 없어\"\n· \"합의 깬 우크라 아쉽다\"…'왜 숨겼나' 공세엔 직접 반박\n· 이 대통령 \"선명한 주장, 멋있을지 몰라도 좋은 결과 어려워\"…유시민 겨냥?"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/02.png",
-   "pngBytes": 1417070,
-   "title": "이 대통령, 김 여사 생가터 복원논란에 \"있지도 않은 일, 명예훼손 범죄\"",
-   "summary": "이재명 대통령이 일각에서 제기하는 김혜경 여사의 생가터 복원 논란과 관련해 \"하지도 않은 말, 있지도 않은 일을 사실처럼 전제하고 공격하는 건 지양해야 한다\"고…",
-   "summary_long": "이재명 대통령이 일각에서 제기하는 김혜경 여사의 생가터 복원 논란과 관련해 \"하지도 않은 말, 있지도 않은 일을 사실처럼 전제하고 공격하는 건 지양해야 한다\"고 비판했습니다. 이 대통령은 23일 자신의 SNS에 '김 여사 생가 복원 추진위원회 발족'이란 문구가 담긴 이미지를 업로드한 계정을 리트윗해 \"비판은 자유이나 없어진 사실을 지금 현재 일인 것처럼 만드는 것은 표현의 자유가 아니라 타인의 명예를 훼손하는 범죄\"라고 적었습니다. 이 대통령은 \"제 아내 생가터 복원 이야기는 지난해 7월 3일 벌어진 해프닝\"이라며 \"제 처가는 충북 충주였지만 아내의 생가는 서울 소재 산부인과\"라고 설명했습니다.\n\n이어 \"어처구니없는 생가 복원 운운에 대해 작년 7월 논란이 되자마자 관련자들을 찾아 엄중 경고해서 이 사안은 이미 소멸한 얘기\"라며 \"답글에 소개된 사진상으로도 과거 일임이 명백하다. 이 글 쓰신 분도 모르고 쓴 건 아니라고 보인다\"고 덧붙였습니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001525652",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/02.png",
+   "pngBytes": 1773914,
+   "title": "이 대통령, 유시민 직격?…“누군가 국보법 ‘통째 폐지’ 주장해 독소조항 남았다”",
+   "summary": "유시민 작가, 이재명 대통령. 이 대통령은 이날 멕시코의 한 호텔에서 열린 동포 간담회에서 “제가 프랑스 갔을 때 프랑스 혁명 얘기를 한 번 했는데, 혁명적 상황이 되면…",
+   "summary_long": "유시민 작가, 이재명 대통령. 멕시코를 국빈 방문 중인 이재명 대통령이 24일(현지시각) “자기의 선명함을 드러내기 위해 과한 주장을 한다. 그러나 실제로 우리가 원하는 바람직한 상황을 만드는 데는 선명해서 멋있을지는 몰라도 실제로 좋은 결과를 만들기는 쉽지 않다”고 말했다.\n\n이 대통령은 이날 멕시코의 한 호텔에서 열린 동포 간담회에서 “제가 프랑스 갔을 때 프랑스 혁명 얘기를 한 번 했는데, 혁명적 상황이 되면 오버하는 경향이 있다”며 “쭉 달리는 길에서 적당하게 절제를 해야 되는데 상황이 바뀌었다 싶으면 더 빨리 질주하게 된다. 이 대통령은 “여야가 합의를 해서 국가보안법을 통째로 폐지하는 건 무리니까 독소조항 몇 개라도 삭제를 하자고, 거의 합의를 했다”며 “그런데 누군가 갑자기 ‘폐지를 해야지, 반만 폐지하는 게 세상에 어딨냐고 반대하는 바람에 결국 (폐지를) 못 했다”고 말했다. 이 대통령은 “그 법조항이 아직도 살아있어서 최근에 누군가가 (경찰에) 압색을 당했더라”고 말했다.",
+   "press": "한겨레",
+   "source": "한겨레",
+   "link": "https://n.news.naver.com/article/028/0002824632",
    "selection": "정치",
-   "feed": "뉴스 01. 이 대통령, 김 여사 생가터 복원논란에 \"있지도 않은 일, 명예훼손 범죄\"\n\n이재명 대통령이 일각에서 제기하는 김혜경 여사의 생가터 복원 논란과 관련해 \"하지도 않은 말, 있지도 않은 일을 사실처럼 전제하고 공격하는 건 지양해야 한다\"고 비판했습니다. 이 대통령은 23일 자신의 SNS에 '김 여사 생가 복원 추진위원회 발족'이란 문구가 담긴 이미지를 업로드한 계정을 리트윗해 \"비판은 자유이나 없어진 사실을 지금 현재 일인 것처럼 만드는 것은 표현의 자유가 아니라 타인의 명예를 훼손하는 범죄\"라고 적었습니다. 이 대통령은 \"제 아내 생가터 복원 이야기는 지난해 7월 3일 벌어진 해프닝\"이라며 \"제 처가는 충북 충주였지만 아내의 생가는 서울 소재 산부인과\"라고 설명했습니다.\n\n이어 \"어처구니없는 생가 복원 운운에 대해 작년 7월 논란이 되자마자 관련자들을 찾아 엄중 경고해서 이 사안은 이미 소멸한 얘기\"라며 \"답글에 소개된 사진상으로도 과거 일임이 명백하다. 이 글 쓰신 분도 모르고 쓴 건 아니라고 보인다\"고 덧붙였습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001525652"
+   "feed": "뉴스 01. 이 대통령, 유시민 직격?…“누군가 국보법 ‘통째 폐지’ 주장해 독소조항 남았다”\n\n유시민 작가, 이재명 대통령. 멕시코를 국빈 방문 중인 이재명 대통령이 24일(현지시각) “자기의 선명함을 드러내기 위해 과한 주장을 한다. 그러나 실제로 우리가 원하는 바람직한 상황을 만드는 데는 선명해서 멋있을지는 몰라도 실제로 좋은 결과를 만들기는 쉽지 않다”고 말했다.\n\n이 대통령은 이날 멕시코의 한 호텔에서 열린 동포 간담회에서 “제가 프랑스 갔을 때 프랑스 혁명 얘기를 한 번 했는데, 혁명적 상황이 되면 오버하는 경향이 있다”며 “쭉 달리는 길에서 적당하게 절제를 해야 되는데 상황이 바뀌었다 싶으면 더 빨리 질주하게 된다. 이 대통령은 “여야가 합의를 해서 국가보안법을 통째로 폐지하는 건 무리니까 독소조항 몇 개라도 삭제를 하자고, 거의 합의를 했다”며 “그런데 누군가 갑자기 ‘폐지를 해야지, 반만 폐지하는 게 세상에 어딨냐고 반대하는 바람에 결국 (폐지를) 못 했다”고 말했다. 이 대통령은 “그 법조항이 아직도 살아있어서 최근에 누군가가 (경찰에) 압색을 당했더라”고 말했다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002824632"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/03.png",
-   "pngBytes": 2639780,
-   "title": "[단독] 지뢰에 발목 잃은 중령, 수술 뒤 첫마디 “부대원 괜찮나”",
-   "summary": "지난 21일 경기 파주 비무장지대 지뢰 폭발 사고로 발목을 잃은 육군 25사단 수색대대장 A중령이 마취에서 깨어난 뒤 이렇게 물었다. 23일 국방부와 군 관계자들에…",
-   "summary_long": "지난 21일 경기 파주 비무장지대(DMZ) 지뢰 폭발 사고로 발목을 잃은 육군 25사단 수색대대장 A중령이 마취에서 깨어난 뒤 이렇게 물었다. 중상을 입었고, 마취가 풀린 극심한 고통 속에서도 다른 부대원들의 안위부터 물었다고 한다. 23일 국방부와 군 관계자들에 따르면 A중령과 장병 10여명은 사고 당시 북한군의 국경선 요새화 작업을 확인하기 위한 현장조사를 준비하며 수색로를 개척하고 있었다.\n\n작전을 마무리하고 복귀하던 중 군사분계선(MDL)을 50여m 남겨둔 지점에서 첫 번째 폭발이 일어났고, 가장 선두에 있던 공병인 B중사가 크게 다쳤다. 사고 원인을 둘러싸고 군 내부에서는 북한군이 사용하는 목함지뢰(PMD-57)일 가능성에 무게가 실리는 분위기다. 합동참모본부와 국방부는 지뢰 종류와 매설 주체·시기 등에 대해 “현장조사와 화약 성분 등 정밀분석 전에는 확정할 수 없다”며 신중한 입장이다.",
-   "press": "중앙일보",
-   "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003553630",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/03.png",
+   "pngBytes": 1659103,
+   "title": "'4성 장군 출신' 김병주 \"한동훈, 모르면 제발 입 좀 닥치라\"…DMZ 설전",
+   "summary": "김 의원은 한 의원이 '북한군이 추석에 쳐들어오면 연휴 끝나고 싸울 것이냐'고 말한 것을 언급하며 \"전투와 사고 현장 감식은 전혀 다른 일\"이라며 \"적이 도발하면 우리…",
+   "summary_long": "오늘(25일) 김병주 의원은 페이스북을 통해 \"한동훈 정신이 있나. 정쟁을 이유로 우리 장병들을 지뢰가 깔린 밭으로 뛰어들라는 거냐\"며 이같이 말했습니다. 김 의원은 한 의원이 '북한군이 추석에 쳐들어오면 연휴 끝나고 싸울 것이냐'고 말한 것을 언급하며 \"전투와 사고 현장 감식은 전혀 다른 일\"이라며 \"적이 도발하면 우리 군은 연휴든 한밤중이든 즉각 대응한다\"고 했습니다.\n\n이어 \"그러나 사고 현장에 들어가 감식하는 일은 다르다. 지뢰가 추가로 매설돼 있을지 모르는 땅에 한 걸음씩 조심을 다해 안전을 확인하며 길을 내야 한다\"며 \"전투태세와 사고 현장 감식을 뒤섞는 일은 부하를 죽음의 길로 전진하라는 말이다. 같은 날 한 의원은 페이스북을 통해 \"민주당 똥별 김병주 의원이 지뢰 폭발 지역은 위험한 곳이니 조사 속도를 내면 안된다고 한다\"며 \"김병주 말대로라면 그런 위험한 사지에 우리 장병들을 보내서 발목 절단 당하게 한 사람들은 채 상병 사건 때처럼 특검으로 수사해서 싹 다 감옥에 가야 하는 것이냐\"고 했습…",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000512746",
    "selection": "정치",
-   "feed": "뉴스 02. [단독] 지뢰에 발목 잃은 중령, 수술 뒤 첫마디 “부대원 괜찮나”\n\n지난 21일 경기 파주 비무장지대(DMZ) 지뢰 폭발 사고로 발목을 잃은 육군 25사단 수색대대장 A중령이 마취에서 깨어난 뒤 이렇게 물었다. 중상을 입었고, 마취가 풀린 극심한 고통 속에서도 다른 부대원들의 안위부터 물었다고 한다. 23일 국방부와 군 관계자들에 따르면 A중령과 장병 10여명은 사고 당시 북한군의 국경선 요새화 작업을 확인하기 위한 현장조사를 준비하며 수색로를 개척하고 있었다.\n\n작전을 마무리하고 복귀하던 중 군사분계선(MDL)을 50여m 남겨둔 지점에서 첫 번째 폭발이 일어났고, 가장 선두에 있던 공병인 B중사가 크게 다쳤다. 사고 원인을 둘러싸고 군 내부에서는 북한군이 사용하는 목함지뢰(PMD-57)일 가능성에 무게가 실리는 분위기다. 합동참모본부와 국방부는 지뢰 종류와 매설 주체·시기 등에 대해 “현장조사와 화약 성분 등 정밀분석 전에는 확정할 수 없다”며 신중한 입장이다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003553630"
+   "feed": "뉴스 02. '4성 장군 출신' 김병주 \"한동훈, 모르면 제발 입 좀 닥치라\"…DMZ 설전\n\n오늘(25일) 김병주 의원은 페이스북을 통해 \"한동훈 정신이 있나. 정쟁을 이유로 우리 장병들을 지뢰가 깔린 밭으로 뛰어들라는 거냐\"며 이같이 말했습니다. 김 의원은 한 의원이 '북한군이 추석에 쳐들어오면 연휴 끝나고 싸울 것이냐'고 말한 것을 언급하며 \"전투와 사고 현장 감식은 전혀 다른 일\"이라며 \"적이 도발하면 우리 군은 연휴든 한밤중이든 즉각 대응한다\"고 했습니다.\n\n이어 \"그러나 사고 현장에 들어가 감식하는 일은 다르다. 지뢰가 추가로 매설돼 있을지 모르는 땅에 한 걸음씩 조심을 다해 안전을 확인하며 길을 내야 한다\"며 \"전투태세와 사고 현장 감식을 뒤섞는 일은 부하를 죽음의 길로 전진하라는 말이다. 같은 날 한 의원은 페이스북을 통해 \"민주당 똥별 김병주 의원이 지뢰 폭발 지역은 위험한 곳이니 조사 속도를 내면 안된다고 한다\"며 \"김병주 말대로라면 그런 위험한 사지에 우리 장병들을 보내서 발목 절단 당하게 한 사람들은 채 상병 사건 때처럼 특검으로 수사해서 싹 다 감옥에 가야 하는 것이냐\"고 했습…\n\n출처: JTBC / https://n.news.naver.com/article/437/0000512746"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/04.png",
-   "pngBytes": 1963532,
-   "title": "“엄마, 이번에 1000만원 드릴게”…추석 용돈에도 세금 붙나요",
-   "summary": "생활비가 아닌 일반 증여로 보더라도 최근 10년간 자녀에게 받은 다른 재산이 없다면 5000만원 공제 한도 안에 들어 납부할 증여세는 없다. 이성호 세무법인 리치…",
-   "summary_long": "생활비·병원비 직접 사용이 핵심. 상속세법 제53조에 따르면 부모가 자녀 등 직계비속에게 받은 재산은 10년간 5000만원까지 세금을 내지 않아도 된다. 부모에게 충분한 소득과 재산이 있는데 자녀가 거액을 정기적으로 보냈다면 단순한 부양 목적의 생활비로 인정받기 어려울 수 있다.\n\n부모가 실제 생활비로 사용하고 부양 필요성이 인정된다면 비과세 생활비가 될 수 있다. 생활비가 아닌 일반 증여로 보더라도 최근 10년간 자녀에게 받은 다른 재산이 없다면 5000만원 공제 한도 안에 들어 납부할 증여세는 없다. 이성호 세무법인 리치 대표세무사는 “결국 부모가 받은 돈이 실제 생활비에 해당하는지가 중요하다”며 “생활비로 사용하면 증여세가 비과세될 수 있지만 재산 축적 용도로 활용하면 비과세되는 증여재산으로 보지 않는다”고 말했다.",
-   "press": "이데일리",
-   "source": "이데일리",
-   "link": "https://n.news.naver.com/article/018/0006375224",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/04.png",
+   "pngBytes": 1832702,
+   "title": "‘칼치기’에 시속 157㎞ 과속까지…난폭운전 50대 붙잡혀",
+   "summary": "추석 연휴 강원지역 국도에서 제한속도의 두 배에 가까운 시속 157㎞로 달리며 10분 동안 20차례 넘게 교통법규를 위반한 50대 운전자가 경찰에 붙잡혔다. 경찰 조사…",
+   "summary_long": "◇급차선 변경 등 교통법규 위반 운전자 적발. 추석 연휴 강원지역 국도에서 제한속도의 두 배에 가까운 시속 157㎞로 달리며 10분 동안 20차례 넘게 교통법규를 위반한 50대 운전자가 경찰에 붙잡혔다. A씨는 전날 오후 3시께 홍천군 화촌면 주음치리 국도 44호선에서 그랜저 승용차를 몰며 과속과 급차선 변경 등 난폭운전을 한 혐의를 받는다.\n\n경찰 조사 결과 A씨는 약 10분 동안 모두 22차례 교통법규를 위반한 것으로 파악됐다. A씨는 경찰 조사에서 “원주에 있는 딸이 아파서 교통법규를 위반하게 됐다”고 진술한 것으로 알려졌다. 경찰은 추석 연휴 기간 과속과 난폭운전 등 교통사고 위험을 높이는 중대 교통법규 위반 행위를 집중 단속할 방침이다.",
+   "press": "강원일보",
+   "source": "강원일보",
+   "link": "https://n.news.naver.com/article/087/0001220320",
    "selection": "경제·시사",
-   "feed": "뉴스 03. “엄마, 이번에 1000만원 드릴게”…추석 용돈에도 세금 붙나요\n\n생활비·병원비 직접 사용이 핵심. 상속세법 제53조에 따르면 부모가 자녀 등 직계비속에게 받은 재산은 10년간 5000만원까지 세금을 내지 않아도 된다. 부모에게 충분한 소득과 재산이 있는데 자녀가 거액을 정기적으로 보냈다면 단순한 부양 목적의 생활비로 인정받기 어려울 수 있다.\n\n부모가 실제 생활비로 사용하고 부양 필요성이 인정된다면 비과세 생활비가 될 수 있다. 생활비가 아닌 일반 증여로 보더라도 최근 10년간 자녀에게 받은 다른 재산이 없다면 5000만원 공제 한도 안에 들어 납부할 증여세는 없다. 이성호 세무법인 리치 대표세무사는 “결국 부모가 받은 돈이 실제 생활비에 해당하는지가 중요하다”며 “생활비로 사용하면 증여세가 비과세될 수 있지만 재산 축적 용도로 활용하면 비과세되는 증여재산으로 보지 않는다”고 말했다.\n\n출처: 이데일리 / https://n.news.naver.com/article/018/0006375224"
+   "feed": "뉴스 03. ‘칼치기’에 시속 157㎞ 과속까지…난폭운전 50대 붙잡혀\n\n◇급차선 변경 등 교통법규 위반 운전자 적발. 추석 연휴 강원지역 국도에서 제한속도의 두 배에 가까운 시속 157㎞로 달리며 10분 동안 20차례 넘게 교통법규를 위반한 50대 운전자가 경찰에 붙잡혔다. A씨는 전날 오후 3시께 홍천군 화촌면 주음치리 국도 44호선에서 그랜저 승용차를 몰며 과속과 급차선 변경 등 난폭운전을 한 혐의를 받는다.\n\n경찰 조사 결과 A씨는 약 10분 동안 모두 22차례 교통법규를 위반한 것으로 파악됐다. A씨는 경찰 조사에서 “원주에 있는 딸이 아파서 교통법규를 위반하게 됐다”고 진술한 것으로 알려졌다. 경찰은 추석 연휴 기간 과속과 난폭운전 등 교통사고 위험을 높이는 중대 교통법규 위반 행위를 집중 단속할 방침이다.\n\n출처: 강원일보 / https://n.news.naver.com/article/087/0001220320"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/05.png",
-   "pngBytes": 1754406,
-   "title": "\"딸과 성관계 영상 있냐\" 따지러 간 아버지…CCTV 돌려보니 '반전'",
-   "summary": "딸과 사장 사이 '영상 여부' 따지다 폭행 시비. B씨가 A씨에게 다가간 뒤 수초 동안 A씨를 붙잡아 매장 쪽으로 밀었다가 다시 도로 쪽으로 잡아당겨 미는 모습이 영상에…",
-   "summary_long": "딸과 사장 사이 '영상 여부' 따지다 폭행 시비. B씨는 A씨가 자신이 매장 안으로 들어가려는 것을 가로막고 몸으로 여러 차례 밀었다고 주장했다. 이후 매장 안으로 들어가려는 모습이 찍혔고, 약 15초 동안 A씨와 B씨가 모두 화면에서 사라졌다.\n\nA씨가 출입구를 막은 채 B씨를 여러 차례 밀었다면 두 사람이 연달아 서게 돼 적어도 B씨의 모습 일부는 CCTV에 잡혀야 하는데, 해당 구간에는 두 사람 모두 보이지 않았다. 직원 C씨는 법정에서 A씨가 손으로 B씨를 잡는 모습은 봤다고 했지만, 실제로 밀었는지는 기억나지 않는다고 진술했다. B씨가 A씨에게 다가간 뒤 수초 동안 A씨를 붙잡아 매장 쪽으로 밀었다가 다시 도로 쪽으로 잡아당겨 미는 모습이 영상에 남았다.",
-   "press": "파이낸셜뉴스",
-   "source": "파이낸셜뉴스",
-   "link": "https://n.news.naver.com/article/014/0005580579",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/05.png",
+   "pngBytes": 1988823,
+   "title": "노래도 삶도 모른다? 김다현, 논란 속 보여준 진짜 '어른스러움'",
+   "summary": "김다현은 21일 자신의 SNS에 \"심수봉 선생님과 직접 통화도 했고 선생님께서 직접 사과의 말씀도 해주시고 격려도, 따뜻한 위로도 해주셨다\"고 밝혔다. 가수 김다현이…",
+   "summary_long": "17살인 가수 김다현은 갑작스러웠을 상황에도 감정을 드러내기보다 정제된 짧은 글로 자신의 입장을 분명하게 밝혔다. 김다현은 21일 자신의 SNS에 \"심수봉 선생님과 직접 통화도 했고 선생님께서 직접 사과의 말씀도 해주시고 격려도, 따뜻한 위로도 해주셨다\"고 밝혔다. 대뜸 자신을 논란의 중심으로 이끈 선배 가수 심수봉이 사과의 뜻을 전했음을 알리며 직접 진화에 나선 것이다.\n\n김다현에 이어 무대에 오른 심수봉은 관객들 앞에서 \"제 앞에 노래 부른 여자\", \"제 머리를 어지럽게 만들었다\", \"젊은 아가씨가 노래가 뭔지 삶이 뭔지도 모르는 아가씨인 것 같다\" 등의 비판을 했다. 가수 김다현이 심수봉의 공개 비판 이후 차분하고 의연하게 심경을 밝혔다. 이런 상황에서 당사자인 김다현이 직접 나서 심수봉의 사과를 전하며 논란을 일단락하려는 모습을 보인 점도 눈길을 끌었다.",
+   "press": "한국일보",
+   "source": "한국일보",
+   "link": "https://n.news.naver.com/article/469/0000955942",
    "selection": "경제·시사",
-   "feed": "뉴스 04. \"딸과 성관계 영상 있냐\" 따지러 간 아버지…CCTV 돌려보니 '반전'\n\n딸과 사장 사이 '영상 여부' 따지다 폭행 시비. B씨는 A씨가 자신이 매장 안으로 들어가려는 것을 가로막고 몸으로 여러 차례 밀었다고 주장했다. 이후 매장 안으로 들어가려는 모습이 찍혔고, 약 15초 동안 A씨와 B씨가 모두 화면에서 사라졌다.\n\nA씨가 출입구를 막은 채 B씨를 여러 차례 밀었다면 두 사람이 연달아 서게 돼 적어도 B씨의 모습 일부는 CCTV에 잡혀야 하는데, 해당 구간에는 두 사람 모두 보이지 않았다. 직원 C씨는 법정에서 A씨가 손으로 B씨를 잡는 모습은 봤다고 했지만, 실제로 밀었는지는 기억나지 않는다고 진술했다. B씨가 A씨에게 다가간 뒤 수초 동안 A씨를 붙잡아 매장 쪽으로 밀었다가 다시 도로 쪽으로 잡아당겨 미는 모습이 영상에 남았다.\n\n출처: 파이낸셜뉴스 / https://n.news.naver.com/article/014/0005580579"
+   "feed": "뉴스 04. 노래도 삶도 모른다? 김다현, 논란 속 보여준 진짜 '어른스러움'\n\n17살인 가수 김다현은 갑작스러웠을 상황에도 감정을 드러내기보다 정제된 짧은 글로 자신의 입장을 분명하게 밝혔다. 김다현은 21일 자신의 SNS에 \"심수봉 선생님과 직접 통화도 했고 선생님께서 직접 사과의 말씀도 해주시고 격려도, 따뜻한 위로도 해주셨다\"고 밝혔다. 대뜸 자신을 논란의 중심으로 이끈 선배 가수 심수봉이 사과의 뜻을 전했음을 알리며 직접 진화에 나선 것이다.\n\n김다현에 이어 무대에 오른 심수봉은 관객들 앞에서 \"제 앞에 노래 부른 여자\", \"제 머리를 어지럽게 만들었다\", \"젊은 아가씨가 노래가 뭔지 삶이 뭔지도 모르는 아가씨인 것 같다\" 등의 비판을 했다. 가수 김다현이 심수봉의 공개 비판 이후 차분하고 의연하게 심경을 밝혔다. 이런 상황에서 당사자인 김다현이 직접 나서 심수봉의 사과를 전하며 논란을 일단락하려는 모습을 보인 점도 눈길을 끌었다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000955942"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/06.png",
-   "pngBytes": 1787378,
-   "title": "연휴에도 뜨거운 조희대…민주 “대통령에 사법권 휘두르는 정치꾼”",
-   "summary": "더불어민주당은 조 대법원장의 행동을 두고 “정치꾼 조희대”라고 반발했고, 국민의힘은 “대법관 임명 거부 사태를 만든 장본인은 이재명 대통령”이라며 화살을 이 대통령에게…",
-   "summary_long": "여야는 24일에도 조희대 대법원장의 ‘대법관 후보 재제청 요구 거부’를 두고 맞붙었다. 더불어민주당은 조 대법원장의 행동을 두고 “정치꾼 조희대”라고 반발했고, 국민의힘은 “대법관 임명 거부 사태를 만든 장본인은 이재명 대통령”이라며 화살을 이 대통령에게 돌렸다. 박성준 민주당 수석대변인은 이날 서면 브리핑을 내어 조 대법원장을 향해 “헌법과 국민이 대통령에게 부여한 임명권을 대법원장이 가로막는 초유의 월권 사태가 벌어졌다”며 “입만 열면 ‘사법권 독립’을 앵무새처럼 되뇌고 있는 조 대법원장은 정작 계엄군이 국회로 향하는 순간에 입을 다물었다”고 비판했다.\n\n또 “계엄 앞에서는 사법권을 내려놓고, 국민이 뽑은 대통령 앞에서는 사법권을 휘두르는 대법원장, 정치꾼 조희대의 모습”이라며 “명백한 월권이자 헌법 위반, 그리고 노골적인 자기 정치”라고 비판했다. 국민의힘은 조 대법원장의 재제청 요구 거부를 “청와대의 막무가내식 요구에 사법부 수장이 제동을 건 것”이라고 했다. 최수진 국민의힘 원내대변인은 논평에서 “사상 초유의 ‘대법관 임명 거부’ 사태를 만든 장본인은 이재명 대통령”이라며 “대법원장의 적법한 제청을 걷어차고 입맛에 맞는 인사를 다시 내놓으라는 것은 명백한 사법부 길들이기”라고 강하게 비판했다.",
-   "press": "한겨레",
-   "source": "한겨레",
-   "link": "https://n.news.naver.com/article/028/0002824575",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/06.png",
+   "pngBytes": 1727732,
+   "title": "'국민 속였다' 유시민에 청와대 \"왜곡·근거 없는 비난\"…법적 대응설엔 \"결정된 바 없어\"",
+   "summary": "이재명 대통령의 검찰개혁을 두고 \"국민을 속였다\"고 비판한 유시민 작가에게 청와대가 어제 이례적으로 공개 유감을 표했습니다. \"근거 없는 비난\", \"사실과 다른…",
+   "summary_long": "이재명 대통령의 검찰개혁을 두고 \"국민을 속였다\"고 비판한 유시민 작가에게 청와대가 어제(24일) 이례적으로 공개 유감을 표했습니다. \"근거 없는 비난\", \"사실과 다른 왜곡\"이라고 했는데, 여당 의원들도 잇따라 유 작가를 공개 비판하고 나섰습니다. 유 작가에 대한 법적 대응 가능성까지 거론되면서 범여권 내부 갈등이 커지고 있는 모양샙니다.\n\n지난 18일 기자회견에서 이재명 대통령은 자신이 생각했던 검찰개혁의 당초 목표를 설명했습니다. \"대통령의 검찰개혁 의지를 사실과 다르게 왜곡하는 것에 유감\"이라며, 유 작가의 주장을 \"근거 없는 비난성 주장\"이라고 규정하고 \"사실관계를 확인 중\"이라고 밝혔습니다. 박지원 의원도 \"왜 둥근 달은 보지 않고 손가락의 손톱 때만 보느냐\"며, 유 작가가 대통령의 검찰개혁 발언에서 \"말꼬리를 잡고 비난하는 것은 심각한 왜곡\"이라고 비판했습니다.//.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000512758",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 연휴에도 뜨거운 조희대…민주 “대통령에 사법권 휘두르는 정치꾼”\n\n여야는 24일에도 조희대 대법원장의 ‘대법관 후보 재제청 요구 거부’를 두고 맞붙었다. 더불어민주당은 조 대법원장의 행동을 두고 “정치꾼 조희대”라고 반발했고, 국민의힘은 “대법관 임명 거부 사태를 만든 장본인은 이재명 대통령”이라며 화살을 이 대통령에게 돌렸다. 박성준 민주당 수석대변인은 이날 서면 브리핑을 내어 조 대법원장을 향해 “헌법과 국민이 대통령에게 부여한 임명권을 대법원장이 가로막는 초유의 월권 사태가 벌어졌다”며 “입만 열면 ‘사법권 독립’을 앵무새처럼 되뇌고 있는 조 대법원장은 정작 계엄군이 국회로 향하는 순간에 입을 다물었다”고 비판했다.\n\n또 “계엄 앞에서는 사법권을 내려놓고, 국민이 뽑은 대통령 앞에서는 사법권을 휘두르는 대법원장, 정치꾼 조희대의 모습”이라며 “명백한 월권이자 헌법 위반, 그리고 노골적인 자기 정치”라고 비판했다. 국민의힘은 조 대법원장의 재제청 요구 거부를 “청와대의 막무가내식 요구에 사법부 수장이 제동을 건 것”이라고 했다. 최수진 국민의힘 원내대변인은 논평에서 “사상 초유의 ‘대법관 임명 거부’ 사태를 만든 장본인은 이재명 대통령”이라며 “대법원장의 적법한 제청을 걷어차고 입맛에 맞는 인사를 다시 내놓으라는 것은 명백한 사법부 길들이기”라고 강하게 비판했다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002824575"
+   "feed": "뉴스 05. '국민 속였다' 유시민에 청와대 \"왜곡·근거 없는 비난\"…법적 대응설엔 \"결정된 바 없어\"\n\n이재명 대통령의 검찰개혁을 두고 \"국민을 속였다\"고 비판한 유시민 작가에게 청와대가 어제(24일) 이례적으로 공개 유감을 표했습니다. \"근거 없는 비난\", \"사실과 다른 왜곡\"이라고 했는데, 여당 의원들도 잇따라 유 작가를 공개 비판하고 나섰습니다. 유 작가에 대한 법적 대응 가능성까지 거론되면서 범여권 내부 갈등이 커지고 있는 모양샙니다.\n\n지난 18일 기자회견에서 이재명 대통령은 자신이 생각했던 검찰개혁의 당초 목표를 설명했습니다. \"대통령의 검찰개혁 의지를 사실과 다르게 왜곡하는 것에 유감\"이라며, 유 작가의 주장을 \"근거 없는 비난성 주장\"이라고 규정하고 \"사실관계를 확인 중\"이라고 밝혔습니다. 박지원 의원도 \"왜 둥근 달은 보지 않고 손가락의 손톱 때만 보느냐\"며, 유 작가가 대통령의 검찰개혁 발언에서 \"말꼬리를 잡고 비난하는 것은 심각한 왜곡\"이라고 비판했습니다.//.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000512758"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/07.png",
-   "pngBytes": 1518802,
-   "title": "오조준한 여권, 당신들이 베야 할 용은 대통령이 아니다",
-   "summary": "지난 월요일 발표된 리얼미터에서는 대통령 지지율이 1%p 반등했습니다. 유시민 작가의 '대통령이 지금까지 국민을 속였다'라는 비평은 대통령의 본심이 드러났다는 식으로…",
-   "summary_long": "지난 월요일(21일) 발표된 리얼미터에서는 대통령 지지율이 1%p 반등했습니다. 한다면 금요일(25일) 나올 결과를 보면 대통령 기자회견 효과를 알 수 있을 듯합니다. 유시민 작가의 '대통령이 지금까지 국민을 속였다'라는 비평은 대통령의 본심이 드러났다는 식으로 들립니다.\n\n유시민 작가를 비롯한 반뉴이재명 그룹이 대통령을 계속 비판하는 이유는 역시 검찰 개혁의 불철저성이었나 봅니다. 유시민 작가는 대통령을, 조국 원장은 김민석 대표를, 김민석 대표와 송영길 의원은 추미애 경기지사와 조국 원장을, 도대체 하루도 조용할 날이 없습니다. 하물며 대통령은 장동혁, 오세훈, 한동훈에게 용이지, 여러분이 베야 할 용이 아닙니다.",
-   "press": "오마이뉴스",
-   "source": "오마이뉴스",
-   "link": "https://n.news.naver.com/article/047/0002530207",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/07.png",
+   "pngBytes": 1807719,
+   "title": "\"합의 깬 우크라 아쉽다\"…'왜 숨겼나' 공세엔 직접 반박",
+   "summary": "젤렌스키 대통령이 북한군 포로들을 한국에 송환한 걸 일방적으로 공개하자 \"비공개 합의를 어겼다\"며 \"많이 아쉽다\"고 했습니다. 그러면서 '북한 눈치보느라 송환 사실…",
+   "summary_long": "이재명 대통령이 외교 일정 중에도 야권에서 제기한 문제들에 공개적으로 입장을 밝히며 반박했습니다. 젤렌스키 대통령이 북한군 포로들을 한국에 송환한 걸 일방적으로 공개하자 \"비공개 합의를 어겼다\"며 \"많이 아쉽다\"고 했습니다. 그러면서 '북한 눈치보느라 송환 사실 숨겼냐'는 야권을 향해 \"자기 이익을 위해 국익을 해치는 사람을 살인자, 매국노라 부른다\"고 강하게 비판했습니다.\n\n\"북한 포로 송환 문제는 외교, 안보, 한반도 정세에 크게 영향을 미치는 예민한 의제\"라면서 \"성과를 생색내느라 포로 송환 사실을 징 치고 춤추며 온 세상에 광고했을 그들 입장에서는 비공개 노력이 이해가 안 될 것\"이라고 했습니다. 이 대통령은 \"지지율 만회에 도움될 송환 사실을 공개하자는 내부 주장이 왜 없었겠냐\"면서 \"자기 이익을 위해 누군가의 생명과 국익을 해치는 사람을 살인자, 매국노라 부른다\"고도 했습니다. 한편, 우크라이나 측은 젤렌스키 대통령의 연설에 송환 관련 내용이 있을 거라고 알린 걸로 전해졌는데, 이 대통령은 공개 이후 \"사정이 있겠지만 비공개 합의를 어긴 게 많이 아쉽다\"고 밝혔습니다.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000512775",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 오조준한 여권, 당신들이 베야 할 용은 대통령이 아니다\n\n지난 월요일(21일) 발표된 리얼미터에서는 대통령 지지율이 1%p 반등했습니다. 한다면 금요일(25일) 나올 결과를 보면 대통령 기자회견 효과를 알 수 있을 듯합니다. 유시민 작가의 '대통령이 지금까지 국민을 속였다'라는 비평은 대통령의 본심이 드러났다는 식으로 들립니다.\n\n유시민 작가를 비롯한 반뉴이재명 그룹이 대통령을 계속 비판하는 이유는 역시 검찰 개혁의 불철저성이었나 봅니다. 유시민 작가는 대통령을, 조국 원장은 김민석 대표를, 김민석 대표와 송영길 의원은 추미애 경기지사와 조국 원장을, 도대체 하루도 조용할 날이 없습니다. 하물며 대통령은 장동혁, 오세훈, 한동훈에게 용이지, 여러분이 베야 할 용이 아닙니다.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002530207"
+   "feed": "뉴스 06. \"합의 깬 우크라 아쉽다\"…'왜 숨겼나' 공세엔 직접 반박\n\n이재명 대통령이 외교 일정 중에도 야권에서 제기한 문제들에 공개적으로 입장을 밝히며 반박했습니다. 젤렌스키 대통령이 북한군 포로들을 한국에 송환한 걸 일방적으로 공개하자 \"비공개 합의를 어겼다\"며 \"많이 아쉽다\"고 했습니다. 그러면서 '북한 눈치보느라 송환 사실 숨겼냐'는 야권을 향해 \"자기 이익을 위해 국익을 해치는 사람을 살인자, 매국노라 부른다\"고 강하게 비판했습니다.\n\n\"북한 포로 송환 문제는 외교, 안보, 한반도 정세에 크게 영향을 미치는 예민한 의제\"라면서 \"성과를 생색내느라 포로 송환 사실을 징 치고 춤추며 온 세상에 광고했을 그들 입장에서는 비공개 노력이 이해가 안 될 것\"이라고 했습니다. 이 대통령은 \"지지율 만회에 도움될 송환 사실을 공개하자는 내부 주장이 왜 없었겠냐\"면서 \"자기 이익을 위해 누군가의 생명과 국익을 해치는 사람을 살인자, 매국노라 부른다\"고도 했습니다. 한편, 우크라이나 측은 젤렌스키 대통령의 연설에 송환 관련 내용이 있을 거라고 알린 걸로 전해졌는데, 이 대통령은 공개 이후 \"사정이 있겠지만 비공개 합의를 어긴 게 많이 아쉽다\"고 밝혔습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000512775"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/08.png",
-   "pngBytes": 2087651,
-   "title": "靑, 유시민에 인내심 한계? “檢개혁 의지 왜곡” 법적 대응 검토",
-   "summary": "청와대가 이재명 대통령의 검찰 개혁 발언을 비판한 유시민 작가에 대해 법적 대응을 검토하는 것으로 24일 알려졌다. 강유정 청와대 수석대변인은 당시 “수사와 기소의…",
-   "summary_long": "청와대가 이재명 대통령의 검찰 개혁 발언을 비판한 유시민 작가에 대해 법적 대응을 검토하는 것으로 24일 알려졌다. 여권 관계자는 이날 “청와대는 유 작가가 사실과 다른 주장으로 이 이 대통령의 검찰개혁 의지를 왜곡하고 있다는 점을 심각하게 받아들이고 있다”며 “청와대에서 법적 대응을 검토하는 것으로 안다”고 전했다. 그는 특히 “이 대통령은 법무부 안에 ‘수사를 하는 검찰’과 ‘기소를 하는 검찰’을 나누는 것이 원래 검찰 개혁의 최대치라고 말했다.\n\n그러나 청와대는 유 작가의 이런 발언이 이 대통령이 마치 수사·기소 분리에 소극적이라는 인식을 심어줄 우려가 있다고 보고 있다. 지난 7월에도 유 작가는 유튜브 채널 ‘매불쇼’에서 “1년 넘게 개혁이 이뤄지지 않은 것은 대통령이 수사·기소의 완전한 분리를 원하지 않기 때문”이라고 언급했다. 강유정 청와대 수석대변인은 당시 “수사와 기소의 분리라는 검찰 개혁의 핵심 가치에 대해 이재명 대통령과 청와대는 한 번도 흔들린 적이 없다”고 반박했다.",
-   "press": "헤럴드경제",
-   "source": "헤럴드경제",
-   "link": "https://n.news.naver.com/article/016/0002701675",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/08.png",
+   "pngBytes": 1952110,
+   "title": "이 대통령 \"선명한 주장, 멋있을지 몰라도 좋은 결과 어려워\"…유시민 겨냥?",
+   "summary": "너무 빨리, 멀리, 급하게 가다가 반동을 맞이한다며 노무현 정부 당시 국가보안법의 찬양·고무죄 폐지 논쟁 예로 들어. 그러나 그것은 실제로 우리가 원하는 바람직한 상황을…",
+   "summary_long": "멕시코 국빈 방문 중인 이재명 대통령, 현지시간 24일 동포 간담회 참석. 너무 빨리, 멀리, 급하게 가다가 반동을 맞이한다며 노무현 정부 당시 국가보안법의 찬양·고무죄 폐지 논쟁 예로 들어. \"국가보안법 통째로 폐지하는건 무리니까 독소조항 몇 개라도 삭제하자 다 여야가 합의를 거의 했어요.\n\n당시 국가보안법 폐지 강하게 주장했던 유시민 작가 겨냥? 그러나 그것은 실제로 우리가 원하는 바람직한 상황을 만드는 데에는 선명해서 멋있을지는 몰라도 실제로 좋은 결과를 만들기는 쉽지 않습니다.\" 이 대통령 \"한꺼번에 해치우면 좋지만 쉽지 않다\", \"가급적 저항, 반발 최소화하고 실질적 결과 만들어야\"",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000512744",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 靑, 유시민에 인내심 한계? “檢개혁 의지 왜곡” 법적 대응 검토\n\n청와대가 이재명 대통령의 검찰 개혁 발언을 비판한 유시민 작가에 대해 법적 대응을 검토하는 것으로 24일 알려졌다. 여권 관계자는 이날 “청와대는 유 작가가 사실과 다른 주장으로 이 이 대통령의 검찰개혁 의지를 왜곡하고 있다는 점을 심각하게 받아들이고 있다”며 “청와대에서 법적 대응을 검토하는 것으로 안다”고 전했다. 그는 특히 “이 대통령은 법무부 안에 ‘수사를 하는 검찰’과 ‘기소를 하는 검찰’을 나누는 것이 원래 검찰 개혁의 최대치라고 말했다.\n\n그러나 청와대는 유 작가의 이런 발언이 이 대통령이 마치 수사·기소 분리에 소극적이라는 인식을 심어줄 우려가 있다고 보고 있다. 지난 7월에도 유 작가는 유튜브 채널 ‘매불쇼’에서 “1년 넘게 개혁이 이뤄지지 않은 것은 대통령이 수사·기소의 완전한 분리를 원하지 않기 때문”이라고 언급했다. 강유정 청와대 수석대변인은 당시 “수사와 기소의 분리라는 검찰 개혁의 핵심 가치에 대해 이재명 대통령과 청와대는 한 번도 흔들린 적이 없다”고 반박했다.\n\n출처: 헤럴드경제 / https://n.news.naver.com/article/016/0002701675"
+   "feed": "뉴스 07. 이 대통령 \"선명한 주장, 멋있을지 몰라도 좋은 결과 어려워\"…유시민 겨냥?\n\n멕시코 국빈 방문 중인 이재명 대통령, 현지시간 24일 동포 간담회 참석. 너무 빨리, 멀리, 급하게 가다가 반동을 맞이한다며 노무현 정부 당시 국가보안법의 찬양·고무죄 폐지 논쟁 예로 들어. \"국가보안법 통째로 폐지하는건 무리니까 독소조항 몇 개라도 삭제하자 다 여야가 합의를 거의 했어요.\n\n당시 국가보안법 폐지 강하게 주장했던 유시민 작가 겨냥? 그러나 그것은 실제로 우리가 원하는 바람직한 상황을 만드는 데에는 선명해서 멋있을지는 몰라도 실제로 좋은 결과를 만들기는 쉽지 않습니다.\" 이 대통령 \"한꺼번에 해치우면 좋지만 쉽지 않다\", \"가급적 저항, 반발 최소화하고 실질적 결과 만들어야\"\n\n출처: JTBC / https://n.news.naver.com/article/437/0000512744"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-25/09.png",
-   "pngBytes": 1346104
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-26/09.png",
+   "pngBytes": 1346060
   }
  ],
- "caption": "📰 9월 25일 오늘의 뉴스\n\n1. 이 대통령, 김 여사 생가터 복원논란에 \"있지도 않은 일, 명예훼손 범죄\"\n   이재명 대통령이 일각에서 제기하는 김혜경 여사의 생가터 복원 논란과 관련해 \"하지도 않은 말, 있지도 않은 일을 사실처럼 전제하고 공격하는 건 지양해야 한다\"고…\n2. [단독] 지뢰에 발목 잃은 중령, 수술 뒤 첫마디 “부대원 괜찮나”\n   지난 21일 경기 파주 비무장지대 지뢰 폭발 사고로 발목을 잃은 육군 25사단 수색대대장 A중령이 마취에서 깨어난 뒤 이렇게 물었다. 23일 국방부와 군 관계자들에…\n3. “엄마, 이번에 1000만원 드릴게”…추석 용돈에도 세금 붙나요\n   생활비가 아닌 일반 증여로 보더라도 최근 10년간 자녀에게 받은 다른 재산이 없다면 5000만원 공제 한도 안에 들어 납부할 증여세는 없다. 이성호 세무법인 리치…\n4. \"딸과 성관계 영상 있냐\" 따지러 간 아버지…CCTV 돌려보니 '반전'\n   딸과 사장 사이 '영상 여부' 따지다 폭행 시비. B씨가 A씨에게 다가간 뒤 수초 동안 A씨를 붙잡아 매장 쪽으로 밀었다가 다시 도로 쪽으로 잡아당겨 미는 모습이 영상에…\n5. 연휴에도 뜨거운 조희대…민주 “대통령에 사법권 휘두르는 정치꾼”\n   더불어민주당은 조 대법원장의 행동을 두고 “정치꾼 조희대”라고 반발했고, 국민의힘은 “대법관 임명 거부 사태를 만든 장본인은 이재명 대통령”이라며 화살을 이 대통령에게…\n6. 오조준한 여권, 당신들이 베야 할 용은 대통령이 아니다\n   지난 월요일 발표된 리얼미터에서는 대통령 지지율이 1%p 반등했습니다. 유시민 작가의 '대통령이 지금까지 국민을 속였다'라는 비평은 대통령의 본심이 드러났다는 식으로…\n7. 靑, 유시민에 인내심 한계? “檢개혁 의지 왜곡” 법적 대응 검토\n   청와대가 이재명 대통령의 검찰 개혁 발언을 비판한 유시민 작가에 대해 법적 대응을 검토하는 것으로 24일 알려졌다. 강유정 청와대 수석대변인은 당시 “수사와 기소의…\n\n🗣 “비판은 자유이나 없어진 사실을 지금 현재 일인 것처럼 만드는 것은 표현의 자유가 아니라 타인의 명예를 훼손하는 범죄”\n이 발언을 그대로 실은 보도 10건 · MBC 뉴스 · 뉴스1 · 다음뉴스 · JTBC\n· MBC 뉴스 — 이 대통령, 김 여사 생가터 복원논란에 \"있지도 않은 일, 명예훼손 범죄\"\n· 뉴스1 — 李대통령, 金여사 생가터 복원 논란 소환에 \"있지도 않은 일, 명예훼손 범죄\"\n· 다음뉴스 — 이 대통령, ‘김 여사 생가 복원 추진’ 게시물에 “명예훼손 범죄, 이미 소멸된 이야기”\n· JTBC — 김혜경 여사 생가복원?…이 대통령 \"소멸된 얘기, 명예훼손\"\n· MBC 뉴스 — 이 대통령, 김 여사 생가터 복원 논란 소환에 \"있지도 않은 일, 명예훼손 범죄\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실 #추석\n\n출처: MBC, 오마이뉴스, 이데일리, 중앙일보, 파이낸셜뉴스, 한겨레, 헤럴드경제"
+ "caption": "📰 9월 26일 오늘의 뉴스\n\n1. 이 대통령, 유시민 직격?…“누군가 국보법 ‘통째 폐지’ 주장해 독소조항 남았다”\n   유시민 작가, 이재명 대통령. 이 대통령은 이날 멕시코의 한 호텔에서 열린 동포 간담회에서 “제가 프랑스 갔을 때 프랑스 혁명 얘기를 한 번 했는데, 혁명적 상황이 되면…\n2. '4성 장군 출신' 김병주 \"한동훈, 모르면 제발 입 좀 닥치라\"…DMZ 설전\n   김 의원은 한 의원이 '북한군이 추석에 쳐들어오면 연휴 끝나고 싸울 것이냐'고 말한 것을 언급하며 \"전투와 사고 현장 감식은 전혀 다른 일\"이라며 \"적이 도발하면 우리…\n3. ‘칼치기’에 시속 157㎞ 과속까지…난폭운전 50대 붙잡혀\n   추석 연휴 강원지역 국도에서 제한속도의 두 배에 가까운 시속 157㎞로 달리며 10분 동안 20차례 넘게 교통법규를 위반한 50대 운전자가 경찰에 붙잡혔다. 경찰 조사…\n4. 노래도 삶도 모른다? 김다현, 논란 속 보여준 진짜 '어른스러움'\n   김다현은 21일 자신의 SNS에 \"심수봉 선생님과 직접 통화도 했고 선생님께서 직접 사과의 말씀도 해주시고 격려도, 따뜻한 위로도 해주셨다\"고 밝혔다. 가수 김다현이…\n5. '국민 속였다' 유시민에 청와대 \"왜곡·근거 없는 비난\"…법적 대응설엔 \"결정된 바 없어\"\n   이재명 대통령의 검찰개혁을 두고 \"국민을 속였다\"고 비판한 유시민 작가에게 청와대가 어제 이례적으로 공개 유감을 표했습니다. \"근거 없는 비난\", \"사실과 다른…\n6. \"합의 깬 우크라 아쉽다\"…'왜 숨겼나' 공세엔 직접 반박\n   젤렌스키 대통령이 북한군 포로들을 한국에 송환한 걸 일방적으로 공개하자 \"비공개 합의를 어겼다\"며 \"많이 아쉽다\"고 했습니다. 그러면서 '북한 눈치보느라 송환 사실…\n7. 이 대통령 \"선명한 주장, 멋있을지 몰라도 좋은 결과 어려워\"…유시민 겨냥?\n   너무 빨리, 멀리, 급하게 가다가 반동을 맞이한다며 노무현 정부 당시 국가보안법의 찬양·고무죄 폐지 논쟁 예로 들어. 그러나 그것은 실제로 우리가 원하는 바람직한 상황을…\n\n🗣 “원주에 있는 딸이 아파서 교통법규를 위반하게 됐다”\n이 발언을 그대로 실은 보도 10건 · kyeonggi.com · weekly.chosun.com · 강원일보 · 한국경제\n· kyeonggi.com — “딸이 아파서”…추석 연휴 국도서 157㎞로 내달린 50대, 22차례 법규 위반\n· weekly.chosun.com — “아픈 딸 보러 가려고”…국도서 시속 157㎞ 질주한 50대\n· 강원일보 — ‘칼치기’에 시속 157㎞ 과속까지…난폭운전 50대 붙잡혀\n· 한국경제 — \"딸이 아파서…\" 국도서 시속 157㎞ 질주 변명했지만 결국\n· 문화일보 — “딸이 아파서 그랬다”…157㎞로 달리고 ‘칼치기’까지 22차례 교통법규 위반한 남성\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, 강원일보, 한겨레, 한국일보"
 }
