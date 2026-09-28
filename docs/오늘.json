@@ -1,345 +1,401 @@
 {
- "date": "2026-09-27",
- "generated_at": "2026-09-27T10:02:19+09:00",
+ "date": "2026-09-28",
+ "generated_at": "2026-09-28T10:20:02+09:00",
  "mode": "daily",
- "window_start": "2026-09-26T00:00:00+09:00",
- "window_end": "2026-09-26T23:59:59+09:00",
+ "window_start": "2026-09-27T00:00:00+09:00",
+ "window_end": "2026-09-27T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "박지원 “포로·지뢰 알아야 한동훈과 싸우지”… 한동훈 “나 말고 정신 나간 사람들과 싸워라”",
-   "source": "디지털타임스",
-   "url": "https://n.news.naver.com/article/029/0003049874",
-   "published_at": "2026-09-26T11:35:00+09:00",
+   "title": "\"한동훈 때문에 미칠 것 같다\"…이하늘에 韓 \"한잔해요\"",
+   "source": "TV조선",
+   "url": "https://n.news.naver.com/article/448/0000641606",
+   "published_at": "2026-09-27T09:07:42+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "박지원 민주당 의원 “지뢰·북한군 포로, 사실대로 밝혀야” 5선의 박지원 의원은 26일 페이스북에 “지뢰 사고로 우리 군인이 사고를 당했다면 사실대로 밝혀야 우리 국민이…",
-   "summary_long": "박지원 민주당 의원 “지뢰·북한군 포로, 사실대로 밝혀야” 무소속 한동훈 의원이 지난 24일 용산구 국방부 앞에서 비무장지대(DMZ) 내 지뢰 추정 폭발사고 관련 즉각 조사를 촉구하는 1인시위를 하고 있다. 우크라이나의 북한군 포로 한국 송환과 비무장지대(DMZ) 지뢰 폭발 사고와 관련해 여야가 설전이 격화화고 있다.\n\n5선의 박지원 의원은 26일 페이스북에 “지뢰 사고로 우리 군인이 사고를 당했다면 사실대로 밝혀야 우리 국민이 이해한다”며 “우크라이나에서 북한군 포로 2명이 우리나라에 왔다면 왜 인도적 차원에서 포로를 우크라이나로부터 인수했다는 사실을 밝히지 못하냐”라고 적었다. 박 의원은 정부가 여당에도 설명을 제대로 하지 않았다며 “우리 여당 의원들은 굿이나 보고 떡이나 먹으라는 정부의 여당 무시냐. 이에 대해 한동훈 무소속 의원은 페이스북에 “박지원 의원은 한동훈 말고 추석 빨간날 다 지나고 현장조사 시작하겠다는 정신나간 사람들과 싸워라”라고 밝혔다.",
+   "summary": "유튜브 채널 '이하늘의 별의별 말' 영상 캡처DJ DOC 이하늘이 \"한동훈 때문에 미칠 것 같다\"며 한동훈 무소속 의원을 언급하자, 한 의원이 \"한잔합시다\"라고…",
+   "summary_long": "유튜브 채널 '이하늘의 별의별 말' 영상 캡처DJ DOC 이하늘이 \"한동훈 때문에 미칠 것 같다\"며 한동훈 무소속 의원을 언급하자, 한 의원이 \"한잔합시다\"라고 화답했다. 한 의원은 27일 자신의 SNS에 이하늘의 발언이 담긴 영상을 공유하고 짧게 \"한잔해요\"라고 적었다. 영상에서 이하늘은 \"정말 한동훈 때문에 미칠 것 같아요\"라며 \"지금 민주당 사람들이 절 잡아먹으려고 그래요\"라고 말했다.\n\n이어 \"지금 정말 한동훈이 1타 2피예요\"라며 \"나도 잡고 민주당 흔들고 분열시키고, 저 한동훈 때문에 미칠 것 같아요\"라고 했다. 이하늘은 지난 13일 유튜브 영상에서 \"민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸\"이라고 자신의 견해를 밝혔다. 과거 한 의원을 여러 차례 놀렸던 일을 언급하며 \"나중에 한동훈이 되면 나 X될 것 같다\"고도 말했다.",
    "quotes": [
-    "우리 여당 의원들은 굿이나 보고 떡이나 먹으라는 정부의 여당 무시냐. 야당과 무소속 한동훈 의원과 싸우려 해도 알아야 면장을 한다",
-    "우크라이나에서 북한군 포로 2명이 우리나라에 왔다면 왜 인도적 차원에서 포로를 우크라이나로부터 인수했다는 사실을 밝히지 못하냐",
-    "민주당이 이번에도 북한군의 서해 공무원 피격 사건 때처럼 국민 보호 내평겨쳤다가는 국민들에게 진짜 내팽겨쳐질 것"
+    "민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸",
+    "나도 잡고 민주당 흔들고 분열시키고, 저 한동훈 때문에 미칠 것 같아요",
+    "지금 민주당 사람들이 절 잡아먹으려고 그래요"
    ],
-   "press": "디지털타임스",
+   "press": "TV조선",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "우리 여당 의원들은 굿이나 보고 떡이나 먹으라는 정부의 여당 무시냐. 야당과 무소속 한동훈 의원과 싸우려 해도 알아야 면장을 한다",
-    "n": 5,
-    "verified": 0,
-    "items": [
-     {
-      "press": "연합뉴스",
-      "title": "與, 국힘 '지뢰사고' 공세에 \"안보 불안 음모론…매국적 행태\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FQ2JLME90ZGJLMExBNy10Mm8yR1RqTExBZGpZd0dySVNmV3Z3cWhENTVDTmpLaENRNDB1c3Yza0FPRk1aUW1DR0xpa054THQ3cV9LOUNCS1BGNXo1SHZGMtIBYEFVX3lxTE1FQ2JLME90ZGJLMExBNy10Mm8yR1RqTExBZGpZd0dySVNmV3Z3cWhENTVDTmpLaENRNDB1c3Yza0FPRk1aUW1DR0xpa054THQ3cV9LOUNCS1BGNXo1SHZGMg?oc=5"
-     },
-     {
-      "press": "경향신문",
-      "title": "여야 지뢰 폭발 공방 이어가···박지원 “사실대로 밝혀야지 국민이 이해”",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zeGRsMXgtYmp3VlFyLTRwUkhXMzNmYVVlT25STUdVTkEzejRXSVNtWWtKZ1Y0cTVSOGVxMTJhMnBkc0FWZUZTWjRqMllWUVNrODBjZDdaQnQ1Y2NBd0dr0gFfQVVfeXFMTTN4ZGwxeC1iandWUXItNHBSSFczM2ZhVWVPblJNR1VOQTN6NFdJU21Za0pnVjRxNVI4ZXExMmEycGRzQVZlRlNaNGoyWVZRU2s4MGNkN1pCdDVjY0F3R2s?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "박지원 “포로·지뢰 알아야 한동훈과 싸우지”… 한동훈 “나 말고 정신 나간 사람들과 싸워라”",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBmeWNha2pjNVUzbnhhdnVIZXVLVkxqSHRxdGJNTXNzVU1jdTZLTVJqWkZrNlo3RkVNYWgwcC1FVGlIQk5YWGc?oc=5"
-     },
-     {
-      "press": "한국경제TV",
-      "title": "＂다치면 느그 아들＂ vs ＂도 넘은 음모론＂…＇지뢰 공방＇ 격화",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LWHFyRFNFV0xMRzh5NEgzOC1qVGV3LWV5aThOWEQ3a1NjNUozOHYzcFVGOUhxTW51YThya09qdE9MbDhQNDZBdkpwZFJlUjJGcG1mZG0ySmdHUnhIMjlUd2dsNmpjYktkVERRVEw2cWtrV28?oc=5"
-     },
-     {
-      "press": "싱글리스트",
-      "title": "박지원, '지뢰·북한군 포로' 정부 대응 비판...\"사실대로 밝혀야\"",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PTkNKZ2ZRNlY2WDRxU3ZYb2c2VVZ6VnloaWZTTzUwemd1LVFwTEgya2dLZXVyM1QzNkFuWkw0N2RBeXk4S2VIbGhzZHhHZmpTOXk2Rkl6NTR0WGhzMHZoOHlBVDNuQQ?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "[속보]“李대통령, 유시민 못 이겨…멘탈 깨진 듯” 한동훈의 말",
-   "source": "문화일보",
-   "url": "https://n.news.naver.com/article/021/0002821221",
-   "published_at": "2026-09-26T09:59:12+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "selection": "정치",
-   "summary": "한동훈 무소속 의원이 유시민 작가의 검찰개혁 관련 발언을 겨냥한 청와대의 대응을 두고 이재명 대통령을 향해 “당신은 유시민을 못 이긴다”고 꼬집었다. 한 의원은 26일…",
-   "summary_long": "한동훈 무소속 의원이 유시민 작가의 검찰개혁 관련 발언을 겨냥한 청와대의 대응을 두고 이재명 대통령을 향해 “당신은 유시민을 못 이긴다”고 꼬집었다. 한 의원은 26일 자신의 SNS에 “이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다”라고 적었다. 이는 최근 유 작가가 이 대통령의 검찰개혁 구상을 두고 “국민을 속였다”는 취지로 비판한 뒤 청와대가 공개적으로 유감을 표명한 것을 겨냥한 발언으로 풀이된다.\n\n앞서 청와대는 지난 24일 유 작가의 발언을 두고 “대통령의 검찰개혁 의지를 사실과 다르게 왜곡하는 것에 유감”이라며 “근거 없는 비난성 주장이 계속되는 것에 대해 사실관계를 확인 중”이라고 밝혔다. 이어 “유시민 씨를 이긴 유경험자로서 이재명 대통령에게 충고한다”며 “당신은 유시민 못 이긴다”고 꼬집었다. 한편 한 의원은 이 대통령을 향해 “걱정스럽게도 이 대통령 멘탈이 깨진 것 같다”며 “멘탈 꽉 잡고 ‘지뢰공격 현장조사’를 지시하고, 외교하러 해외에 나갔으면 유시민 얘기 말고 외교를 하라”고 지적했다.",
-   "quotes": [
-    "이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다",
-    "과거 유시민 씨가 제가 유시민 씨와 노무현재단 계좌를 추적했다는 가짜뉴스를 퍼뜨린 것에 대해 좌천된 상태에서 정면으로 법적 대응해서 이기고, 유시민 씨의 공개 반성문을 받은 적이 있다",
-    "는 취지로 비판한 뒤 청와대가 공개적으로 유감을 표명한 것을 겨냥한 발언으로 풀이된다. 앞서 청와대는 지난 24일 유 작가의 발언을 두고"
-   ],
-   "press": "문화일보",
-   "photo": "02.jpg",
-   "quoted": {
-    "quote": "이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다",
-    "n": 9,
-    "verified": 0,
-    "items": [
-     {
-      "press": "강원일보",
-      "title": "한동훈 “이재명 대통령, 유시민 못 이겨…해외 나갔으면 외교에 집중해야”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5blNSZWpubXQzb0NoLUNfZy1SdklIU1JZT2FKNndOR1JfWDJWbnctRXRILWtJczJVd2pOREZDcmhkSXFMeWg2cHdqMGlqMVZUQVdHNU43clBZSmc?oc=5"
-     },
-     {
-      "press": "주간경향",
-      "title": "한동훈 “유시민 공개 반성문 받은 것은 사실의 힘이었다”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EaHdoOXVDdFIxVWowcHhWU0VnSnVjaGZHZ1FaY29ZVXRzSDdMY1pxTkNpemFvX05IMTY2amhkaC00eENOVUU1YzltWUdFc0xKaEpGTlFjOHJnUEdwWmc?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "“당신은 유시민 못 이깁니다”…한동훈, 이재명 대통령에 직격탄 날렸다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4UjN5dUd1eXVyTEVZVHZXdUN0dnpqcUxyaTVsOEJyUncwOURocHBpV2o4djlVLUVYVnBQWmkwZDRFR3pMZUZRUTZfSmdNX00?oc=5"
-     },
-     {
-      "press": "KBC광주방송",
-      "title": "한동훈 \"李대통령, 유시민 못 이깁니다…해외 나갔으면 외교하라\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IN2Y3OVE0eHRIbFFfeFNaY0ZXc0NOV0VfSnJwU3Q4NmdBZDZRSktLaC0yQ2MzanlnbHpzT3JzM3M1aDdHRGVBLUFDWElkMGlRX3Y4TnFMTlFKVmRtd2lEaQ?oc=5"
-     },
-     {
-      "press": "뉴데일리",
-      "title": "한동훈 \"李, 순방가서 유시민과 이전투구 … 지뢰 현장 조사나 지시하라\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQXNOVkNuYnhLaHRrTWNwSHhhY200VllwRTNtbE5mMHBUaGxteXNKV2FicGFKVVdpWlFOZ3d0aHNFY0JubWtkMTFUTFpiNzFFSjFYMkYzOUxUcVlqSnd2X3puWm9sWGNabEZQVEVmRE5yb0NOejUwd2Z5Y29uXy1HRtIBgAFBVV95cUxPQXNOVkNuYnhLaHRrTWNwSHhhY200VllwRTNtbE5mMHBUaGxteXNKV2FicGFKVVdpWlFOZ3d0aHNFY0JubWtkMTFUTFpiNzFFSjFYMkYzOUxUcVlqSnd2X3puWm9sWGNabEZQVEVmRE5yb0NOejUwd2Z5Y29uXy1HRg?oc=5"
-     },
-     {
-      "press": "sisakoreanews.kr",
-      "title": "한동훈 이재명 대통령 향해 당신은, 유시민 못 이깁니…해외 나갔으면 외교하라",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBaaFZ2MllrYXREbG5JTTBadUloYjgtT2RGdDZnR3JpcE12X2ZaRTVLckpYZUxzTE0zMEVPYm9VVjhIQ1RhTnA4cHB3?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "'52억 펜트하우스' 집순이 한소희의 럭셔리 집…이웃사촌도 어마어마[누구집]",
-   "source": "이데일리",
-   "url": "https://n.news.naver.com/article/018/0006375673",
-   "published_at": "2026-09-26T12:07:11+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "프라이빗한 전원 생활에 강남까지 차로 15분 최근 영화 ‘인턴’의 주연으로 극장가를 사로잡은 배우 한소희의 거주지가 주목받고 있습니다. 한소희는 경기 구리의 고급…",
-   "summary_long": "프라이빗한 전원 생활에 강남까지 차로 15분 최근 영화 ‘인턴’의 주연으로 극장가를 사로잡은 배우 한소희의 거주지가 주목받고 있습니다. 한소희는 경기 구리의 고급 펜트하우스를 52억원에 분양받은 것으로 전해졌는데요. (사진=한소희 인스타그램, 아르카디아 시그니처 홈페이지 갈무리)26일 부동산 업계에 따르면 한소희는 지난 2024년 8월 구리 아천동 아치울마을에 위치한 ‘아르카디아 시그니처’ 전용면적 203㎡를 매입한 것으로 알려집니다.\n\n한소희는 이 집을 52억4000만원에 분양받았고 11억원 가량을 대출받은 것으로 보입니다. 영화 '인턴' 포스터 사진과 아르카디아 시그니처 투시도. (사진=워너브러더스코리아, 아르카디아 시그니처 홈페이지 갈무리)한소희는 2021년에도 같은 아치울마을 고급 빌라에 거주한 바 있습니다.",
-   "press": "이데일리",
-   "photo": "03.jpg"
-  },
-  {
-   "title": "라면 한그릇이 6500원?…공항 밥값 비싼 이유",
-   "source": "헤럴드경제",
-   "url": "https://n.news.naver.com/article/016/0002701967",
-   "published_at": "2026-09-26T10:18:11+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "한국공항공사가 운영하는 공항에서 영업하는 일부 입주업체가 매출의 30%가 넘는 금액을 임대료로 부담하는 것으로 나타났다. 유동 인구가 많은 공항의 특성상 임대료가 일반…",
-   "summary_long": "한국공항공사가 운영하는 공항에서 영업하는 일부 입주업체가 매출의 30%가 넘는 금액을 임대료로 부담하는 것으로 나타났다. 일부 매장은 매출의 절반 이상을 임대료로 내고 있었다. 유동 인구가 많은 공항의 특성상 임대료가 일반 상권보다 높을 수 있지만, 백화점이나 대형마트 등 다른 특수상권보다도 높은 수준의 임대료 부담이 결국 상품 가격 상승을 통해 공항 이용객에게 전가될 수 있다는 지적이 나온다.\n\n국회 국토교통위원회 국민의힘 김미애 의원이 한국공항공사로부터 받은 ‘식음료 매장 매출액·임대료’ 자료에 따르면 2021∼2025년 전국 14개 공항 식음료 매장의 전체 매출은 8659억원, 임대료는 2765억원이었다. 전문가들은 공항 등 특수상권에서는 높은 임대료가 입주업체의 수익성을 압박하고 그 부담이 가격이나 서비스 조정을 통해 소비자에 전가될 수 있다고 지적한다. 이홍주 숙명여대 소비자경제학과 교수는 “공항이라는 특수상권은 높은 유동 인구를 보장받는 대신 높은 임대료를 부담하는 구조”라며 “30%를 넘는 수준이라면 업체의 수익성을 압박할 수 있고 결국 가격이나 서비스 조정을 통해 비용 일부가 소비자에게 전가될 가능성이 대단히 크다”고 짚었다.",
-   "quotes": [
-    "30%를 넘는 수준이라면 업체의 수익성을 압박할 수 있고 결국 가격이나 서비스 조정을 통해 비용 일부가 소비자에게 전가될 가능성이 대단히 크다",
-    "입주업체에 대한 수수료는 운영업체가 정하는 것이고 공항에서 개입할 수 있는 부분은 아니다",
-    "공항이라는 특수상권은 높은 유동 인구를 보장받는 대신 높은 임대료를 부담하는 구조"
-   ],
-   "press": "헤럴드경제",
-   "photo": "04.jpg",
-   "quoted": {
-    "quote": "입주업체에 대한 수수료는 운영업체가 정하는 것이고 공항에서 개입할 수 있는 부분은 아니다",
+    "quote": "민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸",
     "n": 7,
     "verified": 0,
     "items": [
      {
+      "press": "다음뉴스",
+      "title": "이하늘 \"한동훈 때문에 미칠 것 같다\" 발언에⋯한동훈 \"한잔해요\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EZnh0OFRPdWtnTEszR0RJU1ZKdnRqaEFWanppN3RkVXFqXy1JTTIxTXozR3FyQm5PQXVTQzlIYzZiWFIxQVhZMERlS01RdHpOaFpnWg?oc=5"
+     },
+     {
+      "press": "머니투데이",
+      "title": "이하늘 \"한동훈 때문에 미칠 것 같아\"…한동훈 또 화답 \"한잔해요\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUcjY0V3d2NTdOMXRKU20wMHVGZXAwLURsTHY4RjQyYUlRaV9vMWdoc2VrMHRsQU5UMWcwb2NoRXU0cVhuQXgwNEdNcGpURWJSNHFHbWktQ2huMllNcDRsdHBjN2RHWUV3ejhMdtIBckFVX3lxTFByNkphdjIxaVdnRkNZcm5FS2ozQWFmREZjckxBWEstaTJaR092ZGE3bzNNT2dhZ0RPUlB4Qmg2eFJuSmprUTZHdTdGaTVyZ254c01OV3h5ejhKZ2RfSWk3SDlIZHJIUmFBYm1tWWxkMGl3dw?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "이하늘 \"한동훈 때문에 미칠 것 같아요\"…한동훈 \"한잔해요\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tbTdOeDR1SmpkamZvVm9uc25OMzJ5cXlrT2xnMUU2YWFnODRJUjdLcmVBaDZWSjJNRU9fdm9zcDRUYzlXRG9oZlNkOHhmVWo2UzQ2TTJyQV9nbnJTYVlTdNIBeEFVX3lxTE5sUjlXaVgwTTljTG01WnctWUo3YzZHdzFOdmFWNmFESDRpX1BSYVJ2YjN5N1hLOS1ZNHc4R2pzMnpBRVBhc1pDeERHbGVES2NuVl8zRkxtUWphTkhKei05TjdxZ21RMnN0MDd5YUxWdHg1bkxYM1BGeA?oc=5"
+     },
+     {
+      "press": "콜뉴스24",
+      "title": "\"한동훈 때문에 미칠 것 같아요\" 이하늘 영상에…한동훈 \"한잔해요\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMlFFaG81RVQyV2RDbmtmdE1rVVpvVnY3bDBYOUt1WnNtSi0tRGEtSnR4dFg1dHY3NnN4c2Z2cVBzVDZ5UEtRTmZWalpxSEVYYUVlSWxIMUdVbG5GamRMX0FTZnpIMmQ5bWRoeQ?oc=5"
+     },
+     {
+      "press": "헤럴드경제",
+      "title": "이하늘 “한동훈 때문에 미치겠어”…한동훈 “한잔해요”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53OVl6M2tfMU1qVksyNEJydTk3bWRLM19WelJVU1pjV1RXajVscDluQ0JLbnN6Z1FGMnFvdGViQlV4b3l6M2gyNW8yakp1MTRRM2FPVEJ3?oc=5"
+     },
+     {
+      "press": "파이낸셜뉴스",
+      "title": "\"한동훈 때문에…\" 이하늘 말에 韓 \"한잔해요\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PbTVieVMwbmp6b3ZyTnZxcVp1VklQZVpfSzM4dGdjeGU2cmxpR2g4dl9HY1ZCS3c0YlZhTmpVT1ZxenZ0WTh1T092YVQyOFJ5NDl5Nk9xTGcxdw?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "박정희도, 김대중도 아니었다…가장 신뢰하는 전직대통령 1위 노무현",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005740232",
+   "published_at": "2026-09-27T11:30:11+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "selection": "정치",
+   "summary": "2009년 5월 25일 노무현 전 대통령의 빈소가 마련된 경남 김해 봉하마을에서 조문객이 눈물을 흘리고 있다. 국민이 가장 신뢰하는 전직 대통령을 묻는 조사에서 노 전…",
+   "summary_long": "2009년 5월 25일 노무현 전 대통령의 빈소가 마련된 경남 김해 봉하마을에서 조문객이 눈물을 흘리고 있다. 최근 고(故) 노무현 전 대통령이 다시 정치권과 여론의 중심에 등장하고 있다. 국민이 가장 신뢰하는 전직 대통령을 묻는 조사에서 노 전 대통령이 33.0%로 1위를 차지한 가운데, 이재명 대통령은 추석을 앞두고 더불어민주당 의원 전원에게 ‘노무현 평전’을 선물했다는 것이 알려지면서다.\n\n최근 공개된 ‘2026 대한민국 신뢰도 조사’에서 노 전 대통령이 전직 대통령 신뢰도 1위에 오른 직후 이 대통령이 민주당 의원들에게 노무현 전 대통령 관련 책을 전달하면서 그 배경에도 관심이 쏠린다. 박정희 전 대통령이 21.2%로 뒤를 이었고 김대중 전 대통령 12.3%, 문재인·이명박 전 대통령이 각각 6.0%로 나타났다. 이 대통령은 지난 18일 기자회견에서도 노무현·김대중 전 대통령과 문재인 전 대통령 등을 아우르는 메시지를 내놓기도 했다.",
+   "quotes": [
+    "민주주의와 진보, 개혁의 이상을 꿈꾸며 더 좋은 세상을 위해 행동하는 우리는 모두 친문이고 친노이며 친 김대중이며, 이재명의 동지들",
+    "이제 그 길 위에 서고 보니 활자마다 묻어있는 당신의 고뇌와 고독, 결단의 무게가 예전과는 사뭇 다른 울림과 무게로 다가온다",
+    "‘사람 사는 세상’. 대통령께서 평생 품었던 그 꿈은 여전히 우리에게 현재진행형의 과제로 남아 있다"
+   ],
+   "press": "매일경제",
+   "photo": "02.jpg",
+   "quoted": {
+    "quote": "민주주의와 진보, 개혁의 이상을 꿈꾸며 더 좋은 세상을 위해 행동하는 우리는 모두 친문이고 친노이며 친 김대중이며, 이재명의 동지들",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
       "press": "연합뉴스",
-      "title": "공항 밥값 비싼 이유 있었네…매출 30% 넘는 임대료 이용객에 전가",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VUS14UWtTZGRYTlZuRlkxeU1rTlBnM2I3TDhYQndhSk1vT0J5VVFlZ1FrVzNIX0RZMUVTU0J6aVUyZ3o5N3pOcmF6U1ZsRmtndmtQbUY3Y1JBN0HSAWBBVV95cUxPUjE2YUtPeTROandJU3pZS0JrQ0tQMUFOZ3ZqaEk3cXJlY09EMGFUNlFyUFYwZUtIYjJZRDlBUm9DWUZ3eHZPdVJXVy1LcGZtdFljd0FLMV8xUEFJbk5LY18?oc=5"
+      "title": "李대통령, 민주당 의원들에 '노무현 평전' 선물…통합 도모",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rWGlrb19sX0hRYXAxemtCZ3RtS05lZy1hbVZESGZ6cnpRZzhIenplTjh0d2gza1BIUU1xZnVoSlVnZV8wcEgxcWFHZVR5eUROS1d6YkNnQTJRQ0HSAWBBVV95cUxQdHJzVzRPZEJmcmVlYlBJVHR6ZEs1aWJiSTY3Y0RjZVlXa25wcS1KbFNXdURIYWdGektiTTE3aUludGt2VVNsUU1rdE5kQ3cxZEk1eG53STY0TkI5LVJQSUg?oc=5"
+     },
+     {
+      "press": "OhmyNews",
+      "title": "이 대통령, 문 전 대통령과 통화... \"국민통합 의견 경청\"",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xaXNnNXdPZHFTWHpsY0ZjUnZCVVh2MVZfUmJOVUpOc2J5QUFwNzRzcXg5MFJBekd2cjJ1eUFqbWxCV2k2dHFZOS1iQnNnTmNkUVpLbkVjMUYtTzhIVjVqc3JXSC1fdDFjekZTX1daNXp0UUlhRHBZ?oc=5"
+     },
+     {
+      "press": "한국경제",
+      "title": "추석 앞두고 '노무현 평전' 돌린 李…민주당 전 의원에 선물",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hSW5TcWMtYkNHSmhuQ1FkeWVtZWlPeDFXeFAyNEZsSmMxajU5dlIyaEIyaFhyOTFpVjRmcEdDaFBzNTRNRWNrWTVyaHE5ZzJ5aFBpRU53dF93Zw?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "이 대통령, 민주당 의원 전원에 '노무현 평전' 선물",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wSXJ3elhGeUVkYnloZHR5Skg0Y0NiRUhNREhjMG84Z2NQQ3VvWGJkX1I4bTlmT1haQ2pSQmtXWlNjN0dhSnY1aWZsSFFZaFA0SE5jOEppR3AwWG05M3JCX9IBeEFVX3lxTE1sQ0NvWUZneklvUlpfQnlDUGlFQjVkcGdYM0xSVzRiRVVtSEhtWWszczJxWUlvclZINU5RNWQybThVaVdzb0NTaWVrU3p5dHZFd2FOUFVISXptR2dpTFVQYVQ3ZXl4UXpCR3E5WmZSLUd3N0Nrd05KRQ?oc=5"
      },
      {
       "press": "서울경제",
-      "title": "여행 가기 전 “밥 한 끼 먹으려다 깜짝”…공항 밥값 유독 비싼 이유가",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UNjB3WWptaVo5bWo4NC1IS1dIWkpQZzMxOXlPRHBHUmpZRHY1Nml2SWxRQm9XVjRZaDg2RWVqNS1MdDlBS1E5RUx3RUxfWUxzZ2E40gFTQVVfeXFMTlQ2MHdZam1pWjltajg0LUhLV0haSlBnMzE5eU9EcEdSallEdjU2aXZJbFFCb1dWNFloODZFZWo1LUx0OUFLUTlFTHdFTF9ZTHNnYTg?oc=5"
+      "title": "李, 민주당 의원들에 ‘노무현 평전’ 선물…잇단 통합 행보",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8waWttYlVGeEpnUy1TSHFNQmhiLTZ2dzFyUnA0ZkFVczF3MTljaGVDRW1LZE9OWXVNWXIyQzBKcHJJNWxyWndoU0ZWczI0QXIwMmfSAVNBVV95cUxNX05aSFREQXdncEpDMFY2TDRNN2FKcUMtcHZULUNwUFVTZElzdzZ6VGVySjB6SnRhcWYybGJnbnZqemZHZURxVHRQU05CUDBXVXUtWQ?oc=5"
      },
      {
-      "press": "(언론사 미상)",
-      "title": "\"밥값 비싼 이유 있었다\"…공항 임대료 '상상초월' - magazine.hankyung.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CWWY5N0ZhTUJpRE12UGRrVWtWQXNLVl9EOUN5OE9YdjlzTl9BeU1wd2VnZTJZWTF3dExOcGxfbTNTUXRZVE1NNkdaOTUzNnptaTRQTlFQMERydm5UeXFZUEt6VUtyS3FaOEpTSg?oc=5"
+      "press": "supple.kr",
+      "title": "계속되는 여권 내분…고심 깊어지는 민주당 지도부",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lN0ZXMVJySGwyRHNLWldxNWNNYjU0cmVIejhNN3NYRkxxOFpLLThiS0ZHd1lhTEpDbEN0VkRyNFp0LVVDSzZLSnMwdFF2NWhERWZiOGZXUHRtQVcz?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다”",
+   "source": "조선비즈",
+   "url": "https://n.news.naver.com/article/366/0001194539",
+   "published_at": "2026-09-27T09:53:10+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "오세훈 서울시장이 정부의 농지 전수조사와 부동산 정책을 겨냥해 “집 가진 국민도, 땅 가진 국민도 대통령이 싸워야 할 상대가 아니다”라며 비판의 목소리를 냈다. 오…",
+   "summary_long": "오세훈 서울시장이 21일 서울 중구 서울시청에서 열린 ‘서울 주택정책 성과공유회’에서 정비사업 지정과 공공주택 확보 등 주택정책 성과를 발표하고 있다. 오세훈 서울시장이 정부의 농지 전수조사와 부동산 정책을 겨냥해 “집 가진 국민도, 땅 가진 국민도 대통령이 싸워야 할 상대가 아니다”라며 비판의 목소리를 냈다. 오 시장은 27일 자신의 페이스북에 ‘대통령은 더 이상 때려잡을 대상을 국민에게서 찾지 마십시오’라는 제목의 글을 올리고 이같이 밝혔다.\n\n그는 “투기는 막고, 불법도 바로잡아야 한다”면서도 “문제는 투기를 막는다는 명분 아래 국민의 복잡한 삶을 하나의 잣대로 재단하고, 그 원칙에서 벗어난 사람들을 잠재적 투기꾼처럼 의심하는 정책의 방향”이라고 했다. 그러면서 “국민 각자에게는 저마다 피치 못할 사정이 있다”며 “행정이 그 수많은 사정을 일일이 들여다보며 ‘투기’와 ‘선의의 보유자’를 완벽하게 판별할 수 있다고 자신하는 것 자체가 오만이고 독선”이라고 비판했다. 그는 “국민의 삶, 그리고 미래와 직결되는 국가 개혁은 소위 ‘때려잡는’ 계곡 정비와는 차원이 다른 일”이라고 말했다.",
+   "quotes": [
+    "그러다 보니 누군가를 타도하고 청산해야 할 대상으로 정해 싸우는 일만이 국정의 핵심이 되었다. 이를 개혁이라는 이름으로 포장하고, 부작용을 지적하는 사람들은 ‘개혁에 저항하는 기득권’으로 몰아붙인다",
+    "문제는 투기를 막는다는 명분 아래 국민의 복잡한 삶을 하나의 잣대로 재단하고, 그 원칙에서 벗어난 사람들을 잠재적 투기꾼처럼 의심하는 정책의 방향",
+    "국민을 위해 싸워야 한다. 이재명 정부에 대한 국민의 기대가 차갑게 식어가고 있는데, 대통령께도 이 민심의 온도가 온전히 전해지기를 바란다"
+   ],
+   "press": "조선비즈",
+   "photo": "03.jpg",
+   "quoted": {
+    "quote": "문제는 투기를 막는다는 명분 아래 국민의 복잡한 삶을 하나의 잣대로 재단하고, 그 원칙에서 벗어난 사람들을 잠재적 투기꾼처럼 의심하는 정책의 방향",
+    "n": 10,
+    "verified": 0,
+    "items": [
+     {
+      "press": "Chosunbiz",
+      "title": "오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다” - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGdkUl9jTGtlRjVVLV84MVRsUUM1Q2liejZxcVFFX3VpRnhONTdoZ093NVgxZllTakMtVDNHdTY3cDZpemxMNldWZ0dJbldoQzNfVXJpVG9ab3BwTVdzdGgtTllia01kYVV0WV90RUxTQVdNUGVDSmdUZ2hnMjAtRlVKVDdac2RnU1hDTV9rRG9xaGZDX0h3VTJMaTRNQdIBngFBVV95cUxOUGdkUl9jTGtlRjVVLV84MVRsUUM1Q2liejZxcVFFX3VpRnhONTdoZ093NVgxZllTakMtVDNHdTY3cDZpemxMNldWZ0dJbldoQzNfVXJpVG9ab3BwTVdzdGgtTllia01kYVV0WV90RUxTQVdNUGVDSmdUZ2hnMjAtRlVKVDdac2RnU1hDTV9rRG9xaGZDX0h3VTJMaTRNQQ?oc=5"
      },
      {
-      "press": "tv.edaily.co.kr",
-      "title": "“비빔밥이 1만6000원?”…공항 음식 비싼 이유 따로 있었다",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hSHBCZkZEX2tZWkhpRHR2ME0taGhPdmc3Mzh0TnQxSi1VcGl5dkJYb1Y3eDU5Si1pdHBvcGZ3NEJkUUJaUVdxMTJCSlM2Umx3SmR3MHl1SHBFU2dvYWRkUTd1YmczZ1pJd0V0SnFxZjZhRVZSYVRxSjBOTQ?oc=5"
+      "press": "SBS",
+      "title": "오세훈 \"집·땅 가진 국민, 대통령이 싸워야 할 상대 아냐\"",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbnR5T2Y2Y0dqU1JMV1VsSV9yLUhNZUs2WGpkWVcyMFlmMkk4RWlmWTI3bWs2YnVNZGVxb3dLck1Kb2xUSnllaF9RNkdNVEFzS25CMnhGT1VHQ2hfOVVjTXBmMy1IWl80MHhna1RreGtIclI5eVNfZ3hSTkwya2p6UDNiR3J0QQ?oc=5"
      },
      {
-      "press": "매일신문",
-      "title": "전국 공항 식음료 매출 31.9%가 임대료…비빔밥 5년 새 45% 올랐다",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jUU5jallKZ0Q0NXp2UjhUaUJzMk00YjBFMmpLNUNHMmJTRE9VQkZLaGlvYS1QdUxabS1jS1VRVmxkU0FETWtFN0lJX0JOUXBPSXVWZVBOdFNNd1VLcFJzMVdB?oc=5"
+      "press": "파이낸셜뉴스",
+      "title": "오세훈 \"李, 실거주 이어 실경작 집착\"…농지 전수조사 비판",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpTzdvQk15bGxzM2gzaUVNQ3MzNmtvZUVIcGpydUhWbEVCc1d5VnBfNG1DbGdtYzlyazY0MDI1bW5rNkFQa0JHNG9za05MRDNxZF9rNlJidUNHUQ?oc=5"
+     },
+     {
+      "press": "채널A 뉴스",
+      "title": "오세훈 “집·땅 가진 국민, 대통령이 싸워야할 상대 아니다”",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxUndjZkJwdDNLQ25vSGtiSUNjRm1OUk9UdWdjM09qNnJWa0taNFQzQ19ieHdJWkJJbHhyRmFSVWppU3JVWTdlVnNXMG9tVXRzUGhLejdKcDdVSWg5XzJnN0V1UdIBY0FVX3lxTFAxUndjZkJwdDNLQ25vSGtiSUNjRm1OUk9UdWdjM09qNnJWa0taNFQzQ19ieHdJWkJJbHhyRmFSVWppU3JVWTdlVnNXMG9tVXRzUGhLejdKcDdVSWg5XzJnN0V1UQ?oc=5"
+     },
+     {
+      "press": "경기일보",
+      "title": "오세훈 \"李대통령 '때려잡을 대상' 국민에서 찾지 말라…오만이고 독선\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KZ0MzOHlkUGo1MGdKalZTSFJoSlZ5V1pBSVNobmZ0MTRoZVR3Wi1TX3ZZbGJNNWJtdGs4UU9NcGJiWTBlUTJZajFMY0NKSExLVkVlWHlFUUJJMjg?oc=5"
+     },
+     {
+      "press": "머니투데이",
+      "title": "오세훈 \"이제는 실경작 집착…집·땅 가진 국민과 싸우지 말라\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSlRPSVdtNzR3QVFzN0oyOXhYWUg0TlptTFdWQnZ3UzdvOFZtU0N4Rm90STdWeUYzdGJGaWswLVlYZmxDQ0FkdUhsa0dJUmc5bEtuRk15UUI1eVlOWEprUGFhcmlTNGZfaXNoLW5hVdIBb0FVX3lxTFBxSlRPSVdtNzR3QVFzN0oyOXhYWUg0TlptTFdWQnZ3UzdvOFZtU0N4Rm90STdWeUYzdGJGaWswLVlYZmxDQ0FkdUhsa0dJUmc5bEtuRk15UUI1eVlOWEprUGFhcmlTNGZfaXNoLW5hVQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "\"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체",
+   "source": "한국경제",
+   "url": "https://n.news.naver.com/article/015/0005336200",
+   "published_at": "2026-09-27T07:41:13+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "인스타그램 등 사회관계망서비스를 기반으로 상품을 파는 이른바 'SNS 마켓'이 빠르게 몸집을 키우고 있지만, 주문과 결제가 다이렉트 메시지 등 비공개 채널에서 이뤄지는…",
+   "summary_long": "SNS 공구 마켓 커졌는데, 세금 '깜깜'. 인스타그램 등 사회관계망서비스(SNS)를 기반으로 상품을 파는 이른바 'SNS 마켓'이 빠르게 몸집을 키우고 있지만, 주문과 결제가 다이렉트 메시지(DM) 등 비공개 채널에서 이뤄지는 거래가 많아 과세 자료를 확보하기 어렵다는 지적이 나온다. 27일 문진석 더불어민주당 의원이 국세청에서 받은 자료에 따르면 2024년 'SNS 마켓업'을 주업종으로 신고한 사업자의 사업소득은 333억600만원으로 집계됐다.\n\n실제로 ENA·SBS플러스 '나는 솔로' 20기 정숙으로 출연한 이은율 씨는 지난 7월 자신의 사회관계망서비스(SNS) 계정에 '대기업 퇴사한 인플루언서 현실'이라는 제목의 콘텐츠를 게재하며 \"대기업을 퇴사하고 단 3일 만에 공구(공동구매) 하나로 이전 직장(LG전자) 시절의 연봉을 벌었다\"고 전해 놀… SNS 마켓이라 불리는 공동구매 판매 시장이 커지고 있으나, 판매 과정이 플랫폼 밖에서 이뤄질 수 있다는 점에서 과세당국의 자료 확보가 쉽지 않다는 지적이 나오고 있다. SNS 마켓은 소규모 창업과 공동구매, 인플루언서 기반 판매가 결합한 유통 방식으로 성장했다.",
+   "quotes": [
+    "성실하게 신고하는 사람만 손해 보는 구조가 굳어지지 않도록 새로운 거래 방식에 맞는 자료 수집 체계를 갖춰야 한다",
+    "대기업을 퇴사하고 단 3일 만에 공구(공동구매) 하나로 이전 직장(LG전자) 시절의 연봉을 벌었다"
+   ],
+   "press": "한국경제",
+   "photo": "04.jpg",
+   "quoted": {
+    "quote": "성실하게 신고하는 사람만 손해 보는 구조가 굳어지지 않도록 새로운 거래 방식에 맞는 자료 수집 체계를 갖춰야 한다",
+    "n": 5,
+    "verified": 0,
+    "items": [
+     {
+      "press": "매일경제 마켓",
+      "title": "\"커지는 SNS 마켓서 소득 4년새 18배↑…과세방안은 못 따라가\"",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRanNkYk12XzZaR09WUE1CMXBrQkNzQXQ1YU9CWHQ3ejNsMnRtVVpEdGh4TXRIMTZ4THoxZVRPVXdld28wZjljVGVqaHBFT2tPQkE?oc=5"
+     },
+     {
+      "press": "매일일보",
+      "title": "SNS 마켓 소득 4년 새 18배…과세 사각지대 커진다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsemZWQTJQaXlJZnZWMHd2bFVYZFY4bUE5YTBWYlN2cFBYcGNQR180el9ReTV2NFhxM0dZanFLa1Qwa3ZjaWhvVDJyUzhJTVhnVk05bGdMNm5jaXZzVkxWMzc3bEM5YUEw0gFoQVVfeXFMUGx6ZlZBMlBpeUlmdlYwd3ZsVVhkVjhtQTlhMFZiU3ZwUFhwY1BHXzR6X1F5NXY0WHEzR1lqcUtrVDBrdmNpaG9UMnJTOElNWGdWTTlsZ0w2bmNpdnNWTFYzNzdsQzlhQTA?oc=5"
+     },
+     {
+      "press": "마켓인",
+      "title": "“3일 만에 대기업 연봉 번다더니”…돈 몰린 이 시장, 그런데 세금은",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90cU9rVHpSVGZ2bFFQaWR4bGNqbkRRS0xMQ09UWVRuc0U0RDY2SU5WMGt3N3AzbV9mV0prQ3RfdEdscjdIZXk4bEJOTWw3dENVN1hMSTFwbDhCRVhSd3FJMC1GWVhDRU5UWm1uQ1FBelQ4UU0?oc=5"
+     },
+     {
+      "press": "한국경제TV",
+      "title": "＂3일이면 대기업 연봉 번다＂는 인플루언서…국세청도 ＇촉각＇",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93aDktbTlySDIydU9LYWR0WGcwUGZyZElTaTFtenk0ZlNzUHlmckgzb3BnOWk1aTcwc1VYOHNGZkpyUnVYalZxQWV4c3BZc0hDS3hRUXlkT2pTeVNGU0lTV05PVVhmMXhVOHB3a2s5aEJNUVE?oc=5"
      },
      {
       "press": "매일경제",
-      "title": "“공항 밥값 왜 비싸지?”...매출 30% 넘는 임대료, 이용객에 떠넘겨",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE12eDdkMlRxMm1GZjczQloxYnVBMktpOElLZExQbmMwd1BFWDlZVUZZc2o5QnA4YllldnVWUUVoM0l5Q2N2eEE?oc=5"
+      "title": "‘공구’로 3일 만에 억소리나게 벌었지만...정작 내는 세금은 ‘깜깜’",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HVXdwblJZZEhCUXB5ajVtdFBHSHk5cXE0V2h4SHpGMGtyZVptOUVRcnBBcmxUYS1xVWJVNVdZQW12WV9CR2c?oc=5"
      }
     ]
    }
   },
   {
-   "title": "한동훈 \"李대통령, 유시민 못 이겨…걱정스럽게도 멘탈 깨진 듯\"",
-   "source": "이데일리",
-   "url": "https://n.news.naver.com/article/018/0006375669",
-   "published_at": "2026-09-26T11:52:14+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 943,
-   "comment_agree": 206,
-   "comment_disagree": 48,
-   "division_balance": 0.377953,
-   "division_score": 2.094336,
-   "selection": "찬반 쟁점",
-   "summary": "李에 \"유시민 얘기 말고 외교를 하라\" 이재명 대통령과 유시민 작가 간의 검찰개혁 공방을 두고 한동훈 무소속 의원이 이 대통령을 향해 “당신은 유시민을 못 이긴다”고…",
-   "summary_long": "李에 \"유시민 얘기 말고 외교를 하라\" 이재명 대통령과 유시민 작가 간의 검찰개혁 공방을 두고 한동훈 무소속 의원이 이 대통령을 향해 “당신은 유시민을 못 이긴다”고 직격했다. 지난 2017년 5월 서울 종로구 광화문광장에서 열린 고 노무현 전 대통령 서거 8주기 시민문화제 '사람사는 세상이 돌아와!'에서 당시 이재명 성남시장, 유시민 작가가 토크콘서트를 하고 있다. 26일 한 의원은 자신의 페이스북에 ‘당신은 유시민 못이깁니다’라는 제목의 글을 올리고 “이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다”라고 운을 뗐다.\n\n청와대는 지난 24일 유 작가의 발언과 관련해 “대통령의 검찰개혁 의지를 사실과 다르게 왜곡하는 것에 유감”이라며 “근거 없는 비난성 주장이 계속되는 것에 대해 사실 관계를 확인 중”이라고 밝혔다. 그러면서 “유시민 씨를 이긴 유경험자로서 이재명 대통령에게 충고한다”며 “당신은 유시민 못이깁니다”라고 거듭 강조했다. 또한 한 의원은 이 대통령을 향해 “걱정스럽게도 이 대통령 멘탈이 깨진 것 같다”며 “멘탈 꽉 잡고 ‘지뢰공격 현장조사’를 지시하고, 외교하러 해외에 나갔으면 유시민 얘기 말고 외교를 하라”고 주장했다.",
-   "quotes": [
-    "이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다",
-    "과거 유시민 씨가 제가 유시민 씨와 노무현재단 계좌를 추적했다는 가짜뉴스를 퍼뜨린 것에 대해 좌천된 상태에서 정면으로 법적 대응해서 이기고, 유시민 씨의 공개 반성문을 받은 적이 있다",
-    "이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 더불어민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다"
-   ],
-   "press": "이데일리",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다",
-    "n": 9,
-    "verified": 0,
-    "items": [
-     {
-      "press": "강원일보",
-      "title": "한동훈 “이재명 대통령, 유시민 못 이겨…해외 나갔으면 외교에 집중해야”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5blNSZWpubXQzb0NoLUNfZy1SdklIU1JZT2FKNndOR1JfWDJWbnctRXRILWtJczJVd2pOREZDcmhkSXFMeWg2cHdqMGlqMVZUQVdHNU43clBZSmc?oc=5"
-     },
-     {
-      "press": "주간경향",
-      "title": "한동훈 “유시민 공개 반성문 받은 것은 사실의 힘이었다”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EaHdoOXVDdFIxVWowcHhWU0VnSnVjaGZHZ1FaY29ZVXRzSDdMY1pxTkNpemFvX05IMTY2amhkaC00eENOVUU1YzltWUdFc0xKaEpGTlFjOHJnUEdwWmc?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "“당신은 유시민 못 이깁니다”…한동훈, 이재명 대통령에 직격탄 날렸다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4UjN5dUd1eXVyTEVZVHZXdUN0dnpqcUxyaTVsOEJyUncwOURocHBpV2o4djlVLUVYVnBQWmkwZDRFR3pMZUZRUTZfSmdNX00?oc=5"
-     },
-     {
-      "press": "KBC광주방송",
-      "title": "한동훈 \"李대통령, 유시민 못 이깁니다…해외 나갔으면 외교하라\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IN2Y3OVE0eHRIbFFfeFNaY0ZXc0NOV0VfSnJwU3Q4NmdBZDZRSktLaC0yQ2MzanlnbHpzT3JzM3M1aDdHRGVBLUFDWElkMGlRX3Y4TnFMTlFKVmRtd2lEaQ?oc=5"
-     },
-     {
-      "press": "뉴데일리",
-      "title": "한동훈 \"李, 순방가서 유시민과 이전투구 … 지뢰 현장 조사나 지시하라\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQXNOVkNuYnhLaHRrTWNwSHhhY200VllwRTNtbE5mMHBUaGxteXNKV2FicGFKVVdpWlFOZ3d0aHNFY0JubWtkMTFUTFpiNzFFSjFYMkYzOUxUcVlqSnd2X3puWm9sWGNabEZQVEVmRE5yb0NOejUwd2Z5Y29uXy1HRtIBgAFBVV95cUxPQXNOVkNuYnhLaHRrTWNwSHhhY200VllwRTNtbE5mMHBUaGxteXNKV2FicGFKVVdpWlFOZ3d0aHNFY0JubWtkMTFUTFpiNzFFSjFYMkYzOUxUcVlqSnd2X3puWm9sWGNabEZQVEVmRE5yb0NOejUwd2Z5Y29uXy1HRg?oc=5"
-     },
-     {
-      "press": "sisakoreanews.kr",
-      "title": "한동훈 이재명 대통령 향해 당신은, 유시민 못 이깁니…해외 나갔으면 외교하라",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBaaFZ2MllrYXREbG5JTTBadUloYjgtT2RGdDZnR3JpcE12X2ZaRTVLckpYZUxzTE0zMEVPYm9VVjhIQ1RhTnA4cHB3?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "한동훈 \"유엔사 조사 요청 우리 군이 거절…명명백백히 밝혀야\"",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000512833",
-   "published_at": "2026-09-26T19:07:41+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 978,
-   "comment_agree": 275,
-   "comment_disagree": 48,
-   "division_balance": 0.297214,
-   "division_score": 1.718116,
-   "selection": "찬반 쟁점",
-   "summary": "한 의원은 이날 오후 서울 용산구 국방부 앞에서 \"누가 유엔사의 요구를 거부했는지 명명백백하게 밝혀야 한다\"면서 \"결국은 이재명 정권이 태생적으로 김정은 정권의 눈치를…",
-   "summary_long": "한 의원은 이날 오후 서울 용산구 국방부 앞에서 \"누가 유엔사의 요구를 거부했는지 명명백백하게 밝혀야 한다\"면서 \"결국은 이재명 정권이 태생적으로 김정은 정권의 눈치를 보기 때문이라고밖에 말할 수가 없다\"고 말했습니다. 한 의원은 \"유엔사 사령관은 21일 신속한 조사를 지시하고, 군사정전위원회는 사고 다음 날인 지난 22일 우리 국군 25사단을 방문해 바디캠 영상, 부상자 인터뷰, 현장 출입을 요청했다\"면서 \"하지만 우리 군은 이 요청을 거절했다\"고 했습니다. 이어 \"한국군의 반대로 인해서 결국 추석 연휴가 끝난 29일에 합동 조사를 하기로 합의했던 것\"이라며 \"국민적 분노가 쌓이게 되니까 결국 27일로 변경돼서 합동 조사가 실시되도록 변경된 것으로 알고 있다\"고 덧붙였습니다.\n\n그런데 우리 군은 아주 짧은 그것도 폭발 이후로 추정되는 짧은 영상 하나 정도를 제공했다\"면서 \"실제 군이 파악하고 있는 것은 그것보다 더 MDL(군사분계선)에 근접한 위치에서 지뢰 폭발이 일어난 것이 아니냐고 보고 있는 것 같다\"고 지적했습니다. 그러면서 \"6일 동안 폭우 속에 방치하고 나중에 증거가 부족해서 원인 불명이라고 얘기하면 이 정권은 죽는다\"면서 \"왜 이렇게 늦어졌는지에 대해서 국민과 함께 책임을 묻겠다\"고 말했습니다. 국방부와 합동참모본부 지휘부를 향해서는 \"해군 출신의 영관급 공보실장 장교, 그리고 민간인, 언론인 출신의 대변인에게 대국민 설명을 모두 맡기고 뒤에 숨어 있다\"며 \"왜 국방부 장관과 합참의장이 국민 앞에 직접 서서 설명하지 못하느냐\"고 되물었습니다.",
-   "quotes": [
-    "유엔사 사령관은 21일 신속한 조사를 지시하고, 군사정전위원회는 사고 다음 날인 지난 22일 우리 국군 25사단을 방문해 바디캠 영상, 부상자 인터뷰, 현장 출입을 요청했다",
-    "유엔사는 바디캠 영상을 지속해서 계속 요청했다. 그런데 우리 군은 아주 짧은 그것도 폭발 이후로 추정되는 짧은 영상 하나 정도를 제공했다",
-    "실제 군이 파악하고 있는 것은 그것보다 더 MDL(군사분계선)에 근접한 위치에서 지뢰 폭발이 일어난 것이 아니냐고 보고 있는 것 같다"
-   ],
-   "press": "JTBC",
-   "photo": "06.jpg",
-   "quoted": {
-    "quote": "유엔사 사령관은 21일 신속한 조사를 지시하고, 군사정전위원회는 사고 다음 날인 지난 22일 우리 국군 25사단을 방문해 바디캠 영상, 부상자 인터뷰, 현장 출입을 요청했다",
-    "n": 3,
-    "verified": 0,
-    "items": [
-     {
-      "press": "JTBC",
-      "title": "한동훈 \"유엔사 조사 요청 우리 군이 거절…명명백백히 밝혀야\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GNFVwOWMzXzlYMW1DQi15NFowYks1VXhjWG5Ea09EaHFBZUlRWHpJUExadnRWN01zMnBmRXh3M1ZnU1VJdlJIRTQ4S0x1MDlyWHNfMg?oc=5"
-     },
-     {
-      "press": "MBC 뉴스",
-      "title": "한동훈 \"군, 유엔사 '신속한 현장조사' 요청 거절‥태생적 한계\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10T18zbjhEQjctUlp2Mm9fLU9ERWtKbnVVdS1mRVdDY2VBR0RSX0Rla2tZU2VpM2l0MGlKZm1wZFB6R0RFd01mdlJwdGlUdUNQaFVfc2dINk0yLS1RRzJvNERldEppUEI2S2RVeDBFZGtvT1ZlVU5iUtIBeEFVX3lxTE10T18zbjhEQjctUlp2Mm9fLU9ERWtKbnVVdS1mRVdDY2VBR0RSX0Rla2tZU2VpM2l0MGlKZm1wZFB6R0RFd01mdlJwdGlUdUNQaFVfc2dINk0yLS1RRzJvNERldEppUEI2S2RVeDBFZGtvT1ZlVU5iUg?oc=5"
-     },
-     {
-      "press": "세계일보",
-      "title": "김승원 검증으로 ‘공격수’ 존재감… 한동훈, 이번엔 ‘지뢰사고’ 정조준",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10dXBOUjVXMnI2S3ViNEZBblp6ZlpMR1VwQ2xvQ1VUdV9qUms3WG1IMDNjbDE3NkdoZEpZQU1PRW5xdC1vbEZVQVNMVzRQMmE0V3JKQ25qZlg?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "“당신은 유시민 못 이깁니다”…한동훈, 이재명 대통령에 직격탄 날렸다",
-   "source": "매일경제",
-   "url": "https://n.news.naver.com/article/009/0005740106",
-   "published_at": "2026-09-26T15:24:06+09:00",
+   "title": "민주당이 들었다는 '유시민' 추석 민심 \"과유불급\"",
+   "source": "오마이뉴스",
+   "url": "https://n.news.naver.com/article/047/0002530385",
+   "published_at": "2026-09-27T19:21:08+09:00",
    "section_id": "100",
    "view_rank": 3,
-   "comment_count": 538,
-   "comment_agree": 207,
-   "comment_disagree": 38,
-   "division_balance": 0.310204,
-   "division_score": 1.707776,
+   "comment_count": 174,
+   "comment_agree": 199,
+   "comment_disagree": 68,
+   "division_balance": 0.509363,
+   "division_score": 2.847844,
    "selection": "찬반 쟁점",
-   "summary": "유시민 작가 이재명 대통령과 유시민 작가 간의 검찰개혁 공방을 두고 한동훈 무소속 의원이 이 대통령을 향해 “당신은 유시민을 못 이긴다”고 밝혔다. 26일 한 의원은…",
-   "summary_long": "유시민 작가 이재명 대통령과 유시민 작가 간의 검찰개혁 공방을 두고 한동훈 무소속 의원이 이 대통령을 향해 “당신은 유시민을 못 이긴다”고 밝혔다. 26일 한 의원은 자신의 페이스북에 ‘당신은 유시민 못 이깁니다’라는 제목의 글을 올리고 “이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교 하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다”라고 적었다. 이는 최근 유 작가가 이 대통령의 검찰개혁 구상을 두고 “이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 더불어민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다”면서 “대통령이 지금까지 국민을 속인 것”이라고 비판한 뒤 청와대가 공개적으로 유감을 표명한 것을 겨냥한 발언…\n\n청와대는 지난 24일 유 작가의 발언과 관련해 “대통령의 검찰개혁 의지를 사실과 다르게 왜곡하는 것에 유감”이라며 “근거 없는 비난성 주장이 계속되는 것에 대해 사실관계를 확인 중”이라고 밝혔다. 또 “유시민 씨를 이긴 유경험자로서 이재명 대통령에게 충고한다”며 “당신은 유시민 못 이깁니다”라고 거듭 강조했다. 끝으로 한 의원은 이 대통령을 향해 “걱정스럽게도 이 대통령 멘탈이 깨진 것 같다”며 “멘탈 꽉 잡고 ‘지뢰 공격 현장 조사’를 지시하고, 외교 하러 해외에 나갔으면 유시민 얘기 말고 외교를 하라”고 했다.",
+   "summary": "유시민 작가의 이재명 대통령 비판을 두고 추석 연휴를 거친 더불어민주당과 조국혁신당이 엇갈린 반응을 내놨다. 한편 한동훈 무소속 의원은 유 작가를 향한 청와대의 유감…",
+   "summary_long": "유시민 작가의 이재명 대통령 비판을 두고 추석 연휴를 거친 더불어민주당과 조국혁신당이 엇갈린 반응을 내놨다. 한편 한동훈 무소속 의원은 유 작가를 향한 청와대의 유감 표명에 \"이 대통령 멘털이 깨진 것 같다\"고 비난했다. 유 작가는 연휴 직전인 지난 22일 <미디어오늘> 유튜브 채널에서 \"이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다\"면서 \"대통령이 지금까지 국민을 속인 것\"이라고 말했다.\n\n앞서 유 작가는 이른바 'ABC론', '재건축론' 등으로 이 대통령을 직격했고 이후에도 \"필연적인 실패의 길\", \"수습할 국면은 지났다\" 등의 강경 표현으로 비판을 이어왔다. 박성준 민주당 수석대변인은 추석 연휴 마지막날인 27일 오전 국회에서 진행한 '추석 민심 기자간담회'에서 \"(국민들이) 유 작가 이야기도 많이 하시더라\"라고 입을 열었다. 청와대는 유 작가의 발언에 대해 지난 24일 \"대통령의 검찰 개혁 의지를 사실과 다르게 왜곡하는 것에 유감\"이라며 \"근거 없는 비난성 주장이 계속되는 것에 대해 사실관계를 확인 중\"이라고 밝혔다.",
    "quotes": [
-    "이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교 하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다",
-    "과거 유시민 씨가 제가 유시민 씨와 노무현재단 계좌를 추적했다는 가짜뉴스를 퍼뜨린 것에 대해 좌천된 상태에서 정면으로 법적 대응해서 이기고, 유시민 씨의 공개 반성문을 받은 적이 있다",
-    "이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 더불어민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다"
+    "이재명 정부 성공을 위해서는 당정청 원팀이 중요한데, '(쓴소리가) 지나칠 때가 있다', '전체 진영을 너무 흔들어 놓는 지나친 말들은 과유불급', '쓴소리가 어떤 경우엔 약효가 있지만 도가 지나치면 정말 정부에 도움이 되냐'라고도 말하더라",
+    "민주당과 이 대통령은 대선 이전부터 지금 이 순간까지도 수사권과 기소권의 완전 분리라는 검찰 개혁의 대명제를 굳건하게 실천하고 있다",
+    "이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다"
    ],
-   "press": "매일경제",
-   "photo": "07.png",
+   "press": "오마이뉴스",
+   "photo": "05.jpg",
    "quoted": {
-    "quote": "이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교 하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다",
-    "n": 9,
+    "quote": "이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다",
+    "n": 6,
     "verified": 0,
     "items": [
      {
-      "press": "강원일보",
-      "title": "한동훈 “이재명 대통령, 유시민 못 이겨…해외 나갔으면 외교에 집중해야”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5blNSZWpubXQzb0NoLUNfZy1SdklIU1JZT2FKNndOR1JfWDJWbnctRXRILWtJczJVd2pOREZDcmhkSXFMeWg2cHdqMGlqMVZUQVdHNU43clBZSmc?oc=5"
+      "press": "OhmyNews",
+      "title": "민주당이 들었다는 '유시민' 추석 민심 \"과유불급\"",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yNjMzSE1XOTdXeVBiNThrWVRXY1c2ZDJBc0pwQVhLZnNwZzhIS2tXOXpDRTRMcF9RRXZmYXVoUlZRd0k0bGxQTXZJN2VZQnpMOExiTW1QMGRnaWlFQVotY3puLUNnVDJpUVdETzAwSUFiSUptS0dr?oc=5"
      },
      {
-      "press": "주간경향",
-      "title": "한동훈 “유시민 공개 반성문 받은 것은 사실의 힘이었다”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EaHdoOXVDdFIxVWowcHhWU0VnSnVjaGZHZ1FaY29ZVXRzSDdMY1pxTkNpemFvX05IMTY2amhkaC00eENOVUU1YzltWUdFc0xKaEpGTlFjOHJnUEdwWmc?oc=5"
+      "press": "서울경제",
+      "title": "與 “민심, 당정청 하나 되라고 해”…유시민 등 겨냥 “쓴소리 과유불급”",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90eEtJQ0xENHRjeHhiLW1CSFZqMEhPNmpHdEVIM2ZYeE91QmI3c1o3eUl2QTNxdTI3VUZiSDRhcmF2U0xHUzROTUZ1SlpQeHRWX3fSAVNBVV95cUxOSDJRM0VZbnBxbWlURFN2amhQREEyRkNWV3RqNEJrTWZITzdyRXRCLTlkNnNCT3hQTnh4eU5ibC1OMkxHY0w0dGVFa0JLNGdSRnRQWQ?oc=5"
+     },
+     {
+      "press": "한겨레",
+      "title": "민주 “검찰 개혁, 이 대통령이 국민 속였다? 유시민 과유불급…억지주장 말라”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5MXBXTEVzdmVEMjQzX0JsWU9xekt3bkNXU0gxTVVHb3pNNXJPLWF2WGtyX0Ffc245VWg0dG5PVVdqVTNWdnl6THBuVE03SDI3c1VIYzVZMlhGM3BiWlAyR2d6b252MEVQcERiT21Bc2FubzlZ?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "전용기, 유시민 '대통령 국민 속였다' 발언에 \"강한 유감\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZbHctUE9FblhRYWRiU1p0SE9KcXpPV0FwckVYQVA4NVd5MjByVnFmRTNiX3BmcDhTSTMyNTVHNkxIZ3U3MWY1WVZfRkM0T0JmN1lMM2lEZFNqSklobXNSM9IBeEFVX3lxTFBQZHJnY1pVZVlKLTZNb3Q1NXBsWTFhSzk1V21Vb3BNcmNYcnRzQXdMQTFFcWVkNlNfcWE4SndDak1RR1pxMEVxa2xDb2JNNElRNDJRMzZCdl9BY3pkWk85OEwtR0FOQ1AxVy1xMVpVSTg1U2RKM0t0Nw?oc=5"
+     },
+     {
+      "press": "데일리안",
+      "title": "민주당, 유시민 '李대통령 국민 속여' 발언에 \"강한 유감\"",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQa2dZZ0I4LWQwaVQ2R3E5UnllLWxuUFpGTjRtdGp4S3RsSXduWGxJcWhwTVhVSXNJT0dTekxuNmhaSEprVjR6WnJLeGJsRUJZbzF1dEh5UmFMZlRVUzFuZk9rSE1aYTJhbzhYTTdUVEQwT1lReFNBWm56SXdYWkg2d01Eb1Z2a0ctNF9DSEhVRG5ORWNWczdhQWdGb0RiZl9fSlcxZTlDUm1ic1ZzSl8zRDZIa3FKdFJkNDZUQjNXYzFnUVVRXzRGNGlqVTBrY1k2dzE3U2gzM2RBX2Y0TU5yOUZ5ZkVOTnJmRnFEUzBUaVptN0tVUUNVZzJfLXdNV3czTE5hM04weldPeTRCVjJVTkpCeU9xbnY5?oc=5"
+     },
+     {
+      "press": "민중의소리",
+      "title": "민주당 “유시민 억지주장으로 대통령 진의 왜곡말라”",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93eE5wT2RpVkVqNW9hVVBIX2VRWE1lS3oyTUdlbDh0TXozMmdWZXFuLTJTUlpVRVc4N0Ztc25PZU80X1p0RkRDUWpEZw?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "장동혁 “추석 민심 일촉즉발, 농민 삶 망가뜨리고 안보까지 포기”",
+   "source": "서울경제",
+   "url": "https://n.news.naver.com/article/011/0004665590",
+   "published_at": "2026-09-27T11:32:12+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 272,
+   "comment_agree": 154,
+   "comment_disagree": 35,
+   "division_balance": 0.37037,
+   "division_score": 1.943342,
+   "selection": "찬반 쟁점",
+   "summary": "DMZ 지뢰 추정 폭발에 “대통령 보고 시점 등 밝혀야” 장 대표는 “대법관 제재청 문제나 농지 전수조사, 지뢰 폭발 사고, 북한 포로 송환 등 여러 현안이 산적해…",
+   "summary_long": "DMZ 지뢰 추정 폭발에 “대통령 보고 시점 등 밝혀야” 장동혁 국민의힘 대표가 27일 국회에서 농지 전수조사, 비무장지대(DMZ) 지뢰폭발 추정 사고 등 현안과 관련해 기자회견을 하고 있다. 연합뉴스국민의힘이 추석 연휴 마지막 날인 27일 이재명 정부의 농지 전수조사와 부동산 정책, 비무장지대(DMZ) 지뢰추정 폭발 사고를 고리로 전방위 공세에 나섰다.\n\n장동혁 국민의힘 대표는 이날 서울 여의도 국회에서 기자간담회를 열고 “추석 민심을 한마디로 말하면 일촉즉발”이라며 “많은 분들이 다음 대통령 선거가 언제냐고 물었고 아직 3년 반이나 남았다고 하니 그때까지 어떻게 버티느냐고 한숨을 쉬었다”고 밝혔다. 장 대표는 정부가 북한군 포로 2명의 한국 송환 사실을 숨기려 했다고 주장하면서 이 대통령을 향해 “대한민국 안보를 포기했다”고 비판했다. 장 대표는 “대법관 제재청 문제나 농지 전수조사, 지뢰 폭발 사고, 북한 포로 송환 등 여러 현안이 산적해 있다”며 “민주당이 국민을 먼저 생각하는지, 대통령의 안위를 먼저 생각하는지 좀 더 살펴보겠다”고 말했다.",
+   "quotes": [
+    "북한이 핵 미사일을 만들고 목함 지뢰 도발까지 했는데도 우리 군과 국민의 생명을 내팽개치고 김정은 심기 경호에 매달리는 사람이 바로 살인자이고 매국노",
+    "작은 집이라도 한 채 사 보려고 해도 무섭게 오른 집값에 대출까지 나오지 않으니 집을 살 길도 없다. 집 가진 국민들은 세금 폭탄에 떨고 있다",
+    "우리 군 대대장이 발목을 잃고 장병들이 부상을 당했는데도 이 대통령은 형식적인 SNS 글 하나를 올린 뒤 어떠한 입장도 내놓지 않고 있다"
+   ],
+   "press": "서울경제",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "북한이 핵 미사일을 만들고 목함 지뢰 도발까지 했는데도 우리 군과 국민의 생명을 내팽개치고 김정은 심기 경호에 매달리는 사람이 바로 살인자이고 매국노",
+    "n": 7,
+    "verified": 0,
+    "items": [
+     {
+      "press": "서울경제",
+      "title": "장동혁 “추석 민심 일촉즉발, 농민 삶 망가뜨리고 안보까지 포기”",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4XzBRZ0FNbm12Ul93RUdMVUNUelNVWjhNSWFUUTI3Rl90OHJwYWk3T0pBbTNUSFJLQ0trdWRXZUhiSm5wY1hmVnRyMjJvd0x2U1HSAVNBVV95cUxOMmpPM0FLaVZqMS1xVG1admZtWWQ1OFM0eWZRNTZuajFtVUZDZFhhR255ejh1VmJlejd3anp4MmFXc215dS11Tzc1endKTEZGUTFIYw?oc=5"
      },
      {
       "press": "다음뉴스",
-      "title": "“당신은 유시민 못 이깁니다”…한동훈, 이재명 대통령에 직격탄 날렸다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4UjN5dUd1eXVyTEVZVHZXdUN0dnpqcUxyaTVsOEJyUncwOURocHBpV2o4djlVLUVYVnBQWmkwZDRFR3pMZUZRUTZfSmdNX00?oc=5"
+      "title": "장동혁 \"지뢰 도발에도 김정은 심기 경호…李대통령 스스로 내려와야\"",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5qZV9NbTNPa0I5U3lrZG96T2Z2UHFMM2F5bzYwS25INFpFMEVZcTBsREpSQ3o2VEJOR1hMTnNuMHd3eVpoTnc?oc=5"
      },
      {
-      "press": "뉴데일리",
-      "title": "한동훈 \"李, 순방가서 유시민과 이전투구 … 지뢰 현장 조사나 지시하라\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQXNOVkNuYnhLaHRrTWNwSHhhY200VllwRTNtbE5mMHBUaGxteXNKV2FicGFKVVdpWlFOZ3d0aHNFY0JubWtkMTFUTFpiNzFFSjFYMkYzOUxUcVlqSnd2X3puWm9sWGNabEZQVEVmRE5yb0NOejUwd2Z5Y29uXy1HRtIBgAFBVV95cUxPQXNOVkNuYnhLaHRrTWNwSHhhY200VllwRTNtbE5mMHBUaGxteXNKV2FicGFKVVdpWlFOZ3d0aHNFY0JubWtkMTFUTFpiNzFFSjFYMkYzOUxUcVlqSnd2X3puWm9sWGNabEZQVEVmRE5yb0NOejUwd2Z5Y29uXy1HRg?oc=5"
+      "press": "뉴스1",
+      "title": "'DMZ 폭발' 대응 공방…與 \"장병 피를 정쟁으로\" 野 \"외환죄\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HMlJmWjVVVy1RYThIZ1JRNC1Sd1pVeE9KbmVVZzVDNU11bDFnSW9lby04NTVnYlRTNWhaZVZDcEpFQVRhbEJoTWR6U1ZmWnYwS212djVMWkQ3ZXpTY2xJ0gFfQVVfeXFMT0cyUmZaNVVXLVFhOEhnUlE0LVJ3WlV4T0puZVVnNUM1TXVsMWdJb2VvLTg1NWdiVFM1aFplVkNwSkVBVGFsQmhNZHpTVmZadjBLbXZ2NUxaRDdlelNjbEk?oc=5"
      },
      {
-      "press": "KBC광주방송",
-      "title": "한동훈 \"李대통령, 유시민 못 이깁니다…해외 나갔으면 외교하라\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IN2Y3OVE0eHRIbFFfeFNaY0ZXc0NOV0VfSnJwU3Q4NmdBZDZRSktLaC0yQ2MzanlnbHpzT3JzM3M1aDdHRGVBLUFDWElkMGlRX3Y4TnFMTlFKVmRtd2lEaQ?oc=5"
+      "press": "대한경제",
+      "title": "장동혁, 李정부 정책 작심 비판…“국민재산 약탈 즉각 중단하라”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LQWtjTUc5dzlDOUNtX2ItaUtJM2dWNnJsSzg1ZUZJdW9oS0phUnRaOUZBVkF6ZjV1VnE3R19KVW15b1JLZ2k2Y3hRUHdWQVVpRmZUSjhfZF9jNEs0VGttYThNT3RvNlR3bmRaZDc1NVViQ2J1?oc=5"
      },
      {
-      "press": "sisakoreanews.kr",
-      "title": "한동훈 이재명 대통령 향해 당신은, 유시민 못 이깁니…해외 나갔으면 외교하라",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBaaFZ2MllrYXREbG5JTTBadUloYjgtT2RGdDZnR3JpcE12X2ZaRTVLckpYZUxzTE0zMEVPYm9VVjhIQ1RhTnA4cHB3?oc=5"
+      "press": "뉴스웍스",
+      "title": "장동혁 \"추석 민심 일촉즉발…부동산·농지 수탈로 국민 분노 폭발 직전”",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Q2JXUEFKUDhseTU5dGRjenE0M283bE5wSFhFbXM1SWlSa3NyZHN0WXFGaG5EeFNhWldvZS1vbm16ZlkzSm9sR3VxZnc1WkU3S1d1R05fNS12b2hId0NUSmtXeWUzZmVtdEFTM2MtQjFZY28?oc=5"
+     },
+     {
+      "press": "뉴스1",
+      "title": "野, 'DMZ 폭발' 대응 파상공세…\"李, 조사 고의 지연이라면 외환죄\"",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfS2E1RElZM3dnemV6cGFQSlhZaG1CU1RZTmEzVzFPQXFKZnd3Mk5zVHN3clBYckZtNjQ3a3BaWjVMeWhNYXd1YnUzTXlET2VGUmwtQ0lyUUJ5T1NFQ1dv0gFfQVVfeXFMUF9LYTVESVkzd2d6ZXpwYVBKWFlobUJTVFlOYTNXMU9BcUpmd3cyTnNUc3dyUFhyRm02NDdrcFpaNUx5aE1hd3VidTNNeURPZUZSbC1DSXJRQnlPU0VDV28?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "이하늘 “한동훈 때문에 미칠 것 같아”…韓, 또 화답 “한잔하자”",
+   "source": "중앙일보",
+   "url": "https://n.news.naver.com/article/025/0003553954",
+   "published_at": "2026-09-27T14:05:03+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 325,
+   "comment_agree": 312,
+   "comment_disagree": 61,
+   "division_balance": 0.327078,
+   "division_score": 1.937692,
+   "selection": "찬반 쟁점",
+   "summary": "그룹 DJ DOC 멤버 이하늘이 “한동훈 때문에 미칠 것 같다”며 한동훈 무소속 의원을 재차 언급하자 한 의원이 “한잔하자”고 화답했다. 이하늘은 지난 26일 자신의…",
+   "summary_long": "그룹 DJ DOC 멤버 이하늘이 “한동훈 때문에 미칠 것 같다”며 한동훈 무소속 의원을 재차 언급하자 한 의원이 “한잔하자”고 화답했다. 이하늘은 지난 26일 자신의 유튜브 채널 등에 올린 영상에서 “정말 한동훈 때문에 미칠 것 같아요”라며 “지금 (더불어)민주당 사람들이 절 잡아먹으려고 그래요”라고 말했다. 이어 “정말 한동훈이 1타 2피예요”라며 “나도 잡고 민주당 흔들고 분열시키고”라고 했다.\n\n이에 한 의원은 27일 이 영상을 소셜미디어(SNS)에 공유하고 “한잔해요”라고 적었다. 지난 13일 한동훈 의원이 이하늘이 자신을 언급한 영상을 캡처해 공유했다. 사진 한동훈 의원 인스타그램 캡처 이후 한 의원의 반응을 접한 이하늘은 영상을 통해 “자신을 공격하는 사람에게 오히려 웃으며 ‘팬입니다’라고 받아치니 할 말이 없어진다”며 “옛말에 ‘웃는 얼굴에 침 못 뱉는다’는 말이 딱 맞는다”고 말했다.",
+   "quotes": [
+    "지금 민주당 쪽에 김민석 당 대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸",
+    "자신을 공격하는 사람에게 오히려 웃으며 ‘팬입니다’라고 받아치니 할 말이 없어진다",
+    "웃는 얼굴에도 침을 뱉는 사람들도 있더라고요. 어쨌든 DJ DOC 파이팅"
+   ],
+   "press": "중앙일보",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "자신을 공격하는 사람에게 오히려 웃으며 ‘팬입니다’라고 받아치니 할 말이 없어진다",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
+      "press": "중앙일보",
+      "title": "이하늘 “한동훈 때문에 미칠 것 같아”…韓, 또 화답 “한잔하자”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iT1RLTjFFNEdRRlpfM25zS1B5TVlOQzNRalVoRE9zMWVTblNiN1pTY3NGSXBEM3FnMWJfcVQ4WG5YNTFDSUZRVlpxcThuMVBkcFljRGNn?oc=5"
+     },
+     {
+      "press": "주간경향",
+      "title": "이하늘 “한동훈 때문에 미칠 것 같다”…한동훈 “한잔해요”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BeHJreVIzSmc5UDQ5TkFSMFpyeXdCaHo4ZlF1UFk4YzRCWXlLOW9saE9DbmhCSFpybTZsRGliWTVaSGNwdG5YZjFOU19kUkxwRTU0RExfUGlodVpfRmc?oc=5"
+     },
+     {
+      "press": "주간조선",
+      "title": "이하늘 “한동훈 때문에 미치겠어”…韓이 내놓은 답은",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qa0Z3WXJ1WmNlWExVc1dXX3pSeV9JaGRyU3FBWE1iSTNoZ2NVRFZyY3RZeWtBb1hzc0dyenZxX3BMbmxSYTBGYUNBdVJiaHJyMnJuZnVPdEZFYVhxRWhrVmlHVFBSWjdFWExsUlF30gFuQVVfeXFMTmprRndZcnVaY2VYTFVzV1dfelJ5X0loZHJTcUFYTWJJM2hnY1VEVnJjdFl5a0FvWHNzR3J6dnFfcExubFJhMEZhQ0F1UmJocnIycm5mdU90RkVhWHFFaGtWaUdUUFJaN0VYTGxSUXc?oc=5"
+     },
+     {
+      "press": "한국경제",
+      "title": "\"한동훈 때문에 미칠 것 같다\" 이하늘 하소연에 \"한 잔 하자\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IVWdXRTY0NUx5QWJhaDZoOWRpOHhTTEYxY0RlcktpYVcwWEM3ejlqNFlqcXhsR3FzSTNsZGJyblNvUE9OckNlY3FMQ1VSVU9qM1FhTjkxRHRsZw?oc=5"
+     },
+     {
+      "press": "아이뉴스24",
+      "title": "이하늘 \"한동훈 때문에 미칠 것 같다\" 발언에⋯한동훈 \"한잔해요\"",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wc19MN20tRFRlUzZnY2hlZWtIUmdTMDBFTjFBaTE1RnZORC1VcWhxSGxqZFRIN2sycnZkbk9odTFVeFJucHA1eA?oc=5"
+     },
+     {
+      "press": "서울신문",
+      "title": "이하늘 “한동훈 때문에 미칠 것 같다…민주당 사람들 날 잡아먹으려 한다”",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ydUZfZUt5UExfZHJQTlFVRUg1bWEyOFN3N3I1UDFPSVkyMXAzaUI4ZWloYXVQY1dJMG1rRGg2Rkw5T19BaHZyalpHcHU5Qk1GZXc3aFdLZw?oc=5"
      }
     ]
    }
@@ -351,139 +407,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/01.png",
-   "pngBytes": 1709074,
-   "feed": "오늘의 뉴스 2026-09-27\n\n· 박지원 “포로·지뢰 알아야 한동훈과 싸우지”… 한동훈 “나 말고 정신 나간 사람들과 싸워라”\n· [속보]“李대통령, 유시민 못 이겨…멘탈 깨진 듯” 한동훈의 말\n· '52억 펜트하우스' 집순이 한소희의 럭셔리 집…이웃사촌도 어마어마[누구집]\n· 라면 한그릇이 6500원?…공항 밥값 비싼 이유\n· 한동훈 \"李대통령, 유시민 못 이겨…걱정스럽게도 멘탈 깨진 듯\"\n· 한동훈 \"유엔사 조사 요청 우리 군이 거절…명명백백히 밝혀야\"\n· “당신은 유시민 못 이깁니다”…한동훈, 이재명 대통령에 직격탄 날렸다"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/01.png",
+   "pngBytes": 1626593,
+   "feed": "오늘의 뉴스 2026-09-28\n\n· \"한동훈 때문에 미칠 것 같다\"…이하늘에 韓 \"한잔해요\"\n· 박정희도, 김대중도 아니었다…가장 신뢰하는 전직대통령 1위 노무현\n· 오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다”\n· \"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체\n· 민주당이 들었다는 '유시민' 추석 민심 \"과유불급\"\n· 장동혁 “추석 민심 일촉즉발, 농민 삶 망가뜨리고 안보까지 포기”\n· 이하늘 “한동훈 때문에 미칠 것 같아”…韓, 또 화답 “한잔하자”"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/02.png",
-   "pngBytes": 1691917,
-   "title": "박지원 “포로·지뢰 알아야 한동훈과 싸우지”… 한동훈 “나 말고 정신 나간 사람들과 싸워라”",
-   "summary": "박지원 민주당 의원 “지뢰·북한군 포로, 사실대로 밝혀야” 5선의 박지원 의원은 26일 페이스북에 “지뢰 사고로 우리 군인이 사고를 당했다면 사실대로 밝혀야 우리 국민이…",
-   "summary_long": "박지원 민주당 의원 “지뢰·북한군 포로, 사실대로 밝혀야” 무소속 한동훈 의원이 지난 24일 용산구 국방부 앞에서 비무장지대(DMZ) 내 지뢰 추정 폭발사고 관련 즉각 조사를 촉구하는 1인시위를 하고 있다. 우크라이나의 북한군 포로 한국 송환과 비무장지대(DMZ) 지뢰 폭발 사고와 관련해 여야가 설전이 격화화고 있다.\n\n5선의 박지원 의원은 26일 페이스북에 “지뢰 사고로 우리 군인이 사고를 당했다면 사실대로 밝혀야 우리 국민이 이해한다”며 “우크라이나에서 북한군 포로 2명이 우리나라에 왔다면 왜 인도적 차원에서 포로를 우크라이나로부터 인수했다는 사실을 밝히지 못하냐”라고 적었다. 박 의원은 정부가 여당에도 설명을 제대로 하지 않았다며 “우리 여당 의원들은 굿이나 보고 떡이나 먹으라는 정부의 여당 무시냐. 이에 대해 한동훈 무소속 의원은 페이스북에 “박지원 의원은 한동훈 말고 추석 빨간날 다 지나고 현장조사 시작하겠다는 정신나간 사람들과 싸워라”라고 밝혔다.",
-   "press": "디지털타임스",
-   "source": "디지털타임스",
-   "link": "https://n.news.naver.com/article/029/0003049874",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/02.png",
+   "pngBytes": 1618706,
+   "title": "\"한동훈 때문에 미칠 것 같다\"…이하늘에 韓 \"한잔해요\"",
+   "summary": "유튜브 채널 '이하늘의 별의별 말' 영상 캡처DJ DOC 이하늘이 \"한동훈 때문에 미칠 것 같다\"며 한동훈 무소속 의원을 언급하자, 한 의원이 \"한잔합시다\"라고…",
+   "summary_long": "유튜브 채널 '이하늘의 별의별 말' 영상 캡처DJ DOC 이하늘이 \"한동훈 때문에 미칠 것 같다\"며 한동훈 무소속 의원을 언급하자, 한 의원이 \"한잔합시다\"라고 화답했다. 한 의원은 27일 자신의 SNS에 이하늘의 발언이 담긴 영상을 공유하고 짧게 \"한잔해요\"라고 적었다. 영상에서 이하늘은 \"정말 한동훈 때문에 미칠 것 같아요\"라며 \"지금 민주당 사람들이 절 잡아먹으려고 그래요\"라고 말했다.\n\n이어 \"지금 정말 한동훈이 1타 2피예요\"라며 \"나도 잡고 민주당 흔들고 분열시키고, 저 한동훈 때문에 미칠 것 같아요\"라고 했다. 이하늘은 지난 13일 유튜브 영상에서 \"민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸\"이라고 자신의 견해를 밝혔다. 과거 한 의원을 여러 차례 놀렸던 일을 언급하며 \"나중에 한동훈이 되면 나 X될 것 같다\"고도 말했다.",
+   "press": "TV조선",
+   "source": "TV조선",
+   "link": "https://n.news.naver.com/article/448/0000641606",
    "selection": "정치",
-   "feed": "뉴스 01. 박지원 “포로·지뢰 알아야 한동훈과 싸우지”… 한동훈 “나 말고 정신 나간 사람들과 싸워라”\n\n박지원 민주당 의원 “지뢰·북한군 포로, 사실대로 밝혀야” 무소속 한동훈 의원이 지난 24일 용산구 국방부 앞에서 비무장지대(DMZ) 내 지뢰 추정 폭발사고 관련 즉각 조사를 촉구하는 1인시위를 하고 있다. 우크라이나의 북한군 포로 한국 송환과 비무장지대(DMZ) 지뢰 폭발 사고와 관련해 여야가 설전이 격화화고 있다.\n\n5선의 박지원 의원은 26일 페이스북에 “지뢰 사고로 우리 군인이 사고를 당했다면 사실대로 밝혀야 우리 국민이 이해한다”며 “우크라이나에서 북한군 포로 2명이 우리나라에 왔다면 왜 인도적 차원에서 포로를 우크라이나로부터 인수했다는 사실을 밝히지 못하냐”라고 적었다. 박 의원은 정부가 여당에도 설명을 제대로 하지 않았다며 “우리 여당 의원들은 굿이나 보고 떡이나 먹으라는 정부의 여당 무시냐. 이에 대해 한동훈 무소속 의원은 페이스북에 “박지원 의원은 한동훈 말고 추석 빨간날 다 지나고 현장조사 시작하겠다는 정신나간 사람들과 싸워라”라고 밝혔다.\n\n출처: 디지털타임스 / https://n.news.naver.com/article/029/0003049874"
+   "feed": "뉴스 01. \"한동훈 때문에 미칠 것 같다\"…이하늘에 韓 \"한잔해요\"\n\n유튜브 채널 '이하늘의 별의별 말' 영상 캡처DJ DOC 이하늘이 \"한동훈 때문에 미칠 것 같다\"며 한동훈 무소속 의원을 언급하자, 한 의원이 \"한잔합시다\"라고 화답했다. 한 의원은 27일 자신의 SNS에 이하늘의 발언이 담긴 영상을 공유하고 짧게 \"한잔해요\"라고 적었다. 영상에서 이하늘은 \"정말 한동훈 때문에 미칠 것 같아요\"라며 \"지금 민주당 사람들이 절 잡아먹으려고 그래요\"라고 말했다.\n\n이어 \"지금 정말 한동훈이 1타 2피예요\"라며 \"나도 잡고 민주당 흔들고 분열시키고, 저 한동훈 때문에 미칠 것 같아요\"라고 했다. 이하늘은 지난 13일 유튜브 영상에서 \"민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸\"이라고 자신의 견해를 밝혔다. 과거 한 의원을 여러 차례 놀렸던 일을 언급하며 \"나중에 한동훈이 되면 나 X될 것 같다\"고도 말했다.\n\n출처: TV조선 / https://n.news.naver.com/article/448/0000641606"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/03.png",
-   "pngBytes": 1801727,
-   "title": "[속보]“李대통령, 유시민 못 이겨…멘탈 깨진 듯” 한동훈의 말",
-   "summary": "한동훈 무소속 의원이 유시민 작가의 검찰개혁 관련 발언을 겨냥한 청와대의 대응을 두고 이재명 대통령을 향해 “당신은 유시민을 못 이긴다”고 꼬집었다. 한 의원은 26일…",
-   "summary_long": "한동훈 무소속 의원이 유시민 작가의 검찰개혁 관련 발언을 겨냥한 청와대의 대응을 두고 이재명 대통령을 향해 “당신은 유시민을 못 이긴다”고 꼬집었다. 한 의원은 26일 자신의 SNS에 “이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다”라고 적었다. 이는 최근 유 작가가 이 대통령의 검찰개혁 구상을 두고 “국민을 속였다”는 취지로 비판한 뒤 청와대가 공개적으로 유감을 표명한 것을 겨냥한 발언으로 풀이된다.\n\n앞서 청와대는 지난 24일 유 작가의 발언을 두고 “대통령의 검찰개혁 의지를 사실과 다르게 왜곡하는 것에 유감”이라며 “근거 없는 비난성 주장이 계속되는 것에 대해 사실관계를 확인 중”이라고 밝혔다. 이어 “유시민 씨를 이긴 유경험자로서 이재명 대통령에게 충고한다”며 “당신은 유시민 못 이긴다”고 꼬집었다. 한편 한 의원은 이 대통령을 향해 “걱정스럽게도 이 대통령 멘탈이 깨진 것 같다”며 “멘탈 꽉 잡고 ‘지뢰공격 현장조사’를 지시하고, 외교하러 해외에 나갔으면 유시민 얘기 말고 외교를 하라”고 지적했다.",
-   "press": "문화일보",
-   "source": "문화일보",
-   "link": "https://n.news.naver.com/article/021/0002821221",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/03.png",
+   "pngBytes": 1702069,
+   "title": "박정희도, 김대중도 아니었다…가장 신뢰하는 전직대통령 1위 노무현",
+   "summary": "2009년 5월 25일 노무현 전 대통령의 빈소가 마련된 경남 김해 봉하마을에서 조문객이 눈물을 흘리고 있다. 국민이 가장 신뢰하는 전직 대통령을 묻는 조사에서 노 전…",
+   "summary_long": "2009년 5월 25일 노무현 전 대통령의 빈소가 마련된 경남 김해 봉하마을에서 조문객이 눈물을 흘리고 있다. 최근 고(故) 노무현 전 대통령이 다시 정치권과 여론의 중심에 등장하고 있다. 국민이 가장 신뢰하는 전직 대통령을 묻는 조사에서 노 전 대통령이 33.0%로 1위를 차지한 가운데, 이재명 대통령은 추석을 앞두고 더불어민주당 의원 전원에게 ‘노무현 평전’을 선물했다는 것이 알려지면서다.\n\n최근 공개된 ‘2026 대한민국 신뢰도 조사’에서 노 전 대통령이 전직 대통령 신뢰도 1위에 오른 직후 이 대통령이 민주당 의원들에게 노무현 전 대통령 관련 책을 전달하면서 그 배경에도 관심이 쏠린다. 박정희 전 대통령이 21.2%로 뒤를 이었고 김대중 전 대통령 12.3%, 문재인·이명박 전 대통령이 각각 6.0%로 나타났다. 이 대통령은 지난 18일 기자회견에서도 노무현·김대중 전 대통령과 문재인 전 대통령 등을 아우르는 메시지를 내놓기도 했다.",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005740232",
    "selection": "정치",
-   "feed": "뉴스 02. [속보]“李대통령, 유시민 못 이겨…멘탈 깨진 듯” 한동훈의 말\n\n한동훈 무소속 의원이 유시민 작가의 검찰개혁 관련 발언을 겨냥한 청와대의 대응을 두고 이재명 대통령을 향해 “당신은 유시민을 못 이긴다”고 꼬집었다. 한 의원은 26일 자신의 SNS에 “이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다”라고 적었다. 이는 최근 유 작가가 이 대통령의 검찰개혁 구상을 두고 “국민을 속였다”는 취지로 비판한 뒤 청와대가 공개적으로 유감을 표명한 것을 겨냥한 발언으로 풀이된다.\n\n앞서 청와대는 지난 24일 유 작가의 발언을 두고 “대통령의 검찰개혁 의지를 사실과 다르게 왜곡하는 것에 유감”이라며 “근거 없는 비난성 주장이 계속되는 것에 대해 사실관계를 확인 중”이라고 밝혔다. 이어 “유시민 씨를 이긴 유경험자로서 이재명 대통령에게 충고한다”며 “당신은 유시민 못 이긴다”고 꼬집었다. 한편 한 의원은 이 대통령을 향해 “걱정스럽게도 이 대통령 멘탈이 깨진 것 같다”며 “멘탈 꽉 잡고 ‘지뢰공격 현장조사’를 지시하고, 외교하러 해외에 나갔으면 유시민 얘기 말고 외교를 하라”고 지적했다.\n\n출처: 문화일보 / https://n.news.naver.com/article/021/0002821221"
+   "feed": "뉴스 02. 박정희도, 김대중도 아니었다…가장 신뢰하는 전직대통령 1위 노무현\n\n2009년 5월 25일 노무현 전 대통령의 빈소가 마련된 경남 김해 봉하마을에서 조문객이 눈물을 흘리고 있다. 최근 고(故) 노무현 전 대통령이 다시 정치권과 여론의 중심에 등장하고 있다. 국민이 가장 신뢰하는 전직 대통령을 묻는 조사에서 노 전 대통령이 33.0%로 1위를 차지한 가운데, 이재명 대통령은 추석을 앞두고 더불어민주당 의원 전원에게 ‘노무현 평전’을 선물했다는 것이 알려지면서다.\n\n최근 공개된 ‘2026 대한민국 신뢰도 조사’에서 노 전 대통령이 전직 대통령 신뢰도 1위에 오른 직후 이 대통령이 민주당 의원들에게 노무현 전 대통령 관련 책을 전달하면서 그 배경에도 관심이 쏠린다. 박정희 전 대통령이 21.2%로 뒤를 이었고 김대중 전 대통령 12.3%, 문재인·이명박 전 대통령이 각각 6.0%로 나타났다. 이 대통령은 지난 18일 기자회견에서도 노무현·김대중 전 대통령과 문재인 전 대통령 등을 아우르는 메시지를 내놓기도 했다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005740232"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/04.png",
-   "pngBytes": 2350983,
-   "title": "'52억 펜트하우스' 집순이 한소희의 럭셔리 집…이웃사촌도 어마어마[누구집]",
-   "summary": "프라이빗한 전원 생활에 강남까지 차로 15분 최근 영화 ‘인턴’의 주연으로 극장가를 사로잡은 배우 한소희의 거주지가 주목받고 있습니다. 한소희는 경기 구리의 고급…",
-   "summary_long": "프라이빗한 전원 생활에 강남까지 차로 15분 최근 영화 ‘인턴’의 주연으로 극장가를 사로잡은 배우 한소희의 거주지가 주목받고 있습니다. 한소희는 경기 구리의 고급 펜트하우스를 52억원에 분양받은 것으로 전해졌는데요. (사진=한소희 인스타그램, 아르카디아 시그니처 홈페이지 갈무리)26일 부동산 업계에 따르면 한소희는 지난 2024년 8월 구리 아천동 아치울마을에 위치한 ‘아르카디아 시그니처’ 전용면적 203㎡를 매입한 것으로 알려집니다.\n\n한소희는 이 집을 52억4000만원에 분양받았고 11억원 가량을 대출받은 것으로 보입니다. 영화 '인턴' 포스터 사진과 아르카디아 시그니처 투시도. (사진=워너브러더스코리아, 아르카디아 시그니처 홈페이지 갈무리)한소희는 2021년에도 같은 아치울마을 고급 빌라에 거주한 바 있습니다.",
-   "press": "이데일리",
-   "source": "이데일리",
-   "link": "https://n.news.naver.com/article/018/0006375673",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/04.png",
+   "pngBytes": 1774550,
+   "title": "오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다”",
+   "summary": "오세훈 서울시장이 정부의 농지 전수조사와 부동산 정책을 겨냥해 “집 가진 국민도, 땅 가진 국민도 대통령이 싸워야 할 상대가 아니다”라며 비판의 목소리를 냈다. 오…",
+   "summary_long": "오세훈 서울시장이 21일 서울 중구 서울시청에서 열린 ‘서울 주택정책 성과공유회’에서 정비사업 지정과 공공주택 확보 등 주택정책 성과를 발표하고 있다. 오세훈 서울시장이 정부의 농지 전수조사와 부동산 정책을 겨냥해 “집 가진 국민도, 땅 가진 국민도 대통령이 싸워야 할 상대가 아니다”라며 비판의 목소리를 냈다. 오 시장은 27일 자신의 페이스북에 ‘대통령은 더 이상 때려잡을 대상을 국민에게서 찾지 마십시오’라는 제목의 글을 올리고 이같이 밝혔다.\n\n그는 “투기는 막고, 불법도 바로잡아야 한다”면서도 “문제는 투기를 막는다는 명분 아래 국민의 복잡한 삶을 하나의 잣대로 재단하고, 그 원칙에서 벗어난 사람들을 잠재적 투기꾼처럼 의심하는 정책의 방향”이라고 했다. 그러면서 “국민 각자에게는 저마다 피치 못할 사정이 있다”며 “행정이 그 수많은 사정을 일일이 들여다보며 ‘투기’와 ‘선의의 보유자’를 완벽하게 판별할 수 있다고 자신하는 것 자체가 오만이고 독선”이라고 비판했다. 그는 “국민의 삶, 그리고 미래와 직결되는 국가 개혁은 소위 ‘때려잡는’ 계곡 정비와는 차원이 다른 일”이라고 말했다.",
+   "press": "조선비즈",
+   "source": "조선비즈",
+   "link": "https://n.news.naver.com/article/366/0001194539",
    "selection": "경제·시사",
-   "feed": "뉴스 03. '52억 펜트하우스' 집순이 한소희의 럭셔리 집…이웃사촌도 어마어마[누구집]\n\n프라이빗한 전원 생활에 강남까지 차로 15분 최근 영화 ‘인턴’의 주연으로 극장가를 사로잡은 배우 한소희의 거주지가 주목받고 있습니다. 한소희는 경기 구리의 고급 펜트하우스를 52억원에 분양받은 것으로 전해졌는데요. (사진=한소희 인스타그램, 아르카디아 시그니처 홈페이지 갈무리)26일 부동산 업계에 따르면 한소희는 지난 2024년 8월 구리 아천동 아치울마을에 위치한 ‘아르카디아 시그니처’ 전용면적 203㎡를 매입한 것으로 알려집니다.\n\n한소희는 이 집을 52억4000만원에 분양받았고 11억원 가량을 대출받은 것으로 보입니다. 영화 '인턴' 포스터 사진과 아르카디아 시그니처 투시도. (사진=워너브러더스코리아, 아르카디아 시그니처 홈페이지 갈무리)한소희는 2021년에도 같은 아치울마을 고급 빌라에 거주한 바 있습니다.\n\n출처: 이데일리 / https://n.news.naver.com/article/018/0006375673"
+   "feed": "뉴스 03. 오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다”\n\n오세훈 서울시장이 21일 서울 중구 서울시청에서 열린 ‘서울 주택정책 성과공유회’에서 정비사업 지정과 공공주택 확보 등 주택정책 성과를 발표하고 있다. 오세훈 서울시장이 정부의 농지 전수조사와 부동산 정책을 겨냥해 “집 가진 국민도, 땅 가진 국민도 대통령이 싸워야 할 상대가 아니다”라며 비판의 목소리를 냈다. 오 시장은 27일 자신의 페이스북에 ‘대통령은 더 이상 때려잡을 대상을 국민에게서 찾지 마십시오’라는 제목의 글을 올리고 이같이 밝혔다.\n\n그는 “투기는 막고, 불법도 바로잡아야 한다”면서도 “문제는 투기를 막는다는 명분 아래 국민의 복잡한 삶을 하나의 잣대로 재단하고, 그 원칙에서 벗어난 사람들을 잠재적 투기꾼처럼 의심하는 정책의 방향”이라고 했다. 그러면서 “국민 각자에게는 저마다 피치 못할 사정이 있다”며 “행정이 그 수많은 사정을 일일이 들여다보며 ‘투기’와 ‘선의의 보유자’를 완벽하게 판별할 수 있다고 자신하는 것 자체가 오만이고 독선”이라고 비판했다. 그는 “국민의 삶, 그리고 미래와 직결되는 국가 개혁은 소위 ‘때려잡는’ 계곡 정비와는 차원이 다른 일”이라고 말했다.\n\n출처: 조선비즈 / https://n.news.naver.com/article/366/0001194539"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/05.png",
-   "pngBytes": 1891829,
-   "title": "라면 한그릇이 6500원?…공항 밥값 비싼 이유",
-   "summary": "한국공항공사가 운영하는 공항에서 영업하는 일부 입주업체가 매출의 30%가 넘는 금액을 임대료로 부담하는 것으로 나타났다. 유동 인구가 많은 공항의 특성상 임대료가 일반…",
-   "summary_long": "한국공항공사가 운영하는 공항에서 영업하는 일부 입주업체가 매출의 30%가 넘는 금액을 임대료로 부담하는 것으로 나타났다. 일부 매장은 매출의 절반 이상을 임대료로 내고 있었다. 유동 인구가 많은 공항의 특성상 임대료가 일반 상권보다 높을 수 있지만, 백화점이나 대형마트 등 다른 특수상권보다도 높은 수준의 임대료 부담이 결국 상품 가격 상승을 통해 공항 이용객에게 전가될 수 있다는 지적이 나온다.\n\n국회 국토교통위원회 국민의힘 김미애 의원이 한국공항공사로부터 받은 ‘식음료 매장 매출액·임대료’ 자료에 따르면 2021∼2025년 전국 14개 공항 식음료 매장의 전체 매출은 8659억원, 임대료는 2765억원이었다. 전문가들은 공항 등 특수상권에서는 높은 임대료가 입주업체의 수익성을 압박하고 그 부담이 가격이나 서비스 조정을 통해 소비자에 전가될 수 있다고 지적한다. 이홍주 숙명여대 소비자경제학과 교수는 “공항이라는 특수상권은 높은 유동 인구를 보장받는 대신 높은 임대료를 부담하는 구조”라며 “30%를 넘는 수준이라면 업체의 수익성을 압박할 수 있고 결국 가격이나 서비스 조정을 통해 비용 일부가 소비자에게 전가될 가능성이 대단히 크다”고 짚었다.",
-   "press": "헤럴드경제",
-   "source": "헤럴드경제",
-   "link": "https://n.news.naver.com/article/016/0002701967",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/05.png",
+   "pngBytes": 1948243,
+   "title": "\"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체",
+   "summary": "인스타그램 등 사회관계망서비스를 기반으로 상품을 파는 이른바 'SNS 마켓'이 빠르게 몸집을 키우고 있지만, 주문과 결제가 다이렉트 메시지 등 비공개 채널에서 이뤄지는…",
+   "summary_long": "SNS 공구 마켓 커졌는데, 세금 '깜깜'. 인스타그램 등 사회관계망서비스(SNS)를 기반으로 상품을 파는 이른바 'SNS 마켓'이 빠르게 몸집을 키우고 있지만, 주문과 결제가 다이렉트 메시지(DM) 등 비공개 채널에서 이뤄지는 거래가 많아 과세 자료를 확보하기 어렵다는 지적이 나온다. 27일 문진석 더불어민주당 의원이 국세청에서 받은 자료에 따르면 2024년 'SNS 마켓업'을 주업종으로 신고한 사업자의 사업소득은 333억600만원으로 집계됐다.\n\n실제로 ENA·SBS플러스 '나는 솔로' 20기 정숙으로 출연한 이은율 씨는 지난 7월 자신의 사회관계망서비스(SNS) 계정에 '대기업 퇴사한 인플루언서 현실'이라는 제목의 콘텐츠를 게재하며 \"대기업을 퇴사하고 단 3일 만에 공구(공동구매) 하나로 이전 직장(LG전자) 시절의 연봉을 벌었다\"고 전해 놀… SNS 마켓이라 불리는 공동구매 판매 시장이 커지고 있으나, 판매 과정이 플랫폼 밖에서 이뤄질 수 있다는 점에서 과세당국의 자료 확보가 쉽지 않다는 지적이 나오고 있다. SNS 마켓은 소규모 창업과 공동구매, 인플루언서 기반 판매가 결합한 유통 방식으로 성장했다.",
+   "press": "한국경제",
+   "source": "한국경제",
+   "link": "https://n.news.naver.com/article/015/0005336200",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 라면 한그릇이 6500원?…공항 밥값 비싼 이유\n\n한국공항공사가 운영하는 공항에서 영업하는 일부 입주업체가 매출의 30%가 넘는 금액을 임대료로 부담하는 것으로 나타났다. 일부 매장은 매출의 절반 이상을 임대료로 내고 있었다. 유동 인구가 많은 공항의 특성상 임대료가 일반 상권보다 높을 수 있지만, 백화점이나 대형마트 등 다른 특수상권보다도 높은 수준의 임대료 부담이 결국 상품 가격 상승을 통해 공항 이용객에게 전가될 수 있다는 지적이 나온다.\n\n국회 국토교통위원회 국민의힘 김미애 의원이 한국공항공사로부터 받은 ‘식음료 매장 매출액·임대료’ 자료에 따르면 2021∼2025년 전국 14개 공항 식음료 매장의 전체 매출은 8659억원, 임대료는 2765억원이었다. 전문가들은 공항 등 특수상권에서는 높은 임대료가 입주업체의 수익성을 압박하고 그 부담이 가격이나 서비스 조정을 통해 소비자에 전가될 수 있다고 지적한다. 이홍주 숙명여대 소비자경제학과 교수는 “공항이라는 특수상권은 높은 유동 인구를 보장받는 대신 높은 임대료를 부담하는 구조”라며 “30%를 넘는 수준이라면 업체의 수익성을 압박할 수 있고 결국 가격이나 서비스 조정을 통해 비용 일부가 소비자에게 전가될 가능성이 대단히 크다”고 짚었다.\n\n출처: 헤럴드경제 / https://n.news.naver.com/article/016/0002701967"
+   "feed": "뉴스 04. \"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체\n\nSNS 공구 마켓 커졌는데, 세금 '깜깜'. 인스타그램 등 사회관계망서비스(SNS)를 기반으로 상품을 파는 이른바 'SNS 마켓'이 빠르게 몸집을 키우고 있지만, 주문과 결제가 다이렉트 메시지(DM) 등 비공개 채널에서 이뤄지는 거래가 많아 과세 자료를 확보하기 어렵다는 지적이 나온다. 27일 문진석 더불어민주당 의원이 국세청에서 받은 자료에 따르면 2024년 'SNS 마켓업'을 주업종으로 신고한 사업자의 사업소득은 333억600만원으로 집계됐다.\n\n실제로 ENA·SBS플러스 '나는 솔로' 20기 정숙으로 출연한 이은율 씨는 지난 7월 자신의 사회관계망서비스(SNS) 계정에 '대기업 퇴사한 인플루언서 현실'이라는 제목의 콘텐츠를 게재하며 \"대기업을 퇴사하고 단 3일 만에 공구(공동구매) 하나로 이전 직장(LG전자) 시절의 연봉을 벌었다\"고 전해 놀… SNS 마켓이라 불리는 공동구매 판매 시장이 커지고 있으나, 판매 과정이 플랫폼 밖에서 이뤄질 수 있다는 점에서 과세당국의 자료 확보가 쉽지 않다는 지적이 나오고 있다. SNS 마켓은 소규모 창업과 공동구매, 인플루언서 기반 판매가 결합한 유통 방식으로 성장했다.\n\n출처: 한국경제 / https://n.news.naver.com/article/015/0005336200"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/06.png",
-   "pngBytes": 2063927,
-   "title": "한동훈 \"李대통령, 유시민 못 이겨…걱정스럽게도 멘탈 깨진 듯\"",
-   "summary": "李에 \"유시민 얘기 말고 외교를 하라\" 이재명 대통령과 유시민 작가 간의 검찰개혁 공방을 두고 한동훈 무소속 의원이 이 대통령을 향해 “당신은 유시민을 못 이긴다”고…",
-   "summary_long": "李에 \"유시민 얘기 말고 외교를 하라\" 이재명 대통령과 유시민 작가 간의 검찰개혁 공방을 두고 한동훈 무소속 의원이 이 대통령을 향해 “당신은 유시민을 못 이긴다”고 직격했다. 지난 2017년 5월 서울 종로구 광화문광장에서 열린 고 노무현 전 대통령 서거 8주기 시민문화제 '사람사는 세상이 돌아와!'에서 당시 이재명 성남시장, 유시민 작가가 토크콘서트를 하고 있다. 26일 한 의원은 자신의 페이스북에 ‘당신은 유시민 못이깁니다’라는 제목의 글을 올리고 “이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다”라고 운을 뗐다.\n\n청와대는 지난 24일 유 작가의 발언과 관련해 “대통령의 검찰개혁 의지를 사실과 다르게 왜곡하는 것에 유감”이라며 “근거 없는 비난성 주장이 계속되는 것에 대해 사실 관계를 확인 중”이라고 밝혔다. 그러면서 “유시민 씨를 이긴 유경험자로서 이재명 대통령에게 충고한다”며 “당신은 유시민 못이깁니다”라고 거듭 강조했다. 또한 한 의원은 이 대통령을 향해 “걱정스럽게도 이 대통령 멘탈이 깨진 것 같다”며 “멘탈 꽉 잡고 ‘지뢰공격 현장조사’를 지시하고, 외교하러 해외에 나갔으면 유시민 얘기 말고 외교를 하라”고 주장했다.",
-   "press": "이데일리",
-   "source": "이데일리",
-   "link": "https://n.news.naver.com/article/018/0006375669",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/06.png",
+   "pngBytes": 1722173,
+   "title": "민주당이 들었다는 '유시민' 추석 민심 \"과유불급\"",
+   "summary": "유시민 작가의 이재명 대통령 비판을 두고 추석 연휴를 거친 더불어민주당과 조국혁신당이 엇갈린 반응을 내놨다. 한편 한동훈 무소속 의원은 유 작가를 향한 청와대의 유감…",
+   "summary_long": "유시민 작가의 이재명 대통령 비판을 두고 추석 연휴를 거친 더불어민주당과 조국혁신당이 엇갈린 반응을 내놨다. 한편 한동훈 무소속 의원은 유 작가를 향한 청와대의 유감 표명에 \"이 대통령 멘털이 깨진 것 같다\"고 비난했다. 유 작가는 연휴 직전인 지난 22일 <미디어오늘> 유튜브 채널에서 \"이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다\"면서 \"대통령이 지금까지 국민을 속인 것\"이라고 말했다.\n\n앞서 유 작가는 이른바 'ABC론', '재건축론' 등으로 이 대통령을 직격했고 이후에도 \"필연적인 실패의 길\", \"수습할 국면은 지났다\" 등의 강경 표현으로 비판을 이어왔다. 박성준 민주당 수석대변인은 추석 연휴 마지막날인 27일 오전 국회에서 진행한 '추석 민심 기자간담회'에서 \"(국민들이) 유 작가 이야기도 많이 하시더라\"라고 입을 열었다. 청와대는 유 작가의 발언에 대해 지난 24일 \"대통령의 검찰 개혁 의지를 사실과 다르게 왜곡하는 것에 유감\"이라며 \"근거 없는 비난성 주장이 계속되는 것에 대해 사실관계를 확인 중\"이라고 밝혔다.",
+   "press": "오마이뉴스",
+   "source": "오마이뉴스",
+   "link": "https://n.news.naver.com/article/047/0002530385",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 한동훈 \"李대통령, 유시민 못 이겨…걱정스럽게도 멘탈 깨진 듯\"\n\n李에 \"유시민 얘기 말고 외교를 하라\" 이재명 대통령과 유시민 작가 간의 검찰개혁 공방을 두고 한동훈 무소속 의원이 이 대통령을 향해 “당신은 유시민을 못 이긴다”고 직격했다. 지난 2017년 5월 서울 종로구 광화문광장에서 열린 고 노무현 전 대통령 서거 8주기 시민문화제 '사람사는 세상이 돌아와!'에서 당시 이재명 성남시장, 유시민 작가가 토크콘서트를 하고 있다. 26일 한 의원은 자신의 페이스북에 ‘당신은 유시민 못이깁니다’라는 제목의 글을 올리고 “이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다”라고 운을 뗐다.\n\n청와대는 지난 24일 유 작가의 발언과 관련해 “대통령의 검찰개혁 의지를 사실과 다르게 왜곡하는 것에 유감”이라며 “근거 없는 비난성 주장이 계속되는 것에 대해 사실 관계를 확인 중”이라고 밝혔다. 그러면서 “유시민 씨를 이긴 유경험자로서 이재명 대통령에게 충고한다”며 “당신은 유시민 못이깁니다”라고 거듭 강조했다. 또한 한 의원은 이 대통령을 향해 “걱정스럽게도 이 대통령 멘탈이 깨진 것 같다”며 “멘탈 꽉 잡고 ‘지뢰공격 현장조사’를 지시하고, 외교하러 해외에 나갔으면 유시민 얘기 말고 외교를 하라”고 주장했다.\n\n출처: 이데일리 / https://n.news.naver.com/article/018/0006375669"
+   "feed": "뉴스 05. 민주당이 들었다는 '유시민' 추석 민심 \"과유불급\"\n\n유시민 작가의 이재명 대통령 비판을 두고 추석 연휴를 거친 더불어민주당과 조국혁신당이 엇갈린 반응을 내놨다. 한편 한동훈 무소속 의원은 유 작가를 향한 청와대의 유감 표명에 \"이 대통령 멘털이 깨진 것 같다\"고 비난했다. 유 작가는 연휴 직전인 지난 22일 <미디어오늘> 유튜브 채널에서 \"이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다\"면서 \"대통령이 지금까지 국민을 속인 것\"이라고 말했다.\n\n앞서 유 작가는 이른바 'ABC론', '재건축론' 등으로 이 대통령을 직격했고 이후에도 \"필연적인 실패의 길\", \"수습할 국면은 지났다\" 등의 강경 표현으로 비판을 이어왔다. 박성준 민주당 수석대변인은 추석 연휴 마지막날인 27일 오전 국회에서 진행한 '추석 민심 기자간담회'에서 \"(국민들이) 유 작가 이야기도 많이 하시더라\"라고 입을 열었다. 청와대는 유 작가의 발언에 대해 지난 24일 \"대통령의 검찰 개혁 의지를 사실과 다르게 왜곡하는 것에 유감\"이라며 \"근거 없는 비난성 주장이 계속되는 것에 대해 사실관계를 확인 중\"이라고 밝혔다.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002530385"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/07.png",
-   "pngBytes": 1919352,
-   "title": "한동훈 \"유엔사 조사 요청 우리 군이 거절…명명백백히 밝혀야\"",
-   "summary": "한 의원은 이날 오후 서울 용산구 국방부 앞에서 \"누가 유엔사의 요구를 거부했는지 명명백백하게 밝혀야 한다\"면서 \"결국은 이재명 정권이 태생적으로 김정은 정권의 눈치를…",
-   "summary_long": "한 의원은 이날 오후 서울 용산구 국방부 앞에서 \"누가 유엔사의 요구를 거부했는지 명명백백하게 밝혀야 한다\"면서 \"결국은 이재명 정권이 태생적으로 김정은 정권의 눈치를 보기 때문이라고밖에 말할 수가 없다\"고 말했습니다. 한 의원은 \"유엔사 사령관은 21일 신속한 조사를 지시하고, 군사정전위원회는 사고 다음 날인 지난 22일 우리 국군 25사단을 방문해 바디캠 영상, 부상자 인터뷰, 현장 출입을 요청했다\"면서 \"하지만 우리 군은 이 요청을 거절했다\"고 했습니다. 이어 \"한국군의 반대로 인해서 결국 추석 연휴가 끝난 29일에 합동 조사를 하기로 합의했던 것\"이라며 \"국민적 분노가 쌓이게 되니까 결국 27일로 변경돼서 합동 조사가 실시되도록 변경된 것으로 알고 있다\"고 덧붙였습니다.\n\n그런데 우리 군은 아주 짧은 그것도 폭발 이후로 추정되는 짧은 영상 하나 정도를 제공했다\"면서 \"실제 군이 파악하고 있는 것은 그것보다 더 MDL(군사분계선)에 근접한 위치에서 지뢰 폭발이 일어난 것이 아니냐고 보고 있는 것 같다\"고 지적했습니다. 그러면서 \"6일 동안 폭우 속에 방치하고 나중에 증거가 부족해서 원인 불명이라고 얘기하면 이 정권은 죽는다\"면서 \"왜 이렇게 늦어졌는지에 대해서 국민과 함께 책임을 묻겠다\"고 말했습니다. 국방부와 합동참모본부 지휘부를 향해서는 \"해군 출신의 영관급 공보실장 장교, 그리고 민간인, 언론인 출신의 대변인에게 대국민 설명을 모두 맡기고 뒤에 숨어 있다\"며 \"왜 국방부 장관과 합참의장이 국민 앞에 직접 서서 설명하지 못하느냐\"고 되물었습니다.",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000512833",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/07.png",
+   "pngBytes": 1749622,
+   "title": "장동혁 “추석 민심 일촉즉발, 농민 삶 망가뜨리고 안보까지 포기”",
+   "summary": "DMZ 지뢰 추정 폭발에 “대통령 보고 시점 등 밝혀야” 장 대표는 “대법관 제재청 문제나 농지 전수조사, 지뢰 폭발 사고, 북한 포로 송환 등 여러 현안이 산적해…",
+   "summary_long": "DMZ 지뢰 추정 폭발에 “대통령 보고 시점 등 밝혀야” 장동혁 국민의힘 대표가 27일 국회에서 농지 전수조사, 비무장지대(DMZ) 지뢰폭발 추정 사고 등 현안과 관련해 기자회견을 하고 있다. 연합뉴스국민의힘이 추석 연휴 마지막 날인 27일 이재명 정부의 농지 전수조사와 부동산 정책, 비무장지대(DMZ) 지뢰추정 폭발 사고를 고리로 전방위 공세에 나섰다.\n\n장동혁 국민의힘 대표는 이날 서울 여의도 국회에서 기자간담회를 열고 “추석 민심을 한마디로 말하면 일촉즉발”이라며 “많은 분들이 다음 대통령 선거가 언제냐고 물었고 아직 3년 반이나 남았다고 하니 그때까지 어떻게 버티느냐고 한숨을 쉬었다”고 밝혔다. 장 대표는 정부가 북한군 포로 2명의 한국 송환 사실을 숨기려 했다고 주장하면서 이 대통령을 향해 “대한민국 안보를 포기했다”고 비판했다. 장 대표는 “대법관 제재청 문제나 농지 전수조사, 지뢰 폭발 사고, 북한 포로 송환 등 여러 현안이 산적해 있다”며 “민주당이 국민을 먼저 생각하는지, 대통령의 안위를 먼저 생각하는지 좀 더 살펴보겠다”고 말했다.",
+   "press": "서울경제",
+   "source": "서울경제",
+   "link": "https://n.news.naver.com/article/011/0004665590",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 한동훈 \"유엔사 조사 요청 우리 군이 거절…명명백백히 밝혀야\"\n\n한 의원은 이날 오후 서울 용산구 국방부 앞에서 \"누가 유엔사의 요구를 거부했는지 명명백백하게 밝혀야 한다\"면서 \"결국은 이재명 정권이 태생적으로 김정은 정권의 눈치를 보기 때문이라고밖에 말할 수가 없다\"고 말했습니다. 한 의원은 \"유엔사 사령관은 21일 신속한 조사를 지시하고, 군사정전위원회는 사고 다음 날인 지난 22일 우리 국군 25사단을 방문해 바디캠 영상, 부상자 인터뷰, 현장 출입을 요청했다\"면서 \"하지만 우리 군은 이 요청을 거절했다\"고 했습니다. 이어 \"한국군의 반대로 인해서 결국 추석 연휴가 끝난 29일에 합동 조사를 하기로 합의했던 것\"이라며 \"국민적 분노가 쌓이게 되니까 결국 27일로 변경돼서 합동 조사가 실시되도록 변경된 것으로 알고 있다\"고 덧붙였습니다.\n\n그런데 우리 군은 아주 짧은 그것도 폭발 이후로 추정되는 짧은 영상 하나 정도를 제공했다\"면서 \"실제 군이 파악하고 있는 것은 그것보다 더 MDL(군사분계선)에 근접한 위치에서 지뢰 폭발이 일어난 것이 아니냐고 보고 있는 것 같다\"고 지적했습니다. 그러면서 \"6일 동안 폭우 속에 방치하고 나중에 증거가 부족해서 원인 불명이라고 얘기하면 이 정권은 죽는다\"면서 \"왜 이렇게 늦어졌는지에 대해서 국민과 함께 책임을 묻겠다\"고 말했습니다. 국방부와 합동참모본부 지휘부를 향해서는 \"해군 출신의 영관급 공보실장 장교, 그리고 민간인, 언론인 출신의 대변인에게 대국민 설명을 모두 맡기고 뒤에 숨어 있다\"며 \"왜 국방부 장관과 합참의장이 국민 앞에 직접 서서 설명하지 못하느냐\"고 되물었습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000512833"
+   "feed": "뉴스 06. 장동혁 “추석 민심 일촉즉발, 농민 삶 망가뜨리고 안보까지 포기”\n\nDMZ 지뢰 추정 폭발에 “대통령 보고 시점 등 밝혀야” 장동혁 국민의힘 대표가 27일 국회에서 농지 전수조사, 비무장지대(DMZ) 지뢰폭발 추정 사고 등 현안과 관련해 기자회견을 하고 있다. 연합뉴스국민의힘이 추석 연휴 마지막 날인 27일 이재명 정부의 농지 전수조사와 부동산 정책, 비무장지대(DMZ) 지뢰추정 폭발 사고를 고리로 전방위 공세에 나섰다.\n\n장동혁 국민의힘 대표는 이날 서울 여의도 국회에서 기자간담회를 열고 “추석 민심을 한마디로 말하면 일촉즉발”이라며 “많은 분들이 다음 대통령 선거가 언제냐고 물었고 아직 3년 반이나 남았다고 하니 그때까지 어떻게 버티느냐고 한숨을 쉬었다”고 밝혔다. 장 대표는 정부가 북한군 포로 2명의 한국 송환 사실을 숨기려 했다고 주장하면서 이 대통령을 향해 “대한민국 안보를 포기했다”고 비판했다. 장 대표는 “대법관 제재청 문제나 농지 전수조사, 지뢰 폭발 사고, 북한 포로 송환 등 여러 현안이 산적해 있다”며 “민주당이 국민을 먼저 생각하는지, 대통령의 안위를 먼저 생각하는지 좀 더 살펴보겠다”고 말했다.\n\n출처: 서울경제 / https://n.news.naver.com/article/011/0004665590"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/08.png",
-   "pngBytes": 1667550,
-   "title": "“당신은 유시민 못 이깁니다”…한동훈, 이재명 대통령에 직격탄 날렸다",
-   "summary": "유시민 작가 이재명 대통령과 유시민 작가 간의 검찰개혁 공방을 두고 한동훈 무소속 의원이 이 대통령을 향해 “당신은 유시민을 못 이긴다”고 밝혔다. 26일 한 의원은…",
-   "summary_long": "유시민 작가 이재명 대통령과 유시민 작가 간의 검찰개혁 공방을 두고 한동훈 무소속 의원이 이 대통령을 향해 “당신은 유시민을 못 이긴다”고 밝혔다. 26일 한 의원은 자신의 페이스북에 ‘당신은 유시민 못 이깁니다’라는 제목의 글을 올리고 “이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교 하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다”라고 적었다. 이는 최근 유 작가가 이 대통령의 검찰개혁 구상을 두고 “이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 더불어민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다”면서 “대통령이 지금까지 국민을 속인 것”이라고 비판한 뒤 청와대가 공개적으로 유감을 표명한 것을 겨냥한 발언…\n\n청와대는 지난 24일 유 작가의 발언과 관련해 “대통령의 검찰개혁 의지를 사실과 다르게 왜곡하는 것에 유감”이라며 “근거 없는 비난성 주장이 계속되는 것에 대해 사실관계를 확인 중”이라고 밝혔다. 또 “유시민 씨를 이긴 유경험자로서 이재명 대통령에게 충고한다”며 “당신은 유시민 못 이깁니다”라고 거듭 강조했다. 끝으로 한 의원은 이 대통령을 향해 “걱정스럽게도 이 대통령 멘탈이 깨진 것 같다”며 “멘탈 꽉 잡고 ‘지뢰 공격 현장 조사’를 지시하고, 외교 하러 해외에 나갔으면 유시민 얘기 말고 외교를 하라”고 했다.",
-   "press": "매일경제",
-   "source": "매일경제",
-   "link": "https://n.news.naver.com/article/009/0005740106",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/08.png",
+   "pngBytes": 1881965,
+   "title": "이하늘 “한동훈 때문에 미칠 것 같아”…韓, 또 화답 “한잔하자”",
+   "summary": "그룹 DJ DOC 멤버 이하늘이 “한동훈 때문에 미칠 것 같다”며 한동훈 무소속 의원을 재차 언급하자 한 의원이 “한잔하자”고 화답했다. 이하늘은 지난 26일 자신의…",
+   "summary_long": "그룹 DJ DOC 멤버 이하늘이 “한동훈 때문에 미칠 것 같다”며 한동훈 무소속 의원을 재차 언급하자 한 의원이 “한잔하자”고 화답했다. 이하늘은 지난 26일 자신의 유튜브 채널 등에 올린 영상에서 “정말 한동훈 때문에 미칠 것 같아요”라며 “지금 (더불어)민주당 사람들이 절 잡아먹으려고 그래요”라고 말했다. 이어 “정말 한동훈이 1타 2피예요”라며 “나도 잡고 민주당 흔들고 분열시키고”라고 했다.\n\n이에 한 의원은 27일 이 영상을 소셜미디어(SNS)에 공유하고 “한잔해요”라고 적었다. 지난 13일 한동훈 의원이 이하늘이 자신을 언급한 영상을 캡처해 공유했다. 사진 한동훈 의원 인스타그램 캡처 이후 한 의원의 반응을 접한 이하늘은 영상을 통해 “자신을 공격하는 사람에게 오히려 웃으며 ‘팬입니다’라고 받아치니 할 말이 없어진다”며 “옛말에 ‘웃는 얼굴에 침 못 뱉는다’는 말이 딱 맞는다”고 말했다.",
+   "press": "중앙일보",
+   "source": "중앙일보",
+   "link": "https://n.news.naver.com/article/025/0003553954",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. “당신은 유시민 못 이깁니다”…한동훈, 이재명 대통령에 직격탄 날렸다\n\n유시민 작가 이재명 대통령과 유시민 작가 간의 검찰개혁 공방을 두고 한동훈 무소속 의원이 이 대통령을 향해 “당신은 유시민을 못 이긴다”고 밝혔다. 26일 한 의원은 자신의 페이스북에 ‘당신은 유시민 못 이깁니다’라는 제목의 글을 올리고 “이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교 하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다”라고 적었다. 이는 최근 유 작가가 이 대통령의 검찰개혁 구상을 두고 “이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 더불어민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다”면서 “대통령이 지금까지 국민을 속인 것”이라고 비판한 뒤 청와대가 공개적으로 유감을 표명한 것을 겨냥한 발언…\n\n청와대는 지난 24일 유 작가의 발언과 관련해 “대통령의 검찰개혁 의지를 사실과 다르게 왜곡하는 것에 유감”이라며 “근거 없는 비난성 주장이 계속되는 것에 대해 사실관계를 확인 중”이라고 밝혔다. 또 “유시민 씨를 이긴 유경험자로서 이재명 대통령에게 충고한다”며 “당신은 유시민 못 이깁니다”라고 거듭 강조했다. 끝으로 한 의원은 이 대통령을 향해 “걱정스럽게도 이 대통령 멘탈이 깨진 것 같다”며 “멘탈 꽉 잡고 ‘지뢰 공격 현장 조사’를 지시하고, 외교 하러 해외에 나갔으면 유시민 얘기 말고 외교를 하라”고 했다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005740106"
+   "feed": "뉴스 07. 이하늘 “한동훈 때문에 미칠 것 같아”…韓, 또 화답 “한잔하자”\n\n그룹 DJ DOC 멤버 이하늘이 “한동훈 때문에 미칠 것 같다”며 한동훈 무소속 의원을 재차 언급하자 한 의원이 “한잔하자”고 화답했다. 이하늘은 지난 26일 자신의 유튜브 채널 등에 올린 영상에서 “정말 한동훈 때문에 미칠 것 같아요”라며 “지금 (더불어)민주당 사람들이 절 잡아먹으려고 그래요”라고 말했다. 이어 “정말 한동훈이 1타 2피예요”라며 “나도 잡고 민주당 흔들고 분열시키고”라고 했다.\n\n이에 한 의원은 27일 이 영상을 소셜미디어(SNS)에 공유하고 “한잔해요”라고 적었다. 지난 13일 한동훈 의원이 이하늘이 자신을 언급한 영상을 캡처해 공유했다. 사진 한동훈 의원 인스타그램 캡처 이후 한 의원의 반응을 접한 이하늘은 영상을 통해 “자신을 공격하는 사람에게 오히려 웃으며 ‘팬입니다’라고 받아치니 할 말이 없어진다”며 “옛말에 ‘웃는 얼굴에 침 못 뱉는다’는 말이 딱 맞는다”고 말했다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003553954"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-27/09.png",
-   "pngBytes": 1346206
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/09.png",
+   "pngBytes": 1346209
   }
  ],
- "caption": "📰 9월 27일 오늘의 뉴스\n\n1. 박지원 “포로·지뢰 알아야 한동훈과 싸우지”… 한동훈 “나 말고 정신 나간 사람들과 싸워라”\n   박지원 민주당 의원 “지뢰·북한군 포로, 사실대로 밝혀야” 5선의 박지원 의원은 26일 페이스북에 “지뢰 사고로 우리 군인이 사고를 당했다면 사실대로 밝혀야 우리 국민이…\n2. [속보]“李대통령, 유시민 못 이겨…멘탈 깨진 듯” 한동훈의 말\n   한동훈 무소속 의원이 유시민 작가의 검찰개혁 관련 발언을 겨냥한 청와대의 대응을 두고 이재명 대통령을 향해 “당신은 유시민을 못 이긴다”고 꼬집었다. 한 의원은 26일…\n3. '52억 펜트하우스' 집순이 한소희의 럭셔리 집…이웃사촌도 어마어마[누구집]\n   프라이빗한 전원 생활에 강남까지 차로 15분 최근 영화 ‘인턴’의 주연으로 극장가를 사로잡은 배우 한소희의 거주지가 주목받고 있습니다. 한소희는 경기 구리의 고급…\n4. 라면 한그릇이 6500원?…공항 밥값 비싼 이유\n   한국공항공사가 운영하는 공항에서 영업하는 일부 입주업체가 매출의 30%가 넘는 금액을 임대료로 부담하는 것으로 나타났다. 유동 인구가 많은 공항의 특성상 임대료가 일반…\n5. 한동훈 \"李대통령, 유시민 못 이겨…걱정스럽게도 멘탈 깨진 듯\"\n   李에 \"유시민 얘기 말고 외교를 하라\" 이재명 대통령과 유시민 작가 간의 검찰개혁 공방을 두고 한동훈 무소속 의원이 이 대통령을 향해 “당신은 유시민을 못 이긴다”고…\n6. 한동훈 \"유엔사 조사 요청 우리 군이 거절…명명백백히 밝혀야\"\n   한 의원은 이날 오후 서울 용산구 국방부 앞에서 \"누가 유엔사의 요구를 거부했는지 명명백백하게 밝혀야 한다\"면서 \"결국은 이재명 정권이 태생적으로 김정은 정권의 눈치를…\n7. “당신은 유시민 못 이깁니다”…한동훈, 이재명 대통령에 직격탄 날렸다\n   유시민 작가 이재명 대통령과 유시민 작가 간의 검찰개혁 공방을 두고 한동훈 무소속 의원이 이 대통령을 향해 “당신은 유시민을 못 이긴다”고 밝혔다. 26일 한 의원은…\n\n🗣 “이재명 대통령은 우리 귀한 장병의 발목을 절단한 지뢰 공격 현장 조사는 추석 연휴 뒤로 미뤄도, 유시민 씨와의 이전투구는 외교하러 나가서도 추석 연휴 중이라도 도저히 미룰 수 없나 보다”\n이 발언을 그대로 실은 보도 9건 · 강원일보 · 주간경향 · 다음뉴스 · KBC광주방송\n· 강원일보 — 한동훈 “이재명 대통령, 유시민 못 이겨…해외 나갔으면 외교에 집중해야”\n· 주간경향 — 한동훈 “유시민 공개 반성문 받은 것은 사실의 힘이었다”\n· 다음뉴스 — “당신은 유시민 못 이깁니다”…한동훈, 이재명 대통령에 직격탄 날렸다\n· KBC광주방송 — 한동훈 \"李대통령, 유시민 못 이깁니다…해외 나갔으면 외교하라\"\n· 뉴데일리 — 한동훈 \"李, 순방가서 유시민과 이전투구 … 지뢰 현장 조사나 지시하라\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, 디지털타임스, 매일경제, 문화일보, 이데일리, 헤럴드경제"
+ "caption": "📰 9월 28일 오늘의 뉴스\n\n1. \"한동훈 때문에 미칠 것 같다\"…이하늘에 韓 \"한잔해요\"\n   유튜브 채널 '이하늘의 별의별 말' 영상 캡처DJ DOC 이하늘이 \"한동훈 때문에 미칠 것 같다\"며 한동훈 무소속 의원을 언급하자, 한 의원이 \"한잔합시다\"라고…\n2. 박정희도, 김대중도 아니었다…가장 신뢰하는 전직대통령 1위 노무현\n   2009년 5월 25일 노무현 전 대통령의 빈소가 마련된 경남 김해 봉하마을에서 조문객이 눈물을 흘리고 있다. 국민이 가장 신뢰하는 전직 대통령을 묻는 조사에서 노 전…\n3. 오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다”\n   오세훈 서울시장이 정부의 농지 전수조사와 부동산 정책을 겨냥해 “집 가진 국민도, 땅 가진 국민도 대통령이 싸워야 할 상대가 아니다”라며 비판의 목소리를 냈다. 오…\n4. \"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체\n   인스타그램 등 사회관계망서비스를 기반으로 상품을 파는 이른바 'SNS 마켓'이 빠르게 몸집을 키우고 있지만, 주문과 결제가 다이렉트 메시지 등 비공개 채널에서 이뤄지는…\n5. 민주당이 들었다는 '유시민' 추석 민심 \"과유불급\"\n   유시민 작가의 이재명 대통령 비판을 두고 추석 연휴를 거친 더불어민주당과 조국혁신당이 엇갈린 반응을 내놨다. 한편 한동훈 무소속 의원은 유 작가를 향한 청와대의 유감…\n6. 장동혁 “추석 민심 일촉즉발, 농민 삶 망가뜨리고 안보까지 포기”\n   DMZ 지뢰 추정 폭발에 “대통령 보고 시점 등 밝혀야” 장 대표는 “대법관 제재청 문제나 농지 전수조사, 지뢰 폭발 사고, 북한 포로 송환 등 여러 현안이 산적해…\n7. 이하늘 “한동훈 때문에 미칠 것 같아”…韓, 또 화답 “한잔하자”\n   그룹 DJ DOC 멤버 이하늘이 “한동훈 때문에 미칠 것 같다”며 한동훈 무소속 의원을 재차 언급하자 한 의원이 “한잔하자”고 화답했다. 이하늘은 지난 26일 자신의…\n\n🗣 “문제는 투기를 막는다는 명분 아래 국민의 복잡한 삶을 하나의 잣대로 재단하고, 그 원칙에서 벗어난 사람들을 잠재적 투기꾼처럼 의심하는 정책의 방향”\n이 발언을 그대로 실은 보도 10건 · Chosunbiz · SBS · 파이낸셜뉴스 · 채널A 뉴스\n· Chosunbiz — 오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다” - 조선비즈\n· SBS — 오세훈 \"집·땅 가진 국민, 대통령이 싸워야 할 상대 아냐\"\n· 파이낸셜뉴스 — 오세훈 \"李, 실거주 이어 실경작 집착\"…농지 전수조사 비판\n· 채널A 뉴스 — 오세훈 “집·땅 가진 국민, 대통령이 싸워야할 상대 아니다”\n· 경기일보 — 오세훈 \"李대통령 '때려잡을 대상' 국민에서 찾지 말라…오만이고 독선\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실 #추석\n\n출처: TV조선, 매일경제, 서울경제, 오마이뉴스, 조선비즈, 중앙일보, 한국경제"
 }
