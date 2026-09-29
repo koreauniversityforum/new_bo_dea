@@ -1,401 +1,252 @@
 {
- "date": "2026-09-28",
- "generated_at": "2026-09-28T10:20:02+09:00",
+ "date": "2026-09-29",
+ "generated_at": "2026-09-29T11:26:10+09:00",
  "mode": "daily",
- "window_start": "2026-09-27T00:00:00+09:00",
- "window_end": "2026-09-27T23:59:59+09:00",
+ "window_start": "2026-09-28T00:00:00+09:00",
+ "window_end": "2026-09-28T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "\"한동훈 때문에 미칠 것 같다\"…이하늘에 韓 \"한잔해요\"",
-   "source": "TV조선",
-   "url": "https://n.news.naver.com/article/448/0000641606",
-   "published_at": "2026-09-27T09:07:42+09:00",
+   "title": "청와대 \"우크라 '비공개 합의 없었다' 거짓 발표...공식 사과 요구\"",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002411702",
+   "published_at": "2026-09-28T04:25:07+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "유튜브 채널 '이하늘의 별의별 말' 영상 캡처DJ DOC 이하늘이 \"한동훈 때문에 미칠 것 같다\"며 한동훈 무소속 의원을 언급하자, 한 의원이 \"한잔합시다\"라고…",
-   "summary_long": "유튜브 채널 '이하늘의 별의별 말' 영상 캡처DJ DOC 이하늘이 \"한동훈 때문에 미칠 것 같다\"며 한동훈 무소속 의원을 언급하자, 한 의원이 \"한잔합시다\"라고 화답했다. 한 의원은 27일 자신의 SNS에 이하늘의 발언이 담긴 영상을 공유하고 짧게 \"한잔해요\"라고 적었다. 영상에서 이하늘은 \"정말 한동훈 때문에 미칠 것 같아요\"라며 \"지금 민주당 사람들이 절 잡아먹으려고 그래요\"라고 말했다.\n\n이어 \"지금 정말 한동훈이 1타 2피예요\"라며 \"나도 잡고 민주당 흔들고 분열시키고, 저 한동훈 때문에 미칠 것 같아요\"라고 했다. 이하늘은 지난 13일 유튜브 영상에서 \"민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸\"이라고 자신의 견해를 밝혔다. 과거 한 의원을 여러 차례 놀렸던 일을 언급하며 \"나중에 한동훈이 되면 나 X될 것 같다\"고도 말했다.",
-   "quotes": [
-    "민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸",
-    "나도 잡고 민주당 흔들고 분열시키고, 저 한동훈 때문에 미칠 것 같아요",
-    "지금 민주당 사람들이 절 잡아먹으려고 그래요"
-   ],
-   "press": "TV조선",
-   "photo": "01.jpg",
-   "quoted": {
-    "quote": "민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸",
-    "n": 7,
-    "verified": 0,
-    "items": [
-     {
-      "press": "다음뉴스",
-      "title": "이하늘 \"한동훈 때문에 미칠 것 같다\" 발언에⋯한동훈 \"한잔해요\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EZnh0OFRPdWtnTEszR0RJU1ZKdnRqaEFWanppN3RkVXFqXy1JTTIxTXozR3FyQm5PQXVTQzlIYzZiWFIxQVhZMERlS01RdHpOaFpnWg?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "이하늘 \"한동훈 때문에 미칠 것 같아\"…한동훈 또 화답 \"한잔해요\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUcjY0V3d2NTdOMXRKU20wMHVGZXAwLURsTHY4RjQyYUlRaV9vMWdoc2VrMHRsQU5UMWcwb2NoRXU0cVhuQXgwNEdNcGpURWJSNHFHbWktQ2huMllNcDRsdHBjN2RHWUV3ejhMdtIBckFVX3lxTFByNkphdjIxaVdnRkNZcm5FS2ozQWFmREZjckxBWEstaTJaR092ZGE3bzNNT2dhZ0RPUlB4Qmg2eFJuSmprUTZHdTdGaTVyZ254c01OV3h5ejhKZ2RfSWk3SDlIZHJIUmFBYm1tWWxkMGl3dw?oc=5"
-     },
-     {
-      "press": "뉴시스",
-      "title": "이하늘 \"한동훈 때문에 미칠 것 같아요\"…한동훈 \"한잔해요\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tbTdOeDR1SmpkamZvVm9uc25OMzJ5cXlrT2xnMUU2YWFnODRJUjdLcmVBaDZWSjJNRU9fdm9zcDRUYzlXRG9oZlNkOHhmVWo2UzQ2TTJyQV9nbnJTYVlTdNIBeEFVX3lxTE5sUjlXaVgwTTljTG01WnctWUo3YzZHdzFOdmFWNmFESDRpX1BSYVJ2YjN5N1hLOS1ZNHc4R2pzMnpBRVBhc1pDeERHbGVES2NuVl8zRkxtUWphTkhKei05TjdxZ21RMnN0MDd5YUxWdHg1bkxYM1BGeA?oc=5"
-     },
-     {
-      "press": "콜뉴스24",
-      "title": "\"한동훈 때문에 미칠 것 같아요\" 이하늘 영상에…한동훈 \"한잔해요\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMlFFaG81RVQyV2RDbmtmdE1rVVpvVnY3bDBYOUt1WnNtSi0tRGEtSnR4dFg1dHY3NnN4c2Z2cVBzVDZ5UEtRTmZWalpxSEVYYUVlSWxIMUdVbG5GamRMX0FTZnpIMmQ5bWRoeQ?oc=5"
-     },
-     {
-      "press": "헤럴드경제",
-      "title": "이하늘 “한동훈 때문에 미치겠어”…한동훈 “한잔해요”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53OVl6M2tfMU1qVksyNEJydTk3bWRLM19WelJVU1pjV1RXajVscDluQ0JLbnN6Z1FGMnFvdGViQlV4b3l6M2gyNW8yakp1MTRRM2FPVEJ3?oc=5"
-     },
-     {
-      "press": "파이낸셜뉴스",
-      "title": "\"한동훈 때문에…\" 이하늘 말에 韓 \"한잔해요\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PbTVieVMwbmp6b3ZyTnZxcVp1VklQZVpfSzM4dGdjeGU2cmxpR2g4dl9HY1ZCS3c0YlZhTmpVT1ZxenZ0WTh1T092YVQyOFJ5NDl5Nk9xTGcxdw?oc=5"
-     }
-    ]
-   }
+   "summary": "한국과 우크라이나 간 북한군 포로의 한국 송환 사실에 대한 '비공개 합의'가 있었는지를 놓고, 양국 입장이 엇갈리는 가운데, 청와대가 우크라이나 측에 공식적인 해명과…",
+   "summary_long": "한국과 우크라이나 간 북한군 포로의 한국 송환 사실에 대한 '비공개 합의'가 있었는지를 놓고, 양국 입장이 엇갈리는 가운데, 청와대가 우크라이나 측에 공식적인 해명과 사과를 요구했습니다. 이재명 대통령이 5박 7일 순방 일정을 마치고 귀국한 직후, 청와대는 성기홍 홍보소통수석 명의의 공식 입장문을 내고 우크라이나 정부를 향해 강력한 유감을 표명했습니다. 청와대는 그동안 양국이 여러 차례 협의를 거치며 송환 사실을 공개하지 않기로 합의했다고 분명히 밝혔습니다.\n\n우크라이나 측이 먼저 자국 내 비판 여론을 우려해 보안을 요청했고, 우리 정부 역시 포로 당사자와 가족의 안전, 외교 안보 상황을 고려해 비공개 송환에 뜻을 모았다는 설명입니다. 하지만 우크라이나 정부는 사전 협의도 없이 유엔총회 연설에서 송환 사실을 전격 공개한 데 이어, 이재명 대통령이 비공개 합의가 깨진 데 대해 아쉬움을 나타내자 이번엔 우크라이나 대통령실이 사실과 다르게 '비공개를 합의한 적이 없다'고 발표했다고 지적했습니다. 성 수석은 우리 대통령의 정당한 발언에 대해 우크라이나 대통령실이 거짓 사실을 발표한 것은 양국 신뢰와 우호 관계를 심각하게 훼손하는 행위라고 지적했습니다.",
+   "press": "YTN",
+   "photo": "01.jpg"
   },
   {
-   "title": "박정희도, 김대중도 아니었다…가장 신뢰하는 전직대통령 1위 노무현",
-   "source": "매일경제",
-   "url": "https://n.news.naver.com/article/009/0005740232",
-   "published_at": "2026-09-27T11:30:11+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "selection": "정치",
-   "summary": "2009년 5월 25일 노무현 전 대통령의 빈소가 마련된 경남 김해 봉하마을에서 조문객이 눈물을 흘리고 있다. 국민이 가장 신뢰하는 전직 대통령을 묻는 조사에서 노 전…",
-   "summary_long": "2009년 5월 25일 노무현 전 대통령의 빈소가 마련된 경남 김해 봉하마을에서 조문객이 눈물을 흘리고 있다. 최근 고(故) 노무현 전 대통령이 다시 정치권과 여론의 중심에 등장하고 있다. 국민이 가장 신뢰하는 전직 대통령을 묻는 조사에서 노 전 대통령이 33.0%로 1위를 차지한 가운데, 이재명 대통령은 추석을 앞두고 더불어민주당 의원 전원에게 ‘노무현 평전’을 선물했다는 것이 알려지면서다.\n\n최근 공개된 ‘2026 대한민국 신뢰도 조사’에서 노 전 대통령이 전직 대통령 신뢰도 1위에 오른 직후 이 대통령이 민주당 의원들에게 노무현 전 대통령 관련 책을 전달하면서 그 배경에도 관심이 쏠린다. 박정희 전 대통령이 21.2%로 뒤를 이었고 김대중 전 대통령 12.3%, 문재인·이명박 전 대통령이 각각 6.0%로 나타났다. 이 대통령은 지난 18일 기자회견에서도 노무현·김대중 전 대통령과 문재인 전 대통령 등을 아우르는 메시지를 내놓기도 했다.",
-   "quotes": [
-    "민주주의와 진보, 개혁의 이상을 꿈꾸며 더 좋은 세상을 위해 행동하는 우리는 모두 친문이고 친노이며 친 김대중이며, 이재명의 동지들",
-    "이제 그 길 위에 서고 보니 활자마다 묻어있는 당신의 고뇌와 고독, 결단의 무게가 예전과는 사뭇 다른 울림과 무게로 다가온다",
-    "‘사람 사는 세상’. 대통령께서 평생 품었던 그 꿈은 여전히 우리에게 현재진행형의 과제로 남아 있다"
-   ],
-   "press": "매일경제",
-   "photo": "02.jpg",
-   "quoted": {
-    "quote": "민주주의와 진보, 개혁의 이상을 꿈꾸며 더 좋은 세상을 위해 행동하는 우리는 모두 친문이고 친노이며 친 김대중이며, 이재명의 동지들",
-    "n": 6,
-    "verified": 0,
-    "items": [
-     {
-      "press": "연합뉴스",
-      "title": "李대통령, 민주당 의원들에 '노무현 평전' 선물…통합 도모",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rWGlrb19sX0hRYXAxemtCZ3RtS05lZy1hbVZESGZ6cnpRZzhIenplTjh0d2gza1BIUU1xZnVoSlVnZV8wcEgxcWFHZVR5eUROS1d6YkNnQTJRQ0HSAWBBVV95cUxQdHJzVzRPZEJmcmVlYlBJVHR6ZEs1aWJiSTY3Y0RjZVlXa25wcS1KbFNXdURIYWdGektiTTE3aUludGt2VVNsUU1rdE5kQ3cxZEk1eG53STY0TkI5LVJQSUg?oc=5"
-     },
-     {
-      "press": "OhmyNews",
-      "title": "이 대통령, 문 전 대통령과 통화... \"국민통합 의견 경청\"",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xaXNnNXdPZHFTWHpsY0ZjUnZCVVh2MVZfUmJOVUpOc2J5QUFwNzRzcXg5MFJBekd2cjJ1eUFqbWxCV2k2dHFZOS1iQnNnTmNkUVpLbkVjMUYtTzhIVjVqc3JXSC1fdDFjekZTX1daNXp0UUlhRHBZ?oc=5"
-     },
-     {
-      "press": "한국경제",
-      "title": "추석 앞두고 '노무현 평전' 돌린 李…민주당 전 의원에 선물",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hSW5TcWMtYkNHSmhuQ1FkeWVtZWlPeDFXeFAyNEZsSmMxajU5dlIyaEIyaFhyOTFpVjRmcEdDaFBzNTRNRWNrWTVyaHE5ZzJ5aFBpRU53dF93Zw?oc=5"
-     },
-     {
-      "press": "뉴시스",
-      "title": "이 대통령, 민주당 의원 전원에 '노무현 평전' 선물",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wSXJ3elhGeUVkYnloZHR5Skg0Y0NiRUhNREhjMG84Z2NQQ3VvWGJkX1I4bTlmT1haQ2pSQmtXWlNjN0dhSnY1aWZsSFFZaFA0SE5jOEppR3AwWG05M3JCX9IBeEFVX3lxTE1sQ0NvWUZneklvUlpfQnlDUGlFQjVkcGdYM0xSVzRiRVVtSEhtWWszczJxWUlvclZINU5RNWQybThVaVdzb0NTaWVrU3p5dHZFd2FOUFVISXptR2dpTFVQYVQ3ZXl4UXpCR3E5WmZSLUd3N0Nrd05KRQ?oc=5"
-     },
-     {
-      "press": "서울경제",
-      "title": "李, 민주당 의원들에 ‘노무현 평전’ 선물…잇단 통합 행보",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8waWttYlVGeEpnUy1TSHFNQmhiLTZ2dzFyUnA0ZkFVczF3MTljaGVDRW1LZE9OWXVNWXIyQzBKcHJJNWxyWndoU0ZWczI0QXIwMmfSAVNBVV95cUxNX05aSFREQXdncEpDMFY2TDRNN2FKcUMtcHZULUNwUFVTZElzdzZ6VGVySjB6SnRhcWYybGJnbnZqemZHZURxVHRQU05CUDBXVXUtWQ?oc=5"
-     },
-     {
-      "press": "supple.kr",
-      "title": "계속되는 여권 내분…고심 깊어지는 민주당 지도부",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lN0ZXMVJySGwyRHNLWldxNWNNYjU0cmVIejhNN3NYRkxxOFpLLThiS0ZHd1lhTEpDbEN0VkRyNFp0LVVDSzZLSnMwdFF2NWhERWZiOGZXUHRtQVcz?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다”",
-   "source": "조선비즈",
-   "url": "https://n.news.naver.com/article/366/0001194539",
-   "published_at": "2026-09-27T09:53:10+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "오세훈 서울시장이 정부의 농지 전수조사와 부동산 정책을 겨냥해 “집 가진 국민도, 땅 가진 국민도 대통령이 싸워야 할 상대가 아니다”라며 비판의 목소리를 냈다. 오…",
-   "summary_long": "오세훈 서울시장이 21일 서울 중구 서울시청에서 열린 ‘서울 주택정책 성과공유회’에서 정비사업 지정과 공공주택 확보 등 주택정책 성과를 발표하고 있다. 오세훈 서울시장이 정부의 농지 전수조사와 부동산 정책을 겨냥해 “집 가진 국민도, 땅 가진 국민도 대통령이 싸워야 할 상대가 아니다”라며 비판의 목소리를 냈다. 오 시장은 27일 자신의 페이스북에 ‘대통령은 더 이상 때려잡을 대상을 국민에게서 찾지 마십시오’라는 제목의 글을 올리고 이같이 밝혔다.\n\n그는 “투기는 막고, 불법도 바로잡아야 한다”면서도 “문제는 투기를 막는다는 명분 아래 국민의 복잡한 삶을 하나의 잣대로 재단하고, 그 원칙에서 벗어난 사람들을 잠재적 투기꾼처럼 의심하는 정책의 방향”이라고 했다. 그러면서 “국민 각자에게는 저마다 피치 못할 사정이 있다”며 “행정이 그 수많은 사정을 일일이 들여다보며 ‘투기’와 ‘선의의 보유자’를 완벽하게 판별할 수 있다고 자신하는 것 자체가 오만이고 독선”이라고 비판했다. 그는 “국민의 삶, 그리고 미래와 직결되는 국가 개혁은 소위 ‘때려잡는’ 계곡 정비와는 차원이 다른 일”이라고 말했다.",
-   "quotes": [
-    "그러다 보니 누군가를 타도하고 청산해야 할 대상으로 정해 싸우는 일만이 국정의 핵심이 되었다. 이를 개혁이라는 이름으로 포장하고, 부작용을 지적하는 사람들은 ‘개혁에 저항하는 기득권’으로 몰아붙인다",
-    "문제는 투기를 막는다는 명분 아래 국민의 복잡한 삶을 하나의 잣대로 재단하고, 그 원칙에서 벗어난 사람들을 잠재적 투기꾼처럼 의심하는 정책의 방향",
-    "국민을 위해 싸워야 한다. 이재명 정부에 대한 국민의 기대가 차갑게 식어가고 있는데, 대통령께도 이 민심의 온도가 온전히 전해지기를 바란다"
-   ],
-   "press": "조선비즈",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "문제는 투기를 막는다는 명분 아래 국민의 복잡한 삶을 하나의 잣대로 재단하고, 그 원칙에서 벗어난 사람들을 잠재적 투기꾼처럼 의심하는 정책의 방향",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "Chosunbiz",
-      "title": "오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다” - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGdkUl9jTGtlRjVVLV84MVRsUUM1Q2liejZxcVFFX3VpRnhONTdoZ093NVgxZllTakMtVDNHdTY3cDZpemxMNldWZ0dJbldoQzNfVXJpVG9ab3BwTVdzdGgtTllia01kYVV0WV90RUxTQVdNUGVDSmdUZ2hnMjAtRlVKVDdac2RnU1hDTV9rRG9xaGZDX0h3VTJMaTRNQdIBngFBVV95cUxOUGdkUl9jTGtlRjVVLV84MVRsUUM1Q2liejZxcVFFX3VpRnhONTdoZ093NVgxZllTakMtVDNHdTY3cDZpemxMNldWZ0dJbldoQzNfVXJpVG9ab3BwTVdzdGgtTllia01kYVV0WV90RUxTQVdNUGVDSmdUZ2hnMjAtRlVKVDdac2RnU1hDTV9rRG9xaGZDX0h3VTJMaTRNQQ?oc=5"
-     },
-     {
-      "press": "SBS",
-      "title": "오세훈 \"집·땅 가진 국민, 대통령이 싸워야 할 상대 아냐\"",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbnR5T2Y2Y0dqU1JMV1VsSV9yLUhNZUs2WGpkWVcyMFlmMkk4RWlmWTI3bWs2YnVNZGVxb3dLck1Kb2xUSnllaF9RNkdNVEFzS25CMnhGT1VHQ2hfOVVjTXBmMy1IWl80MHhna1RreGtIclI5eVNfZ3hSTkwya2p6UDNiR3J0QQ?oc=5"
-     },
-     {
-      "press": "파이낸셜뉴스",
-      "title": "오세훈 \"李, 실거주 이어 실경작 집착\"…농지 전수조사 비판",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpTzdvQk15bGxzM2gzaUVNQ3MzNmtvZUVIcGpydUhWbEVCc1d5VnBfNG1DbGdtYzlyazY0MDI1bW5rNkFQa0JHNG9za05MRDNxZF9rNlJidUNHUQ?oc=5"
-     },
-     {
-      "press": "채널A 뉴스",
-      "title": "오세훈 “집·땅 가진 국민, 대통령이 싸워야할 상대 아니다”",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxUndjZkJwdDNLQ25vSGtiSUNjRm1OUk9UdWdjM09qNnJWa0taNFQzQ19ieHdJWkJJbHhyRmFSVWppU3JVWTdlVnNXMG9tVXRzUGhLejdKcDdVSWg5XzJnN0V1UdIBY0FVX3lxTFAxUndjZkJwdDNLQ25vSGtiSUNjRm1OUk9UdWdjM09qNnJWa0taNFQzQ19ieHdJWkJJbHhyRmFSVWppU3JVWTdlVnNXMG9tVXRzUGhLejdKcDdVSWg5XzJnN0V1UQ?oc=5"
-     },
-     {
-      "press": "경기일보",
-      "title": "오세훈 \"李대통령 '때려잡을 대상' 국민에서 찾지 말라…오만이고 독선\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KZ0MzOHlkUGo1MGdKalZTSFJoSlZ5V1pBSVNobmZ0MTRoZVR3Wi1TX3ZZbGJNNWJtdGs4UU9NcGJiWTBlUTJZajFMY0NKSExLVkVlWHlFUUJJMjg?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "오세훈 \"이제는 실경작 집착…집·땅 가진 국민과 싸우지 말라\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSlRPSVdtNzR3QVFzN0oyOXhYWUg0TlptTFdWQnZ3UzdvOFZtU0N4Rm90STdWeUYzdGJGaWswLVlYZmxDQ0FkdUhsa0dJUmc5bEtuRk15UUI1eVlOWEprUGFhcmlTNGZfaXNoLW5hVdIBb0FVX3lxTFBxSlRPSVdtNzR3QVFzN0oyOXhYWUg0TlptTFdWQnZ3UzdvOFZtU0N4Rm90STdWeUYzdGJGaWswLVlYZmxDQ0FkdUhsa0dJUmc5bEtuRk15UUI1eVlOWEprUGFhcmlTNGZfaXNoLW5hVQ?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "\"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체",
-   "source": "한국경제",
-   "url": "https://n.news.naver.com/article/015/0005336200",
-   "published_at": "2026-09-27T07:41:13+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "인스타그램 등 사회관계망서비스를 기반으로 상품을 파는 이른바 'SNS 마켓'이 빠르게 몸집을 키우고 있지만, 주문과 결제가 다이렉트 메시지 등 비공개 채널에서 이뤄지는…",
-   "summary_long": "SNS 공구 마켓 커졌는데, 세금 '깜깜'. 인스타그램 등 사회관계망서비스(SNS)를 기반으로 상품을 파는 이른바 'SNS 마켓'이 빠르게 몸집을 키우고 있지만, 주문과 결제가 다이렉트 메시지(DM) 등 비공개 채널에서 이뤄지는 거래가 많아 과세 자료를 확보하기 어렵다는 지적이 나온다. 27일 문진석 더불어민주당 의원이 국세청에서 받은 자료에 따르면 2024년 'SNS 마켓업'을 주업종으로 신고한 사업자의 사업소득은 333억600만원으로 집계됐다.\n\n실제로 ENA·SBS플러스 '나는 솔로' 20기 정숙으로 출연한 이은율 씨는 지난 7월 자신의 사회관계망서비스(SNS) 계정에 '대기업 퇴사한 인플루언서 현실'이라는 제목의 콘텐츠를 게재하며 \"대기업을 퇴사하고 단 3일 만에 공구(공동구매) 하나로 이전 직장(LG전자) 시절의 연봉을 벌었다\"고 전해 놀… SNS 마켓이라 불리는 공동구매 판매 시장이 커지고 있으나, 판매 과정이 플랫폼 밖에서 이뤄질 수 있다는 점에서 과세당국의 자료 확보가 쉽지 않다는 지적이 나오고 있다. SNS 마켓은 소규모 창업과 공동구매, 인플루언서 기반 판매가 결합한 유통 방식으로 성장했다.",
-   "quotes": [
-    "성실하게 신고하는 사람만 손해 보는 구조가 굳어지지 않도록 새로운 거래 방식에 맞는 자료 수집 체계를 갖춰야 한다",
-    "대기업을 퇴사하고 단 3일 만에 공구(공동구매) 하나로 이전 직장(LG전자) 시절의 연봉을 벌었다"
-   ],
-   "press": "한국경제",
-   "photo": "04.jpg",
-   "quoted": {
-    "quote": "성실하게 신고하는 사람만 손해 보는 구조가 굳어지지 않도록 새로운 거래 방식에 맞는 자료 수집 체계를 갖춰야 한다",
-    "n": 5,
-    "verified": 0,
-    "items": [
-     {
-      "press": "매일경제 마켓",
-      "title": "\"커지는 SNS 마켓서 소득 4년새 18배↑…과세방안은 못 따라가\"",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRanNkYk12XzZaR09WUE1CMXBrQkNzQXQ1YU9CWHQ3ejNsMnRtVVpEdGh4TXRIMTZ4THoxZVRPVXdld28wZjljVGVqaHBFT2tPQkE?oc=5"
-     },
-     {
-      "press": "매일일보",
-      "title": "SNS 마켓 소득 4년 새 18배…과세 사각지대 커진다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsemZWQTJQaXlJZnZWMHd2bFVYZFY4bUE5YTBWYlN2cFBYcGNQR180el9ReTV2NFhxM0dZanFLa1Qwa3ZjaWhvVDJyUzhJTVhnVk05bGdMNm5jaXZzVkxWMzc3bEM5YUEw0gFoQVVfeXFMUGx6ZlZBMlBpeUlmdlYwd3ZsVVhkVjhtQTlhMFZiU3ZwUFhwY1BHXzR6X1F5NXY0WHEzR1lqcUtrVDBrdmNpaG9UMnJTOElNWGdWTTlsZ0w2bmNpdnNWTFYzNzdsQzlhQTA?oc=5"
-     },
-     {
-      "press": "마켓인",
-      "title": "“3일 만에 대기업 연봉 번다더니”…돈 몰린 이 시장, 그런데 세금은",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90cU9rVHpSVGZ2bFFQaWR4bGNqbkRRS0xMQ09UWVRuc0U0RDY2SU5WMGt3N3AzbV9mV0prQ3RfdEdscjdIZXk4bEJOTWw3dENVN1hMSTFwbDhCRVhSd3FJMC1GWVhDRU5UWm1uQ1FBelQ4UU0?oc=5"
-     },
-     {
-      "press": "한국경제TV",
-      "title": "＂3일이면 대기업 연봉 번다＂는 인플루언서…국세청도 ＇촉각＇",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93aDktbTlySDIydU9LYWR0WGcwUGZyZElTaTFtenk0ZlNzUHlmckgzb3BnOWk1aTcwc1VYOHNGZkpyUnVYalZxQWV4c3BZc0hDS3hRUXlkT2pTeVNGU0lTV05PVVhmMXhVOHB3a2s5aEJNUVE?oc=5"
-     },
-     {
-      "press": "매일경제",
-      "title": "‘공구’로 3일 만에 억소리나게 벌었지만...정작 내는 세금은 ‘깜깜’",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HVXdwblJZZEhCUXB5ajVtdFBHSHk5cXE0V2h4SHpGMGtyZVptOUVRcnBBcmxUYS1xVWJVNVdZQW12WV9CR2c?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "민주당이 들었다는 '유시민' 추석 민심 \"과유불급\"",
-   "source": "오마이뉴스",
-   "url": "https://n.news.naver.com/article/047/0002530385",
-   "published_at": "2026-09-27T19:21:08+09:00",
-   "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 174,
-   "comment_agree": 199,
-   "comment_disagree": 68,
-   "division_balance": 0.509363,
-   "division_score": 2.847844,
-   "selection": "찬반 쟁점",
-   "summary": "유시민 작가의 이재명 대통령 비판을 두고 추석 연휴를 거친 더불어민주당과 조국혁신당이 엇갈린 반응을 내놨다. 한편 한동훈 무소속 의원은 유 작가를 향한 청와대의 유감…",
-   "summary_long": "유시민 작가의 이재명 대통령 비판을 두고 추석 연휴를 거친 더불어민주당과 조국혁신당이 엇갈린 반응을 내놨다. 한편 한동훈 무소속 의원은 유 작가를 향한 청와대의 유감 표명에 \"이 대통령 멘털이 깨진 것 같다\"고 비난했다. 유 작가는 연휴 직전인 지난 22일 <미디어오늘> 유튜브 채널에서 \"이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다\"면서 \"대통령이 지금까지 국민을 속인 것\"이라고 말했다.\n\n앞서 유 작가는 이른바 'ABC론', '재건축론' 등으로 이 대통령을 직격했고 이후에도 \"필연적인 실패의 길\", \"수습할 국면은 지났다\" 등의 강경 표현으로 비판을 이어왔다. 박성준 민주당 수석대변인은 추석 연휴 마지막날인 27일 오전 국회에서 진행한 '추석 민심 기자간담회'에서 \"(국민들이) 유 작가 이야기도 많이 하시더라\"라고 입을 열었다. 청와대는 유 작가의 발언에 대해 지난 24일 \"대통령의 검찰 개혁 의지를 사실과 다르게 왜곡하는 것에 유감\"이라며 \"근거 없는 비난성 주장이 계속되는 것에 대해 사실관계를 확인 중\"이라고 밝혔다.",
-   "quotes": [
-    "이재명 정부 성공을 위해서는 당정청 원팀이 중요한데, '(쓴소리가) 지나칠 때가 있다', '전체 진영을 너무 흔들어 놓는 지나친 말들은 과유불급', '쓴소리가 어떤 경우엔 약효가 있지만 도가 지나치면 정말 정부에 도움이 되냐'라고도 말하더라",
-    "민주당과 이 대통령은 대선 이전부터 지금 이 순간까지도 수사권과 기소권의 완전 분리라는 검찰 개혁의 대명제를 굳건하게 실천하고 있다",
-    "이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다"
-   ],
-   "press": "오마이뉴스",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다",
-    "n": 6,
-    "verified": 0,
-    "items": [
-     {
-      "press": "OhmyNews",
-      "title": "민주당이 들었다는 '유시민' 추석 민심 \"과유불급\"",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yNjMzSE1XOTdXeVBiNThrWVRXY1c2ZDJBc0pwQVhLZnNwZzhIS2tXOXpDRTRMcF9RRXZmYXVoUlZRd0k0bGxQTXZJN2VZQnpMOExiTW1QMGRnaWlFQVotY3puLUNnVDJpUVdETzAwSUFiSUptS0dr?oc=5"
-     },
-     {
-      "press": "서울경제",
-      "title": "與 “민심, 당정청 하나 되라고 해”…유시민 등 겨냥 “쓴소리 과유불급”",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90eEtJQ0xENHRjeHhiLW1CSFZqMEhPNmpHdEVIM2ZYeE91QmI3c1o3eUl2QTNxdTI3VUZiSDRhcmF2U0xHUzROTUZ1SlpQeHRWX3fSAVNBVV95cUxOSDJRM0VZbnBxbWlURFN2amhQREEyRkNWV3RqNEJrTWZITzdyRXRCLTlkNnNCT3hQTnh4eU5ibC1OMkxHY0w0dGVFa0JLNGdSRnRQWQ?oc=5"
-     },
-     {
-      "press": "한겨레",
-      "title": "민주 “검찰 개혁, 이 대통령이 국민 속였다? 유시민 과유불급…억지주장 말라”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5MXBXTEVzdmVEMjQzX0JsWU9xekt3bkNXU0gxTVVHb3pNNXJPLWF2WGtyX0Ffc245VWg0dG5PVVdqVTNWdnl6THBuVE03SDI3c1VIYzVZMlhGM3BiWlAyR2d6b252MEVQcERiT21Bc2FubzlZ?oc=5"
-     },
-     {
-      "press": "뉴시스",
-      "title": "전용기, 유시민 '대통령 국민 속였다' 발언에 \"강한 유감\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZbHctUE9FblhRYWRiU1p0SE9KcXpPV0FwckVYQVA4NVd5MjByVnFmRTNiX3BmcDhTSTMyNTVHNkxIZ3U3MWY1WVZfRkM0T0JmN1lMM2lEZFNqSklobXNSM9IBeEFVX3lxTFBQZHJnY1pVZVlKLTZNb3Q1NXBsWTFhSzk1V21Vb3BNcmNYcnRzQXdMQTFFcWVkNlNfcWE4SndDak1RR1pxMEVxa2xDb2JNNElRNDJRMzZCdl9BY3pkWk85OEwtR0FOQ1AxVy1xMVpVSTg1U2RKM0t0Nw?oc=5"
-     },
-     {
-      "press": "데일리안",
-      "title": "민주당, 유시민 '李대통령 국민 속여' 발언에 \"강한 유감\"",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQa2dZZ0I4LWQwaVQ2R3E5UnllLWxuUFpGTjRtdGp4S3RsSXduWGxJcWhwTVhVSXNJT0dTekxuNmhaSEprVjR6WnJLeGJsRUJZbzF1dEh5UmFMZlRVUzFuZk9rSE1aYTJhbzhYTTdUVEQwT1lReFNBWm56SXdYWkg2d01Eb1Z2a0ctNF9DSEhVRG5ORWNWczdhQWdGb0RiZl9fSlcxZTlDUm1ic1ZzSl8zRDZIa3FKdFJkNDZUQjNXYzFnUVVRXzRGNGlqVTBrY1k2dzE3U2gzM2RBX2Y0TU5yOUZ5ZkVOTnJmRnFEUzBUaVptN0tVUUNVZzJfLXdNV3czTE5hM04weldPeTRCVjJVTkpCeU9xbnY5?oc=5"
-     },
-     {
-      "press": "민중의소리",
-      "title": "민주당 “유시민 억지주장으로 대통령 진의 왜곡말라”",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93eE5wT2RpVkVqNW9hVVBIX2VRWE1lS3oyTUdlbDh0TXozMmdWZXFuLTJTUlpVRVc4N0Ztc25PZU80X1p0RkRDUWpEZw?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "장동혁 “추석 민심 일촉즉발, 농민 삶 망가뜨리고 안보까지 포기”",
-   "source": "서울경제",
-   "url": "https://n.news.naver.com/article/011/0004665590",
-   "published_at": "2026-09-27T11:32:12+09:00",
-   "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 272,
-   "comment_agree": 154,
-   "comment_disagree": 35,
-   "division_balance": 0.37037,
-   "division_score": 1.943342,
-   "selection": "찬반 쟁점",
-   "summary": "DMZ 지뢰 추정 폭발에 “대통령 보고 시점 등 밝혀야” 장 대표는 “대법관 제재청 문제나 농지 전수조사, 지뢰 폭발 사고, 북한 포로 송환 등 여러 현안이 산적해…",
-   "summary_long": "DMZ 지뢰 추정 폭발에 “대통령 보고 시점 등 밝혀야” 장동혁 국민의힘 대표가 27일 국회에서 농지 전수조사, 비무장지대(DMZ) 지뢰폭발 추정 사고 등 현안과 관련해 기자회견을 하고 있다. 연합뉴스국민의힘이 추석 연휴 마지막 날인 27일 이재명 정부의 농지 전수조사와 부동산 정책, 비무장지대(DMZ) 지뢰추정 폭발 사고를 고리로 전방위 공세에 나섰다.\n\n장동혁 국민의힘 대표는 이날 서울 여의도 국회에서 기자간담회를 열고 “추석 민심을 한마디로 말하면 일촉즉발”이라며 “많은 분들이 다음 대통령 선거가 언제냐고 물었고 아직 3년 반이나 남았다고 하니 그때까지 어떻게 버티느냐고 한숨을 쉬었다”고 밝혔다. 장 대표는 정부가 북한군 포로 2명의 한국 송환 사실을 숨기려 했다고 주장하면서 이 대통령을 향해 “대한민국 안보를 포기했다”고 비판했다. 장 대표는 “대법관 제재청 문제나 농지 전수조사, 지뢰 폭발 사고, 북한 포로 송환 등 여러 현안이 산적해 있다”며 “민주당이 국민을 먼저 생각하는지, 대통령의 안위를 먼저 생각하는지 좀 더 살펴보겠다”고 말했다.",
-   "quotes": [
-    "북한이 핵 미사일을 만들고 목함 지뢰 도발까지 했는데도 우리 군과 국민의 생명을 내팽개치고 김정은 심기 경호에 매달리는 사람이 바로 살인자이고 매국노",
-    "작은 집이라도 한 채 사 보려고 해도 무섭게 오른 집값에 대출까지 나오지 않으니 집을 살 길도 없다. 집 가진 국민들은 세금 폭탄에 떨고 있다",
-    "우리 군 대대장이 발목을 잃고 장병들이 부상을 당했는데도 이 대통령은 형식적인 SNS 글 하나를 올린 뒤 어떠한 입장도 내놓지 않고 있다"
-   ],
-   "press": "서울경제",
-   "photo": "06.jpg",
-   "quoted": {
-    "quote": "북한이 핵 미사일을 만들고 목함 지뢰 도발까지 했는데도 우리 군과 국민의 생명을 내팽개치고 김정은 심기 경호에 매달리는 사람이 바로 살인자이고 매국노",
-    "n": 7,
-    "verified": 0,
-    "items": [
-     {
-      "press": "서울경제",
-      "title": "장동혁 “추석 민심 일촉즉발, 농민 삶 망가뜨리고 안보까지 포기”",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4XzBRZ0FNbm12Ul93RUdMVUNUelNVWjhNSWFUUTI3Rl90OHJwYWk3T0pBbTNUSFJLQ0trdWRXZUhiSm5wY1hmVnRyMjJvd0x2U1HSAVNBVV95cUxOMmpPM0FLaVZqMS1xVG1admZtWWQ1OFM0eWZRNTZuajFtVUZDZFhhR255ejh1VmJlejd3anp4MmFXc215dS11Tzc1endKTEZGUTFIYw?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "장동혁 \"지뢰 도발에도 김정은 심기 경호…李대통령 스스로 내려와야\"",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5qZV9NbTNPa0I5U3lrZG96T2Z2UHFMM2F5bzYwS25INFpFMEVZcTBsREpSQ3o2VEJOR1hMTnNuMHd3eVpoTnc?oc=5"
-     },
-     {
-      "press": "뉴스1",
-      "title": "'DMZ 폭발' 대응 공방…與 \"장병 피를 정쟁으로\" 野 \"외환죄\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HMlJmWjVVVy1RYThIZ1JRNC1Sd1pVeE9KbmVVZzVDNU11bDFnSW9lby04NTVnYlRTNWhaZVZDcEpFQVRhbEJoTWR6U1ZmWnYwS212djVMWkQ3ZXpTY2xJ0gFfQVVfeXFMT0cyUmZaNVVXLVFhOEhnUlE0LVJ3WlV4T0puZVVnNUM1TXVsMWdJb2VvLTg1NWdiVFM1aFplVkNwSkVBVGFsQmhNZHpTVmZadjBLbXZ2NUxaRDdlelNjbEk?oc=5"
-     },
-     {
-      "press": "대한경제",
-      "title": "장동혁, 李정부 정책 작심 비판…“국민재산 약탈 즉각 중단하라”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LQWtjTUc5dzlDOUNtX2ItaUtJM2dWNnJsSzg1ZUZJdW9oS0phUnRaOUZBVkF6ZjV1VnE3R19KVW15b1JLZ2k2Y3hRUHdWQVVpRmZUSjhfZF9jNEs0VGttYThNT3RvNlR3bmRaZDc1NVViQ2J1?oc=5"
-     },
-     {
-      "press": "뉴스웍스",
-      "title": "장동혁 \"추석 민심 일촉즉발…부동산·농지 수탈로 국민 분노 폭발 직전”",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Q2JXUEFKUDhseTU5dGRjenE0M283bE5wSFhFbXM1SWlSa3NyZHN0WXFGaG5EeFNhWldvZS1vbm16ZlkzSm9sR3VxZnc1WkU3S1d1R05fNS12b2hId0NUSmtXeWUzZmVtdEFTM2MtQjFZY28?oc=5"
-     },
-     {
-      "press": "뉴스1",
-      "title": "野, 'DMZ 폭발' 대응 파상공세…\"李, 조사 고의 지연이라면 외환죄\"",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfS2E1RElZM3dnemV6cGFQSlhZaG1CU1RZTmEzVzFPQXFKZnd3Mk5zVHN3clBYckZtNjQ3a3BaWjVMeWhNYXd1YnUzTXlET2VGUmwtQ0lyUUJ5T1NFQ1dv0gFfQVVfeXFMUF9LYTVESVkzd2d6ZXpwYVBKWFlobUJTVFlOYTNXMU9BcUpmd3cyTnNUc3dyUFhyRm02NDdrcFpaNUx5aE1hd3VidTNNeURPZUZSbC1DSXJRQnlPU0VDV28?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "이하늘 “한동훈 때문에 미칠 것 같아”…韓, 또 화답 “한잔하자”",
+   "title": "“육영수 피격이 박정희 자작극?”…영화 ‘암살자들’ 역사왜곡 논란",
    "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003553954",
-   "published_at": "2026-09-27T14:05:03+09:00",
+   "url": "https://n.news.naver.com/article/025/0003554097",
+   "published_at": "2026-09-28T05:00:00+09:00",
    "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 325,
-   "comment_agree": 312,
-   "comment_disagree": 61,
-   "division_balance": 0.327078,
-   "division_score": 1.937692,
-   "selection": "찬반 쟁점",
-   "summary": "그룹 DJ DOC 멤버 이하늘이 “한동훈 때문에 미칠 것 같다”며 한동훈 무소속 의원을 재차 언급하자 한 의원이 “한잔하자”고 화답했다. 이하늘은 지난 26일 자신의…",
-   "summary_long": "그룹 DJ DOC 멤버 이하늘이 “한동훈 때문에 미칠 것 같다”며 한동훈 무소속 의원을 재차 언급하자 한 의원이 “한잔하자”고 화답했다. 이하늘은 지난 26일 자신의 유튜브 채널 등에 올린 영상에서 “정말 한동훈 때문에 미칠 것 같아요”라며 “지금 (더불어)민주당 사람들이 절 잡아먹으려고 그래요”라고 말했다. 이어 “정말 한동훈이 1타 2피예요”라며 “나도 잡고 민주당 흔들고 분열시키고”라고 했다.\n\n이에 한 의원은 27일 이 영상을 소셜미디어(SNS)에 공유하고 “한잔해요”라고 적었다. 지난 13일 한동훈 의원이 이하늘이 자신을 언급한 영상을 캡처해 공유했다. 사진 한동훈 의원 인스타그램 캡처 이후 한 의원의 반응을 접한 이하늘은 영상을 통해 “자신을 공격하는 사람에게 오히려 웃으며 ‘팬입니다’라고 받아치니 할 말이 없어진다”며 “옛말에 ‘웃는 얼굴에 침 못 뱉는다’는 말이 딱 맞는다”고 말했다.",
+   "view_rank": 1,
+   "selection": "정치",
+   "summary": "육영수 여사 피격 사건을 다룬 영화 ‘암살자’을 둘러싼 논란이 27일 정치권으로 번졌다. 주진우 국민의힘 의원은 27일 페이스북에 “‘암살자’은 육영수 여사를 암살한…",
+   "summary_long": "육영수 여사 피격 사건을 다룬 영화 ‘암살자(들)’을 둘러싼 논란이 27일 정치권으로 번졌다. 재일 교포 문세광이 쏜 총에 맞아 육 여사가 사망했다는 정부 공식 발표와는 다른 결론을 암시하는 영화 내용을 두고 “영화적 상상력을 벗어난 정치적 프로파간다(선전)”라는 비판이 쏟아지고 있다. 주진우 국민의힘 의원은 27일 페이스북에 “‘암살자(들)’은 육영수 여사를 암살한 사건의 배후가 북한이 아니라 박정희 전 대통령인 것처럼 왜곡했다”며 “영화적 상상력이 아니라 유족의 가슴을 미어지게 하는 패륜적 범죄”라고 썼다.\n\n그러면서 “노무현 전 대통령 죽음을 권양숙 여사가 사주했다는 영화가 나오면 그것도 표현의 자유인가”라고 반문했다. 탈북민 출신인 같은 당 박충권 의원도 통화에서 “이 영화는 ‘육영수 여사 시해 사건은 박정희 전 대통령이 중정(중앙정보부)을 시켜서 한 것’이라는 북한 영화의 한국판”이라고 날을 세웠고, TK(대구경북) 4선 김상훈 의원은 “역사 인식을 비트는 극편향적 망동”이라고 말했다. 영화가 열린 결말 형태를 취하고 있지만, 결국 “정치적 위기를 벗어나기 위한 박정희 전 대통령의 자작극”이라는 식의 음모론까지 파고들 공간까지 열어줬다는 불쾌감을 표시하고 있는 것이다.",
    "quotes": [
-    "지금 민주당 쪽에 김민석 당 대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸",
-    "자신을 공격하는 사람에게 오히려 웃으며 ‘팬입니다’라고 받아치니 할 말이 없어진다",
-    "웃는 얼굴에도 침을 뱉는 사람들도 있더라고요. 어쨌든 DJ DOC 파이팅"
+    "내란(12·3 비상계엄)을 진압하지 못했다면 얼마든지 똑같이 겪을 수 있는 시대를 살고 있다는 생각을 하면 (70년대 사건이지만) 젊은이 여러분에게도 얼마든지 볼 가치가 있는 것",
+    "이 영화는 ‘육영수 여사 시해 사건은 박정희 전 대통령이 중정(중앙정보부)을 시켜서 한 것’이라는 북한 영화의 한국판",
+    "우리처럼 이념적 분열이 심한 사회에서 음모론에 기반한 콘텐트가 어떤 반응을 촉발할지 고려하는 것도 창작자들의 의무"
    ],
    "press": "중앙일보",
-   "photo": "07.jpg",
+   "photo": "02.jpg",
    "quoted": {
-    "quote": "자신을 공격하는 사람에게 오히려 웃으며 ‘팬입니다’라고 받아치니 할 말이 없어진다",
-    "n": 6,
+    "quote": "내란(12·3 비상계엄)을 진압하지 못했다면 얼마든지 똑같이 겪을 수 있는 시대를 살고 있다는 생각을 하면 (70년대 사건이지만) 젊은이 여러분에게도 얼마든지 볼 가치가 있는 것",
+    "n": 3,
     "verified": 0,
     "items": [
      {
       "press": "중앙일보",
-      "title": "이하늘 “한동훈 때문에 미칠 것 같아”…韓, 또 화답 “한잔하자”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iT1RLTjFFNEdRRlpfM25zS1B5TVlOQzNRalVoRE9zMWVTblNiN1pTY3NGSXBEM3FnMWJfcVQ4WG5YNTFDSUZRVlpxcThuMVBkcFljRGNn?oc=5"
+      "title": "“육영수 피격이 박정희 자작극?”…영화 ‘암살자들’ 역사왜곡 논란",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ydnlkNmVRY1dxNE5VTEh6dnBDcjFyLW5wUnhyTkJHMDlGd3paV2pTNzRqS09RNl9jSi1reV81dEl4M0hjcm1zaGhVZFM4eDJFSFhuVWxR?oc=5"
      },
      {
-      "press": "주간경향",
-      "title": "이하늘 “한동훈 때문에 미칠 것 같다”…한동훈 “한잔해요”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BeHJreVIzSmc5UDQ5TkFSMFpyeXdCaHo4ZlF1UFk4YzRCWXlLOW9saE9DbmhCSFpybTZsRGliWTVaSGNwdG5YZjFOU19kUkxwRTU0RExfUGlodVpfRmc?oc=5"
+      "press": "허프포스트코리아",
+      "title": "영화 '암살자(들)' 육영수 여사 저격 사건 '박정희 배후설' 논란 : 평론가·감독 찬사 vs 국민의힘 반발",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53VGRCaXFfS0N4RFBuLW5wdlAyNnZGRmptbGxOdjFfN3dOcHVyRUpLNDRkR05KMVpzV3N1R2JhU0dFUnl5d2RIZVM1cERJc3FGd3JpY0FGOA?oc=5"
      },
      {
-      "press": "주간조선",
-      "title": "이하늘 “한동훈 때문에 미치겠어”…韓이 내놓은 답은",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qa0Z3WXJ1WmNlWExVc1dXX3pSeV9JaGRyU3FBWE1iSTNoZ2NVRFZyY3RZeWtBb1hzc0dyenZxX3BMbmxSYTBGYUNBdVJiaHJyMnJuZnVPdEZFYVhxRWhrVmlHVFBSWjdFWExsUlF30gFuQVVfeXFMTmprRndZcnVaY2VYTFVzV1dfelJ5X0loZHJTcUFYTWJJM2hnY1VEVnJjdFl5a0FvWHNzR3J6dnFfcExubFJhMEZhQ0F1UmJocnIycm5mdU90RkVhWHFFaGtWaUdUUFJaN0VYTGxSUXc?oc=5"
+      "press": "더퍼블릭",
+      "title": "영화 '암살자들' 육영수 피격 영화에 '패륜' 반발",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WOGQ5dW9lWHBWRVhxTDkzWDl5dWF6TXpWcTdoVVhjWWdfZFc4YjVfaGV4OE1UQkhsTEhFWS1sQ1Z1Nm45c19hYmc3ZEgyTDFCTmNHeGpBc2poZDBSS0x1SmV5cXlCTlFBUklaZkRMSdIBb0FVX3lxTE5WOGQ5dW9lWHBWRVhxTDkzWDl5dWF6TXpWcTdoVVhjWWdfZFc4YjVfaGV4OE1UQkhsTEhFWS1sQ1Z1Nm45c19hYmc3ZEgyTDFCTmNHeGpBc2poZDBSS0x1SmV5cXlCTlFBUklaZkRMSQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "“다낭도 오사카도 아니었다”…추석 해외여행 1위 찍은 ‘이 나라’",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005740718",
+   "published_at": "2026-09-28T13:50:10+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "28일 여행업계에 따르면 하나투어의 지난 추석 연휴 해외여행 예약 가운데 중국이 32%로 가장 높은 비중을 차지했다. 이달 24~27일 출발 기준 전체 해외여행 예약자…",
+   "summary_long": "28일 여행업계에 따르면 하나투어의 지난 추석 연휴(23~27일 출발 기준) 해외여행 예약 가운데 중국이 32%로 가장 높은 비중을 차지했다. 일본이 31%, 동남아가 27%로 뒤를 이었다. 중국·일본·동남아 등 단거리 노선 예약 비중은 전체의 90%에 달했다.\n\n이달 24~27일 출발 기준 전체 해외여행 예약자 가운데 중국·일본·동남아 비중은 약 88%였다. 대부분 여행사에서 중국 1위, 교원투어는 일본 압도적으로 조사지역별로는 중국이 35.7%로 가장 높았고 일본 26.9%, 동남아 24.9%, 유럽 5.1%, 미주·남태평양 4.7% 순이었다. 중국이 24.3%로 뒤를 이었고 대만 5.6%, 베트남 5.3%, 북유럽 3.9% 순이었다.",
+   "press": "매일경제",
+   "photo": "03.jpg"
+  },
+  {
+   "title": "호두과자 제쳤다…추석휴게소서 41억, 판매 1위는? [요즘소비]",
+   "source": "동아일보",
+   "url": "https://n.news.naver.com/article/020/0003750968",
+   "published_at": "2026-09-28T11:23:13+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "28일 국회 국토교통위원회 소속 황희 더불어민주당 의원이 한국도로공사에서 받은 자료에 따르면, 지난해 추석을 전후한 5일간 전국 고속도로 휴게소에서 아메리카노는…",
+   "summary_long": "28일 국회 국토교통위원회 소속 황희 더불어민주당 의원이 한국도로공사에서 받은 자료에 따르면, 지난해 추석을 전후한 5일간(10월 4~8일) 전국 고속도로 휴게소에서 아메리카노는 87만7000개 팔려 41억7800만 원의 매출을 올렸다. 아메리카노는 2021년부터 5년 연속 추석 기간 휴게소 판매량과 매출액 모두 1위를 지켰다. 판매량은 스낵(68만6000개)이 2위였고, 라면(64만8000개), 커피음료(53만 개), 호두과자(52만9000개)가 뒤를 이었다.\n\n판매량 5위였던 호두과자는 매출액에서는 26억6100만 원으로 2위에 올랐다. 황 의원은 “고속도로 휴게소는 일반 상권과 달리 운전자가 가격이 부담돼도 다른 선택지를 찾기 쉽지 않다”며 “명절 귀성·귀경길에 자주 찾는 먹거리 가격은 국민이 체감하는 물가와 직결된다”고 말했다. 한편 국토교통부는 지난 7월 휴게소 음식 가격을 낮추기 위해 기존 다단계 운영 구조를 직접계약 방식으로 바꾸는 개편안을 발표했다.",
+   "quotes": [
+    "고속도로 휴게소는 일반 상권과 달리 운전자가 가격이 부담돼도 다른 선택지를 찾기 쉽지 않다",
+    "명절 귀성·귀경길에 자주 찾는 먹거리 가격은 국민이 체감하는 물가와 직결된다"
+   ],
+   "press": "동아일보",
+   "photo": "04.jpg",
+   "quoted": {
+    "quote": "고속도로 휴게소는 일반 상권과 달리 운전자가 가격이 부담돼도 다른 선택지를 찾기 쉽지 않다",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
+      "press": "Chosunbiz",
+      "title": "추석 휴게소 먹거리 1위 아메리카노…돈가스값 5년 새 27.5% ↑ - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFpkV0FLV2NaelVSTmRlQUlnbnFEVTVVQ3NibTVrVmlXOEJwQ1hic19iY3JPT0h3b0wzN0Y1Ty1kTXZrQW95U2owNkM3bWZoSUdZbk5QcWVFM2hzRGRqUE95bXhJem91dWNhU3JHV3QzNks5SkxqYUVpbVVXWTJ1Q3ljbmg3WVZfVUVXVTU4Zm9FYWc3YjE2SkpzMVHSAZwBQVVfeXFMUDRaZFdBS1djWnpVUk5kZUFJZ25xRFU1VUNzYm01a1ZpVzhCcENYYnNfYmNyT09Id29MMzdGNU8tZE12a0FveVNqMDZDN21maElHWW5OUHFlRTNoc0RkalBPeW14SXpvdXVjYVNyR1d0MzZLOUpMamFFaW1VV1kydUN5Y25oN1lWX1VFV1U1OGZvRWFnN2IxNkpKczFR?oc=5"
      },
      {
-      "press": "한국경제",
-      "title": "\"한동훈 때문에 미칠 것 같다\" 이하늘 하소연에 \"한 잔 하자\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IVWdXRTY0NUx5QWJhaDZoOWRpOHhTTEYxY0RlcktpYVcwWEM3ejlqNFlqcXhsR3FzSTNsZGJyblNvUE9OckNlY3FMQ1VSVU9qM1FhTjkxRHRsZw?oc=5"
+      "press": "동아일보",
+      "title": "호두과자도 라면도 아니었다…추석 휴게소서 41억 원 팔린 ‘이것’[요즘소비]",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zaHItUmM4eUJiR3NaWWJrbW8tX2ZWSTNMRERfZUJldDNqZ1pPTElxSmJqSUdnZlhzT0VuVTc5Y2E3U090cjAwLTdLMWZRWk1KNXM2ZFhRLV9WYjk3TU9VTEhVWG1HQdIBZkFVX3lxTE4zaHItUmM4eUJiR3NaWWJrbW8tX2ZWSTNMRERfZUJldDNqZ1pPTElxSmJqSUdnZlhzT0VuVTc5Y2E3U090cjAwLTdLMWZRWk1KNXM2ZFhRLV9WYjk3TU9VTEhVWG1HQQ?oc=5"
      },
      {
-      "press": "아이뉴스24",
-      "title": "이하늘 \"한동훈 때문에 미칠 것 같다\" 발언에⋯한동훈 \"한잔해요\"",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wc19MN20tRFRlUzZnY2hlZWtIUmdTMDBFTjFBaTE1RnZORC1VcWhxSGxqZFRIN2sycnZkbk9odTFVeFJucHA1eA?oc=5"
+      "press": "매일경제",
+      "title": "“휴게소 가면 호두과자”공식은 옛말…5년째 최고 인기템은 ‘이것’",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zQ2ExcUNhT1o5MU0yY1dyNExmRnZiLW94RnhXalQ3YXptXzdJcWxRMkxSRFJsZkxmbEhLeVNBUHRXM2tBakE?oc=5"
      },
      {
-      "press": "서울신문",
-      "title": "이하늘 “한동훈 때문에 미칠 것 같다…민주당 사람들 날 잡아먹으려 한다”",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ydUZfZUt5UExfZHJQTlFVRUg1bWEyOFN3N3I1UDFPSVkyMXAzaUI4ZWloYXVQY1dJMG1rRGg2Rkw5T19BaHZyalpHcHU5Qk1GZXc3aFdLZw?oc=5"
+      "press": "아주경제",
+      "title": "귀경길 휴게소 들르기 부담되네…주요 먹거리 5년 새 두 자릿수 상승",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwS2dOMU5CVUtXLXNFVnJVYmJNbUdYY015NDgxaEZkZ0w5dTJMTWNlZF9GRjRiVHhEbVBMa0hKRnRkYWdmQ29oeW4wV2NiWkFTa1lpbjdWc05NQdIBWEFVX3lxTFBzVUYzYVRWZTFkWUFnVVdydmVPLUVwbWdzUW1sZkh5VEVTWC1NSnB2bV9lNmNGY1BTLVJTUjJtY0FjckU4cUd0YkFuRFNEenRXYTFzQ25PWEg?oc=5"
+     },
+     {
+      "press": "데일리팝",
+      "title": "나 혼자 가는 고향길, 휴게소 밥값은 왜 이리 올랐나",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YMk0ycUJkbWQ4V05pcWY1Q2NwWVcyWGhmd1BMU0NfWkVkck55cFpneGVSZTFvb0RpcW1GNXZPWXBuR29NT1hSVFl1R1BnV0FBX2xFd3hzZXJDbGFpTjBnVEQwZnJzNVE5?oc=5"
+     },
+     {
+      "press": "센머니",
+      "title": "[커피가격 브리프] 9월 4주, 휴게소 인상·점심 부담·프리미엄 전략",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yT05QVmdlX1c1enZzVWZJT3dBZF9OWWRGV081RTFsUjhzQ2hvTTZZYTZMVTdwWnBreXZ3c2RsalNmYm5JUkQ2SWZXZTM4Q19SNFNfUVRsanlfNWtwV3BGX2VjOU9XYzF0ZXlQXw?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "'암살자(들)'에 보수야권 '총공세'... 장동혁은 '아수라' 소환",
+   "source": "오마이뉴스",
+   "url": "https://n.news.naver.com/article/047/0002530480",
+   "published_at": "2026-09-28T14:41:16+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 137,
+   "comment_agree": 152,
+   "comment_disagree": 49,
+   "division_balance": 0.487562,
+   "division_score": 2.588111,
+   "selection": "찬반 쟁점",
+   "summary": "장동혁 대표는 28일 페이스북에 \"영화 <암살자>이 추석 연휴에 개봉했다\"라며 \"육영수 여사 피격의 배후에 박정희 대통령이 있다는 참으로 황당한 스토리라고 한다\"라고…",
+   "summary_long": "영화의 주요 소재가 육영수 여사 피격 사건인데, 박정희 전 대통령을 해당 사건의 배후로 지목하는 듯한 내용을 담고 있다는 게 반발의 이유였다. 장동혁 대표는 28일 페이스북에 \"영화 <암살자(들)>이 추석 연휴에 개봉했다\"라며 \"육영수 여사 피격의 배후에 박정희 대통령이 있다는 참으로 황당한 스토리라고 한다\"라고 포문을 열었다. 박정희 대통령 모욕은 '표현의 자유'다\"라고 주장했다.\n\n특히 주진우 의원은 \"노무현 전 대통령의 죽음을 권양숙 여사가 사주했다는 영화가 나온다면 그것도 표현의 자유인가\"라며 \"영화적 상상력이 아니라 유족의 가슴을 미어지게 하는 패륜적 범죄\"라고 비난했다. 박근혜 전 대통령의 측근인 유영하 의원 역시 영화가 \"육 여사 피격의 진짜 배후는 고 박정희 대통령인 것처럼 묘사한다\"라며 \"명백한 정치적 프로파간다\"라고 주장했다. 그러면서 \"마찬가지로 이 영화, 비판받아 마땅하다\"라며 \"표현의 자유에는 비판할 자유도 포함된다\"라고 강조했다.",
+   "quotes": [
+    "개봉된 상업영화가 역사적 사실을 왜곡해서 어그로 끌어(짜증을 유발해) 돈 벌고 있을 때, 그 영화와 만든 사람들을 비판하는 것은 타당하다",
+    "만약 5.18이 북한 소행이라는 영화가 개봉됐다면, 세월호 참사가 민주당 소행이라는 영화가 개봉됐다면 정말 많은 비판을 받았을 것",
+    "의혹과 결론 사이에 놓인 거대한 간극을 음악과 편집, 배우의 표정으로 메울 수는 없다. 관객이 느끼는 확신은 역사적 증거가 아니다"
+   ],
+   "press": "오마이뉴스",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "의혹과 결론 사이에 놓인 거대한 간극을 음악과 편집, 배우의 표정으로 메울 수는 없다. 관객이 느끼는 확신은 역사적 증거가 아니다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "다음뉴스",
+      "title": "'암살자(들)'에 보수야권 '총공세'... 장동혁은 '아수라' 소환",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGbXNtQ2t2SHhFVGc2N0ZjTzVOTFRFck5vcEhtdGpWSzloR2FzeE1pTHYxWkVmZmswdU9kRnhuZlk1QV91Nms2VFg0OUF5TWM?oc=5"
+     },
+     {
+      "press": "프레시안",
+      "title": "\"육영수 피격 배후가 박정희?\"…국민의힘, 동북공정 음모론까지 제기",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nUFpKSUFlSjlHYnBFTkcwT1ZZSV9jQmNiYzd1OE1NNjAxQjBIUEplRXhvbFpjcDEwaHMya1d0cHhVU0ktUTg3YWNMVUlUby0ybDFxSEZ3eDByYjNUR3pCZ0JLb3k1eXM0Wkc4?oc=5"
+     },
+     {
+      "press": "펜앤마이크",
+      "title": "개혁신당도 영화 '암살자(들)' 비판, 이기인 \"상상력은 증거가 될 수 없다\"",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aWUkwcGFwUVdYOGoybFVuQ1hHdnlLbVY1M2VDVEhlSDBWLXhnbVdTb1NZX2c5V1o3MDljQUEtTGpvYnFHVzNRTnFIc3E5Q1hpSm5rQ3RGR19Ba3UtSUtTMC1JclZxZ2VyREl5Ym9WSdIBb0FVX3lxTE9aWUkwcGFwUVdYOGoybFVuQ1hHdnlLbVY1M2VDVEhlSDBWLXhnbVdTb1NZX2c5V1o3MDljQUEtTGpvYnFHVzNRTnFIc3E5Q1hpSm5rQ3RGR19Ba3UtSUtTMC1JclZxZ2VyREl5Ym9WSQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "당내 입지 넓히는 張…吳 항소심·李 잠행·韓 독주가 변수",
+   "source": "아시아경제",
+   "url": "https://n.news.naver.com/article/277/0005821492",
+   "published_at": "2026-09-28T11:22:10+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "comment_count": 124,
+   "comment_agree": 91,
+   "comment_disagree": 31,
+   "division_balance": 0.508197,
+   "division_score": 2.445536,
+   "selection": "찬반 쟁점",
+   "summary": "수도권 우려는 과제…보수 구도 변화 주목국민의힘 지지율이 상승하는 가운데 장동혁 국민의힘 대표가 조직 정비와 대여 투쟁을 병행하며 당내 입지를 넓히고 있다. 한동훈…",
+   "summary_long": "張, 대여 공세·조직 정비로 당내 기반 강화. 수도권 우려는 과제…보수 구도 변화 주목국민의힘 지지율이 상승하는 가운데 장동혁 국민의힘 대표가 조직 정비와 대여 투쟁을 병행하며 당내 입지를 넓히고 있다. 한동훈 무소속 의원과 오세훈 서울시장, 이준석 전 개혁신당 대표 등 주요 인사들이 각자의 정치적 과제를 안고 있어 향후 보수 진영 구도 변화에도 관심이 쏠린다.\n\n장 대표는 추석 연휴 전후 세 차례 긴급 간담회를 열어 이재명 대통령의 대국민 기자회견과 대법관 재제청, 비무장지대(DMZ) 지뢰 폭발 사고에 대한 대여 공세를 주도했다. 장 대표는 이달 들어 대입 수시 원서접수 장애와 사관학교 통폐합, 농지 전수조사, 청년 주거, 플랫폼 노동자 안전망 등 교육·국방·부동산·노동 현안을 넘나들며 13차례 이상의 정책·현장 일정을 소화했다. 박상병 정치평론가는 \"공천이 곧 당선인 영남권 의원들이 대표를 지지하면서 다음 총선 직전까지 장동혁 체제는 더욱 공고해질 것\"이라며 \"다만 중도층 표심이 중요한 수도권 의원들의 위기감은 커질 수 있다\"고 말했다.",
+   "quotes": [
+    "공천이 곧 당선인 영남권 의원들이 대표를 지지하면서 다음 총선 직전까지 장동혁 체제는 더욱 공고해질 것",
+    "다만 중도층 표심이 중요한 수도권 의원들의 위기감은 커질 수 있다",
+    "현재 당내에서 가장 결집력이 강한 세력은 장동혁 당권파"
+   ],
+   "press": "아시아경제",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "공천이 곧 당선인 영남권 의원들이 대표를 지지하면서 다음 총선 직전까지 장동혁 체제는 더욱 공고해질 것",
+    "n": 1,
+    "verified": 0,
+    "items": [
+     {
+      "press": "아시아경제",
+      "title": "당내 입지 넓히는 張…吳 항소심·李 잠행·韓 독주가 변수",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00UkNlZVVqcjgzVlJHaG1ZalRqN2ZHSTFWbkJJeEVlM3BJckwyZlZzUDU4Z1lHODNUVE45N2xQT3Q4ZEkwUFM1dlVOekFTRGpCVUx5U1g3cm0tazN6TFU3bg?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "노경필 “‘조희대 격노설’은 거짓말, 고집 피우는건 쌍방 마찬가지”",
+   "source": "경향신문",
+   "url": "https://n.news.naver.com/article/032/0003472894",
+   "published_at": "2026-09-28T19:06:00+09:00",
+   "section_id": "100",
+   "view_rank": 5,
+   "comment_count": 444,
+   "comment_agree": 304,
+   "comment_disagree": 60,
+   "division_balance": 0.32967,
+   "division_score": 1.945021,
+   "selection": "찬반 쟁점",
+   "summary": "국회 법제사법위원회에 출석한 노경필 법원행정처장이 대법관 재제청 사태 관련 제기된 일명 ‘조희대 격노설’에 대해 “거짓말”이라며 부인했다. 노 처장은 청와대와 대법원의…",
+   "summary_long": "국회 법제사법위원회에 출석한 노경필 법원행정처장(대법관)이 대법관 재제청 사태 관련 제기된 일명 ‘조희대 격노설’에 대해 “거짓말”이라며 부인했다. 노 처장은 청와대와 대법원의 교착 상황에 대해 “(고집은) 쌍방 마찬가지”라고도 했다. 더불어민주당·조국혁신당·진보당 등 범여권 의원들은 28일 국회 법사위 현안질의에서 노 처장을 상대로 조 대법원장이 ‘대법관 후보자를 재제청해야 한다’는 법원행정처 보고를 받고 격노했다는 의혹을 추궁했다.\n\n서 위원장이 ‘왜 대법원장이 고집을 피우냐’고 따지자 노 처장은 “그건 (이 대통령도) 쌍방 마찬가지 아닐까 생각한다”고 반박했다. 그러면서도 노 처장은 ‘대통령이 명확하게 제청 거부 의사표시를 하면 재제청을 하겠느냐’는 김한규 민주당 의원 질문에 “대법원장님이 최종 결정하실 문제”라고 대답했다. 노 처장은 김용민 민주당 의원이 ‘도대체 조 대법원장의 입장이 뭐냐’고 묻자 “대법원장님의 정확한 입장이 무엇인지 제가(잘 모르겠다)”고 대답했다.",
+   "quotes": [
+    "(손봉기 부장판사를 후보자로) 제청했는데 받아주지 않으면 어떻게 하느냐. 협의가 안 되는 것이",
+    "대통령의 뜻이 왜곡될 수 있어 국법상 대통령의 행위는 모두 문서로 돼야 한다고 생각한다",
+    "이라며 부인했다. 노 처장은 청와대와 대법원의 교착 상황에 대해"
+   ],
+   "press": "경향신문",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "대통령의 뜻이 왜곡될 수 있어 국법상 대통령의 행위는 모두 문서로 돼야 한다고 생각한다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "경향신문",
+      "title": "노경필 “‘조희대 격노설’은 거짓말, 고집 피우는건 쌍방 마찬가지”",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wR0xWY3lubVNxNkF6Uzg3cE9LQWZnejNLTC00MXQ2SmF6R2NBNTBvN0pDcnFNZjRhLTFyNGdFOE80Y2hjdU0tZHotZHlOSUVaOE9YbXFWUkdYQdIBX0FVX3lxTFBoVS1zeGZnY1VNTkFjb0lKVVk4dXY4S0FqeGtHbjJhTG42UVdtem9sSDJ3Q0FZMUZjTlhrOER1S3VVQ0poYmJNUUNlYV9YdHM1OEwzdmkwWkU1YVlQaExR?oc=5"
+     },
+     {
+      "press": "경향신문",
+      "title": "노경필 “‘조희대 격노설’은 거짓말, 고집피는건 대통령도 마찬가지”",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoVS1zeGZnY1VNTkFjb0lKVVk4dXY4S0FqeGtHbjJhTG42UVdtem9sSDJ3Q0FZMUZjTlhrOER1S3VVQ0poYmJNUUNlYV9YdHM1OEwzdmkwWkU1YVlQaExR0gFfQVVfeXFMUGhVLXN4ZmdjVU1OQWNvSUpVWTh1djhLQWp4a0duMmFMbjZRV216b2xIMndDQVkxRmNOWGs4RHVLdVVDSmhiYk1RQ2VhX1h0czU4TDN2aTBaRTVhWVBoTFE?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "조희대 “국감 등서 얘기하자” 발언 뒤…법사위 ‘일반 증인’ 채택",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QZGUzcTRJa2pGbnRVbHhGd1BPUDdGMlBVWmR0RjQxVFRkb1dmV0ZLWExQVXd6NjRLaVpRcmMyamktN3VFZWhCUHk1LWplNm8?oc=5"
      }
     ]
    }
@@ -407,139 +258,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/01.png",
-   "pngBytes": 1626593,
-   "feed": "오늘의 뉴스 2026-09-28\n\n· \"한동훈 때문에 미칠 것 같다\"…이하늘에 韓 \"한잔해요\"\n· 박정희도, 김대중도 아니었다…가장 신뢰하는 전직대통령 1위 노무현\n· 오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다”\n· \"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체\n· 민주당이 들었다는 '유시민' 추석 민심 \"과유불급\"\n· 장동혁 “추석 민심 일촉즉발, 농민 삶 망가뜨리고 안보까지 포기”\n· 이하늘 “한동훈 때문에 미칠 것 같아”…韓, 또 화답 “한잔하자”"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/01.png",
+   "pngBytes": 2084348,
+   "feed": "오늘의 뉴스 2026-09-29\n\n· 청와대 \"우크라 '비공개 합의 없었다' 거짓 발표...공식 사과 요구\"\n· “육영수 피격이 박정희 자작극?”…영화 ‘암살자들’ 역사왜곡 논란\n· “다낭도 오사카도 아니었다”…추석 해외여행 1위 찍은 ‘이 나라’\n· 호두과자 제쳤다…추석휴게소서 41억, 판매 1위는? [요즘소비]\n· '암살자(들)'에 보수야권 '총공세'... 장동혁은 '아수라' 소환\n· 당내 입지 넓히는 張…吳 항소심·李 잠행·韓 독주가 변수\n· 노경필 “‘조희대 격노설’은 거짓말, 고집 피우는건 쌍방 마찬가지”"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/02.png",
-   "pngBytes": 1618706,
-   "title": "\"한동훈 때문에 미칠 것 같다\"…이하늘에 韓 \"한잔해요\"",
-   "summary": "유튜브 채널 '이하늘의 별의별 말' 영상 캡처DJ DOC 이하늘이 \"한동훈 때문에 미칠 것 같다\"며 한동훈 무소속 의원을 언급하자, 한 의원이 \"한잔합시다\"라고…",
-   "summary_long": "유튜브 채널 '이하늘의 별의별 말' 영상 캡처DJ DOC 이하늘이 \"한동훈 때문에 미칠 것 같다\"며 한동훈 무소속 의원을 언급하자, 한 의원이 \"한잔합시다\"라고 화답했다. 한 의원은 27일 자신의 SNS에 이하늘의 발언이 담긴 영상을 공유하고 짧게 \"한잔해요\"라고 적었다. 영상에서 이하늘은 \"정말 한동훈 때문에 미칠 것 같아요\"라며 \"지금 민주당 사람들이 절 잡아먹으려고 그래요\"라고 말했다.\n\n이어 \"지금 정말 한동훈이 1타 2피예요\"라며 \"나도 잡고 민주당 흔들고 분열시키고, 저 한동훈 때문에 미칠 것 같아요\"라고 했다. 이하늘은 지난 13일 유튜브 영상에서 \"민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸\"이라고 자신의 견해를 밝혔다. 과거 한 의원을 여러 차례 놀렸던 일을 언급하며 \"나중에 한동훈이 되면 나 X될 것 같다\"고도 말했다.",
-   "press": "TV조선",
-   "source": "TV조선",
-   "link": "https://n.news.naver.com/article/448/0000641606",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/02.png",
+   "pngBytes": 2066901,
+   "title": "청와대 \"우크라 '비공개 합의 없었다' 거짓 발표...공식 사과 요구\"",
+   "summary": "한국과 우크라이나 간 북한군 포로의 한국 송환 사실에 대한 '비공개 합의'가 있었는지를 놓고, 양국 입장이 엇갈리는 가운데, 청와대가 우크라이나 측에 공식적인 해명과…",
+   "summary_long": "한국과 우크라이나 간 북한군 포로의 한국 송환 사실에 대한 '비공개 합의'가 있었는지를 놓고, 양국 입장이 엇갈리는 가운데, 청와대가 우크라이나 측에 공식적인 해명과 사과를 요구했습니다. 이재명 대통령이 5박 7일 순방 일정을 마치고 귀국한 직후, 청와대는 성기홍 홍보소통수석 명의의 공식 입장문을 내고 우크라이나 정부를 향해 강력한 유감을 표명했습니다. 청와대는 그동안 양국이 여러 차례 협의를 거치며 송환 사실을 공개하지 않기로 합의했다고 분명히 밝혔습니다.\n\n우크라이나 측이 먼저 자국 내 비판 여론을 우려해 보안을 요청했고, 우리 정부 역시 포로 당사자와 가족의 안전, 외교 안보 상황을 고려해 비공개 송환에 뜻을 모았다는 설명입니다. 하지만 우크라이나 정부는 사전 협의도 없이 유엔총회 연설에서 송환 사실을 전격 공개한 데 이어, 이재명 대통령이 비공개 합의가 깨진 데 대해 아쉬움을 나타내자 이번엔 우크라이나 대통령실이 사실과 다르게 '비공개를 합의한 적이 없다'고 발표했다고 지적했습니다. 성 수석은 우리 대통령의 정당한 발언에 대해 우크라이나 대통령실이 거짓 사실을 발표한 것은 양국 신뢰와 우호 관계를 심각하게 훼손하는 행위라고 지적했습니다.",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002411702",
    "selection": "정치",
-   "feed": "뉴스 01. \"한동훈 때문에 미칠 것 같다\"…이하늘에 韓 \"한잔해요\"\n\n유튜브 채널 '이하늘의 별의별 말' 영상 캡처DJ DOC 이하늘이 \"한동훈 때문에 미칠 것 같다\"며 한동훈 무소속 의원을 언급하자, 한 의원이 \"한잔합시다\"라고 화답했다. 한 의원은 27일 자신의 SNS에 이하늘의 발언이 담긴 영상을 공유하고 짧게 \"한잔해요\"라고 적었다. 영상에서 이하늘은 \"정말 한동훈 때문에 미칠 것 같아요\"라며 \"지금 민주당 사람들이 절 잡아먹으려고 그래요\"라고 말했다.\n\n이어 \"지금 정말 한동훈이 1타 2피예요\"라며 \"나도 잡고 민주당 흔들고 분열시키고, 저 한동훈 때문에 미칠 것 같아요\"라고 했다. 이하늘은 지난 13일 유튜브 영상에서 \"민주당 쪽에 김민석 당대표든 송영길이든 누가 나와도 지금 한동훈한테 안 될 걸\"이라고 자신의 견해를 밝혔다. 과거 한 의원을 여러 차례 놀렸던 일을 언급하며 \"나중에 한동훈이 되면 나 X될 것 같다\"고도 말했다.\n\n출처: TV조선 / https://n.news.naver.com/article/448/0000641606"
+   "feed": "뉴스 01. 청와대 \"우크라 '비공개 합의 없었다' 거짓 발표...공식 사과 요구\"\n\n한국과 우크라이나 간 북한군 포로의 한국 송환 사실에 대한 '비공개 합의'가 있었는지를 놓고, 양국 입장이 엇갈리는 가운데, 청와대가 우크라이나 측에 공식적인 해명과 사과를 요구했습니다. 이재명 대통령이 5박 7일 순방 일정을 마치고 귀국한 직후, 청와대는 성기홍 홍보소통수석 명의의 공식 입장문을 내고 우크라이나 정부를 향해 강력한 유감을 표명했습니다. 청와대는 그동안 양국이 여러 차례 협의를 거치며 송환 사실을 공개하지 않기로 합의했다고 분명히 밝혔습니다.\n\n우크라이나 측이 먼저 자국 내 비판 여론을 우려해 보안을 요청했고, 우리 정부 역시 포로 당사자와 가족의 안전, 외교 안보 상황을 고려해 비공개 송환에 뜻을 모았다는 설명입니다. 하지만 우크라이나 정부는 사전 협의도 없이 유엔총회 연설에서 송환 사실을 전격 공개한 데 이어, 이재명 대통령이 비공개 합의가 깨진 데 대해 아쉬움을 나타내자 이번엔 우크라이나 대통령실이 사실과 다르게 '비공개를 합의한 적이 없다'고 발표했다고 지적했습니다. 성 수석은 우리 대통령의 정당한 발언에 대해 우크라이나 대통령실이 거짓 사실을 발표한 것은 양국 신뢰와 우호 관계를 심각하게 훼손하는 행위라고 지적했습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002411702"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/03.png",
-   "pngBytes": 1702069,
-   "title": "박정희도, 김대중도 아니었다…가장 신뢰하는 전직대통령 1위 노무현",
-   "summary": "2009년 5월 25일 노무현 전 대통령의 빈소가 마련된 경남 김해 봉하마을에서 조문객이 눈물을 흘리고 있다. 국민이 가장 신뢰하는 전직 대통령을 묻는 조사에서 노 전…",
-   "summary_long": "2009년 5월 25일 노무현 전 대통령의 빈소가 마련된 경남 김해 봉하마을에서 조문객이 눈물을 흘리고 있다. 최근 고(故) 노무현 전 대통령이 다시 정치권과 여론의 중심에 등장하고 있다. 국민이 가장 신뢰하는 전직 대통령을 묻는 조사에서 노 전 대통령이 33.0%로 1위를 차지한 가운데, 이재명 대통령은 추석을 앞두고 더불어민주당 의원 전원에게 ‘노무현 평전’을 선물했다는 것이 알려지면서다.\n\n최근 공개된 ‘2026 대한민국 신뢰도 조사’에서 노 전 대통령이 전직 대통령 신뢰도 1위에 오른 직후 이 대통령이 민주당 의원들에게 노무현 전 대통령 관련 책을 전달하면서 그 배경에도 관심이 쏠린다. 박정희 전 대통령이 21.2%로 뒤를 이었고 김대중 전 대통령 12.3%, 문재인·이명박 전 대통령이 각각 6.0%로 나타났다. 이 대통령은 지난 18일 기자회견에서도 노무현·김대중 전 대통령과 문재인 전 대통령 등을 아우르는 메시지를 내놓기도 했다.",
-   "press": "매일경제",
-   "source": "매일경제",
-   "link": "https://n.news.naver.com/article/009/0005740232",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/03.png",
+   "pngBytes": 2147106,
+   "title": "“육영수 피격이 박정희 자작극?”…영화 ‘암살자들’ 역사왜곡 논란",
+   "summary": "육영수 여사 피격 사건을 다룬 영화 ‘암살자’을 둘러싼 논란이 27일 정치권으로 번졌다. 주진우 국민의힘 의원은 27일 페이스북에 “‘암살자’은 육영수 여사를 암살한…",
+   "summary_long": "육영수 여사 피격 사건을 다룬 영화 ‘암살자(들)’을 둘러싼 논란이 27일 정치권으로 번졌다. 재일 교포 문세광이 쏜 총에 맞아 육 여사가 사망했다는 정부 공식 발표와는 다른 결론을 암시하는 영화 내용을 두고 “영화적 상상력을 벗어난 정치적 프로파간다(선전)”라는 비판이 쏟아지고 있다. 주진우 국민의힘 의원은 27일 페이스북에 “‘암살자(들)’은 육영수 여사를 암살한 사건의 배후가 북한이 아니라 박정희 전 대통령인 것처럼 왜곡했다”며 “영화적 상상력이 아니라 유족의 가슴을 미어지게 하는 패륜적 범죄”라고 썼다.\n\n그러면서 “노무현 전 대통령 죽음을 권양숙 여사가 사주했다는 영화가 나오면 그것도 표현의 자유인가”라고 반문했다. 탈북민 출신인 같은 당 박충권 의원도 통화에서 “이 영화는 ‘육영수 여사 시해 사건은 박정희 전 대통령이 중정(중앙정보부)을 시켜서 한 것’이라는 북한 영화의 한국판”이라고 날을 세웠고, TK(대구경북) 4선 김상훈 의원은 “역사 인식을 비트는 극편향적 망동”이라고 말했다. 영화가 열린 결말 형태를 취하고 있지만, 결국 “정치적 위기를 벗어나기 위한 박정희 전 대통령의 자작극”이라는 식의 음모론까지 파고들 공간까지 열어줬다는 불쾌감을 표시하고 있는 것이다.",
+   "press": "중앙일보",
+   "source": "중앙일보",
+   "link": "https://n.news.naver.com/article/025/0003554097",
    "selection": "정치",
-   "feed": "뉴스 02. 박정희도, 김대중도 아니었다…가장 신뢰하는 전직대통령 1위 노무현\n\n2009년 5월 25일 노무현 전 대통령의 빈소가 마련된 경남 김해 봉하마을에서 조문객이 눈물을 흘리고 있다. 최근 고(故) 노무현 전 대통령이 다시 정치권과 여론의 중심에 등장하고 있다. 국민이 가장 신뢰하는 전직 대통령을 묻는 조사에서 노 전 대통령이 33.0%로 1위를 차지한 가운데, 이재명 대통령은 추석을 앞두고 더불어민주당 의원 전원에게 ‘노무현 평전’을 선물했다는 것이 알려지면서다.\n\n최근 공개된 ‘2026 대한민국 신뢰도 조사’에서 노 전 대통령이 전직 대통령 신뢰도 1위에 오른 직후 이 대통령이 민주당 의원들에게 노무현 전 대통령 관련 책을 전달하면서 그 배경에도 관심이 쏠린다. 박정희 전 대통령이 21.2%로 뒤를 이었고 김대중 전 대통령 12.3%, 문재인·이명박 전 대통령이 각각 6.0%로 나타났다. 이 대통령은 지난 18일 기자회견에서도 노무현·김대중 전 대통령과 문재인 전 대통령 등을 아우르는 메시지를 내놓기도 했다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005740232"
+   "feed": "뉴스 02. “육영수 피격이 박정희 자작극?”…영화 ‘암살자들’ 역사왜곡 논란\n\n육영수 여사 피격 사건을 다룬 영화 ‘암살자(들)’을 둘러싼 논란이 27일 정치권으로 번졌다. 재일 교포 문세광이 쏜 총에 맞아 육 여사가 사망했다는 정부 공식 발표와는 다른 결론을 암시하는 영화 내용을 두고 “영화적 상상력을 벗어난 정치적 프로파간다(선전)”라는 비판이 쏟아지고 있다. 주진우 국민의힘 의원은 27일 페이스북에 “‘암살자(들)’은 육영수 여사를 암살한 사건의 배후가 북한이 아니라 박정희 전 대통령인 것처럼 왜곡했다”며 “영화적 상상력이 아니라 유족의 가슴을 미어지게 하는 패륜적 범죄”라고 썼다.\n\n그러면서 “노무현 전 대통령 죽음을 권양숙 여사가 사주했다는 영화가 나오면 그것도 표현의 자유인가”라고 반문했다. 탈북민 출신인 같은 당 박충권 의원도 통화에서 “이 영화는 ‘육영수 여사 시해 사건은 박정희 전 대통령이 중정(중앙정보부)을 시켜서 한 것’이라는 북한 영화의 한국판”이라고 날을 세웠고, TK(대구경북) 4선 김상훈 의원은 “역사 인식을 비트는 극편향적 망동”이라고 말했다. 영화가 열린 결말 형태를 취하고 있지만, 결국 “정치적 위기를 벗어나기 위한 박정희 전 대통령의 자작극”이라는 식의 음모론까지 파고들 공간까지 열어줬다는 불쾌감을 표시하고 있는 것이다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003554097"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/04.png",
-   "pngBytes": 1774550,
-   "title": "오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다”",
-   "summary": "오세훈 서울시장이 정부의 농지 전수조사와 부동산 정책을 겨냥해 “집 가진 국민도, 땅 가진 국민도 대통령이 싸워야 할 상대가 아니다”라며 비판의 목소리를 냈다. 오…",
-   "summary_long": "오세훈 서울시장이 21일 서울 중구 서울시청에서 열린 ‘서울 주택정책 성과공유회’에서 정비사업 지정과 공공주택 확보 등 주택정책 성과를 발표하고 있다. 오세훈 서울시장이 정부의 농지 전수조사와 부동산 정책을 겨냥해 “집 가진 국민도, 땅 가진 국민도 대통령이 싸워야 할 상대가 아니다”라며 비판의 목소리를 냈다. 오 시장은 27일 자신의 페이스북에 ‘대통령은 더 이상 때려잡을 대상을 국민에게서 찾지 마십시오’라는 제목의 글을 올리고 이같이 밝혔다.\n\n그는 “투기는 막고, 불법도 바로잡아야 한다”면서도 “문제는 투기를 막는다는 명분 아래 국민의 복잡한 삶을 하나의 잣대로 재단하고, 그 원칙에서 벗어난 사람들을 잠재적 투기꾼처럼 의심하는 정책의 방향”이라고 했다. 그러면서 “국민 각자에게는 저마다 피치 못할 사정이 있다”며 “행정이 그 수많은 사정을 일일이 들여다보며 ‘투기’와 ‘선의의 보유자’를 완벽하게 판별할 수 있다고 자신하는 것 자체가 오만이고 독선”이라고 비판했다. 그는 “국민의 삶, 그리고 미래와 직결되는 국가 개혁은 소위 ‘때려잡는’ 계곡 정비와는 차원이 다른 일”이라고 말했다.",
-   "press": "조선비즈",
-   "source": "조선비즈",
-   "link": "https://n.news.naver.com/article/366/0001194539",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/04.png",
+   "pngBytes": 2367491,
+   "title": "“다낭도 오사카도 아니었다”…추석 해외여행 1위 찍은 ‘이 나라’",
+   "summary": "28일 여행업계에 따르면 하나투어의 지난 추석 연휴 해외여행 예약 가운데 중국이 32%로 가장 높은 비중을 차지했다. 이달 24~27일 출발 기준 전체 해외여행 예약자…",
+   "summary_long": "28일 여행업계에 따르면 하나투어의 지난 추석 연휴(23~27일 출발 기준) 해외여행 예약 가운데 중국이 32%로 가장 높은 비중을 차지했다. 일본이 31%, 동남아가 27%로 뒤를 이었다. 중국·일본·동남아 등 단거리 노선 예약 비중은 전체의 90%에 달했다.\n\n이달 24~27일 출발 기준 전체 해외여행 예약자 가운데 중국·일본·동남아 비중은 약 88%였다. 대부분 여행사에서 중국 1위, 교원투어는 일본 압도적으로 조사지역별로는 중국이 35.7%로 가장 높았고 일본 26.9%, 동남아 24.9%, 유럽 5.1%, 미주·남태평양 4.7% 순이었다. 중국이 24.3%로 뒤를 이었고 대만 5.6%, 베트남 5.3%, 북유럽 3.9% 순이었다.",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005740718",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다”\n\n오세훈 서울시장이 21일 서울 중구 서울시청에서 열린 ‘서울 주택정책 성과공유회’에서 정비사업 지정과 공공주택 확보 등 주택정책 성과를 발표하고 있다. 오세훈 서울시장이 정부의 농지 전수조사와 부동산 정책을 겨냥해 “집 가진 국민도, 땅 가진 국민도 대통령이 싸워야 할 상대가 아니다”라며 비판의 목소리를 냈다. 오 시장은 27일 자신의 페이스북에 ‘대통령은 더 이상 때려잡을 대상을 국민에게서 찾지 마십시오’라는 제목의 글을 올리고 이같이 밝혔다.\n\n그는 “투기는 막고, 불법도 바로잡아야 한다”면서도 “문제는 투기를 막는다는 명분 아래 국민의 복잡한 삶을 하나의 잣대로 재단하고, 그 원칙에서 벗어난 사람들을 잠재적 투기꾼처럼 의심하는 정책의 방향”이라고 했다. 그러면서 “국민 각자에게는 저마다 피치 못할 사정이 있다”며 “행정이 그 수많은 사정을 일일이 들여다보며 ‘투기’와 ‘선의의 보유자’를 완벽하게 판별할 수 있다고 자신하는 것 자체가 오만이고 독선”이라고 비판했다. 그는 “국민의 삶, 그리고 미래와 직결되는 국가 개혁은 소위 ‘때려잡는’ 계곡 정비와는 차원이 다른 일”이라고 말했다.\n\n출처: 조선비즈 / https://n.news.naver.com/article/366/0001194539"
+   "feed": "뉴스 03. “다낭도 오사카도 아니었다”…추석 해외여행 1위 찍은 ‘이 나라’\n\n28일 여행업계에 따르면 하나투어의 지난 추석 연휴(23~27일 출발 기준) 해외여행 예약 가운데 중국이 32%로 가장 높은 비중을 차지했다. 일본이 31%, 동남아가 27%로 뒤를 이었다. 중국·일본·동남아 등 단거리 노선 예약 비중은 전체의 90%에 달했다.\n\n이달 24~27일 출발 기준 전체 해외여행 예약자 가운데 중국·일본·동남아 비중은 약 88%였다. 대부분 여행사에서 중국 1위, 교원투어는 일본 압도적으로 조사지역별로는 중국이 35.7%로 가장 높았고 일본 26.9%, 동남아 24.9%, 유럽 5.1%, 미주·남태평양 4.7% 순이었다. 중국이 24.3%로 뒤를 이었고 대만 5.6%, 베트남 5.3%, 북유럽 3.9% 순이었다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005740718"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/05.png",
-   "pngBytes": 1948243,
-   "title": "\"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체",
-   "summary": "인스타그램 등 사회관계망서비스를 기반으로 상품을 파는 이른바 'SNS 마켓'이 빠르게 몸집을 키우고 있지만, 주문과 결제가 다이렉트 메시지 등 비공개 채널에서 이뤄지는…",
-   "summary_long": "SNS 공구 마켓 커졌는데, 세금 '깜깜'. 인스타그램 등 사회관계망서비스(SNS)를 기반으로 상품을 파는 이른바 'SNS 마켓'이 빠르게 몸집을 키우고 있지만, 주문과 결제가 다이렉트 메시지(DM) 등 비공개 채널에서 이뤄지는 거래가 많아 과세 자료를 확보하기 어렵다는 지적이 나온다. 27일 문진석 더불어민주당 의원이 국세청에서 받은 자료에 따르면 2024년 'SNS 마켓업'을 주업종으로 신고한 사업자의 사업소득은 333억600만원으로 집계됐다.\n\n실제로 ENA·SBS플러스 '나는 솔로' 20기 정숙으로 출연한 이은율 씨는 지난 7월 자신의 사회관계망서비스(SNS) 계정에 '대기업 퇴사한 인플루언서 현실'이라는 제목의 콘텐츠를 게재하며 \"대기업을 퇴사하고 단 3일 만에 공구(공동구매) 하나로 이전 직장(LG전자) 시절의 연봉을 벌었다\"고 전해 놀… SNS 마켓이라 불리는 공동구매 판매 시장이 커지고 있으나, 판매 과정이 플랫폼 밖에서 이뤄질 수 있다는 점에서 과세당국의 자료 확보가 쉽지 않다는 지적이 나오고 있다. SNS 마켓은 소규모 창업과 공동구매, 인플루언서 기반 판매가 결합한 유통 방식으로 성장했다.",
-   "press": "한국경제",
-   "source": "한국경제",
-   "link": "https://n.news.naver.com/article/015/0005336200",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/05.png",
+   "pngBytes": 2254962,
+   "title": "호두과자 제쳤다…추석휴게소서 41억, 판매 1위는? [요즘소비]",
+   "summary": "28일 국회 국토교통위원회 소속 황희 더불어민주당 의원이 한국도로공사에서 받은 자료에 따르면, 지난해 추석을 전후한 5일간 전국 고속도로 휴게소에서 아메리카노는…",
+   "summary_long": "28일 국회 국토교통위원회 소속 황희 더불어민주당 의원이 한국도로공사에서 받은 자료에 따르면, 지난해 추석을 전후한 5일간(10월 4~8일) 전국 고속도로 휴게소에서 아메리카노는 87만7000개 팔려 41억7800만 원의 매출을 올렸다. 아메리카노는 2021년부터 5년 연속 추석 기간 휴게소 판매량과 매출액 모두 1위를 지켰다. 판매량은 스낵(68만6000개)이 2위였고, 라면(64만8000개), 커피음료(53만 개), 호두과자(52만9000개)가 뒤를 이었다.\n\n판매량 5위였던 호두과자는 매출액에서는 26억6100만 원으로 2위에 올랐다. 황 의원은 “고속도로 휴게소는 일반 상권과 달리 운전자가 가격이 부담돼도 다른 선택지를 찾기 쉽지 않다”며 “명절 귀성·귀경길에 자주 찾는 먹거리 가격은 국민이 체감하는 물가와 직결된다”고 말했다. 한편 국토교통부는 지난 7월 휴게소 음식 가격을 낮추기 위해 기존 다단계 운영 구조를 직접계약 방식으로 바꾸는 개편안을 발표했다.",
+   "press": "동아일보",
+   "source": "동아일보",
+   "link": "https://n.news.naver.com/article/020/0003750968",
    "selection": "경제·시사",
-   "feed": "뉴스 04. \"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체\n\nSNS 공구 마켓 커졌는데, 세금 '깜깜'. 인스타그램 등 사회관계망서비스(SNS)를 기반으로 상품을 파는 이른바 'SNS 마켓'이 빠르게 몸집을 키우고 있지만, 주문과 결제가 다이렉트 메시지(DM) 등 비공개 채널에서 이뤄지는 거래가 많아 과세 자료를 확보하기 어렵다는 지적이 나온다. 27일 문진석 더불어민주당 의원이 국세청에서 받은 자료에 따르면 2024년 'SNS 마켓업'을 주업종으로 신고한 사업자의 사업소득은 333억600만원으로 집계됐다.\n\n실제로 ENA·SBS플러스 '나는 솔로' 20기 정숙으로 출연한 이은율 씨는 지난 7월 자신의 사회관계망서비스(SNS) 계정에 '대기업 퇴사한 인플루언서 현실'이라는 제목의 콘텐츠를 게재하며 \"대기업을 퇴사하고 단 3일 만에 공구(공동구매) 하나로 이전 직장(LG전자) 시절의 연봉을 벌었다\"고 전해 놀… SNS 마켓이라 불리는 공동구매 판매 시장이 커지고 있으나, 판매 과정이 플랫폼 밖에서 이뤄질 수 있다는 점에서 과세당국의 자료 확보가 쉽지 않다는 지적이 나오고 있다. SNS 마켓은 소규모 창업과 공동구매, 인플루언서 기반 판매가 결합한 유통 방식으로 성장했다.\n\n출처: 한국경제 / https://n.news.naver.com/article/015/0005336200"
+   "feed": "뉴스 04. 호두과자 제쳤다…추석휴게소서 41억, 판매 1위는? [요즘소비]\n\n28일 국회 국토교통위원회 소속 황희 더불어민주당 의원이 한국도로공사에서 받은 자료에 따르면, 지난해 추석을 전후한 5일간(10월 4~8일) 전국 고속도로 휴게소에서 아메리카노는 87만7000개 팔려 41억7800만 원의 매출을 올렸다. 아메리카노는 2021년부터 5년 연속 추석 기간 휴게소 판매량과 매출액 모두 1위를 지켰다. 판매량은 스낵(68만6000개)이 2위였고, 라면(64만8000개), 커피음료(53만 개), 호두과자(52만9000개)가 뒤를 이었다.\n\n판매량 5위였던 호두과자는 매출액에서는 26억6100만 원으로 2위에 올랐다. 황 의원은 “고속도로 휴게소는 일반 상권과 달리 운전자가 가격이 부담돼도 다른 선택지를 찾기 쉽지 않다”며 “명절 귀성·귀경길에 자주 찾는 먹거리 가격은 국민이 체감하는 물가와 직결된다”고 말했다. 한편 국토교통부는 지난 7월 휴게소 음식 가격을 낮추기 위해 기존 다단계 운영 구조를 직접계약 방식으로 바꾸는 개편안을 발표했다.\n\n출처: 동아일보 / https://n.news.naver.com/article/020/0003750968"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/06.png",
-   "pngBytes": 1722173,
-   "title": "민주당이 들었다는 '유시민' 추석 민심 \"과유불급\"",
-   "summary": "유시민 작가의 이재명 대통령 비판을 두고 추석 연휴를 거친 더불어민주당과 조국혁신당이 엇갈린 반응을 내놨다. 한편 한동훈 무소속 의원은 유 작가를 향한 청와대의 유감…",
-   "summary_long": "유시민 작가의 이재명 대통령 비판을 두고 추석 연휴를 거친 더불어민주당과 조국혁신당이 엇갈린 반응을 내놨다. 한편 한동훈 무소속 의원은 유 작가를 향한 청와대의 유감 표명에 \"이 대통령 멘털이 깨진 것 같다\"고 비난했다. 유 작가는 연휴 직전인 지난 22일 <미디어오늘> 유튜브 채널에서 \"이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다\"면서 \"대통령이 지금까지 국민을 속인 것\"이라고 말했다.\n\n앞서 유 작가는 이른바 'ABC론', '재건축론' 등으로 이 대통령을 직격했고 이후에도 \"필연적인 실패의 길\", \"수습할 국면은 지났다\" 등의 강경 표현으로 비판을 이어왔다. 박성준 민주당 수석대변인은 추석 연휴 마지막날인 27일 오전 국회에서 진행한 '추석 민심 기자간담회'에서 \"(국민들이) 유 작가 이야기도 많이 하시더라\"라고 입을 열었다. 청와대는 유 작가의 발언에 대해 지난 24일 \"대통령의 검찰 개혁 의지를 사실과 다르게 왜곡하는 것에 유감\"이라며 \"근거 없는 비난성 주장이 계속되는 것에 대해 사실관계를 확인 중\"이라고 밝혔다.",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/06.png",
+   "pngBytes": 1893359,
+   "title": "'암살자(들)'에 보수야권 '총공세'... 장동혁은 '아수라' 소환",
+   "summary": "장동혁 대표는 28일 페이스북에 \"영화 <암살자>이 추석 연휴에 개봉했다\"라며 \"육영수 여사 피격의 배후에 박정희 대통령이 있다는 참으로 황당한 스토리라고 한다\"라고…",
+   "summary_long": "영화의 주요 소재가 육영수 여사 피격 사건인데, 박정희 전 대통령을 해당 사건의 배후로 지목하는 듯한 내용을 담고 있다는 게 반발의 이유였다. 장동혁 대표는 28일 페이스북에 \"영화 <암살자(들)>이 추석 연휴에 개봉했다\"라며 \"육영수 여사 피격의 배후에 박정희 대통령이 있다는 참으로 황당한 스토리라고 한다\"라고 포문을 열었다. 박정희 대통령 모욕은 '표현의 자유'다\"라고 주장했다.\n\n특히 주진우 의원은 \"노무현 전 대통령의 죽음을 권양숙 여사가 사주했다는 영화가 나온다면 그것도 표현의 자유인가\"라며 \"영화적 상상력이 아니라 유족의 가슴을 미어지게 하는 패륜적 범죄\"라고 비난했다. 박근혜 전 대통령의 측근인 유영하 의원 역시 영화가 \"육 여사 피격의 진짜 배후는 고 박정희 대통령인 것처럼 묘사한다\"라며 \"명백한 정치적 프로파간다\"라고 주장했다. 그러면서 \"마찬가지로 이 영화, 비판받아 마땅하다\"라며 \"표현의 자유에는 비판할 자유도 포함된다\"라고 강조했다.",
    "press": "오마이뉴스",
    "source": "오마이뉴스",
-   "link": "https://n.news.naver.com/article/047/0002530385",
+   "link": "https://n.news.naver.com/article/047/0002530480",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 민주당이 들었다는 '유시민' 추석 민심 \"과유불급\"\n\n유시민 작가의 이재명 대통령 비판을 두고 추석 연휴를 거친 더불어민주당과 조국혁신당이 엇갈린 반응을 내놨다. 한편 한동훈 무소속 의원은 유 작가를 향한 청와대의 유감 표명에 \"이 대통령 멘털이 깨진 것 같다\"고 비난했다. 유 작가는 연휴 직전인 지난 22일 <미디어오늘> 유튜브 채널에서 \"이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁, 민주당 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다\"면서 \"대통령이 지금까지 국민을 속인 것\"이라고 말했다.\n\n앞서 유 작가는 이른바 'ABC론', '재건축론' 등으로 이 대통령을 직격했고 이후에도 \"필연적인 실패의 길\", \"수습할 국면은 지났다\" 등의 강경 표현으로 비판을 이어왔다. 박성준 민주당 수석대변인은 추석 연휴 마지막날인 27일 오전 국회에서 진행한 '추석 민심 기자간담회'에서 \"(국민들이) 유 작가 이야기도 많이 하시더라\"라고 입을 열었다. 청와대는 유 작가의 발언에 대해 지난 24일 \"대통령의 검찰 개혁 의지를 사실과 다르게 왜곡하는 것에 유감\"이라며 \"근거 없는 비난성 주장이 계속되는 것에 대해 사실관계를 확인 중\"이라고 밝혔다.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002530385"
+   "feed": "뉴스 05. '암살자(들)'에 보수야권 '총공세'... 장동혁은 '아수라' 소환\n\n영화의 주요 소재가 육영수 여사 피격 사건인데, 박정희 전 대통령을 해당 사건의 배후로 지목하는 듯한 내용을 담고 있다는 게 반발의 이유였다. 장동혁 대표는 28일 페이스북에 \"영화 <암살자(들)>이 추석 연휴에 개봉했다\"라며 \"육영수 여사 피격의 배후에 박정희 대통령이 있다는 참으로 황당한 스토리라고 한다\"라고 포문을 열었다. 박정희 대통령 모욕은 '표현의 자유'다\"라고 주장했다.\n\n특히 주진우 의원은 \"노무현 전 대통령의 죽음을 권양숙 여사가 사주했다는 영화가 나온다면 그것도 표현의 자유인가\"라며 \"영화적 상상력이 아니라 유족의 가슴을 미어지게 하는 패륜적 범죄\"라고 비난했다. 박근혜 전 대통령의 측근인 유영하 의원 역시 영화가 \"육 여사 피격의 진짜 배후는 고 박정희 대통령인 것처럼 묘사한다\"라며 \"명백한 정치적 프로파간다\"라고 주장했다. 그러면서 \"마찬가지로 이 영화, 비판받아 마땅하다\"라며 \"표현의 자유에는 비판할 자유도 포함된다\"라고 강조했다.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002530480"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/07.png",
-   "pngBytes": 1749622,
-   "title": "장동혁 “추석 민심 일촉즉발, 농민 삶 망가뜨리고 안보까지 포기”",
-   "summary": "DMZ 지뢰 추정 폭발에 “대통령 보고 시점 등 밝혀야” 장 대표는 “대법관 제재청 문제나 농지 전수조사, 지뢰 폭발 사고, 북한 포로 송환 등 여러 현안이 산적해…",
-   "summary_long": "DMZ 지뢰 추정 폭발에 “대통령 보고 시점 등 밝혀야” 장동혁 국민의힘 대표가 27일 국회에서 농지 전수조사, 비무장지대(DMZ) 지뢰폭발 추정 사고 등 현안과 관련해 기자회견을 하고 있다. 연합뉴스국민의힘이 추석 연휴 마지막 날인 27일 이재명 정부의 농지 전수조사와 부동산 정책, 비무장지대(DMZ) 지뢰추정 폭발 사고를 고리로 전방위 공세에 나섰다.\n\n장동혁 국민의힘 대표는 이날 서울 여의도 국회에서 기자간담회를 열고 “추석 민심을 한마디로 말하면 일촉즉발”이라며 “많은 분들이 다음 대통령 선거가 언제냐고 물었고 아직 3년 반이나 남았다고 하니 그때까지 어떻게 버티느냐고 한숨을 쉬었다”고 밝혔다. 장 대표는 정부가 북한군 포로 2명의 한국 송환 사실을 숨기려 했다고 주장하면서 이 대통령을 향해 “대한민국 안보를 포기했다”고 비판했다. 장 대표는 “대법관 제재청 문제나 농지 전수조사, 지뢰 폭발 사고, 북한 포로 송환 등 여러 현안이 산적해 있다”며 “민주당이 국민을 먼저 생각하는지, 대통령의 안위를 먼저 생각하는지 좀 더 살펴보겠다”고 말했다.",
-   "press": "서울경제",
-   "source": "서울경제",
-   "link": "https://n.news.naver.com/article/011/0004665590",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/07.png",
+   "pngBytes": 1704408,
+   "title": "당내 입지 넓히는 張…吳 항소심·李 잠행·韓 독주가 변수",
+   "summary": "수도권 우려는 과제…보수 구도 변화 주목국민의힘 지지율이 상승하는 가운데 장동혁 국민의힘 대표가 조직 정비와 대여 투쟁을 병행하며 당내 입지를 넓히고 있다. 한동훈…",
+   "summary_long": "張, 대여 공세·조직 정비로 당내 기반 강화. 수도권 우려는 과제…보수 구도 변화 주목국민의힘 지지율이 상승하는 가운데 장동혁 국민의힘 대표가 조직 정비와 대여 투쟁을 병행하며 당내 입지를 넓히고 있다. 한동훈 무소속 의원과 오세훈 서울시장, 이준석 전 개혁신당 대표 등 주요 인사들이 각자의 정치적 과제를 안고 있어 향후 보수 진영 구도 변화에도 관심이 쏠린다.\n\n장 대표는 추석 연휴 전후 세 차례 긴급 간담회를 열어 이재명 대통령의 대국민 기자회견과 대법관 재제청, 비무장지대(DMZ) 지뢰 폭발 사고에 대한 대여 공세를 주도했다. 장 대표는 이달 들어 대입 수시 원서접수 장애와 사관학교 통폐합, 농지 전수조사, 청년 주거, 플랫폼 노동자 안전망 등 교육·국방·부동산·노동 현안을 넘나들며 13차례 이상의 정책·현장 일정을 소화했다. 박상병 정치평론가는 \"공천이 곧 당선인 영남권 의원들이 대표를 지지하면서 다음 총선 직전까지 장동혁 체제는 더욱 공고해질 것\"이라며 \"다만 중도층 표심이 중요한 수도권 의원들의 위기감은 커질 수 있다\"고 말했다.",
+   "press": "아시아경제",
+   "source": "아시아경제",
+   "link": "https://n.news.naver.com/article/277/0005821492",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 장동혁 “추석 민심 일촉즉발, 농민 삶 망가뜨리고 안보까지 포기”\n\nDMZ 지뢰 추정 폭발에 “대통령 보고 시점 등 밝혀야” 장동혁 국민의힘 대표가 27일 국회에서 농지 전수조사, 비무장지대(DMZ) 지뢰폭발 추정 사고 등 현안과 관련해 기자회견을 하고 있다. 연합뉴스국민의힘이 추석 연휴 마지막 날인 27일 이재명 정부의 농지 전수조사와 부동산 정책, 비무장지대(DMZ) 지뢰추정 폭발 사고를 고리로 전방위 공세에 나섰다.\n\n장동혁 국민의힘 대표는 이날 서울 여의도 국회에서 기자간담회를 열고 “추석 민심을 한마디로 말하면 일촉즉발”이라며 “많은 분들이 다음 대통령 선거가 언제냐고 물었고 아직 3년 반이나 남았다고 하니 그때까지 어떻게 버티느냐고 한숨을 쉬었다”고 밝혔다. 장 대표는 정부가 북한군 포로 2명의 한국 송환 사실을 숨기려 했다고 주장하면서 이 대통령을 향해 “대한민국 안보를 포기했다”고 비판했다. 장 대표는 “대법관 제재청 문제나 농지 전수조사, 지뢰 폭발 사고, 북한 포로 송환 등 여러 현안이 산적해 있다”며 “민주당이 국민을 먼저 생각하는지, 대통령의 안위를 먼저 생각하는지 좀 더 살펴보겠다”고 말했다.\n\n출처: 서울경제 / https://n.news.naver.com/article/011/0004665590"
+   "feed": "뉴스 06. 당내 입지 넓히는 張…吳 항소심·李 잠행·韓 독주가 변수\n\n張, 대여 공세·조직 정비로 당내 기반 강화. 수도권 우려는 과제…보수 구도 변화 주목국민의힘 지지율이 상승하는 가운데 장동혁 국민의힘 대표가 조직 정비와 대여 투쟁을 병행하며 당내 입지를 넓히고 있다. 한동훈 무소속 의원과 오세훈 서울시장, 이준석 전 개혁신당 대표 등 주요 인사들이 각자의 정치적 과제를 안고 있어 향후 보수 진영 구도 변화에도 관심이 쏠린다.\n\n장 대표는 추석 연휴 전후 세 차례 긴급 간담회를 열어 이재명 대통령의 대국민 기자회견과 대법관 재제청, 비무장지대(DMZ) 지뢰 폭발 사고에 대한 대여 공세를 주도했다. 장 대표는 이달 들어 대입 수시 원서접수 장애와 사관학교 통폐합, 농지 전수조사, 청년 주거, 플랫폼 노동자 안전망 등 교육·국방·부동산·노동 현안을 넘나들며 13차례 이상의 정책·현장 일정을 소화했다. 박상병 정치평론가는 \"공천이 곧 당선인 영남권 의원들이 대표를 지지하면서 다음 총선 직전까지 장동혁 체제는 더욱 공고해질 것\"이라며 \"다만 중도층 표심이 중요한 수도권 의원들의 위기감은 커질 수 있다\"고 말했다.\n\n출처: 아시아경제 / https://n.news.naver.com/article/277/0005821492"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/08.png",
-   "pngBytes": 1881965,
-   "title": "이하늘 “한동훈 때문에 미칠 것 같아”…韓, 또 화답 “한잔하자”",
-   "summary": "그룹 DJ DOC 멤버 이하늘이 “한동훈 때문에 미칠 것 같다”며 한동훈 무소속 의원을 재차 언급하자 한 의원이 “한잔하자”고 화답했다. 이하늘은 지난 26일 자신의…",
-   "summary_long": "그룹 DJ DOC 멤버 이하늘이 “한동훈 때문에 미칠 것 같다”며 한동훈 무소속 의원을 재차 언급하자 한 의원이 “한잔하자”고 화답했다. 이하늘은 지난 26일 자신의 유튜브 채널 등에 올린 영상에서 “정말 한동훈 때문에 미칠 것 같아요”라며 “지금 (더불어)민주당 사람들이 절 잡아먹으려고 그래요”라고 말했다. 이어 “정말 한동훈이 1타 2피예요”라며 “나도 잡고 민주당 흔들고 분열시키고”라고 했다.\n\n이에 한 의원은 27일 이 영상을 소셜미디어(SNS)에 공유하고 “한잔해요”라고 적었다. 지난 13일 한동훈 의원이 이하늘이 자신을 언급한 영상을 캡처해 공유했다. 사진 한동훈 의원 인스타그램 캡처 이후 한 의원의 반응을 접한 이하늘은 영상을 통해 “자신을 공격하는 사람에게 오히려 웃으며 ‘팬입니다’라고 받아치니 할 말이 없어진다”며 “옛말에 ‘웃는 얼굴에 침 못 뱉는다’는 말이 딱 맞는다”고 말했다.",
-   "press": "중앙일보",
-   "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003553954",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/08.png",
+   "pngBytes": 1788216,
+   "title": "노경필 “‘조희대 격노설’은 거짓말, 고집 피우는건 쌍방 마찬가지”",
+   "summary": "국회 법제사법위원회에 출석한 노경필 법원행정처장이 대법관 재제청 사태 관련 제기된 일명 ‘조희대 격노설’에 대해 “거짓말”이라며 부인했다. 노 처장은 청와대와 대법원의…",
+   "summary_long": "국회 법제사법위원회에 출석한 노경필 법원행정처장(대법관)이 대법관 재제청 사태 관련 제기된 일명 ‘조희대 격노설’에 대해 “거짓말”이라며 부인했다. 노 처장은 청와대와 대법원의 교착 상황에 대해 “(고집은) 쌍방 마찬가지”라고도 했다. 더불어민주당·조국혁신당·진보당 등 범여권 의원들은 28일 국회 법사위 현안질의에서 노 처장을 상대로 조 대법원장이 ‘대법관 후보자를 재제청해야 한다’는 법원행정처 보고를 받고 격노했다는 의혹을 추궁했다.\n\n서 위원장이 ‘왜 대법원장이 고집을 피우냐’고 따지자 노 처장은 “그건 (이 대통령도) 쌍방 마찬가지 아닐까 생각한다”고 반박했다. 그러면서도 노 처장은 ‘대통령이 명확하게 제청 거부 의사표시를 하면 재제청을 하겠느냐’는 김한규 민주당 의원 질문에 “대법원장님이 최종 결정하실 문제”라고 대답했다. 노 처장은 김용민 민주당 의원이 ‘도대체 조 대법원장의 입장이 뭐냐’고 묻자 “대법원장님의 정확한 입장이 무엇인지 제가(잘 모르겠다)”고 대답했다.",
+   "press": "경향신문",
+   "source": "경향신문",
+   "link": "https://n.news.naver.com/article/032/0003472894",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 이하늘 “한동훈 때문에 미칠 것 같아”…韓, 또 화답 “한잔하자”\n\n그룹 DJ DOC 멤버 이하늘이 “한동훈 때문에 미칠 것 같다”며 한동훈 무소속 의원을 재차 언급하자 한 의원이 “한잔하자”고 화답했다. 이하늘은 지난 26일 자신의 유튜브 채널 등에 올린 영상에서 “정말 한동훈 때문에 미칠 것 같아요”라며 “지금 (더불어)민주당 사람들이 절 잡아먹으려고 그래요”라고 말했다. 이어 “정말 한동훈이 1타 2피예요”라며 “나도 잡고 민주당 흔들고 분열시키고”라고 했다.\n\n이에 한 의원은 27일 이 영상을 소셜미디어(SNS)에 공유하고 “한잔해요”라고 적었다. 지난 13일 한동훈 의원이 이하늘이 자신을 언급한 영상을 캡처해 공유했다. 사진 한동훈 의원 인스타그램 캡처 이후 한 의원의 반응을 접한 이하늘은 영상을 통해 “자신을 공격하는 사람에게 오히려 웃으며 ‘팬입니다’라고 받아치니 할 말이 없어진다”며 “옛말에 ‘웃는 얼굴에 침 못 뱉는다’는 말이 딱 맞는다”고 말했다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003553954"
+   "feed": "뉴스 07. 노경필 “‘조희대 격노설’은 거짓말, 고집 피우는건 쌍방 마찬가지”\n\n국회 법제사법위원회에 출석한 노경필 법원행정처장(대법관)이 대법관 재제청 사태 관련 제기된 일명 ‘조희대 격노설’에 대해 “거짓말”이라며 부인했다. 노 처장은 청와대와 대법원의 교착 상황에 대해 “(고집은) 쌍방 마찬가지”라고도 했다. 더불어민주당·조국혁신당·진보당 등 범여권 의원들은 28일 국회 법사위 현안질의에서 노 처장을 상대로 조 대법원장이 ‘대법관 후보자를 재제청해야 한다’는 법원행정처 보고를 받고 격노했다는 의혹을 추궁했다.\n\n서 위원장이 ‘왜 대법원장이 고집을 피우냐’고 따지자 노 처장은 “그건 (이 대통령도) 쌍방 마찬가지 아닐까 생각한다”고 반박했다. 그러면서도 노 처장은 ‘대통령이 명확하게 제청 거부 의사표시를 하면 재제청을 하겠느냐’는 김한규 민주당 의원 질문에 “대법원장님이 최종 결정하실 문제”라고 대답했다. 노 처장은 김용민 민주당 의원이 ‘도대체 조 대법원장의 입장이 뭐냐’고 묻자 “대법원장님의 정확한 입장이 무엇인지 제가(잘 모르겠다)”고 대답했다.\n\n출처: 경향신문 / https://n.news.naver.com/article/032/0003472894"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-28/09.png",
-   "pngBytes": 1346209
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-29/09.png",
+   "pngBytes": 1345864
   }
  ],
- "caption": "📰 9월 28일 오늘의 뉴스\n\n1. \"한동훈 때문에 미칠 것 같다\"…이하늘에 韓 \"한잔해요\"\n   유튜브 채널 '이하늘의 별의별 말' 영상 캡처DJ DOC 이하늘이 \"한동훈 때문에 미칠 것 같다\"며 한동훈 무소속 의원을 언급하자, 한 의원이 \"한잔합시다\"라고…\n2. 박정희도, 김대중도 아니었다…가장 신뢰하는 전직대통령 1위 노무현\n   2009년 5월 25일 노무현 전 대통령의 빈소가 마련된 경남 김해 봉하마을에서 조문객이 눈물을 흘리고 있다. 국민이 가장 신뢰하는 전직 대통령을 묻는 조사에서 노 전…\n3. 오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다”\n   오세훈 서울시장이 정부의 농지 전수조사와 부동산 정책을 겨냥해 “집 가진 국민도, 땅 가진 국민도 대통령이 싸워야 할 상대가 아니다”라며 비판의 목소리를 냈다. 오…\n4. \"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체\n   인스타그램 등 사회관계망서비스를 기반으로 상품을 파는 이른바 'SNS 마켓'이 빠르게 몸집을 키우고 있지만, 주문과 결제가 다이렉트 메시지 등 비공개 채널에서 이뤄지는…\n5. 민주당이 들었다는 '유시민' 추석 민심 \"과유불급\"\n   유시민 작가의 이재명 대통령 비판을 두고 추석 연휴를 거친 더불어민주당과 조국혁신당이 엇갈린 반응을 내놨다. 한편 한동훈 무소속 의원은 유 작가를 향한 청와대의 유감…\n6. 장동혁 “추석 민심 일촉즉발, 농민 삶 망가뜨리고 안보까지 포기”\n   DMZ 지뢰 추정 폭발에 “대통령 보고 시점 등 밝혀야” 장 대표는 “대법관 제재청 문제나 농지 전수조사, 지뢰 폭발 사고, 북한 포로 송환 등 여러 현안이 산적해…\n7. 이하늘 “한동훈 때문에 미칠 것 같아”…韓, 또 화답 “한잔하자”\n   그룹 DJ DOC 멤버 이하늘이 “한동훈 때문에 미칠 것 같다”며 한동훈 무소속 의원을 재차 언급하자 한 의원이 “한잔하자”고 화답했다. 이하늘은 지난 26일 자신의…\n\n🗣 “문제는 투기를 막는다는 명분 아래 국민의 복잡한 삶을 하나의 잣대로 재단하고, 그 원칙에서 벗어난 사람들을 잠재적 투기꾼처럼 의심하는 정책의 방향”\n이 발언을 그대로 실은 보도 10건 · Chosunbiz · SBS · 파이낸셜뉴스 · 채널A 뉴스\n· Chosunbiz — 오세훈 “집·땅 가진 국민, 대통령이 ‘때려잡을 대상’ 아니다” - 조선비즈\n· SBS — 오세훈 \"집·땅 가진 국민, 대통령이 싸워야 할 상대 아냐\"\n· 파이낸셜뉴스 — 오세훈 \"李, 실거주 이어 실경작 집착\"…농지 전수조사 비판\n· 채널A 뉴스 — 오세훈 “집·땅 가진 국민, 대통령이 싸워야할 상대 아니다”\n· 경기일보 — 오세훈 \"李대통령 '때려잡을 대상' 국민에서 찾지 말라…오만이고 독선\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실 #추석\n\n출처: TV조선, 매일경제, 서울경제, 오마이뉴스, 조선비즈, 중앙일보, 한국경제"
+ "caption": "📰 9월 29일 오늘의 뉴스\n\n1. 청와대 \"우크라 '비공개 합의 없었다' 거짓 발표...공식 사과 요구\"\n   한국과 우크라이나 간 북한군 포로의 한국 송환 사실에 대한 '비공개 합의'가 있었는지를 놓고, 양국 입장이 엇갈리는 가운데, 청와대가 우크라이나 측에 공식적인 해명과…\n2. “육영수 피격이 박정희 자작극?”…영화 ‘암살자들’ 역사왜곡 논란\n   육영수 여사 피격 사건을 다룬 영화 ‘암살자’을 둘러싼 논란이 27일 정치권으로 번졌다. 주진우 국민의힘 의원은 27일 페이스북에 “‘암살자’은 육영수 여사를 암살한…\n3. “다낭도 오사카도 아니었다”…추석 해외여행 1위 찍은 ‘이 나라’\n   28일 여행업계에 따르면 하나투어의 지난 추석 연휴 해외여행 예약 가운데 중국이 32%로 가장 높은 비중을 차지했다. 이달 24~27일 출발 기준 전체 해외여행 예약자…\n4. 호두과자 제쳤다…추석휴게소서 41억, 판매 1위는? [요즘소비]\n   28일 국회 국토교통위원회 소속 황희 더불어민주당 의원이 한국도로공사에서 받은 자료에 따르면, 지난해 추석을 전후한 5일간 전국 고속도로 휴게소에서 아메리카노는…\n5. '암살자(들)'에 보수야권 '총공세'... 장동혁은 '아수라' 소환\n   장동혁 대표는 28일 페이스북에 \"영화 <암살자>이 추석 연휴에 개봉했다\"라며 \"육영수 여사 피격의 배후에 박정희 대통령이 있다는 참으로 황당한 스토리라고 한다\"라고…\n6. 당내 입지 넓히는 張…吳 항소심·李 잠행·韓 독주가 변수\n   수도권 우려는 과제…보수 구도 변화 주목국민의힘 지지율이 상승하는 가운데 장동혁 국민의힘 대표가 조직 정비와 대여 투쟁을 병행하며 당내 입지를 넓히고 있다. 한동훈…\n7. 노경필 “‘조희대 격노설’은 거짓말, 고집 피우는건 쌍방 마찬가지”\n   국회 법제사법위원회에 출석한 노경필 법원행정처장이 대법관 재제청 사태 관련 제기된 일명 ‘조희대 격노설’에 대해 “거짓말”이라며 부인했다. 노 처장은 청와대와 대법원의…\n\n🗣 “고속도로 휴게소는 일반 상권과 달리 운전자가 가격이 부담돼도 다른 선택지를 찾기 쉽지 않다”\n이 발언을 그대로 실은 보도 6건 · Chosunbiz · 동아일보 · 매일경제 · 아주경제\n· Chosunbiz — 추석 휴게소 먹거리 1위 아메리카노…돈가스값 5년 새 27.5% ↑ - 조선비즈\n· 동아일보 — 호두과자도 라면도 아니었다…추석 휴게소서 41억 원 팔린 ‘이것’[요즘소비]\n· 매일경제 — “휴게소 가면 호두과자”공식은 옛말…5년째 최고 인기템은 ‘이것’\n· 아주경제 — 귀경길 휴게소 들르기 부담되네…주요 먹거리 5년 새 두 자릿수 상승\n· 데일리팝 — 나 혼자 가는 고향길, 휴게소 밥값은 왜 이리 올랐나\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #추석\n\n출처: YTN, 경향신문, 동아일보, 매일경제, 아시아경제, 오마이뉴스, 중앙일보"
 }
