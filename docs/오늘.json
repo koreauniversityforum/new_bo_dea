@@ -1,356 +1,320 @@
 {
- "date": "2026-09-30",
- "generated_at": "2026-09-30T10:46:27+09:00",
+ "date": "2026-10-01",
+ "generated_at": "2026-10-01T10:43:32+09:00",
  "mode": "daily",
- "window_start": "2026-09-29T00:00:00+09:00",
- "window_end": "2026-09-29T23:59:59+09:00",
+ "window_start": "2026-09-30T00:00:00+09:00",
+ "window_end": "2026-09-30T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "김상욱 울산시장 재산, 반년 새 31억 늘어 50억",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004000837",
-   "published_at": "2026-09-29T00:12:14+09:00",
+   "title": "[속보] \"대박터져\" 박지원의 예언?…'암살자(들)' 하루만에 '박스오피스' 1위 재탈환",
+   "source": "프레시안",
+   "url": "https://n.news.naver.com/article/002/0002458795",
+   "published_at": "2026-09-30T08:18:14+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "정부공직자윤리위원회가 이날 공개한 공직자 수시 재산 공개 자료에 따르면, 김 시장은 7~8월 기준 재산이 50억2459만원 있다고 신고했다. 오 시장은 서울 강남구…",
-   "summary_long": "김상욱 울산시장의 재산이 지난해 말 19억원에서 올해 6·3 지방선거 직후 50억원으로 반년 새 31억원 늘어난 것으로 나타났다. 정부공직자윤리위원회가 이날 공개한 공직자 수시 재산 공개 자료에 따르면, 김 시장은 7~8월 기준 재산이 50억2459만원 있다고 신고했다. 김 시장이 신고한 재산은 김 시장이 국회의원이었던 지난해 말 기준 19억4541만원이었고, 6·3 지방선거 울산시장 선거 출마를 위해 의원에서 사임한 올해 4월 말 기준 37억5850만원으로, 4개월 새 18억1308만원 늘었다.\n\n김 시장은 4월 말보다 재산이 12억6608만원 더 늘었다고 신고했는데, 증가분 대부분(12억1847만원)은 예금이 추가로 늘어난 것이었다. 오 시장은 서울 강남구 대치동 194.24㎡(약 59평) 다세대주택 25억8400만원, 예금 17억9260만원 등 총 72억8960만원을 갖고 있다고 신고했다. 박지영 사법제도비서관은 서울 서초구 반포동 165.45㎡(약 50평) 아파트 45억8000만원, 예금 28억5784만원, 증권 24억440만원 등 총 92억1772만원을 갖고 있다고 신고했다.",
+   "summary": "국민의힘이 연일 '역사 왜곡' 공세를 펴고 있는 영화 '암살자'이 하루 만에 다시 박스오피스 1위 자리를 탈환했다. 30일 영화관입장권 통합전산망에 따르면 '암살자'은…",
+   "summary_long": "국민의힘이 연일 '역사 왜곡' 공세를 펴고 있는 영화 '암살자(들)'이 하루 만에 다시 박스오피스 1위 자리를 탈환했다. 30일 영화관입장권 통합전산망에 따르면 '암살자(들)'은 지난 29일 하루 동안 6만1464명의 관객을 모아 박스오피스 1위를 탈환했다. 그러나 이를 두고 국민의힘 일부 인사들이 \"역사 왜곡\"이라며 반발하는 등 정치권에서 논란이 일고 있다.\n\n정점식 국민의힘 원내대표는 \"역사왜곡 영화 암살자(들)에 대한 논란이 커지고 있다. 국회 문화체육관광위원회에서는 국민의힘 간사인 조은희 의원이 '암살자(들)'을 연출한 허진호 감독을 국정감사 증인 또는 참고인으로 채택하자고 요구했고, 전직 국민의힘 서울시의원은 허 감독 등 제작진을 명예훼손 혐의로 경찰에 고발하기도 했다. 반면 민주당 박지원 의원은 이에 대해 \"'암살자(들)' 역시 논픽션이 아닌 픽션 극영화\"라며 \"국회에서까지 떠들어주니 오히려 홍보가 잘되겠다.",
    "quotes": [
-    "급여 저축, 펀드 수익 및 법무법인 배당금 등"
+    "역사왜곡 영화 암살자(들)에 대한 논란이 커지고 있다. 터무니없는 음모론으로 박정희 전 대통령에 대한 운동권 증오심을 자극하고, 대중에게 박 전 대통령의 부정적 이미지를 확산시키기 위한 저급한 프로파간다물",
+    "5·18에 대해서는 성역이라며 건드리지 못하게 하면서 박정희 전 대통령에 대한 역사는 왜곡하려 한다",
+    "국회에서까지 떠들어주니 오히려 홍보가 잘되겠다. 영화를 관람하자, 대박 터진다"
    ],
-   "press": "조선일보",
+   "press": "프레시안",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "급여 저축, 펀드 수익 및 법무법인 배당금 등",
-    "n": 5,
-    "verified": 0,
-    "items": [
-     {
-      "press": "조선일보",
-      "title": "김상욱 울산시장 재산, 반년 새 31억 늘어 50억",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQUlSVzZwYVJpZUltRlRXZGVIUnN3eVg5d0laeFl2eG10VTgwNHBfQmdHdEl6ay14Y3pOeXZEck5tWWtLZ3o2RF95THZkbHFuazUtX0NFQVJlcnlRdnpxWnVlQWVULXk2MFhoQkx3MUt6ZVZEX1d3bGVRa08wQ1BlLVIzdGJYTEh0bVZVUm9IYXM?oc=5"
-     },
-     {
-      "press": "펜앤마이크",
-      "title": "김상욱 울산시장 재산 반년 새 19억→50억…31억원 늘어",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ram9FRGFpbzYxMmdiWEhwUng1c0RRZ3FmYkRiNloxWXRwdGtsZVpHZVpHQVl4SGdoMW8wMTlyTVFnMW9UZlMyWU1hVVJSQUo3dmhtbUtKOEFTenZXcGNqUFVzdHpCbUNOMFRv0gFvQVVfeXFMTjZXOHR4N2hFRFJEdU1WdWQzdkk0dU1ISmRtUTFVWE53VEI1akcyRi1Tdm5aUTgxLXVST19wRmRwWnpFejNwT1ViaTZxNHpTOFhuOXZXTmRscW1zQ3ctMk9NblZ4RU8zdURNR09DamFV?oc=5"
-     },
-     {
-      "press": "최보식의언론",
-      "title": "[추적] 김상욱 울산시장, 반년새 재산 31억 늘어...그 펀드는?",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ya1lsRjIzNTF0R193QThzWEFEanhxZFYzTmZ3RlJOSURES3R4aW1BdVd1M0lSazA3dTlfSUpzemdwcGdySmVsR3BkWmJZRG1PUDZaREN6SVhTLXNWcnllOVE2VznSAWhBVV95cUxOZGFDaTYzT3BTQTNpaEJhZ1pCMlBWUzFCX0dNaE5yRTQ5aXI2Z2hGSUYxM3FHc0NnU0lNZlRzM1BDVXhpZkJuZ2pMSW5Xb2k4Q0tOd1ZITGZzY0VDX1U4RkRZdVBkeEVzdA?oc=5"
-     },
-     {
-      "press": "네이트",
-      "title": "\"예금만 45억\" 집없는 김상욱 울산시장, 재산에 깜짝…반년새 31억 늘어",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15ZEpmOGlfdVJBOGNXODJjVFplRVVWT3ZUdWZfelpZX3prMWVZLWhIZ0lhelFGc0s2LVdqeEZUcEY4UWlwTlB1eFc2SlJ0a3dZeDlF?oc=5"
-     },
-     {
-      "press": "위키트리",
-      "title": "집 한 채 없는 김상욱 울산시장, 재산 반년 새 31억 늘어 50억",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ra1ZNQ0U2VmZwY25PaGprSTJfVXRZMnd4RmpvYW5Tc2R4eXRmei1aei1EY3ptRUxTVmFNYkpjTGxCZDhsaDBYdmVycjdsa3BuME43WXF3?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "[단독] 北포로 1명은 귀순 거부, 우크라는 무기 요청… 끝까지 설득했다",
-   "source": "국민일보",
-   "url": "https://n.news.naver.com/article/005/0001875491",
-   "published_at": "2026-09-29T00:06:12+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "selection": "정치",
-   "summary": "우리 정부는 북한군 포로의 국내 송환을 위해 수차례 현지를 방문하며 치열한 물밑 작업을 벌인 것으로 파악됐다. 현지를 수차례 방문해 귀순 의사가 없었던 포로 1명을…",
-   "summary_long": "지난해 1월 러시아 서부 쿠르스크 지역에서 우크라이나군에 생포된 북한군 병사 2명과 이들의 한국 송환 사실을 공개한 볼로디미르 젤렌스키 우크라이나 대통령(왼쪽부터). 우리 정부는 북한군 포로의 국내 송환을 위해 수차례 현지를 방문하며 치열한 물밑 작업을 벌인 것으로 파악됐다. 젤렌스키 대통령 엑스 캡처, 연합뉴스 우크라이나에 생포된 북한군 포로들이 1년8개월 만에 한국땅을 밟는 데는 정부의 치열한 물밑 작업이 있었던 것으로 파악됐다.\n\n현지를 수차례 방문해 귀순 의사가 없었던 포로 1명을 장기간 설득했고, 송환 의사가 없었던 우크라이나 정부를 상대로도 치열한 외교전을 펼쳐야 했다. 우크라이나 측은 북한군 포로 송환을 자국에 대한 무기 지원의 레버리지로 활용하려 했던 것으로 전해졌다. 볼로디미르 젤렌스키 우크라이나 대통령이 지난 23일 북한군 포로 송환 사실을 공개한 이후 양국이 ‘비공개 합의’를 두고 진실게임을 벌이는 배경에는 이 같은 장기간 설득 과정에서 벌어진 다각도의 외교 논의가 영향을 끼친 것이라는 해석도 나온다.",
-   "quotes": [
-    "북한군 포로 송환 사실에 관한 양국 간 대외 비공개 합의에도 불구하고, 우크라이나 측이 사전 설명이나 구체 협의 없이 일방적으로 유엔총회에서 북한군 포로의 한국행을 전격 공개했다",
-    "우크라이나 대통령실 공보실이 비공개 합의 사실이 없다는 허위 공보를 발표한 데 대해 강력한 유감을 표명했다",
-    "정말 힘겹게 북한 포로를 인도받았다. 결과적으로 아무 조건 없이 송환하게 됐다"
-   ],
-   "press": "국민일보",
-   "photo": "02.png",
-   "quoted": {
-    "quote": "우크라이나 대통령실 공보실이 비공개 합의 사실이 없다는 허위 공보를 발표한 데 대해 강력한 유감을 표명했다",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "다음뉴스",
-      "title": "[단독] 北포로 1명은 귀순 거부, 우크라는 무기 요청… 끝까지 설득했다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Kc1lWUmg3Y1RIXzBrNGQzaUoySXpxS3NkS1Z1T0ZDZFZ5bk9obGktX2hZWnBRcVQxYTU0S3c1SkJjb1NZQW9HX0RrMHhLdm8?oc=5"
-     },
-     {
-      "press": "위키트리",
-      "title": "우크라가 생포해 한국으로 보낸 북한포로 중 1명 “북한으로 보내달라” 요구했었다",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdTZZUVpwd0RDcHNZUkljVV9SZXg1Wm9Tb3Q5cVUyZlZNYWp3amtUbk9qQTVWLW1HaXpLVnVCekdmbGRYU2czUW16OUthUEd5dUQ1N2FpZkdkbFNuUmI5anNYSWlhcXY3aE1zNjdQSmh2SDZiS3ZyblU0STRER2RycC1qb2VibWxaRDZUNWg0MVdZaEVXRUp3TnFsVlVBRkRTUl9PUG5R?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "靑 “우크라 먼저 비공개 요청… 거짓발표 강력 유감” 강경 선회",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FajJtN2ZlSHZrQVM4ZnoyeVdFc0ZPZmkwOG1sdF9MU2ZhUlE3ZnljQ1BpTEplZ2FkQmtnY3AwRHM1N3F2d3pxaFF0SVdDaXRHeWlZaQ?oc=5"
-     },
-     {
-      "press": "한겨레",
-      "title": "외교부, 주한우크라 대사대리 초치…“북 포로 한국행 공개·허위공보 강력 유감”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtUURRQm5wU3RlTHV6ZmlkZm4wcFZ6RVRoTk1fa3I0RjdoclBRQUsxWGhfYndTTHFlWlIyOGxZdngxaGZHZDlrYTBBYUhKNFVqemVDbE1xTnYtazBSWWJoZ3Jmb1dLMmhtQ2RldWx6aFU1bWI4?oc=5"
-     },
-     {
-      "press": "NK경제",
-      "title": "외교부, 주한우크라이나 대사대리 초치",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjYzJsX3VYZ0VRT1dVMFNadk1hbWFmWldjQjdXanByVTVIYTNEUXBab3FUV3NUT0JUel9VWV9TZFpWcG1XVi1HOGNaNFVCdnQ4WldKUkVVUXA2UWd6SnZ1RzlBTWtZU2VsbTFINGNR0gFuQVVfeXFMUGNjMmxfdVhnRVFPV1UwU1p2TWFtYWZaV2NCN1dqcHJVNUhhM0RRcFpvcVRXc1RPQlR6X1VZX1NkWlZwbVdWLUc4Y1o0VUJ2dDhaV0pSRVVRcDZRZ3pKdnVHOUFNa1lTZWxtMUg0Y1E?oc=5"
-     },
-     {
-      "press": "경향신문",
-      "title": "[속보] 외교부 “주한 우크라 대사대리 초치”…북한군 포로 한국행 공개에 항의",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56T2RZUTN2LXhyZGhfZ0UxWEQyUXh4Nl9sS1hkcERwazZRbEZCYUVUekJ2a3VIcmtqMDFHTVZEa01rZkZvUV9XMGNhSTdnS0RqYTlBRVRUR05NeVo5ZHBV0gFfQVVfeXFMTnpPZFlRM3YteHJkaF9nRTFYRDJReHg2X2xLWGRwRHBrNlFsRkJhRVR6QnZrdUhya2owMUdNVkRrTWtmRm9RX1cwY2FJN2dLRGphOUFFVFRHTk15WjlkcFU?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "“잘못한게 없잖아요 제가” 한강공원서 흉기 들고 행인들 위협하며 카페 내부 진입까지 시도한 40대 구속심사",
-   "source": "강원일보",
-   "url": "https://n.news.naver.com/article/087/0001220904",
-   "published_at": "2026-09-29T12:43:07+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "경찰에 따르면 천씨는 지난 27일 오후 3시45분께 영등포구 양화한강공원 인근에서 흉기를 들고 행인들을 위협한 혐의를 받는다. 천씨는 지난 27일 오후 3시45분께…",
-   "summary_long": "한강공원 인근에서 행인들을 향해 흉기를 들고 위협한 것은 물론, 이를 피하기 위해 카페로 피신한 사람들까지 공격하기 위해 내부 진입을 시도한 40대 남성이 구속 갈림길에 섰다. 서울남부지법 김지현 영장전담 부장판사는 29일 오전 10시 30분부터 공공장소흉기소지 혐의를 받는 천모씨에 대한 구속 전 피의자 심문(영장실질심사)을 열었다. 이날 오전 9시 53분께 검은 모자를 쓰고 법원에 출석한 천씨는 ‘행인들을 위협한 이유가 뭐냐’, ‘카페에 들어간 이유가 있냐’는 취재진 질문에 “잘못한 게 없잖아요 제가”라고 말했다.\n\n천씨는 흉기를 든 채 카페에 들어오려고 시도했으나 카페 점주가 문과 창문을 잠그고 경찰에 즉각 신고해 피해를 막을 수 있었다. ◇공공장소흉기소지 혐의를 받는 천모 씨가 29일 서울 양천구 남부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 천씨는 지난 27일 오후 3시45분께 영등포구 양화한강공원 인근에서 흉기를 들고 행인들을 위협한 혐의를 받는다.",
-   "quotes": [
-    "잘못한 게 없잖아요 제가"
-   ],
-   "press": "강원일보",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "잘못한 게 없잖아요 제가",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "다음뉴스",
-      "title": "한강공원 흉기 남성 구속 갈림길에서 “잘못한 게 없잖아요 제가” [현장영상]",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40THJEalJveWdCNGtaOUVQYWY0NVFPcW1NOWhjOHBLb2tIUWJ0V2JlUUM3NGtDblMwcWNNcC0xVjAtamVsMFhHeHFtZw?oc=5"
-     },
-     {
-      "press": "문화일보",
-      "title": "[속보]한강공원서 흉기로 행인 위협 40대 “잘못한 게 없잖아요 제가”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhdm1vX1dOb3g2RWh4aHdRelRTaFJHQ0ZTekhSbHY1LXBWT3Z1QUVIWXZXU3FYR1NxamxwS0YxTTY4bXVQRHJuRlU1TEJZQ0hT?oc=5"
-     },
-     {
-      "press": "채널A 뉴스",
-      "title": "한강공원 ‘흉기 난동’ 남성, 기자 질문 받더니 ‘버럭’…“잘못한 게 없잖아요 제가!” [현장영상]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xUWdtX3BMYVlkeFN5cVkzc2ppZkdoQllTVGM1WXpudjJrVXZkblB0dzZvbTdmWnhWalNvMEVGd2ZJSHgwVDZLS2VkSTR0YlhUR3RoT01QVjFXekg1NnfSAWNBVV95cUxPREdPZTFrUjBrRl9nTmhZSlJnUkhvYW44aXllLVphNElYSmRkV05PQzNNRXhvZVFnWmtUTnRRQ3pIU2d3RHJER0JzTW5Vb0IxWWkzZlVBX21NUzBrNUZ3REdSU3c?oc=5"
-     },
-     {
-      "press": "아이뉴스24",
-      "title": "'한강공원 흉기 난동' 40대, 취재진 질문에 \"잘못한 게 없잖아요 제가\"",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FUl9pOExWZ2tiZ010MzR1ZU9CTW5HTUZ2ekx0d3lLVGR0RkVja1BtdnFqeUMzR0xKOGdfVVdYRm9LS2o2UW5JaVpDNA?oc=5"
-     },
-     {
-      "press": "파이낸셜뉴스",
-      "title": "\"잘못한 게 없잖아요 제가\"…'한강 흉기 위협' 40대男, 법원 출석하며 혐의 부인",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OTFRXZ1hjajBEZ25nakRaODBpUmtfVmdXcHhmeHllSDRHX29ZZVhhbllUVVJJU1hYX1FHZjVLZHZhSFdMME5LM3llM1hFbTYzRlJNRkRqTWFTQQ?oc=5"
-     },
-     {
-      "press": "헤럴드경제",
-      "title": "흉기 들고 카페 쫓아간 40대 男 “잘못한 게 없잖아요. 제가”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5odlI3MGppTGFNMXpUZC1GOGY1TkkzZVZqR21pVGRSd3VHNGc5VnN6RXNFQ1VPVjI5UktiTUk3R0xMaXhHNzVFeWJrcTY0dFNTSlFOa21n?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "엔비디아, AI 호황에 1500억달러 자사주 추가 매입…역대 최대",
-   "source": "블로터",
-   "url": "https://n.news.naver.com/article/293/0000090975",
-   "published_at": "2026-09-29T00:59:13+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "미국 반도체업체 엔비디아가 사상 최대 규모인 1500억달러의 자사주 매입을 승인했다. 젠슨 황 엔비디아 CEO /사진 제공=엔비디아 28일 월스트리트저널 등 주요 외신에…",
-   "summary_long": "미국 반도체업체 엔비디아가 사상 최대 규모인 1500억달러(약 204조원)의 자사주 매입을 승인했다. 젠슨 황 엔비디아 CEO /사진 제공=엔비디아 28일(이하 현지시간) 월스트리트저널(WSJ) 등 주요 외신에 따르면 이날 엔비디아 이사회의 추가 자사주 매입 프로그램 승인으로 총 자사주 매입액이 2350억달러(약 320조원)로 늘어났다. 또한 엔비디아가 800억달러를 추가한지 4개월 만에 이뤄지는 것이다.\n\n회사는 남은 자사주 매입 프로그램을 2028회계연도(2027년1월~2028년1월)까지 완료할 것으로 예상했다. 엔비디아는 지난달 월가 금융기관들과 협력해 고객들이 자사 칩을 보다 쉽게 구매할 수 있도록 최대 5000억달러 규모의 데이터센터 금융을 부분적으로 보증한다고 발표했다. 엔비디아가 AI 생태계를 지원하기 위해 체결한 장기 데이터센터 임대 계약 규모는 약 200억달러에 달한다.",
-   "quotes": [
-    "엔비디아의 성장은 한 세대에 한 번 있을까 말까 한 인공지능(AI)과 가속 컴퓨팅으로의 플랫폼 전환에 의해 견인되고 있다",
-    "당사의 현금 창출력은 이러한 전환을 진전시키는 기술에 투자하고 주주들에게 자본을 환원할 수 있는 역량을 제공한다"
-   ],
-   "press": "블로터",
-   "photo": "04.jpg",
-   "quoted": {
-    "quote": "엔비디아의 성장은 한 세대에 한 번 있을까 말까 한 인공지능(AI)과 가속 컴퓨팅으로의 플랫폼 전환에 의해 견인되고 있다",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "블로터",
-      "title": "엔비디아, AI 호황에 1500억달러 자사주 추가 매입…역대 최대",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaVUtOSUlVX1hTTUR5RktzRmN0MjMwb1o5Mk0zdmVKcmxzWjFaTVJkc1R5VDBGSVFVbUNtMF9QbmZtNVJJSXZOZkhiR01jdkY2NzNYdWZWU2txN1o3WEx4QkFHeXRpdmhqWUFxedIBbEFVX3lxTFBaVUtOSUlVX1hTTUR5RktzRmN0MjMwb1o5Mk0zdmVKcmxzWjFaTVJkc1R5VDBGSVFVbUNtMF9QbmZtNVJJSXZOZkhiR01jdkY2NzNYdWZWU2txN1o3WEx4QkFHeXRpdmhqWUFxeQ?oc=5"
-     },
-     {
-      "press": "연합뉴스",
-      "title": "엔비디아, 美기업 사상 최대 자사주 매입…\"'AI열풍 계속' 신호\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GbFFrcjRkT1VoZXlvd0hKN3Ryc1dVaFIwM3FOaXhuaGYweUJvV2NoZWY3UmhRb01ub1hyVXdUNXZkLUxhcEQ5MXRUZUktM19QSkwxWFBrN1c4blJXZ2dRQ9IBYEFVX3lxTE1GbFFrcjRkT1VoZXlvd0hKN3Ryc1dVaFIwM3FOaXhuaGYweUJvV2NoZWY3UmhRb01ub1hyVXdUNXZkLUxhcEQ5MXRUZUktM19QSkwxWFBrN1c4blJXZ2dRQw?oc=5"
-     },
-     {
-      "press": "연합뉴스TV",
-      "title": "엔비디아, 204조 원 자사주 추가 매입…美 기업 사상 최대 규모",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRbXhWaHZ0SXZrVm1xd2lBMTFjT1VIMFdPTW02SlRueDlIMXZUVzVXQm0wSWNrQWEtMkkzWlpIeWRDS0xJYm1nUkhBenEtOEVSQWlfMDFCNDJiS0swMHI4d3lrRFR4ZkE?oc=5"
-     },
-     {
-      "press": "국민일보",
-      "title": "엔비디아, 자사주 매입에 204조 추가 투입…美기업 사상 최대",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01NEFHT0JPX3BhTUYtamd3WVBCSW42LTFaVTJKM1J0ZXRnRGlLLVkybFlCWnFZdTZvNHVOalVwNUVyclR4NGJuY1ZsSzFPYkdxWXpHSHc1aWhZZTAzUE54Tms4SEFfbmNtSzlFaNIBbEFVX3lxTE01NEFHT0JPX3BhTUYtamd3WVBCSW42LTFaVTJKM1J0ZXRnRGlLLVkybFlCWnFZdTZvNHVOalVwNUVyclR4NGJuY1ZsSzFPYkdxWXpHSHc1aWhZZTAzUE54Tms4SEFfbmNtSzlFaA?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "[외신 헤드라인] 엔비디아, 자사주 204조원 추가 매입",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zeVNmNmZMTEQwY09SMk4xXzlELUJSVUpaMmxUYkpoSmR2c0k1OC13c3FBTU1YRGg5Y0FLZGZFM0NoalZKalY0THNwbUUtNDh2dTBuXw?oc=5"
-     },
-     {
-      "press": "강원도민일보",
-      "title": "엔비디아, 미 기업 사상 최고 규모 자사주 매입…“‘AI열풍 계속’ 신호”",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnMGl5c3hDbVpxVjFMLWlWRzNfTkRjMW5IWmhJOXNOSFlpblBRd3ZjdlVXNW5SZnpkZ21mOFk3NkVUaUtDYzA1RV9JY1lTYnBHRmNzcW82UnpsVWMxSDVEcTRnSnZYVXhf?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "\"대통령 모시고 식사 중인데\"…송영길, 생방송 전화 끊어버린 이유는",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000513170",
-   "published_at": "2026-09-29T09:12:24+09:00",
-   "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 508,
-   "comment_agree": 295,
-   "comment_disagree": 47,
-   "division_balance": 0.274854,
-   "division_score": 1.604522,
-   "selection": "찬반 쟁점",
-   "summary": "이날 인천에서 열린 세계한인의 날 기념식에 참석한 이재명 대통령이 송 의원 지역구를 방문해 함께 재래시장에 나와있다고 했습니다. 송 의원은 \"대통령 일정이 바로 자신의…",
-   "summary_long": "어제(28일) 저녁 한 라디오 방송 전화 인터뷰에 참여한 송영길 민주당 의원. 이날 인천에서 열린 세계한인의 날 기념식에 참석한 이재명 대통령이 송 의원 지역구를 방문해 함께 재래시장에 나와있다고 했습니다. 저희 지금 옥련시장에 대통령께서 와 계십니다.\n\n지금 생방송 중에 청취자에 대한 예의도 아니시죠.) 아니, 그래도 10분, 원래 10분으로 했던 거 아닙니까? 송 의원은 \"대통령 일정이 바로 자신의 지역구로 올 줄 몰랐다며 인터뷰를 취소하려다 예의가 아닌 것 같아 진행했다\" 했습니다. 결국 생방송 인터뷰는 중단됐고, 진행자는 \"더이상 진행할 수 있는 상황이 아니었다\", \"모든 게 제 잘못\"이라며 청취자들에게 사과했습니다.",
-   "quotes": [
-    "대통령 일정이 바로 자신의 지역구로 올 줄 몰랐다며 인터뷰를 취소하려다 예의가 아닌 것 같아 진행했다",
-    "더이상 진행할 수 있는 상황이 아니었다"
-   ],
-   "press": "JTBC",
-   "photo": "05.png",
-   "quoted": {
-    "quote": "대통령 일정이 바로 자신의 지역구로 올 줄 몰랐다며 인터뷰를 취소하려다 예의가 아닌 것 같아 진행했다",
-    "n": 1,
-    "verified": 0,
-    "items": [
-     {
-      "press": "JTBC",
-      "title": "\"대통령 모시고 식사 중인데\"…송영길, 생방송 전화 끊어버린 이유는",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93Wjh1eFdRVGFoaF9ld18xaXA3WGFXVXQ1aDBXVnVoVVZhNXFuN0l5Z29nQzBwbFRmc0F2RHh5eVFvVGQzamRickNITmdZTHAtLVdwbA?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "“좌파 진지 청소하고 자유민주주의 지켜낼 것”···국힘, 영화 ‘암살자(들)’ 연일 맹비난",
-   "source": "경향신문",
-   "url": "https://n.news.naver.com/article/032/0003473153",
-   "published_at": "2026-09-29T17:14:00+09:00",
-   "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 325,
-   "comment_agree": 161,
-   "comment_disagree": 26,
-   "division_balance": 0.278075,
-   "division_score": 1.456123,
-   "selection": "찬반 쟁점",
-   "summary": "영화 <암살자> 불매 운동도 청년들이 자발적으로 시작했다”며 “청년의 힘이 대한민국의 좌파 진지를 청소하고 자유민주주의를 지켜낼 것”이라고 썼다. 육 여사 생가가 있는…",
-   "summary_long": "국민의힘은 29일 육영수 여사 피격 사건을 다룬 영화 <암살자(들)>에 대한 비판을 이어갔다. 장동혁 대표는 이날 페이스북에 “좌파의 공습에 가장 강력하게 저항하는 세대는 2030 청년 세대다. 영화 <암살자(들)> 불매 운동도 청년들이 자발적으로 시작했다”며 “청년의 힘이 대한민국의 좌파 진지를 청소하고 자유민주주의를 지켜낼 것”이라고 썼다.\n\n신동욱 최고위원은 페이스북에서 “애당초 특정한 정치적 목표로 의도적으로 사실을 왜곡했다면 예술적 가치를 인정받을 수도 없고 보호받을 창작의 자유에 포함될 수도 없다”며 상영 중단을 촉구했다. 육 여사 생가가 있는 충북 옥천을 지역구로 두고 있는 국민의힘 소속 박덕흠 국회부의장은 페이스북에서 “제작진과 배급사는 유족·국민께 사과하고 최소한 이 영화가 역사적 사실과 다르다는 점을 관객에게 분명히 밝혀야 한다”고 말했다. 나 의원은 “김대중·노무현 전 대통령을 두고 이런 영화가 나왔다면 민주당은 이 영화사를 망하게 했을 것”이라며 “자신들이 정한 역사만을 성역화해 징역형으로 억압해 보호하고 다른 역사적 비극은 표현의 자유로 난도질하는 끔찍한 위선은 반드시 심판해야 한다”고 말했다.",
-   "quotes": [
-    "지난해 10월 23일 문체위 국감에는 영화 <건국전쟁> 김덕영 감독이 참고인으로 직접 출석했다. 당시 민주당 의원들은 제주 4·3 등 역사적 사실을 부정하는 작품이라면서 정면 반발했다. 1년 만에 기준이 달라져서는 곤란하다",
-    "당장 ‘육영수여사서거 역사왜곡처벌법’과 ‘6·25 역사왜곡처벌법’부터 만들어야 마땅하다. 만약 그럴 수 없다면, 특정 역사만 성역화한 ‘5.18 역사왜곡처벌법’은 폐지되어야 한다",
-    "자신들이 정한 역사만을 성역화해 징역형으로 억압해 보호하고 다른 역사적 비극은 표현의 자유로 난도질하는 끔찍한 위선은 반드시 심판해야 한다"
-   ],
-   "press": "경향신문",
-   "photo": "06.jpg",
-   "quoted": {
-    "quote": "지난해 10월 23일 문체위 국감에는 영화 <건국전쟁> 김덕영 감독이 참고인으로 직접 출석했다. 당시 민주당 의원들은 제주 4·3 등 역사적 사실을 부정하는 작품이라면서 정면 반발했다. 1년 만에 기준이 달라져서는 곤란하다",
+    "quote": "5·18에 대해서는 성역이라며 건드리지 못하게 하면서 박정희 전 대통령에 대한 역사는 왜곡하려 한다",
     "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "연합뉴스",
-      "title": "국힘, '암살자(들)' 연일 맹비난…\"상영 중단·국감 불러야\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtRVUyOFdqSlVDU283OV9nUHp0Z1U4T01pUFplWXhLLXd3Mkh0UklJNE1VSkxKQnExNWp0TTRSaFl6SllLSUVveWxpbk5HSTVMZXliZUhaRTNQNTNhaFlHRNIBYEFVX3lxTFAtRVUyOFdqSlVDU283OV9nUHp0Z1U4T01pUFplWXhLLXd3Mkh0UklJNE1VSkxKQnExNWp0TTRSaFl6SllLSUVveWxpbk5HSTVMZXliZUhaRTNQNTNhaFlHRA?oc=5"
+      "press": "다음뉴스",
+      "title": "'암살자(들)'로 들끓는 정치권…해묵은 史 영화 논쟁, 왜?",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1YWpuemtqby1jTENCdjRJeURIVmNHRElJWmJvSUREV3ptVFFZNk56SkRTanVya3Y3Tm4zWTVlNWV1N2NMZTRHd3IwZw?oc=5"
+     },
+     {
+      "press": "프레시안",
+      "title": "[속보] \"대박터져\" 박지원의 예언?…'암살자(들)' 하루만에 '박스오피스' 1위 재탈환",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YVkFyanFNS3Q5a3RkLXhTMEo3Nkk1LVcxaVNIVkxCdTcxbnQzQ3J2TVc3Z190anFXVk9panVvMzl1YjhiYjRMYWp3aC1Kd3dRdVVrZWVVTlJfUHpLMF9Ea1RFQUtKMXE0MEVuTFBpX1FrTFM1d3FPU3F0Yw?oc=5"
      },
      {
       "press": "다음뉴스",
-      "title": "“좌파 진지 청소하고 자유민주주의 지켜낼 것”···영화 ‘암살자(들)’ 작심 비판한 국민의힘",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aZkRpcnNvQk1vMFNtRWVKQXc2d3kxR05LN0h0bjQ5cEtkUUJxVkotMzRRa2NieS10TndMOUJ4VzZULW5oVmFiTWNTemZJY28?oc=5"
-     },
-     {
-      "press": "이데일리",
-      "title": "나경원 “5.18법 철회하든지, 육영수 왜곡처벌법 만들라”",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDBZS01GSGd5emd5bjJLemY4Qy16b0xlQmYtZkt6T01BdEdNM25Nd3FNS2FIYjFpcHY3ZGY4WC1rVjQ2NFBVT1BtMEFpZEFpdHhXNjJrdXB2Skl3SXFWdHByeWtPZDM0SV9uMUhVNjB6YWVkU2VDMHFVZEhBandYaw?oc=5"
+      "title": "“김대중·노무현 영화였다면?”…국힘, ‘암살자들’ 논란에 민주당 향해 ‘내로남불’ 총공세",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5kb1ViS0FabGtHanBwTkhpeFVILU5MY3ktNjh4d0QwRDY4SEUxT2xFUnRaajQ3eXZiUVRLel8wYS1LNGRpMFE?oc=5"
      }
     ]
    }
   },
   {
-   "title": "이 대통령 \"저항·반발에도 개혁 멈추지 않을 것‥결과로 책임\"",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001526327",
-   "published_at": "2026-09-29T11:29:32+09:00",
+   "title": "李 30%대 지지율에 부담 느꼈나… 與, ‘조작기소 특검법’ 처리 미루기로",
+   "source": "조선일보",
+   "url": "https://n.news.naver.com/article/023/0004001196",
+   "published_at": "2026-09-30T00:49:14+09:00",
    "section_id": "100",
    "view_rank": 2,
-   "comment_count": 965,
-   "comment_agree": 230,
-   "comment_disagree": 34,
-   "division_balance": 0.257576,
-   "division_score": 1.437203,
-   "selection": "찬반 쟁점",
-   "summary": "이재명 대통령이 저항과 반발에도 개혁을 멈추지 않겠다며, 주권자가 부여한 개혁의 소명을 반드시 완수하겠다고 밝혔습니다. 이 대통령은 오늘 청와대에서 주재한 국무회의에서…",
-   "summary_long": "오늘 청와대에서 주재한 국무회의에서 발언하고 있는 이재명 대통령. 이재명 대통령이 저항과 반발에도 개혁을 멈추지 않겠다며, 주권자가 부여한 개혁의 소명을 반드시 완수하겠다고 밝혔습니다. 이 대통령은 오늘 청와대에서 주재한 국무회의에서 \"저항과 반발이 커진다는 이유로 개혁을 결코 멈출 수는 없다\"며, \"국민의 삶을 바꾸고 나라의 미래를 밝히는 개혁은 우리 정부의 정체성이자 존재 이유\"라고 강조했습니다.\n\n다만 개혁이 고통을 수반하는 만큼 \"세심하고 가급적 조용하게, 기득권의 권리를 양보해야 하는 그런 분들의 아픔을 위무해 가며 실용적이고 효율적으로 생활 개혁을 해 나가야 한다\"고 설명했습니다. 이어 \"국민의 집단지성이 함께해야 개혁의 방향성이 더욱 분명해지고, 또 개혁의 힘도 그만큼 오래 지속될 수 있다\"고 당부했습니다. 이 대통령은 그러면서 \"아무리 어렵고 힘들더라도 사회 전반에 불가역적 개혁이라는, 주권자들이 부여한 소명을 꼭 완수하겠다\"며 \"말이 아니라 행동으로 국민께 평가받고 결과로 책임질 것\"이라고 밝혔습니다.",
+   "selection": "정치",
+   "summary": "더불어민주당이 다음 달 1일 국회 본회의에서 이재명 대통령 사건의 조작 기소 여부를 가릴 ‘조작기소 특검법’을 처리하려 했다가 10월 국정감사 이후로 미루기로 결정했다.…",
+   "summary_long": "더불어민주당이 다음 달 1일 국회 본회의에서 이재명 대통령 사건의 조작 기소 여부를 가릴 ‘조작기소 특검법’을 처리하려 했다가 10월 국정감사 이후로 미루기로 결정했다. 그러나 여권 안팎에선 “대통령 지지율이 30%대까지 하락한 상황에서 공소취소용으로 의심받고 있는 특검법을 처리하는 건 무리라는 데에 청와대와 여당 지도부가 공감대를 이룬 결과”라는 말이 나왔다. 민주당은 이날 의원총회를 열고 조작기소 특검법 처리 여부를 논의했다.\n\n이후 전은수 원내대변인은 기자들과 만나 “조작기소 특검법의 필요성에는 공감했지만, 시기에 대해선 당내 여론을 수렴해 10월 국정감사 이후에 정하기로 했다”며 “이번 국감의 목표가 민생 올인이어서 이를 절실하게 나타내기 위함”이라고 밝혔다. 이후 이 대통령은 지난 18일 기자회견에서 공소취소 권한을 삭제한 특검법의 필요성을 언급했고 민주당은 이르면 10월 1일 특검법 처리를 시도할 예정이었다. 특히 조정식 국회의장 측은 쟁점 법안 처리를 앞두고 여야 간 갈등이 격해진다는 점을 들어 민주당에 특검법 처리를 미루자는 의견을 전달했다고 한다.",
    "quotes": [
-    "세심하고 가급적 조용하게, 기득권의 권리를 양보해야 하는 그런 분들의 아픔을 위무해 가며 실용적이고 효율적으로 생활 개혁을 해 나가야 한다",
-    "국민의 집단지성이 함께해야 개혁의 방향성이 더욱 분명해지고, 또 개혁의 힘도 그만큼 오래 지속될 수 있다",
-    "아무리 어렵고 힘들더라도 사회 전반에 불가역적 개혁이라는, 주권자들이 부여한 소명을 꼭 완수하겠다"
+    "대통령 지지율이 30%대까지 하락한 상황에서 공소취소용으로 의심받고 있는 특검법을 처리하는 건 무리라는 데에 청와대와 여당 지도부가 공감대를 이룬 결과",
+    "조작기소 특검법의 필요성에는 공감했지만, 시기에 대해선 당내 여론을 수렴해 10월 국정감사 이후에 정하기로 했다",
+    "조 의장 측 입장과 지도부 생각이 일치했고 청와대와 조율을 끝낸 뒤 연기를 결정한 것"
    ],
-   "press": "MBC",
-   "photo": "07.jpg",
+   "press": "조선일보",
+   "photo": "02.jpg",
    "quoted": {
-    "quote": "국민의 집단지성이 함께해야 개혁의 방향성이 더욱 분명해지고, 또 개혁의 힘도 그만큼 오래 지속될 수 있다",
-    "n": 7,
+    "quote": "대통령 지지율이 30%대까지 하락한 상황에서 공소취소용으로 의심받고 있는 특검법을 처리하는 건 무리라는 데에 청와대와 여당 지도부가 공감대를 이룬 결과",
+    "n": 4,
     "verified": 0,
     "items": [
      {
-      "press": "MBC 뉴스",
-      "title": "이 대통령 \"저항·반발에도 개혁 멈추지 않을 것‥결과로 책임\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54YnBfbEEtZGRzUkhSRzNmTkJLaEwtd2dYZ0UyZmtEVTF2d285Q2FaSml1V2wxQmFqTXlkMHZYbEIyMGlVald3QW1pd2NoVEpTM3dwSzQtaXZCQ3lOTzBTTjMtRUtCSXAxeEdLblhBZjNVWklMclBvVNIBeEFVX3lxTE54YnBfbEEtZGRzUkhSRzNmTkJLaEwtd2dYZ0UyZmtEVTF2d285Q2FaSml1V2wxQmFqTXlkMHZYbEIyMGlVald3QW1pd2NoVEpTM3dwSzQtaXZCQ3lOTzBTTjMtRUtCSXAxeEdLblhBZjNVWklMclBvVA?oc=5"
+      "press": "조선일보",
+      "title": "李 30%대 지지율에 부담 느꼈나… 與, ‘조작기소 특검법’ 처리 미루기로",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOGwxWXRQVUdLT19BQlM2T2FJV0FCUlZ3YURyNWhHVDdoYjlVcmdBaVNqQlBRWXFkb0NSOVVzdUx2a2NHYW1YU2dTd0FIQlA3UkxjaHJreWNvMUVUVVhDTXFlUzhIRl9ZcWh2NHBtcjV3TE44Wm5yaWlRaDFSdUxFLU14SjVDQQ?oc=5"
      },
+     {
+      "press": "뉴닉",
+      "title": "더불어민주당이 조작기소 특검법 처리를 국정감사 이후로 미루기로 했어요. 🗓️",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tbUdUdVlUNlkxYTRjcWphc3AzWmtGVFc2VkNPU3l6aTBwam1LWm9VM3JxdVhsSGxoUGxBamEwQnJuVzdCdUdSamZaVkQ5azNFVkJJ?oc=5"
+     },
+     {
+      "press": "미디어인뉴스",
+      "title": "[미디어인사이트] '조작기소 특검법' 속도 조절…언론은 지지율·사법 리스크에 주목",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mN3NZdVdOT1lHRVQ0OG9PcEpNNTc2OUQ4ZHF2ZGdpTzlHVG9oRm5mR0N5MVpZUlE4VnRscVJkZXowMjRVTFlqV3ZIX2pNT2JLMS00NFFnQXh2SU5ONnNFeXJQNDd1UmttcE5WLVl3?oc=5"
+     },
+     {
+      "press": "슬로우뉴스",
+      "title": "점심도 거른 네 시간 국무회의, “오늘은 응원과 칭찬 댓글이 많다”: 슬로우레터 9월30일.",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE13dWx3TDZQbkJHWFdmVy16Z1ZfMUstaTdTSmpXVU5aRnFqX1FBWkRmLTl5Y2lhZGV3eldZbjlrUQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "조희대, 부친상 조의금 봉투째 돌려줘… “가족끼리 조용히 치르려 했다”",
+   "source": "조선일보",
+   "url": "https://n.news.naver.com/article/023/0004001290",
+   "published_at": "2026-09-30T13:56:08+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "조희대 대법원장이 부친상을 치른 뒤 조문객들이 낸 조의금을 봉투째 돌려준 것으로 30일 뒤늦게 알려졌다. 외부 조문과 조의금을 사양했지만, 일부 조문객이 부의함에 봉투를…",
+   "summary_long": "조희대 대법원장이 29일 오후 서울 서초구 대법원에서 열린 전원합의체 선고기일에 참석하고 있다. 조희대 대법원장이 부친상을 치른 뒤 조문객들이 낸 조의금을 봉투째 돌려준 것으로 30일 뒤늦게 알려졌다. 외부 조문과 조의금을 사양했지만, 일부 조문객이 부의함에 봉투를 넣고 가자 비서관 등을 통해 반환했다는 것이다.\n\n대법원 등에 따르면 조 대법원장은 지난달 30일 부친 조부환씨가 93세 일기로 별세하자 가족들과 조용히 장례를 치르겠다며 부고를 외부에 알리지 말라고 당부했다. 대법원 관계자는 “조 대법원장이 이들이 낸 조의금을 장례 이후 비서관을 통해 봉투째 돌려줬다”고 했다. 조 대법원장은 지난 3일 출근길에 기자들과 만나 “저의 부친상에 위로를 보내주신 모든 분들께 깊이 감사드린다”며 “가족끼리 조촐하게 치르려 했는데 갑자기 요란스럽게 돼서 국민께 송구한 마음”이라고 했다.",
+   "quotes": [
+    "조 대법원장이 이들이 낸 조의금을 장례 이후 비서관을 통해 봉투째 돌려줬다",
+    "가족끼리 조촐하게 치르려 했는데 갑자기 요란스럽게 돼서 국민께 송구한 마음",
+    "저의 부친상에 위로를 보내주신 모든 분들께 깊이 감사드린다"
+   ],
+   "press": "조선일보",
+   "photo": "03.jpg",
+   "quoted": {
+    "quote": "가족끼리 조촐하게 치르려 했는데 갑자기 요란스럽게 돼서 국민께 송구한 마음",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "조선일보",
+      "title": "조희대, 부친상 조의금 봉투째 돌려줘… \"가족끼리 조용히 치르려 했다\"",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcGRfMG5admVPX3AyM2NpNGMwVVNSakp6RHpjMGNINGN4TWQzLWQ1NjBEellfQUFpaW1MYS1uc0pDWWxiQ09waXdFdHU4c0t5V2N4UHVPTGhFLUZrQlZvYllMd0ZYeXp5WWFrbUVBYS02ZEVoQXhtekcyc1BDUE9Za3gxM3BLOXc?oc=5"
+     },
+     {
+      "press": "TV조선뉴스",
+      "title": "조희대, 부친상 조의금 모두 봉투째 돌려줘…\"가족끼리 조용히 치르려 했다\"",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sOGpjdy10Yks1UEJFajZhdXBjUjRRcW1uc1N5dmJ4ajVwc0kwVXN5UHRBdy1NcjUwSUhxRE5zNWZaNjk3VjhHOWNmcHZWQnc3TmI0QkJWeE1sOTRHYTRmcTNRU21XT0R1S216Y1BuMGZsNHRqODB4a2xDcFlRM2M?oc=5"
+     },
+     {
+      "press": "문화일보",
+      "title": "부친상 조의금 ‘봉투째’ 돌려준 조희대 대법원장",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qV1NqWXU2VTIyb21IdVBkS3NlR3YzanFLSmtJNU9oSjRFRy1FczlOZXhkTlNDQk9rZFUxVkJhX0hxb2s3c2tlTzdXa3BfcFM0?oc=5"
+     },
+     {
+      "press": "뉴데일리",
+      "title": "\"조용히 치르겠다\"던 조희대 … 부친상 조의금 봉투째 돌려줬다",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUQ4OUE1aWMySUhNTDlycHhMaHhYWFBvcDNHNTZZY2ZHa19mWmxHdXFHYVlfZHZDUjJRUVZ5YW9iYlhITW4wZlpRcHM5c2VxYXM5Mm1CSG5uNllTTzFvU3FIZGtTbGp0WWZVU3B6cFB0NWh1a0ZTcnVsbmNTMGFRadIBgAFBVV95cUxPSUQ4OUE1aWMySUhNTDlycHhMaHhYWFBvcDNHNTZZY2ZHa19mWmxHdXFHYVlfZHZDUjJRUVZ5YW9iYlhITW4wZlpRcHM5c2VxYXM5Mm1CSG5uNllTTzFvU3FIZGtTbGp0WWZVU3B6cFB0NWh1a0ZTcnVsbmNTMGFRaQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "사회인 야구 이겼다고 병역특례?...다시 불붙은 적절성 논란 [앵커리포트]",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002412740",
+   "published_at": "2026-09-30T08:28:45+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "기쁨도 잠시, 병역특례 적절성 논란에 다시 불이 붙었습니다. 게다가 실제 경쟁 수준과 상관없이 올림픽 3위 이상, 아시안게임 1위라는 정해진 기준만 만족하면 되다 보니…",
+   "summary_long": "하지만 기쁨도 잠시, 병역특례 적절성 논란에 다시 불이 붙었습니다. 현행법상 올림픽 동메달 이상 또는 아시안게임 금메달 입상자는 체육요원으로 편입돼 현역병으로 복무하는 대신 선수 활동을 이어갈 수 있습니다. 그래서 국가 차원에서 선수들에게 동기를 부여하고 기량을 유지하게 할 목적으로 병역특례 제도를 도입했죠.\n\n하지만 냉전이 종식되고 우리나라의 국력이 강해지면서 병역특례가 계속 필요하냐는 지적이 나오기 시작했습니다. 지난 2022년에는, 국위 선양으로 치면 BTS만 한 사람들이 없는데, 이들은 왜 병역 혜택을 주지 않느냐는 목소리에 국회 국방위원회가 실제로 여론조사까지 해봤습니다. 게다가 실제 경쟁 수준과 상관없이 올림픽 3위 이상, 아시안게임 1위라는 정해진 기준만 만족하면 되다 보니, 경쟁 수준이 낮은 일부 종목이 병역 탈출구로 변질됐다는 비판도 꾸준히 제기돼 왔습니다.",
+   "press": "YTN",
+   "photo": "04.jpg"
+  },
+  {
+   "title": "한동훈, 김여정 ‘자작극’ 발언에 “적반하장…李, 北에 한마디도 못해”",
+   "source": "헤럴드경제",
+   "url": "https://n.news.naver.com/article/016/0002703609",
+   "published_at": "2026-09-30T11:02:24+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "comment_count": 597,
+   "comment_agree": 268,
+   "comment_disagree": 46,
+   "division_balance": 0.292994,
+   "division_score": 1.685467,
+   "selection": "찬반 쟁점",
+   "summary": "한동훈 무소속 의원이 30일 서부전선 비무장지대 지뢰 폭발 사고와 관련한 정부 대응을 비판하며 이재명 대통령이 북한에 보다 단호한 태도를 보여야 한다고 주장했다. 한…",
+   "summary_long": "군, 북한 지뢰 도발 가능성 언급. 한동훈 무소속 의원이 24일 용산구 국방부 앞에서 비무장지대(DMZ) 내 지뢰 추정 폭발사고 관련 즉각 조사를 촉구하는 1인시위를 하고 있다. 한동훈 무소속 의원이 30일 서부전선 비무장지대(DMZ) 지뢰 폭발 사고와 관련한 정부 대응을 비판하며 이재명 대통령이 북한에 보다 단호한 태도를 보여야 한다고 주장했다.\n\n특히 북한이 이번 사고를 ‘자작극’이라고 주장한 것을 두고 정부의 소극적인 대응이 북한의 ‘적반하장식’ 태도를 불러왔다고 지적했다. 한 의원은 이날 페이스북에서 “이재명 정권은 21일 지뢰공격 직후부터 어떻게든 ‘북한 지뢰공격이 아니거나 북한 지뢰공격임이 드러나지 않기를 바라는 듯한 소극적이고 수세적인 태도‘를 취했다”며 “북한 김여정 적반하장 입장이 나오기 전까지 이재명 대통령은 북한에 대해 한마디도 못했다“고 밝혔다. 이어 “그런 태도가 북한 정권이 마치 이재명 대통령 약점 잡은 듯이 적반하장으로 나올 수 있는 환경을 만들어 준 것”이라며 “대한민국이 공격당했습니다.",
+   "quotes": [
+    "이재명 대통령이 ‘대북송금을 받은 당사자 북한 김정은 정권’에 약점잡혔고, 그 아킬레스건 때문에 이재명 정권은 대북정책에서 국익에 반해 굴종적으로 흐르게 될 가능성이 크다는 것을 2025년 이재명 정권 출범 직후부터 우려해왔다",
+    "이재명 정권은 21일 지뢰공격 직후부터 어떻게든 ‘북한 지뢰공격이 아니거나 북한 지뢰공격임이 드러나지 않기를 바라는 듯한 소극적이고 수세적인 태도‘를 취했다",
+    "이번 사건은 도발시기와 수법에 있어서 10여년 전 세상을 소란하게 했던 ‘목함지뢰사건’을 그대로 방불케 하는 명백한 자작극"
+   ],
+   "press": "헤럴드경제",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "이재명 정권은 21일 지뢰공격 직후부터 어떻게든 ‘북한 지뢰공격이 아니거나 북한 지뢰공격임이 드러나지 않기를 바라는 듯한 소극적이고 수세적인 태도‘를 취했다",
+    "n": 6,
+    "verified": 0,
+    "items": [
      {
       "press": "다음뉴스",
-      "title": "李 “개혁 성공하려면 많은 국민 이해·동참 필요…사회 전반 ‘불가역적 개혁’ 소명 완수하겠다”",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yV3ViU2ZnaTRzOG51NDRWV2k4SGhnVHQ2WDcweW81UlB2Y19KU3ZOM0VrcHMtTGliczU2V3R6Q1VueFNZbFE?oc=5"
+      "title": "한동훈, 김여정 ‘자작극’ 발언에 “적반하장…李, 北에 한마디도 못해”",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nX1Q3dlRFNTBsWUVxbVp3aldnQjRqREJzLWtpamZJZDgwSm1kUVVHclRUMWViUTNCNHdrZVpYd0NwX1M3LTAxWkhENWFURlFTTFpQYg?oc=5"
      },
      {
-      "press": "연합인포맥스",
-      "title": "李대통령 \"저항 크다고 개혁 멈출 수 없어…세심하고 조용하게\" |",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKM1JGLTVMeUdTMXdJc0otYVJrdmxOZGJLdWVBSFlPNHcybTdpS3F0SktyRXFuUEJLT0dFb1ZIQmtDbTNrcWRxMXo2cGNkVmdtc2lYeXk5cXQyZlpZRXVzMnRtWGxxYkUyczd5RG5sT3F0dXJ6?oc=5"
+      "press": "국민일보",
+      "title": "한동훈 “대북송금 약점 잡힌 건 李 개인…대한민국 아니다”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53c3pKemVyUm9kaTlhU19KUUZKc1hnVFRWcW9FOHFtbU9fTHVxS20zNkhoc0NTRVFMTkVEb1NXNVkxUEVrbjkwUVVScDZMdUgyQWV2SW9mRW9RZmE0ZnpiY2d0RHBuSlhhMkVZcdIBbEFVX3lxTE53c3pKemVyUm9kaTlhU19KUUZKc1hnVFRWcW9FOHFtbU9fTHVxS20zNkhoc0NTRVFMTkVEb1NXNVkxUEVrbjkwUVVScDZMdUgyQWV2SW9mRW9RZmE0ZnpiY2d0RHBuSlhhMkVZcQ?oc=5"
      },
      {
-      "press": "한겨레",
-      "title": "이 대통령 “저항 크다고 멈출 수 없는 개혁…국민 이해·동참 필요”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tMm9hRUhhTjlQaXRSc1p1cEhEVkc3QzlsYkVYVXA5Wno0a2dmTFNycERnTHBER1FROXQyVExZWTk5anp2RGpRTXAtMUItTkNLV0kzcWxacHNZcktpTkw3VnpxQk92NUdhNGJV?oc=5"
+      "press": "매일신문",
+      "title": "DMZ 지뢰 사고에 `대북송금` 소환한 한동훈…`약점 잡힌 건 李대통령 개인`",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xSVBoNVhGTUdoVkE5aVQ3WDgtTVdDV0xwNTd5dV9QVGFGRU9QaGlkcTJ1QnUyWlRBU0RTaGVNQlJaa2NaVlJ0N0h1bmVIU0xxY2Q1azNKa0d6X3QwQ29DQkVR?oc=5"
      },
      {
-      "press": "프라임경제",
-      "title": "李 \"저항·반발 크다고 개혁 멈출 수 없어\"",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCVEdVcUF0Q3pfTkUwa3VHaU1xV1BzVENYZVpKd0tSNEFHemlEV0xsZHJjeDRVZ2hZUno1Q1ZrSV9ZZEx5dm5mNXk3cl84Z3dDWElXU2pITDRsRENjelpMemlXQVdEZW13aF9TN3E0SXljUQ?oc=5"
+      "press": "데일리안",
+      "title": "한동훈, 北김여정 지뢰 부인에 \"李정부가 적반하장 환경 만들어준 것\"",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOSEYwRFVVd2VvNXVDSmlmMGdHcEFiUmt0SlMyYjNEamI1UVAtN2tTTlV4dlhsTVRBS2g1N3JTQVZjekRUalk5VE1kQjRjV1lFMVRjOVZXY1VEckp5YmxhUGlBeDl0OVFRcExNVjYyeGtHQ09IdFMxQ1Y4OEFMaHZsaUNWb0dXdS1WNklQVUFOLURLeTVVNXhJblkxYzN3Q01QSTZqWGtkQi05TXVHSk5qOXZGdkp4TzdaZWVVLTdIcVk1TTFOaHZfVXVkU05UenNKcjNGMXFqWDdVYXVoQ2N4NmRHZmFrZ3EtUjYzVGQwOFdvazhrODBMUDZfZnhFNGpFTngyRUt2QUJGZG9sUVctVHlVdEVjOENG?oc=5"
      },
      {
-      "press": "경남열린신문",
-      "title": "이재명 대통령 \"개혁은 정부의 존재 이유…말 아닌 행동으로 평가 받을 것\" |",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OZVRYVXdSX1dmUzZFckp5endra1oyM21OT1BaX3lubzdCcDMxbVpKeTR2MVRHdng0RjBueXNHSlNyUU5pUGdNbkVZX3FzbnhFSkVEYTNQN3JDZWZ3VVM4WjVsREFTZmJZa3kwamMtci1DVzVQ?oc=5"
+      "press": "gukjenews.com",
+      "title": "한동훈 \"정부, 지뢰공격 대응 소극·수세적\"",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV3hoQkw5OFVtRDVQdmVxZzFLaHM4Q3RWMWxLUUUzbXl4bG9mWUhsaVpUYVBhOS1yTkI4ZXluMjNicFpPejJTd1NRMWV0Nms1RjFPdDcwWmlxalBHaE1SS1RtRE1McktSOXdFbFlR?oc=5"
+     },
+     {
+      "press": "위키트리",
+      "title": "김여정 “자작극” 담화 직후… 한동훈 “약점 잡힌 건 이재명 개인”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52S3ctYVFpOVJITDc1Q1J4ckRvSDJSdW5FZ3hhdElvZ0RmLUJrREJyZ19fOHNQbVBvdzNNVm5LV3VseGJDNUU0cmh2RVBxLTdFWHVPS0Zn?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "'암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치",
+   "source": "오마이뉴스",
+   "url": "https://n.news.naver.com/article/047/0002530705",
+   "published_at": "2026-09-30T09:36:10+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "comment_count": 116,
+   "comment_agree": 136,
+   "comment_disagree": 23,
+   "division_balance": 0.289308,
+   "division_score": 1.468289,
+   "selection": "찬반 쟁점",
+   "summary": "주진우 의원은 영화 제작사 하이브미디어코프에 대한 중국계 자본의 투자 가능성을 문제 삼았다. 회사는 \"당사 및 영화 <암살자>의 제작과 투자 과정에 중국 자본이 유입된…",
+   "summary_long": "9월 28일, 국민의힘 의원들은 영화 <암살자(들)>이 육영수 여사 피격 사건을 왜곡했다며 잇달아 기자회견과 방송에 나섰다. 작품에 중국계 자본 400억 원이 들어갔다는 주장과 네이버 평점이 조작됐다는 의혹이 제기됐고, 허진호 감독을 국정감사에 부르자는 요구도 나왔다. 주진우 의원은 영화 제작사 하이브미디어코프에 대한 중국계 자본의 투자 가능성을 문제 삼았다.\n\n그러나 현재 확인되는 400억 원은 영화에 직접 투자한 금액이 아니라 제작사 하이브미디어코프에 대한 투자 추진 규모다. 회사는 \"당사 및 영화 <암살자(들)>의 제작과 투자 과정에 중국 자본이 유입된 사실은 전혀 없다\"고 밝혔다. 제작사에 대한 외국계 투자 추진만으로 영화에 대한 자본의 영향까지 단정하기도 어렵다.",
+   "quotes": [
+    "참고인이 나름대로 해명하는 것을 죄인 다루듯이 하는 것은 국회의원의 품위를 떨어뜨리는 것",
+    "당사 및 영화 <암살자(들)>의 제작과 투자 과정에 중국 자본이 유입된 사실은 전혀 없다",
+    "중신그룹이라고 하면 전부 다 중국 공산당의 지시를 받고 지휘를 받는 곳들"
+   ],
+   "press": "오마이뉴스",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "당사 및 영화 <암살자(들)>의 제작과 투자 과정에 중국 자본이 유입된 사실은 전혀 없다",
+    "n": 8,
+    "verified": 0,
+    "items": [
+     {
+      "press": "OhmyNews",
+      "title": "'암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDUllWMnRhRk1OZm12NzU2Z1AzQWFpTm9LY25GQllLQ1J3Y2dEVTRsVUZka0dnX2d6NV9aVy1PUEQ3RWNFWjB1Y29mWlVQZXl0SFJ0UVVmMDdHakJlRDZicDloV1kxeGV2OGJBdFc3WG82SHhyOG1R?oc=5"
+     },
+     {
+      "press": "미디어오늘",
+      "title": "‘암살자(들)’ 제작사 “제작과 투자 과정에 중국 자본 유입 전혀 없다”",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KUXlmVEM2cUNZMnFYR0p5a283cFhjckp3T1hjZHQyNUZpNkVDWEJteGhMd1FNbUpWb1hSZi1sMkg5cFdwcms4Z3lSa3NHdWhrME1JdnZqVjVvYWlYVjBvTDZMdC0wN0pHbzBCbHN0akU?oc=5"
+     },
+     {
+      "press": "경기일보",
+      "title": "‘암살자(들)’ 中자본 의혹에 제작사 “전혀 사실 아냐…국내 자본 제작”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IYk5PcTJET3poVWtBNmlYYk53WjJQenJTb1kwNTNKdm45RU1nMXpOSk1HdkRORm1TRjhvRTBRekprMmo1VklTNVVsdVhNeTdrSmxFN3d5XzNyNVE?oc=5"
+     },
+     {
+      "press": "미주중앙일보",
+      "title": "‘암살자(들)’ 제작사, 中 자본 유입설 부인…“전혀 사실 아니다”",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tY2tIOTFEMmxmdy1kQVItbjU5VmJaT2V1dTktMVh5ZGhmRnIyMVZUbDFzRWdFUU5WV2J6N0tTRHlFSTd6dlVraVBVblVEcC1OUmtxeG5lSElOM3RaT3FxOVhB?oc=5"
+     },
+     {
+      "press": "뉴스1",
+      "title": "'암살자(들)' 中 자본유입설에 \"전혀 없다…사실과 다른 정보 재생산 않길\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tMDFLZVB4UkxRNklIcFBfT2FKdU56bkRXUDdnRG82ZHgtdi1HVlF2MXpQMEwwcDd3QjByZzVxdk9EWS11cmtGZWJDbWh5eXNSeXg5dzRhOHFIQ1FRQUplR1FjVGdBaXVMWmfSAW9BVV95cUxNaVpFbHJoTjJmUV9aUFNnS1FVUks0OFJCZXZNcGltdjZKbkYtUjcxX1pVbE9BcnZzblFqTmg1S3h1a1NzRzMxTkQ5ZzFSQ256RkR1ZTZ4LWN2QjI4QzA4ZTRnZGpPT1ZRcEJOX1dOdjA?oc=5"
+     },
+     {
+      "press": "여성신문",
+      "title": "영화 ‘암살자(들)’ 둘러싼 루머 확산에... 제작진 “사실 무근”",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DcG9zamtBQ1Mza1Q5SVNNLWw1TThTWG1SRWZXc29SYzFjcm01b1BlUkJXd29UdlVZelhTc3BFX0xTWHA2Q1g5SkUwNWhUR1g3MzlDOFFCNVBHNXVfNFZKbzdidE90aDZtQ2dPYllKc3M?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "김여정 \"서울의 자작 광대극…총탄 한발이라도 떨어지면 가차 없는 보복\"",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000513339",
+   "published_at": "2026-09-30T06:17:58+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 347,
+   "comment_agree": 175,
+   "comment_disagree": 28,
+   "division_balance": 0.275862,
+   "division_score": 1.467068,
+   "selection": "찬반 쟁점",
+   "summary": "\"지난 9월 21일 문제의 지뢰폭발이 일어난 그때 벌써 우리는 서울의 연출대본에 대하여 예상하였으며 한국군부 깡패들이펴고 있는 모략극의 저의도 간파했다\"며 \"결론부터…",
+   "summary_long": "오늘(30일) 조선중앙통신에 따르면 김 총무부장은 어제(29일) 발표한 담화에서 \"한국 무장깡패들이 남부국경선 일대에서 발생한 지뢰폭발 사건과 관련해 그 무슨 조사결과라는 것을 발표하면서 우리를 또다시 걸고 드는도발 행위를 감행했다\"며 \"한국 족속들답게 극작법이 너무나 저급하고 저열하다\"고 말했습니다. 이어 \"지난 9월 21일 문제의 지뢰폭발이 일어난 그때 벌써 우리는 서울의 연출대본에 대하여 예상하였으며 한국군부 깡패들이펴고 있는 모략극의 저의도 간파했다\"며 \"결론부터 말한다면 이번 사건은 도발 시기와 수법에 있어서 10여년 전 세상을 소란하게 했던 '목함지뢰 사건'을 그대로 방불케 하는 명백한 자… 또 김 총무부장은 \"세상이다 알다시피 우리 군대는 두 해 전부터 국경 강화사업의일환으로남부국경 일대에서차단물공사를 진행하고 있으며 이는 그 어떤 군사적 목적과는 무관한 철저한 주권행사일 뿐\"이라면서 \"한국군부가 떠들어대고 있는 우리 군인들의 월선이라는 것은 정세 격화의 책임을 우리에게 넘겨씌워 보려는…\n\n한국군부는 육안으로도 확인할 수 있는 경계선 하나 제대로 판별하지 못해 자기 땅, 남의 땅도 분간하지 못하는 저들의 저능을 두고 세상이 무엇이라고 하겠는가 생각해보아야 한다\"고 했습니다. 아울러 \"만약 남부국경영구화공사를 진행하는 우리 군인들을 향해 한국군 깡패들이 경고사격이 아닌 실지사격을 가해온다면 우리 국경부대들은 즉시적이고가차 없는 보복을 가할 것\"이라며 \"이미 그에 대한 대응 행동지침은 국경선방어구분대들에 하달된 상태고 최근 도발이 잦은 한국군 3군단 21보병사단 비무장 지대… 끝으로 김 총무부장은 \"다시 한번 분명히 하지만 국경 지역에서 우리에 대한 악의적인 트집과 도발의 빈도수가 잦아지고 그것이 실제적인 우리의 영토와 군사주권에 대한 침해로 이어진다면 불량배 무리들은여직 체험해보지 못한 상황을 마주해야 할 것\"이라며 \"서울의 자작 광대극의 극적 절정은 결코 재미가 없을 것…",
+   "quotes": [
+    "다시 한번 분명히 하지만 국경 지역에서 우리에 대한 악의적인 트집과 도발의 빈도수가 잦아지고 그것이 실제적인 우리의 영토와 군사주권에 대한 침해로 이어진다면 불량배 무리들은여직 체험해보지 못한 상황을 마주해야 할 것",
+    "이것은 명백히 트집 잡기이고 도발이다. 한국군부는 육안으로도 확인할 수 있는 경계선 하나 제대로 판별하지 못해 자기 땅, 남의 땅도 분간하지 못하는 저들의 저능을 두고 세상이 무엇이라고 하겠는가 생각해보아야 한다",
+    "이미 그에 대한 대응 행동지침은 국경선방어구분대들에 하달된 상태고 최근 도발이 잦은 한국군 3군단 21보병사단 비무장 지대 방향에 우리 군대는 전술적 반격수단을 증강하는 조치를 취하기로 했다"
+   ],
+   "press": "JTBC",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "다시 한번 분명히 하지만 국경 지역에서 우리에 대한 악의적인 트집과 도발의 빈도수가 잦아지고 그것이 실제적인 우리의 영토와 군사주권에 대한 침해로 이어진다면 불량배 무리들은여직 체험해보지 못한 상황을 마주해야 할 것",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "다음뉴스",
+      "title": "김여정 \"서울의 자작 광대극…총탄 한발이라도 떨어지면 가차 없는 보복\"",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRdkFsU1ZxMTRhZ3VJdWZJODV6ZU15SDhBRWw3YnV2TlIzeFRxVTJNZmYyV1hfUG5ySWpSMlBhWWRFblJHSUE?oc=5"
+     },
+     {
+      "press": "현장언론 민플러스",
+      "title": "김여정 부장 담화, “DMZ 지뢰사고는 자작극”…도발 잦은 21사단 방향 ‘반격수단’ 증강",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LcENiM3h6aVl3MHRUdEF1MjRBTm5DRWR4RWZxYmFrdFNGY1l6ZDlEZFN2OUw5XzdRMGItV0h3Nl9CYnpHVlB5cy1IdDBSazE0LXpHN2xmcWNydU9mSzRXU0V1WU0yTlhIOFFsLVpB?oc=5"
+     },
+     {
+      "press": "통일뉴스",
+      "title": "김여정, 'DMZ 북한군 매설 지뢰폭발사고설'은 '명백한 자작극'",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvMHJ0YUJ6ZWZMWFk5cWgtWXliWkw0Y1FEbFFkSF95dGNhMzloYWNrRjBRUU1DMUZmQjVGcW9nNThvQ0FMMThlNzdmSlBZaVlad2Z3ZlJuRUR6SFhxN2YwTEVmWE5wNHVlMUttbDVB?oc=5"
+     },
+     {
+      "press": "뉴스핌",
+      "title": "[전문] DMZ 지뢰폭발 관련 北 김여정 '발뺌' 담화",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zLUNTS09TZWU0VlBCNGVfUVBpNnR0ckI1WUVMdzl4cm9hNzlVMV9BRGJ3NWN0TjhJTW9DcW9RMXQ3RjhsVzBON2dlT2tFaTRfRGoxUk9OWlhTREgt?oc=5"
      }
     ]
    }
@@ -362,139 +326,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/01.png",
-   "pngBytes": 1758499,
-   "feed": "오늘의 뉴스 2026-09-30\n\n· 김상욱 울산시장 재산, 반년 새 31억 늘어 50억\n· [단독] 北포로 1명은 귀순 거부, 우크라는 무기 요청… 끝까지 설득했다\n· “잘못한게 없잖아요 제가” 한강공원서 흉기 들고 행인들 위협하며 카페 내부 진입까지 시도한 40대 구속심사\n· 엔비디아, AI 호황에 1500억달러 자사주 추가 매입…역대 최대\n· \"대통령 모시고 식사 중인데\"…송영길, 생방송 전화 끊어버린 이유는\n· “좌파 진지 청소하고 자유민주주의 지켜낼 것”···국힘, 영화 ‘암살자(들)’ 연일 맹비난\n· 이 대통령 \"저항·반발에도 개혁 멈추지 않을 것‥결과로 책임\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/01.png",
+   "pngBytes": 1892483,
+   "feed": "오늘의 뉴스 2026-10-01\n\n· [속보] \"대박터져\" 박지원의 예언?…'암살자(들)' 하루만에 '박스오피스' 1위 재탈환\n· 李 30%대 지지율에 부담 느꼈나… 與, ‘조작기소 특검법’ 처리 미루기로\n· 조희대, 부친상 조의금 봉투째 돌려줘… “가족끼리 조용히 치르려 했다”\n· 사회인 야구 이겼다고 병역특례?...다시 불붙은 적절성 논란 [앵커리포트]\n· 한동훈, 김여정 ‘자작극’ 발언에 “적반하장…李, 北에 한마디도 못해”\n· '암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치\n· 김여정 \"서울의 자작 광대극…총탄 한발이라도 떨어지면 가차 없는 보복\""
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/02.png",
-   "pngBytes": 1751379,
-   "title": "김상욱 울산시장 재산, 반년 새 31억 늘어 50억",
-   "summary": "정부공직자윤리위원회가 이날 공개한 공직자 수시 재산 공개 자료에 따르면, 김 시장은 7~8월 기준 재산이 50억2459만원 있다고 신고했다. 오 시장은 서울 강남구…",
-   "summary_long": "김상욱 울산시장의 재산이 지난해 말 19억원에서 올해 6·3 지방선거 직후 50억원으로 반년 새 31억원 늘어난 것으로 나타났다. 정부공직자윤리위원회가 이날 공개한 공직자 수시 재산 공개 자료에 따르면, 김 시장은 7~8월 기준 재산이 50억2459만원 있다고 신고했다. 김 시장이 신고한 재산은 김 시장이 국회의원이었던 지난해 말 기준 19억4541만원이었고, 6·3 지방선거 울산시장 선거 출마를 위해 의원에서 사임한 올해 4월 말 기준 37억5850만원으로, 4개월 새 18억1308만원 늘었다.\n\n김 시장은 4월 말보다 재산이 12억6608만원 더 늘었다고 신고했는데, 증가분 대부분(12억1847만원)은 예금이 추가로 늘어난 것이었다. 오 시장은 서울 강남구 대치동 194.24㎡(약 59평) 다세대주택 25억8400만원, 예금 17억9260만원 등 총 72억8960만원을 갖고 있다고 신고했다. 박지영 사법제도비서관은 서울 서초구 반포동 165.45㎡(약 50평) 아파트 45억8000만원, 예금 28억5784만원, 증권 24억440만원 등 총 92억1772만원을 갖고 있다고 신고했다.",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004000837",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/02.png",
+   "pngBytes": 1881272,
+   "title": "[속보] \"대박터져\" 박지원의 예언?…'암살자(들)' 하루만에 '박스오피스' 1위 재탈환",
+   "summary": "국민의힘이 연일 '역사 왜곡' 공세를 펴고 있는 영화 '암살자'이 하루 만에 다시 박스오피스 1위 자리를 탈환했다. 30일 영화관입장권 통합전산망에 따르면 '암살자'은…",
+   "summary_long": "국민의힘이 연일 '역사 왜곡' 공세를 펴고 있는 영화 '암살자(들)'이 하루 만에 다시 박스오피스 1위 자리를 탈환했다. 30일 영화관입장권 통합전산망에 따르면 '암살자(들)'은 지난 29일 하루 동안 6만1464명의 관객을 모아 박스오피스 1위를 탈환했다. 그러나 이를 두고 국민의힘 일부 인사들이 \"역사 왜곡\"이라며 반발하는 등 정치권에서 논란이 일고 있다.\n\n정점식 국민의힘 원내대표는 \"역사왜곡 영화 암살자(들)에 대한 논란이 커지고 있다. 국회 문화체육관광위원회에서는 국민의힘 간사인 조은희 의원이 '암살자(들)'을 연출한 허진호 감독을 국정감사 증인 또는 참고인으로 채택하자고 요구했고, 전직 국민의힘 서울시의원은 허 감독 등 제작진을 명예훼손 혐의로 경찰에 고발하기도 했다. 반면 민주당 박지원 의원은 이에 대해 \"'암살자(들)' 역시 논픽션이 아닌 픽션 극영화\"라며 \"국회에서까지 떠들어주니 오히려 홍보가 잘되겠다.",
+   "press": "프레시안",
+   "source": "프레시안",
+   "link": "https://n.news.naver.com/article/002/0002458795",
    "selection": "정치",
-   "feed": "뉴스 01. 김상욱 울산시장 재산, 반년 새 31억 늘어 50억\n\n김상욱 울산시장의 재산이 지난해 말 19억원에서 올해 6·3 지방선거 직후 50억원으로 반년 새 31억원 늘어난 것으로 나타났다. 정부공직자윤리위원회가 이날 공개한 공직자 수시 재산 공개 자료에 따르면, 김 시장은 7~8월 기준 재산이 50억2459만원 있다고 신고했다. 김 시장이 신고한 재산은 김 시장이 국회의원이었던 지난해 말 기준 19억4541만원이었고, 6·3 지방선거 울산시장 선거 출마를 위해 의원에서 사임한 올해 4월 말 기준 37억5850만원으로, 4개월 새 18억1308만원 늘었다.\n\n김 시장은 4월 말보다 재산이 12억6608만원 더 늘었다고 신고했는데, 증가분 대부분(12억1847만원)은 예금이 추가로 늘어난 것이었다. 오 시장은 서울 강남구 대치동 194.24㎡(약 59평) 다세대주택 25억8400만원, 예금 17억9260만원 등 총 72억8960만원을 갖고 있다고 신고했다. 박지영 사법제도비서관은 서울 서초구 반포동 165.45㎡(약 50평) 아파트 45억8000만원, 예금 28억5784만원, 증권 24억440만원 등 총 92억1772만원을 갖고 있다고 신고했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004000837"
+   "feed": "뉴스 01. [속보] \"대박터져\" 박지원의 예언?…'암살자(들)' 하루만에 '박스오피스' 1위 재탈환\n\n국민의힘이 연일 '역사 왜곡' 공세를 펴고 있는 영화 '암살자(들)'이 하루 만에 다시 박스오피스 1위 자리를 탈환했다. 30일 영화관입장권 통합전산망에 따르면 '암살자(들)'은 지난 29일 하루 동안 6만1464명의 관객을 모아 박스오피스 1위를 탈환했다. 그러나 이를 두고 국민의힘 일부 인사들이 \"역사 왜곡\"이라며 반발하는 등 정치권에서 논란이 일고 있다.\n\n정점식 국민의힘 원내대표는 \"역사왜곡 영화 암살자(들)에 대한 논란이 커지고 있다. 국회 문화체육관광위원회에서는 국민의힘 간사인 조은희 의원이 '암살자(들)'을 연출한 허진호 감독을 국정감사 증인 또는 참고인으로 채택하자고 요구했고, 전직 국민의힘 서울시의원은 허 감독 등 제작진을 명예훼손 혐의로 경찰에 고발하기도 했다. 반면 민주당 박지원 의원은 이에 대해 \"'암살자(들)' 역시 논픽션이 아닌 픽션 극영화\"라며 \"국회에서까지 떠들어주니 오히려 홍보가 잘되겠다.\n\n출처: 프레시안 / https://n.news.naver.com/article/002/0002458795"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/03.png",
-   "pngBytes": 2055098,
-   "title": "[단독] 北포로 1명은 귀순 거부, 우크라는 무기 요청… 끝까지 설득했다",
-   "summary": "우리 정부는 북한군 포로의 국내 송환을 위해 수차례 현지를 방문하며 치열한 물밑 작업을 벌인 것으로 파악됐다. 현지를 수차례 방문해 귀순 의사가 없었던 포로 1명을…",
-   "summary_long": "지난해 1월 러시아 서부 쿠르스크 지역에서 우크라이나군에 생포된 북한군 병사 2명과 이들의 한국 송환 사실을 공개한 볼로디미르 젤렌스키 우크라이나 대통령(왼쪽부터). 우리 정부는 북한군 포로의 국내 송환을 위해 수차례 현지를 방문하며 치열한 물밑 작업을 벌인 것으로 파악됐다. 젤렌스키 대통령 엑스 캡처, 연합뉴스 우크라이나에 생포된 북한군 포로들이 1년8개월 만에 한국땅을 밟는 데는 정부의 치열한 물밑 작업이 있었던 것으로 파악됐다.\n\n현지를 수차례 방문해 귀순 의사가 없었던 포로 1명을 장기간 설득했고, 송환 의사가 없었던 우크라이나 정부를 상대로도 치열한 외교전을 펼쳐야 했다. 우크라이나 측은 북한군 포로 송환을 자국에 대한 무기 지원의 레버리지로 활용하려 했던 것으로 전해졌다. 볼로디미르 젤렌스키 우크라이나 대통령이 지난 23일 북한군 포로 송환 사실을 공개한 이후 양국이 ‘비공개 합의’를 두고 진실게임을 벌이는 배경에는 이 같은 장기간 설득 과정에서 벌어진 다각도의 외교 논의가 영향을 끼친 것이라는 해석도 나온다.",
-   "press": "국민일보",
-   "source": "국민일보",
-   "link": "https://n.news.naver.com/article/005/0001875491",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/03.png",
+   "pngBytes": 2055303,
+   "title": "李 30%대 지지율에 부담 느꼈나… 與, ‘조작기소 특검법’ 처리 미루기로",
+   "summary": "더불어민주당이 다음 달 1일 국회 본회의에서 이재명 대통령 사건의 조작 기소 여부를 가릴 ‘조작기소 특검법’을 처리하려 했다가 10월 국정감사 이후로 미루기로 결정했다.…",
+   "summary_long": "더불어민주당이 다음 달 1일 국회 본회의에서 이재명 대통령 사건의 조작 기소 여부를 가릴 ‘조작기소 특검법’을 처리하려 했다가 10월 국정감사 이후로 미루기로 결정했다. 그러나 여권 안팎에선 “대통령 지지율이 30%대까지 하락한 상황에서 공소취소용으로 의심받고 있는 특검법을 처리하는 건 무리라는 데에 청와대와 여당 지도부가 공감대를 이룬 결과”라는 말이 나왔다. 민주당은 이날 의원총회를 열고 조작기소 특검법 처리 여부를 논의했다.\n\n이후 전은수 원내대변인은 기자들과 만나 “조작기소 특검법의 필요성에는 공감했지만, 시기에 대해선 당내 여론을 수렴해 10월 국정감사 이후에 정하기로 했다”며 “이번 국감의 목표가 민생 올인이어서 이를 절실하게 나타내기 위함”이라고 밝혔다. 이후 이 대통령은 지난 18일 기자회견에서 공소취소 권한을 삭제한 특검법의 필요성을 언급했고 민주당은 이르면 10월 1일 특검법 처리를 시도할 예정이었다. 특히 조정식 국회의장 측은 쟁점 법안 처리를 앞두고 여야 간 갈등이 격해진다는 점을 들어 민주당에 특검법 처리를 미루자는 의견을 전달했다고 한다.",
+   "press": "조선일보",
+   "source": "조선일보",
+   "link": "https://n.news.naver.com/article/023/0004001196",
    "selection": "정치",
-   "feed": "뉴스 02. [단독] 北포로 1명은 귀순 거부, 우크라는 무기 요청… 끝까지 설득했다\n\n지난해 1월 러시아 서부 쿠르스크 지역에서 우크라이나군에 생포된 북한군 병사 2명과 이들의 한국 송환 사실을 공개한 볼로디미르 젤렌스키 우크라이나 대통령(왼쪽부터). 우리 정부는 북한군 포로의 국내 송환을 위해 수차례 현지를 방문하며 치열한 물밑 작업을 벌인 것으로 파악됐다. 젤렌스키 대통령 엑스 캡처, 연합뉴스 우크라이나에 생포된 북한군 포로들이 1년8개월 만에 한국땅을 밟는 데는 정부의 치열한 물밑 작업이 있었던 것으로 파악됐다.\n\n현지를 수차례 방문해 귀순 의사가 없었던 포로 1명을 장기간 설득했고, 송환 의사가 없었던 우크라이나 정부를 상대로도 치열한 외교전을 펼쳐야 했다. 우크라이나 측은 북한군 포로 송환을 자국에 대한 무기 지원의 레버리지로 활용하려 했던 것으로 전해졌다. 볼로디미르 젤렌스키 우크라이나 대통령이 지난 23일 북한군 포로 송환 사실을 공개한 이후 양국이 ‘비공개 합의’를 두고 진실게임을 벌이는 배경에는 이 같은 장기간 설득 과정에서 벌어진 다각도의 외교 논의가 영향을 끼친 것이라는 해석도 나온다.\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001875491"
+   "feed": "뉴스 02. 李 30%대 지지율에 부담 느꼈나… 與, ‘조작기소 특검법’ 처리 미루기로\n\n더불어민주당이 다음 달 1일 국회 본회의에서 이재명 대통령 사건의 조작 기소 여부를 가릴 ‘조작기소 특검법’을 처리하려 했다가 10월 국정감사 이후로 미루기로 결정했다. 그러나 여권 안팎에선 “대통령 지지율이 30%대까지 하락한 상황에서 공소취소용으로 의심받고 있는 특검법을 처리하는 건 무리라는 데에 청와대와 여당 지도부가 공감대를 이룬 결과”라는 말이 나왔다. 민주당은 이날 의원총회를 열고 조작기소 특검법 처리 여부를 논의했다.\n\n이후 전은수 원내대변인은 기자들과 만나 “조작기소 특검법의 필요성에는 공감했지만, 시기에 대해선 당내 여론을 수렴해 10월 국정감사 이후에 정하기로 했다”며 “이번 국감의 목표가 민생 올인이어서 이를 절실하게 나타내기 위함”이라고 밝혔다. 이후 이 대통령은 지난 18일 기자회견에서 공소취소 권한을 삭제한 특검법의 필요성을 언급했고 민주당은 이르면 10월 1일 특검법 처리를 시도할 예정이었다. 특히 조정식 국회의장 측은 쟁점 법안 처리를 앞두고 여야 간 갈등이 격해진다는 점을 들어 민주당에 특검법 처리를 미루자는 의견을 전달했다고 한다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004001196"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/04.png",
-   "pngBytes": 2438732,
-   "title": "“잘못한게 없잖아요 제가” 한강공원서 흉기 들고 행인들 위협하며 카페 내부 진입까지 시도한 40대 구속심사",
-   "summary": "경찰에 따르면 천씨는 지난 27일 오후 3시45분께 영등포구 양화한강공원 인근에서 흉기를 들고 행인들을 위협한 혐의를 받는다. 천씨는 지난 27일 오후 3시45분께…",
-   "summary_long": "한강공원 인근에서 행인들을 향해 흉기를 들고 위협한 것은 물론, 이를 피하기 위해 카페로 피신한 사람들까지 공격하기 위해 내부 진입을 시도한 40대 남성이 구속 갈림길에 섰다. 서울남부지법 김지현 영장전담 부장판사는 29일 오전 10시 30분부터 공공장소흉기소지 혐의를 받는 천모씨에 대한 구속 전 피의자 심문(영장실질심사)을 열었다. 이날 오전 9시 53분께 검은 모자를 쓰고 법원에 출석한 천씨는 ‘행인들을 위협한 이유가 뭐냐’, ‘카페에 들어간 이유가 있냐’는 취재진 질문에 “잘못한 게 없잖아요 제가”라고 말했다.\n\n천씨는 흉기를 든 채 카페에 들어오려고 시도했으나 카페 점주가 문과 창문을 잠그고 경찰에 즉각 신고해 피해를 막을 수 있었다. ◇공공장소흉기소지 혐의를 받는 천모 씨가 29일 서울 양천구 남부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 천씨는 지난 27일 오후 3시45분께 영등포구 양화한강공원 인근에서 흉기를 들고 행인들을 위협한 혐의를 받는다.",
-   "press": "강원일보",
-   "source": "강원일보",
-   "link": "https://n.news.naver.com/article/087/0001220904",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/04.png",
+   "pngBytes": 1760907,
+   "title": "조희대, 부친상 조의금 봉투째 돌려줘… “가족끼리 조용히 치르려 했다”",
+   "summary": "조희대 대법원장이 부친상을 치른 뒤 조문객들이 낸 조의금을 봉투째 돌려준 것으로 30일 뒤늦게 알려졌다. 외부 조문과 조의금을 사양했지만, 일부 조문객이 부의함에 봉투를…",
+   "summary_long": "조희대 대법원장이 29일 오후 서울 서초구 대법원에서 열린 전원합의체 선고기일에 참석하고 있다. 조희대 대법원장이 부친상을 치른 뒤 조문객들이 낸 조의금을 봉투째 돌려준 것으로 30일 뒤늦게 알려졌다. 외부 조문과 조의금을 사양했지만, 일부 조문객이 부의함에 봉투를 넣고 가자 비서관 등을 통해 반환했다는 것이다.\n\n대법원 등에 따르면 조 대법원장은 지난달 30일 부친 조부환씨가 93세 일기로 별세하자 가족들과 조용히 장례를 치르겠다며 부고를 외부에 알리지 말라고 당부했다. 대법원 관계자는 “조 대법원장이 이들이 낸 조의금을 장례 이후 비서관을 통해 봉투째 돌려줬다”고 했다. 조 대법원장은 지난 3일 출근길에 기자들과 만나 “저의 부친상에 위로를 보내주신 모든 분들께 깊이 감사드린다”며 “가족끼리 조촐하게 치르려 했는데 갑자기 요란스럽게 돼서 국민께 송구한 마음”이라고 했다.",
+   "press": "조선일보",
+   "source": "조선일보",
+   "link": "https://n.news.naver.com/article/023/0004001290",
    "selection": "경제·시사",
-   "feed": "뉴스 03. “잘못한게 없잖아요 제가” 한강공원서 흉기 들고 행인들 위협하며 카페 내부 진입까지 시도한 40대 구속심사\n\n한강공원 인근에서 행인들을 향해 흉기를 들고 위협한 것은 물론, 이를 피하기 위해 카페로 피신한 사람들까지 공격하기 위해 내부 진입을 시도한 40대 남성이 구속 갈림길에 섰다. 서울남부지법 김지현 영장전담 부장판사는 29일 오전 10시 30분부터 공공장소흉기소지 혐의를 받는 천모씨에 대한 구속 전 피의자 심문(영장실질심사)을 열었다. 이날 오전 9시 53분께 검은 모자를 쓰고 법원에 출석한 천씨는 ‘행인들을 위협한 이유가 뭐냐’, ‘카페에 들어간 이유가 있냐’는 취재진 질문에 “잘못한 게 없잖아요 제가”라고 말했다.\n\n천씨는 흉기를 든 채 카페에 들어오려고 시도했으나 카페 점주가 문과 창문을 잠그고 경찰에 즉각 신고해 피해를 막을 수 있었다. ◇공공장소흉기소지 혐의를 받는 천모 씨가 29일 서울 양천구 남부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 천씨는 지난 27일 오후 3시45분께 영등포구 양화한강공원 인근에서 흉기를 들고 행인들을 위협한 혐의를 받는다.\n\n출처: 강원일보 / https://n.news.naver.com/article/087/0001220904"
+   "feed": "뉴스 03. 조희대, 부친상 조의금 봉투째 돌려줘… “가족끼리 조용히 치르려 했다”\n\n조희대 대법원장이 29일 오후 서울 서초구 대법원에서 열린 전원합의체 선고기일에 참석하고 있다. 조희대 대법원장이 부친상을 치른 뒤 조문객들이 낸 조의금을 봉투째 돌려준 것으로 30일 뒤늦게 알려졌다. 외부 조문과 조의금을 사양했지만, 일부 조문객이 부의함에 봉투를 넣고 가자 비서관 등을 통해 반환했다는 것이다.\n\n대법원 등에 따르면 조 대법원장은 지난달 30일 부친 조부환씨가 93세 일기로 별세하자 가족들과 조용히 장례를 치르겠다며 부고를 외부에 알리지 말라고 당부했다. 대법원 관계자는 “조 대법원장이 이들이 낸 조의금을 장례 이후 비서관을 통해 봉투째 돌려줬다”고 했다. 조 대법원장은 지난 3일 출근길에 기자들과 만나 “저의 부친상에 위로를 보내주신 모든 분들께 깊이 감사드린다”며 “가족끼리 조촐하게 치르려 했는데 갑자기 요란스럽게 돼서 국민께 송구한 마음”이라고 했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004001290"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/05.png",
-   "pngBytes": 1988297,
-   "title": "엔비디아, AI 호황에 1500억달러 자사주 추가 매입…역대 최대",
-   "summary": "미국 반도체업체 엔비디아가 사상 최대 규모인 1500억달러의 자사주 매입을 승인했다. 젠슨 황 엔비디아 CEO /사진 제공=엔비디아 28일 월스트리트저널 등 주요 외신에…",
-   "summary_long": "미국 반도체업체 엔비디아가 사상 최대 규모인 1500억달러(약 204조원)의 자사주 매입을 승인했다. 젠슨 황 엔비디아 CEO /사진 제공=엔비디아 28일(이하 현지시간) 월스트리트저널(WSJ) 등 주요 외신에 따르면 이날 엔비디아 이사회의 추가 자사주 매입 프로그램 승인으로 총 자사주 매입액이 2350억달러(약 320조원)로 늘어났다. 또한 엔비디아가 800억달러를 추가한지 4개월 만에 이뤄지는 것이다.\n\n회사는 남은 자사주 매입 프로그램을 2028회계연도(2027년1월~2028년1월)까지 완료할 것으로 예상했다. 엔비디아는 지난달 월가 금융기관들과 협력해 고객들이 자사 칩을 보다 쉽게 구매할 수 있도록 최대 5000억달러 규모의 데이터센터 금융을 부분적으로 보증한다고 발표했다. 엔비디아가 AI 생태계를 지원하기 위해 체결한 장기 데이터센터 임대 계약 규모는 약 200억달러에 달한다.",
-   "press": "블로터",
-   "source": "블로터",
-   "link": "https://n.news.naver.com/article/293/0000090975",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/05.png",
+   "pngBytes": 1705564,
+   "title": "사회인 야구 이겼다고 병역특례?...다시 불붙은 적절성 논란 [앵커리포트]",
+   "summary": "기쁨도 잠시, 병역특례 적절성 논란에 다시 불이 붙었습니다. 게다가 실제 경쟁 수준과 상관없이 올림픽 3위 이상, 아시안게임 1위라는 정해진 기준만 만족하면 되다 보니…",
+   "summary_long": "하지만 기쁨도 잠시, 병역특례 적절성 논란에 다시 불이 붙었습니다. 현행법상 올림픽 동메달 이상 또는 아시안게임 금메달 입상자는 체육요원으로 편입돼 현역병으로 복무하는 대신 선수 활동을 이어갈 수 있습니다. 그래서 국가 차원에서 선수들에게 동기를 부여하고 기량을 유지하게 할 목적으로 병역특례 제도를 도입했죠.\n\n하지만 냉전이 종식되고 우리나라의 국력이 강해지면서 병역특례가 계속 필요하냐는 지적이 나오기 시작했습니다. 지난 2022년에는, 국위 선양으로 치면 BTS만 한 사람들이 없는데, 이들은 왜 병역 혜택을 주지 않느냐는 목소리에 국회 국방위원회가 실제로 여론조사까지 해봤습니다. 게다가 실제 경쟁 수준과 상관없이 올림픽 3위 이상, 아시안게임 1위라는 정해진 기준만 만족하면 되다 보니, 경쟁 수준이 낮은 일부 종목이 병역 탈출구로 변질됐다는 비판도 꾸준히 제기돼 왔습니다.",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002412740",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 엔비디아, AI 호황에 1500억달러 자사주 추가 매입…역대 최대\n\n미국 반도체업체 엔비디아가 사상 최대 규모인 1500억달러(약 204조원)의 자사주 매입을 승인했다. 젠슨 황 엔비디아 CEO /사진 제공=엔비디아 28일(이하 현지시간) 월스트리트저널(WSJ) 등 주요 외신에 따르면 이날 엔비디아 이사회의 추가 자사주 매입 프로그램 승인으로 총 자사주 매입액이 2350억달러(약 320조원)로 늘어났다. 또한 엔비디아가 800억달러를 추가한지 4개월 만에 이뤄지는 것이다.\n\n회사는 남은 자사주 매입 프로그램을 2028회계연도(2027년1월~2028년1월)까지 완료할 것으로 예상했다. 엔비디아는 지난달 월가 금융기관들과 협력해 고객들이 자사 칩을 보다 쉽게 구매할 수 있도록 최대 5000억달러 규모의 데이터센터 금융을 부분적으로 보증한다고 발표했다. 엔비디아가 AI 생태계를 지원하기 위해 체결한 장기 데이터센터 임대 계약 규모는 약 200억달러에 달한다.\n\n출처: 블로터 / https://n.news.naver.com/article/293/0000090975"
+   "feed": "뉴스 04. 사회인 야구 이겼다고 병역특례?...다시 불붙은 적절성 논란 [앵커리포트]\n\n하지만 기쁨도 잠시, 병역특례 적절성 논란에 다시 불이 붙었습니다. 현행법상 올림픽 동메달 이상 또는 아시안게임 금메달 입상자는 체육요원으로 편입돼 현역병으로 복무하는 대신 선수 활동을 이어갈 수 있습니다. 그래서 국가 차원에서 선수들에게 동기를 부여하고 기량을 유지하게 할 목적으로 병역특례 제도를 도입했죠.\n\n하지만 냉전이 종식되고 우리나라의 국력이 강해지면서 병역특례가 계속 필요하냐는 지적이 나오기 시작했습니다. 지난 2022년에는, 국위 선양으로 치면 BTS만 한 사람들이 없는데, 이들은 왜 병역 혜택을 주지 않느냐는 목소리에 국회 국방위원회가 실제로 여론조사까지 해봤습니다. 게다가 실제 경쟁 수준과 상관없이 올림픽 3위 이상, 아시안게임 1위라는 정해진 기준만 만족하면 되다 보니, 경쟁 수준이 낮은 일부 종목이 병역 탈출구로 변질됐다는 비판도 꾸준히 제기돼 왔습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002412740"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/06.png",
-   "pngBytes": 1775683,
-   "title": "\"대통령 모시고 식사 중인데\"…송영길, 생방송 전화 끊어버린 이유는",
-   "summary": "이날 인천에서 열린 세계한인의 날 기념식에 참석한 이재명 대통령이 송 의원 지역구를 방문해 함께 재래시장에 나와있다고 했습니다. 송 의원은 \"대통령 일정이 바로 자신의…",
-   "summary_long": "어제(28일) 저녁 한 라디오 방송 전화 인터뷰에 참여한 송영길 민주당 의원. 이날 인천에서 열린 세계한인의 날 기념식에 참석한 이재명 대통령이 송 의원 지역구를 방문해 함께 재래시장에 나와있다고 했습니다. 저희 지금 옥련시장에 대통령께서 와 계십니다.\n\n지금 생방송 중에 청취자에 대한 예의도 아니시죠.) 아니, 그래도 10분, 원래 10분으로 했던 거 아닙니까? 송 의원은 \"대통령 일정이 바로 자신의 지역구로 올 줄 몰랐다며 인터뷰를 취소하려다 예의가 아닌 것 같아 진행했다\" 했습니다. 결국 생방송 인터뷰는 중단됐고, 진행자는 \"더이상 진행할 수 있는 상황이 아니었다\", \"모든 게 제 잘못\"이라며 청취자들에게 사과했습니다.",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000513170",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/06.png",
+   "pngBytes": 1776543,
+   "title": "한동훈, 김여정 ‘자작극’ 발언에 “적반하장…李, 北에 한마디도 못해”",
+   "summary": "한동훈 무소속 의원이 30일 서부전선 비무장지대 지뢰 폭발 사고와 관련한 정부 대응을 비판하며 이재명 대통령이 북한에 보다 단호한 태도를 보여야 한다고 주장했다. 한…",
+   "summary_long": "군, 북한 지뢰 도발 가능성 언급. 한동훈 무소속 의원이 24일 용산구 국방부 앞에서 비무장지대(DMZ) 내 지뢰 추정 폭발사고 관련 즉각 조사를 촉구하는 1인시위를 하고 있다. 한동훈 무소속 의원이 30일 서부전선 비무장지대(DMZ) 지뢰 폭발 사고와 관련한 정부 대응을 비판하며 이재명 대통령이 북한에 보다 단호한 태도를 보여야 한다고 주장했다.\n\n특히 북한이 이번 사고를 ‘자작극’이라고 주장한 것을 두고 정부의 소극적인 대응이 북한의 ‘적반하장식’ 태도를 불러왔다고 지적했다. 한 의원은 이날 페이스북에서 “이재명 정권은 21일 지뢰공격 직후부터 어떻게든 ‘북한 지뢰공격이 아니거나 북한 지뢰공격임이 드러나지 않기를 바라는 듯한 소극적이고 수세적인 태도‘를 취했다”며 “북한 김여정 적반하장 입장이 나오기 전까지 이재명 대통령은 북한에 대해 한마디도 못했다“고 밝혔다. 이어 “그런 태도가 북한 정권이 마치 이재명 대통령 약점 잡은 듯이 적반하장으로 나올 수 있는 환경을 만들어 준 것”이라며 “대한민국이 공격당했습니다.",
+   "press": "헤럴드경제",
+   "source": "헤럴드경제",
+   "link": "https://n.news.naver.com/article/016/0002703609",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. \"대통령 모시고 식사 중인데\"…송영길, 생방송 전화 끊어버린 이유는\n\n어제(28일) 저녁 한 라디오 방송 전화 인터뷰에 참여한 송영길 민주당 의원. 이날 인천에서 열린 세계한인의 날 기념식에 참석한 이재명 대통령이 송 의원 지역구를 방문해 함께 재래시장에 나와있다고 했습니다. 저희 지금 옥련시장에 대통령께서 와 계십니다.\n\n지금 생방송 중에 청취자에 대한 예의도 아니시죠.) 아니, 그래도 10분, 원래 10분으로 했던 거 아닙니까? 송 의원은 \"대통령 일정이 바로 자신의 지역구로 올 줄 몰랐다며 인터뷰를 취소하려다 예의가 아닌 것 같아 진행했다\" 했습니다. 결국 생방송 인터뷰는 중단됐고, 진행자는 \"더이상 진행할 수 있는 상황이 아니었다\", \"모든 게 제 잘못\"이라며 청취자들에게 사과했습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000513170"
+   "feed": "뉴스 05. 한동훈, 김여정 ‘자작극’ 발언에 “적반하장…李, 北에 한마디도 못해”\n\n군, 북한 지뢰 도발 가능성 언급. 한동훈 무소속 의원이 24일 용산구 국방부 앞에서 비무장지대(DMZ) 내 지뢰 추정 폭발사고 관련 즉각 조사를 촉구하는 1인시위를 하고 있다. 한동훈 무소속 의원이 30일 서부전선 비무장지대(DMZ) 지뢰 폭발 사고와 관련한 정부 대응을 비판하며 이재명 대통령이 북한에 보다 단호한 태도를 보여야 한다고 주장했다.\n\n특히 북한이 이번 사고를 ‘자작극’이라고 주장한 것을 두고 정부의 소극적인 대응이 북한의 ‘적반하장식’ 태도를 불러왔다고 지적했다. 한 의원은 이날 페이스북에서 “이재명 정권은 21일 지뢰공격 직후부터 어떻게든 ‘북한 지뢰공격이 아니거나 북한 지뢰공격임이 드러나지 않기를 바라는 듯한 소극적이고 수세적인 태도‘를 취했다”며 “북한 김여정 적반하장 입장이 나오기 전까지 이재명 대통령은 북한에 대해 한마디도 못했다“고 밝혔다. 이어 “그런 태도가 북한 정권이 마치 이재명 대통령 약점 잡은 듯이 적반하장으로 나올 수 있는 환경을 만들어 준 것”이라며 “대한민국이 공격당했습니다.\n\n출처: 헤럴드경제 / https://n.news.naver.com/article/016/0002703609"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/07.png",
-   "pngBytes": 2299598,
-   "title": "“좌파 진지 청소하고 자유민주주의 지켜낼 것”···국힘, 영화 ‘암살자(들)’ 연일 맹비난",
-   "summary": "영화 <암살자> 불매 운동도 청년들이 자발적으로 시작했다”며 “청년의 힘이 대한민국의 좌파 진지를 청소하고 자유민주주의를 지켜낼 것”이라고 썼다. 육 여사 생가가 있는…",
-   "summary_long": "국민의힘은 29일 육영수 여사 피격 사건을 다룬 영화 <암살자(들)>에 대한 비판을 이어갔다. 장동혁 대표는 이날 페이스북에 “좌파의 공습에 가장 강력하게 저항하는 세대는 2030 청년 세대다. 영화 <암살자(들)> 불매 운동도 청년들이 자발적으로 시작했다”며 “청년의 힘이 대한민국의 좌파 진지를 청소하고 자유민주주의를 지켜낼 것”이라고 썼다.\n\n신동욱 최고위원은 페이스북에서 “애당초 특정한 정치적 목표로 의도적으로 사실을 왜곡했다면 예술적 가치를 인정받을 수도 없고 보호받을 창작의 자유에 포함될 수도 없다”며 상영 중단을 촉구했다. 육 여사 생가가 있는 충북 옥천을 지역구로 두고 있는 국민의힘 소속 박덕흠 국회부의장은 페이스북에서 “제작진과 배급사는 유족·국민께 사과하고 최소한 이 영화가 역사적 사실과 다르다는 점을 관객에게 분명히 밝혀야 한다”고 말했다. 나 의원은 “김대중·노무현 전 대통령을 두고 이런 영화가 나왔다면 민주당은 이 영화사를 망하게 했을 것”이라며 “자신들이 정한 역사만을 성역화해 징역형으로 억압해 보호하고 다른 역사적 비극은 표현의 자유로 난도질하는 끔찍한 위선은 반드시 심판해야 한다”고 말했다.",
-   "press": "경향신문",
-   "source": "경향신문",
-   "link": "https://n.news.naver.com/article/032/0003473153",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/07.png",
+   "pngBytes": 2129360,
+   "title": "'암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치",
+   "summary": "주진우 의원은 영화 제작사 하이브미디어코프에 대한 중국계 자본의 투자 가능성을 문제 삼았다. 회사는 \"당사 및 영화 <암살자>의 제작과 투자 과정에 중국 자본이 유입된…",
+   "summary_long": "9월 28일, 국민의힘 의원들은 영화 <암살자(들)>이 육영수 여사 피격 사건을 왜곡했다며 잇달아 기자회견과 방송에 나섰다. 작품에 중국계 자본 400억 원이 들어갔다는 주장과 네이버 평점이 조작됐다는 의혹이 제기됐고, 허진호 감독을 국정감사에 부르자는 요구도 나왔다. 주진우 의원은 영화 제작사 하이브미디어코프에 대한 중국계 자본의 투자 가능성을 문제 삼았다.\n\n그러나 현재 확인되는 400억 원은 영화에 직접 투자한 금액이 아니라 제작사 하이브미디어코프에 대한 투자 추진 규모다. 회사는 \"당사 및 영화 <암살자(들)>의 제작과 투자 과정에 중국 자본이 유입된 사실은 전혀 없다\"고 밝혔다. 제작사에 대한 외국계 투자 추진만으로 영화에 대한 자본의 영향까지 단정하기도 어렵다.",
+   "press": "오마이뉴스",
+   "source": "오마이뉴스",
+   "link": "https://n.news.naver.com/article/047/0002530705",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. “좌파 진지 청소하고 자유민주주의 지켜낼 것”···국힘, 영화 ‘암살자(들)’ 연일 맹비난\n\n국민의힘은 29일 육영수 여사 피격 사건을 다룬 영화 <암살자(들)>에 대한 비판을 이어갔다. 장동혁 대표는 이날 페이스북에 “좌파의 공습에 가장 강력하게 저항하는 세대는 2030 청년 세대다. 영화 <암살자(들)> 불매 운동도 청년들이 자발적으로 시작했다”며 “청년의 힘이 대한민국의 좌파 진지를 청소하고 자유민주주의를 지켜낼 것”이라고 썼다.\n\n신동욱 최고위원은 페이스북에서 “애당초 특정한 정치적 목표로 의도적으로 사실을 왜곡했다면 예술적 가치를 인정받을 수도 없고 보호받을 창작의 자유에 포함될 수도 없다”며 상영 중단을 촉구했다. 육 여사 생가가 있는 충북 옥천을 지역구로 두고 있는 국민의힘 소속 박덕흠 국회부의장은 페이스북에서 “제작진과 배급사는 유족·국민께 사과하고 최소한 이 영화가 역사적 사실과 다르다는 점을 관객에게 분명히 밝혀야 한다”고 말했다. 나 의원은 “김대중·노무현 전 대통령을 두고 이런 영화가 나왔다면 민주당은 이 영화사를 망하게 했을 것”이라며 “자신들이 정한 역사만을 성역화해 징역형으로 억압해 보호하고 다른 역사적 비극은 표현의 자유로 난도질하는 끔찍한 위선은 반드시 심판해야 한다”고 말했다.\n\n출처: 경향신문 / https://n.news.naver.com/article/032/0003473153"
+   "feed": "뉴스 06. '암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치\n\n9월 28일, 국민의힘 의원들은 영화 <암살자(들)>이 육영수 여사 피격 사건을 왜곡했다며 잇달아 기자회견과 방송에 나섰다. 작품에 중국계 자본 400억 원이 들어갔다는 주장과 네이버 평점이 조작됐다는 의혹이 제기됐고, 허진호 감독을 국정감사에 부르자는 요구도 나왔다. 주진우 의원은 영화 제작사 하이브미디어코프에 대한 중국계 자본의 투자 가능성을 문제 삼았다.\n\n그러나 현재 확인되는 400억 원은 영화에 직접 투자한 금액이 아니라 제작사 하이브미디어코프에 대한 투자 추진 규모다. 회사는 \"당사 및 영화 <암살자(들)>의 제작과 투자 과정에 중국 자본이 유입된 사실은 전혀 없다\"고 밝혔다. 제작사에 대한 외국계 투자 추진만으로 영화에 대한 자본의 영향까지 단정하기도 어렵다.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002530705"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/08.png",
-   "pngBytes": 1804692,
-   "title": "이 대통령 \"저항·반발에도 개혁 멈추지 않을 것‥결과로 책임\"",
-   "summary": "이재명 대통령이 저항과 반발에도 개혁을 멈추지 않겠다며, 주권자가 부여한 개혁의 소명을 반드시 완수하겠다고 밝혔습니다. 이 대통령은 오늘 청와대에서 주재한 국무회의에서…",
-   "summary_long": "오늘 청와대에서 주재한 국무회의에서 발언하고 있는 이재명 대통령. 이재명 대통령이 저항과 반발에도 개혁을 멈추지 않겠다며, 주권자가 부여한 개혁의 소명을 반드시 완수하겠다고 밝혔습니다. 이 대통령은 오늘 청와대에서 주재한 국무회의에서 \"저항과 반발이 커진다는 이유로 개혁을 결코 멈출 수는 없다\"며, \"국민의 삶을 바꾸고 나라의 미래를 밝히는 개혁은 우리 정부의 정체성이자 존재 이유\"라고 강조했습니다.\n\n다만 개혁이 고통을 수반하는 만큼 \"세심하고 가급적 조용하게, 기득권의 권리를 양보해야 하는 그런 분들의 아픔을 위무해 가며 실용적이고 효율적으로 생활 개혁을 해 나가야 한다\"고 설명했습니다. 이어 \"국민의 집단지성이 함께해야 개혁의 방향성이 더욱 분명해지고, 또 개혁의 힘도 그만큼 오래 지속될 수 있다\"고 당부했습니다. 이 대통령은 그러면서 \"아무리 어렵고 힘들더라도 사회 전반에 불가역적 개혁이라는, 주권자들이 부여한 소명을 꼭 완수하겠다\"며 \"말이 아니라 행동으로 국민께 평가받고 결과로 책임질 것\"이라고 밝혔습니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001526327",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/08.png",
+   "pngBytes": 1822796,
+   "title": "김여정 \"서울의 자작 광대극…총탄 한발이라도 떨어지면 가차 없는 보복\"",
+   "summary": "\"지난 9월 21일 문제의 지뢰폭발이 일어난 그때 벌써 우리는 서울의 연출대본에 대하여 예상하였으며 한국군부 깡패들이펴고 있는 모략극의 저의도 간파했다\"며 \"결론부터…",
+   "summary_long": "오늘(30일) 조선중앙통신에 따르면 김 총무부장은 어제(29일) 발표한 담화에서 \"한국 무장깡패들이 남부국경선 일대에서 발생한 지뢰폭발 사건과 관련해 그 무슨 조사결과라는 것을 발표하면서 우리를 또다시 걸고 드는도발 행위를 감행했다\"며 \"한국 족속들답게 극작법이 너무나 저급하고 저열하다\"고 말했습니다. 이어 \"지난 9월 21일 문제의 지뢰폭발이 일어난 그때 벌써 우리는 서울의 연출대본에 대하여 예상하였으며 한국군부 깡패들이펴고 있는 모략극의 저의도 간파했다\"며 \"결론부터 말한다면 이번 사건은 도발 시기와 수법에 있어서 10여년 전 세상을 소란하게 했던 '목함지뢰 사건'을 그대로 방불케 하는 명백한 자… 또 김 총무부장은 \"세상이다 알다시피 우리 군대는 두 해 전부터 국경 강화사업의일환으로남부국경 일대에서차단물공사를 진행하고 있으며 이는 그 어떤 군사적 목적과는 무관한 철저한 주권행사일 뿐\"이라면서 \"한국군부가 떠들어대고 있는 우리 군인들의 월선이라는 것은 정세 격화의 책임을 우리에게 넘겨씌워 보려는…\n\n한국군부는 육안으로도 확인할 수 있는 경계선 하나 제대로 판별하지 못해 자기 땅, 남의 땅도 분간하지 못하는 저들의 저능을 두고 세상이 무엇이라고 하겠는가 생각해보아야 한다\"고 했습니다. 아울러 \"만약 남부국경영구화공사를 진행하는 우리 군인들을 향해 한국군 깡패들이 경고사격이 아닌 실지사격을 가해온다면 우리 국경부대들은 즉시적이고가차 없는 보복을 가할 것\"이라며 \"이미 그에 대한 대응 행동지침은 국경선방어구분대들에 하달된 상태고 최근 도발이 잦은 한국군 3군단 21보병사단 비무장 지대… 끝으로 김 총무부장은 \"다시 한번 분명히 하지만 국경 지역에서 우리에 대한 악의적인 트집과 도발의 빈도수가 잦아지고 그것이 실제적인 우리의 영토와 군사주권에 대한 침해로 이어진다면 불량배 무리들은여직 체험해보지 못한 상황을 마주해야 할 것\"이라며 \"서울의 자작 광대극의 극적 절정은 결코 재미가 없을 것…",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000513339",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 이 대통령 \"저항·반발에도 개혁 멈추지 않을 것‥결과로 책임\"\n\n오늘 청와대에서 주재한 국무회의에서 발언하고 있는 이재명 대통령. 이재명 대통령이 저항과 반발에도 개혁을 멈추지 않겠다며, 주권자가 부여한 개혁의 소명을 반드시 완수하겠다고 밝혔습니다. 이 대통령은 오늘 청와대에서 주재한 국무회의에서 \"저항과 반발이 커진다는 이유로 개혁을 결코 멈출 수는 없다\"며, \"국민의 삶을 바꾸고 나라의 미래를 밝히는 개혁은 우리 정부의 정체성이자 존재 이유\"라고 강조했습니다.\n\n다만 개혁이 고통을 수반하는 만큼 \"세심하고 가급적 조용하게, 기득권의 권리를 양보해야 하는 그런 분들의 아픔을 위무해 가며 실용적이고 효율적으로 생활 개혁을 해 나가야 한다\"고 설명했습니다. 이어 \"국민의 집단지성이 함께해야 개혁의 방향성이 더욱 분명해지고, 또 개혁의 힘도 그만큼 오래 지속될 수 있다\"고 당부했습니다. 이 대통령은 그러면서 \"아무리 어렵고 힘들더라도 사회 전반에 불가역적 개혁이라는, 주권자들이 부여한 소명을 꼭 완수하겠다\"며 \"말이 아니라 행동으로 국민께 평가받고 결과로 책임질 것\"이라고 밝혔습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001526327"
+   "feed": "뉴스 07. 김여정 \"서울의 자작 광대극…총탄 한발이라도 떨어지면 가차 없는 보복\"\n\n오늘(30일) 조선중앙통신에 따르면 김 총무부장은 어제(29일) 발표한 담화에서 \"한국 무장깡패들이 남부국경선 일대에서 발생한 지뢰폭발 사건과 관련해 그 무슨 조사결과라는 것을 발표하면서 우리를 또다시 걸고 드는도발 행위를 감행했다\"며 \"한국 족속들답게 극작법이 너무나 저급하고 저열하다\"고 말했습니다. 이어 \"지난 9월 21일 문제의 지뢰폭발이 일어난 그때 벌써 우리는 서울의 연출대본에 대하여 예상하였으며 한국군부 깡패들이펴고 있는 모략극의 저의도 간파했다\"며 \"결론부터 말한다면 이번 사건은 도발 시기와 수법에 있어서 10여년 전 세상을 소란하게 했던 '목함지뢰 사건'을 그대로 방불케 하는 명백한 자… 또 김 총무부장은 \"세상이다 알다시피 우리 군대는 두 해 전부터 국경 강화사업의일환으로남부국경 일대에서차단물공사를 진행하고 있으며 이는 그 어떤 군사적 목적과는 무관한 철저한 주권행사일 뿐\"이라면서 \"한국군부가 떠들어대고 있는 우리 군인들의 월선이라는 것은 정세 격화의 책임을 우리에게 넘겨씌워 보려는…\n\n한국군부는 육안으로도 확인할 수 있는 경계선 하나 제대로 판별하지 못해 자기 땅, 남의 땅도 분간하지 못하는 저들의 저능을 두고 세상이 무엇이라고 하겠는가 생각해보아야 한다\"고 했습니다. 아울러 \"만약 남부국경영구화공사를 진행하는 우리 군인들을 향해 한국군 깡패들이 경고사격이 아닌 실지사격을 가해온다면 우리 국경부대들은 즉시적이고가차 없는 보복을 가할 것\"이라며 \"이미 그에 대한 대응 행동지침은 국경선방어구분대들에 하달된 상태고 최근 도발이 잦은 한국군 3군단 21보병사단 비무장 지대… 끝으로 김 총무부장은 \"다시 한번 분명히 하지만 국경 지역에서 우리에 대한 악의적인 트집과 도발의 빈도수가 잦아지고 그것이 실제적인 우리의 영토와 군사주권에 대한 침해로 이어진다면 불량배 무리들은여직 체험해보지 못한 상황을 마주해야 할 것\"이라며 \"서울의 자작 광대극의 극적 절정은 결코 재미가 없을 것…\n\n출처: JTBC / https://n.news.naver.com/article/437/0000513339"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-09-30/09.png",
-   "pngBytes": 1346062
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/09.png",
+   "pngBytes": 1345950
   }
  ],
- "caption": "📰 9월 30일 오늘의 뉴스\n\n1. 김상욱 울산시장 재산, 반년 새 31억 늘어 50억\n   정부공직자윤리위원회가 이날 공개한 공직자 수시 재산 공개 자료에 따르면, 김 시장은 7~8월 기준 재산이 50억2459만원 있다고 신고했다. 오 시장은 서울 강남구…\n2. [단독] 北포로 1명은 귀순 거부, 우크라는 무기 요청… 끝까지 설득했다\n   우리 정부는 북한군 포로의 국내 송환을 위해 수차례 현지를 방문하며 치열한 물밑 작업을 벌인 것으로 파악됐다. 현지를 수차례 방문해 귀순 의사가 없었던 포로 1명을…\n3. “잘못한게 없잖아요 제가” 한강공원서 흉기 들고 행인들 위협하며 카페 내부 진입까지 시도한 40대 구속심사\n   경찰에 따르면 천씨는 지난 27일 오후 3시45분께 영등포구 양화한강공원 인근에서 흉기를 들고 행인들을 위협한 혐의를 받는다. 천씨는 지난 27일 오후 3시45분께…\n4. 엔비디아, AI 호황에 1500억달러 자사주 추가 매입…역대 최대\n   미국 반도체업체 엔비디아가 사상 최대 규모인 1500억달러의 자사주 매입을 승인했다. 젠슨 황 엔비디아 CEO /사진 제공=엔비디아 28일 월스트리트저널 등 주요 외신에…\n5. \"대통령 모시고 식사 중인데\"…송영길, 생방송 전화 끊어버린 이유는\n   이날 인천에서 열린 세계한인의 날 기념식에 참석한 이재명 대통령이 송 의원 지역구를 방문해 함께 재래시장에 나와있다고 했습니다. 송 의원은 \"대통령 일정이 바로 자신의…\n6. “좌파 진지 청소하고 자유민주주의 지켜낼 것”···국힘, 영화 ‘암살자(들)’ 연일 맹비난\n   영화 <암살자> 불매 운동도 청년들이 자발적으로 시작했다”며 “청년의 힘이 대한민국의 좌파 진지를 청소하고 자유민주주의를 지켜낼 것”이라고 썼다. 육 여사 생가가 있는…\n7. 이 대통령 \"저항·반발에도 개혁 멈추지 않을 것‥결과로 책임\"\n   이재명 대통령이 저항과 반발에도 개혁을 멈추지 않겠다며, 주권자가 부여한 개혁의 소명을 반드시 완수하겠다고 밝혔습니다. 이 대통령은 오늘 청와대에서 주재한 국무회의에서…\n\n🗣 “우크라이나 대통령실 공보실이 비공개 합의 사실이 없다는 허위 공보를 발표한 데 대해 강력한 유감을 표명했다”\n이 발언을 그대로 실은 보도 10건 · 다음뉴스 · 위키트리 · 한겨레 · NK경제\n· 다음뉴스 — [단독] 北포로 1명은 귀순 거부, 우크라는 무기 요청… 끝까지 설득했다\n· 위키트리 — 우크라가 생포해 한국으로 보낸 북한포로 중 1명 “북한으로 보내달라” 요구했었다\n· 다음뉴스 — 靑 “우크라 먼저 비공개 요청… 거짓발표 강력 유감” 강경 선회\n· 한겨레 — 외교부, 주한우크라 대사대리 초치…“북 포로 한국행 공개·허위공보 강력 유감”\n· NK경제 — 외교부, 주한우크라이나 대사대리 초치\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #AI #북한 #대통령실\n\n출처: JTBC, MBC, 강원일보, 경향신문, 국민일보, 블로터, 조선일보"
+ "caption": "📰 10월 1일 오늘의 뉴스\n\n1. [속보] \"대박터져\" 박지원의 예언?…'암살자(들)' 하루만에 '박스오피스' 1위 재탈환\n   국민의힘이 연일 '역사 왜곡' 공세를 펴고 있는 영화 '암살자'이 하루 만에 다시 박스오피스 1위 자리를 탈환했다. 30일 영화관입장권 통합전산망에 따르면 '암살자'은…\n2. 李 30%대 지지율에 부담 느꼈나… 與, ‘조작기소 특검법’ 처리 미루기로\n   더불어민주당이 다음 달 1일 국회 본회의에서 이재명 대통령 사건의 조작 기소 여부를 가릴 ‘조작기소 특검법’을 처리하려 했다가 10월 국정감사 이후로 미루기로 결정했다.…\n3. 조희대, 부친상 조의금 봉투째 돌려줘… “가족끼리 조용히 치르려 했다”\n   조희대 대법원장이 부친상을 치른 뒤 조문객들이 낸 조의금을 봉투째 돌려준 것으로 30일 뒤늦게 알려졌다. 외부 조문과 조의금을 사양했지만, 일부 조문객이 부의함에 봉투를…\n4. 사회인 야구 이겼다고 병역특례?...다시 불붙은 적절성 논란 [앵커리포트]\n   기쁨도 잠시, 병역특례 적절성 논란에 다시 불이 붙었습니다. 게다가 실제 경쟁 수준과 상관없이 올림픽 3위 이상, 아시안게임 1위라는 정해진 기준만 만족하면 되다 보니…\n5. 한동훈, 김여정 ‘자작극’ 발언에 “적반하장…李, 北에 한마디도 못해”\n   한동훈 무소속 의원이 30일 서부전선 비무장지대 지뢰 폭발 사고와 관련한 정부 대응을 비판하며 이재명 대통령이 북한에 보다 단호한 태도를 보여야 한다고 주장했다. 한…\n6. '암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치\n   주진우 의원은 영화 제작사 하이브미디어코프에 대한 중국계 자본의 투자 가능성을 문제 삼았다. 회사는 \"당사 및 영화 <암살자>의 제작과 투자 과정에 중국 자본이 유입된…\n7. 김여정 \"서울의 자작 광대극…총탄 한발이라도 떨어지면 가차 없는 보복\"\n   \"지난 9월 21일 문제의 지뢰폭발이 일어난 그때 벌써 우리는 서울의 연출대본에 대하여 예상하였으며 한국군부 깡패들이펴고 있는 모략극의 저의도 간파했다\"며 \"결론부터…\n\n🗣 “당사 및 영화 <암살자(들)>의 제작과 투자 과정에 중국 자본이 유입된 사실은 전혀 없다”\n이 발언을 그대로 실은 보도 8건 · OhmyNews · 미디어오늘 · 경기일보 · 미주중앙일보\n· OhmyNews — '암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치\n· 미디어오늘 — ‘암살자(들)’ 제작사 “제작과 투자 과정에 중국 자본 유입 전혀 없다”\n· 경기일보 — ‘암살자(들)’ 中자본 의혹에 제작사 “전혀 사실 아냐…국내 자본 제작”\n· 미주중앙일보 — ‘암살자(들)’ 제작사, 中 자본 유입설 부인…“전혀 사실 아니다”\n· 뉴스1 — '암살자(들)' 中 자본유입설에 \"전혀 없다…사실과 다른 정보 재생산 않길\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한\n\n출처: JTBC, YTN, 오마이뉴스, 조선일보, 프레시안, 헤럴드경제"
 }
