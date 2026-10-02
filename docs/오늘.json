@@ -1,320 +1,233 @@
 {
- "date": "2026-10-01",
- "generated_at": "2026-10-01T10:43:32+09:00",
+ "date": "2026-10-02",
+ "generated_at": "2026-10-02T10:54:55+09:00",
  "mode": "daily",
- "window_start": "2026-09-30T00:00:00+09:00",
- "window_end": "2026-09-30T23:59:59+09:00",
+ "window_start": "2026-10-01T00:00:00+09:00",
+ "window_end": "2026-10-01T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "[속보] \"대박터져\" 박지원의 예언?…'암살자(들)' 하루만에 '박스오피스' 1위 재탈환",
-   "source": "프레시안",
-   "url": "https://n.news.naver.com/article/002/0002458795",
-   "published_at": "2026-09-30T08:18:14+09:00",
+   "title": "靑, 김용범 후임에 하준경 발탁…'明의 남자' 송영길·김병주도 특보 배치",
+   "source": "시사저널",
+   "url": "https://n.news.naver.com/article/586/0000139232",
+   "published_at": "2026-10-01T14:15:08+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "국민의힘이 연일 '역사 왜곡' 공세를 펴고 있는 영화 '암살자'이 하루 만에 다시 박스오피스 1위 자리를 탈환했다. 30일 영화관입장권 통합전산망에 따르면 '암살자'은…",
-   "summary_long": "국민의힘이 연일 '역사 왜곡' 공세를 펴고 있는 영화 '암살자(들)'이 하루 만에 다시 박스오피스 1위 자리를 탈환했다. 30일 영화관입장권 통합전산망에 따르면 '암살자(들)'은 지난 29일 하루 동안 6만1464명의 관객을 모아 박스오피스 1위를 탈환했다. 그러나 이를 두고 국민의힘 일부 인사들이 \"역사 왜곡\"이라며 반발하는 등 정치권에서 논란이 일고 있다.\n\n정점식 국민의힘 원내대표는 \"역사왜곡 영화 암살자(들)에 대한 논란이 커지고 있다. 국회 문화체육관광위원회에서는 국민의힘 간사인 조은희 의원이 '암살자(들)'을 연출한 허진호 감독을 국정감사 증인 또는 참고인으로 채택하자고 요구했고, 전직 국민의힘 서울시의원은 허 감독 등 제작진을 명예훼손 혐의로 경찰에 고발하기도 했다. 반면 민주당 박지원 의원은 이에 대해 \"'암살자(들)' 역시 논픽션이 아닌 픽션 극영화\"라며 \"국회에서까지 떠들어주니 오히려 홍보가 잘되겠다.",
-   "quotes": [
-    "역사왜곡 영화 암살자(들)에 대한 논란이 커지고 있다. 터무니없는 음모론으로 박정희 전 대통령에 대한 운동권 증오심을 자극하고, 대중에게 박 전 대통령의 부정적 이미지를 확산시키기 위한 저급한 프로파간다물",
-    "5·18에 대해서는 성역이라며 건드리지 못하게 하면서 박정희 전 대통령에 대한 역사는 왜곡하려 한다",
-    "국회에서까지 떠들어주니 오히려 홍보가 잘되겠다. 영화를 관람하자, 대박 터진다"
-   ],
-   "press": "프레시안",
-   "photo": "01.jpg",
-   "quoted": {
-    "quote": "5·18에 대해서는 성역이라며 건드리지 못하게 하면서 박정희 전 대통령에 대한 역사는 왜곡하려 한다",
-    "n": 3,
-    "verified": 0,
-    "items": [
-     {
-      "press": "다음뉴스",
-      "title": "'암살자(들)'로 들끓는 정치권…해묵은 史 영화 논쟁, 왜?",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1YWpuemtqby1jTENCdjRJeURIVmNHRElJWmJvSUREV3ptVFFZNk56SkRTanVya3Y3Tm4zWTVlNWV1N2NMZTRHd3IwZw?oc=5"
-     },
-     {
-      "press": "프레시안",
-      "title": "[속보] \"대박터져\" 박지원의 예언?…'암살자(들)' 하루만에 '박스오피스' 1위 재탈환",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YVkFyanFNS3Q5a3RkLXhTMEo3Nkk1LVcxaVNIVkxCdTcxbnQzQ3J2TVc3Z190anFXVk9panVvMzl1YjhiYjRMYWp3aC1Kd3dRdVVrZWVVTlJfUHpLMF9Ea1RFQUtKMXE0MEVuTFBpX1FrTFM1d3FPU3F0Yw?oc=5"
-     },
-     {
-      "press": "다음뉴스",
-      "title": "“김대중·노무현 영화였다면?”…국힘, ‘암살자들’ 논란에 민주당 향해 ‘내로남불’ 총공세",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5kb1ViS0FabGtHanBwTkhpeFVILU5MY3ktNjh4d0QwRDY4SEUxT2xFUnRaajQ3eXZiUVRLel8wYS1LNGRpMFE?oc=5"
-     }
-    ]
-   }
+   "summary": "이재명 대통령이 1일 신임 청와대 정책실장에 하준경 경제성장수석비서관을 임명했다. 하 신임 정책실장은 경제학자 출신으로 청와대에서 경제성장수석으로서 대통령의 경제정책을…",
+   "summary_long": "이재명 대통령이 1일 신임 청와대 정책실장에 하준경 경제성장수석비서관을 임명했다. 후임 경제성장수석에는 문신학 산업통상부 차관을 기용하며 새로운 얼굴 없이 청와대 경제라인을 재편했다. 여기에 여당 내 친명(親이재명) 핵심 인사들로 꼽히는 송영길·김병주 더불어민주당 의원에게는 각각 대통령비서실 평화외교특별보좌관과 국방정책특별보좌관직을 맡겼다.\n\n하 신임 정책실장은 경제학자 출신으로 청와대에서 경제성장수석으로서 대통령의 경제정책을 보좌해왔다. 1967년생 전남 해남 출신이며 하 신임 실장과 마찬가지로 서울대 경제학과를 졸업했다. 송 신임 특보는 1963년생 전남 고흥 출신으로 연세대 경영학과를 졸업했다.",
+   "press": "시사저널",
+   "photo": "01.jpg"
   },
   {
-   "title": "李 30%대 지지율에 부담 느꼈나… 與, ‘조작기소 특검법’ 처리 미루기로",
+   "title": "지뢰 폭발에 부상 당한 부사관 “난 기어서 갈테니 대대장 모셔라”",
    "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004001196",
-   "published_at": "2026-09-30T00:49:14+09:00",
+   "url": "https://n.news.naver.com/article/023/0004001453",
+   "published_at": "2026-10-01T00:50:23+09:00",
    "section_id": "100",
-   "view_rank": 2,
+   "view_rank": 1,
    "selection": "정치",
-   "summary": "더불어민주당이 다음 달 1일 국회 본회의에서 이재명 대통령 사건의 조작 기소 여부를 가릴 ‘조작기소 특검법’을 처리하려 했다가 10월 국정감사 이후로 미루기로 결정했다.…",
-   "summary_long": "더불어민주당이 다음 달 1일 국회 본회의에서 이재명 대통령 사건의 조작 기소 여부를 가릴 ‘조작기소 특검법’을 처리하려 했다가 10월 국정감사 이후로 미루기로 결정했다. 그러나 여권 안팎에선 “대통령 지지율이 30%대까지 하락한 상황에서 공소취소용으로 의심받고 있는 특검법을 처리하는 건 무리라는 데에 청와대와 여당 지도부가 공감대를 이룬 결과”라는 말이 나왔다. 민주당은 이날 의원총회를 열고 조작기소 특검법 처리 여부를 논의했다.\n\n이후 전은수 원내대변인은 기자들과 만나 “조작기소 특검법의 필요성에는 공감했지만, 시기에 대해선 당내 여론을 수렴해 10월 국정감사 이후에 정하기로 했다”며 “이번 국감의 목표가 민생 올인이어서 이를 절실하게 나타내기 위함”이라고 밝혔다. 이후 이 대통령은 지난 18일 기자회견에서 공소취소 권한을 삭제한 특검법의 필요성을 언급했고 민주당은 이르면 10월 1일 특검법 처리를 시도할 예정이었다. 특히 조정식 국회의장 측은 쟁점 법안 처리를 앞두고 여야 간 갈등이 격해진다는 점을 들어 민주당에 특검법 처리를 미루자는 의견을 전달했다고 한다.",
+   "summary": "보디캠에 찍힌 지뢰 폭발 현장. 수색대대장은 1차 지뢰 폭발로 부사관 등이 쓰러지자 “괜찮아?”라면서 그들을 향해 곧장 내달렸지만, 2차 지뢰 폭발로 왼쪽 발목에 심한…",
+   "summary_long": "보디캠에 찍힌 지뢰 폭발 현장. 지난 21일 경기 파주시 남측 비무장지대(DMZ)에서 북한군 지뢰 2발이 폭발했을 당시, 발꿈치에 중상을 입은 부사관은 자신을 부축하던 병사들에게 발목이 절단된 수색대대 대대장을 먼저 후송하라고 지시하며 스스로 기어서 이동했던 것으로 30일 전해졌다. 전날 국회 국방위 현안 질의에서 폭발 후 장병들이 부상자를 후송하는 장면을 담은 보디캠 영상을 확인한 국회 국방위원회 소속 여야 의원들이 전한 현장 상황이다.\n\n합참, DMZ 지뢰 폭발 사고 현장 사진 공개. 수색대대장은 1차 지뢰 폭발로 부사관 등이 쓰러지자 “괜찮아?”라면서 그들을 향해 곧장 내달렸지만, 2차 지뢰 폭발로 왼쪽 발목에 심한 부상을 입고 의식이 희미해졌던 것으로 전해졌다. 북한이 이번 지뢰 폭발은 우리 측의 “자작 광대극”이라며 정전협정 위반 사실을 부인하고 나선 데는 이처럼 현장 영상이 없다는 점이 알려진 것도 영향을 줬을 가능성이 있다.",
    "quotes": [
-    "대통령 지지율이 30%대까지 하락한 상황에서 공소취소용으로 의심받고 있는 특검법을 처리하는 건 무리라는 데에 청와대와 여당 지도부가 공감대를 이룬 결과",
-    "조작기소 특검법의 필요성에는 공감했지만, 시기에 대해선 당내 여론을 수렴해 10월 국정감사 이후에 정하기로 했다",
-    "조 의장 측 입장과 지도부 생각이 일치했고 청와대와 조율을 끝낸 뒤 연기를 결정한 것"
+    "이라며 정전협정 위반 사실을 부인하고 나선 데는 이처럼 현장 영상이 없다는 점이 알려진 것도 영향을 줬을 가능성이 있다. 북한은 2015년 목함지뢰 때도 고의적 지뢰 매설 사실을 부인하며",
+    "(우리 장병들이) 안전한 후송을 위해 일일이 탐침봉으로 지뢰를 확인하는 작업을 추가로 더 했다",
+    "내가 기어갈 테니 대신 대대장을 모셔라"
    ],
    "press": "조선일보",
    "photo": "02.jpg",
    "quoted": {
-    "quote": "대통령 지지율이 30%대까지 하락한 상황에서 공소취소용으로 의심받고 있는 특검법을 처리하는 건 무리라는 데에 청와대와 여당 지도부가 공감대를 이룬 결과",
-    "n": 4,
+    "quote": "(우리 장병들이) 안전한 후송을 위해 일일이 탐침봉으로 지뢰를 확인하는 작업을 추가로 더 했다",
+    "n": 2,
     "verified": 0,
     "items": [
      {
       "press": "조선일보",
-      "title": "李 30%대 지지율에 부담 느꼈나… 與, ‘조작기소 특검법’ 처리 미루기로",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOGwxWXRQVUdLT19BQlM2T2FJV0FCUlZ3YURyNWhHVDdoYjlVcmdBaVNqQlBRWXFkb0NSOVVzdUx2a2NHYW1YU2dTd0FIQlA3UkxjaHJreWNvMUVUVVhDTXFlUzhIRl9ZcWh2NHBtcjV3TE44Wm5yaWlRaDFSdUxFLU14SjVDQQ?oc=5"
+      "title": "지뢰 폭발에 부상 당한 부사관 \"난 기어서 갈테니 대대장 모셔라\"",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbElyUnc3MklZQ3hJbmxlTWt6Wmd4QkJiSzBRaUZtUl9TNm1DdTNjZnNabkxCNFZkdjhucVNQQ2t3UjNEMUl4eWZpcHAxc0JwRjk5ZVg3V1RGVEVUamJZMlhyS0FIVzRWQ1cwbGFqYVgxNktWSl9yWlBpQkthUGczNnZMT0hMWlNmbUhwbkxpcEdyZw?oc=5"
      },
      {
-      "press": "뉴닉",
-      "title": "더불어민주당이 조작기소 특검법 처리를 국정감사 이후로 미루기로 했어요. 🗓️",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tbUdUdVlUNlkxYTRjcWphc3AzWmtGVFc2VkNPU3l6aTBwam1LWm9VM3JxdVhsSGxoUGxBamEwQnJuVzdCdUdSamZaVkQ5azNFVkJJ?oc=5"
-     },
-     {
-      "press": "미디어인뉴스",
-      "title": "[미디어인사이트] '조작기소 특검법' 속도 조절…언론은 지지율·사법 리스크에 주목",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mN3NZdVdOT1lHRVQ0OG9PcEpNNTc2OUQ4ZHF2ZGdpTzlHVG9oRm5mR0N5MVpZUlE4VnRscVJkZXowMjRVTFlqV3ZIX2pNT2JLMS00NFFnQXh2SU5ONnNFeXJQNDd1UmttcE5WLVl3?oc=5"
-     },
-     {
-      "press": "슬로우뉴스",
-      "title": "점심도 거른 네 시간 국무회의, “오늘은 응원과 칭찬 댓글이 많다”: 슬로우레터 9월30일.",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE13dWx3TDZQbkJHWFdmVy16Z1ZfMUstaTdTSmpXVU5aRnFqX1FBWkRmLTl5Y2lhZGV3eldZbjlrUQ?oc=5"
+      "press": "주간조선",
+      "title": "“난 기어갈 테니 대대장 모셔라”…처절했던 DMZ 지뢰 폭발 직후 보니",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41Um1iSUl4ODBnR0NPUk9fNjB1MEZqMUhCcmdsT1hZRGVTVFdLcWN0eHM0RWhFMWZZTmtHSUJmemJBaEVna0VZc2FMaXd5M1pDV2NoWGVPSjhpZWZxYkhlU0UtSkF3VndqdkHSAW5BVV95cUxNekNJTXJKOUF0NGhkNlFZbmF1enFoa1NRRHljR1V3Vko3QTFJb0JBMG1XS25xQi1Rd3Vvb1dBcW9hYnQ5UFF1RDRSaXE4SGszMkdEUTFsU0pzcmZWc0ZZM1l1VDdscGRlX1dsMmJndw?oc=5"
      }
     ]
    }
   },
   {
-   "title": "조희대, 부친상 조의금 봉투째 돌려줘… “가족끼리 조용히 치르려 했다”",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004001290",
-   "published_at": "2026-09-30T13:56:08+09:00",
-   "section_id": "102",
+   "title": "\"자고나면 1억씩 올린다\"…초대박 분당 집주인들 '돌변'",
+   "source": "이데일리",
+   "url": "https://n.news.naver.com/article/018/0006378512",
+   "published_at": "2026-10-01T13:21:07+09:00",
+   "section_id": "101",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "조희대 대법원장이 부친상을 치른 뒤 조문객들이 낸 조의금을 봉투째 돌려준 것으로 30일 뒤늦게 알려졌다. 외부 조문과 조의금을 사양했지만, 일부 조문객이 부의함에 봉투를…",
-   "summary_long": "조희대 대법원장이 29일 오후 서울 서초구 대법원에서 열린 전원합의체 선고기일에 참석하고 있다. 조희대 대법원장이 부친상을 치른 뒤 조문객들이 낸 조의금을 봉투째 돌려준 것으로 30일 뒤늦게 알려졌다. 외부 조문과 조의금을 사양했지만, 일부 조문객이 부의함에 봉투를 넣고 가자 비서관 등을 통해 반환했다는 것이다.\n\n대법원 등에 따르면 조 대법원장은 지난달 30일 부친 조부환씨가 93세 일기로 별세하자 가족들과 조용히 장례를 치르겠다며 부고를 외부에 알리지 말라고 당부했다. 대법원 관계자는 “조 대법원장이 이들이 낸 조의금을 장례 이후 비서관을 통해 봉투째 돌려줬다”고 했다. 조 대법원장은 지난 3일 출근길에 기자들과 만나 “저의 부친상에 위로를 보내주신 모든 분들께 깊이 감사드린다”며 “가족끼리 조촐하게 치르려 했는데 갑자기 요란스럽게 돼서 국민께 송구한 마음”이라고 했다.",
+   "summary": "5개 구역 1만 3429가구 수용 “평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요.” 경기도 성남시 분당구 노후 아파트 단지 경기도 성남시…",
+   "summary_long": "5개 구역 1만 3429가구 수용 “평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요.” 경기도 성남시 분당구 노후 아파트 단지 경기도 성남시 분당에서 2차 특별정비구역 지정 대상으로 선정된 구역의 호가가 단숨에 수억원씩 뛰어오르는 등 인근 시장이 들썩이는 모습이다. 1일 관련업계에 따르면 특별정비구역으로 지정된 △이매촌1 △시범단지1 △파크타운 △푸른마을 △한솔마을2 등 5개 구역의 호가가 실거래가보다 수억원씩 높은 가격으로 전환하고 있다.\n\n여러 단지를 한데 묶는 대규모 통합정비 방식으로, 총 50개 구역 6만 6037가구가 신청하면서 올해 지정 예정 물량인 1만 2000가구의 5.5배에 달했다. 삼성·한신·한양아파트를 묶어 재건축하는 구역으로 면적 32만 3520㎡, 4200가구 규모다. 수내동 일원의 파크타운은 대림·롯데 등 3025가구, 25만 1046㎡ 규모다.",
    "quotes": [
-    "조 대법원장이 이들이 낸 조의금을 장례 이후 비서관을 통해 봉투째 돌려줬다",
-    "가족끼리 조촐하게 치르려 했는데 갑자기 요란스럽게 돼서 국민께 송구한 마음",
-    "저의 부친상에 위로를 보내주신 모든 분들께 깊이 감사드린다"
+    "특별정비구역 지정 이후 하루만에 가격이 1억원씩 오르고 있다. 계약을 하기로 했다가 가격을 더 올려 다시 내놓는 사례도 있다",
+    "기존 가격대를 유지한 매물들이 먼저 팔리고 있고, 높아진 가격대 계약도 이뤄지고 있는 것으로 안다",
+    "평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요"
    ],
-   "press": "조선일보",
+   "press": "이데일리",
    "photo": "03.jpg",
    "quoted": {
-    "quote": "가족끼리 조촐하게 치르려 했는데 갑자기 요란스럽게 돼서 국민께 송구한 마음",
-    "n": 4,
+    "quote": "평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요",
+    "n": 2,
     "verified": 0,
     "items": [
      {
-      "press": "조선일보",
-      "title": "조희대, 부친상 조의금 봉투째 돌려줘… \"가족끼리 조용히 치르려 했다\"",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcGRfMG5admVPX3AyM2NpNGMwVVNSakp6RHpjMGNINGN4TWQzLWQ1NjBEellfQUFpaW1MYS1uc0pDWWxiQ09waXdFdHU4c0t5V2N4UHVPTGhFLUZrQlZvYllMd0ZYeXp5WWFrbUVBYS02ZEVoQXhtekcyc1BDUE9Za3gxM3BLOXc?oc=5"
+      "press": "이데일리",
+      "title": "하루만에 호가 '1억 더'…특별정비 지정에 분당 아파트 '들썩'",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHZmSVB4ZGYtYXlacEpKWWtmQW1kbmRpRlpINDQzTUtWeWEyNUpEWVVQY0VNQmg1a3NJMXg3VVJ2U0o5cFNHWXRLY1pRcnJXZXNJbXh0X2FBTl9INk5ZVHAxSzlKbmpZeHo4ZzFubFEyNzFRV01pdkxpLXhEbGNNTw?oc=5"
      },
      {
-      "press": "TV조선뉴스",
-      "title": "조희대, 부친상 조의금 모두 봉투째 돌려줘…\"가족끼리 조용히 치르려 했다\"",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sOGpjdy10Yks1UEJFajZhdXBjUjRRcW1uc1N5dmJ4ajVwc0kwVXN5UHRBdy1NcjUwSUhxRE5zNWZaNjk3VjhHOWNmcHZWQnc3TmI0QkJWeE1sOTRHYTRmcTNRU21XT0R1S216Y1BuMGZsNHRqODB4a2xDcFlRM2M?oc=5"
-     },
-     {
-      "press": "문화일보",
-      "title": "부친상 조의금 ‘봉투째’ 돌려준 조희대 대법원장",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qV1NqWXU2VTIyb21IdVBkS3NlR3YzanFLSmtJNU9oSjRFRy1FczlOZXhkTlNDQk9rZFUxVkJhX0hxb2s3c2tlTzdXa3BfcFM0?oc=5"
-     },
-     {
-      "press": "뉴데일리",
-      "title": "\"조용히 치르겠다\"던 조희대 … 부친상 조의금 봉투째 돌려줬다",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUQ4OUE1aWMySUhNTDlycHhMaHhYWFBvcDNHNTZZY2ZHa19mWmxHdXFHYVlfZHZDUjJRUVZ5YW9iYlhITW4wZlpRcHM5c2VxYXM5Mm1CSG5uNllTTzFvU3FIZGtTbGp0WWZVU3B6cFB0NWh1a0ZTcnVsbmNTMGFRadIBgAFBVV95cUxPSUQ4OUE1aWMySUhNTDlycHhMaHhYWFBvcDNHNTZZY2ZHa19mWmxHdXFHYVlfZHZDUjJRUVZ5YW9iYlhITW4wZlpRcHM5c2VxYXM5Mm1CSG5uNllTTzFvU3FIZGtTbGp0WWZVU3B6cFB0NWh1a0ZTcnVsbmNTMGFRaQ?oc=5"
+      "press": "이데일리",
+      "title": "\"자고나면 1억씩 올린다\"…초대박 분당 집주인들 '돌변'",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHZmSVB4ZGYtYXlacEpKWWtmQW1kbmRpRlpINDQzTUtWeWEyNUpEWVVQY0VNQmg1a3NJMXg3VVJ2U0o5cFNHWXRLY1pRcnJXZXNJbXh0X2FBTl9INk5ZVHAxSzlKbmpZeHo4ZzFubFEyNzFRV01pdkxpLXhEbGNNTw?oc=5"
      }
     ]
    }
   },
   {
-   "title": "사회인 야구 이겼다고 병역특례?...다시 불붙은 적절성 논란 [앵커리포트]",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002412740",
-   "published_at": "2026-09-30T08:28:45+09:00",
+   "title": "한국인이라며 승차 거부한 대만 택시기사…짐 내던지고 \"배신자 나라\"",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000513535",
+   "published_at": "2026-10-01T06:00:02+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "기쁨도 잠시, 병역특례 적절성 논란에 다시 불이 붙었습니다. 게다가 실제 경쟁 수준과 상관없이 올림픽 3위 이상, 아시안게임 1위라는 정해진 기준만 만족하면 되다 보니…",
-   "summary_long": "하지만 기쁨도 잠시, 병역특례 적절성 논란에 다시 불이 붙었습니다. 현행법상 올림픽 동메달 이상 또는 아시안게임 금메달 입상자는 체육요원으로 편입돼 현역병으로 복무하는 대신 선수 활동을 이어갈 수 있습니다. 그래서 국가 차원에서 선수들에게 동기를 부여하고 기량을 유지하게 할 목적으로 병역특례 제도를 도입했죠.\n\n하지만 냉전이 종식되고 우리나라의 국력이 강해지면서 병역특례가 계속 필요하냐는 지적이 나오기 시작했습니다. 지난 2022년에는, 국위 선양으로 치면 BTS만 한 사람들이 없는데, 이들은 왜 병역 혜택을 주지 않느냐는 목소리에 국회 국방위원회가 실제로 여론조사까지 해봤습니다. 게다가 실제 경쟁 수준과 상관없이 올림픽 3위 이상, 아시안게임 1위라는 정해진 기준만 만족하면 되다 보니, 경쟁 수준이 낮은 일부 종목이 병역 탈출구로 변질됐다는 비판도 꾸준히 제기돼 왔습니다.",
-   "press": "YTN",
-   "photo": "04.jpg"
-  },
-  {
-   "title": "한동훈, 김여정 ‘자작극’ 발언에 “적반하장…李, 北에 한마디도 못해”",
-   "source": "헤럴드경제",
-   "url": "https://n.news.naver.com/article/016/0002703609",
-   "published_at": "2026-09-30T11:02:24+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 597,
-   "comment_agree": 268,
-   "comment_disagree": 46,
-   "division_balance": 0.292994,
-   "division_score": 1.685467,
-   "selection": "찬반 쟁점",
-   "summary": "한동훈 무소속 의원이 30일 서부전선 비무장지대 지뢰 폭발 사고와 관련한 정부 대응을 비판하며 이재명 대통령이 북한에 보다 단호한 태도를 보여야 한다고 주장했다. 한…",
-   "summary_long": "군, 북한 지뢰 도발 가능성 언급. 한동훈 무소속 의원이 24일 용산구 국방부 앞에서 비무장지대(DMZ) 내 지뢰 추정 폭발사고 관련 즉각 조사를 촉구하는 1인시위를 하고 있다. 한동훈 무소속 의원이 30일 서부전선 비무장지대(DMZ) 지뢰 폭발 사고와 관련한 정부 대응을 비판하며 이재명 대통령이 북한에 보다 단호한 태도를 보여야 한다고 주장했다.\n\n특히 북한이 이번 사고를 ‘자작극’이라고 주장한 것을 두고 정부의 소극적인 대응이 북한의 ‘적반하장식’ 태도를 불러왔다고 지적했다. 한 의원은 이날 페이스북에서 “이재명 정권은 21일 지뢰공격 직후부터 어떻게든 ‘북한 지뢰공격이 아니거나 북한 지뢰공격임이 드러나지 않기를 바라는 듯한 소극적이고 수세적인 태도‘를 취했다”며 “북한 김여정 적반하장 입장이 나오기 전까지 이재명 대통령은 북한에 대해 한마디도 못했다“고 밝혔다. 이어 “그런 태도가 북한 정권이 마치 이재명 대통령 약점 잡은 듯이 적반하장으로 나올 수 있는 환경을 만들어 준 것”이라며 “대한민국이 공격당했습니다.",
+   "summary": "7개 언론사10,785개 기사. 26개 언론사37,819개 기사.",
+   "summary_long": "이어 \"캐리어 안에 있던 노트북 등도 모두 파손된 상태였다\"며 \"경찰과 이야기하는 과정에서도 택시기사가 '한국이 진짜 싫다', '배신자 나라'라고 말했다\"고 주장했습니다. 이 기사는 언론사에서 사회 섹션으로 분류했습니다. 기사의 섹션 정보는 해당 언론사의 분류를 따르고 있습니다.\n\n황석영 작가가 이재명 대통령을 향한 최근 여권 내 비판과 갈등을 두고 “대통령이 뭘 그렇게 잘못했느냐”며 공개적으로 엄호했습니다. 7개 언론사10,785개 기사.",
    "quotes": [
-    "이재명 대통령이 ‘대북송금을 받은 당사자 북한 김정은 정권’에 약점잡혔고, 그 아킬레스건 때문에 이재명 정권은 대북정책에서 국익에 반해 굴종적으로 흐르게 될 가능성이 크다는 것을 2025년 이재명 정권 출범 직후부터 우려해왔다",
-    "이재명 정권은 21일 지뢰공격 직후부터 어떻게든 ‘북한 지뢰공격이 아니거나 북한 지뢰공격임이 드러나지 않기를 바라는 듯한 소극적이고 수세적인 태도‘를 취했다",
-    "이번 사건은 도발시기와 수법에 있어서 10여년 전 세상을 소란하게 했던 ‘목함지뢰사건’을 그대로 방불케 하는 명백한 자작극"
-   ],
-   "press": "헤럴드경제",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "이재명 정권은 21일 지뢰공격 직후부터 어떻게든 ‘북한 지뢰공격이 아니거나 북한 지뢰공격임이 드러나지 않기를 바라는 듯한 소극적이고 수세적인 태도‘를 취했다",
-    "n": 6,
-    "verified": 0,
-    "items": [
-     {
-      "press": "다음뉴스",
-      "title": "한동훈, 김여정 ‘자작극’ 발언에 “적반하장…李, 北에 한마디도 못해”",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nX1Q3dlRFNTBsWUVxbVp3aldnQjRqREJzLWtpamZJZDgwSm1kUVVHclRUMWViUTNCNHdrZVpYd0NwX1M3LTAxWkhENWFURlFTTFpQYg?oc=5"
-     },
-     {
-      "press": "국민일보",
-      "title": "한동훈 “대북송금 약점 잡힌 건 李 개인…대한민국 아니다”",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53c3pKemVyUm9kaTlhU19KUUZKc1hnVFRWcW9FOHFtbU9fTHVxS20zNkhoc0NTRVFMTkVEb1NXNVkxUEVrbjkwUVVScDZMdUgyQWV2SW9mRW9RZmE0ZnpiY2d0RHBuSlhhMkVZcdIBbEFVX3lxTE53c3pKemVyUm9kaTlhU19KUUZKc1hnVFRWcW9FOHFtbU9fTHVxS20zNkhoc0NTRVFMTkVEb1NXNVkxUEVrbjkwUVVScDZMdUgyQWV2SW9mRW9RZmE0ZnpiY2d0RHBuSlhhMkVZcQ?oc=5"
-     },
-     {
-      "press": "매일신문",
-      "title": "DMZ 지뢰 사고에 `대북송금` 소환한 한동훈…`약점 잡힌 건 李대통령 개인`",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xSVBoNVhGTUdoVkE5aVQ3WDgtTVdDV0xwNTd5dV9QVGFGRU9QaGlkcTJ1QnUyWlRBU0RTaGVNQlJaa2NaVlJ0N0h1bmVIU0xxY2Q1azNKa0d6X3QwQ29DQkVR?oc=5"
-     },
-     {
-      "press": "데일리안",
-      "title": "한동훈, 北김여정 지뢰 부인에 \"李정부가 적반하장 환경 만들어준 것\"",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOSEYwRFVVd2VvNXVDSmlmMGdHcEFiUmt0SlMyYjNEamI1UVAtN2tTTlV4dlhsTVRBS2g1N3JTQVZjekRUalk5VE1kQjRjV1lFMVRjOVZXY1VEckp5YmxhUGlBeDl0OVFRcExNVjYyeGtHQ09IdFMxQ1Y4OEFMaHZsaUNWb0dXdS1WNklQVUFOLURLeTVVNXhJblkxYzN3Q01QSTZqWGtkQi05TXVHSk5qOXZGdkp4TzdaZWVVLTdIcVk1TTFOaHZfVXVkU05UenNKcjNGMXFqWDdVYXVoQ2N4NmRHZmFrZ3EtUjYzVGQwOFdvazhrODBMUDZfZnhFNGpFTngyRUt2QUJGZG9sUVctVHlVdEVjOENG?oc=5"
-     },
-     {
-      "press": "gukjenews.com",
-      "title": "한동훈 \"정부, 지뢰공격 대응 소극·수세적\"",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhV3hoQkw5OFVtRDVQdmVxZzFLaHM4Q3RWMWxLUUUzbXl4bG9mWUhsaVpUYVBhOS1yTkI4ZXluMjNicFpPejJTd1NRMWV0Nms1RjFPdDcwWmlxalBHaE1SS1RtRE1McktSOXdFbFlR?oc=5"
-     },
-     {
-      "press": "위키트리",
-      "title": "김여정 “자작극” 담화 직후… 한동훈 “약점 잡힌 건 이재명 개인”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52S3ctYVFpOVJITDc1Q1J4ckRvSDJSdW5FZ3hhdElvZ0RmLUJrREJyZ19fOHNQbVBvdzNNVm5LV3VseGJDNUU0cmh2RVBxLTdFWHVPS0Zn?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "'암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치",
-   "source": "오마이뉴스",
-   "url": "https://n.news.naver.com/article/047/0002530705",
-   "published_at": "2026-09-30T09:36:10+09:00",
-   "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 116,
-   "comment_agree": 136,
-   "comment_disagree": 23,
-   "division_balance": 0.289308,
-   "division_score": 1.468289,
-   "selection": "찬반 쟁점",
-   "summary": "주진우 의원은 영화 제작사 하이브미디어코프에 대한 중국계 자본의 투자 가능성을 문제 삼았다. 회사는 \"당사 및 영화 <암살자>의 제작과 투자 과정에 중국 자본이 유입된…",
-   "summary_long": "9월 28일, 국민의힘 의원들은 영화 <암살자(들)>이 육영수 여사 피격 사건을 왜곡했다며 잇달아 기자회견과 방송에 나섰다. 작품에 중국계 자본 400억 원이 들어갔다는 주장과 네이버 평점이 조작됐다는 의혹이 제기됐고, 허진호 감독을 국정감사에 부르자는 요구도 나왔다. 주진우 의원은 영화 제작사 하이브미디어코프에 대한 중국계 자본의 투자 가능성을 문제 삼았다.\n\n그러나 현재 확인되는 400억 원은 영화에 직접 투자한 금액이 아니라 제작사 하이브미디어코프에 대한 투자 추진 규모다. 회사는 \"당사 및 영화 <암살자(들)>의 제작과 투자 과정에 중국 자본이 유입된 사실은 전혀 없다\"고 밝혔다. 제작사에 대한 외국계 투자 추진만으로 영화에 대한 자본의 영향까지 단정하기도 어렵다.",
-   "quotes": [
-    "참고인이 나름대로 해명하는 것을 죄인 다루듯이 하는 것은 국회의원의 품위를 떨어뜨리는 것",
-    "당사 및 영화 <암살자(들)>의 제작과 투자 과정에 중국 자본이 유입된 사실은 전혀 없다",
-    "중신그룹이라고 하면 전부 다 중국 공산당의 지시를 받고 지휘를 받는 곳들"
-   ],
-   "press": "오마이뉴스",
-   "photo": "06.jpg",
-   "quoted": {
-    "quote": "당사 및 영화 <암살자(들)>의 제작과 투자 과정에 중국 자본이 유입된 사실은 전혀 없다",
-    "n": 8,
-    "verified": 0,
-    "items": [
-     {
-      "press": "OhmyNews",
-      "title": "'암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDUllWMnRhRk1OZm12NzU2Z1AzQWFpTm9LY25GQllLQ1J3Y2dEVTRsVUZka0dnX2d6NV9aVy1PUEQ3RWNFWjB1Y29mWlVQZXl0SFJ0UVVmMDdHakJlRDZicDloV1kxeGV2OGJBdFc3WG82SHhyOG1R?oc=5"
-     },
-     {
-      "press": "미디어오늘",
-      "title": "‘암살자(들)’ 제작사 “제작과 투자 과정에 중국 자본 유입 전혀 없다”",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KUXlmVEM2cUNZMnFYR0p5a283cFhjckp3T1hjZHQyNUZpNkVDWEJteGhMd1FNbUpWb1hSZi1sMkg5cFdwcms4Z3lSa3NHdWhrME1JdnZqVjVvYWlYVjBvTDZMdC0wN0pHbzBCbHN0akU?oc=5"
-     },
-     {
-      "press": "경기일보",
-      "title": "‘암살자(들)’ 中자본 의혹에 제작사 “전혀 사실 아냐…국내 자본 제작”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IYk5PcTJET3poVWtBNmlYYk53WjJQenJTb1kwNTNKdm45RU1nMXpOSk1HdkRORm1TRjhvRTBRekprMmo1VklTNVVsdVhNeTdrSmxFN3d5XzNyNVE?oc=5"
-     },
-     {
-      "press": "미주중앙일보",
-      "title": "‘암살자(들)’ 제작사, 中 자본 유입설 부인…“전혀 사실 아니다”",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tY2tIOTFEMmxmdy1kQVItbjU5VmJaT2V1dTktMVh5ZGhmRnIyMVZUbDFzRWdFUU5WV2J6N0tTRHlFSTd6dlVraVBVblVEcC1OUmtxeG5lSElOM3RaT3FxOVhB?oc=5"
-     },
-     {
-      "press": "뉴스1",
-      "title": "'암살자(들)' 中 자본유입설에 \"전혀 없다…사실과 다른 정보 재생산 않길\"",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tMDFLZVB4UkxRNklIcFBfT2FKdU56bkRXUDdnRG82ZHgtdi1HVlF2MXpQMEwwcDd3QjByZzVxdk9EWS11cmtGZWJDbWh5eXNSeXg5dzRhOHFIQ1FRQUplR1FjVGdBaXVMWmfSAW9BVV95cUxNaVpFbHJoTjJmUV9aUFNnS1FVUks0OFJCZXZNcGltdjZKbkYtUjcxX1pVbE9BcnZzblFqTmg1S3h1a1NzRzMxTkQ5ZzFSQ256RkR1ZTZ4LWN2QjI4QzA4ZTRnZGpPT1ZRcEJOX1dOdjA?oc=5"
-     },
-     {
-      "press": "여성신문",
-      "title": "영화 ‘암살자(들)’ 둘러싼 루머 확산에... 제작진 “사실 무근”",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DcG9zamtBQ1Mza1Q5SVNNLWw1TThTWG1SRWZXc29SYzFjcm01b1BlUkJXd29UdlVZelhTc3BFX0xTWHA2Q1g5SkUwNWhUR1g3MzlDOFFCNVBHNXVfNFZKbzdidE90aDZtQ2dPYllKc3M?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "김여정 \"서울의 자작 광대극…총탄 한발이라도 떨어지면 가차 없는 보복\"",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000513339",
-   "published_at": "2026-09-30T06:17:58+09:00",
-   "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 347,
-   "comment_agree": 175,
-   "comment_disagree": 28,
-   "division_balance": 0.275862,
-   "division_score": 1.467068,
-   "selection": "찬반 쟁점",
-   "summary": "\"지난 9월 21일 문제의 지뢰폭발이 일어난 그때 벌써 우리는 서울의 연출대본에 대하여 예상하였으며 한국군부 깡패들이펴고 있는 모략극의 저의도 간파했다\"며 \"결론부터…",
-   "summary_long": "오늘(30일) 조선중앙통신에 따르면 김 총무부장은 어제(29일) 발표한 담화에서 \"한국 무장깡패들이 남부국경선 일대에서 발생한 지뢰폭발 사건과 관련해 그 무슨 조사결과라는 것을 발표하면서 우리를 또다시 걸고 드는도발 행위를 감행했다\"며 \"한국 족속들답게 극작법이 너무나 저급하고 저열하다\"고 말했습니다. 이어 \"지난 9월 21일 문제의 지뢰폭발이 일어난 그때 벌써 우리는 서울의 연출대본에 대하여 예상하였으며 한국군부 깡패들이펴고 있는 모략극의 저의도 간파했다\"며 \"결론부터 말한다면 이번 사건은 도발 시기와 수법에 있어서 10여년 전 세상을 소란하게 했던 '목함지뢰 사건'을 그대로 방불케 하는 명백한 자… 또 김 총무부장은 \"세상이다 알다시피 우리 군대는 두 해 전부터 국경 강화사업의일환으로남부국경 일대에서차단물공사를 진행하고 있으며 이는 그 어떤 군사적 목적과는 무관한 철저한 주권행사일 뿐\"이라면서 \"한국군부가 떠들어대고 있는 우리 군인들의 월선이라는 것은 정세 격화의 책임을 우리에게 넘겨씌워 보려는…\n\n한국군부는 육안으로도 확인할 수 있는 경계선 하나 제대로 판별하지 못해 자기 땅, 남의 땅도 분간하지 못하는 저들의 저능을 두고 세상이 무엇이라고 하겠는가 생각해보아야 한다\"고 했습니다. 아울러 \"만약 남부국경영구화공사를 진행하는 우리 군인들을 향해 한국군 깡패들이 경고사격이 아닌 실지사격을 가해온다면 우리 국경부대들은 즉시적이고가차 없는 보복을 가할 것\"이라며 \"이미 그에 대한 대응 행동지침은 국경선방어구분대들에 하달된 상태고 최근 도발이 잦은 한국군 3군단 21보병사단 비무장 지대… 끝으로 김 총무부장은 \"다시 한번 분명히 하지만 국경 지역에서 우리에 대한 악의적인 트집과 도발의 빈도수가 잦아지고 그것이 실제적인 우리의 영토와 군사주권에 대한 침해로 이어진다면 불량배 무리들은여직 체험해보지 못한 상황을 마주해야 할 것\"이라며 \"서울의 자작 광대극의 극적 절정은 결코 재미가 없을 것…",
-   "quotes": [
-    "다시 한번 분명히 하지만 국경 지역에서 우리에 대한 악의적인 트집과 도발의 빈도수가 잦아지고 그것이 실제적인 우리의 영토와 군사주권에 대한 침해로 이어진다면 불량배 무리들은여직 체험해보지 못한 상황을 마주해야 할 것",
-    "이것은 명백히 트집 잡기이고 도발이다. 한국군부는 육안으로도 확인할 수 있는 경계선 하나 제대로 판별하지 못해 자기 땅, 남의 땅도 분간하지 못하는 저들의 저능을 두고 세상이 무엇이라고 하겠는가 생각해보아야 한다",
-    "이미 그에 대한 대응 행동지침은 국경선방어구분대들에 하달된 상태고 최근 도발이 잦은 한국군 3군단 21보병사단 비무장 지대 방향에 우리 군대는 전술적 반격수단을 증강하는 조치를 취하기로 했다"
+    "경찰과 이야기하는 과정에서도 택시기사가 '한국이 진짜 싫다', '배신자 나라'라고 말했다",
+    "좌파패륜영화 감독·배우, 강제 참배·사과했나? 고등학생들은 했다",
+    "호르무즈 해협 지나던 유조선, 피격에 화재‥선원 무사"
    ],
    "press": "JTBC",
-   "photo": "07.jpg",
+   "photo": "04.jpg",
    "quoted": {
-    "quote": "다시 한번 분명히 하지만 국경 지역에서 우리에 대한 악의적인 트집과 도발의 빈도수가 잦아지고 그것이 실제적인 우리의 영토와 군사주권에 대한 침해로 이어진다면 불량배 무리들은여직 체험해보지 못한 상황을 마주해야 할 것",
+    "quote": "호르무즈 해협 지나던 유조선, 피격에 화재‥선원 무사",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "JTBC",
+      "title": "한국인이라며 승차 거부한 대만 택시기사…짐 내던지고 \"배신자 나라\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRTkc1blBibXhnQ3RRVEppYVJ4bE9IRkw1ejRodVFfZ2pxRlRMR1JHVUdyTTZLRW9DUEwxaWF4ZkEwT3lURDdrRVJjdmRscXF3ZmpOcA?oc=5"
+     },
+     {
+      "press": "서울신문",
+      "title": "“좌파패륜영화 감독·배우, 강제 참배·사과했나? 고등학생들은 했다” 주진우, ‘암살자(들)’ 질타",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xajgtbGxUMjN5V0ZnVTE2OVc4dGRrdnpCZl8tNDFxeXU2bGNPYmVNSU1ZUlhsY2RqX3dOMkx4cGlERkFRTnVRZk13a1J1d2ZfSkxZSjZqMGJfODdpb0pjQTRHR0xVM0Q3SUNJb0lUcVI?oc=5"
+     },
+     {
+      "press": "MBC 뉴스",
+      "title": "\"호르무즈 해협 지나던 유조선, 피격에 화재‥선원 무사\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pNkdZaTFJVDdZRzdPc1pPWEVWRS1HMmtnRGo4c3NDaDJIUmR1WnNjQmVtazA5ZWRScmVEUzF4R1JoRHo2SHp6ZEhkUnA4Z3RtMTJBdVFORkxwbFItc2JkSTFrZ3A0a25oblA4VWpKNjM0N2t20gF0QVVfeXFMTWk2R1lpMUlUN1lHN09zWk9YRVZFLUcya2dEajhzc0NoMkhSZHVac2NCZW1rMDllZFJyZURTMXhHUmhEejZIenpkSGRScDhndG0xMkF1UU5GTHBsUi1zYmRJMWtncDRrbmhuUDhVako2MzQ3a3Y?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "국힘 김태규 \"전두환 내란 아냐\"...민주 \"헌법 부정 망언\"",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002413583",
+   "published_at": "2026-10-01T18:17:33+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "comment_count": 742,
+   "comment_agree": 335,
+   "comment_disagree": 91,
+   "division_balance": 0.42723,
+   "division_score": 2.58764,
+   "selection": "찬반 쟁점",
+   "summary": "국민의힘 김태규 의원이 영화 '암살자'과 관련한 대화를 주고받는 과정에서, 전두환 씨가 내란을 한 게 아니라고 발언해 논란이 되고 있습니다. 더불어민주당은 윤석열 전…",
+   "summary_long": "국민의힘 김태규 의원이 영화 '암살자(들)'과 관련한 대화를 주고받는 과정에서, 전두환 씨가 내란을 한 게 아니라고 발언해 논란이 되고 있습니다. 더불어민주당은 윤석열 전 대통령에 더해, 사법적 판단이 끝난 전 씨의 내란마저 부정한다며 김 의원에 대한 의원직 제명을 촉구했습니다. 논란의 발언은 한 유튜브 방송에서 진행자가 국민의힘 김태규 의원의 최근 상임위 질의 내용을 되짚는 과정에서 나왔습니다.\n\n최휘영 문체부 장관에게 영화 '암살자(들)'의 문제를 지적하기 위해, 북한군이 5·18에 개입했는지, 또 6·25는 남침인지 북침인지를 꼭 물어야 했느냐며 진행자가 반대 예시를 들자, 김 의원은 이렇게 답했습니다. [김 태 규 / 국민의힘 의원 (JTBC 유튜브 '장르만 여의도') : (어떤 민주당 의원이 이 정부가 아닌 상황이라 치고, 윤석열은 내란이오, 아니오?) 아니죠. 당황한 진행자가 전두환 씨 내란은 대법원에서 무기징역을 확정한 사건이라고 다시 질문했지만, 김 의원은 사법적 판단이 정치적으로 왜곡된 사례가 많다며, 전 씨의 내란도 역사적 논의의 영역에 남겨둬야 한단 입장을 굽히지 않았습니다.",
+   "press": "YTN",
+   "photo": "05.jpg"
+  },
+  {
+   "title": "李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]",
+   "source": "노컷뉴스",
+   "url": "https://n.news.naver.com/article/079/0004194683",
+   "published_at": "2026-10-01T12:03:11+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 174,
+   "comment_agree": 166,
+   "comment_disagree": 52,
+   "division_balance": 0.477064,
+   "division_score": 2.570933,
+   "selection": "찬반 쟁점",
+   "summary": "지난해 5월 16일 이재명 대통령이 더불어민주당 대선 후보로 활동할 때 전북 군산시 구시청광장에서 열린 유세에서 황석영 작가와 악수하고 있다. 진보 원로 황석영 작가가…",
+   "summary_long": "지난해 5월 16일 이재명 대통령이 더불어민주당 대선 후보로 활동할 때 전북 군산시 구시청광장에서 열린 유세에서 황석영 작가와 악수하고 있다. 진보 원로 황석영 작가가 최근 정치권 갈등 상황을 두고 이재명 대통령은 잘못한 것이 없다며 방송인 김어준 씨 등을 비판했다. 30일 황 작가는 JTBC '이가혁 라이브'에 출연해 최근 논란이 된 방송인 김어준 씨의 발언을 먼저 문제삼았다.\n\n그는 \"'사랑의 시기는 끝났다'는 것은 어불성설이고, '앞으로는 우정의 관계다'는 것도 굉장히 오만한 얘기\"라고 비판했다. 다만 \"(윤석열 전 대통령이) 파면되고 나서 뉴스공장이 굉장히 정치적으로 권력화돼 가는 모습이 보여 염려를 했다\"고 덧붙였다. 이날 황 작가는 새 정부가 두 달만에 조국 혁신정책연구원장의 사면을 결정한 것은 부적절했다면서 \"용산에 볼펜도 없어서 맨바닥 폐허에서 시작하는데 그때 벌써 이미 조국 씨 사면 얘기가 나오더라.",
+   "quotes": [
+    "내가 옥살이를 해보니까 눈보라 치고 추울 때 (사면하면 어떻겠냐고 주변에 얘기했다). 크리스마스 특사가 (이재명 정부) 6개월 되는 (시기라) 이 시간 텀이 좋았다",
+    "작은 파당을 지어 당권 탈취나 합당 문제를 일으키며 권력투쟁을 벌인 것은 백낙청 선생 말대로 반역 행위와 같다고 하는데 동감한다",
+    "(이 대통령이) 사과하고 그러는데 정말 안 됐다. 역사적 급박한 상황에서 퇴행하는 자들은 역사의 뒤안길로 보내고 지나가면 된다"
+   ],
+   "press": "노컷뉴스",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "작은 파당을 지어 당권 탈취나 합당 문제를 일으키며 권력투쟁을 벌인 것은 백낙청 선생 말대로 반역 행위와 같다고 하는데 동감한다",
     "n": 4,
     "verified": 0,
     "items": [
      {
       "press": "다음뉴스",
-      "title": "김여정 \"서울의 자작 광대극…총탄 한발이라도 떨어지면 가차 없는 보복\"",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRdkFsU1ZxMTRhZ3VJdWZJODV6ZU15SDhBRWw3YnV2TlIzeFRxVTJNZmYyV1hfUG5ySWpSMlBhWWRFblJHSUE?oc=5"
+      "title": "李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE91SC1rZXNUSXJreXFXTTZsZWtXMzR1Y3Y0RzNyemhkUEx0b1UweXlmQVFPdEJXSXNacjZady1TQTlSajRVekE?oc=5"
      },
      {
-      "press": "현장언론 민플러스",
-      "title": "김여정 부장 담화, “DMZ 지뢰사고는 자작극”…도발 잦은 21사단 방향 ‘반격수단’ 증강",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LcENiM3h6aVl3MHRUdEF1MjRBTm5DRWR4RWZxYmFrdFNGY1l6ZDlEZFN2OUw5XzdRMGItV0h3Nl9CYnpHVlB5cy1IdDBSazE0LXpHN2xmcWNydU9mSzRXU0V1WU0yTlhIOFFsLVpB?oc=5"
+      "press": "주간경향",
+      "title": "황석영 “김어준, 대단히 오만···줄세우고, 출연시키고, 배제하는 걸로 영향력 행사”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11WGUtTWhfNG4zTUc4d0tyVTV4dkhlcXVPb2Itc3NMVWFqbXlPTUZSV3lYSUdiVjBzU3o1Q0tTOFQyUXRMdi1UVHFEZUF5UGsxUGU2V3ZkYUlrTF9ic2c?oc=5"
      },
      {
-      "press": "통일뉴스",
-      "title": "김여정, 'DMZ 북한군 매설 지뢰폭발사고설'은 '명백한 자작극'",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvMHJ0YUJ6ZWZMWFk5cWgtWXliWkw0Y1FEbFFkSF95dGNhMzloYWNrRjBRUU1DMUZmQjVGcW9nNThvQ0FMMThlNzdmSlBZaVlad2Z3ZlJuRUR6SFhxN2YwTEVmWE5wNHVlMUttbDVB?oc=5"
+      "press": "뉴시스",
+      "title": "'진보원로' 황석영 \"이 대통령, 잘못 없다…김어준 오만\" 작심발언",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkaUF2WHJaNXlDdEpwb043cER4Ymg1S0VsanFIUlRKTndsWnNrdFpiMGU5TDd5WURuMEp1cWdrbmJZYWhZMUM5UlVYT1JfU3hvQ2F4T1Vfc0xLTm1ja2F0U3FtNHlyU0xqRk9pZnBXQmxsYmZiVmZEctIBeEFVX3lxTFBkaUF2WHJaNXlDdEpwb043cER4Ymg1S0VsanFIUlRKTndsWnNrdFpiMGU5TDd5WURuMEp1cWdrbmJZYWhZMUM5UlVYT1JfU3hvQ2F4T1Vfc0xLTm1ja2F0U3FtNHlyU0xqRk9pZnBXQmxsYmZiVmZEcg?oc=5"
      },
      {
-      "press": "뉴스핌",
-      "title": "[전문] DMZ 지뢰폭발 관련 北 김여정 '발뺌' 담화",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zLUNTS09TZWU0VlBCNGVfUVBpNnR0ckI1WUVMdzl4cm9hNzlVMV9BRGJ3NWN0TjhJTW9DcW9RMXQ3RjhsVzBON2dlT2tFaTRfRGoxUk9OWlhTREgt?oc=5"
+      "press": "다음뉴스",
+      "title": "소설가 황석영 “김어준 오만해…대통령 잘못이 뭐 있나”",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Wc3d3a0lkd2xzVnY5OC14TGdwYjdDMnk5T3duTHdsellsZFVvaXZvVmU2ODZQX0ZPVlNGOHFUNkRESFI3akE?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "한동훈 \"與, 노무현 '조작수사 피해자'라 대국민 가스라이팅\"",
+   "source": "노컷뉴스",
+   "url": "https://n.news.naver.com/article/079/0004194907",
+   "published_at": "2026-10-01T16:59:15+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 120,
+   "comment_agree": 131,
+   "comment_disagree": 33,
+   "division_balance": 0.402439,
+   "division_score": 2.054832,
+   "selection": "찬반 쟁점",
+   "summary": "'검찰 폐지' D-1 여론전. 특히 고 노무현 전 대통령 등이 검찰의 '조작 수사'에 희생됐다는 더불어민주당의 '검찰 악마화'가 형사사법체계 부실화와 국민 피해로…",
+   "summary_long": "'검찰 폐지' D-1 여론전. 특히 고(故) 노무현 전 대통령 등이 검찰의 '조작 수사'에 희생됐다는 더불어민주당의 '검찰 악마화'가 형사사법체계 부실화와 국민 피해로 이어지게 됐다고 맹비난했다. 한 의원은 1일 여의도 국회의원회관에서 주최한 '개정 형사소송법 시행 D-1: 검찰 폐지, 내일부터 지옥문이 열린다' 토론회에서 \"(이제는) 국가가 제대로 도와드리지 못할 테니, 내일부터는 사기당하지 마시고 시비 걸리지 말라\"며 이같이 말했다.\n\n또 \"민주당 정치인들은 그들이 검찰의 '조작 수사'를 당해 순교해 왔다는 식의 거짓 전설을 만들어 지지층에 주입하고 국민을 상대로 가스라이팅해왔다\"며 \"'노무현 신화'가 대표적\"이라고 했다. 그럼에도 여권이 노 전 대통령을 미화한 것은 \"'노무현을 사랑해서'가 아니라, 검찰을 향한 적대심을 키워 '9억 받아 먹고 살아온' 자신들의 범죄를 끼워팔기 하기 위함\"이라고 맹폭했다. 그 결론은 70년간 유지된 검찰 제도의 전면 폐지로, 차후 발생할 피해는 모두 국민 몫이라는 것.",
+   "quotes": [
+    "이라고 비꼬았다. 공소시효가 임박한 사건 등에 한해 검사가 개정 형사소송법 시행 후 3개월간 수사를 할 수 있게 명시한 부칙 또한 유명무실해질 거라 관측하면서다. 그는",
+    "본인 또는 가족이 스폰서 박연차(前태광실업 회장)로부터 3억원 넘는 피아제 시계를 받고, 수십억원을 불법적으로 받은 것은, 가릴 수 없는 본질",
+    "민주당 정치인들은 그들이 검찰의 '조작 수사'를 당해 순교해 왔다는 식의 거짓 전설을 만들어 지지층에 주입하고 국민을 상대로 가스라이팅해왔다"
+   ],
+   "press": "노컷뉴스",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "민주당 정치인들은 그들이 검찰의 '조작 수사'를 당해 순교해 왔다는 식의 거짓 전설을 만들어 지지층에 주입하고 국민을 상대로 가스라이팅해왔다",
+    "n": 1,
+    "verified": 0,
+    "items": [
+     {
+      "press": "노컷뉴스",
+      "title": "한동훈 \"與, 노무현 '조작수사 피해자'라 대국민 가스라이팅\"",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aTHlJMWtTY0RfckVUWFlTcjRIbkFkWWRHNHhIeHZJaWNkaEpIcUlmVWlpWGJIRUJGRk1LTDVnZjhPS3pjV1hTcUp0WENFS0w1a2c?oc=5"
      }
     ]
    }
@@ -326,139 +239,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/01.png",
-   "pngBytes": 1892483,
-   "feed": "오늘의 뉴스 2026-10-01\n\n· [속보] \"대박터져\" 박지원의 예언?…'암살자(들)' 하루만에 '박스오피스' 1위 재탈환\n· 李 30%대 지지율에 부담 느꼈나… 與, ‘조작기소 특검법’ 처리 미루기로\n· 조희대, 부친상 조의금 봉투째 돌려줘… “가족끼리 조용히 치르려 했다”\n· 사회인 야구 이겼다고 병역특례?...다시 불붙은 적절성 논란 [앵커리포트]\n· 한동훈, 김여정 ‘자작극’ 발언에 “적반하장…李, 北에 한마디도 못해”\n· '암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치\n· 김여정 \"서울의 자작 광대극…총탄 한발이라도 떨어지면 가차 없는 보복\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/01.png",
+   "pngBytes": 1576250,
+   "feed": "오늘의 뉴스 2026-10-02\n\n· 靑, 김용범 후임에 하준경 발탁…'明의 남자' 송영길·김병주도 특보 배치\n· 지뢰 폭발에 부상 당한 부사관 “난 기어서 갈테니 대대장 모셔라”\n· \"자고나면 1억씩 올린다\"…초대박 분당 집주인들 '돌변'\n· 한국인이라며 승차 거부한 대만 택시기사…짐 내던지고 \"배신자 나라\"\n· 국힘 김태규 \"전두환 내란 아냐\"...민주 \"헌법 부정 망언\"\n· 李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]\n· 한동훈 \"與, 노무현 '조작수사 피해자'라 대국민 가스라이팅\""
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/02.png",
-   "pngBytes": 1881272,
-   "title": "[속보] \"대박터져\" 박지원의 예언?…'암살자(들)' 하루만에 '박스오피스' 1위 재탈환",
-   "summary": "국민의힘이 연일 '역사 왜곡' 공세를 펴고 있는 영화 '암살자'이 하루 만에 다시 박스오피스 1위 자리를 탈환했다. 30일 영화관입장권 통합전산망에 따르면 '암살자'은…",
-   "summary_long": "국민의힘이 연일 '역사 왜곡' 공세를 펴고 있는 영화 '암살자(들)'이 하루 만에 다시 박스오피스 1위 자리를 탈환했다. 30일 영화관입장권 통합전산망에 따르면 '암살자(들)'은 지난 29일 하루 동안 6만1464명의 관객을 모아 박스오피스 1위를 탈환했다. 그러나 이를 두고 국민의힘 일부 인사들이 \"역사 왜곡\"이라며 반발하는 등 정치권에서 논란이 일고 있다.\n\n정점식 국민의힘 원내대표는 \"역사왜곡 영화 암살자(들)에 대한 논란이 커지고 있다. 국회 문화체육관광위원회에서는 국민의힘 간사인 조은희 의원이 '암살자(들)'을 연출한 허진호 감독을 국정감사 증인 또는 참고인으로 채택하자고 요구했고, 전직 국민의힘 서울시의원은 허 감독 등 제작진을 명예훼손 혐의로 경찰에 고발하기도 했다. 반면 민주당 박지원 의원은 이에 대해 \"'암살자(들)' 역시 논픽션이 아닌 픽션 극영화\"라며 \"국회에서까지 떠들어주니 오히려 홍보가 잘되겠다.",
-   "press": "프레시안",
-   "source": "프레시안",
-   "link": "https://n.news.naver.com/article/002/0002458795",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/02.png",
+   "pngBytes": 1631813,
+   "title": "靑, 김용범 후임에 하준경 발탁…'明의 남자' 송영길·김병주도 특보 배치",
+   "summary": "이재명 대통령이 1일 신임 청와대 정책실장에 하준경 경제성장수석비서관을 임명했다. 하 신임 정책실장은 경제학자 출신으로 청와대에서 경제성장수석으로서 대통령의 경제정책을…",
+   "summary_long": "이재명 대통령이 1일 신임 청와대 정책실장에 하준경 경제성장수석비서관을 임명했다. 후임 경제성장수석에는 문신학 산업통상부 차관을 기용하며 새로운 얼굴 없이 청와대 경제라인을 재편했다. 여기에 여당 내 친명(親이재명) 핵심 인사들로 꼽히는 송영길·김병주 더불어민주당 의원에게는 각각 대통령비서실 평화외교특별보좌관과 국방정책특별보좌관직을 맡겼다.\n\n하 신임 정책실장은 경제학자 출신으로 청와대에서 경제성장수석으로서 대통령의 경제정책을 보좌해왔다. 1967년생 전남 해남 출신이며 하 신임 실장과 마찬가지로 서울대 경제학과를 졸업했다. 송 신임 특보는 1963년생 전남 고흥 출신으로 연세대 경영학과를 졸업했다.",
+   "press": "시사저널",
+   "source": "시사저널",
+   "link": "https://n.news.naver.com/article/586/0000139232",
    "selection": "정치",
-   "feed": "뉴스 01. [속보] \"대박터져\" 박지원의 예언?…'암살자(들)' 하루만에 '박스오피스' 1위 재탈환\n\n국민의힘이 연일 '역사 왜곡' 공세를 펴고 있는 영화 '암살자(들)'이 하루 만에 다시 박스오피스 1위 자리를 탈환했다. 30일 영화관입장권 통합전산망에 따르면 '암살자(들)'은 지난 29일 하루 동안 6만1464명의 관객을 모아 박스오피스 1위를 탈환했다. 그러나 이를 두고 국민의힘 일부 인사들이 \"역사 왜곡\"이라며 반발하는 등 정치권에서 논란이 일고 있다.\n\n정점식 국민의힘 원내대표는 \"역사왜곡 영화 암살자(들)에 대한 논란이 커지고 있다. 국회 문화체육관광위원회에서는 국민의힘 간사인 조은희 의원이 '암살자(들)'을 연출한 허진호 감독을 국정감사 증인 또는 참고인으로 채택하자고 요구했고, 전직 국민의힘 서울시의원은 허 감독 등 제작진을 명예훼손 혐의로 경찰에 고발하기도 했다. 반면 민주당 박지원 의원은 이에 대해 \"'암살자(들)' 역시 논픽션이 아닌 픽션 극영화\"라며 \"국회에서까지 떠들어주니 오히려 홍보가 잘되겠다.\n\n출처: 프레시안 / https://n.news.naver.com/article/002/0002458795"
+   "feed": "뉴스 01. 靑, 김용범 후임에 하준경 발탁…'明의 남자' 송영길·김병주도 특보 배치\n\n이재명 대통령이 1일 신임 청와대 정책실장에 하준경 경제성장수석비서관을 임명했다. 후임 경제성장수석에는 문신학 산업통상부 차관을 기용하며 새로운 얼굴 없이 청와대 경제라인을 재편했다. 여기에 여당 내 친명(親이재명) 핵심 인사들로 꼽히는 송영길·김병주 더불어민주당 의원에게는 각각 대통령비서실 평화외교특별보좌관과 국방정책특별보좌관직을 맡겼다.\n\n하 신임 정책실장은 경제학자 출신으로 청와대에서 경제성장수석으로서 대통령의 경제정책을 보좌해왔다. 1967년생 전남 해남 출신이며 하 신임 실장과 마찬가지로 서울대 경제학과를 졸업했다. 송 신임 특보는 1963년생 전남 고흥 출신으로 연세대 경영학과를 졸업했다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000139232"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/03.png",
-   "pngBytes": 2055303,
-   "title": "李 30%대 지지율에 부담 느꼈나… 與, ‘조작기소 특검법’ 처리 미루기로",
-   "summary": "더불어민주당이 다음 달 1일 국회 본회의에서 이재명 대통령 사건의 조작 기소 여부를 가릴 ‘조작기소 특검법’을 처리하려 했다가 10월 국정감사 이후로 미루기로 결정했다.…",
-   "summary_long": "더불어민주당이 다음 달 1일 국회 본회의에서 이재명 대통령 사건의 조작 기소 여부를 가릴 ‘조작기소 특검법’을 처리하려 했다가 10월 국정감사 이후로 미루기로 결정했다. 그러나 여권 안팎에선 “대통령 지지율이 30%대까지 하락한 상황에서 공소취소용으로 의심받고 있는 특검법을 처리하는 건 무리라는 데에 청와대와 여당 지도부가 공감대를 이룬 결과”라는 말이 나왔다. 민주당은 이날 의원총회를 열고 조작기소 특검법 처리 여부를 논의했다.\n\n이후 전은수 원내대변인은 기자들과 만나 “조작기소 특검법의 필요성에는 공감했지만, 시기에 대해선 당내 여론을 수렴해 10월 국정감사 이후에 정하기로 했다”며 “이번 국감의 목표가 민생 올인이어서 이를 절실하게 나타내기 위함”이라고 밝혔다. 이후 이 대통령은 지난 18일 기자회견에서 공소취소 권한을 삭제한 특검법의 필요성을 언급했고 민주당은 이르면 10월 1일 특검법 처리를 시도할 예정이었다. 특히 조정식 국회의장 측은 쟁점 법안 처리를 앞두고 여야 간 갈등이 격해진다는 점을 들어 민주당에 특검법 처리를 미루자는 의견을 전달했다고 한다.",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/03.png",
+   "pngBytes": 2712106,
+   "title": "지뢰 폭발에 부상 당한 부사관 “난 기어서 갈테니 대대장 모셔라”",
+   "summary": "보디캠에 찍힌 지뢰 폭발 현장. 수색대대장은 1차 지뢰 폭발로 부사관 등이 쓰러지자 “괜찮아?”라면서 그들을 향해 곧장 내달렸지만, 2차 지뢰 폭발로 왼쪽 발목에 심한…",
+   "summary_long": "보디캠에 찍힌 지뢰 폭발 현장. 지난 21일 경기 파주시 남측 비무장지대(DMZ)에서 북한군 지뢰 2발이 폭발했을 당시, 발꿈치에 중상을 입은 부사관은 자신을 부축하던 병사들에게 발목이 절단된 수색대대 대대장을 먼저 후송하라고 지시하며 스스로 기어서 이동했던 것으로 30일 전해졌다. 전날 국회 국방위 현안 질의에서 폭발 후 장병들이 부상자를 후송하는 장면을 담은 보디캠 영상을 확인한 국회 국방위원회 소속 여야 의원들이 전한 현장 상황이다.\n\n합참, DMZ 지뢰 폭발 사고 현장 사진 공개. 수색대대장은 1차 지뢰 폭발로 부사관 등이 쓰러지자 “괜찮아?”라면서 그들을 향해 곧장 내달렸지만, 2차 지뢰 폭발로 왼쪽 발목에 심한 부상을 입고 의식이 희미해졌던 것으로 전해졌다. 북한이 이번 지뢰 폭발은 우리 측의 “자작 광대극”이라며 정전협정 위반 사실을 부인하고 나선 데는 이처럼 현장 영상이 없다는 점이 알려진 것도 영향을 줬을 가능성이 있다.",
    "press": "조선일보",
    "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004001196",
+   "link": "https://n.news.naver.com/article/023/0004001453",
    "selection": "정치",
-   "feed": "뉴스 02. 李 30%대 지지율에 부담 느꼈나… 與, ‘조작기소 특검법’ 처리 미루기로\n\n더불어민주당이 다음 달 1일 국회 본회의에서 이재명 대통령 사건의 조작 기소 여부를 가릴 ‘조작기소 특검법’을 처리하려 했다가 10월 국정감사 이후로 미루기로 결정했다. 그러나 여권 안팎에선 “대통령 지지율이 30%대까지 하락한 상황에서 공소취소용으로 의심받고 있는 특검법을 처리하는 건 무리라는 데에 청와대와 여당 지도부가 공감대를 이룬 결과”라는 말이 나왔다. 민주당은 이날 의원총회를 열고 조작기소 특검법 처리 여부를 논의했다.\n\n이후 전은수 원내대변인은 기자들과 만나 “조작기소 특검법의 필요성에는 공감했지만, 시기에 대해선 당내 여론을 수렴해 10월 국정감사 이후에 정하기로 했다”며 “이번 국감의 목표가 민생 올인이어서 이를 절실하게 나타내기 위함”이라고 밝혔다. 이후 이 대통령은 지난 18일 기자회견에서 공소취소 권한을 삭제한 특검법의 필요성을 언급했고 민주당은 이르면 10월 1일 특검법 처리를 시도할 예정이었다. 특히 조정식 국회의장 측은 쟁점 법안 처리를 앞두고 여야 간 갈등이 격해진다는 점을 들어 민주당에 특검법 처리를 미루자는 의견을 전달했다고 한다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004001196"
+   "feed": "뉴스 02. 지뢰 폭발에 부상 당한 부사관 “난 기어서 갈테니 대대장 모셔라”\n\n보디캠에 찍힌 지뢰 폭발 현장. 지난 21일 경기 파주시 남측 비무장지대(DMZ)에서 북한군 지뢰 2발이 폭발했을 당시, 발꿈치에 중상을 입은 부사관은 자신을 부축하던 병사들에게 발목이 절단된 수색대대 대대장을 먼저 후송하라고 지시하며 스스로 기어서 이동했던 것으로 30일 전해졌다. 전날 국회 국방위 현안 질의에서 폭발 후 장병들이 부상자를 후송하는 장면을 담은 보디캠 영상을 확인한 국회 국방위원회 소속 여야 의원들이 전한 현장 상황이다.\n\n합참, DMZ 지뢰 폭발 사고 현장 사진 공개. 수색대대장은 1차 지뢰 폭발로 부사관 등이 쓰러지자 “괜찮아?”라면서 그들을 향해 곧장 내달렸지만, 2차 지뢰 폭발로 왼쪽 발목에 심한 부상을 입고 의식이 희미해졌던 것으로 전해졌다. 북한이 이번 지뢰 폭발은 우리 측의 “자작 광대극”이라며 정전협정 위반 사실을 부인하고 나선 데는 이처럼 현장 영상이 없다는 점이 알려진 것도 영향을 줬을 가능성이 있다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004001453"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/04.png",
-   "pngBytes": 1760907,
-   "title": "조희대, 부친상 조의금 봉투째 돌려줘… “가족끼리 조용히 치르려 했다”",
-   "summary": "조희대 대법원장이 부친상을 치른 뒤 조문객들이 낸 조의금을 봉투째 돌려준 것으로 30일 뒤늦게 알려졌다. 외부 조문과 조의금을 사양했지만, 일부 조문객이 부의함에 봉투를…",
-   "summary_long": "조희대 대법원장이 29일 오후 서울 서초구 대법원에서 열린 전원합의체 선고기일에 참석하고 있다. 조희대 대법원장이 부친상을 치른 뒤 조문객들이 낸 조의금을 봉투째 돌려준 것으로 30일 뒤늦게 알려졌다. 외부 조문과 조의금을 사양했지만, 일부 조문객이 부의함에 봉투를 넣고 가자 비서관 등을 통해 반환했다는 것이다.\n\n대법원 등에 따르면 조 대법원장은 지난달 30일 부친 조부환씨가 93세 일기로 별세하자 가족들과 조용히 장례를 치르겠다며 부고를 외부에 알리지 말라고 당부했다. 대법원 관계자는 “조 대법원장이 이들이 낸 조의금을 장례 이후 비서관을 통해 봉투째 돌려줬다”고 했다. 조 대법원장은 지난 3일 출근길에 기자들과 만나 “저의 부친상에 위로를 보내주신 모든 분들께 깊이 감사드린다”며 “가족끼리 조촐하게 치르려 했는데 갑자기 요란스럽게 돼서 국민께 송구한 마음”이라고 했다.",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004001290",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/04.png",
+   "pngBytes": 2142137,
+   "title": "\"자고나면 1억씩 올린다\"…초대박 분당 집주인들 '돌변'",
+   "summary": "5개 구역 1만 3429가구 수용 “평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요.” 경기도 성남시 분당구 노후 아파트 단지 경기도 성남시…",
+   "summary_long": "5개 구역 1만 3429가구 수용 “평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요.” 경기도 성남시 분당구 노후 아파트 단지 경기도 성남시 분당에서 2차 특별정비구역 지정 대상으로 선정된 구역의 호가가 단숨에 수억원씩 뛰어오르는 등 인근 시장이 들썩이는 모습이다. 1일 관련업계에 따르면 특별정비구역으로 지정된 △이매촌1 △시범단지1 △파크타운 △푸른마을 △한솔마을2 등 5개 구역의 호가가 실거래가보다 수억원씩 높은 가격으로 전환하고 있다.\n\n여러 단지를 한데 묶는 대규모 통합정비 방식으로, 총 50개 구역 6만 6037가구가 신청하면서 올해 지정 예정 물량인 1만 2000가구의 5.5배에 달했다. 삼성·한신·한양아파트를 묶어 재건축하는 구역으로 면적 32만 3520㎡, 4200가구 규모다. 수내동 일원의 파크타운은 대림·롯데 등 3025가구, 25만 1046㎡ 규모다.",
+   "press": "이데일리",
+   "source": "이데일리",
+   "link": "https://n.news.naver.com/article/018/0006378512",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 조희대, 부친상 조의금 봉투째 돌려줘… “가족끼리 조용히 치르려 했다”\n\n조희대 대법원장이 29일 오후 서울 서초구 대법원에서 열린 전원합의체 선고기일에 참석하고 있다. 조희대 대법원장이 부친상을 치른 뒤 조문객들이 낸 조의금을 봉투째 돌려준 것으로 30일 뒤늦게 알려졌다. 외부 조문과 조의금을 사양했지만, 일부 조문객이 부의함에 봉투를 넣고 가자 비서관 등을 통해 반환했다는 것이다.\n\n대법원 등에 따르면 조 대법원장은 지난달 30일 부친 조부환씨가 93세 일기로 별세하자 가족들과 조용히 장례를 치르겠다며 부고를 외부에 알리지 말라고 당부했다. 대법원 관계자는 “조 대법원장이 이들이 낸 조의금을 장례 이후 비서관을 통해 봉투째 돌려줬다”고 했다. 조 대법원장은 지난 3일 출근길에 기자들과 만나 “저의 부친상에 위로를 보내주신 모든 분들께 깊이 감사드린다”며 “가족끼리 조촐하게 치르려 했는데 갑자기 요란스럽게 돼서 국민께 송구한 마음”이라고 했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004001290"
+   "feed": "뉴스 03. \"자고나면 1억씩 올린다\"…초대박 분당 집주인들 '돌변'\n\n5개 구역 1만 3429가구 수용 “평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요.” 경기도 성남시 분당구 노후 아파트 단지 경기도 성남시 분당에서 2차 특별정비구역 지정 대상으로 선정된 구역의 호가가 단숨에 수억원씩 뛰어오르는 등 인근 시장이 들썩이는 모습이다. 1일 관련업계에 따르면 특별정비구역으로 지정된 △이매촌1 △시범단지1 △파크타운 △푸른마을 △한솔마을2 등 5개 구역의 호가가 실거래가보다 수억원씩 높은 가격으로 전환하고 있다.\n\n여러 단지를 한데 묶는 대규모 통합정비 방식으로, 총 50개 구역 6만 6037가구가 신청하면서 올해 지정 예정 물량인 1만 2000가구의 5.5배에 달했다. 삼성·한신·한양아파트를 묶어 재건축하는 구역으로 면적 32만 3520㎡, 4200가구 규모다. 수내동 일원의 파크타운은 대림·롯데 등 3025가구, 25만 1046㎡ 규모다.\n\n출처: 이데일리 / https://n.news.naver.com/article/018/0006378512"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/05.png",
-   "pngBytes": 1705564,
-   "title": "사회인 야구 이겼다고 병역특례?...다시 불붙은 적절성 논란 [앵커리포트]",
-   "summary": "기쁨도 잠시, 병역특례 적절성 논란에 다시 불이 붙었습니다. 게다가 실제 경쟁 수준과 상관없이 올림픽 3위 이상, 아시안게임 1위라는 정해진 기준만 만족하면 되다 보니…",
-   "summary_long": "하지만 기쁨도 잠시, 병역특례 적절성 논란에 다시 불이 붙었습니다. 현행법상 올림픽 동메달 이상 또는 아시안게임 금메달 입상자는 체육요원으로 편입돼 현역병으로 복무하는 대신 선수 활동을 이어갈 수 있습니다. 그래서 국가 차원에서 선수들에게 동기를 부여하고 기량을 유지하게 할 목적으로 병역특례 제도를 도입했죠.\n\n하지만 냉전이 종식되고 우리나라의 국력이 강해지면서 병역특례가 계속 필요하냐는 지적이 나오기 시작했습니다. 지난 2022년에는, 국위 선양으로 치면 BTS만 한 사람들이 없는데, 이들은 왜 병역 혜택을 주지 않느냐는 목소리에 국회 국방위원회가 실제로 여론조사까지 해봤습니다. 게다가 실제 경쟁 수준과 상관없이 올림픽 3위 이상, 아시안게임 1위라는 정해진 기준만 만족하면 되다 보니, 경쟁 수준이 낮은 일부 종목이 병역 탈출구로 변질됐다는 비판도 꾸준히 제기돼 왔습니다.",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002412740",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/05.png",
+   "pngBytes": 1968599,
+   "title": "한국인이라며 승차 거부한 대만 택시기사…짐 내던지고 \"배신자 나라\"",
+   "summary": "7개 언론사10,785개 기사. 26개 언론사37,819개 기사.",
+   "summary_long": "이어 \"캐리어 안에 있던 노트북 등도 모두 파손된 상태였다\"며 \"경찰과 이야기하는 과정에서도 택시기사가 '한국이 진짜 싫다', '배신자 나라'라고 말했다\"고 주장했습니다. 이 기사는 언론사에서 사회 섹션으로 분류했습니다. 기사의 섹션 정보는 해당 언론사의 분류를 따르고 있습니다.\n\n황석영 작가가 이재명 대통령을 향한 최근 여권 내 비판과 갈등을 두고 “대통령이 뭘 그렇게 잘못했느냐”며 공개적으로 엄호했습니다. 7개 언론사10,785개 기사.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000513535",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 사회인 야구 이겼다고 병역특례?...다시 불붙은 적절성 논란 [앵커리포트]\n\n하지만 기쁨도 잠시, 병역특례 적절성 논란에 다시 불이 붙었습니다. 현행법상 올림픽 동메달 이상 또는 아시안게임 금메달 입상자는 체육요원으로 편입돼 현역병으로 복무하는 대신 선수 활동을 이어갈 수 있습니다. 그래서 국가 차원에서 선수들에게 동기를 부여하고 기량을 유지하게 할 목적으로 병역특례 제도를 도입했죠.\n\n하지만 냉전이 종식되고 우리나라의 국력이 강해지면서 병역특례가 계속 필요하냐는 지적이 나오기 시작했습니다. 지난 2022년에는, 국위 선양으로 치면 BTS만 한 사람들이 없는데, 이들은 왜 병역 혜택을 주지 않느냐는 목소리에 국회 국방위원회가 실제로 여론조사까지 해봤습니다. 게다가 실제 경쟁 수준과 상관없이 올림픽 3위 이상, 아시안게임 1위라는 정해진 기준만 만족하면 되다 보니, 경쟁 수준이 낮은 일부 종목이 병역 탈출구로 변질됐다는 비판도 꾸준히 제기돼 왔습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002412740"
+   "feed": "뉴스 04. 한국인이라며 승차 거부한 대만 택시기사…짐 내던지고 \"배신자 나라\"\n\n이어 \"캐리어 안에 있던 노트북 등도 모두 파손된 상태였다\"며 \"경찰과 이야기하는 과정에서도 택시기사가 '한국이 진짜 싫다', '배신자 나라'라고 말했다\"고 주장했습니다. 이 기사는 언론사에서 사회 섹션으로 분류했습니다. 기사의 섹션 정보는 해당 언론사의 분류를 따르고 있습니다.\n\n황석영 작가가 이재명 대통령을 향한 최근 여권 내 비판과 갈등을 두고 “대통령이 뭘 그렇게 잘못했느냐”며 공개적으로 엄호했습니다. 7개 언론사10,785개 기사.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000513535"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/06.png",
-   "pngBytes": 1776543,
-   "title": "한동훈, 김여정 ‘자작극’ 발언에 “적반하장…李, 北에 한마디도 못해”",
-   "summary": "한동훈 무소속 의원이 30일 서부전선 비무장지대 지뢰 폭발 사고와 관련한 정부 대응을 비판하며 이재명 대통령이 북한에 보다 단호한 태도를 보여야 한다고 주장했다. 한…",
-   "summary_long": "군, 북한 지뢰 도발 가능성 언급. 한동훈 무소속 의원이 24일 용산구 국방부 앞에서 비무장지대(DMZ) 내 지뢰 추정 폭발사고 관련 즉각 조사를 촉구하는 1인시위를 하고 있다. 한동훈 무소속 의원이 30일 서부전선 비무장지대(DMZ) 지뢰 폭발 사고와 관련한 정부 대응을 비판하며 이재명 대통령이 북한에 보다 단호한 태도를 보여야 한다고 주장했다.\n\n특히 북한이 이번 사고를 ‘자작극’이라고 주장한 것을 두고 정부의 소극적인 대응이 북한의 ‘적반하장식’ 태도를 불러왔다고 지적했다. 한 의원은 이날 페이스북에서 “이재명 정권은 21일 지뢰공격 직후부터 어떻게든 ‘북한 지뢰공격이 아니거나 북한 지뢰공격임이 드러나지 않기를 바라는 듯한 소극적이고 수세적인 태도‘를 취했다”며 “북한 김여정 적반하장 입장이 나오기 전까지 이재명 대통령은 북한에 대해 한마디도 못했다“고 밝혔다. 이어 “그런 태도가 북한 정권이 마치 이재명 대통령 약점 잡은 듯이 적반하장으로 나올 수 있는 환경을 만들어 준 것”이라며 “대한민국이 공격당했습니다.",
-   "press": "헤럴드경제",
-   "source": "헤럴드경제",
-   "link": "https://n.news.naver.com/article/016/0002703609",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/06.png",
+   "pngBytes": 1753008,
+   "title": "국힘 김태규 \"전두환 내란 아냐\"...민주 \"헌법 부정 망언\"",
+   "summary": "국민의힘 김태규 의원이 영화 '암살자'과 관련한 대화를 주고받는 과정에서, 전두환 씨가 내란을 한 게 아니라고 발언해 논란이 되고 있습니다. 더불어민주당은 윤석열 전…",
+   "summary_long": "국민의힘 김태규 의원이 영화 '암살자(들)'과 관련한 대화를 주고받는 과정에서, 전두환 씨가 내란을 한 게 아니라고 발언해 논란이 되고 있습니다. 더불어민주당은 윤석열 전 대통령에 더해, 사법적 판단이 끝난 전 씨의 내란마저 부정한다며 김 의원에 대한 의원직 제명을 촉구했습니다. 논란의 발언은 한 유튜브 방송에서 진행자가 국민의힘 김태규 의원의 최근 상임위 질의 내용을 되짚는 과정에서 나왔습니다.\n\n최휘영 문체부 장관에게 영화 '암살자(들)'의 문제를 지적하기 위해, 북한군이 5·18에 개입했는지, 또 6·25는 남침인지 북침인지를 꼭 물어야 했느냐며 진행자가 반대 예시를 들자, 김 의원은 이렇게 답했습니다. [김 태 규 / 국민의힘 의원 (JTBC 유튜브 '장르만 여의도') : (어떤 민주당 의원이 이 정부가 아닌 상황이라 치고, 윤석열은 내란이오, 아니오?) 아니죠. 당황한 진행자가 전두환 씨 내란은 대법원에서 무기징역을 확정한 사건이라고 다시 질문했지만, 김 의원은 사법적 판단이 정치적으로 왜곡된 사례가 많다며, 전 씨의 내란도 역사적 논의의 영역에 남겨둬야 한단 입장을 굽히지 않았습니다.",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002413583",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 한동훈, 김여정 ‘자작극’ 발언에 “적반하장…李, 北에 한마디도 못해”\n\n군, 북한 지뢰 도발 가능성 언급. 한동훈 무소속 의원이 24일 용산구 국방부 앞에서 비무장지대(DMZ) 내 지뢰 추정 폭발사고 관련 즉각 조사를 촉구하는 1인시위를 하고 있다. 한동훈 무소속 의원이 30일 서부전선 비무장지대(DMZ) 지뢰 폭발 사고와 관련한 정부 대응을 비판하며 이재명 대통령이 북한에 보다 단호한 태도를 보여야 한다고 주장했다.\n\n특히 북한이 이번 사고를 ‘자작극’이라고 주장한 것을 두고 정부의 소극적인 대응이 북한의 ‘적반하장식’ 태도를 불러왔다고 지적했다. 한 의원은 이날 페이스북에서 “이재명 정권은 21일 지뢰공격 직후부터 어떻게든 ‘북한 지뢰공격이 아니거나 북한 지뢰공격임이 드러나지 않기를 바라는 듯한 소극적이고 수세적인 태도‘를 취했다”며 “북한 김여정 적반하장 입장이 나오기 전까지 이재명 대통령은 북한에 대해 한마디도 못했다“고 밝혔다. 이어 “그런 태도가 북한 정권이 마치 이재명 대통령 약점 잡은 듯이 적반하장으로 나올 수 있는 환경을 만들어 준 것”이라며 “대한민국이 공격당했습니다.\n\n출처: 헤럴드경제 / https://n.news.naver.com/article/016/0002703609"
+   "feed": "뉴스 05. 국힘 김태규 \"전두환 내란 아냐\"...민주 \"헌법 부정 망언\"\n\n국민의힘 김태규 의원이 영화 '암살자(들)'과 관련한 대화를 주고받는 과정에서, 전두환 씨가 내란을 한 게 아니라고 발언해 논란이 되고 있습니다. 더불어민주당은 윤석열 전 대통령에 더해, 사법적 판단이 끝난 전 씨의 내란마저 부정한다며 김 의원에 대한 의원직 제명을 촉구했습니다. 논란의 발언은 한 유튜브 방송에서 진행자가 국민의힘 김태규 의원의 최근 상임위 질의 내용을 되짚는 과정에서 나왔습니다.\n\n최휘영 문체부 장관에게 영화 '암살자(들)'의 문제를 지적하기 위해, 북한군이 5·18에 개입했는지, 또 6·25는 남침인지 북침인지를 꼭 물어야 했느냐며 진행자가 반대 예시를 들자, 김 의원은 이렇게 답했습니다. [김 태 규 / 국민의힘 의원 (JTBC 유튜브 '장르만 여의도') : (어떤 민주당 의원이 이 정부가 아닌 상황이라 치고, 윤석열은 내란이오, 아니오?) 아니죠. 당황한 진행자가 전두환 씨 내란은 대법원에서 무기징역을 확정한 사건이라고 다시 질문했지만, 김 의원은 사법적 판단이 정치적으로 왜곡된 사례가 많다며, 전 씨의 내란도 역사적 논의의 영역에 남겨둬야 한단 입장을 굽히지 않았습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002413583"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/07.png",
-   "pngBytes": 2129360,
-   "title": "'암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치",
-   "summary": "주진우 의원은 영화 제작사 하이브미디어코프에 대한 중국계 자본의 투자 가능성을 문제 삼았다. 회사는 \"당사 및 영화 <암살자>의 제작과 투자 과정에 중국 자본이 유입된…",
-   "summary_long": "9월 28일, 국민의힘 의원들은 영화 <암살자(들)>이 육영수 여사 피격 사건을 왜곡했다며 잇달아 기자회견과 방송에 나섰다. 작품에 중국계 자본 400억 원이 들어갔다는 주장과 네이버 평점이 조작됐다는 의혹이 제기됐고, 허진호 감독을 국정감사에 부르자는 요구도 나왔다. 주진우 의원은 영화 제작사 하이브미디어코프에 대한 중국계 자본의 투자 가능성을 문제 삼았다.\n\n그러나 현재 확인되는 400억 원은 영화에 직접 투자한 금액이 아니라 제작사 하이브미디어코프에 대한 투자 추진 규모다. 회사는 \"당사 및 영화 <암살자(들)>의 제작과 투자 과정에 중국 자본이 유입된 사실은 전혀 없다\"고 밝혔다. 제작사에 대한 외국계 투자 추진만으로 영화에 대한 자본의 영향까지 단정하기도 어렵다.",
-   "press": "오마이뉴스",
-   "source": "오마이뉴스",
-   "link": "https://n.news.naver.com/article/047/0002530705",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/07.png",
+   "pngBytes": 2124581,
+   "title": "李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]",
+   "summary": "지난해 5월 16일 이재명 대통령이 더불어민주당 대선 후보로 활동할 때 전북 군산시 구시청광장에서 열린 유세에서 황석영 작가와 악수하고 있다. 진보 원로 황석영 작가가…",
+   "summary_long": "지난해 5월 16일 이재명 대통령이 더불어민주당 대선 후보로 활동할 때 전북 군산시 구시청광장에서 열린 유세에서 황석영 작가와 악수하고 있다. 진보 원로 황석영 작가가 최근 정치권 갈등 상황을 두고 이재명 대통령은 잘못한 것이 없다며 방송인 김어준 씨 등을 비판했다. 30일 황 작가는 JTBC '이가혁 라이브'에 출연해 최근 논란이 된 방송인 김어준 씨의 발언을 먼저 문제삼았다.\n\n그는 \"'사랑의 시기는 끝났다'는 것은 어불성설이고, '앞으로는 우정의 관계다'는 것도 굉장히 오만한 얘기\"라고 비판했다. 다만 \"(윤석열 전 대통령이) 파면되고 나서 뉴스공장이 굉장히 정치적으로 권력화돼 가는 모습이 보여 염려를 했다\"고 덧붙였다. 이날 황 작가는 새 정부가 두 달만에 조국 혁신정책연구원장의 사면을 결정한 것은 부적절했다면서 \"용산에 볼펜도 없어서 맨바닥 폐허에서 시작하는데 그때 벌써 이미 조국 씨 사면 얘기가 나오더라.",
+   "press": "노컷뉴스",
+   "source": "노컷뉴스",
+   "link": "https://n.news.naver.com/article/079/0004194683",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. '암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치\n\n9월 28일, 국민의힘 의원들은 영화 <암살자(들)>이 육영수 여사 피격 사건을 왜곡했다며 잇달아 기자회견과 방송에 나섰다. 작품에 중국계 자본 400억 원이 들어갔다는 주장과 네이버 평점이 조작됐다는 의혹이 제기됐고, 허진호 감독을 국정감사에 부르자는 요구도 나왔다. 주진우 의원은 영화 제작사 하이브미디어코프에 대한 중국계 자본의 투자 가능성을 문제 삼았다.\n\n그러나 현재 확인되는 400억 원은 영화에 직접 투자한 금액이 아니라 제작사 하이브미디어코프에 대한 투자 추진 규모다. 회사는 \"당사 및 영화 <암살자(들)>의 제작과 투자 과정에 중국 자본이 유입된 사실은 전혀 없다\"고 밝혔다. 제작사에 대한 외국계 투자 추진만으로 영화에 대한 자본의 영향까지 단정하기도 어렵다.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002530705"
+   "feed": "뉴스 06. 李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]\n\n지난해 5월 16일 이재명 대통령이 더불어민주당 대선 후보로 활동할 때 전북 군산시 구시청광장에서 열린 유세에서 황석영 작가와 악수하고 있다. 진보 원로 황석영 작가가 최근 정치권 갈등 상황을 두고 이재명 대통령은 잘못한 것이 없다며 방송인 김어준 씨 등을 비판했다. 30일 황 작가는 JTBC '이가혁 라이브'에 출연해 최근 논란이 된 방송인 김어준 씨의 발언을 먼저 문제삼았다.\n\n그는 \"'사랑의 시기는 끝났다'는 것은 어불성설이고, '앞으로는 우정의 관계다'는 것도 굉장히 오만한 얘기\"라고 비판했다. 다만 \"(윤석열 전 대통령이) 파면되고 나서 뉴스공장이 굉장히 정치적으로 권력화돼 가는 모습이 보여 염려를 했다\"고 덧붙였다. 이날 황 작가는 새 정부가 두 달만에 조국 혁신정책연구원장의 사면을 결정한 것은 부적절했다면서 \"용산에 볼펜도 없어서 맨바닥 폐허에서 시작하는데 그때 벌써 이미 조국 씨 사면 얘기가 나오더라.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004194683"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/08.png",
-   "pngBytes": 1822796,
-   "title": "김여정 \"서울의 자작 광대극…총탄 한발이라도 떨어지면 가차 없는 보복\"",
-   "summary": "\"지난 9월 21일 문제의 지뢰폭발이 일어난 그때 벌써 우리는 서울의 연출대본에 대하여 예상하였으며 한국군부 깡패들이펴고 있는 모략극의 저의도 간파했다\"며 \"결론부터…",
-   "summary_long": "오늘(30일) 조선중앙통신에 따르면 김 총무부장은 어제(29일) 발표한 담화에서 \"한국 무장깡패들이 남부국경선 일대에서 발생한 지뢰폭발 사건과 관련해 그 무슨 조사결과라는 것을 발표하면서 우리를 또다시 걸고 드는도발 행위를 감행했다\"며 \"한국 족속들답게 극작법이 너무나 저급하고 저열하다\"고 말했습니다. 이어 \"지난 9월 21일 문제의 지뢰폭발이 일어난 그때 벌써 우리는 서울의 연출대본에 대하여 예상하였으며 한국군부 깡패들이펴고 있는 모략극의 저의도 간파했다\"며 \"결론부터 말한다면 이번 사건은 도발 시기와 수법에 있어서 10여년 전 세상을 소란하게 했던 '목함지뢰 사건'을 그대로 방불케 하는 명백한 자… 또 김 총무부장은 \"세상이다 알다시피 우리 군대는 두 해 전부터 국경 강화사업의일환으로남부국경 일대에서차단물공사를 진행하고 있으며 이는 그 어떤 군사적 목적과는 무관한 철저한 주권행사일 뿐\"이라면서 \"한국군부가 떠들어대고 있는 우리 군인들의 월선이라는 것은 정세 격화의 책임을 우리에게 넘겨씌워 보려는…\n\n한국군부는 육안으로도 확인할 수 있는 경계선 하나 제대로 판별하지 못해 자기 땅, 남의 땅도 분간하지 못하는 저들의 저능을 두고 세상이 무엇이라고 하겠는가 생각해보아야 한다\"고 했습니다. 아울러 \"만약 남부국경영구화공사를 진행하는 우리 군인들을 향해 한국군 깡패들이 경고사격이 아닌 실지사격을 가해온다면 우리 국경부대들은 즉시적이고가차 없는 보복을 가할 것\"이라며 \"이미 그에 대한 대응 행동지침은 국경선방어구분대들에 하달된 상태고 최근 도발이 잦은 한국군 3군단 21보병사단 비무장 지대… 끝으로 김 총무부장은 \"다시 한번 분명히 하지만 국경 지역에서 우리에 대한 악의적인 트집과 도발의 빈도수가 잦아지고 그것이 실제적인 우리의 영토와 군사주권에 대한 침해로 이어진다면 불량배 무리들은여직 체험해보지 못한 상황을 마주해야 할 것\"이라며 \"서울의 자작 광대극의 극적 절정은 결코 재미가 없을 것…",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000513339",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/08.png",
+   "pngBytes": 1644801,
+   "title": "한동훈 \"與, 노무현 '조작수사 피해자'라 대국민 가스라이팅\"",
+   "summary": "'검찰 폐지' D-1 여론전. 특히 고 노무현 전 대통령 등이 검찰의 '조작 수사'에 희생됐다는 더불어민주당의 '검찰 악마화'가 형사사법체계 부실화와 국민 피해로…",
+   "summary_long": "'검찰 폐지' D-1 여론전. 특히 고(故) 노무현 전 대통령 등이 검찰의 '조작 수사'에 희생됐다는 더불어민주당의 '검찰 악마화'가 형사사법체계 부실화와 국민 피해로 이어지게 됐다고 맹비난했다. 한 의원은 1일 여의도 국회의원회관에서 주최한 '개정 형사소송법 시행 D-1: 검찰 폐지, 내일부터 지옥문이 열린다' 토론회에서 \"(이제는) 국가가 제대로 도와드리지 못할 테니, 내일부터는 사기당하지 마시고 시비 걸리지 말라\"며 이같이 말했다.\n\n또 \"민주당 정치인들은 그들이 검찰의 '조작 수사'를 당해 순교해 왔다는 식의 거짓 전설을 만들어 지지층에 주입하고 국민을 상대로 가스라이팅해왔다\"며 \"'노무현 신화'가 대표적\"이라고 했다. 그럼에도 여권이 노 전 대통령을 미화한 것은 \"'노무현을 사랑해서'가 아니라, 검찰을 향한 적대심을 키워 '9억 받아 먹고 살아온' 자신들의 범죄를 끼워팔기 하기 위함\"이라고 맹폭했다. 그 결론은 70년간 유지된 검찰 제도의 전면 폐지로, 차후 발생할 피해는 모두 국민 몫이라는 것.",
+   "press": "노컷뉴스",
+   "source": "노컷뉴스",
+   "link": "https://n.news.naver.com/article/079/0004194907",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 김여정 \"서울의 자작 광대극…총탄 한발이라도 떨어지면 가차 없는 보복\"\n\n오늘(30일) 조선중앙통신에 따르면 김 총무부장은 어제(29일) 발표한 담화에서 \"한국 무장깡패들이 남부국경선 일대에서 발생한 지뢰폭발 사건과 관련해 그 무슨 조사결과라는 것을 발표하면서 우리를 또다시 걸고 드는도발 행위를 감행했다\"며 \"한국 족속들답게 극작법이 너무나 저급하고 저열하다\"고 말했습니다. 이어 \"지난 9월 21일 문제의 지뢰폭발이 일어난 그때 벌써 우리는 서울의 연출대본에 대하여 예상하였으며 한국군부 깡패들이펴고 있는 모략극의 저의도 간파했다\"며 \"결론부터 말한다면 이번 사건은 도발 시기와 수법에 있어서 10여년 전 세상을 소란하게 했던 '목함지뢰 사건'을 그대로 방불케 하는 명백한 자… 또 김 총무부장은 \"세상이다 알다시피 우리 군대는 두 해 전부터 국경 강화사업의일환으로남부국경 일대에서차단물공사를 진행하고 있으며 이는 그 어떤 군사적 목적과는 무관한 철저한 주권행사일 뿐\"이라면서 \"한국군부가 떠들어대고 있는 우리 군인들의 월선이라는 것은 정세 격화의 책임을 우리에게 넘겨씌워 보려는…\n\n한국군부는 육안으로도 확인할 수 있는 경계선 하나 제대로 판별하지 못해 자기 땅, 남의 땅도 분간하지 못하는 저들의 저능을 두고 세상이 무엇이라고 하겠는가 생각해보아야 한다\"고 했습니다. 아울러 \"만약 남부국경영구화공사를 진행하는 우리 군인들을 향해 한국군 깡패들이 경고사격이 아닌 실지사격을 가해온다면 우리 국경부대들은 즉시적이고가차 없는 보복을 가할 것\"이라며 \"이미 그에 대한 대응 행동지침은 국경선방어구분대들에 하달된 상태고 최근 도발이 잦은 한국군 3군단 21보병사단 비무장 지대… 끝으로 김 총무부장은 \"다시 한번 분명히 하지만 국경 지역에서 우리에 대한 악의적인 트집과 도발의 빈도수가 잦아지고 그것이 실제적인 우리의 영토와 군사주권에 대한 침해로 이어진다면 불량배 무리들은여직 체험해보지 못한 상황을 마주해야 할 것\"이라며 \"서울의 자작 광대극의 극적 절정은 결코 재미가 없을 것…\n\n출처: JTBC / https://n.news.naver.com/article/437/0000513339"
+   "feed": "뉴스 07. 한동훈 \"與, 노무현 '조작수사 피해자'라 대국민 가스라이팅\"\n\n'검찰 폐지' D-1 여론전. 특히 고(故) 노무현 전 대통령 등이 검찰의 '조작 수사'에 희생됐다는 더불어민주당의 '검찰 악마화'가 형사사법체계 부실화와 국민 피해로 이어지게 됐다고 맹비난했다. 한 의원은 1일 여의도 국회의원회관에서 주최한 '개정 형사소송법 시행 D-1: 검찰 폐지, 내일부터 지옥문이 열린다' 토론회에서 \"(이제는) 국가가 제대로 도와드리지 못할 테니, 내일부터는 사기당하지 마시고 시비 걸리지 말라\"며 이같이 말했다.\n\n또 \"민주당 정치인들은 그들이 검찰의 '조작 수사'를 당해 순교해 왔다는 식의 거짓 전설을 만들어 지지층에 주입하고 국민을 상대로 가스라이팅해왔다\"며 \"'노무현 신화'가 대표적\"이라고 했다. 그럼에도 여권이 노 전 대통령을 미화한 것은 \"'노무현을 사랑해서'가 아니라, 검찰을 향한 적대심을 키워 '9억 받아 먹고 살아온' 자신들의 범죄를 끼워팔기 하기 위함\"이라고 맹폭했다. 그 결론은 70년간 유지된 검찰 제도의 전면 폐지로, 차후 발생할 피해는 모두 국민 몫이라는 것.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004194907"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-01/09.png",
-   "pngBytes": 1345950
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/09.png",
+   "pngBytes": 1346332
   }
  ],
- "caption": "📰 10월 1일 오늘의 뉴스\n\n1. [속보] \"대박터져\" 박지원의 예언?…'암살자(들)' 하루만에 '박스오피스' 1위 재탈환\n   국민의힘이 연일 '역사 왜곡' 공세를 펴고 있는 영화 '암살자'이 하루 만에 다시 박스오피스 1위 자리를 탈환했다. 30일 영화관입장권 통합전산망에 따르면 '암살자'은…\n2. 李 30%대 지지율에 부담 느꼈나… 與, ‘조작기소 특검법’ 처리 미루기로\n   더불어민주당이 다음 달 1일 국회 본회의에서 이재명 대통령 사건의 조작 기소 여부를 가릴 ‘조작기소 특검법’을 처리하려 했다가 10월 국정감사 이후로 미루기로 결정했다.…\n3. 조희대, 부친상 조의금 봉투째 돌려줘… “가족끼리 조용히 치르려 했다”\n   조희대 대법원장이 부친상을 치른 뒤 조문객들이 낸 조의금을 봉투째 돌려준 것으로 30일 뒤늦게 알려졌다. 외부 조문과 조의금을 사양했지만, 일부 조문객이 부의함에 봉투를…\n4. 사회인 야구 이겼다고 병역특례?...다시 불붙은 적절성 논란 [앵커리포트]\n   기쁨도 잠시, 병역특례 적절성 논란에 다시 불이 붙었습니다. 게다가 실제 경쟁 수준과 상관없이 올림픽 3위 이상, 아시안게임 1위라는 정해진 기준만 만족하면 되다 보니…\n5. 한동훈, 김여정 ‘자작극’ 발언에 “적반하장…李, 北에 한마디도 못해”\n   한동훈 무소속 의원이 30일 서부전선 비무장지대 지뢰 폭발 사고와 관련한 정부 대응을 비판하며 이재명 대통령이 북한에 보다 단호한 태도를 보여야 한다고 주장했다. 한…\n6. '암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치\n   주진우 의원은 영화 제작사 하이브미디어코프에 대한 중국계 자본의 투자 가능성을 문제 삼았다. 회사는 \"당사 및 영화 <암살자>의 제작과 투자 과정에 중국 자본이 유입된…\n7. 김여정 \"서울의 자작 광대극…총탄 한발이라도 떨어지면 가차 없는 보복\"\n   \"지난 9월 21일 문제의 지뢰폭발이 일어난 그때 벌써 우리는 서울의 연출대본에 대하여 예상하였으며 한국군부 깡패들이펴고 있는 모략극의 저의도 간파했다\"며 \"결론부터…\n\n🗣 “당사 및 영화 <암살자(들)>의 제작과 투자 과정에 중국 자본이 유입된 사실은 전혀 없다”\n이 발언을 그대로 실은 보도 8건 · OhmyNews · 미디어오늘 · 경기일보 · 미주중앙일보\n· OhmyNews — '암살자(들)' 비판에서 처벌로... 나쁜 전례 돌려 쓰는 정치\n· 미디어오늘 — ‘암살자(들)’ 제작사 “제작과 투자 과정에 중국 자본 유입 전혀 없다”\n· 경기일보 — ‘암살자(들)’ 中자본 의혹에 제작사 “전혀 사실 아냐…국내 자본 제작”\n· 미주중앙일보 — ‘암살자(들)’ 제작사, 中 자본 유입설 부인…“전혀 사실 아니다”\n· 뉴스1 — '암살자(들)' 中 자본유입설에 \"전혀 없다…사실과 다른 정보 재생산 않길\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한\n\n출처: JTBC, YTN, 오마이뉴스, 조선일보, 프레시안, 헤럴드경제"
+ "caption": "📰 10월 2일 오늘의 뉴스\n\n1. 靑, 김용범 후임에 하준경 발탁…'明의 남자' 송영길·김병주도 특보 배치\n   이재명 대통령이 1일 신임 청와대 정책실장에 하준경 경제성장수석비서관을 임명했다. 하 신임 정책실장은 경제학자 출신으로 청와대에서 경제성장수석으로서 대통령의 경제정책을…\n2. 지뢰 폭발에 부상 당한 부사관 “난 기어서 갈테니 대대장 모셔라”\n   보디캠에 찍힌 지뢰 폭발 현장. 수색대대장은 1차 지뢰 폭발로 부사관 등이 쓰러지자 “괜찮아?”라면서 그들을 향해 곧장 내달렸지만, 2차 지뢰 폭발로 왼쪽 발목에 심한…\n3. \"자고나면 1억씩 올린다\"…초대박 분당 집주인들 '돌변'\n   5개 구역 1만 3429가구 수용 “평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요.” 경기도 성남시 분당구 노후 아파트 단지 경기도 성남시…\n4. 한국인이라며 승차 거부한 대만 택시기사…짐 내던지고 \"배신자 나라\"\n   7개 언론사10,785개 기사. 26개 언론사37,819개 기사.\n5. 국힘 김태규 \"전두환 내란 아냐\"...민주 \"헌법 부정 망언\"\n   국민의힘 김태규 의원이 영화 '암살자'과 관련한 대화를 주고받는 과정에서, 전두환 씨가 내란을 한 게 아니라고 발언해 논란이 되고 있습니다. 더불어민주당은 윤석열 전…\n6. 李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]\n   지난해 5월 16일 이재명 대통령이 더불어민주당 대선 후보로 활동할 때 전북 군산시 구시청광장에서 열린 유세에서 황석영 작가와 악수하고 있다. 진보 원로 황석영 작가가…\n7. 한동훈 \"與, 노무현 '조작수사 피해자'라 대국민 가스라이팅\"\n   '검찰 폐지' D-1 여론전. 특히 고 노무현 전 대통령 등이 검찰의 '조작 수사'에 희생됐다는 더불어민주당의 '검찰 악마화'가 형사사법체계 부실화와 국민 피해로…\n\n🗣 “작은 파당을 지어 당권 탈취나 합당 문제를 일으키며 권력투쟁을 벌인 것은 백낙청 선생 말대로 반역 행위와 같다고 하는데 동감한다”\n이 발언을 그대로 실은 보도 4건 · 다음뉴스 · 주간경향 · 뉴시스\n· 다음뉴스 — 李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]\n· 주간경향 — 황석영 “김어준, 대단히 오만···줄세우고, 출연시키고, 배제하는 걸로 영향력 행사”\n· 뉴시스 — '진보원로' 황석영 \"이 대통령, 잘못 없다…김어준 오만\" 작심발언\n· 다음뉴스 — 소설가 황석영 “김어준 오만해…대통령 잘못이 뭐 있나”\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, YTN, 노컷뉴스, 시사저널, 이데일리, 조선일보"
 }
