@@ -1,233 +1,323 @@
 {
- "date": "2026-10-02",
- "generated_at": "2026-10-02T10:54:55+09:00",
+ "date": "2026-10-03",
+ "generated_at": "2026-10-03T10:36:03+09:00",
  "mode": "daily",
- "window_start": "2026-10-01T00:00:00+09:00",
- "window_end": "2026-10-01T23:59:59+09:00",
+ "window_start": "2026-10-02T00:00:00+09:00",
+ "window_end": "2026-10-02T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "靑, 김용범 후임에 하준경 발탁…'明의 남자' 송영길·김병주도 특보 배치",
-   "source": "시사저널",
-   "url": "https://n.news.naver.com/article/586/0000139232",
-   "published_at": "2026-10-01T14:15:08+09:00",
+   "title": "주진우, 공무상 비밀누설 혐의로 이재명 대통령 고발…“대외비 유출”",
+   "source": "강원일보",
+   "url": "https://n.news.naver.com/article/087/0001221761",
+   "published_at": "2026-10-02T12:52:12+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "이재명 대통령이 1일 신임 청와대 정책실장에 하준경 경제성장수석비서관을 임명했다. 하 신임 정책실장은 경제학자 출신으로 청와대에서 경제성장수석으로서 대통령의 경제정책을…",
-   "summary_long": "이재명 대통령이 1일 신임 청와대 정책실장에 하준경 경제성장수석비서관을 임명했다. 후임 경제성장수석에는 문신학 산업통상부 차관을 기용하며 새로운 얼굴 없이 청와대 경제라인을 재편했다. 여기에 여당 내 친명(親이재명) 핵심 인사들로 꼽히는 송영길·김병주 더불어민주당 의원에게는 각각 대통령비서실 평화외교특별보좌관과 국방정책특별보좌관직을 맡겼다.\n\n하 신임 정책실장은 경제학자 출신으로 청와대에서 경제성장수석으로서 대통령의 경제정책을 보좌해왔다. 1967년생 전남 해남 출신이며 하 신임 실장과 마찬가지로 서울대 경제학과를 졸업했다. 송 신임 특보는 1963년생 전남 고흥 출신으로 연세대 경영학과를 졸업했다.",
-   "press": "시사저널",
-   "photo": "01.jpg"
+   "summary": "이재명 대통령이 국민의힘 주진우 의원으로부터 공무상 비밀을 누설한 혐의로 고발당했다. 주 의원은 이 대통령이 엑스에 대외비 문서 사진을 촬영해 올린 것과 관련, 공무상…",
+   "summary_long": "이재명 대통령이 국민의힘 주진우 의원으로부터 공무상 비밀을 누설한 혐의로 고발당했다. 주 의원은 이 대통령이 엑스(X·옛 트위터)에 대외비 문서 사진을 촬영해 올린 것과 관련, 공무상 비밀 누설 혐의로 고발장을 접수했다고 2일 밝혔다. 주 의원은 이날 서울경찰청에 이 대통령에 대한 고발장을 접수하면서 “대통령도 공무원이다.\n\n대통령이 무슨 왕이냐”며 “그렇게 변명하려면 그동안 이 대통령에게 보고된 선관위 특검 관련 문건을 모두 공개하라”고 촉구했다. 이 대통령은 지난달 29일 엑스에 “경찰과 금융위, 국정원 등 공직자들을 칭찬해달라”며 보이스피싱 피해가 줄었다는 통계가 담긴 ‘일일 종합상황 보고서’라는 제목의 대외비 문서를 찍어서 올렸다. 주 의원은 당시 이 대통령이 올린 문건 사진 아래 ‘선관위 특검, 올림픽공원 핸드볼경기장 내 투표용지 재검표’ 문구가 반쯤 잘린 채 노출됐다면서 “선관위 특검과 내통하거나 사찰하고 있다는 유력한 직접 증거”라고 주장했다.",
+   "quotes": [
+    "그렇게 변명하려면 그동안 이 대통령에게 보고된 선관위 특검 관련 문건을 모두 공개하라",
+    "청와대는 ‘대통령은 대외비 문건을 공개해도 된다’고 해명했다. 대통령이 무슨 왕이냐",
+    "대통령도 공무원이다. 공무상 비밀을 누설한 공무원들은 예외 없이 처벌받아왔다"
+   ],
+   "press": "강원일보",
+   "photo": "01.jpg",
+   "quoted": {
+    "quote": "그렇게 변명하려면 그동안 이 대통령에게 보고된 선관위 특검 관련 문건을 모두 공개하라",
+    "n": 10,
+    "verified": 0,
+    "items": [
+     {
+      "press": "연합뉴스TV",
+      "title": "주진우, 공무상 비밀누설 혐의로 이 대통령 고발…\"대외비 유출\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hS0xLSkFnRkprN2RIeE1LdklaNEd0M192MGpCNHhOMl83aUJQdU52Z2hrNWhrdzZReF82M2dWandmWHI2RlNNU0JBdUdLNlBvYVp1bURZRVg1MWxFN3FYeTk3UkhCMzQ?oc=5"
+     },
+     {
+      "press": "연합뉴스",
+      "title": "주진우, 공무상 비밀누설 혐의로 李대통령 고발…\"대외비 유출\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UTE9rS2ZZcGtBWjJnUDdYQVNWSlgyY3RHMGo0MmhFc0x4TERHWHNSTWlPVXhzeldkRFI1WC1JN1ZMbUhMdlI4NUhRWks4aGdzSEdRZ0NCbVdodmvSAWBBVV95cUxQcFF5YWMtN3BDNGVEOUdwQjhVVFZPYUpGRnBVc1pEMVhOc3RqUlBzX2Jvd2tPMmMtcndXSloycTdaTjZzMld6VUJtajFJc1lCMW5xVlgyYVBZYUVZWFd1OWg?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "“대통령이 무슨 왕이냐” 李 고발한 주진우…공무상 비밀누설 혐의",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wLXVnQlBpSWhjaS1yeGZEQkxYcXBKeU4teDJ3eFZEYmhfSUVET2lmcUNUNkxLQWdRcjdlZDFfblFUd1lxQU5tQXJpWQ?oc=5"
+     },
+     {
+      "press": "강원도민일보",
+      "title": "주진우, ‘대외비 문건 공개’ 공무상 비밀누설 혐의로 이 대통령 고발",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBidVJDM0ZpUnZTRUNLQVVfQVMzRU9wd3c1WDV5cU56MTlDQmtaM0lzWmZVX3FXTkh5LWU5QXNjQ0ViV0J1RFlwNkRVbmhEWWVjUEpRNzBCdkhYbC12N3pZd0MyN1NTNVhr?oc=5"
+     },
+     {
+      "press": "검찰연합일보",
+      "title": "국민의힘 주진우, 이재명 대통령 ‘대외비 문서 공개’ 공무상 비밀누설 혐의로 고발:중수청일보",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5IRWx3VWg3dkw0U2V2OHJwaTIxRi1BX0t6cEVvOU5BdWE5c3FpcnVKTXRKa1NHdWd2cGNoNzJfUDM2UdIBZEFVX3lxTFB1X0RzYmhkUWtfQWZOOUo1cWhRWlZoRi1kTTNuZE5ubGgydzFGRy1KRnJwdXZuWW1UdUtTSzRFd2RqWktHNlB0cENNWDh0SVRDUTNmS3BLT29YdXRNYVBTTDdBSnI?oc=5"
+     },
+     {
+      "press": "파이낸셜뉴스",
+      "title": "주진우, 李대통령 공무상 비밀누설 혐의로 고발…\"대외비 유출\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVTdiaTlFNDZYQ0hSZ1pZTTVfeUlfYnkxZE1NYXFsb3NxN2lSczJVZHc2UWNNSHQwWkVSNE9KeERKaHlBRTIteDdfdmQwZWQxdlpMcnEyQUJ1dw?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "지뢰 폭발에 부상 당한 부사관 “난 기어서 갈테니 대대장 모셔라”",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004001453",
-   "published_at": "2026-10-01T00:50:23+09:00",
+   "title": "이번엔 '한동훈 파일'…김민석 수첩 또 포착",
+   "source": "TV조선",
+   "url": "https://n.news.naver.com/article/448/0000642602",
+   "published_at": "2026-10-02T06:27:14+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "보디캠에 찍힌 지뢰 폭발 현장. 수색대대장은 1차 지뢰 폭발로 부사관 등이 쓰러지자 “괜찮아?”라면서 그들을 향해 곧장 내달렸지만, 2차 지뢰 폭발로 왼쪽 발목에 심한…",
-   "summary_long": "보디캠에 찍힌 지뢰 폭발 현장. 지난 21일 경기 파주시 남측 비무장지대(DMZ)에서 북한군 지뢰 2발이 폭발했을 당시, 발꿈치에 중상을 입은 부사관은 자신을 부축하던 병사들에게 발목이 절단된 수색대대 대대장을 먼저 후송하라고 지시하며 스스로 기어서 이동했던 것으로 30일 전해졌다. 전날 국회 국방위 현안 질의에서 폭발 후 장병들이 부상자를 후송하는 장면을 담은 보디캠 영상을 확인한 국회 국방위원회 소속 여야 의원들이 전한 현장 상황이다.\n\n합참, DMZ 지뢰 폭발 사고 현장 사진 공개. 수색대대장은 1차 지뢰 폭발로 부사관 등이 쓰러지자 “괜찮아?”라면서 그들을 향해 곧장 내달렸지만, 2차 지뢰 폭발로 왼쪽 발목에 심한 부상을 입고 의식이 희미해졌던 것으로 전해졌다. 북한이 이번 지뢰 폭발은 우리 측의 “자작 광대극”이라며 정전협정 위반 사실을 부인하고 나선 데는 이처럼 현장 영상이 없다는 점이 알려진 것도 영향을 줬을 가능성이 있다.",
+   "summary": "이에 한동훈 무소속 의원은 수첩에 자신의 이름을 적은 모습이 포착된 김민석 더불어민주당 대표를 향해 \"정치를 좀 '좌아하게' 하라\"고 비판했다. 한 의원은 1일 SNS에…",
+   "summary_long": "페이스북더불어민주당 김민석 대표가 1일 국회 본회의장에서 자신의 수첩을 펼쳐 보는 모습이 카메라에 또 포착됐다. ‘전작권’ ‘세종의사당 집무실 check’ ‘경호’ ‘한줄편지위’ ‘MS대표연설(?) 후속’ ‘품격민생 check’ ‘한동훈 file’ ‘박시영 시사타파’ 등으로 보이는 메모가 적혀 있었다. ‘이진숙·한동훈 OUT’이라는 문구와 강훈식 대통령비서실장 등 인사들의 이름이 적혀 있었다.\n\n지난달 9일 본회의장에서 포착된 수첩에는 ‘이진숙·한동훈 OUT’이라고 적혀 있었다. 이에 한동훈 무소속 의원은 수첩에 자신의 이름을 적은 모습이 포착된 김민석 더불어민주당 대표를 향해 \"정치를 좀 '좌아하게' 하라\"고 비판했다. 한 의원은 1일 SNS(소셜미디어)에 \"김 대표가 '한동훈 file(파일)'이라고 써놓은 포스트잇이 언론에 포착됐다.",
    "quotes": [
-    "이라며 정전협정 위반 사실을 부인하고 나선 데는 이처럼 현장 영상이 없다는 점이 알려진 것도 영향을 줬을 가능성이 있다. 북한은 2015년 목함지뢰 때도 고의적 지뢰 매설 사실을 부인하며",
-    "(우리 장병들이) 안전한 후송을 위해 일일이 탐침봉으로 지뢰를 확인하는 작업을 추가로 더 했다",
-    "내가 기어갈 테니 대신 대대장을 모셔라"
+    "보면 볼수록 잘한 인사라던 김승원 의원과 북한 지뢰 공격에 대해선 제대로 말도 못 하는 여당 대표가 지저분하게 뒤에서 공작이나 꾸미고 있다",
+    "김 대표는 9억 뒷돈 받고 5·18에 새천년NHK 룸살롱을 가고, 배추밭 강신성 스폰서에 의해 매관매직 자리를 만들어줬다",
+    "김 대표가 '한동훈 file(파일)'이라고 써놓은 포스트잇이 언론에 포착됐다. 들켜버린 공작"
    ],
-   "press": "조선일보",
+   "press": "TV조선",
    "photo": "02.jpg",
    "quoted": {
-    "quote": "(우리 장병들이) 안전한 후송을 위해 일일이 탐침봉으로 지뢰를 확인하는 작업을 추가로 더 했다",
-    "n": 2,
+    "quote": "보면 볼수록 잘한 인사라던 김승원 의원과 북한 지뢰 공격에 대해선 제대로 말도 못 하는 여당 대표가 지저분하게 뒤에서 공작이나 꾸미고 있다",
+    "n": 7,
     "verified": 0,
     "items": [
      {
-      "press": "조선일보",
-      "title": "지뢰 폭발에 부상 당한 부사관 \"난 기어서 갈테니 대대장 모셔라\"",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbElyUnc3MklZQ3hJbmxlTWt6Wmd4QkJiSzBRaUZtUl9TNm1DdTNjZnNabkxCNFZkdjhucVNQQ2t3UjNEMUl4eWZpcHAxc0JwRjk5ZVg3V1RGVEVUamJZMlhyS0FIVzRWQ1cwbGFqYVgxNktWSl9yWlBpQkthUGczNnZMT0hMWlNmbUhwbkxpcEdyZw?oc=5"
+      "press": "뉴스1",
+      "title": "한동훈 \"김민석, 'out' 이어 'file'?…공작 말고 정치를 '좌아하게'하라\"",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iSGpiTkwyOHB0VUFyRHdUWmdwa1I3UEtoTnpGa2pEd2VUMU54X0dySVNnUE1mWTJRUnFnNXFBZzFNNzl3ZVZ6MWJBbTdGQ19hOHhYTTZXd20wQy1sOGlR0gFfQVVfeXFMTmJIamJOTDI4cHRVQXJEd1RaZ3BrUjdQS2hOekZrakR3ZVQxTnhfR3JJU2dQTWZZMlFScWc1cUFnMU03OXdlVnoxYkFtN0ZDX2E4eFhNNld3bTBDLWw4aVE?oc=5"
      },
      {
-      "press": "주간조선",
-      "title": "“난 기어갈 테니 대대장 모셔라”…처절했던 DMZ 지뢰 폭발 직후 보니",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41Um1iSUl4ODBnR0NPUk9fNjB1MEZqMUhCcmdsT1hZRGVTVFdLcWN0eHM0RWhFMWZZTmtHSUJmemJBaEVna0VZc2FMaXd5M1pDV2NoWGVPSjhpZWZxYkhlU0UtSkF3VndqdkHSAW5BVV95cUxNekNJTXJKOUF0NGhkNlFZbmF1enFoa1NRRHljR1V3Vko3QTFJb0JBMG1XS25xQi1Rd3Vvb1dBcW9hYnQ5UFF1RDRSaXE4SGszMkdEUTFsU0pzcmZWc0ZZM1l1VDdscGRlX1dsMmJndw?oc=5"
+      "press": "매일신문",
+      "title": "김민석, `한동훈 file` 적힌 수첩 포착에 `메모의 자유 없어`…韓 `찌질하게 정치`",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vNUpQRlJVSlJoTi10WHgzbVQ3YzY3bWpnMzRESmJVcFBWTFA2NDViTWFZVVdoT1daQWdoWUNIdEVHaGoyakRFZU9nc20zV1hmd2dRVXlIN2NjMG1vSmdJQV9B?oc=5"
+     },
+     {
+      "press": "머니투데이",
+      "title": "김민석 '한동훈 file' 메모…韓 \"정치를 좀 '좌아하게' 하길\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ueTg4S3B0dFJXRXFIVGNXbWZCTFgyRzRPVUpIdTRtaXEtYlNBY0Zlem5EZHYzSnl1Slp4V0ZWVFpWa0xGYzVlMWRCVm1NWDNHZ2JVX1Y0R2I1QTJkZDRIV0FhUHBqOW5HbWFpWE8wNGt2d9IBckFVX3lxTE1ueTg4S3B0dFJXRXFIVGNXbWZCTFgyRzRPVUpIdTRtaXEtYlNBY0Zlem5EZHYzSnl1Slp4V0ZWVFpWa0xGYzVlMWRCVm1NWDNHZ2JVX1Y0R2I1QTJkZDRIV0FhUHBqOW5HbWFpWE8wNGt2dw?oc=5"
+     },
+     {
+      "press": "미주중앙일보",
+      "title": "김민석 수첩에 ‘한동훈 OUT’ 이어 ‘file’…韓 “정치 좀 좌아하게”",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JM1lpeEc1MzRVZndlclJReXhrSDhqZGNHc0oxSndpUEZoYUhjdDZJdXhHeDlleVBsbnhtdFEtb19TQlF6ZFBpUXY3eFFZcXpsZEI3ZU4xMDZ4Mi1aTUFlRWp3?oc=5"
+     },
+     {
+      "press": "이데일리TV",
+      "title": "김민석 수첩에 또 '한동훈'...韓 \"정치 좀 '좌아하게' 하라\"",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13MEdtMjVzNjR5YU9ZSVZfNzBYYkc2R3FaUUFLMHZEaW9XZzlldkJVb0ROTnQ2TnRwVTJjYmRLY3JqeTJlZkx1S2FYTmtBYnptelFfczM4ekFrSjJkUTBKQ0JEYnlwNF85SlZ3NUI5SzNubVlxb1hqZU5rWQ?oc=5"
+     },
+     {
+      "press": "싱글리스트",
+      "title": "'김민석 수첩' 공개에 한동훈 \"대표가 공작...정치 좀 좌아하게 하라\"",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHR3d6dlAxcExzNEF2VHd3LWFGQ1gza2s3aV9nM0dsT2ZlZkR0eHN5ajJDR2RGUWxISFNiSFNIMTR5ZWFfWU1NdTZ6bjVsMGJEVk4xTVdDWlplVWVKUDJ3a2tCeDFkdw?oc=5"
      }
     ]
    }
   },
   {
-   "title": "\"자고나면 1억씩 올린다\"…초대박 분당 집주인들 '돌변'",
-   "source": "이데일리",
-   "url": "https://n.news.naver.com/article/018/0006378512",
-   "published_at": "2026-10-01T13:21:07+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "5개 구역 1만 3429가구 수용 “평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요.” 경기도 성남시 분당구 노후 아파트 단지 경기도 성남시…",
-   "summary_long": "5개 구역 1만 3429가구 수용 “평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요.” 경기도 성남시 분당구 노후 아파트 단지 경기도 성남시 분당에서 2차 특별정비구역 지정 대상으로 선정된 구역의 호가가 단숨에 수억원씩 뛰어오르는 등 인근 시장이 들썩이는 모습이다. 1일 관련업계에 따르면 특별정비구역으로 지정된 △이매촌1 △시범단지1 △파크타운 △푸른마을 △한솔마을2 등 5개 구역의 호가가 실거래가보다 수억원씩 높은 가격으로 전환하고 있다.\n\n여러 단지를 한데 묶는 대규모 통합정비 방식으로, 총 50개 구역 6만 6037가구가 신청하면서 올해 지정 예정 물량인 1만 2000가구의 5.5배에 달했다. 삼성·한신·한양아파트를 묶어 재건축하는 구역으로 면적 32만 3520㎡, 4200가구 규모다. 수내동 일원의 파크타운은 대림·롯데 등 3025가구, 25만 1046㎡ 규모다.",
-   "quotes": [
-    "특별정비구역 지정 이후 하루만에 가격이 1억원씩 오르고 있다. 계약을 하기로 했다가 가격을 더 올려 다시 내놓는 사례도 있다",
-    "기존 가격대를 유지한 매물들이 먼저 팔리고 있고, 높아진 가격대 계약도 이뤄지고 있는 것으로 안다",
-    "평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요"
-   ],
-   "press": "이데일리",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요",
-    "n": 2,
-    "verified": 0,
-    "items": [
-     {
-      "press": "이데일리",
-      "title": "하루만에 호가 '1억 더'…특별정비 지정에 분당 아파트 '들썩'",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHZmSVB4ZGYtYXlacEpKWWtmQW1kbmRpRlpINDQzTUtWeWEyNUpEWVVQY0VNQmg1a3NJMXg3VVJ2U0o5cFNHWXRLY1pRcnJXZXNJbXh0X2FBTl9INk5ZVHAxSzlKbmpZeHo4ZzFubFEyNzFRV01pdkxpLXhEbGNNTw?oc=5"
-     },
-     {
-      "press": "이데일리",
-      "title": "\"자고나면 1억씩 올린다\"…초대박 분당 집주인들 '돌변'",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHZmSVB4ZGYtYXlacEpKWWtmQW1kbmRpRlpINDQzTUtWeWEyNUpEWVVQY0VNQmg1a3NJMXg3VVJ2U0o5cFNHWXRLY1pRcnJXZXNJbXh0X2FBTl9INk5ZVHAxSzlKbmpZeHo4ZzFubFEyNzFRV01pdkxpLXhEbGNNTw?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "한국인이라며 승차 거부한 대만 택시기사…짐 내던지고 \"배신자 나라\"",
+   "title": "축의금 5만원 내고 식권 2장 받아간 남녀…신랑·신부 \"누구세요?\"",
    "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000513535",
-   "published_at": "2026-10-01T06:00:02+09:00",
+   "url": "https://n.news.naver.com/article/437/0000513729",
+   "published_at": "2026-10-02T06:00:02+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "7개 언론사10,785개 기사. 26개 언론사37,819개 기사.",
-   "summary_long": "이어 \"캐리어 안에 있던 노트북 등도 모두 파손된 상태였다\"며 \"경찰과 이야기하는 과정에서도 택시기사가 '한국이 진짜 싫다', '배신자 나라'라고 말했다\"고 주장했습니다. 이 기사는 언론사에서 사회 섹션으로 분류했습니다. 기사의 섹션 정보는 해당 언론사의 분류를 따르고 있습니다.\n\n황석영 작가가 이재명 대통령을 향한 최근 여권 내 비판과 갈등을 두고 “대통령이 뭘 그렇게 잘못했느냐”며 공개적으로 엄호했습니다. 7개 언론사10,785개 기사.",
+   "summary": "당시 빈 봉투나 1만원이 든 봉투 등은 확인됐지만, 문제의 봉투에는 5만원권이 들어 있어 별다른 의심 없이 식권 두 장이 건네진 것으로 전해졌습니다. 온라인…",
+   "summary_long": "당시 영상을 보면 마스크를 쓴 남성과 검은색 원피스를 입은 여성이 다른 하객들과 함께 줄을 서 있습니다. 차례가 되자 남성은 준비한 봉투를 건넨 뒤 식권 두 장을 받아 자리를 떠납니다. 당시 빈 봉투나 1만원이 든 봉투 등은 확인됐지만, 문제의 봉투에는 5만원권이 들어 있어 별다른 의심 없이 식권 두 장이 건네진 것으로 전해졌습니다.\n\n이어 \"영상 속 남녀는 전혀 모르는 사람들이었고, 축의금 액수도 황당했다\"고 덧붙였습니다. 최근 예비부부들 사이에서는 다른 사람의 결혼식에 하객으로 위장해 참석한 뒤 예식장의 주차 환경과 동선, 홀 분위기 등을 직접 확인하는 이른바 '암행투어'가 이뤄지고 있습니다. 온라인 커뮤니티에서는 비싼 예식 비용을 내면서도 실제 진행 상황을 미리 알기 어렵다는 점에서 암행투어를 이해한다는 의견이 있는 반면, 다른 사람의 결혼식에 허락 없이 참석하는 것은 무례하다는 비판도 나오고 있습니다.",
    "quotes": [
-    "경찰과 이야기하는 과정에서도 택시기사가 '한국이 진짜 싫다', '배신자 나라'라고 말했다",
-    "좌파패륜영화 감독·배우, 강제 참배·사과했나? 고등학생들은 했다",
-    "호르무즈 해협 지나던 유조선, 피격에 화재‥선원 무사"
+    "영상 속 남녀는 전혀 모르는 사람들이었고, 축의금 액수도 황당했다"
    ],
    "press": "JTBC",
-   "photo": "04.jpg",
+   "photo": "03.jpg",
    "quoted": {
-    "quote": "호르무즈 해협 지나던 유조선, 피격에 화재‥선원 무사",
+    "quote": "영상 속 남녀는 전혀 모르는 사람들이었고, 축의금 액수도 황당했다",
     "n": 3,
     "verified": 0,
     "items": [
      {
       "press": "JTBC",
-      "title": "한국인이라며 승차 거부한 대만 택시기사…짐 내던지고 \"배신자 나라\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRTkc1blBibXhnQ3RRVEppYVJ4bE9IRkw1ejRodVFfZ2pxRlRMR1JHVUdyTTZLRW9DUEwxaWF4ZkEwT3lURDdrRVJjdmRscXF3ZmpOcA?oc=5"
+      "title": "축의금 5만원 내고 식권 2장 받아간 남녀…신랑·신부 \"누구세요?\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LdFZUak1UZGlGX0J3TktqS0h0V1ZZbGhlY0d5TXlTUGYwQ0wzVUNBcm5wSUV5RUl2dGJRRTdsNlRLQk90R3Q5Q1NKUlZVNVh4NFRnMA?oc=5"
      },
      {
-      "press": "서울신문",
-      "title": "“좌파패륜영화 감독·배우, 강제 참배·사과했나? 고등학생들은 했다” 주진우, ‘암살자(들)’ 질타",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xajgtbGxUMjN5V0ZnVTE2OVc4dGRrdnpCZl8tNDFxeXU2bGNPYmVNSU1ZUlhsY2RqX3dOMkx4cGlERkFRTnVRZk13a1J1d2ZfSkxZSjZqMGJfODdpb0pjQTRHR0xVM0Q3SUNJb0lUcVI?oc=5"
+      "press": "뉴스1",
+      "title": "\"식권거지냐 암행투어냐\"…축의금 5만원, 22만원 식사하고 사라진 남녀[영상]",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MYlk0akhWNTNyU0x4ZEJkbmo3bGh0Ymx3cnVnNHN2SHNoQmY2VXcwVEhPMjdpb3g3cDU1X2E0N1NyWmZNOEFpZGhoRm5PSG5haHVGSlpfRDVvQ25adG1GQjFR0gFnQVVfeXFMT2VqVG9UV25DSEx3ZUdjVGdIVmcwYXlfNlVuUmNlRFY4eEtGenBXX3hPNVotS0R3QUsyMDhXN2NGQjM0NUF0dEVWVXBQYmRnWDZYbWQ4YXk4cS1rdkdMbHRFNE9DVmNwcw?oc=5"
      },
      {
-      "press": "MBC 뉴스",
-      "title": "\"호르무즈 해협 지나던 유조선, 피격에 화재‥선원 무사\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pNkdZaTFJVDdZRzdPc1pPWEVWRS1HMmtnRGo4c3NDaDJIUmR1WnNjQmVtazA5ZWRScmVEUzF4R1JoRHo2SHp6ZEhkUnA4Z3RtMTJBdVFORkxwbFItc2JkSTFrZ3A0a25oblA4VWpKNjM0N2t20gF0QVVfeXFMTWk2R1lpMUlUN1lHN09zWk9YRVZFLUcya2dEajhzc0NoMkhSZHVac2NCZW1rMDllZFJyZURTMXhHUmhEejZIenpkSGRScDhndG0xMkF1UU5GTHBsUi1zYmRJMWtncDRrbmhuUDhVako2MzQ3a3Y?oc=5"
+      "press": "파이낸셜뉴스",
+      "title": "\"식대 1인당 11만원인데\" 축의금 5만원 내고 식권 2장 받아간 남녀…\"누구세요?\" [영상]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GSy1UVjM1OU5zd3dkc0tFMDRmYjVNTDBHeHRFZU9oYUIwT2FwV3NxaTJOVC1NeDVGTlpJX3BxTFZHZ2hacUNaR0RXVm4zRHVHVmFycklLMmV0UQ?oc=5"
      }
     ]
    }
   },
   {
-   "title": "국힘 김태규 \"전두환 내란 아냐\"...민주 \"헌법 부정 망언\"",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002413583",
-   "published_at": "2026-10-01T18:17:33+09:00",
-   "section_id": "100",
+   "title": "'이재용 장남' 이지호 소위, 한미 해군 회의 '통역 지원'…국방일보에 '찰칵'",
+   "source": "뉴시스",
+   "url": "https://n.news.naver.com/article/003/0014229808",
+   "published_at": "2026-10-02T11:38:00+09:00",
+   "section_id": "101",
    "view_rank": 1,
-   "comment_count": 742,
-   "comment_agree": 335,
-   "comment_disagree": 91,
-   "division_balance": 0.42723,
-   "division_score": 2.58764,
-   "selection": "찬반 쟁점",
-   "summary": "국민의힘 김태규 의원이 영화 '암살자'과 관련한 대화를 주고받는 과정에서, 전두환 씨가 내란을 한 게 아니라고 발언해 논란이 되고 있습니다. 더불어민주당은 윤석열 전…",
-   "summary_long": "국민의힘 김태규 의원이 영화 '암살자(들)'과 관련한 대화를 주고받는 과정에서, 전두환 씨가 내란을 한 게 아니라고 발언해 논란이 되고 있습니다. 더불어민주당은 윤석열 전 대통령에 더해, 사법적 판단이 끝난 전 씨의 내란마저 부정한다며 김 의원에 대한 의원직 제명을 촉구했습니다. 논란의 발언은 한 유튜브 방송에서 진행자가 국민의힘 김태규 의원의 최근 상임위 질의 내용을 되짚는 과정에서 나왔습니다.\n\n최휘영 문체부 장관에게 영화 '암살자(들)'의 문제를 지적하기 위해, 북한군이 5·18에 개입했는지, 또 6·25는 남침인지 북침인지를 꼭 물어야 했느냐며 진행자가 반대 예시를 들자, 김 의원은 이렇게 답했습니다. [김 태 규 / 국민의힘 의원 (JTBC 유튜브 '장르만 여의도') : (어떤 민주당 의원이 이 정부가 아닌 상황이라 치고, 윤석열은 내란이오, 아니오?) 아니죠. 당황한 진행자가 전두환 씨 내란은 대법원에서 무기징역을 확정한 사건이라고 다시 질문했지만, 김 의원은 사법적 판단이 정치적으로 왜곡된 사례가 많다며, 전 씨의 내란도 역사적 논의의 영역에 남겨둬야 한단 입장을 굽히지 않았습니다.",
-   "press": "YTN",
-   "photo": "05.jpg"
+   "selection": "경제·시사",
+   "summary": "이지호 해군 소위, 한미 해군교육사령관 회의 통역. 사진 국방일보 *재판매 및 DB 금지 이지우 = 해군 통역장교로 복무 중인 이재용 삼성전자 회장의 장남 이지호 소위의…",
+   "summary_long": "이지호 해군 소위, 한미 해군교육사령관 회의 통역. 강정호 해군 교육사령관과 그레고리 허프만 미 해군 교육사령관이 지난 9월 환담을 나누는 모습. 강 사령관 뒤쪽에 이지호 소위가 통역을 하고 있다.\n\n사진 국방일보 *재판매 및 DB 금지 이지우 = 해군 통역장교로 복무 중인 이재용 삼성전자 회장의 장남 이지호 소위의 모습이 국방일보 보도 사진에 찍힌 것이 뒤늦게 확인됐다. 미국에서 태어난 이 소위는 한국과 미국 복수국적을 보유하고 있었지만, 미국 시민권을 포기한 뒤 해군 장교로 병역 의무를 이행하고 있다. 같은해 11월 말 임관식을 치른 그는 해군 소위로 임관했으며, 초등군사교육 등을 받은 뒤 통역장교로 배치됐다.",
+   "press": "뉴시스",
+   "photo": "04.jpg"
   },
   {
-   "title": "李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]",
-   "source": "노컷뉴스",
-   "url": "https://n.news.naver.com/article/079/0004194683",
-   "published_at": "2026-10-01T12:03:11+09:00",
+   "title": "이 대통령, 우크라 향해 “상대국 원수 거짓말쟁이 만들어…사과 거부 시 추가 조치”",
+   "source": "한겨레",
+   "url": "https://n.news.naver.com/article/028/0002825705",
+   "published_at": "2026-10-02T10:58:17+09:00",
    "section_id": "100",
    "view_rank": 3,
-   "comment_count": 174,
-   "comment_agree": 166,
-   "comment_disagree": 52,
-   "division_balance": 0.477064,
-   "division_score": 2.570933,
+   "comment_count": 739,
+   "comment_agree": 222,
+   "comment_disagree": 47,
+   "division_balance": 0.349442,
+   "division_score": 1.956326,
    "selection": "찬반 쟁점",
-   "summary": "지난해 5월 16일 이재명 대통령이 더불어민주당 대선 후보로 활동할 때 전북 군산시 구시청광장에서 열린 유세에서 황석영 작가와 악수하고 있다. 진보 원로 황석영 작가가…",
-   "summary_long": "지난해 5월 16일 이재명 대통령이 더불어민주당 대선 후보로 활동할 때 전북 군산시 구시청광장에서 열린 유세에서 황석영 작가와 악수하고 있다. 진보 원로 황석영 작가가 최근 정치권 갈등 상황을 두고 이재명 대통령은 잘못한 것이 없다며 방송인 김어준 씨 등을 비판했다. 30일 황 작가는 JTBC '이가혁 라이브'에 출연해 최근 논란이 된 방송인 김어준 씨의 발언을 먼저 문제삼았다.\n\n그는 \"'사랑의 시기는 끝났다'는 것은 어불성설이고, '앞으로는 우정의 관계다'는 것도 굉장히 오만한 얘기\"라고 비판했다. 다만 \"(윤석열 전 대통령이) 파면되고 나서 뉴스공장이 굉장히 정치적으로 권력화돼 가는 모습이 보여 염려를 했다\"고 덧붙였다. 이날 황 작가는 새 정부가 두 달만에 조국 혁신정책연구원장의 사면을 결정한 것은 부적절했다면서 \"용산에 볼펜도 없어서 맨바닥 폐허에서 시작하는데 그때 벌써 이미 조국 씨 사면 얘기가 나오더라.",
+   "summary": "이재명 대통령이 2일 우크라이나 쪽이 북한군 포로 2명을 한국 송환한 것과 관련해 ‘비공개 합의는 없었다’고 주장한 데 대해 “사실 인정과 공개 사과를 계속 거부하면…",
+   "summary_long": "이재명 대통령이 1일 청와대에서 열린 수석보좌관회의에서 발언하고 있다. 이재명 대통령이 2일 우크라이나 쪽이 북한군 포로 2명을 한국 송환한 것과 관련해 ‘비공개 합의는 없었다’고 주장한 데 대해 “사실 인정과 공개 사과를 계속 거부하면 추가 조치를 해 나갈 것”이라고 말했다. 이 대통령은 이날 엑스(X·옛 트위터)에 안드리 시비하 우크라이나 외무장관이 현지 취재진을 만나 “이 사안의 ‘사건’이라고 부르고 싶지 않다.\n\n이 대통령은 “북한 포로 송환과 관련해 우크라이나 측이 비공개 요구를 해 비공개로 합의했는데 일방적으로 공개했고, 대한민국 대통령이 최대한 예의를 갖춰 아쉽다고 했더니 합의사실이 없다고 상대국 국가원수를 거짓말쟁이로 만들고,합의사실을 인정하고 사과하라고 했더니 도리어 남북간 군사충돌 임박 운운하며 한반… 이 대통령은 그러면서 “대한민국 국민과 국가의 위신에 관한 문제로서 묵과할 수 없다”고 말했다. 앞서 성기홍 홍보소통수석은 지난달 27일 입장문을 내고 “우크라이나 정부 쪽의 합의에 위반한 일방적 공개와 이에 이은 비공개합의 사실이 없다는 허위 공보에 대해 강력한 유감을 표한다”며 “공식적인 해명과 사과를 요구한다”고 말한 바 있다.",
    "quotes": [
-    "내가 옥살이를 해보니까 눈보라 치고 추울 때 (사면하면 어떻겠냐고 주변에 얘기했다). 크리스마스 특사가 (이재명 정부) 6개월 되는 (시기라) 이 시간 텀이 좋았다",
-    "작은 파당을 지어 당권 탈취나 합당 문제를 일으키며 권력투쟁을 벌인 것은 백낙청 선생 말대로 반역 행위와 같다고 하는데 동감한다",
-    "(이 대통령이) 사과하고 그러는데 정말 안 됐다. 역사적 급박한 상황에서 퇴행하는 자들은 역사의 뒤안길로 보내고 지나가면 된다"
+    "우크라이나 정부 쪽의 합의에 위반한 일방적 공개와 이에 이은 비공개합의 사실이 없다는 허위 공보에 대해 강력한 유감을 표한다",
+    "이 사안의 ‘사건’이라고 부르고 싶지 않다. 외교적 오해 정도로 해두자",
+    "사실 인정과 공개 사과를 계속 거부하면 추가 조치를 해 나갈 것"
    ],
-   "press": "노컷뉴스",
-   "photo": "06.jpg",
+   "press": "한겨레",
+   "photo": "05.jpg",
    "quoted": {
-    "quote": "작은 파당을 지어 당권 탈취나 합당 문제를 일으키며 권력투쟁을 벌인 것은 백낙청 선생 말대로 반역 행위와 같다고 하는데 동감한다",
+    "quote": "우크라이나 정부 쪽의 합의에 위반한 일방적 공개와 이에 이은 비공개합의 사실이 없다는 허위 공보에 대해 강력한 유감을 표한다",
     "n": 4,
     "verified": 0,
     "items": [
      {
-      "press": "다음뉴스",
-      "title": "李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE91SC1rZXNUSXJreXFXTTZsZWtXMzR1Y3Y0RzNyemhkUEx0b1UweXlmQVFPdEJXSXNacjZady1TQTlSajRVekE?oc=5"
+      "press": "한겨레",
+      "title": "청와대 “우크라, 비공개 먼저 요구해놓고 거짓 발표…사과하라”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIczZOTklVVkZORXRMSWpDODdHc2hPdi01eS1zUFYtb2o0NzRZcFdMeW92Y0I5RHdJMUNpWGpEVmgwR2lDa0VraGYtdlFFanQyblZwaU1tQVV0SnROelRnMjhhZDFxRElWUi1F?oc=5"
      },
      {
       "press": "주간경향",
-      "title": "황석영 “김어준, 대단히 오만···줄세우고, 출연시키고, 배제하는 걸로 영향력 행사”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11WGUtTWhfNG4zTUc4d0tyVTV4dkhlcXVPb2Itc3NMVWFqbXlPTUZSV3lYSUdiVjBzU3o1Q0tTOFQyUXRMdi1UVHFEZUF5UGsxUGU2V3ZkYUlrTF9ic2c?oc=5"
+      "title": "청와대 “우크라가 먼저 비공개 요청···거짓 발표에 강력 유감, 해명·사과 요구”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84YWxpM3FJVUdxSTZyWUpiSGJRUUFpR1RlR0EwdzRsdzQ0eW1OOFl4SWN3T2dBUEdHeUU3Yms5THFhN2Zhel9xRGdCNnJ4S0dtU0VzMXBmbGp4am11cGc?oc=5"
      },
      {
-      "press": "뉴시스",
-      "title": "'진보원로' 황석영 \"이 대통령, 잘못 없다…김어준 오만\" 작심발언",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkaUF2WHJaNXlDdEpwb043cER4Ymg1S0VsanFIUlRKTndsWnNrdFpiMGU5TDd5WURuMEp1cWdrbmJZYWhZMUM5UlVYT1JfU3hvQ2F4T1Vfc0xLTm1ja2F0U3FtNHlyU0xqRk9pZnBXQmxsYmZiVmZEctIBeEFVX3lxTFBkaUF2WHJaNXlDdEpwb043cER4Ymg1S0VsanFIUlRKTndsWnNrdFpiMGU5TDd5WURuMEp1cWdrbmJZYWhZMUM5UlVYT1JfU3hvQ2F4T1Vfc0xLTm1ja2F0U3FtNHlyU0xqRk9pZnBXQmxsYmZiVmZEcg?oc=5"
+      "press": "한겨레",
+      "title": "이 대통령, 우크라 향해 “상대국 원수 거짓말쟁이 만들어…사과 거부 시 추가 조치”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tXzgtV3dfRzNQckFXMVlnN19NcEpsWU4zb0pjRXVXT0Q5R2FwdXZTbThRdDdFVFJNYVJpQWgweVhhd0xKaXVyMjlxcXM2NERQQmdtVzJkTGpvbDU5ZlNIcXJMYkRfblJNR3JN?oc=5"
      },
      {
-      "press": "다음뉴스",
-      "title": "소설가 황석영 “김어준 오만해…대통령 잘못이 뭐 있나”",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Wc3d3a0lkd2xzVnY5OC14TGdwYjdDMnk5T3duTHdsellsZFVvaXZvVmU2ODZQX0ZPVlNGOHFUNkRESFI3akE?oc=5"
+      "press": "주간경향",
+      "title": "“젤렌스키, 한국에서 패트리엇 못얻자 북한 포로 송환 공개로 보복”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlYzJlcXhDenVZTFVseDVuSHo5OWp6WDhjT0pOYVpsTjk0OF9ZRnRMRFhfQWJYN0pDUnh0Q0xyQ003MGNWMnlUQ24wamkzTHhTWllzR05BY21TdmR6TGc?oc=5"
      }
     ]
    }
   },
   {
-   "title": "한동훈 \"與, 노무현 '조작수사 피해자'라 대국민 가스라이팅\"",
-   "source": "노컷뉴스",
-   "url": "https://n.news.naver.com/article/079/0004194907",
-   "published_at": "2026-10-01T16:59:15+09:00",
+   "title": "박근혜, 박정희가 쓴 편지 공개‥\"'암살자(들)' 없었다면 공개 안 해\"",
+   "source": "MBC",
+   "url": "https://n.news.naver.com/article/214/0001526897",
+   "published_at": "2026-10-02T10:54:54+09:00",
    "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 120,
-   "comment_agree": 131,
-   "comment_disagree": 33,
-   "division_balance": 0.402439,
-   "division_score": 2.054832,
+   "view_rank": 1,
+   "comment_count": 1454,
+   "comment_agree": 387,
+   "comment_disagree": 47,
+   "division_balance": 0.21659,
+   "division_score": 1.315858,
    "selection": "찬반 쟁점",
-   "summary": "'검찰 폐지' D-1 여론전. 특히 고 노무현 전 대통령 등이 검찰의 '조작 수사'에 희생됐다는 더불어민주당의 '검찰 악마화'가 형사사법체계 부실화와 국민 피해로…",
-   "summary_long": "'검찰 폐지' D-1 여론전. 특히 고(故) 노무현 전 대통령 등이 검찰의 '조작 수사'에 희생됐다는 더불어민주당의 '검찰 악마화'가 형사사법체계 부실화와 국민 피해로 이어지게 됐다고 맹비난했다. 한 의원은 1일 여의도 국회의원회관에서 주최한 '개정 형사소송법 시행 D-1: 검찰 폐지, 내일부터 지옥문이 열린다' 토론회에서 \"(이제는) 국가가 제대로 도와드리지 못할 테니, 내일부터는 사기당하지 마시고 시비 걸리지 말라\"며 이같이 말했다.\n\n또 \"민주당 정치인들은 그들이 검찰의 '조작 수사'를 당해 순교해 왔다는 식의 거짓 전설을 만들어 지지층에 주입하고 국민을 상대로 가스라이팅해왔다\"며 \"'노무현 신화'가 대표적\"이라고 했다. 그럼에도 여권이 노 전 대통령을 미화한 것은 \"'노무현을 사랑해서'가 아니라, 검찰을 향한 적대심을 키워 '9억 받아 먹고 살아온' 자신들의 범죄를 끼워팔기 하기 위함\"이라고 맹폭했다. 그 결론은 70년간 유지된 검찰 제도의 전면 폐지로, 차후 발생할 피해는 모두 국민 몫이라는 것.",
+   "summary": "영화 '암살자'에 대해 보수 진영을 중심으로 역사 왜곡이라는 비판이 제기된 가운데, 박근혜 전 대통령이 육영수 여사 피격 사건 직후인 1974년 8월 17일 아버지…",
+   "summary_long": "영화 '암살자(들)'에 대해 보수 진영을 중심으로 역사 왜곡이라는 비판이 제기된 가운데, 박근혜 전 대통령이 육영수 여사 피격 사건 직후인 1974년 8월 17일 아버지 박정희 전 대통령으로부터 받은 편지가 공개됐습니다. 국민의힘 유영하 의원이 사본으로 공개한 A4 3장 분량 편지에는, 박정희 전 대통령이 박근혜 전 대통령에게 \"아버지가 맞을 흉탄을 어머니가 내 대신 맞고 가셨다. 내가 맞고 어머니가 살았더라면 얼마나 좋았을까 하고 몇 번이고 생각해본다\"고 적혀 있습니다.\n\n이어 \"어머니는 내 대신 자신이 맞고 아버지에게 너희들에 대한 모든 책임과 이 나라의 모든 책임을 맡기고 가셨다\"면서 \"이제는 네가 어머니 대역을 해주어야 하겠다. 아버지가 어머니의 몇분지 일의 역도 못하겠지만 좋은 아버지가 되게끔 무슨 희생이라도 하마\"라고 썼습니다. 유영하 의원은 당시 프랑스에서 유학 중이던 박근혜 전 대통령이 피격 사건으로 귀국하는 길에 받은 것이라고 전했습니다.",
    "quotes": [
-    "이라고 비꼬았다. 공소시효가 임박한 사건 등에 한해 검사가 개정 형사소송법 시행 후 3개월간 수사를 할 수 있게 명시한 부칙 또한 유명무실해질 거라 관측하면서다. 그는",
-    "본인 또는 가족이 스폰서 박연차(前태광실업 회장)로부터 3억원 넘는 피아제 시계를 받고, 수십억원을 불법적으로 받은 것은, 가릴 수 없는 본질",
-    "민주당 정치인들은 그들이 검찰의 '조작 수사'를 당해 순교해 왔다는 식의 거짓 전설을 만들어 지지층에 주입하고 국민을 상대로 가스라이팅해왔다"
+    "이제는 네가 어머니 대역을 해주어야 하겠다. 아버지가 어머니의 몇분지 일의 역도 못하겠지만 좋은 아버지가 되게끔 무슨 희생이라도 하마",
+    "아버지가 맞을 흉탄을 어머니가 내 대신 맞고 가셨다. 내가 맞고 어머니가 살았더라면 얼마나 좋았을까 하고 몇 번이고 생각해본다",
+    "박 전 대통령께서는 이 편지를 단 한 번도 세상에 내놓은 적 없이 간직하고 계셨다. 영화가 없었다면 편지도 공개되지 않았을 것"
    ],
-   "press": "노컷뉴스",
-   "photo": "07.jpg",
+   "press": "MBC",
+   "photo": "06.jpg",
    "quoted": {
-    "quote": "민주당 정치인들은 그들이 검찰의 '조작 수사'를 당해 순교해 왔다는 식의 거짓 전설을 만들어 지지층에 주입하고 국민을 상대로 가스라이팅해왔다",
-    "n": 1,
+    "quote": "아버지가 맞을 흉탄을 어머니가 내 대신 맞고 가셨다. 내가 맞고 어머니가 살았더라면 얼마나 좋았을까 하고 몇 번이고 생각해본다",
+    "n": 6,
     "verified": 0,
     "items": [
      {
-      "press": "노컷뉴스",
-      "title": "한동훈 \"與, 노무현 '조작수사 피해자'라 대국민 가스라이팅\"",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aTHlJMWtTY0RfckVUWFlTcjRIbkFkWWRHNHhIeHZJaWNkaEpIcUlmVWlpWGJIRUJGRk1LTDVnZjhPS3pjV1hTcUp0WENFS0w1a2c?oc=5"
+      "press": "MBC 뉴스",
+      "title": "박근혜, 박정희가 쓴 편지 공개‥\"'암살자(들)' 없었다면 공개 안 해\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93YV9ZQ2x0bHMzQloyRFpaTUpDVlJVTnUwNmpOelBoa2F2bnkxY20wdzZqTzdyQnVwREJ2VER5NHYwMzRCMXJIVkJ3UWppX2Z5YkpGU244ZmswQk16VTdUdllXLWpPVXdsNGE3eTZ0bkFBenFmUGV4V9IBeEFVX3lxTFBBdlVUbk0yMm16MUx2eV9wX0tOaWptNWNRa0VXSVN3Ti1wQzM2cWl1cUt5elNSc2dPb0diUm1HcE9XSGVKYXlGS3R6d01xRTdYc2VldlpXT3VSV3FNZFRqbUpRT1ZPQVUyaDlUY3cxZUl1c3B4OFk1UA?oc=5"
+     },
+     {
+      "press": "연합뉴스TV",
+      "title": "“내가 맞고 어머니가 살았더라면“…딸 근혜에 쓴 ’박정희 편지’ 공개",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Rkl3Sk05RU9EQXgzLUZ1TXpKUm5nREktSU1WWnFVVTFXaDFWa1QyR19JbWZIM00zOVJmUzhqYlUwMEVsc0N5WFVwaS1nV0hZQkR6NDFDb0M4UnlYNDJnWTFtSjZydnc?oc=5"
+     },
+     {
+      "press": "조선일보",
+      "title": "박정희 \"내가 맞고 어머니가 살았더라면…\" 딸에게 편지",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWHBOa2NhZ3hEUlN1cHVUNlZqd1pZbFBva0hsN0UyZ1VlV01HVGZicEwzOEFtV0tEdXJOcFhxUE83N25GTlNvUzJORkpUa08wcUhWUjdvREZhdzQtOG1BenBZN2xmanpVWHRLajdOZXpLUjVXR3RXcWtaZ1lGZUN1VTNjdEtLSVBLMV85VUFMUzI?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "\"암살자(들) 제작진, '박정희 편지' 무겁게 받아들여야\"…구미시장 일침",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UcUJzU29xM2F1VUlDaUl2MTBvN0dLSzYwNjh0aEh3M3dsSmxOQjJRNkhEanJHcDBiQ0RGREFjaGtZaDFyckl5dkhFeEIyTW9rakQ5TzBrQmJBU29tWFRCY9IBeEFVX3lxTFAyNXZWODZ4ek1rTHkyX0hUTFd2Q1F3aDhMUk5LazMtNjNpcENPYU44eVdxYkJkN05UNlIzR1dkaVdzaDdPTURyLXhNdzFERkIyVU5tSUNCV0syS3lPbGg1LTBmcUZIUmVDQ0k2S3ViZFdLNlpQam1rZg?oc=5"
+     },
+     {
+      "press": "브레이크뉴스",
+      "title": "박정희가 딸에게 보낸 미공개 편지를 읽은 소감...“장기 집권의 탐욕이 풀풀~~.”",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1LQ0xzVE9aZHIwZXVVb29Bdng1MmgtODdXMXRjNmowVVJZaEsyWXdRRnJHVG5oc1hnaTRCdkp6aTF5QQ?oc=5"
+     },
+     {
+      "press": "뉴스에듀신문",
+      "title": "“근혜야, 아버지가 맞을 흉탄을 어머니(육영수)가 대신 맞고…”유영하 “‘암살자들’ 상영 중단해야”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BTlZ4b2NnRUdsdEFZMHkxR2o2U0thQUVnSEZrV0tVNDF1ajBtanh6TEZ6MXlHZFc1MDBYeGlaODlET242clE3OGFUMTk1TDZ3a3VlcThCdmRxVjctN0xHWWJyTnFkVnNTR2VOLdIBcEFVX3lxTE5YX18zdEdVcEpnYi1rZ1J1QVl0TXZGbS1Pa1drZEJxMVhzMTVjbDIwZndFZmQtcGliMEQydFJWMXZVajVHTjRrajhPOGdCNmd0MlpvQ3VIZnhFRVphMlRQNy1DQ1cyNFd0QTBRV29ULXo?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "유영하, '박정희 친필편지' 공개⋯\"내가 맞고 네 어머니가 살았더라면\"",
+   "source": "아이뉴스24",
+   "url": "https://n.news.naver.com/article/031/0001063063",
+   "published_at": "2026-10-02T11:00:06+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "comment_count": 306,
+   "comment_agree": 288,
+   "comment_disagree": 35,
+   "division_balance": 0.216718,
+   "division_score": 1.252793,
+   "selection": "찬반 쟁점",
+   "summary": "유영하 국민의힘 의원이 2일 영화 '암살자'의 역사 왜곡 논란과 관련해 박근혜 전 대통령이 50여년간 보관해온 고 박정희 전 대통령의 미공개 친필편지를 공개했다. 유…",
+   "summary_long": "유영하 국민의힘 의원이 2일 영화 '암살자(들)'의 역사 왜곡 논란과 관련해 박근혜 전 대통령이 50여년간 보관해온 고(故) 박정희 전 대통령의 미공개 친필편지를 공개했다. 유 의원은 이날 국회 소통관에서 기자회견을 열고 \"논란이 시작된 이후 박근혜 전 대통령께서 당시 사건과 관련해 보관하고 계셨던 자료를 제게 전달해주셨다\"며 친필편지를 공개했다. 박근혜 전 대통령이 지금까지 외부에 공개하지 않고 보관해온 자료라고 유 의원은 설명했다.\n\n유 의원은 이날 박근혜 전 대통령이 보관하고 있던 1974년 8월 17일 작성된 고 박정희 전 대통령이 보낸 편지 복사본을 공개했다. 유 의원은 이번 편지 공개가 영화 '암살자(들)'을 둘러싼 역사 왜곡 논란에 대한 대응이라고 밝혔다. 국민의힘 유영하 의원이 2일 국회 소통관에서 기자회견을 열고 영화 '암살자(들)'과 관련한 입장을 밝혔다.",
+   "quotes": [
+    "실제 인물과 실제 영상, 실제 사건에 영화적 가설을 뒤섞어 놓고 판단과 책임을 관객에게 떠넘기는 방법으로 역사 왜곡 책임을 피해갈 수는 없다",
+    "단 한 번도 세상에 내놓지 않고 개인적으로 간직해왔고, 이 영화가 없었다면 아마 세상에 공개되지 않았을 것",
+    "논란이 시작된 이후 박근혜 전 대통령께서 당시 사건과 관련해 보관하고 계셨던 자료를 제게 전달해주셨다"
+   ],
+   "press": "아이뉴스24",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "논란이 시작된 이후 박근혜 전 대통령께서 당시 사건과 관련해 보관하고 계셨던 자료를 제게 전달해주셨다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "다음뉴스",
+      "title": "유영하, '박정희 친필편지' 공개⋯\"내가 맞고 네 어머니가 살았더라면\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JbU02czU1dXFtOFNGMmt1UWg0WjRRaU5ybUtpVXBKaU1aUXN2S0NpUGdLT3MwZEh6bWhxMWpnSjhfbEtPU1RUOHpjaXZPZ2s?oc=5"
+     },
+     {
+      "press": "주간조선",
+      "title": "“내가 맞고 어머니가 살았더라면”…박정희 전 대통령 미공개 편지 첫 공개",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWODJGcDdoQTV1M25qcXlzTmJMSGlXNGJDa0tTWVR5VFRlTDNaWWJxQXVxRVVZNmNSaXY3M2hmM0ZjQnlEaGtIN0hMRHYtOUpSSFB0RFdyUm1sbXowYXo0b2xEVVhjZmF6V2tOemFB0gFuQVVfeXFMUFY4MkZwN2hBNXUzbmpxeXNOYkxIaVc0YkNrS1NZVHlUVGVMM1pZYnFBdXFFVVk2Y1JpdjczaGYzRmNCeURoa0g3SExEdi05SlJIUHREV3JSbWxtejBhejRvbERVWGNmYXpXa056YUE?oc=5"
+     },
+     {
+      "press": "더퍼블릭",
+      "title": "“내가 흉탄 맞았더라면”…박근혜가 간직한 박정희 편지 52년 만에 공개",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83WlRqUDJtazhjVjBsMVpYSFNYNHZEMnc3NHNYLXNvekkxYmZoWXY4M1BQdnd6Z2tpOEZNRGJNVmdwT042QUtqUWJNUy1xUWp5dDVMVW1SZTdzbVFVVERUcEYwYUliLTJ1T000R2JpWdIBb0FVX3lxTE83WlRqUDJtazhjVjBsMVpYSFNYNHZEMnc3NHNYLXNvekkxYmZoWXY4M1BQdnd6Z2tpOEZNRGJNVmdwT042QUtqUWJNUy1xUWp5dDVMVW1SZTdzbVFVVERUcEYwYUliLTJ1T000R2JpWQ?oc=5"
      }
     ]
    }
@@ -239,139 +329,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/01.png",
-   "pngBytes": 1576250,
-   "feed": "오늘의 뉴스 2026-10-02\n\n· 靑, 김용범 후임에 하준경 발탁…'明의 남자' 송영길·김병주도 특보 배치\n· 지뢰 폭발에 부상 당한 부사관 “난 기어서 갈테니 대대장 모셔라”\n· \"자고나면 1억씩 올린다\"…초대박 분당 집주인들 '돌변'\n· 한국인이라며 승차 거부한 대만 택시기사…짐 내던지고 \"배신자 나라\"\n· 국힘 김태규 \"전두환 내란 아냐\"...민주 \"헌법 부정 망언\"\n· 李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]\n· 한동훈 \"與, 노무현 '조작수사 피해자'라 대국민 가스라이팅\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/01.png",
+   "pngBytes": 1846076,
+   "feed": "오늘의 뉴스 2026-10-03\n\n· 주진우, 공무상 비밀누설 혐의로 이재명 대통령 고발…“대외비 유출”\n· 이번엔 '한동훈 파일'…김민석 수첩 또 포착\n· 축의금 5만원 내고 식권 2장 받아간 남녀…신랑·신부 \"누구세요?\"\n· '이재용 장남' 이지호 소위, 한미 해군 회의 '통역 지원'…국방일보에 '찰칵'\n· 이 대통령, 우크라 향해 “상대국 원수 거짓말쟁이 만들어…사과 거부 시 추가 조치”\n· 박근혜, 박정희가 쓴 편지 공개‥\"'암살자(들)' 없었다면 공개 안 해\"\n· 유영하, '박정희 친필편지' 공개⋯\"내가 맞고 네 어머니가 살았더라면\""
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/02.png",
-   "pngBytes": 1631813,
-   "title": "靑, 김용범 후임에 하준경 발탁…'明의 남자' 송영길·김병주도 특보 배치",
-   "summary": "이재명 대통령이 1일 신임 청와대 정책실장에 하준경 경제성장수석비서관을 임명했다. 하 신임 정책실장은 경제학자 출신으로 청와대에서 경제성장수석으로서 대통령의 경제정책을…",
-   "summary_long": "이재명 대통령이 1일 신임 청와대 정책실장에 하준경 경제성장수석비서관을 임명했다. 후임 경제성장수석에는 문신학 산업통상부 차관을 기용하며 새로운 얼굴 없이 청와대 경제라인을 재편했다. 여기에 여당 내 친명(親이재명) 핵심 인사들로 꼽히는 송영길·김병주 더불어민주당 의원에게는 각각 대통령비서실 평화외교특별보좌관과 국방정책특별보좌관직을 맡겼다.\n\n하 신임 정책실장은 경제학자 출신으로 청와대에서 경제성장수석으로서 대통령의 경제정책을 보좌해왔다. 1967년생 전남 해남 출신이며 하 신임 실장과 마찬가지로 서울대 경제학과를 졸업했다. 송 신임 특보는 1963년생 전남 고흥 출신으로 연세대 경영학과를 졸업했다.",
-   "press": "시사저널",
-   "source": "시사저널",
-   "link": "https://n.news.naver.com/article/586/0000139232",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/02.png",
+   "pngBytes": 1848957,
+   "title": "주진우, 공무상 비밀누설 혐의로 이재명 대통령 고발…“대외비 유출”",
+   "summary": "이재명 대통령이 국민의힘 주진우 의원으로부터 공무상 비밀을 누설한 혐의로 고발당했다. 주 의원은 이 대통령이 엑스에 대외비 문서 사진을 촬영해 올린 것과 관련, 공무상…",
+   "summary_long": "이재명 대통령이 국민의힘 주진우 의원으로부터 공무상 비밀을 누설한 혐의로 고발당했다. 주 의원은 이 대통령이 엑스(X·옛 트위터)에 대외비 문서 사진을 촬영해 올린 것과 관련, 공무상 비밀 누설 혐의로 고발장을 접수했다고 2일 밝혔다. 주 의원은 이날 서울경찰청에 이 대통령에 대한 고발장을 접수하면서 “대통령도 공무원이다.\n\n대통령이 무슨 왕이냐”며 “그렇게 변명하려면 그동안 이 대통령에게 보고된 선관위 특검 관련 문건을 모두 공개하라”고 촉구했다. 이 대통령은 지난달 29일 엑스에 “경찰과 금융위, 국정원 등 공직자들을 칭찬해달라”며 보이스피싱 피해가 줄었다는 통계가 담긴 ‘일일 종합상황 보고서’라는 제목의 대외비 문서를 찍어서 올렸다. 주 의원은 당시 이 대통령이 올린 문건 사진 아래 ‘선관위 특검, 올림픽공원 핸드볼경기장 내 투표용지 재검표’ 문구가 반쯤 잘린 채 노출됐다면서 “선관위 특검과 내통하거나 사찰하고 있다는 유력한 직접 증거”라고 주장했다.",
+   "press": "강원일보",
+   "source": "강원일보",
+   "link": "https://n.news.naver.com/article/087/0001221761",
    "selection": "정치",
-   "feed": "뉴스 01. 靑, 김용범 후임에 하준경 발탁…'明의 남자' 송영길·김병주도 특보 배치\n\n이재명 대통령이 1일 신임 청와대 정책실장에 하준경 경제성장수석비서관을 임명했다. 후임 경제성장수석에는 문신학 산업통상부 차관을 기용하며 새로운 얼굴 없이 청와대 경제라인을 재편했다. 여기에 여당 내 친명(親이재명) 핵심 인사들로 꼽히는 송영길·김병주 더불어민주당 의원에게는 각각 대통령비서실 평화외교특별보좌관과 국방정책특별보좌관직을 맡겼다.\n\n하 신임 정책실장은 경제학자 출신으로 청와대에서 경제성장수석으로서 대통령의 경제정책을 보좌해왔다. 1967년생 전남 해남 출신이며 하 신임 실장과 마찬가지로 서울대 경제학과를 졸업했다. 송 신임 특보는 1963년생 전남 고흥 출신으로 연세대 경영학과를 졸업했다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000139232"
+   "feed": "뉴스 01. 주진우, 공무상 비밀누설 혐의로 이재명 대통령 고발…“대외비 유출”\n\n이재명 대통령이 국민의힘 주진우 의원으로부터 공무상 비밀을 누설한 혐의로 고발당했다. 주 의원은 이 대통령이 엑스(X·옛 트위터)에 대외비 문서 사진을 촬영해 올린 것과 관련, 공무상 비밀 누설 혐의로 고발장을 접수했다고 2일 밝혔다. 주 의원은 이날 서울경찰청에 이 대통령에 대한 고발장을 접수하면서 “대통령도 공무원이다.\n\n대통령이 무슨 왕이냐”며 “그렇게 변명하려면 그동안 이 대통령에게 보고된 선관위 특검 관련 문건을 모두 공개하라”고 촉구했다. 이 대통령은 지난달 29일 엑스에 “경찰과 금융위, 국정원 등 공직자들을 칭찬해달라”며 보이스피싱 피해가 줄었다는 통계가 담긴 ‘일일 종합상황 보고서’라는 제목의 대외비 문서를 찍어서 올렸다. 주 의원은 당시 이 대통령이 올린 문건 사진 아래 ‘선관위 특검, 올림픽공원 핸드볼경기장 내 투표용지 재검표’ 문구가 반쯤 잘린 채 노출됐다면서 “선관위 특검과 내통하거나 사찰하고 있다는 유력한 직접 증거”라고 주장했다.\n\n출처: 강원일보 / https://n.news.naver.com/article/087/0001221761"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/03.png",
-   "pngBytes": 2712106,
-   "title": "지뢰 폭발에 부상 당한 부사관 “난 기어서 갈테니 대대장 모셔라”",
-   "summary": "보디캠에 찍힌 지뢰 폭발 현장. 수색대대장은 1차 지뢰 폭발로 부사관 등이 쓰러지자 “괜찮아?”라면서 그들을 향해 곧장 내달렸지만, 2차 지뢰 폭발로 왼쪽 발목에 심한…",
-   "summary_long": "보디캠에 찍힌 지뢰 폭발 현장. 지난 21일 경기 파주시 남측 비무장지대(DMZ)에서 북한군 지뢰 2발이 폭발했을 당시, 발꿈치에 중상을 입은 부사관은 자신을 부축하던 병사들에게 발목이 절단된 수색대대 대대장을 먼저 후송하라고 지시하며 스스로 기어서 이동했던 것으로 30일 전해졌다. 전날 국회 국방위 현안 질의에서 폭발 후 장병들이 부상자를 후송하는 장면을 담은 보디캠 영상을 확인한 국회 국방위원회 소속 여야 의원들이 전한 현장 상황이다.\n\n합참, DMZ 지뢰 폭발 사고 현장 사진 공개. 수색대대장은 1차 지뢰 폭발로 부사관 등이 쓰러지자 “괜찮아?”라면서 그들을 향해 곧장 내달렸지만, 2차 지뢰 폭발로 왼쪽 발목에 심한 부상을 입고 의식이 희미해졌던 것으로 전해졌다. 북한이 이번 지뢰 폭발은 우리 측의 “자작 광대극”이라며 정전협정 위반 사실을 부인하고 나선 데는 이처럼 현장 영상이 없다는 점이 알려진 것도 영향을 줬을 가능성이 있다.",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004001453",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/03.png",
+   "pngBytes": 1668316,
+   "title": "이번엔 '한동훈 파일'…김민석 수첩 또 포착",
+   "summary": "이에 한동훈 무소속 의원은 수첩에 자신의 이름을 적은 모습이 포착된 김민석 더불어민주당 대표를 향해 \"정치를 좀 '좌아하게' 하라\"고 비판했다. 한 의원은 1일 SNS에…",
+   "summary_long": "페이스북더불어민주당 김민석 대표가 1일 국회 본회의장에서 자신의 수첩을 펼쳐 보는 모습이 카메라에 또 포착됐다. ‘전작권’ ‘세종의사당 집무실 check’ ‘경호’ ‘한줄편지위’ ‘MS대표연설(?) 후속’ ‘품격민생 check’ ‘한동훈 file’ ‘박시영 시사타파’ 등으로 보이는 메모가 적혀 있었다. ‘이진숙·한동훈 OUT’이라는 문구와 강훈식 대통령비서실장 등 인사들의 이름이 적혀 있었다.\n\n지난달 9일 본회의장에서 포착된 수첩에는 ‘이진숙·한동훈 OUT’이라고 적혀 있었다. 이에 한동훈 무소속 의원은 수첩에 자신의 이름을 적은 모습이 포착된 김민석 더불어민주당 대표를 향해 \"정치를 좀 '좌아하게' 하라\"고 비판했다. 한 의원은 1일 SNS(소셜미디어)에 \"김 대표가 '한동훈 file(파일)'이라고 써놓은 포스트잇이 언론에 포착됐다.",
+   "press": "TV조선",
+   "source": "TV조선",
+   "link": "https://n.news.naver.com/article/448/0000642602",
    "selection": "정치",
-   "feed": "뉴스 02. 지뢰 폭발에 부상 당한 부사관 “난 기어서 갈테니 대대장 모셔라”\n\n보디캠에 찍힌 지뢰 폭발 현장. 지난 21일 경기 파주시 남측 비무장지대(DMZ)에서 북한군 지뢰 2발이 폭발했을 당시, 발꿈치에 중상을 입은 부사관은 자신을 부축하던 병사들에게 발목이 절단된 수색대대 대대장을 먼저 후송하라고 지시하며 스스로 기어서 이동했던 것으로 30일 전해졌다. 전날 국회 국방위 현안 질의에서 폭발 후 장병들이 부상자를 후송하는 장면을 담은 보디캠 영상을 확인한 국회 국방위원회 소속 여야 의원들이 전한 현장 상황이다.\n\n합참, DMZ 지뢰 폭발 사고 현장 사진 공개. 수색대대장은 1차 지뢰 폭발로 부사관 등이 쓰러지자 “괜찮아?”라면서 그들을 향해 곧장 내달렸지만, 2차 지뢰 폭발로 왼쪽 발목에 심한 부상을 입고 의식이 희미해졌던 것으로 전해졌다. 북한이 이번 지뢰 폭발은 우리 측의 “자작 광대극”이라며 정전협정 위반 사실을 부인하고 나선 데는 이처럼 현장 영상이 없다는 점이 알려진 것도 영향을 줬을 가능성이 있다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004001453"
+   "feed": "뉴스 02. 이번엔 '한동훈 파일'…김민석 수첩 또 포착\n\n페이스북더불어민주당 김민석 대표가 1일 국회 본회의장에서 자신의 수첩을 펼쳐 보는 모습이 카메라에 또 포착됐다. ‘전작권’ ‘세종의사당 집무실 check’ ‘경호’ ‘한줄편지위’ ‘MS대표연설(?) 후속’ ‘품격민생 check’ ‘한동훈 file’ ‘박시영 시사타파’ 등으로 보이는 메모가 적혀 있었다. ‘이진숙·한동훈 OUT’이라는 문구와 강훈식 대통령비서실장 등 인사들의 이름이 적혀 있었다.\n\n지난달 9일 본회의장에서 포착된 수첩에는 ‘이진숙·한동훈 OUT’이라고 적혀 있었다. 이에 한동훈 무소속 의원은 수첩에 자신의 이름을 적은 모습이 포착된 김민석 더불어민주당 대표를 향해 \"정치를 좀 '좌아하게' 하라\"고 비판했다. 한 의원은 1일 SNS(소셜미디어)에 \"김 대표가 '한동훈 file(파일)'이라고 써놓은 포스트잇이 언론에 포착됐다.\n\n출처: TV조선 / https://n.news.naver.com/article/448/0000642602"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/04.png",
-   "pngBytes": 2142137,
-   "title": "\"자고나면 1억씩 올린다\"…초대박 분당 집주인들 '돌변'",
-   "summary": "5개 구역 1만 3429가구 수용 “평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요.” 경기도 성남시 분당구 노후 아파트 단지 경기도 성남시…",
-   "summary_long": "5개 구역 1만 3429가구 수용 “평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요.” 경기도 성남시 분당구 노후 아파트 단지 경기도 성남시 분당에서 2차 특별정비구역 지정 대상으로 선정된 구역의 호가가 단숨에 수억원씩 뛰어오르는 등 인근 시장이 들썩이는 모습이다. 1일 관련업계에 따르면 특별정비구역으로 지정된 △이매촌1 △시범단지1 △파크타운 △푸른마을 △한솔마을2 등 5개 구역의 호가가 실거래가보다 수억원씩 높은 가격으로 전환하고 있다.\n\n여러 단지를 한데 묶는 대규모 통합정비 방식으로, 총 50개 구역 6만 6037가구가 신청하면서 올해 지정 예정 물량인 1만 2000가구의 5.5배에 달했다. 삼성·한신·한양아파트를 묶어 재건축하는 구역으로 면적 32만 3520㎡, 4200가구 규모다. 수내동 일원의 파크타운은 대림·롯데 등 3025가구, 25만 1046㎡ 규모다.",
-   "press": "이데일리",
-   "source": "이데일리",
-   "link": "https://n.news.naver.com/article/018/0006378512",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/04.png",
+   "pngBytes": 1621115,
+   "title": "축의금 5만원 내고 식권 2장 받아간 남녀…신랑·신부 \"누구세요?\"",
+   "summary": "당시 빈 봉투나 1만원이 든 봉투 등은 확인됐지만, 문제의 봉투에는 5만원권이 들어 있어 별다른 의심 없이 식권 두 장이 건네진 것으로 전해졌습니다. 온라인…",
+   "summary_long": "당시 영상을 보면 마스크를 쓴 남성과 검은색 원피스를 입은 여성이 다른 하객들과 함께 줄을 서 있습니다. 차례가 되자 남성은 준비한 봉투를 건넨 뒤 식권 두 장을 받아 자리를 떠납니다. 당시 빈 봉투나 1만원이 든 봉투 등은 확인됐지만, 문제의 봉투에는 5만원권이 들어 있어 별다른 의심 없이 식권 두 장이 건네진 것으로 전해졌습니다.\n\n이어 \"영상 속 남녀는 전혀 모르는 사람들이었고, 축의금 액수도 황당했다\"고 덧붙였습니다. 최근 예비부부들 사이에서는 다른 사람의 결혼식에 하객으로 위장해 참석한 뒤 예식장의 주차 환경과 동선, 홀 분위기 등을 직접 확인하는 이른바 '암행투어'가 이뤄지고 있습니다. 온라인 커뮤니티에서는 비싼 예식 비용을 내면서도 실제 진행 상황을 미리 알기 어렵다는 점에서 암행투어를 이해한다는 의견이 있는 반면, 다른 사람의 결혼식에 허락 없이 참석하는 것은 무례하다는 비판도 나오고 있습니다.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000513729",
    "selection": "경제·시사",
-   "feed": "뉴스 03. \"자고나면 1억씩 올린다\"…초대박 분당 집주인들 '돌변'\n\n5개 구역 1만 3429가구 수용 “평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요.” 경기도 성남시 분당구 노후 아파트 단지 경기도 성남시 분당에서 2차 특별정비구역 지정 대상으로 선정된 구역의 호가가 단숨에 수억원씩 뛰어오르는 등 인근 시장이 들썩이는 모습이다. 1일 관련업계에 따르면 특별정비구역으로 지정된 △이매촌1 △시범단지1 △파크타운 △푸른마을 △한솔마을2 등 5개 구역의 호가가 실거래가보다 수억원씩 높은 가격으로 전환하고 있다.\n\n여러 단지를 한데 묶는 대규모 통합정비 방식으로, 총 50개 구역 6만 6037가구가 신청하면서 올해 지정 예정 물량인 1만 2000가구의 5.5배에 달했다. 삼성·한신·한양아파트를 묶어 재건축하는 구역으로 면적 32만 3520㎡, 4200가구 규모다. 수내동 일원의 파크타운은 대림·롯데 등 3025가구, 25만 1046㎡ 규모다.\n\n출처: 이데일리 / https://n.news.naver.com/article/018/0006378512"
+   "feed": "뉴스 03. 축의금 5만원 내고 식권 2장 받아간 남녀…신랑·신부 \"누구세요?\"\n\n당시 영상을 보면 마스크를 쓴 남성과 검은색 원피스를 입은 여성이 다른 하객들과 함께 줄을 서 있습니다. 차례가 되자 남성은 준비한 봉투를 건넨 뒤 식권 두 장을 받아 자리를 떠납니다. 당시 빈 봉투나 1만원이 든 봉투 등은 확인됐지만, 문제의 봉투에는 5만원권이 들어 있어 별다른 의심 없이 식권 두 장이 건네진 것으로 전해졌습니다.\n\n이어 \"영상 속 남녀는 전혀 모르는 사람들이었고, 축의금 액수도 황당했다\"고 덧붙였습니다. 최근 예비부부들 사이에서는 다른 사람의 결혼식에 하객으로 위장해 참석한 뒤 예식장의 주차 환경과 동선, 홀 분위기 등을 직접 확인하는 이른바 '암행투어'가 이뤄지고 있습니다. 온라인 커뮤니티에서는 비싼 예식 비용을 내면서도 실제 진행 상황을 미리 알기 어렵다는 점에서 암행투어를 이해한다는 의견이 있는 반면, 다른 사람의 결혼식에 허락 없이 참석하는 것은 무례하다는 비판도 나오고 있습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000513729"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/05.png",
-   "pngBytes": 1968599,
-   "title": "한국인이라며 승차 거부한 대만 택시기사…짐 내던지고 \"배신자 나라\"",
-   "summary": "7개 언론사10,785개 기사. 26개 언론사37,819개 기사.",
-   "summary_long": "이어 \"캐리어 안에 있던 노트북 등도 모두 파손된 상태였다\"며 \"경찰과 이야기하는 과정에서도 택시기사가 '한국이 진짜 싫다', '배신자 나라'라고 말했다\"고 주장했습니다. 이 기사는 언론사에서 사회 섹션으로 분류했습니다. 기사의 섹션 정보는 해당 언론사의 분류를 따르고 있습니다.\n\n황석영 작가가 이재명 대통령을 향한 최근 여권 내 비판과 갈등을 두고 “대통령이 뭘 그렇게 잘못했느냐”며 공개적으로 엄호했습니다. 7개 언론사10,785개 기사.",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000513535",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/05.png",
+   "pngBytes": 1989310,
+   "title": "'이재용 장남' 이지호 소위, 한미 해군 회의 '통역 지원'…국방일보에 '찰칵'",
+   "summary": "이지호 해군 소위, 한미 해군교육사령관 회의 통역. 사진 국방일보 *재판매 및 DB 금지 이지우 = 해군 통역장교로 복무 중인 이재용 삼성전자 회장의 장남 이지호 소위의…",
+   "summary_long": "이지호 해군 소위, 한미 해군교육사령관 회의 통역. 강정호 해군 교육사령관과 그레고리 허프만 미 해군 교육사령관이 지난 9월 환담을 나누는 모습. 강 사령관 뒤쪽에 이지호 소위가 통역을 하고 있다.\n\n사진 국방일보 *재판매 및 DB 금지 이지우 = 해군 통역장교로 복무 중인 이재용 삼성전자 회장의 장남 이지호 소위의 모습이 국방일보 보도 사진에 찍힌 것이 뒤늦게 확인됐다. 미국에서 태어난 이 소위는 한국과 미국 복수국적을 보유하고 있었지만, 미국 시민권을 포기한 뒤 해군 장교로 병역 의무를 이행하고 있다. 같은해 11월 말 임관식을 치른 그는 해군 소위로 임관했으며, 초등군사교육 등을 받은 뒤 통역장교로 배치됐다.",
+   "press": "뉴시스",
+   "source": "뉴시스",
+   "link": "https://n.news.naver.com/article/003/0014229808",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 한국인이라며 승차 거부한 대만 택시기사…짐 내던지고 \"배신자 나라\"\n\n이어 \"캐리어 안에 있던 노트북 등도 모두 파손된 상태였다\"며 \"경찰과 이야기하는 과정에서도 택시기사가 '한국이 진짜 싫다', '배신자 나라'라고 말했다\"고 주장했습니다. 이 기사는 언론사에서 사회 섹션으로 분류했습니다. 기사의 섹션 정보는 해당 언론사의 분류를 따르고 있습니다.\n\n황석영 작가가 이재명 대통령을 향한 최근 여권 내 비판과 갈등을 두고 “대통령이 뭘 그렇게 잘못했느냐”며 공개적으로 엄호했습니다. 7개 언론사10,785개 기사.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000513535"
+   "feed": "뉴스 04. '이재용 장남' 이지호 소위, 한미 해군 회의 '통역 지원'…국방일보에 '찰칵'\n\n이지호 해군 소위, 한미 해군교육사령관 회의 통역. 강정호 해군 교육사령관과 그레고리 허프만 미 해군 교육사령관이 지난 9월 환담을 나누는 모습. 강 사령관 뒤쪽에 이지호 소위가 통역을 하고 있다.\n\n사진 국방일보 *재판매 및 DB 금지 이지우 = 해군 통역장교로 복무 중인 이재용 삼성전자 회장의 장남 이지호 소위의 모습이 국방일보 보도 사진에 찍힌 것이 뒤늦게 확인됐다. 미국에서 태어난 이 소위는 한국과 미국 복수국적을 보유하고 있었지만, 미국 시민권을 포기한 뒤 해군 장교로 병역 의무를 이행하고 있다. 같은해 11월 말 임관식을 치른 그는 해군 소위로 임관했으며, 초등군사교육 등을 받은 뒤 통역장교로 배치됐다.\n\n출처: 뉴시스 / https://n.news.naver.com/article/003/0014229808"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/06.png",
-   "pngBytes": 1753008,
-   "title": "국힘 김태규 \"전두환 내란 아냐\"...민주 \"헌법 부정 망언\"",
-   "summary": "국민의힘 김태규 의원이 영화 '암살자'과 관련한 대화를 주고받는 과정에서, 전두환 씨가 내란을 한 게 아니라고 발언해 논란이 되고 있습니다. 더불어민주당은 윤석열 전…",
-   "summary_long": "국민의힘 김태규 의원이 영화 '암살자(들)'과 관련한 대화를 주고받는 과정에서, 전두환 씨가 내란을 한 게 아니라고 발언해 논란이 되고 있습니다. 더불어민주당은 윤석열 전 대통령에 더해, 사법적 판단이 끝난 전 씨의 내란마저 부정한다며 김 의원에 대한 의원직 제명을 촉구했습니다. 논란의 발언은 한 유튜브 방송에서 진행자가 국민의힘 김태규 의원의 최근 상임위 질의 내용을 되짚는 과정에서 나왔습니다.\n\n최휘영 문체부 장관에게 영화 '암살자(들)'의 문제를 지적하기 위해, 북한군이 5·18에 개입했는지, 또 6·25는 남침인지 북침인지를 꼭 물어야 했느냐며 진행자가 반대 예시를 들자, 김 의원은 이렇게 답했습니다. [김 태 규 / 국민의힘 의원 (JTBC 유튜브 '장르만 여의도') : (어떤 민주당 의원이 이 정부가 아닌 상황이라 치고, 윤석열은 내란이오, 아니오?) 아니죠. 당황한 진행자가 전두환 씨 내란은 대법원에서 무기징역을 확정한 사건이라고 다시 질문했지만, 김 의원은 사법적 판단이 정치적으로 왜곡된 사례가 많다며, 전 씨의 내란도 역사적 논의의 영역에 남겨둬야 한단 입장을 굽히지 않았습니다.",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002413583",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/06.png",
+   "pngBytes": 1837145,
+   "title": "이 대통령, 우크라 향해 “상대국 원수 거짓말쟁이 만들어…사과 거부 시 추가 조치”",
+   "summary": "이재명 대통령이 2일 우크라이나 쪽이 북한군 포로 2명을 한국 송환한 것과 관련해 ‘비공개 합의는 없었다’고 주장한 데 대해 “사실 인정과 공개 사과를 계속 거부하면…",
+   "summary_long": "이재명 대통령이 1일 청와대에서 열린 수석보좌관회의에서 발언하고 있다. 이재명 대통령이 2일 우크라이나 쪽이 북한군 포로 2명을 한국 송환한 것과 관련해 ‘비공개 합의는 없었다’고 주장한 데 대해 “사실 인정과 공개 사과를 계속 거부하면 추가 조치를 해 나갈 것”이라고 말했다. 이 대통령은 이날 엑스(X·옛 트위터)에 안드리 시비하 우크라이나 외무장관이 현지 취재진을 만나 “이 사안의 ‘사건’이라고 부르고 싶지 않다.\n\n이 대통령은 “북한 포로 송환과 관련해 우크라이나 측이 비공개 요구를 해 비공개로 합의했는데 일방적으로 공개했고, 대한민국 대통령이 최대한 예의를 갖춰 아쉽다고 했더니 합의사실이 없다고 상대국 국가원수를 거짓말쟁이로 만들고,합의사실을 인정하고 사과하라고 했더니 도리어 남북간 군사충돌 임박 운운하며 한반… 이 대통령은 그러면서 “대한민국 국민과 국가의 위신에 관한 문제로서 묵과할 수 없다”고 말했다. 앞서 성기홍 홍보소통수석은 지난달 27일 입장문을 내고 “우크라이나 정부 쪽의 합의에 위반한 일방적 공개와 이에 이은 비공개합의 사실이 없다는 허위 공보에 대해 강력한 유감을 표한다”며 “공식적인 해명과 사과를 요구한다”고 말한 바 있다.",
+   "press": "한겨레",
+   "source": "한겨레",
+   "link": "https://n.news.naver.com/article/028/0002825705",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 국힘 김태규 \"전두환 내란 아냐\"...민주 \"헌법 부정 망언\"\n\n국민의힘 김태규 의원이 영화 '암살자(들)'과 관련한 대화를 주고받는 과정에서, 전두환 씨가 내란을 한 게 아니라고 발언해 논란이 되고 있습니다. 더불어민주당은 윤석열 전 대통령에 더해, 사법적 판단이 끝난 전 씨의 내란마저 부정한다며 김 의원에 대한 의원직 제명을 촉구했습니다. 논란의 발언은 한 유튜브 방송에서 진행자가 국민의힘 김태규 의원의 최근 상임위 질의 내용을 되짚는 과정에서 나왔습니다.\n\n최휘영 문체부 장관에게 영화 '암살자(들)'의 문제를 지적하기 위해, 북한군이 5·18에 개입했는지, 또 6·25는 남침인지 북침인지를 꼭 물어야 했느냐며 진행자가 반대 예시를 들자, 김 의원은 이렇게 답했습니다. [김 태 규 / 국민의힘 의원 (JTBC 유튜브 '장르만 여의도') : (어떤 민주당 의원이 이 정부가 아닌 상황이라 치고, 윤석열은 내란이오, 아니오?) 아니죠. 당황한 진행자가 전두환 씨 내란은 대법원에서 무기징역을 확정한 사건이라고 다시 질문했지만, 김 의원은 사법적 판단이 정치적으로 왜곡된 사례가 많다며, 전 씨의 내란도 역사적 논의의 영역에 남겨둬야 한단 입장을 굽히지 않았습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002413583"
+   "feed": "뉴스 05. 이 대통령, 우크라 향해 “상대국 원수 거짓말쟁이 만들어…사과 거부 시 추가 조치”\n\n이재명 대통령이 1일 청와대에서 열린 수석보좌관회의에서 발언하고 있다. 이재명 대통령이 2일 우크라이나 쪽이 북한군 포로 2명을 한국 송환한 것과 관련해 ‘비공개 합의는 없었다’고 주장한 데 대해 “사실 인정과 공개 사과를 계속 거부하면 추가 조치를 해 나갈 것”이라고 말했다. 이 대통령은 이날 엑스(X·옛 트위터)에 안드리 시비하 우크라이나 외무장관이 현지 취재진을 만나 “이 사안의 ‘사건’이라고 부르고 싶지 않다.\n\n이 대통령은 “북한 포로 송환과 관련해 우크라이나 측이 비공개 요구를 해 비공개로 합의했는데 일방적으로 공개했고, 대한민국 대통령이 최대한 예의를 갖춰 아쉽다고 했더니 합의사실이 없다고 상대국 국가원수를 거짓말쟁이로 만들고,합의사실을 인정하고 사과하라고 했더니 도리어 남북간 군사충돌 임박 운운하며 한반… 이 대통령은 그러면서 “대한민국 국민과 국가의 위신에 관한 문제로서 묵과할 수 없다”고 말했다. 앞서 성기홍 홍보소통수석은 지난달 27일 입장문을 내고 “우크라이나 정부 쪽의 합의에 위반한 일방적 공개와 이에 이은 비공개합의 사실이 없다는 허위 공보에 대해 강력한 유감을 표한다”며 “공식적인 해명과 사과를 요구한다”고 말한 바 있다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002825705"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/07.png",
-   "pngBytes": 2124581,
-   "title": "李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]",
-   "summary": "지난해 5월 16일 이재명 대통령이 더불어민주당 대선 후보로 활동할 때 전북 군산시 구시청광장에서 열린 유세에서 황석영 작가와 악수하고 있다. 진보 원로 황석영 작가가…",
-   "summary_long": "지난해 5월 16일 이재명 대통령이 더불어민주당 대선 후보로 활동할 때 전북 군산시 구시청광장에서 열린 유세에서 황석영 작가와 악수하고 있다. 진보 원로 황석영 작가가 최근 정치권 갈등 상황을 두고 이재명 대통령은 잘못한 것이 없다며 방송인 김어준 씨 등을 비판했다. 30일 황 작가는 JTBC '이가혁 라이브'에 출연해 최근 논란이 된 방송인 김어준 씨의 발언을 먼저 문제삼았다.\n\n그는 \"'사랑의 시기는 끝났다'는 것은 어불성설이고, '앞으로는 우정의 관계다'는 것도 굉장히 오만한 얘기\"라고 비판했다. 다만 \"(윤석열 전 대통령이) 파면되고 나서 뉴스공장이 굉장히 정치적으로 권력화돼 가는 모습이 보여 염려를 했다\"고 덧붙였다. 이날 황 작가는 새 정부가 두 달만에 조국 혁신정책연구원장의 사면을 결정한 것은 부적절했다면서 \"용산에 볼펜도 없어서 맨바닥 폐허에서 시작하는데 그때 벌써 이미 조국 씨 사면 얘기가 나오더라.",
-   "press": "노컷뉴스",
-   "source": "노컷뉴스",
-   "link": "https://n.news.naver.com/article/079/0004194683",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/07.png",
+   "pngBytes": 1755036,
+   "title": "박근혜, 박정희가 쓴 편지 공개‥\"'암살자(들)' 없었다면 공개 안 해\"",
+   "summary": "영화 '암살자'에 대해 보수 진영을 중심으로 역사 왜곡이라는 비판이 제기된 가운데, 박근혜 전 대통령이 육영수 여사 피격 사건 직후인 1974년 8월 17일 아버지…",
+   "summary_long": "영화 '암살자(들)'에 대해 보수 진영을 중심으로 역사 왜곡이라는 비판이 제기된 가운데, 박근혜 전 대통령이 육영수 여사 피격 사건 직후인 1974년 8월 17일 아버지 박정희 전 대통령으로부터 받은 편지가 공개됐습니다. 국민의힘 유영하 의원이 사본으로 공개한 A4 3장 분량 편지에는, 박정희 전 대통령이 박근혜 전 대통령에게 \"아버지가 맞을 흉탄을 어머니가 내 대신 맞고 가셨다. 내가 맞고 어머니가 살았더라면 얼마나 좋았을까 하고 몇 번이고 생각해본다\"고 적혀 있습니다.\n\n이어 \"어머니는 내 대신 자신이 맞고 아버지에게 너희들에 대한 모든 책임과 이 나라의 모든 책임을 맡기고 가셨다\"면서 \"이제는 네가 어머니 대역을 해주어야 하겠다. 아버지가 어머니의 몇분지 일의 역도 못하겠지만 좋은 아버지가 되게끔 무슨 희생이라도 하마\"라고 썼습니다. 유영하 의원은 당시 프랑스에서 유학 중이던 박근혜 전 대통령이 피격 사건으로 귀국하는 길에 받은 것이라고 전했습니다.",
+   "press": "MBC",
+   "source": "MBC",
+   "link": "https://n.news.naver.com/article/214/0001526897",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]\n\n지난해 5월 16일 이재명 대통령이 더불어민주당 대선 후보로 활동할 때 전북 군산시 구시청광장에서 열린 유세에서 황석영 작가와 악수하고 있다. 진보 원로 황석영 작가가 최근 정치권 갈등 상황을 두고 이재명 대통령은 잘못한 것이 없다며 방송인 김어준 씨 등을 비판했다. 30일 황 작가는 JTBC '이가혁 라이브'에 출연해 최근 논란이 된 방송인 김어준 씨의 발언을 먼저 문제삼았다.\n\n그는 \"'사랑의 시기는 끝났다'는 것은 어불성설이고, '앞으로는 우정의 관계다'는 것도 굉장히 오만한 얘기\"라고 비판했다. 다만 \"(윤석열 전 대통령이) 파면되고 나서 뉴스공장이 굉장히 정치적으로 권력화돼 가는 모습이 보여 염려를 했다\"고 덧붙였다. 이날 황 작가는 새 정부가 두 달만에 조국 혁신정책연구원장의 사면을 결정한 것은 부적절했다면서 \"용산에 볼펜도 없어서 맨바닥 폐허에서 시작하는데 그때 벌써 이미 조국 씨 사면 얘기가 나오더라.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004194683"
+   "feed": "뉴스 06. 박근혜, 박정희가 쓴 편지 공개‥\"'암살자(들)' 없었다면 공개 안 해\"\n\n영화 '암살자(들)'에 대해 보수 진영을 중심으로 역사 왜곡이라는 비판이 제기된 가운데, 박근혜 전 대통령이 육영수 여사 피격 사건 직후인 1974년 8월 17일 아버지 박정희 전 대통령으로부터 받은 편지가 공개됐습니다. 국민의힘 유영하 의원이 사본으로 공개한 A4 3장 분량 편지에는, 박정희 전 대통령이 박근혜 전 대통령에게 \"아버지가 맞을 흉탄을 어머니가 내 대신 맞고 가셨다. 내가 맞고 어머니가 살았더라면 얼마나 좋았을까 하고 몇 번이고 생각해본다\"고 적혀 있습니다.\n\n이어 \"어머니는 내 대신 자신이 맞고 아버지에게 너희들에 대한 모든 책임과 이 나라의 모든 책임을 맡기고 가셨다\"면서 \"이제는 네가 어머니 대역을 해주어야 하겠다. 아버지가 어머니의 몇분지 일의 역도 못하겠지만 좋은 아버지가 되게끔 무슨 희생이라도 하마\"라고 썼습니다. 유영하 의원은 당시 프랑스에서 유학 중이던 박근혜 전 대통령이 피격 사건으로 귀국하는 길에 받은 것이라고 전했습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001526897"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/08.png",
-   "pngBytes": 1644801,
-   "title": "한동훈 \"與, 노무현 '조작수사 피해자'라 대국민 가스라이팅\"",
-   "summary": "'검찰 폐지' D-1 여론전. 특히 고 노무현 전 대통령 등이 검찰의 '조작 수사'에 희생됐다는 더불어민주당의 '검찰 악마화'가 형사사법체계 부실화와 국민 피해로…",
-   "summary_long": "'검찰 폐지' D-1 여론전. 특히 고(故) 노무현 전 대통령 등이 검찰의 '조작 수사'에 희생됐다는 더불어민주당의 '검찰 악마화'가 형사사법체계 부실화와 국민 피해로 이어지게 됐다고 맹비난했다. 한 의원은 1일 여의도 국회의원회관에서 주최한 '개정 형사소송법 시행 D-1: 검찰 폐지, 내일부터 지옥문이 열린다' 토론회에서 \"(이제는) 국가가 제대로 도와드리지 못할 테니, 내일부터는 사기당하지 마시고 시비 걸리지 말라\"며 이같이 말했다.\n\n또 \"민주당 정치인들은 그들이 검찰의 '조작 수사'를 당해 순교해 왔다는 식의 거짓 전설을 만들어 지지층에 주입하고 국민을 상대로 가스라이팅해왔다\"며 \"'노무현 신화'가 대표적\"이라고 했다. 그럼에도 여권이 노 전 대통령을 미화한 것은 \"'노무현을 사랑해서'가 아니라, 검찰을 향한 적대심을 키워 '9억 받아 먹고 살아온' 자신들의 범죄를 끼워팔기 하기 위함\"이라고 맹폭했다. 그 결론은 70년간 유지된 검찰 제도의 전면 폐지로, 차후 발생할 피해는 모두 국민 몫이라는 것.",
-   "press": "노컷뉴스",
-   "source": "노컷뉴스",
-   "link": "https://n.news.naver.com/article/079/0004194907",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/08.png",
+   "pngBytes": 2347296,
+   "title": "유영하, '박정희 친필편지' 공개⋯\"내가 맞고 네 어머니가 살았더라면\"",
+   "summary": "유영하 국민의힘 의원이 2일 영화 '암살자'의 역사 왜곡 논란과 관련해 박근혜 전 대통령이 50여년간 보관해온 고 박정희 전 대통령의 미공개 친필편지를 공개했다. 유…",
+   "summary_long": "유영하 국민의힘 의원이 2일 영화 '암살자(들)'의 역사 왜곡 논란과 관련해 박근혜 전 대통령이 50여년간 보관해온 고(故) 박정희 전 대통령의 미공개 친필편지를 공개했다. 유 의원은 이날 국회 소통관에서 기자회견을 열고 \"논란이 시작된 이후 박근혜 전 대통령께서 당시 사건과 관련해 보관하고 계셨던 자료를 제게 전달해주셨다\"며 친필편지를 공개했다. 박근혜 전 대통령이 지금까지 외부에 공개하지 않고 보관해온 자료라고 유 의원은 설명했다.\n\n유 의원은 이날 박근혜 전 대통령이 보관하고 있던 1974년 8월 17일 작성된 고 박정희 전 대통령이 보낸 편지 복사본을 공개했다. 유 의원은 이번 편지 공개가 영화 '암살자(들)'을 둘러싼 역사 왜곡 논란에 대한 대응이라고 밝혔다. 국민의힘 유영하 의원이 2일 국회 소통관에서 기자회견을 열고 영화 '암살자(들)'과 관련한 입장을 밝혔다.",
+   "press": "아이뉴스24",
+   "source": "아이뉴스24",
+   "link": "https://n.news.naver.com/article/031/0001063063",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 한동훈 \"與, 노무현 '조작수사 피해자'라 대국민 가스라이팅\"\n\n'검찰 폐지' D-1 여론전. 특히 고(故) 노무현 전 대통령 등이 검찰의 '조작 수사'에 희생됐다는 더불어민주당의 '검찰 악마화'가 형사사법체계 부실화와 국민 피해로 이어지게 됐다고 맹비난했다. 한 의원은 1일 여의도 국회의원회관에서 주최한 '개정 형사소송법 시행 D-1: 검찰 폐지, 내일부터 지옥문이 열린다' 토론회에서 \"(이제는) 국가가 제대로 도와드리지 못할 테니, 내일부터는 사기당하지 마시고 시비 걸리지 말라\"며 이같이 말했다.\n\n또 \"민주당 정치인들은 그들이 검찰의 '조작 수사'를 당해 순교해 왔다는 식의 거짓 전설을 만들어 지지층에 주입하고 국민을 상대로 가스라이팅해왔다\"며 \"'노무현 신화'가 대표적\"이라고 했다. 그럼에도 여권이 노 전 대통령을 미화한 것은 \"'노무현을 사랑해서'가 아니라, 검찰을 향한 적대심을 키워 '9억 받아 먹고 살아온' 자신들의 범죄를 끼워팔기 하기 위함\"이라고 맹폭했다. 그 결론은 70년간 유지된 검찰 제도의 전면 폐지로, 차후 발생할 피해는 모두 국민 몫이라는 것.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004194907"
+   "feed": "뉴스 07. 유영하, '박정희 친필편지' 공개⋯\"내가 맞고 네 어머니가 살았더라면\"\n\n유영하 국민의힘 의원이 2일 영화 '암살자(들)'의 역사 왜곡 논란과 관련해 박근혜 전 대통령이 50여년간 보관해온 고(故) 박정희 전 대통령의 미공개 친필편지를 공개했다. 유 의원은 이날 국회 소통관에서 기자회견을 열고 \"논란이 시작된 이후 박근혜 전 대통령께서 당시 사건과 관련해 보관하고 계셨던 자료를 제게 전달해주셨다\"며 친필편지를 공개했다. 박근혜 전 대통령이 지금까지 외부에 공개하지 않고 보관해온 자료라고 유 의원은 설명했다.\n\n유 의원은 이날 박근혜 전 대통령이 보관하고 있던 1974년 8월 17일 작성된 고 박정희 전 대통령이 보낸 편지 복사본을 공개했다. 유 의원은 이번 편지 공개가 영화 '암살자(들)'을 둘러싼 역사 왜곡 논란에 대한 대응이라고 밝혔다. 국민의힘 유영하 의원이 2일 국회 소통관에서 기자회견을 열고 영화 '암살자(들)'과 관련한 입장을 밝혔다.\n\n출처: 아이뉴스24 / https://n.news.naver.com/article/031/0001063063"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-02/09.png",
-   "pngBytes": 1346332
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-03/09.png",
+   "pngBytes": 1345958
   }
  ],
- "caption": "📰 10월 2일 오늘의 뉴스\n\n1. 靑, 김용범 후임에 하준경 발탁…'明의 남자' 송영길·김병주도 특보 배치\n   이재명 대통령이 1일 신임 청와대 정책실장에 하준경 경제성장수석비서관을 임명했다. 하 신임 정책실장은 경제학자 출신으로 청와대에서 경제성장수석으로서 대통령의 경제정책을…\n2. 지뢰 폭발에 부상 당한 부사관 “난 기어서 갈테니 대대장 모셔라”\n   보디캠에 찍힌 지뢰 폭발 현장. 수색대대장은 1차 지뢰 폭발로 부사관 등이 쓰러지자 “괜찮아?”라면서 그들을 향해 곧장 내달렸지만, 2차 지뢰 폭발로 왼쪽 발목에 심한…\n3. \"자고나면 1억씩 올린다\"…초대박 분당 집주인들 '돌변'\n   5개 구역 1만 3429가구 수용 “평수에 따라 다르지만 어제 하루 만에 호가를 1억씩 올린 곳들이 있어요.” 경기도 성남시 분당구 노후 아파트 단지 경기도 성남시…\n4. 한국인이라며 승차 거부한 대만 택시기사…짐 내던지고 \"배신자 나라\"\n   7개 언론사10,785개 기사. 26개 언론사37,819개 기사.\n5. 국힘 김태규 \"전두환 내란 아냐\"...민주 \"헌법 부정 망언\"\n   국민의힘 김태규 의원이 영화 '암살자'과 관련한 대화를 주고받는 과정에서, 전두환 씨가 내란을 한 게 아니라고 발언해 논란이 되고 있습니다. 더불어민주당은 윤석열 전…\n6. 李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]\n   지난해 5월 16일 이재명 대통령이 더불어민주당 대선 후보로 활동할 때 전북 군산시 구시청광장에서 열린 유세에서 황석영 작가와 악수하고 있다. 진보 원로 황석영 작가가…\n7. 한동훈 \"與, 노무현 '조작수사 피해자'라 대국민 가스라이팅\"\n   '검찰 폐지' D-1 여론전. 특히 고 노무현 전 대통령 등이 검찰의 '조작 수사'에 희생됐다는 더불어민주당의 '검찰 악마화'가 형사사법체계 부실화와 국민 피해로…\n\n🗣 “작은 파당을 지어 당권 탈취나 합당 문제를 일으키며 권력투쟁을 벌인 것은 백낙청 선생 말대로 반역 행위와 같다고 하는데 동감한다”\n이 발언을 그대로 실은 보도 4건 · 다음뉴스 · 주간경향 · 뉴시스\n· 다음뉴스 — 李대통령 안쓰러워한 황석영 \"김어준 오만…조국 사면 빨랐어\"[뉴스럽다]\n· 주간경향 — 황석영 “김어준, 대단히 오만···줄세우고, 출연시키고, 배제하는 걸로 영향력 행사”\n· 뉴시스 — '진보원로' 황석영 \"이 대통령, 잘못 없다…김어준 오만\" 작심발언\n· 다음뉴스 — 소설가 황석영 “김어준 오만해…대통령 잘못이 뭐 있나”\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, YTN, 노컷뉴스, 시사저널, 이데일리, 조선일보"
+ "caption": "📰 10월 3일 오늘의 뉴스\n\n1. 주진우, 공무상 비밀누설 혐의로 이재명 대통령 고발…“대외비 유출”\n   이재명 대통령이 국민의힘 주진우 의원으로부터 공무상 비밀을 누설한 혐의로 고발당했다. 주 의원은 이 대통령이 엑스에 대외비 문서 사진을 촬영해 올린 것과 관련, 공무상…\n2. 이번엔 '한동훈 파일'…김민석 수첩 또 포착\n   이에 한동훈 무소속 의원은 수첩에 자신의 이름을 적은 모습이 포착된 김민석 더불어민주당 대표를 향해 \"정치를 좀 '좌아하게' 하라\"고 비판했다. 한 의원은 1일 SNS에…\n3. 축의금 5만원 내고 식권 2장 받아간 남녀…신랑·신부 \"누구세요?\"\n   당시 빈 봉투나 1만원이 든 봉투 등은 확인됐지만, 문제의 봉투에는 5만원권이 들어 있어 별다른 의심 없이 식권 두 장이 건네진 것으로 전해졌습니다. 온라인…\n4. '이재용 장남' 이지호 소위, 한미 해군 회의 '통역 지원'…국방일보에 '찰칵'\n   이지호 해군 소위, 한미 해군교육사령관 회의 통역. 사진 국방일보 *재판매 및 DB 금지 이지우 = 해군 통역장교로 복무 중인 이재용 삼성전자 회장의 장남 이지호 소위의…\n5. 이 대통령, 우크라 향해 “상대국 원수 거짓말쟁이 만들어…사과 거부 시 추가 조치”\n   이재명 대통령이 2일 우크라이나 쪽이 북한군 포로 2명을 한국 송환한 것과 관련해 ‘비공개 합의는 없었다’고 주장한 데 대해 “사실 인정과 공개 사과를 계속 거부하면…\n6. 박근혜, 박정희가 쓴 편지 공개‥\"'암살자(들)' 없었다면 공개 안 해\"\n   영화 '암살자'에 대해 보수 진영을 중심으로 역사 왜곡이라는 비판이 제기된 가운데, 박근혜 전 대통령이 육영수 여사 피격 사건 직후인 1974년 8월 17일 아버지…\n7. 유영하, '박정희 친필편지' 공개⋯\"내가 맞고 네 어머니가 살았더라면\"\n   유영하 국민의힘 의원이 2일 영화 '암살자'의 역사 왜곡 논란과 관련해 박근혜 전 대통령이 50여년간 보관해온 고 박정희 전 대통령의 미공개 친필편지를 공개했다. 유…\n\n🗣 “그렇게 변명하려면 그동안 이 대통령에게 보고된 선관위 특검 관련 문건을 모두 공개하라”\n이 발언을 그대로 실은 보도 10건 · 연합뉴스TV · 연합뉴스 · 다음뉴스 · 강원도민일보\n· 연합뉴스TV — 주진우, 공무상 비밀누설 혐의로 이 대통령 고발…\"대외비 유출\"\n· 연합뉴스 — 주진우, 공무상 비밀누설 혐의로 李대통령 고발…\"대외비 유출\"\n· 다음뉴스 — “대통령이 무슨 왕이냐” 李 고발한 주진우…공무상 비밀누설 혐의\n· 강원도민일보 — 주진우, ‘대외비 문건 공개’ 공무상 비밀누설 혐의로 이 대통령 고발\n· 검찰연합일보 — 국민의힘 주진우, 이재명 대통령 ‘대외비 문서 공개’ 공무상 비밀누설 혐의로 고발:중수청일보\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, MBC, TV조선, 강원일보, 뉴시스, 아이뉴스24, 한겨레"
 }
