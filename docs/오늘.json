@@ -1,255 +1,288 @@
 {
- "date": "2026-10-04",
- "generated_at": "2026-10-04T11:17:33+09:00",
+ "date": "2026-10-05",
+ "generated_at": "2026-10-05T10:26:44+09:00",
  "mode": "daily",
- "window_start": "2026-10-03T00:00:00+09:00",
- "window_end": "2026-10-03T23:59:59+09:00",
+ "window_start": "2026-10-04T00:00:00+09:00",
+ "window_end": "2026-10-04T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "육영수 피격 사건 1년여 뒤, 일본 경찰이 찾아낸 또 다른 '자료'",
-   "source": "오마이뉴스",
-   "url": "https://n.news.naver.com/article/047/0002531118",
-   "published_at": "2026-10-03T17:01:10+09:00",
+   "title": "민주 '10·4 남북정상선언' 19주년…\"남북 대화 다시 시작\"",
+   "source": "대전일보",
+   "url": "https://n.news.naver.com/article/656/0000188507",
+   "published_at": "2026-10-04T10:59:10+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "이와 달리, 일본 정부는 한국 비판 활동을 벌이는 한국청년동맹과 1973년에 발생한 김대중 납치 사건을 문세광과 연결했다. 이 보고서에서 주일미국대사관은 한국 정부의…",
-   "summary_long": "영부인 피격 사건을 재일교포 문태광(박정민 분)의 단독 행위로 몰고 가는 한국 정부의 움직임이 있고, 문태광의 배후를 캐고자 두 명과 경찰관 한 명의 움직임이 있다. 한국 정부는 사건의 배후가 북한과 조총련이라는 수사 결과를 발표했다. 이와 달리, 일본 정부는 한국 비판 활동을 벌이는 한국청년동맹(한청)과 1973년에 발생한 김대중 납치 사건을 문세광과 연결했다.\n\n이 보고서에서 주일미국대사관은 한국 정부의 수사 결과가 일본과 불일치한 것은 \"문(文)에 대한 신속한 사형집행이 증거를 없애기 위한 것이었다는 믿음을 강화할 것\"이라고 예측했다. 바로 이 동아시아무장전선이 문세광의 한국 입국을 도운 인물과 접촉했다는 것이 일본 경찰의 뒤늦은 수사 결과다. 한국 정부는 육영수 피격을 북한과 조총련이 벌인 일로 몰고 가고자 애썼고, 일본 정부는 김대중-박정희 갈등 구도 속에서 이 문제를 부각했다.",
+   "summary": "그는 \"국경선 요새화와 지뢰 매설은 정전협정 위반이며 10·4 남북정상선언에도 어긋난다\"며 \"북한 당국은 지뢰 폭발 사고에 대해 책임 있는 태도를 보이고 대화에 나서야…",
+   "summary_long": "더불어민주당이 '10·4 남북정상선언' 19주년을 기점으로 \"멈춰 선 남북 대화를 다시 시작해야 한다\"고 촉구했다. 민주당 박성준 수석대변인은 4일 서면브리핑을 통해 \"지금 한반도는 그날의 약속에서 멀어졌다\"며 \"남북대화는 끊겼고 북한의 핵·미사일 역량은 전보다 고도화됐다\"고 말했다. 박 수석대변인은 \"북한군이 매설한 지뢰로 우리 장병이 크게 다쳤다\"며 \"대결과 단절이 깊어질수록 군사적 긴장이 높아지고 우리 장병의 안전과 국민의 안보 불안이 커진다\"고 지적했다.\n\n그는 \"국경선 요새화와 지뢰 매설은 정전협정 위반이며 10·4 남북정상선언에도 어긋난다\"며 \"북한 당국은 지뢰 폭발 사고에 대해 책임 있는 태도를 보이고 대화에 나서야 한다\"고 촉구했다. 이어 \"민주당은 집권여당으로서 북한의 도발에는 단호히 대응하겠다\"며 \"한반도 내 긴장 완화와 남북 대화 복원을 위해 국회 차원에서도 노력하겠다\"고 덧붙였다.",
    "quotes": [
-    "일련의 기업 폭파 사건으로 체포된 동아시아반일무장전선의 일당이 반한(反韓) 활동을 벌이고 있는 재일한국인 조직과 8·15 사건으로 처형된 문세광과 문(文)의 여권 위조를 도와준 요시이 미끼코 등과 접촉을 했던 사실이 경찰의 조사에서 드러났다",
-    "문(文)에 대한 신속한 사형집행이 증거를 없애기 위한 것이었다는 믿음을 강화할 것"
+    "대결과 단절이 깊어질수록 군사적 긴장이 높아지고 우리 장병의 안전과 국민의 안보 불안이 커진다",
+    "국경선 요새화와 지뢰 매설은 정전협정 위반이며 10·4 남북정상선언에도 어긋난다",
+    "북한 당국은 지뢰 폭발 사고에 대해 책임 있는 태도를 보이고 대화에 나서야 한다"
    ],
-   "press": "오마이뉴스",
+   "press": "대전일보",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "문(文)에 대한 신속한 사형집행이 증거를 없애기 위한 것이었다는 믿음을 강화할 것",
-    "n": 1,
+    "quote": "대결과 단절이 깊어질수록 군사적 긴장이 높아지고 우리 장병의 안전과 국민의 안보 불안이 커진다",
+    "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "OhmyNews",
-      "title": "육영수 피격 사건 1년여 뒤, 일본 경찰이 찾아낸 또 다른 '자료'",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lRlUxaWp5XzhodWFqOG5YQ25pNFRXblY0WU1MQjF6YVlpTUdpd2lkRnAyLUg2cGZ0OVJ3NDBqZjhYc2t3WElsdDhJZG53ZzRXcjMtU2JVMmFBZVZsZEFINWlEdGdsaFU1a2Nka21ka1NHR1FBcUlR?oc=5"
+      "press": "연합뉴스",
+      "title": "與 \"10·4 남북정상선언 19주년…멈춰 선 대화 다시 시작해야\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lbEJKdExfelFYczNzdnVmb3BPLXRIZGU3MnZ5aVJTYTFQU2NRelVMa1pibUdYVEM3U2s2VHZKYzFvWTI1RlFSaU1oRTJhWWZEc2RQOS1NX3VwQjdDU05DSNIBYEFVX3lxTE9lbEJKdExfelFYczNzdnVmb3BPLXRIZGU3MnZ5aVJTYTFQU2NRelVMa1pibUdYVEM3U2s2VHZKYzFvWTI1RlFSaU1oRTJhWWZEc2RQOS1NX3VwQjdDU05DSA?oc=5"
+     },
+     {
+      "press": "아시아투데이",
+      "title": "與, 10·4 선언 19주년에 北에 대화 촉구…“도발엔 단호히 대응”",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TbjNnbGp3UUN5dWFuZUp3LTlZR3VYaFEwb3lNVG5Yd1Z6SnZROWVTTjdPVnFyNXZ2QlFvMlJlTU8yZXNnenZVTWdQb2hSYjBzUFU5X05zTUdiX0w3NGE4OUpmQlhyVDhPRkxvZENB?oc=5"
+     },
+     {
+      "press": "월요신문",
+      "title": "민주, 10·4 남북정상선언 19주년 맞아…\"남북 대화 다시 시작해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tWWdyTjA1LTFHQUU1SG9BT0dDVVhYSVAtdnQ2U0dUSHBUQWtrMlVmSHZlN0oyZVI4bTdDTnB6dUhYNFN4VGxMc21kdl9ZWGVfS3pDOHdWRzh4ajVPQ3dDdHd4RlNkQ1JaZlE?oc=5"
      }
     ]
    }
   },
   {
-   "title": "[단독] 헌재소장, 스페인 출장에 아내 동행... 여비로 국가예산 1000만원 썼다",
+   "title": "전역모 쓰고 “군대 안가” 자랑한 축구대표팀…안철수 “군면제 없애야”",
    "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004001925",
-   "published_at": "2026-10-03T05:01:14+09:00",
+   "url": "https://n.news.naver.com/article/023/0004002015",
+   "published_at": "2026-10-04T13:54:15+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "김상환 헌법재판소장이 작년 10월 스페인 마드리드 출장에 아내를 동반한 가운데 배우자 여비로 국가 예산 1000만원을 쓴 것으로 2일 확인됐다. 국민의힘 윤상현 의원이…",
-   "summary_long": "김상환 헌법재판소장이 작년 10월 스페인 마드리드 출장에 아내를 동반한 가운데 배우자 여비로 국가 예산 1000만원을 쓴 것으로 2일 확인됐다. 국민의힘 윤상현 의원이 이날 헌재에서 확보한 출장 자료에 따르면, 김 소장은 지난해 스페인 마드리드에서 나흘간 열린 세계헌법재판회의 총회에 참석하기 위해 7일 일정으로 출장을 갔다. 출장 경비는 총 5821만9000원으로 전액 헌재 예산으로 부담했는데, 이 가운데 1031만3000원이 김 소장 배우자 여비로 지출됐다.\n\n그런데 김 소장이 직접 서명한 출장 계획서에는 ‘스페인 헌재 초청에 따라 재판소장 배우자 동행’이라고 적혀 있다. 윤 의원은 “스페인 헌재는 초청 인원을 김 소장을 포함해 최대 4명이라고 안내한 것인데, 김 소장은 아내까지 대동해 출장단을 총 6명으로 꾸렸다”며 “나랏돈으로 아내 해외여행을 시켜준 것 아니냐”고 했다. 출장단이 6명으로 구성된 데 대해서는 “과거 세계헌법재판회의 총회 출장 때도 소장이 배우자를 동행했고, 6명이 갔기 때문에 이번에도 선례에 따라 예산을 편성한 것”이라고 했다.",
+   "summary": "2026 아이치·나고야 아시안게임에서 남자 축구 국가대표팀이 금메달을 딴 것과 관련해 일부 선수가 병역 혜택과 관련해 선을 넘은 행동을 했다는 지적이 나오는 가운데…",
+   "summary_long": "2026 아이치·나고야 아시안게임에서 남자 축구 국가대표팀이 금메달을 딴 것과 관련해 일부 선수가 병역 혜택과 관련해 선을 넘은 행동을 했다는 지적이 나오는 가운데 국민의힘 안철수 의원이 “아시안게임 군 면제 혜택을 재고해야 한다”고 했다. 안 의원은 4일 자신의 페이스북에 “군대 안 간다고 자랑하는 국가대표 축구팀, 군대가 혐오 시설인가. 그는 “경기 후 축구 대표팀 일부 선수의 발언이 가관”이라며 “한 선수는 ‘금메달도 트로피도 중요하지 않다, 오직 군 면제만 봤다’며 ‘연습 중에 ‘이등병의 편지’를 틀어놓고 했다’고 자랑스레 밝혔다”고 했다.\n\n이어 “주장이라는 선수조차 공식 인터뷰에서 ‘군대 안 간다’고 자랑하며 조롱을 한다”며 “매년 입대하는 수많은 청년들은 모두 호구냐”고 했다. 이어 “아시안게임 군 면제, 이제 재고해야 한다”며 “군 면제 없이도 우승하고 금메달을 따오는 선수도 많지 않느냐”고 했다. 이어 “국가를 욕보이고 군대를 혐오하는 국가대표에게 군 면제는 가당치도 않다”고 했다.",
    "quotes": [
-    "주최 측이 동성 파트너나 미혼 파트너 등을 고려해 ‘배우자’(spouse) 대신 ‘동행자’라는 표현을 쓴 것이기 때문에 기본적으로 배우자가 포함되는 게 맞는다",
-    "스페인 헌재는 초청 인원을 김 소장을 포함해 최대 4명이라고 안내한 것인데, 김 소장은 아내까지 대동해 출장단을 총 6명으로 꾸렸다",
-    "과거 세계헌법재판회의 총회 출장 때도 소장이 배우자를 동행했고, 6명이 갔기 때문에 이번에도 선례에 따라 예산을 편성한 것"
+    "경기가 끝난 직후 현장에서 팬분께서 주신 모자를 받아 쓰게 됐다. 준비해 온 시간과 노력의 결과로 금메달을 따게 됐다는 기쁨과 벅찬 마음이 너무 컸고, 그 순간 모자의 의미에 대해 깊이 생각하지 못한 채 사진을 찍어 SNS에 올렸다",
+    "한 선수는 ‘금메달도 트로피도 중요하지 않다, 오직 군 면제만 봤다’며 ‘연습 중에 ‘이등병의 편지’를 틀어놓고 했다’고 자랑스레 밝혔다",
+    "군대 안 간다고 자랑하는 국가대표 축구팀, 군대가 혐오 시설인가. 나라를 위해 발목 잃은 군인은 바보인가"
    ],
    "press": "조선일보",
    "photo": "02.jpg",
    "quoted": {
-    "quote": "과거 세계헌법재판회의 총회 출장 때도 소장이 배우자를 동행했고, 6명이 갔기 때문에 이번에도 선례에 따라 예산을 편성한 것",
-    "n": 2,
+    "quote": "경기가 끝난 직후 현장에서 팬분께서 주신 모자를 받아 쓰게 됐다. 준비해 온 시간과 노력의 결과로 금메달을 따게 됐다는 기쁨과 벅찬 마음이 너무 컸고, 그 순간 모자의 의미에 대해 깊이 생각하지 못한 채 사진을 찍어 SNS에 올렸다",
+    "n": 6,
     "verified": 0,
     "items": [
      {
       "press": "조선일보",
-      "title": "[단독] 헌재소장, 스페인 출장에 아내 동행... 여비로 국가예산 1000만원 썼다",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZnRfVUNwZGU1TzZiaE5ZRE9PbVpVUlB3eEdhOWpNd2dCREFSanJFZVQ3MTA5ZWtIUHhKLUx6eW5weGM1VEdBbjlGUTZ4WWZYSXVlcWtNcXhzQXU0cmZwNXdaWFZPZTVkT3pfd1Vyc0c2Wmp3LVhoWFhWNml5OW5BaUpTa3QzQQ?oc=5"
+      "title": "전역모 쓰고 \"군대 안가\" 자랑한 축구대표팀…안철수 \"군면제 없애야\"",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYkpHbG95R2FkS0U2OC1RbEtRd0VUaGJzbWpvTTdCakxSM1NqSVUxX1lEaWZJekVfeU05YVFGbFhORnJzSkF5enlTV2Vpbnc0R2xOQWdvV2UwbFB4LXN0NkdXazJBX3ZxbGVaVVk3aXRoODh6anRoaDlEMGp2VkNEdDdZZC0xTjRRR1g0cE9wWUU?oc=5"
      },
      {
-      "press": "다음뉴스",
-      "title": "[단독] 헌재소장 스페인 출장 동행한 아내, 국가예산 1000만원 여비 썼다",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5idzFuTHJnSWc3TnhNYm5rTzRkWnpzc0d1cVdYOWg1SXFrRUd2WFBHVF94cDJXN2JWbVVXOGlRa1UwcFlZTm5rQkpJaw?oc=5"
+      "press": "네이트",
+      "title": "'전역모 세레머니' 조롱 논란…박승수 결국 고개 숙였다 \"모든 분들께 진심으로 죄송하다, 조롱하거나 가벼운 마음 없었어\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90YWY1aE9RVVYwMmxRV1JsWGVHRkl3ZWxCcUNOVDktLWhudzZTUG9qbVVudEpBUDVPR0FSTHVONlA2LURlYUpnVXllTC1EM2g2dk4wV0lDOHhuOWlOTWJjZzlVV0dCbzhZc1FZZ0pRQzhqQUY0cmVBMg?oc=5"
+     },
+     {
+      "press": "세계일보",
+      "title": "금메달이 병역특례로…‘국위선양’과 ‘공정’ 사이, 시대마다 되풀이 된 병역특혜 논란",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BSFdFM3UyZ0ZoNERTTzhXUDM5N1FaVkoxR2FfbGZrNGZXMkJzaGhsNkh4MUJKc1J6SVk1bnh0LWlLLXlQdThTQjZWTlBWSThfMlhEVmN3ZmzSAVRBVV95cUxPdXlTaGFQNXF6NUdWamtyQTQyUHlTMFhLYlJkdGJuamNSYzNuSFVYQzZfU1FhWkEzamlaM2xYdXhPTWdZeDlPRWI4ejl6TG03a3c0SE8?oc=5"
+     },
+     {
+      "press": "네이트",
+      "title": "\"병역 혜택 동기 잘못 전달 돼, 분명한 나의 책임\" 양민혁 \"군면제만 바라봐\" 발언에 사과…'전역모 사진' 논란 박승수도 질못 시인",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hVFI2eVdWSG1zZzZKNGpIbmZhODh3U2VUblcwY1ZtZXNGUmpoSXdJT2Njc1RjQTl0bV9ucXFzWHNmRjNmUXk3U2VUSTFfck9kcGZWSjhR?oc=5"
+     },
+     {
+      "press": "mhnse.com",
+      "title": "'전역모 인증샷' 박승수 결국 고개 숙였다...日 꺾고 금메달→병역혜택 확정 직후 SNS 사진 논란 \"경솔한 행동 사과드린다\"",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkeU9CVmJlaE5qWVN6SWJPamlZaUlwdVVsd2d2UVdlcWVyTDJvWGZZVVRXQWZMWDEydENtWEZ5S2pXVUxWYktjcXdQYzNRbHdRUXR3bWhjWFgxemQyZ3l4emR3TQ?oc=5"
+     },
+     {
+      "press": "mhnse.com",
+      "title": "\"군대 안 갑니다\" 경솔 발언에 '전역모 인증샷'까지...금메달 직후 논란 일파만파→대한축구협회 결국 고개 숙였다 \"국민·현역 장병께 실망과 상처 안긴 점 죄송\"",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mdk92LVQ4VWFJdF9fRmw5NXRvN3JjbGpWNHRmMXg2bjRDZ3p0anBQWUhISC1YdkZIcUxKYWxCVllaZ3pPdGtXN1ZubExTZ2lxb3VxT3ZndFpRRDN1UzNsRW5RVQ?oc=5"
      }
     ]
    }
   },
   {
-   "title": "[그해 오늘] \"27살 출소?\" 40대 성폭행 뒤 웃은 중학생, 감옥서 '엽기 범죄'",
-   "source": "이데일리",
-   "url": "https://n.news.naver.com/article/018/0006379959",
-   "published_at": "2026-10-03T00:01:10+09:00",
-   "section_id": "102",
+   "title": "\"원이야, 삼촌이 다 사줄게\"…60만개 '리센느 빵' 쓸어간 30대 男",
+   "source": "아시아경제",
+   "url": "https://n.news.naver.com/article/277/0005824478",
+   "published_at": "2026-10-04T13:25:28+09:00",
+   "section_id": "101",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "더군다나 윤 씨는 “난 이미 징역 7년을 받아 더 이상 잃을 것이 없다”며 피해자를 협박했는데, 그는 중학생이던 2023년 10월 3일 새벽 충남 논산에서 귀가하던…",
-   "summary_long": "더군다나 윤 씨는 “난 이미 징역 7년을 받아 더 이상 잃을 것이 없다”며 피해자를 협박했는데, 그는 중학생이던 2023년 10월 3일 새벽 충남 논산에서 귀가하던 40대 여성을 초등학교 운동장으로 납치해 성폭행하고 금품을 빼앗아 달아난 혐의로 징역 장기 7년, 단기 5년을 선고받고 복역 중이었다. 윤 씨는 범행 당시 피해자의 신체를 휴대전화로 촬영한 뒤 “신고하면 딸을 해치겠다”고 협박까지 했지만, 그의 변호인은 “선생님께 꾸중을 들으면 눈물을 흘리는 아이였다”며 재판부에 선처를 호소했다. 결국 2024년 5월 항소심 재판부는 윤 씨에게 1심보다 낮은 장기 7년, 단기 5년을 선고했다.\n\n재판부는 “피고인이 피해자와 원만히 합의했고, 피해자가 처벌불원 의사를 밝혔다”며 “피고인이 소년인 점, 피고인 가족이 집까지 팔아서 피해자와 합의한 점 등 여러 양형 조건을 참작했다”고 감형 이유를 밝혔다. 이 보고서뿐만 아니라 관련 전문가들은 그동안 “소년범의 교화 자체가 불가능한 게 아니라 현재 체계가 교화를 제대로 할 조건을 갖췄는가”라는 취지의 지적을 꾸준히 제기해왔다. 이에 따라 소년 전담기관은 성인과 구별되는 소년의 발달 특성과 환경적 요인을 고려해 예방 교육부터 보호관찰, 사후 연계에 이르기까지 비행소년의 재범 방지와 안정적인 사회 복귀를 지원한다.",
+   "summary": "편의점 업계, 활발한 협업으로 판매고 올려최고의 주가를 달리고 있는 그룹 리센느와 협업한 '리센느 빵' 5종의 판매량이 60만개를 달성했다. 4일 유통업계에 따르면…",
+   "summary_long": "편의점 업계, 활발한 협업으로 판매고 올려최고의 주가를 달리고 있는 그룹 리센느와 협업한 '리센느 빵' 5종의 판매량이 60만개를 달성했다. 4일 유통업계에 따르면 편의점 CU를 운영하는 BGF리테일이 출시한 '리센느 빵' 5종은 지난 1일 판매량 약 60만개를 기록했다. CU는 지난달 17일 '원이의 옥수수 크림빵'을 시작으로 30일 '리브의 초코 호떡' 등 리센느 멤버들의 취향을 반영한 '리센느 빵'을 순차적으로 판매해왔다.\n\n제품에는 리센느 멤버 이미지가 담긴 총 27종의 투명 포토 카드가 무작위로 동봉돼 있다. 리센느 빵 구매자를 성별에 따라 구분하면 남성 69.1%·여성 30.9%였다. 이어 GS리테일은 인기 협업 제품 '한정선 요거트 찹쌀떡'의 신제품을 이달 중순 선보일 예정이다.",
+   "press": "아시아경제",
+   "photo": "03.png"
+  },
+  {
+   "title": "[르포] “매물 올리자마자 매수 문의”… 4040가구 개발 기대에 들뜬 효창동",
+   "source": "조선비즈",
+   "url": "https://n.news.naver.com/article/366/0001196038",
+   "published_at": "2026-10-04T06:02:06+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "효창공원앞역 북측 후보지 선정. 국토교통부가 전날 효창공원앞역 북측을 4040가구 공급을 목표로 하는 신규 후보지로 선정하면서 매수 문의가 늘었다.",
+   "summary_long": "효창공원앞역 북측 후보지 선정. 지난 1일 오후 서울 용산구 효창동의 한 공인중개사무소 관계자는 도심 공공주택 복합사업 후보지 선정 이후 분위기를 이같이 전했다. 국토교통부가 전날 효창공원앞역 북측을 4040가구 공급을 목표로 하는 신규 후보지로 선정하면서 매수 문의가 늘었다.\n\n다만 신축 빌라와 단독주택 등이 섞여 있어 사업 추진에 필요한 주민 동의 확보는 쉽지 않을 것이라는 의견도 나왔다. 국토부는 이번 서울지역 공모에 접수된 주민 제안 44곳을 검토해 효창공원앞역 북측 등 11곳을 신규 후보지로 선정했다. 다른 주민은 “2022년 후보지로 선정된 효창공원 남측도 토지 수용에 반대하는 주민들이 있어 동의서를 받는 데 4년이 걸렸다”며 “북측도 만만치 않을 것”이라고 했다.",
    "quotes": [
-    "청소년이라는 것은 어른도 아니고 어린이도 아닌 미성숙한 존재이기 때문에 얼마든 실수할 수 있고 실수를 바로 잡을 기회를 충분히 가져야 한다",
-    "더 엽기적인 건 (윤 씨가) 웃는 거다. 내가 울고 있는데 이걸(범행) 하면서 웃는 게 너무 생생하다",
-    "피고인이 소년인 점, 피고인 가족이 집까지 팔아서 피해자와 합의한 점 등 여러 양형 조건을 참작했다"
+    "2022년 후보지로 선정된 효창공원 남측도 토지 수용에 반대하는 주민들이 있어 동의서를 받는 데 4년이 걸렸다",
+    "대지 지분이 10평대인 빌라의 경우 지난 1월 14억원가량에 거래됐는데, 현재 호가는 16억~17억원 수준",
+    "지금 들어가도 입주권이 나오는지, 분담금은 얼마인지 묻는 질문이 많이 들어왔다"
    ],
-   "press": "이데일리",
-   "photo": "03.jpg",
+   "press": "조선비즈",
+   "photo": "04.jpg",
    "quoted": {
-    "quote": "피고인이 소년인 점, 피고인 가족이 집까지 팔아서 피해자와 합의한 점 등 여러 양형 조건을 참작했다",
+    "quote": "지금 들어가도 입주권이 나오는지, 분담금은 얼마인지 묻는 질문이 많이 들어왔다",
     "n": 1,
     "verified": 0,
     "items": [
      {
-      "press": "이데일리",
-      "title": "[그해 오늘] \"27살 출소?\" 40대 성폭행 뒤 웃은 중학생, 감옥서 '엽기 범죄'",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOUw0TG84X2MtTTN5b0pBZW8zX1NaTjdaSWFPWkdkWDRjbFg2WnVJcnRZZFVYb1NTb0JMN1o1RzA5eVBmU3JWTmlNYngtaVFCQkJsNDV6R0pibW9HUGhvNEVKRUw3c0d5RTNKYmE3M1FuczdmNTI2WmM3SHhzaHp1TQ?oc=5"
+      "press": "Chosunbiz",
+      "title": "[르포] “매물 올리자마자 매수 문의”… 4040가구 개발 기대에 들뜬 효창동 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWpmMEc4NG9mMDVHTk1hVENHNG03Xzg0MDJESURXQ1I4akFPSjk3ZzllSjFMZDhYRUsycjNOMGcwSGpHeWdONzVDRFVibWJ5QXR6c183dW02ODBJRVp1R3RsdXkyclhQcmFWZklLRkx1ZkV6ckt4N1hLMzA2WG9LNUx4UnozM0kyMm1CUFBVckpDdkVqRDhpbdIBrAFBVV95cUxPdTJ3T1RfV0h3UFVkZGl1cUcyX2xyOXM1dHFsMlI5NzhXR2oxWXlRamVyZWozT09CeXFWdnVubVNDQkZ3QlpfbXhUZ0h5V0doTGxqamE0S2FESmhWTHZwdi10QkN0b0pCY3RFYzlRdmJBWEZQcGMwek5GcnBIdG1aZWxxUWFuZ0s5WkxHd0QwV3l6aEtmbTQxcXlWWGNTZmpLRHNJNks2MTdiTjFi?oc=5"
      }
     ]
    }
   },
   {
-   "title": "삼전 30만·하닉 220만원 오면 판다?…계좌 80% 채운 개미가 놓친 팩트 [숫자 뒤의 진실]",
-   "source": "세계일보",
-   "url": "https://n.news.naver.com/article/022/0004163724",
-   "published_at": "2026-10-03T05:02:10+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "삼성전자와 SK하이닉스 주가가 강세를 이어가는 가운데 두 종목의 계좌 내 비중이 70~80%에 달하는 투자자는 특정 목표주가보다 보유 비중과 위험 분산 여부를 함께…",
-   "summary_long": "삼성전자와 SK하이닉스가 주식 계좌의 70~80%를 차지한다면 언제, 얼마나 줄여야 할까. 삼성전자와 SK하이닉스 주가가 강세를 이어가는 가운데 두 종목의 계좌 내 비중이 70~80%에 달하는 투자자는 특정 목표주가보다 보유 비중과 위험 분산 여부를 함께 따져볼 필요가 있다는 조언이 나온다. 두 종목이 계좌의 70~80%인 투자자에게 합산 비중을 30~40%로 낮추라고 권했다.\n\n계좌 평가액이 1억원이고 두 종목의 평가액이 8000만원이라면, 4000만~5000만원어치를 팔아 현금으로 보유할 때 합산 비중은 30~40%가 된다. 두 종목의 합산 비중을 70~80%에서 30~40% 수준으로 낮추는 예시와 함께 매도 가격대, 분산 투자 시 고려할 지표를 담았다. 두 종목의 비중을 낮춰도 새로 산 종목들이 같은 업황에 영향을 받으면 함께 손실을 볼 수 있다.",
-   "press": "세계일보",
-   "photo": "04.jpg"
-  },
-  {
-   "title": "이 대통령, '청래 좀 그만 괴롭히라' 지적에 \"정청래는 동지\"",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001527053",
-   "published_at": "2026-10-03T17:40:28+09:00",
+   "title": "국힘, 싱가포르영화제에 영화 '암살자(들)' 개막작 철회 서한 추진",
+   "source": "SBS",
+   "url": "https://n.news.naver.com/article/055/0001393058",
+   "published_at": "2026-10-04T15:29:34+09:00",
    "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 742,
-   "comment_agree": 325,
-   "comment_disagree": 59,
-   "division_balance": 0.307292,
-   "division_score": 1.829382,
+   "view_rank": 5,
+   "comment_count": 202,
+   "comment_agree": 252,
+   "comment_disagree": 49,
+   "division_balance": 0.325581,
+   "division_score": 1.859209,
    "selection": "찬반 쟁점",
-   "summary": "이재명 대통령, 정청래 전 대표와 만찬. 이재명 대통령이 더불어민주당 정청래 전 대표와 만찬 회동에 대해 '정 전 대표를 그만 괴롭히라'는 누리꾼 지적에 직접…",
-   "summary_long": "이재명 대통령이 더불어민주당 정청래 전 대표와 만찬 회동에 대해 '정 전 대표를 그만 괴롭히라'는 누리꾼 지적에 직접 반박했습니다. 이 대통령은 X에 \"청래 좀 그만 괴롭히시라, 다구리 해놓고 '우린 공감한다' 그러시면 너무 잔인한 듯'이라고 적은 누리꾼 글을 공유하며 \"사물을 바른 시각으로 받아들여 보시면 어떨까 싶다. 그러면서 \"정 전 대표께서 전당대회 직후 자주 만나고 싶다고 하셨고, 정 전 대표 입원 당시 위로 전화 통화 중 만나기로 해 유엔총회 참석과 멕시코 순방을 마치고 만찬회동을 한 것\"이라고 설명했습니다.\n\n이 대통령은 이어 \"그분이 저에게 끌려다닌 것도 아니고 제가 그분을 괴롭힌 것도 아니니 오해나 곡해 마시기를 바란다\"고도 적었습니다. 또 \"정 전 대표와 저는 목숨조차 위협받던 어둠과 죽음의 시대, 그리고 내란의 밤을 함께 싸우며 넘어온 동지\"라고 강조했습니다. 이 대통령은 지난달 건강 악화로 입원한 정 전 대표에게 직접 전화를 걸어 쾌유를 기원했으며, 그제는 청와대로 초청해 만찬을 함께 했습니다.",
+   "summary": "국민의힘은 오늘 싱가포르국제영화제에 육영수 여사 피격 사건을 다룬 영화 '암살자'의 개막작 선정을 철회해달라는 서한을 소속 의원 전원 명의로 보내기로 했습니다. 5선…",
+   "summary_long": "국민의힘은 오늘(4일) 싱가포르국제영화제에 육영수 여사 피격 사건을 다룬 영화 '암살자(들)'의 개막작 선정을 철회해달라는 서한을 소속 의원 전원 명의로 보내기로 했습니다. 당초 주진우 의원이 개인 명의로 보낸다고 밝히자 동참하려는 의원들이 늘면서 이같이 추진하기로 한 것으로 알려졌습니다. 최보윤 수석대변인은 국회에서 기자들과 만나 해당 사안과 관련해 \"자발적으로 목소리 내는 데 동참하는 분이 많아 의견을 수렴해 원내에서 진행하기로 했다\"고 설명했습니다.\n\n주 의원은 먼저 공개한 개인 명의 서한에서 \"영화는 살해당한 피해자의 가족을 가해 의혹의 당사자로 뒤집고, 아버지가 어머니의 죽음에 관여했다는 끔찍한 프레임을 실제 유족에게 씌운 것\"이라며 \"희생자와 유족을 모욕하는 패륜적 역사 왜곡에 영화제 권위를 빌려주지 말라\"고 밝혔습니다. 5선 나경원 의원은 페이스북에 \"네이버가 패륜 영화 '암살자(들)' 평점 게시판설정을 최신순으로 변경한 것에 대해 '매크로 조작 탓'이라며 경찰에 수사를 의뢰했다고 한다. 주 의원은 이날 국회에서 기자회견을 열고 \"'암살자(들)'의 제작사 하이브미디어코프에 산업은행은 140억 원을, 중소기업은행은 142억 원을 간접 투자했다\"며 \"사실상 국책은행 돈으로 이 제작사의 배를 불려주고 있다.",
    "quotes": [
-    "정 전 대표께서 전당대회 직후 자주 만나고 싶다고 하셨고, 정 전 대표 입원 당시 위로 전화 통화 중 만나기로 해 유엔총회 참석과 멕시코 순방을 마치고 만찬회동을 한 것",
-    "청래 좀 그만 괴롭히시라, 다구리 해놓고 '우린 공감한다' 그러시면 너무 잔인한 듯'이라고 적은 누리꾼 글을 공유하며",
-    "정 전 대표와 저는 목숨조차 위협받던 어둠과 죽음의 시대, 그리고 내란의 밤을 함께 싸우며 넘어온 동지"
+    "네이버가 패륜 영화 '암살자(들)' 평점 게시판설정을 최신순으로 변경한 것에 대해 '매크로 조작 탓'이라며 경찰에 수사를 의뢰했다고 한다. 그래서 최신순으로 변경했다고 궁색한 변명을 한다",
+    "영화는 살해당한 피해자의 가족을 가해 의혹의 당사자로 뒤집고, 아버지가 어머니의 죽음에 관여했다는 끔찍한 프레임을 실제 유족에게 씌운 것",
+    "'암살자(들)'의 제작사 하이브미디어코프에 산업은행은 140억 원을, 중소기업은행은 142억 원을 간접 투자했다"
    ],
-   "press": "MBC",
+   "press": "SBS",
    "photo": "05.jpg",
    "quoted": {
-    "quote": "정 전 대표와 저는 목숨조차 위협받던 어둠과 죽음의 시대, 그리고 내란의 밤을 함께 싸우며 넘어온 동지",
-    "n": 10,
+    "quote": "네이버가 패륜 영화 '암살자(들)' 평점 게시판설정을 최신순으로 변경한 것에 대해 '매크로 조작 탓'이라며 경찰에 수사를 의뢰했다고 한다. 그래서 최신순으로 변경했다고 궁색한 변명을 한다",
+    "n": 4,
     "verified": 0,
     "items": [
      {
-      "press": "MBC 뉴스",
-      "title": "이 대통령, '청래 좀 그만 괴롭히라' 지적에 \"정청래는 동지\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MVHdQMW9famFSYnE1T1c3WXVhLXY5b245YzZBYUtFN0xkbGY2NVpIU3hFcDVPYTVhQUFuQmFvbnVMLWg1eU43M2dReGV4RWtZR2JlWkM5QVZYSkV5dTY1TzFoUWVpcUZ6Z3VMV0xKd3RTcW9FRGxTRdIBeEFVX3lxTE1ER3NoVTh1QldHX29URThNS28zTm9jR0VSS2RWOU9JRC1lc3ZZdklMTWdiUmxqcm9halp2QnltYmpZSGdkbW9LNnVuRTJNeG5Lek5WVmpvZ0pyaE1XOEJIZXIzUkFONHVtQnFSdDlhMUxWU3k2N092Qw?oc=5"
+      "press": "한국경제",
+      "title": "국힘, 싱가포르영화제 '암살자(들)' 상영철회 추진…민주당 \"영틀막\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92OFBMSWpMdVF2QjlKNFIyNHFUOXNsR0lnX1FwcHJpaVVWQ0ZkZkdJVU85NktadUNZYUQzSHZQM0xSNlZzMXpBRVpYNHBacHNhUWJiU0ZVdFNFUQ?oc=5"
      },
      {
-      "press": "강원일보",
-      "title": "李대통령 \"정청래는 목숨조차 위협받던 어둠과 죽음의 시대, 그리고 내란의 밤을 함께 싸우며 넘어온 동지",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MNnB6S3pETURwYzNKN3pKQW9md1R4ajItRVRmOWNFRTVWU2xfaW5xOThHcDljMThMdk1BT0pPNkk5RmUyLVFuT2hMWjB0LWE3emU4bzhUNzNLaFE?oc=5"
+      "press": "싱글리스트",
+      "title": "국힘, '암살자(들)' 네이버 평점게시판 조작 의혹·국책은행 투자 비판",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82ckhtenYtTWxLb2tERGNlbDA1RWtXaUFET1MwckxDWXlVQ1VxTzh6MDBueTVpLWU5ZWFES2I0aEktYjJxOUhIZFlGRjBVUTFmT2RaSkZQMUlQUnhibkFxc3puVEl1UQ?oc=5"
      },
      {
-      "press": "연합뉴스",
-      "title": "李대통령, '청래 좀 그만 괴롭히라'는 누리꾼 글에 \"鄭은 동지\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LYllwY242X0pZT2x2c0ljT1BxeHhwZEphbzBNbDg3dzJYY2UxMlh1YXU3Zm9jZzZraURGM2l5NUw1d0lPRjlCd2pIdzNubjV3V1dqYTNwSEhLanRQcklKRNIBYEFVX3lxTE9LYllwY242X0pZT2x2c0ljT1BxeHhwZEphbzBNbDg3dzJYY2UxMlh1YXU3Zm9jZzZraURGM2l5NUw1d0lPRjlCd2pIdzNubjV3V1dqYTNwSEhLanRQcklKRA?oc=5"
+      "press": "세계일보",
+      "title": "‘암살자(들)’ 역사왜곡 논란 일파만파… 국힘, 국제영화제에 개막작 철회 서한",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfUnpLYVdGSXhWY1VXaEg0c2xJd21MUXJBMTBVaF9kQmdZMEtpNVpJbHZiVWlQd3pjUVFzYkdIX2hwclFOWHBZb2pHVzNuNWlRcGJSRdIBVEFVX3lxTFBfUnpLYVdGSXhWY1VXaEg0c2xJd21MUXJBMTBVaF9kQmdZMEtpNVpJbHZiVWlQd3pjUVFzYkdIX2hwclFOWHBZb2pHVzNuNWlRcGJSRQ?oc=5"
      },
      {
-      "press": "경향신문",
-      "title": "이 대통령과 만찬 정청래 “내란 밤 함께 넘었던 동지들이여, 뭉치자”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zQi04U2lZRmZHdTZNS0xSZkkzQzlMVnF0anpPZUtMTjFlc0RtQUkwQWJrRVlVVGF0UjI2bnhveTFaX0xSd0Rhc2toSWE1M21RYnVpdWlBZEhId9IBX0FVX3lxTE50VUlQMmo1aWF0bHAwX1dmaUppRHRoc2xVTklIUU4wamZ1Ym13SzgyMEtGQmVOcmx1TVIwd2g3SnlZeUxwUFA5Yk5yV3RzSkRWZm16NjAzX2dsU2ZNTVNj?oc=5"
-     },
-     {
-      "press": "KBC광주방송",
-      "title": "[속보] \"정청래 그만 괴롭혀라\"에 李대통령 \"우린 동지\"…鄭 \"4통통합하고 뭉치자\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fay0xb2lnMm1QbGQ1NU9jTTZDSVZacU1BcjV5MUlXSlVyb0hOMzY4bWpEZ1ZPc0FaLVNQODdLQ2dLcmRLZkx5RERnV0pOcHVHU3dxRDBCRlY1N1JfcE13bQ?oc=5"
-     },
-     {
-      "press": "경기일보",
-      "title": "이재명 대통령, 정청래 회동 비판에 직접 반박… “목숨 걸고 싸워온 동지”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wM0gzZ2hHSlQyUFlpQWlxSUlqamVhcUdTaWNZN1NrTnBOVUhlRlZ4Nml2Z2tsQTJWb3RCOXk5dmttZkVZVUJQYVZ6RmQwak85d1JzbEEzb2NUZDg?oc=5"
+      "press": "다음뉴스",
+      "title": "야당, 암살자(들)’ 국제영화제 상영 철회 요구 서한 추진",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OYktNNzJ3ZDdLZWt5YjlnQ2ppWGxDdU9VZFNQd2FNMmNkNjBhSVZrd1BoajllWWw0Y0FTSV9vU3pOWElXSThyekpDZw?oc=5"
      }
     ]
    }
   },
   {
-   "title": "추미애, 김지용 겨냥 \"언제든 국민과 정의에 등 돌릴 수 있는 자\"",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001527046",
-   "published_at": "2026-10-03T14:26:18+09:00",
+   "title": "한동훈 \"김지용, 민주당에 충성맹세 혈서라도 쓰라…그러면 시켜줄 것\"",
+   "source": "뉴스1",
+   "url": "https://n.news.naver.com/article/421/0009208949",
+   "published_at": "2026-10-04T14:32:01+09:00",
    "section_id": "100",
    "view_rank": 3,
-   "comment_count": 875,
-   "comment_agree": 244,
-   "comment_disagree": 46,
-   "division_balance": 0.317241,
-   "division_score": 1.799813,
+   "comment_count": 272,
+   "comment_agree": 165,
+   "comment_disagree": 33,
+   "division_balance": 0.333333,
+   "division_score": 1.764435,
    "selection": "찬반 쟁점",
-   "summary": "김지용 초대 중대범죄수사청장 후보자를 연일 비판해 온 추미애 경기도지사가 김 후보자는 \"언제든 국민과 정의에 등을 돌릴 수 있는 자\"라며 공세 수위를 높였습니다. 추…",
-   "summary_long": "김지용 초대 중대범죄수사청장 후보자를 연일 비판해 온 추미애 경기도지사가 김 후보자는 \"언제든 국민과 정의에 등을 돌릴 수 있는 자\"라며 공세 수위를 높였습니다. 추 지사는 어제 페이스북에 \"언제든 국민과 정의에 등을 돌릴 수 있는 자를 왜 개혁의 사명을 띠고 출범하는 배의 선장으로 중용하는가\"라고 적었습니다. 이어 \"내란으로 국헌을 흔든 검찰 세력이 온전히 수사되지도 않고 있는 때에 내란 극복을 해내야 하는 중수청의 수장으로는 전혀 적임자가 아니\"라고 덧붙였습니다.\n\n이재명 대통령이 김 후보자에 대해 \"친윤이 아닌 반윤 행적은 언론보도로도 다 확인되는 사실\"이라며 \"문재인 정부 당시 추미애 법무부 장관이 검사장으로 발탁 승진시켰다\"고 말한 데 대해서도 반박했습니다. 추 지사는 \"장관 시절 차관으로부터 추천받아 검사장으로 발탁했다\"며 \"이후 당시 윤석열 검찰총장에 대한 징계 절차에 돌입하자 차관이 갑자기 사표를 냈고, 징계가 부당하다는 집단 항명에 김지용도 이름을 올렸다\"고 했습니다. 이어 \"그들은 나란히 검찰주의자의 본색을 드러내고 국민을 배신하고 정의에 등을 돌렸다\"며 \"친윤인가 반윤인가는 문제의 본질이 아니\"라고 강조했습니다.",
+   "summary": "한동훈 무소속 의원은 4일 여권 내에서 '친윤 검사'라며 임명 반대 의견이 나오는 김지용 초대 중대범죄수사청장 후보자를 향해 \"민주당에 대한 '충성맹세 혈서'라도 써서…",
+   "summary_long": "한동훈 무소속 의원은 4일 여권 내에서 '친윤(친윤석열) 검사'라며 임명 반대 의견이 나오는 김지용 초대 중대범죄수사청장 후보자를 향해 \"민주당에 대한 '충성맹세 혈서'라도 써서 공개하라. 여권에서는 추미애 경기지사와 김용민 더불어민주당 의원 등 검찰개혁 강경파를 중심으로 김 후보자가 검찰개혁에 반대해 온 '친윤 검사'라며 임명에 반대하는 목소리가 이어지고 있다. 특히 추 지사 등은 김 후보자가 서울고검 차장검사 시절 '채널A 사건' 압수수색 과정에서 당시 검사장이던 한 의원을 폭행한 혐의를 받은 정진웅 검사의 기소에 관여한 점도 문제 삼았으나, 김 후보자 측은 당시 기소에 반대했다고 해명했다.\n\n한 의원은 다른 페이스북 글에서 김 후보자 지명을 둘러싼 여권 내 논란을 다룬 기사를 공유하며 \"이렇게 국민들을 투명인간 취급하면서 본색을 드러내는 경우는 역사상 없었다\"고 비판했다. 그는 전날 밤에도 페이스북에 \"지금 중수청장 지명을 두고 민주당 진영 내에서 벌어지는 논쟁은 대한민국 역사상 유례를 찾아볼 수 없는 초유의 일\"이라고 진단했다. 이재명 대통령은 여권 검찰개혁 강경파의 반대에도 지난 2일 김 후보자에 대한 인사청문요청안을 국회에 보냈다.",
    "quotes": [
-    "이후 당시 윤석열 검찰총장에 대한 징계 절차에 돌입하자 차관이 갑자기 사표를 냈고, 징계가 부당하다는 집단 항명에 김지용도 이름을 올렸다",
-    "내란으로 국헌을 흔든 검찰 세력이 온전히 수사되지도 않고 있는 때에 내란 극복을 해내야 하는 중수청의 수장으로는 전혀 적임자가 아니",
-    "언제든 국민과 정의에 등을 돌릴 수 있는 자를 왜 개혁의 사명을 띠고 출범하는 배의 선장으로 중용하는가"
+    "현실세계에서 사정기관의 장을 임명할 때 정권이 자기 말 잘 들을 사람인지를 내부적으로 고민할 수는 있지만, 이번처럼 공개적으로 오로지 이 사람이 자기편인지 아닌지만을 가지고 정권과 여당이 낯뜨거운 비토 논쟁을 벌인 경우는 전무하기 때문",
+    "지금 중수청장 지명을 두고 민주당 진영 내에서 벌어지는 논쟁은 대한민국 역사상 유례를 찾아볼 수 없는 초유의 일",
+    "이렇게 국민들을 투명인간 취급하면서 본색을 드러내는 경우는 역사상 없었다"
    ],
-   "press": "MBC",
+   "press": "뉴스1",
    "photo": "06.jpg",
    "quoted": {
-    "quote": "이후 당시 윤석열 검찰총장에 대한 징계 절차에 돌입하자 차관이 갑자기 사표를 냈고, 징계가 부당하다는 집단 항명에 김지용도 이름을 올렸다",
-    "n": 9,
+    "quote": "현실세계에서 사정기관의 장을 임명할 때 정권이 자기 말 잘 들을 사람인지를 내부적으로 고민할 수는 있지만, 이번처럼 공개적으로 오로지 이 사람이 자기편인지 아닌지만을 가지고 정권과 여당이 낯뜨거운 비토 논쟁을 벌인 경우는 전무하기 때문",
+    "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "연합뉴스",
-      "title": "추미애 \"김지용, 언제든 국민과 정의에 등 돌릴 수 있는 자\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00U2g4aXA1cXFtUXNTbWdMSTJqNkY0MnVKVlFqakxLMDdZU2R5VVhkVi1rWU1ZOFlGZXlSSXYzUzJnMC1ZYkxub0R2Sk1ZVC1tb0psWTRWdTI2M0tqLVRVedIBYEFVX3lxTE00U2g4aXA1cXFtUXNTbWdMSTJqNkY0MnVKVlFqakxLMDdZU2R5VVhkVi1rWU1ZOFlGZXlSSXYzUzJnMC1ZYkxub0R2Sk1ZVC1tb0psWTRWdTI2M0tqLVRVeQ?oc=5"
+      "press": "다음뉴스",
+      "title": "한동훈 “정권·여당, 김지용이 누구편인지 두고 싸워…초유의 일”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NTmVMQm9QbkFCM1ZLT2VhUkc5RXhiZm5sY3h4TXJkTnZQMzJSQm9ZSVdmbWNOWXNXajNwNXRfUUlxWmk5NlFLb1RNUHpVbHc?oc=5"
      },
      {
-      "press": "한겨레",
-      "title": "추미애 “김지용 검사장…제 형편 없는 사람 보는 실력에 가슴 친다”",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0VjBmemFBNDJtQVpULXdBTEpjMklIVW9xWnVrdlBXY3V3OTl2cFhFbG1RX0YyLXBrbkl4Q0F2MjViNWRrNXZzU2RHdUNvdXA0ejJJRGV0em40bzR3Tk50dzYwdDlIR1JhWDRnTENMcmtRdw?oc=5"
+      "press": "문화일보",
+      "title": "“자기 편인지 아닌지로 정권과 여당이 싸워” 김지용 사태 본 한동훈의 말",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FRTZvSlJDRGdmVVZIdXRDVWhSai1RdVZuRXRDc042SlJGVHY4dno1NWtfLU51Yno2VEUxaTJwaEMzVzNNVnFGcHBPSXk1M2NB?oc=5"
      },
      {
-      "press": "조선일보",
-      "title": "추미애 \"언제든 등 돌릴 수 있는 자\"... 김지용 중수청장 후보자 직격",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWh3TDlIRG5UM19Yb1UxT256Tk14UEFzXzNsZWdHZjMzWWpkVEktcFp2VTctZnRyc3B5Z1pwMlhUSjR4RTVzeFZITFlqOUdNSkxpVXVPUHp3ZUdLWm12LVdxdnFESVRqR1QyVFgwamZwOTVkc0d0Q2NjYmxmcmhFNHBLa1lSdk4wUTYxTnNETGM?oc=5"
-     },
-     {
-      "press": "MBC 뉴스",
-      "title": "추미애, 김지용 겨냥 \"언제든 국민과 정의에 등 돌릴 수 있는 자\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KY1JXLXhLZDBZOHlFY1A1b0hiTlRsYmxESzVzZDFVZGk2TGlGSnBMc0JwMTNTU1VWY0g3U3ljNklybXJwdjgzWFRrZGRHUEt0OFNqSWlreWcydGdVN0RGczltOXkzRUdWYW1qSDg3ejQ1WklGQzVaUNIBeEFVX3lxTE9KY1JXLXhLZDBZOHlFY1A1b0hiTlRsYmxESzVzZDFVZGk2TGlGSnBMc0JwMTNTU1VWY0g3U3ljNklybXJwdjgzWFRrZGRHUEt0OFNqSWlreWcydGdVN0RGczltOXkzRUdWYW1qSDg3ejQ1WklGQzVaUA?oc=5"
-     },
-     {
-      "press": "매일신문",
-      "title": "추미애 \"김지용, 맛집 인 줄 알았는데 위생 엉망…발탁한 내가 가슴 친다\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mY0s1UzhRVDdXME55MjVtS09nNG1wNER6blBpR1JmRUQ1M1RyYUh5QWkxcENXQURsYVFSUXRRTU1NQlVNUFFrcmFlc3kybjNUYnRILUdaOHhrQUZPX3UzUl93?oc=5"
-     },
-     {
-      "press": "매일경제",
-      "title": "“언제든 국민과 정의에 등 돌릴 수 있는 자”…추미애, 김지용 저격",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6UVBpT0hvZU5JWGRQOGtZS09aUXZBTkhid0xOU0l5bkUzOW9qdTZCRkg4d3hIWWFIdWp5TUlMVnp4azBZckE?oc=5"
+      "press": "다음뉴스",
+      "title": "한동훈 \"김지용, 민주당에 충성맹세 혈서라도 쓰라…그러면 시켜줄 것\"",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ER0sxVUVQU1J6aHVzNGhtUFpSX0MxdVdUQXhHU0Q0cGpCQUQ0bERFdGhYTEQ0aWNIengtOFo0VUYxbUw4M2c?oc=5"
      }
     ]
    }
   },
   {
-   "title": "한동훈, 차기 대통령 1위…李대통령 지지율은 30%대로[데이터로 본 정치민심]",
-   "source": "서울경제",
-   "url": "https://n.news.naver.com/article/011/0004667962",
-   "published_at": "2026-10-03T10:31:11+09:00",
+   "title": "민주 \"장동혁 정치는 고함치는 것 밖에 없나\"…국힘 \"이재명 정권에 대한 분노 느껴\"",
+   "source": "연합뉴스TV",
+   "url": "https://n.news.naver.com/article/422/0000912511",
+   "published_at": "2026-10-04T17:58:15+09:00",
    "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 1249,
-   "comment_agree": 214,
-   "comment_disagree": 30,
-   "division_balance": 0.245902,
-   "division_score": 1.352768,
+   "view_rank": 3,
+   "comment_count": 310,
+   "comment_agree": 236,
+   "comment_disagree": 27,
+   "division_balance": 0.205323,
+   "division_score": 1.144872,
    "selection": "찬반 쟁점",
-   "summary": "연합뉴스한동훈 무소속 의원이 차기 대통령 적합도 조사에서 1위를 차지한 것으로 나타났다. 김민석 더불어민주당 대표는 15.2%로 뒤를 이었고 오세훈 서울시장 10.5%…",
-   "summary_long": "연합뉴스한동훈 무소속 의원이 차기 대통령 적합도 조사에서 1위를 차지한 것으로 나타났다. 김민석 더불어민주당 대표는 15.2%로 뒤를 이었고 오세훈 서울시장 10.5%, 장동혁 국민의힘 대표 10.2%, 이진숙 국민의힘 의원 8.1%, 강훈식 대통령 비서실장 7.9% 순이었다. 한 의원과 김 대표의 격차는 2.9%포인트로 오차범위(±3.1%포인트) 안이었다.\n\n스트레이트뉴스 의뢰로 조원씨앤아이가 실시한 조사에서 한 의원은 8월 22~24일 12.6%로 김민석 대표(15.5%), 오세훈 시장(14.5%), 장동혁 대표(13.9%)에 이어 4위였다. 특히 이번 에이스리서치 조사에서는 한 의원이 국민의힘 지지층과 무당층에서 상대적으로 높은 적합도를 보였다. 국민의힘 지지층에서는 한 의원이 32.6%로 장 대표(25.2%), 오 시장(17.0%)을 앞섰고, 무당층에서도 한 의원이 25.0%로 오 시장(15.2%), 김 대표(10.4%)보다 높았다.",
-   "press": "서울경제",
-   "photo": "07.png"
+   "summary": "더불어민주당은 국민의힘이 지난 4일 서울 숭례문 일대에서 '이재명 정부 실정 규탄' 대규모 집회를 개최한 것을 두고 \" 장동혁의 정치는 북 치고 고함치는 것밖에…",
+   "summary_long": "더불어민주당은 국민의힘이 지난 4일 서울 숭례문 일대에서 '이재명 정부 실정 규탄' 대규모 집회를 개최한 것을 두고 \"(국민의힘) 장동혁 (대표)의 정치는 북 치고 고함치는 것밖에 없나\"라고 비난했습니다. 민주당 박성준 수석대변인은 오늘(5일) 서면브리핑에서 \"장 대표가 산적한 현안과 엄중한 민생은 거들떠보지도 않는데, 습관성 장외집회 증후군에라도 걸린 것인가\"라며 이같이 밝혔습니다. 박 수석대변인은 \"야당 대표로서 1년이 넘는 시간에 한 일이 무엇인가\"라며 \"틈만 나면 거리에 나가고, 부정선거 음모론을 제기하고, 윤리위를 홍위병 삼아 반대파를 제거하는 것 말고 무엇을 했나\"라고 반문했습니다.\n\n반면 국민의힘 정점식 원내대표는 장외집회에 대해 \"국민의 경제, 치안, 안보를 파괴하는 이재명 정권에 대한 뜨거운 분노의 민심이 들불같이 일어나는 것을 느낄 수 있었다\"고 밝혔습니다. 그러면서 이 대통령이 최근 엑스에 국정성과 홍보에 국민 동참을 당부하며 '좌아하게'라는 표현을 쓴 점을 거론한 뒤 \"당분간 SNS를 중단할 것을 권한다. 그리고 국민의 삶으로 들어가서 분노한 민심의 목소리를 생생히 듣고 올바른 민생 경제 정책을 함께 논의해주실 것을 촉구한다\"고 지적했습니다.",
+   "quotes": [
+    "당분간 SNS를 중단할 것을 권한다. 그리고 국민의 삶으로 들어가서 분노한 민심의 목소리를 생생히 듣고 올바른 민생 경제 정책을 함께 논의해주실 것을 촉구한다",
+    "국민의 경제, 치안, 안보를 파괴하는 이재명 정권에 대한 뜨거운 분노의 민심이 들불같이 일어나는 것을 느낄 수 있었다",
+    "틈만 나면 거리에 나가고, 부정선거 음모론을 제기하고, 윤리위를 홍위병 삼아 반대파를 제거하는 것 말고 무엇을 했나"
+   ],
+   "press": "연합뉴스TV",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "당분간 SNS를 중단할 것을 권한다. 그리고 국민의 삶으로 들어가서 분노한 민심의 목소리를 생생히 듣고 올바른 민생 경제 정책을 함께 논의해주실 것을 촉구한다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "연합뉴스",
+      "title": "장외집회 마친 국힘 \"李대통령, SNS 중단하고 민심 들어야\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZNWJ6a3hpbzVOTm5Md090UnZjbmlZQVJXQ3l2NS1Ub1V1S1RGbXBEWHlhbmE0UFhxS1huWlJVTTBIUjZmS0Npal9DYmtlcmhDUlRYRnIwLUpyd1XSAWBBVV95cUxOYlVnX2RaTWJyV1laSWtnMzVuNUNWcW5IazhnWGYweTZfOUNBZjlYV3FWY2hBRjN2T3NYeV9HSGdaOTBkeVhJSUM2Q2Yzem9FMVBLUkh0LVZ6UEkxNElVVy0?oc=5"
+     },
+     {
+      "press": "다음뉴스",
+      "title": "장외집회 마친 국힘 “이 대통령, 당분간 SNS 중단·민심 생생히 들어야”",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9HSDF3NURSUEloRGl1dzBtb1VJaW03aDVndHFLQ19HMkM4TGpXSlpCMWtrVnEzR1pTTG15ODVFZzFjMHZZYlE?oc=5"
+     },
+     {
+      "press": "연합뉴스TV",
+      "title": "민주 \"장동혁 정치는 고함치는 것 밖에 없나\"…국힘 \"이재명 정권에 대한 분노 느껴\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqanVwNlp4V1NCNl9UNHBfNGRUdm9tRVdpaWxjVWIxZUtmOFAyS0JLR240aG01V2FkSGUtZVp1cHgwdmtqc3habWttMmkxeFZYSnpZM2JfMjlSQlpHbW0taWhQSWdIb3M?oc=5"
+     }
+    ]
+   }
   }
  ],
  "cards": [
@@ -258,139 +291,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/01.png",
-   "pngBytes": 1923426,
-   "feed": "오늘의 뉴스 2026-10-04\n\n· 육영수 피격 사건 1년여 뒤, 일본 경찰이 찾아낸 또 다른 '자료'\n· [단독] 헌재소장, 스페인 출장에 아내 동행... 여비로 국가예산 1000만원 썼다\n· [그해 오늘] \"27살 출소?\" 40대 성폭행 뒤 웃은 중학생, 감옥서 '엽기 범죄'\n· 삼전 30만·하닉 220만원 오면 판다?…계좌 80% 채운 개미가 놓친 팩트 [숫자 뒤의 진실]\n· 이 대통령, '청래 좀 그만 괴롭히라' 지적에 \"정청래는 동지\"\n· 추미애, 김지용 겨냥 \"언제든 국민과 정의에 등 돌릴 수 있는 자\"\n· 한동훈, 차기 대통령 1위…李대통령 지지율은 30%대로[데이터로 본 정치민심]"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/01.png",
+   "pngBytes": 1933480,
+   "feed": "오늘의 뉴스 2026-10-05\n\n· 민주 '10·4 남북정상선언' 19주년…\"남북 대화 다시 시작\"\n· 전역모 쓰고 “군대 안가” 자랑한 축구대표팀…안철수 “군면제 없애야”\n· \"원이야, 삼촌이 다 사줄게\"…60만개 '리센느 빵' 쓸어간 30대 男\n· [르포] “매물 올리자마자 매수 문의”… 4040가구 개발 기대에 들뜬 효창동\n· 국힘, 싱가포르영화제에 영화 '암살자(들)' 개막작 철회 서한 추진\n· 한동훈 \"김지용, 민주당에 충성맹세 혈서라도 쓰라…그러면 시켜줄 것\"\n· 민주 \"장동혁 정치는 고함치는 것 밖에 없나\"…국힘 \"이재명 정권에 대한 분노 느껴\""
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/02.png",
-   "pngBytes": 1904898,
-   "title": "육영수 피격 사건 1년여 뒤, 일본 경찰이 찾아낸 또 다른 '자료'",
-   "summary": "이와 달리, 일본 정부는 한국 비판 활동을 벌이는 한국청년동맹과 1973년에 발생한 김대중 납치 사건을 문세광과 연결했다. 이 보고서에서 주일미국대사관은 한국 정부의…",
-   "summary_long": "영부인 피격 사건을 재일교포 문태광(박정민 분)의 단독 행위로 몰고 가는 한국 정부의 움직임이 있고, 문태광의 배후를 캐고자 두 명과 경찰관 한 명의 움직임이 있다. 한국 정부는 사건의 배후가 북한과 조총련이라는 수사 결과를 발표했다. 이와 달리, 일본 정부는 한국 비판 활동을 벌이는 한국청년동맹(한청)과 1973년에 발생한 김대중 납치 사건을 문세광과 연결했다.\n\n이 보고서에서 주일미국대사관은 한국 정부의 수사 결과가 일본과 불일치한 것은 \"문(文)에 대한 신속한 사형집행이 증거를 없애기 위한 것이었다는 믿음을 강화할 것\"이라고 예측했다. 바로 이 동아시아무장전선이 문세광의 한국 입국을 도운 인물과 접촉했다는 것이 일본 경찰의 뒤늦은 수사 결과다. 한국 정부는 육영수 피격을 북한과 조총련이 벌인 일로 몰고 가고자 애썼고, 일본 정부는 김대중-박정희 갈등 구도 속에서 이 문제를 부각했다.",
-   "press": "오마이뉴스",
-   "source": "오마이뉴스",
-   "link": "https://n.news.naver.com/article/047/0002531118",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/02.png",
+   "pngBytes": 1936492,
+   "title": "민주 '10·4 남북정상선언' 19주년…\"남북 대화 다시 시작\"",
+   "summary": "그는 \"국경선 요새화와 지뢰 매설은 정전협정 위반이며 10·4 남북정상선언에도 어긋난다\"며 \"북한 당국은 지뢰 폭발 사고에 대해 책임 있는 태도를 보이고 대화에 나서야…",
+   "summary_long": "더불어민주당이 '10·4 남북정상선언' 19주년을 기점으로 \"멈춰 선 남북 대화를 다시 시작해야 한다\"고 촉구했다. 민주당 박성준 수석대변인은 4일 서면브리핑을 통해 \"지금 한반도는 그날의 약속에서 멀어졌다\"며 \"남북대화는 끊겼고 북한의 핵·미사일 역량은 전보다 고도화됐다\"고 말했다. 박 수석대변인은 \"북한군이 매설한 지뢰로 우리 장병이 크게 다쳤다\"며 \"대결과 단절이 깊어질수록 군사적 긴장이 높아지고 우리 장병의 안전과 국민의 안보 불안이 커진다\"고 지적했다.\n\n그는 \"국경선 요새화와 지뢰 매설은 정전협정 위반이며 10·4 남북정상선언에도 어긋난다\"며 \"북한 당국은 지뢰 폭발 사고에 대해 책임 있는 태도를 보이고 대화에 나서야 한다\"고 촉구했다. 이어 \"민주당은 집권여당으로서 북한의 도발에는 단호히 대응하겠다\"며 \"한반도 내 긴장 완화와 남북 대화 복원을 위해 국회 차원에서도 노력하겠다\"고 덧붙였다.",
+   "press": "대전일보",
+   "source": "대전일보",
+   "link": "https://n.news.naver.com/article/656/0000188507",
    "selection": "정치",
-   "feed": "뉴스 01. 육영수 피격 사건 1년여 뒤, 일본 경찰이 찾아낸 또 다른 '자료'\n\n영부인 피격 사건을 재일교포 문태광(박정민 분)의 단독 행위로 몰고 가는 한국 정부의 움직임이 있고, 문태광의 배후를 캐고자 두 명과 경찰관 한 명의 움직임이 있다. 한국 정부는 사건의 배후가 북한과 조총련이라는 수사 결과를 발표했다. 이와 달리, 일본 정부는 한국 비판 활동을 벌이는 한국청년동맹(한청)과 1973년에 발생한 김대중 납치 사건을 문세광과 연결했다.\n\n이 보고서에서 주일미국대사관은 한국 정부의 수사 결과가 일본과 불일치한 것은 \"문(文)에 대한 신속한 사형집행이 증거를 없애기 위한 것이었다는 믿음을 강화할 것\"이라고 예측했다. 바로 이 동아시아무장전선이 문세광의 한국 입국을 도운 인물과 접촉했다는 것이 일본 경찰의 뒤늦은 수사 결과다. 한국 정부는 육영수 피격을 북한과 조총련이 벌인 일로 몰고 가고자 애썼고, 일본 정부는 김대중-박정희 갈등 구도 속에서 이 문제를 부각했다.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002531118"
+   "feed": "뉴스 01. 민주 '10·4 남북정상선언' 19주년…\"남북 대화 다시 시작\"\n\n더불어민주당이 '10·4 남북정상선언' 19주년을 기점으로 \"멈춰 선 남북 대화를 다시 시작해야 한다\"고 촉구했다. 민주당 박성준 수석대변인은 4일 서면브리핑을 통해 \"지금 한반도는 그날의 약속에서 멀어졌다\"며 \"남북대화는 끊겼고 북한의 핵·미사일 역량은 전보다 고도화됐다\"고 말했다. 박 수석대변인은 \"북한군이 매설한 지뢰로 우리 장병이 크게 다쳤다\"며 \"대결과 단절이 깊어질수록 군사적 긴장이 높아지고 우리 장병의 안전과 국민의 안보 불안이 커진다\"고 지적했다.\n\n그는 \"국경선 요새화와 지뢰 매설은 정전협정 위반이며 10·4 남북정상선언에도 어긋난다\"며 \"북한 당국은 지뢰 폭발 사고에 대해 책임 있는 태도를 보이고 대화에 나서야 한다\"고 촉구했다. 이어 \"민주당은 집권여당으로서 북한의 도발에는 단호히 대응하겠다\"며 \"한반도 내 긴장 완화와 남북 대화 복원을 위해 국회 차원에서도 노력하겠다\"고 덧붙였다.\n\n출처: 대전일보 / https://n.news.naver.com/article/656/0000188507"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/03.png",
-   "pngBytes": 1815628,
-   "title": "[단독] 헌재소장, 스페인 출장에 아내 동행... 여비로 국가예산 1000만원 썼다",
-   "summary": "김상환 헌법재판소장이 작년 10월 스페인 마드리드 출장에 아내를 동반한 가운데 배우자 여비로 국가 예산 1000만원을 쓴 것으로 2일 확인됐다. 국민의힘 윤상현 의원이…",
-   "summary_long": "김상환 헌법재판소장이 작년 10월 스페인 마드리드 출장에 아내를 동반한 가운데 배우자 여비로 국가 예산 1000만원을 쓴 것으로 2일 확인됐다. 국민의힘 윤상현 의원이 이날 헌재에서 확보한 출장 자료에 따르면, 김 소장은 지난해 스페인 마드리드에서 나흘간 열린 세계헌법재판회의 총회에 참석하기 위해 7일 일정으로 출장을 갔다. 출장 경비는 총 5821만9000원으로 전액 헌재 예산으로 부담했는데, 이 가운데 1031만3000원이 김 소장 배우자 여비로 지출됐다.\n\n그런데 김 소장이 직접 서명한 출장 계획서에는 ‘스페인 헌재 초청에 따라 재판소장 배우자 동행’이라고 적혀 있다. 윤 의원은 “스페인 헌재는 초청 인원을 김 소장을 포함해 최대 4명이라고 안내한 것인데, 김 소장은 아내까지 대동해 출장단을 총 6명으로 꾸렸다”며 “나랏돈으로 아내 해외여행을 시켜준 것 아니냐”고 했다. 출장단이 6명으로 구성된 데 대해서는 “과거 세계헌법재판회의 총회 출장 때도 소장이 배우자를 동행했고, 6명이 갔기 때문에 이번에도 선례에 따라 예산을 편성한 것”이라고 했다.",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/03.png",
+   "pngBytes": 2099852,
+   "title": "전역모 쓰고 “군대 안가” 자랑한 축구대표팀…안철수 “군면제 없애야”",
+   "summary": "2026 아이치·나고야 아시안게임에서 남자 축구 국가대표팀이 금메달을 딴 것과 관련해 일부 선수가 병역 혜택과 관련해 선을 넘은 행동을 했다는 지적이 나오는 가운데…",
+   "summary_long": "2026 아이치·나고야 아시안게임에서 남자 축구 국가대표팀이 금메달을 딴 것과 관련해 일부 선수가 병역 혜택과 관련해 선을 넘은 행동을 했다는 지적이 나오는 가운데 국민의힘 안철수 의원이 “아시안게임 군 면제 혜택을 재고해야 한다”고 했다. 안 의원은 4일 자신의 페이스북에 “군대 안 간다고 자랑하는 국가대표 축구팀, 군대가 혐오 시설인가. 그는 “경기 후 축구 대표팀 일부 선수의 발언이 가관”이라며 “한 선수는 ‘금메달도 트로피도 중요하지 않다, 오직 군 면제만 봤다’며 ‘연습 중에 ‘이등병의 편지’를 틀어놓고 했다’고 자랑스레 밝혔다”고 했다.\n\n이어 “주장이라는 선수조차 공식 인터뷰에서 ‘군대 안 간다’고 자랑하며 조롱을 한다”며 “매년 입대하는 수많은 청년들은 모두 호구냐”고 했다. 이어 “아시안게임 군 면제, 이제 재고해야 한다”며 “군 면제 없이도 우승하고 금메달을 따오는 선수도 많지 않느냐”고 했다. 이어 “국가를 욕보이고 군대를 혐오하는 국가대표에게 군 면제는 가당치도 않다”고 했다.",
    "press": "조선일보",
    "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004001925",
+   "link": "https://n.news.naver.com/article/023/0004002015",
    "selection": "정치",
-   "feed": "뉴스 02. [단독] 헌재소장, 스페인 출장에 아내 동행... 여비로 국가예산 1000만원 썼다\n\n김상환 헌법재판소장이 작년 10월 스페인 마드리드 출장에 아내를 동반한 가운데 배우자 여비로 국가 예산 1000만원을 쓴 것으로 2일 확인됐다. 국민의힘 윤상현 의원이 이날 헌재에서 확보한 출장 자료에 따르면, 김 소장은 지난해 스페인 마드리드에서 나흘간 열린 세계헌법재판회의 총회에 참석하기 위해 7일 일정으로 출장을 갔다. 출장 경비는 총 5821만9000원으로 전액 헌재 예산으로 부담했는데, 이 가운데 1031만3000원이 김 소장 배우자 여비로 지출됐다.\n\n그런데 김 소장이 직접 서명한 출장 계획서에는 ‘스페인 헌재 초청에 따라 재판소장 배우자 동행’이라고 적혀 있다. 윤 의원은 “스페인 헌재는 초청 인원을 김 소장을 포함해 최대 4명이라고 안내한 것인데, 김 소장은 아내까지 대동해 출장단을 총 6명으로 꾸렸다”며 “나랏돈으로 아내 해외여행을 시켜준 것 아니냐”고 했다. 출장단이 6명으로 구성된 데 대해서는 “과거 세계헌법재판회의 총회 출장 때도 소장이 배우자를 동행했고, 6명이 갔기 때문에 이번에도 선례에 따라 예산을 편성한 것”이라고 했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004001925"
+   "feed": "뉴스 02. 전역모 쓰고 “군대 안가” 자랑한 축구대표팀…안철수 “군면제 없애야”\n\n2026 아이치·나고야 아시안게임에서 남자 축구 국가대표팀이 금메달을 딴 것과 관련해 일부 선수가 병역 혜택과 관련해 선을 넘은 행동을 했다는 지적이 나오는 가운데 국민의힘 안철수 의원이 “아시안게임 군 면제 혜택을 재고해야 한다”고 했다. 안 의원은 4일 자신의 페이스북에 “군대 안 간다고 자랑하는 국가대표 축구팀, 군대가 혐오 시설인가. 그는 “경기 후 축구 대표팀 일부 선수의 발언이 가관”이라며 “한 선수는 ‘금메달도 트로피도 중요하지 않다, 오직 군 면제만 봤다’며 ‘연습 중에 ‘이등병의 편지’를 틀어놓고 했다’고 자랑스레 밝혔다”고 했다.\n\n이어 “주장이라는 선수조차 공식 인터뷰에서 ‘군대 안 간다’고 자랑하며 조롱을 한다”며 “매년 입대하는 수많은 청년들은 모두 호구냐”고 했다. 이어 “아시안게임 군 면제, 이제 재고해야 한다”며 “군 면제 없이도 우승하고 금메달을 따오는 선수도 많지 않느냐”고 했다. 이어 “국가를 욕보이고 군대를 혐오하는 국가대표에게 군 면제는 가당치도 않다”고 했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004002015"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/04.png",
-   "pngBytes": 1698145,
-   "title": "[그해 오늘] \"27살 출소?\" 40대 성폭행 뒤 웃은 중학생, 감옥서 '엽기 범죄'",
-   "summary": "더군다나 윤 씨는 “난 이미 징역 7년을 받아 더 이상 잃을 것이 없다”며 피해자를 협박했는데, 그는 중학생이던 2023년 10월 3일 새벽 충남 논산에서 귀가하던…",
-   "summary_long": "더군다나 윤 씨는 “난 이미 징역 7년을 받아 더 이상 잃을 것이 없다”며 피해자를 협박했는데, 그는 중학생이던 2023년 10월 3일 새벽 충남 논산에서 귀가하던 40대 여성을 초등학교 운동장으로 납치해 성폭행하고 금품을 빼앗아 달아난 혐의로 징역 장기 7년, 단기 5년을 선고받고 복역 중이었다. 윤 씨는 범행 당시 피해자의 신체를 휴대전화로 촬영한 뒤 “신고하면 딸을 해치겠다”고 협박까지 했지만, 그의 변호인은 “선생님께 꾸중을 들으면 눈물을 흘리는 아이였다”며 재판부에 선처를 호소했다. 결국 2024년 5월 항소심 재판부는 윤 씨에게 1심보다 낮은 장기 7년, 단기 5년을 선고했다.\n\n재판부는 “피고인이 피해자와 원만히 합의했고, 피해자가 처벌불원 의사를 밝혔다”며 “피고인이 소년인 점, 피고인 가족이 집까지 팔아서 피해자와 합의한 점 등 여러 양형 조건을 참작했다”고 감형 이유를 밝혔다. 이 보고서뿐만 아니라 관련 전문가들은 그동안 “소년범의 교화 자체가 불가능한 게 아니라 현재 체계가 교화를 제대로 할 조건을 갖췄는가”라는 취지의 지적을 꾸준히 제기해왔다. 이에 따라 소년 전담기관은 성인과 구별되는 소년의 발달 특성과 환경적 요인을 고려해 예방 교육부터 보호관찰, 사후 연계에 이르기까지 비행소년의 재범 방지와 안정적인 사회 복귀를 지원한다.",
-   "press": "이데일리",
-   "source": "이데일리",
-   "link": "https://n.news.naver.com/article/018/0006379959",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/04.png",
+   "pngBytes": 2230706,
+   "title": "\"원이야, 삼촌이 다 사줄게\"…60만개 '리센느 빵' 쓸어간 30대 男",
+   "summary": "편의점 업계, 활발한 협업으로 판매고 올려최고의 주가를 달리고 있는 그룹 리센느와 협업한 '리센느 빵' 5종의 판매량이 60만개를 달성했다. 4일 유통업계에 따르면…",
+   "summary_long": "편의점 업계, 활발한 협업으로 판매고 올려최고의 주가를 달리고 있는 그룹 리센느와 협업한 '리센느 빵' 5종의 판매량이 60만개를 달성했다. 4일 유통업계에 따르면 편의점 CU를 운영하는 BGF리테일이 출시한 '리센느 빵' 5종은 지난 1일 판매량 약 60만개를 기록했다. CU는 지난달 17일 '원이의 옥수수 크림빵'을 시작으로 30일 '리브의 초코 호떡' 등 리센느 멤버들의 취향을 반영한 '리센느 빵'을 순차적으로 판매해왔다.\n\n제품에는 리센느 멤버 이미지가 담긴 총 27종의 투명 포토 카드가 무작위로 동봉돼 있다. 리센느 빵 구매자를 성별에 따라 구분하면 남성 69.1%·여성 30.9%였다. 이어 GS리테일은 인기 협업 제품 '한정선 요거트 찹쌀떡'의 신제품을 이달 중순 선보일 예정이다.",
+   "press": "아시아경제",
+   "source": "아시아경제",
+   "link": "https://n.news.naver.com/article/277/0005824478",
    "selection": "경제·시사",
-   "feed": "뉴스 03. [그해 오늘] \"27살 출소?\" 40대 성폭행 뒤 웃은 중학생, 감옥서 '엽기 범죄'\n\n더군다나 윤 씨는 “난 이미 징역 7년을 받아 더 이상 잃을 것이 없다”며 피해자를 협박했는데, 그는 중학생이던 2023년 10월 3일 새벽 충남 논산에서 귀가하던 40대 여성을 초등학교 운동장으로 납치해 성폭행하고 금품을 빼앗아 달아난 혐의로 징역 장기 7년, 단기 5년을 선고받고 복역 중이었다. 윤 씨는 범행 당시 피해자의 신체를 휴대전화로 촬영한 뒤 “신고하면 딸을 해치겠다”고 협박까지 했지만, 그의 변호인은 “선생님께 꾸중을 들으면 눈물을 흘리는 아이였다”며 재판부에 선처를 호소했다. 결국 2024년 5월 항소심 재판부는 윤 씨에게 1심보다 낮은 장기 7년, 단기 5년을 선고했다.\n\n재판부는 “피고인이 피해자와 원만히 합의했고, 피해자가 처벌불원 의사를 밝혔다”며 “피고인이 소년인 점, 피고인 가족이 집까지 팔아서 피해자와 합의한 점 등 여러 양형 조건을 참작했다”고 감형 이유를 밝혔다. 이 보고서뿐만 아니라 관련 전문가들은 그동안 “소년범의 교화 자체가 불가능한 게 아니라 현재 체계가 교화를 제대로 할 조건을 갖췄는가”라는 취지의 지적을 꾸준히 제기해왔다. 이에 따라 소년 전담기관은 성인과 구별되는 소년의 발달 특성과 환경적 요인을 고려해 예방 교육부터 보호관찰, 사후 연계에 이르기까지 비행소년의 재범 방지와 안정적인 사회 복귀를 지원한다.\n\n출처: 이데일리 / https://n.news.naver.com/article/018/0006379959"
+   "feed": "뉴스 03. \"원이야, 삼촌이 다 사줄게\"…60만개 '리센느 빵' 쓸어간 30대 男\n\n편의점 업계, 활발한 협업으로 판매고 올려최고의 주가를 달리고 있는 그룹 리센느와 협업한 '리센느 빵' 5종의 판매량이 60만개를 달성했다. 4일 유통업계에 따르면 편의점 CU를 운영하는 BGF리테일이 출시한 '리센느 빵' 5종은 지난 1일 판매량 약 60만개를 기록했다. CU는 지난달 17일 '원이의 옥수수 크림빵'을 시작으로 30일 '리브의 초코 호떡' 등 리센느 멤버들의 취향을 반영한 '리센느 빵'을 순차적으로 판매해왔다.\n\n제품에는 리센느 멤버 이미지가 담긴 총 27종의 투명 포토 카드가 무작위로 동봉돼 있다. 리센느 빵 구매자를 성별에 따라 구분하면 남성 69.1%·여성 30.9%였다. 이어 GS리테일은 인기 협업 제품 '한정선 요거트 찹쌀떡'의 신제품을 이달 중순 선보일 예정이다.\n\n출처: 아시아경제 / https://n.news.naver.com/article/277/0005824478"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/05.png",
-   "pngBytes": 2209926,
-   "title": "삼전 30만·하닉 220만원 오면 판다?…계좌 80% 채운 개미가 놓친 팩트 [숫자 뒤의 진실]",
-   "summary": "삼성전자와 SK하이닉스 주가가 강세를 이어가는 가운데 두 종목의 계좌 내 비중이 70~80%에 달하는 투자자는 특정 목표주가보다 보유 비중과 위험 분산 여부를 함께…",
-   "summary_long": "삼성전자와 SK하이닉스가 주식 계좌의 70~80%를 차지한다면 언제, 얼마나 줄여야 할까. 삼성전자와 SK하이닉스 주가가 강세를 이어가는 가운데 두 종목의 계좌 내 비중이 70~80%에 달하는 투자자는 특정 목표주가보다 보유 비중과 위험 분산 여부를 함께 따져볼 필요가 있다는 조언이 나온다. 두 종목이 계좌의 70~80%인 투자자에게 합산 비중을 30~40%로 낮추라고 권했다.\n\n계좌 평가액이 1억원이고 두 종목의 평가액이 8000만원이라면, 4000만~5000만원어치를 팔아 현금으로 보유할 때 합산 비중은 30~40%가 된다. 두 종목의 합산 비중을 70~80%에서 30~40% 수준으로 낮추는 예시와 함께 매도 가격대, 분산 투자 시 고려할 지표를 담았다. 두 종목의 비중을 낮춰도 새로 산 종목들이 같은 업황에 영향을 받으면 함께 손실을 볼 수 있다.",
-   "press": "세계일보",
-   "source": "세계일보",
-   "link": "https://n.news.naver.com/article/022/0004163724",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/05.png",
+   "pngBytes": 2124588,
+   "title": "[르포] “매물 올리자마자 매수 문의”… 4040가구 개발 기대에 들뜬 효창동",
+   "summary": "효창공원앞역 북측 후보지 선정. 국토교통부가 전날 효창공원앞역 북측을 4040가구 공급을 목표로 하는 신규 후보지로 선정하면서 매수 문의가 늘었다.",
+   "summary_long": "효창공원앞역 북측 후보지 선정. 지난 1일 오후 서울 용산구 효창동의 한 공인중개사무소 관계자는 도심 공공주택 복합사업 후보지 선정 이후 분위기를 이같이 전했다. 국토교통부가 전날 효창공원앞역 북측을 4040가구 공급을 목표로 하는 신규 후보지로 선정하면서 매수 문의가 늘었다.\n\n다만 신축 빌라와 단독주택 등이 섞여 있어 사업 추진에 필요한 주민 동의 확보는 쉽지 않을 것이라는 의견도 나왔다. 국토부는 이번 서울지역 공모에 접수된 주민 제안 44곳을 검토해 효창공원앞역 북측 등 11곳을 신규 후보지로 선정했다. 다른 주민은 “2022년 후보지로 선정된 효창공원 남측도 토지 수용에 반대하는 주민들이 있어 동의서를 받는 데 4년이 걸렸다”며 “북측도 만만치 않을 것”이라고 했다.",
+   "press": "조선비즈",
+   "source": "조선비즈",
+   "link": "https://n.news.naver.com/article/366/0001196038",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 삼전 30만·하닉 220만원 오면 판다?…계좌 80% 채운 개미가 놓친 팩트 [숫자 뒤의 진실]\n\n삼성전자와 SK하이닉스가 주식 계좌의 70~80%를 차지한다면 언제, 얼마나 줄여야 할까. 삼성전자와 SK하이닉스 주가가 강세를 이어가는 가운데 두 종목의 계좌 내 비중이 70~80%에 달하는 투자자는 특정 목표주가보다 보유 비중과 위험 분산 여부를 함께 따져볼 필요가 있다는 조언이 나온다. 두 종목이 계좌의 70~80%인 투자자에게 합산 비중을 30~40%로 낮추라고 권했다.\n\n계좌 평가액이 1억원이고 두 종목의 평가액이 8000만원이라면, 4000만~5000만원어치를 팔아 현금으로 보유할 때 합산 비중은 30~40%가 된다. 두 종목의 합산 비중을 70~80%에서 30~40% 수준으로 낮추는 예시와 함께 매도 가격대, 분산 투자 시 고려할 지표를 담았다. 두 종목의 비중을 낮춰도 새로 산 종목들이 같은 업황에 영향을 받으면 함께 손실을 볼 수 있다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004163724"
+   "feed": "뉴스 04. [르포] “매물 올리자마자 매수 문의”… 4040가구 개발 기대에 들뜬 효창동\n\n효창공원앞역 북측 후보지 선정. 지난 1일 오후 서울 용산구 효창동의 한 공인중개사무소 관계자는 도심 공공주택 복합사업 후보지 선정 이후 분위기를 이같이 전했다. 국토교통부가 전날 효창공원앞역 북측을 4040가구 공급을 목표로 하는 신규 후보지로 선정하면서 매수 문의가 늘었다.\n\n다만 신축 빌라와 단독주택 등이 섞여 있어 사업 추진에 필요한 주민 동의 확보는 쉽지 않을 것이라는 의견도 나왔다. 국토부는 이번 서울지역 공모에 접수된 주민 제안 44곳을 검토해 효창공원앞역 북측 등 11곳을 신규 후보지로 선정했다. 다른 주민은 “2022년 후보지로 선정된 효창공원 남측도 토지 수용에 반대하는 주민들이 있어 동의서를 받는 데 4년이 걸렸다”며 “북측도 만만치 않을 것”이라고 했다.\n\n출처: 조선비즈 / https://n.news.naver.com/article/366/0001196038"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/06.png",
-   "pngBytes": 2031576,
-   "title": "이 대통령, '청래 좀 그만 괴롭히라' 지적에 \"정청래는 동지\"",
-   "summary": "이재명 대통령, 정청래 전 대표와 만찬. 이재명 대통령이 더불어민주당 정청래 전 대표와 만찬 회동에 대해 '정 전 대표를 그만 괴롭히라'는 누리꾼 지적에 직접…",
-   "summary_long": "이재명 대통령이 더불어민주당 정청래 전 대표와 만찬 회동에 대해 '정 전 대표를 그만 괴롭히라'는 누리꾼 지적에 직접 반박했습니다. 이 대통령은 X에 \"청래 좀 그만 괴롭히시라, 다구리 해놓고 '우린 공감한다' 그러시면 너무 잔인한 듯'이라고 적은 누리꾼 글을 공유하며 \"사물을 바른 시각으로 받아들여 보시면 어떨까 싶다. 그러면서 \"정 전 대표께서 전당대회 직후 자주 만나고 싶다고 하셨고, 정 전 대표 입원 당시 위로 전화 통화 중 만나기로 해 유엔총회 참석과 멕시코 순방을 마치고 만찬회동을 한 것\"이라고 설명했습니다.\n\n이 대통령은 이어 \"그분이 저에게 끌려다닌 것도 아니고 제가 그분을 괴롭힌 것도 아니니 오해나 곡해 마시기를 바란다\"고도 적었습니다. 또 \"정 전 대표와 저는 목숨조차 위협받던 어둠과 죽음의 시대, 그리고 내란의 밤을 함께 싸우며 넘어온 동지\"라고 강조했습니다. 이 대통령은 지난달 건강 악화로 입원한 정 전 대표에게 직접 전화를 걸어 쾌유를 기원했으며, 그제는 청와대로 초청해 만찬을 함께 했습니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001527053",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/06.png",
+   "pngBytes": 2044813,
+   "title": "국힘, 싱가포르영화제에 영화 '암살자(들)' 개막작 철회 서한 추진",
+   "summary": "국민의힘은 오늘 싱가포르국제영화제에 육영수 여사 피격 사건을 다룬 영화 '암살자'의 개막작 선정을 철회해달라는 서한을 소속 의원 전원 명의로 보내기로 했습니다. 5선…",
+   "summary_long": "국민의힘은 오늘(4일) 싱가포르국제영화제에 육영수 여사 피격 사건을 다룬 영화 '암살자(들)'의 개막작 선정을 철회해달라는 서한을 소속 의원 전원 명의로 보내기로 했습니다. 당초 주진우 의원이 개인 명의로 보낸다고 밝히자 동참하려는 의원들이 늘면서 이같이 추진하기로 한 것으로 알려졌습니다. 최보윤 수석대변인은 국회에서 기자들과 만나 해당 사안과 관련해 \"자발적으로 목소리 내는 데 동참하는 분이 많아 의견을 수렴해 원내에서 진행하기로 했다\"고 설명했습니다.\n\n주 의원은 먼저 공개한 개인 명의 서한에서 \"영화는 살해당한 피해자의 가족을 가해 의혹의 당사자로 뒤집고, 아버지가 어머니의 죽음에 관여했다는 끔찍한 프레임을 실제 유족에게 씌운 것\"이라며 \"희생자와 유족을 모욕하는 패륜적 역사 왜곡에 영화제 권위를 빌려주지 말라\"고 밝혔습니다. 5선 나경원 의원은 페이스북에 \"네이버가 패륜 영화 '암살자(들)' 평점 게시판설정을 최신순으로 변경한 것에 대해 '매크로 조작 탓'이라며 경찰에 수사를 의뢰했다고 한다. 주 의원은 이날 국회에서 기자회견을 열고 \"'암살자(들)'의 제작사 하이브미디어코프에 산업은행은 140억 원을, 중소기업은행은 142억 원을 간접 투자했다\"며 \"사실상 국책은행 돈으로 이 제작사의 배를 불려주고 있다.",
+   "press": "SBS",
+   "source": "SBS",
+   "link": "https://n.news.naver.com/article/055/0001393058",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 이 대통령, '청래 좀 그만 괴롭히라' 지적에 \"정청래는 동지\"\n\n이재명 대통령이 더불어민주당 정청래 전 대표와 만찬 회동에 대해 '정 전 대표를 그만 괴롭히라'는 누리꾼 지적에 직접 반박했습니다. 이 대통령은 X에 \"청래 좀 그만 괴롭히시라, 다구리 해놓고 '우린 공감한다' 그러시면 너무 잔인한 듯'이라고 적은 누리꾼 글을 공유하며 \"사물을 바른 시각으로 받아들여 보시면 어떨까 싶다. 그러면서 \"정 전 대표께서 전당대회 직후 자주 만나고 싶다고 하셨고, 정 전 대표 입원 당시 위로 전화 통화 중 만나기로 해 유엔총회 참석과 멕시코 순방을 마치고 만찬회동을 한 것\"이라고 설명했습니다.\n\n이 대통령은 이어 \"그분이 저에게 끌려다닌 것도 아니고 제가 그분을 괴롭힌 것도 아니니 오해나 곡해 마시기를 바란다\"고도 적었습니다. 또 \"정 전 대표와 저는 목숨조차 위협받던 어둠과 죽음의 시대, 그리고 내란의 밤을 함께 싸우며 넘어온 동지\"라고 강조했습니다. 이 대통령은 지난달 건강 악화로 입원한 정 전 대표에게 직접 전화를 걸어 쾌유를 기원했으며, 그제는 청와대로 초청해 만찬을 함께 했습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001527053"
+   "feed": "뉴스 05. 국힘, 싱가포르영화제에 영화 '암살자(들)' 개막작 철회 서한 추진\n\n국민의힘은 오늘(4일) 싱가포르국제영화제에 육영수 여사 피격 사건을 다룬 영화 '암살자(들)'의 개막작 선정을 철회해달라는 서한을 소속 의원 전원 명의로 보내기로 했습니다. 당초 주진우 의원이 개인 명의로 보낸다고 밝히자 동참하려는 의원들이 늘면서 이같이 추진하기로 한 것으로 알려졌습니다. 최보윤 수석대변인은 국회에서 기자들과 만나 해당 사안과 관련해 \"자발적으로 목소리 내는 데 동참하는 분이 많아 의견을 수렴해 원내에서 진행하기로 했다\"고 설명했습니다.\n\n주 의원은 먼저 공개한 개인 명의 서한에서 \"영화는 살해당한 피해자의 가족을 가해 의혹의 당사자로 뒤집고, 아버지가 어머니의 죽음에 관여했다는 끔찍한 프레임을 실제 유족에게 씌운 것\"이라며 \"희생자와 유족을 모욕하는 패륜적 역사 왜곡에 영화제 권위를 빌려주지 말라\"고 밝혔습니다. 5선 나경원 의원은 페이스북에 \"네이버가 패륜 영화 '암살자(들)' 평점 게시판설정을 최신순으로 변경한 것에 대해 '매크로 조작 탓'이라며 경찰에 수사를 의뢰했다고 한다. 주 의원은 이날 국회에서 기자회견을 열고 \"'암살자(들)'의 제작사 하이브미디어코프에 산업은행은 140억 원을, 중소기업은행은 142억 원을 간접 투자했다\"며 \"사실상 국책은행 돈으로 이 제작사의 배를 불려주고 있다.\n\n출처: SBS / https://n.news.naver.com/article/055/0001393058"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/07.png",
-   "pngBytes": 1829426,
-   "title": "추미애, 김지용 겨냥 \"언제든 국민과 정의에 등 돌릴 수 있는 자\"",
-   "summary": "김지용 초대 중대범죄수사청장 후보자를 연일 비판해 온 추미애 경기도지사가 김 후보자는 \"언제든 국민과 정의에 등을 돌릴 수 있는 자\"라며 공세 수위를 높였습니다. 추…",
-   "summary_long": "김지용 초대 중대범죄수사청장 후보자를 연일 비판해 온 추미애 경기도지사가 김 후보자는 \"언제든 국민과 정의에 등을 돌릴 수 있는 자\"라며 공세 수위를 높였습니다. 추 지사는 어제 페이스북에 \"언제든 국민과 정의에 등을 돌릴 수 있는 자를 왜 개혁의 사명을 띠고 출범하는 배의 선장으로 중용하는가\"라고 적었습니다. 이어 \"내란으로 국헌을 흔든 검찰 세력이 온전히 수사되지도 않고 있는 때에 내란 극복을 해내야 하는 중수청의 수장으로는 전혀 적임자가 아니\"라고 덧붙였습니다.\n\n이재명 대통령이 김 후보자에 대해 \"친윤이 아닌 반윤 행적은 언론보도로도 다 확인되는 사실\"이라며 \"문재인 정부 당시 추미애 법무부 장관이 검사장으로 발탁 승진시켰다\"고 말한 데 대해서도 반박했습니다. 추 지사는 \"장관 시절 차관으로부터 추천받아 검사장으로 발탁했다\"며 \"이후 당시 윤석열 검찰총장에 대한 징계 절차에 돌입하자 차관이 갑자기 사표를 냈고, 징계가 부당하다는 집단 항명에 김지용도 이름을 올렸다\"고 했습니다. 이어 \"그들은 나란히 검찰주의자의 본색을 드러내고 국민을 배신하고 정의에 등을 돌렸다\"며 \"친윤인가 반윤인가는 문제의 본질이 아니\"라고 강조했습니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001527046",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/07.png",
+   "pngBytes": 1726339,
+   "title": "한동훈 \"김지용, 민주당에 충성맹세 혈서라도 쓰라…그러면 시켜줄 것\"",
+   "summary": "한동훈 무소속 의원은 4일 여권 내에서 '친윤 검사'라며 임명 반대 의견이 나오는 김지용 초대 중대범죄수사청장 후보자를 향해 \"민주당에 대한 '충성맹세 혈서'라도 써서…",
+   "summary_long": "한동훈 무소속 의원은 4일 여권 내에서 '친윤(친윤석열) 검사'라며 임명 반대 의견이 나오는 김지용 초대 중대범죄수사청장 후보자를 향해 \"민주당에 대한 '충성맹세 혈서'라도 써서 공개하라. 여권에서는 추미애 경기지사와 김용민 더불어민주당 의원 등 검찰개혁 강경파를 중심으로 김 후보자가 검찰개혁에 반대해 온 '친윤 검사'라며 임명에 반대하는 목소리가 이어지고 있다. 특히 추 지사 등은 김 후보자가 서울고검 차장검사 시절 '채널A 사건' 압수수색 과정에서 당시 검사장이던 한 의원을 폭행한 혐의를 받은 정진웅 검사의 기소에 관여한 점도 문제 삼았으나, 김 후보자 측은 당시 기소에 반대했다고 해명했다.\n\n한 의원은 다른 페이스북 글에서 김 후보자 지명을 둘러싼 여권 내 논란을 다룬 기사를 공유하며 \"이렇게 국민들을 투명인간 취급하면서 본색을 드러내는 경우는 역사상 없었다\"고 비판했다. 그는 전날 밤에도 페이스북에 \"지금 중수청장 지명을 두고 민주당 진영 내에서 벌어지는 논쟁은 대한민국 역사상 유례를 찾아볼 수 없는 초유의 일\"이라고 진단했다. 이재명 대통령은 여권 검찰개혁 강경파의 반대에도 지난 2일 김 후보자에 대한 인사청문요청안을 국회에 보냈다.",
+   "press": "뉴스1",
+   "source": "뉴스1",
+   "link": "https://n.news.naver.com/article/421/0009208949",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 추미애, 김지용 겨냥 \"언제든 국민과 정의에 등 돌릴 수 있는 자\"\n\n김지용 초대 중대범죄수사청장 후보자를 연일 비판해 온 추미애 경기도지사가 김 후보자는 \"언제든 국민과 정의에 등을 돌릴 수 있는 자\"라며 공세 수위를 높였습니다. 추 지사는 어제 페이스북에 \"언제든 국민과 정의에 등을 돌릴 수 있는 자를 왜 개혁의 사명을 띠고 출범하는 배의 선장으로 중용하는가\"라고 적었습니다. 이어 \"내란으로 국헌을 흔든 검찰 세력이 온전히 수사되지도 않고 있는 때에 내란 극복을 해내야 하는 중수청의 수장으로는 전혀 적임자가 아니\"라고 덧붙였습니다.\n\n이재명 대통령이 김 후보자에 대해 \"친윤이 아닌 반윤 행적은 언론보도로도 다 확인되는 사실\"이라며 \"문재인 정부 당시 추미애 법무부 장관이 검사장으로 발탁 승진시켰다\"고 말한 데 대해서도 반박했습니다. 추 지사는 \"장관 시절 차관으로부터 추천받아 검사장으로 발탁했다\"며 \"이후 당시 윤석열 검찰총장에 대한 징계 절차에 돌입하자 차관이 갑자기 사표를 냈고, 징계가 부당하다는 집단 항명에 김지용도 이름을 올렸다\"고 했습니다. 이어 \"그들은 나란히 검찰주의자의 본색을 드러내고 국민을 배신하고 정의에 등을 돌렸다\"며 \"친윤인가 반윤인가는 문제의 본질이 아니\"라고 강조했습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001527046"
+   "feed": "뉴스 06. 한동훈 \"김지용, 민주당에 충성맹세 혈서라도 쓰라…그러면 시켜줄 것\"\n\n한동훈 무소속 의원은 4일 여권 내에서 '친윤(친윤석열) 검사'라며 임명 반대 의견이 나오는 김지용 초대 중대범죄수사청장 후보자를 향해 \"민주당에 대한 '충성맹세 혈서'라도 써서 공개하라. 여권에서는 추미애 경기지사와 김용민 더불어민주당 의원 등 검찰개혁 강경파를 중심으로 김 후보자가 검찰개혁에 반대해 온 '친윤 검사'라며 임명에 반대하는 목소리가 이어지고 있다. 특히 추 지사 등은 김 후보자가 서울고검 차장검사 시절 '채널A 사건' 압수수색 과정에서 당시 검사장이던 한 의원을 폭행한 혐의를 받은 정진웅 검사의 기소에 관여한 점도 문제 삼았으나, 김 후보자 측은 당시 기소에 반대했다고 해명했다.\n\n한 의원은 다른 페이스북 글에서 김 후보자 지명을 둘러싼 여권 내 논란을 다룬 기사를 공유하며 \"이렇게 국민들을 투명인간 취급하면서 본색을 드러내는 경우는 역사상 없었다\"고 비판했다. 그는 전날 밤에도 페이스북에 \"지금 중수청장 지명을 두고 민주당 진영 내에서 벌어지는 논쟁은 대한민국 역사상 유례를 찾아볼 수 없는 초유의 일\"이라고 진단했다. 이재명 대통령은 여권 검찰개혁 강경파의 반대에도 지난 2일 김 후보자에 대한 인사청문요청안을 국회에 보냈다.\n\n출처: 뉴스1 / https://n.news.naver.com/article/421/0009208949"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/08.png",
-   "pngBytes": 1933030,
-   "title": "한동훈, 차기 대통령 1위…李대통령 지지율은 30%대로[데이터로 본 정치민심]",
-   "summary": "연합뉴스한동훈 무소속 의원이 차기 대통령 적합도 조사에서 1위를 차지한 것으로 나타났다. 김민석 더불어민주당 대표는 15.2%로 뒤를 이었고 오세훈 서울시장 10.5%…",
-   "summary_long": "연합뉴스한동훈 무소속 의원이 차기 대통령 적합도 조사에서 1위를 차지한 것으로 나타났다. 김민석 더불어민주당 대표는 15.2%로 뒤를 이었고 오세훈 서울시장 10.5%, 장동혁 국민의힘 대표 10.2%, 이진숙 국민의힘 의원 8.1%, 강훈식 대통령 비서실장 7.9% 순이었다. 한 의원과 김 대표의 격차는 2.9%포인트로 오차범위(±3.1%포인트) 안이었다.\n\n스트레이트뉴스 의뢰로 조원씨앤아이가 실시한 조사에서 한 의원은 8월 22~24일 12.6%로 김민석 대표(15.5%), 오세훈 시장(14.5%), 장동혁 대표(13.9%)에 이어 4위였다. 특히 이번 에이스리서치 조사에서는 한 의원이 국민의힘 지지층과 무당층에서 상대적으로 높은 적합도를 보였다. 국민의힘 지지층에서는 한 의원이 32.6%로 장 대표(25.2%), 오 시장(17.0%)을 앞섰고, 무당층에서도 한 의원이 25.0%로 오 시장(15.2%), 김 대표(10.4%)보다 높았다.",
-   "press": "서울경제",
-   "source": "서울경제",
-   "link": "https://n.news.naver.com/article/011/0004667962",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/08.png",
+   "pngBytes": 2798898,
+   "title": "민주 \"장동혁 정치는 고함치는 것 밖에 없나\"…국힘 \"이재명 정권에 대한 분노 느껴\"",
+   "summary": "더불어민주당은 국민의힘이 지난 4일 서울 숭례문 일대에서 '이재명 정부 실정 규탄' 대규모 집회를 개최한 것을 두고 \" 장동혁의 정치는 북 치고 고함치는 것밖에…",
+   "summary_long": "더불어민주당은 국민의힘이 지난 4일 서울 숭례문 일대에서 '이재명 정부 실정 규탄' 대규모 집회를 개최한 것을 두고 \"(국민의힘) 장동혁 (대표)의 정치는 북 치고 고함치는 것밖에 없나\"라고 비난했습니다. 민주당 박성준 수석대변인은 오늘(5일) 서면브리핑에서 \"장 대표가 산적한 현안과 엄중한 민생은 거들떠보지도 않는데, 습관성 장외집회 증후군에라도 걸린 것인가\"라며 이같이 밝혔습니다. 박 수석대변인은 \"야당 대표로서 1년이 넘는 시간에 한 일이 무엇인가\"라며 \"틈만 나면 거리에 나가고, 부정선거 음모론을 제기하고, 윤리위를 홍위병 삼아 반대파를 제거하는 것 말고 무엇을 했나\"라고 반문했습니다.\n\n반면 국민의힘 정점식 원내대표는 장외집회에 대해 \"국민의 경제, 치안, 안보를 파괴하는 이재명 정권에 대한 뜨거운 분노의 민심이 들불같이 일어나는 것을 느낄 수 있었다\"고 밝혔습니다. 그러면서 이 대통령이 최근 엑스에 국정성과 홍보에 국민 동참을 당부하며 '좌아하게'라는 표현을 쓴 점을 거론한 뒤 \"당분간 SNS를 중단할 것을 권한다. 그리고 국민의 삶으로 들어가서 분노한 민심의 목소리를 생생히 듣고 올바른 민생 경제 정책을 함께 논의해주실 것을 촉구한다\"고 지적했습니다.",
+   "press": "연합뉴스TV",
+   "source": "연합뉴스TV",
+   "link": "https://n.news.naver.com/article/422/0000912511",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 한동훈, 차기 대통령 1위…李대통령 지지율은 30%대로[데이터로 본 정치민심]\n\n연합뉴스한동훈 무소속 의원이 차기 대통령 적합도 조사에서 1위를 차지한 것으로 나타났다. 김민석 더불어민주당 대표는 15.2%로 뒤를 이었고 오세훈 서울시장 10.5%, 장동혁 국민의힘 대표 10.2%, 이진숙 국민의힘 의원 8.1%, 강훈식 대통령 비서실장 7.9% 순이었다. 한 의원과 김 대표의 격차는 2.9%포인트로 오차범위(±3.1%포인트) 안이었다.\n\n스트레이트뉴스 의뢰로 조원씨앤아이가 실시한 조사에서 한 의원은 8월 22~24일 12.6%로 김민석 대표(15.5%), 오세훈 시장(14.5%), 장동혁 대표(13.9%)에 이어 4위였다. 특히 이번 에이스리서치 조사에서는 한 의원이 국민의힘 지지층과 무당층에서 상대적으로 높은 적합도를 보였다. 국민의힘 지지층에서는 한 의원이 32.6%로 장 대표(25.2%), 오 시장(17.0%)을 앞섰고, 무당층에서도 한 의원이 25.0%로 오 시장(15.2%), 김 대표(10.4%)보다 높았다.\n\n출처: 서울경제 / https://n.news.naver.com/article/011/0004667962"
+   "feed": "뉴스 07. 민주 \"장동혁 정치는 고함치는 것 밖에 없나\"…국힘 \"이재명 정권에 대한 분노 느껴\"\n\n더불어민주당은 국민의힘이 지난 4일 서울 숭례문 일대에서 '이재명 정부 실정 규탄' 대규모 집회를 개최한 것을 두고 \"(국민의힘) 장동혁 (대표)의 정치는 북 치고 고함치는 것밖에 없나\"라고 비난했습니다. 민주당 박성준 수석대변인은 오늘(5일) 서면브리핑에서 \"장 대표가 산적한 현안과 엄중한 민생은 거들떠보지도 않는데, 습관성 장외집회 증후군에라도 걸린 것인가\"라며 이같이 밝혔습니다. 박 수석대변인은 \"야당 대표로서 1년이 넘는 시간에 한 일이 무엇인가\"라며 \"틈만 나면 거리에 나가고, 부정선거 음모론을 제기하고, 윤리위를 홍위병 삼아 반대파를 제거하는 것 말고 무엇을 했나\"라고 반문했습니다.\n\n반면 국민의힘 정점식 원내대표는 장외집회에 대해 \"국민의 경제, 치안, 안보를 파괴하는 이재명 정권에 대한 뜨거운 분노의 민심이 들불같이 일어나는 것을 느낄 수 있었다\"고 밝혔습니다. 그러면서 이 대통령이 최근 엑스에 국정성과 홍보에 국민 동참을 당부하며 '좌아하게'라는 표현을 쓴 점을 거론한 뒤 \"당분간 SNS를 중단할 것을 권한다. 그리고 국민의 삶으로 들어가서 분노한 민심의 목소리를 생생히 듣고 올바른 민생 경제 정책을 함께 논의해주실 것을 촉구한다\"고 지적했습니다.\n\n출처: 연합뉴스TV / https://n.news.naver.com/article/422/0000912511"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-04/09.png",
-   "pngBytes": 1346140
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-05/09.png",
+   "pngBytes": 1346087
   }
  ],
- "caption": "📰 10월 4일 오늘의 뉴스\n\n1. 육영수 피격 사건 1년여 뒤, 일본 경찰이 찾아낸 또 다른 '자료'\n   이와 달리, 일본 정부는 한국 비판 활동을 벌이는 한국청년동맹과 1973년에 발생한 김대중 납치 사건을 문세광과 연결했다. 이 보고서에서 주일미국대사관은 한국 정부의…\n2. [단독] 헌재소장, 스페인 출장에 아내 동행... 여비로 국가예산 1000만원 썼다\n   김상환 헌법재판소장이 작년 10월 스페인 마드리드 출장에 아내를 동반한 가운데 배우자 여비로 국가 예산 1000만원을 쓴 것으로 2일 확인됐다. 국민의힘 윤상현 의원이…\n3. [그해 오늘] \"27살 출소?\" 40대 성폭행 뒤 웃은 중학생, 감옥서 '엽기 범죄'\n   더군다나 윤 씨는 “난 이미 징역 7년을 받아 더 이상 잃을 것이 없다”며 피해자를 협박했는데, 그는 중학생이던 2023년 10월 3일 새벽 충남 논산에서 귀가하던…\n4. 삼전 30만·하닉 220만원 오면 판다?…계좌 80% 채운 개미가 놓친 팩트 [숫자 뒤의 진실]\n   삼성전자와 SK하이닉스 주가가 강세를 이어가는 가운데 두 종목의 계좌 내 비중이 70~80%에 달하는 투자자는 특정 목표주가보다 보유 비중과 위험 분산 여부를 함께…\n5. 이 대통령, '청래 좀 그만 괴롭히라' 지적에 \"정청래는 동지\"\n   이재명 대통령, 정청래 전 대표와 만찬. 이재명 대통령이 더불어민주당 정청래 전 대표와 만찬 회동에 대해 '정 전 대표를 그만 괴롭히라'는 누리꾼 지적에 직접…\n6. 추미애, 김지용 겨냥 \"언제든 국민과 정의에 등 돌릴 수 있는 자\"\n   김지용 초대 중대범죄수사청장 후보자를 연일 비판해 온 추미애 경기도지사가 김 후보자는 \"언제든 국민과 정의에 등을 돌릴 수 있는 자\"라며 공세 수위를 높였습니다. 추…\n7. 한동훈, 차기 대통령 1위…李대통령 지지율은 30%대로[데이터로 본 정치민심]\n   연합뉴스한동훈 무소속 의원이 차기 대통령 적합도 조사에서 1위를 차지한 것으로 나타났다. 김민석 더불어민주당 대표는 15.2%로 뒤를 이었고 오세훈 서울시장 10.5%…\n\n🗣 “정 전 대표와 저는 목숨조차 위협받던 어둠과 죽음의 시대, 그리고 내란의 밤을 함께 싸우며 넘어온 동지”\n이 발언을 그대로 실은 보도 10건 · MBC 뉴스 · 강원일보 · 연합뉴스 · 경향신문\n· MBC 뉴스 — 이 대통령, '청래 좀 그만 괴롭히라' 지적에 \"정청래는 동지\"\n· 강원일보 — 李대통령 \"정청래는 목숨조차 위협받던 어둠과 죽음의 시대, 그리고 내란의 밤을 함께 싸우며 넘어온 동지\n· 연합뉴스 — 李대통령, '청래 좀 그만 괴롭히라'는 누리꾼 글에 \"鄭은 동지\"\n· 경향신문 — 이 대통령과 만찬 정청래 “내란 밤 함께 넘었던 동지들이여, 뭉치자”\n· KBC광주방송 — [속보] \"정청래 그만 괴롭혀라\"에 李대통령 \"우린 동지\"…鄭 \"4통통합하고 뭉치자\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #예산안 #대통령실\n\n출처: MBC, 서울경제, 세계일보, 오마이뉴스, 이데일리, 조선일보"
+ "caption": "📰 10월 5일 오늘의 뉴스\n\n1. 민주 '10·4 남북정상선언' 19주년…\"남북 대화 다시 시작\"\n   그는 \"국경선 요새화와 지뢰 매설은 정전협정 위반이며 10·4 남북정상선언에도 어긋난다\"며 \"북한 당국은 지뢰 폭발 사고에 대해 책임 있는 태도를 보이고 대화에 나서야…\n2. 전역모 쓰고 “군대 안가” 자랑한 축구대표팀…안철수 “군면제 없애야”\n   2026 아이치·나고야 아시안게임에서 남자 축구 국가대표팀이 금메달을 딴 것과 관련해 일부 선수가 병역 혜택과 관련해 선을 넘은 행동을 했다는 지적이 나오는 가운데…\n3. \"원이야, 삼촌이 다 사줄게\"…60만개 '리센느 빵' 쓸어간 30대 男\n   편의점 업계, 활발한 협업으로 판매고 올려최고의 주가를 달리고 있는 그룹 리센느와 협업한 '리센느 빵' 5종의 판매량이 60만개를 달성했다. 4일 유통업계에 따르면…\n4. [르포] “매물 올리자마자 매수 문의”… 4040가구 개발 기대에 들뜬 효창동\n   효창공원앞역 북측 후보지 선정. 국토교통부가 전날 효창공원앞역 북측을 4040가구 공급을 목표로 하는 신규 후보지로 선정하면서 매수 문의가 늘었다.\n5. 국힘, 싱가포르영화제에 영화 '암살자(들)' 개막작 철회 서한 추진\n   국민의힘은 오늘 싱가포르국제영화제에 육영수 여사 피격 사건을 다룬 영화 '암살자'의 개막작 선정을 철회해달라는 서한을 소속 의원 전원 명의로 보내기로 했습니다. 5선…\n6. 한동훈 \"김지용, 민주당에 충성맹세 혈서라도 쓰라…그러면 시켜줄 것\"\n   한동훈 무소속 의원은 4일 여권 내에서 '친윤 검사'라며 임명 반대 의견이 나오는 김지용 초대 중대범죄수사청장 후보자를 향해 \"민주당에 대한 '충성맹세 혈서'라도 써서…\n7. 민주 \"장동혁 정치는 고함치는 것 밖에 없나\"…국힘 \"이재명 정권에 대한 분노 느껴\"\n   더불어민주당은 국민의힘이 지난 4일 서울 숭례문 일대에서 '이재명 정부 실정 규탄' 대규모 집회를 개최한 것을 두고 \" 장동혁의 정치는 북 치고 고함치는 것밖에…\n\n🗣 “경기가 끝난 직후 현장에서 팬분께서 주신 모자를 받아 쓰게 됐다. 준비해 온 시간과 노력의 결과로 금메달을 따게 됐다는 기쁨과 벅찬 마음이 너무 컸고, 그 순간 모자의 의미에 대해 깊이 생각하지 못한 채 사진을 찍어 SNS에 올렸다”\n이 발언을 그대로 실은 보도 6건 · 조선일보 · 네이트 · 세계일보 · mhnse.com\n· 조선일보 — 전역모 쓰고 \"군대 안가\" 자랑한 축구대표팀…안철수 \"군면제 없애야\"\n· 네이트 — '전역모 세레머니' 조롱 논란…박승수 결국 고개 숙였다 \"모든 분들께 진심으로 죄송하다, 조롱하거나 가벼운 마음 없었어\"\n· 세계일보 — 금메달이 병역특례로…‘국위선양’과 ‘공정’ 사이, 시대마다 되풀이 된 병역특혜 논란\n· 네이트 — \"병역 혜택 동기 잘못 전달 돼, 분명한 나의 책임\" 양민혁 \"군면제만 바라봐\" 발언에 사과…'전역모 사진' 논란 박승수도 질못 시인\n· mhnse.com — '전역모 인증샷' 박승수 결국 고개 숙였다...日 꺾고 금메달→병역혜택 확정 직후 SNS 사진 논란 \"경솔한 행동 사과드린다\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼\n\n출처: SBS, 뉴스1, 대전일보, 아시아경제, 연합뉴스TV, 조선비즈, 조선일보"
 }
