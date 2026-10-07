@@ -1,370 +1,248 @@
 {
- "date": "2026-10-06",
- "generated_at": "2026-10-06T11:37:19+09:00",
+ "date": "2026-10-07",
+ "generated_at": "2026-10-07T10:55:31+09:00",
  "mode": "daily",
- "window_start": "2026-10-05T00:00:00+09:00",
- "window_end": "2026-10-05T23:59:59+09:00",
+ "window_start": "2026-10-06T00:00:00+09:00",
+ "window_end": "2026-10-06T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "금메달 뒤 \"군대 안 갑니다\" 논란‥여야 \"병역특례 손봐야\"",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001527194",
-   "published_at": "2026-10-05T09:56:29+09:00",
+   "title": "\"北에는 찍소리도 못 하면서\" 한동훈에 \"답변 거부\"한다는 조현... 국감장 정면 충돌",
+   "source": "한국일보",
+   "url": "https://n.news.naver.com/article/469/0000957896",
+   "published_at": "2026-10-06T13:24:15+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "아이치·나고야 아시안게임에서 금메달을 딴 남자 축구대표팀 일부 선수들의 병역 관련 발언을 계기로, 정치권에서 예술·체육요원 병역특례 제도를 재검토해야 한다는 목소리가…",
-   "summary_long": "아이치·나고야 아시안게임에서 금메달을 딴 남자 축구대표팀 일부 선수들의 병역 관련 발언을 계기로, 정치권에서 예술·체육요원 병역특례 제도를 재검토해야 한다는 목소리가 잇따르고 있습니다. 박성훈 국민의힘 수석대변인은 오늘 논평을 통해 \"현행 예술·체육요원 제도가 시대와 국민의 상식에 부합하는지 성역 없이 다시 따져야 한다\"고 지적했습니다. 그는 \"병역의무를 묵묵히 이행하는 청년들이 납득할 수 없는 특례라면 '국위선양'이라는 네 글자만으로 계속 정당화하기 어렵다\"면서 \"국가대표 가슴에 가장 먼저 새겨져야 할 것은 '군 면제'가 아니라 '대한민국'\"이라고 덧붙였습니다.\n\n안철수 국민의힘 의원도 페이스북에 \"군대가 혐오시설이냐, 사람이 못 갈 곳이냐, 매년 입대하는 수많은 청년은 모두 호구냐\"면서 \"국가대표로서 태극마크를 달고 뛰는 선수들의 의식이 이 정도라니 너무나 참담하다\"고 지적했습니다. 국위선양이라는 명분만으로 국민을 설득할 수 없다\"며 \"이제 체육·예술 병역특례, 재검토가 필요하다\"고 주장했습니다. 김병주 더불어민주당 의원도 어제 MBN '시사 스페셜'에 출연해 특례 제도가 도입된 1973년과 달리 지금 병력 자원이 줄고 있는 점, 국위선양은 반도체나 BTS 등 모든 분야에서 이뤄진다는 점, 병역 기간도 18개월로 단축됐다는 점 등을 이유로 제도 재정비가 필요하다고 강조했습니다.",
+   "summary": "조현 외교부 장관이 6일 서울 여의도 국회에서 열린 외교통일위원회 국정감사에서 업무보고를 하고 있다. 조현 외교부 장관과 한동훈 무소속 의원이 6일 열린 국회…",
+   "summary_long": "한동훈 \"장관이 가르치는 게 맞나\" 조현 외교부 장관이 6일 서울 여의도 국회에서 열린 외교통일위원회 국정감사에서 업무보고를 하고 있다. 조현 외교부 장관과 한동훈 무소속 의원이 6일 열린 국회 국정감사장에서 설전을 벌였다.\n\n한 의원은 이날 국회에서 열린 외교부 대상 국감에서 최근 이재명 대통령이 북한군 2명의 포로 송환을 일방적으로 공개한 우크라이나를 공개 비판하고 이에 대한 사과를 요구한 것과 관련, \"(북한의) 김여정에게는 찍소리도 못 하면서 우크라이나에 대해선 쥐 잡듯 하냐, 우크라이나가 주적이냐, 북한이 주적이냐\"… 이에 조 장관은 \"한 의원이 '쥐 잡듯'이라는 표현을 쓰시는 한 질문에 대한 답변을 거부하겠다\"고 답했다. 한 의원은 \"우크라이나에 강단 있게 하는 만큼 왜 북한에는 강단 있게 하지 않느냐\"고 재차 따졌고 조 장관은 \"한 의원님의 기대만큼은 못 미쳤을지 몰라도 북한에 필요한 만큼 강단 있는 대응을 하는 것은 당연하다\"고 맞받았다.",
    "quotes": [
-    "병역의무를 묵묵히 이행하는 청년들이 납득할 수 없는 특례라면 '국위선양'이라는 네 글자만으로 계속 정당화하기 어렵다",
-    "아시안게임 군 면제, 이제 재고해야 한다. 면제 없이도 우승하고 금메달 따오는 선수도 많지 않나",
-    "현행 예술·체육요원 제도가 시대와 국민의 상식에 부합하는지 성역 없이 다시 따져야 한다"
+    "(외통위원의 질문에) 아무리 자극적인 언어가 있어도 성의 있게 답변해달라. 의사진행에 대해 나에게 이래라저래라 코치하신 것은 결례",
+    "(북한의) 김여정에게는 찍소리도 못 하면서 우크라이나에 대해선 쥐 잡듯 하냐, 우크라이나가 주적이냐, 북한이 주적이냐",
+    "한 의원님의 기대만큼은 못 미쳤을지 몰라도 북한에 필요한 만큼 강단 있는 대응을 하는 것은 당연하다"
    ],
-   "press": "MBC",
+   "press": "한국일보",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "병역의무를 묵묵히 이행하는 청년들이 납득할 수 없는 특례라면 '국위선양'이라는 네 글자만으로 계속 정당화하기 어렵다",
-    "n": 8,
-    "verified": 0,
-    "items": [
-     {
-      "press": "MBC 뉴스",
-      "title": "금메달 뒤 \"군대 안 갑니다\" 논란‥여야 \"병역특례 손봐야\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lQ0Znd0dOR2dfT0hNRWR1cTlpd080dmp2dmFaTnptR3JvbUpxVkVURFpUSThNVGRvQkFzYVo1OHV4THhVQ3ZtUk9WUGZpN1BoaXREczVzQXBSMEtZUTJXYUtGWGh6MWhNUlMxZHRwb3cxQUczSUJFTtIBeEFVX3lxTE5ETGtnX2lpaW1qQ0pzSHVRTkRqS0Y2SE14eER5TlN5VGZ6RmhPWWVQZTdlVlFCR3NVZ3V1QTh5RWVoYUY1SENpa0h5cVQxeFM5aElIbzJnSm1XSkRBamhGMXVja2pJNG9vRHl6eG1hakNBaDhXRnpmcw?oc=5"
-     },
-     {
-      "press": "채널A 뉴스",
-      "title": "아시안게임 병역 면제 논란에 여야 “특례 축소”…“BTS도 군대 갔다”",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZzNKSURPZmxLZmNkMktMWjI1U1ZSa2ZpMnhRZTgweWVCZGwtbDM1WENvUDZ3azdKTGFIeGJxN3pWUW5xbWJ1VUg1clBIMnR6RmlBeHlVU1RDZDc2azRrMXZzMNIBY0FVX3lxTE9YZzNKSURPZmxLZmNkMktMWjI1U1ZSa2ZpMnhRZTgweWVCZGwtbDM1WENvUDZ3azdKTGFIeGJxN3pWUW5xbWJ1VUg1clBIMnR6RmlBeHlVU1RDZDc2azRrMXZzMA?oc=5"
-     },
-     {
-      "press": "조선일보",
-      "title": "AG ‘전역모’ 세리머니에… 여야 “예체능 병역특례 축소해야”",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQy0xWjRCWVJIVkxnOWJHaGtLaE0zckhXTWNtYXZ0OEM0NUVkM3hRc1ViSllUTk9WbWpsb1RTamUxSGpRU0haVjNUaFJEbWtzMmJZWThLb0xhOV9nRjcwYUpMcDZ3XzVWdWJYTzBlZG1RdHdPVGN1MW5LblQ3c1dSeVFKaGpRUQ?oc=5"
-     },
-     {
-      "press": "뉴스1",
-      "title": "국힘, AG 군면제 논란에 \"병역특례제 전면 재점검해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xYUlpUS16aUluSXNtUEgtS09ZSkdyXzM1d0NfcG0yM25LOXI3SWlycnlPWlh3NkhIWEFqREdMWmxwN3pFQ29td1JqMTJWWkE4ZkxQa2FvS01OOWh2bTAw0gFfQVVfeXFMTjFhSWlRLXppSW5Jc21QSC1LT1lKR3JfMzV3Q19wbTIzbks5cjdJaXJyeU9aWHc2SEhYQWpER0xabHA3ekVDb213UmoxMlZaQThmTFBrYW9LTU45aHZtMDA?oc=5"
-     },
-     {
-      "press": "시민일보",
-      "title": "국힘, 축구 대표팀 ‘군면제’ 발언 논란에 “병역특례 재점검 필요”",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41dGlTRjdnemNRLTNUN01LY2pYVkZWMFpXN25nOHpIc1RNczN6ODNMOGFTQzg5bl8zbEZXX1ozSUpMOUlfbHFxMU1Pc180cG12VDN0azdscU42enJtTXZ1NzFDdXI2Y2lqVldMb0V1TmZXQdIBb0FVX3lxTE12c292c3FjS1Q5RFBIaFktOHZNd21oWElKRkltQ2tCQlhKUW9JRW1pMUE0WmU2YkNaMjR5UzFuN29SOG84NV9VREFpcG9iUlFlaHF3UFpSWHF5ZFVsUkRTT2FvNmRqamdWdHhaLVlNbw?oc=5"
-     },
-     {
-      "press": "더팩트",
-      "title": "국힘 \"태극마크는 군면제 프리패스 아냐…병역특례 재점검해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LbTZlaEdubFltWnE0SVJDd2pzbGpPQ3NINkpjVk1hYnhMNjE4VUs4NC1mMGw2NmczVVJmMDhsR09iclRoT2hrY3Zaa2EzbXdXeGxv0gFTQVVfeXFMTUttNmVoR25sWW1acTRJUkN3anNsak9Dc0g2SmNWTWFieEw2MThVSzg0LWYwbDY2ZzNVUmYwOGxHT2JyVGhPaGtjdlprYTNtd1d4bG8?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "\"어디서 함부로 盧 들먹여\" 김어준에 한동훈 \"거만한 X꼰대 소리\"",
-   "source": "이데일리",
-   "url": "https://n.news.naver.com/article/018/0006381104",
-   "published_at": "2026-10-05T11:21:09+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "selection": "정치",
-   "summary": "고 노무현 전 대통령의 금품수수 의혹을 ‘팩트’라고 주장한 뒤 연일 더불어민주당과 공방을 벌이고 있는 한동훈 무소속 의원은 방송인 김어준 씨가 “어디서 함부로 노무현을…",
-   "summary_long": "고(故) 노무현 전 대통령의 금품수수 의혹을 ‘팩트’라고 주장한 뒤 연일 더불어민주당과 공방을 벌이고 있는 한동훈 무소속 의원은 방송인 김어준 씨가 “어디서 함부로 노무현을 들먹이느냐”고 하자 “팩트로 얘기하라”고 맞받았다. 한동훈 무소속 의원(왼쪽), 방송인 김어준 씨 한 의원은 5일 SNS에 김 씨를 향해 “거만한 X꼰대 소리 집어치우라”며 이 같은 반응을 보였다. 김 씨는 이날 유튜브 ‘김어준의 겸손은힘들다 뉴스공장’에서 한 의원이 최근 노 전 대통령 금품수수 의혹을 거론한 데 대해 “진보 진영에서 박정희 전 대통령이 출발이라고 보고 비판하는 것처럼 한동훈은 노무현 대통령을 키워드로 잡은 거다.\n\n지금까지 보수에선 노 전 대통령의 죽음 자체는 보수, 검찰이 괴롭혀서, 이게 너무나 명백해서 인간적으로 건드리지 않았다”라고 주장했다. 한 의원과 최근 SNS 상 설전을 벌인 윤건영 더불어민주당 의원도 이날 방송에서 “노림수”라고 비판했다. 윤 의원은 “한동훈이 왜 10월 2일 이런 무리수를 던지나 혼자 생각을 해 봤더니, 검찰 부활의 기초 공사”라며 “왜냐하면 노 전 대통령으로부터 검찰 개혁을 시작했다.",
-   "quotes": [
-    "진보 진영에서 박정희 전 대통령이 출발이라고 보고 비판하는 것처럼 한동훈은 노무현 대통령을 키워드로 잡은 거다. 지금까지 보수에선 노 전 대통령의 죽음 자체는 보수, 검찰이 괴롭혀서, 이게 너무나 명백해서 인간적으로 건드리지 않았다",
-    "어차피 인간에 대한 존중이라든가 예의 같은 건 없는 사람이기 때문에 이게 어떤 의미인지는 중요하지 않고 정치적으로 여기를 때리면 가장 강하게 반응이 올 것 같으니까, 그러면 자기는 클 수 있다고 생각한 것",
-    "왜냐하면 노 전 대통령으로부터 검찰 개혁을 시작했다. 아주 중요한 요인이었다. 그래서 노무현 흠집 내기를 시작한다, 앞으로 계속 (이런 일이) 일어날 거라고 보고 시도 때도 없이 일어날 거라고 생각한다"
-   ],
-   "press": "이데일리",
-   "photo": "02.jpg",
-   "quoted": {
-    "quote": "왜냐하면 노 전 대통령으로부터 검찰 개혁을 시작했다. 아주 중요한 요인이었다. 그래서 노무현 흠집 내기를 시작한다, 앞으로 계속 (이런 일이) 일어날 거라고 보고 시도 때도 없이 일어날 거라고 생각한다",
+    "quote": "(북한의) 김여정에게는 찍소리도 못 하면서 우크라이나에 대해선 쥐 잡듯 하냐, 우크라이나가 주적이냐, 북한이 주적이냐",
     "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "뉴시스",
-      "title": "김어준 \"어디서 감히 노무현을 들먹여\"…한동훈 \"팩트 없는 거만한 가스라이팅\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KaGw4WHZET1Q3aTJFQkdaVnQ3NzVQaWszRjJ1ajYzQnVjNEZxcm5vc0pLbTFsd0ZkaXdKaVEzQV9oNzhUVjNzWXN2NWNhSGx2dlQtYnVJbi1uNDdmSzRWdtIBeEFVX3lxTFAyVWhUS3NySE43QmJlMV9JdkROQWswdVlnWEpKeVRQeGRtWXpjUnVrU0NLZ0FXS0t1bUFrenFHNEM0RV9aQkRFcmhxZHVuMzZ3VzZ4dWRWN3d1c1ZwelN3MFNGUDJWVVlOVjhlR3huZEV1S2p2bzBWRg?oc=5"
+      "press": "한국일보",
+      "title": "\"北에는 찍소리도 못 하면서\" 한동훈에 \"답변 거부\"한다는 조현... 국감장 정면 충돌",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5feW9ZR3kyUVlGU0NaU2JLRFZvOGI1WXM1dVVMTU43Mmo5ZlZNZExEMXhwMEhhQV90ZENOc285YlNkZW5QVHRzYklZaDVQNW9aVS1DMTFfOHZnVXVkcVBuX05KLVVhVGlBV1ZVT0FR0gFzQVVfeXFMTURxLV9fSHB1bFhwN2Voa0RiRTF0eElDQzdobHZ1OWExUDVKanFqVVhoTXlxUlJnZnZNcEMwWFZoUXYxeXBRNWk2b0hsdnY5U3lJbjFGVFpMR0I0T1BoUUZpM1E3ai1Vam1RbDZSZExUMzktcw?oc=5"
+     },
+     {
+      "press": "Daum",
+      "title": "한동훈 \"북한엔 찍소리 못하고 우크라만 쥐잡듯\"…조현 \"답변 거부\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Hb0p0Nm5OengxdUlHRHlGZl9YTmpZT1p4NjVKMXM1ckR6RHlFMjEzVUVPLVNsVlJ4WlVoNndkOWxWQzFCWkVWVDRaaG8tdUE?oc=5"
+     },
+     {
+      "press": "뉴스핌",
+      "title": "[2026 국감] 조현-한동훈, 국감에서 우크라·지뢰 대응 놓고 거친 설전",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzQ19raU5SaGlnYlg4U21oazBENk1PRUs0ZTdIeWg0X2VmSDdMYkt5dTFySE5aS0M0YTdrdURHT3FkY3AxVVI2U0RBcHlhSVFkUGJmMGUyTTJja0Q0?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "조희대 국감 출석 \"증인선서·증언거부\" 서영교 이석 불허… \"체포·감금하냐\"",
+   "source": "미디어오늘",
+   "url": "https://n.news.naver.com/article/006/0000138072",
+   "published_at": "2026-10-06T11:32:12+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "selection": "정치",
+   "summary": "▲조희대 대법원장이 2026년 10월6일 국회 법사위 소관 대법원 국정감사에서 인사말하고 있다. 조희대 대법원장은 6일 국회 법사위 소관 대법원 법원행정처 국감…",
+   "summary_long": "사진=국회방송 영상 갈무리조희대 대법원장이 국회 법제사법위원회 대법원 국정감사에 출석했으나 증인 선서와 증언을 거부하겠다고 밝히자 서영교 법사위원장이 이석을 허가하지 않아 야당이 반발하는 등 초반부터 충돌했다. 조희대 대법원장은 6일 국회 법사위 소관 대법원 법원행정처 국감 인사말에서 자신의 증인 출석 요구를 두고 \"헌법의 취지에 비추어 법원장의 대법관 제청에 관하여 증언하도록 요구하는 것은 삼권분립과 사법 독립의 원칙을 훼손할 염려가 있다\"라며 \"이번 국정감사에서도 법관 제청에 관한 증언을 요구하고 있어 응… 증인 선서를 하지 않으시겠다는 것이냐\"라고 질의하자 조 대법원장은 \"인사말에서 말씀드린 대로 선서나 증언은 할 수 없음을 말씀드린다\"라고 거듭 답했다.\n\n국회 법사위 야당 간사인 박형수 국민의힘 의원은 \"지금까지 대법원장은 수십 년 동안 인사말을 하고 이석한 뒤 국감이 마무리될 때 인사말씀하는 게 관례였다. 박 간사는 또 \"대법관에 대한 제청은 대법원장 이미 했는데, 청와대가 대통령이 제재청 요구를 했기 때문 아니냐. 국회 법사위 여당 간사인 김의겸 더불어민주당 의원은 \"대법원장부터 관례를 깨기 시작한 것\"이라며 \"이승만 대통령 이후 지금까지 계속 대법원장의 제청 문제, 대법관의 제청 문제는 청와대와 대법원장이 서로 협의하고 합의해서 올라왔다.",
+   "quotes": [
+    "이승만 대통령 이후 지금까지 계속 대법원장의 제청 문제, 대법관의 제청 문제는 청와대와 대법원장이 서로 협의하고 합의해서 올라왔다. 그런데 지금 대법원장께서 합의가 되지 않은 상태에서 일방적으로 제청하지 않았느냐. 그게 관례를 깬 것 아니냐",
+    "대법관 후보 추천위원회가 추천한 대법관 후보자들의 자질과 능력 등을 신중히 검토하고 후속 절차를 위해 지속적으로 협의하여 왔으나 결국 최종 합의에는 이르지 못한 채 대법관 임명 제청을 하였다",
+    "대법관에 대한 제청은 대법원장 이미 했는데, 청와대가 대통령이 제재청 요구를 했기 때문 아니냐. 그러면 누가 나와야 되느냐. 이재명 대통령이 나와야지요. 도대체 논리가 맞는 얘기를 해야죠"
+   ],
+   "press": "미디어오늘",
+   "photo": "02.jpg",
+   "quoted": {
+    "quote": "대법관 후보 추천위원회가 추천한 대법관 후보자들의 자질과 능력 등을 신중히 검토하고 후속 절차를 위해 지속적으로 협의하여 왔으나 결국 최종 합의에는 이르지 못한 채 대법관 임명 제청을 하였다",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
+      "press": "미디어오늘",
+      "title": "조희대 국감 출석 “증인선서·증언거부” 서영교 이석 불허… “체포·감금하냐”",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WSDY5cHpuUHhsMFQ0b3FBbm1saTZYUkI5QjBfa0hUREg3Y1NiZWFsQVhISjVuZEtqU2lhOFRLUGZQNE1tb0FqbDVrMHNsSmhpREpRc2VtUmV3VEhWY1Fza21zaXZ6MU9UTVJpTVppbWU?oc=5"
+     },
+     {
+      "press": "KB Think",
+      "title": "조희대 \"대법관 제청 증언 요구는 삼권분립·사법독립 훼손 염려\"",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80TWFMdWNMMXl2WEo1QVQzM0pENzNicjBLVjFyZUZPOE93UkNhalBWOGw5THVNdVRFMWNiZ3gxckNxMmRaQjRKMjM1TTZfTzRmUVcyWWZlQU5XYnFQT2dmcjBZTXdZYW0tQzR6Z0RKR082dw?oc=5"
+     },
+     {
+      "press": "JTBC",
+      "title": "조 대법원장 \"대법관 제청 증언, 삼권분립과 사법독립 훼손 염려\"",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zbGl4UTBVbDdrLXhOZ3dVNE90bDZ2NGxfNEYtbmFpUXFlcEJDMkFTMWpQODFDRHZ0VnFIN0hoNXVOeW0xWUJuR2gzVEpHZG1KUVE?oc=5"
      },
      {
       "press": "매일경제",
-      "title": "김어준 “어디서 감히 노무현을”…한동훈 “팩트 없는 거만한 가스라이팅”",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1iX2JZTGxrWV9uSXNaSHlWWnB1QTRucjdBTmdjeURaNF9pTkNrVG51STJGSzctUkhmblV5VDZPcmI3aUJUWVE?oc=5"
+      "title": "[속보] 조희대 “재제청 요구 헌법적 근거 없어…절차진행 어렵다 판단”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zWlMwS2FYckg2bVpBdkZYSVZEUkhhSGpGQVN6NFA5Ny1JRGh6VUszbzBnNTB6N0R0LXNSNzFQYTJCMWlEamlIRVRrRG5kOEc0MHhwdVNR?oc=5"
      },
      {
-      "press": "헤럴드경제",
-      "title": "김어준 “어디서 감히 노무현을”…한동훈 “팩트로 말하라”",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqZFdxTGtBeENiXzNBSURPNWNZQ2g0c0hfZlh0U294d3JsVzNkdUEyTEJ0QlY4cE9JMHJ5YWZmcjNjZl9oWmF0VmhmNzFWazNOay1yMWZWMA?oc=5"
+      "press": "뉴스피릿",
+      "title": "조희대 \"청와대 재제청 공문, 구체적 사유·헌법적 근거 없었다\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MQ2p3blJIdmt1MjcxWlotbjd0TnJWamwxek1Bd0FtbDV1R0JrNmtNRFlnckc2QzcxenBxMFU5dDlPUklnTVNPQTNLbnBpalJLM19UX0tVV1FUM3BsLUp0NWl5RkFVQzNsZHBj?oc=5"
+     },
+     {
+      "press": "창업일보",
+      "title": "조희대 “국회·대통령, 대법원장 제청에 관여할 수 없어…국회 관여는 위헌”",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNU9hdFo5QUgzd2FQT0dseUp6VWFxcGMwdTQwdjhPSE5JbzlRYlN1YjdWVldwb24zXzNQZDFBOHhHRjRRX3M3RGRWRGZILTVOME9PTm9acHEydHdxbHphci1oN1BiUWFw?oc=5"
      }
     ]
    }
   },
   {
-   "title": "학교서 수개월간 성추행한 중학생…\"부모가 1천800여만원 배상\"",
-   "source": "연합뉴스",
-   "url": "https://n.news.naver.com/article/001/0016357396",
-   "published_at": "2026-10-05T10:00:02+09:00",
+   "title": "\"초보는 신지 마라\" 황영조의 경고…30만원 주고 샀다가 '낭패'",
+   "source": "한국경제",
+   "url": "https://n.news.naver.com/article/015/0005339497",
+   "published_at": "2026-10-06T12:01:14+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "같은 반 여학생을 수개월간 교실 등에서 강제로 추행하고 성희롱한 중학생을 대신해 부모가 피해 학생에게 1천800여만원을 배상하라는 법원 판결이 나왔다. 5일 법조계에…",
-   "summary_long": "같은 반 여학생을 수개월간 교실 등에서 강제로 추행하고 성희롱한 중학생을 대신해 부모가 피해 학생에게 1천800여만원을 배상하라는 법원 판결이 나왔다. 5일 법조계에 따르면 청주지법 민사6단독 이주현 부장판사는 피해 학생이 가해 학생 A군의 부모를 상대로 낸 3천500만원 손해배상 청구 소송에서 \"피고들은 원고에게 1천800여만원을 배상하라\"고 원고 일부 승소 판결했다. 중학생 A군은 지난해 3∼5월 같은 반 B양에게 사회관계망서비스(SNS)를 통해 \"신체 부위를 만지고 싶다\", \"성노예를 하라\"는 등의 성적 메시지를 보냈다.\n\n또 이 기간 교실과 복도 등에서 B양의 신체 부위를 여러 차례 강제로 만졌다. 이 부장판사는 \"피고들은 A군에 대한 올바른 성교육을 포함해 일상적인 지도 및 조언을 계속 해야 할 보호·감독 의무가 있음에도 이를 게을리한 잘못이 있다\"며 \"이러한 과실이 불법행위의 원인이 됐으므로 피고들은 불법행위자로서 원고가 입은 손해를 배상할 책임이 있다\"고 판시했다. 이어 \"이 사건에 이르게 된 경위와 전후 사정, 성적 메시지의 내용 및 강제추행이 이뤄진 방식 등 여러 사정을 종합하면 위자료는 1천200만원으로 정하는 것이 적정하다\"며 \"피고들은 여기에 B양의 정신과 치료비 670여만원까지 배상하라\"고 명령했다.",
+   "summary": "최근 러닝 인구가 급증하며 카본 러닝화가 인기를 끌고 있지만 제품별로 충격 흡수와 안정성, 무릎 피로도 등에 차이가 큰 것으로 나타났다. 소비자원은 “카본 러닝화는…",
+   "summary_long": "러닝 입문한 지 5개월 차인 30대 직장인 최모씨는 최근 30만원대 카본 러닝화를 처음 샀다가 신고 달리던 중 발목을 접질렸다. 최근 러닝 인구가 급증하며 카본 러닝화가 인기를 끌고 있지만 제품별로 충격 흡수와 안정성, 무릎 피로도 등에 차이가 큰 것으로 나타났다. 6일 한국소비자원은 소비자 사용 경험이 많은 카본 러닝화 7개 브랜드 7종을 대상으로 기능성과 내구성, 안전성, 가격 등을 시험·평가한 결과를 공개했다.\n\n소비자원이 성인 남성 30명을 대상으로 러닝 때 나타나는 생체역학적 특성을 측정한 결과 추진력은 시험 대상 7개 제품 모두 우수했다. 뉴발란스 ‘SC 트레이너 V3’, 스케쳐스 ‘에어로 스파크’, 아식스 ‘매직스피드5’, 푸마 디비에이트 나이트로4, 호카 스카이워드X 등 5개 제품이 상대적으로 피로도가 적은 것으로 평가됐다. 소비자원은 “카본 러닝화는 추진력뿐 아니라 충격 흡수와 무릎 피로도, 견인력 등 제품별 특성이 다르다”며 “러닝 목적과 자신의 신체 특성에 맞는 제품을 선택할 필요가 있다”고 설명했다.",
    "quotes": [
-    "이 사건에 이르게 된 경위와 전후 사정, 성적 메시지의 내용 및 강제추행이 이뤄진 방식 등 여러 사정을 종합하면 위자료는 1천200만원으로 정하는 것이 적정하다",
-    "피고들은 A군에 대한 올바른 성교육을 포함해 일상적인 지도 및 조언을 계속 해야 할 보호·감독 의무가 있음에도 이를 게을리한 잘못이 있다",
-    "이러한 과실이 불법행위의 원인이 됐으므로 피고들은 불법행위자로서 원고가 입은 손해를 배상할 책임이 있다"
+    "카본 러닝화는 추진력뿐 아니라 충격 흡수와 무릎 피로도, 견인력 등 제품별 특성이 다르다",
+    "러닝 목적과 자신의 신체 특성에 맞는 제품을 선택할 필요가 있다"
    ],
-   "press": "연합뉴스",
+   "press": "한국경제",
    "photo": "03.jpg",
    "quoted": {
-    "quote": "피고들은 A군에 대한 올바른 성교육을 포함해 일상적인 지도 및 조언을 계속 해야 할 보호·감독 의무가 있음에도 이를 게을리한 잘못이 있다",
-    "n": 9,
-    "verified": 0,
-    "items": [
-     {
-      "press": "연합뉴스",
-      "title": "학교서 수개월간 성추행한 중학생…\"부모가 1천800여만원 배상\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9URUJMX3lRcUFpY21FN2pqcjVsd3RxNkNzaE1DRGt5bktOajAtbWxidl9wVzVrSTM3R2gtUDg0ekxGM083R25sUXpiSFBlSTE2WDRlVUlmcmd6b2_SAWBBVV95cUxOM084NUNhNHFvMW5ieFZyczRhNlE1WlU4Z1p3Sl8wQTRkU1hfaDZBLTJEMnY1Qnd1UDQ4Q01lRUlZcWJreFNneXZSMEpLU1ZzQ0FBeUZRVTQyeUdJNWJLT3U?oc=5"
-     },
-     {
-      "press": "매일신문",
-      "title": "\"내 성노예 해라\" 같은 반 친구 수개월 성추행한 중학생…\"부모가 1천800여만원 배상\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sWU1FaEppLWNYSDVEXzZtVTlfSmNwYWY5VGFxN0xWUkE4cHkzdVV2eXkxbThQeUE2aDg3dTh2TUlaRGFQdG1qWXhHREUtZzlvNVQzRmd6alJlM09TTm9sRVpR?oc=5"
-     },
-     {
-      "press": "kyeonggi.com",
-      "title": "“내 노예 해라” 같은 반 여학생에 성폭력 중학생…“부모가 1800만원 배상”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbkxkbEZWWTROY2trZTVKRDFfMmpHdndnb1BDaVd3MFFGOV9jSlhTUlFZTmU3TTJ2WVQteEN2RTExQ3ZqaHo5Q2xobXlDZDdBYVN6cXFrRTlDMFU?oc=5"
-     },
-     {
-      "press": "부산일보",
-      "title": "학교서 동급생 성추행한 중학생…법원 \"부모가 1800만 원 배상하라\"",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13S1JhUHFVdC1JWGZKUzZ2bElmVVVGNVdab08xbXROTk5aRWo2bFdfSmw2cWtJWVk3ZEd2dW9fUGZldUhuY3BTTGdNT1dIZjBhdUV4RlYtaU9YSjFtMnF1alVkX25aRklRNGUyRG5yS2ZrY3Bianh3?oc=5"
-     },
-     {
-      "press": "한국일보",
-      "title": "동급생 수개월 성추행한 남중생… \"부모가 대신 1800만원 배상\"",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81NTZTbXlicVQtYTl3bzNFWnY2RFZBMWVVWU5lYm9FNENHSEhTRENmQVFRdF92VWMzVnVYNXR5elc3MENwV0FhcGU5OUVILWVHZjBQb1gwNkU1THY2MnBJLXFjWVdUdHBLWmpFLVln0gFzQVVfeXFMT3Q3THdhSkhxMGhBaDRlVFJ0TkpzbkNucGxOdHdNRlEwdXdmckFVLXg0U25aUWJ0a2dxZk45V2t1TTdxVjdvaHh3TF93SDVVTF9ZRExHNEdCNk1jYm4xQ3VjUWxETGlHQThIYkgyQkJOMVl5dw?oc=5"
-     },
-     {
-      "press": "데일리안",
-      "title": "동급생 수개월간 성추행 중학생…法 \"부모가 1800만원 배상\"",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUzlUWHNJemh1eW56ZUxQcTR4R3kySTNWdGtkV2kwejJNblVTSWNNdlNYTWM5VzBKeFNTUnE2S2V6T0VHeUhPSXlMOU5KLUQwUDhuUERDY2F1aXo1Y0lhU0todmpMYU1nRk5UMERaRG0zT2NhckhVWHI4NEdJOTBneVRRajFzUk55RTRtbWZEQnM3OEQ1c3NsRXRVOEY4ODNRRUxwS2xLMzZFcXFNeXBObkJEenRXWjZZYWhqVGQ0Tm9pSm5EMVZzUWNOZ1JSOEhBVUY4S2lNTGdvWWRfU2hzcjR1VHpDZ2poeDlYNFZHMll5a0N5R0hNQ3o1SlFHZmtyX2pxai1nWjZxQmxYc2ZZaUpyektLbmZVdHkwbS1lTHFBTnM?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "[속보] 유해진 측 \"신변 위협·명예훼손 엄중 대응…가능한 모든 조치\"",
-   "source": "부산일보",
-   "url": "https://n.news.naver.com/article/082/0001401110",
-   "published_at": "2026-10-05T11:18:17+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "배우 유해진이 8일 서울 강남구 삼성동 코엑스 메가박스에서 열린 영화 '암살자' 시사회 및 기자간담회에서 질문에 답하고 있다. 영화 '암살자' 관련 논란이 불거지며 자택…",
-   "summary_long": "배우 유해진이 8일 서울 강남구 삼성동 코엑스 메가박스에서 열린 영화 '암살자(들)' 시사회 및 기자간담회에서 질문에 답하고 있다. 영화 '암살자(들)' 관련 논란이 불거지며 자택 앞 시위 사태까지 발생한 배우 유해진 측이 강경 대응을 예고했다. 유해진의 소속사 VAST엔터테인먼트는 5일 공식 SNS를 통해 \"배우 개인의 사생활을 침해하거나 신변을 위협하고 명예를 훼손하는 일체의 행위를 매우 엄중하게 보고 있다\"고 밝혔다.\n\n소속사는 최근 온라인 커뮤니티와 SNS 등에서 유해진을 향한 비방과 허위 사실이 무분별하게 확산하고 있으며, 악의적인 인신공격과 모욕도 이어지고 있고 관련 게시물과 자료를 지속해서 수집하고 있다면서 \"불법 행위로부터 소속 배우의 권익과 안전을 보호하기 위해 가능한 모든 조치를 취할 예정\"이라고 경고했다. 심지어 지난 4일 보수성향 단체 신자유연대와 벨라도가 서울 성북구 유해진의 자택 앞에서 집회를 열고 영화 상영 중단과 제작진·배우의 사과 등을 요구하기도 했다. 4일 서울 성북구에 있는 영화 '암살자(들)'의 주연 배우 유해진 자택 앞에서 보수단체 회원들이 제작사와 배우를 규탄하는 집회를 하고 있다.",
-   "quotes": [
-    "앞으로도 소속 배우의 권익과 안전을 침해하는 행위를 지속해서 모니터링하고, 확인되는 사안에 대해서는 필요한 대응을 이어가겠다",
-    "배우 개인의 사생활을 침해하거나 신변을 위협하고 명예를 훼손하는 일체의 행위를 매우 엄중하게 보고 있다",
-    "불법 행위로부터 소속 배우의 권익과 안전을 보호하기 위해 가능한 모든 조치를 취할 예정"
-   ],
-   "press": "부산일보",
-   "photo": "04.jpg",
-   "quoted": {
-    "quote": "앞으로도 소속 배우의 권익과 안전을 침해하는 행위를 지속해서 모니터링하고, 확인되는 사안에 대해서는 필요한 대응을 이어가겠다",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "주간경향",
-      "title": "유해진측 “신변 위협·명예훼손 엄중하게 봐···가능한 모든 조치”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iNWkxcjMzczl2RWR6Q2Rqck05alQ2OGFTWVRpb3Raa3piQndXXzFTTzNmZW56OHNtQnR1dmxYZ1dZeUhvc1BlcnRRNkpXN01WenZhUDY4blU4cUFMTVE?oc=5"
-     },
-     {
-      "press": "kyeonggi.com",
-      "title": "유해진측, “배우 신변 위협·명예훼손 강경 대응”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KR3BJeVM1MXBkV0tHS1RMc3pOQm84UmlOTW8wcmtXUXd2cHJCY3E4d2dqeFpkVVY5T0c2TDZXWVNTUDNrRjdsUnZQZ2FWZDREcnlhZGNtMkxILXM?oc=5"
-     },
-     {
-      "press": "연합뉴스",
-      "title": "유해진 측 \"신변 위협·명예훼손 엄중 대응…가능한 모든 조치\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mRUJ4Z3Bvbm9wXzJWX3F1ZXF6c0VfanBzYVo2Ulk4NXZhek9ITzF6ZkM4V3dmYl9JRHNXalQwX3JPWmxHZ2gxQ3I1Q3N5OW4yR2VkbDZDYnBRZjjSAWBBVV95cUxQSnBYXzBFbnA4TDZrbFBkcU1xZFBtd0lIc1p4Q3I4c25ScktSSFJPOFdjWHlEU0pRZjZTSFlKWEdhb2xyOWo1QVVrQlJyTUYxd2ZpYTJBRHZMRmhzX1FicW0?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "\"불매 운동에 자택 앞 집회까지\"…'암살자(들)' 유해진 측, 칼 빼들었다 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMVnhaQVYxcFZlTWlTSGlyS0ppcVZLOHI1RU54elREaHdHSUxDeTlJRkc4ME0zYk40T3NMYnNwRGx0U0JDTzBfWEhMR1ZtdTdJVGhHdmRmVDNiTHhHYmtmZlB3S0k5YWlocDhNOTFKd0N3TWwwRGEwZ9IBeEFVX3lxTFBMVnhaQVYxcFZlTWlTSGlyS0ppcVZLOHI1RU54elREaHdHSUxDeTlJRkc4ME0zYk40T3NMYnNwRGx0U0JDTzBfWEhMR1ZtdTdJVGhHdmRmVDNiTHhHYmtmZlB3S0k5YWlocDhNOTFKd0N3TWwwRGEwZw?oc=5"
-     },
-     {
-      "press": "국제신문",
-      "title": "유해진 소속사 “신변 위협·명예훼손 엄중 대응…모든 조치 취할 예정”",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWVJrckVYM2hNSXJYTVNvZ01iRW5YcFozQmlIWW9RbmlHUU96VkVMRlktaDd4eTVVQUw1MVVxUV9KWEtydFYtS0tmY29qZXh6MVpENGY2UFBfLXpfRExyb0haNXNGY1UzQm1kMk5yU1FIYzdKODFvUVlhNTJiV0xVbDVVbVo3SFRTT2pOYWRB?oc=5"
-     },
-     {
-      "press": "Chosunbiz",
-      "title": "‘암살자(들)’ 논란에 자택 앞 시위까지…유해진 측 “엄중 대응” - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXlMNVZKd1pXVlIzc3pWcW84ZWQ0eVZvUlNodDZEcWVqY3dkMThKelg5ODQ4eGlSdHIwandmTUFGOGNQOTBKQ2t6cXI2X25HSDlTbGRBOURHYUw2OWNlaEJEcVRla3FPR1hGb3BVVzNSN3E0cGxqSXM3MTFCYkRZNXB4QkZqZmFGS2lGNzJPeEhCWGtUS19Lc2xvX0FSQdIBngFBVV95cUxNMXlMNVZKd1pXVlIzc3pWcW84ZWQ0eVZvUlNodDZEcWVqY3dkMThKelg5ODQ4eGlSdHIwandmTUFGOGNQOTBKQ2t6cXI2X25HSDlTbGRBOURHYUw2OWNlaEJEcVRla3FPR1hGb3BVVzNSN3E0cGxqSXM3MTFCYkRZNXB4QkZqZmFGS2lGNzJPeEhCWGtUS19Lc2xvX0FSQQ?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "민주, 조희대 국감 출석 불응에 맹공...국힘 \"오만한 민주당\"",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002414769",
-   "published_at": "2026-10-05T01:28:31+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 488,
-   "comment_agree": 249,
-   "comment_disagree": 45,
-   "division_balance": 0.306122,
-   "division_score": 1.740911,
-   "selection": "찬반 쟁점",
-   "summary": "더불어민주당은 조희대 대법원장의 증인 불출석 의견서 제출과 관련해 국회의 정당한 견제와 검증에 예외가 있을 수 없다며, 강하게 반발했습니다. 조희대 대법원장이 사실상…",
-   "summary_long": "민주 \"조희대 국감 일반증인 불출석, 국회법 위반\" 더불어민주당은 조희대 대법원장의 증인 불출석 의견서 제출과 관련해 국회의 정당한 견제와 검증에 예외가 있을 수 없다며, 강하게 반발했습니다. 조희대 대법원장이 사실상 국회 증인 출석 요구에 응하기 어렵다는 취지의 의견서를 제출하자,.\n\n필요하면 협의 상대인 이 대통령이 증인으로 직접 나와 설명하면 될 일 아니겠느냐며, 조 대법원장의 증인 불출석은 당연하다는 입장을 밝혔습니다. [주진우 / 국민의힘 의원 : 법관 쇼핑하려고 했던 그 부분에 대해서 협의의 상대인 대법원장이 직접 증언하는 게 적절치 않다고 본 거거든요, 오히려 이 대통령이 증언석에 서면 더 유리하게 증언하지 않겠습니까?]. 조 대법원장은 지난해 국감에서도 이 대통령 공직선거법 사건 파기환송 결정 관련 증인 선서를 거부하며 90여 분 동안 침묵 속 자리를 지켰습니다.",
-   "quotes": [
-    "기관 아닌 일반 증인…인사 뒤 퇴장 관례 안 돼",
-    "조희대 국감 일반증인 불출석, 국회법 위반",
-    "민주, 대법원장 겁박 계속…오만한 태도"
-   ],
-   "press": "YTN",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "기관 아닌 일반 증인…인사 뒤 퇴장 관례 안 돼",
+    "quote": "카본 러닝화는 추진력뿐 아니라 충격 흡수와 무릎 피로도, 견인력 등 제품별 특성이 다르다",
     "n": 1,
     "verified": 0,
     "items": [
      {
-      "press": "YTN",
-      "title": "민주, 조희대 국감 출석 불응에 맹공...국힘 \"오만한 민주당\"",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ia3BLRmZrQnZhSkZvb0Fsam9uV3dqZVZ4bHRNU3hQSGMtZjI3d1d4TTViRGNFbVpCTEZoTjJxQ3d0Mnh6NXpsVC1tNmZZbmlqNDJ5QWxaSld4cEJ5RWQ3Z0NhVmxiYlBkT2dnNkZlMA?oc=5"
+      "press": "한국경제",
+      "title": "\"초보는 신지 마라\" 황영조의 경고…30만원 주고 샀다가 '낭패'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01Qng1ZkZOdXdsUVZrRWN2YzRHNmEtZWdsSVVoWTloYmhnbEhndm1EeVh2ZFBpWlEzblVobTZERndTNGYwbHFlM2dvX29hN0hkQzJDeE5laWhQUQ?oc=5"
      }
     ]
    }
   },
   {
-   "title": "'공격수' 존재감 드러낸 한동훈…국감선 '北 포로·지뢰' 정조준",
-   "source": "뉴스1",
-   "url": "https://n.news.naver.com/article/421/0009209363",
-   "published_at": "2026-10-05T05:00:00+09:00",
+   "title": "“조문객 없어도 괜찮아”…‘스몰 웨딩’ 이어 ‘스몰 엔딩’ 뜬다",
+   "source": "KBS",
+   "url": "https://n.news.naver.com/article/056/0012268445",
+   "published_at": "2026-10-06T13:39:18+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "빈소를 차리지 않고 가족끼리 조용히 고인을 보내는, 이른바 '무빈소 장례'입니다. 이 가운데 빈소를 차리지 않은 것으로 집계된 장례는 2만 5,045건으로, 전체의…",
+   "summary_long": "빈소를 차리지 않고 가족끼리 조용히 고인을 보내는, 이른바 '무빈소 장례'입니다. 이 가운데 빈소를 차리지 않은 것으로 집계된 장례는 2만 5,045건으로, 전체의 7.1%입니다. 제주에서 빈소를 차리지 않은 장례는 2021년 238건에서 2022년 276건, 2023년 265건, 2024년 273건으로 등락하다 지난해 358건으로 크게 늘었습니다.\n\n특히 서귀포의료원 장례식장에서는 지난해 치러진 장례 491건 가운데 126건, 25.7%가 빈소를 차리지 않은 장례였습니다. 결국 '제주 장례 10건 가운데 1건이 무빈소'라는 수치는 장례식장에 빈소를 설치하지 않은 규모를 보여줄 뿐, 그만큼의 유족이 자발적으로 '작은 장례'를 선택했다는 의미는 아닙니다. 김 교수는 \"'무빈소 장례'라는 말이 빈소가 없다는 점에만 초점을 맞추면서 조용히 고인을 추모하고 애도하는 장례의 의미를 제대로 담지 못한다\"고 꼬집었습니다.",
+   "quotes": [
+    "가족 또는 소수의 사람이 조용하게 모여 돌아가신 분을 추모한다는 의미로 '작은 장례식'이나 '스몰 퓨너럴(small funeral)', '가족장' 등 우리의 정서에 맞는 용어를 써야 한다",
+    "음식이나 안치비, 분향소 사용료 등이 부담돼 지출을 줄이기 위해 선택하는 경우도 있고, 핵가족의 경우 조문객이 많지 않아 차라리 조용한 장례식을 택하기도 한다",
+    "조문객 500명 규모의 일반 장례를 치르면 장례용품과 빈소, 음식, 답례품 등을 포함해 전체 비용이 1,500만~1,600만 원가량 든다"
+   ],
+   "press": "KBS",
+   "photo": "04.jpg"
+  },
+  {
+   "title": "180도 달라진 조희대...\"제2의 윤석열? 모욕적\" 반박",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002415413",
+   "published_at": "2026-10-06T18:24:43+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 541,
+   "comment_agree": 421,
+   "comment_disagree": 107,
+   "division_balance": 0.405303,
+   "division_score": 2.541651,
+   "selection": "찬반 쟁점",
+   "summary": "지난해 국정감사 땐 줄곧 입을 닫았던 조희대 대법원장, 올해는 달랐습니다. 지난해 대법원 국정감사장, 조희대 대법원장은 관례에 따라 미리 준비한 인사말만 읽은 뒤…",
+   "summary_long": "지난해 국정감사 땐 줄곧 입을 닫았던 조희대 대법원장, 올해는 달랐습니다. 12·3 비상계엄 당시 대법원이 침묵했단 의혹 등에 사실이 아니라며 조목조목 반박했고, '제2의 윤석열'이란 비판에도 입을 열었습니다. 지난해 대법원 국정감사장, 조희대 대법원장은 관례에 따라 미리 준비한 인사말만 읽은 뒤 100분 동안 침묵을 지켰습니다.\n\n올해도 일반 증인으로 채택된 조 대법원장은 인사말로 답변을 대신하는 듯했지만, 잇따르는 여당 의원들의 질의에 작심한 듯 입을 열었습니다. 조 대법원장이 비상계엄 당시 지시사항을 직접 설명한 건 이번이 처음인데, 서부지법 난동 사태 때도 대법원이 적극적으로 대응했다고 해명했습니다. [조희대 / 대법원장 : (혹시 제2의 윤석열을 꿈꾸는 겁니까?) 그런 말씀은 너무 모욕적이고 서글픈 일입니다.].",
+   "press": "YTN",
+   "photo": "05.jpg"
+  },
+  {
+   "title": "[속보] 조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\"",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002415189",
+   "published_at": "2026-10-06T12:19:00+09:00",
    "section_id": "100",
    "view_rank": 1,
-   "comment_count": 638,
-   "comment_agree": 272,
-   "comment_disagree": 32,
-   "division_balance": 0.210526,
-   "division_score": 1.204276,
+   "comment_count": 384,
+   "comment_agree": 284,
+   "comment_disagree": 68,
+   "division_balance": 0.386364,
+   "division_score": 2.26659,
    "selection": "찬반 쟁점",
-   "summary": "손승환 = 김승원 당시 법무부 장관 후보자 검증 국면에서 각종 의혹 제기를 주도하며 야권 공격수로 존재감을 드러낸 한동훈 무소속 의원이 국정감사에서도 이슈 몰이에 성공할…",
-   "summary_long": "손승환 = 김승원 당시 법무부 장관 후보자 검증 국면에서 각종 의혹 제기를 주도하며 야권 공격수로 존재감을 드러낸 한동훈 무소속 의원이 국정감사에서도 이슈 몰이에 성공할 수 있을지 주목된다. 국회 외교통일위원회 소속인 한 의원은 이제 시선을 돌려 지난달 발생한 서부전선 비무장지대(DMZ) 북한 지뢰 폭발 사건과 북한군 포로 송환 문제, 이재명 대통령의 대북송금 사건 등을 연일 겨누고 있는 만큼, 현안을 고리로 대여 공세를 이어갈 것이란 관측이 나온다. 앞서 외통위는 DMZ 지뢰 폭발 사건과 북한군 포로 송환 문제를 다루기 위해 지난달 30일 전체회의를 열었으나, 조현 외교부 장관과 정동영 통일부 장관 등 주요 정부 관계자들의 불참으로 현안질의 없이 40여 분 만에 끝났다.\n\n그는 최근 자신의 페이스북에 \"북한에 찍소리 못하고, 북한군과 싸우고 있는 우크라이나에 대해서만 으르렁대는 이재명 대통령\", \"보면 볼수록 잘한 인사라던 김승원 의원과 북한 지뢰 공격에 대해선 제대로 말도 못 하는 여당 대표가 지저분하게 뒤에서 공작이나 꾸미고 있다\" 등의 글을 연신 올리며 공세를 이어… 한 의원 측은 뉴스1에 \"이번 외통위 국감의 기준은 국민과 국익\"이라며 \"호르무즈 파병이나 우크라이나 북한군 포로 송환, DMZ 지뢰 폭발, 대미 투자 등에 대해 정부가 국익을 기준으로 책임 있게 결정하고 있는지, 그 결정을 국민께 투명하고 당당하게 설명하고 있는지 확인하겠다\"고 전했다. 다른 지도부 관계자도 \"한동훈이 잘 싸워주는 게 국민의힘에 나쁠 건 없다\"면서도 \"우리가 무소속 의원에게 기대는 것도 웃기고 그냥 계속 잘 싸우라고 보는 상황\"이라고 전했다.",
+   "summary": "조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\" 7개 언론사6,803개 기사.",
+   "summary_long": "조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\" 조희대 대법원장 \"제청에 간섭하는 건 위헌적 조치\" 이 기사는 언론사에서 정치 섹션으로 분류했습니다.\n\n7개 언론사6,803개 기사. 트럼프 \"이란, LA·샌디에이고 파괴하게 둬라\"...논란 확산.",
    "quotes": [
-    "호르무즈 파병이나 우크라이나 북한군 포로 송환, DMZ 지뢰 폭발, 대미 투자 등에 대해 정부가 국익을 기준으로 책임 있게 결정하고 있는지, 그 결정을 국민께 투명하고 당당하게 설명하고 있는지 확인하겠다",
-    "북한에는 더없이 온순한 민주당의 똥별들이 우크라이나를 쓸데없이 국내 정치용, 북한 비위 맞추기용으로 비난하는 것은 대한민국의 막대한 국익을 갉아먹는 일",
-    "보면 볼수록 잘한 인사라던 김승원 의원과 북한 지뢰 공격에 대해선 제대로 말도 못 하는 여당 대표가 지저분하게 뒤에서 공작이나 꾸미고 있다"
+    "5·18 땐 밤 12시 이후 계엄…난 국회에 시간 주려 10시",
+    "계엄 협조 안해…'위헌적 행위니 명단도 주지 말라' 지시",
+    "이란, LA·샌디에이고 파괴하게 둬라...치러야할 대가"
    ],
-   "press": "뉴스1",
+   "press": "YTN",
    "photo": "06.jpg",
    "quoted": {
-    "quote": "보면 볼수록 잘한 인사라던 김승원 의원과 북한 지뢰 공격에 대해선 제대로 말도 못 하는 여당 대표가 지저분하게 뒤에서 공작이나 꾸미고 있다",
-    "n": 8,
+    "quote": "5·18 땐 밤 12시 이후 계엄…난 국회에 시간 주려 10시",
+    "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "뉴스1",
-      "title": "'공격수' 존재감 드러낸 한동훈…국감선 '北 포로·지뢰' 정조준",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XVm1LenlxWVJNWW0xcnE0MERNNlBQby1xblhnOVRrSzB1U1VhMTcxcWZLQzBNMi1xdmVBUW9ZWTVtMmR0d29FVkpjRXh1T1FNdlJSU1BpMGhOSHNfNWlr0gFfQVVfeXFMTldWbUt6eXFZUk1ZbTFycTQwRE02UFBvLXFuWGc5VGtLMHVTVWExNzFxZktDME0yLXF2ZUFRb1lZNW0yZHR3b0VWSmNFeHVPUU12UlJTUGkwaE5Ic181aWs?oc=5"
+      "press": "한겨레",
+      "title": "마이크 잡은 윤석열 “5·18 땐 밤 12시 이후 계엄…난 국회에 시간 주려 10시”",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yUnBvVFJsSmQtU1Npa0J5TjNqMy1XQi1mQXFSZjZnejFMVHZjeHA0VmlybzlZX0Q3dDdNcDd5djJCcjFnRm9MTm00Z0J3dnhKZGRsZE8tWGo3SV91bkNnNVFia0lORHl4OWhCallhRnVpQQ?oc=5"
      },
      {
-      "press": "매일일보",
-      "title": "무소속 한동훈, 국감서 존재감 시험대…'보수 재건' 마이웨이 통할까",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QUVc1aVBYcTh5RkVXSDctdFZEWUNvYlppT3ZiXzFTOElBUXlSWVhtbWkwOHUwTFplT3V4VkhhcF9SQlktb3JWa2FSRFFGSTlXMTdUTktnNDlYc1dPLVZlSWlqX1U?oc=5"
+      "press": "한겨레",
+      "title": "카본 러닝화 7종 신어보니…충격흡수는 나이키·푸마, 가격은 스케쳐스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PdmUzVHo2Wk8wOUJCelVGTDV5QXUzM2JDYjhMUU9oeGZHVDg0ei02bFk3a2ViMHRzN0EzeHFpbzJGVHdkZGtmY05oOG52X2hZdWVaVkw2RW00YzNuYVlnVjIwZE1McFE3?oc=5"
      },
      {
-      "press": "다음뉴스",
-      "title": "김민석 수첩에 ‘한동훈 OUT’ 이어 ‘file’…韓 “정치를 좀 ‘좌아하게’”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PQlY2T2lFeks4b3pJcTh6ZkNhbWZYNTFJbVlrOHMwZnFxUWNSaGJrMWc4T0cyU29kYnhpd3pJVTdSRVFjLW5wa0VUdGJhdzg?oc=5"
+      "press": "한겨레",
+      "title": "“위고비·마운자로 팝니다”…‘비만약’ 온라인 불법 판매 등 949건 적발",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ka0lTcWoxTTV0Zm9iYXRtYmI5SWhVMmpmRGFPNWtwX2ltWEF1R3ZxcV91RDFzcEhyR01CbGEzTUlvSFRJdDNzUGdzZEN6RzBLaUlXNXRGN21rZVZCb2VTQmpaeFo4dw?oc=5"
      },
      {
-      "press": "매일신문",
-      "title": "김민석, `한동훈 file` 적힌 수첩 포착에 `메모의 자유 없어`…韓 `찌질하게 정치`",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vNUpQRlJVSlJoTi10WHgzbVQ3YzY3bWpnMzRESmJVcFBWTFA2NDViTWFZVVdoT1daQWdoWUNIdEVHaGoyakRFZU9nc20zV1hmd2dRVXlIN2NjMG1vSmdJQV9B?oc=5"
+      "press": "Daum",
+      "title": "조희대 “계엄은 위헌, 전혀 협조 안 해…‘계엄사에 명단 주지 말라’ 지시”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XdHEyZDQxYUpKSEI4dndxdGsxVlIxUzIzVlJObHFLTEtpZ0JaTzhNOTc1bDZKZW5nU3R0eHl1eDVCRkd5Z1MyTHRfdHF1M28?oc=5"
      },
      {
-      "press": "머니투데이",
-      "title": "김민석 '한동훈 file' 메모…韓 \"정치를 좀 '좌아하게' 하길\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfUXJhT29vbW8tdWVKNUoyZTNaU21PQ1d0QzY3dmpZcjhFVkJuSWpEa25pOVRSMTJLendLM1RQOG9xekZJakF0ZjlEU2JhejNQSXNRVm4zOFMyNHBKUHI3Y001OHdpWktFTTVDctIBckFVX3lxTE1ueTg4S3B0dFJXRXFIVGNXbWZCTFgyRzRPVUpIdTRtaXEtYlNBY0Zlem5EZHYzSnl1Slp4V0ZWVFpWa0xGYzVlMWRCVm1NWDNHZ2JVX1Y0R2I1QTJkZDRIV0FhUHBqOW5HbWFpWE8wNGt2dw?oc=5"
+      "press": "한겨레",
+      "title": "알시시 이집트 대통령 7~9일 국빈 방한…공급망 등 협의",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEcDV2QzVKTHdONXVRbzFyTEVNdXRkeGdaX3ctcEo0SXNxZ2JyUXh3SHhoTGNDZTJvWktzVFZjbE5qMzN1V25JbmtjdUVvZGFENUFtd3lLc0tMdUxCalViVVFnSFZFMW95cFBr?oc=5"
      },
      {
-      "press": "이데일리",
-      "title": "김민석 수첩에 또 '한동훈'...韓 \"정치 좀 '좌아하게' 하라\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2d0SlF1a0h1VGcyYjZ5VURsd3lLZHYtcVJHQkVkU0RNQUQ3ZmZkeGxPVFZ1d2NrT2VPZFlrYjNUNU1hOXVWMkQ3QUdrT2wtWXl6ajZGTGlhaEg2S2d0UFRSZXdZRVlNLXh3S19hZS1aMFQyN2MwQXU0RFpOQUVOcg?oc=5"
+      "press": "한겨레",
+      "title": "[뉴스 다이브] 조희대, 국감서 ‘선서 거부’",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WcWxDWXp0bS1OeDJnX0E0T3cwQ3pMVFUtQ2lLRm5kaFFaX25LNGtnd2dMdl9fNWRCUnN4aEczXzVrWEdRclBQUVllMV9rR3BpTmRuVEtLMHRqaTVyRERwRkZWbkx2OHlPWl92bnFUTklyUUN1?oc=5"
      }
     ]
    }
   },
   {
-   "title": "[속보] 장동혁 “李대통령, 대북송금 말고 더 있나…北에 아무 말 못하고 절절매”",
-   "source": "세계일보",
-   "url": "https://n.news.naver.com/article/022/0004164148",
-   "published_at": "2026-10-05T14:13:09+09:00",
+   "title": "조희대 \"대법관 제청에 국회·대통령 간섭은 위헌\"",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002415227",
+   "published_at": "2026-10-06T13:32:31+09:00",
    "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 182,
-   "comment_agree": 126,
-   "comment_disagree": 17,
-   "division_balance": 0.237762,
-   "division_score": 1.181634,
+   "view_rank": 2,
+   "comment_count": 323,
+   "comment_agree": 189,
+   "comment_disagree": 42,
+   "division_balance": 0.363636,
+   "division_score": 1.980632,
    "selection": "찬반 쟁점",
-   "summary": "국민의힘 장동혁 대표가 북한 지뢰 폭발 사고와 관련해 이재명 대통령을 향해 “대북송금 이상의 무언가가 있어 북한에 대해 아무 말도 못 하는 것 아니냐”는 의혹을…",
-   "summary_long": "장동혁 국민의힘 대표가 5일 국회에서 현안 관련 기자회견을 하고 있다. 국민의힘 장동혁 대표가 북한 지뢰 폭발 사고와 관련해 이재명 대통령을 향해 “대북송금 이상의 무언가가 있어 북한에 대해 아무 말도 못 하는 것 아니냐”는 의혹을 제기했다. 장 대표는 5일 국회에서 기자간담회를 열고 “이 대통령이 북한에 아무 소리 못 하고 절절매는 것이 대북송금 때문이라고 생각하지 않는다”고 말했다.\n\n이어 “대북송금 관련은 이미 법원에서 인정돼 관련자들이 유죄판결을 받았고, 검찰도 이 대통령이 그 사실을 알고 있었다고 기소했다”며 “대북송금 사건도 결국 공소취소 대상에 집어넣을 건데 그것 때문에 김정은에게 절절매고 있겠느냐”고 주장했다. 그러면서 “그 이상의 무언가가 있어 북한에 대해 아무 말 못 하고 있는 거라 생각한다”며 “북한을 대하는 태도가 지금과 같다면 국민 의심은 더욱 커질 것”이라고 덧붙였다.",
-   "quotes": [
-    "대북송금 관련은 이미 법원에서 인정돼 관련자들이 유죄판결을 받았고, 검찰도 이 대통령이 그 사실을 알고 있었다고 기소했다",
-    "대북송금 사건도 결국 공소취소 대상에 집어넣을 건데 그것 때문에 김정은에게 절절매고 있겠느냐",
-    "이 대통령이 북한에 아무 소리 못 하고 절절매는 것이 대북송금 때문이라고 생각하지 않는다"
-   ],
-   "press": "세계일보",
-   "photo": "07.jpg",
-   "quoted": {
-    "quote": "대북송금 사건도 결국 공소취소 대상에 집어넣을 건데 그것 때문에 김정은에게 절절매고 있겠느냐",
-    "n": 8,
-    "verified": 0,
-    "items": [
-     {
-      "press": "다음뉴스",
-      "title": "장동혁 “李대통령, 대북송금 말고 더 있나…北에 아무 말 못하고 절절매”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oRWZQQUU1OG0xOUFvT2VEN2owU0NnRHdpZUlvcWtGeU0yY2ZERlV6N05nM0o0eC11Wm4yaW9tYUlBVXhRTEdRLXp0cy1fSHM?oc=5"
-     },
-     {
-      "press": "강원일보",
-      "title": "장동혁 “李대통령, 대북송금 이상의 뭔가 있어 北에 아무 말 못 하고 절절매”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91SlRnei1aWnVnclFnX3R3QUhyZFc4UlBDZC1fMVNMQlZiQ3VzUHdQTTVPcW5XSklkdklIRFFEd3FnT0V1ZkRETGVEamlFbnNsbVhjVFVYMzVObGs?oc=5"
-     },
-     {
-      "press": "국제신문",
-      "title": "장동혁 “李 대통령, 대북 송금 이상의 뭔가 있나\".. 北에는 분노조절 `잘해`",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOHBnaWRGX25Fd2lzRDB5Z2Zyelhwc3I3bm9rcVJSQXdnZ01hU2dkOEdMaDFNWGdIdDBFc1VwSW16WGhlYUJFbTBXODJNdVhUSWpxbmJiZWY3Y2NvX2U3d2xIN1ZGZjNERWtncjhTajh6M0dnb3paTl9hNmJlV0gxVkZDNGpyTl9keWY0R1hINGlkZms?oc=5"
-     },
-     {
-      "press": "시사저널",
-      "title": "장동혁 “李, 대북송금 이상 뭔가 있어 北에 절절…우크라엔 분노조절 장애”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mSjVkSUF2SldFNl9aUU9BR3pyMUJDS25zVHJ2WnVDamNZNlpRWUF6c211MGstSDVXZmswRm1Mc0FnQ0psaFlNTk5TazFEUFh4cUVuM0hOUU8xWndpVGVLZ2NkVjVOWmZDRVZoSWtfQdIBc0FVX3lxTFBMcUxFUWJvbVFvXzFKaDcwNTR4d0NEVkpuMExnVkRkaXcyTmpMVG1TZ1F4eVpqM3BwcmROaVhkS1FiZVN1ZXluWXdkZmlGVnlkUW9kaE5tUU9NWUhNT2dXY0tGUWUzTFllcmR5QUgxWVlFdXM?oc=5"
-     },
-     {
-      "press": "강원도민일보",
-      "title": "장동혁, 북한 지뢰 폭발 대응 촉구…“이 대통령, 사과 요구해야”",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95MEZWMURyaHZuNy1ScXZhS29ZZ1JCbTc2dExSRTUtU0FjSk1hcmthc2t3UVhUdV9hbkdFa3o1MEtIdWdxd29BYUhneEVZeW0zMmxWQ29xc29aNV9Cd0V2bnliTmF2blFX?oc=5"
-     },
-     {
-      "press": "네이트",
-      "title": "장동혁 \"李대통령, 北에 사과 요구해야…대북송금 이상의 약점 있나\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pdTZISkl3YWNJT0Z0eG04cVpsUUVHWFlfQUFGWnppU1dVUmk3WlpHaXBTVFhiMGlyQWUweTEtSExsa2Q0MDVuZ19JaWNUMi0wMk9R?oc=5"
-     }
-    ]
-   }
+   "summary": "국정감사에 출석한 조희대 대법원장이 '대법관 재제청 논란' 관련 질의에, 대법원장의 제청권에 대통령과 국회가 간섭하는 건 위헌이라고 말했습니다. 조희대 대법원장이 대법관…",
+   "summary_long": "조희대, 계엄 협조 의혹에 \"전혀 협조한 적 없어\" 국정감사에 출석한 조희대 대법원장이 '대법관 재제청 논란' 관련 질의에, 대법원장의 제청권에 대통령과 국회가 간섭하는 건 위헌이라고 말했습니다. 그간 대법관 임명을 두고 협의해온 건 헌법에 근거가 없지만 대법원장이 자진해서 한 거라며, 자신은 헌법상 권한과 의무를 다했다고 주장했습니다.\n\n네, 국회 법제사법위원회 국정감사에 출석한 조희대 대법원장은 민주당 의원들의 집중 질문 공세를 받았는데요. 대법원장이 국회 동의나 대통령의 임명에 관여할 수 없듯, 국회와 대통령도 대법원장의 제청권에 전혀 관여할 수 없다고 주장했습니다. 국회 법사위가 대법원장의 제청에 간섭하는 건 헌법이 명문으로 정한 기관 간 권한 분배와 사법권 독립에 반한다며, 위헌이라고 목소리를 높였습니다.",
+   "press": "YTN",
+   "photo": "07.jpg"
   }
  ],
  "cards": [
@@ -373,139 +251,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/01.png",
-   "pngBytes": 2225382,
-   "feed": "오늘의 뉴스 2026-10-06\n\n· 금메달 뒤 \"군대 안 갑니다\" 논란‥여야 \"병역특례 손봐야\"\n· \"어디서 함부로 盧 들먹여\" 김어준에 한동훈 \"거만한 X꼰대 소리\"\n· 학교서 수개월간 성추행한 중학생…\"부모가 1천800여만원 배상\"\n· [속보] 유해진 측 \"신변 위협·명예훼손 엄중 대응…가능한 모든 조치\"\n· 민주, 조희대 국감 출석 불응에 맹공...국힘 \"오만한 민주당\"\n· '공격수' 존재감 드러낸 한동훈…국감선 '北 포로·지뢰' 정조준\n· [속보] 장동혁 “李대통령, 대북송금 말고 더 있나…北에 아무 말 못하고 절절매”"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/01.png",
+   "pngBytes": 1476810,
+   "feed": "오늘의 뉴스 2026-10-07\n\n· \"北에는 찍소리도 못 하면서\" 한동훈에 \"답변 거부\"한다는 조현... 국감장 정면 충돌\n· 조희대 국감 출석 \"증인선서·증언거부\" 서영교 이석 불허… \"체포·감금하냐\"\n· \"초보는 신지 마라\" 황영조의 경고…30만원 주고 샀다가 '낭패'\n· “조문객 없어도 괜찮아”…‘스몰 웨딩’ 이어 ‘스몰 엔딩’ 뜬다\n· 180도 달라진 조희대...\"제2의 윤석열? 모욕적\" 반박\n· [속보] 조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\"\n· 조희대 \"대법관 제청에 국회·대통령 간섭은 위헌\""
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/02.png",
-   "pngBytes": 2211815,
-   "title": "금메달 뒤 \"군대 안 갑니다\" 논란‥여야 \"병역특례 손봐야\"",
-   "summary": "아이치·나고야 아시안게임에서 금메달을 딴 남자 축구대표팀 일부 선수들의 병역 관련 발언을 계기로, 정치권에서 예술·체육요원 병역특례 제도를 재검토해야 한다는 목소리가…",
-   "summary_long": "아이치·나고야 아시안게임에서 금메달을 딴 남자 축구대표팀 일부 선수들의 병역 관련 발언을 계기로, 정치권에서 예술·체육요원 병역특례 제도를 재검토해야 한다는 목소리가 잇따르고 있습니다. 박성훈 국민의힘 수석대변인은 오늘 논평을 통해 \"현행 예술·체육요원 제도가 시대와 국민의 상식에 부합하는지 성역 없이 다시 따져야 한다\"고 지적했습니다. 그는 \"병역의무를 묵묵히 이행하는 청년들이 납득할 수 없는 특례라면 '국위선양'이라는 네 글자만으로 계속 정당화하기 어렵다\"면서 \"국가대표 가슴에 가장 먼저 새겨져야 할 것은 '군 면제'가 아니라 '대한민국'\"이라고 덧붙였습니다.\n\n안철수 국민의힘 의원도 페이스북에 \"군대가 혐오시설이냐, 사람이 못 갈 곳이냐, 매년 입대하는 수많은 청년은 모두 호구냐\"면서 \"국가대표로서 태극마크를 달고 뛰는 선수들의 의식이 이 정도라니 너무나 참담하다\"고 지적했습니다. 국위선양이라는 명분만으로 국민을 설득할 수 없다\"며 \"이제 체육·예술 병역특례, 재검토가 필요하다\"고 주장했습니다. 김병주 더불어민주당 의원도 어제 MBN '시사 스페셜'에 출연해 특례 제도가 도입된 1973년과 달리 지금 병력 자원이 줄고 있는 점, 국위선양은 반도체나 BTS 등 모든 분야에서 이뤄진다는 점, 병역 기간도 18개월로 단축됐다는 점 등을 이유로 제도 재정비가 필요하다고 강조했습니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001527194",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/02.png",
+   "pngBytes": 1488446,
+   "title": "\"北에는 찍소리도 못 하면서\" 한동훈에 \"답변 거부\"한다는 조현... 국감장 정면 충돌",
+   "summary": "조현 외교부 장관이 6일 서울 여의도 국회에서 열린 외교통일위원회 국정감사에서 업무보고를 하고 있다. 조현 외교부 장관과 한동훈 무소속 의원이 6일 열린 국회…",
+   "summary_long": "한동훈 \"장관이 가르치는 게 맞나\" 조현 외교부 장관이 6일 서울 여의도 국회에서 열린 외교통일위원회 국정감사에서 업무보고를 하고 있다. 조현 외교부 장관과 한동훈 무소속 의원이 6일 열린 국회 국정감사장에서 설전을 벌였다.\n\n한 의원은 이날 국회에서 열린 외교부 대상 국감에서 최근 이재명 대통령이 북한군 2명의 포로 송환을 일방적으로 공개한 우크라이나를 공개 비판하고 이에 대한 사과를 요구한 것과 관련, \"(북한의) 김여정에게는 찍소리도 못 하면서 우크라이나에 대해선 쥐 잡듯 하냐, 우크라이나가 주적이냐, 북한이 주적이냐\"… 이에 조 장관은 \"한 의원이 '쥐 잡듯'이라는 표현을 쓰시는 한 질문에 대한 답변을 거부하겠다\"고 답했다. 한 의원은 \"우크라이나에 강단 있게 하는 만큼 왜 북한에는 강단 있게 하지 않느냐\"고 재차 따졌고 조 장관은 \"한 의원님의 기대만큼은 못 미쳤을지 몰라도 북한에 필요한 만큼 강단 있는 대응을 하는 것은 당연하다\"고 맞받았다.",
+   "press": "한국일보",
+   "source": "한국일보",
+   "link": "https://n.news.naver.com/article/469/0000957896",
    "selection": "정치",
-   "feed": "뉴스 01. 금메달 뒤 \"군대 안 갑니다\" 논란‥여야 \"병역특례 손봐야\"\n\n아이치·나고야 아시안게임에서 금메달을 딴 남자 축구대표팀 일부 선수들의 병역 관련 발언을 계기로, 정치권에서 예술·체육요원 병역특례 제도를 재검토해야 한다는 목소리가 잇따르고 있습니다. 박성훈 국민의힘 수석대변인은 오늘 논평을 통해 \"현행 예술·체육요원 제도가 시대와 국민의 상식에 부합하는지 성역 없이 다시 따져야 한다\"고 지적했습니다. 그는 \"병역의무를 묵묵히 이행하는 청년들이 납득할 수 없는 특례라면 '국위선양'이라는 네 글자만으로 계속 정당화하기 어렵다\"면서 \"국가대표 가슴에 가장 먼저 새겨져야 할 것은 '군 면제'가 아니라 '대한민국'\"이라고 덧붙였습니다.\n\n안철수 국민의힘 의원도 페이스북에 \"군대가 혐오시설이냐, 사람이 못 갈 곳이냐, 매년 입대하는 수많은 청년은 모두 호구냐\"면서 \"국가대표로서 태극마크를 달고 뛰는 선수들의 의식이 이 정도라니 너무나 참담하다\"고 지적했습니다. 국위선양이라는 명분만으로 국민을 설득할 수 없다\"며 \"이제 체육·예술 병역특례, 재검토가 필요하다\"고 주장했습니다. 김병주 더불어민주당 의원도 어제 MBN '시사 스페셜'에 출연해 특례 제도가 도입된 1973년과 달리 지금 병력 자원이 줄고 있는 점, 국위선양은 반도체나 BTS 등 모든 분야에서 이뤄진다는 점, 병역 기간도 18개월로 단축됐다는 점 등을 이유로 제도 재정비가 필요하다고 강조했습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001527194"
+   "feed": "뉴스 01. \"北에는 찍소리도 못 하면서\" 한동훈에 \"답변 거부\"한다는 조현... 국감장 정면 충돌\n\n한동훈 \"장관이 가르치는 게 맞나\" 조현 외교부 장관이 6일 서울 여의도 국회에서 열린 외교통일위원회 국정감사에서 업무보고를 하고 있다. 조현 외교부 장관과 한동훈 무소속 의원이 6일 열린 국회 국정감사장에서 설전을 벌였다.\n\n한 의원은 이날 국회에서 열린 외교부 대상 국감에서 최근 이재명 대통령이 북한군 2명의 포로 송환을 일방적으로 공개한 우크라이나를 공개 비판하고 이에 대한 사과를 요구한 것과 관련, \"(북한의) 김여정에게는 찍소리도 못 하면서 우크라이나에 대해선 쥐 잡듯 하냐, 우크라이나가 주적이냐, 북한이 주적이냐\"… 이에 조 장관은 \"한 의원이 '쥐 잡듯'이라는 표현을 쓰시는 한 질문에 대한 답변을 거부하겠다\"고 답했다. 한 의원은 \"우크라이나에 강단 있게 하는 만큼 왜 북한에는 강단 있게 하지 않느냐\"고 재차 따졌고 조 장관은 \"한 의원님의 기대만큼은 못 미쳤을지 몰라도 북한에 필요한 만큼 강단 있는 대응을 하는 것은 당연하다\"고 맞받았다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000957896"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/03.png",
-   "pngBytes": 2015408,
-   "title": "\"어디서 함부로 盧 들먹여\" 김어준에 한동훈 \"거만한 X꼰대 소리\"",
-   "summary": "고 노무현 전 대통령의 금품수수 의혹을 ‘팩트’라고 주장한 뒤 연일 더불어민주당과 공방을 벌이고 있는 한동훈 무소속 의원은 방송인 김어준 씨가 “어디서 함부로 노무현을…",
-   "summary_long": "고(故) 노무현 전 대통령의 금품수수 의혹을 ‘팩트’라고 주장한 뒤 연일 더불어민주당과 공방을 벌이고 있는 한동훈 무소속 의원은 방송인 김어준 씨가 “어디서 함부로 노무현을 들먹이느냐”고 하자 “팩트로 얘기하라”고 맞받았다. 한동훈 무소속 의원(왼쪽), 방송인 김어준 씨 한 의원은 5일 SNS에 김 씨를 향해 “거만한 X꼰대 소리 집어치우라”며 이 같은 반응을 보였다. 김 씨는 이날 유튜브 ‘김어준의 겸손은힘들다 뉴스공장’에서 한 의원이 최근 노 전 대통령 금품수수 의혹을 거론한 데 대해 “진보 진영에서 박정희 전 대통령이 출발이라고 보고 비판하는 것처럼 한동훈은 노무현 대통령을 키워드로 잡은 거다.\n\n지금까지 보수에선 노 전 대통령의 죽음 자체는 보수, 검찰이 괴롭혀서, 이게 너무나 명백해서 인간적으로 건드리지 않았다”라고 주장했다. 한 의원과 최근 SNS 상 설전을 벌인 윤건영 더불어민주당 의원도 이날 방송에서 “노림수”라고 비판했다. 윤 의원은 “한동훈이 왜 10월 2일 이런 무리수를 던지나 혼자 생각을 해 봤더니, 검찰 부활의 기초 공사”라며 “왜냐하면 노 전 대통령으로부터 검찰 개혁을 시작했다.",
-   "press": "이데일리",
-   "source": "이데일리",
-   "link": "https://n.news.naver.com/article/018/0006381104",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/03.png",
+   "pngBytes": 1930115,
+   "title": "조희대 국감 출석 \"증인선서·증언거부\" 서영교 이석 불허… \"체포·감금하냐\"",
+   "summary": "▲조희대 대법원장이 2026년 10월6일 국회 법사위 소관 대법원 국정감사에서 인사말하고 있다. 조희대 대법원장은 6일 국회 법사위 소관 대법원 법원행정처 국감…",
+   "summary_long": "사진=국회방송 영상 갈무리조희대 대법원장이 국회 법제사법위원회 대법원 국정감사에 출석했으나 증인 선서와 증언을 거부하겠다고 밝히자 서영교 법사위원장이 이석을 허가하지 않아 야당이 반발하는 등 초반부터 충돌했다. 조희대 대법원장은 6일 국회 법사위 소관 대법원 법원행정처 국감 인사말에서 자신의 증인 출석 요구를 두고 \"헌법의 취지에 비추어 법원장의 대법관 제청에 관하여 증언하도록 요구하는 것은 삼권분립과 사법 독립의 원칙을 훼손할 염려가 있다\"라며 \"이번 국정감사에서도 법관 제청에 관한 증언을 요구하고 있어 응… 증인 선서를 하지 않으시겠다는 것이냐\"라고 질의하자 조 대법원장은 \"인사말에서 말씀드린 대로 선서나 증언은 할 수 없음을 말씀드린다\"라고 거듭 답했다.\n\n국회 법사위 야당 간사인 박형수 국민의힘 의원은 \"지금까지 대법원장은 수십 년 동안 인사말을 하고 이석한 뒤 국감이 마무리될 때 인사말씀하는 게 관례였다. 박 간사는 또 \"대법관에 대한 제청은 대법원장 이미 했는데, 청와대가 대통령이 제재청 요구를 했기 때문 아니냐. 국회 법사위 여당 간사인 김의겸 더불어민주당 의원은 \"대법원장부터 관례를 깨기 시작한 것\"이라며 \"이승만 대통령 이후 지금까지 계속 대법원장의 제청 문제, 대법관의 제청 문제는 청와대와 대법원장이 서로 협의하고 합의해서 올라왔다.",
+   "press": "미디어오늘",
+   "source": "미디어오늘",
+   "link": "https://n.news.naver.com/article/006/0000138072",
    "selection": "정치",
-   "feed": "뉴스 02. \"어디서 함부로 盧 들먹여\" 김어준에 한동훈 \"거만한 X꼰대 소리\"\n\n고(故) 노무현 전 대통령의 금품수수 의혹을 ‘팩트’라고 주장한 뒤 연일 더불어민주당과 공방을 벌이고 있는 한동훈 무소속 의원은 방송인 김어준 씨가 “어디서 함부로 노무현을 들먹이느냐”고 하자 “팩트로 얘기하라”고 맞받았다. 한동훈 무소속 의원(왼쪽), 방송인 김어준 씨 한 의원은 5일 SNS에 김 씨를 향해 “거만한 X꼰대 소리 집어치우라”며 이 같은 반응을 보였다. 김 씨는 이날 유튜브 ‘김어준의 겸손은힘들다 뉴스공장’에서 한 의원이 최근 노 전 대통령 금품수수 의혹을 거론한 데 대해 “진보 진영에서 박정희 전 대통령이 출발이라고 보고 비판하는 것처럼 한동훈은 노무현 대통령을 키워드로 잡은 거다.\n\n지금까지 보수에선 노 전 대통령의 죽음 자체는 보수, 검찰이 괴롭혀서, 이게 너무나 명백해서 인간적으로 건드리지 않았다”라고 주장했다. 한 의원과 최근 SNS 상 설전을 벌인 윤건영 더불어민주당 의원도 이날 방송에서 “노림수”라고 비판했다. 윤 의원은 “한동훈이 왜 10월 2일 이런 무리수를 던지나 혼자 생각을 해 봤더니, 검찰 부활의 기초 공사”라며 “왜냐하면 노 전 대통령으로부터 검찰 개혁을 시작했다.\n\n출처: 이데일리 / https://n.news.naver.com/article/018/0006381104"
+   "feed": "뉴스 02. 조희대 국감 출석 \"증인선서·증언거부\" 서영교 이석 불허… \"체포·감금하냐\"\n\n사진=국회방송 영상 갈무리조희대 대법원장이 국회 법제사법위원회 대법원 국정감사에 출석했으나 증인 선서와 증언을 거부하겠다고 밝히자 서영교 법사위원장이 이석을 허가하지 않아 야당이 반발하는 등 초반부터 충돌했다. 조희대 대법원장은 6일 국회 법사위 소관 대법원 법원행정처 국감 인사말에서 자신의 증인 출석 요구를 두고 \"헌법의 취지에 비추어 법원장의 대법관 제청에 관하여 증언하도록 요구하는 것은 삼권분립과 사법 독립의 원칙을 훼손할 염려가 있다\"라며 \"이번 국정감사에서도 법관 제청에 관한 증언을 요구하고 있어 응… 증인 선서를 하지 않으시겠다는 것이냐\"라고 질의하자 조 대법원장은 \"인사말에서 말씀드린 대로 선서나 증언은 할 수 없음을 말씀드린다\"라고 거듭 답했다.\n\n국회 법사위 야당 간사인 박형수 국민의힘 의원은 \"지금까지 대법원장은 수십 년 동안 인사말을 하고 이석한 뒤 국감이 마무리될 때 인사말씀하는 게 관례였다. 박 간사는 또 \"대법관에 대한 제청은 대법원장 이미 했는데, 청와대가 대통령이 제재청 요구를 했기 때문 아니냐. 국회 법사위 여당 간사인 김의겸 더불어민주당 의원은 \"대법원장부터 관례를 깨기 시작한 것\"이라며 \"이승만 대통령 이후 지금까지 계속 대법원장의 제청 문제, 대법관의 제청 문제는 청와대와 대법원장이 서로 협의하고 합의해서 올라왔다.\n\n출처: 미디어오늘 / https://n.news.naver.com/article/006/0000138072"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/04.png",
-   "pngBytes": 2373167,
-   "title": "학교서 수개월간 성추행한 중학생…\"부모가 1천800여만원 배상\"",
-   "summary": "같은 반 여학생을 수개월간 교실 등에서 강제로 추행하고 성희롱한 중학생을 대신해 부모가 피해 학생에게 1천800여만원을 배상하라는 법원 판결이 나왔다. 5일 법조계에…",
-   "summary_long": "같은 반 여학생을 수개월간 교실 등에서 강제로 추행하고 성희롱한 중학생을 대신해 부모가 피해 학생에게 1천800여만원을 배상하라는 법원 판결이 나왔다. 5일 법조계에 따르면 청주지법 민사6단독 이주현 부장판사는 피해 학생이 가해 학생 A군의 부모를 상대로 낸 3천500만원 손해배상 청구 소송에서 \"피고들은 원고에게 1천800여만원을 배상하라\"고 원고 일부 승소 판결했다. 중학생 A군은 지난해 3∼5월 같은 반 B양에게 사회관계망서비스(SNS)를 통해 \"신체 부위를 만지고 싶다\", \"성노예를 하라\"는 등의 성적 메시지를 보냈다.\n\n또 이 기간 교실과 복도 등에서 B양의 신체 부위를 여러 차례 강제로 만졌다. 이 부장판사는 \"피고들은 A군에 대한 올바른 성교육을 포함해 일상적인 지도 및 조언을 계속 해야 할 보호·감독 의무가 있음에도 이를 게을리한 잘못이 있다\"며 \"이러한 과실이 불법행위의 원인이 됐으므로 피고들은 불법행위자로서 원고가 입은 손해를 배상할 책임이 있다\"고 판시했다. 이어 \"이 사건에 이르게 된 경위와 전후 사정, 성적 메시지의 내용 및 강제추행이 이뤄진 방식 등 여러 사정을 종합하면 위자료는 1천200만원으로 정하는 것이 적정하다\"며 \"피고들은 여기에 B양의 정신과 치료비 670여만원까지 배상하라\"고 명령했다.",
-   "press": "연합뉴스",
-   "source": "연합뉴스",
-   "link": "https://n.news.naver.com/article/001/0016357396",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/04.png",
+   "pngBytes": 2127011,
+   "title": "\"초보는 신지 마라\" 황영조의 경고…30만원 주고 샀다가 '낭패'",
+   "summary": "최근 러닝 인구가 급증하며 카본 러닝화가 인기를 끌고 있지만 제품별로 충격 흡수와 안정성, 무릎 피로도 등에 차이가 큰 것으로 나타났다. 소비자원은 “카본 러닝화는…",
+   "summary_long": "러닝 입문한 지 5개월 차인 30대 직장인 최모씨는 최근 30만원대 카본 러닝화를 처음 샀다가 신고 달리던 중 발목을 접질렸다. 최근 러닝 인구가 급증하며 카본 러닝화가 인기를 끌고 있지만 제품별로 충격 흡수와 안정성, 무릎 피로도 등에 차이가 큰 것으로 나타났다. 6일 한국소비자원은 소비자 사용 경험이 많은 카본 러닝화 7개 브랜드 7종을 대상으로 기능성과 내구성, 안전성, 가격 등을 시험·평가한 결과를 공개했다.\n\n소비자원이 성인 남성 30명을 대상으로 러닝 때 나타나는 생체역학적 특성을 측정한 결과 추진력은 시험 대상 7개 제품 모두 우수했다. 뉴발란스 ‘SC 트레이너 V3’, 스케쳐스 ‘에어로 스파크’, 아식스 ‘매직스피드5’, 푸마 디비에이트 나이트로4, 호카 스카이워드X 등 5개 제품이 상대적으로 피로도가 적은 것으로 평가됐다. 소비자원은 “카본 러닝화는 추진력뿐 아니라 충격 흡수와 무릎 피로도, 견인력 등 제품별 특성이 다르다”며 “러닝 목적과 자신의 신체 특성에 맞는 제품을 선택할 필요가 있다”고 설명했다.",
+   "press": "한국경제",
+   "source": "한국경제",
+   "link": "https://n.news.naver.com/article/015/0005339497",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 학교서 수개월간 성추행한 중학생…\"부모가 1천800여만원 배상\"\n\n같은 반 여학생을 수개월간 교실 등에서 강제로 추행하고 성희롱한 중학생을 대신해 부모가 피해 학생에게 1천800여만원을 배상하라는 법원 판결이 나왔다. 5일 법조계에 따르면 청주지법 민사6단독 이주현 부장판사는 피해 학생이 가해 학생 A군의 부모를 상대로 낸 3천500만원 손해배상 청구 소송에서 \"피고들은 원고에게 1천800여만원을 배상하라\"고 원고 일부 승소 판결했다. 중학생 A군은 지난해 3∼5월 같은 반 B양에게 사회관계망서비스(SNS)를 통해 \"신체 부위를 만지고 싶다\", \"성노예를 하라\"는 등의 성적 메시지를 보냈다.\n\n또 이 기간 교실과 복도 등에서 B양의 신체 부위를 여러 차례 강제로 만졌다. 이 부장판사는 \"피고들은 A군에 대한 올바른 성교육을 포함해 일상적인 지도 및 조언을 계속 해야 할 보호·감독 의무가 있음에도 이를 게을리한 잘못이 있다\"며 \"이러한 과실이 불법행위의 원인이 됐으므로 피고들은 불법행위자로서 원고가 입은 손해를 배상할 책임이 있다\"고 판시했다. 이어 \"이 사건에 이르게 된 경위와 전후 사정, 성적 메시지의 내용 및 강제추행이 이뤄진 방식 등 여러 사정을 종합하면 위자료는 1천200만원으로 정하는 것이 적정하다\"며 \"피고들은 여기에 B양의 정신과 치료비 670여만원까지 배상하라\"고 명령했다.\n\n출처: 연합뉴스 / https://n.news.naver.com/article/001/0016357396"
+   "feed": "뉴스 03. \"초보는 신지 마라\" 황영조의 경고…30만원 주고 샀다가 '낭패'\n\n러닝 입문한 지 5개월 차인 30대 직장인 최모씨는 최근 30만원대 카본 러닝화를 처음 샀다가 신고 달리던 중 발목을 접질렸다. 최근 러닝 인구가 급증하며 카본 러닝화가 인기를 끌고 있지만 제품별로 충격 흡수와 안정성, 무릎 피로도 등에 차이가 큰 것으로 나타났다. 6일 한국소비자원은 소비자 사용 경험이 많은 카본 러닝화 7개 브랜드 7종을 대상으로 기능성과 내구성, 안전성, 가격 등을 시험·평가한 결과를 공개했다.\n\n소비자원이 성인 남성 30명을 대상으로 러닝 때 나타나는 생체역학적 특성을 측정한 결과 추진력은 시험 대상 7개 제품 모두 우수했다. 뉴발란스 ‘SC 트레이너 V3’, 스케쳐스 ‘에어로 스파크’, 아식스 ‘매직스피드5’, 푸마 디비에이트 나이트로4, 호카 스카이워드X 등 5개 제품이 상대적으로 피로도가 적은 것으로 평가됐다. 소비자원은 “카본 러닝화는 추진력뿐 아니라 충격 흡수와 무릎 피로도, 견인력 등 제품별 특성이 다르다”며 “러닝 목적과 자신의 신체 특성에 맞는 제품을 선택할 필요가 있다”고 설명했다.\n\n출처: 한국경제 / https://n.news.naver.com/article/015/0005339497"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/05.png",
-   "pngBytes": 1548675,
-   "title": "[속보] 유해진 측 \"신변 위협·명예훼손 엄중 대응…가능한 모든 조치\"",
-   "summary": "배우 유해진이 8일 서울 강남구 삼성동 코엑스 메가박스에서 열린 영화 '암살자' 시사회 및 기자간담회에서 질문에 답하고 있다. 영화 '암살자' 관련 논란이 불거지며 자택…",
-   "summary_long": "배우 유해진이 8일 서울 강남구 삼성동 코엑스 메가박스에서 열린 영화 '암살자(들)' 시사회 및 기자간담회에서 질문에 답하고 있다. 영화 '암살자(들)' 관련 논란이 불거지며 자택 앞 시위 사태까지 발생한 배우 유해진 측이 강경 대응을 예고했다. 유해진의 소속사 VAST엔터테인먼트는 5일 공식 SNS를 통해 \"배우 개인의 사생활을 침해하거나 신변을 위협하고 명예를 훼손하는 일체의 행위를 매우 엄중하게 보고 있다\"고 밝혔다.\n\n소속사는 최근 온라인 커뮤니티와 SNS 등에서 유해진을 향한 비방과 허위 사실이 무분별하게 확산하고 있으며, 악의적인 인신공격과 모욕도 이어지고 있고 관련 게시물과 자료를 지속해서 수집하고 있다면서 \"불법 행위로부터 소속 배우의 권익과 안전을 보호하기 위해 가능한 모든 조치를 취할 예정\"이라고 경고했다. 심지어 지난 4일 보수성향 단체 신자유연대와 벨라도가 서울 성북구 유해진의 자택 앞에서 집회를 열고 영화 상영 중단과 제작진·배우의 사과 등을 요구하기도 했다. 4일 서울 성북구에 있는 영화 '암살자(들)'의 주연 배우 유해진 자택 앞에서 보수단체 회원들이 제작사와 배우를 규탄하는 집회를 하고 있다.",
-   "press": "부산일보",
-   "source": "부산일보",
-   "link": "https://n.news.naver.com/article/082/0001401110",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/05.png",
+   "pngBytes": 1776092,
+   "title": "“조문객 없어도 괜찮아”…‘스몰 웨딩’ 이어 ‘스몰 엔딩’ 뜬다",
+   "summary": "빈소를 차리지 않고 가족끼리 조용히 고인을 보내는, 이른바 '무빈소 장례'입니다. 이 가운데 빈소를 차리지 않은 것으로 집계된 장례는 2만 5,045건으로, 전체의…",
+   "summary_long": "빈소를 차리지 않고 가족끼리 조용히 고인을 보내는, 이른바 '무빈소 장례'입니다. 이 가운데 빈소를 차리지 않은 것으로 집계된 장례는 2만 5,045건으로, 전체의 7.1%입니다. 제주에서 빈소를 차리지 않은 장례는 2021년 238건에서 2022년 276건, 2023년 265건, 2024년 273건으로 등락하다 지난해 358건으로 크게 늘었습니다.\n\n특히 서귀포의료원 장례식장에서는 지난해 치러진 장례 491건 가운데 126건, 25.7%가 빈소를 차리지 않은 장례였습니다. 결국 '제주 장례 10건 가운데 1건이 무빈소'라는 수치는 장례식장에 빈소를 설치하지 않은 규모를 보여줄 뿐, 그만큼의 유족이 자발적으로 '작은 장례'를 선택했다는 의미는 아닙니다. 김 교수는 \"'무빈소 장례'라는 말이 빈소가 없다는 점에만 초점을 맞추면서 조용히 고인을 추모하고 애도하는 장례의 의미를 제대로 담지 못한다\"고 꼬집었습니다.",
+   "press": "KBS",
+   "source": "KBS",
+   "link": "https://n.news.naver.com/article/056/0012268445",
    "selection": "경제·시사",
-   "feed": "뉴스 04. [속보] 유해진 측 \"신변 위협·명예훼손 엄중 대응…가능한 모든 조치\"\n\n배우 유해진이 8일 서울 강남구 삼성동 코엑스 메가박스에서 열린 영화 '암살자(들)' 시사회 및 기자간담회에서 질문에 답하고 있다. 영화 '암살자(들)' 관련 논란이 불거지며 자택 앞 시위 사태까지 발생한 배우 유해진 측이 강경 대응을 예고했다. 유해진의 소속사 VAST엔터테인먼트는 5일 공식 SNS를 통해 \"배우 개인의 사생활을 침해하거나 신변을 위협하고 명예를 훼손하는 일체의 행위를 매우 엄중하게 보고 있다\"고 밝혔다.\n\n소속사는 최근 온라인 커뮤니티와 SNS 등에서 유해진을 향한 비방과 허위 사실이 무분별하게 확산하고 있으며, 악의적인 인신공격과 모욕도 이어지고 있고 관련 게시물과 자료를 지속해서 수집하고 있다면서 \"불법 행위로부터 소속 배우의 권익과 안전을 보호하기 위해 가능한 모든 조치를 취할 예정\"이라고 경고했다. 심지어 지난 4일 보수성향 단체 신자유연대와 벨라도가 서울 성북구 유해진의 자택 앞에서 집회를 열고 영화 상영 중단과 제작진·배우의 사과 등을 요구하기도 했다. 4일 서울 성북구에 있는 영화 '암살자(들)'의 주연 배우 유해진 자택 앞에서 보수단체 회원들이 제작사와 배우를 규탄하는 집회를 하고 있다.\n\n출처: 부산일보 / https://n.news.naver.com/article/082/0001401110"
+   "feed": "뉴스 04. “조문객 없어도 괜찮아”…‘스몰 웨딩’ 이어 ‘스몰 엔딩’ 뜬다\n\n빈소를 차리지 않고 가족끼리 조용히 고인을 보내는, 이른바 '무빈소 장례'입니다. 이 가운데 빈소를 차리지 않은 것으로 집계된 장례는 2만 5,045건으로, 전체의 7.1%입니다. 제주에서 빈소를 차리지 않은 장례는 2021년 238건에서 2022년 276건, 2023년 265건, 2024년 273건으로 등락하다 지난해 358건으로 크게 늘었습니다.\n\n특히 서귀포의료원 장례식장에서는 지난해 치러진 장례 491건 가운데 126건, 25.7%가 빈소를 차리지 않은 장례였습니다. 결국 '제주 장례 10건 가운데 1건이 무빈소'라는 수치는 장례식장에 빈소를 설치하지 않은 규모를 보여줄 뿐, 그만큼의 유족이 자발적으로 '작은 장례'를 선택했다는 의미는 아닙니다. 김 교수는 \"'무빈소 장례'라는 말이 빈소가 없다는 점에만 초점을 맞추면서 조용히 고인을 추모하고 애도하는 장례의 의미를 제대로 담지 못한다\"고 꼬집었습니다.\n\n출처: KBS / https://n.news.naver.com/article/056/0012268445"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/06.png",
-   "pngBytes": 1745590,
-   "title": "민주, 조희대 국감 출석 불응에 맹공...국힘 \"오만한 민주당\"",
-   "summary": "더불어민주당은 조희대 대법원장의 증인 불출석 의견서 제출과 관련해 국회의 정당한 견제와 검증에 예외가 있을 수 없다며, 강하게 반발했습니다. 조희대 대법원장이 사실상…",
-   "summary_long": "민주 \"조희대 국감 일반증인 불출석, 국회법 위반\" 더불어민주당은 조희대 대법원장의 증인 불출석 의견서 제출과 관련해 국회의 정당한 견제와 검증에 예외가 있을 수 없다며, 강하게 반발했습니다. 조희대 대법원장이 사실상 국회 증인 출석 요구에 응하기 어렵다는 취지의 의견서를 제출하자,.\n\n필요하면 협의 상대인 이 대통령이 증인으로 직접 나와 설명하면 될 일 아니겠느냐며, 조 대법원장의 증인 불출석은 당연하다는 입장을 밝혔습니다. [주진우 / 국민의힘 의원 : 법관 쇼핑하려고 했던 그 부분에 대해서 협의의 상대인 대법원장이 직접 증언하는 게 적절치 않다고 본 거거든요, 오히려 이 대통령이 증언석에 서면 더 유리하게 증언하지 않겠습니까?]. 조 대법원장은 지난해 국감에서도 이 대통령 공직선거법 사건 파기환송 결정 관련 증인 선서를 거부하며 90여 분 동안 침묵 속 자리를 지켰습니다.",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/06.png",
+   "pngBytes": 1860426,
+   "title": "180도 달라진 조희대...\"제2의 윤석열? 모욕적\" 반박",
+   "summary": "지난해 국정감사 땐 줄곧 입을 닫았던 조희대 대법원장, 올해는 달랐습니다. 지난해 대법원 국정감사장, 조희대 대법원장은 관례에 따라 미리 준비한 인사말만 읽은 뒤…",
+   "summary_long": "지난해 국정감사 땐 줄곧 입을 닫았던 조희대 대법원장, 올해는 달랐습니다. 12·3 비상계엄 당시 대법원이 침묵했단 의혹 등에 사실이 아니라며 조목조목 반박했고, '제2의 윤석열'이란 비판에도 입을 열었습니다. 지난해 대법원 국정감사장, 조희대 대법원장은 관례에 따라 미리 준비한 인사말만 읽은 뒤 100분 동안 침묵을 지켰습니다.\n\n올해도 일반 증인으로 채택된 조 대법원장은 인사말로 답변을 대신하는 듯했지만, 잇따르는 여당 의원들의 질의에 작심한 듯 입을 열었습니다. 조 대법원장이 비상계엄 당시 지시사항을 직접 설명한 건 이번이 처음인데, 서부지법 난동 사태 때도 대법원이 적극적으로 대응했다고 해명했습니다. [조희대 / 대법원장 : (혹시 제2의 윤석열을 꿈꾸는 겁니까?) 그런 말씀은 너무 모욕적이고 서글픈 일입니다.].",
    "press": "YTN",
    "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002414769",
+   "link": "https://n.news.naver.com/article/052/0002415413",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 민주, 조희대 국감 출석 불응에 맹공...국힘 \"오만한 민주당\"\n\n민주 \"조희대 국감 일반증인 불출석, 국회법 위반\" 더불어민주당은 조희대 대법원장의 증인 불출석 의견서 제출과 관련해 국회의 정당한 견제와 검증에 예외가 있을 수 없다며, 강하게 반발했습니다. 조희대 대법원장이 사실상 국회 증인 출석 요구에 응하기 어렵다는 취지의 의견서를 제출하자,.\n\n필요하면 협의 상대인 이 대통령이 증인으로 직접 나와 설명하면 될 일 아니겠느냐며, 조 대법원장의 증인 불출석은 당연하다는 입장을 밝혔습니다. [주진우 / 국민의힘 의원 : 법관 쇼핑하려고 했던 그 부분에 대해서 협의의 상대인 대법원장이 직접 증언하는 게 적절치 않다고 본 거거든요, 오히려 이 대통령이 증언석에 서면 더 유리하게 증언하지 않겠습니까?]. 조 대법원장은 지난해 국감에서도 이 대통령 공직선거법 사건 파기환송 결정 관련 증인 선서를 거부하며 90여 분 동안 침묵 속 자리를 지켰습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002414769"
+   "feed": "뉴스 05. 180도 달라진 조희대...\"제2의 윤석열? 모욕적\" 반박\n\n지난해 국정감사 땐 줄곧 입을 닫았던 조희대 대법원장, 올해는 달랐습니다. 12·3 비상계엄 당시 대법원이 침묵했단 의혹 등에 사실이 아니라며 조목조목 반박했고, '제2의 윤석열'이란 비판에도 입을 열었습니다. 지난해 대법원 국정감사장, 조희대 대법원장은 관례에 따라 미리 준비한 인사말만 읽은 뒤 100분 동안 침묵을 지켰습니다.\n\n올해도 일반 증인으로 채택된 조 대법원장은 인사말로 답변을 대신하는 듯했지만, 잇따르는 여당 의원들의 질의에 작심한 듯 입을 열었습니다. 조 대법원장이 비상계엄 당시 지시사항을 직접 설명한 건 이번이 처음인데, 서부지법 난동 사태 때도 대법원이 적극적으로 대응했다고 해명했습니다. [조희대 / 대법원장 : (혹시 제2의 윤석열을 꿈꾸는 겁니까?) 그런 말씀은 너무 모욕적이고 서글픈 일입니다.].\n\n출처: YTN / https://n.news.naver.com/article/052/0002415413"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/07.png",
-   "pngBytes": 2171827,
-   "title": "'공격수' 존재감 드러낸 한동훈…국감선 '北 포로·지뢰' 정조준",
-   "summary": "손승환 = 김승원 당시 법무부 장관 후보자 검증 국면에서 각종 의혹 제기를 주도하며 야권 공격수로 존재감을 드러낸 한동훈 무소속 의원이 국정감사에서도 이슈 몰이에 성공할…",
-   "summary_long": "손승환 = 김승원 당시 법무부 장관 후보자 검증 국면에서 각종 의혹 제기를 주도하며 야권 공격수로 존재감을 드러낸 한동훈 무소속 의원이 국정감사에서도 이슈 몰이에 성공할 수 있을지 주목된다. 국회 외교통일위원회 소속인 한 의원은 이제 시선을 돌려 지난달 발생한 서부전선 비무장지대(DMZ) 북한 지뢰 폭발 사건과 북한군 포로 송환 문제, 이재명 대통령의 대북송금 사건 등을 연일 겨누고 있는 만큼, 현안을 고리로 대여 공세를 이어갈 것이란 관측이 나온다. 앞서 외통위는 DMZ 지뢰 폭발 사건과 북한군 포로 송환 문제를 다루기 위해 지난달 30일 전체회의를 열었으나, 조현 외교부 장관과 정동영 통일부 장관 등 주요 정부 관계자들의 불참으로 현안질의 없이 40여 분 만에 끝났다.\n\n그는 최근 자신의 페이스북에 \"북한에 찍소리 못하고, 북한군과 싸우고 있는 우크라이나에 대해서만 으르렁대는 이재명 대통령\", \"보면 볼수록 잘한 인사라던 김승원 의원과 북한 지뢰 공격에 대해선 제대로 말도 못 하는 여당 대표가 지저분하게 뒤에서 공작이나 꾸미고 있다\" 등의 글을 연신 올리며 공세를 이어… 한 의원 측은 뉴스1에 \"이번 외통위 국감의 기준은 국민과 국익\"이라며 \"호르무즈 파병이나 우크라이나 북한군 포로 송환, DMZ 지뢰 폭발, 대미 투자 등에 대해 정부가 국익을 기준으로 책임 있게 결정하고 있는지, 그 결정을 국민께 투명하고 당당하게 설명하고 있는지 확인하겠다\"고 전했다. 다른 지도부 관계자도 \"한동훈이 잘 싸워주는 게 국민의힘에 나쁠 건 없다\"면서도 \"우리가 무소속 의원에게 기대는 것도 웃기고 그냥 계속 잘 싸우라고 보는 상황\"이라고 전했다.",
-   "press": "뉴스1",
-   "source": "뉴스1",
-   "link": "https://n.news.naver.com/article/421/0009209363",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/07.png",
+   "pngBytes": 1955063,
+   "title": "[속보] 조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\"",
+   "summary": "조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\" 7개 언론사6,803개 기사.",
+   "summary_long": "조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\" 조희대 대법원장 \"제청에 간섭하는 건 위헌적 조치\" 이 기사는 언론사에서 정치 섹션으로 분류했습니다.\n\n7개 언론사6,803개 기사. 트럼프 \"이란, LA·샌디에이고 파괴하게 둬라\"...논란 확산.",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002415189",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. '공격수' 존재감 드러낸 한동훈…국감선 '北 포로·지뢰' 정조준\n\n손승환 = 김승원 당시 법무부 장관 후보자 검증 국면에서 각종 의혹 제기를 주도하며 야권 공격수로 존재감을 드러낸 한동훈 무소속 의원이 국정감사에서도 이슈 몰이에 성공할 수 있을지 주목된다. 국회 외교통일위원회 소속인 한 의원은 이제 시선을 돌려 지난달 발생한 서부전선 비무장지대(DMZ) 북한 지뢰 폭발 사건과 북한군 포로 송환 문제, 이재명 대통령의 대북송금 사건 등을 연일 겨누고 있는 만큼, 현안을 고리로 대여 공세를 이어갈 것이란 관측이 나온다. 앞서 외통위는 DMZ 지뢰 폭발 사건과 북한군 포로 송환 문제를 다루기 위해 지난달 30일 전체회의를 열었으나, 조현 외교부 장관과 정동영 통일부 장관 등 주요 정부 관계자들의 불참으로 현안질의 없이 40여 분 만에 끝났다.\n\n그는 최근 자신의 페이스북에 \"북한에 찍소리 못하고, 북한군과 싸우고 있는 우크라이나에 대해서만 으르렁대는 이재명 대통령\", \"보면 볼수록 잘한 인사라던 김승원 의원과 북한 지뢰 공격에 대해선 제대로 말도 못 하는 여당 대표가 지저분하게 뒤에서 공작이나 꾸미고 있다\" 등의 글을 연신 올리며 공세를 이어… 한 의원 측은 뉴스1에 \"이번 외통위 국감의 기준은 국민과 국익\"이라며 \"호르무즈 파병이나 우크라이나 북한군 포로 송환, DMZ 지뢰 폭발, 대미 투자 등에 대해 정부가 국익을 기준으로 책임 있게 결정하고 있는지, 그 결정을 국민께 투명하고 당당하게 설명하고 있는지 확인하겠다\"고 전했다. 다른 지도부 관계자도 \"한동훈이 잘 싸워주는 게 국민의힘에 나쁠 건 없다\"면서도 \"우리가 무소속 의원에게 기대는 것도 웃기고 그냥 계속 잘 싸우라고 보는 상황\"이라고 전했다.\n\n출처: 뉴스1 / https://n.news.naver.com/article/421/0009209363"
+   "feed": "뉴스 06. [속보] 조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\"\n\n조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\" 조희대 대법원장 \"제청에 간섭하는 건 위헌적 조치\" 이 기사는 언론사에서 정치 섹션으로 분류했습니다.\n\n7개 언론사6,803개 기사. 트럼프 \"이란, LA·샌디에이고 파괴하게 둬라\"...논란 확산.\n\n출처: YTN / https://n.news.naver.com/article/052/0002415189"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/08.png",
-   "pngBytes": 1792508,
-   "title": "[속보] 장동혁 “李대통령, 대북송금 말고 더 있나…北에 아무 말 못하고 절절매”",
-   "summary": "국민의힘 장동혁 대표가 북한 지뢰 폭발 사고와 관련해 이재명 대통령을 향해 “대북송금 이상의 무언가가 있어 북한에 대해 아무 말도 못 하는 것 아니냐”는 의혹을…",
-   "summary_long": "장동혁 국민의힘 대표가 5일 국회에서 현안 관련 기자회견을 하고 있다. 국민의힘 장동혁 대표가 북한 지뢰 폭발 사고와 관련해 이재명 대통령을 향해 “대북송금 이상의 무언가가 있어 북한에 대해 아무 말도 못 하는 것 아니냐”는 의혹을 제기했다. 장 대표는 5일 국회에서 기자간담회를 열고 “이 대통령이 북한에 아무 소리 못 하고 절절매는 것이 대북송금 때문이라고 생각하지 않는다”고 말했다.\n\n이어 “대북송금 관련은 이미 법원에서 인정돼 관련자들이 유죄판결을 받았고, 검찰도 이 대통령이 그 사실을 알고 있었다고 기소했다”며 “대북송금 사건도 결국 공소취소 대상에 집어넣을 건데 그것 때문에 김정은에게 절절매고 있겠느냐”고 주장했다. 그러면서 “그 이상의 무언가가 있어 북한에 대해 아무 말 못 하고 있는 거라 생각한다”며 “북한을 대하는 태도가 지금과 같다면 국민 의심은 더욱 커질 것”이라고 덧붙였다.",
-   "press": "세계일보",
-   "source": "세계일보",
-   "link": "https://n.news.naver.com/article/022/0004164148",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/08.png",
+   "pngBytes": 1726131,
+   "title": "조희대 \"대법관 제청에 국회·대통령 간섭은 위헌\"",
+   "summary": "국정감사에 출석한 조희대 대법원장이 '대법관 재제청 논란' 관련 질의에, 대법원장의 제청권에 대통령과 국회가 간섭하는 건 위헌이라고 말했습니다. 조희대 대법원장이 대법관…",
+   "summary_long": "조희대, 계엄 협조 의혹에 \"전혀 협조한 적 없어\" 국정감사에 출석한 조희대 대법원장이 '대법관 재제청 논란' 관련 질의에, 대법원장의 제청권에 대통령과 국회가 간섭하는 건 위헌이라고 말했습니다. 그간 대법관 임명을 두고 협의해온 건 헌법에 근거가 없지만 대법원장이 자진해서 한 거라며, 자신은 헌법상 권한과 의무를 다했다고 주장했습니다.\n\n네, 국회 법제사법위원회 국정감사에 출석한 조희대 대법원장은 민주당 의원들의 집중 질문 공세를 받았는데요. 대법원장이 국회 동의나 대통령의 임명에 관여할 수 없듯, 국회와 대통령도 대법원장의 제청권에 전혀 관여할 수 없다고 주장했습니다. 국회 법사위가 대법원장의 제청에 간섭하는 건 헌법이 명문으로 정한 기관 간 권한 분배와 사법권 독립에 반한다며, 위헌이라고 목소리를 높였습니다.",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002415227",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. [속보] 장동혁 “李대통령, 대북송금 말고 더 있나…北에 아무 말 못하고 절절매”\n\n장동혁 국민의힘 대표가 5일 국회에서 현안 관련 기자회견을 하고 있다. 국민의힘 장동혁 대표가 북한 지뢰 폭발 사고와 관련해 이재명 대통령을 향해 “대북송금 이상의 무언가가 있어 북한에 대해 아무 말도 못 하는 것 아니냐”는 의혹을 제기했다. 장 대표는 5일 국회에서 기자간담회를 열고 “이 대통령이 북한에 아무 소리 못 하고 절절매는 것이 대북송금 때문이라고 생각하지 않는다”고 말했다.\n\n이어 “대북송금 관련은 이미 법원에서 인정돼 관련자들이 유죄판결을 받았고, 검찰도 이 대통령이 그 사실을 알고 있었다고 기소했다”며 “대북송금 사건도 결국 공소취소 대상에 집어넣을 건데 그것 때문에 김정은에게 절절매고 있겠느냐”고 주장했다. 그러면서 “그 이상의 무언가가 있어 북한에 대해 아무 말 못 하고 있는 거라 생각한다”며 “북한을 대하는 태도가 지금과 같다면 국민 의심은 더욱 커질 것”이라고 덧붙였다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004164148"
+   "feed": "뉴스 07. 조희대 \"대법관 제청에 국회·대통령 간섭은 위헌\"\n\n조희대, 계엄 협조 의혹에 \"전혀 협조한 적 없어\" 국정감사에 출석한 조희대 대법원장이 '대법관 재제청 논란' 관련 질의에, 대법원장의 제청권에 대통령과 국회가 간섭하는 건 위헌이라고 말했습니다. 그간 대법관 임명을 두고 협의해온 건 헌법에 근거가 없지만 대법원장이 자진해서 한 거라며, 자신은 헌법상 권한과 의무를 다했다고 주장했습니다.\n\n네, 국회 법제사법위원회 국정감사에 출석한 조희대 대법원장은 민주당 의원들의 집중 질문 공세를 받았는데요. 대법원장이 국회 동의나 대통령의 임명에 관여할 수 없듯, 국회와 대통령도 대법원장의 제청권에 전혀 관여할 수 없다고 주장했습니다. 국회 법사위가 대법원장의 제청에 간섭하는 건 헌법이 명문으로 정한 기관 간 권한 분배와 사법권 독립에 반한다며, 위헌이라고 목소리를 높였습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002415227"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-06/09.png",
-   "pngBytes": 1346334
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/09.png",
+   "pngBytes": 1346206
   }
  ],
- "caption": "📰 10월 6일 오늘의 뉴스\n\n1. 금메달 뒤 \"군대 안 갑니다\" 논란‥여야 \"병역특례 손봐야\"\n   아이치·나고야 아시안게임에서 금메달을 딴 남자 축구대표팀 일부 선수들의 병역 관련 발언을 계기로, 정치권에서 예술·체육요원 병역특례 제도를 재검토해야 한다는 목소리가…\n2. \"어디서 함부로 盧 들먹여\" 김어준에 한동훈 \"거만한 X꼰대 소리\"\n   고 노무현 전 대통령의 금품수수 의혹을 ‘팩트’라고 주장한 뒤 연일 더불어민주당과 공방을 벌이고 있는 한동훈 무소속 의원은 방송인 김어준 씨가 “어디서 함부로 노무현을…\n3. 학교서 수개월간 성추행한 중학생…\"부모가 1천800여만원 배상\"\n   같은 반 여학생을 수개월간 교실 등에서 강제로 추행하고 성희롱한 중학생을 대신해 부모가 피해 학생에게 1천800여만원을 배상하라는 법원 판결이 나왔다. 5일 법조계에…\n4. [속보] 유해진 측 \"신변 위협·명예훼손 엄중 대응…가능한 모든 조치\"\n   배우 유해진이 8일 서울 강남구 삼성동 코엑스 메가박스에서 열린 영화 '암살자' 시사회 및 기자간담회에서 질문에 답하고 있다. 영화 '암살자' 관련 논란이 불거지며 자택…\n5. 민주, 조희대 국감 출석 불응에 맹공...국힘 \"오만한 민주당\"\n   더불어민주당은 조희대 대법원장의 증인 불출석 의견서 제출과 관련해 국회의 정당한 견제와 검증에 예외가 있을 수 없다며, 강하게 반발했습니다. 조희대 대법원장이 사실상…\n6. '공격수' 존재감 드러낸 한동훈…국감선 '北 포로·지뢰' 정조준\n   손승환 = 김승원 당시 법무부 장관 후보자 검증 국면에서 각종 의혹 제기를 주도하며 야권 공격수로 존재감을 드러낸 한동훈 무소속 의원이 국정감사에서도 이슈 몰이에 성공할…\n7. [속보] 장동혁 “李대통령, 대북송금 말고 더 있나…北에 아무 말 못하고 절절매”\n   국민의힘 장동혁 대표가 북한 지뢰 폭발 사고와 관련해 이재명 대통령을 향해 “대북송금 이상의 무언가가 있어 북한에 대해 아무 말도 못 하는 것 아니냐”는 의혹을…\n\n🗣 “앞으로도 소속 배우의 권익과 안전을 침해하는 행위를 지속해서 모니터링하고, 확인되는 사안에 대해서는 필요한 대응을 이어가겠다”\n이 발언을 그대로 실은 보도 10건 · 주간경향 · kyeonggi.com · 연합뉴스 · 머니투데이\n· 주간경향 — 유해진측 “신변 위협·명예훼손 엄중하게 봐···가능한 모든 조치”\n· kyeonggi.com — 유해진측, “배우 신변 위협·명예훼손 강경 대응”\n· 연합뉴스 — 유해진 측 \"신변 위협·명예훼손 엄중 대응…가능한 모든 조치\"\n· 머니투데이 — \"불매 운동에 자택 앞 집회까지\"…'암살자(들)' 유해진 측, 칼 빼들었다 - 머니투데이\n· 국제신문 — 유해진 소속사 “신변 위협·명예훼손 엄중 대응…모든 조치 취할 예정”\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한 #대통령실\n\n출처: MBC, YTN, 뉴스1, 부산일보, 세계일보, 연합뉴스, 이데일리"
+ "caption": "📰 10월 7일 오늘의 뉴스\n\n1. \"北에는 찍소리도 못 하면서\" 한동훈에 \"답변 거부\"한다는 조현... 국감장 정면 충돌\n   조현 외교부 장관이 6일 서울 여의도 국회에서 열린 외교통일위원회 국정감사에서 업무보고를 하고 있다. 조현 외교부 장관과 한동훈 무소속 의원이 6일 열린 국회…\n2. 조희대 국감 출석 \"증인선서·증언거부\" 서영교 이석 불허… \"체포·감금하냐\"\n   ▲조희대 대법원장이 2026년 10월6일 국회 법사위 소관 대법원 국정감사에서 인사말하고 있다. 조희대 대법원장은 6일 국회 법사위 소관 대법원 법원행정처 국감…\n3. \"초보는 신지 마라\" 황영조의 경고…30만원 주고 샀다가 '낭패'\n   최근 러닝 인구가 급증하며 카본 러닝화가 인기를 끌고 있지만 제품별로 충격 흡수와 안정성, 무릎 피로도 등에 차이가 큰 것으로 나타났다. 소비자원은 “카본 러닝화는…\n4. “조문객 없어도 괜찮아”…‘스몰 웨딩’ 이어 ‘스몰 엔딩’ 뜬다\n   빈소를 차리지 않고 가족끼리 조용히 고인을 보내는, 이른바 '무빈소 장례'입니다. 이 가운데 빈소를 차리지 않은 것으로 집계된 장례는 2만 5,045건으로, 전체의…\n5. 180도 달라진 조희대...\"제2의 윤석열? 모욕적\" 반박\n   지난해 국정감사 땐 줄곧 입을 닫았던 조희대 대법원장, 올해는 달랐습니다. 지난해 대법원 국정감사장, 조희대 대법원장은 관례에 따라 미리 준비한 인사말만 읽은 뒤…\n6. [속보] 조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\"\n   조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\" 7개 언론사6,803개 기사.\n7. 조희대 \"대법관 제청에 국회·대통령 간섭은 위헌\"\n   국정감사에 출석한 조희대 대법원장이 '대법관 재제청 논란' 관련 질의에, 대법원장의 제청권에 대통령과 국회가 간섭하는 건 위헌이라고 말했습니다. 조희대 대법원장이 대법관…\n\n🗣 “5·18 땐 밤 12시 이후 계엄…난 국회에 시간 주려 10시”\n이 발언을 그대로 실은 보도 10건 · 한겨레 · Daum\n· 한겨레 — 마이크 잡은 윤석열 “5·18 땐 밤 12시 이후 계엄…난 국회에 시간 주려 10시”\n· 한겨레 — 카본 러닝화 7종 신어보니…충격흡수는 나이키·푸마, 가격은 스케쳐스\n· 한겨레 — “위고비·마운자로 팝니다”…‘비만약’ 온라인 불법 판매 등 949건 적발\n· Daum — 조희대 “계엄은 위헌, 전혀 협조 안 해…‘계엄사에 명단 주지 말라’ 지시”\n· 한겨레 — 알시시 이집트 대통령 7~9일 국빈 방한…공급망 등 협의\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한 #대통령실 #국회 #법원\n\n출처: KBS, YTN, 미디어오늘, 한국경제, 한국일보"
 }
