@@ -1,247 +1,275 @@
 {
- "date": "2026-10-07",
- "generated_at": "2026-10-07T10:55:31+09:00",
+ "date": "2026-10-08",
+ "generated_at": "2026-10-08T11:22:56+09:00",
  "mode": "daily",
- "window_start": "2026-10-06T00:00:00+09:00",
- "window_end": "2026-10-06T23:59:59+09:00",
+ "window_start": "2026-10-07T00:00:00+09:00",
+ "window_end": "2026-10-07T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "\"北에는 찍소리도 못 하면서\" 한동훈에 \"답변 거부\"한다는 조현... 국감장 정면 충돌",
-   "source": "한국일보",
-   "url": "https://n.news.naver.com/article/469/0000957896",
-   "published_at": "2026-10-06T13:24:15+09:00",
+   "title": "‘무보수 논란’ 박진영 “받는 줄 몰랐다. 당장 반납하고 싶지만…”",
+   "source": "국민일보",
+   "url": "https://n.news.naver.com/article/005/0001877221",
+   "published_at": "2026-10-07T07:05:08+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "조현 외교부 장관이 6일 서울 여의도 국회에서 열린 외교통일위원회 국정감사에서 업무보고를 하고 있다. 조현 외교부 장관과 한동훈 무소속 의원이 6일 열린 국회…",
-   "summary_long": "한동훈 \"장관이 가르치는 게 맞나\" 조현 외교부 장관이 6일 서울 여의도 국회에서 열린 외교통일위원회 국정감사에서 업무보고를 하고 있다. 조현 외교부 장관과 한동훈 무소속 의원이 6일 열린 국회 국정감사장에서 설전을 벌였다.\n\n한 의원은 이날 국회에서 열린 외교부 대상 국감에서 최근 이재명 대통령이 북한군 2명의 포로 송환을 일방적으로 공개한 우크라이나를 공개 비판하고 이에 대한 사과를 요구한 것과 관련, \"(북한의) 김여정에게는 찍소리도 못 하면서 우크라이나에 대해선 쥐 잡듯 하냐, 우크라이나가 주적이냐, 북한이 주적이냐\"… 이에 조 장관은 \"한 의원이 '쥐 잡듯'이라는 표현을 쓰시는 한 질문에 대한 답변을 거부하겠다\"고 답했다. 한 의원은 \"우크라이나에 강단 있게 하는 만큼 왜 북한에는 강단 있게 하지 않느냐\"고 재차 따졌고 조 장관은 \"한 의원님의 기대만큼은 못 미쳤을지 몰라도 북한에 필요한 만큼 강단 있는 대응을 하는 것은 당연하다\"고 맞받았다.",
+   "summary": "JYP엔터테인먼트 창립자인 박진영 대통령 직속 대중문화교류위원회 공동위원장이 7일 국회 문화체육관광위원회 국정감사에 증인으로 출석한다. 박 위원장은 최근 불거진…",
+   "summary_long": "JYP엔터테인먼트 창립자인 박진영 대통령 직속 대중문화교류위원회 공동위원장이 7일 국회 문화체육관광위원회 국정감사(국감)에 증인으로 출석한다. 박 위원장은 최근 불거진 직책수행경비 수령과 글로벌 축제 ‘패노메논(FANOMENON)’ 상표권 우선 출원 논란 등에 대해 직접 소명할 계획이다. 이재명 대통령과 김혜경 여사가 지난달 25일(현지시간) 멕시코시티 GNP 스타디움에서 열린 스트레이시티 콘서트에서 대중문화교류위원회 공동위원장인 박진영 JYP엔터테인먼트 대표 프로듀서와 기념촬영을 하고 있다.\n\n연합뉴스 박 위원장은 국감 출석을 하루 앞둔 전날 SBS 라디오 ‘김태현의 정치쇼’에 출연해 “일할 때 가장 힘든 건 진정성을 의심받을 때”라며 “거짓말하면 위증죄로 처벌받을 수 있는 증인 자격으로 나가야 진심을 믿어주실 것 같았다. 박 위원장은 “4대 기획사(하이브·JYP·SM·YG)가 뭉치는 데 있어 신뢰가 핵심인데, JYP가 상표권을 독점하려 한다면 누가 협조하겠느냐”며 “해외 등록에만 수억 원이 들고 선점이 시급해 전담 조직이 있는 JYP가 먼저 등록을 진행한 것뿐이다. 공동위원장인 최휘영 문화체육관광부 장관은 최근 소셜 미디어를 통해 “브랜드 권리를 신속히 보호하기 위해 대중위 대신 JYP가 임시 조치로 우선 확보했던 것”이라며 “전담 법인 설립 후 지분을 정리하고, 이익금은 전액 재투자되며 4대 기획사 라인업 비율도 30% 이내로 제한된다”고 선을 그었다.",
    "quotes": [
-    "(외통위원의 질문에) 아무리 자극적인 언어가 있어도 성의 있게 답변해달라. 의사진행에 대해 나에게 이래라저래라 코치하신 것은 결례",
-    "(북한의) 김여정에게는 찍소리도 못 하면서 우크라이나에 대해선 쥐 잡듯 하냐, 우크라이나가 주적이냐, 북한이 주적이냐",
-    "한 의원님의 기대만큼은 못 미쳤을지 몰라도 북한에 필요한 만큼 강단 있는 대응을 하는 것은 당연하다"
+    "거짓말하면 위증죄로 처벌받을 수 있는 증인 자격으로 나가야 진심을 믿어주실 것 같았다. 공익 추구가 진짜 목적이라는 점만 국회에 전달된다면 더 바랄 게 없다",
+    "해외 등록에만 수억 원이 들고 선점이 시급해 전담 조직이 있는 JYP가 먼저 등록을 진행한 것뿐이다. 행사 전담 법인이 설립되는 즉시 권리를 이관할 예정",
+    "‘미국병’이라는 조롱과 비아냥에 가슴에 피멍이 들기도 했지만, 방시혁 하이브 의장과 방 한 칸에서 부딪치며 꿈꿨던 궤적이 이제 4사 연대로 이어졌다"
    ],
-   "press": "한국일보",
+   "press": "국민일보",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "(북한의) 김여정에게는 찍소리도 못 하면서 우크라이나에 대해선 쥐 잡듯 하냐, 우크라이나가 주적이냐, 북한이 주적이냐",
+    "quote": "거짓말하면 위증죄로 처벌받을 수 있는 증인 자격으로 나가야 진심을 믿어주실 것 같았다. 공익 추구가 진짜 목적이라는 점만 국회에 전달된다면 더 바랄 게 없다",
     "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "한국일보",
-      "title": "\"北에는 찍소리도 못 하면서\" 한동훈에 \"답변 거부\"한다는 조현... 국감장 정면 충돌",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5feW9ZR3kyUVlGU0NaU2JLRFZvOGI1WXM1dVVMTU43Mmo5ZlZNZExEMXhwMEhhQV90ZENOc285YlNkZW5QVHRzYklZaDVQNW9aVS1DMTFfOHZnVXVkcVBuX05KLVVhVGlBV1ZVT0FR0gFzQVVfeXFMTURxLV9fSHB1bFhwN2Voa0RiRTF0eElDQzdobHZ1OWExUDVKanFqVVhoTXlxUlJnZnZNcEMwWFZoUXYxeXBRNWk2b0hsdnY5U3lJbjFGVFpMR0I0T1BoUUZpM1E3ai1Vam1RbDZSZExUMzktcw?oc=5"
+      "press": "뉴시스",
+      "title": "'피멍' 딛고 K-컬처 공익 뛴 JYP 박진영, 오늘 국감서 진심 증명할까",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FLXl3X2hWOVdfdHRHSHpYdVg3aWhVS2VoM21DWUozUlliOVZfeE96RHllMjBxdWpUNzlINHY4Y2JvZS1RakhIYUlqejdCM19VYUhyOVFsb2cyVWJTYzlZS9IBeEFVX3lxTE5PLXBpWVliYnNxX2N1U0hxYUt3Y3ZKMlI1SkM0RG00bmJlSjZTU29LU2RzQjIzRFptZ19YV3JKZzBfUlFhb3pGeU5HM1NWbVRsY3FUWmZ6aWt1d05yRS1keU1aYkRxUFQ0QVdGbWp1TnJEcHMxVjc4Vg?oc=5"
      },
      {
       "press": "Daum",
-      "title": "한동훈 \"북한엔 찍소리 못하고 우크라만 쥐잡듯\"…조현 \"답변 거부\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Hb0p0Nm5OengxdUlHRHlGZl9YTmpZT1p4NjVKMXM1ckR6RHlFMjEzVUVPLVNsVlJ4WlVoNndkOWxWQzFCWkVWVDRaaG8tdUE?oc=5"
+      "title": "‘무보수 논란’ 박진영 “받는 줄 몰랐다. 당장 반납하고 싶지만…”",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yWWxVOGdZVlhQTTN3bkhKOThWcTFFS1RCOFlzQVlHdlRlUUpQdlpobmE1c1BoMVU0ZGp4N1N4cXp0QkVYeVE?oc=5"
      },
      {
-      "press": "뉴스핌",
-      "title": "[2026 국감] 조현-한동훈, 국감에서 우크라·지뢰 대응 놓고 거친 설전",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzQ19raU5SaGlnYlg4U21oazBENk1PRUs0ZTdIeWg0X2VmSDdMYkt5dTFySE5aS0M0YTdrdURHT3FkY3AxVVI2U0RBcHlhSVFkUGJmMGUyTTJja0Q0?oc=5"
+      "press": "MHN스포츠",
+      "title": "국감 자진 출석…’JYP’ 박진영, 직접 해명 나선다 “공익 추구가 진짜 목적”",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uV241Z1RBYnpYLXY3bWN5M3MtQkxiWDhBbW1JcW1ZYkZSRDFLdHhtUFhVX3p1RFlVc0YxbllWVnNfWGpELUhWUGF4UDROc3huYnN3M3FCbW1FTjdLQ3VXTHJyOA?oc=5"
      }
     ]
    }
   },
   {
-   "title": "조희대 국감 출석 \"증인선서·증언거부\" 서영교 이석 불허… \"체포·감금하냐\"",
-   "source": "미디어오늘",
-   "url": "https://n.news.naver.com/article/006/0000138072",
-   "published_at": "2026-10-06T11:32:12+09:00",
+   "title": "‘반이재명’서 한동훈 29.4% 장동혁 23.4% 오세훈 15.2%순 지지…韓 복당엔 46.2%",
+   "source": "디지털타임스",
+   "url": "https://n.news.naver.com/article/029/0003051923",
+   "published_at": "2026-10-07T13:31:49+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "▲조희대 대법원장이 2026년 10월6일 국회 법사위 소관 대법원 국정감사에서 인사말하고 있다. 조희대 대법원장은 6일 국회 법사위 소관 대법원 법원행정처 국감…",
-   "summary_long": "사진=국회방송 영상 갈무리조희대 대법원장이 국회 법제사법위원회 대법원 국정감사에 출석했으나 증인 선서와 증언을 거부하겠다고 밝히자 서영교 법사위원장이 이석을 허가하지 않아 야당이 반발하는 등 초반부터 충돌했다. 조희대 대법원장은 6일 국회 법사위 소관 대법원 법원행정처 국감 인사말에서 자신의 증인 출석 요구를 두고 \"헌법의 취지에 비추어 법원장의 대법관 제청에 관하여 증언하도록 요구하는 것은 삼권분립과 사법 독립의 원칙을 훼손할 염려가 있다\"라며 \"이번 국정감사에서도 법관 제청에 관한 증언을 요구하고 있어 응… 증인 선서를 하지 않으시겠다는 것이냐\"라고 질의하자 조 대법원장은 \"인사말에서 말씀드린 대로 선서나 증언은 할 수 없음을 말씀드린다\"라고 거듭 답했다.\n\n국회 법사위 야당 간사인 박형수 국민의힘 의원은 \"지금까지 대법원장은 수십 년 동안 인사말을 하고 이석한 뒤 국감이 마무리될 때 인사말씀하는 게 관례였다. 박 간사는 또 \"대법관에 대한 제청은 대법원장 이미 했는데, 청와대가 대통령이 제재청 요구를 했기 때문 아니냐. 국회 법사위 여당 간사인 김의겸 더불어민주당 의원은 \"대법원장부터 관례를 깨기 시작한 것\"이라며 \"이승만 대통령 이후 지금까지 계속 대법원장의 제청 문제, 대법관의 제청 문제는 청와대와 대법원장이 서로 협의하고 합의해서 올라왔다.",
+   "summary": "민주당 지지층에선 김민석 0.2%p 오른 30.7%, 송영길 3.5%p 뛴 14.3%, 정청래 1.2%p 오른 12.3%, 조국 2.9%p 내린 11.7%, 김부겸…",
+   "summary_long": "민주당 지지층(806명)에선 김민석 0.2%p 오른 30.7%, 송영길 3.5%p 뛴 14.3%, 정청래 1.2%p 오른 12.3%, 조국 2.9%p 내린 11.7%, 김부겸 1.5%p 오른 7.4%, 한동훈 1.4%p 내린 4.5%로 나타났다. 무당층(지지정당 없음 + 모름 244명)은 한동훈 3.7%p 오른 30.7%로 1강이며 오세훈 1.4%p 이탈한 8.7%, 김민석 0.8%p 내린 8.1%, 장동혁·송영길 소폭 동반상승한 6.3% 동률로 뒤를 이었다. 부정평가층(1228명)은 한동훈 1.5%p 더 결집한 29.4%, 장동혁 4.4%p 오른 23.4%, 오세훈 4.2%p 내린 15.2%, 정청래 1.9%p 오른 7.6% 조국 6.4%다.\n\n이념성향별 중도층(781명)은 한동훈 2.2%p 더 결집한 23.4%, 김민석 1.4%p 내린 17.8%, 오세훈 1.2%p 하락한 9.6%, 송영길 3.0%p 약진한 9.3%p 장동혁 1.3%p 빠진 8.3%, 조국 0.7%p 내린 5.7% 순 집계됐다. 보수층(610명) 장동혁 8.7%p 결집한 33.1%, 한동훈 0.3%p 오른 24.8%, 오세훈 6.8%p 빠진 16.1%로 3자만 5%를 넘겼다. 이념 모름(146명)은 한동훈 15.2% 장동혁 12.3% 김민석 11.4% 오세훈 11.3% 김부겸 6.2% 송영길 5.3% 순이다.",
+   "press": "디지털타임스",
+   "photo": "02.png"
+  },
+  {
+   "title": "25년 투병에도 봉사 이어온 50대…장기기증으로 3명 살리고 떠나",
+   "source": "연합뉴스",
+   "url": "https://n.news.naver.com/article/001/0016361563",
+   "published_at": "2026-10-07T10:02:12+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "선한 영향력을 끼치자는 마음으로 25년간 투병하면서도 봉사를 이어온 50대 여성이 삶의 마지막 순간 장기기증으로 3명을 살리고 떠났다. 남편 김기선 씨는 \"평소 아내와…",
+   "summary_long": "\"'선한 영향력 끼치자'던 엄마의 가치관 이어갈게\" 선한 영향력을 끼치자는 마음으로 25년간 투병하면서도 봉사를 이어온 50대 여성이 삶의 마지막 순간 장기기증으로 3명을 살리고 떠났다. 7일 한국장기조직기증원에 따르면 구진희(55) 씨는 지난달 18일 고신대복음병원에서 뇌사 판정후 3명에게 간과 양쪽 신장을 기증했다.\n\n남편 김기선 씨는 \"평소 아내와 마지막 순간 장기를 기증하면 좋은 일 아니겠냐는 이야기를 나눴다\"며 \"딸들도 아내에게 같은 이야기를 들었다고 해서 고인의 뜻을 따르기로 했다\"고 말했다. 큰딸 지수 씨는 \"앞으로도 '엄마라면 어떻게 했을까'를 생각하며 엄마의 가치관을 이어가겠다\"라고 다짐했고, 작은딸 지원 씨는 \"엄마가 내 엄마라서 너무 행복했다\"라고 엄마를 자랑스러워했다. 남편 김 씨는 아내에게 \"여보, 당신을 만난 지 33년 함께했던 행복한 시간들 잘 간직할게.",
    "quotes": [
-    "이승만 대통령 이후 지금까지 계속 대법원장의 제청 문제, 대법관의 제청 문제는 청와대와 대법원장이 서로 협의하고 합의해서 올라왔다. 그런데 지금 대법원장께서 합의가 되지 않은 상태에서 일방적으로 제청하지 않았느냐. 그게 관례를 깬 것 아니냐",
-    "대법관 후보 추천위원회가 추천한 대법관 후보자들의 자질과 능력 등을 신중히 검토하고 후속 절차를 위해 지속적으로 협의하여 왔으나 결국 최종 합의에는 이르지 못한 채 대법관 임명 제청을 하였다",
-    "대법관에 대한 제청은 대법원장 이미 했는데, 청와대가 대통령이 제재청 요구를 했기 때문 아니냐. 그러면 누가 나와야 되느냐. 이재명 대통령이 나와야지요. 도대체 논리가 맞는 얘기를 해야죠"
+    "여보, 당신을 만난 지 33년 함께했던 행복한 시간들 잘 간직할게. 이제 아픔 없는 곳에서 걱정하지 말고 편히 쉬어. 사랑하고 너무 고마웠어. 안녕",
+    "평소 아내와 마지막 순간 장기를 기증하면 좋은 일 아니겠냐는 이야기를 나눴다",
+    "앞으로도 '엄마라면 어떻게 했을까'를 생각하며 엄마의 가치관을 이어가겠다"
    ],
-   "press": "미디어오늘",
-   "photo": "02.jpg",
+   "press": "연합뉴스",
+   "photo": "03.jpg",
    "quoted": {
-    "quote": "대법관 후보 추천위원회가 추천한 대법관 후보자들의 자질과 능력 등을 신중히 검토하고 후속 절차를 위해 지속적으로 협의하여 왔으나 결국 최종 합의에는 이르지 못한 채 대법관 임명 제청을 하였다",
+    "quote": "여보, 당신을 만난 지 33년 함께했던 행복한 시간들 잘 간직할게. 이제 아픔 없는 곳에서 걱정하지 말고 편히 쉬어. 사랑하고 너무 고마웠어. 안녕",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "강원일보",
+      "title": "“사랑하고 너무 고마웠어, 안녕”⋯25년 투병에도 봉사 이어온 50대 장기기증으로 3명에 새 생명 선물",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByR3hxNEs0NnNVbTVBWU1rYzRTelUwc0hlZGdRSHRxaVpzRkJJcFRHSEc0VXF0U1h5M01IcUdzOEpURWlESXlzYWI0cTRWM1VpNTdPNHhobE1ZVjg?oc=5"
+     },
+     {
+      "press": "KBC광주방송",
+      "title": "25년 투병에도 반짝이던 봉사의 삶…3명에게 새 삶 주고 떠난 50대",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3a1FRNmxCNWppZnV1d2VGWC1HdHlFUjRoTkJjaHQ1elA3SFctbnc1WjE0V25uRUtLS0xlTjV0ZE1Cd3lhZTc4WUViM3JaZTVzYmpBMnVVZ3lndXJQemZ6Tg?oc=5"
+     },
+     {
+      "press": "Chosunbiz",
+      "title": "25년 투병에도 봉사 이어온 50대…마지막 순간에도 3명에 ‘새 삶’ - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNjBRalVCUlJXb2l0NWhfMTdOVmhaUkxpS2p3TWdJa2RadVJBSkRZenhiSVhFN0F1V01GN3o0aWpBNWh5U0YwOTNLUEx3UmNnekQ0cU9pVk1YVEh5eldWMnBjaGtFSDR0US13S01BbmZrWldVekQxMHhmeVlheG1IWkVKMEFmeWtRbHfSAZ4BQVVfeXFMUDUwUFQwX0F0Ri1YNzR3YWVHWVIzZXA4NVFUVUlKZjlBUElyamZPNTc2YjhCaGtmZjRzTTVXYmFuRUV6N29uTGNaM2Z0Q1dYcm9mQlYwMkoyYUlzSUx6OFhudWFkRWVrZm1QSk84aDRHLVI3ZEEzOGNCbDJ6cjFoXzJJaXhTZ0NSMHdqNnVxb1RocmstUzc2QUVBVXllMFE?oc=5"
+     },
+     {
+      "press": "세계뉴스통신",
+      "title": "25년 투병에도 봉사 이어온 50대 여성…마지막엔 장기기증으로 3명 살렸다",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLWWk2TWFfOVVpVW9OQ045M1RuV0Uxci1VeW5iY3VyNlNodnJTc1V6SUNFQl9yTW1PaWxPWG1vOW55bkpMR0xTck9zR1c2dFNjM0N6LWxtWEJ6N2ZYZXJBOHFJNXRhR2dwd1BFRHJJalRDc3JJ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "\"엄마가 내 엄마라 행복했어\"…여행 중 쓰러진 50대, 3명 살렸다 [자막뉴스]",
+   "source": "SBS",
+   "url": "https://n.news.naver.com/article/055/0001393710",
+   "published_at": "2026-10-07T12:01:41+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "딸과 베트남을 여행하던 중 갑자기 호흡 곤란 증세를 보이며 쓰러진 50대 여성이 장기 기증으로 3명에게 생명을 나눴습니다. 구 씨는 9월 12일 딸과 베트남을 여행하던…",
+   "summary_long": "딸과 베트남을 여행하던 중 갑자기 호흡 곤란 증세를 보이며 쓰러진 50대 여성이 장기 기증으로 3명에게 생명을 나눴습니다. 한국장기조직기증원에 따르면, 9월 18일 고신대학교복음병원에서 55살 구진희 씨가 3명의 환자에게 간과 신장을 나누고 떠났습니다. 몸 상태가 안정될 때면 가족과 함께하는 여행이 구 씨의 큰 즐거움이었고, 항공사 기장인 남편은 여행하는 동안 아픔을 잊고 즐거워하는 아내를 보며 함께 여행 다닐 기회를 자주 마련했습니다.\n\n구 씨는 지난 8월 큰딸 지수 씨가 낳은 첫 손주를 품에 안으며 크게 기뻐했고, 내년 결혼을 앞둔 작은딸 지원 씨와는 결혼 준비를 함께했습니다. [김지수 / 구진희 씨의 큰딸 :엄마가 이제 손주를 많이 기다리기도 했고 아기도 워낙 좋아해서 조금 더 함께 했으면 좋았을 텐데]. 큰딸 지수 씨도 \"앞으로도 '엄마라면 어떻게 했을까'를 생각하며 엄마의 가치관을 이어가겠다\"라고 다짐했고, 작은딸 지원 씨는 \"엄마가 내 엄마라서 너무 행복했다\"며 애틋한 마음을 전했습니다.",
+   "quotes": [
+    "여보, 당신을 만난 지 33년, 함께했던 행복한 시간들 잘 간직할게. 이제 아픔 없는 곳에서 걱정 말고 편히 쉬어",
+    "앞으로도 '엄마라면 어떻게 했을까'를 생각하며 엄마의 가치관을 이어가겠다",
+    "엄마가 내 엄마라서 너무 행복했다"
+   ],
+   "press": "SBS",
+   "photo": "04.jpg",
+   "quoted": {
+    "quote": "여보, 당신을 만난 지 33년, 함께했던 행복한 시간들 잘 간직할게. 이제 아픔 없는 곳에서 걱정 말고 편히 쉬어",
     "n": 6,
     "verified": 0,
     "items": [
      {
-      "press": "미디어오늘",
-      "title": "조희대 국감 출석 “증인선서·증언거부” 서영교 이석 불허… “체포·감금하냐”",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WSDY5cHpuUHhsMFQ0b3FBbm1saTZYUkI5QjBfa0hUREg3Y1NiZWFsQVhISjVuZEtqU2lhOFRLUGZQNE1tb0FqbDVrMHNsSmhpREpRc2VtUmV3VEhWY1Fza21zaXZ6MU9UTVJpTVppbWU?oc=5"
+      "press": "부산일보",
+      "title": "손주 안고 딸 결혼 기다리던 엄마…마지막 선물은 세 사람의 삶",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZSEJNS0c5Q1pNZG5ReTRSb0hFOURuSXpFRmxLdktmNnZPcWwzTWdqY1AzdHRiblE4ZFQ3NjNDSmQwc09QMUpzaFJlcVU0T1YtUnAwTkk5dVAyRjlDWVRwZTFUZFk1bXJ0Zjl6N1dIUlJ2ZnJF?oc=5"
      },
      {
-      "press": "KB Think",
-      "title": "조희대 \"대법관 제청 증언 요구는 삼권분립·사법독립 훼손 염려\"",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80TWFMdWNMMXl2WEo1QVQzM0pENzNicjBLVjFyZUZPOE93UkNhalBWOGw5THVNdVRFMWNiZ3gxckNxMmRaQjRKMjM1TTZfTzRmUVcyWWZlQU5XYnFQT2dmcjBZTXdZYW0tQzR6Z0RKR082dw?oc=5"
+      "press": "뉴시스",
+      "title": "딸과 떠난 해외여행중 쓰러져 뇌사…3명에 '새 삶'",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfNHZZVzZjSEdiU2NNQk90ZzA0LVhxbEVyblluN1lDRDl1V1JBTUR6ZnJSNTl0U1lhdGxBRS1jc1B1eS1PczBzREVZRnNVRTdFSXpOd3l4dFo1Y01FNHVaNWNmQU9WcF9kVWxFZGxTaHlTMXR6UFRmQ9IBeEFVX3lxTFBfNHZZVzZjSEdiU2NNQk90ZzA0LVhxbEVyblluN1lDRDl1V1JBTUR6ZnJSNTl0U1lhdGxBRS1jc1B1eS1PczBzREVZRnNVRTdFSXpOd3l4dFo1Y01FNHVaNWNmQU9WcF9kVWxFZGxTaHlTMXR6UFRmQw?oc=5"
      },
      {
-      "press": "JTBC",
-      "title": "조 대법원장 \"대법관 제청 증언, 삼권분립과 사법독립 훼손 염려\"",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zbGl4UTBVbDdrLXhOZ3dVNE90bDZ2NGxfNEYtbmFpUXFlcEJDMkFTMWpQODFDRHZ0VnFIN0hoNXVOeW0xWUJuR2gzVEpHZG1KUVE?oc=5"
+      "press": "SBS 뉴스",
+      "title": "[자막뉴스] \"엄마가 내 엄마라서 행복했어\"…여행 중 쓰러진 50대 3명에 새 생명",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ea0NKd0F3OC0tY202WjM4RFF6M2FJcWM0akt0VjU2YUJUekhUejB4THU2REMzMHFpZ1JWRFdfZGxzV25ma2o3cmc1QzN5aEVORFVFRURaN1BJeDFhN1ZqVkt1SFJmUdIBZkFVX3lxTE1Ea0NKd0F3OC0tY202WjM4RFF6M2FJcWM0akt0VjU2YUJUekhUejB4THU2REMzMHFpZ1JWRFdfZGxzV25ma2o3cmc1QzN5aEVORFVFRURaN1BJeDFhN1ZqVkt1SFJmUQ?oc=5"
      },
      {
-      "press": "매일경제",
-      "title": "[속보] 조희대 “재제청 요구 헌법적 근거 없어…절차진행 어렵다 판단”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zWlMwS2FYckg2bVpBdkZYSVZEUkhhSGpGQVN6NFA5Ny1JRGh6VUszbzBnNTB6N0R0LXNSNzFQYTJCMWlEamlIRVRrRG5kOEc0MHhwdVNR?oc=5"
+      "press": "기독일보",
+      "title": "베트남서 쓰러진 50대 여성, 뇌사장기기증으로 3명 살려",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EQ3llYS02LXhpWVNCZjNzZFg2QV82bS0xa2wtQjVFeGF4WU8xbmtEN2VTdHZyWkpGamtjR2thbUJnUWJWeXp5cWdlNE1Zdk9lNktsTUNPc9IBXEFVX3lxTFBPYTQ2WVNVdmJvenJLeGxtOERPTmZMZWtRdlZsUS02aHBFTFFWcl9OYnQ4ZmdTR1EtMG0wZnk4UUZHTHRDTjV2VjdSYVlCbGtQVGF5MmNTYmZHWDRu?oc=5"
      },
      {
-      "press": "뉴스피릿",
-      "title": "조희대 \"청와대 재제청 공문, 구체적 사유·헌법적 근거 없었다\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MQ2p3blJIdmt1MjcxWlotbjd0TnJWamwxek1Bd0FtbDV1R0JrNmtNRFlnckc2QzcxenBxMFU5dDlPUklnTVNPQTNLbnBpalJLM19UX0tVV1FUM3BsLUp0NWl5RkFVQzNsZHBj?oc=5"
+      "press": "이데일리",
+      "title": "25년 투병한 55세 여성, 장기기증으로 3명 살리고 떠났다",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2h2RUxYMTVsN05Va3pkRENpSG5TUVJuMEduMEducDFqSk9ySm5JVnhUOV8xYS1kbHR6Wjc1RmRfN1BrTFJTWUU5QzV0X1dXODBKUVpQVWFOTTE0LWFuN2dBWlY4ZmhTbFZJSElTa2U0U2dxMGtERGc4aTlyN1Uwag?oc=5"
      },
      {
-      "press": "창업일보",
-      "title": "조희대 “국회·대통령, 대법원장 제청에 관여할 수 없어…국회 관여는 위헌”",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNU9hdFo5QUgzd2FQT0dseUp6VWFxcGMwdTQwdjhPSE5JbzlRYlN1YjdWVldwb24zXzNQZDFBOHhHRjRRX3M3RGRWRGZILTVOME9PTm9acHEydHdxbHphci1oN1BiUWFw?oc=5"
+      "press": "SBS 뉴스",
+      "title": "\"엄마가 내 엄마라 행복했어\"…여행 중 쓰러진 50대, 3명 살렸다 [자막뉴스]",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fUTh3MV9YVEEyTjd6NWktd2NzcGJYcXJpVWgycXB6NUt5UFA0NUJRVS1oNXVMT1duYWZreENhaS15dWozSDN4RnlteTNRbjMtcUx0LTdYV2h1eTFESkNsaklSZjRjbXpJMFHSAWZBVV95cUxNRGtDSndBdzgtLWNtNlozOERRejNhSXFjNGpLdFY1NmFCVHpIVHoweEx1NkRDMzBxaWdSVkRXX2Rsc1duZmtqN3JnNUMzeWhFTkRVRUVEWjdQSXgxYTdWalZLdUhSZlE?oc=5"
      }
     ]
    }
   },
   {
-   "title": "\"초보는 신지 마라\" 황영조의 경고…30만원 주고 샀다가 '낭패'",
-   "source": "한국경제",
-   "url": "https://n.news.naver.com/article/015/0005339497",
-   "published_at": "2026-10-06T12:01:14+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "최근 러닝 인구가 급증하며 카본 러닝화가 인기를 끌고 있지만 제품별로 충격 흡수와 안정성, 무릎 피로도 등에 차이가 큰 것으로 나타났다. 소비자원은 “카본 러닝화는…",
-   "summary_long": "러닝 입문한 지 5개월 차인 30대 직장인 최모씨는 최근 30만원대 카본 러닝화를 처음 샀다가 신고 달리던 중 발목을 접질렸다. 최근 러닝 인구가 급증하며 카본 러닝화가 인기를 끌고 있지만 제품별로 충격 흡수와 안정성, 무릎 피로도 등에 차이가 큰 것으로 나타났다. 6일 한국소비자원은 소비자 사용 경험이 많은 카본 러닝화 7개 브랜드 7종을 대상으로 기능성과 내구성, 안전성, 가격 등을 시험·평가한 결과를 공개했다.\n\n소비자원이 성인 남성 30명을 대상으로 러닝 때 나타나는 생체역학적 특성을 측정한 결과 추진력은 시험 대상 7개 제품 모두 우수했다. 뉴발란스 ‘SC 트레이너 V3’, 스케쳐스 ‘에어로 스파크’, 아식스 ‘매직스피드5’, 푸마 디비에이트 나이트로4, 호카 스카이워드X 등 5개 제품이 상대적으로 피로도가 적은 것으로 평가됐다. 소비자원은 “카본 러닝화는 추진력뿐 아니라 충격 흡수와 무릎 피로도, 견인력 등 제품별 특성이 다르다”며 “러닝 목적과 자신의 신체 특성에 맞는 제품을 선택할 필요가 있다”고 설명했다.",
+   "title": "박지원 “김정일이 ‘육영수 암살’ 사과? 국힘의 거짓말”",
+   "source": "한겨레",
+   "url": "https://n.news.naver.com/article/028/0002826357",
+   "published_at": "2026-10-07T11:42:19+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 502,
+   "comment_agree": 236,
+   "comment_disagree": 52,
+   "division_balance": 0.361111,
+   "division_score": 2.04621,
+   "selection": "찬반 쟁점",
+   "summary": "1974년 육영수 여사 피격 사건을 다룬 영화 ‘암살자’과 관련해 주진우 국민의힘 의원 등이 ‘북한이 육 여사 암살 배후임을 인정하고 박근혜 전 대통령에게 사과했다’는…",
+   "summary_long": "2002년 5월 3박4일 동안 북한을 방문해 김정일 국방위원장을 만나고 돌아온 박근혜 당시 한국미래연합 창당준비위원장. 1974년 육영수 여사 피격 사건을 다룬 영화 ‘암살자(들)’과 관련해 주진우 국민의힘 의원 등이 ‘북한이 육 여사 암살 배후임을 인정하고 박근혜 전 대통령에게 사과했다’는 취지의 주장을 계속하자, 국정원장 출신 박지원 더불어민주당 의원이 “거짓말”이라며 반박했다. 주 의원은 6일 국회에서 열린 법제사법위원회 국정감사에서 “지금 뻔히 북한의 김정일이 자기가 배후라고 자백까지 하고 사과까지 했는데 일부러 영화 제목에 ‘암살자(들)’이라는 복수를 넣어가지고 결과적으로 박정희 대통령이 육영수 여사님 시혜 사건에 배후일 수 있고 북한 소행이 아닐 수 있다는 프레임으로 그…\n\n이어 “그런데 주 의원은 자꾸 ‘문세광 육영수 여사 피격 사건’에 대해 (김 위원장이 당시) 사과를 했다(고 주장한다)”며 “이건 아니다”라고 말했다. 법제사법위원장인 서영교 민주당 의원은 “김 위원장이 불쑥 1968년 북한의 특수부대가 청와대를 습격했던 사태에 대해 사과의 뜻을 전했다”는 자서전 구절을 읽은 뒤 “(사과한 건) 김신조 사건”이라고 했다. 주 의원은 지난 4일 페이스북에 “김정일이 (육 여사 암살은) 북한의 만행임을 시인하고 사과까지 했다”고 적었다.",
    "quotes": [
-    "카본 러닝화는 추진력뿐 아니라 충격 흡수와 무릎 피로도, 견인력 등 제품별 특성이 다르다",
-    "러닝 목적과 자신의 신체 특성에 맞는 제품을 선택할 필요가 있다"
+    "(2002년 5월) 박근혜 당시 대표와 김정일 (국방)위원장이 평양에서 만났다. ‘우리 둘이 남한·북한을 이끈 지도자들의 후예들로서 한 번 손 잡고 잘 해보자’는 얘기를 하고 김 위원장이 ‘김신조 사건’에 대해서 사과를 했다",
+    "2002년 박근혜 대통령 방북 당시 북한 김정일은 직접 육영수 여사 시해 사건에 대해 사과했다. 그런데도 좌파들은 이런 영화를 만들면서 표현의 자유라고 한다",
+    "북한 김정일은 박정희 대통령을 시해하려는 과정에서 육영수 여사가 희생된 사건에 대해 직접 사과했다. 북한 소행임을 자백한 것이다"
    ],
-   "press": "한국경제",
-   "photo": "03.jpg",
+   "press": "한겨레",
+   "photo": "05.jpg",
    "quoted": {
-    "quote": "카본 러닝화는 추진력뿐 아니라 충격 흡수와 무릎 피로도, 견인력 등 제품별 특성이 다르다",
-    "n": 1,
+    "quote": "2002년 박근혜 대통령 방북 당시 북한 김정일은 직접 육영수 여사 시해 사건에 대해 사과했다. 그런데도 좌파들은 이런 영화를 만들면서 표현의 자유라고 한다",
+    "n": 4,
     "verified": 0,
     "items": [
      {
-      "press": "한국경제",
-      "title": "\"초보는 신지 마라\" 황영조의 경고…30만원 주고 샀다가 '낭패'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01Qng1ZkZOdXdsUVZrRWN2YzRHNmEtZWdsSVVoWTloYmhnbEhndm1EeVh2ZFBpWlEzblVobTZERndTNGYwbHFlM2dvX29hN0hkQzJDeE5laWhQUQ?oc=5"
+      "press": "주간경향",
+      "title": "박지원 “김정일, 박근혜에 사과한 건 육영수 피살 아니라 김신조···주진우 초선이 거짓말 잘해”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHMVpVSnhZekxPTTZxY0N0OHU4dzBtTEt1d2U5TW43a0E3TlhmLVFHN3Q2cElLNjBwOEE5YVoyVzdiT0V5R1RwTjRuRnRtbmVFa2l4emFVRFVpRWhLamc?oc=5"
+     },
+     {
+      "press": "한겨레",
+      "title": "박지원 “김정일이 ‘육영수 암살’ 사과? 국힘의 거짓말”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zbUlvMnpCOEZmeGV4WVdvcVIyakFCeTBmRVJyelJnQ2txYWE0ampvemJEUnQyRXAxcUY2TjdnNWJ3aktLOUQzNjNYRmk2VWRlcHgxVHJVOTM2V3VuZ1p2ajZ5UFNBSTBfMHRmSGJXSm9zRmxW?oc=5"
+     },
+     {
+      "press": "이데일리",
+      "title": "\"김정일, 박근혜에 육영수 암살 사과\" 어디까지 사실일까",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVWNrd3BvN19HSEFBSEtTM2lNZ0dQWXRjUlpORGJSYmYtMVQ5RVNrYWpjWDVoR0NDS2NoSmwzX3cwdGNwam9nT21aRGUzay1fVFlBUGQzaE42bWlwTE5zZnJyanVBaEhQZjhIWVVtOGNCZk1xZ3pWU29OSS00Mlltag?oc=5"
+     },
+     {
+      "press": "Calgary Roughnecks",
+      "title": "스포츠 토토 팁 제로 모바일에서 사운드가 안 들릴 때",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPektvUkl5SHpLckhPaElNcmhiOEpNMF84eDlOazNXTkRfOGR1cTBkWjI2WlVFdlFoVndnaWRnX3Bfb0ctN3Fab3M5RFZxenYyc0NPaWZxbHR1ckRLb2l6dm9XX2t6TVZUbVdxdnBic2NpdV93RnFaTnRTVU83c2ZGN1dIT0pJbEQ3dGtGRVI1R29UaGFuMU1NTVNoTU5DcjViNVRybmRFVXBsVXM3T2hhSWNtTDlfdmlUcmRoZWItYVhRdEE1OE1hdHFmTmdIWlh1RWVlWTZxU2g5aXFuVC10VnFzX24xNFk?oc=5"
      }
     ]
    }
   },
   {
-   "title": "“조문객 없어도 괜찮아”…‘스몰 웨딩’ 이어 ‘스몰 엔딩’ 뜬다",
-   "source": "KBS",
-   "url": "https://n.news.naver.com/article/056/0012268445",
-   "published_at": "2026-10-06T13:39:18+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "빈소를 차리지 않고 가족끼리 조용히 고인을 보내는, 이른바 '무빈소 장례'입니다. 이 가운데 빈소를 차리지 않은 것으로 집계된 장례는 2만 5,045건으로, 전체의…",
-   "summary_long": "빈소를 차리지 않고 가족끼리 조용히 고인을 보내는, 이른바 '무빈소 장례'입니다. 이 가운데 빈소를 차리지 않은 것으로 집계된 장례는 2만 5,045건으로, 전체의 7.1%입니다. 제주에서 빈소를 차리지 않은 장례는 2021년 238건에서 2022년 276건, 2023년 265건, 2024년 273건으로 등락하다 지난해 358건으로 크게 늘었습니다.\n\n특히 서귀포의료원 장례식장에서는 지난해 치러진 장례 491건 가운데 126건, 25.7%가 빈소를 차리지 않은 장례였습니다. 결국 '제주 장례 10건 가운데 1건이 무빈소'라는 수치는 장례식장에 빈소를 설치하지 않은 규모를 보여줄 뿐, 그만큼의 유족이 자발적으로 '작은 장례'를 선택했다는 의미는 아닙니다. 김 교수는 \"'무빈소 장례'라는 말이 빈소가 없다는 점에만 초점을 맞추면서 조용히 고인을 추모하고 애도하는 장례의 의미를 제대로 담지 못한다\"고 꼬집었습니다.",
-   "quotes": [
-    "가족 또는 소수의 사람이 조용하게 모여 돌아가신 분을 추모한다는 의미로 '작은 장례식'이나 '스몰 퓨너럴(small funeral)', '가족장' 등 우리의 정서에 맞는 용어를 써야 한다",
-    "음식이나 안치비, 분향소 사용료 등이 부담돼 지출을 줄이기 위해 선택하는 경우도 있고, 핵가족의 경우 조문객이 많지 않아 차라리 조용한 장례식을 택하기도 한다",
-    "조문객 500명 규모의 일반 장례를 치르면 장례용품과 빈소, 음식, 답례품 등을 포함해 전체 비용이 1,500만~1,600만 원가량 든다"
-   ],
-   "press": "KBS",
-   "photo": "04.jpg"
-  },
-  {
-   "title": "180도 달라진 조희대...\"제2의 윤석열? 모욕적\" 반박",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002415413",
-   "published_at": "2026-10-06T18:24:43+09:00",
-   "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 541,
-   "comment_agree": 421,
-   "comment_disagree": 107,
-   "division_balance": 0.405303,
-   "division_score": 2.541651,
-   "selection": "찬반 쟁점",
-   "summary": "지난해 국정감사 땐 줄곧 입을 닫았던 조희대 대법원장, 올해는 달랐습니다. 지난해 대법원 국정감사장, 조희대 대법원장은 관례에 따라 미리 준비한 인사말만 읽은 뒤…",
-   "summary_long": "지난해 국정감사 땐 줄곧 입을 닫았던 조희대 대법원장, 올해는 달랐습니다. 12·3 비상계엄 당시 대법원이 침묵했단 의혹 등에 사실이 아니라며 조목조목 반박했고, '제2의 윤석열'이란 비판에도 입을 열었습니다. 지난해 대법원 국정감사장, 조희대 대법원장은 관례에 따라 미리 준비한 인사말만 읽은 뒤 100분 동안 침묵을 지켰습니다.\n\n올해도 일반 증인으로 채택된 조 대법원장은 인사말로 답변을 대신하는 듯했지만, 잇따르는 여당 의원들의 질의에 작심한 듯 입을 열었습니다. 조 대법원장이 비상계엄 당시 지시사항을 직접 설명한 건 이번이 처음인데, 서부지법 난동 사태 때도 대법원이 적극적으로 대응했다고 해명했습니다. [조희대 / 대법원장 : (혹시 제2의 윤석열을 꿈꾸는 겁니까?) 그런 말씀은 너무 모욕적이고 서글픈 일입니다.].",
-   "press": "YTN",
-   "photo": "05.jpg"
-  },
-  {
-   "title": "[속보] 조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\"",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002415189",
-   "published_at": "2026-10-06T12:19:00+09:00",
+   "title": "“부엉이바위 긁혔냐” 김태규 또 막말…민주 “인간 도리 저버려”",
+   "source": "한겨레",
+   "url": "https://n.news.naver.com/article/028/0002826352",
+   "published_at": "2026-10-07T11:22:12+09:00",
    "section_id": "100",
    "view_rank": 1,
-   "comment_count": 384,
-   "comment_agree": 284,
-   "comment_disagree": 68,
-   "division_balance": 0.386364,
-   "division_score": 2.26659,
+   "comment_count": 1420,
+   "comment_agree": 234,
+   "comment_disagree": 43,
+   "division_balance": 0.310469,
+   "division_score": 1.747204,
    "selection": "찬반 쟁점",
-   "summary": "조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\" 7개 언론사6,803개 기사.",
-   "summary_long": "조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\" 조희대 대법원장 \"제청에 간섭하는 건 위헌적 조치\" 이 기사는 언론사에서 정치 섹션으로 분류했습니다.\n\n7개 언론사6,803개 기사. 트럼프 \"이란, LA·샌디에이고 파괴하게 둬라\"...논란 확산.",
+   "summary": "김태규 국민의힘 의원 유튜브 갈무리. 국민의힘 원내수석대변인 김태규 의원이 국정감사 도중 노무현 전 대통령이 숨진 부엉이바위를 언급한 것을 두고 더불어민주당에서 “인간의…",
+   "summary_long": "국민의힘 원내수석대변인 김태규 의원이 국정감사 도중 노무현 전 대통령이 숨진 부엉이바위를 언급한 것을 두고 더불어민주당에서 “인간의 도리를 저버렸다”는 비판이 나왔다. 문제의 발언은 6일 오전 국회 법제사법위원회 국정감사에서 손솔 진보당 의원이 조희대 대법원장에게 질의하던 도중 나왔다. 손 의원이 조 대법원장에게 “혹시 제2의 윤석열을 꿈꾸나”라며 질의를 이어가자 김 의원은 갑작스레 “우리 부엉이바위의 진실이나 하나 만듭시다”라고 웃으며 말했다.\n\n손 의원에 앞서 주진우 국민의힘 의원이 영화 ‘암살자(들)’ 관련 질의를 했는데 김 의원의 발언 역시 영화와 관련된 언급으로 보인다. 그럼에도 김 의원은 “패륜 영화(‘암살자(들)’)는 보자고 하면서 부엉이바위는 긁혀?”라고 반발했고 “인간이 돼라”는 말을 박 의원이 먼저 했다는 취지로 항의했다. 김 의원은 “‘인간이 돼라’ 등 표현들은 다 민주당 의원들하고 조국혁신당 의원들 입에서 나온 얘기”라며 “언성이 높았던 건 맞다.",
    "quotes": [
-    "5·18 땐 밤 12시 이후 계엄…난 국회에 시간 주려 10시",
-    "계엄 협조 안해…'위헌적 행위니 명단도 주지 말라' 지시",
-    "이란, LA·샌디에이고 파괴하게 둬라...치러야할 대가"
+    "전직 대통령의 죽음을 조롱거리로 삼는 자가 감히 누구에게 ‘인간이 돼라’고 합니까. 인간의 도리를 저버린 것은 바로 김 의원 자신",
+    "언성이 높았던 건 맞다. 근데 이런 얘기 듣고 언성이 안 높으면 돌부처다. 대단히 송구스럽게도 제가 돌부처까지는 못 된다",
+    "당최 상황 파악을 하지 못하면서 소리만 치는 것이 좋은 의정 활동이라고 착각하고 있는 것 같다"
    ],
-   "press": "YTN",
+   "press": "한겨레",
    "photo": "06.jpg",
    "quoted": {
-    "quote": "5·18 땐 밤 12시 이후 계엄…난 국회에 시간 주려 10시",
-    "n": 10,
+    "quote": "언성이 높았던 건 맞다. 근데 이런 얘기 듣고 언성이 안 높으면 돌부처다. 대단히 송구스럽게도 제가 돌부처까지는 못 된다",
+    "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "한겨레",
-      "title": "마이크 잡은 윤석열 “5·18 땐 밤 12시 이후 계엄…난 국회에 시간 주려 10시”",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yUnBvVFJsSmQtU1Npa0J5TjNqMy1XQi1mQXFSZjZnejFMVHZjeHA0VmlybzlZX0Q3dDdNcDd5djJCcjFnRm9MTm00Z0J3dnhKZGRsZE8tWGo3SV91bkNnNVFia0lORHl4OWhCallhRnVpQQ?oc=5"
-     },
-     {
-      "press": "한겨레",
-      "title": "카본 러닝화 7종 신어보니…충격흡수는 나이키·푸마, 가격은 스케쳐스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PdmUzVHo2Wk8wOUJCelVGTDV5QXUzM2JDYjhMUU9oeGZHVDg0ei02bFk3a2ViMHRzN0EzeHFpbzJGVHdkZGtmY05oOG52X2hZdWVaVkw2RW00YzNuYVlnVjIwZE1McFE3?oc=5"
-     },
-     {
-      "press": "한겨레",
-      "title": "“위고비·마운자로 팝니다”…‘비만약’ 온라인 불법 판매 등 949건 적발",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ka0lTcWoxTTV0Zm9iYXRtYmI5SWhVMmpmRGFPNWtwX2ltWEF1R3ZxcV91RDFzcEhyR01CbGEzTUlvSFRJdDNzUGdzZEN6RzBLaUlXNXRGN21rZVZCb2VTQmpaeFo4dw?oc=5"
-     },
-     {
       "press": "Daum",
-      "title": "조희대 “계엄은 위헌, 전혀 협조 안 해…‘계엄사에 명단 주지 말라’ 지시”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XdHEyZDQxYUpKSEI4dndxdGsxVlIxUzIzVlJObHFLTEtpZ0JaTzhNOTc1bDZKZW5nU3R0eHl1eDVCRkd5Z1MyTHRfdHF1M28?oc=5"
+      "title": "“부엉이바위 긁혔냐” 김태규 또 막말…민주 “인간 도리 저버려”",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBGNXNzcDUzMnRlYVg0cFpkNEV2a3RuUGFac1JvVllXU1RJSEdnY2FieVE2Q29oSDNvbGxYTG9JVHlhdU9wN1E?oc=5"
+     },
+     {
+      "press": "위키트리",
+      "title": "국정감사 도중 “부엉이 바위에 긁혔어?” 외쳐 현장 아수라장 만든 국회의원",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFX2hSTWZaZEpwekV4ZkpISWFMS0Uxckc0emFTcG82aXE4S29sdkM3RlJlZDg4bGJJVm02RDZaanAxSmZqUXVScTJMZlNlUGVodEtmZmlR?oc=5"
      },
      {
       "press": "한겨레",
-      "title": "알시시 이집트 대통령 7~9일 국빈 방한…공급망 등 협의",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEcDV2QzVKTHdONXVRbzFyTEVNdXRkeGdaX3ctcEo0SXNxZ2JyUXh3SHhoTGNDZTJvWktzVFZjbE5qMzN1V25JbmtjdUVvZGFENUFtd3lLc0tMdUxCalViVVFnSFZFMW95cFBr?oc=5"
-     },
-     {
-      "press": "한겨레",
-      "title": "[뉴스 다이브] 조희대, 국감서 ‘선서 거부’",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WcWxDWXp0bS1OeDJnX0E0T3cwQ3pMVFUtQ2lLRm5kaFFaX25LNGtnd2dMdl9fNWRCUnN4aEczXzVrWEdRclBQUVllMV9rR3BpTmRuVEtLMHRqaTVyRERwRkZWbkx2OHlPWl92bnFUTklyUUN1?oc=5"
+      "title": "“부엉이바위 긁혔냐”는 김태규에 민주 “인간 도리 저버려”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByaHU0ZFpDMmNnQ1JCX0dWZWE1cmN5TGRZUFJEcUpQc1pRR00xN3dTekYyVFBOenl1c09EVTV2Z25EcXFWbVl3eEliRGxUeUlEOS04cEtVTEFpS0hDZmFQZUxmZHBQTFB2X2lkQW94UGgwTnA4?oc=5"
      }
     ]
    }
   },
   {
-   "title": "조희대 \"대법관 제청에 국회·대통령 간섭은 위헌\"",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002415227",
-   "published_at": "2026-10-06T13:32:31+09:00",
+   "title": "\"K팝은 한계에 봉착\" 작심 발언…JYP 포문 열었다",
+   "source": "SBS",
+   "url": "https://n.news.naver.com/article/055/0001393751",
+   "published_at": "2026-10-07T14:25:56+09:00",
    "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 323,
-   "comment_agree": 189,
-   "comment_disagree": 42,
-   "division_balance": 0.363636,
-   "division_score": 1.980632,
+   "view_rank": 4,
+   "comment_count": 223,
+   "comment_agree": 292,
+   "comment_disagree": 51,
+   "division_balance": 0.297376,
+   "division_score": 1.736867,
    "selection": "찬반 쟁점",
-   "summary": "국정감사에 출석한 조희대 대법원장이 '대법관 재제청 논란' 관련 질의에, 대법원장의 제청권에 대통령과 국회가 간섭하는 건 위헌이라고 말했습니다. 조희대 대법원장이 대법관…",
-   "summary_long": "조희대, 계엄 협조 의혹에 \"전혀 협조한 적 없어\" 국정감사에 출석한 조희대 대법원장이 '대법관 재제청 논란' 관련 질의에, 대법원장의 제청권에 대통령과 국회가 간섭하는 건 위헌이라고 말했습니다. 그간 대법관 임명을 두고 협의해온 건 헌법에 근거가 없지만 대법원장이 자진해서 한 거라며, 자신은 헌법상 권한과 의무를 다했다고 주장했습니다.\n\n네, 국회 법제사법위원회 국정감사에 출석한 조희대 대법원장은 민주당 의원들의 집중 질문 공세를 받았는데요. 대법원장이 국회 동의나 대통령의 임명에 관여할 수 없듯, 국회와 대통령도 대법원장의 제청권에 전혀 관여할 수 없다고 주장했습니다. 국회 법사위가 대법원장의 제청에 간섭하는 건 헌법이 명문으로 정한 기관 간 권한 분배와 사법권 독립에 반한다며, 위헌이라고 목소리를 높였습니다.",
-   "press": "YTN",
+   "summary": "박진영 대통령 직속 대중문화교류위원회 공동위원장이 오늘 서울 여의도 국회에서 열린 국회 문화체육관광위원회의 문화체육관광부 국정감사에 증인으로 출석했습니다. 박 위원장은…",
+   "summary_long": "박진영 대통령 직속 대중문화교류위원회 공동위원장이 오늘(7일) 서울 여의도 국회에서 열린 국회 문화체육관광위원회의 문화체육관광부 국정감사에 증인으로 출석했습니다. 박 위원장은 앞서 대중문화교류위원회 활동과 관련해 제기된 논란에 대해 국감에 출석해 진정성 있게 답하겠다고 밝힌 바 있습니다. 자세한 내용은 영상으로 전하겠습니다.\n\n(구성 : 김민정 / 영상편집 : 정용희 / 디자인 : 육도현 / 제작 : 디지털뉴스부).",
+   "press": "SBS",
    "photo": "07.jpg"
   }
  ],
@@ -251,139 +279,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/01.png",
-   "pngBytes": 1476810,
-   "feed": "오늘의 뉴스 2026-10-07\n\n· \"北에는 찍소리도 못 하면서\" 한동훈에 \"답변 거부\"한다는 조현... 국감장 정면 충돌\n· 조희대 국감 출석 \"증인선서·증언거부\" 서영교 이석 불허… \"체포·감금하냐\"\n· \"초보는 신지 마라\" 황영조의 경고…30만원 주고 샀다가 '낭패'\n· “조문객 없어도 괜찮아”…‘스몰 웨딩’ 이어 ‘스몰 엔딩’ 뜬다\n· 180도 달라진 조희대...\"제2의 윤석열? 모욕적\" 반박\n· [속보] 조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\"\n· 조희대 \"대법관 제청에 국회·대통령 간섭은 위헌\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/01.png",
+   "pngBytes": 2023295,
+   "feed": "오늘의 뉴스 2026-10-08\n\n· ‘무보수 논란’ 박진영 “받는 줄 몰랐다. 당장 반납하고 싶지만…”\n· ‘반이재명’서 한동훈 29.4% 장동혁 23.4% 오세훈 15.2%순 지지…韓 복당엔 46.2%\n· 25년 투병에도 봉사 이어온 50대…장기기증으로 3명 살리고 떠나\n· \"엄마가 내 엄마라 행복했어\"…여행 중 쓰러진 50대, 3명 살렸다 [자막뉴스]\n· 박지원 “김정일이 ‘육영수 암살’ 사과? 국힘의 거짓말”\n· “부엉이바위 긁혔냐” 김태규 또 막말…민주 “인간 도리 저버려”\n· \"K팝은 한계에 봉착\" 작심 발언…JYP 포문 열었다"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/02.png",
-   "pngBytes": 1488446,
-   "title": "\"北에는 찍소리도 못 하면서\" 한동훈에 \"답변 거부\"한다는 조현... 국감장 정면 충돌",
-   "summary": "조현 외교부 장관이 6일 서울 여의도 국회에서 열린 외교통일위원회 국정감사에서 업무보고를 하고 있다. 조현 외교부 장관과 한동훈 무소속 의원이 6일 열린 국회…",
-   "summary_long": "한동훈 \"장관이 가르치는 게 맞나\" 조현 외교부 장관이 6일 서울 여의도 국회에서 열린 외교통일위원회 국정감사에서 업무보고를 하고 있다. 조현 외교부 장관과 한동훈 무소속 의원이 6일 열린 국회 국정감사장에서 설전을 벌였다.\n\n한 의원은 이날 국회에서 열린 외교부 대상 국감에서 최근 이재명 대통령이 북한군 2명의 포로 송환을 일방적으로 공개한 우크라이나를 공개 비판하고 이에 대한 사과를 요구한 것과 관련, \"(북한의) 김여정에게는 찍소리도 못 하면서 우크라이나에 대해선 쥐 잡듯 하냐, 우크라이나가 주적이냐, 북한이 주적이냐\"… 이에 조 장관은 \"한 의원이 '쥐 잡듯'이라는 표현을 쓰시는 한 질문에 대한 답변을 거부하겠다\"고 답했다. 한 의원은 \"우크라이나에 강단 있게 하는 만큼 왜 북한에는 강단 있게 하지 않느냐\"고 재차 따졌고 조 장관은 \"한 의원님의 기대만큼은 못 미쳤을지 몰라도 북한에 필요한 만큼 강단 있는 대응을 하는 것은 당연하다\"고 맞받았다.",
-   "press": "한국일보",
-   "source": "한국일보",
-   "link": "https://n.news.naver.com/article/469/0000957896",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/02.png",
+   "pngBytes": 2006249,
+   "title": "‘무보수 논란’ 박진영 “받는 줄 몰랐다. 당장 반납하고 싶지만…”",
+   "summary": "JYP엔터테인먼트 창립자인 박진영 대통령 직속 대중문화교류위원회 공동위원장이 7일 국회 문화체육관광위원회 국정감사에 증인으로 출석한다. 박 위원장은 최근 불거진…",
+   "summary_long": "JYP엔터테인먼트 창립자인 박진영 대통령 직속 대중문화교류위원회 공동위원장이 7일 국회 문화체육관광위원회 국정감사(국감)에 증인으로 출석한다. 박 위원장은 최근 불거진 직책수행경비 수령과 글로벌 축제 ‘패노메논(FANOMENON)’ 상표권 우선 출원 논란 등에 대해 직접 소명할 계획이다. 이재명 대통령과 김혜경 여사가 지난달 25일(현지시간) 멕시코시티 GNP 스타디움에서 열린 스트레이시티 콘서트에서 대중문화교류위원회 공동위원장인 박진영 JYP엔터테인먼트 대표 프로듀서와 기념촬영을 하고 있다.\n\n연합뉴스 박 위원장은 국감 출석을 하루 앞둔 전날 SBS 라디오 ‘김태현의 정치쇼’에 출연해 “일할 때 가장 힘든 건 진정성을 의심받을 때”라며 “거짓말하면 위증죄로 처벌받을 수 있는 증인 자격으로 나가야 진심을 믿어주실 것 같았다. 박 위원장은 “4대 기획사(하이브·JYP·SM·YG)가 뭉치는 데 있어 신뢰가 핵심인데, JYP가 상표권을 독점하려 한다면 누가 협조하겠느냐”며 “해외 등록에만 수억 원이 들고 선점이 시급해 전담 조직이 있는 JYP가 먼저 등록을 진행한 것뿐이다. 공동위원장인 최휘영 문화체육관광부 장관은 최근 소셜 미디어를 통해 “브랜드 권리를 신속히 보호하기 위해 대중위 대신 JYP가 임시 조치로 우선 확보했던 것”이라며 “전담 법인 설립 후 지분을 정리하고, 이익금은 전액 재투자되며 4대 기획사 라인업 비율도 30% 이내로 제한된다”고 선을 그었다.",
+   "press": "국민일보",
+   "source": "국민일보",
+   "link": "https://n.news.naver.com/article/005/0001877221",
    "selection": "정치",
-   "feed": "뉴스 01. \"北에는 찍소리도 못 하면서\" 한동훈에 \"답변 거부\"한다는 조현... 국감장 정면 충돌\n\n한동훈 \"장관이 가르치는 게 맞나\" 조현 외교부 장관이 6일 서울 여의도 국회에서 열린 외교통일위원회 국정감사에서 업무보고를 하고 있다. 조현 외교부 장관과 한동훈 무소속 의원이 6일 열린 국회 국정감사장에서 설전을 벌였다.\n\n한 의원은 이날 국회에서 열린 외교부 대상 국감에서 최근 이재명 대통령이 북한군 2명의 포로 송환을 일방적으로 공개한 우크라이나를 공개 비판하고 이에 대한 사과를 요구한 것과 관련, \"(북한의) 김여정에게는 찍소리도 못 하면서 우크라이나에 대해선 쥐 잡듯 하냐, 우크라이나가 주적이냐, 북한이 주적이냐\"… 이에 조 장관은 \"한 의원이 '쥐 잡듯'이라는 표현을 쓰시는 한 질문에 대한 답변을 거부하겠다\"고 답했다. 한 의원은 \"우크라이나에 강단 있게 하는 만큼 왜 북한에는 강단 있게 하지 않느냐\"고 재차 따졌고 조 장관은 \"한 의원님의 기대만큼은 못 미쳤을지 몰라도 북한에 필요한 만큼 강단 있는 대응을 하는 것은 당연하다\"고 맞받았다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000957896"
+   "feed": "뉴스 01. ‘무보수 논란’ 박진영 “받는 줄 몰랐다. 당장 반납하고 싶지만…”\n\nJYP엔터테인먼트 창립자인 박진영 대통령 직속 대중문화교류위원회 공동위원장이 7일 국회 문화체육관광위원회 국정감사(국감)에 증인으로 출석한다. 박 위원장은 최근 불거진 직책수행경비 수령과 글로벌 축제 ‘패노메논(FANOMENON)’ 상표권 우선 출원 논란 등에 대해 직접 소명할 계획이다. 이재명 대통령과 김혜경 여사가 지난달 25일(현지시간) 멕시코시티 GNP 스타디움에서 열린 스트레이시티 콘서트에서 대중문화교류위원회 공동위원장인 박진영 JYP엔터테인먼트 대표 프로듀서와 기념촬영을 하고 있다.\n\n연합뉴스 박 위원장은 국감 출석을 하루 앞둔 전날 SBS 라디오 ‘김태현의 정치쇼’에 출연해 “일할 때 가장 힘든 건 진정성을 의심받을 때”라며 “거짓말하면 위증죄로 처벌받을 수 있는 증인 자격으로 나가야 진심을 믿어주실 것 같았다. 박 위원장은 “4대 기획사(하이브·JYP·SM·YG)가 뭉치는 데 있어 신뢰가 핵심인데, JYP가 상표권을 독점하려 한다면 누가 협조하겠느냐”며 “해외 등록에만 수억 원이 들고 선점이 시급해 전담 조직이 있는 JYP가 먼저 등록을 진행한 것뿐이다. 공동위원장인 최휘영 문화체육관광부 장관은 최근 소셜 미디어를 통해 “브랜드 권리를 신속히 보호하기 위해 대중위 대신 JYP가 임시 조치로 우선 확보했던 것”이라며 “전담 법인 설립 후 지분을 정리하고, 이익금은 전액 재투자되며 4대 기획사 라인업 비율도 30% 이내로 제한된다”고 선을 그었다.\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001877221"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/03.png",
-   "pngBytes": 1930115,
-   "title": "조희대 국감 출석 \"증인선서·증언거부\" 서영교 이석 불허… \"체포·감금하냐\"",
-   "summary": "▲조희대 대법원장이 2026년 10월6일 국회 법사위 소관 대법원 국정감사에서 인사말하고 있다. 조희대 대법원장은 6일 국회 법사위 소관 대법원 법원행정처 국감…",
-   "summary_long": "사진=국회방송 영상 갈무리조희대 대법원장이 국회 법제사법위원회 대법원 국정감사에 출석했으나 증인 선서와 증언을 거부하겠다고 밝히자 서영교 법사위원장이 이석을 허가하지 않아 야당이 반발하는 등 초반부터 충돌했다. 조희대 대법원장은 6일 국회 법사위 소관 대법원 법원행정처 국감 인사말에서 자신의 증인 출석 요구를 두고 \"헌법의 취지에 비추어 법원장의 대법관 제청에 관하여 증언하도록 요구하는 것은 삼권분립과 사법 독립의 원칙을 훼손할 염려가 있다\"라며 \"이번 국정감사에서도 법관 제청에 관한 증언을 요구하고 있어 응… 증인 선서를 하지 않으시겠다는 것이냐\"라고 질의하자 조 대법원장은 \"인사말에서 말씀드린 대로 선서나 증언은 할 수 없음을 말씀드린다\"라고 거듭 답했다.\n\n국회 법사위 야당 간사인 박형수 국민의힘 의원은 \"지금까지 대법원장은 수십 년 동안 인사말을 하고 이석한 뒤 국감이 마무리될 때 인사말씀하는 게 관례였다. 박 간사는 또 \"대법관에 대한 제청은 대법원장 이미 했는데, 청와대가 대통령이 제재청 요구를 했기 때문 아니냐. 국회 법사위 여당 간사인 김의겸 더불어민주당 의원은 \"대법원장부터 관례를 깨기 시작한 것\"이라며 \"이승만 대통령 이후 지금까지 계속 대법원장의 제청 문제, 대법관의 제청 문제는 청와대와 대법원장이 서로 협의하고 합의해서 올라왔다.",
-   "press": "미디어오늘",
-   "source": "미디어오늘",
-   "link": "https://n.news.naver.com/article/006/0000138072",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/03.png",
+   "pngBytes": 1884472,
+   "title": "‘반이재명’서 한동훈 29.4% 장동혁 23.4% 오세훈 15.2%순 지지…韓 복당엔 46.2%",
+   "summary": "민주당 지지층에선 김민석 0.2%p 오른 30.7%, 송영길 3.5%p 뛴 14.3%, 정청래 1.2%p 오른 12.3%, 조국 2.9%p 내린 11.7%, 김부겸…",
+   "summary_long": "민주당 지지층(806명)에선 김민석 0.2%p 오른 30.7%, 송영길 3.5%p 뛴 14.3%, 정청래 1.2%p 오른 12.3%, 조국 2.9%p 내린 11.7%, 김부겸 1.5%p 오른 7.4%, 한동훈 1.4%p 내린 4.5%로 나타났다. 무당층(지지정당 없음 + 모름 244명)은 한동훈 3.7%p 오른 30.7%로 1강이며 오세훈 1.4%p 이탈한 8.7%, 김민석 0.8%p 내린 8.1%, 장동혁·송영길 소폭 동반상승한 6.3% 동률로 뒤를 이었다. 부정평가층(1228명)은 한동훈 1.5%p 더 결집한 29.4%, 장동혁 4.4%p 오른 23.4%, 오세훈 4.2%p 내린 15.2%, 정청래 1.9%p 오른 7.6% 조국 6.4%다.\n\n이념성향별 중도층(781명)은 한동훈 2.2%p 더 결집한 23.4%, 김민석 1.4%p 내린 17.8%, 오세훈 1.2%p 하락한 9.6%, 송영길 3.0%p 약진한 9.3%p 장동혁 1.3%p 빠진 8.3%, 조국 0.7%p 내린 5.7% 순 집계됐다. 보수층(610명) 장동혁 8.7%p 결집한 33.1%, 한동훈 0.3%p 오른 24.8%, 오세훈 6.8%p 빠진 16.1%로 3자만 5%를 넘겼다. 이념 모름(146명)은 한동훈 15.2% 장동혁 12.3% 김민석 11.4% 오세훈 11.3% 김부겸 6.2% 송영길 5.3% 순이다.",
+   "press": "디지털타임스",
+   "source": "디지털타임스",
+   "link": "https://n.news.naver.com/article/029/0003051923",
    "selection": "정치",
-   "feed": "뉴스 02. 조희대 국감 출석 \"증인선서·증언거부\" 서영교 이석 불허… \"체포·감금하냐\"\n\n사진=국회방송 영상 갈무리조희대 대법원장이 국회 법제사법위원회 대법원 국정감사에 출석했으나 증인 선서와 증언을 거부하겠다고 밝히자 서영교 법사위원장이 이석을 허가하지 않아 야당이 반발하는 등 초반부터 충돌했다. 조희대 대법원장은 6일 국회 법사위 소관 대법원 법원행정처 국감 인사말에서 자신의 증인 출석 요구를 두고 \"헌법의 취지에 비추어 법원장의 대법관 제청에 관하여 증언하도록 요구하는 것은 삼권분립과 사법 독립의 원칙을 훼손할 염려가 있다\"라며 \"이번 국정감사에서도 법관 제청에 관한 증언을 요구하고 있어 응… 증인 선서를 하지 않으시겠다는 것이냐\"라고 질의하자 조 대법원장은 \"인사말에서 말씀드린 대로 선서나 증언은 할 수 없음을 말씀드린다\"라고 거듭 답했다.\n\n국회 법사위 야당 간사인 박형수 국민의힘 의원은 \"지금까지 대법원장은 수십 년 동안 인사말을 하고 이석한 뒤 국감이 마무리될 때 인사말씀하는 게 관례였다. 박 간사는 또 \"대법관에 대한 제청은 대법원장 이미 했는데, 청와대가 대통령이 제재청 요구를 했기 때문 아니냐. 국회 법사위 여당 간사인 김의겸 더불어민주당 의원은 \"대법원장부터 관례를 깨기 시작한 것\"이라며 \"이승만 대통령 이후 지금까지 계속 대법원장의 제청 문제, 대법관의 제청 문제는 청와대와 대법원장이 서로 협의하고 합의해서 올라왔다.\n\n출처: 미디어오늘 / https://n.news.naver.com/article/006/0000138072"
+   "feed": "뉴스 02. ‘반이재명’서 한동훈 29.4% 장동혁 23.4% 오세훈 15.2%순 지지…韓 복당엔 46.2%\n\n민주당 지지층(806명)에선 김민석 0.2%p 오른 30.7%, 송영길 3.5%p 뛴 14.3%, 정청래 1.2%p 오른 12.3%, 조국 2.9%p 내린 11.7%, 김부겸 1.5%p 오른 7.4%, 한동훈 1.4%p 내린 4.5%로 나타났다. 무당층(지지정당 없음 + 모름 244명)은 한동훈 3.7%p 오른 30.7%로 1강이며 오세훈 1.4%p 이탈한 8.7%, 김민석 0.8%p 내린 8.1%, 장동혁·송영길 소폭 동반상승한 6.3% 동률로 뒤를 이었다. 부정평가층(1228명)은 한동훈 1.5%p 더 결집한 29.4%, 장동혁 4.4%p 오른 23.4%, 오세훈 4.2%p 내린 15.2%, 정청래 1.9%p 오른 7.6% 조국 6.4%다.\n\n이념성향별 중도층(781명)은 한동훈 2.2%p 더 결집한 23.4%, 김민석 1.4%p 내린 17.8%, 오세훈 1.2%p 하락한 9.6%, 송영길 3.0%p 약진한 9.3%p 장동혁 1.3%p 빠진 8.3%, 조국 0.7%p 내린 5.7% 순 집계됐다. 보수층(610명) 장동혁 8.7%p 결집한 33.1%, 한동훈 0.3%p 오른 24.8%, 오세훈 6.8%p 빠진 16.1%로 3자만 5%를 넘겼다. 이념 모름(146명)은 한동훈 15.2% 장동혁 12.3% 김민석 11.4% 오세훈 11.3% 김부겸 6.2% 송영길 5.3% 순이다.\n\n출처: 디지털타임스 / https://n.news.naver.com/article/029/0003051923"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/04.png",
-   "pngBytes": 2127011,
-   "title": "\"초보는 신지 마라\" 황영조의 경고…30만원 주고 샀다가 '낭패'",
-   "summary": "최근 러닝 인구가 급증하며 카본 러닝화가 인기를 끌고 있지만 제품별로 충격 흡수와 안정성, 무릎 피로도 등에 차이가 큰 것으로 나타났다. 소비자원은 “카본 러닝화는…",
-   "summary_long": "러닝 입문한 지 5개월 차인 30대 직장인 최모씨는 최근 30만원대 카본 러닝화를 처음 샀다가 신고 달리던 중 발목을 접질렸다. 최근 러닝 인구가 급증하며 카본 러닝화가 인기를 끌고 있지만 제품별로 충격 흡수와 안정성, 무릎 피로도 등에 차이가 큰 것으로 나타났다. 6일 한국소비자원은 소비자 사용 경험이 많은 카본 러닝화 7개 브랜드 7종을 대상으로 기능성과 내구성, 안전성, 가격 등을 시험·평가한 결과를 공개했다.\n\n소비자원이 성인 남성 30명을 대상으로 러닝 때 나타나는 생체역학적 특성을 측정한 결과 추진력은 시험 대상 7개 제품 모두 우수했다. 뉴발란스 ‘SC 트레이너 V3’, 스케쳐스 ‘에어로 스파크’, 아식스 ‘매직스피드5’, 푸마 디비에이트 나이트로4, 호카 스카이워드X 등 5개 제품이 상대적으로 피로도가 적은 것으로 평가됐다. 소비자원은 “카본 러닝화는 추진력뿐 아니라 충격 흡수와 무릎 피로도, 견인력 등 제품별 특성이 다르다”며 “러닝 목적과 자신의 신체 특성에 맞는 제품을 선택할 필요가 있다”고 설명했다.",
-   "press": "한국경제",
-   "source": "한국경제",
-   "link": "https://n.news.naver.com/article/015/0005339497",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/04.png",
+   "pngBytes": 1804236,
+   "title": "25년 투병에도 봉사 이어온 50대…장기기증으로 3명 살리고 떠나",
+   "summary": "선한 영향력을 끼치자는 마음으로 25년간 투병하면서도 봉사를 이어온 50대 여성이 삶의 마지막 순간 장기기증으로 3명을 살리고 떠났다. 남편 김기선 씨는 \"평소 아내와…",
+   "summary_long": "\"'선한 영향력 끼치자'던 엄마의 가치관 이어갈게\" 선한 영향력을 끼치자는 마음으로 25년간 투병하면서도 봉사를 이어온 50대 여성이 삶의 마지막 순간 장기기증으로 3명을 살리고 떠났다. 7일 한국장기조직기증원에 따르면 구진희(55) 씨는 지난달 18일 고신대복음병원에서 뇌사 판정후 3명에게 간과 양쪽 신장을 기증했다.\n\n남편 김기선 씨는 \"평소 아내와 마지막 순간 장기를 기증하면 좋은 일 아니겠냐는 이야기를 나눴다\"며 \"딸들도 아내에게 같은 이야기를 들었다고 해서 고인의 뜻을 따르기로 했다\"고 말했다. 큰딸 지수 씨는 \"앞으로도 '엄마라면 어떻게 했을까'를 생각하며 엄마의 가치관을 이어가겠다\"라고 다짐했고, 작은딸 지원 씨는 \"엄마가 내 엄마라서 너무 행복했다\"라고 엄마를 자랑스러워했다. 남편 김 씨는 아내에게 \"여보, 당신을 만난 지 33년 함께했던 행복한 시간들 잘 간직할게.",
+   "press": "연합뉴스",
+   "source": "연합뉴스",
+   "link": "https://n.news.naver.com/article/001/0016361563",
    "selection": "경제·시사",
-   "feed": "뉴스 03. \"초보는 신지 마라\" 황영조의 경고…30만원 주고 샀다가 '낭패'\n\n러닝 입문한 지 5개월 차인 30대 직장인 최모씨는 최근 30만원대 카본 러닝화를 처음 샀다가 신고 달리던 중 발목을 접질렸다. 최근 러닝 인구가 급증하며 카본 러닝화가 인기를 끌고 있지만 제품별로 충격 흡수와 안정성, 무릎 피로도 등에 차이가 큰 것으로 나타났다. 6일 한국소비자원은 소비자 사용 경험이 많은 카본 러닝화 7개 브랜드 7종을 대상으로 기능성과 내구성, 안전성, 가격 등을 시험·평가한 결과를 공개했다.\n\n소비자원이 성인 남성 30명을 대상으로 러닝 때 나타나는 생체역학적 특성을 측정한 결과 추진력은 시험 대상 7개 제품 모두 우수했다. 뉴발란스 ‘SC 트레이너 V3’, 스케쳐스 ‘에어로 스파크’, 아식스 ‘매직스피드5’, 푸마 디비에이트 나이트로4, 호카 스카이워드X 등 5개 제품이 상대적으로 피로도가 적은 것으로 평가됐다. 소비자원은 “카본 러닝화는 추진력뿐 아니라 충격 흡수와 무릎 피로도, 견인력 등 제품별 특성이 다르다”며 “러닝 목적과 자신의 신체 특성에 맞는 제품을 선택할 필요가 있다”고 설명했다.\n\n출처: 한국경제 / https://n.news.naver.com/article/015/0005339497"
+   "feed": "뉴스 03. 25년 투병에도 봉사 이어온 50대…장기기증으로 3명 살리고 떠나\n\n\"'선한 영향력 끼치자'던 엄마의 가치관 이어갈게\" 선한 영향력을 끼치자는 마음으로 25년간 투병하면서도 봉사를 이어온 50대 여성이 삶의 마지막 순간 장기기증으로 3명을 살리고 떠났다. 7일 한국장기조직기증원에 따르면 구진희(55) 씨는 지난달 18일 고신대복음병원에서 뇌사 판정후 3명에게 간과 양쪽 신장을 기증했다.\n\n남편 김기선 씨는 \"평소 아내와 마지막 순간 장기를 기증하면 좋은 일 아니겠냐는 이야기를 나눴다\"며 \"딸들도 아내에게 같은 이야기를 들었다고 해서 고인의 뜻을 따르기로 했다\"고 말했다. 큰딸 지수 씨는 \"앞으로도 '엄마라면 어떻게 했을까'를 생각하며 엄마의 가치관을 이어가겠다\"라고 다짐했고, 작은딸 지원 씨는 \"엄마가 내 엄마라서 너무 행복했다\"라고 엄마를 자랑스러워했다. 남편 김 씨는 아내에게 \"여보, 당신을 만난 지 33년 함께했던 행복한 시간들 잘 간직할게.\n\n출처: 연합뉴스 / https://n.news.naver.com/article/001/0016361563"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/05.png",
-   "pngBytes": 1776092,
-   "title": "“조문객 없어도 괜찮아”…‘스몰 웨딩’ 이어 ‘스몰 엔딩’ 뜬다",
-   "summary": "빈소를 차리지 않고 가족끼리 조용히 고인을 보내는, 이른바 '무빈소 장례'입니다. 이 가운데 빈소를 차리지 않은 것으로 집계된 장례는 2만 5,045건으로, 전체의…",
-   "summary_long": "빈소를 차리지 않고 가족끼리 조용히 고인을 보내는, 이른바 '무빈소 장례'입니다. 이 가운데 빈소를 차리지 않은 것으로 집계된 장례는 2만 5,045건으로, 전체의 7.1%입니다. 제주에서 빈소를 차리지 않은 장례는 2021년 238건에서 2022년 276건, 2023년 265건, 2024년 273건으로 등락하다 지난해 358건으로 크게 늘었습니다.\n\n특히 서귀포의료원 장례식장에서는 지난해 치러진 장례 491건 가운데 126건, 25.7%가 빈소를 차리지 않은 장례였습니다. 결국 '제주 장례 10건 가운데 1건이 무빈소'라는 수치는 장례식장에 빈소를 설치하지 않은 규모를 보여줄 뿐, 그만큼의 유족이 자발적으로 '작은 장례'를 선택했다는 의미는 아닙니다. 김 교수는 \"'무빈소 장례'라는 말이 빈소가 없다는 점에만 초점을 맞추면서 조용히 고인을 추모하고 애도하는 장례의 의미를 제대로 담지 못한다\"고 꼬집었습니다.",
-   "press": "KBS",
-   "source": "KBS",
-   "link": "https://n.news.naver.com/article/056/0012268445",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/05.png",
+   "pngBytes": 1892321,
+   "title": "\"엄마가 내 엄마라 행복했어\"…여행 중 쓰러진 50대, 3명 살렸다 [자막뉴스]",
+   "summary": "딸과 베트남을 여행하던 중 갑자기 호흡 곤란 증세를 보이며 쓰러진 50대 여성이 장기 기증으로 3명에게 생명을 나눴습니다. 구 씨는 9월 12일 딸과 베트남을 여행하던…",
+   "summary_long": "딸과 베트남을 여행하던 중 갑자기 호흡 곤란 증세를 보이며 쓰러진 50대 여성이 장기 기증으로 3명에게 생명을 나눴습니다. 한국장기조직기증원에 따르면, 9월 18일 고신대학교복음병원에서 55살 구진희 씨가 3명의 환자에게 간과 신장을 나누고 떠났습니다. 몸 상태가 안정될 때면 가족과 함께하는 여행이 구 씨의 큰 즐거움이었고, 항공사 기장인 남편은 여행하는 동안 아픔을 잊고 즐거워하는 아내를 보며 함께 여행 다닐 기회를 자주 마련했습니다.\n\n구 씨는 지난 8월 큰딸 지수 씨가 낳은 첫 손주를 품에 안으며 크게 기뻐했고, 내년 결혼을 앞둔 작은딸 지원 씨와는 결혼 준비를 함께했습니다. [김지수 / 구진희 씨의 큰딸 :엄마가 이제 손주를 많이 기다리기도 했고 아기도 워낙 좋아해서 조금 더 함께 했으면 좋았을 텐데]. 큰딸 지수 씨도 \"앞으로도 '엄마라면 어떻게 했을까'를 생각하며 엄마의 가치관을 이어가겠다\"라고 다짐했고, 작은딸 지원 씨는 \"엄마가 내 엄마라서 너무 행복했다\"며 애틋한 마음을 전했습니다.",
+   "press": "SBS",
+   "source": "SBS",
+   "link": "https://n.news.naver.com/article/055/0001393710",
    "selection": "경제·시사",
-   "feed": "뉴스 04. “조문객 없어도 괜찮아”…‘스몰 웨딩’ 이어 ‘스몰 엔딩’ 뜬다\n\n빈소를 차리지 않고 가족끼리 조용히 고인을 보내는, 이른바 '무빈소 장례'입니다. 이 가운데 빈소를 차리지 않은 것으로 집계된 장례는 2만 5,045건으로, 전체의 7.1%입니다. 제주에서 빈소를 차리지 않은 장례는 2021년 238건에서 2022년 276건, 2023년 265건, 2024년 273건으로 등락하다 지난해 358건으로 크게 늘었습니다.\n\n특히 서귀포의료원 장례식장에서는 지난해 치러진 장례 491건 가운데 126건, 25.7%가 빈소를 차리지 않은 장례였습니다. 결국 '제주 장례 10건 가운데 1건이 무빈소'라는 수치는 장례식장에 빈소를 설치하지 않은 규모를 보여줄 뿐, 그만큼의 유족이 자발적으로 '작은 장례'를 선택했다는 의미는 아닙니다. 김 교수는 \"'무빈소 장례'라는 말이 빈소가 없다는 점에만 초점을 맞추면서 조용히 고인을 추모하고 애도하는 장례의 의미를 제대로 담지 못한다\"고 꼬집었습니다.\n\n출처: KBS / https://n.news.naver.com/article/056/0012268445"
+   "feed": "뉴스 04. \"엄마가 내 엄마라 행복했어\"…여행 중 쓰러진 50대, 3명 살렸다 [자막뉴스]\n\n딸과 베트남을 여행하던 중 갑자기 호흡 곤란 증세를 보이며 쓰러진 50대 여성이 장기 기증으로 3명에게 생명을 나눴습니다. 한국장기조직기증원에 따르면, 9월 18일 고신대학교복음병원에서 55살 구진희 씨가 3명의 환자에게 간과 신장을 나누고 떠났습니다. 몸 상태가 안정될 때면 가족과 함께하는 여행이 구 씨의 큰 즐거움이었고, 항공사 기장인 남편은 여행하는 동안 아픔을 잊고 즐거워하는 아내를 보며 함께 여행 다닐 기회를 자주 마련했습니다.\n\n구 씨는 지난 8월 큰딸 지수 씨가 낳은 첫 손주를 품에 안으며 크게 기뻐했고, 내년 결혼을 앞둔 작은딸 지원 씨와는 결혼 준비를 함께했습니다. [김지수 / 구진희 씨의 큰딸 :엄마가 이제 손주를 많이 기다리기도 했고 아기도 워낙 좋아해서 조금 더 함께 했으면 좋았을 텐데]. 큰딸 지수 씨도 \"앞으로도 '엄마라면 어떻게 했을까'를 생각하며 엄마의 가치관을 이어가겠다\"라고 다짐했고, 작은딸 지원 씨는 \"엄마가 내 엄마라서 너무 행복했다\"며 애틋한 마음을 전했습니다.\n\n출처: SBS / https://n.news.naver.com/article/055/0001393710"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/06.png",
-   "pngBytes": 1860426,
-   "title": "180도 달라진 조희대...\"제2의 윤석열? 모욕적\" 반박",
-   "summary": "지난해 국정감사 땐 줄곧 입을 닫았던 조희대 대법원장, 올해는 달랐습니다. 지난해 대법원 국정감사장, 조희대 대법원장은 관례에 따라 미리 준비한 인사말만 읽은 뒤…",
-   "summary_long": "지난해 국정감사 땐 줄곧 입을 닫았던 조희대 대법원장, 올해는 달랐습니다. 12·3 비상계엄 당시 대법원이 침묵했단 의혹 등에 사실이 아니라며 조목조목 반박했고, '제2의 윤석열'이란 비판에도 입을 열었습니다. 지난해 대법원 국정감사장, 조희대 대법원장은 관례에 따라 미리 준비한 인사말만 읽은 뒤 100분 동안 침묵을 지켰습니다.\n\n올해도 일반 증인으로 채택된 조 대법원장은 인사말로 답변을 대신하는 듯했지만, 잇따르는 여당 의원들의 질의에 작심한 듯 입을 열었습니다. 조 대법원장이 비상계엄 당시 지시사항을 직접 설명한 건 이번이 처음인데, 서부지법 난동 사태 때도 대법원이 적극적으로 대응했다고 해명했습니다. [조희대 / 대법원장 : (혹시 제2의 윤석열을 꿈꾸는 겁니까?) 그런 말씀은 너무 모욕적이고 서글픈 일입니다.].",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002415413",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/06.png",
+   "pngBytes": 2098280,
+   "title": "박지원 “김정일이 ‘육영수 암살’ 사과? 국힘의 거짓말”",
+   "summary": "1974년 육영수 여사 피격 사건을 다룬 영화 ‘암살자’과 관련해 주진우 국민의힘 의원 등이 ‘북한이 육 여사 암살 배후임을 인정하고 박근혜 전 대통령에게 사과했다’는…",
+   "summary_long": "2002년 5월 3박4일 동안 북한을 방문해 김정일 국방위원장을 만나고 돌아온 박근혜 당시 한국미래연합 창당준비위원장. 1974년 육영수 여사 피격 사건을 다룬 영화 ‘암살자(들)’과 관련해 주진우 국민의힘 의원 등이 ‘북한이 육 여사 암살 배후임을 인정하고 박근혜 전 대통령에게 사과했다’는 취지의 주장을 계속하자, 국정원장 출신 박지원 더불어민주당 의원이 “거짓말”이라며 반박했다. 주 의원은 6일 국회에서 열린 법제사법위원회 국정감사에서 “지금 뻔히 북한의 김정일이 자기가 배후라고 자백까지 하고 사과까지 했는데 일부러 영화 제목에 ‘암살자(들)’이라는 복수를 넣어가지고 결과적으로 박정희 대통령이 육영수 여사님 시혜 사건에 배후일 수 있고 북한 소행이 아닐 수 있다는 프레임으로 그…\n\n이어 “그런데 주 의원은 자꾸 ‘문세광 육영수 여사 피격 사건’에 대해 (김 위원장이 당시) 사과를 했다(고 주장한다)”며 “이건 아니다”라고 말했다. 법제사법위원장인 서영교 민주당 의원은 “김 위원장이 불쑥 1968년 북한의 특수부대가 청와대를 습격했던 사태에 대해 사과의 뜻을 전했다”는 자서전 구절을 읽은 뒤 “(사과한 건) 김신조 사건”이라고 했다. 주 의원은 지난 4일 페이스북에 “김정일이 (육 여사 암살은) 북한의 만행임을 시인하고 사과까지 했다”고 적었다.",
+   "press": "한겨레",
+   "source": "한겨레",
+   "link": "https://n.news.naver.com/article/028/0002826357",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 180도 달라진 조희대...\"제2의 윤석열? 모욕적\" 반박\n\n지난해 국정감사 땐 줄곧 입을 닫았던 조희대 대법원장, 올해는 달랐습니다. 12·3 비상계엄 당시 대법원이 침묵했단 의혹 등에 사실이 아니라며 조목조목 반박했고, '제2의 윤석열'이란 비판에도 입을 열었습니다. 지난해 대법원 국정감사장, 조희대 대법원장은 관례에 따라 미리 준비한 인사말만 읽은 뒤 100분 동안 침묵을 지켰습니다.\n\n올해도 일반 증인으로 채택된 조 대법원장은 인사말로 답변을 대신하는 듯했지만, 잇따르는 여당 의원들의 질의에 작심한 듯 입을 열었습니다. 조 대법원장이 비상계엄 당시 지시사항을 직접 설명한 건 이번이 처음인데, 서부지법 난동 사태 때도 대법원이 적극적으로 대응했다고 해명했습니다. [조희대 / 대법원장 : (혹시 제2의 윤석열을 꿈꾸는 겁니까?) 그런 말씀은 너무 모욕적이고 서글픈 일입니다.].\n\n출처: YTN / https://n.news.naver.com/article/052/0002415413"
+   "feed": "뉴스 05. 박지원 “김정일이 ‘육영수 암살’ 사과? 국힘의 거짓말”\n\n2002년 5월 3박4일 동안 북한을 방문해 김정일 국방위원장을 만나고 돌아온 박근혜 당시 한국미래연합 창당준비위원장. 1974년 육영수 여사 피격 사건을 다룬 영화 ‘암살자(들)’과 관련해 주진우 국민의힘 의원 등이 ‘북한이 육 여사 암살 배후임을 인정하고 박근혜 전 대통령에게 사과했다’는 취지의 주장을 계속하자, 국정원장 출신 박지원 더불어민주당 의원이 “거짓말”이라며 반박했다. 주 의원은 6일 국회에서 열린 법제사법위원회 국정감사에서 “지금 뻔히 북한의 김정일이 자기가 배후라고 자백까지 하고 사과까지 했는데 일부러 영화 제목에 ‘암살자(들)’이라는 복수를 넣어가지고 결과적으로 박정희 대통령이 육영수 여사님 시혜 사건에 배후일 수 있고 북한 소행이 아닐 수 있다는 프레임으로 그…\n\n이어 “그런데 주 의원은 자꾸 ‘문세광 육영수 여사 피격 사건’에 대해 (김 위원장이 당시) 사과를 했다(고 주장한다)”며 “이건 아니다”라고 말했다. 법제사법위원장인 서영교 민주당 의원은 “김 위원장이 불쑥 1968년 북한의 특수부대가 청와대를 습격했던 사태에 대해 사과의 뜻을 전했다”는 자서전 구절을 읽은 뒤 “(사과한 건) 김신조 사건”이라고 했다. 주 의원은 지난 4일 페이스북에 “김정일이 (육 여사 암살은) 북한의 만행임을 시인하고 사과까지 했다”고 적었다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002826357"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/07.png",
-   "pngBytes": 1955063,
-   "title": "[속보] 조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\"",
-   "summary": "조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\" 7개 언론사6,803개 기사.",
-   "summary_long": "조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\" 조희대 대법원장 \"제청에 간섭하는 건 위헌적 조치\" 이 기사는 언론사에서 정치 섹션으로 분류했습니다.\n\n7개 언론사6,803개 기사. 트럼프 \"이란, LA·샌디에이고 파괴하게 둬라\"...논란 확산.",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002415189",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/07.png",
+   "pngBytes": 1741685,
+   "title": "“부엉이바위 긁혔냐” 김태규 또 막말…민주 “인간 도리 저버려”",
+   "summary": "김태규 국민의힘 의원 유튜브 갈무리. 국민의힘 원내수석대변인 김태규 의원이 국정감사 도중 노무현 전 대통령이 숨진 부엉이바위를 언급한 것을 두고 더불어민주당에서 “인간의…",
+   "summary_long": "국민의힘 원내수석대변인 김태규 의원이 국정감사 도중 노무현 전 대통령이 숨진 부엉이바위를 언급한 것을 두고 더불어민주당에서 “인간의 도리를 저버렸다”는 비판이 나왔다. 문제의 발언은 6일 오전 국회 법제사법위원회 국정감사에서 손솔 진보당 의원이 조희대 대법원장에게 질의하던 도중 나왔다. 손 의원이 조 대법원장에게 “혹시 제2의 윤석열을 꿈꾸나”라며 질의를 이어가자 김 의원은 갑작스레 “우리 부엉이바위의 진실이나 하나 만듭시다”라고 웃으며 말했다.\n\n손 의원에 앞서 주진우 국민의힘 의원이 영화 ‘암살자(들)’ 관련 질의를 했는데 김 의원의 발언 역시 영화와 관련된 언급으로 보인다. 그럼에도 김 의원은 “패륜 영화(‘암살자(들)’)는 보자고 하면서 부엉이바위는 긁혀?”라고 반발했고 “인간이 돼라”는 말을 박 의원이 먼저 했다는 취지로 항의했다. 김 의원은 “‘인간이 돼라’ 등 표현들은 다 민주당 의원들하고 조국혁신당 의원들 입에서 나온 얘기”라며 “언성이 높았던 건 맞다.",
+   "press": "한겨레",
+   "source": "한겨레",
+   "link": "https://n.news.naver.com/article/028/0002826352",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. [속보] 조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\"\n\n조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\" 조희대 대법원장 \"제청에 간섭하는 건 위헌적 조치\" 이 기사는 언론사에서 정치 섹션으로 분류했습니다.\n\n7개 언론사6,803개 기사. 트럼프 \"이란, LA·샌디에이고 파괴하게 둬라\"...논란 확산.\n\n출처: YTN / https://n.news.naver.com/article/052/0002415189"
+   "feed": "뉴스 06. “부엉이바위 긁혔냐” 김태규 또 막말…민주 “인간 도리 저버려”\n\n국민의힘 원내수석대변인 김태규 의원이 국정감사 도중 노무현 전 대통령이 숨진 부엉이바위를 언급한 것을 두고 더불어민주당에서 “인간의 도리를 저버렸다”는 비판이 나왔다. 문제의 발언은 6일 오전 국회 법제사법위원회 국정감사에서 손솔 진보당 의원이 조희대 대법원장에게 질의하던 도중 나왔다. 손 의원이 조 대법원장에게 “혹시 제2의 윤석열을 꿈꾸나”라며 질의를 이어가자 김 의원은 갑작스레 “우리 부엉이바위의 진실이나 하나 만듭시다”라고 웃으며 말했다.\n\n손 의원에 앞서 주진우 국민의힘 의원이 영화 ‘암살자(들)’ 관련 질의를 했는데 김 의원의 발언 역시 영화와 관련된 언급으로 보인다. 그럼에도 김 의원은 “패륜 영화(‘암살자(들)’)는 보자고 하면서 부엉이바위는 긁혀?”라고 반발했고 “인간이 돼라”는 말을 박 의원이 먼저 했다는 취지로 항의했다. 김 의원은 “‘인간이 돼라’ 등 표현들은 다 민주당 의원들하고 조국혁신당 의원들 입에서 나온 얘기”라며 “언성이 높았던 건 맞다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002826352"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/08.png",
-   "pngBytes": 1726131,
-   "title": "조희대 \"대법관 제청에 국회·대통령 간섭은 위헌\"",
-   "summary": "국정감사에 출석한 조희대 대법원장이 '대법관 재제청 논란' 관련 질의에, 대법원장의 제청권에 대통령과 국회가 간섭하는 건 위헌이라고 말했습니다. 조희대 대법원장이 대법관…",
-   "summary_long": "조희대, 계엄 협조 의혹에 \"전혀 협조한 적 없어\" 국정감사에 출석한 조희대 대법원장이 '대법관 재제청 논란' 관련 질의에, 대법원장의 제청권에 대통령과 국회가 간섭하는 건 위헌이라고 말했습니다. 그간 대법관 임명을 두고 협의해온 건 헌법에 근거가 없지만 대법원장이 자진해서 한 거라며, 자신은 헌법상 권한과 의무를 다했다고 주장했습니다.\n\n네, 국회 법제사법위원회 국정감사에 출석한 조희대 대법원장은 민주당 의원들의 집중 질문 공세를 받았는데요. 대법원장이 국회 동의나 대통령의 임명에 관여할 수 없듯, 국회와 대통령도 대법원장의 제청권에 전혀 관여할 수 없다고 주장했습니다. 국회 법사위가 대법원장의 제청에 간섭하는 건 헌법이 명문으로 정한 기관 간 권한 분배와 사법권 독립에 반한다며, 위헌이라고 목소리를 높였습니다.",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002415227",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/08.png",
+   "pngBytes": 2227492,
+   "title": "\"K팝은 한계에 봉착\" 작심 발언…JYP 포문 열었다",
+   "summary": "박진영 대통령 직속 대중문화교류위원회 공동위원장이 오늘 서울 여의도 국회에서 열린 국회 문화체육관광위원회의 문화체육관광부 국정감사에 증인으로 출석했습니다. 박 위원장은…",
+   "summary_long": "박진영 대통령 직속 대중문화교류위원회 공동위원장이 오늘(7일) 서울 여의도 국회에서 열린 국회 문화체육관광위원회의 문화체육관광부 국정감사에 증인으로 출석했습니다. 박 위원장은 앞서 대중문화교류위원회 활동과 관련해 제기된 논란에 대해 국감에 출석해 진정성 있게 답하겠다고 밝힌 바 있습니다. 자세한 내용은 영상으로 전하겠습니다.\n\n(구성 : 김민정 / 영상편집 : 정용희 / 디자인 : 육도현 / 제작 : 디지털뉴스부).",
+   "press": "SBS",
+   "source": "SBS",
+   "link": "https://n.news.naver.com/article/055/0001393751",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 조희대 \"대법관 제청에 국회·대통령 간섭은 위헌\"\n\n조희대, 계엄 협조 의혹에 \"전혀 협조한 적 없어\" 국정감사에 출석한 조희대 대법원장이 '대법관 재제청 논란' 관련 질의에, 대법원장의 제청권에 대통령과 국회가 간섭하는 건 위헌이라고 말했습니다. 그간 대법관 임명을 두고 협의해온 건 헌법에 근거가 없지만 대법원장이 자진해서 한 거라며, 자신은 헌법상 권한과 의무를 다했다고 주장했습니다.\n\n네, 국회 법제사법위원회 국정감사에 출석한 조희대 대법원장은 민주당 의원들의 집중 질문 공세를 받았는데요. 대법원장이 국회 동의나 대통령의 임명에 관여할 수 없듯, 국회와 대통령도 대법원장의 제청권에 전혀 관여할 수 없다고 주장했습니다. 국회 법사위가 대법원장의 제청에 간섭하는 건 헌법이 명문으로 정한 기관 간 권한 분배와 사법권 독립에 반한다며, 위헌이라고 목소리를 높였습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002415227"
+   "feed": "뉴스 07. \"K팝은 한계에 봉착\" 작심 발언…JYP 포문 열었다\n\n박진영 대통령 직속 대중문화교류위원회 공동위원장이 오늘(7일) 서울 여의도 국회에서 열린 국회 문화체육관광위원회의 문화체육관광부 국정감사에 증인으로 출석했습니다. 박 위원장은 앞서 대중문화교류위원회 활동과 관련해 제기된 논란에 대해 국감에 출석해 진정성 있게 답하겠다고 밝힌 바 있습니다. 자세한 내용은 영상으로 전하겠습니다.\n\n(구성 : 김민정 / 영상편집 : 정용희 / 디자인 : 육도현 / 제작 : 디지털뉴스부).\n\n출처: SBS / https://n.news.naver.com/article/055/0001393751"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-07/09.png",
-   "pngBytes": 1346206
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-08/09.png",
+   "pngBytes": 1345953
   }
  ],
- "caption": "📰 10월 7일 오늘의 뉴스\n\n1. \"北에는 찍소리도 못 하면서\" 한동훈에 \"답변 거부\"한다는 조현... 국감장 정면 충돌\n   조현 외교부 장관이 6일 서울 여의도 국회에서 열린 외교통일위원회 국정감사에서 업무보고를 하고 있다. 조현 외교부 장관과 한동훈 무소속 의원이 6일 열린 국회…\n2. 조희대 국감 출석 \"증인선서·증언거부\" 서영교 이석 불허… \"체포·감금하냐\"\n   ▲조희대 대법원장이 2026년 10월6일 국회 법사위 소관 대법원 국정감사에서 인사말하고 있다. 조희대 대법원장은 6일 국회 법사위 소관 대법원 법원행정처 국감…\n3. \"초보는 신지 마라\" 황영조의 경고…30만원 주고 샀다가 '낭패'\n   최근 러닝 인구가 급증하며 카본 러닝화가 인기를 끌고 있지만 제품별로 충격 흡수와 안정성, 무릎 피로도 등에 차이가 큰 것으로 나타났다. 소비자원은 “카본 러닝화는…\n4. “조문객 없어도 괜찮아”…‘스몰 웨딩’ 이어 ‘스몰 엔딩’ 뜬다\n   빈소를 차리지 않고 가족끼리 조용히 고인을 보내는, 이른바 '무빈소 장례'입니다. 이 가운데 빈소를 차리지 않은 것으로 집계된 장례는 2만 5,045건으로, 전체의…\n5. 180도 달라진 조희대...\"제2의 윤석열? 모욕적\" 반박\n   지난해 국정감사 땐 줄곧 입을 닫았던 조희대 대법원장, 올해는 달랐습니다. 지난해 대법원 국정감사장, 조희대 대법원장은 관례에 따라 미리 준비한 인사말만 읽은 뒤…\n6. [속보] 조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\"\n   조희대 대법원장 \"역대 대통령들, 제청권 존중...제청 간섭은 위헌\" 7개 언론사6,803개 기사.\n7. 조희대 \"대법관 제청에 국회·대통령 간섭은 위헌\"\n   국정감사에 출석한 조희대 대법원장이 '대법관 재제청 논란' 관련 질의에, 대법원장의 제청권에 대통령과 국회가 간섭하는 건 위헌이라고 말했습니다. 조희대 대법원장이 대법관…\n\n🗣 “5·18 땐 밤 12시 이후 계엄…난 국회에 시간 주려 10시”\n이 발언을 그대로 실은 보도 10건 · 한겨레 · Daum\n· 한겨레 — 마이크 잡은 윤석열 “5·18 땐 밤 12시 이후 계엄…난 국회에 시간 주려 10시”\n· 한겨레 — 카본 러닝화 7종 신어보니…충격흡수는 나이키·푸마, 가격은 스케쳐스\n· 한겨레 — “위고비·마운자로 팝니다”…‘비만약’ 온라인 불법 판매 등 949건 적발\n· Daum — 조희대 “계엄은 위헌, 전혀 협조 안 해…‘계엄사에 명단 주지 말라’ 지시”\n· 한겨레 — 알시시 이집트 대통령 7~9일 국빈 방한…공급망 등 협의\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한 #대통령실 #국회 #법원\n\n출처: KBS, YTN, 미디어오늘, 한국경제, 한국일보"
+ "caption": "📰 10월 8일 오늘의 뉴스\n\n1. ‘무보수 논란’ 박진영 “받는 줄 몰랐다. 당장 반납하고 싶지만…”\n   JYP엔터테인먼트 창립자인 박진영 대통령 직속 대중문화교류위원회 공동위원장이 7일 국회 문화체육관광위원회 국정감사에 증인으로 출석한다. 박 위원장은 최근 불거진…\n2. ‘반이재명’서 한동훈 29.4% 장동혁 23.4% 오세훈 15.2%순 지지…韓 복당엔 46.2%\n   민주당 지지층에선 김민석 0.2%p 오른 30.7%, 송영길 3.5%p 뛴 14.3%, 정청래 1.2%p 오른 12.3%, 조국 2.9%p 내린 11.7%, 김부겸…\n3. 25년 투병에도 봉사 이어온 50대…장기기증으로 3명 살리고 떠나\n   선한 영향력을 끼치자는 마음으로 25년간 투병하면서도 봉사를 이어온 50대 여성이 삶의 마지막 순간 장기기증으로 3명을 살리고 떠났다. 남편 김기선 씨는 \"평소 아내와…\n4. \"엄마가 내 엄마라 행복했어\"…여행 중 쓰러진 50대, 3명 살렸다 [자막뉴스]\n   딸과 베트남을 여행하던 중 갑자기 호흡 곤란 증세를 보이며 쓰러진 50대 여성이 장기 기증으로 3명에게 생명을 나눴습니다. 구 씨는 9월 12일 딸과 베트남을 여행하던…\n5. 박지원 “김정일이 ‘육영수 암살’ 사과? 국힘의 거짓말”\n   1974년 육영수 여사 피격 사건을 다룬 영화 ‘암살자’과 관련해 주진우 국민의힘 의원 등이 ‘북한이 육 여사 암살 배후임을 인정하고 박근혜 전 대통령에게 사과했다’는…\n6. “부엉이바위 긁혔냐” 김태규 또 막말…민주 “인간 도리 저버려”\n   김태규 국민의힘 의원 유튜브 갈무리. 국민의힘 원내수석대변인 김태규 의원이 국정감사 도중 노무현 전 대통령이 숨진 부엉이바위를 언급한 것을 두고 더불어민주당에서 “인간의…\n7. \"K팝은 한계에 봉착\" 작심 발언…JYP 포문 열었다\n   박진영 대통령 직속 대중문화교류위원회 공동위원장이 오늘 서울 여의도 국회에서 열린 국회 문화체육관광위원회의 문화체육관광부 국정감사에 증인으로 출석했습니다. 박 위원장은…\n\n🗣 “여보, 당신을 만난 지 33년, 함께했던 행복한 시간들 잘 간직할게. 이제 아픔 없는 곳에서 걱정 말고 편히 쉬어”\n이 발언을 그대로 실은 보도 6건 · 부산일보 · 뉴시스 · SBS 뉴스 · 기독일보\n· 부산일보 — 손주 안고 딸 결혼 기다리던 엄마…마지막 선물은 세 사람의 삶\n· 뉴시스 — 딸과 떠난 해외여행중 쓰러져 뇌사…3명에 '새 삶'\n· SBS 뉴스 — [자막뉴스] \"엄마가 내 엄마라서 행복했어\"…여행 중 쓰러진 50대 3명에 새 생명\n· 기독일보 — 베트남서 쓰러진 50대 여성, 뇌사장기기증으로 3명 살려\n· 이데일리 — 25년 투병한 55세 여성, 장기기증으로 3명 살리고 떠났다\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼\n\n출처: SBS, 국민일보, 디지털타임스, 연합뉴스, 한겨레"
 }
