@@ -1,371 +1,314 @@
 {
- "date": "2026-10-10",
- "generated_at": "2026-10-10T11:00:36+09:00",
+ "date": "2026-10-11",
+ "generated_at": "2026-10-11T10:25:53+09:00",
  "mode": "daily",
- "window_start": "2026-10-09T00:00:00+09:00",
- "window_end": "2026-10-09T23:59:59+09:00",
+ "window_start": "2026-10-10T00:00:00+09:00",
+ "window_end": "2026-10-10T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "[단독]'무법천지'된 올림픽공원…피해액 26억 넘었다",
-   "source": "노컷뉴스",
-   "url": "https://n.news.naver.com/article/079/0004197197",
-   "published_at": "2026-10-09T05:01:27+09:00",
+   "title": "안철수 \"인천 해수욕장 인근서 北 지뢰 발견…대통령 SNS에는 '북(北)' 한글자 없어\"",
+   "source": "매일신문",
+   "url": "https://n.news.naver.com/article/088/0001033334",
+   "published_at": "2026-10-10T10:05:09+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "국정감사에서 선관위가 손을 놓고 있다는 질타까지 나온 가운데, 추가 대관료 등을 누가 부담할지를 두고 책임 공방이 불가피할 전망이다. 통제할 수 없는 제3자의 행위로…",
-   "summary_long": "6·3 지방선거 개표소인 서울 올림픽공원 핸드볼경기장 앞 봉쇄 시위가 넉 달 넘게 이어지면서 피해액이 26억원을 넘어섰다. 국정감사에서 선관위가 손을 놓고 있다는 질타까지 나온 가운데, 추가 대관료 등을 누가 부담할지를 두고 책임 공방이 불가피할 전망이다. 국회 행정안전위원회 김영진 위원장(더불어민주당 수원시병 국회의원)이 8일 국민체육진흥공단으로부터 제출받은 자료에 따르면, 올림픽공원 개표소 봉쇄 시위로 발생한 추정 피해액은 총 26억 1700만원으로 집계됐다.\n\n가장 큰 비중을 차지한 것은 콘서트와 공연 등 대관 행사를 진행하지 못하면서 발생한 대관료 등 약 16억 1900만원이다. 통제할 수 없는 제3자의 행위로 인해 발생한 사태인 만큼 선관위의 책임을 면할 수 있다는 취지다. 다만 '귀책사유 판단이 불분명한 부분을 제외하고 정상적인 사용기간에 발생한 추가 사용료'라는 표현을 사용하면서, 추가 비용 전체에 대한 책임 여부는 여전히 불분명한 상황이다.",
+   "summary": "안철수 국민의힘 의원이 이재명 대통령을 향해 \"북한을 향한 굴종 광대극을 즉각 멈춰야한다\"고 말했다. 안 의원은 그러면서 \"이 대통령은 지난 5일 합참의 최종 발표 이후…",
+   "summary_long": "안철수 국민의힘 국회의원, 강신철 국방부 장관, 이재명 대통령. 안철수 국민의힘 의원이 이재명 대통령을 향해 \"북한을 향한 굴종 광대극을 즉각 멈춰야한다\"고 말했다. 안 의원은 10일 자신의 페이스북에 '대한민국 바다까지 지뢰밭으로 만드는 북한, 이재명 대통령은 언제까지 침묵하려 합니까?'라는 제목의 글을 올리고 이같이 말했다.\n\n그는 인천 강화군 주문도 대빈창해수욕장 인근에서 북한에서 떠내려온 것으로 추정되는 대인지뢰가 발견된 사실을 언급하며 \"북한 지뢰가 DMZ에 이어 이제 우리 바다와 해수욕장 인근까지도 발견된 것\"이라고 지적했다. 안 의원은 그러면서 \"이 대통령은 지난 5일 합참의 최종 발표 이후 5일이 넘었는데도 침묵으로 일관하고 있다\"며 \"수없이 올리는 X게시물에서 북한의 '북'자는 물론, '지뢰'라는 단어 조차 찾을 수 없다\"고 말했다. 안 의원은 \"그리고 뭐라도 행동으로 보여줘야 한다\"며 \"대북방송, 전단살포, 대북확성기 설치 등 북한의 도발에 상응하는 그 무엇이라도 하길 바란다\"고 말했다.",
    "quotes": [
-    "불가항력 내지 제3자의 강제적 행위로 인해 객관적으로 이행이 불가능해진 경우에는 면책이 될 수 있다",
-    "올림픽공원이 무법천지가 된 지 며칠째인지 알고 있나. 124일째",
-    "선관위가 그동안 뭘 했는가"
+    "대북방송, 전단살포, 대북확성기 설치 등 북한의 도발에 상응하는 그 무엇이라도 하길 바란다",
+    "수없이 올리는 X게시물에서 북한의 '북'자는 물론, '지뢰'라는 단어 조차 찾을 수 없다",
+    "이 대통령은 지난 5일 합참의 최종 발표 이후 5일이 넘었는데도 침묵으로 일관하고 있다"
    ],
-   "press": "노컷뉴스",
+   "press": "매일신문",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "올림픽공원이 무법천지가 된 지 며칠째인지 알고 있나. 124일째",
-    "n": 7,
+    "quote": "대북방송, 전단살포, 대북확성기 설치 등 북한의 도발에 상응하는 그 무엇이라도 하길 바란다",
+    "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "노컷뉴스",
-      "title": "[단독]'무법천지'된 올림픽공원…피해액 26억 넘었다",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OcTgxZDRkczVzaUJYMUdkdEFiamRMRHhtS0hqd1dRVDBMYm5Heml5Um9qZVkzYTlsSWdUSWVoYlBPbzNjMGw1WWlIeGRyMXBxSnc?oc=5"
+      "press": "매일신문",
+      "title": "안철수 `인천 해수욕장 인근서 北 지뢰 발견…대통령 SNS에는 `북(北)` 한글자 없어`",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rOXY2MmJUYkFWQ09WMWs2Y2E1MUZScDZKeUNIMWxfenYxeGcxUWp5Z285Vi1HaFhMMFZLVXk0WTNKR1I5aEk3LUxPYktPZXJQZ21IdGxqYUFsVkg2LUg5Z0hR?oc=5"
      },
      {
-      "press": "뉴시스",
-      "title": "여야, 행안위 국감서 선관위 질타…\"무법천지\" \"전 세계 웃음거리\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VeXF2ZW5yVWNaZ2w3MFNHLV9PaVlVQVVJNldaTTJfZ2tOb21QMGpCYVRYalB0WnRrR2R5OGR2OFlSRkM4eVA2S2MtdlZ1OXp4V0xILWFPdFAtdFY5S2VLZNIBeEFVX3lxTE5PU0tUWl85S0hBR3AxQ0hMNDhpQ2x6ZWxzdTZvV2hUQkY5cmNDaFZtZFFRTUhyYVFRcXdtUnFzNGxmM0R3MV9BTldKY1VTejlMRGU5WEM2Zzdfc1RUS1U5WS1jVDF3bHE4ZXRMSlFLS3o0YmlTVEpIQg?oc=5"
+      "press": "문화일보",
+      "title": "국힘 “우리 장병 중상엔 ‘사고’, 北김여정 조롱엔 ‘저자세’…정동영 경질해야”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMlpDcjZYUUFRYTBmcEtadFlTVlU3WTRFRDZ3YnAwU21WRjdfb3RTTVF4QURoWVBnamY0V204dG1IUlI3ODlYMGxmVUF0Vmhp?oc=5"
      },
      {
-      "press": "폴리뉴스 Polinews",
-      "title": "[2026국감-행안위] 여야, 투표용지 사태 후속조치 질타…\"올공 무법천지 124일째, 선관위 뭘 했나\"",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MUFFmdmRfd3RnWFNUUWpwVC1oc0w5c19BdW1udnJlZmJVSHkwU1ZVOFYyWlVkTThlYXBLOWNHQkdHUkcyWHRsb18tZkR1a3UzUlB4T2NEMGNVal9YUXJYUE85dzhPNVRpcmZWc2xR?oc=5"
-     },
-     {
-      "press": "뉴스피릿",
-      "title": "여야, 행안위 국감서 선관위 투표용지 부족 대응 질타…\"눈 가리고 아웅\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zcmhhUFFVUklXcngzQkhBTjBWbDFhczU0OGlnVzZiSER1UnUzc0ZXU1dGMGxkRHBJeWFUbzh6MDdfNkxxUEVLZ2VSQlhodUFNWDdOdzA2V3VRZzRXV3Z1UWxPdEhqeHNYSnpB?oc=5"
-     },
-     {
-      "press": "메트로신문",
-      "title": "[2026 국정감사] 여야 한목소리로 선관위 질타… 위철환 \"선거관리 근본 다시 세울 것\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LSi1uM0N4YVdiMHIwVS1CMGYxS0laU0ZwZlJYb19sblJUa1VaR295bWZqVW5QZ2hFaHd4QnZFbFFmTUpaUzhYOFNLWFhnS0NnTHpsOFc2ZE8tYjMtR3A5Yg?oc=5"
-     },
-     {
-      "press": "뉴시스",
-      "title": "여야, 행안위 국감서 선관위 한목소리 질타…\"눈 가리고 아웅\" \"웃음거리 전락해\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qMzlONE5EaWJFSkcyOVpJeWxMbkFwcUx4RGtHY00zcmxRSTI1bWZUUjZTZ3VxcUI0RzY4ck5NejVBZVRyOHZtZkZXUEN4bk1paHlCNUI3dGpXaHVpUkM5NNIBeEFVX3lxTE9aTUJEWnNLdGIwOEJpZ0FqcV9vY1p2dHNmUml6NWplaHNGWXByRF9pcl9udjN4MG83UHh0VVVQOUdGYXI5WTJoVVRMOXpnMlNFdld0Y2FlZTFpMmN5TG16RWZQdUx0d05lZHoxTlBwa2JNMTZ2ODBuMg?oc=5"
+      "press": "국제뉴스",
+      "title": "안철수 \"북한 지뢰, 바다·해수욕장까지…대통령 언제까지 침묵하나\"",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12c3lyQzBVMnZOS25ONVZrZEk2MVdCVEhncW9ETVpzN1d3N3laR00xRGgwMDFXSUJkV0ZHMktlQXJQMFZpNTVPdnllMjJBaHgtal9QaTF5UFZzSVhCelp6Q1B6M1hmRE1pR1BIOC1R?oc=5"
      }
     ]
    }
   },
   {
-   "title": "막 퍼준 ‘민생지원금’…“다음 세대 짊어진 243개 지자체 부채 58조”",
-   "source": "디지털타임스",
-   "url": "https://n.news.naver.com/article/029/0003052221",
-   "published_at": "2026-10-09T18:52:28+09:00",
+   "title": "\"1,300원짜리 브라질 계란 수입해 100원에 팔아\"… 장동혁, \"차액은 혈세로.. 누굴 배 불리나\"",
+   "source": "CJB청주방송",
+   "url": "https://n.news.naver.com/article/655/0000033114",
+   "published_at": "2026-10-10T15:45:06+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "부채 금액 1위는 서울 17조원. 이런 와중에 전국 243개 지방자치단체가 안고 있는 부채가 58조4000억원을 웃도는 것으로 나타나 미래세대의 부담을 키우고 있는…",
-   "summary_long": "부채 금액 1위는 서울 17조원. 미래세대가 짊어져야 할 천문학적인 부채를 안고 있음에도 불구하고, 민생지원금 등 각종 명분으로 ‘공짜 돈’을 지원하는 지방자치단체가 여전하다. 이런 와중에 전국 243개 지방자치단체가 안고 있는 부채가 58조4000억원을 웃도는 것으로 나타나 미래세대의 부담을 키우고 있는 것으로 나타났다.\n\n9일 국회 행정안전위원회 소속 민주당 박정현(대전 대덕) 의원이 행정안전부를 통해 받은 2025년 결산자료 ‘지자체별 유형고정자산 및 부채 합계’ 및 ‘유동부채 세부내역’을 분석한 자료를 보면 전국 243개 지자체가 갚아야 할 부채가 모두 58조4265억원으로 집계됐다. 박 의원에 따르면 미래 부채가 1년 전보다 17.7%(8조7764억원) 증가한 반면 지자체의 자산은 2.8% 증가하는 데 그쳤다. 박정현 의원은 “미래에 갚아야 할 돈이 1년 사이 17.7% 늘었는데 자산은 2.8% 느는 데 그쳐 격차가 벌어지고 있다”며 “지금 결정한 사람이 갚지 않는 구조에서 부담은 다음 세대에 쌓이게 된다”고 말했다.",
+   "summary": "장동혁 대표, SNS 통해 브라질산 계란 고가 수입 논란 맹비난. 장동혁 대표가 정부의 브라질산 계란 수입을 두고 막대한 혈세가 낭비되고 있다며 이재명 대통령을 향해…",
+   "summary_long": "장동혁 대표, SNS 통해 브라질산 계란 고가 수입 논란 맹비난. \"미국산 464원인데 브라질산 무려 1,300원, 현지 가격의 6배\" 장동혁 대표가 정부의 브라질산 계란 수입을 두고 막대한 혈세가 낭비되고 있다며 이재명 대통령을 향해 강도 높은 비판을 쏟아냈습니다.\n\n장 대표는 자신의 페이스북에 \"계란 수입까지 '좌파 커넥션'?\"이라는 제목의 글을 올리고, 터무니없이 비싼 수입 단가와 세금 투입 문제를 집중적으로 지적했습니다. 장 대표는 이번 브라질산 계란 수입 결정의 배경에 이념적 '커넥션'이 있는 것 아니냐는 의혹도 제기했습니다. 그는 \"지난 2월, 이재명 대통령과 브라질 룰라 대통령 정상회담 직후 브라질 계란 수입 절차가 시작됐고, 7월 이 대통령 브라질 방문 직후 브라질산 계란 112만 개가 수입됐다\"고 시기를 짚었습니다.",
    "quotes": [
-    "미래에 갚아야 할 돈이 1년 사이 17.7% 늘었는데 자산은 2.8% 느는 데 그쳐 격차가 벌어지고 있다",
-    "지금 결정한 사람이 갚지 않는 구조에서 부담은 다음 세대에 쌓이게 된다"
+    "지난 2월, 이재명 대통령과 브라질 룰라 대통령 정상회담 직후 브라질 계란 수입 절차가 시작됐고, 7월 이 대통령 브라질 방문 직후 브라질산 계란 112만 개가 수입됐다",
+    "정부는 '공급선 다변화'라고 해명하고 있지만, 기존 수입 가격보다 3~4배나 높은 가격을 주면서 공급선을 다변화한다는 것은 말이 되지 않는다",
+    "보통 개당 소비자 가격이 200원 남짓이라고 하는 브라질 현지 가격에 비해서도 무려 6배가 넘는다"
    ],
-   "press": "디지털타임스",
-   "photo": "02.png",
+   "press": "CJB청주방송",
+   "photo": "02.jpg",
    "quoted": {
-    "quote": "지금 결정한 사람이 갚지 않는 구조에서 부담은 다음 세대에 쌓이게 된다",
+    "quote": "지난 2월, 이재명 대통령과 브라질 룰라 대통령 정상회담 직후 브라질 계란 수입 절차가 시작됐고, 7월 이 대통령 브라질 방문 직후 브라질산 계란 112만 개가 수입됐다",
     "n": 6,
     "verified": 0,
     "items": [
      {
-      "press": "펜앤마이크",
-      "title": "생색은 지금, 빚은 다음 세대에… 지자체 부채 58조 넘어서",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwZUpsaUpyQUFXbHdqUlExaWxJZzAzZUxPa2YtdGpkMnVRd192MmdyUmNXN20wMmxwRHpkUzEzNGNGWkg5UzJXNlZoVGh6ZGp1V0JsR0t3ZmQ3VGZETVFjYXg4OTE5d1pwMTZ30gFvQVVfeXFMT2RlczBuRGJqMTB6VWZEZ01GUGZkdERxRllJbW90SFpmUTZBSjJYNHRIY1l2ejBfZjlnZU1rMjRFdGhkalRqMGRwcXhlUno2U3BGMTF4ZnFLakR5djdJRVMxdHM2VW5iNFo0ZEpkbkg4?oc=5"
-     },
-     {
-      "press": "www.dt.co.kr",
-      "title": "막 퍼준 ‘민생지원금’…“다음 세대 짊어진 243개 지자체 부채 58조”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XbDdBVUJ0ckw1X3BxY2haelhwY0FBU2dxdFY4VV9GbFpfT0VER1R0UFNRVWU0UFlmd3ZiWEpzdjJvNGFmRG85NzFUVTNNdw?oc=5"
-     },
-     {
-      "press": "연합뉴스",
-      "title": "박정현 \"전국 243개 지자체 부채 58조원…미래 세대에 부담\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aWC0tZExMU2lNemFEYVRxZmt4VFJONFJ4NS1CalR0WUhXMVo5bWVZdEJoSGFMTk5NbzdmZ24wS01RQnZJcnBpZDZBU3BzbE5KVlAzb2JzSXY4YnfSAWBBVV95cUxQeXBJbF9fWXFmNDZFVGxQaE9CZW5yamVPOFBjZmZ4MUNxV2MzLU5hSk9LSmlJb2RaWUVFTmVsT3pqREdqX2JuenpFVl9TWmNzYjZlem8wbTZhT2MyUUc0X2c?oc=5"
-     },
-     {
-      "press": "경북매일",
-      "title": "지자체 부채 1년 새 8.8조 늘었다…243곳 중 193곳 증가",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13c0ZGcmFONU93WmRISlRTUlBHeDlhS2ZFaENFWXh6dkhxbGZMSWlVY1dPWmN6eWtkUGhqOE95MTBIVWRuaUNkX1dtOEdpeUxMWjZxNDJ0ODB1QQ?oc=5"
-     },
-     {
-      "press": "매일신문",
-      "title": "전국 지자체 부채 58조원…1년 새 17.7% 늘어 자산 증가율의 6배",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43MThtd1lFTm9GUHE3a3FwQlN3ZXRSbU9ZYnFkWlV1dU4zNEdLMV95TGdWME83UmpLTkM2SjQzcXA2c1dJWTJJUkZGc3llWWlMd01qWmxBVUpxZ1V6TVA5NkJn?oc=5"
-     },
-     {
-      "press": "중앙신문",
-      "title": "전국 243개 지자체 부채 58조원…서울시, 17조로 1위",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KbW5ZRm5qWGJ1ZzAxS2E5dlBuSXd4dk1UMExBQ3dORmowazdWbEF0Z0xQQm8yOExRODQxRkJvV3Y1bWgzVm5yc1pCSEQ1bXFTdkhmbjRfZEtlTVM4SHNvMnE2SGZ4cVBw?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "“몸 바늘로 꿰매고 서로 성폭행”…234명 덮친 ‘목사’ 정체",
-   "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003556820",
-   "published_at": "2026-10-09T11:02:14+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "‘자경단’이란 이름을 들은 김서연도 그들이 무언가 알 수 없는 위험으로부터 자신을 지켜주기 위해 접근한 줄 알았다. 각각 다른 지역에서, 각각 다른 사람들이 김서연과…",
-   "summary_long": "‘곧 경위 단다.’ 입직 11년 만에 경위 특진을 하는 정계민 경사의 마음도 건들면 톡 터질 듯 부풀어 올랐다. 자신들을 ‘자경단(自警團)’이라고 일컫는 사람들이 김서연에게 연락을 취해 왔다. ‘자경단’이란 이름을 들은 김서연도 그들이 무언가 알 수 없는 위험으로부터 자신을 지켜주기 위해 접근한 줄 알았다.\n\n김서연의 아버지와 동생에게 공중전화로 연락하고, 회사에 불법 합성물을 뿌리기까지 하며 협박의 강도를 높였다. 각각 다른 지역에서, 각각 다른 사람들이 김서연과 김서연의 회사, 동생에게까지 전화를 걸어 다짜고짜 협박한 것이다. 심지어 성폭행을 당한 후에는 ‘정조대’를 차고 다니라는 기괴한 지시까지 이행하고 있었다.",
-   "quotes": [
-    "이거 사건이 커 보이네…. 괜히 서에서 우리한테 넘어온 게 아닌 것 같다",
-    "얘들아. 사건이 들어왔는데… 이게 좀 이상하다. 한번 읽어봐라",
-    "나는 예비 전도사이고, 목사가 시키는 대로 했을 뿐"
-   ],
-   "press": "중앙일보",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "이거 사건이 커 보이네…. 괜히 서에서 우리한테 넘어온 게 아닌 것 같다",
-    "n": 1,
-    "verified": 0,
-    "items": [
-     {
-      "press": "중앙일보",
-      "title": "“몸 바늘로 꿰매고 서로 성폭행”…234명 덮친 ‘목사’ 정체",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UOUwyUGk5NjRURXJDUldGMXhsNnJWTFhMSWc4VzE3QmFCSEtIZko1M0hhMWl6MHROMk1ocXFGODlETDBkWnZad1d3V3EtbkVwc0VVdU5n?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "前 축구 국가대표 김영광, '보복운전 논란' 사과",
-   "source": "TV조선",
-   "url": "https://n.news.naver.com/article/448/0000643946",
-   "published_at": "2026-10-09T14:14:13+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "/김영광 인스타그램 캡처최근 보복운전 관련 비판을 받은 전 축구 국가대표 김영광이 사과했다. 전날 한 매체는 흰색 외제차가 도로에서 보복 운전을 하는 영상을 보도하며…",
-   "summary_long": "/김영광 인스타그램 캡처최근 보복운전 관련 비판을 받은 전 축구 국가대표 김영광이 사과했다. 김영광은 9일 자신의 SNS에 \"많은 분께 걱정과 심려를 끼쳐드려 죄송합니다\"라고 고개를 숙였다. 전날 한 매체는 흰색 외제차가 도로에서 보복 운전을 하는 영상을 보도하며 차주가 과거 축구 국가대표 선수였다고 설명했다.\n\n그는 평소 유튜브를 통해 자신의 과격한 운전 습관을 빈번하게 언급했던 만큼 팬들의 비판은 컸다. 김영광은 \"현재까지 경찰 불송치 및 혐의없음 처분을 받았다\"면서도 \"도로 위에서는 다른 사람의 안전과 입장까지 고려해야 한다는 점을 다시 한 번 깨달았다\"고 말했다. 과거 국가대표 골키퍼로도 활약했던 김영광은 은퇴 후 유튜브 등 방송인으로 활동하고 있다.",
-   "quotes": [
-    "제 운전 습관을 더욱 엄격하게 돌아보고 어떤 상황에서도 신중하고 책임감 있게 행동하겠다",
-    "도로 위에서는 다른 사람의 안전과 입장까지 고려해야 한다는 점을 다시 한 번 깨달았다",
-    "현재까지 경찰 불송치 및 혐의없음 처분을 받았다"
-   ],
-   "press": "TV조선",
-   "photo": "04.jpg",
-   "quoted": {
-    "quote": "제 운전 습관을 더욱 엄격하게 돌아보고 어떤 상황에서도 신중하고 책임감 있게 행동하겠다",
-    "n": 4,
-    "verified": 0,
-    "items": [
-     {
-      "press": "채널A 뉴스",
-      "title": "‘보복 운전’ 전 축구 선수는 김영광…논란에 “죄송” 사과",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZbDJlVDI4OWFWeXNUM2lSeE5oUkNpRDJ3MktHTDdYWTRDQ3RSamxWUzdHUGFaZmxfaTBGN0p0Um1VYlhuYzVKVjZ2N2RrYVpSZE9wd2xvUFE1c09MMW1aSzRtTdIBY0FVX3lxTE9ZbDJlVDI4OWFWeXNUM2lSeE5oUkNpRDJ3MktHTDdYWTRDQ3RSamxWUzdHUGFaZmxfaTBGN0p0Um1VYlhuYzVKVjZ2N2RrYVpSZE9wd2xvUFE1c09MMW1aSzRtTQ?oc=5"
+      "press": "뉴데일리",
+      "title": "장동혁 \"1300원에 사서 100원에 판 브라질 계란 … '좌아'한 수입\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdE5TNFRFSnEzX2RtQTcyMmd1dnR5LVRyakVSNlpuNEhYMFE0TDNJOVZhWTZyclNJSFNqNndyQlpoaHItaURtNjBnbkF6Y0hjU0FGVHU2UlRuaWFlVGtxUHZaTjVqalFGQlAzRjRvbDBneThsd28yNmxpVENaNy1VStIBgAFBVV95cUxPdE5TNFRFSnEzX2RtQTcyMmd1dnR5LVRyakVSNlpuNEhYMFE0TDNJOVZhWTZyclNJSFNqNndyQlpoaHItaURtNjBnbkF6Y0hjU0FGVHU2UlRuaWFlVGtxUHZaTjVqalFGQlAzRjRvbDBneThsd28yNmxpVENaNy1VSg?oc=5"
      },
      {
       "press": "뉴시스",
-      "title": "김영광, 보복운전 논란 사과 \"운전 습관 엄격히 돌아볼 것\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoVkdOMk03eTR0eTFIUGExTDl4TmZwbGRpTllUaXR1M2JMbDRIdmFwRU8yOXQ3N2I0dXM5cjdRM0pXMHBXdnVnaUktLTgzcHNFajFodjhOQVdYMU9nMUY5ejZ0d1RfTURtdVZqMXdzZnZELTZJOE05YdIBeEFVX3lxTFBoVkdOMk03eTR0eTFIUGExTDl4TmZwbGRpTllUaXR1M2JMbDRIdmFwRU8yOXQ3N2I0dXM5cjdRM0pXMHBXdnVnaUktLTgzcHNFajFodjhOQVdYMU9nMUY5ejZ0d1RfTURtdVZqMXdzZnZELTZJOE05YQ?oc=5"
+      "title": "장동혁 \"브라질 계란 1300원에 수입해 100원에 팔고, 차액은 세금으로 메워…'좌아'한 수입\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16bkZ4M2VqcnlrUmM1bFhHenMxRlcwTVZWUjdnN3M2a0p6dnJxTWdYa0ZCQlk4WE1wVEtibnpCbzhUaXd0aGN3MjJQYzl1VllKclEtSDBhRTF2Ml9wQXIzaWtja1NlYjY4cGtWU2licmw5VnlDOFNMRdIBeEFVX3lxTE16bkZ4M2VqcnlrUmM1bFhHenMxRlcwTVZWUjdnN3M2a0p6dnJxTWdYa0ZCQlk4WE1wVEtibnpCbzhUaXd0aGN3MjJQYzl1VllKclEtSDBhRTF2Ml9wQXIzaWtja1NlYjY4cGtWU2licmw5VnlDOFNMRQ?oc=5"
      },
      {
-      "press": "아주경제",
-      "title": "택시 보복 운전 전 국대, 김영광이었다…운전 습관 돌아볼 것",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15VWk1c2NaanQyVDBMNm1nZHkyMFVBczZaTkFsWUdZbE1Yb2RGMUxxSkN1QXV2SG5Ya0hBNkVUS1pNRGY3bGZmZ1EzOFBsVllqWjZJUVUySmLSAVhBVV95cUxNeVVpNXNjWmp0MlQwTDZtZ2R5MjBVQXM2Wk5BbFlHWWxNWG9kRjFMcUpDdUF1dkhuWGtIQTZFVEtaTURmN2xmZmdRMzhQbFZZalo2SVFVMkpi?oc=5"
+      "press": "최보식의언론",
+      "title": "브라질 계란 수입에 무슨 사연이?...‘좌파 커넥션’",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OSWVPN3JaWGJOcm00U09HTzQ5dldmMUpiQWdPN0dCUldIVE1BNDVTZGt2RHJmT1lLT1Ztd1FnYTdTOVRmUE56UmtpWWdxT2JDeE16d2NJZjRfZWJ0dXBPcl9aOVFzM1k40gFoQVVfeXFMT05JZU83clpYYk5ybTRTT0dPNDl2V2YxSmJBZ083R0JSV0hUTUE0NVNka3ZEcmZPWUtPVm13UWdhN1M5VGZQTnpSa2lZZ3FPYkN4TXp3Y0lmNF9lYnR1cE9yX1o5UXMzWTg?oc=5"
      },
      {
-      "press": "위키트리",
-      "title": "보복운전 충격영상 뜬 한국축구 레전드, ‘이 사람’이었다…직접 사과문 올려",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xNU5NLWd0YlZJTHZwczduNlpuRkE4Rnh6ZkJlTEdNSTduNHBJVURWMFdJQVRTbVJXbGtJdmNQSkUwMUxDOGVCcmdKWDdUa2tfdW92OGpR?oc=5"
+      "press": "뉴스1",
+      "title": "장동혁, 1300원 브라질산 계란에 \"좌아한 수입…국제 왼쪽까지 챙기나\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16YjhGeUJkendySHdZbF9lYUdIQWlJZGh3TGI3YVlZU0lCUzFTVkZBRXFHWDN6QUIxUFRsRlZ4V1ZDQWZwNUllaFZrbXVNU014NDhXeDY4NkJ5UQ?oc=5"
+     },
+     {
+      "press": "프리진뉴스",
+      "title": "장동혁 \"'좌아'한 계란 수입, 국민은 '의아'…계란 수입까지 좌파 커넥션?\"",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2eHNFNWdkcUh0cW0yWGJkY2hsMm5ONlFoT2loODludjBpbkxCTmNSMGVfdENETmdMNFNkUVI1d29nM0E3Mjg4VFRBVm9rcVpqUjY4aU9Wc2E0aFEzUHdSVnBfbnJkZ1ctZEtmVDAtOA?oc=5"
+     },
+     {
+      "press": "뉴데일리",
+      "title": "브라질산 계란이 1300원 … \"좌아한 수입, 국제 왼쪽까지 챙기냐\" 野 공세 터졌다",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXJRc3VIdGJsWFd3OTNUVG53RjZINTdVRjMyeHYxdmRrcFZPdXJTN1B4V25OMUl4aVEtczhRTG5Qakxmbk10ZDA5N2pKSFFaeWZyWnBYTmFrS2V1WTNuUkwwNzdaZV9oOUEtQXBaeHVrOWpMd1BMSVpyUGhSRWJwRdIBgAFBVV95cUxPeXJRc3VIdGJsWFd3OTNUVG53RjZINTdVRjMyeHYxdmRrcFZPdXJTN1B4V25OMUl4aVEtczhRTG5Qakxmbk10ZDA5N2pKSFFaeWZyWnBYTmFrS2V1WTNuUkwwNzdaZV9oOUEtQXBaeHVrOWpMd1BMSVpyUGhSRWJwRQ?oc=5"
      }
     ]
    }
   },
   {
-   "title": "\"이게 격노할 일인가\"…우크라에 '감사 서한' 보낸 나경원",
-   "source": "SBS",
-   "url": "https://n.news.naver.com/article/055/0001394290",
-   "published_at": "2026-10-09T15:26:54+09:00",
-   "section_id": "100",
+   "title": "요즘 골프장 ‘곡소리’ 나는 이유…‘사치성 재산’ 세금 폭탄 던진 정부 [권준영의 머니볼]",
+   "source": "세계일보",
+   "url": "https://n.news.naver.com/article/022/0004165444",
+   "published_at": "2026-10-10T05:51:06+09:00",
+   "section_id": "101",
    "view_rank": 1,
-   "comment_count": 691,
-   "comment_agree": 300,
-   "comment_disagree": 52,
-   "division_balance": 0.295455,
-   "division_score": 1.733275,
-   "selection": "찬반 쟁점",
-   "summary": "국민의힘 나경원 의원이 젤렌스키 우크라이나 대통령에게 감사 서한을 보냈다고 밝혔습니다. 나 의원은 SNS를 통해 서한을 공개하면서 젤렌스키 대통령에게 \"북한군 포로 리…",
-   "summary_long": "나 의원은 SNS를 통해 서한을 공개하면서 젤렌스키 대통령에게 \"북한군 포로 리 모 씨와 백 모 씨의 자유의사를 존중해 한국행을 허용한 젤렌스키 대통령 귀하의 대승적 결정을 환영하며 깊은 감사를 표한다\"고 밝혔습니다. 그는 \"우리는 보편적 인권과 국제법, 인도주의 원칙에 근거한 젤렌스키 대통령 귀하의 북한군 포로 문제 처리가 우크라이나 국민이 선출한 국가원수이자 군 통수권자로서 결코 쉽지 않은 결정이었음을 충분히 이해한다\"고 전했습니다. 나 의원 측은 서한을 우크라이나 정부 측에 온라인으로 보냈는데, 외교채널 통해 실물로 전달하는 것도 검토하는 거로 전해졌습니다.\n\n나 의원은 감사 서한을 보낸 이유에 대해 \"우크라이나가 북한군 포로를 한국으로 보냈다는 사실을 공개한 것이 이재명 대통령과 정부가 이토록 격노하며 대사 소환이라는 극단적 조치까지 취할 일인가\"라며, \"절차상의 공개 여부에 일부 이견이 있고 유감스러운 점이 있다 하더라도, 본질적으로 양국이 머리를 맞대고… 그러면서 \"군사분계선 지뢰로 우리 장병을 해친 북한이나 침략국 러시아에는 말 한마디 못 하면서 우크라이나의 북한군 포로 송환 은혜를 원수로 갚는 이재명 정권, 거꾸로 가도 한참 거꾸로 간다\"고 비판했습니다. 앞서 우리 정부는 우크라이나가 사전 협의 없이 북한군 포로 송환 사실을 공개하고 이에 대한 사과도 하지 않은 데 대한 조치로주우크라이나 대사를 소환하기로 했습니다.",
+   "selection": "경제·시사",
+   "summary": "연구소는 2025년 회원제 골프장 이용객의 개별소비세 납부액을 3311억원으로 추산했다. 연구소는 18홀 회원제 골프장의 재산세가 2024년 12억4000만원에서…",
+   "summary_long": "10일 한국레저산업연구소(소장 서천범)에 따르면 회원제 골프장의 2025년 세금 부담액은 재산세 2300억원, 부가가치세 2712억원, 법인세 958억원 등 총 5970억원으로 추산됐다. 연구소는 2025년 회원제 골프장 이용객의 개별소비세 납부액을 3311억원으로 추산했다. 연구소는 이용객의 세 부담이 회원제 골프장의 가격 경쟁력에도 영향을 미친다고 분석했다.\n\n연구소는 인상안이 시행되면 회원제 골프장의 재산세 부담이 더 커질 것으로 전망했다. 연구소는 18홀 회원제 골프장의 재산세가 2024년 12억4000만원에서 2027년 17억7000만원으로 늘어날 것으로 추산했다. 그런데 2010년대 중반 이후 회원모집 혜택이 희석된 회원제 골프장에 대해 징벌적인 재산세를 부과하는 것이 맞는지 재고해봐야 한다”며 “정부는 회원제 골프장에 대한 징벌적인 재산세율을 점진적으로 낮춰야 한다”고 말했다.",
    "quotes": [
-    "우리는 보편적 인권과 국제법, 인도주의 원칙에 근거한 젤렌스키 대통령 귀하의 북한군 포로 문제 처리가 우크라이나 국민이 선출한 국가원수이자 군 통수권자로서 결코 쉽지 않은 결정이었음을 충분히 이해한다",
-    "군사분계선 지뢰로 우리 장병을 해친 북한이나 침략국 러시아에는 말 한마디 못 하면서 우크라이나의 북한군 포로 송환 은혜를 원수로 갚는 이재명 정권, 거꾸로 가도 한참 거꾸로 간다",
-    "우크라이나가 북한군 포로를 한국으로 보냈다는 사실을 공개한 것이 이재명 대통령과 정부가 이토록 격노하며 대사 소환이라는 극단적 조치까지 취할 일인가"
+    "회원제 골프장은 중과세율을 부과받지만 회원모집 혜택이 있었다. 그런데 2010년대 중반 이후 회원모집 혜택이 희석된 회원제 골프장에 대해 징벌적인 재산세를 부과하는 것이 맞는지 재고해봐야 한다",
+    "정부는 회원제 골프장에 대한 징벌적인 재산세율을 점진적으로 낮춰야 한다"
    ],
-   "press": "SBS",
+   "press": "세계일보",
+   "photo": "03.jpg",
+   "quoted": {
+    "quote": "정부는 회원제 골프장에 대한 징벌적인 재산세율을 점진적으로 낮춰야 한다",
+    "n": 2,
+    "verified": 0,
+    "items": [
+     {
+      "press": "세계일보",
+      "title": "요즘 골프장 ‘곡소리’ 나는 이유…‘사치성 재산’ 세금 폭탄 던진 정부 [권준영의 머니볼]",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LNnJXYnYwVlcwT2NzdDJTZ2VqckxFVTZhMFllSW5sNmV2OUswaHhTamhPNjBROUcxWmtvQmZjVVl4SUY3b2pHcVZJbzlENlB0QUU4aGhkZ2rSAVRBVV95cUxPWlprOTJzX00xQ0VRdkdqTGVpYUJlQThTTjhzekMySmVkclR2Z0V6UW5WRG1UNWwzMHVIOTVGd2I5MmdRNHEwUUhlcEJnampLSkFVR00?oc=5"
+     },
+     {
+      "press": "글로벌이코노믹",
+      "title": "회원제 골프장, 지자체 재정에 효자역할...한국레저산업연구소",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0kwSzh1bUZGMU83LTE5MzY0Yms5OWtUUEkxaW1PZXFUQUl5M1N4RHVHdlpqQ3BfMVVQSnRDQ0VRUV9aS2NXZEU2N2JOSkw3UjJhT3puMEtQX2FndFRVZmlvQ0ctQmpCV0RmX2FzbmlQelZRbEpGZHdzY2oxVXlCQlBHRHgxbXhEZVFV?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "\"못 보던 3cm 바퀴벌레가 바글\"...부산서 외래종 정착 '발칵'",
+   "source": "머니투데이",
+   "url": "https://n.news.naver.com/article/008/0005424355",
+   "published_at": "2026-10-10T13:01:19+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "10일 학계에 따르면 부산대 생명시스템연구소와 경상국립대 식물의학과 공동 연구진은 부산 감만항 일대에서 외래종인 '투르키스탄 바퀴'의 국내 정착 사실을 확인했다. 서로…",
+   "summary_long": "성충뿐 아니라 어린 개체와 알집까지 발견되면서 일시적 유입을 넘어 국내에서 번식하고 있다는 근거가 확보됐다. 10일 학계에 따르면 부산대 생명시스템연구소와 경상국립대 식물의학과 공동 연구진은 부산 감만항 일대에서 외래종인 '투르키스탄 바퀴'(Periplaneta lateralis)의 국내 정착 사실을 확인했다. 투르키스탄 바퀴는 미국과 일본, 러시아, 유럽 등에서도 유입 사례가 확인된 도시 해충이다.\n\n서로 다른 성장 단계의 개체가 같은 지역에서 발견된 만큼 국내 환경에서 번식하고 있을 가능성에 무게가 실린다. 연구진은 부산의 비교적 온화한 겨울 기후가 외래종의 정착에 영향을 미쳤을 가능성에 주목했다. 감만항 바깥 공원에서도 투르키스탄 바퀴가 발견됐지만 현재 분포 범위가 어디까지인지는 파악되지 않았다.",
+   "press": "머니투데이",
+   "photo": "04.jpg"
+  },
+  {
+   "title": "[속보] 나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나왔는데, 李대통령은 말 한마디 없어”",
+   "source": "헤럴드경제",
+   "url": "https://n.news.naver.com/article/016/0002707517",
+   "published_at": "2026-10-10T16:02:07+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 279,
+   "comment_agree": 194,
+   "comment_disagree": 50,
+   "division_balance": 0.409836,
+   "division_score": 2.254614,
+   "selection": "찬반 쟁점",
+   "summary": "나경원 국민의힘 의원이 강화도 해수욕장 인근에서 북한 지뢰가 발견된 것과 관련해 “이재명 대통령은 도대체 어느 나라 대통령인가”라며 정부의 대북 대응을 비판했다. 나…",
+   "summary_long": "나경원 국민의힘 의원이 강화도 해수욕장 인근에서 북한 지뢰가 발견된 것과 관련해 “이재명 대통령은 도대체 어느 나라 대통령인가”라며 정부의 대북 대응을 비판했다. 나 의원은 10일 자신의 페이스북에 “유실이든 매설이든 북한 지뢰에 한마디도 못하는 이재명 정부”라며 이 같이 밝혔다. 나 의원은 “우리 국민이 주말이면 돗자리를 펴고 아이들이 모래장난을 치는 대한민국 바닷가 한가운데서 사람의 목숨을 앗아가는 살상 무기가 튀어나왔다”며 “환경정비 근로자가 아니었거나 호기심 많은 어린아이가 먼저 발견했다면 상상조차 하기 싫은 대참사가 벌어질 뻔했다”고 지적했다.\n\n단 한마디도 없다”며 “불과 20일 전 DMZ에서 북한이 매설한 지뢰에 우리 수색대대장과 장병들이 발목을 잃었는데도 정권은 북한에 93억원 어치 의료지원을 하겠다고 매달렸고, 돌아온 것은 조롱과 매도뿐이었다”고 지적했다. 그는 이어 “국민은 불안을 넘어 분노하고 있다”며 “우리 가족이 바닷가에서 지뢰를 밟을지 모른다는 불안 속에 살고 있는데, 대통령에게서는 경고도, 대책도 들리지 않는다”고 비판했다. 나 의원은 이에 이 대통령에게 북한 도발에 대한 강력한 규탄 메시지 발표 및 군 경계태세 실패 사과, 북한에 대한 공식 항의 및 재발 방지 약속 요구, 접경 해안 전역 지뢰 탐색 및 안전 대책 마련, 유엔군사령부를 통한 정전협정 위반 문제 제기 등을 하라고 촉구했다.",
+   "quotes": [
+    "불과 20일 전 DMZ에서 북한이 매설한 지뢰에 우리 수색대대장과 장병들이 발목을 잃었는데도 정권은 북한에 93억원 어치 의료지원을 하겠다고 매달렸고, 돌아온 것은 조롱과 매도뿐이었다",
+    "우리 국민이 주말이면 돗자리를 펴고 아이들이 모래장난을 치는 대한민국 바닷가 한가운데서 사람의 목숨을 앗아가는 살상 무기가 튀어나왔다",
+    "우리 가족이 바닷가에서 지뢰를 밟을지 모른다는 불안 속에 살고 있는데, 대통령에게서는 경고도, 대책도 들리지 않는다"
+   ],
+   "press": "헤럴드경제",
    "photo": "05.jpg",
    "quoted": {
-    "quote": "우리는 보편적 인권과 국제법, 인도주의 원칙에 근거한 젤렌스키 대통령 귀하의 북한군 포로 문제 처리가 우크라이나 국민이 선출한 국가원수이자 군 통수권자로서 결코 쉽지 않은 결정이었음을 충분히 이해한다",
+    "quote": "우리 국민이 주말이면 돗자리를 펴고 아이들이 모래장난을 치는 대한민국 바닷가 한가운데서 사람의 목숨을 앗아가는 살상 무기가 튀어나왔다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "헤럴드경제",
+      "title": "[속보] 나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나왔는데, 李대통령은 말 한마디 없어”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3UXJOaHVkOXZxTjFISkM1ZUlUTnhrbUxxcVp6UGJrZjVYNUVxa1M1SHlJSkF2alZHR1F6cU1FNS1aM2RWaVVxa1JoR1Njek0zUmhPNjJR?oc=5"
+     },
+     {
+      "press": "경기일보",
+      "title": "나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나와…李, 말 한마디 없어”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSY2hMaU9Ib3BMWGR3ME4ydjA1VExLR3FCc0dfQ3lJT3RIenRmcVFhdmt4UmtJOTdqOVlSb0hBcHRrY0JXb1daOGRwdWRIYkgzYmo2dmlzbVAyM2c?oc=5"
+     },
+     {
+      "press": "한스경제",
+      "title": "나경원 “李, 어느 나라 대통령인가”···北지뢰에 직격",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QT0hZaXduOVFwQ3lKaUJ1WEx2b0VKd1BOZC1Mb25ORkx1TU1wcjNwOGU0TWZfV2NncnhkZlg2WldnUGFwcEliNlVlV3YySjAtV3RnbVI4NnZuRG9Xcmh3dG1xYTlJSXRia1Fna1prNNIBb0FVX3lxTE5QT0hZaXduOVFwQ3lKaUJ1WEx2b0VKd1BOZC1Mb25ORkx1TU1wcjNwOGU0TWZfV2NncnhkZlg2WldnUGFwcEliNlVlV3YySjAtV3RnbVI4NnZuRG9Xcmh3dG1xYTlJSXRia1Fna1prNA?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "[속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”",
+   "source": "세계일보",
+   "url": "https://n.news.naver.com/article/022/0004165513",
+   "published_at": "2026-10-10T17:37:08+09:00",
+   "section_id": "100",
+   "view_rank": 5,
+   "comment_count": 196,
+   "comment_agree": 162,
+   "comment_disagree": 43,
+   "division_balance": 0.419512,
+   "division_score": 2.235109,
+   "selection": "찬반 쟁점",
+   "summary": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 감사 서한을 보낸 것을 두고 더불어민주당이 강력 비판하자, 나 의원이 정면 반박에 나서면서 정국이…",
+   "summary_long": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 감사 서한을 보낸 것을 두고 더불어민주당이 강력 비판하자, 나 의원이 정면 반박에 나서면서 정국이 냉각되는 모양새다. 이번 공방은 최근 우크라이나 측이 한국 정부와의 비공개 약속을 깨고 북한군 포로 2명의 한국 송환 사실을 공개하면서 시작됐다. 우리 정부는 포로와 남겨진 가족의 신변 안전을 이유로 조용한 송환을 추진했으나, 우크라이나 측의 공개로 외교적 마찰이 발생해 박기창 주우크라이나 대사를 소환 조치하는 등 강경 대응에 나선 상태다.\n\n이러한 상황에서 나 의원은 페이스북을 통해 젤렌스키 대통령에게 “포로들의 자유의사를 존중해 한국행을 허용한 결정을 환영하며 깊은 감사를 표한다”는 내용의 서한을 전달했다고 밝혔다. 김병주 민주당 의원 역시 “배은망덕한 젤렌스키에게 감사 서한을 보낸 것은 나라를 팔아먹은 행위”라며 “매국 행위를 즉각 중단하라”고 직격했다. 나 의원은 페이스북 글을 통해 “동포를 구출해 준 국가에 감사 서한을 보낸 것을 두고 매국을 운운하느냐”며 “민주당 의원들은 북한 조선노동당 의원들인가”라고 강하게 반발했다.",
+   "quotes": [
+    "비공개 약속을 어긴 우크라이나는 두둔하면서 정부에는 터무니없는 누명을 씌우고 있다",
+    "포로들의 자유의사를 존중해 한국행을 허용한 결정을 환영하며 깊은 감사를 표한다",
+    "당사자와 가족의 신변 보호 요구까지 친북으로 매도하는 무책임한 선동을 중단하라"
+   ],
+   "press": "세계일보",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "비공개 약속을 어긴 우크라이나는 두둔하면서 정부에는 터무니없는 누명을 씌우고 있다",
     "n": 10,
     "verified": 0,
     "items": [
      {
+      "press": "세계일보",
+      "title": "[속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0eXpSZEV1bElSajZYQ1BVU2kxdzM3eUNkQzJpeGVoRktKNnNnbU95UHlydVdiS1JUdWFyRmx0YUtud2VKOXZVaUFHTzAyTmxvZFF4VDlXVDM3ck05ZHpCRWtrSGpUWmFaelHSAVRBVV95cUxPU2R1SW9Jd3pGeHU5T0gxU2NSSFBwSVhoZ3BnM0NnQUoySHMzTlNyN1VJS083VkRSV25SaGVBZzN5MGdPTWt6U2JmREdZTzcwd3dEUjI?oc=5"
+     },
+     {
       "press": "연합뉴스",
-      "title": "나경원, 젤렌스키에 서한…\"北포로 한국行 허용 결정 감사\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WXzdvaXU0ZEs5eGo2d3hjTld4MkpvQmY4QWYwUjJyWTRsM01vbFFfcmJ1QXd3VTFhZjRsNXozVVBiOXNacTQtM2FlQzFJVU9ZTEl5OURockxKbnfSAWBBVV95cUxQSmJaY2JScUFCQ0JHaFRHQ1lSMXBvdVhyeEwxbF9iTFVMdWEzTGl6d2UzbkhnZ3l5SUo4S0VZYVNqdWlGblQ0TTZXdzdBNHB3RW5GNVNldU1NM3ZzWDB0Nmg?oc=5"
+      "title": "與 \"젤렌스키에 감사서한은 매국\"…나경원 \"참 지독한 친북정권\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FUnZ3bDQyVEVLUkdZeDJ2TVBjMkNzY1RzQUVHUHJTT3I2akFXMGxUbEFoZUsybno5Z3NPeVVtRWVjNnE3QVl0ZXJxTnpEWHRvbjl3RUVXbVdiN052ZGl2ctIBYEFVX3lxTE9FUnZ3bDQyVEVLUkdZeDJ2TVBjMkNzY1RzQUVHUHJTT3I2akFXMGxUbEFoZUsybno5Z3NPeVVtRWVjNnE3QVl0ZXJxTnpEWHRvbjl3RUVXbVdiN052ZGl2cg?oc=5"
      },
      {
-      "press": "주간경향",
-      "title": "나경원, 젤렌스키에 서한 “포로 송환, 대승적 결정 깊은 감사”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96SENPQzl6TXZtRVRBT1BkUzllemd4VmttV1ZXd3ZzS1FtZ1JVZkhvZWtGMFVSM01fc3RpbXVFUlZrdWJhN1d1MDNNekJPcFBZaG16aGRvSG9tWXdHdmc?oc=5"
+      "press": "국제신문",
+      "title": "나경원 ‘젤렌스키 감사 서한’에 與 “매국”…나 “친북 정권”",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObW93a3k1Wnh4dDREMzNpcFdzTndQc3JIcWJUeGJralQ3YVZpN29salNVQTY2alV4emMxUmNzeVA2RlNfSERWa1BLbmxKZkJSUmM3cHdmTmFGM0V4WTE0dlhieEZsZHpnUHVmcXQ3U0xvd2hHSzZuRE8xc1RwSU1iOFJ1OVB3eXBVT3B2WE9kVGE1X1R1SVNfWA?oc=5"
      },
      {
-      "press": "조선일보",
-      "title": "나경원, 젤렌스키에 서한… \"北포로 한국행 허용 결정 감사\"",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbmRRWEpXRWNlREdheTFRbmpsN21kcFBOX09GQUI4bUR2bGRKY0NIeG1QS3pQd0JEZkxBcDBVR2Q5a19BNTFXZEFOWkh3QVJ2OVY5SGs5NUtIU3VfNWVxS1oybWZYY0tVV0ZwNURUMmpZbG9maDlkZzdWTjVYWnJkbG5BMVM0UQ?oc=5"
+      "press": "경향신문",
+      "title": "북한 포로 공개 우크라에 ‘감사 서한’ 공방…나경원 “조선노동당인가” 민주당 “극우적 몸부림”",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OcWNjZWY3NTcwLWNKNGd4NDRJdEsxcXp2d1A0M0xpQk1XcVFuQVFuNk1Tb2t1VU1FeGZLWDZ4SFhGZDlxT3IxQ1ZoODBIa1dfMl95OW1iRlZYR18tUjlV0gFfQVVfeXFMT05xY2NlZjc1NzAtY0o0Z3g0NEl0SzFxenZ3UDQzTGlCTVdxUW5BUW42TVNva3VVTUV4ZktYNnhIWEZkOXFPcjFDVmg4MEhrV18yX3k5bWJGVlhHXy1SOVU?oc=5"
      },
      {
-      "press": "한겨레",
-      "title": "나경원, 젤렌스키에 서한…“북한군 포로 한국행 허용에 감사”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XRHlDWFBMNDhkbnRUNXZDN0lFeUtOMDl1cUxnT3F2NEt4aEhEbzhJeUNmdVgzZHNhbkU5WDVEVkJmOS1TS1hZQ2huZnBCQU1wYm5uRG9FWVJ2aUVyTEtpUzJfNzBDcWdaYjRyVUxLY3pPUmJL?oc=5"
+      "press": "M이코노미뉴스",
+      "title": "정치권, 북한군 포로 송환 놓고 충돌...“우크라 약속 이행” vs “대사 소환 철회”",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11RGdKRVA5dE9GbG5lMW4xNkFhU3R4Y1JlOFQ0MUlvQ19SWFMtN0ZBaENuUWpqSzhRMktXdWMtMUdWZWppREhVTWMwRUpiTXhmMjVzZmRDMVhIbTVMYUtORmlTbkN4T1U?oc=5"
      },
      {
       "press": "부산일보",
-      "title": "우크라 대사 소환 결정한 정부, 나경원은 젤렌스키에 감사 서한… \"이게 격노할 일인가\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKNDlZRXhVMF9KaXF5eTVOcEM2Q05tY1p3d1ZHLXdpcEk2TVh3dkFFNFBzbDEzZUVtX2hjMXRwYm5iVmhEaEktQ3haUU54dVZidWY4WXk4ZmRRMmttS1NROGt4dmdIUlNNWUlUdmtUSlRCM1pX?oc=5"
-     },
-     {
-      "press": "매일신문",
-      "title": "나경원 \"李정권, 우크라 은혜를 원수로 갚아\"…젤렌스키에 감사 서한",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RSXM1Vlc4aFlxR1dsOHZ4MXkxdHZNU0ZtVGwwTmNMV0lqQndJV0hlMF9tRUl4blZuVGJOdVhqSGRqUnZTT2xmZjA0cmtCbUQ0SHYwUmh4eFFDNWlaajBxRlhR?oc=5"
+      "title": "與·나경원 `젤렌스키 감사 서한` 공방…`이완용이냐` vs `조선노동당 의원이냐`",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPVFczRG9YZXlEUTlIQzNVS1lJS3N3Q0ZucEsxeFhDbFAxNC1zcHRBNUxyMHRiLUR6VWkzWVFXWVJzTnloUFZDRmhQeWtHTHZ1Ml8xX3pUNVJVVjk1NmlRMkxkVFc2T0J4bEp4cmpXc0piT3B6?oc=5"
      }
     ]
    }
   },
   {
-   "title": "이명박 “경제 강국인데 정치 못 따라가 안타까워”",
-   "source": "국민일보",
-   "url": "https://n.news.naver.com/article/005/0001877717",
-   "published_at": "2026-10-09T01:26:09+09:00",
-   "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 217,
-   "comment_agree": 217,
-   "comment_disagree": 40,
-   "division_balance": 0.311284,
-   "division_score": 1.728548,
-   "selection": "찬반 쟁점",
-   "summary": "이명박 전 대통령은 8일 “우리 경제적 수준은 지금 세계 10대 강국이 됐는데, 정치는 그 수준을 못 따라가는 것 같다”고 말했다. 이 전 대통령은 ‘청계천을 사랑하는…",
-   "summary_long": "이명박(사진) 전 대통령은 8일 “우리 경제적 수준은 지금 세계 10대 강국이 됐는데, 정치는 그 수준을 못 따라가는 것 같다”고 말했다. 이 전 대통령은 ‘청계천을 사랑하는 모임’(청사모) 구성원들과 청계천 걷기 행사에 참석해 “정치가 바뀐다면 아마 우리 한국 경제가 굉장히 더 성장할 수 있을 것 같다. 청사모는 이 전 대통령이 서울시장 당시 추진한 청계천 복원사업에 참여했던 서울시 공무원 모임이다.\n\n이 전 대통령은 현 정부의 국정 운영에 관한 질문에 “대통령이 이제 국민의 소리에 귀 기울이지 않겠나. 점점 더 나아질 것”이라며 “야당의 소리에 귀 기울일 게 아니라 국민의 소리를 듣는 게 중요하다”고 말했다. 서울시에 비가 왔을 때 물이 바로 여기(청계천)에 흘러 들어가 버리면 물고기가 죽으니깐 따로 흐른다”고 설명하기도 했다.",
-   "quotes": [
-    "양쪽이 (배수) 터널이다. 서울시에 비가 왔을 때 물이 바로 여기(청계천)에 흘러 들어가 버리면 물고기가 죽으니깐 따로 흐른다",
-    "정치가 바뀐다면 아마 우리 한국 경제가 굉장히 더 성장할 수 있을 것 같다. 그게 좀 안타깝다",
-    "우리 경제적 수준은 지금 세계 10대 강국이 됐는데, 정치는 그 수준을 못 따라가는 것 같다"
-   ],
-   "press": "국민일보",
-   "photo": "06.jpg",
-   "quoted": {
-    "quote": "양쪽이 (배수) 터널이다. 서울시에 비가 왔을 때 물이 바로 여기(청계천)에 흘러 들어가 버리면 물고기가 죽으니깐 따로 흐른다",
-    "n": 7,
-    "verified": 0,
-    "items": [
-     {
-      "press": "국민일보",
-      "title": "이명박 “경제 강국인데 정치 못 따라가 안타까워”",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTaVV3aUg2MlRTTHdiSXJJTlY5cTU0eE45d2tKNUJSZFo4SUhUMmNPcjdpaE1IRF9JNE03MUtGXy1RQWxPVVJEbmduR3ZTUkNMaDA1cWxCSUI0TnpiZmtNWGp6TEF3a1g3S0g5bdIBbEFVX3lxTFBTaVV3aUg2MlRTTHdiSXJJTlY5cTU0eE45d2tKNUJSZFo4SUhUMmNPcjdpaE1IRF9JNE03MUtGXy1RQWxPVVJEbmduR3ZTUkNMaDA1cWxCSUI0TnpiZmtNWGp6TEF3a1g3S0g5bQ?oc=5"
-     },
-     {
-      "press": "연합뉴스",
-      "title": "이명박 \"경제는 10대 강국인데 정치가 못 따라가…안타까워\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CNGw1NEY3R3RoN2Exc2VrbWxXOWdPbWFJLVZJemZIVno5cU83REpjcEk5UnpLS2tzZk1zVzR1cExTbEJqUU8wOVUxdlJvLXl5d2pTalc0cWNBejDSAWBBVV95cUxNbEE4SkFZY09oNlZHYXJhSURiQW9LZEF0aUNRSVpMbHBYWVNNQUNYOThyR3FzY0hBWlVTcFpueDFuRnpYc3lwVEktaC1ueVprVmM1eTZoQ0FQV2xZY3F6Z0k?oc=5"
-     },
-     {
-      "press": "매일신문",
-      "title": "`경제는 10대 강국인데, 정치가…안타까워` 청계천 걷던 MB의 `한탄`",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JREtwdGRncllUVmZQQnhTakVDalNYYnEwMlVQdTZnVERiVUtENXdpajlJejNOd1BQb3JDYUl5TklYMFhwX3NFcmt4WGJQc0pKV3R6M0EyUEtzUXA3VGp2dVlR?oc=5"
-     },
-     {
-      "press": "디지털데일리",
-      "title": "이명박 \"경제는 10대 강국인데 정치는 못 따라가\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nRG14MzRteFZxU0RVVEROdnZ0OVlIU2V3TXYtS1VvbmNldkVoS0M3Y0hZenA2eUt6V0UwLTRHY0o0ajBLUGNVa215LUViMEZ6ZDU0TndfaVRCRXktM2FCTkpB?oc=5"
-     },
-     {
-      "press": "더리포트",
-      "title": "이명박 “정치 바뀌면 경제 더 성장”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2dVFuTjU2VG1sYkw4Vk1HRTZuSWJ4Z2VkdDRreWNyT3QzXzFyT2NNaC1FMnJkM04zYnFDcU9IaVRxclhCRnJnc1g0SF9MRnYxVmVLN1MzZ2M3UDBzSWx1SlBXVE1ZdVpLemhjREtn?oc=5"
-     },
-     {
-      "press": "이데일리",
-      "title": "청계천 간 MB \"경제는 10대 강국인데 정치가 못 따라가\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHJSTlBKYmRjeldFRWtIWWI4YUlWUFhSTmQ4NG8wRTZZRmF0QlRuSnJkMndabmtoUWw1Ymx2aEF6UGpHaDNTQnkxbVdQcjkzb1pzenlQaGtaX29pYlZpZUhDZ1VodTdscWVzb01OX3o2VDZ1eEVMUGdGYXpRd2FiaQ?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "이 대통령 \"능력도 안 되면서 큰 자리 요구‥개혁 내세워 내부 공격\"",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001528099",
-   "published_at": "2026-10-09T13:50:46+09:00",
+   "title": "'젤렌스키에 감사서한' 보낸 나경원…\"매국\" 지적에 \"조선노동당인가\"",
+   "source": "MBN",
+   "url": "https://n.news.naver.com/article/057/0001972743",
+   "published_at": "2026-10-10T17:45:07+09:00",
    "section_id": "100",
    "view_rank": 1,
-   "comment_count": 1634,
-   "comment_agree": 339,
-   "comment_disagree": 53,
-   "division_balance": 0.270408,
-   "division_score": 1.615367,
+   "comment_count": 719,
+   "comment_agree": 274,
+   "comment_disagree": 54,
+   "division_balance": 0.329268,
+   "division_score": 1.908458,
    "selection": "찬반 쟁점",
-   "summary": "이재명 대통령이 \"능력도 안 되면서 인사를 요구하고, 잘 안되니 급진 개혁을 내세우며 내부 공격을 한다\"며 여권 내 일부 세력을 비판한 글을 올렸습니다. 이 대통령은…",
-   "summary_long": "이재명 대통령이 \"능력도 안 되면서 인사를 요구하고, 잘 안되니 급진 개혁을 내세우며 내부 공격을 한다\"며 여권 내 일부 세력을 비판한 글을 올렸습니다. 이 대통령은 오늘 본인의 SNS에 조희연 전 서울시 교육감의 언론 기고문을 소개하며 \"순수한 급진성도 문제겠지만 능력도 안 되면서 큰 자리를 요구하고, 인사나 국가정책까지 자기 뜻대로 하려다가 잘 안되니 대의명분 삼아 급진 개혁을 내세우며 내부 공격을 하는 것이 더 문제\"라고 적었습니다. 인용된 기고문에서 조 전 교육감은 '적을 향한 증오가 동지를 향할 때'라는 제목의 글을 통해 더불어민주당 전당대회 과정과 이후의 내부 분열 양상을 지적했습니다.\n\n이 대통령은 \"무엇이 동지를 적으로 바꾸었는가\", \"혁명을 위해 동지를 치는 것이 아니라, 동지를 치는 일 자체가 혁명이 돼 버린다\", \"혁명이 체제가 되는 순간 순수의 근저에 이익의 시선이 흘러들고 자기정치와 자기 집단정치의 동학이 작동한다\"는 대목을 인용하기도 했습니다. 이 대통령의 이같은 메시지는 검찰개혁 과정과 이후 김지용 중대범죄수사청장 후보자 인선 과정에서 잇따라 공개적으로 비판적인 주장을 내놓고 있는 당 안팎의 강경파를 겨냥한 걸로 풀이됩니다.",
+   "summary": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 북한군 포로 2명의 한국 송환에 대해 감사 서한을 보낸 것 등을 놓고 더불어민주당과 충돌했습니다. 이용우…",
+   "summary_long": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 북한군 포로 2명의 한국 송환에 대해 감사 서한을 보낸 것 등을 놓고 더불어민주당과 충돌했습니다. 이용우 민주당 대변인은 오늘(10일) 서면브리핑에서 나 의원을 향해 \"비공개 약속을 어긴 우크라이나는 두둔하면서, 그 책임을 묻는 우리 정부에는 북한군 포로를 사지에 버리려 한다는 터무니없는 누명을 씌웠다\"고 꼬집었습니다. 이 대변인은 \"국제기준에 따라 당사자와 가족의 신변을 보호하려는 요구까지 '친북'으로 매도하는 무책임한 선동을 중단하라\"며 \"포로들의 '생명줄'을 걱정한다면서 정작 그 안전을 지킬 약속은 외면하는 것이 나 의원이 말하는 인권이냐\"고 일갈했습니다.\n\n같은 당 김병주 의원은 어제(9일) 페이스북에서 나 의원을 향해 \"배은망덕 대한민국을 모독한 젤렌스키에 감사 서한이라니 어느 나라 국회의원인가\"라면서 \"개인의 사욕을 위해 나라 팔아먹은 이완용과 무엇이 다른가. 이에 대해 나 의원은 오늘 잇따라 페이스북을 통해 \"북한군 포로송환 우크라이나 대통령에 대해 감사 서한을 보내니 민주당 의원들이 자폭부대처럼 앞다투어 달려든다\"며 \"대한민국 의원들 맞나. 나 의원은 북한군 포로 송환 공개에 대한 한국 정부의 대응으로 박기창 주우크라이나 대사가 귀국했다는 뉴스를 공유하고 \"외교적 자해 행위\"라며 \"이 기막힌 외교 갈등은 오직 북한 김정은을 향한 보여주기밖에는 설명이 되지 않는다\"라고 지적했습니다.",
    "quotes": [
-    "순수한 급진성도 문제겠지만 능력도 안 되면서 큰 자리를 요구하고, 인사나 국가정책까지 자기 뜻대로 하려다가 잘 안되니 대의명분 삼아 급진 개혁을 내세우며 내부 공격을 하는 것이 더 문제",
-    "혁명이 체제가 되는 순간 순수의 근저에 이익의 시선이 흘러들고 자기정치와 자기 집단정치의 동학이 작동한다",
-    "능력도 안 되면서 인사를 요구하고, 잘 안되니 급진 개혁을 내세우며 내부 공격을 한다"
+    "비공개 약속을 어긴 우크라이나는 두둔하면서, 그 책임을 묻는 우리 정부에는 북한군 포로를 사지에 버리려 한다는 터무니없는 누명을 씌웠다",
+    "'우리는 북한군이 탈북해 대한민국으로 오는 것을 결코 환영하지 않으니 안심하라'는 비굴한 굴종의 메시지를 평양에 바친 것",
+    "북한군 포로송환 우크라이나 대통령에 대해 감사 서한을 보내니 민주당 의원들이 자폭부대처럼 앞다투어 달려든다"
    ],
-   "press": "MBC",
+   "press": "MBN",
    "photo": "07.jpg",
    "quoted": {
-    "quote": "순수한 급진성도 문제겠지만 능력도 안 되면서 큰 자리를 요구하고, 인사나 국가정책까지 자기 뜻대로 하려다가 잘 안되니 대의명분 삼아 급진 개혁을 내세우며 내부 공격을 하는 것이 더 문제",
+    "quote": "비공개 약속을 어긴 우크라이나는 두둔하면서, 그 책임을 묻는 우리 정부에는 북한군 포로를 사지에 버리려 한다는 터무니없는 누명을 씌웠다",
     "n": 10,
     "verified": 0,
     "items": [
      {
       "press": "연합뉴스",
-      "title": "李대통령 \"능력 안되면서 큰자리 요구, 개혁 명분으로 내부공격\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnRmR4RjhTa192TU45WHdFSzJpN1VObmpjQlJlRl9yRGtNalI2b2NKY1ptMy1GYjZFbTlONGU0ZFhKVmFhelJnZWd1TzhMdlA3X2xlZ2d4MHNZMTDSAWBBVV95cUxQVTE2elA5dHgwemRiZVA4VUdkVGs4M0hPMk92aktTdGJFZENQQ3kzU0dYb204UzRaM0J2N3VZb056cHlMUm5XaVM2S1pVZ2lxWGlWNS1mVkY1eEpvOFpuMEw?oc=5"
+      "title": "與 \"젤렌스키에 감사서한은 매국\"…나경원 \"참 지독한 친북정권\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FUnZ3bDQyVEVLUkdZeDJ2TVBjMkNzY1RzQUVHUHJTT3I2akFXMGxUbEFoZUsybno5Z3NPeVVtRWVjNnE3QVl0ZXJxTnpEWHRvbjl3RUVXbVdiN052ZGl2ctIBYEFVX3lxTE9FUnZ3bDQyVEVLUkdZeDJ2TVBjMkNzY1RzQUVHUHJTT3I2akFXMGxUbEFoZUsybno5Z3NPeVVtRWVjNnE3QVl0ZXJxTnpEWHRvbjl3RUVXbVdiN052ZGl2cg?oc=5"
      },
      {
       "press": "주간조선",
-      "title": "李 “능력도 안 되면서 큰 자리 요구…안 되니 개혁 내세워 내부 공격”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81aEQ2SzA4XzI0UEFtM2tPUDA0dFdadDdEa1pJb1JIVDgzREotLThKSk9WSGJxN2NoNjRudHYtSm92a1NfVEUxTF9ibG95amVaY3N1Y0VIZExEVFNzOTVwbDloRTM1WDBKY2F0VlVB0gFuQVVfeXFMTzVoRDZLMDhfMjRQQW0za09QMDR0V1p0N0RrWklvUkhUODNESi0tOEpKT1ZIYnE3Y2g2NG50di1Kb3ZrU19URTFMX2Jsb3lqZVpjc3VjRUhkTERUU3M5NXBsOWhFMzVYMEpjYXRWVUE?oc=5"
+      "title": "與 “나경원, 이완용과 뭐가 다른가”…羅 “이재명 정권 굴종이 매국”",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DUzZIbmNqX3lXdllIaEVYUHV3eWlKaHBGdTFXSFJMdGdDYW1KNm5YU05kVjZBN3F5RjAzU2RuZ2paOGQ0RGtNMmJaQk5hLVp0eVlUSmVNM21IQklpM2pUWmFRYTlIYWNiUFRZTnVn0gFuQVVfeXFMTkNTNkhuY2pfeVd2WUhoRVhQdXd5aUpocEZ1MVdIUkx0Z0NhbUo2blhTTmRWNkE3cXlGMDNTZG5nalo4ZDREa00yYlpCTmEtWnR5WVRKZU0zbUhCSWkzalRaYVFhOUhhY2JQVFlOdWc?oc=5"
      },
      {
-      "press": "MBC 뉴스",
-      "title": "이 대통령 \"능력도 안 되면서 큰 자리 요구‥개혁 내세워 내부 공격\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iUjlxTmFwVXZ3MzBNazJJNmV6MHZIVHFBZjh4aGQ5TFJlQ29jLUZ3VzVZTHdOV1FnempXTlc5ZnBWT29ob0std2N6XzgyZFVpQ3gyNTZHYlphZ3BSdGFyQ0t5YTJUb2tPMDhveF81ZGxvNUNPdTV5bNIBeEFVX3lxTFBJcHdjblBfdU0wd0l1NU5RQnZPQ0wtaHdWSmladGpFZVh6YjRMTDBobVdmbUZCUkxfejVwNThmWFlpaHZpa3owVmkyWUplai13VHdTSUZXNE43bDJISEktdUp0T1ctclgycWc5R0xPYWFYXzhTaTVOTA?oc=5"
+      "press": "국제신문",
+      "title": "나경원 ‘젤렌스키 감사 서한’에 與 “매국”…나 “친북 정권”",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObW93a3k1Wnh4dDREMzNpcFdzTndQc3JIcWJUeGJralQ3YVZpN29salNVQTY2alV4emMxUmNzeVA2RlNfSERWa1BLbmxKZkJSUmM3cHdmTmFGM0V4WTE0dlhieEZsZHpnUHVmcXQ3U0xvd2hHSzZuRE8xc1RwSU1iOFJ1OVB3eXBVT3B2WE9kVGE1X1R1SVNfWA?oc=5"
      },
      {
-      "press": "연합뉴스TV",
-      "title": "이 대통령 “능력 안되면서 큰 자리 요구“…여권 ’강경파’ 저격",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBOTZxWmNBZjhqV0RhaXJSeXVCenNJTVlHZGd6Zl9vNmxseFVOVGE0dGtYUE5aZ0ZmT1RRdVlZcnozQ3V1eU9fejVqUmw4OGpQLXRfNEpGX3dvNUc5U0NkZVdobnBoUXM?oc=5"
+      "press": "경향신문",
+      "title": "북한 포로 공개 우크라에 ‘감사 서한’ 공방…나경원 “조선노동당인가” 민주당 “극우적 몸부림”",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OcWNjZWY3NTcwLWNKNGd4NDRJdEsxcXp2d1A0M0xpQk1XcVFuQVFuNk1Tb2t1VU1FeGZLWDZ4SFhGZDlxT3IxQ1ZoODBIa1dfMl95OW1iRlZYR18tUjlV0gFfQVVfeXFMT05xY2NlZjc1NzAtY0o0Z3g0NEl0SzFxenZ3UDQzTGlCTVdxUW5BUW42TVNva3VVTUV4ZktYNnhIWEZkOXFPcjFDVmg4MEhrV18yX3k5bWJGVlhHXy1SOVU?oc=5"
      },
      {
       "press": "부산일보",
-      "title": "이 대통령 \"능력도 안되면서 큰자리 요구, 개혁 명분으로 내부공격\"",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XcFV4M2dSMTdaUTRsc3RPcm1LbDZyMlMwNlpVYk83N21oclN2dWZQYWZCelZrWGFWaVA3MTVQZ1RIbjRNR0dLc3gydW9keVB5ejBYdzRlbVRrR2FSeF9YMEJIbk9iSzNobVEyeUtSZVZGRnkxcWZfcWllYw?oc=5"
+      "title": "與·나경원 `젤렌스키 감사 서한` 공방…`이완용이냐` vs `조선노동당 의원이냐`",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPVFczRG9YZXlEUTlIQzNVS1lJS3N3Q0ZucEsxeFhDbFAxNC1zcHRBNUxyMHRiLUR6VWkzWVFXWVJzTnloUFZDRmhQeWtHTHZ1Ml8xX3pUNVJVVjk1NmlRMkxkVFc2T0J4bEp4cmpXc0piT3B6?oc=5"
      },
      {
-      "press": "국민일보",
-      "title": "李대통령 “능력 안되면서 큰자리 요구, 개혁 명분으로 내부공격”…與 강경파 겨눠",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTa0xMODNZWU9NS0pBSU1xSmJHc0VNNkQtTko5X2tTS0IxS19ZUFVyZHVYWFdQdy1va3lJTFU1THdQbnRPX051VGtpeFVJZXBuMGt2WWlsdWlNai1DMWxsMGUwVTk1LXVKNDRGWNIBbEFVX3lxTFBTa0xMODNZWU9NS0pBSU1xSmJHc0VNNkQtTko5X2tTS0IxS19ZUFVyZHVYWFdQdy1va3lJTFU1THdQbnRPX051VGtpeFVJZXBuMGt2WWlsdWlNai1DMWxsMGUwVTk1LXVKNDRGWA?oc=5"
+      "press": "M이코노미뉴스",
+      "title": "정치권, 북한군 포로 송환 놓고 충돌...“우크라 약속 이행” vs “대사 소환 철회”",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11RGdKRVA5dE9GbG5lMW4xNkFhU3R4Y1JlOFQ0MUlvQ19SWFMtN0ZBaENuUWpqSzhRMktXdWMtMUdWZWppREhVTWMwRUpiTXhmMjVzZmRDMVhIbTVMYUtORmlTbkN4T1U?oc=5"
      }
     ]
    }
@@ -377,139 +320,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/01.png",
-   "pngBytes": 2345581,
-   "feed": "오늘의 뉴스 2026-10-10\n\n· [단독]'무법천지'된 올림픽공원…피해액 26억 넘었다\n· 막 퍼준 ‘민생지원금’…“다음 세대 짊어진 243개 지자체 부채 58조”\n· “몸 바늘로 꿰매고 서로 성폭행”…234명 덮친 ‘목사’ 정체\n· 前 축구 국가대표 김영광, '보복운전 논란' 사과\n· \"이게 격노할 일인가\"…우크라에 '감사 서한' 보낸 나경원\n· 이명박 “경제 강국인데 정치 못 따라가 안타까워”\n· 이 대통령 \"능력도 안 되면서 큰 자리 요구‥개혁 내세워 내부 공격\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/01.png",
+   "pngBytes": 1928000,
+   "feed": "오늘의 뉴스 2026-10-11\n\n· 안철수 \"인천 해수욕장 인근서 北 지뢰 발견…대통령 SNS에는 '북(北)' 한글자 없어\"\n· \"1,300원짜리 브라질 계란 수입해 100원에 팔아\"… 장동혁, \"차액은 혈세로.. 누굴 배 불리나\"\n· 요즘 골프장 ‘곡소리’ 나는 이유…‘사치성 재산’ 세금 폭탄 던진 정부 [권준영의 머니볼]\n· \"못 보던 3cm 바퀴벌레가 바글\"...부산서 외래종 정착 '발칵'\n· [속보] 나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나왔는데, 李대통령은 말 한마디 없어”\n· [속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”\n· '젤렌스키에 감사서한' 보낸 나경원…\"매국\" 지적에 \"조선노동당인가\""
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/02.png",
-   "pngBytes": 2331394,
-   "title": "[단독]'무법천지'된 올림픽공원…피해액 26억 넘었다",
-   "summary": "국정감사에서 선관위가 손을 놓고 있다는 질타까지 나온 가운데, 추가 대관료 등을 누가 부담할지를 두고 책임 공방이 불가피할 전망이다. 통제할 수 없는 제3자의 행위로…",
-   "summary_long": "6·3 지방선거 개표소인 서울 올림픽공원 핸드볼경기장 앞 봉쇄 시위가 넉 달 넘게 이어지면서 피해액이 26억원을 넘어섰다. 국정감사에서 선관위가 손을 놓고 있다는 질타까지 나온 가운데, 추가 대관료 등을 누가 부담할지를 두고 책임 공방이 불가피할 전망이다. 국회 행정안전위원회 김영진 위원장(더불어민주당 수원시병 국회의원)이 8일 국민체육진흥공단으로부터 제출받은 자료에 따르면, 올림픽공원 개표소 봉쇄 시위로 발생한 추정 피해액은 총 26억 1700만원으로 집계됐다.\n\n가장 큰 비중을 차지한 것은 콘서트와 공연 등 대관 행사를 진행하지 못하면서 발생한 대관료 등 약 16억 1900만원이다. 통제할 수 없는 제3자의 행위로 인해 발생한 사태인 만큼 선관위의 책임을 면할 수 있다는 취지다. 다만 '귀책사유 판단이 불분명한 부분을 제외하고 정상적인 사용기간에 발생한 추가 사용료'라는 표현을 사용하면서, 추가 비용 전체에 대한 책임 여부는 여전히 불분명한 상황이다.",
-   "press": "노컷뉴스",
-   "source": "노컷뉴스",
-   "link": "https://n.news.naver.com/article/079/0004197197",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/02.png",
+   "pngBytes": 1941346,
+   "title": "안철수 \"인천 해수욕장 인근서 北 지뢰 발견…대통령 SNS에는 '북(北)' 한글자 없어\"",
+   "summary": "안철수 국민의힘 의원이 이재명 대통령을 향해 \"북한을 향한 굴종 광대극을 즉각 멈춰야한다\"고 말했다. 안 의원은 그러면서 \"이 대통령은 지난 5일 합참의 최종 발표 이후…",
+   "summary_long": "안철수 국민의힘 국회의원, 강신철 국방부 장관, 이재명 대통령. 안철수 국민의힘 의원이 이재명 대통령을 향해 \"북한을 향한 굴종 광대극을 즉각 멈춰야한다\"고 말했다. 안 의원은 10일 자신의 페이스북에 '대한민국 바다까지 지뢰밭으로 만드는 북한, 이재명 대통령은 언제까지 침묵하려 합니까?'라는 제목의 글을 올리고 이같이 말했다.\n\n그는 인천 강화군 주문도 대빈창해수욕장 인근에서 북한에서 떠내려온 것으로 추정되는 대인지뢰가 발견된 사실을 언급하며 \"북한 지뢰가 DMZ에 이어 이제 우리 바다와 해수욕장 인근까지도 발견된 것\"이라고 지적했다. 안 의원은 그러면서 \"이 대통령은 지난 5일 합참의 최종 발표 이후 5일이 넘었는데도 침묵으로 일관하고 있다\"며 \"수없이 올리는 X게시물에서 북한의 '북'자는 물론, '지뢰'라는 단어 조차 찾을 수 없다\"고 말했다. 안 의원은 \"그리고 뭐라도 행동으로 보여줘야 한다\"며 \"대북방송, 전단살포, 대북확성기 설치 등 북한의 도발에 상응하는 그 무엇이라도 하길 바란다\"고 말했다.",
+   "press": "매일신문",
+   "source": "매일신문",
+   "link": "https://n.news.naver.com/article/088/0001033334",
    "selection": "정치",
-   "feed": "뉴스 01. [단독]'무법천지'된 올림픽공원…피해액 26억 넘었다\n\n6·3 지방선거 개표소인 서울 올림픽공원 핸드볼경기장 앞 봉쇄 시위가 넉 달 넘게 이어지면서 피해액이 26억원을 넘어섰다. 국정감사에서 선관위가 손을 놓고 있다는 질타까지 나온 가운데, 추가 대관료 등을 누가 부담할지를 두고 책임 공방이 불가피할 전망이다. 국회 행정안전위원회 김영진 위원장(더불어민주당 수원시병 국회의원)이 8일 국민체육진흥공단으로부터 제출받은 자료에 따르면, 올림픽공원 개표소 봉쇄 시위로 발생한 추정 피해액은 총 26억 1700만원으로 집계됐다.\n\n가장 큰 비중을 차지한 것은 콘서트와 공연 등 대관 행사를 진행하지 못하면서 발생한 대관료 등 약 16억 1900만원이다. 통제할 수 없는 제3자의 행위로 인해 발생한 사태인 만큼 선관위의 책임을 면할 수 있다는 취지다. 다만 '귀책사유 판단이 불분명한 부분을 제외하고 정상적인 사용기간에 발생한 추가 사용료'라는 표현을 사용하면서, 추가 비용 전체에 대한 책임 여부는 여전히 불분명한 상황이다.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004197197"
+   "feed": "뉴스 01. 안철수 \"인천 해수욕장 인근서 北 지뢰 발견…대통령 SNS에는 '북(北)' 한글자 없어\"\n\n안철수 국민의힘 국회의원, 강신철 국방부 장관, 이재명 대통령. 안철수 국민의힘 의원이 이재명 대통령을 향해 \"북한을 향한 굴종 광대극을 즉각 멈춰야한다\"고 말했다. 안 의원은 10일 자신의 페이스북에 '대한민국 바다까지 지뢰밭으로 만드는 북한, 이재명 대통령은 언제까지 침묵하려 합니까?'라는 제목의 글을 올리고 이같이 말했다.\n\n그는 인천 강화군 주문도 대빈창해수욕장 인근에서 북한에서 떠내려온 것으로 추정되는 대인지뢰가 발견된 사실을 언급하며 \"북한 지뢰가 DMZ에 이어 이제 우리 바다와 해수욕장 인근까지도 발견된 것\"이라고 지적했다. 안 의원은 그러면서 \"이 대통령은 지난 5일 합참의 최종 발표 이후 5일이 넘었는데도 침묵으로 일관하고 있다\"며 \"수없이 올리는 X게시물에서 북한의 '북'자는 물론, '지뢰'라는 단어 조차 찾을 수 없다\"고 말했다. 안 의원은 \"그리고 뭐라도 행동으로 보여줘야 한다\"며 \"대북방송, 전단살포, 대북확성기 설치 등 북한의 도발에 상응하는 그 무엇이라도 하길 바란다\"고 말했다.\n\n출처: 매일신문 / https://n.news.naver.com/article/088/0001033334"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/03.png",
-   "pngBytes": 1684765,
-   "title": "막 퍼준 ‘민생지원금’…“다음 세대 짊어진 243개 지자체 부채 58조”",
-   "summary": "부채 금액 1위는 서울 17조원. 이런 와중에 전국 243개 지방자치단체가 안고 있는 부채가 58조4000억원을 웃도는 것으로 나타나 미래세대의 부담을 키우고 있는…",
-   "summary_long": "부채 금액 1위는 서울 17조원. 미래세대가 짊어져야 할 천문학적인 부채를 안고 있음에도 불구하고, 민생지원금 등 각종 명분으로 ‘공짜 돈’을 지원하는 지방자치단체가 여전하다. 이런 와중에 전국 243개 지방자치단체가 안고 있는 부채가 58조4000억원을 웃도는 것으로 나타나 미래세대의 부담을 키우고 있는 것으로 나타났다.\n\n9일 국회 행정안전위원회 소속 민주당 박정현(대전 대덕) 의원이 행정안전부를 통해 받은 2025년 결산자료 ‘지자체별 유형고정자산 및 부채 합계’ 및 ‘유동부채 세부내역’을 분석한 자료를 보면 전국 243개 지자체가 갚아야 할 부채가 모두 58조4265억원으로 집계됐다. 박 의원에 따르면 미래 부채가 1년 전보다 17.7%(8조7764억원) 증가한 반면 지자체의 자산은 2.8% 증가하는 데 그쳤다. 박정현 의원은 “미래에 갚아야 할 돈이 1년 사이 17.7% 늘었는데 자산은 2.8% 느는 데 그쳐 격차가 벌어지고 있다”며 “지금 결정한 사람이 갚지 않는 구조에서 부담은 다음 세대에 쌓이게 된다”고 말했다.",
-   "press": "디지털타임스",
-   "source": "디지털타임스",
-   "link": "https://n.news.naver.com/article/029/0003052221",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/03.png",
+   "pngBytes": 871251,
+   "title": "\"1,300원짜리 브라질 계란 수입해 100원에 팔아\"… 장동혁, \"차액은 혈세로.. 누굴 배 불리나\"",
+   "summary": "장동혁 대표, SNS 통해 브라질산 계란 고가 수입 논란 맹비난. 장동혁 대표가 정부의 브라질산 계란 수입을 두고 막대한 혈세가 낭비되고 있다며 이재명 대통령을 향해…",
+   "summary_long": "장동혁 대표, SNS 통해 브라질산 계란 고가 수입 논란 맹비난. \"미국산 464원인데 브라질산 무려 1,300원, 현지 가격의 6배\" 장동혁 대표가 정부의 브라질산 계란 수입을 두고 막대한 혈세가 낭비되고 있다며 이재명 대통령을 향해 강도 높은 비판을 쏟아냈습니다.\n\n장 대표는 자신의 페이스북에 \"계란 수입까지 '좌파 커넥션'?\"이라는 제목의 글을 올리고, 터무니없이 비싼 수입 단가와 세금 투입 문제를 집중적으로 지적했습니다. 장 대표는 이번 브라질산 계란 수입 결정의 배경에 이념적 '커넥션'이 있는 것 아니냐는 의혹도 제기했습니다. 그는 \"지난 2월, 이재명 대통령과 브라질 룰라 대통령 정상회담 직후 브라질 계란 수입 절차가 시작됐고, 7월 이 대통령 브라질 방문 직후 브라질산 계란 112만 개가 수입됐다\"고 시기를 짚었습니다.",
+   "press": "CJB청주방송",
+   "source": "CJB청주방송",
+   "link": "https://n.news.naver.com/article/655/0000033114",
    "selection": "정치",
-   "feed": "뉴스 02. 막 퍼준 ‘민생지원금’…“다음 세대 짊어진 243개 지자체 부채 58조”\n\n부채 금액 1위는 서울 17조원. 미래세대가 짊어져야 할 천문학적인 부채를 안고 있음에도 불구하고, 민생지원금 등 각종 명분으로 ‘공짜 돈’을 지원하는 지방자치단체가 여전하다. 이런 와중에 전국 243개 지방자치단체가 안고 있는 부채가 58조4000억원을 웃도는 것으로 나타나 미래세대의 부담을 키우고 있는 것으로 나타났다.\n\n9일 국회 행정안전위원회 소속 민주당 박정현(대전 대덕) 의원이 행정안전부를 통해 받은 2025년 결산자료 ‘지자체별 유형고정자산 및 부채 합계’ 및 ‘유동부채 세부내역’을 분석한 자료를 보면 전국 243개 지자체가 갚아야 할 부채가 모두 58조4265억원으로 집계됐다. 박 의원에 따르면 미래 부채가 1년 전보다 17.7%(8조7764억원) 증가한 반면 지자체의 자산은 2.8% 증가하는 데 그쳤다. 박정현 의원은 “미래에 갚아야 할 돈이 1년 사이 17.7% 늘었는데 자산은 2.8% 느는 데 그쳐 격차가 벌어지고 있다”며 “지금 결정한 사람이 갚지 않는 구조에서 부담은 다음 세대에 쌓이게 된다”고 말했다.\n\n출처: 디지털타임스 / https://n.news.naver.com/article/029/0003052221"
+   "feed": "뉴스 02. \"1,300원짜리 브라질 계란 수입해 100원에 팔아\"… 장동혁, \"차액은 혈세로.. 누굴 배 불리나\"\n\n장동혁 대표, SNS 통해 브라질산 계란 고가 수입 논란 맹비난. \"미국산 464원인데 브라질산 무려 1,300원, 현지 가격의 6배\" 장동혁 대표가 정부의 브라질산 계란 수입을 두고 막대한 혈세가 낭비되고 있다며 이재명 대통령을 향해 강도 높은 비판을 쏟아냈습니다.\n\n장 대표는 자신의 페이스북에 \"계란 수입까지 '좌파 커넥션'?\"이라는 제목의 글을 올리고, 터무니없이 비싼 수입 단가와 세금 투입 문제를 집중적으로 지적했습니다. 장 대표는 이번 브라질산 계란 수입 결정의 배경에 이념적 '커넥션'이 있는 것 아니냐는 의혹도 제기했습니다. 그는 \"지난 2월, 이재명 대통령과 브라질 룰라 대통령 정상회담 직후 브라질 계란 수입 절차가 시작됐고, 7월 이 대통령 브라질 방문 직후 브라질산 계란 112만 개가 수입됐다\"고 시기를 짚었습니다.\n\n출처: CJB청주방송 / https://n.news.naver.com/article/655/0000033114"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/04.png",
-   "pngBytes": 2301842,
-   "title": "“몸 바늘로 꿰매고 서로 성폭행”…234명 덮친 ‘목사’ 정체",
-   "summary": "‘자경단’이란 이름을 들은 김서연도 그들이 무언가 알 수 없는 위험으로부터 자신을 지켜주기 위해 접근한 줄 알았다. 각각 다른 지역에서, 각각 다른 사람들이 김서연과…",
-   "summary_long": "‘곧 경위 단다.’ 입직 11년 만에 경위 특진을 하는 정계민 경사의 마음도 건들면 톡 터질 듯 부풀어 올랐다. 자신들을 ‘자경단(自警團)’이라고 일컫는 사람들이 김서연에게 연락을 취해 왔다. ‘자경단’이란 이름을 들은 김서연도 그들이 무언가 알 수 없는 위험으로부터 자신을 지켜주기 위해 접근한 줄 알았다.\n\n김서연의 아버지와 동생에게 공중전화로 연락하고, 회사에 불법 합성물을 뿌리기까지 하며 협박의 강도를 높였다. 각각 다른 지역에서, 각각 다른 사람들이 김서연과 김서연의 회사, 동생에게까지 전화를 걸어 다짜고짜 협박한 것이다. 심지어 성폭행을 당한 후에는 ‘정조대’를 차고 다니라는 기괴한 지시까지 이행하고 있었다.",
-   "press": "중앙일보",
-   "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003556820",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/04.png",
+   "pngBytes": 2220023,
+   "title": "요즘 골프장 ‘곡소리’ 나는 이유…‘사치성 재산’ 세금 폭탄 던진 정부 [권준영의 머니볼]",
+   "summary": "연구소는 2025년 회원제 골프장 이용객의 개별소비세 납부액을 3311억원으로 추산했다. 연구소는 18홀 회원제 골프장의 재산세가 2024년 12억4000만원에서…",
+   "summary_long": "10일 한국레저산업연구소(소장 서천범)에 따르면 회원제 골프장의 2025년 세금 부담액은 재산세 2300억원, 부가가치세 2712억원, 법인세 958억원 등 총 5970억원으로 추산됐다. 연구소는 2025년 회원제 골프장 이용객의 개별소비세 납부액을 3311억원으로 추산했다. 연구소는 이용객의 세 부담이 회원제 골프장의 가격 경쟁력에도 영향을 미친다고 분석했다.\n\n연구소는 인상안이 시행되면 회원제 골프장의 재산세 부담이 더 커질 것으로 전망했다. 연구소는 18홀 회원제 골프장의 재산세가 2024년 12억4000만원에서 2027년 17억7000만원으로 늘어날 것으로 추산했다. 그런데 2010년대 중반 이후 회원모집 혜택이 희석된 회원제 골프장에 대해 징벌적인 재산세를 부과하는 것이 맞는지 재고해봐야 한다”며 “정부는 회원제 골프장에 대한 징벌적인 재산세율을 점진적으로 낮춰야 한다”고 말했다.",
+   "press": "세계일보",
+   "source": "세계일보",
+   "link": "https://n.news.naver.com/article/022/0004165444",
    "selection": "경제·시사",
-   "feed": "뉴스 03. “몸 바늘로 꿰매고 서로 성폭행”…234명 덮친 ‘목사’ 정체\n\n‘곧 경위 단다.’ 입직 11년 만에 경위 특진을 하는 정계민 경사의 마음도 건들면 톡 터질 듯 부풀어 올랐다. 자신들을 ‘자경단(自警團)’이라고 일컫는 사람들이 김서연에게 연락을 취해 왔다. ‘자경단’이란 이름을 들은 김서연도 그들이 무언가 알 수 없는 위험으로부터 자신을 지켜주기 위해 접근한 줄 알았다.\n\n김서연의 아버지와 동생에게 공중전화로 연락하고, 회사에 불법 합성물을 뿌리기까지 하며 협박의 강도를 높였다. 각각 다른 지역에서, 각각 다른 사람들이 김서연과 김서연의 회사, 동생에게까지 전화를 걸어 다짜고짜 협박한 것이다. 심지어 성폭행을 당한 후에는 ‘정조대’를 차고 다니라는 기괴한 지시까지 이행하고 있었다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003556820"
+   "feed": "뉴스 03. 요즘 골프장 ‘곡소리’ 나는 이유…‘사치성 재산’ 세금 폭탄 던진 정부 [권준영의 머니볼]\n\n10일 한국레저산업연구소(소장 서천범)에 따르면 회원제 골프장의 2025년 세금 부담액은 재산세 2300억원, 부가가치세 2712억원, 법인세 958억원 등 총 5970억원으로 추산됐다. 연구소는 2025년 회원제 골프장 이용객의 개별소비세 납부액을 3311억원으로 추산했다. 연구소는 이용객의 세 부담이 회원제 골프장의 가격 경쟁력에도 영향을 미친다고 분석했다.\n\n연구소는 인상안이 시행되면 회원제 골프장의 재산세 부담이 더 커질 것으로 전망했다. 연구소는 18홀 회원제 골프장의 재산세가 2024년 12억4000만원에서 2027년 17억7000만원으로 늘어날 것으로 추산했다. 그런데 2010년대 중반 이후 회원모집 혜택이 희석된 회원제 골프장에 대해 징벌적인 재산세를 부과하는 것이 맞는지 재고해봐야 한다”며 “정부는 회원제 골프장에 대한 징벌적인 재산세율을 점진적으로 낮춰야 한다”고 말했다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004165444"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/05.png",
-   "pngBytes": 1893592,
-   "title": "前 축구 국가대표 김영광, '보복운전 논란' 사과",
-   "summary": "/김영광 인스타그램 캡처최근 보복운전 관련 비판을 받은 전 축구 국가대표 김영광이 사과했다. 전날 한 매체는 흰색 외제차가 도로에서 보복 운전을 하는 영상을 보도하며…",
-   "summary_long": "/김영광 인스타그램 캡처최근 보복운전 관련 비판을 받은 전 축구 국가대표 김영광이 사과했다. 김영광은 9일 자신의 SNS에 \"많은 분께 걱정과 심려를 끼쳐드려 죄송합니다\"라고 고개를 숙였다. 전날 한 매체는 흰색 외제차가 도로에서 보복 운전을 하는 영상을 보도하며 차주가 과거 축구 국가대표 선수였다고 설명했다.\n\n그는 평소 유튜브를 통해 자신의 과격한 운전 습관을 빈번하게 언급했던 만큼 팬들의 비판은 컸다. 김영광은 \"현재까지 경찰 불송치 및 혐의없음 처분을 받았다\"면서도 \"도로 위에서는 다른 사람의 안전과 입장까지 고려해야 한다는 점을 다시 한 번 깨달았다\"고 말했다. 과거 국가대표 골키퍼로도 활약했던 김영광은 은퇴 후 유튜브 등 방송인으로 활동하고 있다.",
-   "press": "TV조선",
-   "source": "TV조선",
-   "link": "https://n.news.naver.com/article/448/0000643946",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/05.png",
+   "pngBytes": 1949518,
+   "title": "\"못 보던 3cm 바퀴벌레가 바글\"...부산서 외래종 정착 '발칵'",
+   "summary": "10일 학계에 따르면 부산대 생명시스템연구소와 경상국립대 식물의학과 공동 연구진은 부산 감만항 일대에서 외래종인 '투르키스탄 바퀴'의 국내 정착 사실을 확인했다. 서로…",
+   "summary_long": "성충뿐 아니라 어린 개체와 알집까지 발견되면서 일시적 유입을 넘어 국내에서 번식하고 있다는 근거가 확보됐다. 10일 학계에 따르면 부산대 생명시스템연구소와 경상국립대 식물의학과 공동 연구진은 부산 감만항 일대에서 외래종인 '투르키스탄 바퀴'(Periplaneta lateralis)의 국내 정착 사실을 확인했다. 투르키스탄 바퀴는 미국과 일본, 러시아, 유럽 등에서도 유입 사례가 확인된 도시 해충이다.\n\n서로 다른 성장 단계의 개체가 같은 지역에서 발견된 만큼 국내 환경에서 번식하고 있을 가능성에 무게가 실린다. 연구진은 부산의 비교적 온화한 겨울 기후가 외래종의 정착에 영향을 미쳤을 가능성에 주목했다. 감만항 바깥 공원에서도 투르키스탄 바퀴가 발견됐지만 현재 분포 범위가 어디까지인지는 파악되지 않았다.",
+   "press": "머니투데이",
+   "source": "머니투데이",
+   "link": "https://n.news.naver.com/article/008/0005424355",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 前 축구 국가대표 김영광, '보복운전 논란' 사과\n\n/김영광 인스타그램 캡처최근 보복운전 관련 비판을 받은 전 축구 국가대표 김영광이 사과했다. 김영광은 9일 자신의 SNS에 \"많은 분께 걱정과 심려를 끼쳐드려 죄송합니다\"라고 고개를 숙였다. 전날 한 매체는 흰색 외제차가 도로에서 보복 운전을 하는 영상을 보도하며 차주가 과거 축구 국가대표 선수였다고 설명했다.\n\n그는 평소 유튜브를 통해 자신의 과격한 운전 습관을 빈번하게 언급했던 만큼 팬들의 비판은 컸다. 김영광은 \"현재까지 경찰 불송치 및 혐의없음 처분을 받았다\"면서도 \"도로 위에서는 다른 사람의 안전과 입장까지 고려해야 한다는 점을 다시 한 번 깨달았다\"고 말했다. 과거 국가대표 골키퍼로도 활약했던 김영광은 은퇴 후 유튜브 등 방송인으로 활동하고 있다.\n\n출처: TV조선 / https://n.news.naver.com/article/448/0000643946"
+   "feed": "뉴스 04. \"못 보던 3cm 바퀴벌레가 바글\"...부산서 외래종 정착 '발칵'\n\n성충뿐 아니라 어린 개체와 알집까지 발견되면서 일시적 유입을 넘어 국내에서 번식하고 있다는 근거가 확보됐다. 10일 학계에 따르면 부산대 생명시스템연구소와 경상국립대 식물의학과 공동 연구진은 부산 감만항 일대에서 외래종인 '투르키스탄 바퀴'(Periplaneta lateralis)의 국내 정착 사실을 확인했다. 투르키스탄 바퀴는 미국과 일본, 러시아, 유럽 등에서도 유입 사례가 확인된 도시 해충이다.\n\n서로 다른 성장 단계의 개체가 같은 지역에서 발견된 만큼 국내 환경에서 번식하고 있을 가능성에 무게가 실린다. 연구진은 부산의 비교적 온화한 겨울 기후가 외래종의 정착에 영향을 미쳤을 가능성에 주목했다. 감만항 바깥 공원에서도 투르키스탄 바퀴가 발견됐지만 현재 분포 범위가 어디까지인지는 파악되지 않았다.\n\n출처: 머니투데이 / https://n.news.naver.com/article/008/0005424355"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/06.png",
-   "pngBytes": 1986539,
-   "title": "\"이게 격노할 일인가\"…우크라에 '감사 서한' 보낸 나경원",
-   "summary": "국민의힘 나경원 의원이 젤렌스키 우크라이나 대통령에게 감사 서한을 보냈다고 밝혔습니다. 나 의원은 SNS를 통해 서한을 공개하면서 젤렌스키 대통령에게 \"북한군 포로 리…",
-   "summary_long": "나 의원은 SNS를 통해 서한을 공개하면서 젤렌스키 대통령에게 \"북한군 포로 리 모 씨와 백 모 씨의 자유의사를 존중해 한국행을 허용한 젤렌스키 대통령 귀하의 대승적 결정을 환영하며 깊은 감사를 표한다\"고 밝혔습니다. 그는 \"우리는 보편적 인권과 국제법, 인도주의 원칙에 근거한 젤렌스키 대통령 귀하의 북한군 포로 문제 처리가 우크라이나 국민이 선출한 국가원수이자 군 통수권자로서 결코 쉽지 않은 결정이었음을 충분히 이해한다\"고 전했습니다. 나 의원 측은 서한을 우크라이나 정부 측에 온라인으로 보냈는데, 외교채널 통해 실물로 전달하는 것도 검토하는 거로 전해졌습니다.\n\n나 의원은 감사 서한을 보낸 이유에 대해 \"우크라이나가 북한군 포로를 한국으로 보냈다는 사실을 공개한 것이 이재명 대통령과 정부가 이토록 격노하며 대사 소환이라는 극단적 조치까지 취할 일인가\"라며, \"절차상의 공개 여부에 일부 이견이 있고 유감스러운 점이 있다 하더라도, 본질적으로 양국이 머리를 맞대고… 그러면서 \"군사분계선 지뢰로 우리 장병을 해친 북한이나 침략국 러시아에는 말 한마디 못 하면서 우크라이나의 북한군 포로 송환 은혜를 원수로 갚는 이재명 정권, 거꾸로 가도 한참 거꾸로 간다\"고 비판했습니다. 앞서 우리 정부는 우크라이나가 사전 협의 없이 북한군 포로 송환 사실을 공개하고 이에 대한 사과도 하지 않은 데 대한 조치로주우크라이나 대사를 소환하기로 했습니다.",
-   "press": "SBS",
-   "source": "SBS",
-   "link": "https://n.news.naver.com/article/055/0001394290",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/06.png",
+   "pngBytes": 1952145,
+   "title": "[속보] 나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나왔는데, 李대통령은 말 한마디 없어”",
+   "summary": "나경원 국민의힘 의원이 강화도 해수욕장 인근에서 북한 지뢰가 발견된 것과 관련해 “이재명 대통령은 도대체 어느 나라 대통령인가”라며 정부의 대북 대응을 비판했다. 나…",
+   "summary_long": "나경원 국민의힘 의원이 강화도 해수욕장 인근에서 북한 지뢰가 발견된 것과 관련해 “이재명 대통령은 도대체 어느 나라 대통령인가”라며 정부의 대북 대응을 비판했다. 나 의원은 10일 자신의 페이스북에 “유실이든 매설이든 북한 지뢰에 한마디도 못하는 이재명 정부”라며 이 같이 밝혔다. 나 의원은 “우리 국민이 주말이면 돗자리를 펴고 아이들이 모래장난을 치는 대한민국 바닷가 한가운데서 사람의 목숨을 앗아가는 살상 무기가 튀어나왔다”며 “환경정비 근로자가 아니었거나 호기심 많은 어린아이가 먼저 발견했다면 상상조차 하기 싫은 대참사가 벌어질 뻔했다”고 지적했다.\n\n단 한마디도 없다”며 “불과 20일 전 DMZ에서 북한이 매설한 지뢰에 우리 수색대대장과 장병들이 발목을 잃었는데도 정권은 북한에 93억원 어치 의료지원을 하겠다고 매달렸고, 돌아온 것은 조롱과 매도뿐이었다”고 지적했다. 그는 이어 “국민은 불안을 넘어 분노하고 있다”며 “우리 가족이 바닷가에서 지뢰를 밟을지 모른다는 불안 속에 살고 있는데, 대통령에게서는 경고도, 대책도 들리지 않는다”고 비판했다. 나 의원은 이에 이 대통령에게 북한 도발에 대한 강력한 규탄 메시지 발표 및 군 경계태세 실패 사과, 북한에 대한 공식 항의 및 재발 방지 약속 요구, 접경 해안 전역 지뢰 탐색 및 안전 대책 마련, 유엔군사령부를 통한 정전협정 위반 문제 제기 등을 하라고 촉구했다.",
+   "press": "헤럴드경제",
+   "source": "헤럴드경제",
+   "link": "https://n.news.naver.com/article/016/0002707517",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. \"이게 격노할 일인가\"…우크라에 '감사 서한' 보낸 나경원\n\n나 의원은 SNS를 통해 서한을 공개하면서 젤렌스키 대통령에게 \"북한군 포로 리 모 씨와 백 모 씨의 자유의사를 존중해 한국행을 허용한 젤렌스키 대통령 귀하의 대승적 결정을 환영하며 깊은 감사를 표한다\"고 밝혔습니다. 그는 \"우리는 보편적 인권과 국제법, 인도주의 원칙에 근거한 젤렌스키 대통령 귀하의 북한군 포로 문제 처리가 우크라이나 국민이 선출한 국가원수이자 군 통수권자로서 결코 쉽지 않은 결정이었음을 충분히 이해한다\"고 전했습니다. 나 의원 측은 서한을 우크라이나 정부 측에 온라인으로 보냈는데, 외교채널 통해 실물로 전달하는 것도 검토하는 거로 전해졌습니다.\n\n나 의원은 감사 서한을 보낸 이유에 대해 \"우크라이나가 북한군 포로를 한국으로 보냈다는 사실을 공개한 것이 이재명 대통령과 정부가 이토록 격노하며 대사 소환이라는 극단적 조치까지 취할 일인가\"라며, \"절차상의 공개 여부에 일부 이견이 있고 유감스러운 점이 있다 하더라도, 본질적으로 양국이 머리를 맞대고… 그러면서 \"군사분계선 지뢰로 우리 장병을 해친 북한이나 침략국 러시아에는 말 한마디 못 하면서 우크라이나의 북한군 포로 송환 은혜를 원수로 갚는 이재명 정권, 거꾸로 가도 한참 거꾸로 간다\"고 비판했습니다. 앞서 우리 정부는 우크라이나가 사전 협의 없이 북한군 포로 송환 사실을 공개하고 이에 대한 사과도 하지 않은 데 대한 조치로주우크라이나 대사를 소환하기로 했습니다.\n\n출처: SBS / https://n.news.naver.com/article/055/0001394290"
+   "feed": "뉴스 05. [속보] 나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나왔는데, 李대통령은 말 한마디 없어”\n\n나경원 국민의힘 의원이 강화도 해수욕장 인근에서 북한 지뢰가 발견된 것과 관련해 “이재명 대통령은 도대체 어느 나라 대통령인가”라며 정부의 대북 대응을 비판했다. 나 의원은 10일 자신의 페이스북에 “유실이든 매설이든 북한 지뢰에 한마디도 못하는 이재명 정부”라며 이 같이 밝혔다. 나 의원은 “우리 국민이 주말이면 돗자리를 펴고 아이들이 모래장난을 치는 대한민국 바닷가 한가운데서 사람의 목숨을 앗아가는 살상 무기가 튀어나왔다”며 “환경정비 근로자가 아니었거나 호기심 많은 어린아이가 먼저 발견했다면 상상조차 하기 싫은 대참사가 벌어질 뻔했다”고 지적했다.\n\n단 한마디도 없다”며 “불과 20일 전 DMZ에서 북한이 매설한 지뢰에 우리 수색대대장과 장병들이 발목을 잃었는데도 정권은 북한에 93억원 어치 의료지원을 하겠다고 매달렸고, 돌아온 것은 조롱과 매도뿐이었다”고 지적했다. 그는 이어 “국민은 불안을 넘어 분노하고 있다”며 “우리 가족이 바닷가에서 지뢰를 밟을지 모른다는 불안 속에 살고 있는데, 대통령에게서는 경고도, 대책도 들리지 않는다”고 비판했다. 나 의원은 이에 이 대통령에게 북한 도발에 대한 강력한 규탄 메시지 발표 및 군 경계태세 실패 사과, 북한에 대한 공식 항의 및 재발 방지 약속 요구, 접경 해안 전역 지뢰 탐색 및 안전 대책 마련, 유엔군사령부를 통한 정전협정 위반 문제 제기 등을 하라고 촉구했다.\n\n출처: 헤럴드경제 / https://n.news.naver.com/article/016/0002707517"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/07.png",
-   "pngBytes": 1893174,
-   "title": "이명박 “경제 강국인데 정치 못 따라가 안타까워”",
-   "summary": "이명박 전 대통령은 8일 “우리 경제적 수준은 지금 세계 10대 강국이 됐는데, 정치는 그 수준을 못 따라가는 것 같다”고 말했다. 이 전 대통령은 ‘청계천을 사랑하는…",
-   "summary_long": "이명박(사진) 전 대통령은 8일 “우리 경제적 수준은 지금 세계 10대 강국이 됐는데, 정치는 그 수준을 못 따라가는 것 같다”고 말했다. 이 전 대통령은 ‘청계천을 사랑하는 모임’(청사모) 구성원들과 청계천 걷기 행사에 참석해 “정치가 바뀐다면 아마 우리 한국 경제가 굉장히 더 성장할 수 있을 것 같다. 청사모는 이 전 대통령이 서울시장 당시 추진한 청계천 복원사업에 참여했던 서울시 공무원 모임이다.\n\n이 전 대통령은 현 정부의 국정 운영에 관한 질문에 “대통령이 이제 국민의 소리에 귀 기울이지 않겠나. 점점 더 나아질 것”이라며 “야당의 소리에 귀 기울일 게 아니라 국민의 소리를 듣는 게 중요하다”고 말했다. 서울시에 비가 왔을 때 물이 바로 여기(청계천)에 흘러 들어가 버리면 물고기가 죽으니깐 따로 흐른다”고 설명하기도 했다.",
-   "press": "국민일보",
-   "source": "국민일보",
-   "link": "https://n.news.naver.com/article/005/0001877717",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/07.png",
+   "pngBytes": 1948811,
+   "title": "[속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”",
+   "summary": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 감사 서한을 보낸 것을 두고 더불어민주당이 강력 비판하자, 나 의원이 정면 반박에 나서면서 정국이…",
+   "summary_long": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 감사 서한을 보낸 것을 두고 더불어민주당이 강력 비판하자, 나 의원이 정면 반박에 나서면서 정국이 냉각되는 모양새다. 이번 공방은 최근 우크라이나 측이 한국 정부와의 비공개 약속을 깨고 북한군 포로 2명의 한국 송환 사실을 공개하면서 시작됐다. 우리 정부는 포로와 남겨진 가족의 신변 안전을 이유로 조용한 송환을 추진했으나, 우크라이나 측의 공개로 외교적 마찰이 발생해 박기창 주우크라이나 대사를 소환 조치하는 등 강경 대응에 나선 상태다.\n\n이러한 상황에서 나 의원은 페이스북을 통해 젤렌스키 대통령에게 “포로들의 자유의사를 존중해 한국행을 허용한 결정을 환영하며 깊은 감사를 표한다”는 내용의 서한을 전달했다고 밝혔다. 김병주 민주당 의원 역시 “배은망덕한 젤렌스키에게 감사 서한을 보낸 것은 나라를 팔아먹은 행위”라며 “매국 행위를 즉각 중단하라”고 직격했다. 나 의원은 페이스북 글을 통해 “동포를 구출해 준 국가에 감사 서한을 보낸 것을 두고 매국을 운운하느냐”며 “민주당 의원들은 북한 조선노동당 의원들인가”라고 강하게 반발했다.",
+   "press": "세계일보",
+   "source": "세계일보",
+   "link": "https://n.news.naver.com/article/022/0004165513",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 이명박 “경제 강국인데 정치 못 따라가 안타까워”\n\n이명박(사진) 전 대통령은 8일 “우리 경제적 수준은 지금 세계 10대 강국이 됐는데, 정치는 그 수준을 못 따라가는 것 같다”고 말했다. 이 전 대통령은 ‘청계천을 사랑하는 모임’(청사모) 구성원들과 청계천 걷기 행사에 참석해 “정치가 바뀐다면 아마 우리 한국 경제가 굉장히 더 성장할 수 있을 것 같다. 청사모는 이 전 대통령이 서울시장 당시 추진한 청계천 복원사업에 참여했던 서울시 공무원 모임이다.\n\n이 전 대통령은 현 정부의 국정 운영에 관한 질문에 “대통령이 이제 국민의 소리에 귀 기울이지 않겠나. 점점 더 나아질 것”이라며 “야당의 소리에 귀 기울일 게 아니라 국민의 소리를 듣는 게 중요하다”고 말했다. 서울시에 비가 왔을 때 물이 바로 여기(청계천)에 흘러 들어가 버리면 물고기가 죽으니깐 따로 흐른다”고 설명하기도 했다.\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001877717"
+   "feed": "뉴스 06. [속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”\n\n나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 감사 서한을 보낸 것을 두고 더불어민주당이 강력 비판하자, 나 의원이 정면 반박에 나서면서 정국이 냉각되는 모양새다. 이번 공방은 최근 우크라이나 측이 한국 정부와의 비공개 약속을 깨고 북한군 포로 2명의 한국 송환 사실을 공개하면서 시작됐다. 우리 정부는 포로와 남겨진 가족의 신변 안전을 이유로 조용한 송환을 추진했으나, 우크라이나 측의 공개로 외교적 마찰이 발생해 박기창 주우크라이나 대사를 소환 조치하는 등 강경 대응에 나선 상태다.\n\n이러한 상황에서 나 의원은 페이스북을 통해 젤렌스키 대통령에게 “포로들의 자유의사를 존중해 한국행을 허용한 결정을 환영하며 깊은 감사를 표한다”는 내용의 서한을 전달했다고 밝혔다. 김병주 민주당 의원 역시 “배은망덕한 젤렌스키에게 감사 서한을 보낸 것은 나라를 팔아먹은 행위”라며 “매국 행위를 즉각 중단하라”고 직격했다. 나 의원은 페이스북 글을 통해 “동포를 구출해 준 국가에 감사 서한을 보낸 것을 두고 매국을 운운하느냐”며 “민주당 의원들은 북한 조선노동당 의원들인가”라고 강하게 반발했다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004165513"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/08.png",
-   "pngBytes": 1555771,
-   "title": "이 대통령 \"능력도 안 되면서 큰 자리 요구‥개혁 내세워 내부 공격\"",
-   "summary": "이재명 대통령이 \"능력도 안 되면서 인사를 요구하고, 잘 안되니 급진 개혁을 내세우며 내부 공격을 한다\"며 여권 내 일부 세력을 비판한 글을 올렸습니다. 이 대통령은…",
-   "summary_long": "이재명 대통령이 \"능력도 안 되면서 인사를 요구하고, 잘 안되니 급진 개혁을 내세우며 내부 공격을 한다\"며 여권 내 일부 세력을 비판한 글을 올렸습니다. 이 대통령은 오늘 본인의 SNS에 조희연 전 서울시 교육감의 언론 기고문을 소개하며 \"순수한 급진성도 문제겠지만 능력도 안 되면서 큰 자리를 요구하고, 인사나 국가정책까지 자기 뜻대로 하려다가 잘 안되니 대의명분 삼아 급진 개혁을 내세우며 내부 공격을 하는 것이 더 문제\"라고 적었습니다. 인용된 기고문에서 조 전 교육감은 '적을 향한 증오가 동지를 향할 때'라는 제목의 글을 통해 더불어민주당 전당대회 과정과 이후의 내부 분열 양상을 지적했습니다.\n\n이 대통령은 \"무엇이 동지를 적으로 바꾸었는가\", \"혁명을 위해 동지를 치는 것이 아니라, 동지를 치는 일 자체가 혁명이 돼 버린다\", \"혁명이 체제가 되는 순간 순수의 근저에 이익의 시선이 흘러들고 자기정치와 자기 집단정치의 동학이 작동한다\"는 대목을 인용하기도 했습니다. 이 대통령의 이같은 메시지는 검찰개혁 과정과 이후 김지용 중대범죄수사청장 후보자 인선 과정에서 잇따라 공개적으로 비판적인 주장을 내놓고 있는 당 안팎의 강경파를 겨냥한 걸로 풀이됩니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001528099",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/08.png",
+   "pngBytes": 2112845,
+   "title": "'젤렌스키에 감사서한' 보낸 나경원…\"매국\" 지적에 \"조선노동당인가\"",
+   "summary": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 북한군 포로 2명의 한국 송환에 대해 감사 서한을 보낸 것 등을 놓고 더불어민주당과 충돌했습니다. 이용우…",
+   "summary_long": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 북한군 포로 2명의 한국 송환에 대해 감사 서한을 보낸 것 등을 놓고 더불어민주당과 충돌했습니다. 이용우 민주당 대변인은 오늘(10일) 서면브리핑에서 나 의원을 향해 \"비공개 약속을 어긴 우크라이나는 두둔하면서, 그 책임을 묻는 우리 정부에는 북한군 포로를 사지에 버리려 한다는 터무니없는 누명을 씌웠다\"고 꼬집었습니다. 이 대변인은 \"국제기준에 따라 당사자와 가족의 신변을 보호하려는 요구까지 '친북'으로 매도하는 무책임한 선동을 중단하라\"며 \"포로들의 '생명줄'을 걱정한다면서 정작 그 안전을 지킬 약속은 외면하는 것이 나 의원이 말하는 인권이냐\"고 일갈했습니다.\n\n같은 당 김병주 의원은 어제(9일) 페이스북에서 나 의원을 향해 \"배은망덕 대한민국을 모독한 젤렌스키에 감사 서한이라니 어느 나라 국회의원인가\"라면서 \"개인의 사욕을 위해 나라 팔아먹은 이완용과 무엇이 다른가. 이에 대해 나 의원은 오늘 잇따라 페이스북을 통해 \"북한군 포로송환 우크라이나 대통령에 대해 감사 서한을 보내니 민주당 의원들이 자폭부대처럼 앞다투어 달려든다\"며 \"대한민국 의원들 맞나. 나 의원은 북한군 포로 송환 공개에 대한 한국 정부의 대응으로 박기창 주우크라이나 대사가 귀국했다는 뉴스를 공유하고 \"외교적 자해 행위\"라며 \"이 기막힌 외교 갈등은 오직 북한 김정은을 향한 보여주기밖에는 설명이 되지 않는다\"라고 지적했습니다.",
+   "press": "MBN",
+   "source": "MBN",
+   "link": "https://n.news.naver.com/article/057/0001972743",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 이 대통령 \"능력도 안 되면서 큰 자리 요구‥개혁 내세워 내부 공격\"\n\n이재명 대통령이 \"능력도 안 되면서 인사를 요구하고, 잘 안되니 급진 개혁을 내세우며 내부 공격을 한다\"며 여권 내 일부 세력을 비판한 글을 올렸습니다. 이 대통령은 오늘 본인의 SNS에 조희연 전 서울시 교육감의 언론 기고문을 소개하며 \"순수한 급진성도 문제겠지만 능력도 안 되면서 큰 자리를 요구하고, 인사나 국가정책까지 자기 뜻대로 하려다가 잘 안되니 대의명분 삼아 급진 개혁을 내세우며 내부 공격을 하는 것이 더 문제\"라고 적었습니다. 인용된 기고문에서 조 전 교육감은 '적을 향한 증오가 동지를 향할 때'라는 제목의 글을 통해 더불어민주당 전당대회 과정과 이후의 내부 분열 양상을 지적했습니다.\n\n이 대통령은 \"무엇이 동지를 적으로 바꾸었는가\", \"혁명을 위해 동지를 치는 것이 아니라, 동지를 치는 일 자체가 혁명이 돼 버린다\", \"혁명이 체제가 되는 순간 순수의 근저에 이익의 시선이 흘러들고 자기정치와 자기 집단정치의 동학이 작동한다\"는 대목을 인용하기도 했습니다. 이 대통령의 이같은 메시지는 검찰개혁 과정과 이후 김지용 중대범죄수사청장 후보자 인선 과정에서 잇따라 공개적으로 비판적인 주장을 내놓고 있는 당 안팎의 강경파를 겨냥한 걸로 풀이됩니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001528099"
+   "feed": "뉴스 07. '젤렌스키에 감사서한' 보낸 나경원…\"매국\" 지적에 \"조선노동당인가\"\n\n나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 북한군 포로 2명의 한국 송환에 대해 감사 서한을 보낸 것 등을 놓고 더불어민주당과 충돌했습니다. 이용우 민주당 대변인은 오늘(10일) 서면브리핑에서 나 의원을 향해 \"비공개 약속을 어긴 우크라이나는 두둔하면서, 그 책임을 묻는 우리 정부에는 북한군 포로를 사지에 버리려 한다는 터무니없는 누명을 씌웠다\"고 꼬집었습니다. 이 대변인은 \"국제기준에 따라 당사자와 가족의 신변을 보호하려는 요구까지 '친북'으로 매도하는 무책임한 선동을 중단하라\"며 \"포로들의 '생명줄'을 걱정한다면서 정작 그 안전을 지킬 약속은 외면하는 것이 나 의원이 말하는 인권이냐\"고 일갈했습니다.\n\n같은 당 김병주 의원은 어제(9일) 페이스북에서 나 의원을 향해 \"배은망덕 대한민국을 모독한 젤렌스키에 감사 서한이라니 어느 나라 국회의원인가\"라면서 \"개인의 사욕을 위해 나라 팔아먹은 이완용과 무엇이 다른가. 이에 대해 나 의원은 오늘 잇따라 페이스북을 통해 \"북한군 포로송환 우크라이나 대통령에 대해 감사 서한을 보내니 민주당 의원들이 자폭부대처럼 앞다투어 달려든다\"며 \"대한민국 의원들 맞나. 나 의원은 북한군 포로 송환 공개에 대한 한국 정부의 대응으로 박기창 주우크라이나 대사가 귀국했다는 뉴스를 공유하고 \"외교적 자해 행위\"라며 \"이 기막힌 외교 갈등은 오직 북한 김정은을 향한 보여주기밖에는 설명이 되지 않는다\"라고 지적했습니다.\n\n출처: MBN / https://n.news.naver.com/article/057/0001972743"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-10/09.png",
-   "pngBytes": 1346162
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/09.png",
+   "pngBytes": 1345599
   }
  ],
- "caption": "📰 10월 10일 오늘의 뉴스\n\n1. [단독]'무법천지'된 올림픽공원…피해액 26억 넘었다\n   국정감사에서 선관위가 손을 놓고 있다는 질타까지 나온 가운데, 추가 대관료 등을 누가 부담할지를 두고 책임 공방이 불가피할 전망이다. 통제할 수 없는 제3자의 행위로…\n2. 막 퍼준 ‘민생지원금’…“다음 세대 짊어진 243개 지자체 부채 58조”\n   부채 금액 1위는 서울 17조원. 이런 와중에 전국 243개 지방자치단체가 안고 있는 부채가 58조4000억원을 웃도는 것으로 나타나 미래세대의 부담을 키우고 있는…\n3. “몸 바늘로 꿰매고 서로 성폭행”…234명 덮친 ‘목사’ 정체\n   ‘자경단’이란 이름을 들은 김서연도 그들이 무언가 알 수 없는 위험으로부터 자신을 지켜주기 위해 접근한 줄 알았다. 각각 다른 지역에서, 각각 다른 사람들이 김서연과…\n4. 前 축구 국가대표 김영광, '보복운전 논란' 사과\n   /김영광 인스타그램 캡처최근 보복운전 관련 비판을 받은 전 축구 국가대표 김영광이 사과했다. 전날 한 매체는 흰색 외제차가 도로에서 보복 운전을 하는 영상을 보도하며…\n5. \"이게 격노할 일인가\"…우크라에 '감사 서한' 보낸 나경원\n   국민의힘 나경원 의원이 젤렌스키 우크라이나 대통령에게 감사 서한을 보냈다고 밝혔습니다. 나 의원은 SNS를 통해 서한을 공개하면서 젤렌스키 대통령에게 \"북한군 포로 리…\n6. 이명박 “경제 강국인데 정치 못 따라가 안타까워”\n   이명박 전 대통령은 8일 “우리 경제적 수준은 지금 세계 10대 강국이 됐는데, 정치는 그 수준을 못 따라가는 것 같다”고 말했다. 이 전 대통령은 ‘청계천을 사랑하는…\n7. 이 대통령 \"능력도 안 되면서 큰 자리 요구‥개혁 내세워 내부 공격\"\n   이재명 대통령이 \"능력도 안 되면서 인사를 요구하고, 잘 안되니 급진 개혁을 내세우며 내부 공격을 한다\"며 여권 내 일부 세력을 비판한 글을 올렸습니다. 이 대통령은…\n\n🗣 “우리는 보편적 인권과 국제법, 인도주의 원칙에 근거한 젤렌스키 대통령 귀하의 북한군 포로 문제 처리가 우크라이나 국민이 선출한 국가원수이자 군 통수권자로서 결코 쉽지 않은 결정이었음을 충분히 이해한다”\n이 발언을 그대로 실은 보도 10건 · 연합뉴스 · 주간경향 · 조선일보 · 한겨레\n· 연합뉴스 — 나경원, 젤렌스키에 서한…\"北포로 한국行 허용 결정 감사\"\n· 주간경향 — 나경원, 젤렌스키에 서한 “포로 송환, 대승적 결정 깊은 감사”\n· 조선일보 — 나경원, 젤렌스키에 서한… \"北포로 한국행 허용 결정 감사\"\n· 한겨레 — 나경원, 젤렌스키에 서한…“북한군 포로 한국행 허용에 감사”\n· 부산일보 — 우크라 대사 소환 결정한 정부, 나경원은 젤렌스키에 감사 서한… \"이게 격노할 일인가\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: MBC, SBS, TV조선, 국민일보, 노컷뉴스, 디지털타임스, 중앙일보"
+ "caption": "📰 10월 11일 오늘의 뉴스\n\n1. 안철수 \"인천 해수욕장 인근서 北 지뢰 발견…대통령 SNS에는 '북(北)' 한글자 없어\"\n   안철수 국민의힘 의원이 이재명 대통령을 향해 \"북한을 향한 굴종 광대극을 즉각 멈춰야한다\"고 말했다. 안 의원은 그러면서 \"이 대통령은 지난 5일 합참의 최종 발표 이후…\n2. \"1,300원짜리 브라질 계란 수입해 100원에 팔아\"… 장동혁, \"차액은 혈세로.. 누굴 배 불리나\"\n   장동혁 대표, SNS 통해 브라질산 계란 고가 수입 논란 맹비난. 장동혁 대표가 정부의 브라질산 계란 수입을 두고 막대한 혈세가 낭비되고 있다며 이재명 대통령을 향해…\n3. 요즘 골프장 ‘곡소리’ 나는 이유…‘사치성 재산’ 세금 폭탄 던진 정부 [권준영의 머니볼]\n   연구소는 2025년 회원제 골프장 이용객의 개별소비세 납부액을 3311억원으로 추산했다. 연구소는 18홀 회원제 골프장의 재산세가 2024년 12억4000만원에서…\n4. \"못 보던 3cm 바퀴벌레가 바글\"...부산서 외래종 정착 '발칵'\n   10일 학계에 따르면 부산대 생명시스템연구소와 경상국립대 식물의학과 공동 연구진은 부산 감만항 일대에서 외래종인 '투르키스탄 바퀴'의 국내 정착 사실을 확인했다. 서로…\n5. [속보] 나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나왔는데, 李대통령은 말 한마디 없어”\n   나경원 국민의힘 의원이 강화도 해수욕장 인근에서 북한 지뢰가 발견된 것과 관련해 “이재명 대통령은 도대체 어느 나라 대통령인가”라며 정부의 대북 대응을 비판했다. 나…\n6. [속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”\n   나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 감사 서한을 보낸 것을 두고 더불어민주당이 강력 비판하자, 나 의원이 정면 반박에 나서면서 정국이…\n7. '젤렌스키에 감사서한' 보낸 나경원…\"매국\" 지적에 \"조선노동당인가\"\n   나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 북한군 포로 2명의 한국 송환에 대해 감사 서한을 보낸 것 등을 놓고 더불어민주당과 충돌했습니다. 이용우…\n\n🗣 “비공개 약속을 어긴 우크라이나는 두둔하면서 정부에는 터무니없는 누명을 씌우고 있다”\n이 발언을 그대로 실은 보도 10건 · 세계일보 · 연합뉴스 · 국제신문 · 경향신문\n· 세계일보 — [속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”\n· 연합뉴스 — 與 \"젤렌스키에 감사서한은 매국\"…나경원 \"참 지독한 친북정권\"\n· 국제신문 — 나경원 ‘젤렌스키 감사 서한’에 與 “매국”…나 “친북 정권”\n· 경향신문 — 북한 포로 공개 우크라에 ‘감사 서한’ 공방…나경원 “조선노동당인가” 민주당 “극우적 몸부림”\n· M이코노미뉴스 — 정치권, 북한군 포로 송환 놓고 충돌...“우크라 약속 이행” vs “대사 소환 철회”\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한 #대통령실\n\n출처: CJB청주방송, MBN, 매일신문, 머니투데이, 세계일보, 헤럴드경제"
 }
