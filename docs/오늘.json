@@ -1,314 +1,241 @@
 {
- "date": "2026-10-11",
- "generated_at": "2026-10-11T10:25:53+09:00",
+ "date": "2026-10-12",
+ "generated_at": "2026-10-12T10:57:19+09:00",
  "mode": "daily",
- "window_start": "2026-10-10T00:00:00+09:00",
- "window_end": "2026-10-10T23:59:59+09:00",
+ "window_start": "2026-10-11T00:00:00+09:00",
+ "window_end": "2026-10-11T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "안철수 \"인천 해수욕장 인근서 北 지뢰 발견…대통령 SNS에는 '북(北)' 한글자 없어\"",
-   "source": "매일신문",
-   "url": "https://n.news.naver.com/article/088/0001033334",
-   "published_at": "2026-10-10T10:05:09+09:00",
+   "title": "이대통령 부모 묘 찾은 이진숙 \"농지에 불법조성, 옮겨라\" 주장",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000515086",
+   "published_at": "2026-10-11T11:41:17+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "안철수 국민의힘 의원이 이재명 대통령을 향해 \"북한을 향한 굴종 광대극을 즉각 멈춰야한다\"고 말했다. 안 의원은 그러면서 \"이 대통령은 지난 5일 합참의 최종 발표 이후…",
-   "summary_long": "안철수 국민의힘 국회의원, 강신철 국방부 장관, 이재명 대통령. 안철수 국민의힘 의원이 이재명 대통령을 향해 \"북한을 향한 굴종 광대극을 즉각 멈춰야한다\"고 말했다. 안 의원은 10일 자신의 페이스북에 '대한민국 바다까지 지뢰밭으로 만드는 북한, 이재명 대통령은 언제까지 침묵하려 합니까?'라는 제목의 글을 올리고 이같이 말했다.\n\n그는 인천 강화군 주문도 대빈창해수욕장 인근에서 북한에서 떠내려온 것으로 추정되는 대인지뢰가 발견된 사실을 언급하며 \"북한 지뢰가 DMZ에 이어 이제 우리 바다와 해수욕장 인근까지도 발견된 것\"이라고 지적했다. 안 의원은 그러면서 \"이 대통령은 지난 5일 합참의 최종 발표 이후 5일이 넘었는데도 침묵으로 일관하고 있다\"며 \"수없이 올리는 X게시물에서 북한의 '북'자는 물론, '지뢰'라는 단어 조차 찾을 수 없다\"고 말했다. 안 의원은 \"그리고 뭐라도 행동으로 보여줘야 한다\"며 \"대북방송, 전단살포, 대북확성기 설치 등 북한의 도발에 상응하는 그 무엇이라도 하길 바란다\"고 말했다.",
+   "summary": "이 의원은 어제 SNS에 \"봉화군 이재명 부모 묘소를 찾았다\"며 \"이곳은 농지로 묘를 쓸 수 없는 곳\"이라고 적었습니다. 이어 \"관할 봉화군은 2023년과 2024년…",
+   "summary_long": "이 의원은 어제(10일) SNS에 \"봉화군 이재명 부모 묘소를 찾았다\"며 \"이곳은 농지로 묘를 쓸 수 없는 곳\"이라고 적었습니다. 이어 \"관할 봉화군은 2023년과 2024년, 그리고 2025년 세 차례에 걸쳐 원상회복 명령을 통보했다\"며 \"그런데도 이재명 가족은 과태료만 내고 묘는 그대로 유지하고 있다\"고 주장했습니다. 또 \"원상회복은커녕 묘소 영구화를 위한 작업이 진행되고 있는 것을 현장에서 확인했다\"며 \"묘지 전방 100m에서 도로포장 공사가 한창이었다.\n\n이 의원은 \"공사면은 '농로 포장'으로 되어있었지만 누가 그 말을 믿겠습니까\"라며 \"묘지 앞에는 야자매트를 깔아 겨울에 눈이 와도 미끄러지지 않을 정도\"라고 말했습니다. 아울러 \"농지에 조성한 묘소, 불법이다\"라며 \"대통령 일가는 법 위에 있습니까. 다만 이 의원이 주장한 세 차례의 원상회복 명령과 과태료 납부 사실, 그리고 농로 포장 공사의 발주 목적 등은 추가 확인이 필요한 상황입니다.",
    "quotes": [
-    "대북방송, 전단살포, 대북확성기 설치 등 북한의 도발에 상응하는 그 무엇이라도 하길 바란다",
-    "수없이 올리는 X게시물에서 북한의 '북'자는 물론, '지뢰'라는 단어 조차 찾을 수 없다",
-    "이 대통령은 지난 5일 합참의 최종 발표 이후 5일이 넘었는데도 침묵으로 일관하고 있다"
+    "묫자리가 이재명 명의가 아니라 그 형의 이름으로 되어있으니 이재명은 책임이 없다? 이렇게 말할 겁니까",
+    "묘지 전방 100m에서 도로포장 공사가 한창이었다. 축석까지 쌓아 올려 튼튼하게 길을 만들고 있었다",
+    "관할 봉화군은 2023년과 2024년, 그리고 2025년 세 차례에 걸쳐 원상회복 명령을 통보했다"
    ],
-   "press": "매일신문",
+   "press": "JTBC",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "대북방송, 전단살포, 대북확성기 설치 등 북한의 도발에 상응하는 그 무엇이라도 하길 바란다",
+    "quote": "묫자리가 이재명 명의가 아니라 그 형의 이름으로 되어있으니 이재명은 책임이 없다? 이렇게 말할 겁니까",
     "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "매일신문",
-      "title": "안철수 `인천 해수욕장 인근서 北 지뢰 발견…대통령 SNS에는 `북(北)` 한글자 없어`",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rOXY2MmJUYkFWQ09WMWs2Y2E1MUZScDZKeUNIMWxfenYxeGcxUWp5Z285Vi1HaFhMMFZLVXk0WTNKR1I5aEk3LUxPYktPZXJQZ21IdGxqYUFsVkg2LUg5Z0hR?oc=5"
+      "press": "JTBC",
+      "title": "이대통령 부모 묘 찾은 이진숙 \"농지에 불법조성, 옮겨라\" 주장",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzRW95M1psemFYY3ZSMWpsUER3X0lMUTJrZFBGTFhMb3hkelNGbVVRYkVocGsxNU1zTkpkdGlfbUNLMHVvX2ZPQ3JDSlF5WVNEY3BVTQ?oc=5"
      },
      {
-      "press": "문화일보",
-      "title": "국힘 “우리 장병 중상엔 ‘사고’, 北김여정 조롱엔 ‘저자세’…정동영 경질해야”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMlpDcjZYUUFRYTBmcEtadFlTVlU3WTRFRDZ3YnAwU21WRjdfb3RTTVF4QURoWVBnamY0V204dG1IUlI3ODlYMGxmVUF0Vmhp?oc=5"
-     },
-     {
-      "press": "국제뉴스",
-      "title": "안철수 \"북한 지뢰, 바다·해수욕장까지…대통령 언제까지 침묵하나\"",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12c3lyQzBVMnZOS25ONVZrZEk2MVdCVEhncW9ETVpzN1d3N3laR00xRGgwMDFXSUJkV0ZHMktlQXJQMFZpNTVPdnllMjJBaHgtal9QaTF5UFZzSVhCelp6Q1B6M1hmRE1pR1BIOC1R?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "\"1,300원짜리 브라질 계란 수입해 100원에 팔아\"… 장동혁, \"차액은 혈세로.. 누굴 배 불리나\"",
-   "source": "CJB청주방송",
-   "url": "https://n.news.naver.com/article/655/0000033114",
-   "published_at": "2026-10-10T15:45:06+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "selection": "정치",
-   "summary": "장동혁 대표, SNS 통해 브라질산 계란 고가 수입 논란 맹비난. 장동혁 대표가 정부의 브라질산 계란 수입을 두고 막대한 혈세가 낭비되고 있다며 이재명 대통령을 향해…",
-   "summary_long": "장동혁 대표, SNS 통해 브라질산 계란 고가 수입 논란 맹비난. \"미국산 464원인데 브라질산 무려 1,300원, 현지 가격의 6배\" 장동혁 대표가 정부의 브라질산 계란 수입을 두고 막대한 혈세가 낭비되고 있다며 이재명 대통령을 향해 강도 높은 비판을 쏟아냈습니다.\n\n장 대표는 자신의 페이스북에 \"계란 수입까지 '좌파 커넥션'?\"이라는 제목의 글을 올리고, 터무니없이 비싼 수입 단가와 세금 투입 문제를 집중적으로 지적했습니다. 장 대표는 이번 브라질산 계란 수입 결정의 배경에 이념적 '커넥션'이 있는 것 아니냐는 의혹도 제기했습니다. 그는 \"지난 2월, 이재명 대통령과 브라질 룰라 대통령 정상회담 직후 브라질 계란 수입 절차가 시작됐고, 7월 이 대통령 브라질 방문 직후 브라질산 계란 112만 개가 수입됐다\"고 시기를 짚었습니다.",
-   "quotes": [
-    "지난 2월, 이재명 대통령과 브라질 룰라 대통령 정상회담 직후 브라질 계란 수입 절차가 시작됐고, 7월 이 대통령 브라질 방문 직후 브라질산 계란 112만 개가 수입됐다",
-    "정부는 '공급선 다변화'라고 해명하고 있지만, 기존 수입 가격보다 3~4배나 높은 가격을 주면서 공급선을 다변화한다는 것은 말이 되지 않는다",
-    "보통 개당 소비자 가격이 200원 남짓이라고 하는 브라질 현지 가격에 비해서도 무려 6배가 넘는다"
-   ],
-   "press": "CJB청주방송",
-   "photo": "02.jpg",
-   "quoted": {
-    "quote": "지난 2월, 이재명 대통령과 브라질 룰라 대통령 정상회담 직후 브라질 계란 수입 절차가 시작됐고, 7월 이 대통령 브라질 방문 직후 브라질산 계란 112만 개가 수입됐다",
-    "n": 6,
-    "verified": 0,
-    "items": [
-     {
-      "press": "뉴데일리",
-      "title": "장동혁 \"1300원에 사서 100원에 판 브라질 계란 … '좌아'한 수입\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdE5TNFRFSnEzX2RtQTcyMmd1dnR5LVRyakVSNlpuNEhYMFE0TDNJOVZhWTZyclNJSFNqNndyQlpoaHItaURtNjBnbkF6Y0hjU0FGVHU2UlRuaWFlVGtxUHZaTjVqalFGQlAzRjRvbDBneThsd28yNmxpVENaNy1VStIBgAFBVV95cUxPdE5TNFRFSnEzX2RtQTcyMmd1dnR5LVRyakVSNlpuNEhYMFE0TDNJOVZhWTZyclNJSFNqNndyQlpoaHItaURtNjBnbkF6Y0hjU0FGVHU2UlRuaWFlVGtxUHZaTjVqalFGQlAzRjRvbDBneThsd28yNmxpVENaNy1VSg?oc=5"
-     },
-     {
-      "press": "뉴시스",
-      "title": "장동혁 \"브라질 계란 1300원에 수입해 100원에 팔고, 차액은 세금으로 메워…'좌아'한 수입\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16bkZ4M2VqcnlrUmM1bFhHenMxRlcwTVZWUjdnN3M2a0p6dnJxTWdYa0ZCQlk4WE1wVEtibnpCbzhUaXd0aGN3MjJQYzl1VllKclEtSDBhRTF2Ml9wQXIzaWtja1NlYjY4cGtWU2licmw5VnlDOFNMRdIBeEFVX3lxTE16bkZ4M2VqcnlrUmM1bFhHenMxRlcwTVZWUjdnN3M2a0p6dnJxTWdYa0ZCQlk4WE1wVEtibnpCbzhUaXd0aGN3MjJQYzl1VllKclEtSDBhRTF2Ml9wQXIzaWtja1NlYjY4cGtWU2licmw5VnlDOFNMRQ?oc=5"
+      "press": "한국NGO신문",
+      "title": "이재명 대통령, 농지는 경자유전이라 해 놓고 자신은 농지에 묘를 써?...\"거듭된 철거 요청에도 마이동풍\"",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IVFpkbDRqTnV5cDlZTkFyMXhtdTVXdTAxcWNYZWdsOXhmbVQ1TE9ZMEJCTk5TTWpXZVRwTnlVazJLclZqT3RPNHdOWXk1MWZ1WUFHUmxxZGxWMjZPSkF5WlVpdjI4VlhL?oc=5"
      },
      {
       "press": "최보식의언론",
-      "title": "브라질 계란 수입에 무슨 사연이?...‘좌파 커넥션’",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OSWVPN3JaWGJOcm00U09HTzQ5dldmMUpiQWdPN0dCUldIVE1BNDVTZGt2RHJmT1lLT1Ztd1FnYTdTOVRmUE56UmtpWWdxT2JDeE16d2NJZjRfZWJ0dXBPcl9aOVFzM1k40gFoQVVfeXFMT05JZU83clpYYk5ybTRTT0dPNDl2V2YxSmJBZ083R0JSV0hUTUE0NVNka3ZEcmZPWUtPVm13UWdhN1M5VGZQTnpSa2lZZ3FPYkN4TXp3Y0lmNF9lYnR1cE9yX1o5UXMzWTg?oc=5"
-     },
-     {
-      "press": "뉴스1",
-      "title": "장동혁, 1300원 브라질산 계란에 \"좌아한 수입…국제 왼쪽까지 챙기나\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16YjhGeUJkendySHdZbF9lYUdIQWlJZGh3TGI3YVlZU0lCUzFTVkZBRXFHWDN6QUIxUFRsRlZ4V1ZDQWZwNUllaFZrbXVNU014NDhXeDY4NkJ5UQ?oc=5"
-     },
-     {
-      "press": "프리진뉴스",
-      "title": "장동혁 \"'좌아'한 계란 수입, 국민은 '의아'…계란 수입까지 좌파 커넥션?\"",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2eHNFNWdkcUh0cW0yWGJkY2hsMm5ONlFoT2loODludjBpbkxCTmNSMGVfdENETmdMNFNkUVI1d29nM0E3Mjg4VFRBVm9rcVpqUjY4aU9Wc2E0aFEzUHdSVnBfbnJkZ1ctZEtmVDAtOA?oc=5"
-     },
-     {
-      "press": "뉴데일리",
-      "title": "브라질산 계란이 1300원 … \"좌아한 수입, 국제 왼쪽까지 챙기냐\" 野 공세 터졌다",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXJRc3VIdGJsWFd3OTNUVG53RjZINTdVRjMyeHYxdmRrcFZPdXJTN1B4V25OMUl4aVEtczhRTG5Qakxmbk10ZDA5N2pKSFFaeWZyWnBYTmFrS2V1WTNuUkwwNzdaZV9oOUEtQXBaeHVrOWpMd1BMSVpyUGhSRWJwRdIBgAFBVV95cUxPeXJRc3VIdGJsWFd3OTNUVG53RjZINTdVRjMyeHYxdmRrcFZPdXJTN1B4V25OMUl4aVEtczhRTG5Qakxmbk10ZDA5N2pKSFFaeWZyWnBYTmFrS2V1WTNuUkwwNzdaZV9oOUEtQXBaeHVrOWpMd1BMSVpyUGhSRWJwRQ?oc=5"
+      "title": "대통령 만들어준 묫자리니까 철거 못한다?",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HTUl5OXJCYWU5VElQYV9QR2Q5Rk9jREJORmpneUcyY0JyT3BYQm5ScjA3bmxMSHNyUmJ5N1BhVlJDWFNNN1B4MnBOVlNMZGJEcHFGbEd2ZGJOSldGb3hMSm5jUHV6VGNi0gFoQVVfeXFMT0dNSXk5ckJhZTlUSVBhX1BHZDlGT2NEQk5Gamd5RzJjQnJPcFhCblJyMDdubExIc3JSYnk3UGFWUkNYU003UHgycE5WU0xkYkRwcUZsR3ZkYk5KV0ZveExKbmNQdXpUY2I?oc=5"
      }
     ]
    }
   },
   {
-   "title": "요즘 골프장 ‘곡소리’ 나는 이유…‘사치성 재산’ 세금 폭탄 던진 정부 [권준영의 머니볼]",
-   "source": "세계일보",
-   "url": "https://n.news.naver.com/article/022/0004165444",
-   "published_at": "2026-10-10T05:51:06+09:00",
-   "section_id": "101",
+   "title": "靑 \"李대통령, 태릉골프장서 대구 상가 붕괴 사고 보고 받았다\" 확인...'비공개 일정 정치공방 활용' 유감",
+   "source": "kbc광주방송",
+   "url": "https://n.news.naver.com/article/660/0000118829",
+   "published_at": "2026-10-11T14:01:10+09:00",
+   "section_id": "100",
    "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "연구소는 2025년 회원제 골프장 이용객의 개별소비세 납부액을 3311억원으로 추산했다. 연구소는 18홀 회원제 골프장의 재산세가 2024년 12억4000만원에서…",
-   "summary_long": "10일 한국레저산업연구소(소장 서천범)에 따르면 회원제 골프장의 2025년 세금 부담액은 재산세 2300억원, 부가가치세 2712억원, 법인세 958억원 등 총 5970억원으로 추산됐다. 연구소는 2025년 회원제 골프장 이용객의 개별소비세 납부액을 3311억원으로 추산했다. 연구소는 이용객의 세 부담이 회원제 골프장의 가격 경쟁력에도 영향을 미친다고 분석했다.\n\n연구소는 인상안이 시행되면 회원제 골프장의 재산세 부담이 더 커질 것으로 전망했다. 연구소는 18홀 회원제 골프장의 재산세가 2024년 12억4000만원에서 2027년 17억7000만원으로 늘어날 것으로 추산했다. 그런데 2010년대 중반 이후 회원모집 혜택이 희석된 회원제 골프장에 대해 징벌적인 재산세를 부과하는 것이 맞는지 재고해봐야 한다”며 “정부는 회원제 골프장에 대한 징벌적인 재산세율을 점진적으로 낮춰야 한다”고 말했다.",
-   "quotes": [
-    "회원제 골프장은 중과세율을 부과받지만 회원모집 혜택이 있었다. 그런데 2010년대 중반 이후 회원모집 혜택이 희석된 회원제 골프장에 대해 징벌적인 재산세를 부과하는 것이 맞는지 재고해봐야 한다",
-    "정부는 회원제 골프장에 대한 징벌적인 재산세율을 점진적으로 낮춰야 한다"
-   ],
-   "press": "세계일보",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "정부는 회원제 골프장에 대한 징벌적인 재산세율을 점진적으로 낮춰야 한다",
-    "n": 2,
-    "verified": 0,
-    "items": [
-     {
-      "press": "세계일보",
-      "title": "요즘 골프장 ‘곡소리’ 나는 이유…‘사치성 재산’ 세금 폭탄 던진 정부 [권준영의 머니볼]",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LNnJXYnYwVlcwT2NzdDJTZ2VqckxFVTZhMFllSW5sNmV2OUswaHhTamhPNjBROUcxWmtvQmZjVVl4SUY3b2pHcVZJbzlENlB0QUU4aGhkZ2rSAVRBVV95cUxPWlprOTJzX00xQ0VRdkdqTGVpYUJlQThTTjhzekMySmVkclR2Z0V6UW5WRG1UNWwzMHVIOTVGd2I5MmdRNHEwUUhlcEJnampLSkFVR00?oc=5"
-     },
-     {
-      "press": "글로벌이코노믹",
-      "title": "회원제 골프장, 지자체 재정에 효자역할...한국레저산업연구소",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0kwSzh1bUZGMU83LTE5MzY0Yms5OWtUUEkxaW1PZXFUQUl5M1N4RHVHdlpqQ3BfMVVQSnRDQ0VRUV9aS2NXZEU2N2JOSkw3UjJhT3puMEtQX2FndFRVZmlvQ0ctQmpCV0RmX2FzbmlQelZRbEpGZHdzY2oxVXlCQlBHRHgxbXhEZVFV?oc=5"
-     }
-    ]
-   }
+   "selection": "정치",
+   "summary": "이재명 대통령이 휴일인 지난 10일 가족과 함께 태릉 골프장을 찾은 사실을 밝히고 대통령 비공개 일정을 정치공방에 활용하는 데 유감의 뜻을 나타냈습니다. 청와대는…",
+   "summary_long": "이재명 대통령이 휴일인 지난 10일 가족과 함께 태릉 골프장을 찾은 사실을 밝히고 대통령 비공개 일정을 정치공방에 활용하는 데 유감의 뜻을 나타냈습니다. 청와대 대변인실은 11일 알림을 통해 골프장에서 대구에서 발생한 상가 천장 붕괴 사고를 보고 받고 인명 구조와 신속한 사고 수습을 지시했다고 밝혔습니다. 이 대통령이 김종철 경찰청장 직무대행과 직접 통화해 인명 피해 상황과 사망자 여부, 부상 정도 등을 자세히 보고받았다고 밝혔습니다.\n\n이 대통령은 관계기관에 인명 구조에 총력을 다하고, 신속하고 안전하게 사고를 수습하도록 지시했습니다. 청와대는 대통령의 비공개 일정과 사적인 휴일 일정은 공개하지 않는 것이 원칙이지만, 이번에는 비공개 휴일 일정을 둘러싼 불필요한 논쟁을 방지하기 위해 이례적으로 공개했다고 설명했습니다. 그러면서 대통령의 사적인 비공개 일정을 정치적 공방에 활용하는 데 유감을 표했습니다.",
+   "press": "kbc광주방송",
+   "photo": "02.jpg"
   },
   {
-   "title": "\"못 보던 3cm 바퀴벌레가 바글\"...부산서 외래종 정착 '발칵'",
-   "source": "머니투데이",
-   "url": "https://n.news.naver.com/article/008/0005424355",
-   "published_at": "2026-10-10T13:01:19+09:00",
+   "title": "이천 고깃집서 16만원 '먹튀' 신고…경찰, 신원 확인 중",
+   "source": "뉴시스",
+   "url": "https://n.news.naver.com/article/003/0014245028",
+   "published_at": "2026-10-11T12:02:31+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "10일 학계에 따르면 부산대 생명시스템연구소와 경상국립대 식물의학과 공동 연구진은 부산 감만항 일대에서 외래종인 '투르키스탄 바퀴'의 국내 정착 사실을 확인했다. 서로…",
-   "summary_long": "성충뿐 아니라 어린 개체와 알집까지 발견되면서 일시적 유입을 넘어 국내에서 번식하고 있다는 근거가 확보됐다. 10일 학계에 따르면 부산대 생명시스템연구소와 경상국립대 식물의학과 공동 연구진은 부산 감만항 일대에서 외래종인 '투르키스탄 바퀴'(Periplaneta lateralis)의 국내 정착 사실을 확인했다. 투르키스탄 바퀴는 미국과 일본, 러시아, 유럽 등에서도 유입 사례가 확인된 도시 해충이다.\n\n서로 다른 성장 단계의 개체가 같은 지역에서 발견된 만큼 국내 환경에서 번식하고 있을 가능성에 무게가 실린다. 연구진은 부산의 비교적 온화한 겨울 기후가 외래종의 정착에 영향을 미쳤을 가능성에 주목했다. 감만항 바깥 공원에서도 투르키스탄 바퀴가 발견됐지만 현재 분포 범위가 어디까지인지는 파악되지 않았다.",
-   "press": "머니투데이",
-   "photo": "04.jpg"
-  },
-  {
-   "title": "[속보] 나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나왔는데, 李대통령은 말 한마디 없어”",
-   "source": "헤럴드경제",
-   "url": "https://n.news.naver.com/article/016/0002707517",
-   "published_at": "2026-10-10T16:02:07+09:00",
-   "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 279,
-   "comment_agree": 194,
-   "comment_disagree": 50,
-   "division_balance": 0.409836,
-   "division_score": 2.254614,
-   "selection": "찬반 쟁점",
-   "summary": "나경원 국민의힘 의원이 강화도 해수욕장 인근에서 북한 지뢰가 발견된 것과 관련해 “이재명 대통령은 도대체 어느 나라 대통령인가”라며 정부의 대북 대응을 비판했다. 나…",
-   "summary_long": "나경원 국민의힘 의원이 강화도 해수욕장 인근에서 북한 지뢰가 발견된 것과 관련해 “이재명 대통령은 도대체 어느 나라 대통령인가”라며 정부의 대북 대응을 비판했다. 나 의원은 10일 자신의 페이스북에 “유실이든 매설이든 북한 지뢰에 한마디도 못하는 이재명 정부”라며 이 같이 밝혔다. 나 의원은 “우리 국민이 주말이면 돗자리를 펴고 아이들이 모래장난을 치는 대한민국 바닷가 한가운데서 사람의 목숨을 앗아가는 살상 무기가 튀어나왔다”며 “환경정비 근로자가 아니었거나 호기심 많은 어린아이가 먼저 발견했다면 상상조차 하기 싫은 대참사가 벌어질 뻔했다”고 지적했다.\n\n단 한마디도 없다”며 “불과 20일 전 DMZ에서 북한이 매설한 지뢰에 우리 수색대대장과 장병들이 발목을 잃었는데도 정권은 북한에 93억원 어치 의료지원을 하겠다고 매달렸고, 돌아온 것은 조롱과 매도뿐이었다”고 지적했다. 그는 이어 “국민은 불안을 넘어 분노하고 있다”며 “우리 가족이 바닷가에서 지뢰를 밟을지 모른다는 불안 속에 살고 있는데, 대통령에게서는 경고도, 대책도 들리지 않는다”고 비판했다. 나 의원은 이에 이 대통령에게 북한 도발에 대한 강력한 규탄 메시지 발표 및 군 경계태세 실패 사과, 북한에 대한 공식 항의 및 재발 방지 약속 요구, 접경 해안 전역 지뢰 탐색 및 안전 대책 마련, 유엔군사령부를 통한 정전협정 위반 문제 제기 등을 하라고 촉구했다.",
+   "summary": "경기 이천시 한 고깃집에서 손님 일행이 16만원 상당의 음식을 먹은 뒤 계산하지 않고 자리를 떠났다는 신고가 접수돼 경찰이 수사에 나섰다. A씨는 경찰에 신고한 뒤…",
+   "summary_long": "경기 이천시 한 고깃집에서 손님 일행이 16만원 상당의 음식을 먹은 뒤 계산하지 않고 자리를 떠났다는 신고가 접수돼 경찰이 수사에 나섰다. 자신을 음식점 업주라고 밝힌 작성자 A씨는 지난 10일 한 온라인 커뮤니티에 '경기 이천에서 말로만 듣던 먹튀 당했어요'라는 제목의 게시글과 함께 폐쇄회로(CC)TV 사진을 올렸다. A씨는 지난 2일 이천터미널 인근 음식점을 찾은 해당 일행이 약 16만원어치 음식을 먹고 계산하지 않은 채 나갔다고 주장했다.\n\nA씨는 경찰에 신고한 뒤 현장에 남은 술병과 술잔을 증거물로 제출했으며 음식점과 인근 점포의 CCTV 영상도 경찰에 전달했다고 밝혔다. 사건을 접수한 경찰은 음식점에서 식사한 일행이 남성 4명과 여성 2명 등 6명인 것으로 파악하고 이들의 신원을 확인하고 있다. 경찰은 현장에서 확보한 술병과 술잔을 국립과학수사연구원에 보내 지문 감식을 의뢰하는 한편 CCTV를 토대로 이동 동선을 추적 중이다．.",
    "quotes": [
-    "불과 20일 전 DMZ에서 북한이 매설한 지뢰에 우리 수색대대장과 장병들이 발목을 잃었는데도 정권은 북한에 93억원 어치 의료지원을 하겠다고 매달렸고, 돌아온 것은 조롱과 매도뿐이었다",
-    "우리 국민이 주말이면 돗자리를 펴고 아이들이 모래장난을 치는 대한민국 바닷가 한가운데서 사람의 목숨을 앗아가는 살상 무기가 튀어나왔다",
-    "우리 가족이 바닷가에서 지뢰를 밟을지 모른다는 불안 속에 살고 있는데, 대통령에게서는 경고도, 대책도 들리지 않는다"
+    "터미널 근처라 CCTV가 많아 잡을 수 있을 것 같다",
+    "이 정도면 지인들은 알아보겠다"
    ],
-   "press": "헤럴드경제",
-   "photo": "05.jpg",
+   "press": "뉴시스",
+   "photo": "03.jpg",
    "quoted": {
-    "quote": "우리 국민이 주말이면 돗자리를 펴고 아이들이 모래장난을 치는 대한민국 바닷가 한가운데서 사람의 목숨을 앗아가는 살상 무기가 튀어나왔다",
+    "quote": "터미널 근처라 CCTV가 많아 잡을 수 있을 것 같다",
     "n": 3,
     "verified": 0,
     "items": [
      {
+      "press": "뉴시스",
+      "title": "이천 고깃집서 16만원 '먹튀' 신고…경찰, 신원 확인 중",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xZ3Vfb21RQjRFd2Zsb2FXODZ6bVA2dm5XendNWHdLZ2w3WUlPQm8xaEh6ZWJiYXp3VUxyalo3QjlwQ1k2THlLTFkxOEZiZEluRms2RmJIcFAtdS1uZ3NLWDRrVTZ0WWt2NWl4MENtMnJIX0lnLXg2RNIBeEFVX3lxTE8xZ3Vfb21RQjRFd2Zsb2FXODZ6bVA2dm5XendNWHdLZ2w3WUlPQm8xaEh6ZWJiYXp3VUxyalo3QjlwQ1k2THlLTFkxOEZiZEluRms2RmJIcFAtdS1uZ3NLWDRrVTZ0WWt2NWl4MENtMnJIX0lnLXg2RA?oc=5"
+     },
+     {
+      "press": "콜뉴스24",
+      "title": "16만원어치 먹고 사라진 6명…경찰, 술잔 지문까지 감식",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OT21WNjlUMUx4UVdtS1pRd0V0ZlNjVnhFY01IQ3lidzJaUzlHeEdPbUZwSnlHLVhhd0h5VW5DU3VWZWpRZVFHRVdvMVFaQmdJUGhPa0RJVDZ5a2lXRjNZU2tabl9mTHdjb0VTRA?oc=5"
+     },
+     {
       "press": "헤럴드경제",
-      "title": "[속보] 나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나왔는데, 李대통령은 말 한마디 없어”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3UXJOaHVkOXZxTjFISkM1ZUlUTnhrbUxxcVp6UGJrZjVYNUVxa1M1SHlJSkF2alZHR1F6cU1FNS1aM2RWaVVxa1JoR1Njek0zUmhPNjJR?oc=5"
-     },
-     {
-      "press": "경기일보",
-      "title": "나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나와…李, 말 한마디 없어”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSY2hMaU9Ib3BMWGR3ME4ydjA1VExLR3FCc0dfQ3lJT3RIenRmcVFhdmt4UmtJOTdqOVlSb0hBcHRrY0JXb1daOGRwdWRIYkgzYmo2dmlzbVAyM2c?oc=5"
-     },
-     {
-      "press": "한스경제",
-      "title": "나경원 “李, 어느 나라 대통령인가”···北지뢰에 직격",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QT0hZaXduOVFwQ3lKaUJ1WEx2b0VKd1BOZC1Mb25ORkx1TU1wcjNwOGU0TWZfV2NncnhkZlg2WldnUGFwcEliNlVlV3YySjAtV3RnbVI4NnZuRG9Xcmh3dG1xYTlJSXRia1Fna1prNNIBb0FVX3lxTE5QT0hZaXduOVFwQ3lKaUJ1WEx2b0VKd1BOZC1Mb25ORkx1TU1wcjNwOGU0TWZfV2NncnhkZlg2WldnUGFwcEliNlVlV3YySjAtV3RnbVI4NnZuRG9Xcmh3dG1xYTlJSXRia1Fna1prNA?oc=5"
+      "title": "‘얼마 나왔나’ 묻더니 그대로 떠났다…고깃집서 남녀 6명 16만원 ‘먹튀’",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TLWg1TWVnNTY1WWVUOFFkUWJLRFpuYTE1cFdudlF6bjdUd3h4bjZlWVZ2TlBJYm0zR0tBZEFJUmZyaW5RTDZ4OTJyY2wtM21JWk5zLVhn?oc=5"
      }
     ]
    }
   },
   {
-   "title": "[속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”",
-   "source": "세계일보",
-   "url": "https://n.news.naver.com/article/022/0004165513",
-   "published_at": "2026-10-10T17:37:08+09:00",
+   "title": "밤길 달리다 추락해 사망…차량 동호회 이동 중 사고",
+   "source": "SBS",
+   "url": "https://n.news.naver.com/article/055/0001394514",
+   "published_at": "2026-10-11T09:41:55+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "경찰과 소방 당국에 따르면 어제 밤 10시 50분쯤 안성 양성면 45번 국도에서 용인 방향으로 주행하던 K3 승용차가 도로 아래 비탈길로 추락했다는 신고가 접수됐습니다.…",
+   "summary_long": "경기 안성의 한 국도에서 밤길을 달리던 승용차가 비탈길로 추락해 30대 운전자가 숨졌습니다. 경찰과 소방 당국에 따르면 어제(10일) 밤 10시 50분쯤 안성 양성면 45번 국도에서 용인 방향으로 주행하던 K3 승용차가 도로 아래 비탈길로 추락했다는 신고가 접수됐습니다. A씨는 사고 발생 1시간여 전 자동차 동호회 활동으로 안성 양성면의 한 카페에서 다른 회원들과 모임을 마친 뒤 다음 집결지인 용인의 한 카페로 이동하던 중 변을 당한 것으로 파악됐습니다.\n\n다른 회원들은 A씨가 약속 장소에 도착하지 않고 연락도 닿지 않자 그의 이동 경로를 확인하던 과정에서 사고 현장에서 중앙분리대 등이 파손된 것을 발견해 신고했습니다. 경찰은 A씨가 좌측으로 굽은 편도 2차로 도로를 주행하다 중앙분리대를 들이받은 뒤 우측으로 튕겨 나가 가드레일을 충격하고 약 5m 아래 비탈길로 추락한 것으로 보고 있습니다. 경찰은 사고 현장에서 발견된 급제동 흔적(스키드마크)과 차량 블랙박스 영상 등을 토대로 A씨가 제한속도인 시속 80㎞를 초과해 주행했을 가능성을 염두에 두고 정확한 사고 경위를 조사하고 있습니다.",
+   "press": "SBS",
+   "photo": "04.jpg"
+  },
+  {
+   "title": "나경원 “北지뢰 공격, 대구 상가 천장 붕괴에도 골프 치고 앉아있는 李대통령⋯자진하야 하고 특검 수사 받으라”",
+   "source": "강원일보",
+   "url": "https://n.news.naver.com/article/087/0001222939",
+   "published_at": "2026-10-11T16:50:14+09:00",
    "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 196,
-   "comment_agree": 162,
-   "comment_disagree": 43,
-   "division_balance": 0.419512,
-   "division_score": 2.235109,
+   "view_rank": 2,
+   "comment_count": 195,
+   "comment_agree": 165,
+   "comment_disagree": 64,
+   "division_balance": 0.558952,
+   "division_score": 3.039625,
    "selection": "찬반 쟁점",
-   "summary": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 감사 서한을 보낸 것을 두고 더불어민주당이 강력 비판하자, 나 의원이 정면 반박에 나서면서 정국이…",
-   "summary_long": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 감사 서한을 보낸 것을 두고 더불어민주당이 강력 비판하자, 나 의원이 정면 반박에 나서면서 정국이 냉각되는 모양새다. 이번 공방은 최근 우크라이나 측이 한국 정부와의 비공개 약속을 깨고 북한군 포로 2명의 한국 송환 사실을 공개하면서 시작됐다. 우리 정부는 포로와 남겨진 가족의 신변 안전을 이유로 조용한 송환을 추진했으나, 우크라이나 측의 공개로 외교적 마찰이 발생해 박기창 주우크라이나 대사를 소환 조치하는 등 강경 대응에 나선 상태다.\n\n이러한 상황에서 나 의원은 페이스북을 통해 젤렌스키 대통령에게 “포로들의 자유의사를 존중해 한국행을 허용한 결정을 환영하며 깊은 감사를 표한다”는 내용의 서한을 전달했다고 밝혔다. 김병주 민주당 의원 역시 “배은망덕한 젤렌스키에게 감사 서한을 보낸 것은 나라를 팔아먹은 행위”라며 “매국 행위를 즉각 중단하라”고 직격했다. 나 의원은 페이스북 글을 통해 “동포를 구출해 준 국가에 감사 서한을 보낸 것을 두고 매국을 운운하느냐”며 “민주당 의원들은 북한 조선노동당 의원들인가”라고 강하게 반발했다.",
+   "summary": "이재명 대통령이 대구 상가 천장 붕괴 사고 당시 가족들과 골프장에 있었다는 청와대의 발표에 대해 국민의힘 나경원 의원이 11일 “국민 생명·안전과 직결된 재난, 안보…",
+   "summary_long": "이재명 대통령이 대구 상가 천장 붕괴 사고 당시 가족들과 골프장에 있었다는 청와대의 발표에 대해 국민의힘 나경원 의원이 11일 “국민 생명·안전과 직결된 재난, 안보 위기마다 골프 중독”이라며 강하게 비판했다. 나 의원은 이날 자신의 페이스북을 통해 “이 대통령, 더불어민주당과 당신들이 상대에게 들이대왔던 기준대로라면 자진하야 하고 특검 수사 받으라”면서 이 같이 말했다. 앞서 청와대는 이날 대변인실 명의 공지를 통해 “이 대통령은 전날 가족과 함께 태릉 골프장을 찾았다”며 “현장에서 대구 상가 천장 붕괴 사고를 보고받았다”고 설명했다.\n\n국민의힘 주진우 의원이 오후 국회에서 ‘이 대통령이 사고 당시 골프를 치고 있었다’는 내용의 기자회견을 하겠다고 예고하자, 이례적으로 골프를 친 사실을 선제적으로 공개한 것이다. 청와대는 상당수의 부상자가 발생한 사고를 이 대통령의 골프 일정과 연관 짓는 것은 정치 공세에 이용하려는 의도가 다분하다고 보고 이전과 다르게 선제적인 대응에 나선 것으로 풀이된다. 10월10일 분 단위, 초 단위로 붕괴 사고에 어떻게 대응했는지 밝히고, 해군 장병 실종 때 누구와 골프를 쳤고 골프비는 특수활동비로 냈는지 국민 앞에 설명하라”고 요구했다.",
    "quotes": [
-    "비공개 약속을 어긴 우크라이나는 두둔하면서 정부에는 터무니없는 누명을 씌우고 있다",
-    "포로들의 자유의사를 존중해 한국행을 허용한 결정을 환영하며 깊은 감사를 표한다",
-    "당사자와 가족의 신변 보호 요구까지 친북으로 매도하는 무책임한 선동을 중단하라"
+    "대구 사고 1차 구조작업이 오전 10시40분에 완료됐는데 청와대 입장은 무려 2시간 뒤인 낮 12시30분에 나왔다. 10월10일 분 단위, 초 단위로 붕괴 사고에 어떻게 대응했는지 밝히고, 해군 장병 실종 때 누구와 골프를 쳤고 골프비는 특수활동비로 냈는지 국민 앞에 설명하라",
+    "과거 국가적 재난이나 안보 위기 상황 때마다 대통령의 행적을 분초 단위로 스토킹하듯 파헤치고, 길거리로 뛰쳐나와 맹비난을 퍼붓고 마녀사냥을 주도하며 나라를 뒤집어놓던 민주당과 그 2·3중대 결탁 세력들, 그리고 가짜 시민단체들은 지금 다 어디서 무엇을 하고 있는가",
+    "해군 장병 실종 사망 때도 골프 의혹, 북한 지뢰 공격으로 우리 장병이 다리를 잃고 국민 전체가 북한 독재 정권으로부터 능욕을 당하는 중에도, 대구에서 상가 천장이 붕괴 되어 국민의 생명이 위협 받고 있는 참담한 시각에도 대통령이 골프를 치고 앉았나"
    ],
-   "press": "세계일보",
-   "photo": "06.jpg",
+   "press": "강원일보",
+   "photo": "05.jpg",
    "quoted": {
-    "quote": "비공개 약속을 어긴 우크라이나는 두둔하면서 정부에는 터무니없는 누명을 씌우고 있다",
-    "n": 10,
+    "quote": "대구 사고 1차 구조작업이 오전 10시40분에 완료됐는데 청와대 입장은 무려 2시간 뒤인 낮 12시30분에 나왔다. 10월10일 분 단위, 초 단위로 붕괴 사고에 어떻게 대응했는지 밝히고, 해군 장병 실종 때 누구와 골프를 쳤고 골프비는 특수활동비로 냈는지 국민 앞에 설명하라",
+    "n": 4,
     "verified": 0,
     "items": [
      {
-      "press": "세계일보",
-      "title": "[속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0eXpSZEV1bElSajZYQ1BVU2kxdzM3eUNkQzJpeGVoRktKNnNnbU95UHlydVdiS1JUdWFyRmx0YUtud2VKOXZVaUFHTzAyTmxvZFF4VDlXVDM3ck05ZHpCRWtrSGpUWmFaelHSAVRBVV95cUxPU2R1SW9Jd3pGeHU5T0gxU2NSSFBwSVhoZ3BnM0NnQUoySHMzTlNyN1VJS083VkRSV25SaGVBZzN5MGdPTWt6U2JmREdZTzcwd3dEUjI?oc=5"
-     },
-     {
       "press": "연합뉴스",
-      "title": "與 \"젤렌스키에 감사서한은 매국\"…나경원 \"참 지독한 친북정권\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FUnZ3bDQyVEVLUkdZeDJ2TVBjMkNzY1RzQUVHUHJTT3I2akFXMGxUbEFoZUsybno5Z3NPeVVtRWVjNnE3QVl0ZXJxTnpEWHRvbjl3RUVXbVdiN052ZGl2ctIBYEFVX3lxTE9FUnZ3bDQyVEVLUkdZeDJ2TVBjMkNzY1RzQUVHUHJTT3I2akFXMGxUbEFoZUsybno5Z3NPeVVtRWVjNnE3QVl0ZXJxTnpEWHRvbjl3RUVXbVdiN052ZGl2cg?oc=5"
-     },
-     {
-      "press": "국제신문",
-      "title": "나경원 ‘젤렌스키 감사 서한’에 與 “매국”…나 “친북 정권”",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObW93a3k1Wnh4dDREMzNpcFdzTndQc3JIcWJUeGJralQ3YVZpN29salNVQTY2alV4emMxUmNzeVA2RlNfSERWa1BLbmxKZkJSUmM3cHdmTmFGM0V4WTE0dlhieEZsZHpnUHVmcXQ3U0xvd2hHSzZuRE8xc1RwSU1iOFJ1OVB3eXBVT3B2WE9kVGE1X1R1SVNfWA?oc=5"
-     },
-     {
-      "press": "경향신문",
-      "title": "북한 포로 공개 우크라에 ‘감사 서한’ 공방…나경원 “조선노동당인가” 민주당 “극우적 몸부림”",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OcWNjZWY3NTcwLWNKNGd4NDRJdEsxcXp2d1A0M0xpQk1XcVFuQVFuNk1Tb2t1VU1FeGZLWDZ4SFhGZDlxT3IxQ1ZoODBIa1dfMl95OW1iRlZYR18tUjlV0gFfQVVfeXFMT05xY2NlZjc1NzAtY0o0Z3g0NEl0SzFxenZ3UDQzTGlCTVdxUW5BUW42TVNva3VVTUV4ZktYNnhIWEZkOXFPcjFDVmg4MEhrV18yX3k5bWJGVlhHXy1SOVU?oc=5"
-     },
-     {
-      "press": "M이코노미뉴스",
-      "title": "정치권, 북한군 포로 송환 놓고 충돌...“우크라 약속 이행” vs “대사 소환 철회”",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11RGdKRVA5dE9GbG5lMW4xNkFhU3R4Y1JlOFQ0MUlvQ19SWFMtN0ZBaENuUWpqSzhRMktXdWMtMUdWZWppREhVTWMwRUpiTXhmMjVzZmRDMVhIbTVMYUtORmlTbkN4T1U?oc=5"
+      "title": "靑 \"李대통령 골프장서 대구사고 신속수습지시\"…주진우 \"황제골프\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHQjB2NnYxcnNmN2xFVjNXODY3V3didXBOWlFkeTNLanVTb3N3VkhzSld1TUlUWFYtR0RXQURzV21SMk9ZZWZNV00zM3ZfaTNlZW5DaGdRSlB3NFnSAWBBVV95cUxQSEpNTTEwTkF1dGN2TlB2MTBjWm94Um5ua1lqUlI2ejczbWFWMjBNMW1zdVc4RnRZVFF1RG1UeS1qOHdPVlFzZFp5ajB6SUtKa09RSUtSNVQ4TDhwUm1ncFY?oc=5"
      },
      {
       "press": "부산일보",
-      "title": "與·나경원 `젤렌스키 감사 서한` 공방…`이완용이냐` vs `조선노동당 의원이냐`",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPVFczRG9YZXlEUTlIQzNVS1lJS3N3Q0ZucEsxeFhDbFAxNC1zcHRBNUxyMHRiLUR6VWkzWVFXWVJzTnloUFZDRmhQeWtHTHZ1Ml8xX3pUNVJVVjk1NmlRMkxkVFc2T0J4bEp4cmpXc0piT3B6?oc=5"
+      "title": "靑 “이 대통령, 대구사고 때 가족과 골프…보고 받고 신속수습지시\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00R3NTVUJjWUxtZWtWX1U3VTNQVi1fNzBnZm1KdUFlTVIzSUxwYW80Q2MxcXVzcGZPVC1CaERYRS1KMWJ1WjF1VV9pekFoMDVXUXZ0REdaYUw5eE1wVWRHSk9pTDhNWnVTYllDbUs0MmVvYTFBY24yZA?oc=5"
+     },
+     {
+      "press": "월간조선",
+      "title": "대구서 붕괴 사고 났는데도 李 대통령은 골프장서 나이스샷?",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95anktUTBGLUdnYjl2VEZteDhveHFPOE1wWVoyRzNieVQ1cVlBb0J1c2w4QXZza25sNVRsNWZGbTlEQndMRzVHai1Ta2VMc2VoYVpPVU93T1k2eWRodzJMVEF4QkdqS0RzTkJkTw?oc=5"
+     },
+     {
+      "press": "싱글리스트",
+      "title": "주진우 \"李대통령, 참사때마다 골프...증거사진 확보하자 시인\"",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oLTFUUUZFcjRHY0FEN1JPTldvTmVNMG9kT3NCSzdSVzEza3d3d2cwbWtvSDc2Y2NzeFd0X3RPQ0pPTldXY2FkNjA5UzlSalo2ZnprXzQ4bzZlcFNCd3NMMGNkaWlpZw?oc=5"
      }
     ]
    }
   },
   {
-   "title": "'젤렌스키에 감사서한' 보낸 나경원…\"매국\" 지적에 \"조선노동당인가\"",
-   "source": "MBN",
-   "url": "https://n.news.naver.com/article/057/0001972743",
-   "published_at": "2026-10-10T17:45:07+09:00",
+   "title": "국힘 \"붕괴사고 당일 황제골프\"...청 \"현장서 보고받고 신속지시\"",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002417298",
+   "published_at": "2026-10-11T17:53:47+09:00",
    "section_id": "100",
    "view_rank": 1,
-   "comment_count": 719,
-   "comment_agree": 274,
-   "comment_disagree": 54,
-   "division_balance": 0.329268,
-   "division_score": 1.908458,
+   "comment_count": 845,
+   "comment_agree": 353,
+   "comment_disagree": 82,
+   "division_balance": 0.377011,
+   "division_score": 2.291341,
    "selection": "찬반 쟁점",
-   "summary": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 북한군 포로 2명의 한국 송환에 대해 감사 서한을 보낸 것 등을 놓고 더불어민주당과 충돌했습니다. 이용우…",
-   "summary_long": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 북한군 포로 2명의 한국 송환에 대해 감사 서한을 보낸 것 등을 놓고 더불어민주당과 충돌했습니다. 이용우 민주당 대변인은 오늘(10일) 서면브리핑에서 나 의원을 향해 \"비공개 약속을 어긴 우크라이나는 두둔하면서, 그 책임을 묻는 우리 정부에는 북한군 포로를 사지에 버리려 한다는 터무니없는 누명을 씌웠다\"고 꼬집었습니다. 이 대변인은 \"국제기준에 따라 당사자와 가족의 신변을 보호하려는 요구까지 '친북'으로 매도하는 무책임한 선동을 중단하라\"며 \"포로들의 '생명줄'을 걱정한다면서 정작 그 안전을 지킬 약속은 외면하는 것이 나 의원이 말하는 인권이냐\"고 일갈했습니다.\n\n같은 당 김병주 의원은 어제(9일) 페이스북에서 나 의원을 향해 \"배은망덕 대한민국을 모독한 젤렌스키에 감사 서한이라니 어느 나라 국회의원인가\"라면서 \"개인의 사욕을 위해 나라 팔아먹은 이완용과 무엇이 다른가. 이에 대해 나 의원은 오늘 잇따라 페이스북을 통해 \"북한군 포로송환 우크라이나 대통령에 대해 감사 서한을 보내니 민주당 의원들이 자폭부대처럼 앞다투어 달려든다\"며 \"대한민국 의원들 맞나. 나 의원은 북한군 포로 송환 공개에 대한 한국 정부의 대응으로 박기창 주우크라이나 대사가 귀국했다는 뉴스를 공유하고 \"외교적 자해 행위\"라며 \"이 기막힌 외교 갈등은 오직 북한 김정은을 향한 보여주기밖에는 설명이 되지 않는다\"라고 지적했습니다.",
+   "summary": "주진우 \"이 대통령, 대구 상가 사고 당일 황제골프\" 청와대 \"이 대통령, 가족과 함께 골프장 일정\"",
+   "summary_long": "주진우 \"이 대통령, 대구 상가 사고 당일 황제골프\" 청와대 \"이 대통령, 가족과 함께 골프장 일정\" 국민의힘 주진우 의원이 대구 상가 천장 붕괴사고가 있었던 어제(10일) 이재명 대통령이 황제 골프를 쳤다며 관련 영상과 사진을 공개했습니다.\n\n청와대는 사고 당일 이 대통령이 골프장에 있었던 건 사실이지만 현장 보고와 신속한 지시가 있었다고 강조했습니다. 청와대는 불필요한 논쟁을 방지하기 위해서라며, 대통령의 사적인 비공개 일정을 정치적 공방에 활용하는 것에 유감을 표한다고도 밝혔습니다. 이에 대해 주 의원은 대구 사고 당시 1차 구조작업이 완료되고도 2시간이나 지나서야 청와대의 입장이 나왔다며 초 단위 일정을 공개해야 한다고 촉구했습니다.",
    "quotes": [
-    "비공개 약속을 어긴 우크라이나는 두둔하면서, 그 책임을 묻는 우리 정부에는 북한군 포로를 사지에 버리려 한다는 터무니없는 누명을 씌웠다",
-    "'우리는 북한군이 탈북해 대한민국으로 오는 것을 결코 환영하지 않으니 안심하라'는 비굴한 굴종의 메시지를 평양에 바친 것",
-    "북한군 포로송환 우크라이나 대통령에 대해 감사 서한을 보내니 민주당 의원들이 자폭부대처럼 앞다투어 달려든다"
+    "이 대통령, 대구 상가 사고 당일 황제골프",
+    "이 대통령, 가족과 함께 골프장 일정"
    ],
-   "press": "MBN",
-   "photo": "07.jpg",
+   "press": "YTN",
+   "photo": "06.jpg",
    "quoted": {
-    "quote": "비공개 약속을 어긴 우크라이나는 두둔하면서, 그 책임을 묻는 우리 정부에는 북한군 포로를 사지에 버리려 한다는 터무니없는 누명을 씌웠다",
-    "n": 10,
+    "quote": "이 대통령, 가족과 함께 골프장 일정",
+    "n": 1,
     "verified": 0,
     "items": [
      {
+      "press": "YTN",
+      "title": "국힘 \"붕괴사고 당일 황제골프\"...청 \"현장서 보고받고 신속지시\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbURuSVlIQWJCUzFjdTVLbkdHODBYSnk3Y1FnV3hYZi0zRkpHTmFsNHRQNEUyc2Z3UmlPY2Y3dlRNWVZvSzFTSnYyTlN5bFZQM2QwZlQzSm1qVWtiWFE?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "이재명 대통령의 SNS, 전선을 넓히다",
+   "source": "오마이뉴스",
+   "url": "https://n.news.naver.com/article/047/0002531785",
+   "published_at": "2026-10-11T19:01:08+09:00",
+   "section_id": "100",
+   "view_rank": 5,
+   "comment_count": 133,
+   "comment_agree": 107,
+   "comment_disagree": 28,
+   "division_balance": 0.414815,
+   "division_score": 2.037842,
+   "selection": "찬반 쟁점",
+   "summary": "이재명 대통령은 10일 X에 과거 노무현 대통령의 인터넷 활동이 비판받았던 일을 꺼내며 \"정치와 권력은 낮은 곳으로 향해야 한다\"고 강조했다. 유승민 전 의원도 \"이…",
+   "summary_long": "대통령의 말이, 대통령의 전선을 만들고 있다. 이재명 대통령은 10일 X(엑스·옛 트위터)에 과거 노무현 대통령의 인터넷 활동이 비판받았던 일을 꺼내며 \"정치와 권력은 낮은 곳으로 향해야 한다\"고 강조했다. 장동혁 국민의힘 대표는 11일 페이스북에 \"여전히 국민이 왜 분노하는지, 그 이유조차 모르고 있다\"며 \"이재명 대통령, 자기 편 이야기만 열심히 퍼나르고 있다.\n\n유승민 전 의원도 \"이 대통령 SNS의 진짜 문제는 다른 데 있다\"며 \"실패한 정책을 우기는 SNS다. 한동훈 무소속 의원은 관련 기사를 자신의 페이스북에 공유하며 \"권력형 성범죄를 범하고 피해자에게 사과도 안하고 극단적 선택을 한 박원순 전 서울시장을 대한민국 대통령이 공개적으로 추앙하면 안 된다\"고 지적했다. \"정치와 권력은 낮은곳으로...\"이 대통령의 X 계속된다 https://omn.kr/2k2m0.",
+   "quotes": [
+    "그런데 성범죄자를 그리워한다니. 보완수사권 폐지에 이어 박원순 복권까지, 범죄자들의 대통령이 되고자 하는가? 당시 민주당 의원들이 '피해 호소인'이라며 가했던 행태를 잊었는가",
+    "이재명 대통령, 자기 편 이야기만 열심히 퍼나르고 있다. '소통'이 아니라 지지율 방어용 '왼쪽 챙기기'다. 정책 전환을 요구하는 국민의 목소리는 아예 들은 척도 안 한다",
+    "대통령이 자정이 넘어서까지 잠도 안 자고 시답지 않은 일로 SNS에 매달리는 모습 그 자체가 국민들을 불안하게 만들고 걱정하도록 만든다는 점을 대통령이 꼭 알았으면 좋겠다"
+   ],
+   "press": "오마이뉴스",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "대통령이 자정이 넘어서까지 잠도 안 자고 시답지 않은 일로 SNS에 매달리는 모습 그 자체가 국민들을 불안하게 만들고 걱정하도록 만든다는 점을 대통령이 꼭 알았으면 좋겠다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "OhmyNews",
+      "title": "이재명 대통령의 SNS, 전선을 넓히다",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5acm9iczhwdlNpVEIwZnM0VmpGSzE3SkZtcWw5VlF0T1JNU3BNRElFYWV4SV9OVU5wako0aDJFejNiZV9NRkhjV2VLbjI3VFZTVHk3Ym5uaGk5MTgtbTNGbTFSaUQ2Q0VNUXJKSUZXNmg0Wl9VRjVV?oc=5"
+     },
+     {
       "press": "연합뉴스",
-      "title": "與 \"젤렌스키에 감사서한은 매국\"…나경원 \"참 지독한 친북정권\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FUnZ3bDQyVEVLUkdZeDJ2TVBjMkNzY1RzQUVHUHJTT3I2akFXMGxUbEFoZUsybno5Z3NPeVVtRWVjNnE3QVl0ZXJxTnpEWHRvbjl3RUVXbVdiN052ZGl2ctIBYEFVX3lxTE9FUnZ3bDQyVEVLUkdZeDJ2TVBjMkNzY1RzQUVHUHJTT3I2akFXMGxUbEFoZUsybno5Z3NPeVVtRWVjNnE3QVl0ZXJxTnpEWHRvbjl3RUVXbVdiN052ZGl2cg?oc=5"
+      "title": "국힘, 李대통령 SNS에 \"소통 아닌 지지율 방어용 左 챙기기\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sOG9xRmpSNEIxV3padWxoYmM0R0dHWk85YkNWLVBYcGU2ZnYwQkx2OWFpTjhnQnpUM2lBZ0ctX0cwYkRJN1FJQXJqdTVXY2M0OFhGemZaX3dxMHPSAWBBVV95cUxOd1hPdXVEcHVGN1ZhelBONjlHWWx2WjUySmVxaEM3MXVVMFJ4aHZST28wempPRHMtUjVkeUpKMkU2Y1g4Z0twdURjbVVkNXdJVU5CZ0RvenRackFiZHhGZjU?oc=5"
      },
      {
-      "press": "주간조선",
-      "title": "與 “나경원, 이완용과 뭐가 다른가”…羅 “이재명 정권 굴종이 매국”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DUzZIbmNqX3lXdllIaEVYUHV3eWlKaHBGdTFXSFJMdGdDYW1KNm5YU05kVjZBN3F5RjAzU2RuZ2paOGQ0RGtNMmJaQk5hLVp0eVlUSmVNM21IQklpM2pUWmFRYTlIYWNiUFRZTnVn0gFuQVVfeXFMTkNTNkhuY2pfeVd2WUhoRVhQdXd5aUpocEZ1MVdIUkx0Z0NhbUo2blhTTmRWNkE3cXlGMDNTZG5nalo4ZDREa00yYlpCTmEtWnR5WVRKZU0zbUhCSWkzalRaYVFhOUhhY2JQVFlOdWc?oc=5"
-     },
-     {
-      "press": "국제신문",
-      "title": "나경원 ‘젤렌스키 감사 서한’에 與 “매국”…나 “친북 정권”",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObW93a3k1Wnh4dDREMzNpcFdzTndQc3JIcWJUeGJralQ3YVZpN29salNVQTY2alV4emMxUmNzeVA2RlNfSERWa1BLbmxKZkJSUmM3cHdmTmFGM0V4WTE0dlhieEZsZHpnUHVmcXQ3U0xvd2hHSzZuRE8xc1RwSU1iOFJ1OVB3eXBVT3B2WE9kVGE1X1R1SVNfWA?oc=5"
-     },
-     {
-      "press": "경향신문",
-      "title": "북한 포로 공개 우크라에 ‘감사 서한’ 공방…나경원 “조선노동당인가” 민주당 “극우적 몸부림”",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OcWNjZWY3NTcwLWNKNGd4NDRJdEsxcXp2d1A0M0xpQk1XcVFuQVFuNk1Tb2t1VU1FeGZLWDZ4SFhGZDlxT3IxQ1ZoODBIa1dfMl95OW1iRlZYR18tUjlV0gFfQVVfeXFMT05xY2NlZjc1NzAtY0o0Z3g0NEl0SzFxenZ3UDQzTGlCTVdxUW5BUW42TVNva3VVTUV4ZktYNnhIWEZkOXFPcjFDVmg4MEhrV18yX3k5bWJGVlhHXy1SOVU?oc=5"
-     },
-     {
-      "press": "부산일보",
-      "title": "與·나경원 `젤렌스키 감사 서한` 공방…`이완용이냐` vs `조선노동당 의원이냐`",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPVFczRG9YZXlEUTlIQzNVS1lJS3N3Q0ZucEsxeFhDbFAxNC1zcHRBNUxyMHRiLUR6VWkzWVFXWVJzTnloUFZDRmhQeWtHTHZ1Ml8xX3pUNVJVVjk1NmlRMkxkVFc2T0J4bEp4cmpXc0piT3B6?oc=5"
-     },
-     {
-      "press": "M이코노미뉴스",
-      "title": "정치권, 북한군 포로 송환 놓고 충돌...“우크라 약속 이행” vs “대사 소환 철회”",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11RGdKRVA5dE9GbG5lMW4xNkFhU3R4Y1JlOFQ0MUlvQ19SWFMtN0ZBaENuUWpqSzhRMktXdWMtMUdWZWppREhVTWMwRUpiTXhmMjVzZmRDMVhIbTVMYUtORmlTbkN4T1U?oc=5"
+      "press": "이데일리",
+      "title": "유승민, 李 겨냥 \"자정 넘어 시답잖은 일로 SNS…국민들 불안\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDlXa0g0WWRzR1NfWDhYRWduS09MWjZIUVppOTc4UmZNQWlTc3hmdmVTSXJ5VzdVX2VOSC1EMlpYV2ZyWXQ3MUVCM3k3UjJyOTFpbnk4ZHE1bjRuSUp4LTM3Q1lfaUI0T1RDelp4TTh3SGpObTdzRHFzMzZFZS1HZg?oc=5"
      }
     ]
    }
@@ -320,139 +247,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/01.png",
-   "pngBytes": 1928000,
-   "feed": "오늘의 뉴스 2026-10-11\n\n· 안철수 \"인천 해수욕장 인근서 北 지뢰 발견…대통령 SNS에는 '북(北)' 한글자 없어\"\n· \"1,300원짜리 브라질 계란 수입해 100원에 팔아\"… 장동혁, \"차액은 혈세로.. 누굴 배 불리나\"\n· 요즘 골프장 ‘곡소리’ 나는 이유…‘사치성 재산’ 세금 폭탄 던진 정부 [권준영의 머니볼]\n· \"못 보던 3cm 바퀴벌레가 바글\"...부산서 외래종 정착 '발칵'\n· [속보] 나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나왔는데, 李대통령은 말 한마디 없어”\n· [속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”\n· '젤렌스키에 감사서한' 보낸 나경원…\"매국\" 지적에 \"조선노동당인가\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/01.png",
+   "pngBytes": 2039664,
+   "feed": "오늘의 뉴스 2026-10-12\n\n· 이대통령 부모 묘 찾은 이진숙 \"농지에 불법조성, 옮겨라\" 주장\n· 靑 \"李대통령, 태릉골프장서 대구 상가 붕괴 사고 보고 받았다\" 확인...'비공개 일정 정치공방 활용' 유감\n· 이천 고깃집서 16만원 '먹튀' 신고…경찰, 신원 확인 중\n· 밤길 달리다 추락해 사망…차량 동호회 이동 중 사고\n· 나경원 “北지뢰 공격, 대구 상가 천장 붕괴에도 골프 치고 앉아있는 李대통령⋯자진하야 하고 특검 수사 받으라”\n· 국힘 \"붕괴사고 당일 황제골프\"...청 \"현장서 보고받고 신속지시\"\n· 이재명 대통령의 SNS, 전선을 넓히다"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/02.png",
-   "pngBytes": 1941346,
-   "title": "안철수 \"인천 해수욕장 인근서 北 지뢰 발견…대통령 SNS에는 '북(北)' 한글자 없어\"",
-   "summary": "안철수 국민의힘 의원이 이재명 대통령을 향해 \"북한을 향한 굴종 광대극을 즉각 멈춰야한다\"고 말했다. 안 의원은 그러면서 \"이 대통령은 지난 5일 합참의 최종 발표 이후…",
-   "summary_long": "안철수 국민의힘 국회의원, 강신철 국방부 장관, 이재명 대통령. 안철수 국민의힘 의원이 이재명 대통령을 향해 \"북한을 향한 굴종 광대극을 즉각 멈춰야한다\"고 말했다. 안 의원은 10일 자신의 페이스북에 '대한민국 바다까지 지뢰밭으로 만드는 북한, 이재명 대통령은 언제까지 침묵하려 합니까?'라는 제목의 글을 올리고 이같이 말했다.\n\n그는 인천 강화군 주문도 대빈창해수욕장 인근에서 북한에서 떠내려온 것으로 추정되는 대인지뢰가 발견된 사실을 언급하며 \"북한 지뢰가 DMZ에 이어 이제 우리 바다와 해수욕장 인근까지도 발견된 것\"이라고 지적했다. 안 의원은 그러면서 \"이 대통령은 지난 5일 합참의 최종 발표 이후 5일이 넘었는데도 침묵으로 일관하고 있다\"며 \"수없이 올리는 X게시물에서 북한의 '북'자는 물론, '지뢰'라는 단어 조차 찾을 수 없다\"고 말했다. 안 의원은 \"그리고 뭐라도 행동으로 보여줘야 한다\"며 \"대북방송, 전단살포, 대북확성기 설치 등 북한의 도발에 상응하는 그 무엇이라도 하길 바란다\"고 말했다.",
-   "press": "매일신문",
-   "source": "매일신문",
-   "link": "https://n.news.naver.com/article/088/0001033334",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/02.png",
+   "pngBytes": 2023440,
+   "title": "이대통령 부모 묘 찾은 이진숙 \"농지에 불법조성, 옮겨라\" 주장",
+   "summary": "이 의원은 어제 SNS에 \"봉화군 이재명 부모 묘소를 찾았다\"며 \"이곳은 농지로 묘를 쓸 수 없는 곳\"이라고 적었습니다. 이어 \"관할 봉화군은 2023년과 2024년…",
+   "summary_long": "이 의원은 어제(10일) SNS에 \"봉화군 이재명 부모 묘소를 찾았다\"며 \"이곳은 농지로 묘를 쓸 수 없는 곳\"이라고 적었습니다. 이어 \"관할 봉화군은 2023년과 2024년, 그리고 2025년 세 차례에 걸쳐 원상회복 명령을 통보했다\"며 \"그런데도 이재명 가족은 과태료만 내고 묘는 그대로 유지하고 있다\"고 주장했습니다. 또 \"원상회복은커녕 묘소 영구화를 위한 작업이 진행되고 있는 것을 현장에서 확인했다\"며 \"묘지 전방 100m에서 도로포장 공사가 한창이었다.\n\n이 의원은 \"공사면은 '농로 포장'으로 되어있었지만 누가 그 말을 믿겠습니까\"라며 \"묘지 앞에는 야자매트를 깔아 겨울에 눈이 와도 미끄러지지 않을 정도\"라고 말했습니다. 아울러 \"농지에 조성한 묘소, 불법이다\"라며 \"대통령 일가는 법 위에 있습니까. 다만 이 의원이 주장한 세 차례의 원상회복 명령과 과태료 납부 사실, 그리고 농로 포장 공사의 발주 목적 등은 추가 확인이 필요한 상황입니다.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000515086",
    "selection": "정치",
-   "feed": "뉴스 01. 안철수 \"인천 해수욕장 인근서 北 지뢰 발견…대통령 SNS에는 '북(北)' 한글자 없어\"\n\n안철수 국민의힘 국회의원, 강신철 국방부 장관, 이재명 대통령. 안철수 국민의힘 의원이 이재명 대통령을 향해 \"북한을 향한 굴종 광대극을 즉각 멈춰야한다\"고 말했다. 안 의원은 10일 자신의 페이스북에 '대한민국 바다까지 지뢰밭으로 만드는 북한, 이재명 대통령은 언제까지 침묵하려 합니까?'라는 제목의 글을 올리고 이같이 말했다.\n\n그는 인천 강화군 주문도 대빈창해수욕장 인근에서 북한에서 떠내려온 것으로 추정되는 대인지뢰가 발견된 사실을 언급하며 \"북한 지뢰가 DMZ에 이어 이제 우리 바다와 해수욕장 인근까지도 발견된 것\"이라고 지적했다. 안 의원은 그러면서 \"이 대통령은 지난 5일 합참의 최종 발표 이후 5일이 넘었는데도 침묵으로 일관하고 있다\"며 \"수없이 올리는 X게시물에서 북한의 '북'자는 물론, '지뢰'라는 단어 조차 찾을 수 없다\"고 말했다. 안 의원은 \"그리고 뭐라도 행동으로 보여줘야 한다\"며 \"대북방송, 전단살포, 대북확성기 설치 등 북한의 도발에 상응하는 그 무엇이라도 하길 바란다\"고 말했다.\n\n출처: 매일신문 / https://n.news.naver.com/article/088/0001033334"
+   "feed": "뉴스 01. 이대통령 부모 묘 찾은 이진숙 \"농지에 불법조성, 옮겨라\" 주장\n\n이 의원은 어제(10일) SNS에 \"봉화군 이재명 부모 묘소를 찾았다\"며 \"이곳은 농지로 묘를 쓸 수 없는 곳\"이라고 적었습니다. 이어 \"관할 봉화군은 2023년과 2024년, 그리고 2025년 세 차례에 걸쳐 원상회복 명령을 통보했다\"며 \"그런데도 이재명 가족은 과태료만 내고 묘는 그대로 유지하고 있다\"고 주장했습니다. 또 \"원상회복은커녕 묘소 영구화를 위한 작업이 진행되고 있는 것을 현장에서 확인했다\"며 \"묘지 전방 100m에서 도로포장 공사가 한창이었다.\n\n이 의원은 \"공사면은 '농로 포장'으로 되어있었지만 누가 그 말을 믿겠습니까\"라며 \"묘지 앞에는 야자매트를 깔아 겨울에 눈이 와도 미끄러지지 않을 정도\"라고 말했습니다. 아울러 \"농지에 조성한 묘소, 불법이다\"라며 \"대통령 일가는 법 위에 있습니까. 다만 이 의원이 주장한 세 차례의 원상회복 명령과 과태료 납부 사실, 그리고 농로 포장 공사의 발주 목적 등은 추가 확인이 필요한 상황입니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000515086"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/03.png",
-   "pngBytes": 871251,
-   "title": "\"1,300원짜리 브라질 계란 수입해 100원에 팔아\"… 장동혁, \"차액은 혈세로.. 누굴 배 불리나\"",
-   "summary": "장동혁 대표, SNS 통해 브라질산 계란 고가 수입 논란 맹비난. 장동혁 대표가 정부의 브라질산 계란 수입을 두고 막대한 혈세가 낭비되고 있다며 이재명 대통령을 향해…",
-   "summary_long": "장동혁 대표, SNS 통해 브라질산 계란 고가 수입 논란 맹비난. \"미국산 464원인데 브라질산 무려 1,300원, 현지 가격의 6배\" 장동혁 대표가 정부의 브라질산 계란 수입을 두고 막대한 혈세가 낭비되고 있다며 이재명 대통령을 향해 강도 높은 비판을 쏟아냈습니다.\n\n장 대표는 자신의 페이스북에 \"계란 수입까지 '좌파 커넥션'?\"이라는 제목의 글을 올리고, 터무니없이 비싼 수입 단가와 세금 투입 문제를 집중적으로 지적했습니다. 장 대표는 이번 브라질산 계란 수입 결정의 배경에 이념적 '커넥션'이 있는 것 아니냐는 의혹도 제기했습니다. 그는 \"지난 2월, 이재명 대통령과 브라질 룰라 대통령 정상회담 직후 브라질 계란 수입 절차가 시작됐고, 7월 이 대통령 브라질 방문 직후 브라질산 계란 112만 개가 수입됐다\"고 시기를 짚었습니다.",
-   "press": "CJB청주방송",
-   "source": "CJB청주방송",
-   "link": "https://n.news.naver.com/article/655/0000033114",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/03.png",
+   "pngBytes": 1772081,
+   "title": "靑 \"李대통령, 태릉골프장서 대구 상가 붕괴 사고 보고 받았다\" 확인...'비공개 일정 정치공방 활용' 유감",
+   "summary": "이재명 대통령이 휴일인 지난 10일 가족과 함께 태릉 골프장을 찾은 사실을 밝히고 대통령 비공개 일정을 정치공방에 활용하는 데 유감의 뜻을 나타냈습니다. 청와대는…",
+   "summary_long": "이재명 대통령이 휴일인 지난 10일 가족과 함께 태릉 골프장을 찾은 사실을 밝히고 대통령 비공개 일정을 정치공방에 활용하는 데 유감의 뜻을 나타냈습니다. 청와대 대변인실은 11일 알림을 통해 골프장에서 대구에서 발생한 상가 천장 붕괴 사고를 보고 받고 인명 구조와 신속한 사고 수습을 지시했다고 밝혔습니다. 이 대통령이 김종철 경찰청장 직무대행과 직접 통화해 인명 피해 상황과 사망자 여부, 부상 정도 등을 자세히 보고받았다고 밝혔습니다.\n\n이 대통령은 관계기관에 인명 구조에 총력을 다하고, 신속하고 안전하게 사고를 수습하도록 지시했습니다. 청와대는 대통령의 비공개 일정과 사적인 휴일 일정은 공개하지 않는 것이 원칙이지만, 이번에는 비공개 휴일 일정을 둘러싼 불필요한 논쟁을 방지하기 위해 이례적으로 공개했다고 설명했습니다. 그러면서 대통령의 사적인 비공개 일정을 정치적 공방에 활용하는 데 유감을 표했습니다.",
+   "press": "kbc광주방송",
+   "source": "kbc광주방송",
+   "link": "https://n.news.naver.com/article/660/0000118829",
    "selection": "정치",
-   "feed": "뉴스 02. \"1,300원짜리 브라질 계란 수입해 100원에 팔아\"… 장동혁, \"차액은 혈세로.. 누굴 배 불리나\"\n\n장동혁 대표, SNS 통해 브라질산 계란 고가 수입 논란 맹비난. \"미국산 464원인데 브라질산 무려 1,300원, 현지 가격의 6배\" 장동혁 대표가 정부의 브라질산 계란 수입을 두고 막대한 혈세가 낭비되고 있다며 이재명 대통령을 향해 강도 높은 비판을 쏟아냈습니다.\n\n장 대표는 자신의 페이스북에 \"계란 수입까지 '좌파 커넥션'?\"이라는 제목의 글을 올리고, 터무니없이 비싼 수입 단가와 세금 투입 문제를 집중적으로 지적했습니다. 장 대표는 이번 브라질산 계란 수입 결정의 배경에 이념적 '커넥션'이 있는 것 아니냐는 의혹도 제기했습니다. 그는 \"지난 2월, 이재명 대통령과 브라질 룰라 대통령 정상회담 직후 브라질 계란 수입 절차가 시작됐고, 7월 이 대통령 브라질 방문 직후 브라질산 계란 112만 개가 수입됐다\"고 시기를 짚었습니다.\n\n출처: CJB청주방송 / https://n.news.naver.com/article/655/0000033114"
+   "feed": "뉴스 02. 靑 \"李대통령, 태릉골프장서 대구 상가 붕괴 사고 보고 받았다\" 확인...'비공개 일정 정치공방 활용' 유감\n\n이재명 대통령이 휴일인 지난 10일 가족과 함께 태릉 골프장을 찾은 사실을 밝히고 대통령 비공개 일정을 정치공방에 활용하는 데 유감의 뜻을 나타냈습니다. 청와대 대변인실은 11일 알림을 통해 골프장에서 대구에서 발생한 상가 천장 붕괴 사고를 보고 받고 인명 구조와 신속한 사고 수습을 지시했다고 밝혔습니다. 이 대통령이 김종철 경찰청장 직무대행과 직접 통화해 인명 피해 상황과 사망자 여부, 부상 정도 등을 자세히 보고받았다고 밝혔습니다.\n\n이 대통령은 관계기관에 인명 구조에 총력을 다하고, 신속하고 안전하게 사고를 수습하도록 지시했습니다. 청와대는 대통령의 비공개 일정과 사적인 휴일 일정은 공개하지 않는 것이 원칙이지만, 이번에는 비공개 휴일 일정을 둘러싼 불필요한 논쟁을 방지하기 위해 이례적으로 공개했다고 설명했습니다. 그러면서 대통령의 사적인 비공개 일정을 정치적 공방에 활용하는 데 유감을 표했습니다.\n\n출처: kbc광주방송 / https://n.news.naver.com/article/660/0000118829"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/04.png",
-   "pngBytes": 2220023,
-   "title": "요즘 골프장 ‘곡소리’ 나는 이유…‘사치성 재산’ 세금 폭탄 던진 정부 [권준영의 머니볼]",
-   "summary": "연구소는 2025년 회원제 골프장 이용객의 개별소비세 납부액을 3311억원으로 추산했다. 연구소는 18홀 회원제 골프장의 재산세가 2024년 12억4000만원에서…",
-   "summary_long": "10일 한국레저산업연구소(소장 서천범)에 따르면 회원제 골프장의 2025년 세금 부담액은 재산세 2300억원, 부가가치세 2712억원, 법인세 958억원 등 총 5970억원으로 추산됐다. 연구소는 2025년 회원제 골프장 이용객의 개별소비세 납부액을 3311억원으로 추산했다. 연구소는 이용객의 세 부담이 회원제 골프장의 가격 경쟁력에도 영향을 미친다고 분석했다.\n\n연구소는 인상안이 시행되면 회원제 골프장의 재산세 부담이 더 커질 것으로 전망했다. 연구소는 18홀 회원제 골프장의 재산세가 2024년 12억4000만원에서 2027년 17억7000만원으로 늘어날 것으로 추산했다. 그런데 2010년대 중반 이후 회원모집 혜택이 희석된 회원제 골프장에 대해 징벌적인 재산세를 부과하는 것이 맞는지 재고해봐야 한다”며 “정부는 회원제 골프장에 대한 징벌적인 재산세율을 점진적으로 낮춰야 한다”고 말했다.",
-   "press": "세계일보",
-   "source": "세계일보",
-   "link": "https://n.news.naver.com/article/022/0004165444",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/04.png",
+   "pngBytes": 1694130,
+   "title": "이천 고깃집서 16만원 '먹튀' 신고…경찰, 신원 확인 중",
+   "summary": "경기 이천시 한 고깃집에서 손님 일행이 16만원 상당의 음식을 먹은 뒤 계산하지 않고 자리를 떠났다는 신고가 접수돼 경찰이 수사에 나섰다. A씨는 경찰에 신고한 뒤…",
+   "summary_long": "경기 이천시 한 고깃집에서 손님 일행이 16만원 상당의 음식을 먹은 뒤 계산하지 않고 자리를 떠났다는 신고가 접수돼 경찰이 수사에 나섰다. 자신을 음식점 업주라고 밝힌 작성자 A씨는 지난 10일 한 온라인 커뮤니티에 '경기 이천에서 말로만 듣던 먹튀 당했어요'라는 제목의 게시글과 함께 폐쇄회로(CC)TV 사진을 올렸다. A씨는 지난 2일 이천터미널 인근 음식점을 찾은 해당 일행이 약 16만원어치 음식을 먹고 계산하지 않은 채 나갔다고 주장했다.\n\nA씨는 경찰에 신고한 뒤 현장에 남은 술병과 술잔을 증거물로 제출했으며 음식점과 인근 점포의 CCTV 영상도 경찰에 전달했다고 밝혔다. 사건을 접수한 경찰은 음식점에서 식사한 일행이 남성 4명과 여성 2명 등 6명인 것으로 파악하고 이들의 신원을 확인하고 있다. 경찰은 현장에서 확보한 술병과 술잔을 국립과학수사연구원에 보내 지문 감식을 의뢰하는 한편 CCTV를 토대로 이동 동선을 추적 중이다．.",
+   "press": "뉴시스",
+   "source": "뉴시스",
+   "link": "https://n.news.naver.com/article/003/0014245028",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 요즘 골프장 ‘곡소리’ 나는 이유…‘사치성 재산’ 세금 폭탄 던진 정부 [권준영의 머니볼]\n\n10일 한국레저산업연구소(소장 서천범)에 따르면 회원제 골프장의 2025년 세금 부담액은 재산세 2300억원, 부가가치세 2712억원, 법인세 958억원 등 총 5970억원으로 추산됐다. 연구소는 2025년 회원제 골프장 이용객의 개별소비세 납부액을 3311억원으로 추산했다. 연구소는 이용객의 세 부담이 회원제 골프장의 가격 경쟁력에도 영향을 미친다고 분석했다.\n\n연구소는 인상안이 시행되면 회원제 골프장의 재산세 부담이 더 커질 것으로 전망했다. 연구소는 18홀 회원제 골프장의 재산세가 2024년 12억4000만원에서 2027년 17억7000만원으로 늘어날 것으로 추산했다. 그런데 2010년대 중반 이후 회원모집 혜택이 희석된 회원제 골프장에 대해 징벌적인 재산세를 부과하는 것이 맞는지 재고해봐야 한다”며 “정부는 회원제 골프장에 대한 징벌적인 재산세율을 점진적으로 낮춰야 한다”고 말했다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004165444"
+   "feed": "뉴스 03. 이천 고깃집서 16만원 '먹튀' 신고…경찰, 신원 확인 중\n\n경기 이천시 한 고깃집에서 손님 일행이 16만원 상당의 음식을 먹은 뒤 계산하지 않고 자리를 떠났다는 신고가 접수돼 경찰이 수사에 나섰다. 자신을 음식점 업주라고 밝힌 작성자 A씨는 지난 10일 한 온라인 커뮤니티에 '경기 이천에서 말로만 듣던 먹튀 당했어요'라는 제목의 게시글과 함께 폐쇄회로(CC)TV 사진을 올렸다. A씨는 지난 2일 이천터미널 인근 음식점을 찾은 해당 일행이 약 16만원어치 음식을 먹고 계산하지 않은 채 나갔다고 주장했다.\n\nA씨는 경찰에 신고한 뒤 현장에 남은 술병과 술잔을 증거물로 제출했으며 음식점과 인근 점포의 CCTV 영상도 경찰에 전달했다고 밝혔다. 사건을 접수한 경찰은 음식점에서 식사한 일행이 남성 4명과 여성 2명 등 6명인 것으로 파악하고 이들의 신원을 확인하고 있다. 경찰은 현장에서 확보한 술병과 술잔을 국립과학수사연구원에 보내 지문 감식을 의뢰하는 한편 CCTV를 토대로 이동 동선을 추적 중이다．.\n\n출처: 뉴시스 / https://n.news.naver.com/article/003/0014245028"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/05.png",
-   "pngBytes": 1949518,
-   "title": "\"못 보던 3cm 바퀴벌레가 바글\"...부산서 외래종 정착 '발칵'",
-   "summary": "10일 학계에 따르면 부산대 생명시스템연구소와 경상국립대 식물의학과 공동 연구진은 부산 감만항 일대에서 외래종인 '투르키스탄 바퀴'의 국내 정착 사실을 확인했다. 서로…",
-   "summary_long": "성충뿐 아니라 어린 개체와 알집까지 발견되면서 일시적 유입을 넘어 국내에서 번식하고 있다는 근거가 확보됐다. 10일 학계에 따르면 부산대 생명시스템연구소와 경상국립대 식물의학과 공동 연구진은 부산 감만항 일대에서 외래종인 '투르키스탄 바퀴'(Periplaneta lateralis)의 국내 정착 사실을 확인했다. 투르키스탄 바퀴는 미국과 일본, 러시아, 유럽 등에서도 유입 사례가 확인된 도시 해충이다.\n\n서로 다른 성장 단계의 개체가 같은 지역에서 발견된 만큼 국내 환경에서 번식하고 있을 가능성에 무게가 실린다. 연구진은 부산의 비교적 온화한 겨울 기후가 외래종의 정착에 영향을 미쳤을 가능성에 주목했다. 감만항 바깥 공원에서도 투르키스탄 바퀴가 발견됐지만 현재 분포 범위가 어디까지인지는 파악되지 않았다.",
-   "press": "머니투데이",
-   "source": "머니투데이",
-   "link": "https://n.news.naver.com/article/008/0005424355",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/05.png",
+   "pngBytes": 2680052,
+   "title": "밤길 달리다 추락해 사망…차량 동호회 이동 중 사고",
+   "summary": "경찰과 소방 당국에 따르면 어제 밤 10시 50분쯤 안성 양성면 45번 국도에서 용인 방향으로 주행하던 K3 승용차가 도로 아래 비탈길로 추락했다는 신고가 접수됐습니다.…",
+   "summary_long": "경기 안성의 한 국도에서 밤길을 달리던 승용차가 비탈길로 추락해 30대 운전자가 숨졌습니다. 경찰과 소방 당국에 따르면 어제(10일) 밤 10시 50분쯤 안성 양성면 45번 국도에서 용인 방향으로 주행하던 K3 승용차가 도로 아래 비탈길로 추락했다는 신고가 접수됐습니다. A씨는 사고 발생 1시간여 전 자동차 동호회 활동으로 안성 양성면의 한 카페에서 다른 회원들과 모임을 마친 뒤 다음 집결지인 용인의 한 카페로 이동하던 중 변을 당한 것으로 파악됐습니다.\n\n다른 회원들은 A씨가 약속 장소에 도착하지 않고 연락도 닿지 않자 그의 이동 경로를 확인하던 과정에서 사고 현장에서 중앙분리대 등이 파손된 것을 발견해 신고했습니다. 경찰은 A씨가 좌측으로 굽은 편도 2차로 도로를 주행하다 중앙분리대를 들이받은 뒤 우측으로 튕겨 나가 가드레일을 충격하고 약 5m 아래 비탈길로 추락한 것으로 보고 있습니다. 경찰은 사고 현장에서 발견된 급제동 흔적(스키드마크)과 차량 블랙박스 영상 등을 토대로 A씨가 제한속도인 시속 80㎞를 초과해 주행했을 가능성을 염두에 두고 정확한 사고 경위를 조사하고 있습니다.",
+   "press": "SBS",
+   "source": "SBS",
+   "link": "https://n.news.naver.com/article/055/0001394514",
    "selection": "경제·시사",
-   "feed": "뉴스 04. \"못 보던 3cm 바퀴벌레가 바글\"...부산서 외래종 정착 '발칵'\n\n성충뿐 아니라 어린 개체와 알집까지 발견되면서 일시적 유입을 넘어 국내에서 번식하고 있다는 근거가 확보됐다. 10일 학계에 따르면 부산대 생명시스템연구소와 경상국립대 식물의학과 공동 연구진은 부산 감만항 일대에서 외래종인 '투르키스탄 바퀴'(Periplaneta lateralis)의 국내 정착 사실을 확인했다. 투르키스탄 바퀴는 미국과 일본, 러시아, 유럽 등에서도 유입 사례가 확인된 도시 해충이다.\n\n서로 다른 성장 단계의 개체가 같은 지역에서 발견된 만큼 국내 환경에서 번식하고 있을 가능성에 무게가 실린다. 연구진은 부산의 비교적 온화한 겨울 기후가 외래종의 정착에 영향을 미쳤을 가능성에 주목했다. 감만항 바깥 공원에서도 투르키스탄 바퀴가 발견됐지만 현재 분포 범위가 어디까지인지는 파악되지 않았다.\n\n출처: 머니투데이 / https://n.news.naver.com/article/008/0005424355"
+   "feed": "뉴스 04. 밤길 달리다 추락해 사망…차량 동호회 이동 중 사고\n\n경기 안성의 한 국도에서 밤길을 달리던 승용차가 비탈길로 추락해 30대 운전자가 숨졌습니다. 경찰과 소방 당국에 따르면 어제(10일) 밤 10시 50분쯤 안성 양성면 45번 국도에서 용인 방향으로 주행하던 K3 승용차가 도로 아래 비탈길로 추락했다는 신고가 접수됐습니다. A씨는 사고 발생 1시간여 전 자동차 동호회 활동으로 안성 양성면의 한 카페에서 다른 회원들과 모임을 마친 뒤 다음 집결지인 용인의 한 카페로 이동하던 중 변을 당한 것으로 파악됐습니다.\n\n다른 회원들은 A씨가 약속 장소에 도착하지 않고 연락도 닿지 않자 그의 이동 경로를 확인하던 과정에서 사고 현장에서 중앙분리대 등이 파손된 것을 발견해 신고했습니다. 경찰은 A씨가 좌측으로 굽은 편도 2차로 도로를 주행하다 중앙분리대를 들이받은 뒤 우측으로 튕겨 나가 가드레일을 충격하고 약 5m 아래 비탈길로 추락한 것으로 보고 있습니다. 경찰은 사고 현장에서 발견된 급제동 흔적(스키드마크)과 차량 블랙박스 영상 등을 토대로 A씨가 제한속도인 시속 80㎞를 초과해 주행했을 가능성을 염두에 두고 정확한 사고 경위를 조사하고 있습니다.\n\n출처: SBS / https://n.news.naver.com/article/055/0001394514"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/06.png",
-   "pngBytes": 1952145,
-   "title": "[속보] 나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나왔는데, 李대통령은 말 한마디 없어”",
-   "summary": "나경원 국민의힘 의원이 강화도 해수욕장 인근에서 북한 지뢰가 발견된 것과 관련해 “이재명 대통령은 도대체 어느 나라 대통령인가”라며 정부의 대북 대응을 비판했다. 나…",
-   "summary_long": "나경원 국민의힘 의원이 강화도 해수욕장 인근에서 북한 지뢰가 발견된 것과 관련해 “이재명 대통령은 도대체 어느 나라 대통령인가”라며 정부의 대북 대응을 비판했다. 나 의원은 10일 자신의 페이스북에 “유실이든 매설이든 북한 지뢰에 한마디도 못하는 이재명 정부”라며 이 같이 밝혔다. 나 의원은 “우리 국민이 주말이면 돗자리를 펴고 아이들이 모래장난을 치는 대한민국 바닷가 한가운데서 사람의 목숨을 앗아가는 살상 무기가 튀어나왔다”며 “환경정비 근로자가 아니었거나 호기심 많은 어린아이가 먼저 발견했다면 상상조차 하기 싫은 대참사가 벌어질 뻔했다”고 지적했다.\n\n단 한마디도 없다”며 “불과 20일 전 DMZ에서 북한이 매설한 지뢰에 우리 수색대대장과 장병들이 발목을 잃었는데도 정권은 북한에 93억원 어치 의료지원을 하겠다고 매달렸고, 돌아온 것은 조롱과 매도뿐이었다”고 지적했다. 그는 이어 “국민은 불안을 넘어 분노하고 있다”며 “우리 가족이 바닷가에서 지뢰를 밟을지 모른다는 불안 속에 살고 있는데, 대통령에게서는 경고도, 대책도 들리지 않는다”고 비판했다. 나 의원은 이에 이 대통령에게 북한 도발에 대한 강력한 규탄 메시지 발표 및 군 경계태세 실패 사과, 북한에 대한 공식 항의 및 재발 방지 약속 요구, 접경 해안 전역 지뢰 탐색 및 안전 대책 마련, 유엔군사령부를 통한 정전협정 위반 문제 제기 등을 하라고 촉구했다.",
-   "press": "헤럴드경제",
-   "source": "헤럴드경제",
-   "link": "https://n.news.naver.com/article/016/0002707517",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/06.png",
+   "pngBytes": 1903302,
+   "title": "나경원 “北지뢰 공격, 대구 상가 천장 붕괴에도 골프 치고 앉아있는 李대통령⋯자진하야 하고 특검 수사 받으라”",
+   "summary": "이재명 대통령이 대구 상가 천장 붕괴 사고 당시 가족들과 골프장에 있었다는 청와대의 발표에 대해 국민의힘 나경원 의원이 11일 “국민 생명·안전과 직결된 재난, 안보…",
+   "summary_long": "이재명 대통령이 대구 상가 천장 붕괴 사고 당시 가족들과 골프장에 있었다는 청와대의 발표에 대해 국민의힘 나경원 의원이 11일 “국민 생명·안전과 직결된 재난, 안보 위기마다 골프 중독”이라며 강하게 비판했다. 나 의원은 이날 자신의 페이스북을 통해 “이 대통령, 더불어민주당과 당신들이 상대에게 들이대왔던 기준대로라면 자진하야 하고 특검 수사 받으라”면서 이 같이 말했다. 앞서 청와대는 이날 대변인실 명의 공지를 통해 “이 대통령은 전날 가족과 함께 태릉 골프장을 찾았다”며 “현장에서 대구 상가 천장 붕괴 사고를 보고받았다”고 설명했다.\n\n국민의힘 주진우 의원이 오후 국회에서 ‘이 대통령이 사고 당시 골프를 치고 있었다’는 내용의 기자회견을 하겠다고 예고하자, 이례적으로 골프를 친 사실을 선제적으로 공개한 것이다. 청와대는 상당수의 부상자가 발생한 사고를 이 대통령의 골프 일정과 연관 짓는 것은 정치 공세에 이용하려는 의도가 다분하다고 보고 이전과 다르게 선제적인 대응에 나선 것으로 풀이된다. 10월10일 분 단위, 초 단위로 붕괴 사고에 어떻게 대응했는지 밝히고, 해군 장병 실종 때 누구와 골프를 쳤고 골프비는 특수활동비로 냈는지 국민 앞에 설명하라”고 요구했다.",
+   "press": "강원일보",
+   "source": "강원일보",
+   "link": "https://n.news.naver.com/article/087/0001222939",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. [속보] 나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나왔는데, 李대통령은 말 한마디 없어”\n\n나경원 국민의힘 의원이 강화도 해수욕장 인근에서 북한 지뢰가 발견된 것과 관련해 “이재명 대통령은 도대체 어느 나라 대통령인가”라며 정부의 대북 대응을 비판했다. 나 의원은 10일 자신의 페이스북에 “유실이든 매설이든 북한 지뢰에 한마디도 못하는 이재명 정부”라며 이 같이 밝혔다. 나 의원은 “우리 국민이 주말이면 돗자리를 펴고 아이들이 모래장난을 치는 대한민국 바닷가 한가운데서 사람의 목숨을 앗아가는 살상 무기가 튀어나왔다”며 “환경정비 근로자가 아니었거나 호기심 많은 어린아이가 먼저 발견했다면 상상조차 하기 싫은 대참사가 벌어질 뻔했다”고 지적했다.\n\n단 한마디도 없다”며 “불과 20일 전 DMZ에서 북한이 매설한 지뢰에 우리 수색대대장과 장병들이 발목을 잃었는데도 정권은 북한에 93억원 어치 의료지원을 하겠다고 매달렸고, 돌아온 것은 조롱과 매도뿐이었다”고 지적했다. 그는 이어 “국민은 불안을 넘어 분노하고 있다”며 “우리 가족이 바닷가에서 지뢰를 밟을지 모른다는 불안 속에 살고 있는데, 대통령에게서는 경고도, 대책도 들리지 않는다”고 비판했다. 나 의원은 이에 이 대통령에게 북한 도발에 대한 강력한 규탄 메시지 발표 및 군 경계태세 실패 사과, 북한에 대한 공식 항의 및 재발 방지 약속 요구, 접경 해안 전역 지뢰 탐색 및 안전 대책 마련, 유엔군사령부를 통한 정전협정 위반 문제 제기 등을 하라고 촉구했다.\n\n출처: 헤럴드경제 / https://n.news.naver.com/article/016/0002707517"
+   "feed": "뉴스 05. 나경원 “北지뢰 공격, 대구 상가 천장 붕괴에도 골프 치고 앉아있는 李대통령⋯자진하야 하고 특검 수사 받으라”\n\n이재명 대통령이 대구 상가 천장 붕괴 사고 당시 가족들과 골프장에 있었다는 청와대의 발표에 대해 국민의힘 나경원 의원이 11일 “국민 생명·안전과 직결된 재난, 안보 위기마다 골프 중독”이라며 강하게 비판했다. 나 의원은 이날 자신의 페이스북을 통해 “이 대통령, 더불어민주당과 당신들이 상대에게 들이대왔던 기준대로라면 자진하야 하고 특검 수사 받으라”면서 이 같이 말했다. 앞서 청와대는 이날 대변인실 명의 공지를 통해 “이 대통령은 전날 가족과 함께 태릉 골프장을 찾았다”며 “현장에서 대구 상가 천장 붕괴 사고를 보고받았다”고 설명했다.\n\n국민의힘 주진우 의원이 오후 국회에서 ‘이 대통령이 사고 당시 골프를 치고 있었다’는 내용의 기자회견을 하겠다고 예고하자, 이례적으로 골프를 친 사실을 선제적으로 공개한 것이다. 청와대는 상당수의 부상자가 발생한 사고를 이 대통령의 골프 일정과 연관 짓는 것은 정치 공세에 이용하려는 의도가 다분하다고 보고 이전과 다르게 선제적인 대응에 나선 것으로 풀이된다. 10월10일 분 단위, 초 단위로 붕괴 사고에 어떻게 대응했는지 밝히고, 해군 장병 실종 때 누구와 골프를 쳤고 골프비는 특수활동비로 냈는지 국민 앞에 설명하라”고 요구했다.\n\n출처: 강원일보 / https://n.news.naver.com/article/087/0001222939"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/07.png",
-   "pngBytes": 1948811,
-   "title": "[속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”",
-   "summary": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 감사 서한을 보낸 것을 두고 더불어민주당이 강력 비판하자, 나 의원이 정면 반박에 나서면서 정국이…",
-   "summary_long": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 감사 서한을 보낸 것을 두고 더불어민주당이 강력 비판하자, 나 의원이 정면 반박에 나서면서 정국이 냉각되는 모양새다. 이번 공방은 최근 우크라이나 측이 한국 정부와의 비공개 약속을 깨고 북한군 포로 2명의 한국 송환 사실을 공개하면서 시작됐다. 우리 정부는 포로와 남겨진 가족의 신변 안전을 이유로 조용한 송환을 추진했으나, 우크라이나 측의 공개로 외교적 마찰이 발생해 박기창 주우크라이나 대사를 소환 조치하는 등 강경 대응에 나선 상태다.\n\n이러한 상황에서 나 의원은 페이스북을 통해 젤렌스키 대통령에게 “포로들의 자유의사를 존중해 한국행을 허용한 결정을 환영하며 깊은 감사를 표한다”는 내용의 서한을 전달했다고 밝혔다. 김병주 민주당 의원 역시 “배은망덕한 젤렌스키에게 감사 서한을 보낸 것은 나라를 팔아먹은 행위”라며 “매국 행위를 즉각 중단하라”고 직격했다. 나 의원은 페이스북 글을 통해 “동포를 구출해 준 국가에 감사 서한을 보낸 것을 두고 매국을 운운하느냐”며 “민주당 의원들은 북한 조선노동당 의원들인가”라고 강하게 반발했다.",
-   "press": "세계일보",
-   "source": "세계일보",
-   "link": "https://n.news.naver.com/article/022/0004165513",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/07.png",
+   "pngBytes": 2197551,
+   "title": "국힘 \"붕괴사고 당일 황제골프\"...청 \"현장서 보고받고 신속지시\"",
+   "summary": "주진우 \"이 대통령, 대구 상가 사고 당일 황제골프\" 청와대 \"이 대통령, 가족과 함께 골프장 일정\"",
+   "summary_long": "주진우 \"이 대통령, 대구 상가 사고 당일 황제골프\" 청와대 \"이 대통령, 가족과 함께 골프장 일정\" 국민의힘 주진우 의원이 대구 상가 천장 붕괴사고가 있었던 어제(10일) 이재명 대통령이 황제 골프를 쳤다며 관련 영상과 사진을 공개했습니다.\n\n청와대는 사고 당일 이 대통령이 골프장에 있었던 건 사실이지만 현장 보고와 신속한 지시가 있었다고 강조했습니다. 청와대는 불필요한 논쟁을 방지하기 위해서라며, 대통령의 사적인 비공개 일정을 정치적 공방에 활용하는 것에 유감을 표한다고도 밝혔습니다. 이에 대해 주 의원은 대구 사고 당시 1차 구조작업이 완료되고도 2시간이나 지나서야 청와대의 입장이 나왔다며 초 단위 일정을 공개해야 한다고 촉구했습니다.",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002417298",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. [속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”\n\n나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 감사 서한을 보낸 것을 두고 더불어민주당이 강력 비판하자, 나 의원이 정면 반박에 나서면서 정국이 냉각되는 모양새다. 이번 공방은 최근 우크라이나 측이 한국 정부와의 비공개 약속을 깨고 북한군 포로 2명의 한국 송환 사실을 공개하면서 시작됐다. 우리 정부는 포로와 남겨진 가족의 신변 안전을 이유로 조용한 송환을 추진했으나, 우크라이나 측의 공개로 외교적 마찰이 발생해 박기창 주우크라이나 대사를 소환 조치하는 등 강경 대응에 나선 상태다.\n\n이러한 상황에서 나 의원은 페이스북을 통해 젤렌스키 대통령에게 “포로들의 자유의사를 존중해 한국행을 허용한 결정을 환영하며 깊은 감사를 표한다”는 내용의 서한을 전달했다고 밝혔다. 김병주 민주당 의원 역시 “배은망덕한 젤렌스키에게 감사 서한을 보낸 것은 나라를 팔아먹은 행위”라며 “매국 행위를 즉각 중단하라”고 직격했다. 나 의원은 페이스북 글을 통해 “동포를 구출해 준 국가에 감사 서한을 보낸 것을 두고 매국을 운운하느냐”며 “민주당 의원들은 북한 조선노동당 의원들인가”라고 강하게 반발했다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004165513"
+   "feed": "뉴스 06. 국힘 \"붕괴사고 당일 황제골프\"...청 \"현장서 보고받고 신속지시\"\n\n주진우 \"이 대통령, 대구 상가 사고 당일 황제골프\" 청와대 \"이 대통령, 가족과 함께 골프장 일정\" 국민의힘 주진우 의원이 대구 상가 천장 붕괴사고가 있었던 어제(10일) 이재명 대통령이 황제 골프를 쳤다며 관련 영상과 사진을 공개했습니다.\n\n청와대는 사고 당일 이 대통령이 골프장에 있었던 건 사실이지만 현장 보고와 신속한 지시가 있었다고 강조했습니다. 청와대는 불필요한 논쟁을 방지하기 위해서라며, 대통령의 사적인 비공개 일정을 정치적 공방에 활용하는 것에 유감을 표한다고도 밝혔습니다. 이에 대해 주 의원은 대구 사고 당시 1차 구조작업이 완료되고도 2시간이나 지나서야 청와대의 입장이 나왔다며 초 단위 일정을 공개해야 한다고 촉구했습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002417298"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/08.png",
-   "pngBytes": 2112845,
-   "title": "'젤렌스키에 감사서한' 보낸 나경원…\"매국\" 지적에 \"조선노동당인가\"",
-   "summary": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 북한군 포로 2명의 한국 송환에 대해 감사 서한을 보낸 것 등을 놓고 더불어민주당과 충돌했습니다. 이용우…",
-   "summary_long": "나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 북한군 포로 2명의 한국 송환에 대해 감사 서한을 보낸 것 등을 놓고 더불어민주당과 충돌했습니다. 이용우 민주당 대변인은 오늘(10일) 서면브리핑에서 나 의원을 향해 \"비공개 약속을 어긴 우크라이나는 두둔하면서, 그 책임을 묻는 우리 정부에는 북한군 포로를 사지에 버리려 한다는 터무니없는 누명을 씌웠다\"고 꼬집었습니다. 이 대변인은 \"국제기준에 따라 당사자와 가족의 신변을 보호하려는 요구까지 '친북'으로 매도하는 무책임한 선동을 중단하라\"며 \"포로들의 '생명줄'을 걱정한다면서 정작 그 안전을 지킬 약속은 외면하는 것이 나 의원이 말하는 인권이냐\"고 일갈했습니다.\n\n같은 당 김병주 의원은 어제(9일) 페이스북에서 나 의원을 향해 \"배은망덕 대한민국을 모독한 젤렌스키에 감사 서한이라니 어느 나라 국회의원인가\"라면서 \"개인의 사욕을 위해 나라 팔아먹은 이완용과 무엇이 다른가. 이에 대해 나 의원은 오늘 잇따라 페이스북을 통해 \"북한군 포로송환 우크라이나 대통령에 대해 감사 서한을 보내니 민주당 의원들이 자폭부대처럼 앞다투어 달려든다\"며 \"대한민국 의원들 맞나. 나 의원은 북한군 포로 송환 공개에 대한 한국 정부의 대응으로 박기창 주우크라이나 대사가 귀국했다는 뉴스를 공유하고 \"외교적 자해 행위\"라며 \"이 기막힌 외교 갈등은 오직 북한 김정은을 향한 보여주기밖에는 설명이 되지 않는다\"라고 지적했습니다.",
-   "press": "MBN",
-   "source": "MBN",
-   "link": "https://n.news.naver.com/article/057/0001972743",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/08.png",
+   "pngBytes": 1851418,
+   "title": "이재명 대통령의 SNS, 전선을 넓히다",
+   "summary": "이재명 대통령은 10일 X에 과거 노무현 대통령의 인터넷 활동이 비판받았던 일을 꺼내며 \"정치와 권력은 낮은 곳으로 향해야 한다\"고 강조했다. 유승민 전 의원도 \"이…",
+   "summary_long": "대통령의 말이, 대통령의 전선을 만들고 있다. 이재명 대통령은 10일 X(엑스·옛 트위터)에 과거 노무현 대통령의 인터넷 활동이 비판받았던 일을 꺼내며 \"정치와 권력은 낮은 곳으로 향해야 한다\"고 강조했다. 장동혁 국민의힘 대표는 11일 페이스북에 \"여전히 국민이 왜 분노하는지, 그 이유조차 모르고 있다\"며 \"이재명 대통령, 자기 편 이야기만 열심히 퍼나르고 있다.\n\n유승민 전 의원도 \"이 대통령 SNS의 진짜 문제는 다른 데 있다\"며 \"실패한 정책을 우기는 SNS다. 한동훈 무소속 의원은 관련 기사를 자신의 페이스북에 공유하며 \"권력형 성범죄를 범하고 피해자에게 사과도 안하고 극단적 선택을 한 박원순 전 서울시장을 대한민국 대통령이 공개적으로 추앙하면 안 된다\"고 지적했다. \"정치와 권력은 낮은곳으로...\"이 대통령의 X 계속된다 https://omn.kr/2k2m0.",
+   "press": "오마이뉴스",
+   "source": "오마이뉴스",
+   "link": "https://n.news.naver.com/article/047/0002531785",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. '젤렌스키에 감사서한' 보낸 나경원…\"매국\" 지적에 \"조선노동당인가\"\n\n나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 북한군 포로 2명의 한국 송환에 대해 감사 서한을 보낸 것 등을 놓고 더불어민주당과 충돌했습니다. 이용우 민주당 대변인은 오늘(10일) 서면브리핑에서 나 의원을 향해 \"비공개 약속을 어긴 우크라이나는 두둔하면서, 그 책임을 묻는 우리 정부에는 북한군 포로를 사지에 버리려 한다는 터무니없는 누명을 씌웠다\"고 꼬집었습니다. 이 대변인은 \"국제기준에 따라 당사자와 가족의 신변을 보호하려는 요구까지 '친북'으로 매도하는 무책임한 선동을 중단하라\"며 \"포로들의 '생명줄'을 걱정한다면서 정작 그 안전을 지킬 약속은 외면하는 것이 나 의원이 말하는 인권이냐\"고 일갈했습니다.\n\n같은 당 김병주 의원은 어제(9일) 페이스북에서 나 의원을 향해 \"배은망덕 대한민국을 모독한 젤렌스키에 감사 서한이라니 어느 나라 국회의원인가\"라면서 \"개인의 사욕을 위해 나라 팔아먹은 이완용과 무엇이 다른가. 이에 대해 나 의원은 오늘 잇따라 페이스북을 통해 \"북한군 포로송환 우크라이나 대통령에 대해 감사 서한을 보내니 민주당 의원들이 자폭부대처럼 앞다투어 달려든다\"며 \"대한민국 의원들 맞나. 나 의원은 북한군 포로 송환 공개에 대한 한국 정부의 대응으로 박기창 주우크라이나 대사가 귀국했다는 뉴스를 공유하고 \"외교적 자해 행위\"라며 \"이 기막힌 외교 갈등은 오직 북한 김정은을 향한 보여주기밖에는 설명이 되지 않는다\"라고 지적했습니다.\n\n출처: MBN / https://n.news.naver.com/article/057/0001972743"
+   "feed": "뉴스 07. 이재명 대통령의 SNS, 전선을 넓히다\n\n대통령의 말이, 대통령의 전선을 만들고 있다. 이재명 대통령은 10일 X(엑스·옛 트위터)에 과거 노무현 대통령의 인터넷 활동이 비판받았던 일을 꺼내며 \"정치와 권력은 낮은 곳으로 향해야 한다\"고 강조했다. 장동혁 국민의힘 대표는 11일 페이스북에 \"여전히 국민이 왜 분노하는지, 그 이유조차 모르고 있다\"며 \"이재명 대통령, 자기 편 이야기만 열심히 퍼나르고 있다.\n\n유승민 전 의원도 \"이 대통령 SNS의 진짜 문제는 다른 데 있다\"며 \"실패한 정책을 우기는 SNS다. 한동훈 무소속 의원은 관련 기사를 자신의 페이스북에 공유하며 \"권력형 성범죄를 범하고 피해자에게 사과도 안하고 극단적 선택을 한 박원순 전 서울시장을 대한민국 대통령이 공개적으로 추앙하면 안 된다\"고 지적했다. \"정치와 권력은 낮은곳으로...\"이 대통령의 X 계속된다 https://omn.kr/2k2m0.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002531785"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-11/09.png",
-   "pngBytes": 1345599
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-12/09.png",
+   "pngBytes": 1346366
   }
  ],
- "caption": "📰 10월 11일 오늘의 뉴스\n\n1. 안철수 \"인천 해수욕장 인근서 北 지뢰 발견…대통령 SNS에는 '북(北)' 한글자 없어\"\n   안철수 국민의힘 의원이 이재명 대통령을 향해 \"북한을 향한 굴종 광대극을 즉각 멈춰야한다\"고 말했다. 안 의원은 그러면서 \"이 대통령은 지난 5일 합참의 최종 발표 이후…\n2. \"1,300원짜리 브라질 계란 수입해 100원에 팔아\"… 장동혁, \"차액은 혈세로.. 누굴 배 불리나\"\n   장동혁 대표, SNS 통해 브라질산 계란 고가 수입 논란 맹비난. 장동혁 대표가 정부의 브라질산 계란 수입을 두고 막대한 혈세가 낭비되고 있다며 이재명 대통령을 향해…\n3. 요즘 골프장 ‘곡소리’ 나는 이유…‘사치성 재산’ 세금 폭탄 던진 정부 [권준영의 머니볼]\n   연구소는 2025년 회원제 골프장 이용객의 개별소비세 납부액을 3311억원으로 추산했다. 연구소는 18홀 회원제 골프장의 재산세가 2024년 12억4000만원에서…\n4. \"못 보던 3cm 바퀴벌레가 바글\"...부산서 외래종 정착 '발칵'\n   10일 학계에 따르면 부산대 생명시스템연구소와 경상국립대 식물의학과 공동 연구진은 부산 감만항 일대에서 외래종인 '투르키스탄 바퀴'의 국내 정착 사실을 확인했다. 서로…\n5. [속보] 나경원 “대한민국 바닷가 한가운데 살상 무기 튀어나왔는데, 李대통령은 말 한마디 없어”\n   나경원 국민의힘 의원이 강화도 해수욕장 인근에서 북한 지뢰가 발견된 것과 관련해 “이재명 대통령은 도대체 어느 나라 대통령인가”라며 정부의 대북 대응을 비판했다. 나…\n6. [속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”\n   나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 감사 서한을 보낸 것을 두고 더불어민주당이 강력 비판하자, 나 의원이 정면 반박에 나서면서 정국이…\n7. '젤렌스키에 감사서한' 보낸 나경원…\"매국\" 지적에 \"조선노동당인가\"\n   나경원 국민의힘 의원이 볼로디미르 젤렌스키 우크라이나 대통령에게 북한군 포로 2명의 한국 송환에 대해 감사 서한을 보낸 것 등을 놓고 더불어민주당과 충돌했습니다. 이용우…\n\n🗣 “비공개 약속을 어긴 우크라이나는 두둔하면서 정부에는 터무니없는 누명을 씌우고 있다”\n이 발언을 그대로 실은 보도 10건 · 세계일보 · 연합뉴스 · 국제신문 · 경향신문\n· 세계일보 — [속보] 젤렌스키 감사 서한에 민주 “매국 행위” vs 나경원 “지독한 친북 정권”\n· 연합뉴스 — 與 \"젤렌스키에 감사서한은 매국\"…나경원 \"참 지독한 친북정권\"\n· 국제신문 — 나경원 ‘젤렌스키 감사 서한’에 與 “매국”…나 “친북 정권”\n· 경향신문 — 북한 포로 공개 우크라에 ‘감사 서한’ 공방…나경원 “조선노동당인가” 민주당 “극우적 몸부림”\n· M이코노미뉴스 — 정치권, 북한군 포로 송환 놓고 충돌...“우크라 약속 이행” vs “대사 소환 철회”\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한 #대통령실\n\n출처: CJB청주방송, MBN, 매일신문, 머니투데이, 세계일보, 헤럴드경제"
+ "caption": "📰 10월 12일 오늘의 뉴스\n\n1. 이대통령 부모 묘 찾은 이진숙 \"농지에 불법조성, 옮겨라\" 주장\n   이 의원은 어제 SNS에 \"봉화군 이재명 부모 묘소를 찾았다\"며 \"이곳은 농지로 묘를 쓸 수 없는 곳\"이라고 적었습니다. 이어 \"관할 봉화군은 2023년과 2024년…\n2. 靑 \"李대통령, 태릉골프장서 대구 상가 붕괴 사고 보고 받았다\" 확인...'비공개 일정 정치공방 활용' 유감\n   이재명 대통령이 휴일인 지난 10일 가족과 함께 태릉 골프장을 찾은 사실을 밝히고 대통령 비공개 일정을 정치공방에 활용하는 데 유감의 뜻을 나타냈습니다. 청와대는…\n3. 이천 고깃집서 16만원 '먹튀' 신고…경찰, 신원 확인 중\n   경기 이천시 한 고깃집에서 손님 일행이 16만원 상당의 음식을 먹은 뒤 계산하지 않고 자리를 떠났다는 신고가 접수돼 경찰이 수사에 나섰다. A씨는 경찰에 신고한 뒤…\n4. 밤길 달리다 추락해 사망…차량 동호회 이동 중 사고\n   경찰과 소방 당국에 따르면 어제 밤 10시 50분쯤 안성 양성면 45번 국도에서 용인 방향으로 주행하던 K3 승용차가 도로 아래 비탈길로 추락했다는 신고가 접수됐습니다.…\n5. 나경원 “北지뢰 공격, 대구 상가 천장 붕괴에도 골프 치고 앉아있는 李대통령⋯자진하야 하고 특검 수사 받으라”\n   이재명 대통령이 대구 상가 천장 붕괴 사고 당시 가족들과 골프장에 있었다는 청와대의 발표에 대해 국민의힘 나경원 의원이 11일 “국민 생명·안전과 직결된 재난, 안보…\n6. 국힘 \"붕괴사고 당일 황제골프\"...청 \"현장서 보고받고 신속지시\"\n   주진우 \"이 대통령, 대구 상가 사고 당일 황제골프\" 청와대 \"이 대통령, 가족과 함께 골프장 일정\"\n7. 이재명 대통령의 SNS, 전선을 넓히다\n   이재명 대통령은 10일 X에 과거 노무현 대통령의 인터넷 활동이 비판받았던 일을 꺼내며 \"정치와 권력은 낮은 곳으로 향해야 한다\"고 강조했다. 유승민 전 의원도 \"이…\n\n🗣 “대구 사고 1차 구조작업이 오전 10시40분에 완료됐는데 청와대 입장은 무려 2시간 뒤인 낮 12시30분에 나왔다. 10월10일 분 단위, 초 단위로 붕괴 사고에 어떻게 대응했는지 밝히고, 해군 장병 실종 때 누구와 골프를 쳤고 골프비는 특수활동비로 냈는지 국민 앞에 설명하라”\n이 발언을 그대로 실은 보도 4건 · 연합뉴스 · 부산일보 · 월간조선 · 싱글리스트\n· 연합뉴스 — 靑 \"李대통령 골프장서 대구사고 신속수습지시\"…주진우 \"황제골프\"(종합)\n· 부산일보 — 靑 “이 대통령, 대구사고 때 가족과 골프…보고 받고 신속수습지시\"\n· 월간조선 — 대구서 붕괴 사고 났는데도 李 대통령은 골프장서 나이스샷?\n· 싱글리스트 — 주진우 \"李대통령, 참사때마다 골프...증거사진 확보하자 시인\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한 #대통령실\n\n출처: JTBC, SBS, YTN, kbc광주방송, 강원일보, 뉴시스, 오마이뉴스"
 }
