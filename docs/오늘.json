@@ -1,265 +1,315 @@
 {
- "date": "2026-10-13",
- "generated_at": "2026-10-13T12:17:57+09:00",
+ "date": "2026-10-14",
+ "generated_at": "2026-10-14T10:30:13+09:00",
  "mode": "daily",
- "window_start": "2026-10-12T00:00:00+09:00",
- "window_end": "2026-10-12T23:59:59+09:00",
+ "window_start": "2026-10-13T00:00:00+09:00",
+ "window_end": "2026-10-13T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "조계원, 김민석 아들 '아빠찬스' 법안 발의에 \"칭찬 받을 일…한동훈 딸은 '형사 책임'\"",
-   "source": "데일리안",
-   "url": "https://n.news.naver.com/article/119/0003141695",
-   "published_at": "2026-10-12T11:27:08+09:00",
+   "title": "\"與 지지율 처참, 국힘에도 역전\"…'김민석號' 지도부 내홍 일촉즉발",
+   "source": "시사저널",
+   "url": "https://n.news.naver.com/article/586/0000139860",
+   "published_at": "2026-10-13T15:24:15+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "\"김 대표 아들 스펙용 법안은 뇌피셜\" 조계원 대변인은 12일 CBS 라디오 '박성태의 뉴스쇼'에서 출연해 \"김 대표 아들이 그렇게 좋은 법안을 만들기 위해서 노력했다면…",
-   "summary_long": "조계원 대변인은 12일 CBS 라디오 '박성태의 뉴스쇼'에서 출연해 \"김 대표 아들이 그렇게 좋은 법안을 만들기 위해서 노력했다면 오히려 칭찬받아야 할 일이지 그게 비난받아야 할 일이냐\"며 \"(스펙용 법안 이라는 건) 의혹일 뿐이다. 그는 한 의원 딸의 저작권법 위반 의혹을 수사하기 위한 경찰의 국제형사사법공조 요청이 검찰 단계에서 반려된 배경에는 당시 법무부 장관이던 한 의원의 존재가 있었다며 \"당연히 공조 요청을 했으면 수사가 됐고, 밝혀냈으면 이건 형사 책임을 물어야 될 사안\"이라고 강조했다. 이어 \"담당했던 공봉숙 검사의 말도 웃긴 게 0.99달러짜리 저작권 문제로 공조 요청하면 100% 거부당할 거라고 하는 데 왜 자의적으로 판단해서 덮냐\"며 \"0.99달러짜리 저작권 문제가 아니고 남의 수학 문제를 베껴서 전자책을 만들어고 상업적으로 판매한 것은 엄청난 범죄 행위\"라고 지적했다.\n\n한 의원이 조국 혁신정책연구원장의 딸 사건을 조사한 점을 언급하며 \"남을 사냥할 때와 자기 가족으로 그게 향했을 때는 180도 달라지는 이중 잣대를 적용한다\"라고 비판했다. 조 대변인은 김 대표 아들의 표절 예방 교육 관련 법안을 민주당 의원들이 실제 발의해 줬다며 '아빠 찬스'라고 비판한 한 의원의 의혹 제기에는 \"민생 현장에서 현안과 관련한 여러 제안을 받는다. 김 대표 아들이라고 해서 하지 말라는 법은 없다\"라며 \"사회를 위해 필요한 아이디어라면 얼마든지 법안으로 이어지면 더 좋은 일\"이라고 선을 그었다.",
+   "summary": "\"취임 100일 안에 당 지지율을 10%포인트 끌어올리겠다.\". 최민희 수석최고위원은 \"당 지지율이 처참하다\"며 외연 확장 노선을 표방해온 김 대표를 겨냥해 \"전통적…",
+   "summary_long": "\"취임 100일 안에 당 지지율을 10%포인트(p) 끌어올리겠다.\"(김민석 더불어민주당 대표). 김민석호 여당 지도부 체제가 출범한 지 두 달이 흘렀지만 당 지지율은 현 정부 출범 후 최저 수준으로 떨어졌다. 최민희 수석최고위원은 \"당 지지율이 처참하다\"며 외연 확장 노선을 표방해온 김 대표를 겨냥해 \"전통적 지지층이 느끼는 박탈감이 하락의 원인\"이라고 지목했다.\n\n앞서 김 대표는 전당대회 정국에서 취임 100일 안에 당 지지율을 10%p 높이겠다고 공언했다. 최 최고위원은 지지율 하락의 원인으로 \"전통적 지지층이 느끼는 박탈감과 상처 등이 원인이라고 생각한다\"며 \"지금은 이재명 대통령, 김민석 대표, 민주당이 한 묶음이 될 수 없는 상태로 본다\"고 진단했다. 한 민주당 관계자는 \"이미 전당대회에서 친청계 3인방이 입성하면서 내홍은 누구나 예상 가능했다\"며 \"앞으로 당정 지지율 하락세 국면에서 갈등이 더 증폭될 것\"이라고 말했다.",
    "quotes": [
-    "담당했던 공봉숙 검사의 말도 웃긴 게 0.99달러짜리 저작권 문제로 공조 요청하면 100% 거부당할 거라고 하는 데 왜 자의적으로 판단해서 덮냐",
-    "0.99달러짜리 저작권 문제가 아니고 남의 수학 문제를 베껴서 전자책을 만들어고 상업적으로 판매한 것은 엄청난 범죄 행위",
-    "김 대표 아들이 그렇게 좋은 법안을 만들기 위해서 노력했다면 오히려 칭찬받아야 할 일이지 그게 비난받아야 할 일이냐"
+    "농지 전수조사처럼 많은 국민에게 재산상 직접 영향을 줄 수 있는 것을 너무 급하게 서두른 그런 정책적 요인들도 (지지율 위기) 바탕에 깔려 있다",
+    "저는 코어 지지층 결집으로 일을 잘한 뒤 중도층으로 가야 한다는 생각이고, 김민석 대표는 다르게 생각하고 있다",
+    "지금은 이재명 대통령, 김민석 대표, 민주당이 한 묶음이 될 수 없는 상태로 본다"
    ],
-   "press": "데일리안",
+   "press": "시사저널",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "담당했던 공봉숙 검사의 말도 웃긴 게 0.99달러짜리 저작권 문제로 공조 요청하면 100% 거부당할 거라고 하는 데 왜 자의적으로 판단해서 덮냐",
+    "quote": "농지 전수조사처럼 많은 국민에게 재산상 직접 영향을 줄 수 있는 것을 너무 급하게 서두른 그런 정책적 요인들도 (지지율 위기) 바탕에 깔려 있다",
     "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "데일리안",
-      "title": "조계원, 김민석 아들 '아빠찬스' 법안 발의에 \"칭찬 받을 일…한동훈 딸은 '형사 책임'\"",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPYmhrbDJ1UXJlbFJtdHA3dkItSlUtTWZ1VXZ2OV9sRlBMWm1IWGRMT2g0b1dnVEJ5YzR3WFBZUVdkZ1Y0V1ZYVlBfdmtOTDN1MEt1VUItWnFlOVRjMGRncWk3OFJIVVluU0pZM2dtMEprUzhfTGJTYVpHZTRLZm80RFFfVndYRlVFOGtfQ01EV0VZN3VudHNrYWdReEttY3dQcENrUkJSSURtdmJrYklaZkRmaHFaVHpTSmZQUjhkd1FBaTRCU3hjZEJRQ3hWVlVJTWFYaGk3a1RKQV9wM3U0aUVwWkVYQ3g0X01TaVFOQTBiTUJyUktubVgxQWl4WW5yZjRKdWlfSkUtTi01Tk1XRkVvOEx1d3Nr?oc=5"
+      "press": "뉴스1",
+      "title": "최민희 \"지지율 위기, 코어층 박탈감 탓…대통령과 한묶음 어려운 상태\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Bd0tBMUNfbW1jN3Y2cGJCZ0JBOXdCSS1zMXh3QnhTdmRIczRwVmVib3IwTTRlOW5Xcjdvc2J3RVhiTExRODZVM1lGNHNYbk5FWWp4bWdNbWgxQQ?oc=5"
      },
      {
-      "press": "이데일리",
-      "title": "與 조계원 “金 아들, 사회 위한 노력... 韓 딸은 자료 베끼고 판매”",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDkxQmRmN0IyTDVObEdtblBvclU0NGVOMFdrMER2YU5JSjVlQVczd2NmenROY0luM0V4SHR3UnNCTjhvSERpTUFOSktLUEZyTjJjQkktX3U2b2s5UzhiWlpLM013TDNpR19yMUktM19ZQ0JvaEFXOU55bUwzWkxicA?oc=5"
+      "press": "중앙일보",
+      "title": "최민희 “민주당 지지율 처참…지지층 박탈감·상처 때문”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uTDNINVRsTXhhRTRqSWNldmY3MHlRLWE5cFRwYXZTNXhwckpUTUxDamdGU1hEcUpCc0tlZDBDMXdKQ190ZVlKV25LZFJucVFlZDNqU0hn?oc=5"
      },
      {
-      "press": "국민뉴스",
-      "title": "사상초유 내로남불 야누스 한동훈 딸 '허위 스펙' 경찰도 덮었다...압색영장 신청 전무 김혜경 여사133회,조민 70회 압색과 딴판, 부인만 1회 서면조사",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zV1lFZVRIbWZTMTZJdXZ6RHZZWEdvOXRUaFltcTR1eHo2N2dhdkxWTGlmQllSaGlHQWZHWkNPY01YbTFGbjVReGVveXVyN0NlUHVYaQ?oc=5"
+      "press": "시사저널",
+      "title": "“與 지지율 처참, 국힘에도 역전”…‘김민석號’ 지도부 내홍 일촉즉발",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaWEhndGxZWWxsYWVuUEtxM3NtVWYtZk52NzI5RzBEbS0xbkJtSThzWXEyQ3VYR0VNX3VjSHo2RHFQUU5Nb282ZHZZbVRYYkt3bzVPTUhIeTJWTEJtR1REYzlaREhSMXA5TU92SVFpSm15bDjSAXNBVV95cUxQWlhIZ3RsWVlsbGFlblBLcTNzbVVmLWZOdjcyOUcwRG0tMW5CbUk4c1lxMkN1WEdFTV91Y0h6NkRxUFFOTW9vNmR2WW1UWGJLd281T01ISHkyVkxCbUdURGM5WkRIUjFwOU1PdklRaUpteWw4?oc=5"
      }
     ]
    }
   },
   {
-   "title": "\"탄핵으로 흥한 추미애, 광역단체장 최초로 탄핵될 것\"…이 대통령 \"생각 없이 칼 휘두르는 권력자\"",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000515197",
-   "published_at": "2026-10-12T11:09:43+09:00",
+   "title": "병무청장 \"병역특례, 국제대회 1위만 인정\"",
+   "source": "MBC",
+   "url": "https://n.news.naver.com/article/214/0001528620",
+   "published_at": "2026-10-13T06:45:28+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "서정욱 변호사 / SBS 김태현의 정치쇼. 강수영 변호사 / SBS 김태현의 정치쇼.",
-   "summary_long": "최초로 광역단체장 중에 주민소환 끌려내려 오지 않을까. (추미애 지사 진짜 주민소환 해야 된다?) 그럼요. 진보, 보수 성향의 정치 평론가들이 일제히 추미애 경기도지사가 주민소환, 즉 탄핵될 수 있다고 주장했습니다.\n\n지난 6·3 지방선거에서 당선돼 7월 1일부터 임기가 시작된 추미애 지사는 내년 7월이면 주민소환 청구 대상이 될 수 있습니다. 서정욱 변호사 / SBS 김태현의 정치쇼. 결국 이재명 대통령이 소셜미디어에서 '소액의 서민 복지예산 삭감' 등을 언급하며 '생각 없이 칼을 휘두르는 권력자'라고 지적한 것도, 추미애 지사를 염두에 둔 거란 해석이 나옵니다.",
-   "press": "JTBC",
-   "photo": "02.png"
-  },
-  {
-   "title": "결혼식장서 \"내란은 이재명\" 외친 신랑⋯하객들은 \"윤어게인\" 외치며 화답",
-   "source": "아이뉴스24",
-   "url": "https://n.news.naver.com/article/031/0001064917",
-   "published_at": "2026-10-12T09:16:08+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "한 결혼식장에서 신랑과 신부가 이재명 대통령을 비난하는 노래를 부르고, 하객들도 이에 호응하며 '윤어게인' 구호를 외치는 모습의 영상이 공개돼 누리꾼들이 갑론을박을…",
-   "summary_long": "최근 각종 온라인 커뮤니티와 사회관계망서비스(SNS)에는 지난 9일 경기도 부천시 한 웨딩홀에서 열린 결혼식 영상이 확산했다. 사진은 해당 결혼식에서 신랑과 신부가 노래를 부르는 모습. 해당 영상 속 신랑은 마이크를 들고 \"내란은 이재명, 재판받아라\"라는 가사로 노래를 불렀고 신부 역시 리듬을 타며 이를 따라불렀다.\n\n결혼식에 참석한 하객들도 모두 신랑·신부의 이 같은 행동에 '윤어게인'이라는 문구가 적힌 빨간 수건을 펼쳐 들며 호응했다. 이어 신랑·신부가 퇴장할 때는 이들과 함께 일제히 \"윤어게인 승리하리라\"는 구호를 합창했다. 한 결혼식장에서 신랑과 신부가 이재명 대통령을 비난하는 노래를 부르고, 하객들도 이에 호응하며 '윤어게인' 구호를 외치는 모습의 영상이 공개돼 누리꾼들이 갑론을박을 펼치고 있다.",
+   "summary": "병무청은 우선 예술계 병역특례 기준을 국제 대회 1위로 강화하기로 했고, 체육 특례는 다음 달 말, 연구용역이 끝나는 대로 제도 손질에 들어가기로 했습니다. 아시안게임…",
+   "summary_long": "어제 국정감사에서 병무청장은 아시안게임 축구대표팀 선수들의 병역특례 발언에 대해 유감을 표했습니다. 병무청은 우선 예술계 병역특례 기준을 국제 대회 1위로 강화하기로 했고, 체육 특례는 다음 달 말, 연구용역이 끝나는 대로 제도 손질에 들어가기로 했습니다. 아시안게임 축구대표팀 선수들이 지핀 병역특례 논란에 홍소영 병무청장은 \"매우 안타깝고 유감스럽다\"고 말문을 열었습니다.\n\n\"우리 젊은 청년들이 받았을, 느꼈을 상실감과 제도 개선을 요구하는 국민의 목소리를 병무청장으로서 무겁게 받아들이고 있습니다.\" 그러면서 예술·체육 분야의 병역특례 제도를 책임지고 개선하겠다고 밝혔습니다. 병무청은 체육분야 병역특례는 다음 달 말 연구용역 결과를 토대로 구체적인 개선책을 내놓기로 했는데, 병역특례를 점진적으로 폐지하는 방향으로 검토 중입니다.",
    "quotes": [
-    "나중에 이재명 개XX 결혼식으로 추억할 건가",
-    "진정한 용기와 결기를 가진 애국자 부부",
-    "일생일대의 결혼식을 이재명한테 바치냐"
+    "양성징병이라고 하는 옵션은 전혀 검토하지 않으면서 계속해서 마른 수건 짜는 형태로 간다 그러면… 우리 국익의 측면에서 바람직하냐",
+    "우리 젊은 청년들이 받았을, 느꼈을 상실감과 제도 개선을 요구하는 국민의 목소리를 병무청장으로서 무겁게 받아들이고 있습니다",
+    "언제 폐지하겠다는 목표 연도를 정하고, 그 사이에 점진적으로 줄여 가는 방안을 하는 것이 저는 맞다고 생각합니다"
    ],
-   "press": "아이뉴스24",
-   "photo": "03.jpg",
+   "press": "MBC",
+   "photo": "02.jpg",
    "quoted": {
-    "quote": "일생일대의 결혼식을 이재명한테 바치냐",
-    "n": 1,
-    "verified": 0,
-    "items": [
-     {
-      "press": "아이뉴스24",
-      "title": "결혼식장서 \"내란은 이재명\" 외친 신랑⋯하객들은 \"윤어게인\" 외치며 화답",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaWTgxNzRwaGJ3aGVuN3h3VnZIdGh1WWdNY3d2dl9QbEh0R2JOWWxMWDgzSTJsTDVBNU9aZWRneFFrUUxqYzJzZXg2MA?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "[삶] \"말기암 19세 청년의 죽음…난 의사로서 받아들여야 했다\"",
-   "source": "연합뉴스",
-   "url": "https://n.news.naver.com/article/001/0016369639",
-   "published_at": "2026-10-12T06:01:01+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "이는 김현아 한림대 성심병원 교수가 연합뉴스와의 인터뷰에서 말한 내용이다. 김 교수는 인터뷰에서 \"말기 암 환자의 경우 무리한 치료를 계속하는 일이 꽤 있다\"면서…",
-   "summary_long": "이는 김현아 한림대 성심병원 교수(류마티스 내과)가 연합뉴스와의 인터뷰에서 말한 내용이다. 김 교수는 인터뷰에서 \"말기 암 환자의 경우 무리한 치료를 계속하는 일이 꽤 있다\"면서 \"이렇게 되면 환자 입장에서는 생명 연장 효과는 거의 없는 데도 많은 돈을 추가로 써야 할 뿐 아니라, 자기 삶을 정리할 시간을 갖지 못하는 문제가 생길 수 있다\"고 했다. 그는 \"현재의 의료 환경에서는 의사가 치료를 중단하기 어렵기 때문에 환자와 보호자들이 잘 판단해야 한다\"면서 \"중환자실에서 무의미하게 생명을 연장하는 것이 맞는지에 대해서도 생각해봐야 한다\"고 했다.\n\n병원들이 가성비가 떨어지는 수억원대의 항암제를 환자에게 투여하는 것, 낮은 가격의 약이 고가의 약에 밀려나는 것도 의산복합체와 무관하지 않다고 본다. 대학병원의 교수가 환자를 많이 보고, 고가(高價)의 검사 처방을 많이 내면 연봉이 올라간다. 이런 점에서 병원의 수입과 교수 연봉을 연동시키는 것은 문제가 있다고 본다.",
-   "quotes": [
-    "이렇게 되면 환자 입장에서는 생명 연장 효과는 거의 없는 데도 많은 돈을 추가로 써야 할 뿐 아니라, 자기 삶을 정리할 시간을 갖지 못하는 문제가 생길 수 있다",
-    "현재의 의료 환경에서는 의사가 치료를 중단하기 어렵기 때문에 환자와 보호자들이 잘 판단해야 한다",
-    "중환자실에서 무의미하게 생명을 연장하는 것이 맞는지에 대해서도 생각해봐야 한다"
-   ],
-   "press": "연합뉴스",
-   "photo": "04.jpg",
-   "quoted": {
-    "quote": "중환자실에서 무의미하게 생명을 연장하는 것이 맞는지에 대해서도 생각해봐야 한다",
-    "n": 1,
-    "verified": 0,
-    "items": [
-     {
-      "press": "연합뉴스",
-      "title": "[삶] \"말기암 19세 청년의 죽음…난 의사로서 받아들여야 했다\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10andhVF9aRDUwUDlKakhCTjk0ZmVlMkZoQzdrODltS3lNMHc4VzhpQlM5MWIzVm9lSm5LWFVIeFBKS1E2alRGT016cmpwN3NRbEY3R0NzclZWNEVCVHpvUNIBYEFVX3lxTE10andhVF9aRDUwUDlKakhCTjk0ZmVlMkZoQzdrODltS3lNMHc4VzhpQlM5MWIzVm9lSm5LWFVIeFBKS1E2alRGT016cmpwN3NRbEY3R0NzclZWNEVCVHpvUA?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "與, '딸 허위 스펙 의혹' 앞세워 한동훈 맹공 vs 韓 \"비열한 정치보복\"",
-   "source": "머니투데이",
-   "url": "https://n.news.naver.com/article/008/0005425116",
-   "published_at": "2026-10-12T17:35:03+09:00",
-   "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 203,
-   "comment_agree": 149,
-   "comment_disagree": 29,
-   "division_balance": 0.325843,
-   "division_score": 1.690272,
-   "selection": "찬반 쟁점",
-   "summary": "범여권이 12일 한동훈 무소속 의원 딸의 허위 스펙 의혹 등을 놓고 집중 공세를 펼쳤다. 경찰청 국정감사에서 제기된 부실 수사 의혹에 이어 딸의 봉사활동 실적이 허위로…",
-   "summary_long": "범여권이 12일 한동훈 무소속 의원 딸의 허위 스펙 의혹 등을 놓고 집중 공세를 펼쳤다. 경찰청 국정감사에서 제기된 부실 수사 의혹에 이어 딸의 봉사활동 실적이 허위로 기록됐다는 주장까지 꺼내 들었다. 한 의원은 \"비열한 정치보복\"이라며 법적 조치를 예고했다.\n\n국회 행정안전위원회 소속 더불어민주당·조국혁신당 의원들은 이날 서울 서대문구 경찰청에서 열린 국정감사에서 한 의원 딸의 대필·표절 및 저작권법 위반 의혹을 수사했던 경찰의 대응이 소극적이었다고 비판을 쏟아냈다. 윤건영 민주당 의원은 \"한 의원 딸 사건의 수사 기간이 1년8개월에 달하는데도 압수수색이나 참고인 조사가 이뤄지지 않았다\"며 \"서슬 퍼런 법무부 장관 사건이라고 방치했던 것 아니냐\"고 비판했다. 강득구 민주당 의원은 이날 국회에서 기자회견을 열고 한 의원 딸의 봉사활동 허위 기재 의혹을 꺼내 들었다.",
-   "quotes": [
-    "오로지 김승원 전 법무부 장관 후보 비위 지적, DMZ(비무장지대) 지뢰 공격 늑장 조사 저지, 노무현 전 대통령 조작자가 허구성 지적, 한미관계 문제 발생 등을 지적한 저에 대한 정치보복을 위해 상관도 없는 자녀에 허위 사실을 유포하는 것에 대해 강력한 민형사상 법적조치를 할 것",
-    "경찰이 수사에서 '꾸준히 봉사활동을 했었고, 위조나 허위 기재가 아니라는 이유로 무혐의 결정'을 했다. 고발인 이의신청으로 수사심의회를 두 번이나 열었지만, 무혐의 결론이 난 사안",
-    "한 의원 딸이 실제로 한 일은 비대면으로 다른 자원봉사자들이 수업을 진행하도록 스케줄을 조정하고 지원하는 활동이었다. 수업을 진행한 자원봉사활동은 아니었다"
-   ],
-   "press": "머니투데이",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "한 의원 딸이 실제로 한 일은 비대면으로 다른 자원봉사자들이 수업을 진행하도록 스케줄을 조정하고 지원하는 활동이었다. 수업을 진행한 자원봉사활동은 아니었다",
-    "n": 3,
-    "verified": 0,
-    "items": [
-     {
-      "press": "머니투데이",
-      "title": "한동훈, 민주당 '딸 의혹 제기'에 \"비열하게 정치 보복…법적 조치\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lM2FhbUtHamxmVTRyNmRTc0EtNEFmNDhxOURDbVhMSmNWNjdUSmVBdWlWLUh3X1Nqa181bHJLTWlnTkVFdXJiUGVCeGVCYTFZa2ZaUmNNdVJUYnRXU1hUbnUzNXl2Vy1NamtnajBDQlgyd9IBckFVX3lxTE9lM2FhbUtHamxmVTRyNmRTc0EtNEFmNDhxOURDbVhMSmNWNjdUSmVBdWlWLUh3X1Nqa181bHJLTWlnTkVFdXJiUGVCeGVCYTFZa2ZaUmNNdVJUYnRXU1hUbnUzNXl2Vy1NamtnajBDQlgydw?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "與, '딸 허위 스펙 의혹' 앞세워 한동훈 맹공 vs 韓 \"비열한 정치보복\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iTkpDdWpsMTNBOC1NWW1VMElubmJaVWFwR2U2eVYzUk1ZdFJ4NFBROENMOWQzQmdNT2hQUWtobkFHWG9Gakl3SHR0d0NYME9xaGNyMU13RjNRcHFEWVJKVFB5WkNWVTFLVDdoVUdqeXVyZ9IBckFVX3lxTE5iTkpDdWpsMTNBOC1NWW1VMElubmJaVWFwR2U2eVYzUk1ZdFJ4NFBROENMOWQzQmdNT2hQUWtobkFHWG9Gakl3SHR0d0NYME9xaGNyMU13RjNRcHFEWVJKVFB5WkNWVTFLVDdoVUdqeXVyZw?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "강득구, 한동훈 딸 봉사활동 의혹에 \"공직 사유화 누가 했나, 침묵말라\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TenRDZU9WTms4cC1iYWRMaGZEcGpKZlZyM3dhQzZfcXJyN1ZLdHhnbE1JT090N0J6N1gtQjZUXzExRkZ3dEc2cVZFcEhOSWx0c2lxalJYVEFZbmN5OFRaOGplNmpabUJXS2RnckdYSkY4QdIBckFVX3lxTE1TenRDZU9WTms4cC1iYWRMaGZEcGpKZlZyM3dhQzZfcXJyN1ZLdHhnbE1JT090N0J6N1gtQjZUXzExRkZ3dEc2cVZFcEhOSWx0c2lxalJYVEFZbmN5OFRaOGplNmpabUJXS2RnckdYSkY4QQ?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "[단독]한동훈 딸 ‘허위 스펙 의혹’ 경찰 수사, 압색영장 신청 전무…배우자만 1회 ‘서면 조사’",
-   "source": "경향신문",
-   "url": "https://n.news.naver.com/article/032/0003475635",
-   "published_at": "2026-10-12T06:00:07+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 1415,
-   "comment_agree": 281,
-   "comment_disagree": 47,
-   "division_balance": 0.286585,
-   "division_score": 1.661065,
-   "selection": "찬반 쟁점",
-   "summary": "경찰이 윤석열 정부 당시 법무부 장관이던 한동훈 무소속 의원 딸의 ‘허위 스펙’ 의혹을 수사하며 압수수색 영장 신청을 한차례도 하지 않은 것으로 드러났다. 11일 국회…",
-   "summary_long": "한동훈 무소속 의원이 지난달 국회의원회관에서 열린 김승원 당시 법무부 장관 후보의 ‘신약 임상시험 청탁’ 의혹 관련 기자회견에서 발언하고 있다. 경찰이 윤석열 정부 당시 법무부 장관이던 한동훈 무소속 의원 딸의 ‘허위 스펙’ 의혹을 수사하며 압수수색 영장 신청을 한차례도 하지 않은 것으로 드러났다. 의혹 관련자 조사는 한 의원 배우자를 상대로만 한차례 서면으로 이뤄졌다.\n\n11일 국회 행정안전위원회 소속 윤건영 더불어민주당 의원이 경찰청에서 받은 자료에 따르면, 경찰은 2022년 5월 법무부 장관 후보자였던 한 의원 딸의 ‘허위 스펙’ 의혹 고발장을 접수해 이듬해 12월 불송치 결정으로 수사를 종료하기까지 압수수색 영장을 한차례도 신청하지 않은 것으로 확인됐다. 경찰청은 수사 당시 국수본과 서울청 간 사건 보고 현황에 대해 “보고 이력·주체는 별도 관리하지 않는다”고 윤 의원에게 답했다. 경찰청은 윤 의원에게 “서울경찰청이 서울중앙지검에 추가 공조를 요청한 사항은 없다”고 밝혔다.",
-   "quotes": [
-    "고발인들만 소환 조사하고 직접 혐의를 확인해야 할 피고발인은 안방에서 답변할 수 있게 편의를 봐준 것을 공정한 수사라고 볼 수 있는지 의문",
-    "국제 형사사법공조 신청 불송부 결정을 받고도 추가 공조 요청이 없었던 점도 수사가 처음부터 보여주기식이 아니었는지 의심되는 대목",
-    "압수수색 영장을 한번도 신청하지 않고 시간만 끌다가 불송치한 것은 전형적인 봐주기 수사"
-   ],
-   "press": "경향신문",
-   "photo": "06.jpg",
-   "quoted": {
-    "quote": "고발인들만 소환 조사하고 직접 혐의를 확인해야 할 피고발인은 안방에서 답변할 수 있게 편의를 봐준 것을 공정한 수사라고 볼 수 있는지 의문",
+    "quote": "우리 젊은 청년들이 받았을, 느꼈을 상실감과 제도 개선을 요구하는 국민의 목소리를 병무청장으로서 무겁게 받아들이고 있습니다",
     "n": 4,
     "verified": 0,
     "items": [
      {
-      "press": "경향신문",
-      "title": "[단독]한동훈 딸 ‘허위 스펙 의혹’ 경찰 수사, 압색영장 신청 전무…배우자만 1회 ‘서면 조사’",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLVHpzd3ZjS2x6ODZ4MEFCaFh5SXNHNVJ3d0VWZkJjR3hXSXlhNENhdzhIWjJQSExlM25nck1EMHpIREdUdHU5U3hXTDFoS2ZYbHppS0xIT3VBd9IBX0FVX3lxTE8zMm41WGU1dTJ4ajhLSFNaZm1fQ2pobUl6VDV3cXpqNHdfYzAtVTVOdGZHd3NfUktjZkptLURneUY5U0Y2S1hJOGxCNGRzU1kyN0g4VWg4MlR6UzhiSmFR?oc=5"
+      "press": "MBC 뉴스",
+      "title": "병무청장 \"병역특례, 국제대회 1위만 인정\"",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95SWVHWTZURVE3X1NEYU5uTGtjTmw2VndTbU12N01Ndnhqc2Fua2ZvZXBXZ2hiRWlTTjRvNGdGUENvMHJUbUFiQm40Z2swb1hHSFFzckN4c1hnTnd2ME4yaTZ2LWZudVQ0Tnh1RkhLVnNSRDVWUWZ2a1N30gF6QVVfeXFMTk92a2FtNzFleW94ZFhJeDloU1FoZEh2XzFvX3MyZjdRWEFJaWZxUmoxcnBjM0xnTWRzN3FWMk9vRl9fM0V4VmFMRWVCQ1Jqb3VHeXdzZkN0UVBObVpQSWtOdFdMRl9JVDNPNHo0UGFmTUhfWFJyMWU3Rmc?oc=5"
+     },
+     {
+      "press": "MBC 뉴스",
+      "title": "병무청장, 병역 특례 논란에 \"유감\"‥예술 특례 '국제대회 1위'로 제한",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIazZPTWxBQ0Vvdk1QS0U5MVVXZEdQelpmQmhnTWxKMzRMenZIbDFfZjN5N1dWTUNpY1RqMnpyTEptcFJuLWNHOXZRUkUyMmx0SzAyZDZvb1J1Z3F0X0g2RDI3bFM2ekVLUXh2Qm5sMk5FUW5wN1NOadIBeEFVX3lxTFBIazZPTWxBQ0Vvdk1QS0U5MVVXZEdQelpmQmhnTWxKMzRMenZIbDFfZjN5N1dWTUNpY1RqMnpyTEptcFJuLWNHOXZRUkUyMmx0SzAyZDZvb1J1Z3F0X0g2RDI3bFM2ekVLUXh2Qm5sMk5FUW5wN1NOaQ?oc=5"
+     },
+     {
+      "press": "티제이비",
+      "title": "\"BTS도 군대 갔는데\"…병역특례 논란에 병무청장 질타",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XdzRLN0c3WDBNWlkxaUx3andPNjJkOV8ya3dhX0hKbWxKSlQ0Z05xaXVSZGZWUEFzd3Rvd2xnQnpfb0tNanQyVFk4TlQ4YTB2dDRoWkJfNjBVZ1JR?oc=5"
+     },
+     {
+      "press": "JTBC",
+      "title": "\"BTS는 전원 입대했는데\"…‘병역 특례’ 논란, 병무청장도 쓴소리",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xXzBJZFlncGF3OWo1bFl2WDFLN0xWSnBDRDFZMTlCMGQ0c3V0Z1JXV1RSWWZYcjdIVzhKalFnbVNkWUZhOGJ4VWI3RXktLUR5Z3ZINA?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "제주 호텔 앞 살해당한 여성 “성관계 영상 유포 협박” 60대男 신고했었다",
+   "source": "서울신문",
+   "url": "https://n.news.naver.com/article/081/0003688404",
+   "published_at": "2026-10-13T11:32:13+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "12일 새벽 제주시 연동의 한 호텔 앞 길거리에서 60대 남성이 40대 여성을 흉기로 찔러 숨지게 하는 사건이 발생했다. 지난 12일 제주의 한 호텔 앞에서 60대…",
+   "summary_long": "12일 새벽 제주시 연동의 한 호텔 앞 길거리에서 60대 남성이 40대 여성을 흉기로 찔러 숨지게 하는 사건이 발생했다. 지난 12일 제주의 한 호텔 앞에서 60대 남성이 휘두른 흉기에 사망한 40대 여성이 지난 3월에는 ‘성관계 영상 유포’ 협박을 받았다며 경찰에 신고한 것으로 전해졌다. 13일 연합뉴스에 따르면 이번 사건 살인 혐의를 받는 A씨는 지난 3월 5일 피해 여성 B씨로부터 성폭력 관련 신고를 당했다.\n\n당시 B씨는 A씨가 ‘성관계 영상을 유포하겠다’고 협박했다는 취지로 경찰에 신고한 것으로 알려졌다. A씨는 지난 12일 오전 1시 38분쯤 제주시 연동의 한 호텔 앞 길거리에서 B씨를 흉기로 찔러 숨지게 한 혐의를 받는다. 하지만 B씨는 사건 당시 착용하고 있던 스마트워치로 신고조차 하지 못한 채 숨진 것으로 전해졌다.",
+   "press": "서울신문",
+   "photo": "03.jpg"
+  },
+  {
+   "title": "반도체 앞 '시한폭탄'... 귀를 의심케 한 장관의 말 [반도체 특별과외]",
+   "source": "오마이뉴스",
+   "url": "https://n.news.naver.com/article/047/0002531967",
+   "published_at": "2026-10-13T07:26:13+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "'글로벌 빅테크 기업들 탄소중립 포기·연기했다'는 김정관 장관 발언, 사실과 달라. \"탄소중립 이슈에 대해서도 지금 반도체 업계에서는 이걸 처음에 제기했던 기업들이…",
+   "summary_long": "'글로벌 빅테크 기업들 탄소중립 포기·연기했다'는 김정관 장관 발언, 사실과 달라. \"탄소중립 이슈에 대해서도 지금 반도체 업계에서는 이걸 처음에 제기했던 기업들이 탄소중립을 사실상 포기하면 포기, 연기하면 연기하는 상황입니다. 이 답변을 듣고 제가 모르는 사이에 세상이 바뀌었나 싶어, 국내 반도체 업계에 RE100 동참을 요구하고 있는 구글, 애플, MS, 메타의 최신 환경보고서를 다시 한 번 샅샅이 살펴봤습니다.\n\n반도체 관련 빅테크 기업들이 탄소중립을 포기하거나 연기하고 있는 사례를 단 하나라도 제시해 보십시오. 탄소 중립을 선언한 주요 빅테크와 반도체 기업들은 탄소중립을 포기하지 않았으며, 오히려 목표를 앞당기거나 협력사에 이를 강제하고 있는 실정입니다. 마이크로소프트와 구글, 메타 등 다른 기업들이 발표한 환경보고서 역시 모두가 2030년까지 100% 재생에너지 사용과 탄소 중립을 약속하고 있습니다.",
+   "quotes": [
+    "RE100을 안 하고 CF100으로 바꿨다",
+    "재생에너지가 안 되니 원자력과 가스를 쓴다",
+    "재생에너지는 실패했고 원전이 답이다"
+   ],
+   "press": "오마이뉴스",
+   "photo": "04.jpg",
+   "quoted": {
+    "quote": "재생에너지는 실패했고 원전이 답이다",
+    "n": 1,
+    "verified": 0,
+    "items": [
+     {
+      "press": "OhmyNews",
+      "title": "반도체 앞 '시한폭탄'... 귀를 의심케 한 장관의 말",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14c2FubnM4MmRKN0pRblpkVzFTcVVsV2RJN1lVaURIY2FWXzZpV0g2NW9MSmVjY2tWUGhLVFFwT3h0bGFjeDdVc2U4eS1ndFlheV9fLVlMSjVET2EwZmI4TDRiVjEtSkVKSmhyQ0NGclQzNDln?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "[속보] 주진우 \"이재 명을 끊을 때\" 막말 논란...與 \"죽음 연상 경악스러워\"",
+   "source": "프레시안",
+   "url": "https://n.news.naver.com/article/002/0002460597",
+   "published_at": "2026-10-13T10:00:07+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "comment_count": 408,
+   "comment_agree": 172,
+   "comment_disagree": 28,
+   "division_balance": 0.28,
+   "division_score": 1.484925,
+   "selection": "찬반 쟁점",
+   "summary": "주진우 국민의힘 의원이 이재명 대통령을 연상시키면서 \"이재 명을 끊을 때\"라고 말해 '막말' 논란이 일었다. '명을 끊다'는 사전적 의미로 '목숨을 끊다', 즉 '숨지게…",
+   "summary_long": "주진우 국민의힘 의원이 이재명 대통령을 연상시키면서 \"이재 명을 끊을 때\"라고 말해 '막말' 논란이 일었다. '명을 끊다'는 사전적 의미로 '목숨(命)을 끊다', 즉 '숨지게 하다' 또는 '스스로 목숨을 버리다'는 의미와 중첩되는 것으로, 이재명 대통령에 대한 비판의 의미를 담은 것으로 해석되면서 논란이 일었다. 이 원내대변인은 \"주 의원은 인간의 도리를 저버린 것\"이라며 \"생명마저 농담거리로 소비하는 행위는 결코 용납할 수 없다\"고 비판했다.\n\n김민석 대표도 \"그런 식의 말장난을 즐기는 분치고 정치생명이 긴 경우는 별로 못 봤다\"며 \"말장난이라고 하기도 정말 심한 정도\"라고 비판했다. 김 대표는 \"그런 분(주진우)들 때문에 정치 전체가 그런 것으로 받아들여지는 것도 억울하고 적절치 않다\"며 \"문제가 있는 부분들을 명확하게 짚어서 윤리적인 것은 윤리적으로, 법적인 것은 법적으로 처리하지 못하고 있는 상황이 안타깝다\"고 말했다. 민주당이 막말 운운하며 나를 입틀막 한다면, 이재명 부부의 막말 모음 육성을 기자회견장에서 틀어버릴 것이다\"라고 했다.",
+   "quotes": [
+    "주진우 약점 찾을 게 그렇게 없나? 진짜 막말은 이재명, 김혜경 부부의 욕설이다. 이재명 시장은 '박근혜의 무덤을 파서 박정희 유해 옆으로 보내자'고 '연설' 했다. 민주당이 막말 운운하며 나를 입틀막 한다면, 이재명 부부의 막말 모음 육성을 기자회견장에서 틀어버릴 것이다",
+    "문제가 있는 부분들을 명확하게 짚어서 윤리적인 것은 윤리적으로, 법적인 것은 법적으로 처리하지 못하고 있는 상황이 안타깝다",
+    "그런 분(주진우)들 때문에 정치 전체가 그런 것으로 받아들여지는 것도 억울하고 적절치 않다"
+   ],
+   "press": "프레시안",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "문제가 있는 부분들을 명확하게 짚어서 윤리적인 것은 윤리적으로, 법적인 것은 법적으로 처리하지 못하고 있는 상황이 안타깝다",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
+      "press": "프레시안",
+      "title": "[속보] 주진우 \"이재 명을 끊을 때\" 막말 논란...與 \"죽음 연상 경악스러워\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXeXJXTzY1OWU2TDNKMTZuMDF0Uklnd2xoTWRBTzJVejBUNWhGZW5tUzdMQ1F4cE1kOVdIOXAyOS1VZHZJSXZxTWJEaHRDdzFvckpwMVVHdGhDNlY0WERia0EwemdfRy1EaWlN?oc=5"
+     },
+     {
+      "press": "머니투데이",
+      "title": "김민석, 주진우에 \"말장난 즐기는 정치인 오래 못 가…고발은 코미디\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WS2Z5WjBFbnhzY0lsWE9XOElfUDF4dUJCdjJiSjNHT3E4WVB0THNNa09ZWTJCbE5JeXAwVEFFbm5SSWlpQVU2R256MlVXYWdmVDN3LW9ab1B1ODRvNWZ1V0VaYUlodDhROUVaM3o1aEQ4Z9IBckFVX3lxTE9WS2Z5WjBFbnhzY0lsWE9XOElfUDF4dUJCdjJiSjNHT3E4WVB0THNNa09ZWTJCbE5JeXAwVEFFbm5SSWlpQVU2R256MlVXYWdmVDN3LW9ab1B1ODRvNWZ1V0VaYUlodDhROUVaM3o1aEQ4Zw?oc=5"
+     },
+     {
+      "press": "뉴스1",
+      "title": "김민석, 주진우 겨냥 \"말장난 즐기는 정치인 오래 못 가\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WTWtSa2dMUGc0OHRSZGhtN1Bid0V6bXJnTmF6R3dWNl9rb1dpcEFCMTdmWTZtN3BDQmF4bUdVVnVJLTNwUVVPSDdZS0oyVzdERjRsNzBuQ2Zudw?oc=5"
+     },
+     {
+      "press": "문화일보",
+      "title": "[속보]“이재 명을 끊을 때” 주진우에 김민석 “말장난 정치인 오래못가”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iTmt0NTZOWVNVOTJRWmJuQmkteVRHUkdrVXRDNXlqWWs0a1hvaXRKRGdHYm43TnpqOW9mWHBNakZvSk56dmF2Mnl4ZHJNOTUw?oc=5"
+     },
+     {
+      "press": "서울신문",
+      "title": "김민석 “주진우, 정치 생명 짧을 것”…주진우 “정치 생명 나보다 훨씬 짧을 듯”",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85UHNrWXhsYkJaWWJrdDV2RzJweG1sVEZ1NUNHWktqYlBmT3VlS0VJOWoyaE9TZFFXVnJDYTNJY21LNDA0cGtkcXNncVE3TWw4N2EzcENMUQ?oc=5"
+     },
+     {
+      "press": "데일리안",
+      "title": "김민석, 주진우가 제기한 '李 골프' 논란 엄호…\"외교 준비 측면\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vb3hBQXdxUGtDcVhoS2RGQWlhaXRrUUFvclp3RjVsNWduU0l0Mmtxc2tncEVQNlllUnpqd25lamFpempfU2RHQkZ0bGJhMUE0WUZN?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "\"박진영, 마이크 있을 때와 없을 때 말 달라\"…배현진 재반박",
+   "source": "한국경제",
+   "url": "https://n.news.naver.com/article/015/0005341781",
+   "published_at": "2026-10-13T07:38:17+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 295,
+   "comment_agree": 301,
+   "comment_disagree": 42,
+   "division_balance": 0.244898,
+   "division_score": 1.430361,
+   "selection": "찬반 쟁점",
+   "summary": "배 의원은 12일 SBS라디오 ‘김태현의 정치쇼’에서 “박 위원장이 국감장에서 4개 회사들이 수백억 원의 손해를 보고 패노메논을 하기로 했다고 했는데, 개인적으로…",
+   "summary_long": "배현진 국민의힘 의원이 글로벌 K팝 축제 ‘패노메논’을 둘러싼 특혜 의혹과 관련해 박진영 대중문화교류위원회 공동위원장을 다시 겨냥했다. 배 의원은 12일 SBS라디오 ‘김태현의 정치쇼’에서 “박 위원장이 국감장에서 4개 회사들이 수백억 원의 손해를 보고 패노메논을 하기로 했다고 했는데, 개인적으로 이야기했을 때는 민간에서 하기 어려워서 국가가 필요하다라고 이야기 했다”면서 “박 위원장이 마이크가 있을 때 한 말과 마이크가 없을 때 한… 그는 “계약서에는 언제부터 시행하겠다라는 명시된 날짜가 없고, 문체부 장관은 도장만 찍혀 있을 뿐 장관의 이름도 적혀 있지 않다”면서 “그런 여러 가지 허술한 문제를 박 위원장도 ‘많이 허술하다’라고 인정을 했다”고 말했다.\n\n배 의원은 문체부 장관이 해당 계약의 문제를 인정하고 오는 23일 종합감사 전까지 재계약안을 마련하기로 했다고도 전했다. 그는 “계약서상에 국가가 특정한 민간회사와 함께 체결한 계약서상의 문제를 지적한 것이었기 때문에 그 부분에 관해서 문체부 장관이 불공정한 잘못된 계약이다라는 걸 인정을 했다”면서 “23일 국회 종합감사 때까지 재계약안을 마련해오겠다고 했다”고 밝혔다. 배 의원은 “굳이 박 위원장의 입장을 들었기 때문에 다시 모셔야 할 필요가 있을까 싶다”면서 “국가가 하는 사업이기 때문에 문화부 책임자인 장관이 이제 책임을 지셔야 한다”고 말했다.",
+   "quotes": [
+    "박 위원장이 국감장에서 4개 회사들이 수백억 원의 손해를 보고 패노메논을 하기로 했다고 했는데, 개인적으로 이야기했을 때는 민간에서 하기 어려워서 국가가 필요하다라고 이야기 했다",
+    "계약서상에 국가가 특정한 민간회사와 함께 체결한 계약서상의 문제를 지적한 것이었기 때문에 그 부분에 관해서 문체부 장관이 불공정한 잘못된 계약이다라는 걸 인정을 했다",
+    "계약서에는 언제부터 시행하겠다라는 명시된 날짜가 없고, 문체부 장관은 도장만 찍혀 있을 뿐 장관의 이름도 적혀 있지 않다"
+   ],
+   "press": "한국경제",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "박 위원장이 국감장에서 4개 회사들이 수백억 원의 손해를 보고 패노메논을 하기로 했다고 했는데, 개인적으로 이야기했을 때는 민간에서 하기 어려워서 국가가 필요하다라고 이야기 했다",
+    "n": 9,
+    "verified": 0,
+    "items": [
+     {
+      "press": "매일신문",
+      "title": "배현진, 박진영에 \"마이크 있을 때와 없을 때 말 달라\" 재반박",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VcWM2M3BtM01MRlNhcVp4VDhUaWFzZlVYX05Wa2FXZnRLT2MydlI5N2VTUGEyYW5KZzFpUUpuT1ozR2FzM1pnX0JVdVNaSHQ4RVJEQmxWanl4YzdNN1ppbFhn?oc=5"
+     },
+     {
+      "press": "문화일보",
+      "title": "배현진 “박진영, 마이크 있을 때와 없을 때 말이 달라…4개사 손해본단 건 사실 아냐”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LUl84dXlTc3NsTXlXWVBUS09taWpmaVJHelZuTHJYTjFSZmFSY2VJb3pOUXF1bEVUVWV0Mk9OVDBzLWlucmVnWUl1RVlDX2lo?oc=5"
+     },
+     {
+      "press": "한국경제",
+      "title": "\"박진영, 마이크 있을 때와 없을 때 말 달라\"…배현진 재반박",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05YzN0aEg2TWJ2cXVMWm9RbTVBc1JhQjZDRkdKTWt0ZlpQR1Q2eDNRTnhtTTIwSUJOYnhqYVYwYVpsUDRBVVBsdkxScHR3M0IyVElSeTBKSVdkdw?oc=5"
+     },
+     {
+      "press": "아주경제",
+      "title": "배현진 박진영, 마이크 있을 때 없을 때 말 달라…그 이유가",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGUGl6bFY1cHg0TkY1cExGOUN1TEVsSEtzWDZRb0dCX3BNRkdhNUI0YlF3WE1WYVdBRVJQODZPNkhTZ3hGdGxUT2dKbFR2Sm5VOE1YUFJLY1HSAVhBVV95cUxQRlBpemxWNXB4NE5GNXBMRjlDdUxFbEhLc1g2UW9HQl9wTUZHYTVCNGJRd1hNVmFXQUVSUDg2TzZIU2d4RnRsVE9nSmxUdkpuVThNWFBSS2NR?oc=5"
      },
      {
       "press": "파이낸셜뉴스",
-      "title": "한동훈 딸 '허위 스펙', 압색 영장 신청 '0건'…배우자 서면조사 1회뿐",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YbGVuTW4xWHJEakNPSUxkbEx2M3ZYSFVrLXFBTWhqa3FjTTFjZ0M3TkRDSGM4dVZmX3ZTTHcxd0lkV0FfbUxTc3lDaGk1b1pJN3V0S2p1YUp3UQ?oc=5"
+      "title": "배현진 \"박진영, 4개사 손해본단 건 사실 아냐...마이크 있을 때 없을 때 말 달라\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOOXltYlo4d25oZmZBV2pBQmJ2VlhTalp3WUpyektkZEVDU2o3WDVvQ1NNdVQwaWVUZ2wyUHlEaWZyOXJsT0U1UktaaFJIbEdZT2JuUEFpYXVkZw?oc=5"
      },
      {
-      "press": "주간경향",
-      "title": "한동훈 딸 ‘허위 스펙’ 수사 때 압색영장 신청 0건…배우자만 서면조사",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04ZFRrMm1tMDlkUE9penkwWjJmMU5nWHlBcHlqTVdibEtjVkxmdmJlcnZPc0JHTGRndWt1RjhIZnU2MjhYVmtZdUx5c0hEV1NvUmhkRndPYnlCdGJmbWc?oc=5"
-     },
-     {
-      "press": "국민뉴스",
-      "title": "사상초유 내로남불 야누스 한동훈 딸 '허위 스펙' 경찰도 덮었다...압색영장 신청 전무 김혜경 여사133회,조민 70회 압색과 딴판, 부인만 1회 서면조사",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zV1lFZVRIbWZTMTZJdXZ6RHZZWEdvOXRUaFltcTR1eHo2N2dhdkxWTGlmQllSaGlHQWZHWkNPY01YbTFGbjVReGVveXVyN0NlUHVYaQ?oc=5"
+      "press": "위키트리",
+      "title": "“박진영, 마이크 있을 때 없을 때 말 달라”…JYP 박진영 정면으로 저격한 인물",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ac0RzZUNtUjBzbWNpNUZIT2xDakgzSUZWTl9OeGdHWjJ0aE04SF9GWUlRa2laZ3JKUkkxekxrUVdLR2d0ZXdsY3VSWDh2YXJGOEJsZXFB?oc=5"
      }
     ]
    }
   },
   {
-   "title": "한동훈 “민주당, 정치보복 위해 제 딸에 대한 허위사실 유포”…법적대응 예고",
-   "source": "매일경제",
-   "url": "https://n.news.naver.com/article/009/0005747254",
-   "published_at": "2026-10-12T16:09:18+09:00",
+   "title": "“친정에서도 이럴 줄은”…추미애에 민주당마저 '독주' 직격",
+   "source": "이데일리",
+   "url": "https://n.news.naver.com/article/018/0006387050",
+   "published_at": "2026-10-13T11:52:12+09:00",
    "section_id": "100",
    "view_rank": 5,
-   "comment_count": 559,
-   "comment_agree": 245,
-   "comment_disagree": 42,
-   "division_balance": 0.292683,
-   "division_score": 1.657452,
+   "comment_count": 233,
+   "comment_agree": 151,
+   "comment_disagree": 15,
+   "division_balance": 0.180723,
+   "division_score": 0.924939,
    "selection": "찬반 쟁점",
-   "summary": "한동훈 무소속 의원은 딸의 허위 봉사활동 의혹을 제기한 더불어민주당에 민형사상 법적 대응을 예고했다. 한 의원은 12일 페이스북에 경찰의 불송치 결정서를 공개하며 “정치…",
-   "summary_long": "한동훈 무소속 의원은 딸의 허위 봉사활동 의혹을 제기한 더불어민주당에 민형사상 법적 대응을 예고했다. 경찰 수사에서 이미 무혐의로 결론 난 사안을 다시 꺼내 자녀를 겨냥한 정치 보복에 나섰다는 주장이다. 한 의원은 12일 페이스북에 경찰의 불송치 결정서를 공개하며 “정치 보복을 위해 상관도 없는 자녀에 대한 허위사실을 유포하고 있다”며 이같이 밝혔다.\n\n2022년 6월께 복지시설이 봉사실적을 미리 기재했다는 MBC 보도와 사세행의 고발로 경찰 수사가 진행됐지만, 꾸준히 봉사활동을 했고 위조나 허위 기재가 아니라는 이유로 무혐의 결정이 내려졌다는 것이다. 한 의원은 “고발인 이의신청으로 수사심의위원회를 두 번이나 열었지만 무혐의 결론이 난 사안”이라며 당시 무료 영어 화상교습을 받은 아동의 부모들도 실제 봉사가 이뤄졌다는 점을 확인해줬다고 강조했다. 강 의원은 안양시 자원봉사센터가 ‘허위실적 입력’을 이유로 해당 아동센터의 수요처 등록을 취소했다며 “자원봉사센터가 요구한 것은 봉사했다는 증빙자료 하나였는데도 그 자료는 끝내 오지 않았다”고 밝혔다.",
+   "summary": "野 \"도 살림 내팽겨치고 중앙정치 기웃\" 13일 국회 행정안전위원회서 열린 경기도청 국정감사에서 추미애 경기도지사의 친정인 더불어민주당 의원들도 추 지사를 향해…",
+   "summary_long": "野 \"도 살림 내팽겨치고 중앙정치 기웃\" 13일 국회 행정안전위원회서 열린 경기도청 국정감사에서 추미애 경기도지사의 친정인 더불어민주당 의원들도 추 지사를 향해 “일방적인 독주를 하고 있다”며 비판을 내놨다. 13일 경기도 수원시 영통구 경기도청에서 열린 국회 행정안전위원회의 경기도에 대한 국정감사에서 추미애 경기도지사가 증인 선서를 하고 있다. 이날 경기도청에서 열린 행안위 국감에서 첫 질의자로 나선 이광희 민주당 의원은 “경기도는 여소야대 시절 연정을 민주당의 예산을 통과시키고, 동수였을 때도 밤 늦게 타결될 때까지 기다려 준 전통이 있는 곳”이라며 “지방자치의 바로미터인 경기도에서 협의와 합의가 중심이 되지 못하고 일방적으로 독주를 한다는…\n\n이에 대해 추 지사는 “전혀 독주를 할 생각도 없고 독주를 하지 않았다”며 “불가피하게 살림을 떠안아서 최종적으로 결정을 해야 하는 입장이었다”고 했다. 추 지사는 “선거가 있다보니 하반기 예산을 짜놓지 않은 것에 대한 대책을 세우지 못했다”며 “금방 4분기에 돌입하는데 예산 수립을 하다보니 불가피하게 시간에 쫓겼다”고 덧붙였다. 박상웅 국민의힘 의원은 “취임 후 추 지사의 SNS에는 ‘청년’, ‘산후조리’ 등 민생에 대한 책임과 역할을 떠올리게 하는 단어들이 안 보인다”며 “오히려 김지용 중수청장 후보자 이름 석자 등 중앙정치와 직결된 것들이 더 빈번하게 거론되고 있다는 지적이 있다”고 지적했다.",
    "quotes": [
-    "딸은 비대면으로 자원봉사자들이 수업을 진행하도록 스케줄을 조정하고 지원하는 일을 했지, 수업을 진행하는 봉사활동은 하지 않았다",
-    "자원봉사센터가 요구한 것은 봉사했다는 증빙자료 하나였는데도 그 자료는 끝내 오지 않았다",
-    "고발인 이의신청으로 수사심의위원회를 두 번이나 열었지만 무혐의 결론이 난 사안"
+    "취임 100일, 지난 석달간 대부분 시간은 재정 비상을 해소하기 위해 도정 업무보고와 회의를 하며 대책과 방안을 찾는 데 몰두해 왔다",
+    "주말이나 퇴근 후 심야 시간대에 주로 검찰개혁을 평소부터 소신껏 주장해 왔던 입장에서 저의 책임을 다하기 위해서 의견을 피력한 것",
+    "경기도는 여소야대 시절 연정을 민주당의 예산을 통과시키고, 동수였을 때도 밤 늦게 타결될 때까지 기다려 준 전통이 있는 곳"
    ],
-   "press": "매일경제",
+   "press": "이데일리",
    "photo": "07.jpg",
    "quoted": {
-    "quote": "딸은 비대면으로 자원봉사자들이 수업을 진행하도록 스케줄을 조정하고 지원하는 일을 했지, 수업을 진행하는 봉사활동은 하지 않았다",
-    "n": 4,
+    "quote": "주말이나 퇴근 후 심야 시간대에 주로 검찰개혁을 평소부터 소신껏 주장해 왔던 입장에서 저의 책임을 다하기 위해서 의견을 피력한 것",
+    "n": 9,
     "verified": 0,
     "items": [
      {
+      "press": "이데일리",
+      "title": "與, 경기도 국감서 秋에 \"일방적 독주\" 비판…추미애 \"전혀 아냐\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRkQtckF0WldHeU9NTWpQQWNCUWVENTNqU3VsQU94blA4cjNTTnJ1MmJFRy0zaFV5dllCYnBfSHdHNmRDd3FJVW9hSWJvTEdYWjJ0ZG5oaDJBSTNzOWdkLUUtOGpwU2llR3owMVFMVGlKS2ZoR1pEZmlBcWpMNG54Zw?oc=5"
+     },
+     {
+      "press": "이데일리",
+      "title": "\"정부와 반대 노선\" \"독주\"…추미애 '재정 비상' 직격한 與",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczNuNlJNYzZDYWQ4b0hlTTAzWDE3bExwQlc1Uk04Y0NrTjZWMGtxTlZlQlRSd0xnVk8wVVZac2M4eUNXcGFCZG5sbnJaWlhpazlGV1F0ZTE5UTBuajJWdGxwQkY1TEpab3ZiRncyMEF5VnlYb0NIQmRnRVVkcWI4SQ?oc=5"
+     },
+     {
       "press": "연합뉴스",
-      "title": "한동훈, 딸 허위 봉사 의혹에 \"무혐의 결론나…법적조치 할것\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aS1VhcFhyX2lSOTEwQjEzcHpoTFJPQVUxdVNEVk9RRndZcXlESXctX2tMOTZnNmF0R0NRRWdoajduUklZb3Y4RENrdHNxUHVRcVVzRnJaQ2l3SFnSAWBBVV95cUxQTG8tbG1rRDRuXzdnMjJtM01pUW9wcXNhWEdidEhQRlpqOGdfbDFjcFFnNV9fQW96TEFGUDBXYV9McVdBYWlEZ1BORGdiRk14dmUtSDYxZTBiZ2xVTHZ5SHk?oc=5"
+      "title": "추미애, 김지용 인선 묻는 野에 \"국감장서 답변 적절치 않아\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82cjc1SmhXV3g5VTQ0UmpfYmhIZVFBVUdoeG9DenlFdGdVYXFTUXRUN0I3Y1RUYjZiaUZwS3o4bWhlcU5vUkJua2lWSkZ3MWhqNXFvN3BQdktPZm9tcGV2cdIBYEFVX3lxTE82cjc1SmhXV3g5VTQ0UmpfYmhIZVFBVUdoeG9DenlFdGdVYXFTUXRUN0I3Y1RUYjZiaUZwS3o4bWhlcU5vUkJua2lWSkZ3MWhqNXFvN3BQdktPZm9tcGV2cQ?oc=5"
      },
      {
-      "press": "강원도민일보",
-      "title": "한동훈, 딸 봉사 허위기재 의혹에 “무혐의 결론…법적조치 할 것”",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfOEFZUzFYUGFJTS1PUHNnZ3I1amdndk1xTDF5MUJaSGR6ZjRwbXhMWDlxYVRmUjQxVHBILTN5dUhaY3RkWGQ1SlFUZ3VNTWl1Y0lSblFGYXh0YnR6UElpb04tZTRPTXJ3?oc=5"
+      "press": "국제신문",
+      "title": "추미애, 김지용 인선 거론 野에 “국감장서 적절치 않아”",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV3pXMFdfSXhtSDl2VnBFSmlabGdEZTYtVU9FYmw1NXpxZEhhNXVaN3NkUnoxODYtTEVaS09lY0xvN0FMY0hZdUNfZnk5V2FhNjlybmRlTWRkdDkyN3FodDVIMk5maDd0ODBQclhGd0w0eWtzdmpySXpWTlRxVm1zREtsWm5ZVkN2UGJVejI5ZDJrdVk?oc=5"
      },
      {
-      "press": "매일경제",
-      "title": "한동훈 “민주당, 정치보복 위해 제 딸에 대한 허위사실 유포”…법적대응 예고",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GUl8xUnREQTNOTzl1ZmZJeGMzR2luSkIxSWU1Y0hTc3VGd0NNR0dmb3pjczBoS1Blb2ZPckRzd0x1YVgzemc?oc=5"
+      "press": "동아일보",
+      "title": "與소속 지사 질타한 與 “경기도 예산 감액, 李정부 철학에 배치”",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jakdndnc5bzRkWHZNMlNtb3EtbHZBMTFJd0lLaS1uWVJ0aFFGV1Y0SWRVblF1dVZGSGZ5ay1GNWxxOVYxNDllQUxpSkRuMzIxdG1TZUdxR1ZZU1hWMGFUejgyelA1QdIBZkFVX3lxTE9Jakdndnc5bzRkWHZNMlNtb3EtbHZBMTFJd0lLaS1uWVJ0aFFGV1Y0SWRVblF1dVZGSGZ5ay1GNWxxOVYxNDllQUxpSkRuMzIxdG1TZUdxR1ZZU1hWMGFUejgyelA1QQ?oc=5"
      },
      {
-      "press": "세계일보",
-      "title": "강득구 “한동훈 딸 봉사 실적 허위”… 한동훈 “법적 조치”",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjNjRCUHJfUjBzOTNnMHBwUDV1MGFaVmQ0YXlrVUU2dzI3ajI3bFVCWkY2WENuSE53SnVQZVhsUzMxZTAyY3pCYzVpTC0tUjVsX3MzNNIBVEFVX3lxTFBjNjRCUHJfUjBzOTNnMHBwUDV1MGFaVmQ0YXlrVUU2dzI3ajI3bFVCWkY2WENuSE53SnVQZVhsUzMxZTAyY3pCYzVpTC0tUjVsX3MzNA?oc=5"
+      "press": "뉴데일리 경기",
+      "title": "추미애 국감서 '중앙정치 관여' 도마… 민주당도 \"발언 신중해야\"",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZWV3cldDREZYeXl0M1BaTzFGWl9tSFlYb1JWeEVjeGxmNmhHdE91eThNVGRLa0dqZERPZnh0bUItWEJ2MXJIY0R5TU1lUjFIVjRxU2t0QmxMckRUVG84OWxBbjVHajNVcnRKRmh6Yno2Y2ZRNnpPc2VIbEhIcVnSAX9BVV95cUxNNGVld3JXQ0RGWHl5dDNQWk8xRlpfbUhZWG9SVnhFY3hsZjZoR3RPdXk4TVRkS2tHamRET2Z4dG1CLVhCdjFySGNEeU1NZVIxSFY0cVNrdEJsTHJEVFRvODlsQW41R2ozVXJ0SkZoemJ6NmNmUTZ6T3NlSGxISHFZ?oc=5"
      }
     ]
    }
@@ -271,139 +321,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/01.png",
-   "pngBytes": 1693920,
-   "feed": "오늘의 뉴스 2026-10-13\n\n· 조계원, 김민석 아들 '아빠찬스' 법안 발의에 \"칭찬 받을 일…한동훈 딸은 '형사 책임'\"\n· \"탄핵으로 흥한 추미애, 광역단체장 최초로 탄핵될 것\"…이 대통령 \"생각 없이 칼 휘두르는 권력자\"\n· 결혼식장서 \"내란은 이재명\" 외친 신랑⋯하객들은 \"윤어게인\" 외치며 화답\n· [삶] \"말기암 19세 청년의 죽음…난 의사로서 받아들여야 했다\"\n· 與, '딸 허위 스펙 의혹' 앞세워 한동훈 맹공 vs 韓 \"비열한 정치보복\"\n· [단독]한동훈 딸 ‘허위 스펙 의혹’ 경찰 수사, 압색영장 신청 전무…배우자만 1회 ‘서면 조사’\n· 한동훈 “민주당, 정치보복 위해 제 딸에 대한 허위사실 유포”…법적대응 예고"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/01.png",
+   "pngBytes": 1848188,
+   "feed": "오늘의 뉴스 2026-10-14\n\n· \"與 지지율 처참, 국힘에도 역전\"…'김민석號' 지도부 내홍 일촉즉발\n· 병무청장 \"병역특례, 국제대회 1위만 인정\"\n· 제주 호텔 앞 살해당한 여성 “성관계 영상 유포 협박” 60대男 신고했었다\n· 반도체 앞 '시한폭탄'... 귀를 의심케 한 장관의 말 [반도체 특별과외]\n· [속보] 주진우 \"이재 명을 끊을 때\" 막말 논란...與 \"죽음 연상 경악스러워\"\n· \"박진영, 마이크 있을 때와 없을 때 말 달라\"…배현진 재반박\n· “친정에서도 이럴 줄은”…추미애에 민주당마저 '독주' 직격"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/02.png",
-   "pngBytes": 1686363,
-   "title": "조계원, 김민석 아들 '아빠찬스' 법안 발의에 \"칭찬 받을 일…한동훈 딸은 '형사 책임'\"",
-   "summary": "\"김 대표 아들 스펙용 법안은 뇌피셜\" 조계원 대변인은 12일 CBS 라디오 '박성태의 뉴스쇼'에서 출연해 \"김 대표 아들이 그렇게 좋은 법안을 만들기 위해서 노력했다면…",
-   "summary_long": "조계원 대변인은 12일 CBS 라디오 '박성태의 뉴스쇼'에서 출연해 \"김 대표 아들이 그렇게 좋은 법안을 만들기 위해서 노력했다면 오히려 칭찬받아야 할 일이지 그게 비난받아야 할 일이냐\"며 \"(스펙용 법안 이라는 건) 의혹일 뿐이다. 그는 한 의원 딸의 저작권법 위반 의혹을 수사하기 위한 경찰의 국제형사사법공조 요청이 검찰 단계에서 반려된 배경에는 당시 법무부 장관이던 한 의원의 존재가 있었다며 \"당연히 공조 요청을 했으면 수사가 됐고, 밝혀냈으면 이건 형사 책임을 물어야 될 사안\"이라고 강조했다. 이어 \"담당했던 공봉숙 검사의 말도 웃긴 게 0.99달러짜리 저작권 문제로 공조 요청하면 100% 거부당할 거라고 하는 데 왜 자의적으로 판단해서 덮냐\"며 \"0.99달러짜리 저작권 문제가 아니고 남의 수학 문제를 베껴서 전자책을 만들어고 상업적으로 판매한 것은 엄청난 범죄 행위\"라고 지적했다.\n\n한 의원이 조국 혁신정책연구원장의 딸 사건을 조사한 점을 언급하며 \"남을 사냥할 때와 자기 가족으로 그게 향했을 때는 180도 달라지는 이중 잣대를 적용한다\"라고 비판했다. 조 대변인은 김 대표 아들의 표절 예방 교육 관련 법안을 민주당 의원들이 실제 발의해 줬다며 '아빠 찬스'라고 비판한 한 의원의 의혹 제기에는 \"민생 현장에서 현안과 관련한 여러 제안을 받는다. 김 대표 아들이라고 해서 하지 말라는 법은 없다\"라며 \"사회를 위해 필요한 아이디어라면 얼마든지 법안으로 이어지면 더 좋은 일\"이라고 선을 그었다.",
-   "press": "데일리안",
-   "source": "데일리안",
-   "link": "https://n.news.naver.com/article/119/0003141695",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/02.png",
+   "pngBytes": 1854958,
+   "title": "\"與 지지율 처참, 국힘에도 역전\"…'김민석號' 지도부 내홍 일촉즉발",
+   "summary": "\"취임 100일 안에 당 지지율을 10%포인트 끌어올리겠다.\". 최민희 수석최고위원은 \"당 지지율이 처참하다\"며 외연 확장 노선을 표방해온 김 대표를 겨냥해 \"전통적…",
+   "summary_long": "\"취임 100일 안에 당 지지율을 10%포인트(p) 끌어올리겠다.\"(김민석 더불어민주당 대표). 김민석호 여당 지도부 체제가 출범한 지 두 달이 흘렀지만 당 지지율은 현 정부 출범 후 최저 수준으로 떨어졌다. 최민희 수석최고위원은 \"당 지지율이 처참하다\"며 외연 확장 노선을 표방해온 김 대표를 겨냥해 \"전통적 지지층이 느끼는 박탈감이 하락의 원인\"이라고 지목했다.\n\n앞서 김 대표는 전당대회 정국에서 취임 100일 안에 당 지지율을 10%p 높이겠다고 공언했다. 최 최고위원은 지지율 하락의 원인으로 \"전통적 지지층이 느끼는 박탈감과 상처 등이 원인이라고 생각한다\"며 \"지금은 이재명 대통령, 김민석 대표, 민주당이 한 묶음이 될 수 없는 상태로 본다\"고 진단했다. 한 민주당 관계자는 \"이미 전당대회에서 친청계 3인방이 입성하면서 내홍은 누구나 예상 가능했다\"며 \"앞으로 당정 지지율 하락세 국면에서 갈등이 더 증폭될 것\"이라고 말했다.",
+   "press": "시사저널",
+   "source": "시사저널",
+   "link": "https://n.news.naver.com/article/586/0000139860",
    "selection": "정치",
-   "feed": "뉴스 01. 조계원, 김민석 아들 '아빠찬스' 법안 발의에 \"칭찬 받을 일…한동훈 딸은 '형사 책임'\"\n\n조계원 대변인은 12일 CBS 라디오 '박성태의 뉴스쇼'에서 출연해 \"김 대표 아들이 그렇게 좋은 법안을 만들기 위해서 노력했다면 오히려 칭찬받아야 할 일이지 그게 비난받아야 할 일이냐\"며 \"(스펙용 법안 이라는 건) 의혹일 뿐이다. 그는 한 의원 딸의 저작권법 위반 의혹을 수사하기 위한 경찰의 국제형사사법공조 요청이 검찰 단계에서 반려된 배경에는 당시 법무부 장관이던 한 의원의 존재가 있었다며 \"당연히 공조 요청을 했으면 수사가 됐고, 밝혀냈으면 이건 형사 책임을 물어야 될 사안\"이라고 강조했다. 이어 \"담당했던 공봉숙 검사의 말도 웃긴 게 0.99달러짜리 저작권 문제로 공조 요청하면 100% 거부당할 거라고 하는 데 왜 자의적으로 판단해서 덮냐\"며 \"0.99달러짜리 저작권 문제가 아니고 남의 수학 문제를 베껴서 전자책을 만들어고 상업적으로 판매한 것은 엄청난 범죄 행위\"라고 지적했다.\n\n한 의원이 조국 혁신정책연구원장의 딸 사건을 조사한 점을 언급하며 \"남을 사냥할 때와 자기 가족으로 그게 향했을 때는 180도 달라지는 이중 잣대를 적용한다\"라고 비판했다. 조 대변인은 김 대표 아들의 표절 예방 교육 관련 법안을 민주당 의원들이 실제 발의해 줬다며 '아빠 찬스'라고 비판한 한 의원의 의혹 제기에는 \"민생 현장에서 현안과 관련한 여러 제안을 받는다. 김 대표 아들이라고 해서 하지 말라는 법은 없다\"라며 \"사회를 위해 필요한 아이디어라면 얼마든지 법안으로 이어지면 더 좋은 일\"이라고 선을 그었다.\n\n출처: 데일리안 / https://n.news.naver.com/article/119/0003141695"
+   "feed": "뉴스 01. \"與 지지율 처참, 국힘에도 역전\"…'김민석號' 지도부 내홍 일촉즉발\n\n\"취임 100일 안에 당 지지율을 10%포인트(p) 끌어올리겠다.\"(김민석 더불어민주당 대표). 김민석호 여당 지도부 체제가 출범한 지 두 달이 흘렀지만 당 지지율은 현 정부 출범 후 최저 수준으로 떨어졌다. 최민희 수석최고위원은 \"당 지지율이 처참하다\"며 외연 확장 노선을 표방해온 김 대표를 겨냥해 \"전통적 지지층이 느끼는 박탈감이 하락의 원인\"이라고 지목했다.\n\n앞서 김 대표는 전당대회 정국에서 취임 100일 안에 당 지지율을 10%p 높이겠다고 공언했다. 최 최고위원은 지지율 하락의 원인으로 \"전통적 지지층이 느끼는 박탈감과 상처 등이 원인이라고 생각한다\"며 \"지금은 이재명 대통령, 김민석 대표, 민주당이 한 묶음이 될 수 없는 상태로 본다\"고 진단했다. 한 민주당 관계자는 \"이미 전당대회에서 친청계 3인방이 입성하면서 내홍은 누구나 예상 가능했다\"며 \"앞으로 당정 지지율 하락세 국면에서 갈등이 더 증폭될 것\"이라고 말했다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000139860"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/03.png",
-   "pngBytes": 1801126,
-   "title": "\"탄핵으로 흥한 추미애, 광역단체장 최초로 탄핵될 것\"…이 대통령 \"생각 없이 칼 휘두르는 권력자\"",
-   "summary": "서정욱 변호사 / SBS 김태현의 정치쇼. 강수영 변호사 / SBS 김태현의 정치쇼.",
-   "summary_long": "최초로 광역단체장 중에 주민소환 끌려내려 오지 않을까. (추미애 지사 진짜 주민소환 해야 된다?) 그럼요. 진보, 보수 성향의 정치 평론가들이 일제히 추미애 경기도지사가 주민소환, 즉 탄핵될 수 있다고 주장했습니다.\n\n지난 6·3 지방선거에서 당선돼 7월 1일부터 임기가 시작된 추미애 지사는 내년 7월이면 주민소환 청구 대상이 될 수 있습니다. 서정욱 변호사 / SBS 김태현의 정치쇼. 결국 이재명 대통령이 소셜미디어에서 '소액의 서민 복지예산 삭감' 등을 언급하며 '생각 없이 칼을 휘두르는 권력자'라고 지적한 것도, 추미애 지사를 염두에 둔 거란 해석이 나옵니다.",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000515197",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/03.png",
+   "pngBytes": 1802936,
+   "title": "병무청장 \"병역특례, 국제대회 1위만 인정\"",
+   "summary": "병무청은 우선 예술계 병역특례 기준을 국제 대회 1위로 강화하기로 했고, 체육 특례는 다음 달 말, 연구용역이 끝나는 대로 제도 손질에 들어가기로 했습니다. 아시안게임…",
+   "summary_long": "어제 국정감사에서 병무청장은 아시안게임 축구대표팀 선수들의 병역특례 발언에 대해 유감을 표했습니다. 병무청은 우선 예술계 병역특례 기준을 국제 대회 1위로 강화하기로 했고, 체육 특례는 다음 달 말, 연구용역이 끝나는 대로 제도 손질에 들어가기로 했습니다. 아시안게임 축구대표팀 선수들이 지핀 병역특례 논란에 홍소영 병무청장은 \"매우 안타깝고 유감스럽다\"고 말문을 열었습니다.\n\n\"우리 젊은 청년들이 받았을, 느꼈을 상실감과 제도 개선을 요구하는 국민의 목소리를 병무청장으로서 무겁게 받아들이고 있습니다.\" 그러면서 예술·체육 분야의 병역특례 제도를 책임지고 개선하겠다고 밝혔습니다. 병무청은 체육분야 병역특례는 다음 달 말 연구용역 결과를 토대로 구체적인 개선책을 내놓기로 했는데, 병역특례를 점진적으로 폐지하는 방향으로 검토 중입니다.",
+   "press": "MBC",
+   "source": "MBC",
+   "link": "https://n.news.naver.com/article/214/0001528620",
    "selection": "정치",
-   "feed": "뉴스 02. \"탄핵으로 흥한 추미애, 광역단체장 최초로 탄핵될 것\"…이 대통령 \"생각 없이 칼 휘두르는 권력자\"\n\n최초로 광역단체장 중에 주민소환 끌려내려 오지 않을까. (추미애 지사 진짜 주민소환 해야 된다?) 그럼요. 진보, 보수 성향의 정치 평론가들이 일제히 추미애 경기도지사가 주민소환, 즉 탄핵될 수 있다고 주장했습니다.\n\n지난 6·3 지방선거에서 당선돼 7월 1일부터 임기가 시작된 추미애 지사는 내년 7월이면 주민소환 청구 대상이 될 수 있습니다. 서정욱 변호사 / SBS 김태현의 정치쇼. 결국 이재명 대통령이 소셜미디어에서 '소액의 서민 복지예산 삭감' 등을 언급하며 '생각 없이 칼을 휘두르는 권력자'라고 지적한 것도, 추미애 지사를 염두에 둔 거란 해석이 나옵니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000515197"
+   "feed": "뉴스 02. 병무청장 \"병역특례, 국제대회 1위만 인정\"\n\n어제 국정감사에서 병무청장은 아시안게임 축구대표팀 선수들의 병역특례 발언에 대해 유감을 표했습니다. 병무청은 우선 예술계 병역특례 기준을 국제 대회 1위로 강화하기로 했고, 체육 특례는 다음 달 말, 연구용역이 끝나는 대로 제도 손질에 들어가기로 했습니다. 아시안게임 축구대표팀 선수들이 지핀 병역특례 논란에 홍소영 병무청장은 \"매우 안타깝고 유감스럽다\"고 말문을 열었습니다.\n\n\"우리 젊은 청년들이 받았을, 느꼈을 상실감과 제도 개선을 요구하는 국민의 목소리를 병무청장으로서 무겁게 받아들이고 있습니다.\" 그러면서 예술·체육 분야의 병역특례 제도를 책임지고 개선하겠다고 밝혔습니다. 병무청은 체육분야 병역특례는 다음 달 말 연구용역 결과를 토대로 구체적인 개선책을 내놓기로 했는데, 병역특례를 점진적으로 폐지하는 방향으로 검토 중입니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001528620"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/04.png",
-   "pngBytes": 2009171,
-   "title": "결혼식장서 \"내란은 이재명\" 외친 신랑⋯하객들은 \"윤어게인\" 외치며 화답",
-   "summary": "한 결혼식장에서 신랑과 신부가 이재명 대통령을 비난하는 노래를 부르고, 하객들도 이에 호응하며 '윤어게인' 구호를 외치는 모습의 영상이 공개돼 누리꾼들이 갑론을박을…",
-   "summary_long": "최근 각종 온라인 커뮤니티와 사회관계망서비스(SNS)에는 지난 9일 경기도 부천시 한 웨딩홀에서 열린 결혼식 영상이 확산했다. 사진은 해당 결혼식에서 신랑과 신부가 노래를 부르는 모습. 해당 영상 속 신랑은 마이크를 들고 \"내란은 이재명, 재판받아라\"라는 가사로 노래를 불렀고 신부 역시 리듬을 타며 이를 따라불렀다.\n\n결혼식에 참석한 하객들도 모두 신랑·신부의 이 같은 행동에 '윤어게인'이라는 문구가 적힌 빨간 수건을 펼쳐 들며 호응했다. 이어 신랑·신부가 퇴장할 때는 이들과 함께 일제히 \"윤어게인 승리하리라\"는 구호를 합창했다. 한 결혼식장에서 신랑과 신부가 이재명 대통령을 비난하는 노래를 부르고, 하객들도 이에 호응하며 '윤어게인' 구호를 외치는 모습의 영상이 공개돼 누리꾼들이 갑론을박을 펼치고 있다.",
-   "press": "아이뉴스24",
-   "source": "아이뉴스24",
-   "link": "https://n.news.naver.com/article/031/0001064917",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/04.png",
+   "pngBytes": 1636197,
+   "title": "제주 호텔 앞 살해당한 여성 “성관계 영상 유포 협박” 60대男 신고했었다",
+   "summary": "12일 새벽 제주시 연동의 한 호텔 앞 길거리에서 60대 남성이 40대 여성을 흉기로 찔러 숨지게 하는 사건이 발생했다. 지난 12일 제주의 한 호텔 앞에서 60대…",
+   "summary_long": "12일 새벽 제주시 연동의 한 호텔 앞 길거리에서 60대 남성이 40대 여성을 흉기로 찔러 숨지게 하는 사건이 발생했다. 지난 12일 제주의 한 호텔 앞에서 60대 남성이 휘두른 흉기에 사망한 40대 여성이 지난 3월에는 ‘성관계 영상 유포’ 협박을 받았다며 경찰에 신고한 것으로 전해졌다. 13일 연합뉴스에 따르면 이번 사건 살인 혐의를 받는 A씨는 지난 3월 5일 피해 여성 B씨로부터 성폭력 관련 신고를 당했다.\n\n당시 B씨는 A씨가 ‘성관계 영상을 유포하겠다’고 협박했다는 취지로 경찰에 신고한 것으로 알려졌다. A씨는 지난 12일 오전 1시 38분쯤 제주시 연동의 한 호텔 앞 길거리에서 B씨를 흉기로 찔러 숨지게 한 혐의를 받는다. 하지만 B씨는 사건 당시 착용하고 있던 스마트워치로 신고조차 하지 못한 채 숨진 것으로 전해졌다.",
+   "press": "서울신문",
+   "source": "서울신문",
+   "link": "https://n.news.naver.com/article/081/0003688404",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 결혼식장서 \"내란은 이재명\" 외친 신랑⋯하객들은 \"윤어게인\" 외치며 화답\n\n최근 각종 온라인 커뮤니티와 사회관계망서비스(SNS)에는 지난 9일 경기도 부천시 한 웨딩홀에서 열린 결혼식 영상이 확산했다. 사진은 해당 결혼식에서 신랑과 신부가 노래를 부르는 모습. 해당 영상 속 신랑은 마이크를 들고 \"내란은 이재명, 재판받아라\"라는 가사로 노래를 불렀고 신부 역시 리듬을 타며 이를 따라불렀다.\n\n결혼식에 참석한 하객들도 모두 신랑·신부의 이 같은 행동에 '윤어게인'이라는 문구가 적힌 빨간 수건을 펼쳐 들며 호응했다. 이어 신랑·신부가 퇴장할 때는 이들과 함께 일제히 \"윤어게인 승리하리라\"는 구호를 합창했다. 한 결혼식장에서 신랑과 신부가 이재명 대통령을 비난하는 노래를 부르고, 하객들도 이에 호응하며 '윤어게인' 구호를 외치는 모습의 영상이 공개돼 누리꾼들이 갑론을박을 펼치고 있다.\n\n출처: 아이뉴스24 / https://n.news.naver.com/article/031/0001064917"
+   "feed": "뉴스 03. 제주 호텔 앞 살해당한 여성 “성관계 영상 유포 협박” 60대男 신고했었다\n\n12일 새벽 제주시 연동의 한 호텔 앞 길거리에서 60대 남성이 40대 여성을 흉기로 찔러 숨지게 하는 사건이 발생했다. 지난 12일 제주의 한 호텔 앞에서 60대 남성이 휘두른 흉기에 사망한 40대 여성이 지난 3월에는 ‘성관계 영상 유포’ 협박을 받았다며 경찰에 신고한 것으로 전해졌다. 13일 연합뉴스에 따르면 이번 사건 살인 혐의를 받는 A씨는 지난 3월 5일 피해 여성 B씨로부터 성폭력 관련 신고를 당했다.\n\n당시 B씨는 A씨가 ‘성관계 영상을 유포하겠다’고 협박했다는 취지로 경찰에 신고한 것으로 알려졌다. A씨는 지난 12일 오전 1시 38분쯤 제주시 연동의 한 호텔 앞 길거리에서 B씨를 흉기로 찔러 숨지게 한 혐의를 받는다. 하지만 B씨는 사건 당시 착용하고 있던 스마트워치로 신고조차 하지 못한 채 숨진 것으로 전해졌다.\n\n출처: 서울신문 / https://n.news.naver.com/article/081/0003688404"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/05.png",
-   "pngBytes": 1704549,
-   "title": "[삶] \"말기암 19세 청년의 죽음…난 의사로서 받아들여야 했다\"",
-   "summary": "이는 김현아 한림대 성심병원 교수가 연합뉴스와의 인터뷰에서 말한 내용이다. 김 교수는 인터뷰에서 \"말기 암 환자의 경우 무리한 치료를 계속하는 일이 꽤 있다\"면서…",
-   "summary_long": "이는 김현아 한림대 성심병원 교수(류마티스 내과)가 연합뉴스와의 인터뷰에서 말한 내용이다. 김 교수는 인터뷰에서 \"말기 암 환자의 경우 무리한 치료를 계속하는 일이 꽤 있다\"면서 \"이렇게 되면 환자 입장에서는 생명 연장 효과는 거의 없는 데도 많은 돈을 추가로 써야 할 뿐 아니라, 자기 삶을 정리할 시간을 갖지 못하는 문제가 생길 수 있다\"고 했다. 그는 \"현재의 의료 환경에서는 의사가 치료를 중단하기 어렵기 때문에 환자와 보호자들이 잘 판단해야 한다\"면서 \"중환자실에서 무의미하게 생명을 연장하는 것이 맞는지에 대해서도 생각해봐야 한다\"고 했다.\n\n병원들이 가성비가 떨어지는 수억원대의 항암제를 환자에게 투여하는 것, 낮은 가격의 약이 고가의 약에 밀려나는 것도 의산복합체와 무관하지 않다고 본다. 대학병원의 교수가 환자를 많이 보고, 고가(高價)의 검사 처방을 많이 내면 연봉이 올라간다. 이런 점에서 병원의 수입과 교수 연봉을 연동시키는 것은 문제가 있다고 본다.",
-   "press": "연합뉴스",
-   "source": "연합뉴스",
-   "link": "https://n.news.naver.com/article/001/0016369639",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/05.png",
+   "pngBytes": 1671957,
+   "title": "반도체 앞 '시한폭탄'... 귀를 의심케 한 장관의 말 [반도체 특별과외]",
+   "summary": "'글로벌 빅테크 기업들 탄소중립 포기·연기했다'는 김정관 장관 발언, 사실과 달라. \"탄소중립 이슈에 대해서도 지금 반도체 업계에서는 이걸 처음에 제기했던 기업들이…",
+   "summary_long": "'글로벌 빅테크 기업들 탄소중립 포기·연기했다'는 김정관 장관 발언, 사실과 달라. \"탄소중립 이슈에 대해서도 지금 반도체 업계에서는 이걸 처음에 제기했던 기업들이 탄소중립을 사실상 포기하면 포기, 연기하면 연기하는 상황입니다. 이 답변을 듣고 제가 모르는 사이에 세상이 바뀌었나 싶어, 국내 반도체 업계에 RE100 동참을 요구하고 있는 구글, 애플, MS, 메타의 최신 환경보고서를 다시 한 번 샅샅이 살펴봤습니다.\n\n반도체 관련 빅테크 기업들이 탄소중립을 포기하거나 연기하고 있는 사례를 단 하나라도 제시해 보십시오. 탄소 중립을 선언한 주요 빅테크와 반도체 기업들은 탄소중립을 포기하지 않았으며, 오히려 목표를 앞당기거나 협력사에 이를 강제하고 있는 실정입니다. 마이크로소프트와 구글, 메타 등 다른 기업들이 발표한 환경보고서 역시 모두가 2030년까지 100% 재생에너지 사용과 탄소 중립을 약속하고 있습니다.",
+   "press": "오마이뉴스",
+   "source": "오마이뉴스",
+   "link": "https://n.news.naver.com/article/047/0002531967",
    "selection": "경제·시사",
-   "feed": "뉴스 04. [삶] \"말기암 19세 청년의 죽음…난 의사로서 받아들여야 했다\"\n\n이는 김현아 한림대 성심병원 교수(류마티스 내과)가 연합뉴스와의 인터뷰에서 말한 내용이다. 김 교수는 인터뷰에서 \"말기 암 환자의 경우 무리한 치료를 계속하는 일이 꽤 있다\"면서 \"이렇게 되면 환자 입장에서는 생명 연장 효과는 거의 없는 데도 많은 돈을 추가로 써야 할 뿐 아니라, 자기 삶을 정리할 시간을 갖지 못하는 문제가 생길 수 있다\"고 했다. 그는 \"현재의 의료 환경에서는 의사가 치료를 중단하기 어렵기 때문에 환자와 보호자들이 잘 판단해야 한다\"면서 \"중환자실에서 무의미하게 생명을 연장하는 것이 맞는지에 대해서도 생각해봐야 한다\"고 했다.\n\n병원들이 가성비가 떨어지는 수억원대의 항암제를 환자에게 투여하는 것, 낮은 가격의 약이 고가의 약에 밀려나는 것도 의산복합체와 무관하지 않다고 본다. 대학병원의 교수가 환자를 많이 보고, 고가(高價)의 검사 처방을 많이 내면 연봉이 올라간다. 이런 점에서 병원의 수입과 교수 연봉을 연동시키는 것은 문제가 있다고 본다.\n\n출처: 연합뉴스 / https://n.news.naver.com/article/001/0016369639"
+   "feed": "뉴스 04. 반도체 앞 '시한폭탄'... 귀를 의심케 한 장관의 말 [반도체 특별과외]\n\n'글로벌 빅테크 기업들 탄소중립 포기·연기했다'는 김정관 장관 발언, 사실과 달라. \"탄소중립 이슈에 대해서도 지금 반도체 업계에서는 이걸 처음에 제기했던 기업들이 탄소중립을 사실상 포기하면 포기, 연기하면 연기하는 상황입니다. 이 답변을 듣고 제가 모르는 사이에 세상이 바뀌었나 싶어, 국내 반도체 업계에 RE100 동참을 요구하고 있는 구글, 애플, MS, 메타의 최신 환경보고서를 다시 한 번 샅샅이 살펴봤습니다.\n\n반도체 관련 빅테크 기업들이 탄소중립을 포기하거나 연기하고 있는 사례를 단 하나라도 제시해 보십시오. 탄소 중립을 선언한 주요 빅테크와 반도체 기업들은 탄소중립을 포기하지 않았으며, 오히려 목표를 앞당기거나 협력사에 이를 강제하고 있는 실정입니다. 마이크로소프트와 구글, 메타 등 다른 기업들이 발표한 환경보고서 역시 모두가 2030년까지 100% 재생에너지 사용과 탄소 중립을 약속하고 있습니다.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002531967"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/06.png",
-   "pngBytes": 1756409,
-   "title": "與, '딸 허위 스펙 의혹' 앞세워 한동훈 맹공 vs 韓 \"비열한 정치보복\"",
-   "summary": "범여권이 12일 한동훈 무소속 의원 딸의 허위 스펙 의혹 등을 놓고 집중 공세를 펼쳤다. 경찰청 국정감사에서 제기된 부실 수사 의혹에 이어 딸의 봉사활동 실적이 허위로…",
-   "summary_long": "범여권이 12일 한동훈 무소속 의원 딸의 허위 스펙 의혹 등을 놓고 집중 공세를 펼쳤다. 경찰청 국정감사에서 제기된 부실 수사 의혹에 이어 딸의 봉사활동 실적이 허위로 기록됐다는 주장까지 꺼내 들었다. 한 의원은 \"비열한 정치보복\"이라며 법적 조치를 예고했다.\n\n국회 행정안전위원회 소속 더불어민주당·조국혁신당 의원들은 이날 서울 서대문구 경찰청에서 열린 국정감사에서 한 의원 딸의 대필·표절 및 저작권법 위반 의혹을 수사했던 경찰의 대응이 소극적이었다고 비판을 쏟아냈다. 윤건영 민주당 의원은 \"한 의원 딸 사건의 수사 기간이 1년8개월에 달하는데도 압수수색이나 참고인 조사가 이뤄지지 않았다\"며 \"서슬 퍼런 법무부 장관 사건이라고 방치했던 것 아니냐\"고 비판했다. 강득구 민주당 의원은 이날 국회에서 기자회견을 열고 한 의원 딸의 봉사활동 허위 기재 의혹을 꺼내 들었다.",
-   "press": "머니투데이",
-   "source": "머니투데이",
-   "link": "https://n.news.naver.com/article/008/0005425116",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/06.png",
+   "pngBytes": 1403681,
+   "title": "[속보] 주진우 \"이재 명을 끊을 때\" 막말 논란...與 \"죽음 연상 경악스러워\"",
+   "summary": "주진우 국민의힘 의원이 이재명 대통령을 연상시키면서 \"이재 명을 끊을 때\"라고 말해 '막말' 논란이 일었다. '명을 끊다'는 사전적 의미로 '목숨을 끊다', 즉 '숨지게…",
+   "summary_long": "주진우 국민의힘 의원이 이재명 대통령을 연상시키면서 \"이재 명을 끊을 때\"라고 말해 '막말' 논란이 일었다. '명을 끊다'는 사전적 의미로 '목숨(命)을 끊다', 즉 '숨지게 하다' 또는 '스스로 목숨을 버리다'는 의미와 중첩되는 것으로, 이재명 대통령에 대한 비판의 의미를 담은 것으로 해석되면서 논란이 일었다. 이 원내대변인은 \"주 의원은 인간의 도리를 저버린 것\"이라며 \"생명마저 농담거리로 소비하는 행위는 결코 용납할 수 없다\"고 비판했다.\n\n김민석 대표도 \"그런 식의 말장난을 즐기는 분치고 정치생명이 긴 경우는 별로 못 봤다\"며 \"말장난이라고 하기도 정말 심한 정도\"라고 비판했다. 김 대표는 \"그런 분(주진우)들 때문에 정치 전체가 그런 것으로 받아들여지는 것도 억울하고 적절치 않다\"며 \"문제가 있는 부분들을 명확하게 짚어서 윤리적인 것은 윤리적으로, 법적인 것은 법적으로 처리하지 못하고 있는 상황이 안타깝다\"고 말했다. 민주당이 막말 운운하며 나를 입틀막 한다면, 이재명 부부의 막말 모음 육성을 기자회견장에서 틀어버릴 것이다\"라고 했다.",
+   "press": "프레시안",
+   "source": "프레시안",
+   "link": "https://n.news.naver.com/article/002/0002460597",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 與, '딸 허위 스펙 의혹' 앞세워 한동훈 맹공 vs 韓 \"비열한 정치보복\"\n\n범여권이 12일 한동훈 무소속 의원 딸의 허위 스펙 의혹 등을 놓고 집중 공세를 펼쳤다. 경찰청 국정감사에서 제기된 부실 수사 의혹에 이어 딸의 봉사활동 실적이 허위로 기록됐다는 주장까지 꺼내 들었다. 한 의원은 \"비열한 정치보복\"이라며 법적 조치를 예고했다.\n\n국회 행정안전위원회 소속 더불어민주당·조국혁신당 의원들은 이날 서울 서대문구 경찰청에서 열린 국정감사에서 한 의원 딸의 대필·표절 및 저작권법 위반 의혹을 수사했던 경찰의 대응이 소극적이었다고 비판을 쏟아냈다. 윤건영 민주당 의원은 \"한 의원 딸 사건의 수사 기간이 1년8개월에 달하는데도 압수수색이나 참고인 조사가 이뤄지지 않았다\"며 \"서슬 퍼런 법무부 장관 사건이라고 방치했던 것 아니냐\"고 비판했다. 강득구 민주당 의원은 이날 국회에서 기자회견을 열고 한 의원 딸의 봉사활동 허위 기재 의혹을 꺼내 들었다.\n\n출처: 머니투데이 / https://n.news.naver.com/article/008/0005425116"
+   "feed": "뉴스 05. [속보] 주진우 \"이재 명을 끊을 때\" 막말 논란...與 \"죽음 연상 경악스러워\"\n\n주진우 국민의힘 의원이 이재명 대통령을 연상시키면서 \"이재 명을 끊을 때\"라고 말해 '막말' 논란이 일었다. '명을 끊다'는 사전적 의미로 '목숨(命)을 끊다', 즉 '숨지게 하다' 또는 '스스로 목숨을 버리다'는 의미와 중첩되는 것으로, 이재명 대통령에 대한 비판의 의미를 담은 것으로 해석되면서 논란이 일었다. 이 원내대변인은 \"주 의원은 인간의 도리를 저버린 것\"이라며 \"생명마저 농담거리로 소비하는 행위는 결코 용납할 수 없다\"고 비판했다.\n\n김민석 대표도 \"그런 식의 말장난을 즐기는 분치고 정치생명이 긴 경우는 별로 못 봤다\"며 \"말장난이라고 하기도 정말 심한 정도\"라고 비판했다. 김 대표는 \"그런 분(주진우)들 때문에 정치 전체가 그런 것으로 받아들여지는 것도 억울하고 적절치 않다\"며 \"문제가 있는 부분들을 명확하게 짚어서 윤리적인 것은 윤리적으로, 법적인 것은 법적으로 처리하지 못하고 있는 상황이 안타깝다\"고 말했다. 민주당이 막말 운운하며 나를 입틀막 한다면, 이재명 부부의 막말 모음 육성을 기자회견장에서 틀어버릴 것이다\"라고 했다.\n\n출처: 프레시안 / https://n.news.naver.com/article/002/0002460597"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/07.png",
-   "pngBytes": 1754118,
-   "title": "[단독]한동훈 딸 ‘허위 스펙 의혹’ 경찰 수사, 압색영장 신청 전무…배우자만 1회 ‘서면 조사’",
-   "summary": "경찰이 윤석열 정부 당시 법무부 장관이던 한동훈 무소속 의원 딸의 ‘허위 스펙’ 의혹을 수사하며 압수수색 영장 신청을 한차례도 하지 않은 것으로 드러났다. 11일 국회…",
-   "summary_long": "한동훈 무소속 의원이 지난달 국회의원회관에서 열린 김승원 당시 법무부 장관 후보의 ‘신약 임상시험 청탁’ 의혹 관련 기자회견에서 발언하고 있다. 경찰이 윤석열 정부 당시 법무부 장관이던 한동훈 무소속 의원 딸의 ‘허위 스펙’ 의혹을 수사하며 압수수색 영장 신청을 한차례도 하지 않은 것으로 드러났다. 의혹 관련자 조사는 한 의원 배우자를 상대로만 한차례 서면으로 이뤄졌다.\n\n11일 국회 행정안전위원회 소속 윤건영 더불어민주당 의원이 경찰청에서 받은 자료에 따르면, 경찰은 2022년 5월 법무부 장관 후보자였던 한 의원 딸의 ‘허위 스펙’ 의혹 고발장을 접수해 이듬해 12월 불송치 결정으로 수사를 종료하기까지 압수수색 영장을 한차례도 신청하지 않은 것으로 확인됐다. 경찰청은 수사 당시 국수본과 서울청 간 사건 보고 현황에 대해 “보고 이력·주체는 별도 관리하지 않는다”고 윤 의원에게 답했다. 경찰청은 윤 의원에게 “서울경찰청이 서울중앙지검에 추가 공조를 요청한 사항은 없다”고 밝혔다.",
-   "press": "경향신문",
-   "source": "경향신문",
-   "link": "https://n.news.naver.com/article/032/0003475635",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/07.png",
+   "pngBytes": 1806164,
+   "title": "\"박진영, 마이크 있을 때와 없을 때 말 달라\"…배현진 재반박",
+   "summary": "배 의원은 12일 SBS라디오 ‘김태현의 정치쇼’에서 “박 위원장이 국감장에서 4개 회사들이 수백억 원의 손해를 보고 패노메논을 하기로 했다고 했는데, 개인적으로…",
+   "summary_long": "배현진 국민의힘 의원이 글로벌 K팝 축제 ‘패노메논’을 둘러싼 특혜 의혹과 관련해 박진영 대중문화교류위원회 공동위원장을 다시 겨냥했다. 배 의원은 12일 SBS라디오 ‘김태현의 정치쇼’에서 “박 위원장이 국감장에서 4개 회사들이 수백억 원의 손해를 보고 패노메논을 하기로 했다고 했는데, 개인적으로 이야기했을 때는 민간에서 하기 어려워서 국가가 필요하다라고 이야기 했다”면서 “박 위원장이 마이크가 있을 때 한 말과 마이크가 없을 때 한… 그는 “계약서에는 언제부터 시행하겠다라는 명시된 날짜가 없고, 문체부 장관은 도장만 찍혀 있을 뿐 장관의 이름도 적혀 있지 않다”면서 “그런 여러 가지 허술한 문제를 박 위원장도 ‘많이 허술하다’라고 인정을 했다”고 말했다.\n\n배 의원은 문체부 장관이 해당 계약의 문제를 인정하고 오는 23일 종합감사 전까지 재계약안을 마련하기로 했다고도 전했다. 그는 “계약서상에 국가가 특정한 민간회사와 함께 체결한 계약서상의 문제를 지적한 것이었기 때문에 그 부분에 관해서 문체부 장관이 불공정한 잘못된 계약이다라는 걸 인정을 했다”면서 “23일 국회 종합감사 때까지 재계약안을 마련해오겠다고 했다”고 밝혔다. 배 의원은 “굳이 박 위원장의 입장을 들었기 때문에 다시 모셔야 할 필요가 있을까 싶다”면서 “국가가 하는 사업이기 때문에 문화부 책임자인 장관이 이제 책임을 지셔야 한다”고 말했다.",
+   "press": "한국경제",
+   "source": "한국경제",
+   "link": "https://n.news.naver.com/article/015/0005341781",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. [단독]한동훈 딸 ‘허위 스펙 의혹’ 경찰 수사, 압색영장 신청 전무…배우자만 1회 ‘서면 조사’\n\n한동훈 무소속 의원이 지난달 국회의원회관에서 열린 김승원 당시 법무부 장관 후보의 ‘신약 임상시험 청탁’ 의혹 관련 기자회견에서 발언하고 있다. 경찰이 윤석열 정부 당시 법무부 장관이던 한동훈 무소속 의원 딸의 ‘허위 스펙’ 의혹을 수사하며 압수수색 영장 신청을 한차례도 하지 않은 것으로 드러났다. 의혹 관련자 조사는 한 의원 배우자를 상대로만 한차례 서면으로 이뤄졌다.\n\n11일 국회 행정안전위원회 소속 윤건영 더불어민주당 의원이 경찰청에서 받은 자료에 따르면, 경찰은 2022년 5월 법무부 장관 후보자였던 한 의원 딸의 ‘허위 스펙’ 의혹 고발장을 접수해 이듬해 12월 불송치 결정으로 수사를 종료하기까지 압수수색 영장을 한차례도 신청하지 않은 것으로 확인됐다. 경찰청은 수사 당시 국수본과 서울청 간 사건 보고 현황에 대해 “보고 이력·주체는 별도 관리하지 않는다”고 윤 의원에게 답했다. 경찰청은 윤 의원에게 “서울경찰청이 서울중앙지검에 추가 공조를 요청한 사항은 없다”고 밝혔다.\n\n출처: 경향신문 / https://n.news.naver.com/article/032/0003475635"
+   "feed": "뉴스 06. \"박진영, 마이크 있을 때와 없을 때 말 달라\"…배현진 재반박\n\n배현진 국민의힘 의원이 글로벌 K팝 축제 ‘패노메논’을 둘러싼 특혜 의혹과 관련해 박진영 대중문화교류위원회 공동위원장을 다시 겨냥했다. 배 의원은 12일 SBS라디오 ‘김태현의 정치쇼’에서 “박 위원장이 국감장에서 4개 회사들이 수백억 원의 손해를 보고 패노메논을 하기로 했다고 했는데, 개인적으로 이야기했을 때는 민간에서 하기 어려워서 국가가 필요하다라고 이야기 했다”면서 “박 위원장이 마이크가 있을 때 한 말과 마이크가 없을 때 한… 그는 “계약서에는 언제부터 시행하겠다라는 명시된 날짜가 없고, 문체부 장관은 도장만 찍혀 있을 뿐 장관의 이름도 적혀 있지 않다”면서 “그런 여러 가지 허술한 문제를 박 위원장도 ‘많이 허술하다’라고 인정을 했다”고 말했다.\n\n배 의원은 문체부 장관이 해당 계약의 문제를 인정하고 오는 23일 종합감사 전까지 재계약안을 마련하기로 했다고도 전했다. 그는 “계약서상에 국가가 특정한 민간회사와 함께 체결한 계약서상의 문제를 지적한 것이었기 때문에 그 부분에 관해서 문체부 장관이 불공정한 잘못된 계약이다라는 걸 인정을 했다”면서 “23일 국회 종합감사 때까지 재계약안을 마련해오겠다고 했다”고 밝혔다. 배 의원은 “굳이 박 위원장의 입장을 들었기 때문에 다시 모셔야 할 필요가 있을까 싶다”면서 “국가가 하는 사업이기 때문에 문화부 책임자인 장관이 이제 책임을 지셔야 한다”고 말했다.\n\n출처: 한국경제 / https://n.news.naver.com/article/015/0005341781"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/08.png",
-   "pngBytes": 1869270,
-   "title": "한동훈 “민주당, 정치보복 위해 제 딸에 대한 허위사실 유포”…법적대응 예고",
-   "summary": "한동훈 무소속 의원은 딸의 허위 봉사활동 의혹을 제기한 더불어민주당에 민형사상 법적 대응을 예고했다. 한 의원은 12일 페이스북에 경찰의 불송치 결정서를 공개하며 “정치…",
-   "summary_long": "한동훈 무소속 의원은 딸의 허위 봉사활동 의혹을 제기한 더불어민주당에 민형사상 법적 대응을 예고했다. 경찰 수사에서 이미 무혐의로 결론 난 사안을 다시 꺼내 자녀를 겨냥한 정치 보복에 나섰다는 주장이다. 한 의원은 12일 페이스북에 경찰의 불송치 결정서를 공개하며 “정치 보복을 위해 상관도 없는 자녀에 대한 허위사실을 유포하고 있다”며 이같이 밝혔다.\n\n2022년 6월께 복지시설이 봉사실적을 미리 기재했다는 MBC 보도와 사세행의 고발로 경찰 수사가 진행됐지만, 꾸준히 봉사활동을 했고 위조나 허위 기재가 아니라는 이유로 무혐의 결정이 내려졌다는 것이다. 한 의원은 “고발인 이의신청으로 수사심의위원회를 두 번이나 열었지만 무혐의 결론이 난 사안”이라며 당시 무료 영어 화상교습을 받은 아동의 부모들도 실제 봉사가 이뤄졌다는 점을 확인해줬다고 강조했다. 강 의원은 안양시 자원봉사센터가 ‘허위실적 입력’을 이유로 해당 아동센터의 수요처 등록을 취소했다며 “자원봉사센터가 요구한 것은 봉사했다는 증빙자료 하나였는데도 그 자료는 끝내 오지 않았다”고 밝혔다.",
-   "press": "매일경제",
-   "source": "매일경제",
-   "link": "https://n.news.naver.com/article/009/0005747254",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/08.png",
+   "pngBytes": 1842273,
+   "title": "“친정에서도 이럴 줄은”…추미애에 민주당마저 '독주' 직격",
+   "summary": "野 \"도 살림 내팽겨치고 중앙정치 기웃\" 13일 국회 행정안전위원회서 열린 경기도청 국정감사에서 추미애 경기도지사의 친정인 더불어민주당 의원들도 추 지사를 향해…",
+   "summary_long": "野 \"도 살림 내팽겨치고 중앙정치 기웃\" 13일 국회 행정안전위원회서 열린 경기도청 국정감사에서 추미애 경기도지사의 친정인 더불어민주당 의원들도 추 지사를 향해 “일방적인 독주를 하고 있다”며 비판을 내놨다. 13일 경기도 수원시 영통구 경기도청에서 열린 국회 행정안전위원회의 경기도에 대한 국정감사에서 추미애 경기도지사가 증인 선서를 하고 있다. 이날 경기도청에서 열린 행안위 국감에서 첫 질의자로 나선 이광희 민주당 의원은 “경기도는 여소야대 시절 연정을 민주당의 예산을 통과시키고, 동수였을 때도 밤 늦게 타결될 때까지 기다려 준 전통이 있는 곳”이라며 “지방자치의 바로미터인 경기도에서 협의와 합의가 중심이 되지 못하고 일방적으로 독주를 한다는…\n\n이에 대해 추 지사는 “전혀 독주를 할 생각도 없고 독주를 하지 않았다”며 “불가피하게 살림을 떠안아서 최종적으로 결정을 해야 하는 입장이었다”고 했다. 추 지사는 “선거가 있다보니 하반기 예산을 짜놓지 않은 것에 대한 대책을 세우지 못했다”며 “금방 4분기에 돌입하는데 예산 수립을 하다보니 불가피하게 시간에 쫓겼다”고 덧붙였다. 박상웅 국민의힘 의원은 “취임 후 추 지사의 SNS에는 ‘청년’, ‘산후조리’ 등 민생에 대한 책임과 역할을 떠올리게 하는 단어들이 안 보인다”며 “오히려 김지용 중수청장 후보자 이름 석자 등 중앙정치와 직결된 것들이 더 빈번하게 거론되고 있다는 지적이 있다”고 지적했다.",
+   "press": "이데일리",
+   "source": "이데일리",
+   "link": "https://n.news.naver.com/article/018/0006387050",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 한동훈 “민주당, 정치보복 위해 제 딸에 대한 허위사실 유포”…법적대응 예고\n\n한동훈 무소속 의원은 딸의 허위 봉사활동 의혹을 제기한 더불어민주당에 민형사상 법적 대응을 예고했다. 경찰 수사에서 이미 무혐의로 결론 난 사안을 다시 꺼내 자녀를 겨냥한 정치 보복에 나섰다는 주장이다. 한 의원은 12일 페이스북에 경찰의 불송치 결정서를 공개하며 “정치 보복을 위해 상관도 없는 자녀에 대한 허위사실을 유포하고 있다”며 이같이 밝혔다.\n\n2022년 6월께 복지시설이 봉사실적을 미리 기재했다는 MBC 보도와 사세행의 고발로 경찰 수사가 진행됐지만, 꾸준히 봉사활동을 했고 위조나 허위 기재가 아니라는 이유로 무혐의 결정이 내려졌다는 것이다. 한 의원은 “고발인 이의신청으로 수사심의위원회를 두 번이나 열었지만 무혐의 결론이 난 사안”이라며 당시 무료 영어 화상교습을 받은 아동의 부모들도 실제 봉사가 이뤄졌다는 점을 확인해줬다고 강조했다. 강 의원은 안양시 자원봉사센터가 ‘허위실적 입력’을 이유로 해당 아동센터의 수요처 등록을 취소했다며 “자원봉사센터가 요구한 것은 봉사했다는 증빙자료 하나였는데도 그 자료는 끝내 오지 않았다”고 밝혔다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005747254"
+   "feed": "뉴스 07. “친정에서도 이럴 줄은”…추미애에 민주당마저 '독주' 직격\n\n野 \"도 살림 내팽겨치고 중앙정치 기웃\" 13일 국회 행정안전위원회서 열린 경기도청 국정감사에서 추미애 경기도지사의 친정인 더불어민주당 의원들도 추 지사를 향해 “일방적인 독주를 하고 있다”며 비판을 내놨다. 13일 경기도 수원시 영통구 경기도청에서 열린 국회 행정안전위원회의 경기도에 대한 국정감사에서 추미애 경기도지사가 증인 선서를 하고 있다. 이날 경기도청에서 열린 행안위 국감에서 첫 질의자로 나선 이광희 민주당 의원은 “경기도는 여소야대 시절 연정을 민주당의 예산을 통과시키고, 동수였을 때도 밤 늦게 타결될 때까지 기다려 준 전통이 있는 곳”이라며 “지방자치의 바로미터인 경기도에서 협의와 합의가 중심이 되지 못하고 일방적으로 독주를 한다는…\n\n이에 대해 추 지사는 “전혀 독주를 할 생각도 없고 독주를 하지 않았다”며 “불가피하게 살림을 떠안아서 최종적으로 결정을 해야 하는 입장이었다”고 했다. 추 지사는 “선거가 있다보니 하반기 예산을 짜놓지 않은 것에 대한 대책을 세우지 못했다”며 “금방 4분기에 돌입하는데 예산 수립을 하다보니 불가피하게 시간에 쫓겼다”고 덧붙였다. 박상웅 국민의힘 의원은 “취임 후 추 지사의 SNS에는 ‘청년’, ‘산후조리’ 등 민생에 대한 책임과 역할을 떠올리게 하는 단어들이 안 보인다”며 “오히려 김지용 중수청장 후보자 이름 석자 등 중앙정치와 직결된 것들이 더 빈번하게 거론되고 있다는 지적이 있다”고 지적했다.\n\n출처: 이데일리 / https://n.news.naver.com/article/018/0006387050"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-13/09.png",
-   "pngBytes": 1346019
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-14/09.png",
+   "pngBytes": 1346237
   }
  ],
- "caption": "📰 10월 13일 오늘의 뉴스\n\n1. 조계원, 김민석 아들 '아빠찬스' 법안 발의에 \"칭찬 받을 일…한동훈 딸은 '형사 책임'\"\n   \"김 대표 아들 스펙용 법안은 뇌피셜\" 조계원 대변인은 12일 CBS 라디오 '박성태의 뉴스쇼'에서 출연해 \"김 대표 아들이 그렇게 좋은 법안을 만들기 위해서 노력했다면…\n2. \"탄핵으로 흥한 추미애, 광역단체장 최초로 탄핵될 것\"…이 대통령 \"생각 없이 칼 휘두르는 권력자\"\n   서정욱 변호사 / SBS 김태현의 정치쇼. 강수영 변호사 / SBS 김태현의 정치쇼.\n3. 결혼식장서 \"내란은 이재명\" 외친 신랑⋯하객들은 \"윤어게인\" 외치며 화답\n   한 결혼식장에서 신랑과 신부가 이재명 대통령을 비난하는 노래를 부르고, 하객들도 이에 호응하며 '윤어게인' 구호를 외치는 모습의 영상이 공개돼 누리꾼들이 갑론을박을…\n4. [삶] \"말기암 19세 청년의 죽음…난 의사로서 받아들여야 했다\"\n   이는 김현아 한림대 성심병원 교수가 연합뉴스와의 인터뷰에서 말한 내용이다. 김 교수는 인터뷰에서 \"말기 암 환자의 경우 무리한 치료를 계속하는 일이 꽤 있다\"면서…\n5. 與, '딸 허위 스펙 의혹' 앞세워 한동훈 맹공 vs 韓 \"비열한 정치보복\"\n   범여권이 12일 한동훈 무소속 의원 딸의 허위 스펙 의혹 등을 놓고 집중 공세를 펼쳤다. 경찰청 국정감사에서 제기된 부실 수사 의혹에 이어 딸의 봉사활동 실적이 허위로…\n6. [단독]한동훈 딸 ‘허위 스펙 의혹’ 경찰 수사, 압색영장 신청 전무…배우자만 1회 ‘서면 조사’\n   경찰이 윤석열 정부 당시 법무부 장관이던 한동훈 무소속 의원 딸의 ‘허위 스펙’ 의혹을 수사하며 압수수색 영장 신청을 한차례도 하지 않은 것으로 드러났다. 11일 국회…\n7. 한동훈 “민주당, 정치보복 위해 제 딸에 대한 허위사실 유포”…법적대응 예고\n   한동훈 무소속 의원은 딸의 허위 봉사활동 의혹을 제기한 더불어민주당에 민형사상 법적 대응을 예고했다. 한 의원은 12일 페이스북에 경찰의 불송치 결정서를 공개하며 “정치…\n\n🗣 “고발인들만 소환 조사하고 직접 혐의를 확인해야 할 피고발인은 안방에서 답변할 수 있게 편의를 봐준 것을 공정한 수사라고 볼 수 있는지 의문”\n이 발언을 그대로 실은 보도 4건 · 경향신문 · 파이낸셜뉴스 · 주간경향 · 국민뉴스\n· 경향신문 — [단독]한동훈 딸 ‘허위 스펙 의혹’ 경찰 수사, 압색영장 신청 전무…배우자만 1회 ‘서면 조사’\n· 파이낸셜뉴스 — 한동훈 딸 '허위 스펙', 압색 영장 신청 '0건'…배우자 서면조사 1회뿐\n· 주간경향 — 한동훈 딸 ‘허위 스펙’ 수사 때 압색영장 신청 0건…배우자만 서면조사\n· 국민뉴스 — 사상초유 내로남불 야누스 한동훈 딸 '허위 스펙' 경찰도 덮었다...압색영장 신청 전무 김혜경 여사133회,조민 70회 압색과 딴판, 부인만 1회 서면조사\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, 경향신문, 데일리안, 매일경제, 머니투데이, 아이뉴스24, 연합뉴스"
+ "caption": "📰 10월 14일 오늘의 뉴스\n\n1. \"與 지지율 처참, 국힘에도 역전\"…'김민석號' 지도부 내홍 일촉즉발\n   \"취임 100일 안에 당 지지율을 10%포인트 끌어올리겠다.\". 최민희 수석최고위원은 \"당 지지율이 처참하다\"며 외연 확장 노선을 표방해온 김 대표를 겨냥해 \"전통적…\n2. 병무청장 \"병역특례, 국제대회 1위만 인정\"\n   병무청은 우선 예술계 병역특례 기준을 국제 대회 1위로 강화하기로 했고, 체육 특례는 다음 달 말, 연구용역이 끝나는 대로 제도 손질에 들어가기로 했습니다. 아시안게임…\n3. 제주 호텔 앞 살해당한 여성 “성관계 영상 유포 협박” 60대男 신고했었다\n   12일 새벽 제주시 연동의 한 호텔 앞 길거리에서 60대 남성이 40대 여성을 흉기로 찔러 숨지게 하는 사건이 발생했다. 지난 12일 제주의 한 호텔 앞에서 60대…\n4. 반도체 앞 '시한폭탄'... 귀를 의심케 한 장관의 말 [반도체 특별과외]\n   '글로벌 빅테크 기업들 탄소중립 포기·연기했다'는 김정관 장관 발언, 사실과 달라. \"탄소중립 이슈에 대해서도 지금 반도체 업계에서는 이걸 처음에 제기했던 기업들이…\n5. [속보] 주진우 \"이재 명을 끊을 때\" 막말 논란...與 \"죽음 연상 경악스러워\"\n   주진우 국민의힘 의원이 이재명 대통령을 연상시키면서 \"이재 명을 끊을 때\"라고 말해 '막말' 논란이 일었다. '명을 끊다'는 사전적 의미로 '목숨을 끊다', 즉 '숨지게…\n6. \"박진영, 마이크 있을 때와 없을 때 말 달라\"…배현진 재반박\n   배 의원은 12일 SBS라디오 ‘김태현의 정치쇼’에서 “박 위원장이 국감장에서 4개 회사들이 수백억 원의 손해를 보고 패노메논을 하기로 했다고 했는데, 개인적으로…\n7. “친정에서도 이럴 줄은”…추미애에 민주당마저 '독주' 직격\n   野 \"도 살림 내팽겨치고 중앙정치 기웃\" 13일 국회 행정안전위원회서 열린 경기도청 국정감사에서 추미애 경기도지사의 친정인 더불어민주당 의원들도 추 지사를 향해…\n\n🗣 “박 위원장이 국감장에서 4개 회사들이 수백억 원의 손해를 보고 패노메논을 하기로 했다고 했는데, 개인적으로 이야기했을 때는 민간에서 하기 어려워서 국가가 필요하다라고 이야기 했다”\n이 발언을 그대로 실은 보도 9건 · 매일신문 · 문화일보 · 한국경제 · 아주경제\n· 매일신문 — 배현진, 박진영에 \"마이크 있을 때와 없을 때 말 달라\" 재반박\n· 문화일보 — 배현진 “박진영, 마이크 있을 때와 없을 때 말이 달라…4개사 손해본단 건 사실 아냐”\n· 한국경제 — \"박진영, 마이크 있을 때와 없을 때 말 달라\"…배현진 재반박\n· 아주경제 — 배현진 박진영, 마이크 있을 때 없을 때 말 달라…그 이유가\n· 파이낸셜뉴스 — 배현진 \"박진영, 4개사 손해본단 건 사실 아냐...마이크 있을 때 없을 때 말 달라\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #반도체\n\n출처: MBC, 서울신문, 시사저널, 오마이뉴스, 이데일리, 프레시안, 한국경제"
 }
