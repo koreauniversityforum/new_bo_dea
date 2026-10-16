@@ -1,318 +1,205 @@
 {
- "date": "2026-10-15",
- "generated_at": "2026-10-15T10:08:58+09:00",
+ "date": "2026-10-16",
+ "generated_at": "2026-10-16T09:54:48+09:00",
  "mode": "daily",
- "window_start": "2026-10-14T00:00:00+09:00",
- "window_end": "2026-10-14T23:59:59+09:00",
+ "window_start": "2026-10-15T00:00:00+09:00",
+ "window_end": "2026-10-15T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "\"딸 숨져가던 21분 CCTV 사라져\"…양재웅 병원 사망 유족, 경찰 부실수사 질타",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000515623",
-   "published_at": "2026-10-14T11:34:02+09:00",
+   "title": "양향자 \"올공 시위 자격 없어\" 장동혁 \"이 기회에 흔드나\"…국힘 최고위 또 고성 충돌",
+   "source": "시사저널",
+   "url": "https://n.news.naver.com/article/586/0000139970",
+   "published_at": "2026-10-15T10:37:10+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "어제 국회 행정안전위원회 국정감사에 참고인으로 출석한 고인의 어머니는 당시 경찰이 핵심 증거를 뒤늦게 확보하는 등 초동수사에 심각한 문제가 있었다고 지적했습니다. 경찰은…",
-   "summary_long": "2024년 5월, 정신건강의학과 전문의 양재웅 씨가 운영하는 경기 부천의 정신병원에서 30대 여성 환자가 숨졌습니다. 어제(13일) 국회 행정안전위원회 국정감사에 참고인으로 출석한 고인의 어머니는 당시 경찰이 핵심 증거를 뒤늦게 확보하는 등 초동수사에 심각한 문제가 있었다고 지적했습니다. 경찰은 딸이 숨진 지 6개월이 지나서야 병원을 압수수색했고 그로부터 한달 남짓만에 의사협회 감정이 늦어진다며 수사를 멈췄습니다\"\n\n경찰 수사가 제자리걸음을 하는 사이 간호기록이 허위로 작성되고 의사 지시 없이 불법 강박이 이뤄진 정황이 국가인권위원회 조사를 통해 먼저 드러났습니다. 진료 기록 조작 여부를 밝힐 전자의무기록과 접속 이력을 경찰이 초동수사 단계에서 확보하지 않은 점을 정조준했습니다. 또 당시 수사를 지휘했던 책임자가 현재 경찰 수사를 심의하는 부서로 자리를 옮긴 점을 꼬집으며 \"전형적인 제 식구 감싸기\"라고 비판했습니다.",
-   "quotes": [
-    "딸이 숨져가던 새벽 3시 20분부터 3시 41분까지의 (CCTV) 영상은 없었습니다. 경찰은 딸이 숨진 지 6개월이 지나서야 병원을 압수수색했고 그로부터 한달 남짓만에 의사협회 감정이 늦어진다며 수사를 멈췄습니다",
-    "명백히 잘못된 부분을 따진 뒤 입장을 정리하겠다",
-    "딸 숨져가던 21분 영상 없다"
-   ],
-   "press": "JTBC",
-   "photo": "01.png",
-   "quoted": {
-    "quote": "딸이 숨져가던 새벽 3시 20분부터 3시 41분까지의 (CCTV) 영상은 없었습니다. 경찰은 딸이 숨진 지 6개월이 지나서야 병원을 압수수색했고 그로부터 한달 남짓만에 의사협회 감정이 늦어진다며 수사를 멈췄습니다",
-    "n": 2,
-    "verified": 0,
-    "items": [
-     {
-      "press": "JTBC",
-      "title": "\"딸 숨져가던 21분 CCTV 사라져\"…양재웅 병원 사망 유족, 경찰 부실수사 질타",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVZ1NIelFXbkZhTDVkTndvdmE1YnVtRmNDSEtMLWc2cHlWZGVYc3h0RU8tRVQ3TlU0c3pFbWJMZmFqSjRGLXVaSWFhaWZMbk85M3VHNg?oc=5"
-     },
-     {
-      "press": "인천일보",
-      "title": "[국감] “사망 6개월 만에 압수수색”…W진병원 유족, 재수사 촉구",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QMUhlNC1lSnEwWmJQRmVDTDE0dXBlcmQxVmZhd1VISkMteDlvbTcxTF9uMnBlaERyUlM1VzM2aWRiQzJiSHp5UlVVbWNreTlpX1d6eVNyWDBiVVBkOUIteFltWkJXT2J4NmctUzRaUXI?oc=5"
-     }
-    ]
-   }
+   "prep_error": "The read operation timed out"
   },
   {
-   "title": "임광현 대통령 비서실장 아내는 美 휴스턴 총영사·처남은 李 대통령 변호인",
-   "source": "조선비즈",
-   "url": "https://n.news.naver.com/article/366/0001197947",
-   "published_at": "2026-10-14T15:57:11+09:00",
+   "title": "[단독] \"대통령에 '아닙니다'하기 어려워\"… 장관들, '국무회의 생중계 축소' 건의",
+   "source": "한국일보",
+   "url": "https://n.news.naver.com/article/469/0000959538",
+   "published_at": "2026-10-15T04:31:25+09:00",
    "section_id": "100",
    "view_rank": 2,
    "selection": "정치",
-   "summary": "임광현 신임 대통령 비서실장은 이재명 대통령과 다양한 인연을 맺고 있다는 평가를 받고 있다. 이 변호사의 누나이자 임 비서실장의 아내인 인권단체 국경너머인권 이경은…",
-   "summary_long": "임광현 신임 대통령 비서실장은 이재명 대통령과 다양한 인연을 맺고 있다는 평가를 받고 있다. 임 비서실장의 처남은 이 대통령의 변호인단에서 활동한 이승엽 변호사다. 이 변호사의 누나이자 임 비서실장의 아내인 인권단체 국경너머인권 이경은 대표는 이번 정부에서 미국 휴스턴 총영사로 임명됐다.\n\n14일 임명된 임 비서실장은 연세대 경제학과(88학번) 출신으로 1994년 행정고시에 합격했다. 임 비서실장의 아내 이경은 휴스턴 총영사는 서울대 불어교육과(87학번) 출신으로 1995년 행정고시에 합격한 뒤 총무처, 공보처, 국무총리실, 보건복지부 등에서 근무했다. 임 비서실장의 처남 이승엽 변호사는 서울대 법대 출신으로 사법시험 37회에 합격하고 사법연수원을 27기로 수료했다.",
+   "summary": "\"생중계 도중 대통령에 반박 어려워\" 정부부처 장관 10여 명이 \"국무회의의 생중계 범위를 줄이는 것이 바람직하다\"는 의견을 이재명 대통령에게 전달해 줄 것을 한성숙…",
+   "summary_long": "\"생중계 도중 대통령에 반박 어려워\" 정부부처 장관 10여 명이 \"국무회의의 생중계 범위를 줄이는 것이 바람직하다\"는 의견을 이재명 대통령에게 전달해 줄 것을 한성숙 국무총리에게 건의한 것으로 14일 확인됐다. 한 참석자는 촉법소년 연령 기준 하향에 대한 공론화 조사결과(현행 14세→13세)와 관련, 이 대통령이 생중계 중 \"너무 미약하지 않느냐\"고 지적해 성평등가족부 장관이 반박할 새도 없이 공론화 결과가 무력화된 것을 예로 들었다.\n\n한 참석자는 \"생중계 중 '그게 아닙니다'라고 반박하면 대통령의 체면이 어떻게 되겠느냐. 한 총리에 \"이 대통령에 건의 전달해 달라\" 이 참석자는 \"한 총리에게 '국무위원들이 이렇게 의견을 모았으니 이를 이 대통령에게 전달해주면 좋겠다'고 했고 한 총리도 공감하는 모습이었다\"고 전했다.",
    "quotes": [
-    "임 비서실장의 처남은 대장동 및 대북송금의 변호사였으며 헌법재판관 후보로도 검토됐다. 임 실장 부인은 복지부 출신 비(非)외교관인데도 휴스턴 총영사로 발탁됐다",
-    "임 실장의 최근 경력을 보면 이 대통령이 특별히 챙기고 있다고 볼 수 밖에 없다",
-    "대장동 보은인사의 결정판"
-   ],
-   "press": "조선비즈",
-   "photo": "02.jpg",
-   "quoted": {
-    "quote": "임 실장의 최근 경력을 보면 이 대통령이 특별히 챙기고 있다고 볼 수 밖에 없다",
-    "n": 2,
-    "verified": 0,
-    "items": [
-     {
-      "press": "계룡일보",
-      "title": "대장동 사건 보은 인사 논란 '불섶'에 뛰어든 임광현 靑 비서실장",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UZHJ6d0hUOWJJdFVFVDcyWHNvYXVianFiVE5leFBUZnRFYlJPUEFVMEdScmNxVXFPdVktMGN3cTF2RlI1ME9QVmFJM2RsYVRMeEJINndMVEJVbTBoN3FqVndYV2t5QlNHUTAzaExn0gFuQVVfeXFMTVRkcnp3SFQ5Ykl0VUVUNzJYc29hdWJqcWJUTmV4UFRmdEViUk9QQVUwR1JyY3FVcU91WS0wY3dxMXZGUjUwT1BWYUkzZGxhVEx4Qkg2d0xUQlVtMGg3cWpWd1hXa3lCU0dRMDNoTGc?oc=5"
-     },
-     {
-      "press": "Chosunbiz",
-      "title": "임광현 대통령 비서실장 아내는 美 휴스턴 총영사·처남은 李 대통령 변호인 - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFRSWUxJbk1EZkE5Z1dROUV4SjdySEptWUc4aFVoNFdCNUJTZUdCZnFZVmRaMDNrWVhJSG5TaFcxOW5XUFBwQzVCWWU4dU5ocmNVeFQ1aXcwOEkzemJoTS1VOUp3NUtOdllaODI1V29PbDgwempHOUoyYVBEdXQzM29Ya3FncWJwLUNJZGRIN3JkQTB5aUxueTBn0gGuAUFVX3lxTE44akpjazVKTlViLU9TbUxUd1p0Wk11Q0FuckdXczhsX2RqTEdtMWZ2bTkySEJndWhIcm1RSDVHbnBqNzJhMDVKVDkzT0FrZU1kb3hidmctTFFHaWlKQmFEU09XSE1xTmcwQ2hLSXBGTlVHUlJqU2NQNEtabHZralRkRk1xSkZGQzdyUWFmU3h5WHhuQTZJWlAwOHRGZFdnMmdldlJZcnNTaXIwam5NUQ?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "“4층에 아이들 많았다, 나도 살고 싶어서 한 행동”…흉기 난동범에 의자 던져 막은 20대 ‘시민 영웅’",
-   "source": "세계일보",
-   "url": "https://n.news.naver.com/article/022/0004166508",
-   "published_at": "2026-10-14T08:21:09+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "인천의 한 대형 상업시설에서 발생한 흉기 난동 당시 20대 직장인이 범인에게 의자를 던져 쓰러뜨리고, 다른 시민들과 함께 제압해 추가 피해를 막은 것으로 나타났다.…",
-   "summary_long": "인천의 한 대형 상업시설에서 발생한 흉기 난동 당시 20대 직장인이 범인에게 의자를 던져 쓰러뜨리고, 다른 시민들과 함께 제압해 추가 피해를 막은 것으로 나타났다. 지난 13일 오후 인천시 남동구 대형 상업시설에서 50대 남성이 흉기 난동을 벌여 이용객 8명이 다쳤다. 연합뉴스(독자제공) 14일 연합뉴스에 따르면 전날 오후 1시 40분쯤 인천 남동구 구월동 대형 상업시설에서 A씨(59)가 불특정 다수를 향해 흉기를 휘두르다 시민들에게 제압됐다.\n\n신씨도 처음에는 현장을 피하려 했지만, 영화관 주변에 어린이와 여성 등 이용객이 많다는 생각에 발길을 돌렸다. 그는 주변에 있던 등받이 없는 의자를 들고 에스컬레이터 난간 쪽으로 향했고 A씨를 향해 의자를 힘껏 던졌다. 연합뉴스 신씨가 아래층 시민들에게 A씨를 붙잡으라고 외치자 주변 시민들이 쓰러진 A씨를 의자로 눌러 제압했다.",
-   "quotes": [
-    "나중에 뉴스를 보고 이 남성이 보이는 사람을 다 찌르고 다녔다는 것을 알았다",
-    "이 남성이 4층에 올라오면 제지할 사람이 없어 정말 다 죽을 것 같았다",
-    "어린아이들이 너무 많기도 했지만 저도 살고 싶어서 한 행동"
-   ],
-   "press": "세계일보",
-   "photo": "03.png",
-   "quoted": {
-    "quote": "나중에 뉴스를 보고 이 남성이 보이는 사람을 다 찌르고 다녔다는 것을 알았다",
-    "n": 3,
-    "verified": 0,
-    "items": [
-     {
-      "press": "아주경제",
-      "title": "의자 던져 인천 흉기 난동범 막은 20대 직장인 살고 싶어서 한 행동",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwSnNEZXBmb0FwOWxyYmlkZ2c1dlctclJNazRmb01jYlVySjFDb2l3UlhCTjhXcE9RZFBOWkhOSzNTOXlBeDhITFUzOFJaUkFpS0huOGI3QXLSAVhBVV95cUxQMEpzRGVwZm9BcDlscmJpZGdnNXZXLXJSTWs0Zm9NY2JVckoxQ29pd1JYQk44V3BPUWRQTlpITkszUzl5QXg4SExVMzhSWlJBaUtIbjhiN0Fy?oc=5"
-     },
-     {
-      "press": "세계일보",
-      "title": "“4층에 아이들 많았다, 나도 살고 싶어서 한 행동”…흉기 난동범에 의자 던져 막은 20대 ‘시민 영웅’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ieGRCbEEtUXFJWXVmY2FUS0ZFT2dXRmhrOE5yZDBjX0YzQnRMT0pqalVvZGs0cEVabjZjd3NMTVFGN0VmSlVxM0Jxa2JRX19sV2FWQdIBVEFVX3lxTE1ieGRCbEEtUXFJWXVmY2FUS0ZFT2dXRmhrOE5yZDBjX0YzQnRMT0pqalVvZGs0cEVabjZjd3NMTVFGN0VmSlVxM0Jxa2JRX19sV2FWQQ?oc=5"
-     },
-     {
-      "press": "세계일보",
-      "title": "“의자 던져 막았다” 인천 흉기난동 제압한 ‘시민 영웅들’…포상 추진",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tbkt6akJyUHVJazBGZmRwMXlNRlFZMkxyU3gtRVJHTkRrblpqNWZJYmJaSDFtRmVHaVp0Y2ZhclZmcGJCQV9VWEJHX0FJdlNFekZIVlRLdWpxNTdPa1ZJeVBwRlp5eFljZlJn0gFUQVVfeXFMTVhNalBqemxleDRnUVk1Tk9xamwxRUpDa0RHUUd2NE1XWkRVVGdIcVR2SjB1RTVzcTZKZDVmZ1h0cUF0WUZkWUp5bGEydnZaTUcyYXFu?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "[속보] '나주 부부' 살해 뒤 600만 원 인출… 52세 박용수 신상 공개",
-   "source": "한국일보",
-   "url": "https://n.news.naver.com/article/469/0000959329",
-   "published_at": "2026-10-14T10:07:12+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "전남경찰청이 14일 공개한 나주 60대 부부 강도살인 사건 피의자 박용수의 머그샷. 전남경찰청은 13일 신상정보공개심의위원회를 열고 강도살인 혐의를 받는 박용수의 신상…",
-   "summary_long": "전남경찰청이 14일 공개한 나주 60대 부부 강도살인 사건 피의자 박용수(52)의 머그샷. 박용수는 나주의 한 주택에서 부부를 살해하고 금품을 빼앗은 혐의로 구속됐다. 전남광주 나주시에서 60대 부부를 결박해 살해하고 돈을 빼앗은 혐의로 구속된 피의자의 신상이 14일 공개됐다.\n\n전남경찰청은 13일 신상정보공개심의위원회를 열고 강도살인 혐의를 받는 박용수(52)의 신상 공개를 결정했다고 밝혔다. 경찰은 7일 박용수를 긴급체포하면서 살인 혐의를 적용했으나, 피해자 계좌에서 현금 약 600만 원을 인출한 사실을 확인한 뒤 강도살인으로 변경했다. 박용수는 경찰 조사에서 \"광주 성인오락실에서 알게 된 남편에게 빌려준 돈을 받으러 갔다가, 우발적으로 피해자 자택에 있던 흉기를 휘둘렀다\"고 진술한 것으로 알려졌다.",
-   "quotes": [
-    "광주 성인오락실에서 알게 된 남편에게 빌려준 돈을 받으러 갔다가, 우발적으로 피해자 자택에 있던 흉기를 휘둘렀다"
+    "생중계 중 '그게 아닙니다'라고 반박하면 대통령의 체면이 어떻게 되겠느냐. 이를 우려해 할 말이 있어도 생중계 중에는 참고 넘어가는 장관들이 많다",
+    "한 총리에게 '국무위원들이 이렇게 의견을 모았으니 이를 이 대통령에게 전달해주면 좋겠다'고 했고 한 총리도 공감하는 모습이었다",
+    "국민적 의혹이 있는 사안에 투명성을 높여야지, 모든 정책 토론을 여과 없이 보여주는 것만이 정답은 아니다"
    ],
    "press": "한국일보",
-   "photo": "04.jpg",
+   "photo": "02.jpg",
    "quoted": {
-    "quote": "광주 성인오락실에서 알게 된 남편에게 빌려준 돈을 받으러 갔다가, 우발적으로 피해자 자택에 있던 흉기를 휘둘렀다",
+    "quote": "생중계 중 '그게 아닙니다'라고 반박하면 대통령의 체면이 어떻게 되겠느냐. 이를 우려해 할 말이 있어도 생중계 중에는 참고 넘어가는 장관들이 많다",
     "n": 3,
     "verified": 0,
     "items": [
      {
       "press": "한국일보",
-      "title": "'나주 부부' 살해 뒤 600만 원 인출… 52세 박용수 신상 공개",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YcHp2YUhEMmo2RHRfVngwNHlYZTdNRFF4N0ZhcUloeWlRSEU4dVN3MVN6T1NNakw1Wjh1U2UtSFR6ZDVqYlF6UVZvY19ROUZReW9zMFYyZkNrd3NtUVB5dFlTZlVKNkhNbUJpQ0l30gFzQVVfeXFMUF9tM2Z0VjBudWQwZ21QQmdzVWxSdFR5LWRyOWpKY0MyMVBHVW9HUHNBNWtMSWRrXzBOUmtYZFBEUmN4emtuOXFTUEpqNDFLdmExSU91NjhuUlROd1pfT1BxWmp3b2prdVNvV2R2UGpjVUU2MA?oc=5"
+      "title": "\"대통령에 '아닙니다'하기 어려워\"… 장관들, '국무회의 생중계 축소' 건의",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NWTVicjlxMVh1Yjk3dVpPX1dGb1Z2aXVuVDB2R0xXWTNxSXlUSV8zMGYwWG1Ja0xlZDhGTkJicTVzeHI0UE5pdHhEcW9ScUo5amIxcUpENWNBeXEzVWg4ZkVkbG13eUZlWnQ2alJB0gFzQVVfeXFMUHFKY3R3VWZTMVBMQmRzRWYtVHcxM2pTcmFaTllkSkVBQnRScWdRUmdnMHhSY2kxVUFXSXBzLXBIT013OVRxR094VjF6a0RkWFpZMnhNTkw4OFk2cFNMUVJ6dEdoWUdfeEVJTmVJWF9NWFRmVQ?oc=5"
      },
      {
-      "press": "시선뉴스",
-      "title": "'나주 60대 부부' 살해 피의자 박용수 신상정보 공개…경찰 누리집 게시",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81RUFUeWJGLThnNDhKcVpRWklqa3lMZ0pJRU1qQXhWa29aMGQxRjdIYWNKbG1zYkVNeGtUdmdrZkNkQUlUS0ZQaldLWUM0aEI2SVp0UEFFRHd1QUFiRGVQLW9uN0lxcl9QWE14REZXa3Iyd9IBckFVX3lxTE81RUFUeWJGLThnNDhKcVpRWklqa3lMZ0pJRU1qQXhWa29aMGQxRjdIYWNKbG1zYkVNeGtUdmdrZkNkQUlUS0ZQaldLWUM0aEI2SVp0UEFFRHd1QUFiRGVQLW9uN0lxcl9QWE14REZXa3Iydw?oc=5"
-     },
-     {
-      "press": "국제뉴스",
-      "title": "나주 60대 부부 살해 박용수, 경찰 신상정보 공개",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95YW9JVnp3OW5fTnJXSUJLMnB2aGRnNGloWGtIWkJfT2ZBd29vcXZ5ZmI4OEJ0Q1hFbmlHcENfcGxqb0lsT212dUZuLU9OdGIwZ09Kb084THNMbnpGZFMyRy1LLWtkTE95OG5SdGdR?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "장동혁 “흉기 난동에도 ‘부캉이’ 셀카 찍은 대통령...의문의 1패”",
-   "source": "경기일보",
-   "url": "https://n.news.naver.com/article/666/0000127352",
-   "published_at": "2026-10-14T12:52:08+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 1376,
-   "comment_agree": 220,
-   "comment_disagree": 56,
-   "division_balance": 0.405797,
-   "division_score": 2.28221,
-   "selection": "찬반 쟁점",
-   "summary": "장동혁 국민의힘 대표가 인천에서 발생한 흉기 난동 사건 당시 이재명 대통령이 부산 북항에서 상어 ‘부캉이’를 구경하며 시민들과 사진을 촬영한 것을 두고 “국민 생명보다…",
-   "summary_long": "장동혁 국민의힘 대표가 인천에서 발생한 흉기 난동 사건 당시 이재명 대통령이 부산 북항에서 상어 ‘부캉이’를 구경하며 시민들과 사진을 촬영한 것을 두고 “국민 생명보다 상어 구경이 먼저인 대통령”이라며 강하게 비판했다. 그러면서 “같은 날 오후 4시45분, 이재명 대통령은 부산 북항에서 ‘부캉이’ 구경하고 있었다”며 “피해자들이 병원에 실려가고, 칼에 찔린 여성이 긴급 수술을 받고 있던 시각”이라고 지적했다. 이에 장 대표는 “그런데도 전재수, 김현지 대동하고 셀카 찍으며 활짝 웃는 대통령…”이라며 “마귀, 오늘도 의문의 1패!”라고 비꼬았다.\n\n그는 “이재명 대통령, 뒤늦게 인천경찰청 찾아 하나마나한 소리만 늘어놓았다”며 “누가 봐도 뻔한 ‘면피용’이다”라고 주장했다. 끝으로 “‘부캉이’는 이제 그만 바다로 돌려보내야 한다”며 “이재명 대통령도 이제 그만..”이라고 덧붙였다. 주 의원은 페이스북에 “어제(13일) 묻지마 칼부림 사건은 오후 1시 40분에 발생했고, 이재명 대통령은 오후 4시 45분쯤 북항 친수공원에서 부캉이 보며 웃고 있었다”며 “치안 상황을 제때 보고 받고 있는 것 맞느냐”고 지적했다.",
-   "quotes": [
-    "어제(13일) 묻지마 칼부림 사건은 오후 1시 40분에 발생했고, 이재명 대통령은 오후 4시 45분쯤 북항 친수공원에서 부캉이 보며 웃고 있었다",
-    "국민 생명보다 상어 구경이 먼저인 대통령이다. 국민 안전 챙기기보다 상어랑 셀카 찍는 게 더 급한 대통령이다",
-    "전자발찌범 관리 실패의 책임을 물어 법무차관을 즉각 경질하고, 무기수 가석방 중단부터 선언하라"
-   ],
-   "press": "경기일보",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "국민 생명보다 상어 구경이 먼저인 대통령이다. 국민 안전 챙기기보다 상어랑 셀카 찍는 게 더 급한 대통령이다",
-    "n": 4,
-    "verified": 0,
-    "items": [
-     {
-      "press": "경기일보",
-      "title": "장동혁 “흉기 난동에도 ‘부캉이’ 셀카 찍은 대통령...의문의 1패”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2N1RJN0M2ZVBaMEJNTFRPVUx0S2JvOEVlN3FObXNPUFF5cVNTSkFBR1VodUFfdGI2TjdnckxoOE9YdlNiU250WmxDaE04dmdORVZpRE9KTGdrR28?oc=5"
-     },
-     {
-      "press": "시사포커스",
-      "title": "장동혁, \"국민 생명보다 상어구경, 이재명 대통령도 이제 그만\"",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WQm9yUGZLaTEzZUc1UGJsOEU5MzY2YjZaNlNHSjQ1azhDX29Dc2Ezc0RSa29LQTJvTmVOdy1OWEdVa1ByajNmSzlYcmFoRkFTLWc1Y0I2c2dDVTZmbDVCWnQya1ZFWUtoUHJ0ZnBUSQ?oc=5"
-     },
-     {
-      "press": "프리진뉴스",
-      "title": "국민의힘 \"칼부림 때 상어 구경...수사기관 수뇌부 공백이 자초한 인재\"",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91akVpbl85UnJBclp3OGdXTnZwQkRidDluSWJ3OHN5dE5xRmo4M2g1dDdLWmU2WkEydlNfeGNaVTNyRzEzZjFhNEg3X3pMMDVxZHMwdzc5TG94eXpzLTFWTGdjTi1GakdELTF5X0U3NA?oc=5"
-     },
-     {
-      "press": "위키트리",
-      "title": "\"이 대통령, 인천서 칼부림 났는데 부산서 부캉이 구경\"…따가운 비판 나왔다",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uS3liME5CQS1jXzhKRG11aW0yTE5aUE1SeFByOVMyQVBTMWU0TXMwLVNxRnJyWVhHcTFXU2ZIV280OU9xVzdvM1hQdzlvbUdiR1N4TTJn?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "배현진, 장동혁 겨냥?…“끝까지 쭈굴찌질, 용기 좀 내라 하남자”",
-   "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003557890",
-   "published_at": "2026-10-14T16:22:33+09:00",
-   "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 203,
-   "comment_agree": 175,
-   "comment_disagree": 38,
-   "division_balance": 0.356808,
-   "division_score": 1.914621,
-   "selection": "찬반 쟁점",
-   "summary": "연합뉴스 배현진 국민의힘 의원이 ‘당원권 정지 1년’ 징계를 받은 자신의 징계무효 소송에서 당 측이 재판부 기피신청을 낸 것을 두고 “끝까지 쭈굴찌질“이라고 비판했다.…",
-   "summary_long": "장동혁 국민의힘 대표가 지난 3월 9일 국회에서 열린 의원총회에 참석해 송언석 원내대표 발언을 듣고 있다. 장 대표 오른쪽은 서울시당위원장인 배현진 의원. 연합뉴스 배현진 국민의힘 의원이 ‘당원권 정지 1년’ 징계를 받은 자신의 징계무효 소송에서 당 측이 재판부 기피신청을 낸 것을 두고 “끝까지 쭈굴찌질“이라고 비판했다.\n\n배 의원은 14일 페이스북에 “배현진 징계소송 판결 앞뒀는데…국힘, 재판부 기피신청”이라는 제목의 매체 기사를 첨부하고 “재판 과정도 아니고 결심 다 끝나고 부리는 땡깡”이라며 이같이 말했다. 배 의원이 ‘하남자’에 대해 특정 인물을 지칭하진 않았지만 이번 징계 사태가 장동혁 대표 체제에서 벌어졌다는 점에서 장 대표를 겨냥한 발언으로 풀이된다. ‘당원권 1년 정지’ 징계를 받은 배 의원이 당의 징계 효력을 멈춰달라며 법원에 낸 가처분 신청은 지난 3월 5일 인용됐다.",
-   "quotes": [
-    "법원이 현명한 판단을 내려줬다. 당의 민주적 질서를 무너뜨린 장동혁 지도부는 지금이라도 반성하라",
-    "배현진 징계소송 판결 앞뒀는데…국힘, 재판부 기피신청",
-    "재판 과정도 아니고 결심 다 끝나고 부리는 땡깡"
-   ],
-   "press": "중앙일보",
-   "photo": "06.jpg",
-   "quoted": {
-    "quote": "배현진 징계소송 판결 앞뒀는데…국힘, 재판부 기피신청",
-    "n": 4,
-    "verified": 0,
-    "items": [
-     {
-      "press": "중앙일보",
-      "title": "배현진, 장동혁 겨냥?…“끝까지 쭈굴찌질, 용기 좀 내라 하남자”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PQ3ZYVkxlZTlSVFdvMW9SUmdzV0ZDOUo4SVluWGhNY29sM1MxT2xoSENDQld4ZE8zMUZodFMwczk2QV93TUgweXdieDlRb1NhcVYxdDVn?oc=5"
+      "press": "미디어오늘",
+      "title": "국무총리실 “국무회의에서 국무위원들이 대통령에 반대 못 한다? 사실과 달라”",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oRE0wTk1EekoxVFZmbF9Ec2lJMV9WQzVSa1hSRnM2OVBLZDVDcll4NVRXZ0lnTFpzQlhwM0s0TVRRTGVmdDQ0REFMQXFsellyMnQ0eXlENnlJSlRpSllucDlwOHl1c0ZFTUp4SFkwQnU?oc=5"
      },
      {
       "press": "재경일보",
-      "title": "배현진 당의 재판부 기피에 끝까지 쭈굴찌질 비판 : 정치",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUZU5uQW0wX0laaXBGb2FZT1NFQWZXNGpYTVN3WTM0RkpEZ2hCeERNMGZ1LV9Ka0tzLWxYcnV6MURWNThBUVJvSjJCcw?oc=5"
-     },
-     {
-      "press": "조선일보",
-      "title": "배현진 징계소송 판결 앞뒀는데… 국힘, 재판부 기피신청",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZi1hXzdHSXNDZ1NpMlVLRkQ3MDB5OW9zVE1qY2cxN2xzeW9PSlA2al9kZ0EyQmRiU25fQW9HbFNtcGhrQ1NsdExXMzlxai1YYkQxbktTMzhUYnQ5R01LYjNXcXJMZVp1Q0M0UUFPc19LamZqOFZpUE5TNVptOGJZVDFBZnQxVTA?oc=5"
-     },
-     {
-      "press": "매일신문",
-      "title": "배현진, `징계무효` 재판부 기피에 `끝까지 쭈굴찌질`…장동혁 겨냥? `하남자`",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OOGc5MHVpb01qYzFnZDN6S3J1OHEzNXpNTl9ockFzV2JyXzE3S280STRrSnI1TjBZd251Sk9LNU1qOFdCcGlJZDNacy1DWnNYbVdka2E2NWdwbHYtTGpIakFB?oc=5"
+      "title": "장관 10여명, 한 총리에 국무회의 생중계 축소 건의 : 정치",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GX0VwUUJEZ3d2U3ZHUFF0VWRDSG5pLS10dmtoY0hTaVpuaVk0Zkh3NkpRQXZoZExsY3R2SUhrRk1yTGJaMmprOFg1dw?oc=5"
      }
     ]
    }
   },
   {
-   "title": "한동훈 “강경화도 ‘불의의 사고 아니다’…李정권 우스워져”",
-   "source": "문화일보",
-   "url": "https://n.news.naver.com/article/021/0002824924",
-   "published_at": "2026-10-14T07:32:17+09:00",
-   "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 312,
-   "comment_agree": 240,
-   "comment_disagree": 31,
-   "division_balance": 0.228782,
-   "division_score": 1.282508,
-   "selection": "찬반 쟁점",
-   "summary": "한동훈 무소속 의원은 강경화 주미대사가 우리 군 장병 3명이 다친 비무장지대 지뢰 폭발에 대해 “불의의 사고는 분명히 아니다”라고 한 데 대해 “아주 단순하고 명백하게…",
-   "summary_long": "한동훈 무소속 의원이 지난 13일 미국 워싱턴DC 주미한국대사관에서 열린 국회 외교통일위원회 국정감사에서 강경화 주미대사의 발언을 듣고 있다. 한동훈 무소속 의원은 강경화 주미대사가 우리 군 장병 3명이 다친 비무장지대(DMZ) 지뢰 폭발에 대해 “불의의 사고는 분명히 아니다”라고 한 데 대해 “아주 단순하고 명백하게 이재명 대통령은 ‘불의의 사고’라고 망언했고, 강 대사는 이 발언을 알면서도 ‘이재명이 틀렸다’고 한 것”이라고 밝혔다. 14일 정치권에 따르면 한 의원은 전날 자신의 페이스북을 통해 “국민을 우습게 보지 말라.\n\n그는 “(국회 외교통일위원회 국정감사에서) 제가 (해당 사고가 북한의 고의적인 공격인지, 불의의 사고인지를) 두 번에 걸쳐 물었다”며 “이 대통령 주장과 차이를 지적하면서 발언을 유지하는지까지 물었다”고 설명했다. 그러면서 “강 대사에게 발언을 바꿀 기회까지 줬음에도 ‘불의의 사고가 아니다’라고 한 것”이라며 “(이 대통령이) 우긴다고 우겨지나”라고 덧붙였다. 앞서 강 대사는 전날 워싱턴DC 주미한국대사관에서 열린 국감에서 DMZ 지뢰 폭발 사고에 대한 북한의 고의성을 묻는 질문에 “유실이 됐던 건 분명히 아니라는 게 합참에서 밝혀졌고, 북한이 매설했다는 건 분명하다”며 “불의의 사고는 분명히 아니다”라고 말했다.",
+   "title": "[단독]손흥민 '최다골 경기' 가족과 공짜 관람…경찰 고위직 특혜 논란",
+   "source": "노컷뉴스",
+   "url": "https://n.news.naver.com/article/079/0004198932",
+   "published_at": "2026-10-15T05:01:21+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "\"김새론 안고 자고싶다\" 카톡 조작 진술 확보…김세의 \"독방 정신건강 해쳐\" 보석 호소",
+   "source": "TV조선",
+   "url": "https://n.news.naver.com/article/448/0000645038",
+   "published_at": "2026-10-15T14:40:49+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "TV조선 유튜브 캡처배우 김수현에 대한 명예훼손 등 혐의로 구속 기소된 가로세로연구소 대표 김세의씨가 정신 질환 등을 이유로 석방해달라고 법원에 요청했다. 김씨 측…",
+   "summary_long": "TV조선 유튜브 캡처배우 김수현에 대한 명예훼손 등 혐의로 구속 기소된 가로세로연구소 대표 김세의씨가 정신 질환 등을 이유로 석방해달라고 법원에 요청했다. 김씨는 15일 서울중앙지법 형사합의26부(이현경 부장판사) 심리로 열린 보석 심문에서 이같이 밝혔다. 김씨 측 변호인은 김씨에 대한 테러 위협 방송으로 인해 신변 위협을 느끼면서 독방 생활을 하고 있다며 \"공황장애 등 정신 질환이 있어 독방에서 생활하는 게 정신 건강에 위해가 될 우려가 있다\"고 주장했다.\n\n또 \"영치금이 압류돼 약조차 구입하지 못하고 있다\"며 김씨의 주거가 일정해 도망 염려가 없고 피해자에게 위해를 가할 위험이 없다고 했다. 김씨는 또한 김수현 측이 자신과 김새론 유가족 측에 150억원대 민사소송을 제기해 자기 아파트가 가압류됐다며 \"저의 소중한 자산인 아파트를 반드시 지키기 위해 도주 우려가 없다\"고 주장했다. 김씨는 김수현이 미성년자였던 김새론과 교제했고, 김새론이 사망한 직접적인 원인이 김수현 측 채무 변제 압박이라는 허위 사실을 유튜브 등으로 유포한 혐의로 지난 6월 구속 기소됐다.",
    "quotes": [
-    "아주 단순하고 명백하게 이재명 대통령은 ‘불의의 사고’라고 망언했고, 강 대사는 이 발언을 알면서도 ‘이재명이 틀렸다’고 한 것",
-    "(국회 외교통일위원회 국정감사에서) 제가 (해당 사고가 북한의 고의적인 공격인지, 불의의 사고인지를) 두 번에 걸쳐 물었다",
-    "유실이 됐던 건 분명히 아니라는 게 합참에서 밝혀졌고, 북한이 매설했다는 건 분명하다"
+    "김상욱 울산시장 후보 성 접대 사건과 우상호 강원지사 후보의 베트남 성 접대 사건을 취재하기 위해 해외에 나가 있을 때 구속영장 청구 소식을 듣고 입국해 영장실질심사를 받았다",
+    "김씨가 구치소에서 편지를 발송하는 방식으로 방송하고 있고 그 과정에서 재판 서류를 목적과 다르게 유출하고 있다",
+    "공황장애 등 정신 질환이 있어 독방에서 생활하는 게 정신 건강에 위해가 될 우려가 있다"
    ],
-   "press": "문화일보",
-   "photo": "07.jpg",
+   "press": "TV조선",
+   "photo": "04.jpg",
    "quoted": {
-    "quote": "유실이 됐던 건 분명히 아니라는 게 합참에서 밝혀졌고, 북한이 매설했다는 건 분명하다",
-    "n": 10,
+    "quote": "김상욱 울산시장 후보 성 접대 사건과 우상호 강원지사 후보의 베트남 성 접대 사건을 취재하기 위해 해외에 나가 있을 때 구속영장 청구 소식을 듣고 입국해 영장실질심사를 받았다",
+    "n": 4,
     "verified": 0,
     "items": [
      {
-      "press": "문화일보",
-      "title": "한동훈 “강경화도 ‘불의의 사고 아니다’…李정권 우스워져”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOMU5nT3JxRDAwdDFkLUthR3UwT2tnbTY0NmEzc3F0TEcyOVZHYWwwY0htQkVDeTloTkNhTGl2eThvd1dySHhzT0V2alpQUEJE?oc=5"
-     },
-     {
       "press": "연합뉴스",
-      "title": "강경화, 北 지뢰사건에 \"불의의 사고는 분명히 아니다\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfc3otY3BzNjZQUjh4NHZ2RzdJUzhRcHdLVko2ZFF1Y0hRLUp1WmZGY1ZfOW14UjZ2eFRuZk93ZGlFOTROTFFCSEZ2RWZGSjVCVkw3TVpmbk9JZDNBZFBhctIBYEFVX3lxTFBfc3otY3BzNjZQUjh4NHZ2RzdJUzhRcHdLVko2ZFF1Y0hRLUp1WmZGY1ZfOW14UjZ2eFRuZk93ZGlFOTROTFFCSEZ2RWZGSjVCVkw3TVpmbk9JZDNBZFBhcg?oc=5"
+      "title": "김세의 \"독방이 정신건강 해쳐\"…검사 \"보석을 무죄로 왜곡할것\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52R1I5WUo3VWo0cG0yLWFWMXpJTjVJVjRZM1BNVzNDQUhHWGxYbzRHNVhVQlVGd082b3RCNmFrSWRiRDJHalVjdG5WMkxaeW9nX0xxZXBWZkhxaHF1MUppOdIBYEFVX3lxTE52R1I5WUo3VWo0cG0yLWFWMXpJTjVJVjRZM1BNVzNDQUhHWGxYbzRHNVhVQlVGd082b3RCNmFrSWRiRDJHalVjdG5WMkxaeW9nX0xxZXBWZkhxaHF1MUppOQ?oc=5"
      },
      {
-      "press": "연합뉴스TV",
-      "title": "강경화 \"北지뢰 폭발, 불의의 사고는 분명히 아냐\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TYTBCTUE5ZlVsTDhqcHBrVG1uWVhRZGtlbnlHT0I1Z1V5UFI5V2R4VzZnUHQ1Y0JPWDRoU0pRVnFMcG16U2JMYm8tRGRFR0FJR2E0b0lPZnNkNTBBNFhQR2MwUEFvaVk?oc=5"
+      "press": "매일신문",
+      "title": "김세의 \"공황장애로 독방 생활 힘들어\"…검찰 \"풀려나면 또 방송\"",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtUWUyVDFQTmFXa1dqN29kb0dLZURfUXRwRDdWNlpuQlkwRTRnTGZZMk80ZDZIZTBSNmlsN2cwM2xhNlJiQ3JyVjMtcU4xWjliLWsxSmxndzdmVjFqUHgzQ2p3?oc=5"
      },
      {
-      "press": "조선일보",
-      "title": "강경화, 北 지뢰 도발에 \"불의의 사고는 분명히 아니다\"",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGZTSWRjaEdQRWVzRVBZX3ZNb2UtNkZYeDFRRzdBQmlrLXBFS01waTdKa1lfQl9uTUVfejhHYUpYWGhiNjZwV0F1NmRWZWM1ZTUwSWYzc2JxdFRldVhBOWZ5Z0Y3SE9oYy1ZN091WndvbkVyS0llTmtVVXI5N3pnbjNRTDI?oc=5"
+      "press": "위키트리",
+      "title": "김세의 “독방 생활, 정신 건강에 위해가 될 우려 있다”…보석 요청",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjMWdmZ043eWtkc2FoVzIzekhOZFFBWS16WG9FTnVCZjVta3NjUTZMX1BCX3NBYkhDalI0aWh5NG5fYUFrV255Q2lNZDdlSkcwdFh2OGt3?oc=5"
      },
      {
-      "press": "국제신문",
-      "title": "강경화 \"北 지뢰사건, 불의의 사고는 분명히 아니다\"",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMm1XckZISHhoU1VCYUVXd3hqUjY1dy1aMHFTYjRYQU1QNDZGcTFGdGlKWGhMNGRrUmFudjBnZ1JSTjlyMUNwWHQxUDVkRjdYLVI0QzVRU25kdFJVZl91VUpIN1FTeW4yN0hHSktma0FHeXVUbXBhOHZoejM1aEVCenJBaS1qNWc4c2hDOTF3?oc=5"
-     },
-     {
-      "press": "국민일보",
-      "title": "강경화 “DMZ 폭발, 불의의 사고 아냐”… 與 “李 표현, 北 고의성 부정은 아니다”",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44ZjVpMXU2VzdpbjhEaG5TSzR5aGk5UkVHbWQwd1lfRWNQNzczb0FNQVBlQktYci1lYVgxMkNNWGJMVUM2Y2UzTFBxRlpmRmdtRng2alBUSFFKMW01TXU3ZjJLV0F3QzhBVGpXc9IBbEFVX3lxTE44ZjVpMXU2VzdpbjhEaG5TSzR5aGk5UkVHbWQwd1lfRWNQNzczb0FNQVBlQktYci1lYVgxMkNNWGJMVUM2Y2UzTFBxRlpmRmdtRng2alBUSFFKMW01TXU3ZjJLV0F3QzhBVGpXcw?oc=5"
+      "press": "조이뉴스24",
+      "title": "'김수현 명예훼손' 김세의, 보석 요청 \"정신질환\"⋯검찰 \"무죄라 왜곡할 것\"",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aNHpWLUFYUTBoajQyTGJ1Y21JSmI2eUI4X0txZXlubktISlpRN3R0RzRvVW42RVZNUDBtTk11elUzcE42RVc5REZsYlM5Zw?oc=5"
      }
     ]
    }
+  },
+  {
+   "title": "장동혁, 양향자에 “정도껏 하라” 격분…국힘 지도부 공개충돌",
+   "source": "국민일보",
+   "url": "https://n.news.naver.com/article/005/0001878865",
+   "published_at": "2026-10-15T12:55:10+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "comment_count": 720,
+   "comment_agree": 217,
+   "comment_disagree": 34,
+   "division_balance": 0.270916,
+   "division_score": 1.498013,
+   "selection": "찬반 쟁점",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "장동혁, 양향자에 “정도껏 하라”... 경선 놓고 국힘 지도부 또 충돌",
+   "source": "조선일보",
+   "url": "https://n.news.naver.com/article/023/0004003974",
+   "published_at": "2026-10-15T10:12:16+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 663,
+   "comment_agree": 344,
+   "comment_disagree": 48,
+   "division_balance": 0.244898,
+   "division_score": 1.462974,
+   "selection": "찬반 쟁점",
+   "summary": "장동혁 국민의힘 대표와 양향자 최고위원이 15일 서울 여의도 국회에서 열린 최고위원회의에 참석하고 있다./뉴스1. 후보로 나선 양향자 최고위원은 “전면 재선거를 해야…",
+   "summary_long": "장동혁 국민의힘 대표와 양향자 최고위원이 15일 서울 여의도 국회에서 열린 최고위원회의에 참석하고 있다./뉴스1. 국민의힘 지도부가 15일 경기 용인갑 조직위원장 경선 부실 논란과 관련해 공개적으로 충돌을 빚었다. 후보로 나선 양향자 최고위원은 “전면 재선거를 해야 한다”고 주장했고, 정희용 사무총장은 “당의 시스템을 부정하는 것”이라고 반박했다.\n\n대신 이번 경선 부실 사태를 해결하고 경선 시스템을 혁신하는 데 집중하겠다”며 “올림픽공원 (집회) 원칙을 이 사태에 대입하면 이번에 실시된 모든 경선의 전 과정을 철저하고 투명하게 밝히고 경선 모두를 처음부터 다시 해야 맞는다”고 했다. 정희용(맨 왼쪽) 국민의힘 사무총장이 15일 국회에서 열린 최고위원회의에서 양향자 최고위원(오른쪽에서 두 번째)에게 항의하고 있다. 정 사무총장은 “당의 시스템을 이렇게 무력화시키는 발언을 하면 최고위원이 맞나”라며 “조강특위에서 다시 투표하자고 제안했는데 (양향자) 후보가 승복하겠다, 이의제기하지 않겠다고 각서까지 써놓고는 이제 와서 무슨 오류가 있었다는 말이냐”고 했다.",
+   "quotes": [
+    "올림픽공원 (집회) 원칙을 이 사태에 대입하면 이번에 실시된 모든 경선의 전 과정을 철저하고 투명하게 밝히고 경선 모두를 처음부터 다시 해야 맞는다",
+    "조강특위에서 다시 투표하자고 제안했는데 (양향자) 후보가 승복하겠다, 이의제기하지 않겠다고 각서까지 써놓고는 이제 와서 무슨 오류가 있었다는 말이냐",
+    "당시 당 조직강화특별위원회에서 재투표하자고 했지만 (본인이) 당원에게 피해를 주지 않겠다고 그냥 오픈하자고, 승복하겠다고 하지 않았나"
+   ],
+   "press": "조선일보",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "조강특위에서 다시 투표하자고 제안했는데 (양향자) 후보가 승복하겠다, 이의제기하지 않겠다고 각서까지 써놓고는 이제 와서 무슨 오류가 있었다는 말이냐",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
+      "press": "조선일보",
+      "title": "장동혁, 양향자에 \"정도껏 하라\"... 경선 놓고 국힘 지도부 또 충돌",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVGlLbHpDQkxxcVcydTdBOHYzQ080X1pkazN3RGpQekRtazdpR0tMY0w1VmVIMjlVbWt5UjJYQ1hLazFBOFo3Y3JQM2ltWUcyUzIyZmxWV1JZSVZ2TzFEcmptS1N3SjRTaEc2ZHRPMlp1Tldjamk0cHMwd1pwc0R2b1NnWnFGQQ?oc=5"
+     },
+     {
+      "press": "허프포스트코리아",
+      "title": "국힘 장동혁이 양향자의 조직위원장 경선 전면 재선거 요구에 격분했다 : 당내 주도권 갈등으로 번지나",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFQVpNd2szVXFGSWVsTXZnZ3lQU09PbGNRODJ6U2FSaGdSeWRmZXBwVHI5VWRsUkgyaXBZLWFMZG5rYnVObThqQVNWdG1Cb1RrOUlRTWFTOA?oc=5"
+     },
+     {
+      "press": "YTN",
+      "title": "조직위원장 재선거 놓고 국힘 최고위 충돌...계파 갈등 재점화?",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpaTh4ZFkydk9uTWRqTEdyUEUyS3ZtZWxaUVhGd3EwTnJHT05wRGFSRlZYal9NNkVKaDlqQko4S0k5UlYtLUNDSzFyOGZVT25IUk42NVVSMVlDb2NKbFE?oc=5"
+     },
+     {
+      "press": "경기신문",
+      "title": "국힘 지도부, 용인갑 조직위원장 재투표 놓고 정면 충돌",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CZm40TnVmMnJMcGtkUS1aT0YyNHJRb3JBZTN1Q1ZxTDlSb3pRM3R2THRsSW5SRkRnMU56UVp4aGt2Q01RZDdCeTJ4Z1A2QWtydDAxUVVrNVlpakw4MHFGZTF3?oc=5"
+     },
+     {
+      "press": "세계일보",
+      "title": "양향자 “전면재선거” 정희용 “해당행위”… 국힘 지도부 공개충돌",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00b1NhN3c0OTMwQzVZWDFLQlRVdDFZOTRtUmNEWXROb3JFR2hJRnJpalp5Ukg5QVIyamhPQzZuREJtWnZNZTVMWXQyUnVEbnpl0gFUQVVfeXFMTk93bEFUQkJkWmVoZEtNLThCaF9rUE1PY3F0YjFHd3hnRHlYX0VyV096OWlsZGhGaWZwNnQ4dnNKSm5pNHp3c3V0VVkwMGNsWmZrSkNS?oc=5"
+     },
+     {
+      "press": "헤럴드경제",
+      "title": "‘용인갑’으로 고성 오간 국힘 지도부",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GZlRMTzdBZTYtaGZpbktnTHBxQXNlY0pJRlJQYk5HY0ZtbXRBYXlmMUU0a05UYUtYdHZzT0ROdi1LVUYxeW8zOFFEeGlvbGJrMTcwX0JBVQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "“한동훈 딸은 천재, 조국 딸과 달라” 배현진에 조국혁신당 반응이",
+   "source": "이데일리",
+   "url": "https://n.news.naver.com/article/018/0006388877",
+   "published_at": "2026-10-15T17:11:11+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "comment_count": 354,
+   "comment_agree": 237,
+   "comment_disagree": 34,
+   "division_balance": 0.250923,
+   "division_score": 1.406622,
+   "selection": "찬반 쟁점",
+   "prep_error": "The read operation timed out"
   }
  ],
  "cards": [
@@ -321,139 +208,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/01.png",
-   "pngBytes": 1851273,
-   "feed": "오늘의 뉴스 2026-10-15\n\n· \"딸 숨져가던 21분 CCTV 사라져\"…양재웅 병원 사망 유족, 경찰 부실수사 질타\n· 임광현 대통령 비서실장 아내는 美 휴스턴 총영사·처남은 李 대통령 변호인\n· “4층에 아이들 많았다, 나도 살고 싶어서 한 행동”…흉기 난동범에 의자 던져 막은 20대 ‘시민 영웅’\n· [속보] '나주 부부' 살해 뒤 600만 원 인출… 52세 박용수 신상 공개\n· 장동혁 “흉기 난동에도 ‘부캉이’ 셀카 찍은 대통령...의문의 1패”\n· 배현진, 장동혁 겨냥?…“끝까지 쭈굴찌질, 용기 좀 내라 하남자”\n· 한동훈 “강경화도 ‘불의의 사고 아니다’…李정권 우스워져”"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/01.png",
+   "pngBytes": 2074035,
+   "feed": "오늘의 뉴스 2026-10-16\n\n· 양향자 \"올공 시위 자격 없어\" 장동혁 \"이 기회에 흔드나\"…국힘 최고위 또 고성 충돌\n· [단독] \"대통령에 '아닙니다'하기 어려워\"… 장관들, '국무회의 생중계 축소' 건의\n· [단독]손흥민 '최다골 경기' 가족과 공짜 관람…경찰 고위직 특혜 논란\n· \"김새론 안고 자고싶다\" 카톡 조작 진술 확보…김세의 \"독방 정신건강 해쳐\" 보석 호소\n· 장동혁, 양향자에 “정도껏 하라” 격분…국힘 지도부 공개충돌\n· 장동혁, 양향자에 “정도껏 하라”... 경선 놓고 국힘 지도부 또 충돌\n· “한동훈 딸은 천재, 조국 딸과 달라” 배현진에 조국혁신당 반응이"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/02.png",
-   "pngBytes": 1854002,
-   "title": "\"딸 숨져가던 21분 CCTV 사라져\"…양재웅 병원 사망 유족, 경찰 부실수사 질타",
-   "summary": "어제 국회 행정안전위원회 국정감사에 참고인으로 출석한 고인의 어머니는 당시 경찰이 핵심 증거를 뒤늦게 확보하는 등 초동수사에 심각한 문제가 있었다고 지적했습니다. 경찰은…",
-   "summary_long": "2024년 5월, 정신건강의학과 전문의 양재웅 씨가 운영하는 경기 부천의 정신병원에서 30대 여성 환자가 숨졌습니다. 어제(13일) 국회 행정안전위원회 국정감사에 참고인으로 출석한 고인의 어머니는 당시 경찰이 핵심 증거를 뒤늦게 확보하는 등 초동수사에 심각한 문제가 있었다고 지적했습니다. 경찰은 딸이 숨진 지 6개월이 지나서야 병원을 압수수색했고 그로부터 한달 남짓만에 의사협회 감정이 늦어진다며 수사를 멈췄습니다\"\n\n경찰 수사가 제자리걸음을 하는 사이 간호기록이 허위로 작성되고 의사 지시 없이 불법 강박이 이뤄진 정황이 국가인권위원회 조사를 통해 먼저 드러났습니다. 진료 기록 조작 여부를 밝힐 전자의무기록과 접속 이력을 경찰이 초동수사 단계에서 확보하지 않은 점을 정조준했습니다. 또 당시 수사를 지휘했던 책임자가 현재 경찰 수사를 심의하는 부서로 자리를 옮긴 점을 꼬집으며 \"전형적인 제 식구 감싸기\"라고 비판했습니다.",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000515623",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/02.png",
+   "pngBytes": 612486,
+   "title": "양향자 \"올공 시위 자격 없어\" 장동혁 \"이 기회에 흔드나\"…국힘 최고위 또 고성 충돌",
+   "summary": "",
+   "summary_long": "",
+   "press": "시사저널",
+   "source": "시사저널",
+   "link": "https://n.news.naver.com/article/586/0000139970",
    "selection": "정치",
-   "feed": "뉴스 01. \"딸 숨져가던 21분 CCTV 사라져\"…양재웅 병원 사망 유족, 경찰 부실수사 질타\n\n2024년 5월, 정신건강의학과 전문의 양재웅 씨가 운영하는 경기 부천의 정신병원에서 30대 여성 환자가 숨졌습니다. 어제(13일) 국회 행정안전위원회 국정감사에 참고인으로 출석한 고인의 어머니는 당시 경찰이 핵심 증거를 뒤늦게 확보하는 등 초동수사에 심각한 문제가 있었다고 지적했습니다. 경찰은 딸이 숨진 지 6개월이 지나서야 병원을 압수수색했고 그로부터 한달 남짓만에 의사협회 감정이 늦어진다며 수사를 멈췄습니다\"\n\n경찰 수사가 제자리걸음을 하는 사이 간호기록이 허위로 작성되고 의사 지시 없이 불법 강박이 이뤄진 정황이 국가인권위원회 조사를 통해 먼저 드러났습니다. 진료 기록 조작 여부를 밝힐 전자의무기록과 접속 이력을 경찰이 초동수사 단계에서 확보하지 않은 점을 정조준했습니다. 또 당시 수사를 지휘했던 책임자가 현재 경찰 수사를 심의하는 부서로 자리를 옮긴 점을 꼬집으며 \"전형적인 제 식구 감싸기\"라고 비판했습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000515623"
+   "feed": "뉴스 01. 양향자 \"올공 시위 자격 없어\" 장동혁 \"이 기회에 흔드나\"…국힘 최고위 또 고성 충돌\n\n\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000139970"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/03.png",
-   "pngBytes": 1792125,
-   "title": "임광현 대통령 비서실장 아내는 美 휴스턴 총영사·처남은 李 대통령 변호인",
-   "summary": "임광현 신임 대통령 비서실장은 이재명 대통령과 다양한 인연을 맺고 있다는 평가를 받고 있다. 이 변호사의 누나이자 임 비서실장의 아내인 인권단체 국경너머인권 이경은…",
-   "summary_long": "임광현 신임 대통령 비서실장은 이재명 대통령과 다양한 인연을 맺고 있다는 평가를 받고 있다. 임 비서실장의 처남은 이 대통령의 변호인단에서 활동한 이승엽 변호사다. 이 변호사의 누나이자 임 비서실장의 아내인 인권단체 국경너머인권 이경은 대표는 이번 정부에서 미국 휴스턴 총영사로 임명됐다.\n\n14일 임명된 임 비서실장은 연세대 경제학과(88학번) 출신으로 1994년 행정고시에 합격했다. 임 비서실장의 아내 이경은 휴스턴 총영사는 서울대 불어교육과(87학번) 출신으로 1995년 행정고시에 합격한 뒤 총무처, 공보처, 국무총리실, 보건복지부 등에서 근무했다. 임 비서실장의 처남 이승엽 변호사는 서울대 법대 출신으로 사법시험 37회에 합격하고 사법연수원을 27기로 수료했다.",
-   "press": "조선비즈",
-   "source": "조선비즈",
-   "link": "https://n.news.naver.com/article/366/0001197947",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/03.png",
+   "pngBytes": 2060691,
+   "title": "[단독] \"대통령에 '아닙니다'하기 어려워\"… 장관들, '국무회의 생중계 축소' 건의",
+   "summary": "\"생중계 도중 대통령에 반박 어려워\" 정부부처 장관 10여 명이 \"국무회의의 생중계 범위를 줄이는 것이 바람직하다\"는 의견을 이재명 대통령에게 전달해 줄 것을 한성숙…",
+   "summary_long": "\"생중계 도중 대통령에 반박 어려워\" 정부부처 장관 10여 명이 \"국무회의의 생중계 범위를 줄이는 것이 바람직하다\"는 의견을 이재명 대통령에게 전달해 줄 것을 한성숙 국무총리에게 건의한 것으로 14일 확인됐다. 한 참석자는 촉법소년 연령 기준 하향에 대한 공론화 조사결과(현행 14세→13세)와 관련, 이 대통령이 생중계 중 \"너무 미약하지 않느냐\"고 지적해 성평등가족부 장관이 반박할 새도 없이 공론화 결과가 무력화된 것을 예로 들었다.\n\n한 참석자는 \"생중계 중 '그게 아닙니다'라고 반박하면 대통령의 체면이 어떻게 되겠느냐. 한 총리에 \"이 대통령에 건의 전달해 달라\" 이 참석자는 \"한 총리에게 '국무위원들이 이렇게 의견을 모았으니 이를 이 대통령에게 전달해주면 좋겠다'고 했고 한 총리도 공감하는 모습이었다\"고 전했다.",
+   "press": "한국일보",
+   "source": "한국일보",
+   "link": "https://n.news.naver.com/article/469/0000959538",
    "selection": "정치",
-   "feed": "뉴스 02. 임광현 대통령 비서실장 아내는 美 휴스턴 총영사·처남은 李 대통령 변호인\n\n임광현 신임 대통령 비서실장은 이재명 대통령과 다양한 인연을 맺고 있다는 평가를 받고 있다. 임 비서실장의 처남은 이 대통령의 변호인단에서 활동한 이승엽 변호사다. 이 변호사의 누나이자 임 비서실장의 아내인 인권단체 국경너머인권 이경은 대표는 이번 정부에서 미국 휴스턴 총영사로 임명됐다.\n\n14일 임명된 임 비서실장은 연세대 경제학과(88학번) 출신으로 1994년 행정고시에 합격했다. 임 비서실장의 아내 이경은 휴스턴 총영사는 서울대 불어교육과(87학번) 출신으로 1995년 행정고시에 합격한 뒤 총무처, 공보처, 국무총리실, 보건복지부 등에서 근무했다. 임 비서실장의 처남 이승엽 변호사는 서울대 법대 출신으로 사법시험 37회에 합격하고 사법연수원을 27기로 수료했다.\n\n출처: 조선비즈 / https://n.news.naver.com/article/366/0001197947"
+   "feed": "뉴스 02. [단독] \"대통령에 '아닙니다'하기 어려워\"… 장관들, '국무회의 생중계 축소' 건의\n\n\"생중계 도중 대통령에 반박 어려워\" 정부부처 장관 10여 명이 \"국무회의의 생중계 범위를 줄이는 것이 바람직하다\"는 의견을 이재명 대통령에게 전달해 줄 것을 한성숙 국무총리에게 건의한 것으로 14일 확인됐다. 한 참석자는 촉법소년 연령 기준 하향에 대한 공론화 조사결과(현행 14세→13세)와 관련, 이 대통령이 생중계 중 \"너무 미약하지 않느냐\"고 지적해 성평등가족부 장관이 반박할 새도 없이 공론화 결과가 무력화된 것을 예로 들었다.\n\n한 참석자는 \"생중계 중 '그게 아닙니다'라고 반박하면 대통령의 체면이 어떻게 되겠느냐. 한 총리에 \"이 대통령에 건의 전달해 달라\" 이 참석자는 \"한 총리에게 '국무위원들이 이렇게 의견을 모았으니 이를 이 대통령에게 전달해주면 좋겠다'고 했고 한 총리도 공감하는 모습이었다\"고 전했다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000959538"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/04.png",
-   "pngBytes": 1755651,
-   "title": "“4층에 아이들 많았다, 나도 살고 싶어서 한 행동”…흉기 난동범에 의자 던져 막은 20대 ‘시민 영웅’",
-   "summary": "인천의 한 대형 상업시설에서 발생한 흉기 난동 당시 20대 직장인이 범인에게 의자를 던져 쓰러뜨리고, 다른 시민들과 함께 제압해 추가 피해를 막은 것으로 나타났다.…",
-   "summary_long": "인천의 한 대형 상업시설에서 발생한 흉기 난동 당시 20대 직장인이 범인에게 의자를 던져 쓰러뜨리고, 다른 시민들과 함께 제압해 추가 피해를 막은 것으로 나타났다. 지난 13일 오후 인천시 남동구 대형 상업시설에서 50대 남성이 흉기 난동을 벌여 이용객 8명이 다쳤다. 연합뉴스(독자제공) 14일 연합뉴스에 따르면 전날 오후 1시 40분쯤 인천 남동구 구월동 대형 상업시설에서 A씨(59)가 불특정 다수를 향해 흉기를 휘두르다 시민들에게 제압됐다.\n\n신씨도 처음에는 현장을 피하려 했지만, 영화관 주변에 어린이와 여성 등 이용객이 많다는 생각에 발길을 돌렸다. 그는 주변에 있던 등받이 없는 의자를 들고 에스컬레이터 난간 쪽으로 향했고 A씨를 향해 의자를 힘껏 던졌다. 연합뉴스 신씨가 아래층 시민들에게 A씨를 붙잡으라고 외치자 주변 시민들이 쓰러진 A씨를 의자로 눌러 제압했다.",
-   "press": "세계일보",
-   "source": "세계일보",
-   "link": "https://n.news.naver.com/article/022/0004166508",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/04.png",
+   "pngBytes": 585374,
+   "title": "[단독]손흥민 '최다골 경기' 가족과 공짜 관람…경찰 고위직 특혜 논란",
+   "summary": "",
+   "summary_long": "",
+   "press": "노컷뉴스",
+   "source": "노컷뉴스",
+   "link": "https://n.news.naver.com/article/079/0004198932",
    "selection": "경제·시사",
-   "feed": "뉴스 03. “4층에 아이들 많았다, 나도 살고 싶어서 한 행동”…흉기 난동범에 의자 던져 막은 20대 ‘시민 영웅’\n\n인천의 한 대형 상업시설에서 발생한 흉기 난동 당시 20대 직장인이 범인에게 의자를 던져 쓰러뜨리고, 다른 시민들과 함께 제압해 추가 피해를 막은 것으로 나타났다. 지난 13일 오후 인천시 남동구 대형 상업시설에서 50대 남성이 흉기 난동을 벌여 이용객 8명이 다쳤다. 연합뉴스(독자제공) 14일 연합뉴스에 따르면 전날 오후 1시 40분쯤 인천 남동구 구월동 대형 상업시설에서 A씨(59)가 불특정 다수를 향해 흉기를 휘두르다 시민들에게 제압됐다.\n\n신씨도 처음에는 현장을 피하려 했지만, 영화관 주변에 어린이와 여성 등 이용객이 많다는 생각에 발길을 돌렸다. 그는 주변에 있던 등받이 없는 의자를 들고 에스컬레이터 난간 쪽으로 향했고 A씨를 향해 의자를 힘껏 던졌다. 연합뉴스 신씨가 아래층 시민들에게 A씨를 붙잡으라고 외치자 주변 시민들이 쓰러진 A씨를 의자로 눌러 제압했다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004166508"
+   "feed": "뉴스 03. [단독]손흥민 '최다골 경기' 가족과 공짜 관람…경찰 고위직 특혜 논란\n\n\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004198932"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/05.png",
-   "pngBytes": 1596935,
-   "title": "[속보] '나주 부부' 살해 뒤 600만 원 인출… 52세 박용수 신상 공개",
-   "summary": "전남경찰청이 14일 공개한 나주 60대 부부 강도살인 사건 피의자 박용수의 머그샷. 전남경찰청은 13일 신상정보공개심의위원회를 열고 강도살인 혐의를 받는 박용수의 신상…",
-   "summary_long": "전남경찰청이 14일 공개한 나주 60대 부부 강도살인 사건 피의자 박용수(52)의 머그샷. 박용수는 나주의 한 주택에서 부부를 살해하고 금품을 빼앗은 혐의로 구속됐다. 전남광주 나주시에서 60대 부부를 결박해 살해하고 돈을 빼앗은 혐의로 구속된 피의자의 신상이 14일 공개됐다.\n\n전남경찰청은 13일 신상정보공개심의위원회를 열고 강도살인 혐의를 받는 박용수(52)의 신상 공개를 결정했다고 밝혔다. 경찰은 7일 박용수를 긴급체포하면서 살인 혐의를 적용했으나, 피해자 계좌에서 현금 약 600만 원을 인출한 사실을 확인한 뒤 강도살인으로 변경했다. 박용수는 경찰 조사에서 \"광주 성인오락실에서 알게 된 남편에게 빌려준 돈을 받으러 갔다가, 우발적으로 피해자 자택에 있던 흉기를 휘둘렀다\"고 진술한 것으로 알려졌다.",
-   "press": "한국일보",
-   "source": "한국일보",
-   "link": "https://n.news.naver.com/article/469/0000959329",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/05.png",
+   "pngBytes": 1283657,
+   "title": "\"김새론 안고 자고싶다\" 카톡 조작 진술 확보…김세의 \"독방 정신건강 해쳐\" 보석 호소",
+   "summary": "TV조선 유튜브 캡처배우 김수현에 대한 명예훼손 등 혐의로 구속 기소된 가로세로연구소 대표 김세의씨가 정신 질환 등을 이유로 석방해달라고 법원에 요청했다. 김씨 측…",
+   "summary_long": "TV조선 유튜브 캡처배우 김수현에 대한 명예훼손 등 혐의로 구속 기소된 가로세로연구소 대표 김세의씨가 정신 질환 등을 이유로 석방해달라고 법원에 요청했다. 김씨는 15일 서울중앙지법 형사합의26부(이현경 부장판사) 심리로 열린 보석 심문에서 이같이 밝혔다. 김씨 측 변호인은 김씨에 대한 테러 위협 방송으로 인해 신변 위협을 느끼면서 독방 생활을 하고 있다며 \"공황장애 등 정신 질환이 있어 독방에서 생활하는 게 정신 건강에 위해가 될 우려가 있다\"고 주장했다.\n\n또 \"영치금이 압류돼 약조차 구입하지 못하고 있다\"며 김씨의 주거가 일정해 도망 염려가 없고 피해자에게 위해를 가할 위험이 없다고 했다. 김씨는 또한 김수현 측이 자신과 김새론 유가족 측에 150억원대 민사소송을 제기해 자기 아파트가 가압류됐다며 \"저의 소중한 자산인 아파트를 반드시 지키기 위해 도주 우려가 없다\"고 주장했다. 김씨는 김수현이 미성년자였던 김새론과 교제했고, 김새론이 사망한 직접적인 원인이 김수현 측 채무 변제 압박이라는 허위 사실을 유튜브 등으로 유포한 혐의로 지난 6월 구속 기소됐다.",
+   "press": "TV조선",
+   "source": "TV조선",
+   "link": "https://n.news.naver.com/article/448/0000645038",
    "selection": "경제·시사",
-   "feed": "뉴스 04. [속보] '나주 부부' 살해 뒤 600만 원 인출… 52세 박용수 신상 공개\n\n전남경찰청이 14일 공개한 나주 60대 부부 강도살인 사건 피의자 박용수(52)의 머그샷. 박용수는 나주의 한 주택에서 부부를 살해하고 금품을 빼앗은 혐의로 구속됐다. 전남광주 나주시에서 60대 부부를 결박해 살해하고 돈을 빼앗은 혐의로 구속된 피의자의 신상이 14일 공개됐다.\n\n전남경찰청은 13일 신상정보공개심의위원회를 열고 강도살인 혐의를 받는 박용수(52)의 신상 공개를 결정했다고 밝혔다. 경찰은 7일 박용수를 긴급체포하면서 살인 혐의를 적용했으나, 피해자 계좌에서 현금 약 600만 원을 인출한 사실을 확인한 뒤 강도살인으로 변경했다. 박용수는 경찰 조사에서 \"광주 성인오락실에서 알게 된 남편에게 빌려준 돈을 받으러 갔다가, 우발적으로 피해자 자택에 있던 흉기를 휘둘렀다\"고 진술한 것으로 알려졌다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000959329"
+   "feed": "뉴스 04. \"김새론 안고 자고싶다\" 카톡 조작 진술 확보…김세의 \"독방 정신건강 해쳐\" 보석 호소\n\nTV조선 유튜브 캡처배우 김수현에 대한 명예훼손 등 혐의로 구속 기소된 가로세로연구소 대표 김세의씨가 정신 질환 등을 이유로 석방해달라고 법원에 요청했다. 김씨는 15일 서울중앙지법 형사합의26부(이현경 부장판사) 심리로 열린 보석 심문에서 이같이 밝혔다. 김씨 측 변호인은 김씨에 대한 테러 위협 방송으로 인해 신변 위협을 느끼면서 독방 생활을 하고 있다며 \"공황장애 등 정신 질환이 있어 독방에서 생활하는 게 정신 건강에 위해가 될 우려가 있다\"고 주장했다.\n\n또 \"영치금이 압류돼 약조차 구입하지 못하고 있다\"며 김씨의 주거가 일정해 도망 염려가 없고 피해자에게 위해를 가할 위험이 없다고 했다. 김씨는 또한 김수현 측이 자신과 김새론 유가족 측에 150억원대 민사소송을 제기해 자기 아파트가 가압류됐다며 \"저의 소중한 자산인 아파트를 반드시 지키기 위해 도주 우려가 없다\"고 주장했다. 김씨는 김수현이 미성년자였던 김새론과 교제했고, 김새론이 사망한 직접적인 원인이 김수현 측 채무 변제 압박이라는 허위 사실을 유튜브 등으로 유포한 혐의로 지난 6월 구속 기소됐다.\n\n출처: TV조선 / https://n.news.naver.com/article/448/0000645038"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/06.png",
-   "pngBytes": 1797959,
-   "title": "장동혁 “흉기 난동에도 ‘부캉이’ 셀카 찍은 대통령...의문의 1패”",
-   "summary": "장동혁 국민의힘 대표가 인천에서 발생한 흉기 난동 사건 당시 이재명 대통령이 부산 북항에서 상어 ‘부캉이’를 구경하며 시민들과 사진을 촬영한 것을 두고 “국민 생명보다…",
-   "summary_long": "장동혁 국민의힘 대표가 인천에서 발생한 흉기 난동 사건 당시 이재명 대통령이 부산 북항에서 상어 ‘부캉이’를 구경하며 시민들과 사진을 촬영한 것을 두고 “국민 생명보다 상어 구경이 먼저인 대통령”이라며 강하게 비판했다. 그러면서 “같은 날 오후 4시45분, 이재명 대통령은 부산 북항에서 ‘부캉이’ 구경하고 있었다”며 “피해자들이 병원에 실려가고, 칼에 찔린 여성이 긴급 수술을 받고 있던 시각”이라고 지적했다. 이에 장 대표는 “그런데도 전재수, 김현지 대동하고 셀카 찍으며 활짝 웃는 대통령…”이라며 “마귀, 오늘도 의문의 1패!”라고 비꼬았다.\n\n그는 “이재명 대통령, 뒤늦게 인천경찰청 찾아 하나마나한 소리만 늘어놓았다”며 “누가 봐도 뻔한 ‘면피용’이다”라고 주장했다. 끝으로 “‘부캉이’는 이제 그만 바다로 돌려보내야 한다”며 “이재명 대통령도 이제 그만..”이라고 덧붙였다. 주 의원은 페이스북에 “어제(13일) 묻지마 칼부림 사건은 오후 1시 40분에 발생했고, 이재명 대통령은 오후 4시 45분쯤 북항 친수공원에서 부캉이 보며 웃고 있었다”며 “치안 상황을 제때 보고 받고 있는 것 맞느냐”고 지적했다.",
-   "press": "경기일보",
-   "source": "경기일보",
-   "link": "https://n.news.naver.com/article/666/0000127352",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/06.png",
+   "pngBytes": 578327,
+   "title": "장동혁, 양향자에 “정도껏 하라” 격분…국힘 지도부 공개충돌",
+   "summary": "",
+   "summary_long": "",
+   "press": "국민일보",
+   "source": "국민일보",
+   "link": "https://n.news.naver.com/article/005/0001878865",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 장동혁 “흉기 난동에도 ‘부캉이’ 셀카 찍은 대통령...의문의 1패”\n\n장동혁 국민의힘 대표가 인천에서 발생한 흉기 난동 사건 당시 이재명 대통령이 부산 북항에서 상어 ‘부캉이’를 구경하며 시민들과 사진을 촬영한 것을 두고 “국민 생명보다 상어 구경이 먼저인 대통령”이라며 강하게 비판했다. 그러면서 “같은 날 오후 4시45분, 이재명 대통령은 부산 북항에서 ‘부캉이’ 구경하고 있었다”며 “피해자들이 병원에 실려가고, 칼에 찔린 여성이 긴급 수술을 받고 있던 시각”이라고 지적했다. 이에 장 대표는 “그런데도 전재수, 김현지 대동하고 셀카 찍으며 활짝 웃는 대통령…”이라며 “마귀, 오늘도 의문의 1패!”라고 비꼬았다.\n\n그는 “이재명 대통령, 뒤늦게 인천경찰청 찾아 하나마나한 소리만 늘어놓았다”며 “누가 봐도 뻔한 ‘면피용’이다”라고 주장했다. 끝으로 “‘부캉이’는 이제 그만 바다로 돌려보내야 한다”며 “이재명 대통령도 이제 그만..”이라고 덧붙였다. 주 의원은 페이스북에 “어제(13일) 묻지마 칼부림 사건은 오후 1시 40분에 발생했고, 이재명 대통령은 오후 4시 45분쯤 북항 친수공원에서 부캉이 보며 웃고 있었다”며 “치안 상황을 제때 보고 받고 있는 것 맞느냐”고 지적했다.\n\n출처: 경기일보 / https://n.news.naver.com/article/666/0000127352"
+   "feed": "뉴스 05. 장동혁, 양향자에 “정도껏 하라” 격분…국힘 지도부 공개충돌\n\n\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001878865"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/07.png",
-   "pngBytes": 2017653,
-   "title": "배현진, 장동혁 겨냥?…“끝까지 쭈굴찌질, 용기 좀 내라 하남자”",
-   "summary": "연합뉴스 배현진 국민의힘 의원이 ‘당원권 정지 1년’ 징계를 받은 자신의 징계무효 소송에서 당 측이 재판부 기피신청을 낸 것을 두고 “끝까지 쭈굴찌질“이라고 비판했다.…",
-   "summary_long": "장동혁 국민의힘 대표가 지난 3월 9일 국회에서 열린 의원총회에 참석해 송언석 원내대표 발언을 듣고 있다. 장 대표 오른쪽은 서울시당위원장인 배현진 의원. 연합뉴스 배현진 국민의힘 의원이 ‘당원권 정지 1년’ 징계를 받은 자신의 징계무효 소송에서 당 측이 재판부 기피신청을 낸 것을 두고 “끝까지 쭈굴찌질“이라고 비판했다.\n\n배 의원은 14일 페이스북에 “배현진 징계소송 판결 앞뒀는데…국힘, 재판부 기피신청”이라는 제목의 매체 기사를 첨부하고 “재판 과정도 아니고 결심 다 끝나고 부리는 땡깡”이라며 이같이 말했다. 배 의원이 ‘하남자’에 대해 특정 인물을 지칭하진 않았지만 이번 징계 사태가 장동혁 대표 체제에서 벌어졌다는 점에서 장 대표를 겨냥한 발언으로 풀이된다. ‘당원권 1년 정지’ 징계를 받은 배 의원이 당의 징계 효력을 멈춰달라며 법원에 낸 가처분 신청은 지난 3월 5일 인용됐다.",
-   "press": "중앙일보",
-   "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003557890",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/07.png",
+   "pngBytes": 1547283,
+   "title": "장동혁, 양향자에 “정도껏 하라”... 경선 놓고 국힘 지도부 또 충돌",
+   "summary": "장동혁 국민의힘 대표와 양향자 최고위원이 15일 서울 여의도 국회에서 열린 최고위원회의에 참석하고 있다./뉴스1. 후보로 나선 양향자 최고위원은 “전면 재선거를 해야…",
+   "summary_long": "장동혁 국민의힘 대표와 양향자 최고위원이 15일 서울 여의도 국회에서 열린 최고위원회의에 참석하고 있다./뉴스1. 국민의힘 지도부가 15일 경기 용인갑 조직위원장 경선 부실 논란과 관련해 공개적으로 충돌을 빚었다. 후보로 나선 양향자 최고위원은 “전면 재선거를 해야 한다”고 주장했고, 정희용 사무총장은 “당의 시스템을 부정하는 것”이라고 반박했다.\n\n대신 이번 경선 부실 사태를 해결하고 경선 시스템을 혁신하는 데 집중하겠다”며 “올림픽공원 (집회) 원칙을 이 사태에 대입하면 이번에 실시된 모든 경선의 전 과정을 철저하고 투명하게 밝히고 경선 모두를 처음부터 다시 해야 맞는다”고 했다. 정희용(맨 왼쪽) 국민의힘 사무총장이 15일 국회에서 열린 최고위원회의에서 양향자 최고위원(오른쪽에서 두 번째)에게 항의하고 있다. 정 사무총장은 “당의 시스템을 이렇게 무력화시키는 발언을 하면 최고위원이 맞나”라며 “조강특위에서 다시 투표하자고 제안했는데 (양향자) 후보가 승복하겠다, 이의제기하지 않겠다고 각서까지 써놓고는 이제 와서 무슨 오류가 있었다는 말이냐”고 했다.",
+   "press": "조선일보",
+   "source": "조선일보",
+   "link": "https://n.news.naver.com/article/023/0004003974",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 배현진, 장동혁 겨냥?…“끝까지 쭈굴찌질, 용기 좀 내라 하남자”\n\n장동혁 국민의힘 대표가 지난 3월 9일 국회에서 열린 의원총회에 참석해 송언석 원내대표 발언을 듣고 있다. 장 대표 오른쪽은 서울시당위원장인 배현진 의원. 연합뉴스 배현진 국민의힘 의원이 ‘당원권 정지 1년’ 징계를 받은 자신의 징계무효 소송에서 당 측이 재판부 기피신청을 낸 것을 두고 “끝까지 쭈굴찌질“이라고 비판했다.\n\n배 의원은 14일 페이스북에 “배현진 징계소송 판결 앞뒀는데…국힘, 재판부 기피신청”이라는 제목의 매체 기사를 첨부하고 “재판 과정도 아니고 결심 다 끝나고 부리는 땡깡”이라며 이같이 말했다. 배 의원이 ‘하남자’에 대해 특정 인물을 지칭하진 않았지만 이번 징계 사태가 장동혁 대표 체제에서 벌어졌다는 점에서 장 대표를 겨냥한 발언으로 풀이된다. ‘당원권 1년 정지’ 징계를 받은 배 의원이 당의 징계 효력을 멈춰달라며 법원에 낸 가처분 신청은 지난 3월 5일 인용됐다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003557890"
+   "feed": "뉴스 06. 장동혁, 양향자에 “정도껏 하라”... 경선 놓고 국힘 지도부 또 충돌\n\n장동혁 국민의힘 대표와 양향자 최고위원이 15일 서울 여의도 국회에서 열린 최고위원회의에 참석하고 있다./뉴스1. 국민의힘 지도부가 15일 경기 용인갑 조직위원장 경선 부실 논란과 관련해 공개적으로 충돌을 빚었다. 후보로 나선 양향자 최고위원은 “전면 재선거를 해야 한다”고 주장했고, 정희용 사무총장은 “당의 시스템을 부정하는 것”이라고 반박했다.\n\n대신 이번 경선 부실 사태를 해결하고 경선 시스템을 혁신하는 데 집중하겠다”며 “올림픽공원 (집회) 원칙을 이 사태에 대입하면 이번에 실시된 모든 경선의 전 과정을 철저하고 투명하게 밝히고 경선 모두를 처음부터 다시 해야 맞는다”고 했다. 정희용(맨 왼쪽) 국민의힘 사무총장이 15일 국회에서 열린 최고위원회의에서 양향자 최고위원(오른쪽에서 두 번째)에게 항의하고 있다. 정 사무총장은 “당의 시스템을 이렇게 무력화시키는 발언을 하면 최고위원이 맞나”라며 “조강특위에서 다시 투표하자고 제안했는데 (양향자) 후보가 승복하겠다, 이의제기하지 않겠다고 각서까지 써놓고는 이제 와서 무슨 오류가 있었다는 말이냐”고 했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004003974"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/08.png",
-   "pngBytes": 1608355,
-   "title": "한동훈 “강경화도 ‘불의의 사고 아니다’…李정권 우스워져”",
-   "summary": "한동훈 무소속 의원은 강경화 주미대사가 우리 군 장병 3명이 다친 비무장지대 지뢰 폭발에 대해 “불의의 사고는 분명히 아니다”라고 한 데 대해 “아주 단순하고 명백하게…",
-   "summary_long": "한동훈 무소속 의원이 지난 13일 미국 워싱턴DC 주미한국대사관에서 열린 국회 외교통일위원회 국정감사에서 강경화 주미대사의 발언을 듣고 있다. 한동훈 무소속 의원은 강경화 주미대사가 우리 군 장병 3명이 다친 비무장지대(DMZ) 지뢰 폭발에 대해 “불의의 사고는 분명히 아니다”라고 한 데 대해 “아주 단순하고 명백하게 이재명 대통령은 ‘불의의 사고’라고 망언했고, 강 대사는 이 발언을 알면서도 ‘이재명이 틀렸다’고 한 것”이라고 밝혔다. 14일 정치권에 따르면 한 의원은 전날 자신의 페이스북을 통해 “국민을 우습게 보지 말라.\n\n그는 “(국회 외교통일위원회 국정감사에서) 제가 (해당 사고가 북한의 고의적인 공격인지, 불의의 사고인지를) 두 번에 걸쳐 물었다”며 “이 대통령 주장과 차이를 지적하면서 발언을 유지하는지까지 물었다”고 설명했다. 그러면서 “강 대사에게 발언을 바꿀 기회까지 줬음에도 ‘불의의 사고가 아니다’라고 한 것”이라며 “(이 대통령이) 우긴다고 우겨지나”라고 덧붙였다. 앞서 강 대사는 전날 워싱턴DC 주미한국대사관에서 열린 국감에서 DMZ 지뢰 폭발 사고에 대한 북한의 고의성을 묻는 질문에 “유실이 됐던 건 분명히 아니라는 게 합참에서 밝혀졌고, 북한이 매설했다는 건 분명하다”며 “불의의 사고는 분명히 아니다”라고 말했다.",
-   "press": "문화일보",
-   "source": "문화일보",
-   "link": "https://n.news.naver.com/article/021/0002824924",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/08.png",
+   "pngBytes": 582812,
+   "title": "“한동훈 딸은 천재, 조국 딸과 달라” 배현진에 조국혁신당 반응이",
+   "summary": "",
+   "summary_long": "",
+   "press": "이데일리",
+   "source": "이데일리",
+   "link": "https://n.news.naver.com/article/018/0006388877",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 한동훈 “강경화도 ‘불의의 사고 아니다’…李정권 우스워져”\n\n한동훈 무소속 의원이 지난 13일 미국 워싱턴DC 주미한국대사관에서 열린 국회 외교통일위원회 국정감사에서 강경화 주미대사의 발언을 듣고 있다. 한동훈 무소속 의원은 강경화 주미대사가 우리 군 장병 3명이 다친 비무장지대(DMZ) 지뢰 폭발에 대해 “불의의 사고는 분명히 아니다”라고 한 데 대해 “아주 단순하고 명백하게 이재명 대통령은 ‘불의의 사고’라고 망언했고, 강 대사는 이 발언을 알면서도 ‘이재명이 틀렸다’고 한 것”이라고 밝혔다. 14일 정치권에 따르면 한 의원은 전날 자신의 페이스북을 통해 “국민을 우습게 보지 말라.\n\n그는 “(국회 외교통일위원회 국정감사에서) 제가 (해당 사고가 북한의 고의적인 공격인지, 불의의 사고인지를) 두 번에 걸쳐 물었다”며 “이 대통령 주장과 차이를 지적하면서 발언을 유지하는지까지 물었다”고 설명했다. 그러면서 “강 대사에게 발언을 바꿀 기회까지 줬음에도 ‘불의의 사고가 아니다’라고 한 것”이라며 “(이 대통령이) 우긴다고 우겨지나”라고 덧붙였다. 앞서 강 대사는 전날 워싱턴DC 주미한국대사관에서 열린 국감에서 DMZ 지뢰 폭발 사고에 대한 북한의 고의성을 묻는 질문에 “유실이 됐던 건 분명히 아니라는 게 합참에서 밝혀졌고, 북한이 매설했다는 건 분명하다”며 “불의의 사고는 분명히 아니다”라고 말했다.\n\n출처: 문화일보 / https://n.news.naver.com/article/021/0002824924"
+   "feed": "뉴스 07. “한동훈 딸은 천재, 조국 딸과 달라” 배현진에 조국혁신당 반응이\n\n\n\n출처: 이데일리 / https://n.news.naver.com/article/018/0006388877"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-15/09.png",
-   "pngBytes": 1346018
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-16/09.png",
+   "pngBytes": 1346141
   }
  ],
- "caption": "📰 10월 15일 오늘의 뉴스\n\n1. \"딸 숨져가던 21분 CCTV 사라져\"…양재웅 병원 사망 유족, 경찰 부실수사 질타\n   어제 국회 행정안전위원회 국정감사에 참고인으로 출석한 고인의 어머니는 당시 경찰이 핵심 증거를 뒤늦게 확보하는 등 초동수사에 심각한 문제가 있었다고 지적했습니다. 경찰은…\n2. 임광현 대통령 비서실장 아내는 美 휴스턴 총영사·처남은 李 대통령 변호인\n   임광현 신임 대통령 비서실장은 이재명 대통령과 다양한 인연을 맺고 있다는 평가를 받고 있다. 이 변호사의 누나이자 임 비서실장의 아내인 인권단체 국경너머인권 이경은…\n3. “4층에 아이들 많았다, 나도 살고 싶어서 한 행동”…흉기 난동범에 의자 던져 막은 20대 ‘시민 영웅’\n   인천의 한 대형 상업시설에서 발생한 흉기 난동 당시 20대 직장인이 범인에게 의자를 던져 쓰러뜨리고, 다른 시민들과 함께 제압해 추가 피해를 막은 것으로 나타났다.…\n4. [속보] '나주 부부' 살해 뒤 600만 원 인출… 52세 박용수 신상 공개\n   전남경찰청이 14일 공개한 나주 60대 부부 강도살인 사건 피의자 박용수의 머그샷. 전남경찰청은 13일 신상정보공개심의위원회를 열고 강도살인 혐의를 받는 박용수의 신상…\n5. 장동혁 “흉기 난동에도 ‘부캉이’ 셀카 찍은 대통령...의문의 1패”\n   장동혁 국민의힘 대표가 인천에서 발생한 흉기 난동 사건 당시 이재명 대통령이 부산 북항에서 상어 ‘부캉이’를 구경하며 시민들과 사진을 촬영한 것을 두고 “국민 생명보다…\n6. 배현진, 장동혁 겨냥?…“끝까지 쭈굴찌질, 용기 좀 내라 하남자”\n   연합뉴스 배현진 국민의힘 의원이 ‘당원권 정지 1년’ 징계를 받은 자신의 징계무효 소송에서 당 측이 재판부 기피신청을 낸 것을 두고 “끝까지 쭈굴찌질“이라고 비판했다.…\n7. 한동훈 “강경화도 ‘불의의 사고 아니다’…李정권 우스워져”\n   한동훈 무소속 의원은 강경화 주미대사가 우리 군 장병 3명이 다친 비무장지대 지뢰 폭발에 대해 “불의의 사고는 분명히 아니다”라고 한 데 대해 “아주 단순하고 명백하게…\n\n🗣 “유실이 됐던 건 분명히 아니라는 게 합참에서 밝혀졌고, 북한이 매설했다는 건 분명하다”\n이 발언을 그대로 실은 보도 10건 · 문화일보 · 연합뉴스 · 연합뉴스TV · 조선일보\n· 문화일보 — 한동훈 “강경화도 ‘불의의 사고 아니다’…李정권 우스워져”\n· 연합뉴스 — 강경화, 北 지뢰사건에 \"불의의 사고는 분명히 아니다\"\n· 연합뉴스TV — 강경화 \"北지뢰 폭발, 불의의 사고는 분명히 아냐\"\n· 조선일보 — 강경화, 北 지뢰 도발에 \"불의의 사고는 분명히 아니다\"\n· 국제신문 — 강경화 \"北 지뢰사건, 불의의 사고는 분명히 아니다\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, 경기일보, 문화일보, 세계일보, 조선비즈, 중앙일보, 한국일보"
+ "caption": "📰 10월 16일 오늘의 뉴스\n\n1. 양향자 \"올공 시위 자격 없어\" 장동혁 \"이 기회에 흔드나\"…국힘 최고위 또 고성 충돌\n2. [단독] \"대통령에 '아닙니다'하기 어려워\"… 장관들, '국무회의 생중계 축소' 건의\n   \"생중계 도중 대통령에 반박 어려워\" 정부부처 장관 10여 명이 \"국무회의의 생중계 범위를 줄이는 것이 바람직하다\"는 의견을 이재명 대통령에게 전달해 줄 것을 한성숙…\n3. [단독]손흥민 '최다골 경기' 가족과 공짜 관람…경찰 고위직 특혜 논란\n4. \"김새론 안고 자고싶다\" 카톡 조작 진술 확보…김세의 \"독방 정신건강 해쳐\" 보석 호소\n   TV조선 유튜브 캡처배우 김수현에 대한 명예훼손 등 혐의로 구속 기소된 가로세로연구소 대표 김세의씨가 정신 질환 등을 이유로 석방해달라고 법원에 요청했다. 김씨 측…\n5. 장동혁, 양향자에 “정도껏 하라” 격분…국힘 지도부 공개충돌\n6. 장동혁, 양향자에 “정도껏 하라”... 경선 놓고 국힘 지도부 또 충돌\n   장동혁 국민의힘 대표와 양향자 최고위원이 15일 서울 여의도 국회에서 열린 최고위원회의에 참석하고 있다./뉴스1. 후보로 나선 양향자 최고위원은 “전면 재선거를 해야…\n7. “한동훈 딸은 천재, 조국 딸과 달라” 배현진에 조국혁신당 반응이\n\n🗣 “조강특위에서 다시 투표하자고 제안했는데 (양향자) 후보가 승복하겠다, 이의제기하지 않겠다고 각서까지 써놓고는 이제 와서 무슨 오류가 있었다는 말이냐”\n이 발언을 그대로 실은 보도 6건 · 조선일보 · 허프포스트코리아 · YTN · 경기신문\n· 조선일보 — 장동혁, 양향자에 \"정도껏 하라\"... 경선 놓고 국힘 지도부 또 충돌\n· 허프포스트코리아 — 국힘 장동혁이 양향자의 조직위원장 경선 전면 재선거 요구에 격분했다 : 당내 주도권 갈등으로 번지나\n· YTN — 조직위원장 재선거 놓고 국힘 최고위 충돌...계파 갈등 재점화?\n· 경기신문 — 국힘 지도부, 용인갑 조직위원장 재투표 놓고 정면 충돌\n· 세계일보 — 양향자 “전면재선거” 정희용 “해당행위”… 국힘 지도부 공개충돌\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: TV조선, 국민일보, 노컷뉴스, 시사저널, 이데일리, 조선일보, 한국일보"
 }
