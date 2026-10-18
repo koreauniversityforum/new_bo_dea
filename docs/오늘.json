@@ -1,156 +1,348 @@
 {
- "date": "2026-10-17",
- "generated_at": "2026-10-17T09:55:56+09:00",
+ "date": "2026-10-18",
+ "generated_at": "2026-10-18T09:31:47+09:00",
  "mode": "daily",
- "window_start": "2026-10-16T00:00:00+09:00",
- "window_end": "2026-10-16T23:59:59+09:00",
+ "window_start": "2026-10-17T00:00:00+09:00",
+ "window_end": "2026-10-17T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "\"신청 안 하면 내 돈 170만원 증발\"…국민연금 반환금의 함정",
-   "source": "한국경제",
-   "url": "https://n.news.naver.com/article/015/0005343270",
-   "published_at": "2026-10-16T11:51:11+09:00",
+   "title": "가수 공연 끊고 등장한 김민석…\"민주당 행사냐\" \"정당 대표 갑질\" 시끌",
+   "source": "TV조선",
+   "url": "https://n.news.naver.com/article/448/0000645430",
+   "published_at": "2026-10-17T15:52:25+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "prep_error": "The read operation timed out"
+   "summary": "/ 유튜브 신호등TV전북 순창의 지역 축제에서 가수의 공연이 중단되고 정치인이 무대에 올라 인사말을 하는 일이 벌어져 논란이 일고 있다. 17일 유튜브 채널…",
+   "summary_long": "/ 유튜브 신호등TV전북 순창의 지역 축제에서 가수의 공연이 중단되고 정치인이 무대에 올라 인사말을 하는 일이 벌어져 논란이 일고 있다. 17일 유튜브 채널 '신호등TV' 등에 공개된 영상에 따르면 지난 15일 전북 순창에서 열린 '제21회 순창장류축제' 개막식 축하공연 도중 김민석 더불어민주당 대표가 무대에 올랐다. 당시 가수 흰(HYNN·박혜원)은 '주인공 연습'을 비롯해 두 곡을 부른 뒤 다음 공연을 준비하고 있었다.\n\n김 대표가 무대에서 내려간 뒤에야 사회자는 \"다음 노래를 들어봐야겠죠\"라며 흰을 다시 불렀다. 특히 축제를 보러 온 관객들 앞에서 가수의 무대를 중단시키고 정치인에게 발언 기회를 준 것이 적절했느냐는 지적이 나오고 있다. 김민석 대표 등장으로 무대 도중 퇴장했던 가수 흰.",
+   "quotes": [
+    "순창은 장맛이 좋고 사람이 좋고, 우리 정부에서 열심히 일하고 있는 정동영 장관 고향이어서 좋고 박희승 의원 지역이어서 좋다",
+    "이 축제가 예비 글로벌 축제가 됐다. 우리가 축제를 잘 즐기고 나면 세계적인 축제로 갈 수 있다",
+    "그분이 올라와 인사도 드리고 관객들에게 한 말씀하신 뒤 박혜원 씨 노래를 듣겠다"
+   ],
+   "press": "TV조선",
+   "photo": "01.png",
+   "quoted": {
+    "quote": "순창은 장맛이 좋고 사람이 좋고, 우리 정부에서 열심히 일하고 있는 정동영 장관 고향이어서 좋고 박희승 의원 지역이어서 좋다",
+    "n": 8,
+    "verified": 0,
+    "items": [
+     {
+      "press": "주간조선",
+      "title": "가수 노래 끊고 김민석 등장…순창 축제서 벌어진 '정치인 의전' 논란",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LZkd6R1JUTU1qRnN5YVlOOEhPUnM3Y0JyM0tMWUlEaFIyT0c0SHhQNXdWU21JTmRwekhjVXRKTkJXb29WSGNhTXNCaVcyN1dNblNnU3hTc2w0MktCYnkwV0ktSzktVnBVa2duTkNR0gFuQVVfeXFMTktmR3pHUlRNTWpGc3lhWU44SE9SczdjQnIzS0xZSURoUjJPRzRIeFA1d1ZTbUlOZHB6SGNVdEpOQldvb1ZIY2FNc0JpVzI3V01uU2dTeFNzbDQyS0JieTBXSS1LOS1WcFVrZ25OQ1E?oc=5"
+     },
+     {
+      "press": "부산일보",
+      "title": "지역 축제서 가수 공연 끊고 등장한 김민석…`정치인 의전` 논란",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DX054T1dkZVgtTlNPU2FlZF9Da0VpR2k1X2xnTmJkZTNKdVVJcUU2eTczUk5jVXdVODZRZDVmVVdkZlFWWkF1NmtUR1A3UGhRd0lhNlNDTzVKQ2o1MVV6UDdnVUptZUFDeXNXVW5YdVpwcEpBRTBxZg?oc=5"
+     },
+     {
+      "press": "TV조선뉴스",
+      "title": "가수 공연 끊고 등장한 김민석…\"민주당 행사냐\" \"정당 대표 갑질\" 시끌",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TNjFiamhUQWlDbDVneWlpMVJJTlRMS05ZdHFkREtxT0ZtV1lTd0hKUHlSTjluV09sSTdIVlhaOVhkaW9MSTRCbW9BWXpNbE51NnR2a3I4Mko1WUVYRm02aHYzdTk1Y1NvWEVjZjBiTThZRWhjVTRpa3BKV1NkREE?oc=5"
+     },
+     {
+      "press": "뉴스1",
+      "title": "'흥 깨졌네' 축제 도중 가수 공연 중단…김민석 등장에 '과잉 의전' 논란",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKaV9mNGRYTnBrZUQ2RGV1XzJrZlpHV2gwU2VBckFPaUdRaWh2em5IeTRMUG5xYS1HQ01ZUVZEOU1UaXo5YXNfeUdNNHdKbm9hZ212NlJwdEJucmpKbTZXRE1Ba2g?oc=5"
+     },
+     {
+      "press": "매일신문",
+      "title": "가수 공연 도중 껴든 김민석... \"​정동영 고향이라 좋다\"",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5dGU1anF3SE02SVdWWHl5cnNuOUVLVEZ2N05XNVdEWk0tS2JQZ2pvdWVWeTJralQ0OTVtal9Ca0xGT2xXR0o5ZktuS2t4OVVfbTZnMXdUM0F2eE1EUDVUa01R?oc=5"
+     },
+     {
+      "press": "데일리안",
+      "title": "가수 흰 무대 끊은 김민석 대표 “정동영 고향이라 좋다”",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZjA2MmRNOGpfaXl2eDFIZXJBcTg5SV9NUEJWbnRZbXFOTUROX0lUREJKeXNQT3A0TnlmYS1xZUt3aVMyTHZnM21YRnNXVFhCZ2NKMUZUTEhwS3BJZFdMVGtWY0ZSRVd2U1pzQVdsM2NZcjNZdzcxSFRHRTd3VmxhenNKOUVwSXNEcXdOT2RzOXVDZ3dENkp4eWVRTEhRWmJqeDlFaUpwUW1LUzBZLThrNE1uYWhVRUNkd2Q2bHdIdGFZVHhGSS1fTFdZSmlaVnNZZW9qQWNZX2hrMUJFODU1QmJYaGlTOFRoYzNMVW80RW80WDFWLWtyZ0EtZjhFSTQ0U3RlM29DTjBVN3BfWXc?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "‘정치인 호감도’ 오세훈 1위…비호감도 선두는 이준석 [갤럽]",
-   "source": "한겨레",
-   "url": "https://n.news.naver.com/article/028/0002827769",
-   "published_at": "2026-10-16T11:32:15+09:00",
+   "title": "'5.18' 이어 '묘소 셀카'...'이진숙 논란', 국힘도 엇갈린 반응",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002419918",
+   "published_at": "2026-10-17T05:18:44+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "한국갤럽이 지난 13~15일 전국 만 18살 이상 1003명을 대상으로 정치권 주요 인물 7인에 대한 호감도를 조사한 결과, ‘호감이 간다’는 응답은 오세훈 서울시장이…",
-   "summary_long": "오세훈 서울시장이 15일 서울시 중구 서울시청에서 열린 국회 행정안전위원회의 서울시에 대한 국정감사에서 증인선서를 하고 있다. 한국갤럽이 지난 13~15일 전국 만 18살 이상 1003명을 대상으로 정치권 주요 인물 7인에 대한 호감도를 조사(표본오차 95% 신뢰 수준에 ±3.1%포인트, 전화면접조사)한 결과, ‘호감이 간다’는 응답은 오세훈 서울시장이 30%, 한동훈 무소속 의원이 23%, 김민석 더불어민주당 대표가 21%를… 이어 조국 혁신정책연구원장이 20%, 정청래 민주당 의원이 19%, 장동혁 국민의힘 대표와 이준석 개혁신당 의원은 각각 14%였다.\n\n비호감도는 이준석 의원이 72%로 가장 높았고, 조국 원장과 장동혁 대표가 각각 68%, 정청래 의원 66%, 한동훈 의원 64%, 김민석 대표 59%, 오세훈 시장 57% 순이었다. 갤럽은 7인을 선정한 이유에 대해 “작년 6월 대선 이후 다섯 차례 자유응답 방식 선호 장래 정치 지도자 선호도 조사에서 매번 빠짐없이 거론된 7인을 기준으로 했다”고 설명했다.",
+   "summary": "과방위 국감에서는 이진숙 의원의 행보를 두고 난데없는 패륜 논란이 불거졌는데, 국민의힘 내부에서도 엇갈린 반응이 나옵니다. [정점식 / 국민의힘 원내대표 :…",
+   "summary_long": "과방위 국감에서는 이진숙 의원의 행보를 두고 난데없는 패륜 논란이 불거졌는데, 국민의힘 내부에서도 엇갈린 반응이 나옵니다. [이정헌 / 더불어민주당 의원(지난 12일) : 대통령 만들어 준 묫자리라 버티나, 이런 막말까지 쏟아부었습니다. 국민의힘은 일단 소속 의원에 대한 민주당의 공격을 그냥 두고 볼 수 없단 반응과 함께,.\n\n[정점식 / 국민의힘 원내대표(지난 15일) : 더불어민주당은 남에게 패륜을 논할 자격 자체가 없는 집단입니다. 국정감사 기간 안보부터 경제 문제까지 동료 의원들이 이슈화에 총력을 다하는 와중에 급할 거 없는 대통령 부모 묘소 등을 부각하며 현안 공세 분위기에 찬물을 끼얹었단 겁니다. [박정하 / 국민의힘 의원(지난 13일, MBC 라디오 '김종배의 시선집중') : 저는 국감 준비하는 사람으로서 저 같으면 그런 여유는 없었을 것 같다는 생각이 들어요.].",
+   "press": "YTN",
+   "photo": "02.jpg"
+  },
+  {
+   "title": "불끄러 가장 먼저 들어갔다... 어린 딸 곁으로 못돌아왔다",
+   "source": "조선일보",
+   "url": "https://n.news.naver.com/article/023/0004004388",
+   "published_at": "2026-10-17T09:00:14+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "부천 화재 김진석 소방위 끝내 숨져. 경기 부천시 한 공장 화재 현장에서 진화 작업을 하다 심정지 상태에 빠졌던 김진석 소방위가 끝내 숨졌다.",
+   "summary_long": "지난 16일 부천 공장 화재를 진압하다 순직한 부천소방서 소속 오정센터 고(故) 김진석 소방위. 경기 부천시 한 공장 화재 현장에서 진화 작업을 하다 심정지 상태에 빠졌던 김진석(44) 소방위가 끝내 숨졌다. 17일 소방청에 따르면, 전날 화재 현장에서 구조돼 의식 불명 상태로 병원 치료를 받던 김 소방위가 이날 오전 0시 55분쯤 숨졌다.\n\n16일 경기 부천의 한 금속부품 도장 공장에서 화재 진압을 마친 소방대원이 동료 소방관의 심각한 부상 소식에 눈물을 흘리고 있다. 김 소방위는 화재 당시 가장 먼저 현장에 투입됐던 선발대로, 20분가량 화재 진압을 하던 중 불길이 빠르게 번지면서 고립됐다가 오전 9시 40분쯤 심정지 상태로 발견됐다. 이재명 대통령은 이날 오전 엑스(X·옛 트위터)에 “부천 화재 현장에서 임무를 수행하다 순직하신 소방대원의 소식에 참담한 마음”이라며 “삼가 고인의 명복을 빈다”고 밝혔다.",
    "quotes": [
-    "작년 6월 대선 이후 다섯 차례 자유응답 방식 선호 장래 정치 지도자 선호도 조사에서 매번 빠짐없이 거론된 7인을 기준으로 했다"
+    "부천 화재 현장에서 임무를 수행하다 순직하신 소방대원의 소식에 참담한 마음",
+    "고인의 헌신에 깊은 경의를 표한다",
+    "삼가 고인의 명복을 빈다"
    ],
-   "press": "한겨레",
-   "photo": "02.jpg",
+   "press": "조선일보",
+   "photo": "03.jpg",
    "quoted": {
-    "quote": "작년 6월 대선 이후 다섯 차례 자유응답 방식 선호 장래 정치 지도자 선호도 조사에서 매번 빠짐없이 거론된 7인을 기준으로 했다",
-    "n": 3,
+    "quote": "부천 화재 현장에서 임무를 수행하다 순직하신 소방대원의 소식에 참담한 마음",
+    "n": 10,
     "verified": 0,
     "items": [
      {
       "press": "한겨레",
-      "title": "‘정치인 호감도’ 오세훈 1위…비호감도 선두는 이준석 [갤럽]",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fNGg5M3Z4ZVFuQ1k2WGxaOU84cE1QSTcyRG1yZmtXaWp3Zl8zSXVLZF9fRXI0bG5pQ20wX3lMNnBvTUhXdHNwbVAtVEYwcHlaLUstb18wQ3phSUtZRnR4OGZPVlQ4NDNqWUNmSGd0bHA0aEJ5?oc=5"
+      "title": "이 대통령, ‘부천 화재’ 소방관 순직 애도…“안전대책 점검하고 보완”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42VWJDM0FWeFVJSW44MjRTNmZtVHJSRlJ6Wk54OWZFVnhqRFVlNk5UZVg1VzdpYkFHYTNweHh2cnJwUUs5eXJ2NTVTbjdPM3Y5MjNNSXJaenQyMjRmV1p4OHhESEtKWWpsdjBtTDAxQk1CVWp2?oc=5"
      },
      {
-      "press": "미디어대전",
-      "title": "국민의힘 장동혁 대표, 호감도 14%-비호감도 72%",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHdWprSFVzS3JJcGZocGUwcTcxUEFncnVLVHVTQXJKbGhFNTZ3ME5hUHIyRS1peTE2WDEwZ3Uta0ZiYXJWMDRyeEk2cjVVWTF1aTNvVzRrNzlaSDAzOW9DbXVPbGVaZw?oc=5"
+      "press": "경향신문",
+      "title": "이대통령, 부천 화재 순직 소방관 애도…“희생 잊지 않겠다”",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPTExOMW55dG9xYTl2bjFnTDBua2VoZWRHR0ZuWXBnckYyT1M5czdYQzBVLUJSbDBRLVFxMkFGalQtOUQ5TGFiOVpEZFdWZnpaVGI0MXJDZUF1UdIBX0FVX3lxTE5WMDQ1ODY1TnJVcDJoRlNlSGF5c21wQXJxQjRzcGcwR1hORG1sUmhrZTlnU2lxUjFaMFRyOUgtYjJzcnFSMzl5dEhVOHBiVVpzcmMyd3h0LTZoQlh0VmEw?oc=5"
      },
      {
-      "press": "중앙신문",
-      "title": "‘정치인 호감도’ 오세훈 1위…비호감도 1위는 이준석",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPMFN5LXRULTVxTnRWcmNVLTJmWnFUcUpwbkZQa0tkSjNzMzZtWHczaFRjeFRmX3hIQksxSF8wZHFzcmFZWW80MDRDcGtzZ1hfTFdzaXpUbEsyRFpQNHNLMVZ0LWRXWHIyQS1HalZJdkNMaEhhZzdMTVJXWFZ6a1F6X0xVT01DdDJpZEpLYi1IeHQ2NndST3NFQk16bW03QUZPMGdNSVpHMnhxandyel93YXozTzc0VUFaVTVSY2pqYjlqMThmRzJ5X0Joajdid1UyckR1VWpxMlhCRWpEd01CbXZsVnhSbDRyRktlMTRjazRSSnl6R0J2V2pLQkdmaGlEN1NMekFGNVdoYnozNExtT0xwUHdZTjU1TllyTnFMVXNvdkxBcl9GcnFNTnk?oc=5"
+      "press": "KBC광주방송",
+      "title": "[속보] \"희생 잊지 않겠다\"...이 대통령, 부천 화재 순직 소방관 애도",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RZ3BQRGdCRHRYNnEtb2xnS1hNOVRnX29mTFNETjl5S1phN2ZZbTFMMkxyYkhKX2lyTGY5ZHNZZ0FrTmFUenQyR3BwQVZTX09ic0pQY2huXzNwOGZ4WkdMVQ?oc=5"
+     },
+     {
+      "press": "연합뉴스",
+      "title": "이 대통령 \"소방대원 안전은 국가 책무…헌신 새길 것\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iT2d4QlhaTWlVRTZOLVNVd0tYRWxWUUxfS2NxUGZMRHB3MUl5QXhYdV9hajR2eGozZXNYSmU0RUw4QlNIUnhnajZnbEZFcUhOcTVxT1o5ZktjdmpzOWxIZdIBYEFVX3lxTE1iT2d4QlhaTWlVRTZOLVNVd0tYRWxWUUxfS2NxUGZMRHB3MUl5QXhYdV9hajR2eGozZXNYSmU0RUw4QlNIUnhnajZnbEZFcUhOcTVxT1o5ZktjdmpzOWxIZQ?oc=5"
+     },
+     {
+      "press": "연합뉴스TV",
+      "title": "이 대통령 \"고인 헌신 새길 것\"…정치권 애도 물결",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLeDh6SS1ZWkY3RTlmaTk4MkMzbVRUWkpnRUI4OGo2UWxrOUF0NHdlM0dRQ1pQbllkNkxnT2FOZ3VRUm5XcWJkdl9HOHVqN01NUTNRSExlbG9ZUE9TS19Yb3EwSzc0Mzg?oc=5"
+     },
+     {
+      "press": "경기일보",
+      "title": "李대통령, 부천 화재 순직 소방관 애도…“소방대원 안전은 국가의 책무”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEd29oMVFMRW5SWWY1VXA5YnlkN2psU21iUG90VlpESjBua3NfVmVhZGU1bE16WkR1ZDJmNWtQdHE1TUhuam9RZkw2NGZibmNSTW9WWVJscVJQNVU?oc=5"
      }
     ]
    }
   },
   {
-   "title": "\"살아있죠?\" 묻던 소방관들 오열‥추미애 현장 와 위로했지만 [현장영상]",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001529507",
-   "published_at": "2026-10-16T12:40:13+09:00",
+   "title": "“내가 다 민망하네”…공연 중 정치인 소개에 마이크 뺏긴 여가수",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005749959",
+   "published_at": "2026-10-17T16:01:08+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "일요일 전국에 비바람, 중부 최대 80mm 요란한 가을비",
-   "source": "KBS",
-   "url": "https://n.news.naver.com/article/056/0012275119",
-   "published_at": "2026-10-16T12:12:11+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "최대 80mm가량 가을비치곤 많은 비가 예상돼, 쌓인 낙엽에 배수구가 막힌 곳은 없는지 사전에 점검해야겠습니다. 북서쪽에서 비구름이 밀려와 일요일 새벽 인천과 경기 북부…",
-   "summary_long": "최대 80mm가량 가을비치곤 많은 비가 예상돼, 쌓인 낙엽에 배수구가 막힌 곳은 없는지 사전에 점검해야겠습니다. 10월 중순에 접어들며 부쩍 짙어진 가을, 이번 주말에는 가을을 더욱 재촉하는 비가 오겠습니다. 북서쪽에서 비구름이 밀려와 일요일 새벽 인천과 경기 북부 지역부터 비를 뿌리겠습니다.\n\n일요일 오전에는 비가 중부지방으로 확대되고 오후에는 전국에 내리겠습니다. 특히 일요일 낮부터 저녁 사이 수도권과 강원 영서 지역엔 시간당 30mm에 이르는 호우가 예보됐습니다. 가을비치고는 많은 비가 예보된 만큼 낙엽으로 배수구가 막힌 곳에선 침수 피해가 발생할 수 있어 사전 정비가 필요합니다.",
-   "press": "KBS",
-   "photo": "04.jpg"
-  },
-  {
-   "title": "장동혁 “매번 흔들고 정도껏 해야지” 고성… ‘ARS 누락’ 국힘 충돌",
-   "source": "서울신문",
-   "url": "https://n.news.naver.com/article/081/0003689452",
-   "published_at": "2026-10-16T05:03:33+09:00",
-   "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 111,
-   "comment_agree": 174,
-   "comment_disagree": 61,
-   "division_balance": 0.519149,
-   "division_score": 2.836542,
-   "selection": "찬반 쟁점",
-   "summary": "국민의힘 지도부가 15일 경기 용인갑 조직위원장 경선 부실 논란을 두고 공개 충돌했다. 장 대표가 당원 직선제를 도입한 용인갑 경선에서는 양 최고위원과 원외 친장 윤재복…",
-   "summary_long": "長 “대표 XX 만들어” 회의장 떠나. 국민의힘 지도부가 15일 경기 용인갑 조직위원장 경선 부실 논란을 두고 공개 충돌했다. 결선에서 패배한 양향자 최고위원은 전면 재선거를 주장했고, 당권파들은 “당의 시스템을 부정하는 해당 행위”라고 반박했다.\n\n양 최고위원은 이날 최고위원회의에서 “이번에 실시된 모든 경선의 전 과정을 철저하고 투명하게 밝히고 경선 모두를 처음부터 다시 해야 맞는다”며 이를 전제하지 않는 재경선은 불참하겠다고 밝혔다. 장 대표가 당원 직선제를 도입한 용인갑 경선에서는 양 최고위원과 원외 친장(친장동혁) 윤재복 후보가 결선까지 치른 끝에 윤 후보가 선출됐다. 양 최고위원 등이 ‘올공 사태’를 거론하는 것을 두고는 “올공 나가 싸우는 대표까지 XX 만들고 정치 왜 하냐”라고 말한 뒤 장 대표는 회의장을 박차고 나왔다.",
+   "summary": "사진l유튜브 신호등TV가수 흰이 지역 축제 축하공연 중, 주최 측이 갑자기 공연을 중단시키는 돌발 상황을 겪었다. 흰이 2곡을 부르고 다음 무대를 준비하던 순간…",
+   "summary_long": "사진l유튜브 신호등TV가수 흰(HYNN·박혜원)이 지역 축제 축하공연 중, 주최 측이 갑자기 공연을 중단시키는 돌발 상황을 겪었다. 흰은 지난 15일 전북 순창에서 열린 제21회 순창장류축제 개막식에서 축하 공연을 펼쳤다. 흰이 2곡을 부르고 다음 무대를 준비하던 순간, 사회자가 갑자기 무대에 올라 돌연 공연을 중단 시켰다.\n\n흰은 갑작스러운 상황에 당황한 듯 무대 한쪽으로 물러났고, 사회자는 김민석 더불어민주당 대표를 소개했다. 이후 사회자는 “다음 노래를 들어 봐야겠죠”라며 흰을 불렀고, 잠시 혼란한 상황이 이어지다 흰이 다시 무대에 올라와 공연을 재개했다. 당시 상황이 담긴 영상이 공개되자 일부 누리꾼들은 “내가 다 민망하다”, “흰이 너무 당황 했겠다”, “가수에 대한 예의가 없는 것 같다” 등 주최 측의 매끄럽지 않은 행사 진행에 비판의 목소리를 냈다.",
    "quotes": [
-    "지도부에서 실수한 것 있으면 끄집어내서 지도부 흔들고, 대표 흔들고, 그러려고 정치하나. 매번 이렇게 당을 흔들고, 지도부도 흔들고, 정도껏 해야지",
-    "조직강화특위에서 다시 투표하자고 제안했는데 승복하고 이의 제기하지 않겠다고 각서까지 써놓고 이제 와서 무슨 오류가 있었다는 말이냐",
-    "이번에 실시된 모든 경선의 전 과정을 철저하고 투명하게 밝히고 경선 모두를 처음부터 다시 해야 맞는다"
+    "오늘 분위기 좋으시죠? 이 축제가 예비 글로벌 축제라고 한다. 오늘 이렇게 우리가 모여 축제를 잘 즐기고 나면 세계적인 축제로 갈 수 있단다. 다 그렇게 될 수 있다고 믿고 응원해 주실 거죠",
+    "제가 올라온 이유가 엄청난 팬이 한 분 계신다. 그분이 올라오셔서 인사도 드리고 또 관객께 한 말씀 하시고 그 이후 흰씨 노래를 멋지게 들어보겠다",
+    "축하드리고 건강하시고 즐거운 시간되시기 바란다"
    ],
-   "press": "서울신문",
-   "photo": "05.jpg",
+   "press": "매일경제",
+   "photo": "04.png",
    "quoted": {
-    "quote": "이번에 실시된 모든 경선의 전 과정을 철저하고 투명하게 밝히고 경선 모두를 처음부터 다시 해야 맞는다",
-    "n": 3,
+    "quote": "오늘 분위기 좋으시죠? 이 축제가 예비 글로벌 축제라고 한다. 오늘 이렇게 우리가 모여 축제를 잘 즐기고 나면 세계적인 축제로 갈 수 있단다. 다 그렇게 될 수 있다고 믿고 응원해 주실 거죠",
+    "n": 4,
     "verified": 0,
     "items": [
      {
-      "press": "서울신문",
-      "title": "장동혁 “매번 흔들고 정도껏 해야지” 고성… ‘ARS 누락’ 국힘 충돌",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yMTJXV28xX1J1X21xUGVRRUg1eVppRjNQdnJrbWJyMHJ0ZzhGeE5oRWMydGRiTjZLM0VTMkREM2VIMENVLUpTVERGSVFWNXU0Ql8xeXE3c2dSRlI4YU9tS0xQLWdvbjIwWEF2TFpLTi0?oc=5"
+      "press": "채널A",
+      "title": "지역 축제서 가수 흰 공연 끊고 등장한 김민석 대표…정치인 의전 논란",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmSHFfSkpITjNDUmpfY2JBTkxLN1lPdEp3ejhIVmZHcjIyVTNGaG9oSjRNRWdvb2hVbVJ0TEF5ZlRKYXltSnRCd2F1WWJOWE5FbVNiTmo4T2ZFRHpDVVlhRGNBTdIBY0FVX3lxTFBmSHFfSkpITjNDUmpfY2JBTkxLN1lPdEp3ejhIVmZHcjIyVTNGaG9oSjRNRWdvb2hVbVJ0TEF5ZlRKYXltSnRCd2F1WWJOWE5FbVNiTmo4T2ZFRHpDVVlhRGNBTQ?oc=5"
      },
      {
-      "press": "조선일보",
-      "title": "장동혁, 양향자에 \"정도껏 하라\"... 경선 놓고 국힘 지도부 또 충돌",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVGlLbHpDQkxxcVcydTdBOHYzQ080X1pkazN3RGpQekRtazdpR0tMY0w1VmVIMjlVbWt5UjJYQ1hLazFBOFo3Y3JQM2ltWUcyUzIyZmxWV1JZSVZ2TzFEcmptS1N3SjRTaEc2ZHRPMlp1Tldjamk0cHMwd1pwc0R2b1NnWnFGQQ?oc=5"
+      "press": "매일경제",
+      "title": "“내가 다 민망하네”…공연 중 정치인 소개에 마이크 뺏긴 여가수",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Vb3hEdnZQOGhGM18zbV9BczVYaFJrWV9DZDdFTkxxTDU0QnlnUXVjMzdOM3BKUkJFVjJHUmFRZzBnMHZCdzhBLXNZeXBkSG1jZ3VMLQ?oc=5"
      },
      {
-      "press": "시사저널",
-      "title": "양향자 “올공 시위 자격 없어” 장동혁 “이 기회에 흔드나”…국힘 최고위 또 고성 충돌",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoV1ZXS3AyWXdOMzRJS3VFZmJsdWFPVVR1YWd5bDl4ZmhrQkllUDFKaUZIWDU4d21aZzk3dzFyRFJlcTdvUFBiUjFBMDgzRV9jSzhtbkdwNzYwU2dQeE10bXlXbWxITlRqRXB5aVlkd9IBc0FVX3lxTE5pbk1ZbGhMSGk5X2VBekFaYVg4bkhGNmFPV0FaZWRpSFVyWV9CVjVUTDRUTW5fRlk0NllDS19BOV9VbDNNSlRJRzZNSTNUSHN3QVpDQ19OQjV4R2RESE9yMjhlVWluc0d6SHJtdlhULXgwOTg?oc=5"
+      "press": "데일리안",
+      "title": "가수 흰 무대 끊은 김민석 대표 “정동영 고향이라 좋다”",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZjA2MmRNOGpfaXl2eDFIZXJBcTg5SV9NUEJWbnRZbXFOTUROX0lUREJKeXNQT3A0TnlmYS1xZUt3aVMyTHZnM21YRnNXVFhCZ2NKMUZUTEhwS3BJZFdMVGtWY0ZSRVd2U1pzQVdsM2NZcjNZdzcxSFRHRTd3VmxhenNKOUVwSXNEcXdOT2RzOXVDZ3dENkp4eWVRTEhRWmJqeDlFaUpwUW1LUzBZLThrNE1uYWhVRUNkd2Q2bHdIdGFZVHhGSS1fTFdZSmlaVnNZZW9qQWNZX2hrMUJFODU1QmJYaGlTOFRoYzNMVW80RW80WDFWLWtyZ0EtZjhFSTQ0U3RlM29DTjBVN3BfWXc?oc=5"
+     },
+     {
+      "press": "싱글리스트",
+      "title": "박혜원 공연 중 사회자 난입→김민석 與대표 인사말에 \"스마트한 독재\" 비판",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3SnJMalRsNDJoN05PaklDYVZueDdzeUVxak1JN1FxdDdoUFI4cDhxRXJtQWRkbTJveWNEVTEyRHJ3RmtKSDFyNGRXUEo3YXN3bmN5cFMwcFhZR25ib1hOWnJyaW5Ydw?oc=5"
      }
     ]
    }
   },
   {
-   "title": "장동혁 샤우팅 소용 없었다…양향자 “끝까지 싸울 것” 정면 충돌",
-   "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003558457",
-   "published_at": "2026-10-16T16:33:26+09:00",
+   "title": "李대통령, 부천 공장 화재 순직 소방대원 빈소 조문",
+   "source": "서울경제",
+   "url": "https://n.news.naver.com/article/011/0004672286",
+   "published_at": "2026-10-17T19:08:11+09:00",
    "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 309,
-   "comment_agree": 206,
-   "comment_disagree": 35,
-   "division_balance": 0.290456,
-   "division_score": 1.594297,
+   "view_rank": 5,
+   "comment_count": 146,
+   "comment_agree": 157,
+   "comment_disagree": 41,
+   "division_balance": 0.414141,
+   "division_score": 2.192177,
    "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
+   "summary": "이 대통령은 이날 오후 경기 부천시 순천향대 부천병원 장례식장에 마련된 김 소방위의 빈소를 찾아 조문하고 유가족을 위로했다. 무거운 표정으로 빈소에 들어선 이 대통령은…",
+   "summary_long": "이 대통령은 이날 오후 경기 부천시 순천향대 부천병원 장례식장에 마련된 김 소방위의 빈소를 찾아 조문하고 유가족을 위로했다. 무거운 표정으로 빈소에 들어선 이 대통령은 김 소방위의 영정 앞에 무릎을 꿇고 분향한 뒤 묵념하며 고인을 추모했다. 방명록에는 “당신께서 지켜주신 안전한 일상 속에서 국민들은 님의 희생을 영원히 기억할 것입니다”라는 글을 남겼다.\n\n김 소방위는 지난 16일 오전 8시 38분께 경기 부천의 한 금속사출 인쇄공장에서 발생한 화재를 진압하던 중 심정지 상태로 병원에 이송됐다. 이 대통령은 이날 빈소를 방문하기에 앞서 엑스(X·옛 트위터)를 통해서도 고인을 애도했다. 이 대통령은 “국민의 안전을 지키는 소방대원들의 안전은 국가가 반드시 지켜야 할 책무”라며 “정부는 현장 대원들이 보다 안전하게 임무를 수행할 수 있도록 안전 대책을 철저히 점검하고 부족한 부분을 보완하겠다”고 밝혔다.",
+   "quotes": [
+    "정부는 현장 대원들이 보다 안전하게 임무를 수행할 수 있도록 안전 대책을 철저히 점검하고 부족한 부분을 보완하겠다",
+    "국민을 위해 헌신하는 소방대원들의 희생과 노고에 걸맞은 예우와 처우가 이루어질 수 있도록 세심히 살피겠다",
+    "당신께서 지켜주신 안전한 일상 속에서 국민들은 님의 희생을 영원히 기억할 것입니다"
+   ],
+   "press": "서울경제",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "정부는 현장 대원들이 보다 안전하게 임무를 수행할 수 있도록 안전 대책을 철저히 점검하고 부족한 부분을 보완하겠다",
+    "n": 10,
+    "verified": 0,
+    "items": [
+     {
+      "press": "JTBC",
+      "title": "이 대통령 \"순직 소방관 희생 잊지 않겠다…안전대책 철저히 점검\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWVG5mSE1lZTNadFZyMDhSS01UeXlZeEN4aW5sbVd0b2JweE1hSGQ4OEJ1cG84em0wNUZLTEZsLUotQk1WaEV1RFJScGotb184WjlRMw?oc=5"
+     },
+     {
+      "press": "연합뉴스",
+      "title": "이 대통령 \"소방대원 안전은 국가 책무…헌신 새길 것\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yNDJZNnl5cHVGZGtRU0o2M2owNHBFTDRRZUQ4bVEyU25DMGZrcG1OcmFrVGJoWHFSV0k2bG5paG1talFSaFktektaX0xTbzhZTnhSTUZScVJ5cklaSWNrbtIBYEFVX3lxTE9yNDJZNnl5cHVGZGtRU0o2M2owNHBFTDRRZUQ4bVEyU25DMGZrcG1OcmFrVGJoWHFSV0k2bG5paG1talFSaFktektaX0xTbzhZTnhSTUZScVJ5cklaSWNrbg?oc=5"
+     },
+     {
+      "press": "한겨레",
+      "title": "이 대통령, ‘부천 화재’ 소방관 순직 애도…“안전대책 점검하고 보완”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42VWJDM0FWeFVJSW44MjRTNmZtVHJSRlJ6Wk54OWZFVnhqRFVlNk5UZVg1VzdpYkFHYTNweHh2cnJwUUs5eXJ2NTVTbjdPM3Y5MjNNSXJaenQyMjRmV1p4OHhESEtKWWpsdjBtTDAxQk1CVWp2?oc=5"
+     },
+     {
+      "press": "경기일보",
+      "title": "李대통령, 부천 화재 순직 소방관 애도…“소방대원 안전은 국가의 책무”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEd29oMVFMRW5SWWY1VXA5YnlkN2psU21iUG90VlpESjBua3NfVmVhZGU1bE16WkR1ZDJmNWtQdHE1TUhuam9RZkw2NGZibmNSTW9WWVJscVJQNVU?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "이 대통령 \"부천 화재 소방대원 순직에 참담…안전대책 보완·희생 걸맞은 예우\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CdDQ4WlJoUmRuMmpFVEg1Ui1sQVMySWJoZUEyNHBEZGNET0JvVlZncG1BbjdhbkFnMmxaY0pQb1RmVVdRVGtZdm13OTFXbDFnemRQeGNybWhwTU5rUkVTVHQzWHpmUTBjNWVvN1pDMkpKaXZwbG16edIBeEFVX3lxTE5CdDQ4WlJoUmRuMmpFVEg1Ui1sQVMySWJoZUEyNHBEZGNET0JvVlZncG1BbjdhbkFnMmxaY0pQb1RmVVdRVGtZdm13OTFXbDFnemRQeGNybWhwTU5rUkVTVHQzWHpmUTBjNWVvN1pDMkpKaXZwbG16eQ?oc=5"
+     },
+     {
+      "press": "경향신문",
+      "title": "이대통령, 부천 화재 순직 소방관 애도…“희생 잊지 않겠다”",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMDQ1ODY1TnJVcDJoRlNlSGF5c21wQXJxQjRzcGcwR1hORG1sUmhrZTlnU2lxUjFaMFRyOUgtYjJzcnFSMzl5dEhVOHBiVVpzcmMyd3h0LTZoQlh0VmEw0gFfQVVfeXFMTlYwNDU4NjVOclVwMmhGU2VIYXlzbXBBcnFCNHNwZzBHWE5EbWxSaGtlOWdTaXFSMVowVHI5SC1iMnNycVIzOXl0SFU4cGJVWnNyYzJ3eHQtNmhCWHRWYTA?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "조국 \"한동훈 딸 천재인지 특검으로 확인하자\"",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000516024",
-   "published_at": "2026-10-16T11:29:18+09:00",
+   "title": "친한계 박정훈 “장동혁, 민주 쪽 출마하려 했던 건 알려진 사실”",
+   "source": "중앙일보",
+   "url": "https://n.news.naver.com/article/025/0003558532",
+   "published_at": "2026-10-17T09:43:46+09:00",
    "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 456,
-   "comment_agree": 206,
-   "comment_disagree": 34,
-   "division_balance": 0.283333,
-   "division_score": 1.554026,
+   "view_rank": 1,
+   "comment_count": 411,
+   "comment_agree": 167,
+   "comment_disagree": 27,
+   "division_balance": 0.278351,
+   "division_score": 1.467742,
    "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
+   "summary": "뉴스1 친한동훈계 박정훈 국민의힘 의원은 “장동혁 대표가민주당 쪽 의원들과 가까웠고 그쪽으로 출마를 하려고 했었다는 것들도 이미 정치권에서 많이 알려진 사실”이라고…",
+   "summary_long": "뉴스1 친한동훈계 박정훈 국민의힘 의원은 “장동혁 대표가 (더불어)민주당 쪽 의원들과 가까웠고 그쪽으로 출마를 하려고 했었다는 것들도 이미 정치권에서 많이 알려진 사실”이라고 말했다. 박 의원은 16일 YTN 라디오 ‘장성철의 뉴스명당’에 출연해 “판사 시절에 장 대표가 국회 파견 판사였다”며 이같이 주장했다. 이어 “(장 대표가 국회 파견 판사였을 당시) 안민석 의원(현 경기도교육감)과 최순실 재산몰수 관련 법을 만드는 데 같이 심사를 한 것으로 알려져 있다”고 했다.\n\n국회 교육위원회 소속인 박 의원은 지난 14일 경기도교육청 국정감사에서 안민석 교육감의 ‘폰 프리’(도내 초·중·고교에서 일과 중 휴대폰 사용 제한) 정책을 비판하려다 질의를 접었다고 밝혔다. 같은 교육위 소속인 장 대표가 해당 정책을 긍정적으로 평가하는 듯한 발언을 했다는 이유에서다. 이어 “그래서 그 정책을 문제 삼으려고 했는데, 공교롭게도 우리 당 장동혁 대표가 저랑 같이 교육위인데 그 정책을 옹호하는 듯한 발언을 해서 제가 질의는 하지 않았다”고 했다.",
+   "quotes": [
+    "그래서 그 정책을 문제 삼으려고 했는데, 공교롭게도 우리 당 장동혁 대표가 저랑 같이 교육위인데 그 정책을 옹호하는 듯한 발언을 해서 제가 질의는 하지 않았다",
+    "(장 대표가 국회 파견 판사였을 당시) 안민석 의원(현 경기도교육감)과 최순실 재산몰수 관련 법을 만드는 데 같이 심사를 한 것으로 알려져 있다",
+    "장동혁 대표가 (더불어)민주당 쪽 의원들과 가까웠고 그쪽으로 출마를 하려고 했었다는 것들도 이미 정치권에서 많이 알려진 사실"
+   ],
+   "press": "중앙일보",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "그래서 그 정책을 문제 삼으려고 했는데, 공교롭게도 우리 당 장동혁 대표가 저랑 같이 교육위인데 그 정책을 옹호하는 듯한 발언을 해서 제가 질의는 하지 않았다",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "주간경향",
+      "title": "친한계 박정훈 “장동혁, 판사 시절 민주당 쪽 출마하려 했었다”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtZy16aXVjSDBrZjNnMUFFcTNjYmtfTnFZWVI2X0hZeTVtbTZ1bmFvNEJnNnE5RTNjUHZDR2hCN2d5eGNCb09FZVpLbEIyN0JETGxKelROaWFZMXVEcXc?oc=5"
+     },
+     {
+      "press": "중앙일보",
+      "title": "친한계 박정훈 “장동혁, 민주 쪽 출마하려 했던 건 알려진 사실”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3WDd3NkNYZVJRZWJZbkxRODhqLW9hSVlrSU9fbENzcGk5YUZIazRkckoyamFCMTA3UWU4dDE5Y2RJT0JlUDd5MUhLLXJTdzV3TjJDX1Nn?oc=5"
+     },
+     {
+      "press": "프레시안",
+      "title": "친한계 \"장동혁, 판사 시절 민주당 쪽으로 출마하려 했었다\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWMDB3NXJJQ1ZkNW9Kc2lhZ1k3Zk5faFYtZ3UyRGlsbXB2b1JxZUt0bFJmNjZ0MTFISzRGaWwwbThQUVZ1V3FZWHRYUkVnZ01uaTZwLTlPRWx6Nnh6R1diWHpITmNrNEZaU1Jj?oc=5"
+     },
+     {
+      "press": "데일리안",
+      "title": "친한계 박정훈 \"장동혁, 민주당 쪽 출마하려 했었다\"",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdFo1cGRxREhDTE1hQ2Q1clNiMVI1ZFFsME1zYndrbTNPZHJyR3RRUUtpTGFXTWU4LV9ySmlwek14aExBbXlsc2N5TGVGdVVGRDUxNlFYbFdLaVZtbS1XMmRVU291MVdSRXczZkNZMGF3UXVGMG84bVlHRHJLaDIxTUNnbWJXa0swTDlpRE96cHN4VElzUUJtTERCblExNlh2R2F6RUFyUDY0dkZabnBIa2hDOFFxckQ4M3FyLWlDVlF4YVNRU0ZRb2JKYXpyZ25Xam1ENVBOYWstWEVwSFBvQ21nb29nSFVaNzAwMHRYODRJMi1ueWRZM3lDeDBfMWR4LWRGNmJzVnFSZUdLQlZreGhwaTYtRXNV?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "국민의힘 “민주당, ‘조희대 탄핵’ 논의 공식화…정권 몰락 신호탄 될 것”",
+   "source": "KBS",
+   "url": "https://n.news.naver.com/article/056/0012275589",
+   "published_at": "2026-10-17T10:23:01+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 203,
+   "comment_agree": 166,
+   "comment_disagree": 21,
+   "division_balance": 0.224599,
+   "division_score": 1.176099,
+   "selection": "찬반 쟁점",
+   "summary": "국민의힘은 더불어민주당 김민석 대표가 조희대 대법원장 탄핵 논의를 공식화한 걸 두고 “이재명 정권의 몰락을 알리는 신호탄이 될 것”이라고 비판했습니다. 박 수석대변인은…",
+   "summary_long": "국민의힘은 더불어민주당 김민석 대표가 조희대 대법원장 탄핵 논의를 공식화한 걸 두고 “이재명 정권의 몰락을 알리는 신호탄이 될 것”이라고 비판했습니다. 국민의힘 최수진 원내수석대변인은 오늘(17일) 논평을 통해 “민주당이 탄핵안을 밀어붙이는 그 순간 이재명 대통령은 국정 동력을 완전히 상실한 ‘데드덕’으로 전락할 것”고 밝혔습니다. 최 원내수석대변인은 “억지 명분 뒤에 숨겨진 진짜 의도는 명확하다”며 “내년 2월 법관 정기 인사를 앞두고 조 대법원장의 직무를 강제로 정지시켜 사법부의 인사권을 통제하겠다는 계산”이라고 지적했습니다.\n\n박성훈 수석대변인도 “대법원장을 ‘정치적 인질’로 삼으려는 도 넘는 치졸한 행태”라고 날을 세웠습니다. 박 수석대변인은 오늘 논평에서 “민주당이 대법원장 탄핵의 명분으로 내세운 것은 대법원의 ‘업무추진비 와인 결제’ 문제”라며 “그러나 정작 관련 지출의 상당 부분은 조 대법원장 취임 이전인 김명수 전 대법원장 재임 시기에 이뤄졌다”고 설명했습니다. 박 수석대변인은 “업무추진비 집행에 문제가 있다면 사실관계를 확인하고 그에 따른 책임을 물으면 된다”며 “하지만 지출 내역에 대한 논란을 대법원장 탄핵으로까지 연결하는 것은 지나친 비약”이라고 꼬집었습니다.",
+   "quotes": [
+    "내년 2월 법관 정기 인사를 앞두고 조 대법원장의 직무를 강제로 정지시켜 사법부의 인사권을 통제하겠다는 계산",
+    "민주당이 탄핵안을 밀어붙이는 그 순간 이재명 대통령은 국정 동력을 완전히 상실한 ‘데드덕’으로 전락할 것",
+    "그러나 정작 관련 지출의 상당 부분은 조 대법원장 취임 이전인 김명수 전 대법원장 재임 시기에 이뤄졌다"
+   ],
+   "press": "KBS",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "내년 2월 법관 정기 인사를 앞두고 조 대법원장의 직무를 강제로 정지시켜 사법부의 인사권을 통제하겠다는 계산",
+    "n": 7,
+    "verified": 0,
+    "items": [
+     {
+      "press": "KBS 뉴스",
+      "title": "국민의힘 “민주당, ‘조희대 탄핵’ 논의 공식화…정권 몰락 신호탄 될 것”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZXzZyWnhwbnd3OUxyQVk4Wm5EelIycFlfSUJMdE9NQ2M1Ujg1bEk5WHFXNjMtUVJ0RC1aOUZZeVI2TlhRWnNtbmZfandwQVRYTzJLVEpza3lCREk?oc=5"
+     },
+     {
+      "press": "신아일보",
+      "title": "'조희대 탄핵' 공방… 與 \"위헌 의혹 확인\" 野 \"정권 몰락 신호탄\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zWkZuaEhEdzFDNDd3ZDNvNGJjQ1o2SUN1cldGTGkxdlhPQ2xIZm1XTlcyalpVZkV6TmhGVVU2X3VfV0ROdjd5ckcyb1dNOWJ2elk2SFBFXzQ1YXdneWFFVzB0RmptaV9ybVh3bUhLZ0g?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "국힘 \"與, '조희대 탄핵 논의 공식화' 정권 몰락 신호탄 될 것\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pSmh4NWdGQjh1WWpHYUJpb09EY2VlMDFBbzhiaVBhdjNIbTRwNThaSE1oVmQ0M2NFdVZZMFQ1TlpNWkJzbDF0M3hRSl9QdXp3WWMyMkNtRFNDQWF3MDE3btIBeEFVX3lxTE5OcjQ0aVE4MUdTY3hxWmdyeXJYTVR2MWNlYXIyLWxUWkQwUEtuSEhRcUVleUpCalBtYlZFV3F4SmhtTnl3bkE5N0ZFWmNaT2NDSFlkeEdEbU9mMy14Q0czeDMwOFV2TG9GaWE3cGhjNy1lZVpETjFGVg?oc=5"
+     },
+     {
+      "press": "이데일리",
+      "title": "국힘 “조희대 탄핵 추진은 정권 몰락 신호탄”",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLTZaaUVYVGNVZnF3eEhxTVZ2M05pVlhsV0tGQ0ZYcUdnZVJoUnc0bjY0UkxyQUlmWDR6M3JfTGwxcWwxbDZ1SUhreUZVTzMtWUpwNHQxYk5WLXhKa0ZKeG9vR281ZWNBU0ZueHE0RGNwcG9uaF9FXzc2dl8yN1FDMQ?oc=5"
+     },
+     {
+      "press": "서울경제",
+      "title": "‘조희대 탄핵’ 둘러싸고 날선 공방…與 “책임 물을 것” 野 “헌정 파괴”",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaSXM3LWplSzZMSGNRbTBacjBvUzZuejI3RzRaRU9uOXduRUw4czR6Q25hYmlsQlRHdHJfUU5lcGdrbDMydmR6UXhzUHRMUTBlOWVJ0gFTQVVfeXFMUFpJczctamVLNkxIY1FtMFpyMG9TNm56MjdHNFpFT245d25FTDhzNHpDbmFiaWxCVEd0cl9RTmVwZ2tsMzJ2ZHpReHNQdExRMGU5ZUk?oc=5"
+     },
+     {
+      "press": "SeattleN",
+      "title": "'조희대 탄핵 논의'에 설전…與 \"책임 끝까지 물을 것\" 野 \"헌정 파괴\" > 뉴스포커스",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xelY2clpHcnZzVmRjcFoyUEZXV0d6SlJqdzlmM0otMnl6blVOWWtwYU1wcEgtb3Fud2RVbVJ2YnRjZHRsdjllNDBVcGo?oc=5"
+     }
+    ]
+   }
   }
  ],
  "cards": [
@@ -159,139 +351,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/01.png",
-   "pngBytes": 2052864,
-   "feed": "오늘의 뉴스 2026-10-17\n\n· \"신청 안 하면 내 돈 170만원 증발\"…국민연금 반환금의 함정\n· ‘정치인 호감도’ 오세훈 1위…비호감도 선두는 이준석 [갤럽]\n· \"살아있죠?\" 묻던 소방관들 오열‥추미애 현장 와 위로했지만 [현장영상]\n· 일요일 전국에 비바람, 중부 최대 80mm 요란한 가을비\n· 장동혁 “매번 흔들고 정도껏 해야지” 고성… ‘ARS 누락’ 국힘 충돌\n· 장동혁 샤우팅 소용 없었다…양향자 “끝까지 싸울 것” 정면 충돌\n· 조국 \"한동훈 딸 천재인지 특검으로 확인하자\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/01.png",
+   "pngBytes": 1853388,
+   "feed": "오늘의 뉴스 2026-10-18\n\n· 가수 공연 끊고 등장한 김민석…\"민주당 행사냐\" \"정당 대표 갑질\" 시끌\n· '5.18' 이어 '묘소 셀카'...'이진숙 논란', 국힘도 엇갈린 반응\n· 불끄러 가장 먼저 들어갔다... 어린 딸 곁으로 못돌아왔다\n· “내가 다 민망하네”…공연 중 정치인 소개에 마이크 뺏긴 여가수\n· 李대통령, 부천 공장 화재 순직 소방대원 빈소 조문\n· 친한계 박정훈 “장동혁, 민주 쪽 출마하려 했던 건 알려진 사실”\n· 국민의힘 “민주당, ‘조희대 탄핵’ 논의 공식화…정권 몰락 신호탄 될 것”"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/02.png",
-   "pngBytes": 575347,
-   "title": "\"신청 안 하면 내 돈 170만원 증발\"…국민연금 반환금의 함정",
-   "summary": "",
-   "summary_long": "",
-   "press": "한국경제",
-   "source": "한국경제",
-   "link": "https://n.news.naver.com/article/015/0005343270",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/02.png",
+   "pngBytes": 1853732,
+   "title": "가수 공연 끊고 등장한 김민석…\"민주당 행사냐\" \"정당 대표 갑질\" 시끌",
+   "summary": "/ 유튜브 신호등TV전북 순창의 지역 축제에서 가수의 공연이 중단되고 정치인이 무대에 올라 인사말을 하는 일이 벌어져 논란이 일고 있다. 17일 유튜브 채널…",
+   "summary_long": "/ 유튜브 신호등TV전북 순창의 지역 축제에서 가수의 공연이 중단되고 정치인이 무대에 올라 인사말을 하는 일이 벌어져 논란이 일고 있다. 17일 유튜브 채널 '신호등TV' 등에 공개된 영상에 따르면 지난 15일 전북 순창에서 열린 '제21회 순창장류축제' 개막식 축하공연 도중 김민석 더불어민주당 대표가 무대에 올랐다. 당시 가수 흰(HYNN·박혜원)은 '주인공 연습'을 비롯해 두 곡을 부른 뒤 다음 공연을 준비하고 있었다.\n\n김 대표가 무대에서 내려간 뒤에야 사회자는 \"다음 노래를 들어봐야겠죠\"라며 흰을 다시 불렀다. 특히 축제를 보러 온 관객들 앞에서 가수의 무대를 중단시키고 정치인에게 발언 기회를 준 것이 적절했느냐는 지적이 나오고 있다. 김민석 대표 등장으로 무대 도중 퇴장했던 가수 흰.",
+   "press": "TV조선",
+   "source": "TV조선",
+   "link": "https://n.news.naver.com/article/448/0000645430",
    "selection": "정치",
-   "feed": "뉴스 01. \"신청 안 하면 내 돈 170만원 증발\"…국민연금 반환금의 함정\n\n\n\n출처: 한국경제 / https://n.news.naver.com/article/015/0005343270"
+   "feed": "뉴스 01. 가수 공연 끊고 등장한 김민석…\"민주당 행사냐\" \"정당 대표 갑질\" 시끌\n\n/ 유튜브 신호등TV전북 순창의 지역 축제에서 가수의 공연이 중단되고 정치인이 무대에 올라 인사말을 하는 일이 벌어져 논란이 일고 있다. 17일 유튜브 채널 '신호등TV' 등에 공개된 영상에 따르면 지난 15일 전북 순창에서 열린 '제21회 순창장류축제' 개막식 축하공연 도중 김민석 더불어민주당 대표가 무대에 올랐다. 당시 가수 흰(HYNN·박혜원)은 '주인공 연습'을 비롯해 두 곡을 부른 뒤 다음 공연을 준비하고 있었다.\n\n김 대표가 무대에서 내려간 뒤에야 사회자는 \"다음 노래를 들어봐야겠죠\"라며 흰을 다시 불렀다. 특히 축제를 보러 온 관객들 앞에서 가수의 무대를 중단시키고 정치인에게 발언 기회를 준 것이 적절했느냐는 지적이 나오고 있다. 김민석 대표 등장으로 무대 도중 퇴장했던 가수 흰.\n\n출처: TV조선 / https://n.news.naver.com/article/448/0000645430"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/03.png",
-   "pngBytes": 2041325,
-   "title": "‘정치인 호감도’ 오세훈 1위…비호감도 선두는 이준석 [갤럽]",
-   "summary": "한국갤럽이 지난 13~15일 전국 만 18살 이상 1003명을 대상으로 정치권 주요 인물 7인에 대한 호감도를 조사한 결과, ‘호감이 간다’는 응답은 오세훈 서울시장이…",
-   "summary_long": "오세훈 서울시장이 15일 서울시 중구 서울시청에서 열린 국회 행정안전위원회의 서울시에 대한 국정감사에서 증인선서를 하고 있다. 한국갤럽이 지난 13~15일 전국 만 18살 이상 1003명을 대상으로 정치권 주요 인물 7인에 대한 호감도를 조사(표본오차 95% 신뢰 수준에 ±3.1%포인트, 전화면접조사)한 결과, ‘호감이 간다’는 응답은 오세훈 서울시장이 30%, 한동훈 무소속 의원이 23%, 김민석 더불어민주당 대표가 21%를… 이어 조국 혁신정책연구원장이 20%, 정청래 민주당 의원이 19%, 장동혁 국민의힘 대표와 이준석 개혁신당 의원은 각각 14%였다.\n\n비호감도는 이준석 의원이 72%로 가장 높았고, 조국 원장과 장동혁 대표가 각각 68%, 정청래 의원 66%, 한동훈 의원 64%, 김민석 대표 59%, 오세훈 시장 57% 순이었다. 갤럽은 7인을 선정한 이유에 대해 “작년 6월 대선 이후 다섯 차례 자유응답 방식 선호 장래 정치 지도자 선호도 조사에서 매번 빠짐없이 거론된 7인을 기준으로 했다”고 설명했다.",
-   "press": "한겨레",
-   "source": "한겨레",
-   "link": "https://n.news.naver.com/article/028/0002827769",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/03.png",
+   "pngBytes": 1911581,
+   "title": "'5.18' 이어 '묘소 셀카'...'이진숙 논란', 국힘도 엇갈린 반응",
+   "summary": "과방위 국감에서는 이진숙 의원의 행보를 두고 난데없는 패륜 논란이 불거졌는데, 국민의힘 내부에서도 엇갈린 반응이 나옵니다. [정점식 / 국민의힘 원내대표 :…",
+   "summary_long": "과방위 국감에서는 이진숙 의원의 행보를 두고 난데없는 패륜 논란이 불거졌는데, 국민의힘 내부에서도 엇갈린 반응이 나옵니다. [이정헌 / 더불어민주당 의원(지난 12일) : 대통령 만들어 준 묫자리라 버티나, 이런 막말까지 쏟아부었습니다. 국민의힘은 일단 소속 의원에 대한 민주당의 공격을 그냥 두고 볼 수 없단 반응과 함께,.\n\n[정점식 / 국민의힘 원내대표(지난 15일) : 더불어민주당은 남에게 패륜을 논할 자격 자체가 없는 집단입니다. 국정감사 기간 안보부터 경제 문제까지 동료 의원들이 이슈화에 총력을 다하는 와중에 급할 거 없는 대통령 부모 묘소 등을 부각하며 현안 공세 분위기에 찬물을 끼얹었단 겁니다. [박정하 / 국민의힘 의원(지난 13일, MBC 라디오 '김종배의 시선집중') : 저는 국감 준비하는 사람으로서 저 같으면 그런 여유는 없었을 것 같다는 생각이 들어요.].",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002419918",
    "selection": "정치",
-   "feed": "뉴스 02. ‘정치인 호감도’ 오세훈 1위…비호감도 선두는 이준석 [갤럽]\n\n오세훈 서울시장이 15일 서울시 중구 서울시청에서 열린 국회 행정안전위원회의 서울시에 대한 국정감사에서 증인선서를 하고 있다. 한국갤럽이 지난 13~15일 전국 만 18살 이상 1003명을 대상으로 정치권 주요 인물 7인에 대한 호감도를 조사(표본오차 95% 신뢰 수준에 ±3.1%포인트, 전화면접조사)한 결과, ‘호감이 간다’는 응답은 오세훈 서울시장이 30%, 한동훈 무소속 의원이 23%, 김민석 더불어민주당 대표가 21%를… 이어 조국 혁신정책연구원장이 20%, 정청래 민주당 의원이 19%, 장동혁 국민의힘 대표와 이준석 개혁신당 의원은 각각 14%였다.\n\n비호감도는 이준석 의원이 72%로 가장 높았고, 조국 원장과 장동혁 대표가 각각 68%, 정청래 의원 66%, 한동훈 의원 64%, 김민석 대표 59%, 오세훈 시장 57% 순이었다. 갤럽은 7인을 선정한 이유에 대해 “작년 6월 대선 이후 다섯 차례 자유응답 방식 선호 장래 정치 지도자 선호도 조사에서 매번 빠짐없이 거론된 7인을 기준으로 했다”고 설명했다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002827769"
+   "feed": "뉴스 02. '5.18' 이어 '묘소 셀카'...'이진숙 논란', 국힘도 엇갈린 반응\n\n과방위 국감에서는 이진숙 의원의 행보를 두고 난데없는 패륜 논란이 불거졌는데, 국민의힘 내부에서도 엇갈린 반응이 나옵니다. [이정헌 / 더불어민주당 의원(지난 12일) : 대통령 만들어 준 묫자리라 버티나, 이런 막말까지 쏟아부었습니다. 국민의힘은 일단 소속 의원에 대한 민주당의 공격을 그냥 두고 볼 수 없단 반응과 함께,.\n\n[정점식 / 국민의힘 원내대표(지난 15일) : 더불어민주당은 남에게 패륜을 논할 자격 자체가 없는 집단입니다. 국정감사 기간 안보부터 경제 문제까지 동료 의원들이 이슈화에 총력을 다하는 와중에 급할 거 없는 대통령 부모 묘소 등을 부각하며 현안 공세 분위기에 찬물을 끼얹었단 겁니다. [박정하 / 국민의힘 의원(지난 13일, MBC 라디오 '김종배의 시선집중') : 저는 국감 준비하는 사람으로서 저 같으면 그런 여유는 없었을 것 같다는 생각이 들어요.].\n\n출처: YTN / https://n.news.naver.com/article/052/0002419918"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/04.png",
-   "pngBytes": 596733,
-   "title": "\"살아있죠?\" 묻던 소방관들 오열‥추미애 현장 와 위로했지만 [현장영상]",
-   "summary": "",
-   "summary_long": "",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001529507",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/04.png",
+   "pngBytes": 1375537,
+   "title": "불끄러 가장 먼저 들어갔다... 어린 딸 곁으로 못돌아왔다",
+   "summary": "부천 화재 김진석 소방위 끝내 숨져. 경기 부천시 한 공장 화재 현장에서 진화 작업을 하다 심정지 상태에 빠졌던 김진석 소방위가 끝내 숨졌다.",
+   "summary_long": "지난 16일 부천 공장 화재를 진압하다 순직한 부천소방서 소속 오정센터 고(故) 김진석 소방위. 경기 부천시 한 공장 화재 현장에서 진화 작업을 하다 심정지 상태에 빠졌던 김진석(44) 소방위가 끝내 숨졌다. 17일 소방청에 따르면, 전날 화재 현장에서 구조돼 의식 불명 상태로 병원 치료를 받던 김 소방위가 이날 오전 0시 55분쯤 숨졌다.\n\n16일 경기 부천의 한 금속부품 도장 공장에서 화재 진압을 마친 소방대원이 동료 소방관의 심각한 부상 소식에 눈물을 흘리고 있다. 김 소방위는 화재 당시 가장 먼저 현장에 투입됐던 선발대로, 20분가량 화재 진압을 하던 중 불길이 빠르게 번지면서 고립됐다가 오전 9시 40분쯤 심정지 상태로 발견됐다. 이재명 대통령은 이날 오전 엑스(X·옛 트위터)에 “부천 화재 현장에서 임무를 수행하다 순직하신 소방대원의 소식에 참담한 마음”이라며 “삼가 고인의 명복을 빈다”고 밝혔다.",
+   "press": "조선일보",
+   "source": "조선일보",
+   "link": "https://n.news.naver.com/article/023/0004004388",
    "selection": "경제·시사",
-   "feed": "뉴스 03. \"살아있죠?\" 묻던 소방관들 오열‥추미애 현장 와 위로했지만 [현장영상]\n\n\n\n출처: MBC / https://n.news.naver.com/article/214/0001529507"
+   "feed": "뉴스 03. 불끄러 가장 먼저 들어갔다... 어린 딸 곁으로 못돌아왔다\n\n지난 16일 부천 공장 화재를 진압하다 순직한 부천소방서 소속 오정센터 고(故) 김진석 소방위. 경기 부천시 한 공장 화재 현장에서 진화 작업을 하다 심정지 상태에 빠졌던 김진석(44) 소방위가 끝내 숨졌다. 17일 소방청에 따르면, 전날 화재 현장에서 구조돼 의식 불명 상태로 병원 치료를 받던 김 소방위가 이날 오전 0시 55분쯤 숨졌다.\n\n16일 경기 부천의 한 금속부품 도장 공장에서 화재 진압을 마친 소방대원이 동료 소방관의 심각한 부상 소식에 눈물을 흘리고 있다. 김 소방위는 화재 당시 가장 먼저 현장에 투입됐던 선발대로, 20분가량 화재 진압을 하던 중 불길이 빠르게 번지면서 고립됐다가 오전 9시 40분쯤 심정지 상태로 발견됐다. 이재명 대통령은 이날 오전 엑스(X·옛 트위터)에 “부천 화재 현장에서 임무를 수행하다 순직하신 소방대원의 소식에 참담한 마음”이라며 “삼가 고인의 명복을 빈다”고 밝혔다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004004388"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/05.png",
-   "pngBytes": 1559698,
-   "title": "일요일 전국에 비바람, 중부 최대 80mm 요란한 가을비",
-   "summary": "최대 80mm가량 가을비치곤 많은 비가 예상돼, 쌓인 낙엽에 배수구가 막힌 곳은 없는지 사전에 점검해야겠습니다. 북서쪽에서 비구름이 밀려와 일요일 새벽 인천과 경기 북부…",
-   "summary_long": "최대 80mm가량 가을비치곤 많은 비가 예상돼, 쌓인 낙엽에 배수구가 막힌 곳은 없는지 사전에 점검해야겠습니다. 10월 중순에 접어들며 부쩍 짙어진 가을, 이번 주말에는 가을을 더욱 재촉하는 비가 오겠습니다. 북서쪽에서 비구름이 밀려와 일요일 새벽 인천과 경기 북부 지역부터 비를 뿌리겠습니다.\n\n일요일 오전에는 비가 중부지방으로 확대되고 오후에는 전국에 내리겠습니다. 특히 일요일 낮부터 저녁 사이 수도권과 강원 영서 지역엔 시간당 30mm에 이르는 호우가 예보됐습니다. 가을비치고는 많은 비가 예보된 만큼 낙엽으로 배수구가 막힌 곳에선 침수 피해가 발생할 수 있어 사전 정비가 필요합니다.",
-   "press": "KBS",
-   "source": "KBS",
-   "link": "https://n.news.naver.com/article/056/0012275119",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/05.png",
+   "pngBytes": 1701076,
+   "title": "“내가 다 민망하네”…공연 중 정치인 소개에 마이크 뺏긴 여가수",
+   "summary": "사진l유튜브 신호등TV가수 흰이 지역 축제 축하공연 중, 주최 측이 갑자기 공연을 중단시키는 돌발 상황을 겪었다. 흰이 2곡을 부르고 다음 무대를 준비하던 순간…",
+   "summary_long": "사진l유튜브 신호등TV가수 흰(HYNN·박혜원)이 지역 축제 축하공연 중, 주최 측이 갑자기 공연을 중단시키는 돌발 상황을 겪었다. 흰은 지난 15일 전북 순창에서 열린 제21회 순창장류축제 개막식에서 축하 공연을 펼쳤다. 흰이 2곡을 부르고 다음 무대를 준비하던 순간, 사회자가 갑자기 무대에 올라 돌연 공연을 중단 시켰다.\n\n흰은 갑작스러운 상황에 당황한 듯 무대 한쪽으로 물러났고, 사회자는 김민석 더불어민주당 대표를 소개했다. 이후 사회자는 “다음 노래를 들어 봐야겠죠”라며 흰을 불렀고, 잠시 혼란한 상황이 이어지다 흰이 다시 무대에 올라와 공연을 재개했다. 당시 상황이 담긴 영상이 공개되자 일부 누리꾼들은 “내가 다 민망하다”, “흰이 너무 당황 했겠다”, “가수에 대한 예의가 없는 것 같다” 등 주최 측의 매끄럽지 않은 행사 진행에 비판의 목소리를 냈다.",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005749959",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 일요일 전국에 비바람, 중부 최대 80mm 요란한 가을비\n\n최대 80mm가량 가을비치곤 많은 비가 예상돼, 쌓인 낙엽에 배수구가 막힌 곳은 없는지 사전에 점검해야겠습니다. 10월 중순에 접어들며 부쩍 짙어진 가을, 이번 주말에는 가을을 더욱 재촉하는 비가 오겠습니다. 북서쪽에서 비구름이 밀려와 일요일 새벽 인천과 경기 북부 지역부터 비를 뿌리겠습니다.\n\n일요일 오전에는 비가 중부지방으로 확대되고 오후에는 전국에 내리겠습니다. 특히 일요일 낮부터 저녁 사이 수도권과 강원 영서 지역엔 시간당 30mm에 이르는 호우가 예보됐습니다. 가을비치고는 많은 비가 예보된 만큼 낙엽으로 배수구가 막힌 곳에선 침수 피해가 발생할 수 있어 사전 정비가 필요합니다.\n\n출처: KBS / https://n.news.naver.com/article/056/0012275119"
+   "feed": "뉴스 04. “내가 다 민망하네”…공연 중 정치인 소개에 마이크 뺏긴 여가수\n\n사진l유튜브 신호등TV가수 흰(HYNN·박혜원)이 지역 축제 축하공연 중, 주최 측이 갑자기 공연을 중단시키는 돌발 상황을 겪었다. 흰은 지난 15일 전북 순창에서 열린 제21회 순창장류축제 개막식에서 축하 공연을 펼쳤다. 흰이 2곡을 부르고 다음 무대를 준비하던 순간, 사회자가 갑자기 무대에 올라 돌연 공연을 중단 시켰다.\n\n흰은 갑작스러운 상황에 당황한 듯 무대 한쪽으로 물러났고, 사회자는 김민석 더불어민주당 대표를 소개했다. 이후 사회자는 “다음 노래를 들어 봐야겠죠”라며 흰을 불렀고, 잠시 혼란한 상황이 이어지다 흰이 다시 무대에 올라와 공연을 재개했다. 당시 상황이 담긴 영상이 공개되자 일부 누리꾼들은 “내가 다 민망하다”, “흰이 너무 당황 했겠다”, “가수에 대한 예의가 없는 것 같다” 등 주최 측의 매끄럽지 않은 행사 진행에 비판의 목소리를 냈다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005749959"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/06.png",
-   "pngBytes": 1493112,
-   "title": "장동혁 “매번 흔들고 정도껏 해야지” 고성… ‘ARS 누락’ 국힘 충돌",
-   "summary": "국민의힘 지도부가 15일 경기 용인갑 조직위원장 경선 부실 논란을 두고 공개 충돌했다. 장 대표가 당원 직선제를 도입한 용인갑 경선에서는 양 최고위원과 원외 친장 윤재복…",
-   "summary_long": "長 “대표 XX 만들어” 회의장 떠나. 국민의힘 지도부가 15일 경기 용인갑 조직위원장 경선 부실 논란을 두고 공개 충돌했다. 결선에서 패배한 양향자 최고위원은 전면 재선거를 주장했고, 당권파들은 “당의 시스템을 부정하는 해당 행위”라고 반박했다.\n\n양 최고위원은 이날 최고위원회의에서 “이번에 실시된 모든 경선의 전 과정을 철저하고 투명하게 밝히고 경선 모두를 처음부터 다시 해야 맞는다”며 이를 전제하지 않는 재경선은 불참하겠다고 밝혔다. 장 대표가 당원 직선제를 도입한 용인갑 경선에서는 양 최고위원과 원외 친장(친장동혁) 윤재복 후보가 결선까지 치른 끝에 윤 후보가 선출됐다. 양 최고위원 등이 ‘올공 사태’를 거론하는 것을 두고는 “올공 나가 싸우는 대표까지 XX 만들고 정치 왜 하냐”라고 말한 뒤 장 대표는 회의장을 박차고 나왔다.",
-   "press": "서울신문",
-   "source": "서울신문",
-   "link": "https://n.news.naver.com/article/081/0003689452",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/06.png",
+   "pngBytes": 1432452,
+   "title": "李대통령, 부천 공장 화재 순직 소방대원 빈소 조문",
+   "summary": "이 대통령은 이날 오후 경기 부천시 순천향대 부천병원 장례식장에 마련된 김 소방위의 빈소를 찾아 조문하고 유가족을 위로했다. 무거운 표정으로 빈소에 들어선 이 대통령은…",
+   "summary_long": "이 대통령은 이날 오후 경기 부천시 순천향대 부천병원 장례식장에 마련된 김 소방위의 빈소를 찾아 조문하고 유가족을 위로했다. 무거운 표정으로 빈소에 들어선 이 대통령은 김 소방위의 영정 앞에 무릎을 꿇고 분향한 뒤 묵념하며 고인을 추모했다. 방명록에는 “당신께서 지켜주신 안전한 일상 속에서 국민들은 님의 희생을 영원히 기억할 것입니다”라는 글을 남겼다.\n\n김 소방위는 지난 16일 오전 8시 38분께 경기 부천의 한 금속사출 인쇄공장에서 발생한 화재를 진압하던 중 심정지 상태로 병원에 이송됐다. 이 대통령은 이날 빈소를 방문하기에 앞서 엑스(X·옛 트위터)를 통해서도 고인을 애도했다. 이 대통령은 “국민의 안전을 지키는 소방대원들의 안전은 국가가 반드시 지켜야 할 책무”라며 “정부는 현장 대원들이 보다 안전하게 임무를 수행할 수 있도록 안전 대책을 철저히 점검하고 부족한 부분을 보완하겠다”고 밝혔다.",
+   "press": "서울경제",
+   "source": "서울경제",
+   "link": "https://n.news.naver.com/article/011/0004672286",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 장동혁 “매번 흔들고 정도껏 해야지” 고성… ‘ARS 누락’ 국힘 충돌\n\n長 “대표 XX 만들어” 회의장 떠나. 국민의힘 지도부가 15일 경기 용인갑 조직위원장 경선 부실 논란을 두고 공개 충돌했다. 결선에서 패배한 양향자 최고위원은 전면 재선거를 주장했고, 당권파들은 “당의 시스템을 부정하는 해당 행위”라고 반박했다.\n\n양 최고위원은 이날 최고위원회의에서 “이번에 실시된 모든 경선의 전 과정을 철저하고 투명하게 밝히고 경선 모두를 처음부터 다시 해야 맞는다”며 이를 전제하지 않는 재경선은 불참하겠다고 밝혔다. 장 대표가 당원 직선제를 도입한 용인갑 경선에서는 양 최고위원과 원외 친장(친장동혁) 윤재복 후보가 결선까지 치른 끝에 윤 후보가 선출됐다. 양 최고위원 등이 ‘올공 사태’를 거론하는 것을 두고는 “올공 나가 싸우는 대표까지 XX 만들고 정치 왜 하냐”라고 말한 뒤 장 대표는 회의장을 박차고 나왔다.\n\n출처: 서울신문 / https://n.news.naver.com/article/081/0003689452"
+   "feed": "뉴스 05. 李대통령, 부천 공장 화재 순직 소방대원 빈소 조문\n\n이 대통령은 이날 오후 경기 부천시 순천향대 부천병원 장례식장에 마련된 김 소방위의 빈소를 찾아 조문하고 유가족을 위로했다. 무거운 표정으로 빈소에 들어선 이 대통령은 김 소방위의 영정 앞에 무릎을 꿇고 분향한 뒤 묵념하며 고인을 추모했다. 방명록에는 “당신께서 지켜주신 안전한 일상 속에서 국민들은 님의 희생을 영원히 기억할 것입니다”라는 글을 남겼다.\n\n김 소방위는 지난 16일 오전 8시 38분께 경기 부천의 한 금속사출 인쇄공장에서 발생한 화재를 진압하던 중 심정지 상태로 병원에 이송됐다. 이 대통령은 이날 빈소를 방문하기에 앞서 엑스(X·옛 트위터)를 통해서도 고인을 애도했다. 이 대통령은 “국민의 안전을 지키는 소방대원들의 안전은 국가가 반드시 지켜야 할 책무”라며 “정부는 현장 대원들이 보다 안전하게 임무를 수행할 수 있도록 안전 대책을 철저히 점검하고 부족한 부분을 보완하겠다”고 밝혔다.\n\n출처: 서울경제 / https://n.news.naver.com/article/011/0004672286"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/07.png",
-   "pngBytes": 590161,
-   "title": "장동혁 샤우팅 소용 없었다…양향자 “끝까지 싸울 것” 정면 충돌",
-   "summary": "",
-   "summary_long": "",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/07.png",
+   "pngBytes": 1471826,
+   "title": "친한계 박정훈 “장동혁, 민주 쪽 출마하려 했던 건 알려진 사실”",
+   "summary": "뉴스1 친한동훈계 박정훈 국민의힘 의원은 “장동혁 대표가민주당 쪽 의원들과 가까웠고 그쪽으로 출마를 하려고 했었다는 것들도 이미 정치권에서 많이 알려진 사실”이라고…",
+   "summary_long": "뉴스1 친한동훈계 박정훈 국민의힘 의원은 “장동혁 대표가 (더불어)민주당 쪽 의원들과 가까웠고 그쪽으로 출마를 하려고 했었다는 것들도 이미 정치권에서 많이 알려진 사실”이라고 말했다. 박 의원은 16일 YTN 라디오 ‘장성철의 뉴스명당’에 출연해 “판사 시절에 장 대표가 국회 파견 판사였다”며 이같이 주장했다. 이어 “(장 대표가 국회 파견 판사였을 당시) 안민석 의원(현 경기도교육감)과 최순실 재산몰수 관련 법을 만드는 데 같이 심사를 한 것으로 알려져 있다”고 했다.\n\n국회 교육위원회 소속인 박 의원은 지난 14일 경기도교육청 국정감사에서 안민석 교육감의 ‘폰 프리’(도내 초·중·고교에서 일과 중 휴대폰 사용 제한) 정책을 비판하려다 질의를 접었다고 밝혔다. 같은 교육위 소속인 장 대표가 해당 정책을 긍정적으로 평가하는 듯한 발언을 했다는 이유에서다. 이어 “그래서 그 정책을 문제 삼으려고 했는데, 공교롭게도 우리 당 장동혁 대표가 저랑 같이 교육위인데 그 정책을 옹호하는 듯한 발언을 해서 제가 질의는 하지 않았다”고 했다.",
    "press": "중앙일보",
    "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003558457",
+   "link": "https://n.news.naver.com/article/025/0003558532",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 장동혁 샤우팅 소용 없었다…양향자 “끝까지 싸울 것” 정면 충돌\n\n\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003558457"
+   "feed": "뉴스 06. 친한계 박정훈 “장동혁, 민주 쪽 출마하려 했던 건 알려진 사실”\n\n뉴스1 친한동훈계 박정훈 국민의힘 의원은 “장동혁 대표가 (더불어)민주당 쪽 의원들과 가까웠고 그쪽으로 출마를 하려고 했었다는 것들도 이미 정치권에서 많이 알려진 사실”이라고 말했다. 박 의원은 16일 YTN 라디오 ‘장성철의 뉴스명당’에 출연해 “판사 시절에 장 대표가 국회 파견 판사였다”며 이같이 주장했다. 이어 “(장 대표가 국회 파견 판사였을 당시) 안민석 의원(현 경기도교육감)과 최순실 재산몰수 관련 법을 만드는 데 같이 심사를 한 것으로 알려져 있다”고 했다.\n\n국회 교육위원회 소속인 박 의원은 지난 14일 경기도교육청 국정감사에서 안민석 교육감의 ‘폰 프리’(도내 초·중·고교에서 일과 중 휴대폰 사용 제한) 정책을 비판하려다 질의를 접었다고 밝혔다. 같은 교육위 소속인 장 대표가 해당 정책을 긍정적으로 평가하는 듯한 발언을 했다는 이유에서다. 이어 “그래서 그 정책을 문제 삼으려고 했는데, 공교롭게도 우리 당 장동혁 대표가 저랑 같이 교육위인데 그 정책을 옹호하는 듯한 발언을 해서 제가 질의는 하지 않았다”고 했다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003558532"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/08.png",
-   "pngBytes": 553350,
-   "title": "조국 \"한동훈 딸 천재인지 특검으로 확인하자\"",
-   "summary": "",
-   "summary_long": "",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000516024",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/08.png",
+   "pngBytes": 1819075,
+   "title": "국민의힘 “민주당, ‘조희대 탄핵’ 논의 공식화…정권 몰락 신호탄 될 것”",
+   "summary": "국민의힘은 더불어민주당 김민석 대표가 조희대 대법원장 탄핵 논의를 공식화한 걸 두고 “이재명 정권의 몰락을 알리는 신호탄이 될 것”이라고 비판했습니다. 박 수석대변인은…",
+   "summary_long": "국민의힘은 더불어민주당 김민석 대표가 조희대 대법원장 탄핵 논의를 공식화한 걸 두고 “이재명 정권의 몰락을 알리는 신호탄이 될 것”이라고 비판했습니다. 국민의힘 최수진 원내수석대변인은 오늘(17일) 논평을 통해 “민주당이 탄핵안을 밀어붙이는 그 순간 이재명 대통령은 국정 동력을 완전히 상실한 ‘데드덕’으로 전락할 것”고 밝혔습니다. 최 원내수석대변인은 “억지 명분 뒤에 숨겨진 진짜 의도는 명확하다”며 “내년 2월 법관 정기 인사를 앞두고 조 대법원장의 직무를 강제로 정지시켜 사법부의 인사권을 통제하겠다는 계산”이라고 지적했습니다.\n\n박성훈 수석대변인도 “대법원장을 ‘정치적 인질’로 삼으려는 도 넘는 치졸한 행태”라고 날을 세웠습니다. 박 수석대변인은 오늘 논평에서 “민주당이 대법원장 탄핵의 명분으로 내세운 것은 대법원의 ‘업무추진비 와인 결제’ 문제”라며 “그러나 정작 관련 지출의 상당 부분은 조 대법원장 취임 이전인 김명수 전 대법원장 재임 시기에 이뤄졌다”고 설명했습니다. 박 수석대변인은 “업무추진비 집행에 문제가 있다면 사실관계를 확인하고 그에 따른 책임을 물으면 된다”며 “하지만 지출 내역에 대한 논란을 대법원장 탄핵으로까지 연결하는 것은 지나친 비약”이라고 꼬집었습니다.",
+   "press": "KBS",
+   "source": "KBS",
+   "link": "https://n.news.naver.com/article/056/0012275589",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 조국 \"한동훈 딸 천재인지 특검으로 확인하자\"\n\n\n\n출처: JTBC / https://n.news.naver.com/article/437/0000516024"
+   "feed": "뉴스 07. 국민의힘 “민주당, ‘조희대 탄핵’ 논의 공식화…정권 몰락 신호탄 될 것”\n\n국민의힘은 더불어민주당 김민석 대표가 조희대 대법원장 탄핵 논의를 공식화한 걸 두고 “이재명 정권의 몰락을 알리는 신호탄이 될 것”이라고 비판했습니다. 국민의힘 최수진 원내수석대변인은 오늘(17일) 논평을 통해 “민주당이 탄핵안을 밀어붙이는 그 순간 이재명 대통령은 국정 동력을 완전히 상실한 ‘데드덕’으로 전락할 것”고 밝혔습니다. 최 원내수석대변인은 “억지 명분 뒤에 숨겨진 진짜 의도는 명확하다”며 “내년 2월 법관 정기 인사를 앞두고 조 대법원장의 직무를 강제로 정지시켜 사법부의 인사권을 통제하겠다는 계산”이라고 지적했습니다.\n\n박성훈 수석대변인도 “대법원장을 ‘정치적 인질’로 삼으려는 도 넘는 치졸한 행태”라고 날을 세웠습니다. 박 수석대변인은 오늘 논평에서 “민주당이 대법원장 탄핵의 명분으로 내세운 것은 대법원의 ‘업무추진비 와인 결제’ 문제”라며 “그러나 정작 관련 지출의 상당 부분은 조 대법원장 취임 이전인 김명수 전 대법원장 재임 시기에 이뤄졌다”고 설명했습니다. 박 수석대변인은 “업무추진비 집행에 문제가 있다면 사실관계를 확인하고 그에 따른 책임을 물으면 된다”며 “하지만 지출 내역에 대한 논란을 대법원장 탄핵으로까지 연결하는 것은 지나친 비약”이라고 꼬집었습니다.\n\n출처: KBS / https://n.news.naver.com/article/056/0012275589"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-17/09.png",
-   "pngBytes": 1345950
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-18/09.png",
+   "pngBytes": 1346169
   }
  ],
- "caption": "📰 10월 17일 오늘의 뉴스\n\n1. \"신청 안 하면 내 돈 170만원 증발\"…국민연금 반환금의 함정\n2. ‘정치인 호감도’ 오세훈 1위…비호감도 선두는 이준석 [갤럽]\n   한국갤럽이 지난 13~15일 전국 만 18살 이상 1003명을 대상으로 정치권 주요 인물 7인에 대한 호감도를 조사한 결과, ‘호감이 간다’는 응답은 오세훈 서울시장이…\n3. \"살아있죠?\" 묻던 소방관들 오열‥추미애 현장 와 위로했지만 [현장영상]\n4. 일요일 전국에 비바람, 중부 최대 80mm 요란한 가을비\n   최대 80mm가량 가을비치곤 많은 비가 예상돼, 쌓인 낙엽에 배수구가 막힌 곳은 없는지 사전에 점검해야겠습니다. 북서쪽에서 비구름이 밀려와 일요일 새벽 인천과 경기 북부…\n5. 장동혁 “매번 흔들고 정도껏 해야지” 고성… ‘ARS 누락’ 국힘 충돌\n   국민의힘 지도부가 15일 경기 용인갑 조직위원장 경선 부실 논란을 두고 공개 충돌했다. 장 대표가 당원 직선제를 도입한 용인갑 경선에서는 양 최고위원과 원외 친장 윤재복…\n6. 장동혁 샤우팅 소용 없었다…양향자 “끝까지 싸울 것” 정면 충돌\n7. 조국 \"한동훈 딸 천재인지 특검으로 확인하자\"\n\n🗣 “작년 6월 대선 이후 다섯 차례 자유응답 방식 선호 장래 정치 지도자 선호도 조사에서 매번 빠짐없이 거론된 7인을 기준으로 했다”\n이 발언을 그대로 실은 보도 3건 · 한겨레 · 미디어대전 · 중앙신문\n· 한겨레 — ‘정치인 호감도’ 오세훈 1위…비호감도 선두는 이준석 [갤럽]\n· 미디어대전 — 국민의힘 장동혁 대표, 호감도 14%-비호감도 72%\n· 중앙신문 — ‘정치인 호감도’ 오세훈 1위…비호감도 1위는 이준석\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼\n\n출처: JTBC, KBS, MBC, 서울신문, 중앙일보, 한겨레, 한국경제"
+ "caption": "📰 10월 18일 오늘의 뉴스\n\n1. 가수 공연 끊고 등장한 김민석…\"민주당 행사냐\" \"정당 대표 갑질\" 시끌\n   / 유튜브 신호등TV전북 순창의 지역 축제에서 가수의 공연이 중단되고 정치인이 무대에 올라 인사말을 하는 일이 벌어져 논란이 일고 있다. 17일 유튜브 채널…\n2. '5.18' 이어 '묘소 셀카'...'이진숙 논란', 국힘도 엇갈린 반응\n   과방위 국감에서는 이진숙 의원의 행보를 두고 난데없는 패륜 논란이 불거졌는데, 국민의힘 내부에서도 엇갈린 반응이 나옵니다. [정점식 / 국민의힘 원내대표 :…\n3. 불끄러 가장 먼저 들어갔다... 어린 딸 곁으로 못돌아왔다\n   부천 화재 김진석 소방위 끝내 숨져. 경기 부천시 한 공장 화재 현장에서 진화 작업을 하다 심정지 상태에 빠졌던 김진석 소방위가 끝내 숨졌다.\n4. “내가 다 민망하네”…공연 중 정치인 소개에 마이크 뺏긴 여가수\n   사진l유튜브 신호등TV가수 흰이 지역 축제 축하공연 중, 주최 측이 갑자기 공연을 중단시키는 돌발 상황을 겪었다. 흰이 2곡을 부르고 다음 무대를 준비하던 순간…\n5. 李대통령, 부천 공장 화재 순직 소방대원 빈소 조문\n   이 대통령은 이날 오후 경기 부천시 순천향대 부천병원 장례식장에 마련된 김 소방위의 빈소를 찾아 조문하고 유가족을 위로했다. 무거운 표정으로 빈소에 들어선 이 대통령은…\n6. 친한계 박정훈 “장동혁, 민주 쪽 출마하려 했던 건 알려진 사실”\n   뉴스1 친한동훈계 박정훈 국민의힘 의원은 “장동혁 대표가민주당 쪽 의원들과 가까웠고 그쪽으로 출마를 하려고 했었다는 것들도 이미 정치권에서 많이 알려진 사실”이라고…\n7. 국민의힘 “민주당, ‘조희대 탄핵’ 논의 공식화…정권 몰락 신호탄 될 것”\n   국민의힘은 더불어민주당 김민석 대표가 조희대 대법원장 탄핵 논의를 공식화한 걸 두고 “이재명 정권의 몰락을 알리는 신호탄이 될 것”이라고 비판했습니다. 박 수석대변인은…\n\n🗣 “부천 화재 현장에서 임무를 수행하다 순직하신 소방대원의 소식에 참담한 마음”\n이 발언을 그대로 실은 보도 10건 · 한겨레 · 경향신문 · KBC광주방송 · 연합뉴스\n· 한겨레 — 이 대통령, ‘부천 화재’ 소방관 순직 애도…“안전대책 점검하고 보완”\n· 경향신문 — 이대통령, 부천 화재 순직 소방관 애도…“희생 잊지 않겠다”\n· KBC광주방송 — [속보] \"희생 잊지 않겠다\"...이 대통령, 부천 화재 순직 소방관 애도\n· 연합뉴스 — 이 대통령 \"소방대원 안전은 국가 책무…헌신 새길 것\"\n· 연합뉴스TV — 이 대통령 \"고인 헌신 새길 것\"…정치권 애도 물결\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: KBS, TV조선, YTN, 매일경제, 서울경제, 조선일보, 중앙일보"
 }
