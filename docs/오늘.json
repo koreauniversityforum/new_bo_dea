@@ -1,212 +1,183 @@
 {
- "date": "2026-10-20",
- "generated_at": "2026-10-20T10:24:34+09:00",
+ "date": "2026-10-21",
+ "generated_at": "2026-10-21T10:10:23+09:00",
  "mode": "daily",
- "window_start": "2026-10-19T00:00:00+09:00",
- "window_end": "2026-10-19T23:59:59+09:00",
+ "window_start": "2026-10-20T00:00:00+09:00",
+ "window_end": "2026-10-20T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "\"본인은 12억 관사 입주\"…뒤에선 추모 행사비까지 '몽땅 삭감'",
-   "source": "SBS",
-   "url": "https://n.news.naver.com/article/055/0001396519",
-   "published_at": "2026-10-19T13:41:40+09:00",
+   "title": "“민주당 찍을 이유 없어졌다”…여권 리스크 된 ‘광역단체장 3인방’",
+   "source": "중앙일보",
+   "url": "https://n.news.naver.com/article/025/0003559076",
+   "published_at": "2026-10-20T05:00:02+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "추미애 경기도지사의 '소방 재정 빨대' 발언의 후폭풍이 이어지고 있는 상황에서, 경기도가 정작 소방 관련 예산을 대거 삭감한 사실이 드러나 논란이 일고 있습니다. 하지만…",
-   "summary_long": "추미애 경기도지사의 '소방 재정 빨대' 발언의 후폭풍이 이어지고 있는 상황에서, 경기도가 정작 소방 관련 예산을 대거 삭감한 사실이 드러나 논란이 일고 있습니다. 경기도는 지난 8월 도의회에 제출한 추가경정예산안에서 노후 소방차 교체 예산 26억 5천만 원을 삭감한 것으로 나타났습니다. 여기에 더해 전문구급장비와 구조장비 보강 예산 7억 원과 순직 소방관 추모 행사비 1억 원 등 총 34억 5천만 원에 달하는 소방 예산을 감액했습니다.\n\n추미애 경기지사는 지난 13일 국회 국정감사에서 소방을 두고 \"가장 큰 골치 아픈 재정 빨대 같다\"고 발언해 큰 반발을 샀습니다. 하지만 정작 경기도가 현장 소방관들의 안전과 직결된 노후 장비 교체 및 보강 예산을 수십억 원이나 삭감한 사실이 드러나면서 \"앞뒤가 맞지 않는 행정\"이라는 비판이 나오고 있습니다. 국민의힘 장동혁 대표는 오늘(19일) 추 지사를 겨냥해 \"소방 차량 25대를 구입할 수 있는 돈인 예산 26억5000만 원을 깎고, 정작 본인은 멀쩡한 차를 두고 새 차를 샀다\"며 \"추 지사 본인 관사로 입주한 48평 아파트 전세금만 12억 원\"이라고 지적했습니다.",
+   "summary": "김민석 국무총리가 지난 6월 15일 서울 삼청동 총리공관에서 열린 국토대전환 관련 광역단체장 당선자 간담회에서 추미애 경기도지사 당선인 등 참석자들과 기념촬영을 하고…",
+   "summary_long": "김민석 국무총리가 지난 6월 15일 서울 삼청동 총리공관에서 열린 국토대전환 관련 광역단체장 당선자 간담회에서 추미애 경기도지사 당선인 등 참석자들과 기념촬영을 하고 있다. 앞줄 왼쪽부터 위성곤 제주도지사 당선인, 김상욱 울산광역시장 당선인, 추미애 경기도지사 당선인, 김민석 국무총리, 허태정 대전시장 당선인, 박찬대 인천시장 당선인. 뒷줄 왼쪽부터 이원택 전북도지사 당선인, 민형배 전남광주통합특별시장 당선인, 신용한 충북도지사 당선인, 조상호 세종시장 당선인.\n\n민주당 내에서는 광역단체장 리스크가 차기 총선에 악영향을 줄 수 있다는 우려가 나온다. 민주당 중진 의원은 “광역단체장이 못하면 민주당에 굳이 표를 주지 않아도 된다는 여론이 힘을 받게 된다”며 “박빙 지역에서 큰 타격을 받을 수 있다”고 했다. 김민석 대표는 지난 18일 부산 기초단체장 간담회에서 “민주당이 앞으로 시민 선택을 받을 수 있냐는 것은 전재수 시장과 7명의 구청장에게 거의 다 달려있다”고 말하는 등 총선에서 자치단체장 역할을 강조하고 있다.",
    "quotes": [
-    "소방 차량 25대를 구입할 수 있는 돈인 예산 26억5000만 원을 깎고, 정작 본인은 멀쩡한 차를 두고 새 차를 샀다",
-    "지금은 무엇보다 국민의 마음을 잘 헤아려서 국민의 맘이 풀릴 때까지 할 수 있는 노력을 다하는 게 우선",
-    "추 지사 본인 관사로 입주한 48평 아파트 전세금만 12억 원"
+    "통합특별시가 막 만들어져 현안이 복잡한데, 민 시장이 해결 능력을 보여주지 못하고 있어 민심이 흉흉하다",
+    "민주당이 앞으로 시민 선택을 받을 수 있냐는 것은 전재수 시장과 7명의 구청장에게 거의 다 달려있다",
+    "광역단체장이 못하면 민주당에 굳이 표를 주지 않아도 된다는 여론이 힘을 받게 된다"
    ],
-   "press": "SBS",
+   "press": "중앙일보",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "지금은 무엇보다 국민의 마음을 잘 헤아려서 국민의 맘이 풀릴 때까지 할 수 있는 노력을 다하는 게 우선",
-    "n": 10,
+    "quote": "광역단체장이 못하면 민주당에 굳이 표를 주지 않아도 된다는 여론이 힘을 받게 된다",
+    "n": 1,
     "verified": 0,
     "items": [
      {
-      "press": "SBS 뉴스",
-      "title": "[자막뉴스] \"본인은 12억 관사 입주에 새 관용차까지\"…뒤에선 순직 소방관 추모 행사비까지 '몽땅 삭감'",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xSTRvT1BsQjltei1CVFRjRzV2a0pvaHh3dG1oWFBNUzBpLWR6YkZ1TFpVN3ZhWmdwT25GSUlRWkY0MWd4WnJXcWhlNHoxWG1vV2N4bjVrMWZVSXgwWWRSajZyZC14Z9IBZkFVX3lxTE0xSTRvT1BsQjltei1CVFRjRzV2a0pvaHh3dG1oWFBNUzBpLWR6YkZ1TFpVN3ZhWmdwT25GSUlRWkY0MWd4WnJXcWhlNHoxWG1vV2N4bjVrMWZVSXgwWWRSajZyZC14Zw?oc=5"
-     },
-     {
-      "press": "한겨레",
-      "title": "김민석 “추미애, 국민 마음 풀릴 때까지 노력해야…이미 공식사과 요청”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnYWZHUGE3OVNfVDRxR2dmUl9TTTdwaVR4NTZ0ODlRODVHVVkzZkM4cUVUbXBxd0JNMnBvaEt0cGxQckxxeFNyTTA0VWV3WXhmcFhjQlFxWTZWMkNoMmY4ZjdCanVkZHF1TlNENUhyMWJiUHRK?oc=5"
-     },
-     {
-      "press": "연합뉴스TV",
-      "title": "김민석 \"秋에 사과하라고 요청했다…국민 맘 풀릴 때까지 노력\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FZHBsblE5TlF0SUxaZVN0VWdORmhUMkpSMnJhVmFvTTI4cTA4RVkwNXF0akVNSmxDVmNvWnVwTF9FYW1rQWhhS2RadERSbUVMZ0IzU3BncnVFXzJyUzlPT2g4b2o1MEk?oc=5"
-     },
-     {
-      "press": "조선일보",
-      "title": "김민석, 추미애 징계 요구에 \"국민 마음 풀릴 때까지 노력이 우선\"",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVVZiUXlId0kycTg4azZacFIyUjZYR1g2MThqd216VG1kblNRV3g4RzJDNU9hVWJrQWljRXRwV0o2R25Ib0ZGb282eHhFcldNdWlJS1lBWWwyWW93VU9lVy1zWjNtNmRwNDBTZVRIX2Z1TFI3Q2w2Y2MweDdseU5MSzJLZW5IZw?oc=5"
-     },
-     {
-      "press": "YTN",
-      "title": "김민석 \"추미애에 '소방 빨대' 발언 사과 요청...노력해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5haVBIMzNEa01vZERJT0VMZFJXNEw5SzBzanpUQlpSeWhVMVJtTWhqNG5LZXBzUXhLMjlTSVBLTlk3R3oyakpGRTFMMW9XSU9BZEFOQkZMTWpxOExCcEE?oc=5"
-     },
-     {
-      "press": "시사저널",
-      "title": "추미애 ‘소방 빨대’ 사과 논란…김민석 “秋에 사과 요청”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xbkRDSFdBS0xtOVhwZU40REVzRXRhWmh1YVFPc0JBNEQycHlQaGY2djVFSjc3OFJFVlZub1lvb0dIVmxTQ0dmWWpFRVNlYnBERFJYcGNuVU1DUEJVTnM3X2lEZzZFN1ZtSnhnOUx2WdIBc0FVX3lxTFBBZnVDZEJqYzlmNG1IT0gwdFg5d0ZPWE1JSWMxaWd1OTg5UTlyaFV3Y3ByYmpmSGtUMDlFb3lTa2tmYVZzdmRRWlVVaG1qb0Uyd2FLU2ZTcW9TbEt1X1RveEh0d2pRYlRyQVZGdDZWSVA1clk?oc=5"
+      "press": "중앙일보",
+      "title": "“찍은 손 지지고 싶다”…여권 리스크 된 ‘광역단체장 3인방’",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VWkR6WlhzWGljQTBhbFFzVE5sc0xrMWRWNnJlQmVuV0gwZ1RNSzBNSVg0NHRSOEkyU2hZR2gzMXBEMmlicGpQSndBSVg1OHZSNktzVlpn?oc=5"
      }
     ]
    }
   },
   {
-   "title": "“정치 깡패” 되치기 당한 한동훈…딸 부실수사 의혹에 발끈하더니",
-   "source": "한겨레",
-   "url": "https://n.news.naver.com/article/028/0002828031",
-   "published_at": "2026-10-19T10:48:15+09:00",
+   "title": "\"죽었다더라\" \"트럼프 만난다더라\"…'극과 극' 관측, 김정은 어디에?",
+   "source": "시사저널",
+   "url": "https://n.news.naver.com/article/586/0000140448",
+   "published_at": "2026-10-20T15:57:14+09:00",
    "section_id": "100",
-   "view_rank": 2,
+   "view_rank": 1,
    "selection": "정치",
-   "summary": "박용진 규제합리화위원회 부위원장과 한동훈 무소속 의원. 한동훈 무소속 의원이 딸의 ‘허위 스펙’ 의혹을 제기하고 있는 더불어민주당에 대해 “정치깡패들을 정치권에서…",
-   "summary_long": "박용진 “사적 분노로 권한 쓰면 그게 깡패” 한동훈 무소속 의원이 딸의 ‘허위 스펙’ 의혹을 제기하고 있는 더불어민주당에 대해 “정치깡패들을 정치권에서 쓸어버리겠다”고 말한 것을 두고 박용진 규제합리화위원회 부위원장이 “사적 분노로 권한을 동원하는 것이야말로 정치깡패”라고 꼬집었다. 이거는 그야말로 자기가 그럴 권한을 가지면 사적 보복도 할 수 있겠다(는) 생각, 표현으로 들린다”며 “그런 사적 보복을 하면 옛날에 윤석열 검찰총장 표현대로면 그게 깡패지 검사냐”고 했다.\n\n박 부위원장은 재차 “자기를 괴롭히는 세력, 사람들은 정치깡패들이라고 규정하고 ‘내가 권한을 가지면 그 권한을 가지고 싹 다 갈아엎고 잡아가겠다’ 이게 사적 보복이 아니고 뭐냐”며 “사적 감정, 사적 분노로 권한을 동원해 가지고 그렇게 하면 그거야말로 정치깡패지 그게 정치인이냐”고 지적했다. 최근 민주당을 중심으로 과거 한 의원 딸의 ‘허위 스펙’ 의혹 수사가 부실하게 이뤄졌다는 의혹이 제기되자 한 의원은 지난 14일 페이스북에 글을 올려 “이번 민주당 떼거지 린치의 본질은 노골적인 정치 보복”이라고 주장한 바 있다. 박 부위원장은 ‘부모 찬스’ 의혹이 제기됐던 한 의원 딸의 노트북 기부 연계에 대해서도 “만일 이렇게 한 게 사실이면 이 부분도 부끄러워하거나, 국민들의 박탈감에 대해서, 상처받은 엄마·아빠들에 대해서 미안하다고 얘기해야지, 그런 거 건드렸다고 정치깡패라는 얘기부터 하는 게 맞을까”라고 했다.",
+   "summary": "한편에선 사망설이 확산하는 가운데, 다른 한쪽에선 도널드 트럼프 미국 대통령과의 정상회담 가능성이 거론된다. 북한이 김 위원장의 최근 공개 활동을 전하며 사망설 진화에…",
+   "summary_long": "한편에선 사망설이 확산하는 가운데, 다른 한쪽에선 도널드 트럼프 미국 대통령과의 정상회담 가능성이 거론된다. 북한이 김 위원장의 최근 공개 활동을 전하며 사망설 진화에 나선 가운데, 그의 생사와 향후 행보를 둘러싼 국제사회의 관심이 집중되고 있다. 20일 외신 등에 따르면, 최근 해외 사회관계망서비스(SNS)를 중심으로 김 위원장이 심각한 뇌출혈로 쓰러진 뒤 중국에서 치료받다가 사망했다는 주장이 확산했다.\n\n이런 가운데 정치권 일각에선 사망설과는 정반대로, 김 위원장이 북미 정상회담을 비롯한 '광폭 행보'에 나설 수 있다는 관측도 나온다. 트럼프 대통령은 지난 12일(현지시간) 백악관에서 다음 달 아시아 방문 중 김 위원장을 만날 가능성을 묻는 취재진 질문에 \"그럴 수도 있다\"며 \"흥미진진하지 않겠느냐\"고 답했다. 트럼프 대통령과 김 위원장은 2018년 6월 싱가포르에서 첫 정상회담을 가졌으며, 이듬해 2월 베트남 하노이에서 다시 만났지만 비핵화와 대북 제재 해제를 둘러싼 이견을 좁히지 못했다.",
    "quotes": [
-    "돈 있고 힘 있고 빽 있는 ×들의 자식들은 군대 안 가고, 대학은 또 이상하게 잘 가는, 이런 것 때문에 국민들이 분노하고 슬퍼하고 박탈감을 느끼는데 그 박탈감, 상처는 생각 안 하나. 왜 이 건을 조국 딸과 비교하나",
-    "만일 이렇게 한 게 사실이면 이 부분도 부끄러워하거나, 국민들의 박탈감에 대해서, 상처받은 엄마·아빠들에 대해서 미안하다고 얘기해야지, 그런 거 건드렸다고 정치깡패라는 얘기부터 하는 게 맞을까",
-    "만약 그 워딩 그대로 (민주당이) 야비한 정치깡패면 이거 단속하고 잡아가야 한다. 그러려면 어떻게 해야 되나? ‘나 떳떳하니까 수사해 달라’ 본인이 먼저 하라"
+    "어떠한 변수에도 능동적으로 대응할 수 있도록 관련 기관이 만반의 태세를 갖추고 있다",
+    "모르겠다. 누군가 회담을 요청하고 있는지도 확실하지 않다",
+    "구체적인 대북 정보 동향은 공개가 불가능하다"
    ],
-   "press": "한겨레",
+   "press": "시사저널",
    "photo": "02.jpg",
    "quoted": {
-    "quote": "만일 이렇게 한 게 사실이면 이 부분도 부끄러워하거나, 국민들의 박탈감에 대해서, 상처받은 엄마·아빠들에 대해서 미안하다고 얘기해야지, 그런 거 건드렸다고 정치깡패라는 얘기부터 하는 게 맞을까",
+    "quote": "모르겠다. 누군가 회담을 요청하고 있는지도 확실하지 않다",
     "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "한겨레",
-      "title": "“정치 깡패” 되치기 당한 한동훈…딸 부실수사 의혹에 발끈하더니",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tdmZRT0xYVFF3endDQnYxMzIxazBZWnhJcXdsZDJSWk5JbmJ0cjhKX1gwRDVSZHNPZnVLU2JQSndyMFN4WDBBVkRLNWs3bXdnTV80eXlEa3cta05MYnJMa2hWYTVmT3BWUGpXT3VDQWRHbnZC?oc=5"
+      "press": "시사저널",
+      "title": "“죽었다더라” “트럼프 만난다더라”…‘극과 극’ 관측, 김정은 어디에?",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0ZHV3VTgwYmZQZGlDeFEwLVJrbUd0eXl0V3pid0hhWnFPN1ZYNG1VcDIzd1UtLWRHeW9CbkgxaWVrVGxmRXR2ek9OMktZcWs2aVNybWRKN2RoUGJYdkFobFNpLXVZenBvdWttaHU4UdIBc0FVX3lxTFAzdkVBQ0NWQ3NzMUs2X2tsZXZYWDZDRE1OVjVyaEVBcHpSMlhKN2hCb3pDMVNDZkc1am4zV2ZabnZQN3lyWEZ1LTdsSHdQWnhsbGFLY1lRLVExaGRNWUN2UHo2cHFNYU9mUWdYbnNucWMwdWc?oc=5"
      },
      {
-      "press": "재경일보",
-      "title": "박용진, 한동훈에 맞불 \"사적 분노로 권한 쓰면 깡패\" : 정치",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPcGFqU2Zrbmc2b1hIMWJyRjJvcExZUTE4RDlHZGw2bVB4c3hUb19NRl94a0RiV0Z5eEM2cXBOWlh5Qk9iZF9VN0N2VQ?oc=5"
+      "press": "이투데이",
+      "title": "트럼프, 김정은 회담엔 “모르겠다”⋯미ㆍ중ㆍ러 3자회담엔 긍정적",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiRkx4NHk3d1JRNDZWaFl5bjVFTlF3cVhjZzF1eU1DZWJBWWYtLTBHVGdMc0NFNzExTWgxZGNZS0JaV2wycWpYaEdTZXN2ZUtjOUxkTw?oc=5"
      },
      {
-      "press": "재경일보",
-      "title": "박용진, 한동훈 겨냥 사적 분노로 권한 쓰면 깡패 : 정치",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjaEkycDhRcmN2Y2dDRDJjOElJa053T3hlQXN6NDZmLXVBdUgyWDlfWTRFZ2ZIWUw2Ty04dmNjdjQtaldDSDQ3YTNtNA?oc=5"
+      "press": "국민일보",
+      "title": "“연내 김정은 만날 것”이라던 트럼프, 두 달 만에 “모르겠다”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KUDA2ZVA3ZVd4SGZyWnkwYy0ta0otZTZmai1CUkNadGVnbFF5QjBKQmwxS0dRM1BveG90dVhYSHh4eDJVQTZ5cmJTNWJNdlQwZHI4WmVCRlk?oc=5"
      }
     ]
    }
   },
   {
-   "title": "\"도와주세요\" 휴가 나온 군인, 20대女 돌로 내려친 50대男 잡았다",
-   "source": "파이낸셜뉴스",
-   "url": "https://n.news.naver.com/article/014/0005590862",
-   "published_at": "2026-10-19T07:46:14+09:00",
+   "title": "“아내 없이 혼자 갈 줄 알았는데” 장례비로 미팅 파티한다…‘확’ 달라진 요즘 5060",
+   "source": "서울경제",
+   "url": "https://n.news.naver.com/article/011/0004673004",
+   "published_at": "2026-10-20T09:15:13+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
    "prep_error": "The read operation timed out"
   },
   {
-   "title": "'송파 장모살해·아내납치' 26세 김성우 신상공개…경찰 \"범행 잔인\"",
-   "source": "부산일보",
-   "url": "https://n.news.naver.com/article/082/0001403142",
-   "published_at": "2026-10-19T18:06:15+09:00",
+   "title": "\"2심서 대폭 감형\"...'23명 사망' 아리셀 참사, 오늘 대법 선고",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002420938",
+   "published_at": "2026-10-20T04:23:55+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "prep_error": "The read operation timed out"
+   "summary": "23명의 사망자를 낸 아리셀 참사와 관련해 중대재해처벌법 위반 등 혐의로 기소된 박순관 대표에 대한 대법원 선고가 오늘 나옵니다. 아리셀 박순관 대표는 중대재해처벌법…",
+   "summary_long": "23명의 사망자를 낸 아리셀 참사와 관련해 중대재해처벌법 위반 등 혐의로 기소된 박순관 대표에 대한 대법원 선고가 오늘(20일) 나옵니다. 1심에서의 징역 15년이 유족과 합의 등을 이유로 2심에서 징역 4년으로 크게 감형됐는데, 대법원이 어떤 판단을 내릴지 주목됩니다. 지난 2024년 6월, 경기 화성에 있는 아리셀 공장에서 발생한 화재로 23명이 숨지고 9명이 다쳤습니다.\n\n아리셀 박순관 대표는 중대재해처벌법 위반 등 혐의로 구속 기소됐는데, 법 시행 이후 업체 대표가 구속된 첫 사례였습니다. 참사 발생 1년 3개월 만에 1심 재판부는 박 대표에게 관련법 시행 이후 가장 무거운 형량인 징역 15년을 선고했습니다. 경영 전반의 상세한 보고를 받은 점 등을 토대로 박 대표를 중처법이 규정한 경영책임자로 판단했다며, 많은 사망자가 발생한 사건에 가벼운 형이 선고되면 입법 목적을 달성하기 어렵다고 이유를 설명했습니다.",
+   "press": "YTN",
+   "photo": "04.jpg"
   },
   {
-   "title": "한동훈 SNS, 2373건 물량공세…주진우는 “유해진 북한상” 공격 [SNS에 빠진 정치]",
-   "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003558779",
-   "published_at": "2026-10-19T05:00:00+09:00",
+   "title": "“뇌출혈로 쓰러져 치료받았지만”…김정은 사망설에 북한이 한 행동",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005751205",
+   "published_at": "2026-10-20T14:33:12+09:00",
    "section_id": "100",
    "view_rank": 2,
-   "comment_count": 648,
-   "comment_agree": 226,
-   "comment_disagree": 54,
-   "division_balance": 0.385714,
-   "division_score": 2.174794,
+   "comment_count": 454,
+   "comment_agree": 540,
+   "comment_disagree": 59,
+   "division_balance": 0.196995,
+   "division_score": 1.260163,
    "selection": "찬반 쟁점",
    "prep_error": "The read operation timed out"
   },
   {
-   "title": "이 대통령 “전작권 반드시 조기 환수…한-미 협의 잘 되고 있다”",
+   "title": "김정은 ‘뇌출혈 사망설’ 확산…北매체들은 일제히 딸 주애와 공개활동 보도",
+   "source": "서울신문",
+   "url": "https://n.news.naver.com/article/081/0003690839",
+   "published_at": "2026-10-20T18:44:13+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "comment_count": 440,
+   "comment_agree": 228,
+   "comment_disagree": 21,
+   "division_balance": 0.168675,
+   "division_score": 0.931331,
+   "selection": "찬반 쟁점",
+   "summary": "북한 김정은, 경공업 부문 의류·신발 전시회 참관 - 김정은 북한 국무위원장이 지난 19일 딸 주애, 부인 리설주 여사와 함께 ‘새 제품 개발과 질 제고 열풍’을 주제로…",
+   "summary_long": "근거없는 김정은 사망설 해외SNS 유포. 北매체는 전날 김정은 공개 활동 보도. 딸 주애와 아동용 신발 살펴보는 김정은 - 김정은 국무위원장이 지난 19일 ‘전국피복, 신발전시회-2026’을 찾아 딸 주애가 들어 보이는 분홍색 아동용 운동화를 살펴보고 있다.\n\n北매체들, 전날 김정은 피복·신발 전시회 현장시찰 보도한편 조선중앙통신과 조선중앙TV, 노동신문 등 북한 매체들은 김 위원장이 전날 평양에서 열린 ‘전국 피복, 신발전시회-2026’를 둘러봤다고 이날 보도했다. 딸 주애와 피복 전시장 둘러보는 김정은 - 김정은 북한 국무위원장이 지난 19일 딸 주애와 함께 ‘전국피복, 신발전시회-2026’의 피복 전시장을 둘러보고 있다. 북한 김정은, 경공업 부문 의류·신발 전시회 참관 - 김정은 북한 국무위원장이 지난 19일 딸 주애, 부인 리설주 여사와 함께 ‘새 제품 개발과 질 제고 열풍’을 주제로 열리는 경공업 부문 피복ㆍ신발 전시회장을 돌아봤다고 조선중앙통신이 20일 보도했다.",
+   "press": "서울신문",
+   "photo": "06.jpg"
+  },
+  {
+   "title": "조국 “한동훈 황당 거짓말…박철우, 두세 번 마주쳤을 뿐”",
    "source": "한겨레",
-   "url": "https://n.news.naver.com/article/028/0002828118",
-   "published_at": "2026-10-19T17:42:13+09:00",
+   "url": "https://n.news.naver.com/article/028/0002828212",
+   "published_at": "2026-10-20T10:20:09+09:00",
    "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 426,
-   "comment_agree": 199,
-   "comment_disagree": 27,
-   "division_balance": 0.238938,
-   "division_score": 1.296227,
+   "view_rank": 1,
+   "comment_count": 772,
+   "comment_agree": 315,
+   "comment_disagree": 25,
+   "division_balance": 0.147059,
+   "division_score": 0.85763,
    "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "이 대통령 \"주식 많이 오르면 조정 불가피‥한국 시장 매우 저평가\"",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001530008",
-   "published_at": "2026-10-19T18:05:46+09:00",
-   "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 1052,
-   "comment_agree": 342,
-   "comment_disagree": 31,
-   "division_balance": 0.16622,
-   "division_score": 0.984729,
-   "selection": "찬반 쟁점",
-   "summary": "이재명 대통령이 주식 시장에 대해 \"많이 오르면 조정이 불가피하다\"면서도 \"한국 주식시장은 매우 저평가된 게 사실\"이라고 밝혔습니다. 이 대통령은 \"시장과 지배경영에…",
-   "summary_long": "이재명 대통령이 주식 시장에 대해 \"많이 오르면 조정이 불가피하다\"면서도 \"한국 주식시장은 매우 저평가된 게 사실\"이라고 밝혔습니다. 이 대통령은 오늘 청와대 춘추관에서 기자들과 만나 최근 코스피 지수 하락으로 국민연금의 국내주식 평가액이 줄었다는 질문에 대해 \"급격한 상승이 걱정되긴 했다\"면서도 \"과거와 다르게 정부가 금융시장, 증권시장에 직접 개입하기 어렵고 바람직하지도 않다\"고 말했습니다. 이 대통령은 \"시장과 지배경영에 대한 불신이 완전히 제거된 거 같지 않다\"며 \"주주 존중 문화와 지배 경영권 남용 문제도 여전히 많이 남아 있는 과제\"라고 설명했습니다.\n\n부동산 시장과 관련해서는 이 대통령은 부동산 시장의 가격 변동을 언급하며 \"전체적으로 본다면 언젠가는 사고가 난다\"며 \"'마지막 폭탄을 누가 잡을 것이냐'는 우려가 있다\"고 했습니다. 또, 전셋값 상승과 대출 규제로 주택 구입이 어려워지고 있다는 취지의 질문에 \"대출 규제의 경우 투기 수요를 억제한다는 원칙을 유지하면서도 실수요자의 사정을 반영해야 한다\"고 강조했습니다. 부동산 과세와 관련해서는 \"'집값을 잡으려고 세금 올렸다, 세금을 많이 걷으려고 했다'는 주장은 전혀 사실이 아니다\"라며 \"조세 정의에 관한 것\"이라고 말했습니다.",
+   "summary": "한 의원이 딸 저작권법 위반 의혹 수사 과정에 대해 “통상적이지 않다”고 한 박철우 서울중앙지방공소청장을 “조국씨를 근접 수행한 최측근 검사”라고 주장하자 이를 전면…",
+   "summary_long": "조국 조국혁신당 혁신정책연구원장이 한동훈 무소속 의원을 향해 “황당한 거짓말”을 하고 있다고 비판했다. 한 의원이 딸 저작권법 위반 의혹 수사 과정에 대해 “통상적이지 않다”고 한 박철우 서울중앙지방공소청장을 “조국씨를 근접 수행한 최측근 검사”라고 주장하자 이를 전면 부인한 것이다. 앞서 한 의원은 19일 페이스북에 글을 올려 “박 청장은 조국 전 법무부 장관 재직시 ‘조국씨를 근접 수행한 최측근 검사’였고 추미애 법무부 장관을 근접 수행한 최측근이기도 했다”고 주장했다.\n\n박 청장은 국회 법제사법위원회에서 열린 수도권 공소청 대상 국정감사에서 한 의원 딸의 저작권법 위반 의혹 수사 당시 서울중앙지검이 경찰의 국제형사사법공조 요청을 법무부에 전달하지 않은 데 대해 “(당시 서울중앙지검이) 송부하지 않은 것이 기존의 업무 패턴에 비춰서 통상적이지 않다”고 말했다. ‘검찰이 조국은 탈탈 터는 수사를 진행하고, 한동훈 딸 입시 비리 사건은 전혀 수사를 진행하지 않았다’는 김동아 민주당 의원 지적에는 “국민의 법 감정과 눈높이에서 상당히 공감하기 어려운 부분이 있다고 생각한다”고 했다. 2019년 9월 조국 당시 법무부 장관이 취임했을 당시, 박 청장은 서울중앙지검 부부장검사로 국회에 파견된 상태였다.",
    "quotes": [
-    "대출 규제의 경우 투기 수요를 억제한다는 원칙을 유지하면서도 실수요자의 사정을 반영해야 한다",
-    "취임 후 3~4년의 시차가 생긴다, 2028년 넘어서부터는 공급이 좀 제대로 정상화될 것",
-    "'집값을 잡으려고 세금 올렸다, 세금을 많이 걷으려고 했다'는 주장은 전혀 사실이 아니다"
+    "한동훈, 과거 자신이 법무부 장관 시절과 달리 ‘친윤·친한 정치검사’나 윗선 눈치 보는 경찰관들이 자신을 보호해 주지 않을 것 같으니 많이 불안하고 초조한가 보다",
+    "박 청장은 조국 전 법무부 장관 재직시 ‘조국씨를 근접 수행한 최측근 검사’였고 추미애 법무부 장관을 근접 수행한 최측근이기도 했다",
+    "(더불어)민주당이 법사위 국감에서 ‘극단적 친민주당 검사 박철우’를 내세워 나에 대한 마타도어와 정치 보복에 나서고 있다"
    ],
-   "press": "MBC",
+   "press": "한겨레",
    "photo": "07.jpg",
    "quoted": {
-    "quote": "'집값을 잡으려고 세금 올렸다, 세금을 많이 걷으려고 했다'는 주장은 전혀 사실이 아니다",
-    "n": 7,
+    "quote": "(더불어)민주당이 법사위 국감에서 ‘극단적 친민주당 검사 박철우’를 내세워 나에 대한 마타도어와 정치 보복에 나서고 있다",
+    "n": 4,
     "verified": 0,
     "items": [
      {
-      "press": "MBC 뉴스",
-      "title": "이 대통령 \"주식 많이 오르면 조정 불가피‥한국 시장 매우 저평가\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrTDJVZ2NiazJNLUN4WThEVnROaWloRUJJT0VtWkVhczhXMTZFLXFXYVRnYk9PZmRKSDFhSXhjSkNKYS1yMnMyZTJlLWtIcUpOR3EtOXktUjJkLTZjVDZBY1dvSFN5c1J1OF9MdmxsMUdSb2J5eEk5VdIBeEFVX3lxTFBrTDJVZ2NiazJNLUN4WThEVnROaWloRUJJT0VtWkVhczhXMTZFLXFXYVRnYk9PZmRKSDFhSXhjSkNKYS1yMnMyZTJlLWtIcUpOR3EtOXktUjJkLTZjVDZBY1dvSFN5c1J1OF9MdmxsMUdSb2J5eEk5VQ?oc=5"
+      "press": "한겨레",
+      "title": "조국 “한동훈 황당 거짓말…박철우, 두세 번 마주쳤을 뿐”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZbFlrVnNhVlJhSml4bTMzOWliUkZzSThHbDZEejYzZGNROVZHMzdXOFdmRHFoUVFLbXpFWHpRTk5BTFpaQ1pLc1JsYjJTSzl0R0VHZFVmQ002bnZxTmVxZmNwNDA0ZDJETzRlQlprOElNSGh2?oc=5"
      },
      {
-      "press": "KBS 뉴스",
-      "title": "이 대통령 “‘집값 잡으려 세금 올렸다’ 사실 아냐…주식시장 조만간 필요한 조치”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LWkdJN2xiTXhJUkVNTFdRcWRBQmo2R0VhQV9ONndTTTVmVXJ0bFpPTmNEUDVUaklDS01PR1FSTndRM2IzNl9maW1hYlc0Qm9URjI0a2xTSThyWjg?oc=5"
+      "press": "부산파이낸셜뉴스",
+      "title": "조국 \"한동훈, 정치검사 없어 불안하고 초조한가 보다\" 직격",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UZ3JGeWNxLWM2TnVobDE4b21qOHZqMHNiR3ZBNjlaaFhGZ1gyZVcwbmVBNlJPLUFSeXc4SU5WLTVnMHZOM2daTTdySU1uZVFzQUd4TGZOYUUwSjVjb0U1bE1qdllTdw?oc=5"
      },
      {
-      "press": "이데일리",
-      "title": "李대통령 \"집값 잡으려 세금 올린 것 아냐…조세정의 문제\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmhhZXBGTjdsUC1JUklkV3BRZUpaUzZWdVE2M2FfM0ZTLV9rM3NraWRyOW9mTnp2clcySVgxMUF1WjU4V2l4UUZGMmczb0w5cnBFZWxLVlFzSk5XV2JyMVdtVURzUnJiVk52M3BKQ3p3VV9fZWlydjZaeTBJc2EwUg?oc=5"
+      "press": "주간경향",
+      "title": "중앙공소청장 “한동훈 딸 사건, 통상적 처리 아냐” VS 한동훈 “검찰 자살시킨 장본인”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94UHBCWEF4WnB1Qmpac2pxZ21HbjZPSUF2TWdwUXUxZkd0bHptakkxTzZYZGNaUDlEZVRsaDFTU1pZQXZ3VG9jaGlMZU9IR2kyODhGa19QYmdJUEtkU0E?oc=5"
      },
      {
-      "press": "더팩트",
-      "title": "李 대통령 \"전작권 반드시 조기 환수…주식시장 매우 저평가돼\"",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EOGdLZ0drSUt2amQ2TFMzUjhOMGtTWjFZOXJ6ZGhoRWJ1R3pKSTU3cTVHOXVOdDh3Q1BpeDFJTTFZeGdVTEgteEVhRkw0NmU4NURzREZ2cmPSAVNBVV95cUxOSDFCRllIRWdSMkpPQkxPNERhSmdHdUNxSjJtLS1CVFhYcER6RGNWbDJTWmo0Vk11NW5RU2UyUktxV0p2eTNIQ3AyT3FFdVBWUDR1cw?oc=5"
-     },
-     {
-      "press": "데일리안",
-      "title": "李 \"개혁 갈등, 제일 큰 원인은 나\"…500일 맞아 자성·속도조절 시사(종합)",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcXMzeDlRM1hkSHkxLVBobk51dk9pNkhGejlKRUcwbDlYXzgwNXZLNzV0elBPQ29TVzJpSGhwbFhDVi1vWnU2S0pzaDhnZmlNZUtIZ2p4TEFrVG5zVkZEUTMzTkVqZDdndXRKa0Z1Y0JCOHlQdVhnYTluMnFlQWwzdEpHT1NuRkJyejJVTVZoZ2YzdnBhWXVBaG1vX3RhaTdvTGJWQnJzVktkMGhEOVdMMVAxX3ZwZWotQnVNM0pKYjJFVGZlWFFuMWpLSDFBOWZod2NRYzV6OVhDUzd6QlYyTENQRmNGaGVsNlotdXNn?oc=5"
-     },
-     {
-      "press": "매일경제",
-      "title": "이재명 대통령, 청와대 춘추관에 깜짝 방문 “韓 주식시장 매우 저평가…주담대 이자 2.5배 낼 상황도 올 것”",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wWDJhMG1pUHNEZHZKQkYyM293bEVHX3RwcmZ1Z2NXQ01jbjI2T29lTWtIdnN5OFFzanMtQ0NwdjhFUHNEZmc?oc=5"
+      "press": "뉴스1",
+      "title": "중앙공소청장 \"한동훈 딸 사법공조 불송부 이례적\"→ 韓 \"마타도어·정치보복\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94b09wSUd0Tmdfak04MTJRdlV3WGhhNC1rLTdXVUc0SXJuN1RKZjIwRW5BZE9QdEZQVzA0QXA5ZjFad0pOenRnRE05OVpGVV96RG9aeUtpM1JaUQ?oc=5"
      }
     ]
    }
@@ -218,139 +189,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/01.png",
-   "pngBytes": 2219525,
-   "feed": "오늘의 뉴스 2026-10-20\n\n· \"본인은 12억 관사 입주\"…뒤에선 추모 행사비까지 '몽땅 삭감'\n· “정치 깡패” 되치기 당한 한동훈…딸 부실수사 의혹에 발끈하더니\n· \"도와주세요\" 휴가 나온 군인, 20대女 돌로 내려친 50대男 잡았다\n· '송파 장모살해·아내납치' 26세 김성우 신상공개…경찰 \"범행 잔인\"\n· 한동훈 SNS, 2373건 물량공세…주진우는 “유해진 북한상” 공격 [SNS에 빠진 정치]\n· 이 대통령 “전작권 반드시 조기 환수…한-미 협의 잘 되고 있다”\n· 이 대통령 \"주식 많이 오르면 조정 불가피‥한국 시장 매우 저평가\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/01.png",
+   "pngBytes": 2234208,
+   "feed": "오늘의 뉴스 2026-10-21\n\n· “민주당 찍을 이유 없어졌다”…여권 리스크 된 ‘광역단체장 3인방’\n· \"죽었다더라\" \"트럼프 만난다더라\"…'극과 극' 관측, 김정은 어디에?\n· “아내 없이 혼자 갈 줄 알았는데” 장례비로 미팅 파티한다…‘확’ 달라진 요즘 5060\n· \"2심서 대폭 감형\"...'23명 사망' 아리셀 참사, 오늘 대법 선고\n· “뇌출혈로 쓰러져 치료받았지만”…김정은 사망설에 북한이 한 행동\n· 김정은 ‘뇌출혈 사망설’ 확산…北매체들은 일제히 딸 주애와 공개활동 보도\n· 조국 “한동훈 황당 거짓말…박철우, 두세 번 마주쳤을 뿐”"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/02.png",
-   "pngBytes": 2215782,
-   "title": "\"본인은 12억 관사 입주\"…뒤에선 추모 행사비까지 '몽땅 삭감'",
-   "summary": "추미애 경기도지사의 '소방 재정 빨대' 발언의 후폭풍이 이어지고 있는 상황에서, 경기도가 정작 소방 관련 예산을 대거 삭감한 사실이 드러나 논란이 일고 있습니다. 하지만…",
-   "summary_long": "추미애 경기도지사의 '소방 재정 빨대' 발언의 후폭풍이 이어지고 있는 상황에서, 경기도가 정작 소방 관련 예산을 대거 삭감한 사실이 드러나 논란이 일고 있습니다. 경기도는 지난 8월 도의회에 제출한 추가경정예산안에서 노후 소방차 교체 예산 26억 5천만 원을 삭감한 것으로 나타났습니다. 여기에 더해 전문구급장비와 구조장비 보강 예산 7억 원과 순직 소방관 추모 행사비 1억 원 등 총 34억 5천만 원에 달하는 소방 예산을 감액했습니다.\n\n추미애 경기지사는 지난 13일 국회 국정감사에서 소방을 두고 \"가장 큰 골치 아픈 재정 빨대 같다\"고 발언해 큰 반발을 샀습니다. 하지만 정작 경기도가 현장 소방관들의 안전과 직결된 노후 장비 교체 및 보강 예산을 수십억 원이나 삭감한 사실이 드러나면서 \"앞뒤가 맞지 않는 행정\"이라는 비판이 나오고 있습니다. 국민의힘 장동혁 대표는 오늘(19일) 추 지사를 겨냥해 \"소방 차량 25대를 구입할 수 있는 돈인 예산 26억5000만 원을 깎고, 정작 본인은 멀쩡한 차를 두고 새 차를 샀다\"며 \"추 지사 본인 관사로 입주한 48평 아파트 전세금만 12억 원\"이라고 지적했습니다.",
-   "press": "SBS",
-   "source": "SBS",
-   "link": "https://n.news.naver.com/article/055/0001396519",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/02.png",
+   "pngBytes": 2232861,
+   "title": "“민주당 찍을 이유 없어졌다”…여권 리스크 된 ‘광역단체장 3인방’",
+   "summary": "김민석 국무총리가 지난 6월 15일 서울 삼청동 총리공관에서 열린 국토대전환 관련 광역단체장 당선자 간담회에서 추미애 경기도지사 당선인 등 참석자들과 기념촬영을 하고…",
+   "summary_long": "김민석 국무총리가 지난 6월 15일 서울 삼청동 총리공관에서 열린 국토대전환 관련 광역단체장 당선자 간담회에서 추미애 경기도지사 당선인 등 참석자들과 기념촬영을 하고 있다. 앞줄 왼쪽부터 위성곤 제주도지사 당선인, 김상욱 울산광역시장 당선인, 추미애 경기도지사 당선인, 김민석 국무총리, 허태정 대전시장 당선인, 박찬대 인천시장 당선인. 뒷줄 왼쪽부터 이원택 전북도지사 당선인, 민형배 전남광주통합특별시장 당선인, 신용한 충북도지사 당선인, 조상호 세종시장 당선인.\n\n민주당 내에서는 광역단체장 리스크가 차기 총선에 악영향을 줄 수 있다는 우려가 나온다. 민주당 중진 의원은 “광역단체장이 못하면 민주당에 굳이 표를 주지 않아도 된다는 여론이 힘을 받게 된다”며 “박빙 지역에서 큰 타격을 받을 수 있다”고 했다. 김민석 대표는 지난 18일 부산 기초단체장 간담회에서 “민주당이 앞으로 시민 선택을 받을 수 있냐는 것은 전재수 시장과 7명의 구청장에게 거의 다 달려있다”고 말하는 등 총선에서 자치단체장 역할을 강조하고 있다.",
+   "press": "중앙일보",
+   "source": "중앙일보",
+   "link": "https://n.news.naver.com/article/025/0003559076",
    "selection": "정치",
-   "feed": "뉴스 01. \"본인은 12억 관사 입주\"…뒤에선 추모 행사비까지 '몽땅 삭감'\n\n추미애 경기도지사의 '소방 재정 빨대' 발언의 후폭풍이 이어지고 있는 상황에서, 경기도가 정작 소방 관련 예산을 대거 삭감한 사실이 드러나 논란이 일고 있습니다. 경기도는 지난 8월 도의회에 제출한 추가경정예산안에서 노후 소방차 교체 예산 26억 5천만 원을 삭감한 것으로 나타났습니다. 여기에 더해 전문구급장비와 구조장비 보강 예산 7억 원과 순직 소방관 추모 행사비 1억 원 등 총 34억 5천만 원에 달하는 소방 예산을 감액했습니다.\n\n추미애 경기지사는 지난 13일 국회 국정감사에서 소방을 두고 \"가장 큰 골치 아픈 재정 빨대 같다\"고 발언해 큰 반발을 샀습니다. 하지만 정작 경기도가 현장 소방관들의 안전과 직결된 노후 장비 교체 및 보강 예산을 수십억 원이나 삭감한 사실이 드러나면서 \"앞뒤가 맞지 않는 행정\"이라는 비판이 나오고 있습니다. 국민의힘 장동혁 대표는 오늘(19일) 추 지사를 겨냥해 \"소방 차량 25대를 구입할 수 있는 돈인 예산 26억5000만 원을 깎고, 정작 본인은 멀쩡한 차를 두고 새 차를 샀다\"며 \"추 지사 본인 관사로 입주한 48평 아파트 전세금만 12억 원\"이라고 지적했습니다.\n\n출처: SBS / https://n.news.naver.com/article/055/0001396519"
+   "feed": "뉴스 01. “민주당 찍을 이유 없어졌다”…여권 리스크 된 ‘광역단체장 3인방’\n\n김민석 국무총리가 지난 6월 15일 서울 삼청동 총리공관에서 열린 국토대전환 관련 광역단체장 당선자 간담회에서 추미애 경기도지사 당선인 등 참석자들과 기념촬영을 하고 있다. 앞줄 왼쪽부터 위성곤 제주도지사 당선인, 김상욱 울산광역시장 당선인, 추미애 경기도지사 당선인, 김민석 국무총리, 허태정 대전시장 당선인, 박찬대 인천시장 당선인. 뒷줄 왼쪽부터 이원택 전북도지사 당선인, 민형배 전남광주통합특별시장 당선인, 신용한 충북도지사 당선인, 조상호 세종시장 당선인.\n\n민주당 내에서는 광역단체장 리스크가 차기 총선에 악영향을 줄 수 있다는 우려가 나온다. 민주당 중진 의원은 “광역단체장이 못하면 민주당에 굳이 표를 주지 않아도 된다는 여론이 힘을 받게 된다”며 “박빙 지역에서 큰 타격을 받을 수 있다”고 했다. 김민석 대표는 지난 18일 부산 기초단체장 간담회에서 “민주당이 앞으로 시민 선택을 받을 수 있냐는 것은 전재수 시장과 7명의 구청장에게 거의 다 달려있다”고 말하는 등 총선에서 자치단체장 역할을 강조하고 있다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003559076"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/03.png",
-   "pngBytes": 1805740,
-   "title": "“정치 깡패” 되치기 당한 한동훈…딸 부실수사 의혹에 발끈하더니",
-   "summary": "박용진 규제합리화위원회 부위원장과 한동훈 무소속 의원. 한동훈 무소속 의원이 딸의 ‘허위 스펙’ 의혹을 제기하고 있는 더불어민주당에 대해 “정치깡패들을 정치권에서…",
-   "summary_long": "박용진 “사적 분노로 권한 쓰면 그게 깡패” 한동훈 무소속 의원이 딸의 ‘허위 스펙’ 의혹을 제기하고 있는 더불어민주당에 대해 “정치깡패들을 정치권에서 쓸어버리겠다”고 말한 것을 두고 박용진 규제합리화위원회 부위원장이 “사적 분노로 권한을 동원하는 것이야말로 정치깡패”라고 꼬집었다. 이거는 그야말로 자기가 그럴 권한을 가지면 사적 보복도 할 수 있겠다(는) 생각, 표현으로 들린다”며 “그런 사적 보복을 하면 옛날에 윤석열 검찰총장 표현대로면 그게 깡패지 검사냐”고 했다.\n\n박 부위원장은 재차 “자기를 괴롭히는 세력, 사람들은 정치깡패들이라고 규정하고 ‘내가 권한을 가지면 그 권한을 가지고 싹 다 갈아엎고 잡아가겠다’ 이게 사적 보복이 아니고 뭐냐”며 “사적 감정, 사적 분노로 권한을 동원해 가지고 그렇게 하면 그거야말로 정치깡패지 그게 정치인이냐”고 지적했다. 최근 민주당을 중심으로 과거 한 의원 딸의 ‘허위 스펙’ 의혹 수사가 부실하게 이뤄졌다는 의혹이 제기되자 한 의원은 지난 14일 페이스북에 글을 올려 “이번 민주당 떼거지 린치의 본질은 노골적인 정치 보복”이라고 주장한 바 있다. 박 부위원장은 ‘부모 찬스’ 의혹이 제기됐던 한 의원 딸의 노트북 기부 연계에 대해서도 “만일 이렇게 한 게 사실이면 이 부분도 부끄러워하거나, 국민들의 박탈감에 대해서, 상처받은 엄마·아빠들에 대해서 미안하다고 얘기해야지, 그런 거 건드렸다고 정치깡패라는 얘기부터 하는 게 맞을까”라고 했다.",
-   "press": "한겨레",
-   "source": "한겨레",
-   "link": "https://n.news.naver.com/article/028/0002828031",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/03.png",
+   "pngBytes": 1860759,
+   "title": "\"죽었다더라\" \"트럼프 만난다더라\"…'극과 극' 관측, 김정은 어디에?",
+   "summary": "한편에선 사망설이 확산하는 가운데, 다른 한쪽에선 도널드 트럼프 미국 대통령과의 정상회담 가능성이 거론된다. 북한이 김 위원장의 최근 공개 활동을 전하며 사망설 진화에…",
+   "summary_long": "한편에선 사망설이 확산하는 가운데, 다른 한쪽에선 도널드 트럼프 미국 대통령과의 정상회담 가능성이 거론된다. 북한이 김 위원장의 최근 공개 활동을 전하며 사망설 진화에 나선 가운데, 그의 생사와 향후 행보를 둘러싼 국제사회의 관심이 집중되고 있다. 20일 외신 등에 따르면, 최근 해외 사회관계망서비스(SNS)를 중심으로 김 위원장이 심각한 뇌출혈로 쓰러진 뒤 중국에서 치료받다가 사망했다는 주장이 확산했다.\n\n이런 가운데 정치권 일각에선 사망설과는 정반대로, 김 위원장이 북미 정상회담을 비롯한 '광폭 행보'에 나설 수 있다는 관측도 나온다. 트럼프 대통령은 지난 12일(현지시간) 백악관에서 다음 달 아시아 방문 중 김 위원장을 만날 가능성을 묻는 취재진 질문에 \"그럴 수도 있다\"며 \"흥미진진하지 않겠느냐\"고 답했다. 트럼프 대통령과 김 위원장은 2018년 6월 싱가포르에서 첫 정상회담을 가졌으며, 이듬해 2월 베트남 하노이에서 다시 만났지만 비핵화와 대북 제재 해제를 둘러싼 이견을 좁히지 못했다.",
+   "press": "시사저널",
+   "source": "시사저널",
+   "link": "https://n.news.naver.com/article/586/0000140448",
    "selection": "정치",
-   "feed": "뉴스 02. “정치 깡패” 되치기 당한 한동훈…딸 부실수사 의혹에 발끈하더니\n\n박용진 “사적 분노로 권한 쓰면 그게 깡패” 한동훈 무소속 의원이 딸의 ‘허위 스펙’ 의혹을 제기하고 있는 더불어민주당에 대해 “정치깡패들을 정치권에서 쓸어버리겠다”고 말한 것을 두고 박용진 규제합리화위원회 부위원장이 “사적 분노로 권한을 동원하는 것이야말로 정치깡패”라고 꼬집었다. 이거는 그야말로 자기가 그럴 권한을 가지면 사적 보복도 할 수 있겠다(는) 생각, 표현으로 들린다”며 “그런 사적 보복을 하면 옛날에 윤석열 검찰총장 표현대로면 그게 깡패지 검사냐”고 했다.\n\n박 부위원장은 재차 “자기를 괴롭히는 세력, 사람들은 정치깡패들이라고 규정하고 ‘내가 권한을 가지면 그 권한을 가지고 싹 다 갈아엎고 잡아가겠다’ 이게 사적 보복이 아니고 뭐냐”며 “사적 감정, 사적 분노로 권한을 동원해 가지고 그렇게 하면 그거야말로 정치깡패지 그게 정치인이냐”고 지적했다. 최근 민주당을 중심으로 과거 한 의원 딸의 ‘허위 스펙’ 의혹 수사가 부실하게 이뤄졌다는 의혹이 제기되자 한 의원은 지난 14일 페이스북에 글을 올려 “이번 민주당 떼거지 린치의 본질은 노골적인 정치 보복”이라고 주장한 바 있다. 박 부위원장은 ‘부모 찬스’ 의혹이 제기됐던 한 의원 딸의 노트북 기부 연계에 대해서도 “만일 이렇게 한 게 사실이면 이 부분도 부끄러워하거나, 국민들의 박탈감에 대해서, 상처받은 엄마·아빠들에 대해서 미안하다고 얘기해야지, 그런 거 건드렸다고 정치깡패라는 얘기부터 하는 게 맞을까”라고 했다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002828031"
+   "feed": "뉴스 02. \"죽었다더라\" \"트럼프 만난다더라\"…'극과 극' 관측, 김정은 어디에?\n\n한편에선 사망설이 확산하는 가운데, 다른 한쪽에선 도널드 트럼프 미국 대통령과의 정상회담 가능성이 거론된다. 북한이 김 위원장의 최근 공개 활동을 전하며 사망설 진화에 나선 가운데, 그의 생사와 향후 행보를 둘러싼 국제사회의 관심이 집중되고 있다. 20일 외신 등에 따르면, 최근 해외 사회관계망서비스(SNS)를 중심으로 김 위원장이 심각한 뇌출혈로 쓰러진 뒤 중국에서 치료받다가 사망했다는 주장이 확산했다.\n\n이런 가운데 정치권 일각에선 사망설과는 정반대로, 김 위원장이 북미 정상회담을 비롯한 '광폭 행보'에 나설 수 있다는 관측도 나온다. 트럼프 대통령은 지난 12일(현지시간) 백악관에서 다음 달 아시아 방문 중 김 위원장을 만날 가능성을 묻는 취재진 질문에 \"그럴 수도 있다\"며 \"흥미진진하지 않겠느냐\"고 답했다. 트럼프 대통령과 김 위원장은 2018년 6월 싱가포르에서 첫 정상회담을 가졌으며, 이듬해 2월 베트남 하노이에서 다시 만났지만 비핵화와 대북 제재 해제를 둘러싼 이견을 좁히지 못했다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000140448"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/04.png",
-   "pngBytes": 588090,
-   "title": "\"도와주세요\" 휴가 나온 군인, 20대女 돌로 내려친 50대男 잡았다",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/04.png",
+   "pngBytes": 607751,
+   "title": "“아내 없이 혼자 갈 줄 알았는데” 장례비로 미팅 파티한다…‘확’ 달라진 요즘 5060",
    "summary": "",
    "summary_long": "",
-   "press": "파이낸셜뉴스",
-   "source": "파이낸셜뉴스",
-   "link": "https://n.news.naver.com/article/014/0005590862",
+   "press": "서울경제",
+   "source": "서울경제",
+   "link": "https://n.news.naver.com/article/011/0004673004",
    "selection": "경제·시사",
-   "feed": "뉴스 03. \"도와주세요\" 휴가 나온 군인, 20대女 돌로 내려친 50대男 잡았다\n\n\n\n출처: 파이낸셜뉴스 / https://n.news.naver.com/article/014/0005590862"
+   "feed": "뉴스 03. “아내 없이 혼자 갈 줄 알았는데” 장례비로 미팅 파티한다…‘확’ 달라진 요즘 5060\n\n\n\n출처: 서울경제 / https://n.news.naver.com/article/011/0004673004"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/05.png",
-   "pngBytes": 591569,
-   "title": "'송파 장모살해·아내납치' 26세 김성우 신상공개…경찰 \"범행 잔인\"",
-   "summary": "",
-   "summary_long": "",
-   "press": "부산일보",
-   "source": "부산일보",
-   "link": "https://n.news.naver.com/article/082/0001403142",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/05.png",
+   "pngBytes": 1936959,
+   "title": "\"2심서 대폭 감형\"...'23명 사망' 아리셀 참사, 오늘 대법 선고",
+   "summary": "23명의 사망자를 낸 아리셀 참사와 관련해 중대재해처벌법 위반 등 혐의로 기소된 박순관 대표에 대한 대법원 선고가 오늘 나옵니다. 아리셀 박순관 대표는 중대재해처벌법…",
+   "summary_long": "23명의 사망자를 낸 아리셀 참사와 관련해 중대재해처벌법 위반 등 혐의로 기소된 박순관 대표에 대한 대법원 선고가 오늘(20일) 나옵니다. 1심에서의 징역 15년이 유족과 합의 등을 이유로 2심에서 징역 4년으로 크게 감형됐는데, 대법원이 어떤 판단을 내릴지 주목됩니다. 지난 2024년 6월, 경기 화성에 있는 아리셀 공장에서 발생한 화재로 23명이 숨지고 9명이 다쳤습니다.\n\n아리셀 박순관 대표는 중대재해처벌법 위반 등 혐의로 구속 기소됐는데, 법 시행 이후 업체 대표가 구속된 첫 사례였습니다. 참사 발생 1년 3개월 만에 1심 재판부는 박 대표에게 관련법 시행 이후 가장 무거운 형량인 징역 15년을 선고했습니다. 경영 전반의 상세한 보고를 받은 점 등을 토대로 박 대표를 중처법이 규정한 경영책임자로 판단했다며, 많은 사망자가 발생한 사건에 가벼운 형이 선고되면 입법 목적을 달성하기 어렵다고 이유를 설명했습니다.",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002420938",
    "selection": "경제·시사",
-   "feed": "뉴스 04. '송파 장모살해·아내납치' 26세 김성우 신상공개…경찰 \"범행 잔인\"\n\n\n\n출처: 부산일보 / https://n.news.naver.com/article/082/0001403142"
+   "feed": "뉴스 04. \"2심서 대폭 감형\"...'23명 사망' 아리셀 참사, 오늘 대법 선고\n\n23명의 사망자를 낸 아리셀 참사와 관련해 중대재해처벌법 위반 등 혐의로 기소된 박순관 대표에 대한 대법원 선고가 오늘(20일) 나옵니다. 1심에서의 징역 15년이 유족과 합의 등을 이유로 2심에서 징역 4년으로 크게 감형됐는데, 대법원이 어떤 판단을 내릴지 주목됩니다. 지난 2024년 6월, 경기 화성에 있는 아리셀 공장에서 발생한 화재로 23명이 숨지고 9명이 다쳤습니다.\n\n아리셀 박순관 대표는 중대재해처벌법 위반 등 혐의로 구속 기소됐는데, 법 시행 이후 업체 대표가 구속된 첫 사례였습니다. 참사 발생 1년 3개월 만에 1심 재판부는 박 대표에게 관련법 시행 이후 가장 무거운 형량인 징역 15년을 선고했습니다. 경영 전반의 상세한 보고를 받은 점 등을 토대로 박 대표를 중처법이 규정한 경영책임자로 판단했다며, 많은 사망자가 발생한 사건에 가벼운 형이 선고되면 입법 목적을 달성하기 어렵다고 이유를 설명했습니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002420938"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/06.png",
-   "pngBytes": 619003,
-   "title": "한동훈 SNS, 2373건 물량공세…주진우는 “유해진 북한상” 공격 [SNS에 빠진 정치]",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/06.png",
+   "pngBytes": 584649,
+   "title": "“뇌출혈로 쓰러져 치료받았지만”…김정은 사망설에 북한이 한 행동",
    "summary": "",
    "summary_long": "",
-   "press": "중앙일보",
-   "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003558779",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005751205",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 한동훈 SNS, 2373건 물량공세…주진우는 “유해진 북한상” 공격 [SNS에 빠진 정치]\n\n\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003558779"
+   "feed": "뉴스 05. “뇌출혈로 쓰러져 치료받았지만”…김정은 사망설에 북한이 한 행동\n\n\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005751205"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/07.png",
-   "pngBytes": 577494,
-   "title": "이 대통령 “전작권 반드시 조기 환수…한-미 협의 잘 되고 있다”",
-   "summary": "",
-   "summary_long": "",
-   "press": "한겨레",
-   "source": "한겨레",
-   "link": "https://n.news.naver.com/article/028/0002828118",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/07.png",
+   "pngBytes": 1892913,
+   "title": "김정은 ‘뇌출혈 사망설’ 확산…北매체들은 일제히 딸 주애와 공개활동 보도",
+   "summary": "북한 김정은, 경공업 부문 의류·신발 전시회 참관 - 김정은 북한 국무위원장이 지난 19일 딸 주애, 부인 리설주 여사와 함께 ‘새 제품 개발과 질 제고 열풍’을 주제로…",
+   "summary_long": "근거없는 김정은 사망설 해외SNS 유포. 北매체는 전날 김정은 공개 활동 보도. 딸 주애와 아동용 신발 살펴보는 김정은 - 김정은 국무위원장이 지난 19일 ‘전국피복, 신발전시회-2026’을 찾아 딸 주애가 들어 보이는 분홍색 아동용 운동화를 살펴보고 있다.\n\n北매체들, 전날 김정은 피복·신발 전시회 현장시찰 보도한편 조선중앙통신과 조선중앙TV, 노동신문 등 북한 매체들은 김 위원장이 전날 평양에서 열린 ‘전국 피복, 신발전시회-2026’를 둘러봤다고 이날 보도했다. 딸 주애와 피복 전시장 둘러보는 김정은 - 김정은 북한 국무위원장이 지난 19일 딸 주애와 함께 ‘전국피복, 신발전시회-2026’의 피복 전시장을 둘러보고 있다. 북한 김정은, 경공업 부문 의류·신발 전시회 참관 - 김정은 북한 국무위원장이 지난 19일 딸 주애, 부인 리설주 여사와 함께 ‘새 제품 개발과 질 제고 열풍’을 주제로 열리는 경공업 부문 피복ㆍ신발 전시회장을 돌아봤다고 조선중앙통신이 20일 보도했다.",
+   "press": "서울신문",
+   "source": "서울신문",
+   "link": "https://n.news.naver.com/article/081/0003690839",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 이 대통령 “전작권 반드시 조기 환수…한-미 협의 잘 되고 있다”\n\n\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002828118"
+   "feed": "뉴스 06. 김정은 ‘뇌출혈 사망설’ 확산…北매체들은 일제히 딸 주애와 공개활동 보도\n\n근거없는 김정은 사망설 해외SNS 유포. 北매체는 전날 김정은 공개 활동 보도. 딸 주애와 아동용 신발 살펴보는 김정은 - 김정은 국무위원장이 지난 19일 ‘전국피복, 신발전시회-2026’을 찾아 딸 주애가 들어 보이는 분홍색 아동용 운동화를 살펴보고 있다.\n\n北매체들, 전날 김정은 피복·신발 전시회 현장시찰 보도한편 조선중앙통신과 조선중앙TV, 노동신문 등 북한 매체들은 김 위원장이 전날 평양에서 열린 ‘전국 피복, 신발전시회-2026’를 둘러봤다고 이날 보도했다. 딸 주애와 피복 전시장 둘러보는 김정은 - 김정은 북한 국무위원장이 지난 19일 딸 주애와 함께 ‘전국피복, 신발전시회-2026’의 피복 전시장을 둘러보고 있다. 북한 김정은, 경공업 부문 의류·신발 전시회 참관 - 김정은 북한 국무위원장이 지난 19일 딸 주애, 부인 리설주 여사와 함께 ‘새 제품 개발과 질 제고 열풍’을 주제로 열리는 경공업 부문 피복ㆍ신발 전시회장을 돌아봤다고 조선중앙통신이 20일 보도했다.\n\n출처: 서울신문 / https://n.news.naver.com/article/081/0003690839"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/08.png",
-   "pngBytes": 2084194,
-   "title": "이 대통령 \"주식 많이 오르면 조정 불가피‥한국 시장 매우 저평가\"",
-   "summary": "이재명 대통령이 주식 시장에 대해 \"많이 오르면 조정이 불가피하다\"면서도 \"한국 주식시장은 매우 저평가된 게 사실\"이라고 밝혔습니다. 이 대통령은 \"시장과 지배경영에…",
-   "summary_long": "이재명 대통령이 주식 시장에 대해 \"많이 오르면 조정이 불가피하다\"면서도 \"한국 주식시장은 매우 저평가된 게 사실\"이라고 밝혔습니다. 이 대통령은 오늘 청와대 춘추관에서 기자들과 만나 최근 코스피 지수 하락으로 국민연금의 국내주식 평가액이 줄었다는 질문에 대해 \"급격한 상승이 걱정되긴 했다\"면서도 \"과거와 다르게 정부가 금융시장, 증권시장에 직접 개입하기 어렵고 바람직하지도 않다\"고 말했습니다. 이 대통령은 \"시장과 지배경영에 대한 불신이 완전히 제거된 거 같지 않다\"며 \"주주 존중 문화와 지배 경영권 남용 문제도 여전히 많이 남아 있는 과제\"라고 설명했습니다.\n\n부동산 시장과 관련해서는 이 대통령은 부동산 시장의 가격 변동을 언급하며 \"전체적으로 본다면 언젠가는 사고가 난다\"며 \"'마지막 폭탄을 누가 잡을 것이냐'는 우려가 있다\"고 했습니다. 또, 전셋값 상승과 대출 규제로 주택 구입이 어려워지고 있다는 취지의 질문에 \"대출 규제의 경우 투기 수요를 억제한다는 원칙을 유지하면서도 실수요자의 사정을 반영해야 한다\"고 강조했습니다. 부동산 과세와 관련해서는 \"'집값을 잡으려고 세금 올렸다, 세금을 많이 걷으려고 했다'는 주장은 전혀 사실이 아니다\"라며 \"조세 정의에 관한 것\"이라고 말했습니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001530008",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/08.png",
+   "pngBytes": 1551131,
+   "title": "조국 “한동훈 황당 거짓말…박철우, 두세 번 마주쳤을 뿐”",
+   "summary": "한 의원이 딸 저작권법 위반 의혹 수사 과정에 대해 “통상적이지 않다”고 한 박철우 서울중앙지방공소청장을 “조국씨를 근접 수행한 최측근 검사”라고 주장하자 이를 전면…",
+   "summary_long": "조국 조국혁신당 혁신정책연구원장이 한동훈 무소속 의원을 향해 “황당한 거짓말”을 하고 있다고 비판했다. 한 의원이 딸 저작권법 위반 의혹 수사 과정에 대해 “통상적이지 않다”고 한 박철우 서울중앙지방공소청장을 “조국씨를 근접 수행한 최측근 검사”라고 주장하자 이를 전면 부인한 것이다. 앞서 한 의원은 19일 페이스북에 글을 올려 “박 청장은 조국 전 법무부 장관 재직시 ‘조국씨를 근접 수행한 최측근 검사’였고 추미애 법무부 장관을 근접 수행한 최측근이기도 했다”고 주장했다.\n\n박 청장은 국회 법제사법위원회에서 열린 수도권 공소청 대상 국정감사에서 한 의원 딸의 저작권법 위반 의혹 수사 당시 서울중앙지검이 경찰의 국제형사사법공조 요청을 법무부에 전달하지 않은 데 대해 “(당시 서울중앙지검이) 송부하지 않은 것이 기존의 업무 패턴에 비춰서 통상적이지 않다”고 말했다. ‘검찰이 조국은 탈탈 터는 수사를 진행하고, 한동훈 딸 입시 비리 사건은 전혀 수사를 진행하지 않았다’는 김동아 민주당 의원 지적에는 “국민의 법 감정과 눈높이에서 상당히 공감하기 어려운 부분이 있다고 생각한다”고 했다. 2019년 9월 조국 당시 법무부 장관이 취임했을 당시, 박 청장은 서울중앙지검 부부장검사로 국회에 파견된 상태였다.",
+   "press": "한겨레",
+   "source": "한겨레",
+   "link": "https://n.news.naver.com/article/028/0002828212",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 이 대통령 \"주식 많이 오르면 조정 불가피‥한국 시장 매우 저평가\"\n\n이재명 대통령이 주식 시장에 대해 \"많이 오르면 조정이 불가피하다\"면서도 \"한국 주식시장은 매우 저평가된 게 사실\"이라고 밝혔습니다. 이 대통령은 오늘 청와대 춘추관에서 기자들과 만나 최근 코스피 지수 하락으로 국민연금의 국내주식 평가액이 줄었다는 질문에 대해 \"급격한 상승이 걱정되긴 했다\"면서도 \"과거와 다르게 정부가 금융시장, 증권시장에 직접 개입하기 어렵고 바람직하지도 않다\"고 말했습니다. 이 대통령은 \"시장과 지배경영에 대한 불신이 완전히 제거된 거 같지 않다\"며 \"주주 존중 문화와 지배 경영권 남용 문제도 여전히 많이 남아 있는 과제\"라고 설명했습니다.\n\n부동산 시장과 관련해서는 이 대통령은 부동산 시장의 가격 변동을 언급하며 \"전체적으로 본다면 언젠가는 사고가 난다\"며 \"'마지막 폭탄을 누가 잡을 것이냐'는 우려가 있다\"고 했습니다. 또, 전셋값 상승과 대출 규제로 주택 구입이 어려워지고 있다는 취지의 질문에 \"대출 규제의 경우 투기 수요를 억제한다는 원칙을 유지하면서도 실수요자의 사정을 반영해야 한다\"고 강조했습니다. 부동산 과세와 관련해서는 \"'집값을 잡으려고 세금 올렸다, 세금을 많이 걷으려고 했다'는 주장은 전혀 사실이 아니다\"라며 \"조세 정의에 관한 것\"이라고 말했습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001530008"
+   "feed": "뉴스 07. 조국 “한동훈 황당 거짓말…박철우, 두세 번 마주쳤을 뿐”\n\n조국 조국혁신당 혁신정책연구원장이 한동훈 무소속 의원을 향해 “황당한 거짓말”을 하고 있다고 비판했다. 한 의원이 딸 저작권법 위반 의혹 수사 과정에 대해 “통상적이지 않다”고 한 박철우 서울중앙지방공소청장을 “조국씨를 근접 수행한 최측근 검사”라고 주장하자 이를 전면 부인한 것이다. 앞서 한 의원은 19일 페이스북에 글을 올려 “박 청장은 조국 전 법무부 장관 재직시 ‘조국씨를 근접 수행한 최측근 검사’였고 추미애 법무부 장관을 근접 수행한 최측근이기도 했다”고 주장했다.\n\n박 청장은 국회 법제사법위원회에서 열린 수도권 공소청 대상 국정감사에서 한 의원 딸의 저작권법 위반 의혹 수사 당시 서울중앙지검이 경찰의 국제형사사법공조 요청을 법무부에 전달하지 않은 데 대해 “(당시 서울중앙지검이) 송부하지 않은 것이 기존의 업무 패턴에 비춰서 통상적이지 않다”고 말했다. ‘검찰이 조국은 탈탈 터는 수사를 진행하고, 한동훈 딸 입시 비리 사건은 전혀 수사를 진행하지 않았다’는 김동아 민주당 의원 지적에는 “국민의 법 감정과 눈높이에서 상당히 공감하기 어려운 부분이 있다고 생각한다”고 했다. 2019년 9월 조국 당시 법무부 장관이 취임했을 당시, 박 청장은 서울중앙지검 부부장검사로 국회에 파견된 상태였다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002828212"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-20/09.png",
-   "pngBytes": 1346388
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-21/09.png",
+   "pngBytes": 1346343
   }
  ],
- "caption": "📰 10월 20일 오늘의 뉴스\n\n1. \"본인은 12억 관사 입주\"…뒤에선 추모 행사비까지 '몽땅 삭감'\n   추미애 경기도지사의 '소방 재정 빨대' 발언의 후폭풍이 이어지고 있는 상황에서, 경기도가 정작 소방 관련 예산을 대거 삭감한 사실이 드러나 논란이 일고 있습니다. 하지만…\n2. “정치 깡패” 되치기 당한 한동훈…딸 부실수사 의혹에 발끈하더니\n   박용진 규제합리화위원회 부위원장과 한동훈 무소속 의원. 한동훈 무소속 의원이 딸의 ‘허위 스펙’ 의혹을 제기하고 있는 더불어민주당에 대해 “정치깡패들을 정치권에서…\n3. \"도와주세요\" 휴가 나온 군인, 20대女 돌로 내려친 50대男 잡았다\n4. '송파 장모살해·아내납치' 26세 김성우 신상공개…경찰 \"범행 잔인\"\n5. 한동훈 SNS, 2373건 물량공세…주진우는 “유해진 북한상” 공격 [SNS에 빠진 정치]\n6. 이 대통령 “전작권 반드시 조기 환수…한-미 협의 잘 되고 있다”\n7. 이 대통령 \"주식 많이 오르면 조정 불가피‥한국 시장 매우 저평가\"\n   이재명 대통령이 주식 시장에 대해 \"많이 오르면 조정이 불가피하다\"면서도 \"한국 주식시장은 매우 저평가된 게 사실\"이라고 밝혔습니다. 이 대통령은 \"시장과 지배경영에…\n\n🗣 “지금은 무엇보다 국민의 마음을 잘 헤아려서 국민의 맘이 풀릴 때까지 할 수 있는 노력을 다하는 게 우선”\n이 발언을 그대로 실은 보도 10건 · SBS 뉴스 · 한겨레 · 연합뉴스TV · 조선일보\n· SBS 뉴스 — [자막뉴스] \"본인은 12억 관사 입주에 새 관용차까지\"…뒤에선 순직 소방관 추모 행사비까지 '몽땅 삭감'\n· 한겨레 — 김민석 “추미애, 국민 마음 풀릴 때까지 노력해야…이미 공식사과 요청”\n· 연합뉴스TV — 김민석 \"秋에 사과하라고 요청했다…국민 맘 풀릴 때까지 노력\"\n· 조선일보 — 김민석, 추미애 징계 요구에 \"국민 마음 풀릴 때까지 노력이 우선\"\n· YTN — 김민석 \"추미애에 '소방 빨대' 발언 사과 요청...노력해야\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한 #대통령실\n\n출처: MBC, SBS, 부산일보, 중앙일보, 파이낸셜뉴스, 한겨레"
+ "caption": "📰 10월 21일 오늘의 뉴스\n\n1. “민주당 찍을 이유 없어졌다”…여권 리스크 된 ‘광역단체장 3인방’\n   김민석 국무총리가 지난 6월 15일 서울 삼청동 총리공관에서 열린 국토대전환 관련 광역단체장 당선자 간담회에서 추미애 경기도지사 당선인 등 참석자들과 기념촬영을 하고…\n2. \"죽었다더라\" \"트럼프 만난다더라\"…'극과 극' 관측, 김정은 어디에?\n   한편에선 사망설이 확산하는 가운데, 다른 한쪽에선 도널드 트럼프 미국 대통령과의 정상회담 가능성이 거론된다. 북한이 김 위원장의 최근 공개 활동을 전하며 사망설 진화에…\n3. “아내 없이 혼자 갈 줄 알았는데” 장례비로 미팅 파티한다…‘확’ 달라진 요즘 5060\n4. \"2심서 대폭 감형\"...'23명 사망' 아리셀 참사, 오늘 대법 선고\n   23명의 사망자를 낸 아리셀 참사와 관련해 중대재해처벌법 위반 등 혐의로 기소된 박순관 대표에 대한 대법원 선고가 오늘 나옵니다. 아리셀 박순관 대표는 중대재해처벌법…\n5. “뇌출혈로 쓰러져 치료받았지만”…김정은 사망설에 북한이 한 행동\n6. 김정은 ‘뇌출혈 사망설’ 확산…北매체들은 일제히 딸 주애와 공개활동 보도\n   북한 김정은, 경공업 부문 의류·신발 전시회 참관 - 김정은 북한 국무위원장이 지난 19일 딸 주애, 부인 리설주 여사와 함께 ‘새 제품 개발과 질 제고 열풍’을 주제로…\n7. 조국 “한동훈 황당 거짓말…박철우, 두세 번 마주쳤을 뿐”\n   한 의원이 딸 저작권법 위반 의혹 수사 과정에 대해 “통상적이지 않다”고 한 박철우 서울중앙지방공소청장을 “조국씨를 근접 수행한 최측근 검사”라고 주장하자 이를 전면…\n\n🗣 “(더불어)민주당이 법사위 국감에서 ‘극단적 친민주당 검사 박철우’를 내세워 나에 대한 마타도어와 정치 보복에 나서고 있다”\n이 발언을 그대로 실은 보도 4건 · 한겨레 · 부산파이낸셜뉴스 · 주간경향 · 뉴스1\n· 한겨레 — 조국 “한동훈 황당 거짓말…박철우, 두세 번 마주쳤을 뿐”\n· 부산파이낸셜뉴스 — 조국 \"한동훈, 정치검사 없어 불안하고 초조한가 보다\" 직격\n· 주간경향 — 중앙공소청장 “한동훈 딸 사건, 통상적 처리 아냐” VS 한동훈 “검찰 자살시킨 장본인”\n· 뉴스1 — 중앙공소청장 \"한동훈 딸 사법공조 불송부 이례적\"→ 韓 \"마타도어·정치보복\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한\n\n출처: YTN, 매일경제, 서울경제, 서울신문, 시사저널, 중앙일보, 한겨레"
 }
