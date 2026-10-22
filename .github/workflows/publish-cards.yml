@@ -147,6 +147,15 @@ jobs:
             -d '{"event_type":"newbodae-posted"}')
           if [ "$code" = "204" ]; then echo "홈페이지 수집을 깨웠습니다."; else echo "::warning::홈페이지 수집을 못 깨웠습니다(HTTP $code). RESERVE_PAT 에 homepage 저장소를 더하세요."; fi
 
+      - name: 결과 메일
+        # 폰 메일 앱 알림으로 받는다. MAIL_USER·MAIL_APP_PW 가 없으면 건너뛸 뿐 발행과는 무관.
+        if: always() && env.DRY == ''
+        env:
+          MAIL_USER: ${{ secrets.MAIL_USER }}
+          MAIL_APP_PW: ${{ secrets.MAIL_APP_PW }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python .github/cards/notify.py --log .cards/결과.txt --kind 발행 --code "${CODE:-1}"
+
       - name: 결과 알리기
         if: always()
         env:

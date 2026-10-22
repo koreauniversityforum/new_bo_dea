@@ -89,6 +89,17 @@ jobs:
             -d '{"event_type":"newbodae-posted"}')
           if [ "$code" = "204" ]; then echo "홈페이지 수집을 깨웠습니다."; else echo "::warning::홈페이지 수집을 못 깨웠습니다(HTTP $code). RESERVE_PAT 에 homepage 저장소를 더하세요."; fi
 
+      - name: 결과 메일
+        # 예약을 실제로 발행하려 했을 때만(reserve.py 가 .cards/알림 을 남긴다) - 접수·취소·빈 매시 그물은 안 보낸다
+        if: always() && env.HAS_RSV == '1'
+        env:
+          MAIL_USER: ${{ secrets.MAIL_USER }}
+          MAIL_APP_PW: ${{ secrets.MAIL_APP_PW }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: |
+          [ -f .cards/알림 ] || exit 0
+          python .github/cards/notify.py --log 결과.txt --kind "예약 발행" --code "${CODE:-1}"
+
       - name: 결과 알리기
         if: always() && env.HAS_RSV == '1'
         run: |

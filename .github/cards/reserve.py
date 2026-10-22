@@ -279,6 +279,8 @@ def 발사():
         쓰기(i, d)
         로그("%s 예약 %s %s %s" % ("✔" if d["state"] == "완료" else "✘", i, d["state"], d.get("why", "")))
     밀기("예약 발행 끝 " + " ".join(차례))
+    os.makedirs(os.path.join(ROOT, ".cards"), exist_ok=True)
+    open(os.path.join(ROOT, ".cards", "알림"), "w").close()   # 발행을 시도했으면 워크플로가 메일을 보낸다
     if 나쁨 < len(차례):                 # 하나라도 올라갔으면 워크플로가 홈페이지 수집을 깨운다
         os.makedirs(os.path.join(ROOT, ".cards"), exist_ok=True)
         open(os.path.join(ROOT, ".cards", "올림"), "w").close()
