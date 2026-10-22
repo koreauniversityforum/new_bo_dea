@@ -8,9 +8,10 @@
  "urls": [
   "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/main/docs/assets/%EB%89%B4%EB%B3%B4%EB%8C%80_%EB%A1%9C%EA%B3%A0.png"
  ],
- "state": "대기",
+ "state": "발행중",
  "made": "2026-10-22T21:18:24+09:00",
  "test": true,
  "jobId": 8699916,
- "why": ""
+ "why": "",
+ "started": "2026-10-22T21:22:13+09:00"
 }
