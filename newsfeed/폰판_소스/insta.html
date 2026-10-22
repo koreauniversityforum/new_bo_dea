@@ -33,7 +33,27 @@
   .th .ctl{display:flex;justify-content:space-between;padding:4px}
   .th button{background:none;border:1px solid var(--line,#444);color:var(--ink,#eee);border-radius:6px;padding:2px 8px;cursor:pointer}
   textarea{width:100%;min-height:180px;box-sizing:border-box;border-radius:8px;border:1px solid var(--line,#333);background:transparent;color:inherit;padding:10px;font:inherit;line-height:1.5;word-break:keep-all}
-  input[type=datetime-local]{border-radius:8px;border:1px solid var(--line,#333);background:transparent;color:inherit;padding:7px;font:inherit;color-scheme:light dark}
+  input[type=date]{border-radius:8px;border:1px solid var(--line,#333);background:transparent;color:inherit;padding:7px;font:inherit;color-scheme:light dark}
+  /* 예약 시각 고르기: 다이얼 · 숫자 · 오전/오후 가 한 값을 함께 고친다 */
+  .tp{display:flex;flex-wrap:wrap;gap:18px;align-items:center}
+  .tp-side{display:flex;flex-direction:column;gap:10px;width:250px;max-width:100%}   /* 폭 고정 - 안내 글 길이에 따라 다이얼이 옆으로 밀리지 않게 */
+  .tp-ap{display:flex;border:1px solid var(--line,#444);border-radius:8px;overflow:hidden;width:max-content}
+  .tp-ap button{flex:none;background:none;border:0;color:inherit;padding:8px 18px;font:inherit;font-size:15px;cursor:pointer}
+  .tp-ap button.on{background:#3b6ef5;color:#fff;font-weight:700}
+  .tp-num{display:flex;align-items:center;gap:6px;font-size:30px;font-weight:700}
+  .tp-num input{width:2.4em;flex:none;text-align:center;font:inherit;border-radius:8px;border:2px solid var(--line,#333);background:transparent;color:inherit;padding:4px 0}
+  .tp-num input.on{border-color:#3b6ef5}
+  .tp-num input:focus{outline:none;border-color:#3b6ef5}
+  @media (max-width:560px){#tpDial{margin:0 auto}}
+  .tp-step .btn{padding:6px 12px;font-size:13px}
+  #tpSum.bad{color:#ff6b6b;opacity:1}
+  #tpDial{width:240px;max-width:100%;touch-action:none;user-select:none;cursor:pointer;flex:none}
+  #tpDial .face{fill:rgba(127,127,127,.12)}
+  #tpDial text{fill:currentColor;font-size:14px;text-anchor:middle;dominant-baseline:central;pointer-events:none}
+  #tpDial text.sel{fill:#fff;font-weight:700}
+  #tpDial .tick{stroke:currentColor;opacity:.35}
+  #tpDial .hand{stroke:#3b6ef5;stroke-width:2}
+  #tpDial .knob,#tpDial .hub{fill:#3b6ef5}
   input[type=password],input[type=text]{flex:1;min-width:0;border-radius:8px;border:1px solid var(--line,#333);background:transparent;color:inherit;padding:8px}
   .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
   .btn{padding:9px 14px;border-radius:8px;border:1px solid var(--line,#444);background:none;color:inherit;cursor:pointer;font-size:14px}
@@ -105,10 +125,26 @@
       <button class="btn" id="btnCheck">지난 발행 결과 확인</button>
     </div>
     <div class="muted">점검만: 그림을 공개 자리에 올리고 주소가 열리는지까지만 보고, 인스타에는 안 보냅니다.</div>
-    <div class="row">
-      <label>예약 시각 <input type="datetime-local" id="when"></label>
-      <button class="btn" id="btnRsv">이 시각에 예약</button>
+    <h2 style="margin-top:6px">예약 시각</h2>
+    <div class="tp">
+      <div class="tp-side">
+        <label class="row">날짜 <input type="date" id="tpDate"></label>
+        <div class="tp-ap" id="tpAp"><button type="button" data-ap="am">오전</button><button type="button" data-ap="pm">오후</button></div>
+        <div class="tp-num">
+          <input id="tpH" inputmode="numeric" maxlength="2" autocomplete="off" aria-label="시">
+          <span>:</span>
+          <input id="tpM" inputmode="numeric" maxlength="2" autocomplete="off" aria-label="분">
+        </div>
+        <div class="row tp-step">
+          <button type="button" class="btn" data-step="-1">−1분</button>
+          <button type="button" class="btn" data-step="1">+1분</button>
+        </div>
+        <div id="tpSum" class="muted"></div>
+      </div>
+      <svg id="tpDial" viewBox="0 0 220 220" role="slider" aria-label="시각 다이얼"></svg>
     </div>
+    <input type="hidden" id="when">
+    <div class="row"><button class="btn" id="btnRsv">이 시각에 예약</button></div>
     <div class="muted">예약하면 그림과 글을 깃허브에 맡겨 두고, 정한 시각에 위에서 고른 창구로 발행합니다. 노트북·폰이 꺼져 있어도 됩니다. 시각은 이 기기 시계 기준이고 5분 뒤부터 30일 안까지 잡을 수 있습니다.</div>
     <div id="log"></div>
   </div>
@@ -492,9 +528,109 @@
   const pad = n => String(n).padStart(2, '0');
   const ghErr = (msg, r) => { const e = new Error(msg + ' - ' + why(r.status)); e.status = r.status; return e; };
 
-  (function defaultWhen() {               // 기본값 = 다음 정시 + 1시간(이 기기 시계)
-    const d = new Date(Date.now() + 3600e3); d.setMinutes(0, 0, 0); d.setHours(d.getHours() + 1);
-    $('when').value = d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()) + 'T' + pad(d.getHours()) + ':00';
+  /* ── 예약 시각 고르기 (2026-10-22) ──
+     다이얼 · 숫자 칸 · 오전/오후 단추가 같은 값 T 를 고치고, 그 결과를 숨은 #when 에
+     'YYYY-MM-DDTHH:MM'(이 기기 시계)로 적는다 - reserve() 는 #when 만 읽는다.
+     다이얼은 「시」를 고르면 손을 떼는 순간 「분」으로 넘어간다. 분은 1분 단위(60칸). */
+  const TP = (function () {
+    const T = { date: '', ap: 'am', h: 12, m: 0 }, NS = 'http://www.w3.org/2000/svg';
+    let mode = 'h';
+    const dial = $('tpDial');
+    const ymd = d => d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate());
+    const h24 = () => (T.h % 12) + (T.ap === 'pm' ? 12 : 0);
+    function set(d) { T.date = ymd(d); T.ap = d.getHours() < 12 ? 'am' : 'pm'; T.h = d.getHours() % 12 || 12; T.m = d.getMinutes(); }
+    function el(tag, a) { const e = document.createElementNS(NS, tag); for (const k in a) e.setAttribute(k, a[k]); return e; }
+    const at = (deg, r) => [110 + r * Math.sin(deg * Math.PI / 180), 110 - r * Math.cos(deg * Math.PI / 180)];
+    function drawDial() {
+      dial.textContent = '';
+      dial.append(el('circle', { cx: 110, cy: 110, r: 104, class: 'face' }));
+      const val = mode === 'h' ? T.h % 12 : T.m, deg = mode === 'h' ? val * 30 : val * 6;
+      if (mode === 'm') for (let i = 0; i < 60; i++) if (i % 5) {
+        const [x1, y1] = at(i * 6, 97), [x2, y2] = at(i * 6, 102);
+        dial.append(el('line', { x1, y1, x2, y2, class: 'tick' }));
+      }
+      const [kx, ky] = at(deg, 80);
+      dial.append(el('line', { x1: 110, y1: 110, x2: kx, y2: ky, class: 'hand' }), el('circle', { cx: 110, cy: 110, r: 4, class: 'hub' }),
+        el('circle', { cx: kx, cy: ky, r: mode === 'm' && T.m % 5 ? 7 : 17, class: 'knob' }));
+      for (let i = 0; i < 12; i++) {
+        const [x, y] = at(i * 30, 80);
+        const t = el('text', { x, y });
+        t.textContent = mode === 'h' ? String(i || 12) : pad(i * 5);
+        if (mode === 'h' ? i === val : i * 5 === val) t.setAttribute('class', 'sel');
+        dial.append(t);
+      }
+      dial.setAttribute('aria-valuetext', (T.ap === 'am' ? '오전 ' : '오후 ') + T.h + '시 ' + T.m + '분');
+    }
+    function show() {
+      $('tpDate').value = T.date;
+      document.querySelectorAll('#tpAp button').forEach(b => b.classList.toggle('on', b.dataset.ap === T.ap));
+      if (document.activeElement !== $('tpH')) $('tpH').value = String(T.h);
+      if (document.activeElement !== $('tpM')) $('tpM').value = pad(T.m);
+      $('tpH').classList.toggle('on', mode === 'h'); $('tpM').classList.toggle('on', mode === 'm');
+      $('when').value = T.date ? T.date + 'T' + pad(h24()) + ':' + pad(T.m) : '';
+      const ms = new Date($('when').value).getTime(), left = ms - Date.now();
+      const d = new Date(ms), wd = '일월화수목금토'[d.getDay()];
+      let s = (d.getMonth() + 1) + '월 ' + d.getDate() + '일(' + wd + ') ' + (T.ap === 'am' ? '오전 ' : '오후 ') + T.h + ':' + pad(T.m);
+      const bad = !(left >= 5 * 60e3 && left <= 30 * 864e5);
+      if (left > 0) {
+        const mins = Math.round(left / 60e3), dd = Math.floor(mins / 1440), hh = Math.floor(mins % 1440 / 60), mm = mins % 60;
+        s += ' · ' + (dd ? dd + '일 ' : '') + (hh ? hh + '시간 ' : '') + mm + '분 뒤';
+      }
+      if (bad) s += left < 5 * 60e3 ? ' · 5분 뒤 이후로 고르세요' : ' · 30일 안으로 고르세요';
+      $('tpSum').textContent = s;
+      $('tpSum').classList.toggle('bad', bad);
+      drawDial();
+    }
+    function shift(min) {                 // 분 단위로 밀기 - 59→00 이면 시·오전/오후·날짜까지 넘어간다
+      const d = new Date(new Date($('when').value).getTime() + min * 60e3);
+      set(d); show();
+    }
+    // 다이얼: 누른 자리의 각도 → 값
+    let drag = false;
+    function pick(e) {
+      const r = dial.getBoundingClientRect();
+      const x = e.clientX - r.left - r.width / 2, y = e.clientY - r.top - r.height / 2;
+      const a = (Math.atan2(x, -y) * 180 / Math.PI + 360) % 360;
+      if (mode === 'h') T.h = Math.round(a / 30) % 12 || 12;
+      else T.m = Math.round(a / 6) % 60;
+      show();
+    }
+    dial.addEventListener('pointerdown', e => { drag = true; dial.setPointerCapture(e.pointerId); pick(e); });
+    dial.addEventListener('pointermove', e => { if (drag) pick(e); });
+    dial.addEventListener('pointerup', () => { if (!drag) return; drag = false; if (mode === 'h') { mode = 'm'; show(); } });
+    dial.addEventListener('pointercancel', () => { drag = false; });
+    // 숫자 칸: 두 자리를 치면 다음 칸으로, ↑↓ 는 1씩
+    function num(id, lo, hi, key, next) {
+      const box = $(id);
+      box.addEventListener('focus', () => { mode = key; box.select(); show(); });
+      box.addEventListener('input', () => {
+        box.value = box.value.replace(/\D/g, '').slice(0, 2);
+        const v = +box.value;
+        if (box.value !== '' && v >= lo && v <= hi) { T[key] = v; show(); }
+        // 시 칸에 2~9 를 치면 한 자리 시가 확실하다 - 바로 분 칸으로
+        if (next && (box.value.length === 2 || (box.value.length === 1 && v >= 2))) $(next).focus();
+      });
+      box.addEventListener('keydown', e => {
+        if (e.key === 'ArrowUp' || e.key === 'ArrowDown') {
+          e.preventDefault();
+          if (key === 'm') shift(e.key === 'ArrowUp' ? 1 : -1);
+          else { T.h = (T.h % 12 + (e.key === 'ArrowUp' ? 1 : 11)) % 12 || 12; show(); }
+          box.value = key === 'm' ? pad(T.m) : String(T.h);
+        }
+        if (e.key === 'Enter') box.blur();
+      });
+      box.addEventListener('blur', () => { box.value = key === 'm' ? pad(T.m) : String(T.h); });
+    }
+    num('tpH', 1, 12, 'h', 'tpM');
+    num('tpM', 0, 59, 'm', null);
+    $('tpAp').addEventListener('click', e => { const a = e.target.dataset && e.target.dataset.ap; if (a) { T.ap = a; show(); } });
+    $('tpDate').addEventListener('change', () => { if ($('tpDate').value) { T.date = $('tpDate').value; show(); } });
+    document.querySelectorAll('.tp-step .btn').forEach(b => b.addEventListener('click', () => shift(+b.dataset.step)));
+    // 기본값 = 다음 정시 + 1시간(이 기기 시계)
+    const d0 = new Date(Date.now() + 3600e3); d0.setMinutes(0, 0, 0); d0.setHours(d0.getHours() + 1);
+    set(d0); show();
+    setInterval(() => { if (!drag) show(); }, 30e3);     // 「N분 뒤」가 시간이 가도 맞게
+    return { set: d => { set(d); show(); } };
   })();
 
   // 브랜치가 없으면 빈 브랜치(orphan)로 만든다 - main 에서 가지를 치면 레포 전체가 딸려 간다

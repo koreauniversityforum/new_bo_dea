@@ -1,2 +1,2 @@
 window.NB_CONFIG = {"pure": false};
-window.NBD_BUILT = "2026-10-22 21:28";
+window.NBD_BUILT = "2026-10-22 23:19";
