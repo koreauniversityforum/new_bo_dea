@@ -75,6 +75,20 @@ jobs:
           # 그 사이 정기 뉴스 자동 갱신이 main 에 올라왔을 수 있다
           for n in 1 2 3; do git push -q && break; git pull -q --rebase; done
 
+      - name: 홈페이지(univforum.kr)에 바로 반영
+        # 예약 중 하나라도 올라갔을 때만(reserve.py 가 .cards/올림 을 남긴다) homepage 수집을 깨운다.
+        if: env.HAS_RSV == '1'
+        env:
+          PAT: ${{ secrets.RESERVE_PAT }}
+        run: |
+          [ -f .cards/올림 ] || exit 0
+          sleep 15
+          code=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
+            -H "Authorization: Bearer $PAT" -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/koreauniversityforum/homepage/dispatches \
+            -d '{"event_type":"newbodae-posted"}')
+          if [ "$code" = "204" ]; then echo "홈페이지 수집을 깨웠습니다."; else echo "::warning::홈페이지 수집을 못 깨웠습니다(HTTP $code). RESERVE_PAT 에 homepage 저장소를 더하세요."; fi
+
       - name: 결과 알리기
         if: always() && env.HAS_RSV == '1'
         run: |

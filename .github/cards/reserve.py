@@ -185,6 +185,11 @@ def 접수(i):
         쓰기(i, d); 밀기("예약 %s 거절" % i)
         로그("‼ " + d["why"])
         return 1
+    # 🆕 예약 고치기: 홈페이지가 시각·글을 바꾸고 state 를 「접수」로 되돌린 뒤 다시 부른다.
+    #    옛 작업을 먼저 지운다(안 지우면 옛 시각에도 쏜다 - 쏴도 시각이 안 맞아 건너뛰지만 남겨 둘 까닭이 없다).
+    if d.get("jobId"):
+        작업지우기(d)
+        d["jobId"] = None
     try:
         d["jobId"] = 작업만들기(i, t)
         d.update(state="대기", why="")
@@ -248,8 +253,13 @@ def 발사():
                 json.dump({"cards": [{"url": u} for u in urls]}, f)
             with open(os.path.join(일, "문구.txt"), "w", encoding="utf-8") as f:
                 f.write(d.get("caption") or "")
+            댓글 = []
+            if d.get("comment"):
+                with open(os.path.join(일, "댓글.json"), "w", encoding="utf-8") as f:
+                    json.dump(d["comment"], f, ensure_ascii=False)
+                댓글 = ["--comment", os.path.join(일, "댓글.json")]
             code = publish.main(["--images", os.path.join(일, "그림"), "--urls", os.path.join(일, "주소.json"),
-                                 "--caption", os.path.join(일, "문구.txt"),
+                                 "--caption", os.path.join(일, "문구.txt"), *댓글,
                                  "--channels", ",".join(d.get("channels") or []) or "instagram,facebook",
                                  "--date", datetime.now(KST).strftime("%Y-%m-%d")])
             d.update(state="완료" if code == 0 else "실패",
@@ -269,6 +279,9 @@ def 발사():
         쓰기(i, d)
         로그("%s 예약 %s %s %s" % ("✔" if d["state"] == "완료" else "✘", i, d["state"], d.get("why", "")))
     밀기("예약 발행 끝 " + " ".join(차례))
+    if 나쁨 < len(차례):                 # 하나라도 올라갔으면 워크플로가 홈페이지 수집을 깨운다
+        os.makedirs(os.path.join(ROOT, ".cards"), exist_ok=True)
+        open(os.path.join(ROOT, ".cards", "올림"), "w").close()
     return 1 if 나쁨 else 0
 
 

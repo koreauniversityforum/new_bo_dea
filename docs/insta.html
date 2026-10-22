@@ -35,6 +35,11 @@
   textarea{width:100%;min-height:180px;box-sizing:border-box;border-radius:8px;border:1px solid var(--line,#333);background:transparent;color:inherit;padding:10px;font:inherit;line-height:1.5;word-break:keep-all}
   input[type=date]{border-radius:8px;border:1px solid var(--line,#333);background:transparent;color:inherit;padding:7px;font:inherit;color-scheme:light dark}
   /* 예약 시각 고르기: 다이얼 · 숫자 · 오전/오후 가 한 값을 함께 고친다 */
+  .fc{display:flex;flex-direction:column;gap:8px}
+  .fc[hidden]{display:none}
+  #fcState.bad{color:#ff6b6b;opacity:1}
+  .editbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:13px}
+  .editbar[hidden]{display:none}
   .tp{display:flex;flex-wrap:wrap;gap:18px;align-items:center}
   .tp-side{display:flex;flex-direction:column;gap:10px;width:250px;max-width:100%}   /* 폭 고정 - 안내 글 길이에 따라 다이얼이 옆으로 밀리지 않게 */
   .tp-ap{display:flex;border:1px solid var(--line,#444);border-radius:8px;overflow:hidden;width:max-content}
@@ -99,6 +104,15 @@
       <label><input type="checkbox" name="ch" value="threads"> 스레드</label>
     </div>
     <div class="muted">스레드는 아직 연결 전이면 건너뜁니다(500자 넘으면 잘라서 보냅니다).</div>
+    <label style="display:flex;align-items:center;gap:6px;margin-top:6px;width:max-content"><input type="checkbox" id="fcOn" checked style="flex:none;margin:0"> <b>인스타 첫 댓글 달기</b></label>
+    <div id="fcBox" class="fc">
+      <div class="muted">올린 뒤 아래 문장을 첫 댓글로 달고, 그 댓글의 답글로 해시태그를 답니다. 해시태그만 적힌 줄은 인스타 본문에서 빠집니다(페이스북·스레드는 쓴 글 그대로).</div>
+      <div class="tp-ap" id="fcKind"><button type="button" data-k="ask">의견 묻기</button><button type="button" data-k="recruit">모집</button><button type="button" data-k="own">직접 쓰기</button></div>
+      <textarea id="fcText" rows="2" style="min-height:64px" placeholder="첫 댓글 문장"></textarea>
+      <label class="muted">답글 해시태그 (글의 해시태그 줄에서 자동으로 가져옵니다. 고쳐도 됩니다)</label>
+      <input type="text" id="fcTags" placeholder="#뉴보대 #뉴스" autocomplete="off">
+      <div id="fcState" class="muted"></div>
+    </div>
   </div>
 
   <div class="box">
@@ -144,7 +158,8 @@
       <svg id="tpDial" viewBox="0 0 220 220" role="slider" aria-label="시각 다이얼"></svg>
     </div>
     <input type="hidden" id="when">
-    <div class="row"><button class="btn" id="btnRsv">이 시각에 예약</button></div>
+    <div class="editbar" id="editBar" hidden><b id="editWhat"></b><button type="button" class="btn" id="btnEditStop">고치기 그만두기</button></div>
+    <div class="row"><button class="btn" id="btnRsv">이 시각에 예약</button><button type="button" class="btn" id="btnNine">다음 오전 9시</button></div>
     <div class="muted">예약하면 그림과 글을 깃허브에 맡겨 두고, 정한 시각에 위에서 고른 창구로 발행합니다. 노트북·폰이 꺼져 있어도 됩니다. 시각은 이 기기 시계 기준이고 5분 뒤부터 30일 안까지 잡을 수 있습니다.</div>
     <div id="log"></div>
   </div>
@@ -168,6 +183,7 @@
   const S = window.NBD_STAGE;
   let cards = [];                         // {id,name,blob,url}
   let busy = false;
+  let editing = null;                    // 고치는 중인 예약(post.json + _sha)
 
   if (window.NAV) NAV.mount();
 
@@ -273,6 +289,66 @@
   $('cap').addEventListener('input', count);
   document.querySelectorAll('input[name=ch]').forEach(x => x.addEventListener('change', count));
 
+  /* ── 인스타 첫 댓글 (2026-10-23) ──
+     첫 댓글 = 한 문장(의견 묻기 / 모집 / 직접), 그 댓글의 답글 = 해시태그 전체.
+     🔴 인스타는 2025-12-18 부터 게시물당 해시태그 5개(본문 + 댓글 합쳐서). 넘는 댓글은 안 달린다
+        → 넘으면 단추를 막는다. 해시태그만 적힌 줄은 인스타 본문에서 빼고(ig_caption), 문장 안에
+        섞인 태그는 본문에 그대로 둔다(빼면 문장이 깨진다) - 그것도 5개 셈에 들어간다. */
+  const FC_MAX = 5, FC_KEY = 'nb_fc';
+  const TAG = /#[^\s#]+/g;
+  const tagLine = s => s.trim() && !s.replace(TAG, '').trim();
+  let fc = { on: true, kind: 'ask', text: {}, tags: null };        // tags: null = 글에서 자동
+  try { fc = Object.assign(fc, JSON.parse(localStorage.getItem(FC_KEY) || '{}')); } catch (e) { /* 무시 */ }
+  const keepFc = () => { try { localStorage.setItem(FC_KEY, JSON.stringify({ on: fc.on, kind: fc.kind, text: fc.text })); } catch (e) { /* 무시 */ } };
+  function capParts(cap) {
+    const lines = String(cap || '').split('\n');
+    const moved = [...new Set(lines.filter(tagLine).join(' ').match(TAG) || [])];
+    const body = lines.filter(s => !tagLine(s)).join('\n').replace(/\n{3,}/g, '\n\n').trim();
+    return { moved, body, inline: [...new Set(body.match(TAG) || [])] };
+  }
+  function fcTemplate(kind, cap) {
+    if (kind === 'recruit') return '뉴스 보는 대학생과 함께 뉴스를 고르고 정리할 대학생을 모집합니다. [지원 방법]';
+    if (kind === 'ask') {
+      const t = (capParts(cap).body.split('\n').find(s => s.trim()) || '').replace(/^[^\p{L}\p{N}"'「“]+/u, '').trim();
+      const title = [...t].length > 34 ? [...t].slice(0, 33).join('') + '…' : t;
+      return (title ? '「' + title + '」, ' : '이 소식, ') + '여러분은 어떻게 생각하세요? 댓글로 의견을 남겨 주세요 💬';
+    }
+    return '';
+  }
+  const fcTagList = () => [...new Set(($('fcTags').value.match(TAG) || []))];
+  // 지금 칸에 적힌 것으로 보낼 묶음(끄거나 인스타를 안 고르면 null)
+  function fcPayload() {
+    if (!$('fcOn').checked || !channels().includes('instagram')) return null;
+    const cap = $('cap').value.trim(), parts = capParts(cap), tags = fcTagList();
+    return { ig_caption: tags.length ? parts.body : cap, text: $('fcText').value.trim(), tags };
+  }
+  function fcProblem() {
+    const p = fcPayload();
+    if (!p) return '';
+    if (!p.text) return '첫 댓글 문장이 비었습니다.';
+    if (/\[[^\]]*\]/.test(p.text)) return '첫 댓글의 [ ] 칸을 채워 주세요.';
+    const all = new Set([...p.tags, ...capParts($('cap').value).inline]);
+    if (all.size > FC_MAX) return '해시태그가 ' + all.size + '개입니다. 인스타는 게시물당 ' + FC_MAX + '개까지입니다(본문 + 댓글 합쳐서). 줄여 주세요.';
+    return '';
+  }
+  function fcShow() {
+    $('fcOn').checked = fc.on;
+    $('fcBox').hidden = !fc.on;
+    document.querySelectorAll('#fcKind button').forEach(b => b.classList.toggle('on', b.dataset.k === fc.kind));
+    if (document.activeElement !== $('fcText')) $('fcText').value = fc.text[fc.kind] != null ? fc.text[fc.kind] : fcTemplate(fc.kind, $('cap').value);
+    if (fc.tags === null && document.activeElement !== $('fcTags')) $('fcTags').value = capParts($('cap').value).moved.join(' ');
+    const p = fcPayload(), bad = fcProblem();
+    $('fcState').textContent = bad || (p ? '답글 해시태그 ' + p.tags.length + '개 · 본문에 남는 태그 ' + capParts($('cap').value).inline.length + '개 (합쳐서 ' + FC_MAX + '개까지)' : '');
+    $('fcState').classList.toggle('bad', !!bad);
+  }
+  $('fcOn').addEventListener('change', () => { fc.on = $('fcOn').checked; keepFc(); fcShow(); buttons(); });
+  $('fcKind').addEventListener('click', e => { const k = e.target.dataset && e.target.dataset.k; if (k) { fc.kind = k; keepFc(); fcShow(); buttons(); } });
+  // 사람이 고친 문장은 그 종류에 기억해 둔다. 본보기와 같으면 기억하지 않는다(글이 바뀌면 본보기도 따라 바뀌게).
+  $('fcText').addEventListener('input', () => { const v = $('fcText').value; fc.text[fc.kind] = v === fcTemplate(fc.kind, $('cap').value) ? null : v; if (fc.text[fc.kind] == null) delete fc.text[fc.kind]; keepFc(); fcShow(); buttons(); });
+  $('fcTags').addEventListener('input', () => { fc.tags = $('fcTags').value; fcShow(); buttons(); });
+  $('cap').addEventListener('input', () => { fcShow(); buttons(); });
+  document.querySelectorAll('input[name=ch]').forEach(x => x.addEventListener('change', () => { fcShow(); buttons(); }));
+
   /* ── 열쇠 ── */
   function keyState() {
     const k = key();
@@ -294,9 +370,11 @@
 
   function buttons() {
     const n = [...$('cap').value].length;
-    const ok = !busy && cards.length > 0 && n > 0 && key() && channels().length
-      && !(channels().includes('instagram') && n > LIMIT.instagram);
-    $('btnDry').disabled = $('btnGo').disabled = $('btnRsv').disabled = !ok;
+    const base = !busy && n > 0 && key() && channels().length
+      && !(channels().includes('instagram') && n > LIMIT.instagram) && !fcProblem();
+    const ok = base && cards.length > 0 && !editing;
+    $('btnDry').disabled = $('btnGo').disabled = !ok;
+    $('btnRsv').disabled = !(editing ? base : ok);   // 예약 고치기는 그림을 다시 안 올리므로 담은 카드가 없어도 된다
   }
 
   /* ── 깃허브 ── */
@@ -426,6 +504,8 @@
       a.href = x['링크']; a.target = '_blank'; a.rel = 'noopener';
       a.textContent = '✔ ' + x['창구'] + ' 게시물 보기';
       const d = document.createElement('div'); d.append(a); $('log').appendChild(d);
+      const c = x['댓글'];                // 첫 댓글은 덤 - 실패해도 게시는 올라갔다
+      if (c) log(c.ok ? '  ✔ 첫 댓글·해시태그 답글 달림' : '  ⚠ 첫 댓글을 못 달았습니다: ' + (c['왜'] || ''), c.ok ? 'ok' : 'bad');
     });
   }
   // 결과가 불분명할 때: 발행기록을 몇 번 더 본다(기록 커밋은 발행 뒤 몇 초 걸린다)
@@ -460,7 +540,7 @@
       const r = await gh('/repos/' + REPO + '/dispatches', {
         method: 'POST',
         body: JSON.stringify({ event_type: 'publish-cards',
-          client_payload: { caption: cap, channels: ch, dry: !!dry, urls, source: 'phone', req } }),
+          client_payload: { caption: cap, channels: ch, dry: !!dry, urls, source: 'phone', req, comment: fcPayload() } }),
       });
       if (r.status !== 204) { const e = new Error('발행 요청이 거절됐습니다 - ' + why(r.status)); e.status = r.status; throw e; }
       sent = true;
@@ -494,7 +574,7 @@
     if (ok && confirm('발행이 끝났습니다. 담은 카드를 비울까요?')) {
       await S.clear(); await load();
       // 올린 글이 다음 게시물에 딸려 가지 않게(앱 12차에서 겪은 함정) 같이 비운다
-      $('cap').value = ''; keepCap(); count();
+      $('cap').value = ''; keepCap(); count(); fc.tags = null; fcShow();
     }
   }
   $('btnCheck').addEventListener('click', async () => {
@@ -626,11 +706,23 @@
     $('tpAp').addEventListener('click', e => { const a = e.target.dataset && e.target.dataset.ap; if (a) { T.ap = a; show(); } });
     $('tpDate').addEventListener('change', () => { if ($('tpDate').value) { T.date = $('tpDate').value; show(); } });
     document.querySelectorAll('.tp-step .btn').forEach(b => b.addEventListener('click', () => shift(+b.dataset.step)));
-    // 기본값 = 다음 정시 + 1시간(이 기기 시계)
-    const d0 = new Date(Date.now() + 3600e3); d0.setMinutes(0, 0, 0); d0.setHours(d0.getHours() + 1);
-    set(d0); show();
+    // 🆕 정기 시간표 = 오전 9시. 기본값은 「다음 오전 9시」(5분 안이면 다음 날)이고,
+    //    이미 9시 예약이 잡힌 날(taken: 'YYYY-MM-DD' 모음, 예약 목록을 읽으면 채워짐)은 건너뛴다.
+    //    사람이 시각을 한 번이라도 만지면(touched) 목록이 늦게 와도 덮어쓰지 않는다.
+    let touched = false;
+    ['pointerdown', 'keydown', 'input', 'change'].forEach(ev => document.querySelector('.tp').addEventListener(ev, () => { touched = true; }, true));
+    function nine(taken) {
+      const d = new Date(); d.setHours(9, 0, 0, 0);
+      while (d.getTime() < Date.now() + 5 * 60e3 || (taken && taken.has(ymd(d)))) d.setDate(d.getDate() + 1);
+      return d;
+    }
+    set(nine()); show();
     setInterval(() => { if (!drag) show(); }, 30e3);     // 「N분 뒤」가 시간이 가도 맞게
-    return { set: d => { set(d); show(); } };
+    return {
+      set: d => { touched = true; set(d); show(); },
+      nine: taken => { touched = false; set(nine(taken)); show(); },
+      auto: taken => { if (!touched) { set(nine(taken)); show(); } },
+    };
   })();
 
   // 브랜치가 없으면 빈 브랜치(orphan)로 만든다 - main 에서 가지를 치면 레포 전체가 딸려 간다
@@ -657,6 +749,7 @@
 
   async function reserve() {
     if (busy) return;
+    if (editing) return saveEdit();
     const ms = new Date($('when').value).getTime();
     if (!ms) { alert('예약 시각을 고르세요.'); return; }
     if (ms < Date.now() + 5 * 60e3) { alert('예약은 지금부터 5분 뒤 이후로 잡을 수 있습니다.'); return; }
@@ -670,7 +763,7 @@
       await ensureBranch();
       const urls = await upload('rsv/' + id, RSV);
       log('2) 예약 내용을 적습니다');
-      const post = { id, when, caption: $('cap').value.trim(), channels: ch, urls, state: '접수', made: kstIso(Date.now()) };
+      const post = { id, when, caption: $('cap').value.trim(), channels: ch, urls, comment: fcPayload(), state: '접수', made: kstIso(Date.now()) };
       const r = await gh('/repos/' + REPO + '/contents/rsv/' + id + '/post.json', { method: 'PUT',
         body: JSON.stringify({ message: '예약 ' + id, content: b64u(JSON.stringify(post, null, 1)), branch: RSV }) });
       if (!r.ok) throw ghErr('예약 내용을 못 적었습니다', r);
@@ -681,7 +774,7 @@
       if (end === 'success') {
         log('✔ ' + kstShow(when) + ' 에 발행하도록 예약했습니다. 아래 5번 목록에서 취소할 수 있습니다.', 'ok');
         if (confirm('예약했습니다. 담은 카드와 글을 비울까요?')) {
-          await S.clear(); await load(); $('cap').value = ''; keepCap(); count();
+          await S.clear(); await load(); $('cap').value = ''; keepCap(); count(); fc.tags = null; fcShow();
         }
       } else if (end === 'unknown') {
         log('등록 결과를 아직 못 받았습니다. 잠시 뒤 5번 목록의 상태(대기)를 보세요. 다시 예약하지 마세요.');
@@ -699,7 +792,86 @@
 
   async function readPost(id) {
     const r = await gh('/repos/' + REPO + '/contents/rsv/' + id + '/post.json?ref=' + RSV);
-    return r.ok ? JSON.parse(unb64u((await r.json()).content)) : null;
+    if (!r.ok) return null;
+    const j = await r.json();
+    return Object.assign(JSON.parse(unb64u(j.content)), { _sha: j.sha });     // _sha = 고칠 때 덮어쓰기 확인용
+  }
+
+  /* ── 예약 고치기 (2026-10-23) ──
+     시각 · 글 · 창구 · 첫 댓글을 바꾼다. 그림은 그대로(바꾸려면 취소하고 새로 예약).
+     post.json 을 고쳐 state 를 「접수」로 되돌리고 reserve-post 를 다시 부르면 reserve.py 가
+     옛 cron-job.org 작업을 지우고 새 시각으로 다시 만든다.
+     🔴 원래 시각 3분 안에는 막는다 - 그 사이 옛 작업이 쏴서 이미 「발행중」으로 집었으면 늦는다. */
+  const EDITABLE = ['접수', '대기', '장치없음'];
+  let draft = null, taken9 = new Set();
+  function startEdit(p) {
+    if (busy) return;
+    if (!editing) draft = { cap: $('cap').value, ch: channels() };
+    editing = p;
+    TP.set(new Date(p.when));
+    $('cap').value = p.caption || '';
+    document.querySelectorAll('input[name=ch]').forEach(x => { x.checked = (p.channels || []).includes(x.value); });
+    const c = p.comment;
+    fc.on = !!c;
+    if (c) { fc.kind = 'own'; fc.text = Object.assign({}, fc.text, { own: c.text || '' }); fc.tags = (c.tags || []).join(' '); $('fcTags').value = fc.tags; }
+    $('editBar').hidden = false;
+    $('editWhat').textContent = kstShow(p.when) + ' 예약을 고치는 중입니다(그림은 그대로). 2번 칸의 글·창구·첫 댓글과 아래 시각을 고친 뒤 저장하세요.';
+    $('btnRsv').textContent = '고친 내용 저장';
+    count(); fcShow(); buttons();
+    $('cap').scrollIntoView({ block: 'center', behavior: 'smooth' });
+  }
+  function stopEdit() {
+    if (!editing) return;
+    editing = null;
+    if (draft) {
+      $('cap').value = draft.cap; keepCap();
+      document.querySelectorAll('input[name=ch]').forEach(x => { x.checked = draft.ch.includes(x.value); });
+    }
+    // 첫 댓글 설정은 이 기기에 기억해 둔 것으로 되돌린다(고치는 동안 바꾼 것은 그 예약 몫)
+    try { fc = Object.assign({ on: true, kind: 'ask', text: {} }, JSON.parse(localStorage.getItem(FC_KEY) || '{}'), { tags: null }); } catch (e) { /* 무시 */ }
+    $('editBar').hidden = true;
+    $('btnRsv').textContent = '이 시각에 예약';
+    TP.nine(taken9);
+    count(); fcShow(); buttons();
+  }
+  $('btnEditStop').addEventListener('click', stopEdit);
+  $('btnNine').addEventListener('click', () => TP.nine(taken9));
+
+  async function saveEdit() {
+    const p0 = editing;
+    const ms = new Date($('when').value).getTime();
+    if (!ms) { alert('예약 시각을 고르세요.'); return; }
+    if (ms < Date.now() + 5 * 60e3) { alert('예약은 지금부터 5분 뒤 이후로 잡을 수 있습니다.'); return; }
+    if (ms > Date.now() + 30 * 864e5) { alert('예약은 30일 안까지만 잡을 수 있습니다.'); return; }
+    const when = kstIso(ms), ch = channels();
+    if (!confirm('예약을 ' + kstShow(when) + ' (한국 시각) · ' + ch.join(', ') + ' 로 고칩니다. 진행할까요?')) return;
+    busy = true; buttons(); clearLog();
+    try {
+      log('1) 지금 예약 상태를 다시 읽습니다');
+      const cur = await readPost(p0.id);
+      if (!cur) throw new Error('예약이 없습니다(취소됐거나 발행이 끝났습니다).');
+      if (!EDITABLE.includes(cur.state)) throw new Error('이미 「' + (DIS[cur.state] || cur.state) + '」 상태라 고칠 수 없습니다.');
+      if (new Date(cur.when).getTime() < Date.now() + 3 * 60e3) throw new Error('원래 발행 시각이 3분 안이라 고칠 수 없습니다(옛 내용으로 나갈 수 있습니다).');
+      const next = Object.assign({}, cur, { when, caption: $('cap').value.trim(), channels: ch, comment: fcPayload(),
+        state: '접수', why: '', edited: kstIso(Date.now()) });
+      delete next._sha;
+      log('2) 고친 내용을 적습니다');
+      const r = await gh('/repos/' + REPO + '/contents/rsv/' + p0.id + '/post.json', { method: 'PUT',
+        body: JSON.stringify({ message: '예약 고침 ' + p0.id, content: b64u(JSON.stringify(next, null, 1)), branch: RSV, sha: cur._sha }) });
+      if (!r.ok) throw ghErr(r.status === 409 ? '그 사이 예약이 바뀌었습니다. 목록을 새로 읽고 다시 고쳐 주세요' : '고친 내용을 못 적었습니다', r);
+      log('3) 발행 시각을 다시 등록합니다');
+      const since = Date.now(), req = newReq();
+      await dispatch('reserve-post', p0.id, req);
+      const end = await follow(since, 'reserve.yml', req);
+      if (end === 'success') { log('✔ ' + kstShow(when) + ' 로 고쳤습니다.', 'ok'); stopEdit(); }
+      else if (end === 'unknown') log('다시 등록한 결과를 아직 못 받았습니다. 잠시 뒤 5번 목록에서 상태(대기)를 보세요.');
+      else log('고친 내용은 적었지만 시각 장치를 다시 못 만들었습니다. 매시 확인으로 늦게 올라갈 수 있습니다.', 'bad');
+    } catch (e) {
+      log('‼ ' + e.message, 'bad');
+      howToFix(e.status || 0);
+    } finally {
+      busy = false; buttons(); loadRsv();
+    }
   }
   async function loadRsv() {
     const box = $('rsvList');
@@ -714,6 +886,10 @@
       const posts = (await Promise.all(ids.map(readPost))).filter(Boolean)
         .filter(p => p.state !== '완료' || new Date(p.done || p.when).getTime() > week)   // 끝난 것은 7일만 보인다
         .sort((a, b) => a.when < b.when ? -1 : 1);
+      // 오전 9시가 이미 잡힌 날은 「다음 오전 9시」가 건너뛴다(고치는 중인 그 예약은 빼고)
+      taken9 = new Set(posts.filter(p => EDITABLE.includes(p.state) && p.when.slice(11, 16) === '09:00'
+        && !(editing && editing.id === p.id)).map(p => p.when.slice(0, 10)));
+      if (!editing) TP.auto(taken9);
       box.textContent = '';
       if (!posts.length) { box.textContent = '예약이 없습니다.'; return; }
       posts.forEach(p => {
@@ -736,7 +912,11 @@
         txt.append(head, sub);
         if (p.run) { const a = document.createElement('a'); a.href = p.run; a.target = '_blank'; a.rel = 'noopener'; a.textContent = '실행 보기'; txt.append(a); }
         el.append(txt);
-        if (['접수', '대기', '장치없음'].includes(p.state)) {
+        if (EDITABLE.includes(p.state)) {
+          const ed = document.createElement('button');
+          ed.className = 'btn'; ed.textContent = '고치기';
+          ed.addEventListener('click', () => startEdit(p));
+          el.append(ed);
           const x = document.createElement('button');
           x.className = 'btn'; x.textContent = '취소';
           x.addEventListener('click', () => cancel(p));
@@ -766,6 +946,7 @@
 
   if (!S) { log('이 화면은 폰판(홈페이지)에서만 씁니다.', 'bad'); return; }
   initCaption();
+  fcShow();
   keyState();
   loadRsv();
   load().catch(e => log('담은 카드를 못 읽었습니다: ' + e.message, 'bad'));

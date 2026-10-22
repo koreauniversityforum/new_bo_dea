@@ -23,6 +23,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 
@@ -75,12 +76,36 @@ def 기록쓰기(날짜, 계정키, 결과, 문구, 장수):
         "계정": 계정키,
         "장수": 장수,
         "문구": 문구,
-        "결과": [{"창구": r.get("창구"), "ok": r.get("ok"),
-                 "링크": r.get("링크", ""), "왜": r.get("왜", "")} for r in 결과],
+        "결과": [dict({"창구": r.get("창구"), "ok": r.get("ok"),
+                      "링크": r.get("링크", ""), "왜": r.get("왜", "")},
+                     **({"댓글": r["댓글"]} if r.get("댓글") else {})) for r in 결과],
     })
     with open(p, "w", encoding="utf-8") as f:
         json.dump({"날짜": 날짜, "발행": 옛것}, f, ensure_ascii=False, indent=1)
     return p
+
+
+def 태그뽑기(글):
+    return re.findall(r"#[^\s#]+", 글 or "")
+
+
+def 첫댓글(계정, 미디어, 인스타문구, 댓글, 로그):
+    """첫 댓글은 덤이다 - 실패해도 게시는 이미 끝났으므로 발행 실패로 치지 않고 경고로 남긴다."""
+    태그 = [t for t in (댓글.get("tags") or []) if isinstance(t, str) and t.startswith("#")]
+    본문태그 = 태그뽑기(인스타문구)
+    if len(set(태그) | set(본문태그)) > M.IG_최대태그:
+        로그("  ⚠ 해시태그가 본문·답글 합쳐 %d개라 첫 댓글을 안 답니다(인스타는 게시물당 %d개)."
+            % (len(set(태그) | set(본문태그)), M.IG_최대태그))
+        return {"ok": False, "왜": "해시태그 %d개 초과" % M.IG_최대태그}
+    try:
+        M.인스타_첫댓글(계정, 미디어, (댓글.get("text") or "").strip(), 태그, 로그)
+        return {"ok": True}
+    except Exception as e:
+        왜 = str(e)
+        if "(#10)" in 왜 or "permission" in 왜.lower():
+            왜 = "댓글 권한(instagram_manage_comments)이 없습니다 - 메타 앱에 권한을 더하고 다시 동의해야 합니다"
+        로그("  ⚠ 첫 댓글 실패(게시는 올라감): %s" % 왜)
+        return {"ok": False, "왜": 왜}
 
 
 def 방금올린것(날짜, 문구, 장수, 분=30):
@@ -118,10 +143,18 @@ def main(argv=None):
     ap.add_argument("--channels", default="instagram,facebook,threads")
     ap.add_argument("--date", default="")
     ap.add_argument("--dry", action="store_true", help="앞단만 점검하고 실제로 안 보냄")
+    ap.add_argument("--comment", default="", help="인스타 첫 댓글 JSON {ig_caption, text, tags} (없으면 안 단다)")
     a = ap.parse_args(argv)
 
     with open(a.caption, encoding="utf-8") as f:
         문구 = f.read().strip()
+    # 🆕 첫 댓글: 인스타 본문은 해시태그 줄을 뺀 것(ig_caption), 문장은 첫 댓글, 태그는 그 답글로.
+    #    페이스북·스레드는 쓴 글 그대로 간다. 기록·중복 막기는 원래 글(문구) 기준.
+    댓글 = {}
+    if a.comment and os.path.isfile(a.comment):
+        with open(a.comment, encoding="utf-8") as f:
+            댓글 = json.load(f) or {}
+    인스타문구 = (댓글.get("ig_caption") or 문구).strip()
     if not 문구:
         print("‼ 문구가 비었습니다.")
         return 1
@@ -176,7 +209,7 @@ def main(argv=None):
         for u in 주소들:
             M._주소확인(u, 기다림=60, 로그=로그)
         결과 = []
-        일감 = [("instagram", lambda: M.인스타_올리기(계정, 주소들, 문구, 로그)),
+        일감 = [("instagram", lambda: M.인스타_올리기(계정, 주소들, 인스타문구, 로그)),
                 ("facebook", lambda: M.페이스북_올리기(계정, 파일들, 문구, 로그)),
                 ("threads", lambda: M.스레드_올리기(계정, 주소들, 스레드문구, 로그))]
         for 이름, 하기 in 일감:
@@ -191,6 +224,8 @@ def main(argv=None):
                 r["ok"] = True
                 결과.append(r)
                 로그("  ✔ %s 올림 %s" % (r.get("창구", 이름), r.get("링크", "")))
+                if 이름 == "instagram" and (댓글.get("text") or 댓글.get("tags")):
+                    r["댓글"] = 첫댓글(계정, r.get("id"), 인스타문구, 댓글, 로그)
             except Exception as e:            # 한 창구가 막혀도 나머지는 간다
                 결과.append({"창구": 이름, "ok": False, "왜": str(e)})
                 로그("  ✘ %s 실패: %s" % (이름, e))

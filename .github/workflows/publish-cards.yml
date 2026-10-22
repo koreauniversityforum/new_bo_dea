@@ -87,6 +87,9 @@ jobs:
               문구 = (p.get("caption") or 문구).strip()
               창구 = ",".join(p.get("channels") or []) or 창구
               시늉 = bool(p.get("dry"))
+              # 🆕 인스타 첫 댓글(문장 + 해시태그 답글). 없으면 파일을 안 만든다(publish.py 는 없으면 안 단다).
+              if p.get("comment"):
+                  json.dump(p["comment"], open(".cards/댓글.json", "w", encoding="utf-8"), ensure_ascii=False)
           else:
               # `발행` 다음 줄부터 새 문구로 본다. 없으면 초안 그대로.
               몸 = os.environ.get("COMMENT", "")
@@ -119,6 +122,7 @@ jobs:
             --caption .cards/문구.txt \
             --channels "$CHANNELS" \
             --date "$PDATE" \
+            --comment .cards/댓글.json \
             ${DRY:+--dry} 2>&1 | tee .cards/결과.txt
           echo "CODE=${PIPESTATUS[0]}" >> $GITHUB_ENV
 
@@ -128,6 +132,20 @@ jobs:
           git add 발행기록 || true
           git diff --staged --quiet || git commit -m "발행기록 $PDATE"
           git push || true
+
+      - name: 홈페이지(univforum.kr)에 바로 반영
+        # 올라가자마자 homepage 의 인스타 수집을 깨운다(30분 기다리지 않게). RESERVE_PAT 에 homepage
+        # 저장소가 들어 있어야 한다 - 없으면 30분 수집으로 늦게 들어갈 뿐 발행과는 무관.
+        if: env.CODE == '0' && env.DRY == ''
+        env:
+          PAT: ${{ secrets.RESERVE_PAT }}
+        run: |
+          sleep 15   # 인스타 목록에 새 게시물이 잡힐 틈
+          code=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
+            -H "Authorization: Bearer $PAT" -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/koreauniversityforum/homepage/dispatches \
+            -d '{"event_type":"newbodae-posted"}')
+          if [ "$code" = "204" ]; then echo "홈페이지 수집을 깨웠습니다."; else echo "::warning::홈페이지 수집을 못 깨웠습니다(HTTP $code). RESERVE_PAT 에 homepage 저장소를 더하세요."; fi
 
       - name: 결과 알리기
         if: always()
