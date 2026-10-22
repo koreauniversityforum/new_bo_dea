@@ -1,0 +1,85 @@
+name: 예약 발행
+
+# 홈페이지 「인스타 올리기」의 [이 시각에 예약] → 정한 시각에 인스타·페이스북·스레드 발행.
+#   reserve-post   홈페이지가 그림·post.json 을 reserved 브랜치에 올린 뒤 쏜다 → cron-job.org 에 1회 작업 등록
+#   reserve-cancel 홈페이지의 [취소]
+#   reserve-fire   그 시각에 cron-job.org 가 쏜다 → 시각이 된 예약을 전부 발행
+#   schedule       cron-job.org 가 못 쏜 예약을 늦게라도 줍는 그물(깃허브 schedule 은 늦게 돈다)
+# 자세한 규칙은 .github/cards/reserve.py 머리 주석.
+on:
+  repository_dispatch:
+    types: [reserve-post, reserve-cancel, reserve-fire]
+  schedule:
+    - cron: '23 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write      # reserved 브랜치 · 발행기록 커밋
+
+# 🔴 같은 예약을 두 실행이 동시에 집으면 두 번 올라간다 - 한 줄로 세운다.
+#    (대기 중인 실행은 하나만 남지만, 어느 실행이든 시각이 된 것을 **전부** 처리하므로 빠지는 것이 없다.)
+concurrency:
+  group: reserve
+  cancel-in-progress: false
+
+jobs:
+  reserve:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 예약 자리 꺼내기
+        run: |
+          git config user.name  "nbd-cards"
+          git config user.email "cards@users.noreply.github.com"
+          if git fetch -q --no-tags origin +refs/heads/reserved:refs/remotes/origin/reserved; then
+            git worktree add -q -B reserved .reserved origin/reserved
+            echo "HAS_RSV=1" >> $GITHUB_ENV
+          else
+            echo "reserved 브랜치가 아직 없습니다(예약이 한 번도 없었음)."
+          fi
+
+      - name: 처리
+        if: env.HAS_RSV == '1'
+        env:
+          EVENT: ${{ github.event_name }}
+          ACTION: ${{ github.event.action }}
+          RID: ${{ github.event.client_payload.id }}
+          META_CONFIG: ${{ secrets.META_CONFIG }}
+          CRONJOB_KEY: ${{ secrets.CRONJOB_KEY }}
+          RESERVE_PAT: ${{ secrets.RESERVE_PAT }}
+          RSV_DIR: ${{ github.workspace }}/.reserved
+        run: |
+          set +e
+          case "$ACTION" in
+            reserve-post)   python .github/cards/reserve.py register --id "$RID" ;;
+            reserve-cancel) python .github/cards/reserve.py cancel   --id "$RID" ;;
+            *)              python .github/cards/reserve.py fire ;;
+          esac 2>&1 | tee 결과.txt
+          echo "CODE=${PIPESTATUS[0]}" >> $GITHUB_ENV
+
+      - name: 발행기록 커밋
+        if: env.HAS_RSV == '1'
+        run: |
+          git add 발행기록 2>/dev/null || true
+          git diff --staged --quiet && exit 0
+          git commit -qm "발행기록 (예약) $(TZ=Asia/Seoul date +%F)"
+          # 그 사이 정기 뉴스 자동 갱신이 main 에 올라왔을 수 있다
+          for n in 1 2 3; do git push -q && break; git pull -q --rebase; done
+
+      - name: 결과 알리기
+        if: always() && env.HAS_RSV == '1'
+        run: |
+          {
+            if [ "$CODE" = "0" ]; then echo "### ✅ 예약 ${{ github.event.action || 'fire' }}"; else echo "### ⚠️ 예약 처리 실패"; fi
+            echo '```'
+            tail -c 3000 결과.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          [ "$CODE" = "0" ] || { echo "예약 처리가 실패했습니다 (CODE=$CODE). 요약(Summary)을 보세요."; exit 1; }

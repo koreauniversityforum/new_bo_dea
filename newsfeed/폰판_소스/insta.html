@@ -33,6 +33,7 @@
   .th .ctl{display:flex;justify-content:space-between;padding:4px}
   .th button{background:none;border:1px solid var(--line,#444);color:var(--ink,#eee);border-radius:6px;padding:2px 8px;cursor:pointer}
   textarea{width:100%;min-height:180px;box-sizing:border-box;border-radius:8px;border:1px solid var(--line,#333);background:transparent;color:inherit;padding:10px;font:inherit;line-height:1.5;word-break:keep-all}
+  input[type=datetime-local]{border-radius:8px;border:1px solid var(--line,#333);background:transparent;color:inherit;padding:7px;font:inherit;color-scheme:light dark}
   input[type=password],input[type=text]{flex:1;min-width:0;border-radius:8px;border:1px solid var(--line,#333);background:transparent;color:inherit;padding:8px}
   .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
   .btn{padding:9px 14px;border-radius:8px;border:1px solid var(--line,#444);background:none;color:inherit;cursor:pointer;font-size:14px}
@@ -103,7 +104,18 @@
       <button class="btn primary" id="btnGo">실제로 발행</button>
     </div>
     <div class="muted">점검만: 그림을 공개 자리에 올리고 주소가 열리는지까지만 보고, 인스타에는 안 보냅니다.</div>
+    <div class="row">
+      <label>예약 시각 <input type="datetime-local" id="when"></label>
+      <button class="btn" id="btnRsv">이 시각에 예약</button>
+    </div>
+    <div class="muted">예약하면 그림과 글을 깃허브에 맡겨 두고, 정한 시각에 위에서 고른 창구로 발행합니다. 노트북·폰이 꺼져 있어도 됩니다. 시각은 이 기기 시계 기준이고 5분 뒤부터 30일 안까지 잡을 수 있습니다.</div>
     <div id="log"></div>
+  </div>
+
+  <div class="box">
+    <h2>5. 예약 목록</h2>
+    <div id="rsvList" class="muted">열쇠를 넣으면 보입니다.</div>
+    <div class="row"><button class="btn" id="btnRsvLoad">새로고침</button></div>
   </div>
 </div>
 
@@ -236,6 +248,7 @@
     if (!v) return;
     try { localStorage.setItem(PAT_KEY, v); $('pat').value = ''; } catch (e) { alert('저장 실패: ' + e.message); }
     keyState();
+    loadRsv();
   });
   $('btnKeyDel').addEventListener('click', () => {
     try { localStorage.removeItem(PAT_KEY); } catch (e) { /* 무시 */ }
@@ -246,7 +259,7 @@
     const n = [...$('cap').value].length;
     const ok = !busy && cards.length > 0 && n > 0 && key() && channels().length
       && !(channels().includes('instagram') && n > LIMIT.instagram);
-    $('btnDry').disabled = $('btnGo').disabled = !ok;
+    $('btnDry').disabled = $('btnGo').disabled = $('btnRsv').disabled = !ok;
   }
 
   /* ── 깃허브 ── */
@@ -296,8 +309,11 @@
     });
   }
 
-  async function upload() {
-    const stamp = 'up/p' + new Date().toISOString().replace(/\D/g, '').slice(2, 14);
+  // 🆕 예약은 `cards` 가 아니라 `reserved` 브랜치에 올린다 - cards 는 새벽 굽기가 날마다
+  //    통째로 갈아 끼워서, 거기 두면 다음 날 아침 예약 그림이 사라진다.
+  async function upload(stamp, branch) {
+    stamp = stamp || 'up/p' + new Date().toISOString().replace(/\D/g, '').slice(2, 14);
+    branch = branch || BRANCH;
     const urls = [];
     for (let i = 0; i < cards.length; i++) {
       const name = String(i + 1).padStart(2, '0') + '.jpg';
@@ -305,20 +321,20 @@
       const b64 = await toJpegBase64(cards[i].blob);
       const r = await gh('/repos/' + REPO + '/contents/' + stamp + '/' + name, {
         method: 'PUT',
-        body: JSON.stringify({ message: '폰판 올림: ' + stamp + '/' + name, content: b64, branch: BRANCH }),
+        body: JSON.stringify({ message: '폰판 올림: ' + stamp + '/' + name, content: b64, branch }),
       });
       if (!r.ok) { const e = new Error('그림 올리기 실패 - ' + why(r.status)); e.status = r.status; throw e; }
-      urls.push('https://raw.githubusercontent.com/' + REPO + '/' + BRANCH + '/' + stamp + '/' + name);
+      urls.push('https://raw.githubusercontent.com/' + REPO + '/' + branch + '/' + stamp + '/' + name);
     }
     return urls;
   }
 
-  async function follow(since) {
+  async function follow(since, wf) {
     // 방금 부른 실행을 찾는다(요청 시각 이후에 생긴 repository_dispatch 실행)
     let run = null;
     for (let t = 0; t < 20 && !run; t++) {
       await new Promise(r => setTimeout(r, 3000));
-      const r = await gh('/repos/' + REPO + '/actions/workflows/publish-cards.yml/runs?event=repository_dispatch&per_page=5');
+      const r = await gh('/repos/' + REPO + '/actions/workflows/' + (wf || 'publish-cards.yml') + '/runs?event=repository_dispatch&per_page=5');
       if (!r.ok) { log('실행을 따라가지 못했습니다 - ' + why(r.status) + ' (발행 자체는 진행됩니다)', 'bad'); return; }
       const j = await r.json();
       run = (j.workflow_runs || []).find(x => new Date(x.created_at).getTime() >= since - 5000);
@@ -377,9 +393,158 @@
   $('btnDry').addEventListener('click', () => send(true));
   $('btnGo').addEventListener('click', () => send(false));
 
+  /* ── 예약 (2026-10-22) ──
+     그림·글을 reserved 브랜치 rsv/<번호>/ 에 맡기고 reserve.yml 을 부른다. 그 워크플로가
+     cron-job.org 에 「그 분에 한 번」 작업을 만들고, 그 시각에 같은 워크플로가 발행한다.
+     규칙은 .github/cards/reserve.py 머리 주석. */
+  const RSV = 'reserved';
+  const DIS = { '접수': '접수 중', '대기': '대기 - 정한 시각에 발행', '장치없음': '⚠ 시각 장치 없음 - 늦게 올라갈 수 있음',
+    '발행중': '발행 중', '완료': '✔ 발행함', '실패': '✘ 실패' };
+  const b64u = s => { let t = ''; new TextEncoder().encode(s).forEach(x => { t += String.fromCharCode(x); }); return btoa(t); };
+  const unb64u = s => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\s/g, '')), c => c.charCodeAt(0)));
+  const kstIso = ms => new Date(ms + 9 * 3600e3).toISOString().slice(0, 19) + '+09:00';
+  const kstShow = iso => String(iso || '').slice(0, 16).replace('T', ' ');
+  const pad = n => String(n).padStart(2, '0');
+  const ghErr = (msg, r) => { const e = new Error(msg + ' - ' + why(r.status)); e.status = r.status; return e; };
+
+  (function defaultWhen() {               // 기본값 = 다음 정시 + 1시간(이 기기 시계)
+    const d = new Date(Date.now() + 3600e3); d.setMinutes(0, 0, 0); d.setHours(d.getHours() + 1);
+    $('when').value = d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()) + 'T' + pad(d.getHours()) + ':00';
+  })();
+
+  // 브랜치가 없으면 빈 브랜치(orphan)로 만든다 - main 에서 가지를 치면 레포 전체가 딸려 간다
+  async function ensureBranch() {
+    const b = await gh('/repos/' + REPO + '/branches/' + RSV);
+    if (b.ok) return;
+    if (b.status !== 404) throw ghErr('예약 자리를 확인하지 못했습니다', b);
+    log('  예약 자리(reserved 브랜치)를 처음 만듭니다');
+    const post = (p, body) => gh('/repos/' + REPO + p, { method: 'POST', body: JSON.stringify(body) });
+    const t = await post('/git/trees', { tree: [{ path: 'README.md', mode: '100644', type: 'blob',
+      content: '홈페이지 「인스타 올리기」의 예약 발행 자리입니다. rsv/<번호>/ 에 그림과 post.json 이 들어갑니다.\n' }] });
+    if (!t.ok) throw ghErr('예약 자리를 못 만들었습니다', t);
+    const c = await post('/git/commits', { message: '예약 자리 만들기', tree: (await t.json()).sha, parents: [] });
+    if (!c.ok) throw ghErr('예약 자리를 못 만들었습니다', c);
+    const r = await post('/git/refs', { ref: 'refs/heads/' + RSV, sha: (await c.json()).sha });
+    if (!r.ok && r.status !== 422) throw ghErr('예약 자리를 못 만들었습니다', r);   // 422 = 그 사이 누가 만듦
+  }
+
+  async function dispatch(type, id) {
+    const r = await gh('/repos/' + REPO + '/dispatches', { method: 'POST',
+      body: JSON.stringify({ event_type: type, client_payload: { id } }) });
+    if (r.status !== 204) throw ghErr('깃허브가 요청을 받지 않았습니다', r);
+  }
+
+  async function reserve() {
+    if (busy) return;
+    const ms = new Date($('when').value).getTime();
+    if (!ms) { alert('예약 시각을 고르세요.'); return; }
+    if (ms < Date.now() + 5 * 60e3) { alert('예약은 지금부터 5분 뒤 이후로 잡을 수 있습니다.'); return; }
+    if (ms > Date.now() + 30 * 864e5) { alert('예약은 30일 안까지만 잡을 수 있습니다(메타 열쇠가 60일마다 바뀝니다).'); return; }
+    const when = kstIso(ms), ch = channels();
+    if (!confirm(cards.length + '장을 ' + kstShow(when) + ' (한국 시각)에 ' + ch.join(', ') + ' 로 발행하도록 예약합니다.\n시각이 되면 확인 없이 올라갑니다. 진행할까요?')) return;
+    const id = 'r' + when.slice(2, 16).replace(/\D/g, '') + Math.random().toString(36).slice(2, 6);
+    busy = true; buttons(); clearLog();
+    try {
+      log('1) 그림을 예약 자리(깃허브 reserved 브랜치)에 올립니다');
+      await ensureBranch();
+      const urls = await upload('rsv/' + id, RSV);
+      log('2) 예약 내용을 적습니다');
+      const post = { id, when, caption: $('cap').value.trim(), channels: ch, urls, state: '접수', made: kstIso(Date.now()) };
+      const r = await gh('/repos/' + REPO + '/contents/rsv/' + id + '/post.json', { method: 'PUT',
+        body: JSON.stringify({ message: '예약 ' + id, content: b64u(JSON.stringify(post, null, 1)), branch: RSV }) });
+      if (!r.ok) throw ghErr('예약 내용을 못 적었습니다', r);
+      log('3) 발행 시각을 등록합니다');
+      const since = Date.now();
+      await dispatch('reserve-post', id);
+      const end = await follow(since, 'reserve.yml');
+      if (end === 'success') {
+        log('✔ ' + kstShow(when) + ' 에 발행하도록 예약했습니다. 아래 5번 목록에서 취소할 수 있습니다.', 'ok');
+        if (confirm('예약했습니다. 담은 카드와 글을 비울까요?')) {
+          await S.clear(); await load(); $('cap').value = ''; keepCap(); count();
+        }
+      } else if (end) {
+        log('예약은 남아 있지만 정확한 시각 장치를 못 만들었습니다. 매시 확인으로 늦게 올라갈 수 있습니다. 위 링크의 요약에서 이유를 보세요.', 'bad');
+      }
+    } catch (e) {
+      log('‼ ' + e.message, 'bad');
+      howToFix(e.status || 0);
+    } finally {
+      busy = false; buttons(); loadRsv();
+    }
+  }
+  $('btnRsv').addEventListener('click', reserve);
+
+  async function readPost(id) {
+    const r = await gh('/repos/' + REPO + '/contents/rsv/' + id + '/post.json?ref=' + RSV);
+    return r.ok ? JSON.parse(unb64u((await r.json()).content)) : null;
+  }
+  async function loadRsv() {
+    const box = $('rsvList');
+    if (!key()) { box.textContent = '열쇠를 넣으면 보입니다.'; return; }
+    box.textContent = '읽는 중…';
+    try {
+      const r = await gh('/repos/' + REPO + '/contents/rsv?ref=' + RSV);
+      if (r.status === 404) { box.textContent = '예약이 없습니다.'; return; }
+      if (!r.ok) throw ghErr('목록을 못 읽었습니다', r);
+      const ids = (await r.json()).filter(x => x.type === 'dir').map(x => x.name);
+      const week = Date.now() - 7 * 864e5;
+      const posts = (await Promise.all(ids.map(readPost))).filter(Boolean)
+        .filter(p => p.state !== '완료' || new Date(p.done || p.when).getTime() > week)   // 끝난 것은 7일만 보인다
+        .sort((a, b) => a.when < b.when ? -1 : 1);
+      box.textContent = '';
+      if (!posts.length) { box.textContent = '예약이 없습니다.'; return; }
+      posts.forEach(p => {
+        const el = document.createElement('div');
+        el.className = 'row';
+        el.style.cssText = 'border-top:1px solid var(--line,#333);padding-top:8px;align-items:flex-start';
+        const txt = document.createElement('div');
+        txt.style.cssText = 'flex:1;min-width:0;line-height:1.5';
+        const head = document.createElement('div');
+        const b = document.createElement('b'); b.textContent = kstShow(p.when);
+        const st = document.createElement('span');
+        st.textContent = '  ' + (DIS[p.state] || p.state);
+        st.className = p.state === '완료' ? 'ok' : (p.state === '실패' || p.state === '장치없음') ? 'bad' : '';
+        head.append(b, st);
+        const sub = document.createElement('div');
+        sub.className = 'muted';
+        sub.textContent = (p.urls || []).length + '장 · ' + (p.channels || []).join(', ') + ' · ' + [...(p.caption || '')].slice(0, 40).join('') + '…'
+          + (p.why ? '\n' + p.why : '');
+        sub.style.whiteSpace = 'pre-wrap';
+        txt.append(head, sub);
+        if (p.run) { const a = document.createElement('a'); a.href = p.run; a.target = '_blank'; a.rel = 'noopener'; a.textContent = '실행 보기'; txt.append(a); }
+        el.append(txt);
+        if (['접수', '대기', '장치없음'].includes(p.state)) {
+          const x = document.createElement('button');
+          x.className = 'btn'; x.textContent = '취소';
+          x.addEventListener('click', () => cancel(p));
+          el.append(x);
+        }
+        box.append(el);
+      });
+    } catch (e) {
+      box.textContent = '‼ ' + e.message;
+    }
+  }
+  async function cancel(p) {
+    if (busy || !confirm(kstShow(p.when) + ' 예약을 취소할까요?')) return;
+    busy = true; buttons(); clearLog();
+    try {
+      log('예약 ' + p.id + ' 취소를 요청합니다');
+      const since = Date.now();
+      await dispatch('reserve-cancel', p.id);
+      await follow(since, 'reserve.yml');
+    } catch (e) {
+      log('‼ ' + e.message, 'bad'); howToFix(e.status || 0);
+    } finally {
+      busy = false; buttons(); loadRsv();
+    }
+  }
+  $('btnRsvLoad').addEventListener('click', loadRsv);
+
   if (!S) { log('이 화면은 폰판(홈페이지)에서만 씁니다.', 'bad'); return; }
   initCaption();
   keyState();
+  loadRsv();
   load().catch(e => log('담은 카드를 못 읽었습니다: ' + e.message, 'bad'));
 })();
 </script>
