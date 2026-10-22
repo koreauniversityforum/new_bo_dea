@@ -83,6 +83,32 @@ def 기록쓰기(날짜, 계정키, 결과, 문구, 장수):
     return p
 
 
+def 방금올린것(날짜, 문구, 장수, 분=30):
+    """같은 글·같은 장수가 `분` 안에 이미 올라갔으면 그 기록을 준다.
+
+    🔴 2026-10-21: 화면이 결과를 못 따라가 실패처럼 보였고, 다시 눌러 인스타·페이스북에 같은 글이
+       두 번 올라갔다. 화면만 고치면 다른 길(이슈 댓글·다른 기기)로는 또 생기므로 여기서 막는다.
+    """
+    p = os.path.join(ROOT, "발행기록", "%s.json" % 날짜)
+    if not os.path.isfile(p):
+        return None
+    try:
+        with open(p, encoding="utf-8") as f:
+            옛것 = json.load(f).get("발행", [])
+    except Exception:
+        return None
+    지금 = datetime.now(KST)
+    for x in reversed(옛것):
+        try:
+            때 = datetime.fromisoformat(x.get("때", ""))
+        except ValueError:
+            continue
+        if (x.get("문구") == 문구 and x.get("장수") == 장수 and 지금 - 때 < timedelta(minutes=분)
+                and any(r.get("ok") for r in x.get("결과") or [])):
+            return x
+    return None
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description="카드 발행 (Actions)")
     ap.add_argument("--images", required=True, help="내려받아 둔 카드 폴더")
@@ -122,6 +148,14 @@ def main(argv=None):
         print("‼ `%s` 에 연결된 창구가 없습니다." % 키)
         return 1
     날짜 = a.date or datetime.now(KST).strftime("%Y-%m-%d")
+    if not a.dry:
+        옛 = 방금올린것(날짜, 문구, len(파일들))
+        if 옛:
+            print("‼ 같은 글(%d장)이 %s 에 이미 올라갔습니다 - 두 번 올리지 않습니다." % (len(파일들), 옛["때"]))
+            for r in 옛.get("결과") or []:
+                print("  %s %s %s" % ("✔" if r.get("ok") else "✘", r.get("창구"), r.get("링크") or r.get("왜", "")))
+            print("정말 또 올리려면 글을 조금 바꾸거나 30분 뒤에 보내세요.")
+            return 0
 
     print("올릴 것: %d장 / 창구 %s / 계정 %s%s"
           % (len(파일들), ", ".join(창구), 키, "  [점검만]" if a.dry else ""), flush=True)
