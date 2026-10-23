@@ -52,6 +52,15 @@ jobs:
           import json, os, urllib.request
           p = json.loads(os.environ.get("FROM_DISPATCH") or "null") or {}
           urls = [u for u in (p.get("urls") or []) if isinstance(u, str) and u.startswith("https://")]
+          # 🆕 2026-10-24 릴스: payload.video(공개 주소)가 오면 카드 대신 영상 하나를 받아 둔다
+          video = p.get("video") if isinstance(p.get("video"), str) and p["video"].startswith("https://") else ""
+          if video:
+              urllib.request.urlretrieve(video, ".cards/영상.mp4")
+              print("폰판에서 올린 릴스 영상 (%d바이트)" % os.path.getsize(".cards/영상.mp4"))
+              json.dump({"cards": []}, open(".cards/주소.json", "w", encoding="utf-8"))
+              with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as g:
+                  g.write("SOURCE=phone\nVIDEO_URL=%s\n" % video)
+              raise SystemExit(0)
           if urls:
               cards = [{"file": "%02d.jpg" % (i + 1), "url": u} for i, u in enumerate(urls[:10])]
               print("폰판에서 올린 카드 %d장" % len(cards))
@@ -123,6 +132,7 @@ jobs:
             --channels "$CHANNELS" \
             --date "$PDATE" \
             --comment .cards/댓글.json \
+            ${VIDEO_URL:+--video .cards/영상.mp4 --video-url "$VIDEO_URL"} \
             ${DRY:+--dry} 2>&1 | tee .cards/결과.txt
           echo "CODE=${PIPESTATUS[0]}" >> $GITHUB_ENV
 

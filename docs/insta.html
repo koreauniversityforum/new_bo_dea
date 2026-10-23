@@ -81,14 +81,28 @@
   </div>
 
   <div class="box">
-    <h2>1. 담은 카드 <span id="cnt" class="muted"></span></h2>
-    <div class="muted">앞장·뒷장 화면 머리글의 <b>인스타 올리기</b> 단추를 누를 때마다 지금 카드가 여기 쌓입니다(최대 10장). 번호 순서가 캐러셀 순서입니다.</div>
-    <div id="grid" class="grid"></div>
-    <div class="row">
-      <button class="btn" id="btnFromOut">보관함에서 담기</button>
-      <button class="btn" id="btnClear">담은 카드 비우기</button>
+    <h2>1. 올릴 것 <span id="cnt" class="muted"></span></h2>
+    <div class="tp-ap" id="kindSw"><button type="button" data-k="cards">카드 묶음</button><button type="button" data-k="reel">릴스 영상</button></div>
+    <div id="cardsPane" class="fc">
+      <div class="muted">앞장·뒷장 화면 머리글의 <b>인스타 올리기</b> 단추를 누를 때마다 지금 카드가 여기 쌓입니다(최대 10장). 번호 순서가 캐러셀 순서입니다.</div>
+      <div id="grid" class="grid"></div>
+      <div class="row">
+        <button class="btn" id="btnFromOut">보관함에서 담기</button>
+        <button class="btn" id="btnClear">담은 카드 비우기</button>
+      </div>
+      <div id="outPick" class="grid" hidden></div>
     </div>
-    <div id="outPick" class="grid" hidden></div>
+    <div id="reelPane" class="fc" hidden>
+      <div class="muted">세로 영상 하나를 고르세요(MP4·MOV, 3초~15분, 40 MB 까지). 인스타 릴스 · 페이스북 페이지 영상 · 스레드 영상(5분까지)으로 올라갑니다.</div>
+      <div class="row">
+        <label class="btn">영상 파일 고르기<input type="file" id="vidFile" accept="video/mp4,video/quicktime,.mp4,.mov" hidden></label>
+        <button class="btn" id="btnVidOut">보관함에서 고르기</button>
+        <button class="btn" id="btnVidClear">영상 빼기</button>
+      </div>
+      <div id="vidOutPick" class="grid" hidden></div>
+      <video id="vidPrev" controls playsinline muted hidden style="max-height:420px;max-width:100%;background:#000;border-radius:8px;align-self:flex-start"></video>
+      <div id="vidInfo" class="muted"></div>
+    </div>
   </div>
 
   <div class="box">
@@ -138,7 +152,7 @@
       <button class="btn primary" id="btnGo">실제로 발행</button>
       <button class="btn" id="btnCheck">지난 발행 결과 확인</button>
     </div>
-    <div class="muted">점검만: 그림을 공개 자리에 올리고 주소가 열리는지까지만 보고, 인스타에는 안 보냅니다.</div>
+    <div class="muted">점검만: 그림(릴스는 영상)을 공개 자리에 올리고 주소가 열리는지·영상 형식과 길이까지만 보고, 인스타에는 안 보냅니다.</div>
     <h2 style="margin-top:6px">예약 시각</h2>
     <div class="tp">
       <div class="tp-side">
@@ -205,7 +219,6 @@
   function draw() {
     const g = $('grid');
     g.textContent = '';
-    $('cnt').textContent = cards.length ? '(' + cards.length + '장)' : '';
     if (!cards.length) {
       g.innerHTML = '<div class="muted">아직 담은 카드가 없습니다. <a href="./">앞장 만들기</a>에서 카드를 만든 뒤 머리글의 <b>인스타 올리기</b>를 누르세요.</div>';
     }
@@ -226,7 +239,7 @@
       });
       g.appendChild(el);
     });
-    buttons();
+    kindShow();
   }
   /* 보관함(앱의 out 폴더)에 저장해 둔 카드를 골라 담는다 - 앱 올리기 화면의 「out 폴더에서 고르기」 */
   $('btnFromOut').addEventListener('click', async () => {
@@ -260,6 +273,132 @@
     await S.clear();
     await load();
   });
+
+  /* ── 릴스 영상 (2026-10-24) ──
+     카드 대신 영상 하나를 같은 길(cards·reserved 브랜치 raw 주소 → publish-cards / reserve)로 보낸다.
+     🔴 인스타·스레드는 webm 을 안 받는다 - 머리 12바이트로 형식을 보고 막는다(이름·MIME 은 믿지 않는다).
+     🔴 깃허브 파일 올리기는 base64 로 한 번에 보내므로 크기를 40 MB 로 막는다. */
+  const VID_MAX = 40 * 1048576, KIND_KEY = 'nb_insta_kind';
+  let kind = 'cards', video = null;          // video: {blob,name,url,fmt,sec,w,h}
+  try { kind = localStorage.getItem(KIND_KEY) === 'reel' ? 'reel' : 'cards'; } catch (e) { /* 무시 */ }
+  const mb = n => (n / 1048576).toFixed(1);
+  function kindShow() {
+    document.querySelectorAll('#kindSw button').forEach(b => b.classList.toggle('on', b.dataset.k === kind));
+    $('cardsPane').hidden = kind !== 'cards';
+    $('reelPane').hidden = kind !== 'reel';
+    $('cnt').textContent = kind === 'reel' ? (video ? '(영상 1개)' : '') : cards.length ? '(' + cards.length + '장)' : '';
+    buttons();
+  }
+  $('kindSw').addEventListener('click', e => {
+    const k = e.target.dataset && e.target.dataset.k;
+    if (!k || busy || editing) return;
+    kind = k; try { localStorage.setItem(KIND_KEY, k); } catch (e2) { /* 무시 */ }
+    kindShow();
+  });
+  async function sniff(blob) {
+    const b = new Uint8Array(await blob.slice(0, 12).arrayBuffer());
+    if (b[0] === 0x1a && b[1] === 0x45 && b[2] === 0xdf && b[3] === 0xa3) return 'webm';
+    if (String.fromCharCode(...b.slice(4, 8)) === 'ftyp') return String.fromCharCode(...b.slice(8, 12)) === 'qt  ' ? 'mov' : 'mp4';
+    return '?';
+  }
+  function vmeta(url) {
+    return new Promise(res => {
+      const v = document.createElement('video');
+      v.preload = 'metadata'; v.muted = true;
+      const t = setTimeout(() => res({ sec: null, w: 0, h: 0 }), 8000);
+      v.onloadedmetadata = () => { clearTimeout(t); res({ sec: isFinite(v.duration) ? v.duration : null, w: v.videoWidth, h: v.videoHeight }); };
+      v.onerror = () => { clearTimeout(t); res({ sec: null, w: 0, h: 0 }); };
+      v.src = url;
+    });
+  }
+  async function setVideo(blob, name) {
+    if (video && video.url) URL.revokeObjectURL(video.url);
+    video = null;
+    if (blob) {
+      const url = URL.createObjectURL(blob);
+      video = Object.assign({ blob, name: name || '영상', url, fmt: await sniff(blob) }, await vmeta(url));
+    }
+    vidShow();
+  }
+  function vidProblem() {
+    if (!video) return '영상을 고르세요.';
+    if (video.fmt === 'webm') return 'webm 영상입니다. 인스타·스레드는 MP4·MOV 만 받습니다 - MP4 로 다시 내보내 주세요.';
+    if (video.fmt !== 'mp4' && video.fmt !== 'mov') return 'MP4·MOV 영상으로 읽히지 않습니다.';
+    if (video.blob.size > VID_MAX) return '영상이 ' + mb(video.blob.size) + ' MB 입니다. 여기서는 ' + mb(VID_MAX) + ' MB 까지 올릴 수 있습니다.';
+    const ch = channels(), s = video.sec;
+    if (s != null) {
+      if (ch.includes('instagram') && s < 3) return '영상이 ' + s.toFixed(1) + '초입니다. 릴스는 3초 이상이어야 합니다.';
+      if (ch.includes('instagram') && s > 900) return '릴스는 15분까지입니다.';
+      if (ch.includes('threads') && s > 300) return '스레드 영상은 5분까지입니다(스레드를 빼거나 줄여 주세요).';
+    }
+    return '';
+  }
+  function vidShow() {
+    const p = $('vidPrev');
+    if (video) { p.src = video.url; p.hidden = false; } else { p.removeAttribute('src'); p.hidden = true; }
+    const box = $('vidInfo');
+    box.textContent = '';
+    if (video) {
+      const s = video.sec != null ? Math.round(video.sec * 10) / 10 + '초' : '길이 모름';
+      const d = document.createElement('div');
+      d.textContent = video.name + ' · ' + video.fmt.toUpperCase() + ' · ' + s + (video.w ? ' · ' + video.w + '×' + video.h : '') + ' · ' + mb(video.blob.size) + ' MB';
+      box.append(d);
+      const bad = vidProblem();
+      if (bad) { const e = document.createElement('div'); e.className = 'bad'; e.textContent = bad; box.append(e); }
+      else if (video.w && Math.abs(video.w / video.h - 9 / 16) > 0.02) {
+        const w = document.createElement('div'); w.textContent = '⚠ 9:16 세로가 아니라 릴스 화면 위아래(또는 옆)가 빕니다.'; box.append(w);
+      }
+    }
+    kindShow();
+  }
+  $('vidFile').addEventListener('change', async () => {
+    const f = $('vidFile').files[0];
+    $('vidFile').value = '';
+    if (f) await setVideo(f, f.name);
+  });
+  $('btnVidClear').addEventListener('click', () => { if (!busy) setVideo(null); });
+  /* 보관함(릴스 만들기에서 저장한 영상)에서 고르기 */
+  $('btnVidOut').addEventListener('click', async () => {
+    const box = $('vidOutPick');
+    if (!box.hidden) { box.hidden = true; box.textContent = ''; return; }
+    const list = (await window.NBD_OUT.list()).filter(x => /\.(mp4|mov|webm)$/i.test(x.name));
+    box.hidden = false;
+    box.textContent = '';
+    if (!list.length) { box.innerHTML = '<div class="muted">보관함에 영상이 없습니다.</div>'; return; }
+    list.forEach(x => {
+      const el = document.createElement('div');
+      el.className = 'th';
+      el.innerHTML = '<div class="muted" style="padding:6px;word-break:break-all"></div><div class="ctl"><button>+ 고르기</button></div>';
+      el.querySelector('.muted').textContent = x.name + ' · ' + mb(x.blob.size) + ' MB';
+      el.querySelector('button').addEventListener('click', async () => { box.hidden = true; box.textContent = ''; await setVideo(x.blob, x.name); });
+      box.appendChild(el);
+    });
+  });
+  function readB64(blob) {
+    return new Promise((res, rej) => {
+      const fr = new FileReader();
+      fr.onload = () => res(String(fr.result).split(',')[1]);
+      fr.onerror = () => rej(new Error('영상을 읽지 못했습니다.'));
+      fr.readAsDataURL(blob);
+    });
+  }
+  async function uploadVideo(stamp, branch) {
+    stamp = stamp || 'up/v' + new Date().toISOString().replace(/\D/g, '').slice(2, 14);
+    branch = branch || BRANCH;
+    const name = 'reel.' + (video.fmt === 'mov' ? 'mov' : 'mp4');
+    log('  영상 ' + mb(video.blob.size) + ' MB 올리는 중… (크면 1~2분)');
+    const r = await gh('/repos/' + REPO + '/contents/' + stamp + '/' + name, {
+      method: 'PUT',
+      body: JSON.stringify({ message: '폰판 올림: ' + stamp + '/' + name, content: await readB64(video.blob), branch }),
+    });
+    if (!r.ok) { const e = new Error('영상 올리기 실패 - ' + why(r.status)); e.status = r.status; throw e; }
+    return 'https://raw.githubusercontent.com/' + REPO + '/' + branch + '/' + stamp + '/' + name;
+  }
+  const what = () => kind === 'reel' ? '릴스 영상 1개를' : cards.length + '장을';     // 확인 창 문구(조사까지)
+  async function clearMedia() {
+    if (kind === 'reel') await setVideo(null);
+    else { await S.clear(); await load(); }
+  }
 
   /* ── 글 ── */
   function initCaption() {
@@ -347,7 +486,7 @@
   $('fcText').addEventListener('input', () => { const v = $('fcText').value; fc.text[fc.kind] = v === fcTemplate(fc.kind, $('cap').value) ? null : v; if (fc.text[fc.kind] == null) delete fc.text[fc.kind]; keepFc(); fcShow(); buttons(); });
   $('fcTags').addEventListener('input', () => { fc.tags = $('fcTags').value; fcShow(); buttons(); });
   $('cap').addEventListener('input', () => { fcShow(); buttons(); });
-  document.querySelectorAll('input[name=ch]').forEach(x => x.addEventListener('change', () => { fcShow(); buttons(); }));
+  document.querySelectorAll('input[name=ch]').forEach(x => x.addEventListener('change', () => { fcShow(); if (video) vidShow(); buttons(); }));
 
   /* ── 열쇠 ── */
   function keyState() {
@@ -372,7 +511,8 @@
     const n = [...$('cap').value].length;
     const base = !busy && n > 0 && key() && channels().length
       && !(channels().includes('instagram') && n > LIMIT.instagram) && !fcProblem();
-    const ok = base && cards.length > 0 && !editing;
+    const have = kind === 'reel' ? !vidProblem() : cards.length > 0;
+    const ok = base && have && !editing;
     $('btnDry').disabled = $('btnGo').disabled = !ok;
     $('btnRsv').disabled = !(editing ? base : ok);   // 예약 고치기는 그림을 다시 안 올리므로 담은 카드가 없어도 된다
   }
@@ -524,7 +664,7 @@
     if (busy) return;
     const cap = $('cap').value.trim();
     const ch = channels();
-    if (!dry && !confirm(cards.length + '장을 ' + ch.join(', ') + ' 에 실제로 발행합니다.\n되돌릴 수 없습니다. 진행할까요?')) return;
+    if (!dry && !confirm(what() + ' ' + ch.join(', ') + ' 에 실제로 발행합니다.\n되돌릴 수 없습니다. 진행할까요?')) return;
     // 방금 같은 글을 보냈으면 한 번 더 묻는다 - 결과를 못 받은 채 다시 누르는 것이 중복 게시의 길이었다
     let last = null;
     try { last = JSON.parse(localStorage.getItem(LAST_KEY) || 'null'); } catch (e) { /* 무시 */ }
@@ -534,13 +674,13 @@
     let sent = false;
     const since = Date.now(), req = newReq();
     try {
-      log((dry ? '[점검만] ' : '') + '1) 그림을 공개 자리(깃허브 cards 브랜치)에 올립니다');
-      const urls = await upload();
+      log((dry ? '[점검만] ' : '') + '1) ' + (kind === 'reel' ? '영상' : '그림') + '을 공개 자리(깃허브 cards 브랜치)에 올립니다');
+      const media = kind === 'reel' ? { urls: [], video: await uploadVideo() } : { urls: await upload() };
       log('2) 발행 요청을 보냅니다');
       const r = await gh('/repos/' + REPO + '/dispatches', {
         method: 'POST',
         body: JSON.stringify({ event_type: 'publish-cards',
-          client_payload: { caption: cap, channels: ch, dry: !!dry, urls, source: 'phone', req, comment: fcPayload() } }),
+          client_payload: Object.assign({ caption: cap, channels: ch, dry: !!dry, source: 'phone', req, comment: fcPayload() }, media) }),
       });
       if (r.status !== 204) { const e = new Error('발행 요청이 거절됐습니다 - ' + why(r.status)); e.status = r.status; throw e; }
       sent = true;
@@ -571,8 +711,8 @@
         return;
       }
     }
-    if (ok && confirm('발행이 끝났습니다. 담은 카드를 비울까요?')) {
-      await S.clear(); await load();
+    if (ok && confirm('발행이 끝났습니다. ' + (kind === 'reel' ? '고른 영상을 뺄까요?' : '담은 카드를 비울까요?'))) {
+      await clearMedia();
       // 올린 글이 다음 게시물에 딸려 가지 않게(앱 12차에서 겪은 함정) 같이 비운다
       $('cap').value = ''; keepCap(); count(); fc.tags = null; fcShow();
     }
@@ -755,15 +895,15 @@
     if (ms < Date.now() + 5 * 60e3) { alert('예약은 지금부터 5분 뒤 이후로 잡을 수 있습니다.'); return; }
     if (ms > Date.now() + 30 * 864e5) { alert('예약은 30일 안까지만 잡을 수 있습니다(메타 열쇠가 60일마다 바뀝니다).'); return; }
     const when = kstIso(ms), ch = channels();
-    if (!confirm(cards.length + '장을 ' + kstShow(when) + ' (한국 시각)에 ' + ch.join(', ') + ' 로 발행하도록 예약합니다.\n시각이 되면 확인 없이 올라갑니다. 진행할까요?')) return;
+    if (!confirm(what() + ' ' + kstShow(when) + ' (한국 시각)에 ' + ch.join(', ') + ' 로 발행하도록 예약합니다.\n시각이 되면 확인 없이 올라갑니다. 진행할까요?')) return;
     const id = 'r' + when.slice(2, 16).replace(/\D/g, '') + Math.random().toString(36).slice(2, 6);
     busy = true; buttons(); clearLog();
     try {
-      log('1) 그림을 예약 자리(깃허브 reserved 브랜치)에 올립니다');
+      log('1) ' + (kind === 'reel' ? '영상' : '그림') + '을 예약 자리(깃허브 reserved 브랜치)에 올립니다');
       await ensureBranch();
-      const urls = await upload('rsv/' + id, RSV);
+      const media = kind === 'reel' ? { urls: [], video: await uploadVideo('rsv/' + id, RSV), kind: 'reel' } : { urls: await upload('rsv/' + id, RSV) };
       log('2) 예약 내용을 적습니다');
-      const post = { id, when, caption: $('cap').value.trim(), channels: ch, urls, comment: fcPayload(), state: '접수', made: kstIso(Date.now()) };
+      const post = Object.assign({ id, when, caption: $('cap').value.trim(), channels: ch }, media, { comment: fcPayload(), state: '접수', made: kstIso(Date.now()) });
       const r = await gh('/repos/' + REPO + '/contents/rsv/' + id + '/post.json', { method: 'PUT',
         body: JSON.stringify({ message: '예약 ' + id, content: b64u(JSON.stringify(post, null, 1)), branch: RSV }) });
       if (!r.ok) throw ghErr('예약 내용을 못 적었습니다', r);
@@ -773,8 +913,8 @@
       const end = await follow(since, 'reserve.yml', req);
       if (end === 'success') {
         log('✔ ' + kstShow(when) + ' 에 발행하도록 예약했습니다. 아래 5번 목록에서 취소할 수 있습니다.', 'ok');
-        if (confirm('예약했습니다. 담은 카드와 글을 비울까요?')) {
-          await S.clear(); await load(); $('cap').value = ''; keepCap(); count(); fc.tags = null; fcShow();
+        if (confirm('예약했습니다. ' + (kind === 'reel' ? '고른 영상과' : '담은 카드와') + ' 글을 비울까요?')) {
+          await clearMedia(); $('cap').value = ''; keepCap(); count(); fc.tags = null; fcShow();
         }
       } else if (end === 'unknown') {
         log('등록 결과를 아직 못 받았습니다. 잠시 뒤 5번 목록의 상태(대기)를 보세요. 다시 예약하지 마세요.');
@@ -906,7 +1046,7 @@
         head.append(b, st);
         const sub = document.createElement('div');
         sub.className = 'muted';
-        sub.textContent = (p.urls || []).length + '장 · ' + (p.channels || []).join(', ') + ' · ' + [...(p.caption || '')].slice(0, 40).join('') + '…'
+        sub.textContent = (p.video ? '릴스 영상' : (p.urls || []).length + '장') + ' · ' + (p.channels || []).join(', ') + ' · ' + [...(p.caption || '')].slice(0, 40).join('') + '…'
           + (p.why ? '\n' + p.why : '');
         sub.style.whiteSpace = 'pre-wrap';
         txt.append(head, sub);
@@ -947,6 +1087,7 @@
   if (!S) { log('이 화면은 폰판(홈페이지)에서만 씁니다.', 'bad'); return; }
   initCaption();
   fcShow();
+  vidShow();
   keyState();
   loadRsv();
   load().catch(e => log('담은 카드를 못 읽었습니다: ' + e.message, 'bad'));

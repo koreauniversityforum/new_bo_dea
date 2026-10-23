@@ -2,6 +2,7 @@
 """발행 - 구워 둔 카드를 인스타 · 페이스북 페이지 · 스레드에 올린다 (Actions 안에서).
 
     python publish.py --images 카드폴더 --caption 문구.txt --urls 주소.json [--dry]
+    python publish.py --video 영상.mp4 --video-url https://… --caption 문구.txt [--dry]   # 릴스
 
 앱의 「6. 공식 API 로 발행」과 같은 `meta_api` 함수를 부른다. 다른 점은 둘.
   ① 노트북이 아니라 워크플로 안에서 돈다.
@@ -60,7 +61,7 @@ def 그림모으기(폴더):
     return 파일들
 
 
-def 기록쓰기(날짜, 계정키, 결과, 문구, 장수):
+def 기록쓰기(날짜, 계정키, 결과, 문구, 장수, 영상=""):
     d = os.path.join(ROOT, "발행기록")
     os.makedirs(d, exist_ok=True)
     p = os.path.join(d, "%s.json" % 날짜)
@@ -75,6 +76,7 @@ def 기록쓰기(날짜, 계정키, 결과, 문구, 장수):
         "때": datetime.now(KST).isoformat(timespec="seconds"),
         "계정": 계정키,
         "장수": 장수,
+        **({"영상": 영상} if 영상 else {}),
         "문구": 문구,
         "결과": [dict({"창구": r.get("창구"), "ok": r.get("ok"),
                       "링크": r.get("링크", ""), "왜": r.get("왜", "")},
@@ -134,9 +136,90 @@ def 방금올린것(날짜, 문구, 장수, 분=30):
     return None
 
 
+def 영상발행(a, 문구, 인스타문구, 댓글, 키, 계정):
+    """릴스(영상) 한 개를 인스타 릴스 · 페이스북 페이지 영상 · 스레드 영상으로 올린다 (2026-10-24).
+
+    카드 길과 같은 규칙: 공개 주소는 이미 있다(reserved·cards 브랜치 raw), 한 창구가 죽어도
+    나머지는 간다, 점검(--dry)이면 영상 머리·주소 열림까지만 보고 메타에는 아무것도 안 보낸다.
+    """
+    로그 = lambda s: print(s, flush=True)                              # noqa: E731
+    창구 = [x.strip() for x in a.channels.split(",") if x.strip()]
+    창구 = [c for c in 창구 if (계정.get(c) or {})]
+    if not 창구:
+        print("‼ `%s` 에 연결된 창구가 없습니다." % 키)
+        return 1
+    if not a.video_url.startswith("https://"):
+        print("‼ 영상 주소는 https 공개 주소여야 합니다: %s" % a.video_url)
+        return 1
+    날짜 = a.date or datetime.now(KST).strftime("%Y-%m-%d")
+    if not a.dry:
+        옛 = 방금올린것(날짜, 문구, 0)
+        if 옛:
+            print("‼ 같은 글의 영상이 %s 에 이미 올라갔습니다 - 두 번 올리지 않습니다." % 옛["때"])
+            for r in 옛.get("결과") or []:
+                print("  %s %s %s" % ("✔" if r.get("ok") else "✘", r.get("창구"), r.get("링크") or r.get("왜", "")))
+            print("정말 또 올리려면 글을 조금 바꾸거나 30분 뒤에 보내세요.")
+            return 0
+
+    print("올릴 것: 릴스 영상 1개 / 창구 %s / 계정 %s%s"
+          % (", ".join(창구), 키, "  [점검만]" if a.dry else ""), flush=True)
+    if a.video:
+        if not os.path.isfile(a.video):
+            print("‼ 영상 파일이 없습니다: %s" % a.video)
+            return 1
+        정보 = M.영상정보(a.video)
+        print("영상: %s · %s초 · %s×%s · %.1f MB" % (정보["형식"], 정보["초"], 정보["너비"], 정보["높이"],
+                                                  정보["바이트"] / 1048576))
+        문제, 경고 = M.영상_점검(정보, 창구)
+        for s in 경고:
+            로그("  ⚠ " + s)
+        if 문제:
+            for s in 문제:
+                print("‼ " + s)
+            return 1
+    else:
+        로그("  ⚠ 영상 파일을 안 받아 형식·길이 점검을 건너뜁니다")
+    M._주소확인(a.video_url, 기다림=60, 로그=로그)
+    로그("  영상 주소 열림 확인: %s" % a.video_url)
+
+    스레드문구 = 문구 if len(문구) <= M.TH_최대글자 else 문구[:M.TH_최대글자 - 1] + "…"
+    일감 = [("instagram", lambda: M.인스타_릴스_올리기(계정, a.video_url, 인스타문구, 로그)),
+            ("facebook", lambda: M.페이스북_영상_올리기(계정, a.video_url, 문구, 로그)),
+            ("threads", lambda: M.스레드_영상_올리기(계정, a.video_url, 스레드문구, 로그))]
+    결과 = []
+    for 이름, 하기 in 일감:
+        if 이름 not in 창구:
+            continue
+        if a.dry:
+            결과.append({"창구": 이름, "ok": True, "시늉": True})
+            로그("  [점검만] %s 영상 - 실제로는 안 보냅니다" % 이름)
+            continue
+        try:
+            r = 하기()
+            r["ok"] = True
+            결과.append(r)
+            로그("  ✔ %s 올림 %s" % (r.get("창구", 이름), r.get("링크", "")))
+            if 이름 == "instagram" and (댓글.get("text") or 댓글.get("tags")):
+                r["댓글"] = 첫댓글(계정, r.get("id"), 인스타문구, 댓글, 로그)
+        except Exception as e:
+            결과.append({"창구": 이름, "ok": False, "왜": str(e)})
+            로그("  ✘ %s 실패: %s" % (이름, e))
+
+    if not a.dry:
+        p = 기록쓰기(날짜, 키, 결과, 문구, 0, 영상=a.video_url)
+        print("기록: %s" % os.path.relpath(p, ROOT))
+    print("──────── 마무리 ────────")
+    for r in 결과:
+        print("%s %-12s %s" % ("✔" if r.get("ok") else "✘", r.get("창구", ""),
+                               r.get("링크") or r.get("왜", "")))
+    return 1 if [r for r in 결과 if not r.get("ok")] else 0
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description="카드 발행 (Actions)")
-    ap.add_argument("--images", required=True, help="내려받아 둔 카드 폴더")
+    ap.add_argument("--images", default="", help="내려받아 둔 카드 폴더")
+    ap.add_argument("--video", default="", help="릴스: 내려받아 둔 영상 파일(머리 점검용)")
+    ap.add_argument("--video-url", default="", help="릴스: 영상의 공개 주소 - 주면 카드 대신 영상을 올린다")
     ap.add_argument("--caption", required=True, help="문구가 든 텍스트 파일")
     ap.add_argument("--urls", default="", help="카드의 공개 주소 목록 JSON(없으면 meta_api 가 직접 호스팅)")
     ap.add_argument("--account", default="")
@@ -169,6 +252,11 @@ def main(argv=None):
         print("‼ `%s` 계정이 설정에 없습니다. 있는 것: %s" % (키, ", ".join(계정들)))
         return 1
     계정 = M.계정가져오기(키, cfg)
+    if a.video_url:
+        return 영상발행(a, 문구, 인스타문구, 댓글, 키, 계정)
+    if not a.images:
+        print("‼ --images(카드 폴더)나 --video-url(영상 주소) 중 하나가 있어야 합니다.")
+        return 1
 
     파일들 = 그림모으기(a.images)
     주소들 = []

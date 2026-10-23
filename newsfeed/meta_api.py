@@ -35,6 +35,7 @@ import json
 import mimetypes
 import os
 import shutil
+import struct
 import subprocess
 import sys
 import time
@@ -691,7 +692,7 @@ def 호스팅만들기(설정, 임시폴더):
 
 
 # ────────────────────────────────────────────────── 인스타그램
-def _컨테이너_기다리기(컨테이너, 토큰, 로그=print, 최대=180):
+def _컨테이너_기다리기(컨테이너, 토큰, 로그=print, 최대=180, 무엇="그림"):
     """컨테이너가 다 익을 때까지 기다린다.
 
     만들자마자 발행하면 메타가 아직 그림을 안 읽어 와 실패한다. 상태가 `FINISHED` 가
@@ -704,8 +705,8 @@ def _컨테이너_기다리기(컨테이너, 토큰, 로그=print, 최대=180):
         if 상태 == "FINISHED":
             return True
         if 상태 in ("ERROR", "EXPIRED"):
-            raise MetaError("인스타가 그림을 못 받았습니다 (%s): %s"
-                            % (상태, r.get("status", "")))
+            raise MetaError("인스타가 %s을 못 받았습니다 (%s): %s"
+                            % (무엇, 상태, r.get("status", "")))
         로그("    익는 중… (%s)" % (상태 or "?"))
         time.sleep(5)
     raise MetaError("컨테이너가 %d초 안에 준비되지 않았습니다." % 최대)
@@ -867,6 +868,171 @@ def 스레드_올리기(계정, 주소들, 문구, 로그=print):
     try:
         링크 = _호출("GET", TH + "/" + 쓰레드, {"fields": "permalink"},
                     token=토큰).get("permalink", "")
+    except MetaError:
+        pass
+    return {"창구": "스레드", "id": 쓰레드, "링크": 링크}
+
+
+# ────────────────────────────────────────────────── 릴스(영상) - 2026-10-24
+# 사진 카드와 같은 길이다: 영상은 공개 주소(reserved·cards 브랜치 raw)에 두고, 인스타·스레드·
+# 페이스북 모두 그 주소를 메타가 직접 긁어 가게 한다(페이스북도 file_url 로 - 바이트를 안 올린다).
+# 🔴 인스타·스레드는 webm 을 안 받는다(MP4·MOV 만). 안드로이드 크롬의 화면 녹화는 webm 이
+#    흔하므로 올리기 전에 머리를 읽어 막는다.
+IG_릴스_최소초 = 3
+IG_릴스_최대초 = 15 * 60
+TH_영상_최대초 = 5 * 60
+영상_최대바이트 = 300 * 1024 * 1024       # 인스타 릴스 한도. 폰판은 깃허브 올리기 한도 때문에 더 작게 막는다
+
+
+def 영상정보(경로):
+    """MP4·MOV 머리(ftyp·moov)만 읽어 형식·길이·가로세로를 낸다. 표준 라이브러리만.
+
+    moov 가 파일 끝에 있어도(폰 녹화에 흔함) 상자 크기만 보고 건너뛰므로 통째로 읽지 않는다.
+    못 읽은 값은 None 이다 - 지어내지 않는다.
+    """
+    정보 = {"형식": "?", "초": None, "너비": None, "높이": None, "바이트": os.path.getsize(경로)}
+    with open(경로, "rb") as f:
+        머리 = f.read(12)
+        if 머리[:4] == b"\x1a\x45\xdf\xa3":
+            정보["형식"] = "webm"
+            return 정보
+        if 머리[4:8] != b"ftyp":
+            return 정보
+        정보["형식"] = "mov" if 머리[8:12] == b"qt  " else "mp4"
+
+        def 상자들(시작, 끝):
+            자리 = 시작
+            while 자리 + 8 <= 끝:
+                f.seek(자리)
+                h = f.read(8)
+                if len(h) < 8:
+                    return
+                크기, 종류 = struct.unpack(">I4s", h)
+                머리길이 = 8
+                if 크기 == 1:
+                    크기 = struct.unpack(">Q", f.read(8))[0]
+                    머리길이 = 16
+                elif 크기 == 0:
+                    크기 = 끝 - 자리
+                if 크기 < 머리길이:
+                    return
+                yield 종류, 자리 + 머리길이, 자리 + 크기
+                자리 += 크기
+
+        전체 = 정보["바이트"]
+        for 종류, a, b in 상자들(0, 전체):
+            if 종류 != b"moov":
+                continue
+            for 종류2, a2, b2 in 상자들(a, b):
+                if 종류2 == b"mvhd":
+                    f.seek(a2)
+                    판 = f.read(1)[0]
+                    f.seek(a2 + (20 if 판 == 1 else 12))
+                    if 판 == 1:
+                        눈금, 길이 = struct.unpack(">IQ", f.read(12))
+                    else:
+                        눈금, 길이 = struct.unpack(">II", f.read(8))
+                    if 눈금:
+                        정보["초"] = round(길이 / 눈금, 2)
+                elif 종류2 == b"trak" and 정보["너비"] is None:
+                    for 종류3, a3, b3 in 상자들(a2, b2):
+                        if 종류3 != b"tkhd":
+                            continue
+                        f.seek(a3)
+                        판 = f.read(1)[0]
+                        행렬 = a3 + (52 if 판 == 1 else 40)
+                        f.seek(행렬)
+                        ma, mb = struct.unpack(">ii", f.read(8))
+                        f.seek(행렬 + 36)
+                        w, h = struct.unpack(">II", f.read(8))
+                        w, h = w >> 16, h >> 16
+                        if w and h:
+                            if ma == 0 and mb != 0:          # 90도 돌려 찍은 폰 영상 - 보이는 대로 바꾼다
+                                w, h = h, w
+                            정보["너비"], 정보["높이"] = w, h
+            break
+    return 정보
+
+
+def 영상_점검(정보, 창구=("instagram", "facebook", "threads")):
+    """올리기 전에 막을 것(문제)과 알려만 줄 것(경고)을 나눠 돌려준다."""
+    문제, 경고 = [], []
+    if 정보.get("형식") == "webm":
+        문제.append("webm 영상입니다. 인스타·스레드는 MP4·MOV 만 받습니다 - MP4 로 다시 내보내 주세요.")
+    elif 정보.get("형식") not in ("mp4", "mov"):
+        문제.append("MP4·MOV 영상으로 읽히지 않습니다.")
+    if (정보.get("바이트") or 0) > 영상_최대바이트:
+        문제.append("영상이 %.0f MB 입니다(최대 %d MB)." % (정보["바이트"] / 1048576, 영상_최대바이트 // 1048576))
+    초 = 정보.get("초")
+    if 초 is None:
+        if 정보.get("형식") in ("mp4", "mov"):
+            경고.append("영상 길이를 읽지 못했습니다.")
+    else:
+        if "instagram" in 창구 and 초 < IG_릴스_최소초:
+            문제.append("영상이 %.1f초입니다. 릴스는 %d초 이상이어야 합니다." % (초, IG_릴스_최소초))
+        if "instagram" in 창구 and 초 > IG_릴스_최대초:
+            문제.append("영상이 %.0f초입니다. 릴스는 %d분까지입니다." % (초, IG_릴스_최대초 // 60))
+        if "threads" in 창구 and 초 > TH_영상_최대초:
+            문제.append("영상이 %.0f초입니다. 스레드는 %d분까지입니다." % (초, TH_영상_최대초 // 60))
+    w, h = 정보.get("너비"), 정보.get("높이")
+    if w and h and abs(w / h - 9 / 16) > 0.02:
+        경고.append("가로세로가 %d×%d 입니다. 릴스는 9:16 세로(1080×1920)가 화면을 꽉 채웁니다." % (w, h))
+    return 문제, 경고
+
+
+def 인스타_릴스_올리기(계정, 영상주소, 문구, 로그=print, 피드에도=True):
+    """REELS 컨테이너 → 다 익기(영상은 오래 걸린다) → media_publish."""
+    ig = 계정.get("instagram") or {}
+    if not ig.get("id") or not ig.get("token"):
+        raise MetaError("인스타 연결이 없습니다.")
+    if len(문구 or "") > IG_최대글자:
+        raise MetaError("인스타 글이 %d자입니다 (최대 %d자)." % (len(문구), IG_최대글자))
+    id_, 토큰 = ig["id"], ig["token"]
+    c = _호출("POST", "%s/%s/media" % (FB, id_),
+              {"media_type": "REELS", "video_url": 영상주소, "caption": 문구,
+               "share_to_feed": "true" if 피드에도 else "false"}, token=토큰)["id"]
+    로그("  인스타 릴스 영상을 메타가 받는 중(몇 분 걸릴 수 있음)")
+    _컨테이너_기다리기(c, 토큰, 로그, 최대=600, 무엇="영상")
+    r = _호출("POST", "%s/%s/media_publish" % (FB, id_), {"creation_id": c}, token=토큰)
+    미디어 = r.get("id", "")
+    링크 = ""
+    try:
+        링크 = _호출("GET", FB + "/" + 미디어, {"fields": "permalink"}, token=토큰).get("permalink", "")
+    except MetaError:
+        pass
+    return {"창구": "인스타그램", "id": 미디어, "링크": 링크}
+
+
+def 페이스북_영상_올리기(계정, 영상주소, 문구, 로그=print):
+    """페이지 영상 하나. 업로드 전용 주소(graph-video)에 file_url 로 맡긴다."""
+    fb = 계정.get("facebook") or {}
+    if not fb.get("page_id") or not fb.get("page_token"):
+        raise MetaError("페이스북 페이지 연결이 없습니다.")
+    페이지, 토큰 = fb["page_id"], fb["page_token"]
+    r = _호출("POST", "https://graph-video.facebook.com/%s/%s/videos" % (GRAPH, 페이지),
+              {"file_url": 영상주소, "description": 문구, "published": "true"}, token=토큰)
+    영상 = r.get("id", "")
+    return {"창구": "페이스북", "id": 영상,
+            "링크": "https://www.facebook.com/%s/videos/%s" % (페이지, 영상) if 영상 else ""}
+
+
+def 스레드_영상_올리기(계정, 영상주소, 문구, 로그=print):
+    th = 계정.get("threads") or {}
+    if not th.get("id") or not th.get("token"):
+        raise MetaError("스레드 연결이 없습니다.")
+    if len(문구 or "") > TH_최대글자:
+        raise MetaError("스레드 글이 %d자입니다 (최대 %d자)." % (len(문구), TH_최대글자))
+    id_, 토큰 = th["id"], th["token"]
+    c = _호출("POST", "%s/%s/threads" % (TH, id_),
+              {"media_type": "VIDEO", "video_url": 영상주소, "text": 문구}, token=토큰)["id"]
+    로그("  스레드 영상을 받는 중")
+    _스레드_기다리기(c, 토큰, 로그, 최대=300)
+    time.sleep(3)
+    r = _호출("POST", "%s/%s/threads_publish" % (TH, id_), {"creation_id": c}, token=토큰)
+    쓰레드 = r.get("id", "")
+    링크 = ""
+    try:
+        링크 = _호출("GET", TH + "/" + 쓰레드, {"fields": "permalink"}, token=토큰).get("permalink", "")
     except MetaError:
         pass
     return {"창구": "스레드", "id": 쓰레드, "링크": 링크}

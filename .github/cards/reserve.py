@@ -14,6 +14,7 @@
 
 ## 자리
 그림과 예약 내용은 `reserved` 브랜치의 `rsv/<id>/` 에 둔다(`01.jpg`… + `post.json`).
+릴스 예약(2026-10-24)은 그림 대신 `reel.mp4`(또는 .mov) 하나, post.json 의 `video` 에 그 공개 주소.
 🔴 `cards` 브랜치는 daily-cards 가 **날마다 통째로 갈아 끼우므로** 거기 두면 다음 날 아침
    예약 그림이 사라진다.
 워크플로가 이 브랜치를 `.reserved` 에 따로 꺼내 둔다(RSV_DIR).
@@ -245,12 +246,20 @@ def 발사():
         로그("──────── 예약 %s (%s) ────────" % (i, d["when"]))
         일 = os.path.join(ROOT, ".cards", i)
         try:
-            urls = [u for u in d.get("urls") or [] if isinstance(u, str) and u.startswith("https://")][:10]
-            if not urls:
-                raise RuntimeError("그림 주소가 없습니다")
-            내려받기(urls, os.path.join(일, "그림"))
-            with open(os.path.join(일, "주소.json"), "w", encoding="utf-8") as f:
-                json.dump({"cards": [{"url": u} for u in urls]}, f)
+            # 🆕 2026-10-24 릴스 예약: post.json 에 video(공개 주소)가 있으면 카드 대신 그 영상을 올린다
+            영상 = d.get("video") if isinstance(d.get("video"), str) and d["video"].startswith("https://") else ""
+            if 영상:
+                os.makedirs(일, exist_ok=True)
+                urllib.request.urlretrieve(영상, os.path.join(일, "영상.mp4"))
+                올릴것 = ["--video", os.path.join(일, "영상.mp4"), "--video-url", 영상]
+            else:
+                urls = [u for u in d.get("urls") or [] if isinstance(u, str) and u.startswith("https://")][:10]
+                if not urls:
+                    raise RuntimeError("그림 주소가 없습니다")
+                내려받기(urls, os.path.join(일, "그림"))
+                with open(os.path.join(일, "주소.json"), "w", encoding="utf-8") as f:
+                    json.dump({"cards": [{"url": u} for u in urls]}, f)
+                올릴것 = ["--images", os.path.join(일, "그림"), "--urls", os.path.join(일, "주소.json")]
             with open(os.path.join(일, "문구.txt"), "w", encoding="utf-8") as f:
                 f.write(d.get("caption") or "")
             댓글 = []
@@ -258,7 +267,7 @@ def 발사():
                 with open(os.path.join(일, "댓글.json"), "w", encoding="utf-8") as f:
                     json.dump(d["comment"], f, ensure_ascii=False)
                 댓글 = ["--comment", os.path.join(일, "댓글.json")]
-            code = publish.main(["--images", os.path.join(일, "그림"), "--urls", os.path.join(일, "주소.json"),
+            code = publish.main([*올릴것,
                                  "--caption", os.path.join(일, "문구.txt"), *댓글,
                                  "--channels", ",".join(d.get("channels") or []) or "instagram,facebook",
                                  "--date", datetime.now(KST).strftime("%Y-%m-%d")])
