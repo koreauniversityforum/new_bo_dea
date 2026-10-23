@@ -1,0 +1,29 @@
+name: 알림 메일 시험
+# 발행 없이 알림 메일 한 통만 보낸다. MAIL_USER·MAIL_APP_PW·MAIL_TO 를 넣거나 바꾼 뒤 확인용.
+# (시험 발행(dry)은 메일을 건너뛰므로 이 길이 따로 필요하다.)
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  mail:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 시험 메일 보내기
+        env:
+          MAIL_USER: ${{ secrets.MAIL_USER }}
+          MAIL_APP_PW: ${{ secrets.MAIL_APP_PW }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: |
+          printf '✔ 알림 메일 시험입니다. 실제 발행은 하지 않았습니다.\n' > 결과.txt
+          python .github/cards/notify.py --log 결과.txt --kind "메일 시험" --code 0
