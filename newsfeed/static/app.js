@@ -18,6 +18,9 @@ function defaults() {
   return {
     bg: { src: '', x: 0.5, y: 0.45, zoom: 1, bright: 100, contrast: 100, sat: 100 },
     overlay: { color: '#000000', strength: 88, start: 38, top: 22 },
+    // 🔴 중요 원칙 「사진·영상은 필터 없이」(2026-10-23): 사진 위 어두운 막·밝기/대비/채도 보정은 기본으로 끈다.
+    // 켜면(토글 또는 아래 슬라이더를 끌면) overlay·bg 값대로 입힌다. 사진이 없을 때 바탕 그라데이션은 디자인이라 그대로.
+    photoFilter: false,
     layers: {
       kicker: { ...base, y: 770, size: 44, weight: '500', opacity: 92, line: 130, space: -15, width: 80 },
       title: { ...base, y: 838, size: 84, weight: '700', font: 'Gmarket Sans', line: 122, space: -16, width: 88 },
@@ -348,7 +351,7 @@ function render() {
   if (bgImg) {
     const r = bgRect();
     ctx.save();
-    ctx.filter = `brightness(${S.bg.bright}%) contrast(${S.bg.contrast}%) saturate(${S.bg.sat}%)`;
+    ctx.filter = S.photoFilter ? `brightness(${S.bg.bright}%) contrast(${S.bg.contrast}%) saturate(${S.bg.sat}%)` : 'none';
     ctx.drawImage(bgImg, r.dx, r.dy, r.dw, r.dh);
     ctx.restore();
   } else {
@@ -362,14 +365,17 @@ function render() {
 
   const [r0, g0, b0] = hex2rgb(S.overlay.color);
   const a = S.overlay.strength / 100;
-  const gb = ctx.createLinearGradient(0, H * S.overlay.start / 100, 0, H);
-  gb.addColorStop(0, `rgba(${r0},${g0},${b0},0)`);
-  gb.addColorStop(0.45, `rgba(${r0},${g0},${b0},${(a * 0.45).toFixed(3)})`);
-  gb.addColorStop(1, `rgba(${r0},${g0},${b0},${a.toFixed(3)})`);
-  ctx.fillStyle = gb;
-  ctx.fillRect(0, 0, W, H);
+  const shade = !bgImg || S.photoFilter;     // 사진 위 어두운 막은 필터를 켰을 때만
+  if (shade) {
+    const gb = ctx.createLinearGradient(0, H * S.overlay.start / 100, 0, H);
+    gb.addColorStop(0, `rgba(${r0},${g0},${b0},0)`);
+    gb.addColorStop(0.45, `rgba(${r0},${g0},${b0},${(a * 0.45).toFixed(3)})`);
+    gb.addColorStop(1, `rgba(${r0},${g0},${b0},${a.toFixed(3)})`);
+    ctx.fillStyle = gb;
+    ctx.fillRect(0, 0, W, H);
+  }
 
-  if (S.overlay.top > 0) {
+  if (shade && S.overlay.top > 0) {
     const gt = ctx.createLinearGradient(0, 0, 0, H * 0.38);
     gt.addColorStop(0, `rgba(${r0},${g0},${b0},${(S.overlay.top / 100).toFixed(3)})`);
     gt.addColorStop(1, `rgba(${r0},${g0},${b0},0)`);
@@ -585,13 +591,21 @@ function bindRange(id, apply) {
   render();
 }));
 
-bindRange('ovStrength', v => S.overlay.strength = v);
-bindRange('ovStart', v => S.overlay.start = v);
-bindRange('ovTop', v => S.overlay.top = v);
-$('ovColor').addEventListener('input', () => { S.overlay.color = $('ovColor').value; render(); });
-bindRange('imgBright', v => S.bg.bright = v);
-bindRange('imgContrast', v => S.bg.contrast = v);
-bindRange('imgSat', v => S.bg.sat = v);
+// 사진 필터 토글. 슬라이더를 끌면 「쓰겠다」는 뜻으로 보고 토글도 같이 켠다.
+function setPhotoFilter(on) {
+  S.photoFilter = !!on;
+  $('photoFilter').checked = S.photoFilter;
+  $('photoFilterBox').classList.toggle('off', !S.photoFilter);
+}
+$('photoFilter').addEventListener('change', () => { setPhotoFilter($('photoFilter').checked); render(); });
+const withFilter = (fn) => (v) => { setPhotoFilter(true); fn(v); };
+bindRange('ovStrength', withFilter(v => S.overlay.strength = v));
+bindRange('ovStart', withFilter(v => S.overlay.start = v));
+bindRange('ovTop', withFilter(v => S.overlay.top = v));
+$('ovColor').addEventListener('input', () => { setPhotoFilter(true); S.overlay.color = $('ovColor').value; render(); });
+bindRange('imgBright', withFilter(v => S.bg.bright = v));
+bindRange('imgContrast', withFilter(v => S.bg.contrast = v));
+bindRange('imgSat', withFilter(v => S.bg.sat = v));
 $('btnFitCover').addEventListener('click', () => {
   S.bg.x = 0.5; S.bg.y = 0.45; S.bg.zoom = 1;
   S.bg.bright = S.bg.contrast = S.bg.sat = 100;
@@ -1763,6 +1777,7 @@ function saveLocal() {
 }
 
 function syncOverlayControls() {
+  setPhotoFilter(S.photoFilter);
   $('ovColor').value = S.overlay.color;
   $('ovStrength').value = S.overlay.strength;
   $('ovStart').value = S.overlay.start;
