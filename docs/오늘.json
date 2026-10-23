@@ -1,206 +1,306 @@
 {
- "date": "2026-10-22",
- "generated_at": "2026-10-22T10:07:34+09:00",
+ "date": "2026-10-23",
+ "generated_at": "2026-10-23T10:07:11+09:00",
  "mode": "daily",
- "window_start": "2026-10-21T00:00:00+09:00",
- "window_end": "2026-10-21T23:59:59+09:00",
+ "window_start": "2026-10-22T00:00:00+09:00",
+ "window_end": "2026-10-22T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "[단독] 한 달에 한두 번 출근, 회의도 불참 의혹…이동국, 용인FC '근무 태만' 논란",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000516723",
-   "published_at": "2026-10-21T06:00:06+09:00",
+   "title": "한동훈 \"李대통령, 자기가 왕으로 뽑힌 줄 착각\"",
+   "source": "시사저널",
+   "url": "https://n.news.naver.com/article/586/0000140625",
+   "published_at": "2026-10-22T15:20:08+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "축구 국가대표 출신 이동국 용인FC 테크니컬 디렉터가 구단에 거의 출근하지 않고 전력강화회의에도 제대로 참석하지 않는 등 근무에 소홀했다는 의혹이 제기됐습니다.…",
-   "summary_long": "축구 국가대표 출신 이동국 용인FC 테크니컬 디렉터가 구단에 거의 출근하지 않고 전력강화회의에도 제대로 참석하지 않는 등 근무에 소홀했다는 의혹이 제기됐습니다. 21일 국회 문화체육관광위원회 소속 김재원 조국혁신당 의원실이 용인FC에서 제출받은 자료에 따르면 이동국 디렉터의 연간 보수는 1억 4400만원입니다. 테크니컬 디렉터(Technical Director·기술이사)는 구단의 중장기 전략을 이끄는 '총책임자'로 올해부터 모든 프로구단은 테크니컬 디렉터를 의무적으로 두어야 합니다.\n\n용인FC가 제출한 직무 설명서에는 \"구단의 축구 철학부터 기술 발전, 선수 육성 시스템 운영을 총괄·관리한다\"고 쓰여 있습니다. 2025년 12월부터 2026년 10월까지 이동국 용인FC 테크니컬 디렉터의 용인미르스타디움 구단 사무실 출입 기록. 김재원 의원은 \"용인FC는 시민 세금이 투입되는 시민구단인 만큼 고액 보수를 받는 테크니컬 디렉터의 실제 업무 수행과 관리·감독이 적절했는지 반드시 확인해야 한다\"고 밝혔습니다.",
+   "summary": "이재명 대통령이 중수청에 대한 지휘·감독 포기를 '직무유기'라고 규정하자 한 의원은 대통령의 수사 지휘가 오히려 '탄핵 사유'라고 맞받은 것이다. 한 의원은 이날…",
+   "summary_long": "한동훈 무소속 의원은 22일 대통령이 중대범죄수사청(중수청)을 수사 지휘하면 탄핵 사유가 된다고 주장했다. 이재명 대통령이 중수청에 대한 지휘·감독 포기를 '직무유기'라고 규정하자 한 의원은 대통령의 수사 지휘가 오히려 '탄핵 사유'라고 맞받은 것이다. 한 의원은 이날 페이스북에 \"이 대통령이 '대통령이 중수청 지휘 안 하면 탄핵 사유'라고 했다\"며 \"정확히 반대\"라고 말했다.\n\n이어 \"이 대통령의 억지대로라면 수사 지휘 안 했던 역대 대통령들은 다 탄핵됐어야 하는가\"라며 \"이 대통령은 자기가 왕으로 뽑힌 거라 착각하는 것 같다\"고 비판했다. 그는 \"자기 범죄수사 막고 정적 공격하기 위해 중수청이든 공소청이든 경찰이든 '대통령이 수사 지휘하면 탄핵 사유'\"라고 직격했다. 이어 \"국정에 관한 대통령의 지휘·감독은 권한인 동시에 책임\"이라며 중수청 지휘·감독 포기는 \"직무유기로 형사처벌 받을 범죄\"라고 덧붙였다.",
    "quotes": [
-    "이 디렉터가 지난해 전력강화회의에 두 차례 참석했으며 프로선수 공개 테스트, 용인 시민의 날 행사, 여성 아마추어 풋살대회, 유소년 학부모 간담회 등에도 참석했다",
-    "테크니컬 디렉터가 꼭 필요한 상황은 아니었는데 억 단위 연봉을 주고 계약한 것은 이동국의 인지도를 활용해 창단 초기 '붐업'을 시키려는 욕심이 있었다",
-    "용인FC는 시민 세금이 투입되는 시민구단인 만큼 고액 보수를 받는 테크니컬 디렉터의 실제 업무 수행과 관리·감독이 적절했는지 반드시 확인해야 한다"
+    "헌법과 법률을 어기며 중수청은 지휘·감독하지 말라는 것인가. 지휘·감독을 공개회의에서 하지 말고 밀실에서 비공개로 하라는 것인가",
+    "공소청이든 기상청이든 소방청이든 모든 부·처·청은 대통령과 총리의 지휘·감독을 받는다는 것이 헌법과 정부조직법에 명시돼 있다",
+    "자기 범죄수사 막고 정적 공격하기 위해 중수청이든 공소청이든 경찰이든 '대통령이 수사 지휘하면 탄핵 사유'"
    ],
-   "press": "JTBC",
+   "press": "시사저널",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "이 디렉터가 지난해 전력강화회의에 두 차례 참석했으며 프로선수 공개 테스트, 용인 시민의 날 행사, 여성 아마추어 풋살대회, 유소년 학부모 간담회 등에도 참석했다",
-    "n": 3,
+    "quote": "헌법과 법률을 어기며 중수청은 지휘·감독하지 말라는 것인가. 지휘·감독을 공개회의에서 하지 말고 밀실에서 비공개로 하라는 것인가",
+    "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "JTBC",
-      "title": "[단독] 한 달에 한두 번 출근, 회의도 불참 의혹…이동국, 용인FC ‘근무 태만’ 논란",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Zd09FM1BpQml4VGU2dm5VZUhjQzVzQXJ1WnhTQzM3YUc3ZE5XejN6U0FZVkx6UzdKakVvbXp3cEtmaWgzVGFmZ1ZaMjJYMVVicnJpZQ?oc=5"
+      "press": "한겨레",
+      "title": "이 대통령 “중수청 지휘·감독 포기는 탄핵사유…공개회의 열외는 무논리”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oSE83TDdlSGdyblJocjdUWUttN1E0b2dBUVQ1YkpydDd6cWk1Y21TbGw1LV9zbUNOSGdJaTI5enI5T185X0JTTGdvcE5BMEFYNFFBRTA2MXk3WTVBNkR4U2ppdlV0Nk1pWDZ4U2ZhYkVQVTFt?oc=5"
      },
      {
-      "press": "위키트리",
-      "title": "억대 연봉 받는데… '근태' 논란 터진 한국 축구 레전드",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KZUx2ci1GaW5BZ1lUMjJtaDdyLXVMZUxDMUVzVi1kYTRfeHo4TWpnajVPZFROSXItYi1GTVJVbm5uQ25QdTZCTGNTbWNvYjVnQ1ZXZ29R?oc=5"
+      "press": "경기신문",
+      "title": "李 대통령 “중수청 지휘감독 포기는 위헌”…SNS서 연이틀 반박",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSR0dFSkpIa0VEX3NBeTk4N3ZBMlQ1M0hXQk10eXlpN2swTHZTSXB3NTV5ckdjVm5XdEpqVUpNNk9FdmxUenk4MVBWdTV5eUxweHp6NlpRMGJTYmlG?oc=5"
      },
      {
-      "press": "재경일보",
-      "title": "이동국 용인FC 근무 태만 논란…구단 '출입증 태그 기록일뿐' : 스포츠",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CWFF3N2pkeFFKS0lUS0tlcTFKUS1abEdiU2Z6MEJTTVdVNmJBcnFsNmhQZDViSnhyWkdFN25MYmNvbDlMNEtkNkZCcw?oc=5"
+      "press": "신아일보",
+      "title": "李대통령 \"중수청 지휘감독 포기는 탄핵사유\"…금기어까지 꺼냈다",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBidWhVZzRMc1Ruc2dzNXpKbzNVRGlMalpLQ1g5SGRfSFlaWnZlVGJOOGpNbzJDVkpTY0lUR1lRZDF0eGdjQmJNbXFwNXEwRi1KZnp4N3RZajJ5dDE0ZEtjQVozc3poYUdXQVFOcWdzRlU?oc=5"
+     },
+     {
+      "press": "채널A 뉴스",
+      "title": "이 대통령 “중수청 지휘감독 포기하는 건 탄핵 사유”",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50U096bDJJdlZEdFB2bU5FQTF6enMyZVRxTy0tYjA1TUE1Y2FnZFpkUFBKQm0tbFljb1hnb1ZLNzJPV3pfNVJ0QkJOUlE2eTdsX0MtdWh0dW5malc5dWVSQW56ONIBY0FVX3lxTE50U096bDJJdlZEdFB2bU5FQTF6enMyZVRxTy0tYjA1TUE1Y2FnZFpkUFBKQm0tbFljb1hnb1ZLNzJPV3pfNVJ0QkJOUlE2eTdsX0MtdWh0dW5malc5dWVSQW56OA?oc=5"
+     },
+     {
+      "press": "머니투데이",
+      "title": "李대통령 \"중수청에 대한 지휘감독 포기는 탄핵사유\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OQzg1ZEsxVDdueWlQSm1BdkYzZHZXVkI4RG52TEcyd3JfdlctdWNRb0s5b2pTYmpXWC0tSUVmSlhydTlCNG1ob1pVeHdLTXdxNGtVeXp1amNVdFVHUlgzTTFFOThQU0dxeUJBbNIBckFVX3lxTE1TUmNkMVRtbngwZEdRanhnMVA5MXZQQzB6QjFRY1hES0FLMTY4enlDdVQ1U211MDBoODA1dlpCU3dWNUhfSnItM3lDSXBDd3ppRUFLWVkzWDAtZGxGbUl5aUswelAxT3cxUkJ0cWU3ZmlfQQ?oc=5"
+     },
+     {
+      "press": "경북도민일보",
+      "title": "이 대통령 \"중수청 지휘·감독 포기는 탄핵 사유\"…국무회의 배석 반대론에 직격",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GamN0WUMzb3RFZDdvaHdxNnJ3Z3dLaXROdEQ5SWRxaHdhcGlTUzl4aTh3NFQtMzNMQ19KTHo2WHYwSDVneHA0UEttblFjeFdLVE1MV3cwRGRlaFFKal9aMVdxLVBrbTlLdHc?oc=5"
      }
     ]
    }
   },
   {
-   "title": "차기 대통령감? 한동훈 18.7%·김민석 13.8%·장동혁 13.7%",
-   "source": "TV조선",
-   "url": "https://n.news.naver.com/article/448/0000646013",
-   "published_at": "2026-10-21T06:41:08+09:00",
+   "title": "김정은 사망설 번지더니…북한서 포착된 '이상 징후'",
+   "source": "한국경제TV",
+   "url": "https://n.news.naver.com/article/215/0001270086",
+   "published_at": "2026-10-22T13:56:28+09:00",
    "section_id": "100",
-   "view_rank": 1,
+   "view_rank": 2,
    "selection": "정치",
-   "summary": "한동훈 무소속 의원, 김민석 더불어민주당 대표, 장동혁 국민의힘 대표 /연합뉴스차기 대통령 후보 적합도 조사에서 한동훈 무소속 의원이 18.7%를 기록했다는 여론조사…",
-   "summary_long": "한동훈 무소속 의원, 김민석 더불어민주당 대표, 장동혁 국민의힘 대표 /연합뉴스차기 대통령 후보 적합도 조사에서 한동훈 무소속 의원이 18.7%를 기록했다는 여론조사 결과가 나왔다. 스트레이트뉴스가 여론조사기관 조원씨앤아이에 의뢰해 지난 17일에서 19일 전국 만 18세 이상 남녀 2000명을 대상으로 차기 대통령 후보 적합도를 조사한 결과, 한동훈 의원이 18.7%로 가장 높았다. 김민석 더불어민주당 대표가 13.8%, 장동혁 국민의힘 대표가 13.7%, 오세훈 서울시장이 12.0%로 뒤를 이었다.\n\n이어 조국 조국혁신당 혁신정책연구원장 7.8%, 송영길 더불어민주당 의원 6.4%, 정청래 전 더불어민주당 대표 6.1%, 김부겸 전 국무총리 4.5%, 이준석 개혁신당 의원 1.6% 순이었다. 국민의힘 지지층(777명)에서는 장동혁 대표가 31.0%로 가장 높았고, 한동훈 의원 30.0%, 오세훈 시장 23.6% 순이었다. 전남·광주·전북에서는 김민석 대표 18.1%, 한동훈 의원 13.9%, 송영길 의원 11.2% 이었다.",
-   "press": "TV조선",
+   "summary": "김정은 북한 국무위원장의 사망설이 해외에서 확산한 가운데 북한 관영매체를 포함한 주요 웹사이트에서 대규모 접속 장애가 이어지고 있다. 접속 장애가 발생한 곳은 외무성…",
+   "summary_long": "북한 외무성·중앙통신 등 대규모 접속장애. 김정은 북한 국무위원장의 사망설이 해외에서 확산한 가운데 북한 관영매체를 포함한 주요 웹사이트에서 대규모 접속 장애가 이어지고 있다. 22일 통일부와 외신 등에 따르면 북한 노동당 기관지 노동신문과 조선중앙통신을 비롯한 주요 웹사이트들이 지난 20일부터 정상적으로 운영되지 않고 있다.\n\n접속 장애가 발생한 곳은 외무성, 조선중앙통신, 민주조선, 내나라 등 북한 국가 도메인 '.kp'를 사용하는 웹사이트 40여개다. 미국 북한 전문매체 NK뉴스는 21일(현지시간) 북한 주요 웹사이트 대부분이 하루 넘게 접속 불능 상태에 빠지면서 외부에서 북한 당국의 공식 정보를 확인하기 어려워졌다고 보도했다. 2022년에는 디도스 공격으로 북한 웹사이트에서 접속 장애가 발생했다.",
+   "press": "한국경제TV",
    "photo": "02.jpg"
   },
   {
-   "title": "\"앞집 때문에 한강 안 보여\"...이중근 부영 회장 항고 기각",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002421491",
-   "published_at": "2026-10-21T08:15:38+09:00",
+   "title": "이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다",
+   "source": "머니투데이",
+   "url": "https://n.news.naver.com/article/008/0005429871",
+   "published_at": "2026-10-22T05:00:00+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "prep_error": "The read operation timed out"
+   "summary": "서울 송파구 장모 살인사건 피의자 김성우의 아내가 결혼 전부터 상습 폭행에 시달렸으며, 혼인신고도 김성우의 강요에 의해 이뤄졌다고 주장했다. /사진=JTBC…",
+   "summary_long": "서울 송파구 장모 살인사건 피의자 김성우(26)의 아내가 결혼 전부터 상습 폭행에 시달렸으며, 혼인신고도 김성우의 강요에 의해 이뤄졌다고 주장했다. 21일 JTBC '사건반장'에 따르면 김성우와 아내 A씨는 지난해 4월 처음 만나 교제를 시작했다. A씨는 김성우가 자신의 자취방에 들어와 함께 살면서부터 폭행이 시작됐다고 밝혔다.\n\n김성우는 \"헤어졌는데 넌 왜 행복하게 지내냐\", \"너 죽고 나 죽자\"며 A씨의 목을 졸랐다. 뒤늦게 어머니에게 사정을 알리고 친정으로 피신했지만, 김성우가 흥신소를 이용해 집 주소를 알아내면서 결국 범행에 노출됐다./사진=JTBC '사건반장'결국 A씨는 8월 집을 나와 김성우를 가정폭력으로 신고했고, 혼인무효 소송도 제기했다. A씨는 김성우가 가족과 지인들의 연락처와 주소를 알고 있어 그동안 주변에 도움을 요청하지 못했다고 털어놨다.",
+   "quotes": [
+    "헤어졌는데 넌 왜 행복하게 지내냐",
+    "너가 나를 나쁜 놈으로 만든다"
+   ],
+   "press": "머니투데이",
+   "photo": "03.jpg",
+   "quoted": {
+    "quote": "헤어졌는데 넌 왜 행복하게 지내냐",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "머니투데이",
+      "title": "이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcURQeVFBMTQ4d1pxRWhJbDdpZHJCdC1jaXM5MElBN3lPUHAtWG1FOFVCM1BBRHMtMnUxaFdkOE13dmZmMllQeF9ieHZoWUtoSzM3a2lVNnNGR2ZkWk56aks2YzZlMThXdDVMaGE2dVjSAXBBVV95cUxQZHFEUHlRQTE0OHdacUVoSWw3aWRyQnQtY2lzOTBJQTd5T1BwLVhtRThVQjNQQURzLTJ1MWhXZDhNd3ZmZjJZUHhfYnh2aFlLaEszN2tpVTZzRkdmZFpOempLNmM2ZTE4V3Q1TGhhNnVY?oc=5"
+     },
+     {
+      "press": "한국경제",
+      "title": "\"울면서 혼인신고서 썼다\"…'장모 살인' 김성우 아내의 고백",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxNkNwQjlGc2xjSHA2NUVZLUtncVRpdDVNb01HZ0Q2VEdKWVNKYkx2b0hDWGU4LWM3dDd0ZFRZLUlUWlhXUVhINU5MS251bzN6N3NsZ211aU5odw?oc=5"
+     },
+     {
+      "press": "헤럴드경제",
+      "title": "송파구 ‘장모 살해범’ 김성우…이별 통보하자 손발 묶고 강간, 혼인신고도 강요",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15WmlrbTVWN3V1Yi1jMUx6SlVKVTNqV29Vbl9CeVlaOWUtQzQ5SkIyWXR2WHp3UVhiaXFUX1pvYlZSZGY1NjVNTzhrZ2c3c0d2UGhNRnhiOA?oc=5"
+     },
+     {
+      "press": "세계뉴스통신",
+      "title": "'송파 장모 살해' 김성우 아내 “결혼 전부터 상습 폭행…혼인신고도 강요”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBya3hkb0NZOENIdlRJNHR6cUpyaThUNlF2ZEpKOFpRZUJNZU50X2p4VmlSZnNLVWVOSWhRN2F6WXg2U0VLOTlRWDVad183bC1Ob3h4NE1OeEVPTF80QmJnV3pJd1lfRjJOUHV2MVFkMlJWaENp?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "\"사기당했다\"던 역삼 방화범…운동기구 디자인 국내외 정상등록(종합)",
-   "source": "연합뉴스",
-   "url": "https://n.news.naver.com/article/001/0016391454",
-   "published_at": "2026-10-21T13:53:14+09:00",
-   "section_id": "102",
+   "title": "한화시스템, 한화오션으로 2.3조 벌고도 불안한 이유",
+   "source": "비즈워치",
+   "url": "https://n.news.naver.com/article/648/0000051825",
+   "published_at": "2026-10-22T06:50:14+09:00",
+   "section_id": "101",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "한지은 전재훈 = 서울 강남구 역삼동에서 연쇄 방화를 저지른 70대 A씨의 운동기구 디자인 두 건이 국내뿐 아니라 미국·브라질 등 해외에서도 본인 명의로 등록된 사실이…",
-   "summary_long": "20일 서울 강남구 역삼동 소재 건물 두 곳에서 연달아 방화한 혐의를 받는 70대 남성 A씨가 서울 수서경찰서로 압송되며 취재진에게 문건을 펼치고 있다. 한지은 전재훈 = 서울 강남구 역삼동에서 연쇄 방화를 저지른 70대 A씨의 운동기구 디자인 두 건이 국내뿐 아니라 미국·브라질 등 해외에서도 본인 명의로 등록된 사실이 확인됐다. A씨는 불을 지른 두 건물에 입주한 특허법인 측이 \"사기를 쳤다\"고 주장했지만, 국내외 등록공보에는 A씨가 디자인을 만든 사람과 권리를 가진 사람으로 기재돼 있었다.\n\n21일 연합뉴스가 입수한 특허청 등록디자인공보에 따르면 A씨는 2019년 '근력운동기구', 2020년 '운동기구' 디자인을 각각 특허청에 등록했다. 미국 특허상표청 공보를 확인해보니 '근력운동기구'에 해당하는 디자인은 2021년 7월 20일, '운동기구' 디자인은 2022년 2월 8일 각각 등록됐다. 해외 공보에 기재된 출원인·창작자 정보와 한국 출원번호 등을 대조한 결과 국내에 등록된 두 디자인과 같은 것으로 확인됐다.",
+   "summary": "한화시스템, 올 한화오션 지분 11% 3조 처분. PRS 계약 따라 한화오션 주가 기준 정산.",
+   "summary_long": "한화시스템, 올 한화오션 지분 11% 3조 처분. PRS 계약 따라 한화오션 주가 기준 정산. 한화오션 주가 하락으로 손실 가능성 커져한화시스템이 최근 한화오션 지분 전량을 처분하면서 4년 만에 4.5배가 넘는 투자 수익을 거둔 것으로 분석된다.\n\n하지만 향후 한화오션 주가가 떨어지게 되면 파생상품계약에 따라 대규모 손실도 발생할 수 있는 상황이다. 한화시스템은 지난 19일 보유중인 한화오션 2216만9660주(7.24%) 전량을 1조3834억원에 주가수익스왑(PRS) 방식으로 처분했다. 지난 21일 한화오션 주가 5만9400원 기준으로 보면 한화시스템은 대규모 손실이 발생할 수 있다는 얘기다.",
    "quotes": [
-    "원통형 봉 위에서 균형을 잡으며 선 상태에서 좌측 또는 우측으로 360도 회전하면서 신체의 작은 근육을 자극해 근력을 향상하는 운동기구",
-    "디자인을 등록하는 것과 실제로 제품을 만들어 판매하는 것은 별개의 문제",
-    "특허나 디자인권을 갖고 있다고 해서 돈을 벌 수 있다는 뜻은 아니다"
+    "1차 PRS 계약은 기초자산(한화오션)의 상당 부분이 이미 매각·정산돼 최근 한화오션 주가 하락에 따른 영향은 제한적인 것",
+    "정산 시점의 주가가 각 계약의 기준가격을 하회할 경우 추가적인 현금부담이 발생하게 된다"
    ],
-   "press": "연합뉴스",
+   "press": "비즈워치",
    "photo": "04.jpg",
    "quoted": {
-    "quote": "원통형 봉 위에서 균형을 잡으며 선 상태에서 좌측 또는 우측으로 360도 회전하면서 신체의 작은 근육을 자극해 근력을 향상하는 운동기구",
+    "quote": "정산 시점의 주가가 각 계약의 기준가격을 하회할 경우 추가적인 현금부담이 발생하게 된다",
+    "n": 5,
+    "verified": 0,
+    "items": [
+     {
+      "press": "비즈워치",
+      "title": "한화시스템, 한화오션으로 2.3조 벌고도 불안한 이유",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SaXp1YldyeS03YUNQMlU5WERLX1pWRkdlc00yN1QyM1hSRW5XT1BQdy1VMkdmYXpFd1dhelM2U2JsQXZ0ZjdpWUZJTUV2UFFDeVhLMjQzZTNIbUtaZkdsaS0wLXk5SGpOb3JPRA?oc=5"
+     },
+     {
+      "press": "한국신용신문",
+      "title": "계열사 지분 털고 3조 원 쥔 한화시스템, 주가 하락 ‘부메랑’ 주의보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mcDUwM295X3FnS2ViX2Q1XzRfVzJmN3RYVUF6c05iLWJpd1huaThZd2pXcG1oTktMSmVCRHBKdlB2RW9BWlpZNElKNWFYWmlBQVJqTl9qeDBxaU5LMG1OV0ZBeXhCcEhUS2ZF?oc=5"
+     },
+     {
+      "press": "에너지경제신문",
+      "title": "한화시스템, 조선 팔아 3.4조 쥐었지만… 부채비율은 189%로, 열쇠는 한화오션 주가",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JWXQzT0VxZ2RtdlA2dm9wVXZ3MUs1V041eVRRSHZlR1B0MlRyTnVqbndGLTk5YWZtcnhVSHI2eGRCYVR4N0ZkbUtKNG9URnlFTy1lamVkVDRzZ2pqRXFTX29n?oc=5"
+     },
+     {
+      "press": "SBS Biz",
+      "title": "조선 지분 털어낸 한화시스템…PRS 현금유출 주시",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sTDRUMG02VFpuTUR3Q2Z5MndWS1ZzaEI2SC1FcXVHQ2t1V2RacURUS0w2bF9UWDBQemItQTRPRnJNeEo0cWhYY0tZWWYwRkNsb2d5RWxKbVnSAVhBVV95cUxPbEw0VDBtNlRabk1Ed0NmeTJ3VktWc2hCNkgtRXF1R0NrdVdkWnFEVEtMNmxfVFgwUHpiLUE0T0ZyTXhKNHFoWGNLWVlmMEZDbG9neUVsSm1Z?oc=5"
+     },
+     {
+      "press": "FETV",
+      "title": "키움증권, IB실적 단비된 '대형 PRS딜' 주관…남은 과제는",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14cFRoZWVUc2hwY3VOWDdVLWhKQTd2WWhhdGI0RDZiNmotQ0ZxZmwwYzNTWmRhRTR1cmJRdVVVZHJ0ak1fY3kzeDM0cVhITE5KU2diZm10bXVudmZmc2EwcjUxVDlUeHlK?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "이준석·한동훈, 李 AI 활용 글에 \"대통령 제미나이로 바꾸자\", \"억지 부리지 말고 정신 차려야\"",
+   "source": "파이낸셜뉴스",
+   "url": "https://n.news.naver.com/article/014/0005592887",
+   "published_at": "2026-10-22T09:49:14+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 117,
+   "comment_agree": 72,
+   "comment_disagree": 15,
+   "division_balance": 0.344828,
+   "division_score": 1.543909,
+   "selection": "찬반 쟁점",
+   "summary": "이재명 대통령이 중대범죄수사청장과 공소청장의 국무회의 배석 논란에 생성형 인공지능 제미나이의 답변을 인용해 반박하자 야권의 비판이 쏟아졌다. 개혁신당 이준석 의원은…",
+   "summary_long": "이재명 대통령이 중대범죄수사청장과 공소청장의 국무회의 배석 논란에 생성형 인공지능(AI) 제미나이의 답변을 인용해 반박하자 야권의 비판이 쏟아졌다. 개혁신당 이준석 의원은 21일 페이스북에 \"대통령이 통치의 근거로 제미나이를 들기 시작했다\"며 \"심지어 몇 달 전에는 제미나이가 가끔 엉뚱한 답한다고 핀잔을 주던 사람\"이라고 적었다. 그러면서 \"대통령이 제미나이한테 물어봐서 통치할 거면 그냥 대통령을 제미나이로 바꾸면 되지 않나\"라며 \"사법리스크도 없어, 전과도 없어, 욕도 안 해, 근저당도 안 잡아 모든 게 상위호환\"이라고 비꼬았다.\n\n국민의힘 나경원 의원 역시 페이스북을 통해 \"편향된 질문으로 편향된 답변을 제미나이에서 받아놓고, 그걸 엑스(X)에 올리는 대통령의 처참한 수준\"이라며 \"국정운영을 이런 방식으로 해온 건가\"라고 비판했다. 이어 \"대통령이 헌법과 법률이 아닌, 제미나이에 물어 국정을 판단한다\"며 \"기가 막힌다\"고 덧붙였다. 이 대통령의 일반적인 행정감독권을 근거로 두 기관장의 국무회의 배석을 정당화할 경우, 수사·기소기관의 준사법적 성격과 정치적 중립성이 훼손될 우려가 있다는 내용이 담겼다.",
+   "quotes": [
+    "편향된 질문으로 편향된 답변을 제미나이에서 받아놓고, 그걸 엑스(X)에 올리는 대통령의 처참한 수준",
+    "대통령이란 사람이 시작부터 중수청을 '하수청'으로, 공소청을 '공작청'으로 만들고 있다",
+    "대통령이 제미나이한테 물어봐서 통치할 거면 그냥 대통령을 제미나이로 바꾸면 되지 않나"
+   ],
+   "press": "파이낸셜뉴스",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "편향된 질문으로 편향된 답변을 제미나이에서 받아놓고, 그걸 엑스(X)에 올리는 대통령의 처참한 수준",
     "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "연합뉴스",
-      "title": "\"사기당했다\"던 역삼 방화범…운동기구 디자인 국내외 정상등록(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yYTdjTEs4Y3hiVlNrQ3I0S1Z6WVpkNUlTZFM3UWp3R0RNSUw4eFJqUGs3N2FNNmF1T090NmpoeDJiM0lSbnN3N2Jodm5tTE1tSkFpYkhMNndoR3BMTGFjONIBYEFVX3lxTE1yYTdjTEs4Y3hiVlNrQ3I0S1Z6WVpkNUlTZFM3UWp3R0RNSUw4eFJqUGs3N2FNNmF1T090NmpoeDJiM0lSbnN3N2Jodm5tTE1tSkFpYkhMNndoR3BMTGFjOA?oc=5"
+      "press": "아주경제",
+      "title": "野, 李 중수청장 국무회의 배석 불가는 억지 제미나이 답변에 맹공",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaSnk3VkNzOVBZRHNhOWE5MGpwWTJIb0lZZmU5aWxSRnlmZVMxU1dvSmE1NUE5ZjRJc05XYVVkaDJKaDdaNkloeWo1YW1aQ0hONG1FMkFfcXHSAVhBVV95cUxQWkp5N1ZDczlQWURzYTlhOTBqcFkySG9JWWZlOWlsUkZ5ZmVTMVNXb0phNTVBOWY0SXNOV2FVZGgySmg3WjZJaHlqNWFtWkNITjRtRTJBX3Fx?oc=5"
      },
      {
-      "press": "한겨레",
-      "title": "강남 연쇄 방화범, 특허 디자인은 ‘근력운동기구’…피해 사무소서 등록",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8taVFBWVQ2dGNkbkM1dU1JZVdLZkZWTUg1UXdNWjd0ZUxMMXdFYXBHQlhfdFVobDZ5TkhIcWZvemZXSHdkSWtBa3F2NVlUeVdVQW1JVGx3ZDBxM205S1g2eTZic0NzeU55ZWp5RXc3X09QZw?oc=5"
+      "press": "파이낸셜뉴스",
+      "title": "이준석·한동훈, 李 AI 활용 글에 \"대통령 제미나이로 바꾸자\", \"억지 부리지 말고 정신 차려야\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81SDVGX3o4MFZvUjk3LUMtS2hzYzhUdVpZakdWZjlXY1VuMXRqYmhLdVNGa1lvNXRzSmJPdHNMOE1BZHNmdWpPOVFoalgycW5mMG00a0hhWVQxZw?oc=5"
      },
      {
-      "press": "SBS",
-      "title": "집에 걸어놓고 집착…\"사기당했다\" 역삼 방화범 알고 보니",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UMmNoWXFQWDlpSXVDb2RSZndyeTl4bkMtVDBsTWFjLUJoZTNuZlQwMVBnSzBXQlJ5bE95ZU1memxVTmhCZy13R0xHdHRCSFNKWHNNTzl2eHFPYW1qdDY0eUFNVjY4Zw?oc=5"
+      "press": "재경일보",
+      "title": "이재명 대통령 AI 답변 인용에 야권 국정운영 가벼워 맹공 : 정치",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82VUpGX2xGck9ITEdyQXFla1l3ZG92Vkc5eV9JRk9VSzc5TDNscl9pM3JYc3V3T3Z1cHh5YXlpaUVXQk1IdTUyYXN6NA?oc=5"
      }
     ]
    }
   },
   {
-   "title": "김건희 마이크 건네자 런닝셔츠 차림 尹도 열창…부부 듀엣 영상 공개",
-   "source": "매일경제",
-   "url": "https://n.news.naver.com/article/009/0005751743",
-   "published_at": "2026-10-21T13:50:14+09:00",
+   "title": "\"국감장에 끝까지\"…'개근' 장동혁, 평의원처럼 질의만 24차례",
+   "source": "뉴스1",
+   "url": "https://n.news.naver.com/article/421/0009242779",
+   "published_at": "2026-10-22T06:00:00+09:00",
    "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 233,
-   "comment_agree": 201,
-   "comment_disagree": 65,
-   "division_balance": 0.488722,
-   "division_score": 2.73061,
+   "view_rank": 3,
+   "comment_count": 197,
+   "comment_agree": 130,
+   "comment_disagree": 17,
+   "division_balance": 0.231293,
+   "division_score": 1.155818,
    "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "李, '국민 속였다' 유시민 \"처벌 원치 않아\"‥수사 종결 수순",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001530446",
-   "published_at": "2026-10-21T13:05:06+09:00",
-   "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 924,
-   "comment_agree": 249,
-   "comment_disagree": 67,
-   "division_balance": 0.424051,
-   "division_score": 2.442066,
-   "selection": "찬반 쟁점",
-   "summary": "이재명 대통령이 정부의 검찰 개혁을 비판했다가 명예훼손 혐의로 고발된 유시민 작가에 대해 \"처벌을 원치 않는다\"는 뜻을 밝힌 것으로 확인됐습니다. 청와대 관계자는 오늘…",
-   "summary_long": "이재명 대통령이 정부의 검찰 개혁을 비판했다가 명예훼손 혐의로 고발된 유시민 작가에 대해 \"처벌을 원치 않는다\"는 뜻을 밝힌 것으로 확인됐습니다. 청와대 관계자는 오늘 \"이 대통령이 유 작가의 명예훼손 수사와 관련해 처벌을 원치 않는다는 의사를 어제 밝혔다\"고 전했습니다. 앞서 유 작가는 지난달 22일 미디어오늘 유튜브 채널에 출연해 \"이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁과 더불어민주당의 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다\"며 \"대통령이 지금까지 국민을 속였다\"고 주장했습니다.\n\n이에 한 시민단체 관계자는 유 작가를 정보통신망법상 허위사실 적시 명예훼손 혐의로 고발했으며, 지난 19일 서울경찰청에 고발인 신분으로 출석해 조사를 받은 것으로 알려졌습니다. 이 대통령의 처벌 불원 의사는 청와대 민정수석실을 통해 수사를 맡은 서울경찰청에 전달될 예정입니다. 경찰은 이 대통령의 의사가 전달되면 반의사불벌죄 조항에 따라 유 작가에 대한 수사를 종결할 것으로 보입니다.",
+   "summary": "지난해에는 국감 첫날 인사만 하고 자리를 비웠는데, 올해는 지방감사까지 내려가 평의원처럼 국감 질의를 이어가고 있다. 이 단체는 2023년 국감 평가에서 당시 김기현…",
+   "summary_long": "지난해에는 국감 첫날 인사만 하고 자리를 비웠는데, 올해는 지방감사까지 내려가 평의원처럼 국감 질의를 이어가고 있다. 통상 당대표는 상임위 국감에 얼굴만 비치고 마는 경우가 많은데, 장 대표의 개근은 자신의 교육 분야 전문성을 부각하는 동시에 당 전체에 이번 국감의 무게를 직접 보여주기 위한 행보로 풀이된다. 22일 국회 회의록 등에 따르면 장 대표는 지난 7일 교육부를 시작으로 12일·14일·16일 국회 감사와 20~21일 지방감사에 모두 출석했다.\n\n이 단체는 2023년 국감 평가에서 당시 김기현 국민의힘 대표를 두고 \"질의는 한 번도 없었다\"고 했고, 이재명 민주당 대표를 두고는 \"재판 때문에 국감 후반 국방위의 해군본부부터 2일 참여했다\"고 지적했다. 장 대표 역시 산업통상자원중소벤처기업위원회 소속이던 지난해에는 국감 첫날 \"국정감사 기간인데 그럼에도 불구하고 자주 자리에 있지 못할 것 같아서 죄송하다\"고 인사한 뒤 자리를 떴고 다시 돌아오지 않았다. 당시 단체는 장 대표를 두고 \"10월 13일 산업위의 산업부 국정감사에 출석했으나 질의는 없었고 이후 국정감사장 출석은 없었다\"고 평가했다.",
    "quotes": [
-    "이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁과 더불어민주당의 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다",
-    "이 대통령이 유 작가의 명예훼손 수사와 관련해 처벌을 원치 않는다는 의사를 어제 밝혔다",
-    "대통령이 지금까지 국민을 속였다"
+    "국감 전에 장 대표가 사관학교와 군 부대, 농지 전수조사 현장 등을 다니며 국감에서 다룰 분야별 의제를 키우는 데 공을 들였고, 수시 원서접수 문제로 긴급 토론회를 연 것도 결국 국감에서 키우려던 것",
+    "그 정책을 문제 삼으려고 했는데, 공교롭게도 우리 당 장 대표가 저랑 같이 교육위인데 그 정책을 옹호하는 듯한 발언을 해서 제가 질의는 하지 않았다",
+    "올해는 당무가 어느 정도 안정이 된 데다가 당 운영 기조도 국정감사와 예산 심사를 중심으로 한 원내에서 강하게 투쟁하는 대안이 있는 야당"
    ],
-   "press": "MBC",
+   "press": "뉴스1",
    "photo": "06.jpg",
    "quoted": {
-    "quote": "이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁과 더불어민주당의 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다",
-    "n": 7,
+    "quote": "그 정책을 문제 삼으려고 했는데, 공교롭게도 우리 당 장 대표가 저랑 같이 교육위인데 그 정책을 옹호하는 듯한 발언을 해서 제가 질의는 하지 않았다",
+    "n": 5,
     "verified": 0,
     "items": [
      {
-      "press": "연합뉴스TV",
-      "title": "이 대통령, ’국민 속였다’ 발언 유시민 처벌 불원",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xM0ltQ2lENVpOWV9tUWZERWExdU1mQ25PRHZ2Nm5HeFU2c0RIVktrTkoycm5iWFBNeU80bGwtTl9zWmlwWFVnRjdubklBSkxyZzF4Z1FfeFNObHBKYnJRNGp0OG0xRzg?oc=5"
+      "press": "뉴스1",
+      "title": "\"국감장에 끝까지\"…'개근' 장동혁, 평의원처럼 질의만 24차례",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sQkEyU2Z3Ulg1eWZoc25HZXd3TnFlNVl3VlBvdUdzdXZ4QlFIbV9RcHVpWktadXQ2Mk5ZaXdwTXBOdlhaUTd0LWhwXzdZY2YxNWpTaXUtUDhYdw?oc=5"
      },
      {
-      "press": "대구MBC",
-      "title": "이재명 대통령 \"'정부의 검찰 개혁 비판' 유시민 처벌 원치 않아\"···수사 종결될 듯",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UOE5jZVJNcm1MdVE4Vy1vNUZqaUdQVFQ2WEl1WERLNkh2QnMwckxQZXBtYldDaDlvdDVXdjVTMUE1ZDhsVzZlZkt3OTA?oc=5"
+      "press": "주간경향",
+      "title": "친한계 박정훈 “장동혁, 판사 시절 민주당 쪽 출마하려 했었다”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtZy16aXVjSDBrZjNnMUFFcTNjYmtfTnFZWVI2X0hZeTVtbTZ1bmFvNEJnNnE5RTNjUHZDR2hCN2d5eGNCb09FZVpLbEIyN0JETGxKelROaWFZMXVEcXc?oc=5"
      },
      {
-      "press": "MBC 뉴스",
-      "title": "李, '국민 속였다' 유시민 \"처벌 원치 않아\"‥수사 종결 수순",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xRU9qcFlFekEtNUh3dVNxNG1xZlJKV2hhUU55U01IUy1PdkNmdXlWSm05WHg5VXUxRllFREI1X3NDX01nbHRzZEhYYnptSHJTaVRvQmMxN0NEaVRIaVZHTEs0cHoxNXpTdHV3SzBPeU9FWXgyUmdnNtIBeEFVX3lxTE9xRU9qcFlFekEtNUh3dVNxNG1xZlJKV2hhUU55U01IUy1PdkNmdXlWSm05WHg5VXUxRllFREI1X3NDX01nbHRzZEhYYnptSHJTaVRvQmMxN0NEaVRIaVZHTEs0cHoxNXpTdHV3SzBPeU9FWXgyUmdnNg?oc=5"
+      "press": "프레시안",
+      "title": "친한계 \"장동혁, 판사 시절 민주당 쪽으로 출마하려 했었다\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWMDB3NXJJQ1ZkNW9Kc2lhZ1k3Zk5faFYtZ3UyRGlsbXB2b1JxZUt0bFJmNjZ0MTFISzRGaWwwbThQUVZ1V3FZWHRYUkVnZ01uaTZwLTlPRWx6Nnh6R1diWHpITmNrNEZaU1Jj?oc=5"
      },
      {
-      "press": "미디어오늘",
-      "title": "“국민 속인 것” 유시민에 이 대통령 “처벌 원치 않아”",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsaWMycVRsR3FETDF0MDYzTVpKVHVsM0lHWF9PbmdTbmp2LWJ5c0Q3VWdHX3dnbVVzZThtaE9WLU84LV9jNUFpdTRTMjRtYVQ5UEdBRUpHMzlSWkRRdGxpMnptcldRMHJqN2ZQSEdsLXU?oc=5"
+      "press": "중앙일보",
+      "title": "친한계 박정훈 “장동혁, 민주 쪽 출마하려 했던 건 알려진 사실”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3WDd3NkNYZVJRZWJZbkxRODhqLW9hSVlrSU9fbENzcGk5YUZIazRkckoyamFCMTA3UWU4dDE5Y2RJT0JlUDd5MUhLLXJTdzV3TjJDX1Nn?oc=5"
      },
      {
-      "press": "연합뉴스TV",
-      "title": "이 대통령, ’국민 속였다’ 발언 유시민 처벌 불원 뜻 밝혀",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HTzdYWG9zUUtzc1ZmS2RtR0hfbmxCWjhDNzBOaGVCNmliMm95OUZmS1o1LVFCaHkyNE1xY1JIUW9XWU5FekZDUE83VkhrMVd4SjlXdUoyWkVtd1hSMTJ4S2ZFYWxXMVE?oc=5"
-     },
-     {
-      "press": "쿠키뉴스",
-      "title": "李대통령 “유시민 처벌 원치 않아”…명예훼손 수사 종결 수순",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SWTQxZG93Ty0xOExlUVhkS1o0MzhLZ0FkZUd6X3R2TzdkcDlhY0dCQzdmTmhMRVhqM3F3WjVxYkg5YlE3cTloMUFQTVB0b1RqU0xBeFFXVV9QUGtTcjZkR01Caw?oc=5"
+      "press": "데일리안",
+      "title": "친한계 박정훈 \"장동혁, 민주당 쪽 출마하려 했었다\"",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdFo1cGRxREhDTE1hQ2Q1clNiMVI1ZFFsME1zYndrbTNPZHJyR3RRUUtpTGFXTWU4LV9ySmlwek14aExBbXlsc2N5TGVGdVVGRDUxNlFYbFdLaVZtbS1XMmRVU291MVdSRXczZkNZMGF3UXVGMG84bVlHRHJLaDIxTUNnbWJXa0swTDlpRE96cHN4VElzUUJtTERCblExNlh2R2F6RUFyUDY0dkZabnBIa2hDOFFxckQ4M3FyLWlDVlF4YVNRU0ZRb2JKYXpyZ25Xam1ENVBOYWstWEVwSFBvQ21nb29nSFVaNzAwMHRYODRJMi1ueWRZM3lDeDBfMWR4LWRGNmJzVnFSZUdLQlZreGhwaTYtRXNV?oc=5"
      }
     ]
    }
   },
   {
-   "title": "차기 주자 적합도…한동훈 18.7% 선두, 김민석·장동혁 오차범위 내 접전",
-   "source": "뉴스1",
-   "url": "https://n.news.naver.com/article/421/0009240342",
-   "published_at": "2026-10-21T08:10:04+09:00",
+   "title": "국민 절반 이상이 싫어한다…‘비호감의 늪’ 빠진 차기 주자",
+   "source": "중앙일보",
+   "url": "https://n.news.naver.com/article/025/0003559640",
+   "published_at": "2026-10-22T05:00:01+09:00",
    "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 360,
-   "comment_agree": 204,
-   "comment_disagree": 46,
-   "division_balance": 0.368,
-   "division_score": 2.033367,
+   "view_rank": 5,
+   "comment_count": 284,
+   "comment_agree": 304,
+   "comment_disagree": 27,
+   "division_balance": 0.163142,
+   "division_score": 0.947061,
    "selection": "찬반 쟁점",
-   "summary": "박태훈 = 차기 대통령 후보 적합도 여론조사에서 한동훈 무소속 의원이 18.7%로 가장 높게 나타났다. 국민의힘 지지층에서는 장 대표 31.0%, 한 의원 30.0%…",
-   "summary_long": "박태훈 = 차기 대통령 후보 적합도 여론조사에서 한동훈 무소속 의원이 18.7%로 가장 높게 나타났다. 그 뒤를 김민석 더불어민주당 대표(13.8%), 장동혁 국민의힘 대표(13.7%), 오세훈 서울시장(12.0%) 순으로 이었다. 여론조사기관 조원씨앤아이가 스트레이트뉴스 의뢰로 지난 17~19일 전국 성인남녀 2000명을 대상으로 차기 대통령 후보 적합도를 조사해 21일 발표한 결과를 보면 한동훈-김민석-장동혁-오세훈의 순으로 나타났다.\n\n직전 조사(10월 3일~5일)와 비교하면 한 의원은 18.8%에서 18.7%로 0.1%포인트(p), 김 대표는 14.4%에서 13.8%로 0.6%p, 장 대표는 14.9%에서 13.7%로 1.2%p 각각 낮아졌다. 정당 지지층별로 보면 민주당 지지층(825명)에서는 김 대표가 29.4%로 가장 높았고, 송 의원 13.1%, 조 원장 12.7%, 정 의원 11.3%, 김 전 총리 7.5%의 순이었다. 국민의힘 지지층(777명)에서는 장 대표 31.0%, 한 의원 30.0%, 오 시장 23.6%의 순이었으며, 그 뒤를 진보진영 조 원장(1.4%), 김 대표(1.1%), 정 의원(1.0%)의 순으로 나타났다.",
-   "press": "뉴스1",
-   "photo": "07.jpg"
+   "summary": "김민석 더불어민주당 대표가 지난 8월 24일 서울 여의도 국회에서 장동혁 국민의힘 대표를 예방하고 있다. 차기 대권을 노리는 여야 주요 정치인 모두가 국민 절반 이상에게…",
+   "summary_long": "김민석 더불어민주당 대표가 지난 8월 24일 서울 여의도 국회에서 장동혁 국민의힘 대표를 예방하고 있다. 차기 대권을 노리는 여야 주요 정치인 모두가 국민 절반 이상에게 외면받고 있는 것으로 나타났다. 한국갤럽이 지난 13~15일 전국 만 18세 이상 1003명에게 무선전화 면접 조사 방식으로 진행한 여론조사에 따르면, 여야 주요 정치인 7명의 비호감도는 모두 50%를 넘었다.\n\n비호감도가 가장 낮은 오세훈 서울시장마저 57%에 달했고, 그 뒤로 김민석 더불어민주당 대표(59%), 한동훈 무소속 의원(64%), 정청래 민주당 의원(66%), 장동혁 국민의힘 대표와 조국 조국혁신당 혁신정책연구원장(68%), 이준석 개혁신당 의원(72%) 순으로 비호감도가 강했다. 장 대표와 정 의원은 강성 지지층의 지지를 받는 동시에 당내 반대 진영의 비토 또한 강하다는 공통점이 있다. 이 의원은 국민의힘 대표 시절 윤석열 전 대통령과의 갈등으로 인해 생긴 보수층의 비토 정서를 극복하지 못하고 있다.",
+   "quotes": [
+    "중도 행보를 했다가 자기 편이 떨어져 나가면 대권 주자가 될 수 없다는 불안감에 팬덤을 강화하는 악순환은 한동안 이어질 것",
+    "대권을 바라보며 지지층에 어필하고, 정책 개발보다 정쟁에 매몰되는 게 반복되니 정치 불신으로 이어지고 있는 것",
+    "비호감도가 높더라도 팬덤을 구축해야 살아남을 수 있다는 것이 21세기 정치권의 생존 문법"
+   ],
+   "press": "중앙일보",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "비호감도가 높더라도 팬덤을 구축해야 살아남을 수 있다는 것이 21세기 정치권의 생존 문법",
+    "n": 1,
+    "verified": 0,
+    "items": [
+     {
+      "press": "중앙일보",
+      "title": "국민 절반 이상이 싫어한다…‘비호감의 늪’ 빠진 차기 주자",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sWGU3Q005dFF0ak5uRzFZRFh3elNEQnR0Qk9PZHlUOFFNc1RqUk0wSGJRd2hLdDh2ck1zVnN4a3YwLVZkNWNwRmF4anFxajZCTTJPOTlR?oc=5"
+     }
+    ]
+   }
   }
  ],
  "cards": [
@@ -209,139 +309,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/01.png",
-   "pngBytes": 1498688,
-   "feed": "오늘의 뉴스 2026-10-22\n\n· [단독] 한 달에 한두 번 출근, 회의도 불참 의혹…이동국, 용인FC '근무 태만' 논란\n· 차기 대통령감? 한동훈 18.7%·김민석 13.8%·장동혁 13.7%\n· \"앞집 때문에 한강 안 보여\"...이중근 부영 회장 항고 기각\n· \"사기당했다\"던 역삼 방화범…운동기구 디자인 국내외 정상등록(종합)\n· 김건희 마이크 건네자 런닝셔츠 차림 尹도 열창…부부 듀엣 영상 공개\n· 李, '국민 속였다' 유시민 \"처벌 원치 않아\"‥수사 종결 수순\n· 차기 주자 적합도…한동훈 18.7% 선두, 김민석·장동혁 오차범위 내 접전"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/01.png",
+   "pngBytes": 1855554,
+   "feed": "오늘의 뉴스 2026-10-23\n\n· 한동훈 \"李대통령, 자기가 왕으로 뽑힌 줄 착각\"\n· 김정은 사망설 번지더니…북한서 포착된 '이상 징후'\n· 이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다\n· 한화시스템, 한화오션으로 2.3조 벌고도 불안한 이유\n· 이준석·한동훈, 李 AI 활용 글에 \"대통령 제미나이로 바꾸자\", \"억지 부리지 말고 정신 차려야\"\n· \"국감장에 끝까지\"…'개근' 장동혁, 평의원처럼 질의만 24차례\n· 국민 절반 이상이 싫어한다…‘비호감의 늪’ 빠진 차기 주자"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/02.png",
-   "pngBytes": 1516148,
-   "title": "[단독] 한 달에 한두 번 출근, 회의도 불참 의혹…이동국, 용인FC '근무 태만' 논란",
-   "summary": "축구 국가대표 출신 이동국 용인FC 테크니컬 디렉터가 구단에 거의 출근하지 않고 전력강화회의에도 제대로 참석하지 않는 등 근무에 소홀했다는 의혹이 제기됐습니다.…",
-   "summary_long": "축구 국가대표 출신 이동국 용인FC 테크니컬 디렉터가 구단에 거의 출근하지 않고 전력강화회의에도 제대로 참석하지 않는 등 근무에 소홀했다는 의혹이 제기됐습니다. 21일 국회 문화체육관광위원회 소속 김재원 조국혁신당 의원실이 용인FC에서 제출받은 자료에 따르면 이동국 디렉터의 연간 보수는 1억 4400만원입니다. 테크니컬 디렉터(Technical Director·기술이사)는 구단의 중장기 전략을 이끄는 '총책임자'로 올해부터 모든 프로구단은 테크니컬 디렉터를 의무적으로 두어야 합니다.\n\n용인FC가 제출한 직무 설명서에는 \"구단의 축구 철학부터 기술 발전, 선수 육성 시스템 운영을 총괄·관리한다\"고 쓰여 있습니다. 2025년 12월부터 2026년 10월까지 이동국 용인FC 테크니컬 디렉터의 용인미르스타디움 구단 사무실 출입 기록. 김재원 의원은 \"용인FC는 시민 세금이 투입되는 시민구단인 만큼 고액 보수를 받는 테크니컬 디렉터의 실제 업무 수행과 관리·감독이 적절했는지 반드시 확인해야 한다\"고 밝혔습니다.",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000516723",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/02.png",
+   "pngBytes": 1858391,
+   "title": "한동훈 \"李대통령, 자기가 왕으로 뽑힌 줄 착각\"",
+   "summary": "이재명 대통령이 중수청에 대한 지휘·감독 포기를 '직무유기'라고 규정하자 한 의원은 대통령의 수사 지휘가 오히려 '탄핵 사유'라고 맞받은 것이다. 한 의원은 이날…",
+   "summary_long": "한동훈 무소속 의원은 22일 대통령이 중대범죄수사청(중수청)을 수사 지휘하면 탄핵 사유가 된다고 주장했다. 이재명 대통령이 중수청에 대한 지휘·감독 포기를 '직무유기'라고 규정하자 한 의원은 대통령의 수사 지휘가 오히려 '탄핵 사유'라고 맞받은 것이다. 한 의원은 이날 페이스북에 \"이 대통령이 '대통령이 중수청 지휘 안 하면 탄핵 사유'라고 했다\"며 \"정확히 반대\"라고 말했다.\n\n이어 \"이 대통령의 억지대로라면 수사 지휘 안 했던 역대 대통령들은 다 탄핵됐어야 하는가\"라며 \"이 대통령은 자기가 왕으로 뽑힌 거라 착각하는 것 같다\"고 비판했다. 그는 \"자기 범죄수사 막고 정적 공격하기 위해 중수청이든 공소청이든 경찰이든 '대통령이 수사 지휘하면 탄핵 사유'\"라고 직격했다. 이어 \"국정에 관한 대통령의 지휘·감독은 권한인 동시에 책임\"이라며 중수청 지휘·감독 포기는 \"직무유기로 형사처벌 받을 범죄\"라고 덧붙였다.",
+   "press": "시사저널",
+   "source": "시사저널",
+   "link": "https://n.news.naver.com/article/586/0000140625",
    "selection": "정치",
-   "feed": "뉴스 01. [단독] 한 달에 한두 번 출근, 회의도 불참 의혹…이동국, 용인FC '근무 태만' 논란\n\n축구 국가대표 출신 이동국 용인FC 테크니컬 디렉터가 구단에 거의 출근하지 않고 전력강화회의에도 제대로 참석하지 않는 등 근무에 소홀했다는 의혹이 제기됐습니다. 21일 국회 문화체육관광위원회 소속 김재원 조국혁신당 의원실이 용인FC에서 제출받은 자료에 따르면 이동국 디렉터의 연간 보수는 1억 4400만원입니다. 테크니컬 디렉터(Technical Director·기술이사)는 구단의 중장기 전략을 이끄는 '총책임자'로 올해부터 모든 프로구단은 테크니컬 디렉터를 의무적으로 두어야 합니다.\n\n용인FC가 제출한 직무 설명서에는 \"구단의 축구 철학부터 기술 발전, 선수 육성 시스템 운영을 총괄·관리한다\"고 쓰여 있습니다. 2025년 12월부터 2026년 10월까지 이동국 용인FC 테크니컬 디렉터의 용인미르스타디움 구단 사무실 출입 기록. 김재원 의원은 \"용인FC는 시민 세금이 투입되는 시민구단인 만큼 고액 보수를 받는 테크니컬 디렉터의 실제 업무 수행과 관리·감독이 적절했는지 반드시 확인해야 한다\"고 밝혔습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000516723"
+   "feed": "뉴스 01. 한동훈 \"李대통령, 자기가 왕으로 뽑힌 줄 착각\"\n\n한동훈 무소속 의원은 22일 대통령이 중대범죄수사청(중수청)을 수사 지휘하면 탄핵 사유가 된다고 주장했다. 이재명 대통령이 중수청에 대한 지휘·감독 포기를 '직무유기'라고 규정하자 한 의원은 대통령의 수사 지휘가 오히려 '탄핵 사유'라고 맞받은 것이다. 한 의원은 이날 페이스북에 \"이 대통령이 '대통령이 중수청 지휘 안 하면 탄핵 사유'라고 했다\"며 \"정확히 반대\"라고 말했다.\n\n이어 \"이 대통령의 억지대로라면 수사 지휘 안 했던 역대 대통령들은 다 탄핵됐어야 하는가\"라며 \"이 대통령은 자기가 왕으로 뽑힌 거라 착각하는 것 같다\"고 비판했다. 그는 \"자기 범죄수사 막고 정적 공격하기 위해 중수청이든 공소청이든 경찰이든 '대통령이 수사 지휘하면 탄핵 사유'\"라고 직격했다. 이어 \"국정에 관한 대통령의 지휘·감독은 권한인 동시에 책임\"이라며 중수청 지휘·감독 포기는 \"직무유기로 형사처벌 받을 범죄\"라고 덧붙였다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000140625"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/03.png",
-   "pngBytes": 1912826,
-   "title": "차기 대통령감? 한동훈 18.7%·김민석 13.8%·장동혁 13.7%",
-   "summary": "한동훈 무소속 의원, 김민석 더불어민주당 대표, 장동혁 국민의힘 대표 /연합뉴스차기 대통령 후보 적합도 조사에서 한동훈 무소속 의원이 18.7%를 기록했다는 여론조사…",
-   "summary_long": "한동훈 무소속 의원, 김민석 더불어민주당 대표, 장동혁 국민의힘 대표 /연합뉴스차기 대통령 후보 적합도 조사에서 한동훈 무소속 의원이 18.7%를 기록했다는 여론조사 결과가 나왔다. 스트레이트뉴스가 여론조사기관 조원씨앤아이에 의뢰해 지난 17일에서 19일 전국 만 18세 이상 남녀 2000명을 대상으로 차기 대통령 후보 적합도를 조사한 결과, 한동훈 의원이 18.7%로 가장 높았다. 김민석 더불어민주당 대표가 13.8%, 장동혁 국민의힘 대표가 13.7%, 오세훈 서울시장이 12.0%로 뒤를 이었다.\n\n이어 조국 조국혁신당 혁신정책연구원장 7.8%, 송영길 더불어민주당 의원 6.4%, 정청래 전 더불어민주당 대표 6.1%, 김부겸 전 국무총리 4.5%, 이준석 개혁신당 의원 1.6% 순이었다. 국민의힘 지지층(777명)에서는 장동혁 대표가 31.0%로 가장 높았고, 한동훈 의원 30.0%, 오세훈 시장 23.6% 순이었다. 전남·광주·전북에서는 김민석 대표 18.1%, 한동훈 의원 13.9%, 송영길 의원 11.2% 이었다.",
-   "press": "TV조선",
-   "source": "TV조선",
-   "link": "https://n.news.naver.com/article/448/0000646013",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/03.png",
+   "pngBytes": 1980614,
+   "title": "김정은 사망설 번지더니…북한서 포착된 '이상 징후'",
+   "summary": "김정은 북한 국무위원장의 사망설이 해외에서 확산한 가운데 북한 관영매체를 포함한 주요 웹사이트에서 대규모 접속 장애가 이어지고 있다. 접속 장애가 발생한 곳은 외무성…",
+   "summary_long": "북한 외무성·중앙통신 등 대규모 접속장애. 김정은 북한 국무위원장의 사망설이 해외에서 확산한 가운데 북한 관영매체를 포함한 주요 웹사이트에서 대규모 접속 장애가 이어지고 있다. 22일 통일부와 외신 등에 따르면 북한 노동당 기관지 노동신문과 조선중앙통신을 비롯한 주요 웹사이트들이 지난 20일부터 정상적으로 운영되지 않고 있다.\n\n접속 장애가 발생한 곳은 외무성, 조선중앙통신, 민주조선, 내나라 등 북한 국가 도메인 '.kp'를 사용하는 웹사이트 40여개다. 미국 북한 전문매체 NK뉴스는 21일(현지시간) 북한 주요 웹사이트 대부분이 하루 넘게 접속 불능 상태에 빠지면서 외부에서 북한 당국의 공식 정보를 확인하기 어려워졌다고 보도했다. 2022년에는 디도스 공격으로 북한 웹사이트에서 접속 장애가 발생했다.",
+   "press": "한국경제TV",
+   "source": "한국경제TV",
+   "link": "https://n.news.naver.com/article/215/0001270086",
    "selection": "정치",
-   "feed": "뉴스 02. 차기 대통령감? 한동훈 18.7%·김민석 13.8%·장동혁 13.7%\n\n한동훈 무소속 의원, 김민석 더불어민주당 대표, 장동혁 국민의힘 대표 /연합뉴스차기 대통령 후보 적합도 조사에서 한동훈 무소속 의원이 18.7%를 기록했다는 여론조사 결과가 나왔다. 스트레이트뉴스가 여론조사기관 조원씨앤아이에 의뢰해 지난 17일에서 19일 전국 만 18세 이상 남녀 2000명을 대상으로 차기 대통령 후보 적합도를 조사한 결과, 한동훈 의원이 18.7%로 가장 높았다. 김민석 더불어민주당 대표가 13.8%, 장동혁 국민의힘 대표가 13.7%, 오세훈 서울시장이 12.0%로 뒤를 이었다.\n\n이어 조국 조국혁신당 혁신정책연구원장 7.8%, 송영길 더불어민주당 의원 6.4%, 정청래 전 더불어민주당 대표 6.1%, 김부겸 전 국무총리 4.5%, 이준석 개혁신당 의원 1.6% 순이었다. 국민의힘 지지층(777명)에서는 장동혁 대표가 31.0%로 가장 높았고, 한동훈 의원 30.0%, 오세훈 시장 23.6% 순이었다. 전남·광주·전북에서는 김민석 대표 18.1%, 한동훈 의원 13.9%, 송영길 의원 11.2% 이었다.\n\n출처: TV조선 / https://n.news.naver.com/article/448/0000646013"
+   "feed": "뉴스 02. 김정은 사망설 번지더니…북한서 포착된 '이상 징후'\n\n북한 외무성·중앙통신 등 대규모 접속장애. 김정은 북한 국무위원장의 사망설이 해외에서 확산한 가운데 북한 관영매체를 포함한 주요 웹사이트에서 대규모 접속 장애가 이어지고 있다. 22일 통일부와 외신 등에 따르면 북한 노동당 기관지 노동신문과 조선중앙통신을 비롯한 주요 웹사이트들이 지난 20일부터 정상적으로 운영되지 않고 있다.\n\n접속 장애가 발생한 곳은 외무성, 조선중앙통신, 민주조선, 내나라 등 북한 국가 도메인 '.kp'를 사용하는 웹사이트 40여개다. 미국 북한 전문매체 NK뉴스는 21일(현지시간) 북한 주요 웹사이트 대부분이 하루 넘게 접속 불능 상태에 빠지면서 외부에서 북한 당국의 공식 정보를 확인하기 어려워졌다고 보도했다. 2022년에는 디도스 공격으로 북한 웹사이트에서 접속 장애가 발생했다.\n\n출처: 한국경제TV / https://n.news.naver.com/article/215/0001270086"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/04.png",
-   "pngBytes": 569664,
-   "title": "\"앞집 때문에 한강 안 보여\"...이중근 부영 회장 항고 기각",
-   "summary": "",
-   "summary_long": "",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002421491",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/04.png",
+   "pngBytes": 1999934,
+   "title": "이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다",
+   "summary": "서울 송파구 장모 살인사건 피의자 김성우의 아내가 결혼 전부터 상습 폭행에 시달렸으며, 혼인신고도 김성우의 강요에 의해 이뤄졌다고 주장했다. /사진=JTBC…",
+   "summary_long": "서울 송파구 장모 살인사건 피의자 김성우(26)의 아내가 결혼 전부터 상습 폭행에 시달렸으며, 혼인신고도 김성우의 강요에 의해 이뤄졌다고 주장했다. 21일 JTBC '사건반장'에 따르면 김성우와 아내 A씨는 지난해 4월 처음 만나 교제를 시작했다. A씨는 김성우가 자신의 자취방에 들어와 함께 살면서부터 폭행이 시작됐다고 밝혔다.\n\n김성우는 \"헤어졌는데 넌 왜 행복하게 지내냐\", \"너 죽고 나 죽자\"며 A씨의 목을 졸랐다. 뒤늦게 어머니에게 사정을 알리고 친정으로 피신했지만, 김성우가 흥신소를 이용해 집 주소를 알아내면서 결국 범행에 노출됐다./사진=JTBC '사건반장'결국 A씨는 8월 집을 나와 김성우를 가정폭력으로 신고했고, 혼인무효 소송도 제기했다. A씨는 김성우가 가족과 지인들의 연락처와 주소를 알고 있어 그동안 주변에 도움을 요청하지 못했다고 털어놨다.",
+   "press": "머니투데이",
+   "source": "머니투데이",
+   "link": "https://n.news.naver.com/article/008/0005429871",
    "selection": "경제·시사",
-   "feed": "뉴스 03. \"앞집 때문에 한강 안 보여\"...이중근 부영 회장 항고 기각\n\n\n\n출처: YTN / https://n.news.naver.com/article/052/0002421491"
+   "feed": "뉴스 03. 이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다\n\n서울 송파구 장모 살인사건 피의자 김성우(26)의 아내가 결혼 전부터 상습 폭행에 시달렸으며, 혼인신고도 김성우의 강요에 의해 이뤄졌다고 주장했다. 21일 JTBC '사건반장'에 따르면 김성우와 아내 A씨는 지난해 4월 처음 만나 교제를 시작했다. A씨는 김성우가 자신의 자취방에 들어와 함께 살면서부터 폭행이 시작됐다고 밝혔다.\n\n김성우는 \"헤어졌는데 넌 왜 행복하게 지내냐\", \"너 죽고 나 죽자\"며 A씨의 목을 졸랐다. 뒤늦게 어머니에게 사정을 알리고 친정으로 피신했지만, 김성우가 흥신소를 이용해 집 주소를 알아내면서 결국 범행에 노출됐다./사진=JTBC '사건반장'결국 A씨는 8월 집을 나와 김성우를 가정폭력으로 신고했고, 혼인무효 소송도 제기했다. A씨는 김성우가 가족과 지인들의 연락처와 주소를 알고 있어 그동안 주변에 도움을 요청하지 못했다고 털어놨다.\n\n출처: 머니투데이 / https://n.news.naver.com/article/008/0005429871"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/05.png",
-   "pngBytes": 2132060,
-   "title": "\"사기당했다\"던 역삼 방화범…운동기구 디자인 국내외 정상등록(종합)",
-   "summary": "한지은 전재훈 = 서울 강남구 역삼동에서 연쇄 방화를 저지른 70대 A씨의 운동기구 디자인 두 건이 국내뿐 아니라 미국·브라질 등 해외에서도 본인 명의로 등록된 사실이…",
-   "summary_long": "20일 서울 강남구 역삼동 소재 건물 두 곳에서 연달아 방화한 혐의를 받는 70대 남성 A씨가 서울 수서경찰서로 압송되며 취재진에게 문건을 펼치고 있다. 한지은 전재훈 = 서울 강남구 역삼동에서 연쇄 방화를 저지른 70대 A씨의 운동기구 디자인 두 건이 국내뿐 아니라 미국·브라질 등 해외에서도 본인 명의로 등록된 사실이 확인됐다. A씨는 불을 지른 두 건물에 입주한 특허법인 측이 \"사기를 쳤다\"고 주장했지만, 국내외 등록공보에는 A씨가 디자인을 만든 사람과 권리를 가진 사람으로 기재돼 있었다.\n\n21일 연합뉴스가 입수한 특허청 등록디자인공보에 따르면 A씨는 2019년 '근력운동기구', 2020년 '운동기구' 디자인을 각각 특허청에 등록했다. 미국 특허상표청 공보를 확인해보니 '근력운동기구'에 해당하는 디자인은 2021년 7월 20일, '운동기구' 디자인은 2022년 2월 8일 각각 등록됐다. 해외 공보에 기재된 출원인·창작자 정보와 한국 출원번호 등을 대조한 결과 국내에 등록된 두 디자인과 같은 것으로 확인됐다.",
-   "press": "연합뉴스",
-   "source": "연합뉴스",
-   "link": "https://n.news.naver.com/article/001/0016391454",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/05.png",
+   "pngBytes": 1713463,
+   "title": "한화시스템, 한화오션으로 2.3조 벌고도 불안한 이유",
+   "summary": "한화시스템, 올 한화오션 지분 11% 3조 처분. PRS 계약 따라 한화오션 주가 기준 정산.",
+   "summary_long": "한화시스템, 올 한화오션 지분 11% 3조 처분. PRS 계약 따라 한화오션 주가 기준 정산. 한화오션 주가 하락으로 손실 가능성 커져한화시스템이 최근 한화오션 지분 전량을 처분하면서 4년 만에 4.5배가 넘는 투자 수익을 거둔 것으로 분석된다.\n\n하지만 향후 한화오션 주가가 떨어지게 되면 파생상품계약에 따라 대규모 손실도 발생할 수 있는 상황이다. 한화시스템은 지난 19일 보유중인 한화오션 2216만9660주(7.24%) 전량을 1조3834억원에 주가수익스왑(PRS) 방식으로 처분했다. 지난 21일 한화오션 주가 5만9400원 기준으로 보면 한화시스템은 대규모 손실이 발생할 수 있다는 얘기다.",
+   "press": "비즈워치",
+   "source": "비즈워치",
+   "link": "https://n.news.naver.com/article/648/0000051825",
    "selection": "경제·시사",
-   "feed": "뉴스 04. \"사기당했다\"던 역삼 방화범…운동기구 디자인 국내외 정상등록(종합)\n\n20일 서울 강남구 역삼동 소재 건물 두 곳에서 연달아 방화한 혐의를 받는 70대 남성 A씨가 서울 수서경찰서로 압송되며 취재진에게 문건을 펼치고 있다. 한지은 전재훈 = 서울 강남구 역삼동에서 연쇄 방화를 저지른 70대 A씨의 운동기구 디자인 두 건이 국내뿐 아니라 미국·브라질 등 해외에서도 본인 명의로 등록된 사실이 확인됐다. A씨는 불을 지른 두 건물에 입주한 특허법인 측이 \"사기를 쳤다\"고 주장했지만, 국내외 등록공보에는 A씨가 디자인을 만든 사람과 권리를 가진 사람으로 기재돼 있었다.\n\n21일 연합뉴스가 입수한 특허청 등록디자인공보에 따르면 A씨는 2019년 '근력운동기구', 2020년 '운동기구' 디자인을 각각 특허청에 등록했다. 미국 특허상표청 공보를 확인해보니 '근력운동기구'에 해당하는 디자인은 2021년 7월 20일, '운동기구' 디자인은 2022년 2월 8일 각각 등록됐다. 해외 공보에 기재된 출원인·창작자 정보와 한국 출원번호 등을 대조한 결과 국내에 등록된 두 디자인과 같은 것으로 확인됐다.\n\n출처: 연합뉴스 / https://n.news.naver.com/article/001/0016391454"
+   "feed": "뉴스 04. 한화시스템, 한화오션으로 2.3조 벌고도 불안한 이유\n\n한화시스템, 올 한화오션 지분 11% 3조 처분. PRS 계약 따라 한화오션 주가 기준 정산. 한화오션 주가 하락으로 손실 가능성 커져한화시스템이 최근 한화오션 지분 전량을 처분하면서 4년 만에 4.5배가 넘는 투자 수익을 거둔 것으로 분석된다.\n\n하지만 향후 한화오션 주가가 떨어지게 되면 파생상품계약에 따라 대규모 손실도 발생할 수 있는 상황이다. 한화시스템은 지난 19일 보유중인 한화오션 2216만9660주(7.24%) 전량을 1조3834억원에 주가수익스왑(PRS) 방식으로 처분했다. 지난 21일 한화오션 주가 5만9400원 기준으로 보면 한화시스템은 대규모 손실이 발생할 수 있다는 얘기다.\n\n출처: 비즈워치 / https://n.news.naver.com/article/648/0000051825"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/06.png",
-   "pngBytes": 587551,
-   "title": "김건희 마이크 건네자 런닝셔츠 차림 尹도 열창…부부 듀엣 영상 공개",
-   "summary": "",
-   "summary_long": "",
-   "press": "매일경제",
-   "source": "매일경제",
-   "link": "https://n.news.naver.com/article/009/0005751743",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/06.png",
+   "pngBytes": 2170960,
+   "title": "이준석·한동훈, 李 AI 활용 글에 \"대통령 제미나이로 바꾸자\", \"억지 부리지 말고 정신 차려야\"",
+   "summary": "이재명 대통령이 중대범죄수사청장과 공소청장의 국무회의 배석 논란에 생성형 인공지능 제미나이의 답변을 인용해 반박하자 야권의 비판이 쏟아졌다. 개혁신당 이준석 의원은…",
+   "summary_long": "이재명 대통령이 중대범죄수사청장과 공소청장의 국무회의 배석 논란에 생성형 인공지능(AI) 제미나이의 답변을 인용해 반박하자 야권의 비판이 쏟아졌다. 개혁신당 이준석 의원은 21일 페이스북에 \"대통령이 통치의 근거로 제미나이를 들기 시작했다\"며 \"심지어 몇 달 전에는 제미나이가 가끔 엉뚱한 답한다고 핀잔을 주던 사람\"이라고 적었다. 그러면서 \"대통령이 제미나이한테 물어봐서 통치할 거면 그냥 대통령을 제미나이로 바꾸면 되지 않나\"라며 \"사법리스크도 없어, 전과도 없어, 욕도 안 해, 근저당도 안 잡아 모든 게 상위호환\"이라고 비꼬았다.\n\n국민의힘 나경원 의원 역시 페이스북을 통해 \"편향된 질문으로 편향된 답변을 제미나이에서 받아놓고, 그걸 엑스(X)에 올리는 대통령의 처참한 수준\"이라며 \"국정운영을 이런 방식으로 해온 건가\"라고 비판했다. 이어 \"대통령이 헌법과 법률이 아닌, 제미나이에 물어 국정을 판단한다\"며 \"기가 막힌다\"고 덧붙였다. 이 대통령의 일반적인 행정감독권을 근거로 두 기관장의 국무회의 배석을 정당화할 경우, 수사·기소기관의 준사법적 성격과 정치적 중립성이 훼손될 우려가 있다는 내용이 담겼다.",
+   "press": "파이낸셜뉴스",
+   "source": "파이낸셜뉴스",
+   "link": "https://n.news.naver.com/article/014/0005592887",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 김건희 마이크 건네자 런닝셔츠 차림 尹도 열창…부부 듀엣 영상 공개\n\n\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005751743"
+   "feed": "뉴스 05. 이준석·한동훈, 李 AI 활용 글에 \"대통령 제미나이로 바꾸자\", \"억지 부리지 말고 정신 차려야\"\n\n이재명 대통령이 중대범죄수사청장과 공소청장의 국무회의 배석 논란에 생성형 인공지능(AI) 제미나이의 답변을 인용해 반박하자 야권의 비판이 쏟아졌다. 개혁신당 이준석 의원은 21일 페이스북에 \"대통령이 통치의 근거로 제미나이를 들기 시작했다\"며 \"심지어 몇 달 전에는 제미나이가 가끔 엉뚱한 답한다고 핀잔을 주던 사람\"이라고 적었다. 그러면서 \"대통령이 제미나이한테 물어봐서 통치할 거면 그냥 대통령을 제미나이로 바꾸면 되지 않나\"라며 \"사법리스크도 없어, 전과도 없어, 욕도 안 해, 근저당도 안 잡아 모든 게 상위호환\"이라고 비꼬았다.\n\n국민의힘 나경원 의원 역시 페이스북을 통해 \"편향된 질문으로 편향된 답변을 제미나이에서 받아놓고, 그걸 엑스(X)에 올리는 대통령의 처참한 수준\"이라며 \"국정운영을 이런 방식으로 해온 건가\"라고 비판했다. 이어 \"대통령이 헌법과 법률이 아닌, 제미나이에 물어 국정을 판단한다\"며 \"기가 막힌다\"고 덧붙였다. 이 대통령의 일반적인 행정감독권을 근거로 두 기관장의 국무회의 배석을 정당화할 경우, 수사·기소기관의 준사법적 성격과 정치적 중립성이 훼손될 우려가 있다는 내용이 담겼다.\n\n출처: 파이낸셜뉴스 / https://n.news.naver.com/article/014/0005592887"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/07.png",
-   "pngBytes": 1734395,
-   "title": "李, '국민 속였다' 유시민 \"처벌 원치 않아\"‥수사 종결 수순",
-   "summary": "이재명 대통령이 정부의 검찰 개혁을 비판했다가 명예훼손 혐의로 고발된 유시민 작가에 대해 \"처벌을 원치 않는다\"는 뜻을 밝힌 것으로 확인됐습니다. 청와대 관계자는 오늘…",
-   "summary_long": "이재명 대통령이 정부의 검찰 개혁을 비판했다가 명예훼손 혐의로 고발된 유시민 작가에 대해 \"처벌을 원치 않는다\"는 뜻을 밝힌 것으로 확인됐습니다. 청와대 관계자는 오늘 \"이 대통령이 유 작가의 명예훼손 수사와 관련해 처벌을 원치 않는다는 의사를 어제 밝혔다\"고 전했습니다. 앞서 유 작가는 지난달 22일 미디어오늘 유튜브 채널에 출연해 \"이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁과 더불어민주당의 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다\"며 \"대통령이 지금까지 국민을 속였다\"고 주장했습니다.\n\n이에 한 시민단체 관계자는 유 작가를 정보통신망법상 허위사실 적시 명예훼손 혐의로 고발했으며, 지난 19일 서울경찰청에 고발인 신분으로 출석해 조사를 받은 것으로 알려졌습니다. 이 대통령의 처벌 불원 의사는 청와대 민정수석실을 통해 수사를 맡은 서울경찰청에 전달될 예정입니다. 경찰은 이 대통령의 의사가 전달되면 반의사불벌죄 조항에 따라 유 작가에 대한 수사를 종결할 것으로 보입니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001530446",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/07.png",
+   "pngBytes": 1644300,
+   "title": "\"국감장에 끝까지\"…'개근' 장동혁, 평의원처럼 질의만 24차례",
+   "summary": "지난해에는 국감 첫날 인사만 하고 자리를 비웠는데, 올해는 지방감사까지 내려가 평의원처럼 국감 질의를 이어가고 있다. 이 단체는 2023년 국감 평가에서 당시 김기현…",
+   "summary_long": "지난해에는 국감 첫날 인사만 하고 자리를 비웠는데, 올해는 지방감사까지 내려가 평의원처럼 국감 질의를 이어가고 있다. 통상 당대표는 상임위 국감에 얼굴만 비치고 마는 경우가 많은데, 장 대표의 개근은 자신의 교육 분야 전문성을 부각하는 동시에 당 전체에 이번 국감의 무게를 직접 보여주기 위한 행보로 풀이된다. 22일 국회 회의록 등에 따르면 장 대표는 지난 7일 교육부를 시작으로 12일·14일·16일 국회 감사와 20~21일 지방감사에 모두 출석했다.\n\n이 단체는 2023년 국감 평가에서 당시 김기현 국민의힘 대표를 두고 \"질의는 한 번도 없었다\"고 했고, 이재명 민주당 대표를 두고는 \"재판 때문에 국감 후반 국방위의 해군본부부터 2일 참여했다\"고 지적했다. 장 대표 역시 산업통상자원중소벤처기업위원회 소속이던 지난해에는 국감 첫날 \"국정감사 기간인데 그럼에도 불구하고 자주 자리에 있지 못할 것 같아서 죄송하다\"고 인사한 뒤 자리를 떴고 다시 돌아오지 않았다. 당시 단체는 장 대표를 두고 \"10월 13일 산업위의 산업부 국정감사에 출석했으나 질의는 없었고 이후 국정감사장 출석은 없었다\"고 평가했다.",
+   "press": "뉴스1",
+   "source": "뉴스1",
+   "link": "https://n.news.naver.com/article/421/0009242779",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 李, '국민 속였다' 유시민 \"처벌 원치 않아\"‥수사 종결 수순\n\n이재명 대통령이 정부의 검찰 개혁을 비판했다가 명예훼손 혐의로 고발된 유시민 작가에 대해 \"처벌을 원치 않는다\"는 뜻을 밝힌 것으로 확인됐습니다. 청와대 관계자는 오늘 \"이 대통령이 유 작가의 명예훼손 수사와 관련해 처벌을 원치 않는다는 의사를 어제 밝혔다\"고 전했습니다. 앞서 유 작가는 지난달 22일 미디어오늘 유튜브 채널에 출연해 \"이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁과 더불어민주당의 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다\"며 \"대통령이 지금까지 국민을 속였다\"고 주장했습니다.\n\n이에 한 시민단체 관계자는 유 작가를 정보통신망법상 허위사실 적시 명예훼손 혐의로 고발했으며, 지난 19일 서울경찰청에 고발인 신분으로 출석해 조사를 받은 것으로 알려졌습니다. 이 대통령의 처벌 불원 의사는 청와대 민정수석실을 통해 수사를 맡은 서울경찰청에 전달될 예정입니다. 경찰은 이 대통령의 의사가 전달되면 반의사불벌죄 조항에 따라 유 작가에 대한 수사를 종결할 것으로 보입니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001530446"
+   "feed": "뉴스 06. \"국감장에 끝까지\"…'개근' 장동혁, 평의원처럼 질의만 24차례\n\n지난해에는 국감 첫날 인사만 하고 자리를 비웠는데, 올해는 지방감사까지 내려가 평의원처럼 국감 질의를 이어가고 있다. 통상 당대표는 상임위 국감에 얼굴만 비치고 마는 경우가 많은데, 장 대표의 개근은 자신의 교육 분야 전문성을 부각하는 동시에 당 전체에 이번 국감의 무게를 직접 보여주기 위한 행보로 풀이된다. 22일 국회 회의록 등에 따르면 장 대표는 지난 7일 교육부를 시작으로 12일·14일·16일 국회 감사와 20~21일 지방감사에 모두 출석했다.\n\n이 단체는 2023년 국감 평가에서 당시 김기현 국민의힘 대표를 두고 \"질의는 한 번도 없었다\"고 했고, 이재명 민주당 대표를 두고는 \"재판 때문에 국감 후반 국방위의 해군본부부터 2일 참여했다\"고 지적했다. 장 대표 역시 산업통상자원중소벤처기업위원회 소속이던 지난해에는 국감 첫날 \"국정감사 기간인데 그럼에도 불구하고 자주 자리에 있지 못할 것 같아서 죄송하다\"고 인사한 뒤 자리를 떴고 다시 돌아오지 않았다. 당시 단체는 장 대표를 두고 \"10월 13일 산업위의 산업부 국정감사에 출석했으나 질의는 없었고 이후 국정감사장 출석은 없었다\"고 평가했다.\n\n출처: 뉴스1 / https://n.news.naver.com/article/421/0009242779"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/08.png",
-   "pngBytes": 1760037,
-   "title": "차기 주자 적합도…한동훈 18.7% 선두, 김민석·장동혁 오차범위 내 접전",
-   "summary": "박태훈 = 차기 대통령 후보 적합도 여론조사에서 한동훈 무소속 의원이 18.7%로 가장 높게 나타났다. 국민의힘 지지층에서는 장 대표 31.0%, 한 의원 30.0%…",
-   "summary_long": "박태훈 = 차기 대통령 후보 적합도 여론조사에서 한동훈 무소속 의원이 18.7%로 가장 높게 나타났다. 그 뒤를 김민석 더불어민주당 대표(13.8%), 장동혁 국민의힘 대표(13.7%), 오세훈 서울시장(12.0%) 순으로 이었다. 여론조사기관 조원씨앤아이가 스트레이트뉴스 의뢰로 지난 17~19일 전국 성인남녀 2000명을 대상으로 차기 대통령 후보 적합도를 조사해 21일 발표한 결과를 보면 한동훈-김민석-장동혁-오세훈의 순으로 나타났다.\n\n직전 조사(10월 3일~5일)와 비교하면 한 의원은 18.8%에서 18.7%로 0.1%포인트(p), 김 대표는 14.4%에서 13.8%로 0.6%p, 장 대표는 14.9%에서 13.7%로 1.2%p 각각 낮아졌다. 정당 지지층별로 보면 민주당 지지층(825명)에서는 김 대표가 29.4%로 가장 높았고, 송 의원 13.1%, 조 원장 12.7%, 정 의원 11.3%, 김 전 총리 7.5%의 순이었다. 국민의힘 지지층(777명)에서는 장 대표 31.0%, 한 의원 30.0%, 오 시장 23.6%의 순이었으며, 그 뒤를 진보진영 조 원장(1.4%), 김 대표(1.1%), 정 의원(1.0%)의 순으로 나타났다.",
-   "press": "뉴스1",
-   "source": "뉴스1",
-   "link": "https://n.news.naver.com/article/421/0009240342",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/08.png",
+   "pngBytes": 1480773,
+   "title": "국민 절반 이상이 싫어한다…‘비호감의 늪’ 빠진 차기 주자",
+   "summary": "김민석 더불어민주당 대표가 지난 8월 24일 서울 여의도 국회에서 장동혁 국민의힘 대표를 예방하고 있다. 차기 대권을 노리는 여야 주요 정치인 모두가 국민 절반 이상에게…",
+   "summary_long": "김민석 더불어민주당 대표가 지난 8월 24일 서울 여의도 국회에서 장동혁 국민의힘 대표를 예방하고 있다. 차기 대권을 노리는 여야 주요 정치인 모두가 국민 절반 이상에게 외면받고 있는 것으로 나타났다. 한국갤럽이 지난 13~15일 전국 만 18세 이상 1003명에게 무선전화 면접 조사 방식으로 진행한 여론조사에 따르면, 여야 주요 정치인 7명의 비호감도는 모두 50%를 넘었다.\n\n비호감도가 가장 낮은 오세훈 서울시장마저 57%에 달했고, 그 뒤로 김민석 더불어민주당 대표(59%), 한동훈 무소속 의원(64%), 정청래 민주당 의원(66%), 장동혁 국민의힘 대표와 조국 조국혁신당 혁신정책연구원장(68%), 이준석 개혁신당 의원(72%) 순으로 비호감도가 강했다. 장 대표와 정 의원은 강성 지지층의 지지를 받는 동시에 당내 반대 진영의 비토 또한 강하다는 공통점이 있다. 이 의원은 국민의힘 대표 시절 윤석열 전 대통령과의 갈등으로 인해 생긴 보수층의 비토 정서를 극복하지 못하고 있다.",
+   "press": "중앙일보",
+   "source": "중앙일보",
+   "link": "https://n.news.naver.com/article/025/0003559640",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 차기 주자 적합도…한동훈 18.7% 선두, 김민석·장동혁 오차범위 내 접전\n\n박태훈 = 차기 대통령 후보 적합도 여론조사에서 한동훈 무소속 의원이 18.7%로 가장 높게 나타났다. 그 뒤를 김민석 더불어민주당 대표(13.8%), 장동혁 국민의힘 대표(13.7%), 오세훈 서울시장(12.0%) 순으로 이었다. 여론조사기관 조원씨앤아이가 스트레이트뉴스 의뢰로 지난 17~19일 전국 성인남녀 2000명을 대상으로 차기 대통령 후보 적합도를 조사해 21일 발표한 결과를 보면 한동훈-김민석-장동혁-오세훈의 순으로 나타났다.\n\n직전 조사(10월 3일~5일)와 비교하면 한 의원은 18.8%에서 18.7%로 0.1%포인트(p), 김 대표는 14.4%에서 13.8%로 0.6%p, 장 대표는 14.9%에서 13.7%로 1.2%p 각각 낮아졌다. 정당 지지층별로 보면 민주당 지지층(825명)에서는 김 대표가 29.4%로 가장 높았고, 송 의원 13.1%, 조 원장 12.7%, 정 의원 11.3%, 김 전 총리 7.5%의 순이었다. 국민의힘 지지층(777명)에서는 장 대표 31.0%, 한 의원 30.0%, 오 시장 23.6%의 순이었으며, 그 뒤를 진보진영 조 원장(1.4%), 김 대표(1.1%), 정 의원(1.0%)의 순으로 나타났다.\n\n출처: 뉴스1 / https://n.news.naver.com/article/421/0009240342"
+   "feed": "뉴스 07. 국민 절반 이상이 싫어한다…‘비호감의 늪’ 빠진 차기 주자\n\n김민석 더불어민주당 대표가 지난 8월 24일 서울 여의도 국회에서 장동혁 국민의힘 대표를 예방하고 있다. 차기 대권을 노리는 여야 주요 정치인 모두가 국민 절반 이상에게 외면받고 있는 것으로 나타났다. 한국갤럽이 지난 13~15일 전국 만 18세 이상 1003명에게 무선전화 면접 조사 방식으로 진행한 여론조사에 따르면, 여야 주요 정치인 7명의 비호감도는 모두 50%를 넘었다.\n\n비호감도가 가장 낮은 오세훈 서울시장마저 57%에 달했고, 그 뒤로 김민석 더불어민주당 대표(59%), 한동훈 무소속 의원(64%), 정청래 민주당 의원(66%), 장동혁 국민의힘 대표와 조국 조국혁신당 혁신정책연구원장(68%), 이준석 개혁신당 의원(72%) 순으로 비호감도가 강했다. 장 대표와 정 의원은 강성 지지층의 지지를 받는 동시에 당내 반대 진영의 비토 또한 강하다는 공통점이 있다. 이 의원은 국민의힘 대표 시절 윤석열 전 대통령과의 갈등으로 인해 생긴 보수층의 비토 정서를 극복하지 못하고 있다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003559640"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-22/09.png",
-   "pngBytes": 1346410
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/09.png",
+   "pngBytes": 1346412
   }
  ],
- "caption": "📰 10월 22일 오늘의 뉴스\n\n1. [단독] 한 달에 한두 번 출근, 회의도 불참 의혹…이동국, 용인FC '근무 태만' 논란\n   축구 국가대표 출신 이동국 용인FC 테크니컬 디렉터가 구단에 거의 출근하지 않고 전력강화회의에도 제대로 참석하지 않는 등 근무에 소홀했다는 의혹이 제기됐습니다.…\n2. 차기 대통령감? 한동훈 18.7%·김민석 13.8%·장동혁 13.7%\n   한동훈 무소속 의원, 김민석 더불어민주당 대표, 장동혁 국민의힘 대표 /연합뉴스차기 대통령 후보 적합도 조사에서 한동훈 무소속 의원이 18.7%를 기록했다는 여론조사…\n3. \"앞집 때문에 한강 안 보여\"...이중근 부영 회장 항고 기각\n4. \"사기당했다\"던 역삼 방화범…운동기구 디자인 국내외 정상등록(종합)\n   한지은 전재훈 = 서울 강남구 역삼동에서 연쇄 방화를 저지른 70대 A씨의 운동기구 디자인 두 건이 국내뿐 아니라 미국·브라질 등 해외에서도 본인 명의로 등록된 사실이…\n5. 김건희 마이크 건네자 런닝셔츠 차림 尹도 열창…부부 듀엣 영상 공개\n6. 李, '국민 속였다' 유시민 \"처벌 원치 않아\"‥수사 종결 수순\n   이재명 대통령이 정부의 검찰 개혁을 비판했다가 명예훼손 혐의로 고발된 유시민 작가에 대해 \"처벌을 원치 않는다\"는 뜻을 밝힌 것으로 확인됐습니다. 청와대 관계자는 오늘…\n7. 차기 주자 적합도…한동훈 18.7% 선두, 김민석·장동혁 오차범위 내 접전\n   박태훈 = 차기 대통령 후보 적합도 여론조사에서 한동훈 무소속 의원이 18.7%로 가장 높게 나타났다. 국민의힘 지지층에서는 장 대표 31.0%, 한 의원 30.0%…\n\n🗣 “이 대통령이 생각한 검찰 개혁은 우리가 생각한 검찰 개혁과 더불어민주당의 입장, 대통령의 공약이라고 얘기했던 것과는 완전히 다른 것이었다”\n이 발언을 그대로 실은 보도 7건 · 연합뉴스TV · 대구MBC · MBC 뉴스 · 미디어오늘\n· 연합뉴스TV — 이 대통령, ’국민 속였다’ 발언 유시민 처벌 불원\n· 대구MBC — 이재명 대통령 \"'정부의 검찰 개혁 비판' 유시민 처벌 원치 않아\"···수사 종결될 듯\n· MBC 뉴스 — 李, '국민 속였다' 유시민 \"처벌 원치 않아\"‥수사 종결 수순\n· 미디어오늘 — “국민 속인 것” 유시민에 이 대통령 “처벌 원치 않아”\n· 연합뉴스TV — 이 대통령, ’국민 속였다’ 발언 유시민 처벌 불원 뜻 밝혀\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, MBC, TV조선, YTN, 뉴스1, 매일경제, 연합뉴스"
+ "caption": "📰 10월 23일 오늘의 뉴스\n\n1. 한동훈 \"李대통령, 자기가 왕으로 뽑힌 줄 착각\"\n   이재명 대통령이 중수청에 대한 지휘·감독 포기를 '직무유기'라고 규정하자 한 의원은 대통령의 수사 지휘가 오히려 '탄핵 사유'라고 맞받은 것이다. 한 의원은 이날…\n2. 김정은 사망설 번지더니…북한서 포착된 '이상 징후'\n   김정은 북한 국무위원장의 사망설이 해외에서 확산한 가운데 북한 관영매체를 포함한 주요 웹사이트에서 대규모 접속 장애가 이어지고 있다. 접속 장애가 발생한 곳은 외무성…\n3. 이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다\n   서울 송파구 장모 살인사건 피의자 김성우의 아내가 결혼 전부터 상습 폭행에 시달렸으며, 혼인신고도 김성우의 강요에 의해 이뤄졌다고 주장했다. /사진=JTBC…\n4. 한화시스템, 한화오션으로 2.3조 벌고도 불안한 이유\n   한화시스템, 올 한화오션 지분 11% 3조 처분. PRS 계약 따라 한화오션 주가 기준 정산.\n5. 이준석·한동훈, 李 AI 활용 글에 \"대통령 제미나이로 바꾸자\", \"억지 부리지 말고 정신 차려야\"\n   이재명 대통령이 중대범죄수사청장과 공소청장의 국무회의 배석 논란에 생성형 인공지능 제미나이의 답변을 인용해 반박하자 야권의 비판이 쏟아졌다. 개혁신당 이준석 의원은…\n6. \"국감장에 끝까지\"…'개근' 장동혁, 평의원처럼 질의만 24차례\n   지난해에는 국감 첫날 인사만 하고 자리를 비웠는데, 올해는 지방감사까지 내려가 평의원처럼 국감 질의를 이어가고 있다. 이 단체는 2023년 국감 평가에서 당시 김기현…\n7. 국민 절반 이상이 싫어한다…‘비호감의 늪’ 빠진 차기 주자\n   김민석 더불어민주당 대표가 지난 8월 24일 서울 여의도 국회에서 장동혁 국민의힘 대표를 예방하고 있다. 차기 대권을 노리는 여야 주요 정치인 모두가 국민 절반 이상에게…\n\n🗣 “헌법과 법률을 어기며 중수청은 지휘·감독하지 말라는 것인가. 지휘·감독을 공개회의에서 하지 말고 밀실에서 비공개로 하라는 것인가”\n이 발언을 그대로 실은 보도 10건 · 한겨레 · 경기신문 · 신아일보 · 채널A 뉴스\n· 한겨레 — 이 대통령 “중수청 지휘·감독 포기는 탄핵사유…공개회의 열외는 무논리”\n· 경기신문 — 李 대통령 “중수청 지휘감독 포기는 위헌”…SNS서 연이틀 반박\n· 신아일보 — 李대통령 \"중수청 지휘감독 포기는 탄핵사유\"…금기어까지 꺼냈다\n· 채널A 뉴스 — 이 대통령 “중수청 지휘감독 포기하는 건 탄핵 사유”\n· 머니투데이 — 李대통령 \"중수청에 대한 지휘감독 포기는 탄핵사유\" - 머니투데이\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #AI #북한 #대통령실\n\n출처: 뉴스1, 머니투데이, 비즈워치, 시사저널, 중앙일보, 파이낸셜뉴스, 한국경제TV"
 }
