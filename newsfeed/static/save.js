@@ -76,6 +76,27 @@
     setTimeout(() => URL.revokeObjectURL(url), 60000);
   }
 
+  /* ── 아이폰·아이패드: 영상은 공유 창으로 ─────────────────────────────────
+   * 사파리의 내려받기(a[download])는 「파일」 앱으로만 가서 사진 앱·인스타에서 안 보인다.
+   * 공유 창(navigator.share)을 띄우면 「동영상 저장」(사진 앱)이나 인스타로 바로 보낼 수 있다.
+   * 🔴 영상만 이 길로 보낸다. 카드 그림은 여러 장을 연달아 저장하는데(deck.js), 공유 창은
+   *    누른 직후 한 번만 열리므로 두 번째 장부터 막힌다. 안드로이드는 내려받기가 갤러리로 가서 그대로 둔다. */
+  const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent)
+    || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);   // 아이패드 사파리는 맥으로 자칭한다
+
+  async function shareVideo(blob, name) {
+    if (!isIOS || !navigator.canShare || !/^video\//.test(blob.type || '')) return null;
+    const f = new File([blob], name, { type: blob.type });
+    if (!navigator.canShare({ files: [f] })) return null;
+    try {
+      await navigator.share({ files: [f] });
+      return '공유 창 (「동영상 저장」을 고르면 사진 앱에 들어갑니다)';
+    } catch (e) {
+      if (e && e.name === 'AbortError') return '공유 창 (닫음 - 다시 누르면 됩니다)';
+      return null;                       // 막혔다(누른 지 오래됨 등) - 내려받기로
+    }
+  }
+
   /** 같은 이름이 있으면 `_2`, `_3` 으로 비켜 간다(덮어쓰기 사고 방지). */
   async function freeName(dir, name) {
     const dot = name.lastIndexOf('.');
@@ -114,6 +135,8 @@
         }
       }
     }
+    const shared = await shareVideo(blob, name);
+    if (shared) return shared;
     download(blob, name);
     return '내려받기 폴더 / ' + name;
   }
@@ -147,5 +170,5 @@
     host.appendChild(wrap);
   }
 
-  global.SAVE = { file, pick, where, mount, fromDataUrl, canPick };
+  global.SAVE = { file, pick, where, mount, fromDataUrl, canPick, isIOS };
 })(window);
