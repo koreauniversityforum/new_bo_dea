@@ -46,7 +46,8 @@
 
 /* --- 무대: 실제 영상·사진 미리보기 --- */
 .phone-stage{container-type:inline-size}
-.stage-media{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;background:#000;z-index:1}
+/* 자르지 않고 검은 여백 안에 맞춘다(중요 원칙: 사진·영상은 필터 없이). 내보내기 keyframeFilter 와 같은 모양. */
+.stage-media{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;z-index:1}
 /* 전환이 물리는 동안 앞 클립이 아래에서 그대로 보여야 디졸브가 된다. */
 .stage-under{z-index:0}
 .caption-layer{position:absolute;inset:0;z-index:4;pointer-events:none}

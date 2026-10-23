@@ -73,7 +73,8 @@
     let type = 'fade';
     if (index === 0) type = 'cut';
     else if (/비교|전후|반면|바꾸|전환/.test(text)) type = 'wipe';
-    else if (/결과|핵심|강조|놀|중요/.test(text)) type = 'zoom';
+    // 강조는 컷으로 한다. 「확대」 전환은 필터라 쓰지 않는다(중요 원칙: 사진·영상은 필터 없이).
+    else if (/결과|핵심|강조|놀|중요/.test(text)) type = 'cut';
     else if (/과정|순서|다음|이동/.test(text)) type = 'slide';
     else if (/감성|따뜻|추억|시간/.test(text)) type = 'fade';
     else if (index === total - 1) type = 'fade';

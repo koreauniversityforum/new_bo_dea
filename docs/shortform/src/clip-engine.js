@@ -125,7 +125,9 @@ function pickMoments(transcript, options = {}) {
       reasons: candidate.reasons,
       hook: hookFrom(inside),
       text: inside.map((segment) => segment.text).join(' '),
-      words: inside.flatMap((segment) => segment.words || [])
+      words: inside.flatMap((segment) => segment.words || []),
+      // 화면의 「자막 고치기」가 문장 단위로 고친다(editSegment).
+      segments: inside.map((segment) => ({ start: segment.start, end: segment.end, text: segment.text, words: segment.words || [] }))
     };
   });
 }
@@ -164,31 +166,48 @@ function layoutFromFaces(windowData, width, height, force) {
 
   if (mode === 'track') {
     // 큰 얼굴 중심(붙어 선 두 사람이면 둘의 가운데)을 따라가되 비어 있는 표본은 앞 값을 잡고, 작은 흔들림은 무시한다.
-    let held = null;
-    const raw = samples.map((sample) => {
+    // 장면이 바뀌는 자리(cuts, clip_helper 가 ffmpeg scene 값으로 찾음)에서는 천천히 따라가지 않고 그 자리에서 옮긴다.
+    // 천천히 따라가면 장면이 바뀐 뒤 화면이 미끄러지듯 옮겨 가는 것이 보인다(실측).
+    const cuts = (windowData?.cuts || []).filter((t) => t > 0.2).sort((a, b) => a - b);
+    const shotOf = (t) => cuts.filter((cut) => cut <= t).length;
+    const toX = (center) => Math.round(clamp(center * width - cropWidth / 2, 0, width - cropWidth));
+    const centerOf = (sample) => {
       const [first, second] = sample.faces;
-      if (first && second && together) {
-        const left = Math.min(first.x, second.x);
-        held = (left + Math.max(first.x + first.w, second.x + second.w)) / 2;
-      } else if (first) held = first.x + first.w / 2;
-      return held;
-    });
-    const firstSeen = raw.find((value) => value !== null) ?? 0.5;
-    const centers = raw.map((value) => value ?? firstSeen);
+      if (first && second && together) return (Math.min(first.x, second.x) + Math.max(first.x + first.w, second.x + second.w)) / 2;
+      return first ? first.x + first.w / 2 : null;
+    };
     const deadZone = (cropWidth / width) * 0.12;
-    let camera = centers[0] ?? 0.5;
-    const steady = centers.map((value) => {
-      if (Math.abs(value - camera) > deadZone) camera += (value - camera) * 0.45;
-      return camera;
-    });
-    // 표본은 초당 2장. 1초 간격 점만 남겨 식을 짧게 한다(마지막 표본은 꼭 넣는다).
     const gap = (samples[1]?.t ?? 0.5) - (samples[0]?.t ?? 0) || 0.5;
     const step = Math.max(1, Math.round(1 / gap));
-    layout.track = steady
-      .map((center, index) => ({ index, center }))
-      .filter(({ index }) => index % step === 0 || index === steady.length - 1)
-      .map(({ index, center }) => ({ t: round(samples[index].t), x: Math.round(clamp(center * width - cropWidth / 2, 0, width - cropWidth)) }));
-    if (!layout.track.length) layout.track = [{ t: 0, x: Math.round((width - cropWidth) / 2) }];
+    const points = [];
+    const shots = [...new Set(samples.map((sample) => shotOf(sample.t)))];
+    shots.forEach((shot) => {
+      const inShot = samples.filter((sample) => shotOf(sample.t) === shot);
+      const raw = inShot.map(centerOf);
+      const firstSeen = raw.find((value) => value !== null) ?? 0.5;
+      let held = firstSeen;
+      let camera = firstSeen;
+      const steady = raw.map((value) => {
+        if (value !== null) held = value;
+        if (Math.abs(held - camera) > deadZone) camera += (held - camera) * 0.45;
+        return camera;
+      });
+      const shotStart = shot === 0 ? 0 : cuts[shot - 1];
+      if (shot > 0 && points.length) {
+        // 바로 앞 프레임까지는 앞 장면 자리, 장면이 바뀌는 순간 새 자리로(0.04초 = 한 프레임 남짓).
+        points.push({ t: round(Math.max(points.at(-1).t + 0.01, shotStart - 0.04)), x: points.at(-1).x });
+        points.push({ t: round(shotStart), x: toX(steady[0]) });
+      }
+      // 표본은 초당 2장. 1초 간격 점만 남겨 식을 짧게 한다(장면의 마지막 표본은 꼭 넣는다).
+      steady.forEach((center, index) => {
+        if (index % step !== 0 && index !== steady.length - 1) return;
+        const t = round(inShot[index].t);
+        if (points.length && t <= points.at(-1).t) return;
+        points.push({ t, x: toX(center) });
+      });
+    });
+    layout.track = points.length ? points : [{ t: 0, x: Math.round((width - cropWidth) / 2) }];
+    layout.cuts = cuts;
   }
 
   if (mode === 'split') {
@@ -227,16 +246,28 @@ function trackExpression(track) {
   return expression;
 }
 
-function videoFilter(layout, width, height) {
+// input: 원본 그대로면 [0:v], 군말·침묵을 뺀 뒤면 이어 붙인 [cat] 을 받는다.
+function videoFilter(layout, width, height, input = '[0:v]') {
   if (layout.mode === 'track') {
     const cropWidth = even(height * 9 / 16);
     // 식 안의 쉼표가 필터 구분자로 읽히지 않게 작은따옴표로 감싼다.
-    return `[0:v]crop=${cropWidth}:${even(height)}:x='${trackExpression(layout.track)}':y=0,scale=1080:1920,setsar=1[base]`;
+    return `${input}crop=${cropWidth}:${even(height)}:x='${trackExpression(layout.track)}':y=0,scale=1080:1920,setsar=1[base]`;
   }
   if (layout.mode === 'split') {
-    return `[0:v]split[ta][tb];[ta]${splitCrop(layout.split.top, width, height)}[top];[tb]${splitCrop(layout.split.bottom, width, height)}[bottom];[top][bottom]vstack,setsar=1[base]`;
+    return `${input}split[ta][tb];[ta]${splitCrop(layout.split.top, width, height)}[top];[tb]${splitCrop(layout.split.bottom, width, height)}[bottom];[top][bottom]vstack,setsar=1[base]`;
   }
-  return '[0:v]scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2:black,setsar=1[base]';
+  return `${input}scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2:black,setsar=1[base]`;
+}
+
+// 남길 구간들을 잘라 이어 붙이는 필터. 결과 라벨 [cat](영상)·[acat](소리).
+function concatFilter(intervals, withAudio) {
+  const parts = intervals.map((item, index) => {
+    const v = `[0:v]trim=start=${item.start.toFixed(3)}:end=${item.end.toFixed(3)},setpts=PTS-STARTPTS[v${index}]`;
+    const a = withAudio ? `;[0:a]atrim=start=${item.start.toFixed(3)}:end=${item.end.toFixed(3)},asetpts=PTS-STARTPTS[a${index}]` : '';
+    return v + a;
+  });
+  const labels = intervals.map((_, index) => `[v${index}]${withAudio ? `[a${index}]` : ''}`).join('');
+  return `${parts.join(';')};${labels}concat=n=${intervals.length}:v=1:a=${withAudio ? 1 : 0}[cat]${withAudio ? '[acat]' : ''}`;
 }
 
 const FONT_FAMILY = {
@@ -345,4 +376,133 @@ function buildAss(moment, options = {}) {
   return lines.join('\n') + '\n';
 }
 
-module.exports = { pickMoments, layoutFromFaces, videoFilter, buildAss, chunkWords, trackExpression, hookFrom, tokens, wrapLines, charsPerLine };
+// ── 자막 고치기 ─────────────────────────────────────────────────────────
+// 받아쓰기가 틀린 문장(「쌌습니다→쌓습니다」 실측)을 사람이 고치면, 낱말 수가 같으면 시각을 그대로 쓰고
+// 다르면 그 문장의 말한 구간(첫 낱말 시작~끝 낱말 끝)에 글자 수 비율로 다시 나눠 놓는다.
+function editSegment(segment, text) {
+  const words = String(text || '').trim().split(/\s+/).filter(Boolean);
+  const old = segment.words || [];
+  if (!words.length) return { ...segment, text: '', words: [] };
+  if (words.length === old.length) return { ...segment, text: words.join(' '), words: old.map((word, index) => ({ ...word, w: words[index] })) };
+  const from = old[0]?.s ?? segment.start;
+  const to = old.at(-1)?.e ?? segment.end;
+  const total = words.reduce((sum, word) => sum + word.length, 0);
+  let cursor = from;
+  const placed = words.map((word) => {
+    const span = (to - from) * word.length / total;
+    const item = { w: word, s: round(cursor), e: round(cursor + span), p: 1 };
+    cursor += span;
+    return item;
+  });
+  return { ...segment, text: words.join(' '), words: placed };
+}
+
+// ── 군말·침묵 빼기 ──────────────────────────────────────────────────────
+// 낱말 시각으로 남길 구간을 만든다. 「음·어·아」처럼 홀로 쓰인 군말은 빼고, 낱말 사이가 maxGap 보다
+// 길면 앞뒤로 keepPad 만 남긴다. 결과는 구간 시작(moment.start) 기준 초.
+const FILLERS = new Set(['음', '어', '아', '에', '흠', '음음', '어어', '그', '저', '뭐']);
+function isFiller(word) { return FILLERS.has(String(word).replace(/[.,?!…~]/g, '')); }
+
+function keepIntervals(moment, options = {}) {
+  const maxGap = options.maxGap ?? 0.7;
+  const pad = options.keepPad ?? 0.15;
+  const length = moment.end - moment.start;
+  const words = (moment.words || [])
+    .map((word) => ({ ...word, s: word.s - moment.start, e: word.e - moment.start }))
+    .filter((word) => word.e > 0 && word.s < length && !isFiller(word.w));
+  if (!words.length) return [{ start: 0, end: round(length) }];
+  const intervals = [];
+  let current = { start: Math.max(0, words[0].s - pad), end: words[0].e + pad };
+  for (const word of words.slice(1)) {
+    if (word.s - current.end <= maxGap) current.end = word.e + pad;
+    else { intervals.push(current); current = { start: word.s - pad, end: word.e + pad }; }
+  }
+  intervals.push(current);
+  return intervals.map((item) => ({ start: round(Math.max(0, item.start)), end: round(Math.min(length, item.end)) }))
+    .filter((item) => item.end - item.start > 0.1);
+}
+
+// 원래 시각 t(구간 기준) → 군말·침묵을 뺀 뒤의 시각. 잘린 자리 안이면 null.
+function remapTime(t, intervals) {
+  let offset = 0;
+  for (const item of intervals) {
+    if (t < item.start) return null;
+    if (t <= item.end) return round(offset + t - item.start);
+    offset += item.end - item.start;
+  }
+  return null;
+}
+
+// 구간 하나를 「뺀 뒤」 모양으로: 낱말 시각·추적 점·장면 바뀜을 새 시간축으로 옮긴다(시작=0, 끝=새 길이).
+function tightenMoment(moment, layout, intervals) {
+  const newLength = round(intervals.reduce((sum, item) => sum + item.end - item.start, 0));
+  const words = (moment.words || []).map((word) => {
+    if (isFiller(word.w)) return null;
+    const s = remapTime(word.s - moment.start, intervals);
+    const e = remapTime(Math.min(word.e - moment.start, moment.end - moment.start), intervals);
+    return s === null || e === null ? null : { ...word, s, e };
+  }).filter(Boolean);
+  const next = { ...layout };
+  if (layout?.track) {
+    const points = layout.track.map((point) => ({ ...point, t: remapTime(point.t, intervals) })).filter((point) => point.t !== null);
+    // 잘린 이음매마다 그 자리의 x 로 점을 하나씩 넣어 식이 비지 않게 한다.
+    let offset = 0;
+    intervals.forEach((item) => {
+      const near = layout.track.reduce((best, point) => (Math.abs(point.t - item.start) < Math.abs(best.t - item.start) ? point : best), layout.track[0]);
+      points.push({ t: round(offset), x: near.x });
+      offset += item.end - item.start;
+    });
+    points.sort((a, b) => a.t - b.t);
+    next.track = points.filter((point, index) => index === 0 || point.t > points[index - 1].t);
+  }
+  return { moment: { ...moment, start: 0, end: newLength, words }, layout: next, length: newLength };
+}
+
+// ── 게시 글 (OpenShorts 의 YouTube Studio 부분을 규칙으로) ─────────────────
+// 제목 후보 3 · 설명 · 해시태그(인스타 한도 5개) · 원본 영상 챕터. 지어내지 않고 받아쓴 문장에서만 고른다.
+const ADVERBS = new Set(['먼저', '계속', '다시', '바로', '크게', '많이', '가장', '아직', '솔직하게', '생각보다', '함께', '모두', '정말로', '이번', '오늘', '처음부터', '완벽하게', '여러분']);
+// tokens() 가 끝의 「요」를 조사로 떼므로 「것이었어(요)·안녕하세(요)」 꼴도 여기서 걸러야 한다(실측).
+const VERBAL_END = /(면|고|서|며|게|지|기|니|다|요|죠|네|는데|어서|아서|려고|면서|했|합|하는|된|되는|있|없|았|었|겠|던|든|어|아|세|냐|까|야)$/;
+function nounish(word) { return word.length >= 2 && !ADVERBS.has(word) && !VERBAL_END.test(word); }
+
+function postText(moment, transcript) {
+  const sentences = (moment.segments || []).map((segment) => segment.text.trim()).filter(Boolean);
+  const all = (transcript?.segments || []).map((segment) => segment.text).join(' ');
+  const counts = new Map();
+  tokens(all).forEach((word) => counts.set(word, (counts.get(word) || 0) + 1));
+  const inMoment = new Set(tokens(moment.text));
+  // 해시태그는 명사 같은 낱말만: 「먼저·말씀드리면·발표하기」처럼 부사·활용형이 걸렸다(실측).
+  // 영상 전체에서 두 번 이상 나온 것을 먼저, 모자라면 한 번 나온 것으로 채운다.
+  const ranked = [...counts.entries()].filter(([word]) => inMoment.has(word) && nounish(word))
+    .sort((a, b) => (b[1] >= 2) - (a[1] >= 2) || b[1] - a[1] || b[0].length - a[0].length);
+  const tags = ranked.slice(0, 5).map(([word]) => `#${word}`);
+  const titles = [...new Set([
+    moment.hook,
+    sentences.find((text) => isQuestion(text)),
+    sentences.find((text) => HOOK_CUES.some((cue) => text.includes(cue))),
+    sentences[0]
+  ].filter(Boolean).map((text) => text.replace(/…$/, '')))].slice(0, 3);
+  const description = sentences.slice(0, 3).join(' ');
+  return { titles, description, tags };
+}
+
+// 원본 영상 챕터: 1.5초 넘게 쉬는 자리에서, 앞 챕터가 60초를 넘었을 때 나눈다. 제목은 그 챕터 첫 문장을 줄인 것.
+function chapters(transcript, minLength = 60) {
+  const segments = transcript?.segments || [];
+  if (!segments.length) return [];
+  const list = [{ start: 0, first: segments[0] }];
+  segments.forEach((segment, index) => {
+    const previous = segments[index - 1];
+    if (!previous) return;
+    if (segment.start - previous.end >= 1.5 && segment.start - list.at(-1).start >= minLength) list.push({ start: segment.start, first: segment });
+  });
+  const stamp = (seconds) => {
+    const value = Math.floor(seconds);
+    const hours = Math.floor(value / 3600);
+    const rest = `${Math.floor(value % 3600 / 60)}:${String(value % 60).padStart(2, '0')}`;
+    return hours ? `${hours}:${rest.padStart(5, '0')}` : rest;
+  };
+  return list.map((item) => ({ start: item.start, label: `${stamp(item.start)} ${hookFrom([item.first], 28).replace(/…$/, '')}` }));
+}
+
+module.exports = { editSegment, keepIntervals, remapTime, tightenMoment, postText, chapters, isFiller, concatFilter, pickMoments, layoutFromFaces, videoFilter, buildAss, chunkWords, trackExpression, hookFrom, tokens, wrapLines, charsPerLine };

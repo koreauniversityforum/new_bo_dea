@@ -125,10 +125,28 @@ function createEditorWindow() {
             state.outDir = ${JSON.stringify(process.env.SHORTFORM_QA_OUT || '')} || null;
             $('#previewVideo').src = fileUrl(state.video.path);
             await analyze();
+            const log = {};
+            if (state.jev && ${JSON.stringify(process.env.SHORTFORM_QA_JEV || '')}) { await jevRank(); log.jev = state.moments.map((m) => m.reasons.find((r) => r.startsWith('Jev'))); }
+            // 자막 고치기: 첫 후보 첫 문장의 끝 낱말을 바꿔 본다
+            const first = state.moments[0];
+            const seg = first.segments[0];
+            const editedText = seg.text.replace(/\\S+$/, '(고침)');
+            const edited = await window.studio.clipEditSegment({ segment: seg, text: editedText });
+            const idx = state.transcript.segments.findIndex((s) => s.start === seg.start && s.end === seg.end);
+            state.transcript.segments[idx] = { ...state.transcript.segments[idx], text: edited.text, words: edited.words };
+            state.moments.forEach((m) => { if (m.end > seg.start && m.start < seg.end) refreshMomentText(m); });
+            log.edited = first.words.some((w) => w.w === '(고침)');
+            first.tighten = true;
+            first.keep = await window.studio.clipKeepPreview({ moment: first });
+            log.keep = first.keep;
+            const preview = await window.studio.clipPreview(renderPayload({ moment: momentForRender(first) }));
+            log.preview = preview;
+            await makeChapters();
+            log.chapters = $('#chapterText').value;
             state.moments.forEach((moment, index) => { moment.picked = index < 2; });
             renderMoments();
             await render();
-            return { moments: state.moments.map((m) => ({ start: m.start, end: m.end, score: m.score, hook: m.hook, mode: m.layout?.mode, reason: m.layout?.reason })), results: state.results, progress: $('#clipProgressText').textContent };
+            return { log, moments: state.moments.map((m) => ({ start: m.start, end: m.end, score: m.score, hook: m.hook, mode: m.layout?.mode, reason: m.layout?.reason, cuts: m.layout?.cuts })), results: state.results, progress: $('#clipProgressText').textContent };
           })()`);
           fs.writeFileSync(`${process.env.SHORTFORM_QA_SCREENSHOT}.json`, JSON.stringify(report, null, 2));
           // 뒤에 깔린 창은 그리기가 멈춰 옛 화면이 찍힌다 → 앞으로 꺼내고 다시 그린 뒤 찍는다.
@@ -477,7 +495,8 @@ function keyframeFilter(clip) {
   const panX = Number(keys.panX) || 0;
   const panY = Number(keys.panY) || 0;
   if (startScale === 1 && endScale === 1 && !panX && !panY) {
-    return 'scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30';
+    // 🔴 중요 원칙 「사진·영상은 필터 없이」: 잘라 채우지 않고 검은 여백 안에 맞춘다(미리보기 object-fit:contain 과 같음).
+    return 'scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2:black,setsar=1,fps=30';
   }
   const frames = Math.max(2, Math.round(clip.duration * 30)) - 1;
   const zoom = `${startScale.toFixed(3)}+(${(endScale - startScale).toFixed(3)})*on/${frames}`;
@@ -502,14 +521,14 @@ function overlayX(clip) {
 // 앞 클립과 물리는 구간에서 알파를 녹여야 진짜 디졸브가 된다.
 // alpha=1 을 빼면 색만 검게 빠져서 앞 영상이 아니라 검은 화면이 비친다.
 // 뒤 클립이 위에 겹쳐 오므로 끝 페이드는 마지막 클립에서만 쓴다.
+// 🔴 중요 원칙 「사진·영상은 필터 없이」(2026-10-23): 플래시(흰 섬광)·블러·확대 전환은 굽지 않는다.
+// 예전 프로젝트에 남은 값은 디졸브로 굽는다.
 function transitionFilter(clip, isLast) {
   const duration = Math.max(0.05, Number(clip.transitionDuration) || 0.35);
   const d = duration.toFixed(2);
   const endStart = Math.max(0, clip.duration - duration).toFixed(2);
   const tail = isLast ? `,fade=t=out:st=${endStart}:d=${d}:alpha=1` : '';
-  if (clip.transition === 'flash') return `,fade=t=in:st=0:d=${d}:color=white${tail}`;
-  if (clip.transition === 'blur') return `,gblur=sigma=8:enable='lt(t,${d})',fade=t=in:st=0:d=${d}:alpha=1${tail}`;
-  if (clip.transition === 'fade' || clip.transition === 'zoom') return `,fade=t=in:st=0:d=${d}:alpha=1${tail}`;
+  if (['fade', 'zoom', 'blur', 'flash'].includes(clip.transition)) return `,fade=t=in:st=0:d=${d}:alpha=1${tail}`;
   return tail;
 }
 

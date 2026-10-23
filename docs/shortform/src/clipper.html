@@ -45,12 +45,24 @@
     </section>
 
     <div class="block-head"><h2>쇼츠 후보</h2><span id="momentSummary">영상을 고르고 「구간 찾기」를 누르세요.</span></div>
+    <div class="clip-tools" id="clipTools" hidden>
+      <button class="button ghost" id="jevRankButton" hidden title="규칙이 고른 후보마다 Jev 에게 「따로 봐도 이야기가 되는가」「자연스럽게 끝나는가」를 물어 순위를 보정합니다. 후보 하나에 2원 안팎.">Jev로 다시 고르기</button>
+      <button class="button ghost" id="chaptersButton" title="원본 영상 전체의 챕터(유튜브 설명란용)를 받아쓴 문장으로 만듭니다">원본 챕터 만들기</button>
+    </div>
+    <section class="clip-chapters" id="chapterBox" hidden>
+      <textarea id="chapterText" rows="6" spellcheck="false"></textarea>
+      <div class="clip-chapter-actions"><small id="chapterNote"></small><button class="button ghost" id="chapterCopy">복사</button><button class="button ghost" id="chapterSave">파일로 저장</button></div>
+    </section>
     <section class="clip-workspace">
       <div class="moment-list" id="momentList"></div>
       <aside class="clip-side">
         <div class="clip-preview">
           <video id="previewVideo" playsinline controls></video>
           <small id="previewNote">후보를 누르면 원본의 그 구간이 재생됩니다.</small>
+        </div>
+        <div class="clip-preview clip-vertical" id="verticalBox" hidden>
+          <video id="verticalVideo" playsinline controls></video>
+          <small id="verticalNote">세로 미리보기 (앞 8초, 저화질)</small>
         </div>
         <div class="clip-style">
           <h3>자막 · 훅 모양</h3>

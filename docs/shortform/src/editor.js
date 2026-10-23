@@ -13,7 +13,10 @@ const PLATFORM_SAFE = {
   youtube: { top: 0.08, bottom: 0.22, right: 0.16, label: 'YouTube Shorts' }
 };
 
-const TRANSITIONS = { cut: '컷', fade: '디졸브', slide: '밀기', zoom: '확대', wipe: '와이프', blur: '블러', flash: '플래시' };
+// 🔴 중요 원칙 「사진·영상은 필터 없이」(2026-10-23): 확대·블러·플래시 전환은 뺐다.
+// 예전 프로젝트에 남은 값은 열 때 디졸브로 바꾼다(noFilterTransition).
+const TRANSITIONS = { cut: '컷', fade: '디졸브', slide: '밀기', wipe: '와이프' };
+function noFilterTransition(value) { return TRANSITIONS[value] ? value : value ? 'fade' : 'cut'; }
 
 const state = {
   title: '새 숏폼 프로젝트',
@@ -690,13 +693,12 @@ function updateStageMedia() {
     const node = clip.type === 'image' ? image : video;
     const transitionDuration = Math.max(0.05, Number(clip.transitionDuration) || 0.35);
     const entering = Math.max(0, Math.min(1, (time - clip.start) / transitionDuration));
-    const transitionScale = clip.transition === 'zoom' ? 1.08 - entering * 0.08 : 1;
-    node.style.transform = `translate(${panX}px, ${panY}px) scale(${scale * transitionScale})`;
-    node.style.opacity = ['fade', 'zoom', 'blur', 'flash'].includes(clip.transition) ? String(entering) : '1';
-    node.style.filter = clip.transition === 'blur' ? `blur(${(1 - entering) * 14}px)`
-      : clip.transition === 'flash' ? `brightness(${1 + (1 - entering) * 2.2})` : '';
-    node.style.clipPath = clip.transition === 'wipe' ? `inset(0 ${(1 - entering) * 100}% 0 0)` : '';
-    if (clip.transition === 'slide') node.style.transform += ` translateX(${(1 - entering) * 100}%)`;
+    const transition = noFilterTransition(clip.transition);
+    node.style.transform = `translate(${panX}px, ${panY}px) scale(${scale})`;
+    node.style.opacity = transition === 'fade' ? String(entering) : '1';
+    node.style.filter = '';
+    node.style.clipPath = transition === 'wipe' ? `inset(0 ${(1 - entering) * 100}% 0 0)` : '';
+    if (transition === 'slide') node.style.transform += ` translateX(${(1 - entering) * 100}%)`;
   }
 
   const audioClip = state.tracks.audio.muted ? null : activeAudioClip(time);
@@ -822,7 +824,7 @@ function applyConcept(concept) {
     ? captionsFromScenes(concept.scenes)
     : captionsFromScript(concept.script || [concept.hook], state.duration);
   if (concept.scenes?.length) {
-    const map = { '컷 전환': 'cut', '점프 컷': 'cut', '화이트 플래시': 'fade', '왼쪽으로 밀기': 'slide', '확대 후 컷': 'zoom' };
+    const map = { '컷 전환': 'cut', '점프 컷': 'cut', '화이트 플래시': 'fade', '왼쪽으로 밀기': 'slide', '확대 후 컷': 'cut' };
     state.defaultTransition = map[concept.scenes[0].transition] || 'cut';
   }
   spreadVideoClipsOverDuration();
@@ -1028,7 +1030,8 @@ async function addImportedMedia(media, placement = null, replace = false) {
       id: newId('v'), mediaId: media.id, name: media.name, path: media.path, type: media.type,
       start: placement.start, duration: Math.max(0.6, placement.end - placement.start), inPoint: 0,
       transition: recommendation.type, transitionDuration: recommendation.duration,
-      keyframes: { startScale: 100, endScale: media.type === 'image' ? 108 : 100, panX: 0, panY: 0 }
+      // 사진도 확대하지 않는다(켄 번즈 = 필터). 확대가 필요하면 사용자가 키프레임에서 직접 켠다.
+      keyframes: { startScale: 100, endScale: 100, panX: 0, panY: 0 }
     });
     state.timeline.video.sort((a, b) => a.start - b.start);
     syncDurationToTimeline();
@@ -1255,7 +1258,11 @@ function migrateProject(project) {
     next.tracks = { video: { locked: false, hidden: false }, caption: { locked: false, hidden: false }, audio: { locked: false, muted: false } };
   }
   next.defaultTransitionDuration = Number(next.defaultTransitionDuration) || 0.35;
-  (next.timeline.video || []).forEach((clip) => { if (!Number.isFinite(Number(clip.transitionDuration))) clip.transitionDuration = 0.35; });
+  (next.timeline.video || []).forEach((clip) => {
+    if (!Number.isFinite(Number(clip.transitionDuration))) clip.transitionDuration = 0.35;
+    clip.transition = noFilterTransition(clip.transition);
+  });
+  if (next.defaultTransition) next.defaultTransition = noFilterTransition(next.defaultTransition);
   delete next.script;
   return next;
 }

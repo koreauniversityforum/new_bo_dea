@@ -61,5 +61,11 @@ const ranked = rankMedia([
 ], briefs[0]);
 
 if (briefs.length !== 2 || ranked[0].title !== 'coffee making hands') process.exit(1);
-if (recommendTransition(concept.scenes[1], 1, 2, concept.cutTempo).type !== 'zoom') process.exit(1);
+// 강조 장면은 컷(필터 전환 금지 원칙). 어떤 장면에도 확대·블러·플래시를 추천하면 안 된다.
+if (recommendTransition(concept.scenes[1], 1, 2, concept.cutTempo).type !== 'cut') process.exit(1);
+const filterTransitions = ['zoom', 'blur', 'flash'];
+const sampleTexts = ['결과 공개', '핵심 강조', '감성 추억', '과정 순서', '비교 전후', '평범한 장면'];
+if (sampleTexts.some((caption, index) => filterTransitions.includes(recommendTransition({ caption }, index + 1, 9).type))) process.exit(1);
+// 화면 메뉴에도 필터 전환이 없어야 한다.
+if (/value="(zoom|blur|flash)"/.test(html)) { console.error('editor.html 에 필터 전환이 남아 있음'); process.exit(1); }
 console.log(`편집기 요소 ${new Set(referencedIds).size}개 · 헌터 요소 ${new Set(hunterIds).size}개 · 레퍼런스 분해 · 장면 매칭 · 소재 순위 · 전환 추천 검증 통과`);

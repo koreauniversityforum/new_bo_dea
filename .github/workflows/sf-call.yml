@@ -31,7 +31,7 @@ jobs:
       - name: 준비 (ffmpeg · 음성 모듈)
         run: |
           command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null)
-          cd docs/shortform && npm install --no-audit --no-fund --silent --omit=dev node-edge-tts@1.2.10 >/dev/null
+          cd docs/shortform && npm install --no-audit --no-fund --silent --omit=dev node-edge-tts@1.2.11 >/dev/null  # 1.2.10 은 2026-10 부터 403(실측)
       - name: 대신 처리
         env:
           GITHUB_TOKEN: ${{ github.token }}
