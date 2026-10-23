@@ -387,3 +387,7 @@ button.ai:disabled{opacity:.35;cursor:not-allowed;filter:grayscale(.6)}
 .bgm-q.bgm-alt{background:transparent;color:var(--dim);border-style:dashed}
 .bgm-avoid{font-size:11px;color:#e08c8c;margin:8px 0 0}
 .bgm-tip{font-size:10.5px;color:#6f7889;line-height:1.6;margin:6px 0 0}
+
+/* 사진 필터 토글(2026-10-23, 중요 원칙 「사진·영상은 필터 없이」): 꺼져 있으면 슬라이더를 흐리게 보여 준다(끌면 켜짐). */
+.photo-filter-box.off{opacity:.45}
+.photo-filter-toggle{font-weight:600}

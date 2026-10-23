@@ -91,6 +91,18 @@
       <label>세로 위치 <span class="val">50</span></label>
       <input id="oPos" type="range" min="0" max="100" value="50">
     </div>
+    <label class="lbl" style="font-weight:600"><input id="oFilter" type="checkbox"> 사진 필터 쓰기 (어둡게·흐림)</label>
+    <p class="note" style="margin:2px 0 6px">끄면 사진은 원본 그대로입니다. 아래 슬라이더를 끌면 자동으로 켜집니다.</p>
+    <div id="oFilterBox">
+      <div class="ctl">
+        <label>어둡게 <span class="val">62</span></label>
+        <input id="oDim" type="range" min="0" max="90" value="62">
+      </div>
+      <div class="ctl">
+        <label>흐림 <span class="val">0</span></label>
+        <input id="oBlur" type="range" min="0" max="30" value="0">
+      </div>
+    </div>
 
     <div id="paperCtl" class="ctl" style="display:none">
       <label>바탕 밝기 <span class="val">90</span> <span class="hint">낮추면 배경이 비쳐 보입니다</span></label>
@@ -367,6 +379,15 @@ bindRange('wmAlpha', v => ST.wmAlpha = v);
 bindRange('oZoom', v => ST.zoom = v);
 bindRange('oPos', v => ST.pos = v);
 bindRange('oPaper', v => ST.paper = v);
+// 사진 필터 토글. 슬라이더를 끌면 「쓰겠다」는 뜻으로 보고 토글도 같이 켠다(앞장과 같은 방식).
+function setFilter(on) {
+  ST.photoFilter = !!on;
+  $('oFilter').checked = ST.photoFilter;
+  $('oFilterBox').style.opacity = ST.photoFilter ? '' : '.45';
+}
+$('oFilter').addEventListener('change', () => { setFilter($('oFilter').checked); save(); renderAll(); });
+bindRange('oDim', v => { setFilter(true); ST.photoDim = v; });
+bindRange('oBlur', v => { setFilter(true); ST.photoBlur = v; });
 $('oName').addEventListener('input', () => { ST.name = $('oName').value; save(); });
 $('oLogo').addEventListener('change', async () => {
   ST.logo = $('oLogo').value;
@@ -469,6 +490,7 @@ $('btnReset').addEventListener('click', () => {
   $('wmPos').value = ST.wmPos; $('wmTone').value = ST.wmTone;
   $('wmSize').value = ST.wmSize; $('wmAlpha').value = ST.wmAlpha;
   $('wmMark').checked = !!ST.wmMark;
+  $('oDim').value = ST.photoDim; $('oBlur').value = ST.photoBlur; setFilter(ST.photoFilter);
   sync(); syncBg(); syncWm();
   try {
     const j = await (await fetch('/api/assets')).json();

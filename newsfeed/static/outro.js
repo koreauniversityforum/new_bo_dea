@@ -563,13 +563,19 @@ const OUTRO = (() => {
     const kind = (o.bgKind === 'photo' && !o.bg) ? 'aurora' : (o.bgKind || 'aurora');
 
     if (kind === 'photo') {
+      // 🔴 중요 원칙 「사진·영상은 필터 없이」(2026-10-23): 사진 위 어둡게·흐림·위쪽 막은 o.photoFilter 를 켰을 때만.
+      // 켜면 장마다 정해 둔 값 대신 편집 화면의 슬라이더 값(o.photoDim 0~1, o.photoBlur px)을 쓴다.
+      const on = !!o.photoFilter;
+      const pBlur = on ? (o.photoBlur ?? blur) : 0;
       ctx.save();
-      if (blur) ctx.filter = `blur(${blur}px)`;
+      if (pBlur) ctx.filter = `blur(${pBlur}px)`;
       cover(ctx, o.bg, o.bgView);
       ctx.restore();
-      ctx.fillStyle = rgba('#01060f', dim);
-      ctx.fillRect(0, 0, W, H);
-      scrim(ctx, 0, top);
+      if (on) {
+        ctx.fillStyle = rgba('#01060f', o.photoDim ?? dim);
+        ctx.fillRect(0, 0, W, H);
+        scrim(ctx, 0, top);
+      }
     } else if (kind === 'solid') {
       solidBg(ctx, color);
       scrim(ctx, dim * 0.35, top * 0.5);

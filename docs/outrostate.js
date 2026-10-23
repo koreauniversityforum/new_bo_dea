@@ -18,7 +18,9 @@
       sel: OUTRO.TEMPLATES[0].id, name: '뉴보대_뒷장',
       bgKind: p.kind, bgColor: p.color, bgSeed: p.seed,
       bg: '', zoom: 100, pos: 50, paper: 90, logo: '',
-      wmPos: '', wmTone: 'auto', wmSize: 16, wmAlpha: 18, wmMark: false, t: {}
+      wmPos: '', wmTone: 'auto', wmSize: 16, wmAlpha: 18, wmMark: false,
+      photoFilter: false, photoDim: 62, photoBlur: 0,   // 사진 필터는 기본 꺼짐(중요 원칙 「사진·영상은 필터 없이」)
+      t: {}
     };
     OUTRO.TEMPLATES.forEach(t => b.t[t.id] = { ...t.defaults });
     return b;
@@ -44,6 +46,7 @@
       bgView: { x: 0.5, y: ST.pos / 100, zoom: ST.zoom / 100 },
       bgKind: ST.bgKind, bgColor: ST.bgColor, bgSeed: ST.bgSeed,
       paper: ST.paper / 100,
+      photoFilter: !!ST.photoFilter, photoDim: ST.photoDim / 100, photoBlur: ST.photoBlur,
       wmPos: ST.wmPos, wmTone: ST.wmTone, wmSize: ST.wmSize,
       wmAlpha: ST.wmAlpha, wmMark: ST.wmMark
     };

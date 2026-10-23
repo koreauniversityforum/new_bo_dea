@@ -247,6 +247,9 @@
     </div>
     <label class="tip"><input type="checkbox" id="presetAll" checked> 불러올 때 시리즈 전 장에 적용</label>
 
+    <label class="tip photo-filter-toggle"><input type="checkbox" id="photoFilter"> 사진 필터 쓰기 (어둡게·보정)</label>
+    <div class="hint" style="margin:-2px 0 6px">끄면 사진은 원본 그대로, 글자는 그림자로 읽힙니다. 아래 슬라이더를 끌면 자동으로 켜집니다.</div>
+    <div id="photoFilterBox" class="photo-filter-box off">
     <div class="subhead">배경 어둡게 (그라데이션)</div>
     <div class="ctl"><label>세기</label><input id="ovStrength" type="range" min="0" max="100" value="88"><span class="val"></span></div>
     <div class="ctl"><label>시작 위치</label><input id="ovStart" type="range" min="0" max="100" value="38"><span class="val"></span></div>
@@ -257,6 +260,7 @@
     <div class="ctl"><label>밝기</label><input id="imgBright" type="range" min="40" max="150" value="100"><span class="val"></span></div>
     <div class="ctl"><label>대비</label><input id="imgContrast" type="range" min="50" max="160" value="100"><span class="val"></span></div>
     <div class="ctl"><label>채도</label><input id="imgSat" type="range" min="0" max="180" value="100"><span class="val"></span></div>
+    </div>
     <div class="row"><button id="btnFitCover" class="sm ghost">사진 맞춤 초기화</button></div>
 
     <div class="subhead">선택한 글자 <span id="selName" class="hint">—</span></div>
