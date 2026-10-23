@@ -50,6 +50,11 @@
   .ctl label{display:flex;align-items:center;justify-content:space-between;gap:8px;color:#c8cdd6}
   .ctl input[type=number]{width:76px;background:#0d0f14;border:1px solid var(--line);color:var(--ink);
         border-radius:6px;padding:5px 7px;font-size:12.5px}
+  .ctl input[type=text],.ctl select{background:#0d0f14;border:1px solid var(--line);color:var(--ink);
+        border-radius:6px;padding:6px 8px;font-size:12.5px}
+  .ctl .hook{display:flex;flex-direction:column;align-items:stretch;gap:5px}
+  .ctl .hookrow{display:flex;gap:6px}
+  .ctl .hookrow button{flex:1;padding:5px 8px;font-size:12px}
   .big{width:100%;padding:11px;font-size:13.5px;font-weight:700;border-radius:9px;
        background:#3b6ef5;border:0;color:#fff;cursor:pointer}
   .big:disabled{opacity:.4;cursor:default}
@@ -120,6 +125,17 @@
         <input id="perS" type="number" min="2" max="6" step="0.2" value="3.0"></label>
       <label>아래 진행줄
         <input id="chkBar" type="checkbox" checked style="width:auto"></label>
+      <label class="hook">첫 화면 훅 문구 (카드 위 빈 띠, 비우면 안 넣음)
+        <input id="hookText" type="text" maxlength="40" placeholder="예: 등록금, 왜 또 오를까?"></label>
+      <div class="hookrow">
+        <button id="btnHookTitle" class="ghost" title="왼쪽 검색어 칸의 기사 제목을 가져옵니다">기사 제목 넣기</button>
+        <select id="hookWhen" title="훅 문구를 보여 줄 때">
+          <option value="first">첫 장에만</option>
+          <option value="all">끝까지</option>
+        </select>
+      </div>
+      <label>안전 영역 보기 (미리보기에만)
+        <input id="chkSafe" type="checkbox" style="width:auto"></label>
       <div class="est" id="est">예상 길이 –</div>
       <button id="btnMake" class="big" disabled>릴스 만들기 (1080×1920)</button>
       <button id="btnAutoAll" class="big" style="background:#7c3aed">⚡ 자동 제작 (담기→녹화→저장)</button>
@@ -238,12 +254,74 @@ function drawFrame(ctx, t, scale) {
     draw(i, 1);
   }
   ctx.globalAlpha = 1;
+  drawHook(ctx, t);
   if ($('chkBar').checked) {                     // 아래 진행줄
     ctx.fillStyle = 'rgba(255,255,255,.16)';
     ctx.fillRect(0, H - 10, W, 10);
     ctx.fillStyle = ACCENT;
     ctx.fillRect(0, H - 10, W * Math.min(1, t / total), 10);
   }
+  ctx.restore();
+}
+
+/* 훅 문구 — OpenShorts 의 첫 화면 훅을 카드 릴스에 맞춘 것.
+   인스타 위 메뉴(위 150px)와 카드 윗변 사이 빈 띠에 넣는다. 카드 글자를 가리지 않게
+   띠에 맞춰 글자를 줄이고(64→34px) 두 줄까지 접는다. 가독성은 화면을 어둡게 하지 않고 글자 테두리로. */
+const HOOK_TOP = 150;
+// 캔버스는 화면에 안 쓰인 글꼴을 스스로 불러오지 않는다 → 미리 불러 두고 다 되면 다시 그린다.
+if (document.fonts) document.fonts.load('800 64px "Gmarket Sans"').then(() => preview()).catch(() => {});
+function hookBand() {
+  const it = picked[0];
+  if (!it || !it.img.naturalWidth) return { top: HOOK_TOP, bottom: 280 };
+  const fit = Math.min(W / it.img.naturalWidth, 1560 / it.img.naturalHeight);
+  const cardTop = (H - it.img.naturalHeight * fit) / 2;
+  return { top: HOOK_TOP, bottom: Math.max(HOOK_TOP + 70, cardTop - 14) };
+}
+function hookLines(ctx, text, size) {
+  ctx.font = `800 ${size}px "Gmarket Sans", "Pretendard", "Malgun Gothic", sans-serif`;
+  const lines = [];
+  let line = '';
+  for (const word of text.split(/\s+/).filter(Boolean)) {
+    const next = line ? line + ' ' + word : word;
+    if (line && ctx.measureText(next).width > 960) { lines.push(line); line = word; } else line = next;
+  }
+  if (line) lines.push(line);
+  return lines;
+}
+function drawHook(ctx, t) {
+  const text = $('hookText').value.trim();
+  if (!text) return;
+  const until = $('hookWhen').value === 'all' ? totalSecs() : slideSecs(0);
+  if (t > until) return;
+  const band = hookBand();
+  let size = 64, lines = [];
+  for (; size >= 34; size -= 2) {
+    lines = hookLines(ctx, text, size);
+    if (lines.length <= 2 && lines.length * size * 1.22 <= band.bottom - band.top
+        && lines.every(l => ctx.measureText(l).width <= 960)) break;
+  }
+  const lineH = size * 1.22;
+  const startY = (band.top + band.bottom) / 2 - (lines.length - 1) * lineH / 2;
+  ctx.save();
+  ctx.globalAlpha = $('hookWhen').value === 'all' ? 1 : Math.min(1, Math.max(0, (until - t) / 0.3));
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'middle';
+  ctx.lineJoin = 'round';
+  ctx.lineWidth = Math.max(6, size * 0.16);
+  ctx.strokeStyle = '#000';
+  ctx.fillStyle = '#fff';
+  lines.forEach((l, k) => { ctx.strokeText(l, W / 2, startY + k * lineH); ctx.fillText(l, W / 2, startY + k * lineH); });
+  ctx.restore();
+}
+
+/* 안전 영역 — 인스타 릴스 화면에서 위 메뉴·오른쪽 버튼·아래 캡션이 덮는 자리. 미리보기에만 그린다. */
+function drawSafe(ctx, scale) {
+  ctx.save();
+  ctx.scale(scale, scale);
+  ctx.fillStyle = 'rgba(255,70,70,.28)';
+  ctx.fillRect(0, 0, W, 130);                 // 위: 「릴스」 글자·카메라
+  ctx.fillRect(0, H - 380, W, 380);           // 아래: 계정·캡션·음악
+  ctx.fillRect(W - 140, 900, 140, H - 1280);  // 오른쪽: 좋아요·댓글·공유
   ctx.restore();
 }
 
@@ -254,6 +332,7 @@ function preview() {
     // 훑어보기 슬라이더가 가리키는 순간을 그린다(0 이면 사실상 첫 장면)
     const t = totalSecs() * (Number($('scrub').value) || 0) / 1000;
     drawFrame(x, Math.min(Math.max(t, 0.001), totalSecs() - 0.001), c.width / W);
+    if ($('chkSafe').checked) drawSafe(x, c.width / W);
   }
   $('est').textContent = picked.length
     ? `예상 길이 ${totalSecs().toFixed(1)}초` + (totalSecs() > 90 ? ' ⚠ 릴스 한도(90초)를 넘습니다' : '')
@@ -615,6 +694,15 @@ $('btnShorts').addEventListener('click', findShorts);
 $('shortsQ').addEventListener('keydown', ev => { if (ev.key === 'Enter') findShorts(); });
 $('shortsQ').addEventListener('input', instaLink);
 $('btnPlayClose').addEventListener('click', closePlay);
+['hookText', 'hookWhen', 'chkSafe'].forEach(id => $(id).addEventListener(id === 'hookText' ? 'input' : 'change', preview));
+// 검색어 칸이 비어 있으면 「관련 숏폼」 찾기가 기사 링크에서 제목을 채워 준다 → 그다음 가져온다.
+$('btnHookTitle').addEventListener('click', async () => {
+  if (!$('shortsQ').value.trim()) await findShorts();
+  const title = $('shortsQ').value.trim();
+  if (!title) { msg('기사 제목이 없습니다. 앞장 화면에서 기사 링크를 넣거나 검색어 칸에 직접 적으세요.', 'err'); return; }
+  $('hookText').value = title.slice(0, 40);
+  preview();
+});
 $('playWrap').addEventListener('click', ev => { if (ev.target === $('playWrap')) closePlay(); });
 instaLink();
 

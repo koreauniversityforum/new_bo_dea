@@ -1267,6 +1267,9 @@ function migrateProject(project) {
 $('#importButton').addEventListener('click', importMedia);
 $('#dropZone').addEventListener('click', importMedia);
 $('#trendButton').addEventListener('click', () => window.studio.openTrends());
+// 긴 영상 → 쇼츠는 PC 판 전용(파이썬·ffmpeg). 웹판 window.studio 에는 openClipper 가 없어서 단추를 숨긴다.
+if (window.studio.openClipper) $('#clipperButton').addEventListener('click', () => window.studio.openClipper());
+else $('#clipperButton').hidden = true;
 $('#publishButton').addEventListener('click', openPublish);
 $('#exportOnlyButton').addEventListener('click', () => exportVideo(false));
 $('#exportPublishButton').addEventListener('click', exportAndPublish);
@@ -1369,6 +1372,18 @@ window.studio.onNewbodaeContext(async (context) => {
   showToast(fresh.length
     ? `뉴보대에서 카드 ${fresh.length}장을 가져와 타임라인에 놓았습니다.`
     : '뉴보대에서 열었습니다. 왼쪽에서 소재를 불러오거나 콘텐츠 헌터에서 구조를 고르세요.');
+});
+// 「긴 영상 → 쇼츠」에서 구운 쇼츠를 타임라인 뒤에 잇는다.
+window.studio.onClipsImport?.(async (payload) => {
+  const known = new Set(state.media.map((item) => item.path));
+  const fresh = (payload?.media || []).filter((item) => !known.has(item.path));
+  if (!fresh.length) { showToast('이미 불러온 쇼츠입니다.'); return; }
+  rememberState();
+  state.media.push(...fresh);
+  await appendMediaToTimeline(fresh);
+  if (payload.title && (!state.title || state.title === '새 숏폼 프로젝트')) state.title = payload.title;
+  render();
+  showToast(`쇼츠 ${fresh.length}편을 타임라인에 놓았습니다.`);
 });
 window.studio.onOpenSettings(openSettings);
 window.studio.onOpenWebMedia(openWebMedia);

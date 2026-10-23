@@ -6,6 +6,7 @@ const { EdgeTTS } = require('node-edge-tts');
 const { discoverShorts, searchLinkFor } = require('./src/hunter-engine');
 const { analyzeCollection, buildConcept, blueprintFrom, updateBlueprint, conceptFromBlueprint, blueprintOptions } = require('./src/shortform-analysis');
 const { searchWebMedia, downloadMedia, downloadFromUrl, readCredits } = require('./src/media-library');
+const { registerClipIpc } = require('./src/clip-ipc');
 
 let editorWindow;
 let trendsWindow;
@@ -112,6 +113,33 @@ function createEditorWindow() {
           app.quit();
           return;
         }
+        if (process.env.SHORTFORM_QA_VIEW === 'clipper') {
+          // 긴 영상 → 쇼츠 끝단 시험: SHORTFORM_QA_VIDEO 를 넣고 구간 찾기 → 앞 2개 굽기까지 누른다.
+          await editorWindow.webContents.executeJavaScript("document.getElementById('clipperButton').click()");
+          await new Promise((resolve) => setTimeout(resolve, 1500));
+          const clipper = BrowserWindow.getAllWindows().find((win) => win.getTitle().startsWith('긴 영상'));
+          const video = JSON.stringify(process.env.SHORTFORM_QA_VIDEO || '');
+          const report = await clipper.webContents.executeJavaScript(`(async () => {
+            await checkEnvironment();
+            state.video = { path: ${video}, name: ${video}.split(/[\\\\/]/).pop(), size: 0 };
+            state.outDir = ${JSON.stringify(process.env.SHORTFORM_QA_OUT || '')} || null;
+            $('#previewVideo').src = fileUrl(state.video.path);
+            await analyze();
+            state.moments.forEach((moment, index) => { moment.picked = index < 2; });
+            renderMoments();
+            await render();
+            return { moments: state.moments.map((m) => ({ start: m.start, end: m.end, score: m.score, hook: m.hook, mode: m.layout?.mode, reason: m.layout?.reason })), results: state.results, progress: $('#clipProgressText').textContent };
+          })()`);
+          fs.writeFileSync(`${process.env.SHORTFORM_QA_SCREENSHOT}.json`, JSON.stringify(report, null, 2));
+          // 뒤에 깔린 창은 그리기가 멈춰 옛 화면이 찍힌다 → 앞으로 꺼내고 다시 그린 뒤 찍는다.
+          clipper.show();
+          clipper.focus();
+          clipper.webContents.invalidate();
+          await new Promise((resolve) => setTimeout(resolve, 1200));
+          fs.writeFileSync(process.env.SHORTFORM_QA_SCREENSHOT, (await clipper.capturePage()).toPNG());
+          app.quit();
+          return;
+        }
         if (process.env.SHORTFORM_QA_VIEW === 'media') {
           await editorWindow.webContents.executeJavaScript("document.getElementById('webMediaButton').click()");
           await new Promise((resolve) => setTimeout(resolve, 250));
@@ -153,6 +181,16 @@ app.whenReady().then(() => {
 app.on('window-all-closed', () => { if (process.platform !== 'darwin') app.quit(); });
 
 ipcMain.handle('window:trends', () => { createTrendsWindow(); return true; });
+
+// 긴 영상 → 쇼츠(받아쓰기·구간 고르기·얼굴 따라 세로 자르기·단어 자막). 자세한 것은 src/clip-ipc.js
+registerClipIpc({
+  ipcMain, app, dialog, shell, BrowserWindow, preload, asciiWorkRoot,
+  getEditorWindow: (create) => {
+    if (create && (!editorWindow || editorWindow.isDestroyed())) createEditorWindow();
+    return editorWindow;
+  },
+  fontsDir: () => path.join(app.isPackaged ? path.join(process.resourcesPath, 'app.asar.unpacked') : __dirname, 'assets', 'fonts')
+});
 ipcMain.handle('external:open', (_event, url) => shell.openExternal(url));
 
 // 헌터 창에서 편집 앱의 연결 설정 화면을 연다.

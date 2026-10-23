@@ -6,7 +6,7 @@
   "type": "commonjs",
   "scripts": {
     "start": "electron .",
-    "check": "node --check main.js && node --check preload.js && node --check src/editor.js && node --check src/hunter.js && node --check src/hunter-engine.js && node --check src/shortform-analysis.js && node --check src/media-library.js && node --check src/smart-edit.js && node src/verify-editor.js",
+    "check": "node --check main.js && node --check preload.js && node --check src/editor.js && node --check src/hunter.js && node --check src/hunter-engine.js && node --check src/shortform-analysis.js && node --check src/media-library.js && node --check src/smart-edit.js && node --check src/clip-engine.js && node --check src/clip-ipc.js && node --check src/clipper.js && node src/verify-editor.js && node src/verify-clip.js",
     "dist": "electron-builder --win nsis"
   },
   "devDependencies": {
@@ -21,10 +21,12 @@
       "preload.js",
       "src/**/*",
       "assets/**/*",
+      "tools/*.py",
       "package.json"
     ],
     "asarUnpack": [
-      "assets/fonts/**/*"
+      "assets/fonts/**/*",
+      "tools/*.py"
     ],
     "win": {
       "target": "nsis"

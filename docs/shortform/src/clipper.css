@@ -1,0 +1,50 @@
+/* 긴 영상 → 쇼츠 화면. studio.css · hunter.css 의 어두운 헌터 기본값 위에 얹는다. */
+
+.clip-shell{word-break:keep-all}
+.clip-intro{padding-bottom:16px}
+.clip-warn{margin-top:10px!important;color:#f6c453!important}
+
+.clip-source{display:flex;gap:10px;align-items:stretch;flex-wrap:wrap;margin:6px 0 14px}
+.clip-file{flex:1;min-width:240px;display:flex;align-items:center;border:1px solid var(--hunter-line);border-radius:11px;padding:0 14px;font-size:12px;color:#c8d0d7;background:#090c0f;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.clip-range{display:flex;align-items:center;gap:5px;color:#eef1f3;font-size:12px}
+.clip-range input{width:46px;border:0;background:transparent;color:#eef1f3;font:inherit;font-size:12px;outline:none}
+
+.clip-progress{display:flex;align-items:center;gap:12px;margin-bottom:6px}
+.clip-bar{flex:1;height:8px;border-radius:99px;background:#161b21;overflow:hidden}
+.clip-bar i{display:block;height:100%;width:0;background:var(--hunter-green);transition:width .25s}
+.clip-progress span{font-size:11px;color:#aab3bb;min-width:240px}
+
+.clip-workspace{display:grid;grid-template-columns:1fr 340px;gap:16px;align-items:start;padding-bottom:40px}
+.moment-list{display:flex;flex-direction:column;gap:10px}
+.moment-card{display:grid;grid-template-columns:28px 1fr;gap:12px;border:1px solid var(--hunter-line);border-radius:14px;background:var(--hunter-card);padding:14px;cursor:pointer}
+.moment-card.active{border-color:var(--hunter-green)}
+.moment-card input[type=checkbox]{width:18px;height:18px;margin-top:2px;accent-color:var(--hunter-green)}
+.moment-top{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.moment-top strong{font-size:13px}
+.moment-top .score{font-size:11px;font-weight:800;color:var(--hunter-green)}
+.moment-top .time{font-size:11px;color:#8c959e}
+.moment-reasons{display:flex;gap:5px;flex-wrap:wrap;margin:7px 0}
+.moment-reasons span{font-size:9.5px;border:1px solid #2a323b;border-radius:99px;padding:3px 8px;color:#aab3bb}
+.moment-text{font-size:11px;line-height:1.7;color:#8c959e;margin:0 0 9px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.moment-fields{display:grid;grid-template-columns:1fr 150px 92px 92px;gap:8px;align-items:end}
+.moment-fields label{display:flex;flex-direction:column;gap:4px;font-size:9px;color:#6c7681;letter-spacing:.04em}
+.moment-fields input,.moment-fields select{background:#090c0f;border:1px solid #2c333c;border-radius:9px;color:#eef1f3;font:inherit;font-size:12px;padding:7px 9px;outline:none}
+.moment-fields select option{background:#12171d}
+.moment-layout{font-size:10px;color:#79838d;margin-top:7px}
+.moment-layout b{color:#c8d0d7;font-weight:600}
+.moment-caption-toggle{display:flex;gap:6px;align-items:center;font-size:10px;color:#9aa4ad;margin-top:6px}
+
+.clip-side{position:sticky;top:16px;display:flex;flex-direction:column;gap:12px}
+.clip-preview{border:1px solid var(--hunter-line);border-radius:14px;background:#05070a;padding:10px;display:flex;flex-direction:column;gap:6px}
+.clip-preview video{width:100%;aspect-ratio:16/9;background:#000;border-radius:9px}
+.clip-preview small,.clip-style small,.clip-out small{font-size:9.5px;color:#6f7982;line-height:1.6}
+.clip-style,.clip-out,.clip-results{border:1px solid var(--hunter-line);border-radius:14px;background:var(--hunter-card);padding:13px;display:flex;flex-direction:column;gap:9px}
+.clip-results:empty{display:none}
+.clip-style h3{margin:0;font-size:12px}
+.clip-style label{display:flex;align-items:center;justify-content:space-between;gap:8px;font-size:10.5px;color:#9aa4ad}
+.clip-style select{background:#090c0f;border:1px solid #2c333c;border-radius:8px;color:#eef1f3;font:inherit;font-size:11px;padding:5px 7px}
+.clip-style input[type=range]{flex:1}
+.clip-style b{min-width:34px;text-align:right;font-size:10.5px;color:#dfe4e8}
+.clip-result{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:10.5px;color:#c8d0d7}
+.clip-result span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.clip-result button,.clip-results>button{border:1px solid #2c333c;background:#0f1318;color:#dfe4e8;border-radius:8px;padding:5px 9px;font-size:10px;cursor:pointer}

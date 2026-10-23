@@ -13,7 +13,8 @@ MediaRecorder 녹화 자체는 창(브라우저)에서만 돌아가므로 여기
 import sys, os, json, time, subprocess, urllib.parse, urllib.request
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-NB = r"C:\Users\박현수\Desktop\College\대학교\대외활동\2026\한대포 임시\뉴보대\newsfeed"
+# 원본이 E: 로 옮겨지며(2026-10-21) 옛 C: 바탕화면 경로가 사라졌다 → 이 파일 위치를 기준으로 잡는다.
+NB = os.path.dirname(os.path.abspath(__file__))
 PORT = 7887          # 🔴 7897 이었는데 +1(7898)이 스타일모드 시험과 겹쳐 옮김
 BASE = f"http://127.0.0.1:{PORT}"
 OUT = os.path.join(NB, "out")

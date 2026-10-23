@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>긴 영상 → 쇼츠 · Shortform Studio</title>
+  <link rel="stylesheet" href="studio.css">
+  <link rel="stylesheet" href="hunter.css">
+  <link rel="stylesheet" href="clipper.css">
+</head>
+<body class="trends-body">
+  <main class="trend-shell clip-shell">
+    <header class="trend-header">
+      <div class="trend-brand"><span class="brand-mark">S</span><div><strong>긴 영상 → 쇼츠</strong><small>받아쓰기로 구간을 고르고 얼굴을 따라 세로로 자릅니다</small></div></div>
+      <div class="hunter-status" id="clipStatus"><i></i><span>준비 상태 확인 중</span></div>
+    </header>
+
+    <section class="hunter-intro clip-intro">
+      <h1>한 시간짜리 영상에서<br><em>쇼츠 몇 편</em>을 뽑습니다.</h1>
+      <p>말을 단어 단위로 받아 적고, 질문·단서어·주제어·문장 끝맺음으로 15~60초 구간에 점수를 매깁니다. 얼굴이 하나면 따라가며 자르고, 두 사람이면 위아래로 쌓고, 얼굴이 없으면 자르지 않고 검은 여백 안에 맞춥니다. 직접 찍었거나 쓸 권리가 있는 영상만 넣으세요.</p>
+      <p class="clip-warn" id="clipEnvNote" hidden></p>
+    </section>
+
+    <section class="clip-source">
+      <button class="button accent" id="pickVideoButton">영상 고르기</button>
+      <div class="clip-file" id="clipFile">아직 고른 영상이 없습니다.</div>
+      <label class="query-select">받아쓰기 정확도
+        <select id="modelSelect">
+          <option value="base">빠름 (base)</option>
+          <option value="small" selected>보통 (small)</option>
+          <option value="medium">정확 (medium, 느림)</option>
+        </select>
+      </label>
+      <label class="query-select">길이(초)
+        <span class="clip-range"><input id="minLength" type="number" min="5" max="90" value="15"> ~ <input id="maxLength" type="number" min="10" max="180" value="60"></span>
+      </label>
+      <label class="query-select">몇 편
+        <select id="countSelect"><option>3</option><option>4</option><option>5</option><option selected>6</option><option>8</option><option>10</option></select>
+      </label>
+      <button class="button secondary" id="analyzeButton" disabled>구간 찾기</button>
+    </section>
+
+    <section class="clip-progress" id="clipProgress" hidden>
+      <div class="clip-bar"><i id="clipBarFill"></i></div>
+      <span id="clipProgressText">0%</span>
+    </section>
+
+    <div class="block-head"><h2>쇼츠 후보</h2><span id="momentSummary">영상을 고르고 「구간 찾기」를 누르세요.</span></div>
+    <section class="clip-workspace">
+      <div class="moment-list" id="momentList"></div>
+      <aside class="clip-side">
+        <div class="clip-preview">
+          <video id="previewVideo" playsinline controls></video>
+          <small id="previewNote">후보를 누르면 원본의 그 구간이 재생됩니다.</small>
+        </div>
+        <div class="clip-style">
+          <h3>자막 · 훅 모양</h3>
+          <label>글꼴
+            <select id="fontSelect">
+              <option value="Noto Sans KR Local">Noto Sans KR</option>
+              <option value="Black Han Sans" selected>Black Han Sans</option>
+              <option value="Do Hyeon">Do Hyeon</option>
+              <option value="Jua">Jua</option>
+              <option value="Gowun Dodum">Gowun Dodum</option>
+            </select>
+          </label>
+          <label>글자 크기 <input id="sizeInput" type="range" min="50" max="110" value="78"><b id="sizeValue">78</b></label>
+          <label>지금 말하는 단어 색 <input id="activeColor" type="color" value="#ffd400"></label>
+          <label>자막 높이(화면 위에서) <input id="captionY" type="range" min="50" max="80" value="68"><b id="captionYValue">68%</b></label>
+          <label>훅 문구 보이는 시간 <input id="hookSeconds" type="range" min="0" max="6" step="0.5" value="3"><b id="hookSecondsValue">3초</b></label>
+          <small>인스타 릴스는 화면 아래 약 20%를 좋아요·캡션이 가립니다. 자막은 68% 언저리가 안전합니다. 두 사람 위아래 화면은 자막이 이음매(50%)에 갑니다.</small>
+        </div>
+        <div class="clip-out">
+          <button class="button ghost full" id="outDirButton">저장 폴더 고르기</button>
+          <small id="outDirLabel">기본: 동영상\Shortform Studio 쇼츠</small>
+          <button class="button accent full" id="renderButton" disabled>고른 후보 굽기</button>
+        </div>
+        <div class="clip-results" id="clipResults"></div>
+      </aside>
+    </section>
+  </main>
+  <script src="clipper.js"></script>
+</body>
+</html>
