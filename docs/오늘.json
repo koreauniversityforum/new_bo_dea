@@ -1,306 +1,151 @@
 {
- "date": "2026-10-23",
- "generated_at": "2026-10-23T10:07:11+09:00",
+ "date": "2026-10-24",
+ "generated_at": "2026-10-24T10:17:09+09:00",
  "mode": "daily",
- "window_start": "2026-10-22T00:00:00+09:00",
- "window_end": "2026-10-22T23:59:59+09:00",
+ "window_start": "2026-10-23T00:00:00+09:00",
+ "window_end": "2026-10-23T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "한동훈 \"李대통령, 자기가 왕으로 뽑힌 줄 착각\"",
-   "source": "시사저널",
-   "url": "https://n.news.naver.com/article/586/0000140625",
-   "published_at": "2026-10-22T15:20:08+09:00",
+   "title": "[단독] “이러다 정권 바뀌면 큰일날 수 있다”...민주당 후원 확 늘리는 쿠팡",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005752991",
+   "published_at": "2026-10-23T11:30:06+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "이재명 대통령이 중수청에 대한 지휘·감독 포기를 '직무유기'라고 규정하자 한 의원은 대통령의 수사 지휘가 오히려 '탄핵 사유'라고 맞받은 것이다. 한 의원은 이날…",
-   "summary_long": "한동훈 무소속 의원은 22일 대통령이 중대범죄수사청(중수청)을 수사 지휘하면 탄핵 사유가 된다고 주장했다. 이재명 대통령이 중수청에 대한 지휘·감독 포기를 '직무유기'라고 규정하자 한 의원은 대통령의 수사 지휘가 오히려 '탄핵 사유'라고 맞받은 것이다. 한 의원은 이날 페이스북에 \"이 대통령이 '대통령이 중수청 지휘 안 하면 탄핵 사유'라고 했다\"며 \"정확히 반대\"라고 말했다.\n\n이어 \"이 대통령의 억지대로라면 수사 지휘 안 했던 역대 대통령들은 다 탄핵됐어야 하는가\"라며 \"이 대통령은 자기가 왕으로 뽑힌 거라 착각하는 것 같다\"고 비판했다. 그는 \"자기 범죄수사 막고 정적 공격하기 위해 중수청이든 공소청이든 경찰이든 '대통령이 수사 지휘하면 탄핵 사유'\"라고 직격했다. 이어 \"국정에 관한 대통령의 지휘·감독은 권한인 동시에 책임\"이라며 중수청 지휘·감독 포기는 \"직무유기로 형사처벌 받을 범죄\"라고 덧붙였다.",
-   "quotes": [
-    "헌법과 법률을 어기며 중수청은 지휘·감독하지 말라는 것인가. 지휘·감독을 공개회의에서 하지 말고 밀실에서 비공개로 하라는 것인가",
-    "공소청이든 기상청이든 소방청이든 모든 부·처·청은 대통령과 총리의 지휘·감독을 받는다는 것이 헌법과 정부조직법에 명시돼 있다",
-    "자기 범죄수사 막고 정적 공격하기 위해 중수청이든 공소청이든 경찰이든 '대통령이 수사 지휘하면 탄핵 사유'"
-   ],
-   "press": "시사저널",
-   "photo": "01.jpg",
-   "quoted": {
-    "quote": "헌법과 법률을 어기며 중수청은 지휘·감독하지 말라는 것인가. 지휘·감독을 공개회의에서 하지 말고 밀실에서 비공개로 하라는 것인가",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "한겨레",
-      "title": "이 대통령 “중수청 지휘·감독 포기는 탄핵사유…공개회의 열외는 무논리”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oSE83TDdlSGdyblJocjdUWUttN1E0b2dBUVQ1YkpydDd6cWk1Y21TbGw1LV9zbUNOSGdJaTI5enI5T185X0JTTGdvcE5BMEFYNFFBRTA2MXk3WTVBNkR4U2ppdlV0Nk1pWDZ4U2ZhYkVQVTFt?oc=5"
-     },
-     {
-      "press": "경기신문",
-      "title": "李 대통령 “중수청 지휘감독 포기는 위헌”…SNS서 연이틀 반박",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSR0dFSkpIa0VEX3NBeTk4N3ZBMlQ1M0hXQk10eXlpN2swTHZTSXB3NTV5ckdjVm5XdEpqVUpNNk9FdmxUenk4MVBWdTV5eUxweHp6NlpRMGJTYmlG?oc=5"
-     },
-     {
-      "press": "신아일보",
-      "title": "李대통령 \"중수청 지휘감독 포기는 탄핵사유\"…금기어까지 꺼냈다",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBidWhVZzRMc1Ruc2dzNXpKbzNVRGlMalpLQ1g5SGRfSFlaWnZlVGJOOGpNbzJDVkpTY0lUR1lRZDF0eGdjQmJNbXFwNXEwRi1KZnp4N3RZajJ5dDE0ZEtjQVozc3poYUdXQVFOcWdzRlU?oc=5"
-     },
-     {
-      "press": "채널A 뉴스",
-      "title": "이 대통령 “중수청 지휘감독 포기하는 건 탄핵 사유”",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50U096bDJJdlZEdFB2bU5FQTF6enMyZVRxTy0tYjA1TUE1Y2FnZFpkUFBKQm0tbFljb1hnb1ZLNzJPV3pfNVJ0QkJOUlE2eTdsX0MtdWh0dW5malc5dWVSQW56ONIBY0FVX3lxTE50U096bDJJdlZEdFB2bU5FQTF6enMyZVRxTy0tYjA1TUE1Y2FnZFpkUFBKQm0tbFljb1hnb1ZLNzJPV3pfNVJ0QkJOUlE2eTdsX0MtdWh0dW5malc5dWVSQW56OA?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "李대통령 \"중수청에 대한 지휘감독 포기는 탄핵사유\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OQzg1ZEsxVDdueWlQSm1BdkYzZHZXVkI4RG52TEcyd3JfdlctdWNRb0s5b2pTYmpXWC0tSUVmSlhydTlCNG1ob1pVeHdLTXdxNGtVeXp1amNVdFVHUlgzTTFFOThQU0dxeUJBbNIBckFVX3lxTE1TUmNkMVRtbngwZEdRanhnMVA5MXZQQzB6QjFRY1hES0FLMTY4enlDdVQ1U211MDBoODA1dlpCU3dWNUhfSnItM3lDSXBDd3ppRUFLWVkzWDAtZGxGbUl5aUswelAxT3cxUkJ0cWU3ZmlfQQ?oc=5"
-     },
-     {
-      "press": "경북도민일보",
-      "title": "이 대통령 \"중수청 지휘·감독 포기는 탄핵 사유\"…국무회의 배석 반대론에 직격",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GamN0WUMzb3RFZDdvaHdxNnJ3Z3dLaXROdEQ5SWRxaHdhcGlTUzl4aTh3NFQtMzNMQ19KTHo2WHYwSDVneHA0UEttblFjeFdLVE1MV3cwRGRlaFFKal9aMVdxLVBrbTlLdHc?oc=5"
-     }
-    ]
-   }
+   "summary": "‘한국 정부가 미국 기업을 차별적으로 대우한다’는 논리로 미 행정부와 의회를 상대로 전방위 로비를 벌여왔던 쿠팡이 다음달 3일 미국 중간선거를 앞두고 조 바이든…",
+   "summary_long": "‘한국 정부가 미국 기업을 차별적으로 대우한다’는 논리로 미 행정부와 의회를 상대로 전방위 로비를 벌여왔던 쿠팡이 다음달 3일 미국 중간선거를 앞두고 조 바이든 행정부에서 고위직을 역임한 민주당 측 인사를 전격 영입했다. 중간선거 이후 미국 민주당이 상·하원 다수당을 차지할 가능성이 거론되는 상황에서 쿠팡이 그동안 공화당에 집중했던 로비를 민주당으로 확대하려는 의도로 해석된다. 엘리슨 라스코우스키 쿠팡 글로벌 공공정책 담당 디렉터 라스코우스키는 쿠팡이 그동안 영입했던 민주당 측 인사와 비교하면 한층 체급이 높은 인물로 꼽힌다.\n\n쿠팡은 최근 민주당 정부에서 국무부와 미국무역대표부(USTR)에서 근무했던 조던 하이버를 영입한 바 있다. 이번 중간선거에서 민주당이 하원 다수당을 차지할 가능성이 크고 상원에서도 다수당 탈환을 노리면서 공화당에 집중됐던 쿠팡의 로비 전략에도 수정이 불가피했기 때문이다. 하지만 쿠팡이 민주당 측 인사를 영입한 것은 중간선거 이후 민주당 의원들을 상대로 로비 공세를 지속하겠다는 차원으로 해석된다.",
+   "press": "매일경제",
+   "photo": "01.jpg"
   },
   {
-   "title": "김정은 사망설 번지더니…북한서 포착된 '이상 징후'",
-   "source": "한국경제TV",
-   "url": "https://n.news.naver.com/article/215/0001270086",
-   "published_at": "2026-10-22T13:56:28+09:00",
+   "title": "\"개떼처럼 달려들더니\"… 한동훈, 與 '아들 학폭 가해' 주장에 발끈",
+   "source": "한국일보",
+   "url": "https://n.news.naver.com/article/469/0000961221",
+   "published_at": "2026-10-23T11:49:10+09:00",
    "section_id": "100",
    "view_rank": 2,
    "selection": "정치",
-   "summary": "김정은 북한 국무위원장의 사망설이 해외에서 확산한 가운데 북한 관영매체를 포함한 주요 웹사이트에서 대규모 접속 장애가 이어지고 있다. 접속 장애가 발생한 곳은 외무성…",
-   "summary_long": "북한 외무성·중앙통신 등 대규모 접속장애. 김정은 북한 국무위원장의 사망설이 해외에서 확산한 가운데 북한 관영매체를 포함한 주요 웹사이트에서 대규모 접속 장애가 이어지고 있다. 22일 통일부와 외신 등에 따르면 북한 노동당 기관지 노동신문과 조선중앙통신을 비롯한 주요 웹사이트들이 지난 20일부터 정상적으로 운영되지 않고 있다.\n\n접속 장애가 발생한 곳은 외무성, 조선중앙통신, 민주조선, 내나라 등 북한 국가 도메인 '.kp'를 사용하는 웹사이트 40여개다. 미국 북한 전문매체 NK뉴스는 21일(현지시간) 북한 주요 웹사이트 대부분이 하루 넘게 접속 불능 상태에 빠지면서 외부에서 북한 당국의 공식 정보를 확인하기 어려워졌다고 보도했다. 2022년에는 디도스 공격으로 북한 웹사이트에서 접속 장애가 발생했다.",
-   "press": "한국경제TV",
-   "photo": "02.jpg"
+   "prep_error": "The read operation timed out"
   },
   {
-   "title": "이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다",
-   "source": "머니투데이",
-   "url": "https://n.news.naver.com/article/008/0005429871",
-   "published_at": "2026-10-22T05:00:00+09:00",
+   "title": "170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여",
+   "source": "뉴스1",
+   "url": "https://n.news.naver.com/article/421/0009246156",
+   "published_at": "2026-10-23T12:31:17+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "서울 송파구 장모 살인사건 피의자 김성우의 아내가 결혼 전부터 상습 폭행에 시달렸으며, 혼인신고도 김성우의 강요에 의해 이뤄졌다고 주장했다. /사진=JTBC…",
-   "summary_long": "서울 송파구 장모 살인사건 피의자 김성우(26)의 아내가 결혼 전부터 상습 폭행에 시달렸으며, 혼인신고도 김성우의 강요에 의해 이뤄졌다고 주장했다. 21일 JTBC '사건반장'에 따르면 김성우와 아내 A씨는 지난해 4월 처음 만나 교제를 시작했다. A씨는 김성우가 자신의 자취방에 들어와 함께 살면서부터 폭행이 시작됐다고 밝혔다.\n\n김성우는 \"헤어졌는데 넌 왜 행복하게 지내냐\", \"너 죽고 나 죽자\"며 A씨의 목을 졸랐다. 뒤늦게 어머니에게 사정을 알리고 친정으로 피신했지만, 김성우가 흥신소를 이용해 집 주소를 알아내면서 결국 범행에 노출됐다./사진=JTBC '사건반장'결국 A씨는 8월 집을 나와 김성우를 가정폭력으로 신고했고, 혼인무효 소송도 제기했다. A씨는 김성우가 가족과 지인들의 연락처와 주소를 알고 있어 그동안 주변에 도움을 요청하지 못했다고 털어놨다.",
+   "summary": "김현우 국립수산과학원 연구관은 \"부캉이는 어제부터 수로 벽면을 따라 이동하는 상태\"라며 \"부캉이의 잠영 시간이 점점 더 길어질 것으로 보인다\"고 했다. 이어 김 연구관은…",
+   "summary_long": "지난달 18일 부산 북항친수공원 인공수로에 처음 나타나 누적 170만 명에 가까운 방문객을 모은 흑상어 '부캉이'가 4시간째 모습을 드러내지 않고 있다. 현장에서는 \"이렇게 안 보인 건 처음\"이라는 반응이 나오며, 상어가 본격적으로 외해 진출 채비를 마쳤다는 관측이 제기된다. 23일 해양수산부 등에 따르면 전날 빈번하게 지느러미를 노출하던 것과 달리 부캉이는 이날 오전 8시부터 4시간 넘게 수로 내에서 포착되지 않고 있다.\n\n해수부 관계자는 \"전날 30분에 한 번꼴로 관찰됐던 것과 비교해 육안 확인 간격이 확연히 길어졌다\"며 \"상어는 잠영하는 것이 정상이므로 잠영 시간이 늘어난다는 건 매우 긍정적인 신호\"라고 밝혔다. 김현우 국립수산과학원 연구관은 \"부캉이는 어제부터 수로 벽면을 따라 이동하는 상태\"라며 \"부캉이의 잠영 시간이 점점 더 길어질 것으로 보인다\"고 했다. 이어 김 연구관은 \"부캉이가 1부두 쪽으로 갔다가 다시 돌아와 오페라하우스 쪽으로 가는 등 수로 벽면을 따라 이동 중\"이라며 \"다시 수로 안쪽으로 들어온다고 해도 외해에서 보내는 시간이 길어지면서 결국 수로 밖으로 빠져나가게 될 것\"이라고 전망했다.",
    "quotes": [
-    "헤어졌는데 넌 왜 행복하게 지내냐",
-    "너가 나를 나쁜 놈으로 만든다"
-   ],
-   "press": "머니투데이",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "헤어졌는데 넌 왜 행복하게 지내냐",
-    "n": 4,
-    "verified": 0,
-    "items": [
-     {
-      "press": "머니투데이",
-      "title": "이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcURQeVFBMTQ4d1pxRWhJbDdpZHJCdC1jaXM5MElBN3lPUHAtWG1FOFVCM1BBRHMtMnUxaFdkOE13dmZmMllQeF9ieHZoWUtoSzM3a2lVNnNGR2ZkWk56aks2YzZlMThXdDVMaGE2dVjSAXBBVV95cUxQZHFEUHlRQTE0OHdacUVoSWw3aWRyQnQtY2lzOTBJQTd5T1BwLVhtRThVQjNQQURzLTJ1MWhXZDhNd3ZmZjJZUHhfYnh2aFlLaEszN2tpVTZzRkdmZFpOempLNmM2ZTE4V3Q1TGhhNnVY?oc=5"
-     },
-     {
-      "press": "한국경제",
-      "title": "\"울면서 혼인신고서 썼다\"…'장모 살인' 김성우 아내의 고백",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxNkNwQjlGc2xjSHA2NUVZLUtncVRpdDVNb01HZ0Q2VEdKWVNKYkx2b0hDWGU4LWM3dDd0ZFRZLUlUWlhXUVhINU5MS251bzN6N3NsZ211aU5odw?oc=5"
-     },
-     {
-      "press": "헤럴드경제",
-      "title": "송파구 ‘장모 살해범’ 김성우…이별 통보하자 손발 묶고 강간, 혼인신고도 강요",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15WmlrbTVWN3V1Yi1jMUx6SlVKVTNqV29Vbl9CeVlaOWUtQzQ5SkIyWXR2WHp3UVhiaXFUX1pvYlZSZGY1NjVNTzhrZ2c3c0d2UGhNRnhiOA?oc=5"
-     },
-     {
-      "press": "세계뉴스통신",
-      "title": "'송파 장모 살해' 김성우 아내 “결혼 전부터 상습 폭행…혼인신고도 강요”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBya3hkb0NZOENIdlRJNHR6cUpyaThUNlF2ZEpKOFpRZUJNZU50X2p4VmlSZnNLVWVOSWhRN2F6WXg2U0VLOTlRWDVad183bC1Ob3h4NE1OeEVPTF80QmJnV3pJd1lfRjJOUHV2MVFkMlJWaENp?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "한화시스템, 한화오션으로 2.3조 벌고도 불안한 이유",
-   "source": "비즈워치",
-   "url": "https://n.news.naver.com/article/648/0000051825",
-   "published_at": "2026-10-22T06:50:14+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "한화시스템, 올 한화오션 지분 11% 3조 처분. PRS 계약 따라 한화오션 주가 기준 정산.",
-   "summary_long": "한화시스템, 올 한화오션 지분 11% 3조 처분. PRS 계약 따라 한화오션 주가 기준 정산. 한화오션 주가 하락으로 손실 가능성 커져한화시스템이 최근 한화오션 지분 전량을 처분하면서 4년 만에 4.5배가 넘는 투자 수익을 거둔 것으로 분석된다.\n\n하지만 향후 한화오션 주가가 떨어지게 되면 파생상품계약에 따라 대규모 손실도 발생할 수 있는 상황이다. 한화시스템은 지난 19일 보유중인 한화오션 2216만9660주(7.24%) 전량을 1조3834억원에 주가수익스왑(PRS) 방식으로 처분했다. 지난 21일 한화오션 주가 5만9400원 기준으로 보면 한화시스템은 대규모 손실이 발생할 수 있다는 얘기다.",
-   "quotes": [
-    "1차 PRS 계약은 기초자산(한화오션)의 상당 부분이 이미 매각·정산돼 최근 한화오션 주가 하락에 따른 영향은 제한적인 것",
-    "정산 시점의 주가가 각 계약의 기준가격을 하회할 경우 추가적인 현금부담이 발생하게 된다"
-   ],
-   "press": "비즈워치",
-   "photo": "04.jpg",
-   "quoted": {
-    "quote": "정산 시점의 주가가 각 계약의 기준가격을 하회할 경우 추가적인 현금부담이 발생하게 된다",
-    "n": 5,
-    "verified": 0,
-    "items": [
-     {
-      "press": "비즈워치",
-      "title": "한화시스템, 한화오션으로 2.3조 벌고도 불안한 이유",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SaXp1YldyeS03YUNQMlU5WERLX1pWRkdlc00yN1QyM1hSRW5XT1BQdy1VMkdmYXpFd1dhelM2U2JsQXZ0ZjdpWUZJTUV2UFFDeVhLMjQzZTNIbUtaZkdsaS0wLXk5SGpOb3JPRA?oc=5"
-     },
-     {
-      "press": "한국신용신문",
-      "title": "계열사 지분 털고 3조 원 쥔 한화시스템, 주가 하락 ‘부메랑’ 주의보",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mcDUwM295X3FnS2ViX2Q1XzRfVzJmN3RYVUF6c05iLWJpd1huaThZd2pXcG1oTktMSmVCRHBKdlB2RW9BWlpZNElKNWFYWmlBQVJqTl9qeDBxaU5LMG1OV0ZBeXhCcEhUS2ZF?oc=5"
-     },
-     {
-      "press": "에너지경제신문",
-      "title": "한화시스템, 조선 팔아 3.4조 쥐었지만… 부채비율은 189%로, 열쇠는 한화오션 주가",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JWXQzT0VxZ2RtdlA2dm9wVXZ3MUs1V041eVRRSHZlR1B0MlRyTnVqbndGLTk5YWZtcnhVSHI2eGRCYVR4N0ZkbUtKNG9URnlFTy1lamVkVDRzZ2pqRXFTX29n?oc=5"
-     },
-     {
-      "press": "SBS Biz",
-      "title": "조선 지분 털어낸 한화시스템…PRS 현금유출 주시",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sTDRUMG02VFpuTUR3Q2Z5MndWS1ZzaEI2SC1FcXVHQ2t1V2RacURUS0w2bF9UWDBQemItQTRPRnJNeEo0cWhYY0tZWWYwRkNsb2d5RWxKbVnSAVhBVV95cUxPbEw0VDBtNlRabk1Ed0NmeTJ3VktWc2hCNkgtRXF1R0NrdVdkWnFEVEtMNmxfVFgwUHpiLUE0T0ZyTXhKNHFoWGNLWVlmMEZDbG9neUVsSm1Z?oc=5"
-     },
-     {
-      "press": "FETV",
-      "title": "키움증권, IB실적 단비된 '대형 PRS딜' 주관…남은 과제는",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14cFRoZWVUc2hwY3VOWDdVLWhKQTd2WWhhdGI0RDZiNmotQ0ZxZmwwYzNTWmRhRTR1cmJRdVVVZHJ0ak1fY3kzeDM0cVhITE5KU2diZm10bXVudmZmc2EwcjUxVDlUeHlK?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "이준석·한동훈, 李 AI 활용 글에 \"대통령 제미나이로 바꾸자\", \"억지 부리지 말고 정신 차려야\"",
-   "source": "파이낸셜뉴스",
-   "url": "https://n.news.naver.com/article/014/0005592887",
-   "published_at": "2026-10-22T09:49:14+09:00",
-   "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 117,
-   "comment_agree": 72,
-   "comment_disagree": 15,
-   "division_balance": 0.344828,
-   "division_score": 1.543909,
-   "selection": "찬반 쟁점",
-   "summary": "이재명 대통령이 중대범죄수사청장과 공소청장의 국무회의 배석 논란에 생성형 인공지능 제미나이의 답변을 인용해 반박하자 야권의 비판이 쏟아졌다. 개혁신당 이준석 의원은…",
-   "summary_long": "이재명 대통령이 중대범죄수사청장과 공소청장의 국무회의 배석 논란에 생성형 인공지능(AI) 제미나이의 답변을 인용해 반박하자 야권의 비판이 쏟아졌다. 개혁신당 이준석 의원은 21일 페이스북에 \"대통령이 통치의 근거로 제미나이를 들기 시작했다\"며 \"심지어 몇 달 전에는 제미나이가 가끔 엉뚱한 답한다고 핀잔을 주던 사람\"이라고 적었다. 그러면서 \"대통령이 제미나이한테 물어봐서 통치할 거면 그냥 대통령을 제미나이로 바꾸면 되지 않나\"라며 \"사법리스크도 없어, 전과도 없어, 욕도 안 해, 근저당도 안 잡아 모든 게 상위호환\"이라고 비꼬았다.\n\n국민의힘 나경원 의원 역시 페이스북을 통해 \"편향된 질문으로 편향된 답변을 제미나이에서 받아놓고, 그걸 엑스(X)에 올리는 대통령의 처참한 수준\"이라며 \"국정운영을 이런 방식으로 해온 건가\"라고 비판했다. 이어 \"대통령이 헌법과 법률이 아닌, 제미나이에 물어 국정을 판단한다\"며 \"기가 막힌다\"고 덧붙였다. 이 대통령의 일반적인 행정감독권을 근거로 두 기관장의 국무회의 배석을 정당화할 경우, 수사·기소기관의 준사법적 성격과 정치적 중립성이 훼손될 우려가 있다는 내용이 담겼다.",
-   "quotes": [
-    "편향된 질문으로 편향된 답변을 제미나이에서 받아놓고, 그걸 엑스(X)에 올리는 대통령의 처참한 수준",
-    "대통령이란 사람이 시작부터 중수청을 '하수청'으로, 공소청을 '공작청'으로 만들고 있다",
-    "대통령이 제미나이한테 물어봐서 통치할 거면 그냥 대통령을 제미나이로 바꾸면 되지 않나"
-   ],
-   "press": "파이낸셜뉴스",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "편향된 질문으로 편향된 답변을 제미나이에서 받아놓고, 그걸 엑스(X)에 올리는 대통령의 처참한 수준",
-    "n": 3,
-    "verified": 0,
-    "items": [
-     {
-      "press": "아주경제",
-      "title": "野, 李 중수청장 국무회의 배석 불가는 억지 제미나이 답변에 맹공",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaSnk3VkNzOVBZRHNhOWE5MGpwWTJIb0lZZmU5aWxSRnlmZVMxU1dvSmE1NUE5ZjRJc05XYVVkaDJKaDdaNkloeWo1YW1aQ0hONG1FMkFfcXHSAVhBVV95cUxQWkp5N1ZDczlQWURzYTlhOTBqcFkySG9JWWZlOWlsUkZ5ZmVTMVNXb0phNTVBOWY0SXNOV2FVZGgySmg3WjZJaHlqNWFtWkNITjRtRTJBX3Fx?oc=5"
-     },
-     {
-      "press": "파이낸셜뉴스",
-      "title": "이준석·한동훈, 李 AI 활용 글에 \"대통령 제미나이로 바꾸자\", \"억지 부리지 말고 정신 차려야\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81SDVGX3o4MFZvUjk3LUMtS2hzYzhUdVpZakdWZjlXY1VuMXRqYmhLdVNGa1lvNXRzSmJPdHNMOE1BZHNmdWpPOVFoalgycW5mMG00a0hhWVQxZw?oc=5"
-     },
-     {
-      "press": "재경일보",
-      "title": "이재명 대통령 AI 답변 인용에 야권 국정운영 가벼워 맹공 : 정치",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82VUpGX2xGck9ITEdyQXFla1l3ZG92Vkc5eV9JRk9VSzc5TDNscl9pM3JYc3V3T3Z1cHh5YXlpaUVXQk1IdTUyYXN6NA?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "\"국감장에 끝까지\"…'개근' 장동혁, 평의원처럼 질의만 24차례",
-   "source": "뉴스1",
-   "url": "https://n.news.naver.com/article/421/0009242779",
-   "published_at": "2026-10-22T06:00:00+09:00",
-   "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 197,
-   "comment_agree": 130,
-   "comment_disagree": 17,
-   "division_balance": 0.231293,
-   "division_score": 1.155818,
-   "selection": "찬반 쟁점",
-   "summary": "지난해에는 국감 첫날 인사만 하고 자리를 비웠는데, 올해는 지방감사까지 내려가 평의원처럼 국감 질의를 이어가고 있다. 이 단체는 2023년 국감 평가에서 당시 김기현…",
-   "summary_long": "지난해에는 국감 첫날 인사만 하고 자리를 비웠는데, 올해는 지방감사까지 내려가 평의원처럼 국감 질의를 이어가고 있다. 통상 당대표는 상임위 국감에 얼굴만 비치고 마는 경우가 많은데, 장 대표의 개근은 자신의 교육 분야 전문성을 부각하는 동시에 당 전체에 이번 국감의 무게를 직접 보여주기 위한 행보로 풀이된다. 22일 국회 회의록 등에 따르면 장 대표는 지난 7일 교육부를 시작으로 12일·14일·16일 국회 감사와 20~21일 지방감사에 모두 출석했다.\n\n이 단체는 2023년 국감 평가에서 당시 김기현 국민의힘 대표를 두고 \"질의는 한 번도 없었다\"고 했고, 이재명 민주당 대표를 두고는 \"재판 때문에 국감 후반 국방위의 해군본부부터 2일 참여했다\"고 지적했다. 장 대표 역시 산업통상자원중소벤처기업위원회 소속이던 지난해에는 국감 첫날 \"국정감사 기간인데 그럼에도 불구하고 자주 자리에 있지 못할 것 같아서 죄송하다\"고 인사한 뒤 자리를 떴고 다시 돌아오지 않았다. 당시 단체는 장 대표를 두고 \"10월 13일 산업위의 산업부 국정감사에 출석했으나 질의는 없었고 이후 국정감사장 출석은 없었다\"고 평가했다.",
-   "quotes": [
-    "국감 전에 장 대표가 사관학교와 군 부대, 농지 전수조사 현장 등을 다니며 국감에서 다룰 분야별 의제를 키우는 데 공을 들였고, 수시 원서접수 문제로 긴급 토론회를 연 것도 결국 국감에서 키우려던 것",
-    "그 정책을 문제 삼으려고 했는데, 공교롭게도 우리 당 장 대표가 저랑 같이 교육위인데 그 정책을 옹호하는 듯한 발언을 해서 제가 질의는 하지 않았다",
-    "올해는 당무가 어느 정도 안정이 된 데다가 당 운영 기조도 국정감사와 예산 심사를 중심으로 한 원내에서 강하게 투쟁하는 대안이 있는 야당"
+    "다시 수로 안쪽으로 들어온다고 해도 외해에서 보내는 시간이 길어지면서 결국 수로 밖으로 빠져나가게 될 것",
+    "부캉이가 1부두 쪽으로 갔다가 다시 돌아와 오페라하우스 쪽으로 가는 등 수로 벽면을 따라 이동 중",
+    "한 달 동안 녀석을 보며 정이 많이 들었는데 이제 못 본다고 생각하니 서운한 마음이 크다"
    ],
    "press": "뉴스1",
-   "photo": "06.jpg",
+   "photo": "03.jpg",
    "quoted": {
-    "quote": "그 정책을 문제 삼으려고 했는데, 공교롭게도 우리 당 장 대표가 저랑 같이 교육위인데 그 정책을 옹호하는 듯한 발언을 해서 제가 질의는 하지 않았다",
-    "n": 5,
-    "verified": 0,
-    "items": [
-     {
-      "press": "뉴스1",
-      "title": "\"국감장에 끝까지\"…'개근' 장동혁, 평의원처럼 질의만 24차례",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sQkEyU2Z3Ulg1eWZoc25HZXd3TnFlNVl3VlBvdUdzdXZ4QlFIbV9RcHVpWktadXQ2Mk5ZaXdwTXBOdlhaUTd0LWhwXzdZY2YxNWpTaXUtUDhYdw?oc=5"
-     },
-     {
-      "press": "주간경향",
-      "title": "친한계 박정훈 “장동혁, 판사 시절 민주당 쪽 출마하려 했었다”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtZy16aXVjSDBrZjNnMUFFcTNjYmtfTnFZWVI2X0hZeTVtbTZ1bmFvNEJnNnE5RTNjUHZDR2hCN2d5eGNCb09FZVpLbEIyN0JETGxKelROaWFZMXVEcXc?oc=5"
-     },
-     {
-      "press": "프레시안",
-      "title": "친한계 \"장동혁, 판사 시절 민주당 쪽으로 출마하려 했었다\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWMDB3NXJJQ1ZkNW9Kc2lhZ1k3Zk5faFYtZ3UyRGlsbXB2b1JxZUt0bFJmNjZ0MTFISzRGaWwwbThQUVZ1V3FZWHRYUkVnZ01uaTZwLTlPRWx6Nnh6R1diWHpITmNrNEZaU1Jj?oc=5"
-     },
-     {
-      "press": "중앙일보",
-      "title": "친한계 박정훈 “장동혁, 민주 쪽 출마하려 했던 건 알려진 사실”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3WDd3NkNYZVJRZWJZbkxRODhqLW9hSVlrSU9fbENzcGk5YUZIazRkckoyamFCMTA3UWU4dDE5Y2RJT0JlUDd5MUhLLXJTdzV3TjJDX1Nn?oc=5"
-     },
-     {
-      "press": "데일리안",
-      "title": "친한계 박정훈 \"장동혁, 민주당 쪽 출마하려 했었다\"",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdFo1cGRxREhDTE1hQ2Q1clNiMVI1ZFFsME1zYndrbTNPZHJyR3RRUUtpTGFXTWU4LV9ySmlwek14aExBbXlsc2N5TGVGdVVGRDUxNlFYbFdLaVZtbS1XMmRVU291MVdSRXczZkNZMGF3UXVGMG84bVlHRHJLaDIxTUNnbWJXa0swTDlpRE96cHN4VElzUUJtTERCblExNlh2R2F6RUFyUDY0dkZabnBIa2hDOFFxckQ4M3FyLWlDVlF4YVNRU0ZRb2JKYXpyZ25Xam1ENVBOYWstWEVwSFBvQ21nb29nSFVaNzAwMHRYODRJMi1ueWRZM3lDeDBfMWR4LWRGNmJzVnFSZUdLQlZreGhwaTYtRXNV?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "국민 절반 이상이 싫어한다…‘비호감의 늪’ 빠진 차기 주자",
-   "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003559640",
-   "published_at": "2026-10-22T05:00:01+09:00",
-   "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 284,
-   "comment_agree": 304,
-   "comment_disagree": 27,
-   "division_balance": 0.163142,
-   "division_score": 0.947061,
-   "selection": "찬반 쟁점",
-   "summary": "김민석 더불어민주당 대표가 지난 8월 24일 서울 여의도 국회에서 장동혁 국민의힘 대표를 예방하고 있다. 차기 대권을 노리는 여야 주요 정치인 모두가 국민 절반 이상에게…",
-   "summary_long": "김민석 더불어민주당 대표가 지난 8월 24일 서울 여의도 국회에서 장동혁 국민의힘 대표를 예방하고 있다. 차기 대권을 노리는 여야 주요 정치인 모두가 국민 절반 이상에게 외면받고 있는 것으로 나타났다. 한국갤럽이 지난 13~15일 전국 만 18세 이상 1003명에게 무선전화 면접 조사 방식으로 진행한 여론조사에 따르면, 여야 주요 정치인 7명의 비호감도는 모두 50%를 넘었다.\n\n비호감도가 가장 낮은 오세훈 서울시장마저 57%에 달했고, 그 뒤로 김민석 더불어민주당 대표(59%), 한동훈 무소속 의원(64%), 정청래 민주당 의원(66%), 장동혁 국민의힘 대표와 조국 조국혁신당 혁신정책연구원장(68%), 이준석 개혁신당 의원(72%) 순으로 비호감도가 강했다. 장 대표와 정 의원은 강성 지지층의 지지를 받는 동시에 당내 반대 진영의 비토 또한 강하다는 공통점이 있다. 이 의원은 국민의힘 대표 시절 윤석열 전 대통령과의 갈등으로 인해 생긴 보수층의 비토 정서를 극복하지 못하고 있다.",
-   "quotes": [
-    "중도 행보를 했다가 자기 편이 떨어져 나가면 대권 주자가 될 수 없다는 불안감에 팬덤을 강화하는 악순환은 한동안 이어질 것",
-    "대권을 바라보며 지지층에 어필하고, 정책 개발보다 정쟁에 매몰되는 게 반복되니 정치 불신으로 이어지고 있는 것",
-    "비호감도가 높더라도 팬덤을 구축해야 살아남을 수 있다는 것이 21세기 정치권의 생존 문법"
-   ],
-   "press": "중앙일보",
-   "photo": "07.jpg",
-   "quoted": {
-    "quote": "비호감도가 높더라도 팬덤을 구축해야 살아남을 수 있다는 것이 21세기 정치권의 생존 문법",
+    "quote": "한 달 동안 녀석을 보며 정이 많이 들었는데 이제 못 본다고 생각하니 서운한 마음이 크다",
     "n": 1,
     "verified": 0,
     "items": [
      {
-      "press": "중앙일보",
-      "title": "국민 절반 이상이 싫어한다…‘비호감의 늪’ 빠진 차기 주자",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sWGU3Q005dFF0ak5uRzFZRFh3elNEQnR0Qk9PZHlUOFFNc1RqUk0wSGJRd2hLdDh2ck1zVnN4a3YwLVZkNWNwRmF4anFxajZCTTJPOTlR?oc=5"
+      "press": "동아일보",
+      "title": "170만명 홀리고 바다 돌아갔나…상어 ‘부캉이’ 4시간째 안 보여",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yWUxiOURGT1pFbWJGQUpxVDRpNEo3a2hsaG9LbDNwZ3A4bk1oYnROSkR4NmFObzg4cnhaWUdybGR1SUNwNlE1TmVDVGlOa2Q0VnhnLUhmRi1aTXNkWWRVRjBVYU5Cd9IBZkFVX3lxTE5yWUxiOURGT1pFbWJGQUpxVDRpNEo3a2hsaG9LbDNwZ3A4bk1oYnROSkR4NmFObzg4cnhaWUdybGR1SUNwNlE1TmVDVGlOa2Q0VnhnLUhmRi1aTXNkWWRVRjBVYU5Cdw?oc=5"
      }
     ]
    }
+  },
+  {
+   "title": "‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가",
+   "source": "조선일보",
+   "url": "https://n.news.naver.com/article/023/0004005524",
+   "published_at": "2026-10-23T08:36:09+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "공개 매수 설명서에 따르면, 최대 주주인 김태욱 공동대표와 김성현 공동대표는 공개 매수에 응모하지 않기로 마루베니와 합의했다. 공개 매수가 최대 수량으로 성사되면…",
+   "summary_long": "아이패밀리에스씨 지분 최대 28% 공개매수. 이날 오전 일본 5대 종합상사 중 하나인 ‘마루베니’가 이 회사 지분을 대상으로 공개 매수에 나선다는 소식이 알려지면서 매수세가 몰렸다. 매수 수량은 최소 333만6277주(발행 주식 총수의 약 20%)에서 최대 467만788주(약 28%)다.\n\n공개 매수 설명서에 따르면, 최대 주주인 김태욱 공동대표(지분 28.4%)와 김성현 공동대표(14%)는 공개 매수에 응모하지 않기로 마루베니와 합의했다. 공개 매수가 최대 수량으로 성사되면 마루베니 측과 김태욱·김성현 합산 지분은 70.39%까지 늘어난다. 마루베니는 이번 공개 매수가 상장폐지나 완전자회사화를 위한 것이 아니라고 밝혔다.",
+   "press": "조선일보",
+   "photo": "04.jpg"
+  },
+  {
+   "title": "조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%",
+   "source": "오마이뉴스",
+   "url": "https://n.news.naver.com/article/047/0002533243",
+   "published_at": "2026-10-23T11:36:19+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 101,
+   "comment_agree": 136,
+   "comment_disagree": 42,
+   "division_balance": 0.47191,
+   "division_score": 2.44798,
+   "selection": "찬반 쟁점",
+   "summary": "청와대의 대법관 재제청 요구를 거부하고 업무추진비를 오용했다는 논란을 사고 있는 조희대 대법원장을 탄핵해야 한다는 주장과 관련 논의가 범여권 내에서 진행되고 있는 가운데…",
+   "summary_long": "청와대의 대법관 재제청 요구를 거부하고 업무추진비를 오용했다는 논란을 사고 있는 조희대 대법원장을 탄핵해야 한다는 주장과 관련 논의가 범여권 내에서 진행되고 있는 가운데, 이에 대한 찬반 국민 여론은 오차범위 내 격차라는 조사가 22일 발표됐다. 한국갤럽은 \"최근 정치권 일각에서 대법관 공석 사태 등을 이유로 조희대 대법원장 탄핵안이 거론되고 있다\"면서 조 대법원장 탄핵 찬반 여부를 물었다. 그 결과, 탄핵 찬성은 34%, 반대는 39%, 모름/응답거절은 28%로 나타났다.\n\n탄핵 찬성은 더불어민주당 지지층(61%)과 진보층(66%), 대통령 직무수행 긍정평가층(59%), 40·50대(47%)에서 많았다. 앞서 김민석 민주당 대표는 지난 22일 당 유튜브 방송 '민티07'에 출연해 \"탄핵을 위해서는 국민의 동의와 공감이 매우 중요하지 않나\"라며 이러한 입장을 설명한 바 있다. 특히 최민희 민주당 최고위원은 같은 날 유튜브 방송 '김어준의 겸손은힘들다 뉴스공장'과 한 인터뷰에서 중도층의 탄핵 찬성 여론이 50%를 넘겨야 탄핵 소추 절차를 밟게 될 것 같다는 지도부 기류를 전한 바 있다(관련기사 : 김민석 \"조희대 탄핵, 국민 설득 높이는 것도 저희 책임\" https://omn…",
+   "quotes": [
+    "최근 정치권 일각에서 대법관 공석 사태 등을 이유로 조희대 대법원장 탄핵안이 거론되고 있다",
+    "탄핵을 위해서는 국민의 동의와 공감이 매우 중요하지 않나",
+    "조희대 탄핵, 국민 설득 높이는 것도 저희 책임"
+   ],
+   "press": "오마이뉴스",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "최근 정치권 일각에서 대법관 공석 사태 등을 이유로 조희대 대법원장 탄핵안이 거론되고 있다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "OhmyNews",
+      "title": "조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tcVlwblJTWFVGSWpvdlVRS1ppVDcxemJ6Nk5PYlF6bVlUcF9jNUg4OUZ2QXg1aW82cGl5dEE5VlZRWU9BRTBFU29ORjN6X0stUkM5ZmMwLVFteWViXzFRWEdVbFB3LW56a1pTZDVDYU1RemFUWjN3?oc=5"
+     },
+     {
+      "press": "미디어대전",
+      "title": "조희대 대법원장 탄핵-찬성 34%·반대 39%·유보 28%",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKZUR1UjNOZjQ1NzFkYlhMekRkUHQ0NEhGdTVNdlFVYTE3SXB0QUl6VXQ3cGdJb0lRVF9JaHlacUpWS0JnRExZX1AwOWNYS3psa1ZhblIwU3ZpNTdKRFRXaHpxR2pXQQ?oc=5"
+     },
+     {
+      "press": "세상을 바꾸는 시민언론 민들레",
+      "title": "이 대통령 지지율 7주만에 40%대 회복",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkR29wYldsaWw2c1NhQWlzOTUxeUczbzNqcVNRdHB0bk1lTW5yYUhpTnpKaVc3VjdrWFNiZHUxWnc4X0lLZ3lpT2NCMUNpZ1U5TUcxV1V0djFiOFJRelVBSGQ2VUh5QlZTeENQcg?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "오세훈 대선주자 우뚝…중도 리더 생환, 정치지형 변화 불가피",
+   "source": "국민일보",
+   "url": "https://n.news.naver.com/article/005/0001880535",
+   "published_at": "2026-10-23T20:10:09+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 456,
+   "comment_agree": 230,
+   "comment_disagree": 47,
+   "division_balance": 0.33935,
+   "division_score": 1.909734,
+   "selection": "찬반 쟁점",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "대통령 지지율 7주만에 40%대 회복...조희대 탄핵 찬성 34% 반대 39%",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000517187",
+   "published_at": "2026-10-23T10:57:06+09:00",
+   "section_id": "100",
+   "view_rank": 5,
+   "comment_count": 280,
+   "comment_agree": 168,
+   "comment_disagree": 31,
+   "division_balance": 0.311558,
+   "division_score": 1.650732,
+   "selection": "찬반 쟁점",
+   "prep_error": "The read operation timed out"
   }
  ],
  "cards": [
@@ -309,139 +154,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/01.png",
-   "pngBytes": 1855554,
-   "feed": "오늘의 뉴스 2026-10-23\n\n· 한동훈 \"李대통령, 자기가 왕으로 뽑힌 줄 착각\"\n· 김정은 사망설 번지더니…북한서 포착된 '이상 징후'\n· 이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다\n· 한화시스템, 한화오션으로 2.3조 벌고도 불안한 이유\n· 이준석·한동훈, 李 AI 활용 글에 \"대통령 제미나이로 바꾸자\", \"억지 부리지 말고 정신 차려야\"\n· \"국감장에 끝까지\"…'개근' 장동혁, 평의원처럼 질의만 24차례\n· 국민 절반 이상이 싫어한다…‘비호감의 늪’ 빠진 차기 주자"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/01.png",
+   "pngBytes": 1575821,
+   "feed": "오늘의 뉴스 2026-10-24\n\n· [단독] “이러다 정권 바뀌면 큰일날 수 있다”...민주당 후원 확 늘리는 쿠팡\n· \"개떼처럼 달려들더니\"… 한동훈, 與 '아들 학폭 가해' 주장에 발끈\n· 170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여\n· ‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가\n· 조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%\n· 오세훈 대선주자 우뚝…중도 리더 생환, 정치지형 변화 불가피\n· 대통령 지지율 7주만에 40%대 회복...조희대 탄핵 찬성 34% 반대 39%"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/02.png",
-   "pngBytes": 1858391,
-   "title": "한동훈 \"李대통령, 자기가 왕으로 뽑힌 줄 착각\"",
-   "summary": "이재명 대통령이 중수청에 대한 지휘·감독 포기를 '직무유기'라고 규정하자 한 의원은 대통령의 수사 지휘가 오히려 '탄핵 사유'라고 맞받은 것이다. 한 의원은 이날…",
-   "summary_long": "한동훈 무소속 의원은 22일 대통령이 중대범죄수사청(중수청)을 수사 지휘하면 탄핵 사유가 된다고 주장했다. 이재명 대통령이 중수청에 대한 지휘·감독 포기를 '직무유기'라고 규정하자 한 의원은 대통령의 수사 지휘가 오히려 '탄핵 사유'라고 맞받은 것이다. 한 의원은 이날 페이스북에 \"이 대통령이 '대통령이 중수청 지휘 안 하면 탄핵 사유'라고 했다\"며 \"정확히 반대\"라고 말했다.\n\n이어 \"이 대통령의 억지대로라면 수사 지휘 안 했던 역대 대통령들은 다 탄핵됐어야 하는가\"라며 \"이 대통령은 자기가 왕으로 뽑힌 거라 착각하는 것 같다\"고 비판했다. 그는 \"자기 범죄수사 막고 정적 공격하기 위해 중수청이든 공소청이든 경찰이든 '대통령이 수사 지휘하면 탄핵 사유'\"라고 직격했다. 이어 \"국정에 관한 대통령의 지휘·감독은 권한인 동시에 책임\"이라며 중수청 지휘·감독 포기는 \"직무유기로 형사처벌 받을 범죄\"라고 덧붙였다.",
-   "press": "시사저널",
-   "source": "시사저널",
-   "link": "https://n.news.naver.com/article/586/0000140625",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/02.png",
+   "pngBytes": 1614608,
+   "title": "[단독] “이러다 정권 바뀌면 큰일날 수 있다”...민주당 후원 확 늘리는 쿠팡",
+   "summary": "‘한국 정부가 미국 기업을 차별적으로 대우한다’는 논리로 미 행정부와 의회를 상대로 전방위 로비를 벌여왔던 쿠팡이 다음달 3일 미국 중간선거를 앞두고 조 바이든…",
+   "summary_long": "‘한국 정부가 미국 기업을 차별적으로 대우한다’는 논리로 미 행정부와 의회를 상대로 전방위 로비를 벌여왔던 쿠팡이 다음달 3일 미국 중간선거를 앞두고 조 바이든 행정부에서 고위직을 역임한 민주당 측 인사를 전격 영입했다. 중간선거 이후 미국 민주당이 상·하원 다수당을 차지할 가능성이 거론되는 상황에서 쿠팡이 그동안 공화당에 집중했던 로비를 민주당으로 확대하려는 의도로 해석된다. 엘리슨 라스코우스키 쿠팡 글로벌 공공정책 담당 디렉터 라스코우스키는 쿠팡이 그동안 영입했던 민주당 측 인사와 비교하면 한층 체급이 높은 인물로 꼽힌다.\n\n쿠팡은 최근 민주당 정부에서 국무부와 미국무역대표부(USTR)에서 근무했던 조던 하이버를 영입한 바 있다. 이번 중간선거에서 민주당이 하원 다수당을 차지할 가능성이 크고 상원에서도 다수당 탈환을 노리면서 공화당에 집중됐던 쿠팡의 로비 전략에도 수정이 불가피했기 때문이다. 하지만 쿠팡이 민주당 측 인사를 영입한 것은 중간선거 이후 민주당 의원들을 상대로 로비 공세를 지속하겠다는 차원으로 해석된다.",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005752991",
    "selection": "정치",
-   "feed": "뉴스 01. 한동훈 \"李대통령, 자기가 왕으로 뽑힌 줄 착각\"\n\n한동훈 무소속 의원은 22일 대통령이 중대범죄수사청(중수청)을 수사 지휘하면 탄핵 사유가 된다고 주장했다. 이재명 대통령이 중수청에 대한 지휘·감독 포기를 '직무유기'라고 규정하자 한 의원은 대통령의 수사 지휘가 오히려 '탄핵 사유'라고 맞받은 것이다. 한 의원은 이날 페이스북에 \"이 대통령이 '대통령이 중수청 지휘 안 하면 탄핵 사유'라고 했다\"며 \"정확히 반대\"라고 말했다.\n\n이어 \"이 대통령의 억지대로라면 수사 지휘 안 했던 역대 대통령들은 다 탄핵됐어야 하는가\"라며 \"이 대통령은 자기가 왕으로 뽑힌 거라 착각하는 것 같다\"고 비판했다. 그는 \"자기 범죄수사 막고 정적 공격하기 위해 중수청이든 공소청이든 경찰이든 '대통령이 수사 지휘하면 탄핵 사유'\"라고 직격했다. 이어 \"국정에 관한 대통령의 지휘·감독은 권한인 동시에 책임\"이라며 중수청 지휘·감독 포기는 \"직무유기로 형사처벌 받을 범죄\"라고 덧붙였다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000140625"
+   "feed": "뉴스 01. [단독] “이러다 정권 바뀌면 큰일날 수 있다”...민주당 후원 확 늘리는 쿠팡\n\n‘한국 정부가 미국 기업을 차별적으로 대우한다’는 논리로 미 행정부와 의회를 상대로 전방위 로비를 벌여왔던 쿠팡이 다음달 3일 미국 중간선거를 앞두고 조 바이든 행정부에서 고위직을 역임한 민주당 측 인사를 전격 영입했다. 중간선거 이후 미국 민주당이 상·하원 다수당을 차지할 가능성이 거론되는 상황에서 쿠팡이 그동안 공화당에 집중했던 로비를 민주당으로 확대하려는 의도로 해석된다. 엘리슨 라스코우스키 쿠팡 글로벌 공공정책 담당 디렉터 라스코우스키는 쿠팡이 그동안 영입했던 민주당 측 인사와 비교하면 한층 체급이 높은 인물로 꼽힌다.\n\n쿠팡은 최근 민주당 정부에서 국무부와 미국무역대표부(USTR)에서 근무했던 조던 하이버를 영입한 바 있다. 이번 중간선거에서 민주당이 하원 다수당을 차지할 가능성이 크고 상원에서도 다수당 탈환을 노리면서 공화당에 집중됐던 쿠팡의 로비 전략에도 수정이 불가피했기 때문이다. 하지만 쿠팡이 민주당 측 인사를 영입한 것은 중간선거 이후 민주당 의원들을 상대로 로비 공세를 지속하겠다는 차원으로 해석된다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005752991"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/03.png",
-   "pngBytes": 1980614,
-   "title": "김정은 사망설 번지더니…북한서 포착된 '이상 징후'",
-   "summary": "김정은 북한 국무위원장의 사망설이 해외에서 확산한 가운데 북한 관영매체를 포함한 주요 웹사이트에서 대규모 접속 장애가 이어지고 있다. 접속 장애가 발생한 곳은 외무성…",
-   "summary_long": "북한 외무성·중앙통신 등 대규모 접속장애. 김정은 북한 국무위원장의 사망설이 해외에서 확산한 가운데 북한 관영매체를 포함한 주요 웹사이트에서 대규모 접속 장애가 이어지고 있다. 22일 통일부와 외신 등에 따르면 북한 노동당 기관지 노동신문과 조선중앙통신을 비롯한 주요 웹사이트들이 지난 20일부터 정상적으로 운영되지 않고 있다.\n\n접속 장애가 발생한 곳은 외무성, 조선중앙통신, 민주조선, 내나라 등 북한 국가 도메인 '.kp'를 사용하는 웹사이트 40여개다. 미국 북한 전문매체 NK뉴스는 21일(현지시간) 북한 주요 웹사이트 대부분이 하루 넘게 접속 불능 상태에 빠지면서 외부에서 북한 당국의 공식 정보를 확인하기 어려워졌다고 보도했다. 2022년에는 디도스 공격으로 북한 웹사이트에서 접속 장애가 발생했다.",
-   "press": "한국경제TV",
-   "source": "한국경제TV",
-   "link": "https://n.news.naver.com/article/215/0001270086",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/03.png",
+   "pngBytes": 578347,
+   "title": "\"개떼처럼 달려들더니\"… 한동훈, 與 '아들 학폭 가해' 주장에 발끈",
+   "summary": "",
+   "summary_long": "",
+   "press": "한국일보",
+   "source": "한국일보",
+   "link": "https://n.news.naver.com/article/469/0000961221",
    "selection": "정치",
-   "feed": "뉴스 02. 김정은 사망설 번지더니…북한서 포착된 '이상 징후'\n\n북한 외무성·중앙통신 등 대규모 접속장애. 김정은 북한 국무위원장의 사망설이 해외에서 확산한 가운데 북한 관영매체를 포함한 주요 웹사이트에서 대규모 접속 장애가 이어지고 있다. 22일 통일부와 외신 등에 따르면 북한 노동당 기관지 노동신문과 조선중앙통신을 비롯한 주요 웹사이트들이 지난 20일부터 정상적으로 운영되지 않고 있다.\n\n접속 장애가 발생한 곳은 외무성, 조선중앙통신, 민주조선, 내나라 등 북한 국가 도메인 '.kp'를 사용하는 웹사이트 40여개다. 미국 북한 전문매체 NK뉴스는 21일(현지시간) 북한 주요 웹사이트 대부분이 하루 넘게 접속 불능 상태에 빠지면서 외부에서 북한 당국의 공식 정보를 확인하기 어려워졌다고 보도했다. 2022년에는 디도스 공격으로 북한 웹사이트에서 접속 장애가 발생했다.\n\n출처: 한국경제TV / https://n.news.naver.com/article/215/0001270086"
+   "feed": "뉴스 02. \"개떼처럼 달려들더니\"… 한동훈, 與 '아들 학폭 가해' 주장에 발끈\n\n\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000961221"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/04.png",
-   "pngBytes": 1999934,
-   "title": "이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다",
-   "summary": "서울 송파구 장모 살인사건 피의자 김성우의 아내가 결혼 전부터 상습 폭행에 시달렸으며, 혼인신고도 김성우의 강요에 의해 이뤄졌다고 주장했다. /사진=JTBC…",
-   "summary_long": "서울 송파구 장모 살인사건 피의자 김성우(26)의 아내가 결혼 전부터 상습 폭행에 시달렸으며, 혼인신고도 김성우의 강요에 의해 이뤄졌다고 주장했다. 21일 JTBC '사건반장'에 따르면 김성우와 아내 A씨는 지난해 4월 처음 만나 교제를 시작했다. A씨는 김성우가 자신의 자취방에 들어와 함께 살면서부터 폭행이 시작됐다고 밝혔다.\n\n김성우는 \"헤어졌는데 넌 왜 행복하게 지내냐\", \"너 죽고 나 죽자\"며 A씨의 목을 졸랐다. 뒤늦게 어머니에게 사정을 알리고 친정으로 피신했지만, 김성우가 흥신소를 이용해 집 주소를 알아내면서 결국 범행에 노출됐다./사진=JTBC '사건반장'결국 A씨는 8월 집을 나와 김성우를 가정폭력으로 신고했고, 혼인무효 소송도 제기했다. A씨는 김성우가 가족과 지인들의 연락처와 주소를 알고 있어 그동안 주변에 도움을 요청하지 못했다고 털어놨다.",
-   "press": "머니투데이",
-   "source": "머니투데이",
-   "link": "https://n.news.naver.com/article/008/0005429871",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/04.png",
+   "pngBytes": 1853914,
+   "title": "170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여",
+   "summary": "김현우 국립수산과학원 연구관은 \"부캉이는 어제부터 수로 벽면을 따라 이동하는 상태\"라며 \"부캉이의 잠영 시간이 점점 더 길어질 것으로 보인다\"고 했다. 이어 김 연구관은…",
+   "summary_long": "지난달 18일 부산 북항친수공원 인공수로에 처음 나타나 누적 170만 명에 가까운 방문객을 모은 흑상어 '부캉이'가 4시간째 모습을 드러내지 않고 있다. 현장에서는 \"이렇게 안 보인 건 처음\"이라는 반응이 나오며, 상어가 본격적으로 외해 진출 채비를 마쳤다는 관측이 제기된다. 23일 해양수산부 등에 따르면 전날 빈번하게 지느러미를 노출하던 것과 달리 부캉이는 이날 오전 8시부터 4시간 넘게 수로 내에서 포착되지 않고 있다.\n\n해수부 관계자는 \"전날 30분에 한 번꼴로 관찰됐던 것과 비교해 육안 확인 간격이 확연히 길어졌다\"며 \"상어는 잠영하는 것이 정상이므로 잠영 시간이 늘어난다는 건 매우 긍정적인 신호\"라고 밝혔다. 김현우 국립수산과학원 연구관은 \"부캉이는 어제부터 수로 벽면을 따라 이동하는 상태\"라며 \"부캉이의 잠영 시간이 점점 더 길어질 것으로 보인다\"고 했다. 이어 김 연구관은 \"부캉이가 1부두 쪽으로 갔다가 다시 돌아와 오페라하우스 쪽으로 가는 등 수로 벽면을 따라 이동 중\"이라며 \"다시 수로 안쪽으로 들어온다고 해도 외해에서 보내는 시간이 길어지면서 결국 수로 밖으로 빠져나가게 될 것\"이라고 전망했다.",
+   "press": "뉴스1",
+   "source": "뉴스1",
+   "link": "https://n.news.naver.com/article/421/0009246156",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다\n\n서울 송파구 장모 살인사건 피의자 김성우(26)의 아내가 결혼 전부터 상습 폭행에 시달렸으며, 혼인신고도 김성우의 강요에 의해 이뤄졌다고 주장했다. 21일 JTBC '사건반장'에 따르면 김성우와 아내 A씨는 지난해 4월 처음 만나 교제를 시작했다. A씨는 김성우가 자신의 자취방에 들어와 함께 살면서부터 폭행이 시작됐다고 밝혔다.\n\n김성우는 \"헤어졌는데 넌 왜 행복하게 지내냐\", \"너 죽고 나 죽자\"며 A씨의 목을 졸랐다. 뒤늦게 어머니에게 사정을 알리고 친정으로 피신했지만, 김성우가 흥신소를 이용해 집 주소를 알아내면서 결국 범행에 노출됐다./사진=JTBC '사건반장'결국 A씨는 8월 집을 나와 김성우를 가정폭력으로 신고했고, 혼인무효 소송도 제기했다. A씨는 김성우가 가족과 지인들의 연락처와 주소를 알고 있어 그동안 주변에 도움을 요청하지 못했다고 털어놨다.\n\n출처: 머니투데이 / https://n.news.naver.com/article/008/0005429871"
+   "feed": "뉴스 03. 170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여\n\n지난달 18일 부산 북항친수공원 인공수로에 처음 나타나 누적 170만 명에 가까운 방문객을 모은 흑상어 '부캉이'가 4시간째 모습을 드러내지 않고 있다. 현장에서는 \"이렇게 안 보인 건 처음\"이라는 반응이 나오며, 상어가 본격적으로 외해 진출 채비를 마쳤다는 관측이 제기된다. 23일 해양수산부 등에 따르면 전날 빈번하게 지느러미를 노출하던 것과 달리 부캉이는 이날 오전 8시부터 4시간 넘게 수로 내에서 포착되지 않고 있다.\n\n해수부 관계자는 \"전날 30분에 한 번꼴로 관찰됐던 것과 비교해 육안 확인 간격이 확연히 길어졌다\"며 \"상어는 잠영하는 것이 정상이므로 잠영 시간이 늘어난다는 건 매우 긍정적인 신호\"라고 밝혔다. 김현우 국립수산과학원 연구관은 \"부캉이는 어제부터 수로 벽면을 따라 이동하는 상태\"라며 \"부캉이의 잠영 시간이 점점 더 길어질 것으로 보인다\"고 했다. 이어 김 연구관은 \"부캉이가 1부두 쪽으로 갔다가 다시 돌아와 오페라하우스 쪽으로 가는 등 수로 벽면을 따라 이동 중\"이라며 \"다시 수로 안쪽으로 들어온다고 해도 외해에서 보내는 시간이 길어지면서 결국 수로 밖으로 빠져나가게 될 것\"이라고 전망했다.\n\n출처: 뉴스1 / https://n.news.naver.com/article/421/0009246156"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/05.png",
-   "pngBytes": 1713463,
-   "title": "한화시스템, 한화오션으로 2.3조 벌고도 불안한 이유",
-   "summary": "한화시스템, 올 한화오션 지분 11% 3조 처분. PRS 계약 따라 한화오션 주가 기준 정산.",
-   "summary_long": "한화시스템, 올 한화오션 지분 11% 3조 처분. PRS 계약 따라 한화오션 주가 기준 정산. 한화오션 주가 하락으로 손실 가능성 커져한화시스템이 최근 한화오션 지분 전량을 처분하면서 4년 만에 4.5배가 넘는 투자 수익을 거둔 것으로 분석된다.\n\n하지만 향후 한화오션 주가가 떨어지게 되면 파생상품계약에 따라 대규모 손실도 발생할 수 있는 상황이다. 한화시스템은 지난 19일 보유중인 한화오션 2216만9660주(7.24%) 전량을 1조3834억원에 주가수익스왑(PRS) 방식으로 처분했다. 지난 21일 한화오션 주가 5만9400원 기준으로 보면 한화시스템은 대규모 손실이 발생할 수 있다는 얘기다.",
-   "press": "비즈워치",
-   "source": "비즈워치",
-   "link": "https://n.news.naver.com/article/648/0000051825",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/05.png",
+   "pngBytes": 1536250,
+   "title": "‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가",
+   "summary": "공개 매수 설명서에 따르면, 최대 주주인 김태욱 공동대표와 김성현 공동대표는 공개 매수에 응모하지 않기로 마루베니와 합의했다. 공개 매수가 최대 수량으로 성사되면…",
+   "summary_long": "아이패밀리에스씨 지분 최대 28% 공개매수. 이날 오전 일본 5대 종합상사 중 하나인 ‘마루베니’가 이 회사 지분을 대상으로 공개 매수에 나선다는 소식이 알려지면서 매수세가 몰렸다. 매수 수량은 최소 333만6277주(발행 주식 총수의 약 20%)에서 최대 467만788주(약 28%)다.\n\n공개 매수 설명서에 따르면, 최대 주주인 김태욱 공동대표(지분 28.4%)와 김성현 공동대표(14%)는 공개 매수에 응모하지 않기로 마루베니와 합의했다. 공개 매수가 최대 수량으로 성사되면 마루베니 측과 김태욱·김성현 합산 지분은 70.39%까지 늘어난다. 마루베니는 이번 공개 매수가 상장폐지나 완전자회사화를 위한 것이 아니라고 밝혔다.",
+   "press": "조선일보",
+   "source": "조선일보",
+   "link": "https://n.news.naver.com/article/023/0004005524",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 한화시스템, 한화오션으로 2.3조 벌고도 불안한 이유\n\n한화시스템, 올 한화오션 지분 11% 3조 처분. PRS 계약 따라 한화오션 주가 기준 정산. 한화오션 주가 하락으로 손실 가능성 커져한화시스템이 최근 한화오션 지분 전량을 처분하면서 4년 만에 4.5배가 넘는 투자 수익을 거둔 것으로 분석된다.\n\n하지만 향후 한화오션 주가가 떨어지게 되면 파생상품계약에 따라 대규모 손실도 발생할 수 있는 상황이다. 한화시스템은 지난 19일 보유중인 한화오션 2216만9660주(7.24%) 전량을 1조3834억원에 주가수익스왑(PRS) 방식으로 처분했다. 지난 21일 한화오션 주가 5만9400원 기준으로 보면 한화시스템은 대규모 손실이 발생할 수 있다는 얘기다.\n\n출처: 비즈워치 / https://n.news.naver.com/article/648/0000051825"
+   "feed": "뉴스 04. ‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가\n\n아이패밀리에스씨 지분 최대 28% 공개매수. 이날 오전 일본 5대 종합상사 중 하나인 ‘마루베니’가 이 회사 지분을 대상으로 공개 매수에 나선다는 소식이 알려지면서 매수세가 몰렸다. 매수 수량은 최소 333만6277주(발행 주식 총수의 약 20%)에서 최대 467만788주(약 28%)다.\n\n공개 매수 설명서에 따르면, 최대 주주인 김태욱 공동대표(지분 28.4%)와 김성현 공동대표(14%)는 공개 매수에 응모하지 않기로 마루베니와 합의했다. 공개 매수가 최대 수량으로 성사되면 마루베니 측과 김태욱·김성현 합산 지분은 70.39%까지 늘어난다. 마루베니는 이번 공개 매수가 상장폐지나 완전자회사화를 위한 것이 아니라고 밝혔다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004005524"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/06.png",
-   "pngBytes": 2170960,
-   "title": "이준석·한동훈, 李 AI 활용 글에 \"대통령 제미나이로 바꾸자\", \"억지 부리지 말고 정신 차려야\"",
-   "summary": "이재명 대통령이 중대범죄수사청장과 공소청장의 국무회의 배석 논란에 생성형 인공지능 제미나이의 답변을 인용해 반박하자 야권의 비판이 쏟아졌다. 개혁신당 이준석 의원은…",
-   "summary_long": "이재명 대통령이 중대범죄수사청장과 공소청장의 국무회의 배석 논란에 생성형 인공지능(AI) 제미나이의 답변을 인용해 반박하자 야권의 비판이 쏟아졌다. 개혁신당 이준석 의원은 21일 페이스북에 \"대통령이 통치의 근거로 제미나이를 들기 시작했다\"며 \"심지어 몇 달 전에는 제미나이가 가끔 엉뚱한 답한다고 핀잔을 주던 사람\"이라고 적었다. 그러면서 \"대통령이 제미나이한테 물어봐서 통치할 거면 그냥 대통령을 제미나이로 바꾸면 되지 않나\"라며 \"사법리스크도 없어, 전과도 없어, 욕도 안 해, 근저당도 안 잡아 모든 게 상위호환\"이라고 비꼬았다.\n\n국민의힘 나경원 의원 역시 페이스북을 통해 \"편향된 질문으로 편향된 답변을 제미나이에서 받아놓고, 그걸 엑스(X)에 올리는 대통령의 처참한 수준\"이라며 \"국정운영을 이런 방식으로 해온 건가\"라고 비판했다. 이어 \"대통령이 헌법과 법률이 아닌, 제미나이에 물어 국정을 판단한다\"며 \"기가 막힌다\"고 덧붙였다. 이 대통령의 일반적인 행정감독권을 근거로 두 기관장의 국무회의 배석을 정당화할 경우, 수사·기소기관의 준사법적 성격과 정치적 중립성이 훼손될 우려가 있다는 내용이 담겼다.",
-   "press": "파이낸셜뉴스",
-   "source": "파이낸셜뉴스",
-   "link": "https://n.news.naver.com/article/014/0005592887",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/06.png",
+   "pngBytes": 2009108,
+   "title": "조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%",
+   "summary": "청와대의 대법관 재제청 요구를 거부하고 업무추진비를 오용했다는 논란을 사고 있는 조희대 대법원장을 탄핵해야 한다는 주장과 관련 논의가 범여권 내에서 진행되고 있는 가운데…",
+   "summary_long": "청와대의 대법관 재제청 요구를 거부하고 업무추진비를 오용했다는 논란을 사고 있는 조희대 대법원장을 탄핵해야 한다는 주장과 관련 논의가 범여권 내에서 진행되고 있는 가운데, 이에 대한 찬반 국민 여론은 오차범위 내 격차라는 조사가 22일 발표됐다. 한국갤럽은 \"최근 정치권 일각에서 대법관 공석 사태 등을 이유로 조희대 대법원장 탄핵안이 거론되고 있다\"면서 조 대법원장 탄핵 찬반 여부를 물었다. 그 결과, 탄핵 찬성은 34%, 반대는 39%, 모름/응답거절은 28%로 나타났다.\n\n탄핵 찬성은 더불어민주당 지지층(61%)과 진보층(66%), 대통령 직무수행 긍정평가층(59%), 40·50대(47%)에서 많았다. 앞서 김민석 민주당 대표는 지난 22일 당 유튜브 방송 '민티07'에 출연해 \"탄핵을 위해서는 국민의 동의와 공감이 매우 중요하지 않나\"라며 이러한 입장을 설명한 바 있다. 특히 최민희 민주당 최고위원은 같은 날 유튜브 방송 '김어준의 겸손은힘들다 뉴스공장'과 한 인터뷰에서 중도층의 탄핵 찬성 여론이 50%를 넘겨야 탄핵 소추 절차를 밟게 될 것 같다는 지도부 기류를 전한 바 있다(관련기사 : 김민석 \"조희대 탄핵, 국민 설득 높이는 것도 저희 책임\" https://omn…",
+   "press": "오마이뉴스",
+   "source": "오마이뉴스",
+   "link": "https://n.news.naver.com/article/047/0002533243",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 이준석·한동훈, 李 AI 활용 글에 \"대통령 제미나이로 바꾸자\", \"억지 부리지 말고 정신 차려야\"\n\n이재명 대통령이 중대범죄수사청장과 공소청장의 국무회의 배석 논란에 생성형 인공지능(AI) 제미나이의 답변을 인용해 반박하자 야권의 비판이 쏟아졌다. 개혁신당 이준석 의원은 21일 페이스북에 \"대통령이 통치의 근거로 제미나이를 들기 시작했다\"며 \"심지어 몇 달 전에는 제미나이가 가끔 엉뚱한 답한다고 핀잔을 주던 사람\"이라고 적었다. 그러면서 \"대통령이 제미나이한테 물어봐서 통치할 거면 그냥 대통령을 제미나이로 바꾸면 되지 않나\"라며 \"사법리스크도 없어, 전과도 없어, 욕도 안 해, 근저당도 안 잡아 모든 게 상위호환\"이라고 비꼬았다.\n\n국민의힘 나경원 의원 역시 페이스북을 통해 \"편향된 질문으로 편향된 답변을 제미나이에서 받아놓고, 그걸 엑스(X)에 올리는 대통령의 처참한 수준\"이라며 \"국정운영을 이런 방식으로 해온 건가\"라고 비판했다. 이어 \"대통령이 헌법과 법률이 아닌, 제미나이에 물어 국정을 판단한다\"며 \"기가 막힌다\"고 덧붙였다. 이 대통령의 일반적인 행정감독권을 근거로 두 기관장의 국무회의 배석을 정당화할 경우, 수사·기소기관의 준사법적 성격과 정치적 중립성이 훼손될 우려가 있다는 내용이 담겼다.\n\n출처: 파이낸셜뉴스 / https://n.news.naver.com/article/014/0005592887"
+   "feed": "뉴스 05. 조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%\n\n청와대의 대법관 재제청 요구를 거부하고 업무추진비를 오용했다는 논란을 사고 있는 조희대 대법원장을 탄핵해야 한다는 주장과 관련 논의가 범여권 내에서 진행되고 있는 가운데, 이에 대한 찬반 국민 여론은 오차범위 내 격차라는 조사가 22일 발표됐다. 한국갤럽은 \"최근 정치권 일각에서 대법관 공석 사태 등을 이유로 조희대 대법원장 탄핵안이 거론되고 있다\"면서 조 대법원장 탄핵 찬반 여부를 물었다. 그 결과, 탄핵 찬성은 34%, 반대는 39%, 모름/응답거절은 28%로 나타났다.\n\n탄핵 찬성은 더불어민주당 지지층(61%)과 진보층(66%), 대통령 직무수행 긍정평가층(59%), 40·50대(47%)에서 많았다. 앞서 김민석 민주당 대표는 지난 22일 당 유튜브 방송 '민티07'에 출연해 \"탄핵을 위해서는 국민의 동의와 공감이 매우 중요하지 않나\"라며 이러한 입장을 설명한 바 있다. 특히 최민희 민주당 최고위원은 같은 날 유튜브 방송 '김어준의 겸손은힘들다 뉴스공장'과 한 인터뷰에서 중도층의 탄핵 찬성 여론이 50%를 넘겨야 탄핵 소추 절차를 밟게 될 것 같다는 지도부 기류를 전한 바 있다(관련기사 : 김민석 \"조희대 탄핵, 국민 설득 높이는 것도 저희 책임\" https://omn…\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002533243"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/07.png",
-   "pngBytes": 1644300,
-   "title": "\"국감장에 끝까지\"…'개근' 장동혁, 평의원처럼 질의만 24차례",
-   "summary": "지난해에는 국감 첫날 인사만 하고 자리를 비웠는데, 올해는 지방감사까지 내려가 평의원처럼 국감 질의를 이어가고 있다. 이 단체는 2023년 국감 평가에서 당시 김기현…",
-   "summary_long": "지난해에는 국감 첫날 인사만 하고 자리를 비웠는데, 올해는 지방감사까지 내려가 평의원처럼 국감 질의를 이어가고 있다. 통상 당대표는 상임위 국감에 얼굴만 비치고 마는 경우가 많은데, 장 대표의 개근은 자신의 교육 분야 전문성을 부각하는 동시에 당 전체에 이번 국감의 무게를 직접 보여주기 위한 행보로 풀이된다. 22일 국회 회의록 등에 따르면 장 대표는 지난 7일 교육부를 시작으로 12일·14일·16일 국회 감사와 20~21일 지방감사에 모두 출석했다.\n\n이 단체는 2023년 국감 평가에서 당시 김기현 국민의힘 대표를 두고 \"질의는 한 번도 없었다\"고 했고, 이재명 민주당 대표를 두고는 \"재판 때문에 국감 후반 국방위의 해군본부부터 2일 참여했다\"고 지적했다. 장 대표 역시 산업통상자원중소벤처기업위원회 소속이던 지난해에는 국감 첫날 \"국정감사 기간인데 그럼에도 불구하고 자주 자리에 있지 못할 것 같아서 죄송하다\"고 인사한 뒤 자리를 떴고 다시 돌아오지 않았다. 당시 단체는 장 대표를 두고 \"10월 13일 산업위의 산업부 국정감사에 출석했으나 질의는 없었고 이후 국정감사장 출석은 없었다\"고 평가했다.",
-   "press": "뉴스1",
-   "source": "뉴스1",
-   "link": "https://n.news.naver.com/article/421/0009242779",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/07.png",
+   "pngBytes": 577164,
+   "title": "오세훈 대선주자 우뚝…중도 리더 생환, 정치지형 변화 불가피",
+   "summary": "",
+   "summary_long": "",
+   "press": "국민일보",
+   "source": "국민일보",
+   "link": "https://n.news.naver.com/article/005/0001880535",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. \"국감장에 끝까지\"…'개근' 장동혁, 평의원처럼 질의만 24차례\n\n지난해에는 국감 첫날 인사만 하고 자리를 비웠는데, 올해는 지방감사까지 내려가 평의원처럼 국감 질의를 이어가고 있다. 통상 당대표는 상임위 국감에 얼굴만 비치고 마는 경우가 많은데, 장 대표의 개근은 자신의 교육 분야 전문성을 부각하는 동시에 당 전체에 이번 국감의 무게를 직접 보여주기 위한 행보로 풀이된다. 22일 국회 회의록 등에 따르면 장 대표는 지난 7일 교육부를 시작으로 12일·14일·16일 국회 감사와 20~21일 지방감사에 모두 출석했다.\n\n이 단체는 2023년 국감 평가에서 당시 김기현 국민의힘 대표를 두고 \"질의는 한 번도 없었다\"고 했고, 이재명 민주당 대표를 두고는 \"재판 때문에 국감 후반 국방위의 해군본부부터 2일 참여했다\"고 지적했다. 장 대표 역시 산업통상자원중소벤처기업위원회 소속이던 지난해에는 국감 첫날 \"국정감사 기간인데 그럼에도 불구하고 자주 자리에 있지 못할 것 같아서 죄송하다\"고 인사한 뒤 자리를 떴고 다시 돌아오지 않았다. 당시 단체는 장 대표를 두고 \"10월 13일 산업위의 산업부 국정감사에 출석했으나 질의는 없었고 이후 국정감사장 출석은 없었다\"고 평가했다.\n\n출처: 뉴스1 / https://n.news.naver.com/article/421/0009242779"
+   "feed": "뉴스 06. 오세훈 대선주자 우뚝…중도 리더 생환, 정치지형 변화 불가피\n\n\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001880535"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/08.png",
-   "pngBytes": 1480773,
-   "title": "국민 절반 이상이 싫어한다…‘비호감의 늪’ 빠진 차기 주자",
-   "summary": "김민석 더불어민주당 대표가 지난 8월 24일 서울 여의도 국회에서 장동혁 국민의힘 대표를 예방하고 있다. 차기 대권을 노리는 여야 주요 정치인 모두가 국민 절반 이상에게…",
-   "summary_long": "김민석 더불어민주당 대표가 지난 8월 24일 서울 여의도 국회에서 장동혁 국민의힘 대표를 예방하고 있다. 차기 대권을 노리는 여야 주요 정치인 모두가 국민 절반 이상에게 외면받고 있는 것으로 나타났다. 한국갤럽이 지난 13~15일 전국 만 18세 이상 1003명에게 무선전화 면접 조사 방식으로 진행한 여론조사에 따르면, 여야 주요 정치인 7명의 비호감도는 모두 50%를 넘었다.\n\n비호감도가 가장 낮은 오세훈 서울시장마저 57%에 달했고, 그 뒤로 김민석 더불어민주당 대표(59%), 한동훈 무소속 의원(64%), 정청래 민주당 의원(66%), 장동혁 국민의힘 대표와 조국 조국혁신당 혁신정책연구원장(68%), 이준석 개혁신당 의원(72%) 순으로 비호감도가 강했다. 장 대표와 정 의원은 강성 지지층의 지지를 받는 동시에 당내 반대 진영의 비토 또한 강하다는 공통점이 있다. 이 의원은 국민의힘 대표 시절 윤석열 전 대통령과의 갈등으로 인해 생긴 보수층의 비토 정서를 극복하지 못하고 있다.",
-   "press": "중앙일보",
-   "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003559640",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/08.png",
+   "pngBytes": 599024,
+   "title": "대통령 지지율 7주만에 40%대 회복...조희대 탄핵 찬성 34% 반대 39%",
+   "summary": "",
+   "summary_long": "",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000517187",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 국민 절반 이상이 싫어한다…‘비호감의 늪’ 빠진 차기 주자\n\n김민석 더불어민주당 대표가 지난 8월 24일 서울 여의도 국회에서 장동혁 국민의힘 대표를 예방하고 있다. 차기 대권을 노리는 여야 주요 정치인 모두가 국민 절반 이상에게 외면받고 있는 것으로 나타났다. 한국갤럽이 지난 13~15일 전국 만 18세 이상 1003명에게 무선전화 면접 조사 방식으로 진행한 여론조사에 따르면, 여야 주요 정치인 7명의 비호감도는 모두 50%를 넘었다.\n\n비호감도가 가장 낮은 오세훈 서울시장마저 57%에 달했고, 그 뒤로 김민석 더불어민주당 대표(59%), 한동훈 무소속 의원(64%), 정청래 민주당 의원(66%), 장동혁 국민의힘 대표와 조국 조국혁신당 혁신정책연구원장(68%), 이준석 개혁신당 의원(72%) 순으로 비호감도가 강했다. 장 대표와 정 의원은 강성 지지층의 지지를 받는 동시에 당내 반대 진영의 비토 또한 강하다는 공통점이 있다. 이 의원은 국민의힘 대표 시절 윤석열 전 대통령과의 갈등으로 인해 생긴 보수층의 비토 정서를 극복하지 못하고 있다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003559640"
+   "feed": "뉴스 07. 대통령 지지율 7주만에 40%대 회복...조희대 탄핵 찬성 34% 반대 39%\n\n\n\n출처: JTBC / https://n.news.naver.com/article/437/0000517187"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-23/09.png",
-   "pngBytes": 1346412
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/09.png",
+   "pngBytes": 1346139
   }
  ],
- "caption": "📰 10월 23일 오늘의 뉴스\n\n1. 한동훈 \"李대통령, 자기가 왕으로 뽑힌 줄 착각\"\n   이재명 대통령이 중수청에 대한 지휘·감독 포기를 '직무유기'라고 규정하자 한 의원은 대통령의 수사 지휘가 오히려 '탄핵 사유'라고 맞받은 것이다. 한 의원은 이날…\n2. 김정은 사망설 번지더니…북한서 포착된 '이상 징후'\n   김정은 북한 국무위원장의 사망설이 해외에서 확산한 가운데 북한 관영매체를 포함한 주요 웹사이트에서 대규모 접속 장애가 이어지고 있다. 접속 장애가 발생한 곳은 외무성…\n3. 이별 통보에 손발 묶고 강간…장모 살해범, 혼인신고도 강제였다\n   서울 송파구 장모 살인사건 피의자 김성우의 아내가 결혼 전부터 상습 폭행에 시달렸으며, 혼인신고도 김성우의 강요에 의해 이뤄졌다고 주장했다. /사진=JTBC…\n4. 한화시스템, 한화오션으로 2.3조 벌고도 불안한 이유\n   한화시스템, 올 한화오션 지분 11% 3조 처분. PRS 계약 따라 한화오션 주가 기준 정산.\n5. 이준석·한동훈, 李 AI 활용 글에 \"대통령 제미나이로 바꾸자\", \"억지 부리지 말고 정신 차려야\"\n   이재명 대통령이 중대범죄수사청장과 공소청장의 국무회의 배석 논란에 생성형 인공지능 제미나이의 답변을 인용해 반박하자 야권의 비판이 쏟아졌다. 개혁신당 이준석 의원은…\n6. \"국감장에 끝까지\"…'개근' 장동혁, 평의원처럼 질의만 24차례\n   지난해에는 국감 첫날 인사만 하고 자리를 비웠는데, 올해는 지방감사까지 내려가 평의원처럼 국감 질의를 이어가고 있다. 이 단체는 2023년 국감 평가에서 당시 김기현…\n7. 국민 절반 이상이 싫어한다…‘비호감의 늪’ 빠진 차기 주자\n   김민석 더불어민주당 대표가 지난 8월 24일 서울 여의도 국회에서 장동혁 국민의힘 대표를 예방하고 있다. 차기 대권을 노리는 여야 주요 정치인 모두가 국민 절반 이상에게…\n\n🗣 “헌법과 법률을 어기며 중수청은 지휘·감독하지 말라는 것인가. 지휘·감독을 공개회의에서 하지 말고 밀실에서 비공개로 하라는 것인가”\n이 발언을 그대로 실은 보도 10건 · 한겨레 · 경기신문 · 신아일보 · 채널A 뉴스\n· 한겨레 — 이 대통령 “중수청 지휘·감독 포기는 탄핵사유…공개회의 열외는 무논리”\n· 경기신문 — 李 대통령 “중수청 지휘감독 포기는 위헌”…SNS서 연이틀 반박\n· 신아일보 — 李대통령 \"중수청 지휘감독 포기는 탄핵사유\"…금기어까지 꺼냈다\n· 채널A 뉴스 — 이 대통령 “중수청 지휘감독 포기하는 건 탄핵 사유”\n· 머니투데이 — 李대통령 \"중수청에 대한 지휘감독 포기는 탄핵사유\" - 머니투데이\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #AI #북한 #대통령실\n\n출처: 뉴스1, 머니투데이, 비즈워치, 시사저널, 중앙일보, 파이낸셜뉴스, 한국경제TV"
+ "caption": "📰 10월 24일 오늘의 뉴스\n\n1. [단독] “이러다 정권 바뀌면 큰일날 수 있다”...민주당 후원 확 늘리는 쿠팡\n   ‘한국 정부가 미국 기업을 차별적으로 대우한다’는 논리로 미 행정부와 의회를 상대로 전방위 로비를 벌여왔던 쿠팡이 다음달 3일 미국 중간선거를 앞두고 조 바이든…\n2. \"개떼처럼 달려들더니\"… 한동훈, 與 '아들 학폭 가해' 주장에 발끈\n3. 170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여\n   김현우 국립수산과학원 연구관은 \"부캉이는 어제부터 수로 벽면을 따라 이동하는 상태\"라며 \"부캉이의 잠영 시간이 점점 더 길어질 것으로 보인다\"고 했다. 이어 김 연구관은…\n4. ‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가\n   공개 매수 설명서에 따르면, 최대 주주인 김태욱 공동대표와 김성현 공동대표는 공개 매수에 응모하지 않기로 마루베니와 합의했다. 공개 매수가 최대 수량으로 성사되면…\n5. 조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%\n   청와대의 대법관 재제청 요구를 거부하고 업무추진비를 오용했다는 논란을 사고 있는 조희대 대법원장을 탄핵해야 한다는 주장과 관련 논의가 범여권 내에서 진행되고 있는 가운데…\n6. 오세훈 대선주자 우뚝…중도 리더 생환, 정치지형 변화 불가피\n7. 대통령 지지율 7주만에 40%대 회복...조희대 탄핵 찬성 34% 반대 39%\n\n🗣 “최근 정치권 일각에서 대법관 공석 사태 등을 이유로 조희대 대법원장 탄핵안이 거론되고 있다”\n이 발언을 그대로 실은 보도 3건 · OhmyNews · 미디어대전 · 세상을 바꾸는 시민언론 민들레\n· OhmyNews — 조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%\n· 미디어대전 — 조희대 대법원장 탄핵-찬성 34%·반대 39%·유보 28%\n· 세상을 바꾸는 시민언론 민들레 — 이 대통령 지지율 7주만에 40%대 회복\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, 국민일보, 뉴스1, 매일경제, 오마이뉴스, 조선일보, 한국일보"
 }
