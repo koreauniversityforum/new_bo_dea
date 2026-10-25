@@ -1,151 +1,285 @@
 {
- "date": "2026-10-24",
- "generated_at": "2026-10-24T10:17:09+09:00",
+ "date": "2026-10-25",
+ "generated_at": "2026-10-25T09:43:00+09:00",
  "mode": "daily",
- "window_start": "2026-10-23T00:00:00+09:00",
- "window_end": "2026-10-23T23:59:59+09:00",
+ "window_start": "2026-10-24T00:00:00+09:00",
+ "window_end": "2026-10-24T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "[단독] “이러다 정권 바뀌면 큰일날 수 있다”...민주당 후원 확 늘리는 쿠팡",
-   "source": "매일경제",
-   "url": "https://n.news.naver.com/article/009/0005752991",
-   "published_at": "2026-10-23T11:30:06+09:00",
+   "title": "오세훈 2심 무죄에 민주 “왜 아무도 처벌 안 받나”…국힘 “특검 사죄하라”",
+   "source": "국민일보",
+   "url": "https://n.news.naver.com/article/005/0001880586",
+   "published_at": "2026-10-24T10:49:10+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "‘한국 정부가 미국 기업을 차별적으로 대우한다’는 논리로 미 행정부와 의회를 상대로 전방위 로비를 벌여왔던 쿠팡이 다음달 3일 미국 중간선거를 앞두고 조 바이든…",
-   "summary_long": "‘한국 정부가 미국 기업을 차별적으로 대우한다’는 논리로 미 행정부와 의회를 상대로 전방위 로비를 벌여왔던 쿠팡이 다음달 3일 미국 중간선거를 앞두고 조 바이든 행정부에서 고위직을 역임한 민주당 측 인사를 전격 영입했다. 중간선거 이후 미국 민주당이 상·하원 다수당을 차지할 가능성이 거론되는 상황에서 쿠팡이 그동안 공화당에 집중했던 로비를 민주당으로 확대하려는 의도로 해석된다. 엘리슨 라스코우스키 쿠팡 글로벌 공공정책 담당 디렉터 라스코우스키는 쿠팡이 그동안 영입했던 민주당 측 인사와 비교하면 한층 체급이 높은 인물로 꼽힌다.\n\n쿠팡은 최근 민주당 정부에서 국무부와 미국무역대표부(USTR)에서 근무했던 조던 하이버를 영입한 바 있다. 이번 중간선거에서 민주당이 하원 다수당을 차지할 가능성이 크고 상원에서도 다수당 탈환을 노리면서 공화당에 집중됐던 쿠팡의 로비 전략에도 수정이 불가피했기 때문이다. 하지만 쿠팡이 민주당 측 인사를 영입한 것은 중간선거 이후 민주당 의원들을 상대로 로비 공세를 지속하겠다는 차원으로 해석된다.",
-   "press": "매일경제",
-   "photo": "01.jpg"
+   "summary": "오세훈 서울시장이 23일 서울 서초구 서울고법에서 열린 ‘명태균 여론조사 대납 의혹' 사건 항소심 선고 재판에서 무죄 판결을 받아들고 법원을 나서고 있다. 더불어민주당은…",
+   "summary_long": "민주 “특검 즉각 상고해 명태균 게이트 실체 밝혀야” 오세훈 서울시장이 23일 서울 서초구 서울고법에서 열린 ‘명태균 여론조사 대납 의혹' 사건 항소심 선고 재판에서 무죄 판결을 받아들고 법원을 나서고 있다. 오세훈 서울시장의 ‘여론조사비 대납 의혹’ 항소심 무죄 판결을 두고 여야가 엇갈린 반응을 내놨다.\n\n더불어민주당은 상고심에서 사건의 실체를 밝혀야 한다고 촉구했고, 국민의힘은 무리한 기소가 드러났다며 특검의 사과와 이재명 대통령 재판 재개를 요구했다. 이어 “대법원은 명태균 게이트 전반에 대해 엄정하고 신속하게 판단해 국민의 의구심에 답해야 한다”며 특검이 상고하겠다고 밝힌 만큼 상고심에서 사건의 실체적 진실을 밝혀야 한다고 주장했다. 반면 박성훈 국민의힘 수석대변인은 논평에서 이번 판결을 두고 “정치 브로커의 오락가락 사기 진술에 의존해 야당의 유력 정치인을 매장하려 했던 정치 특검과 민주당의 공작이 항소심 재판부의 판결 앞에서 완벽히 수포로 돌아갔다”고 밝혔다.",
+   "quotes": [
+    "정치 브로커의 오락가락 사기 진술에 의존해 야당의 유력 정치인을 매장하려 했던 정치 특검과 민주당의 공작이 항소심 재판부의 판결 앞에서 완벽히 수포로 돌아갔다",
+    "대법원은 명태균 게이트 전반에 대해 엄정하고 신속하게 판단해 국민의 의구심에 답해야 한다",
+    "이 대통령은 멈춰 서 있는 본인의 재판부터 즉각 재개해 법정에서 무죄를 입증하라"
+   ],
+   "press": "국민일보",
+   "photo": "01.jpg",
+   "quoted": {
+    "quote": "대법원은 명태균 게이트 전반에 대해 엄정하고 신속하게 판단해 국민의 의구심에 답해야 한다",
+    "n": 7,
+    "verified": 0,
+    "items": [
+     {
+      "press": "파이낸셜뉴스",
+      "title": "오세훈 2심 무죄에 여야 공방…민주 \"상고심 촉구\" 국힘 \"특검 사죄\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ta0pWejFJd0ZqMkVsbjlNWDVtbWd4QVhfNjRBaG1iODJDYU9VcjB5MWpYNzVEd3hVMHlYblIySU9sVER1SmluTmtSTXB3ck5iZVp1Q2J0ZFFIdw?oc=5"
+     },
+     {
+      "press": "대전일보",
+      "title": "오세훈 항소심 무죄, 여야 공방 이어져…與 '상고심' vs 野 '특검 사죄'",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOeDdDajh3SDBSVmNScC1WUVB4MjliVnZsV0FXSTJjZTIwTUxUT3FnU3JqN0tJcUNZU3lRNUctQUZLeTUzekh1RDhDb2hHTFFnaHNUNFdrUlZyMnFqOXRCSTY0VmE4OHJjZEJQVzd2cUJVZ2vSAXNBVV95cUxQTng3Q2o4d0gwUlZjUnAtVlFQeDI5YlZ2bFdBV0kyY2UyME1MVE9xZ1NyajdLSXFDWVN5UTVHLUFGS3k1M3pIdUQ4Q29oR0xRZ2hzVDRXa1JWcjJxajl0Qkk2NFZhODhyY2RCUFc3dnFCVWdr?oc=5"
+     },
+     {
+      "press": "매일신문",
+      "title": "오세훈 2심 무죄에 민주 \"김건희, 尹도 2심 무죄, 왜 아무도 처벌 안 받나\"",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVFhpcGh3WXpaWElFQ25JRkpSYUlKak9NUjJMb0FsSDNwVDNSRElYRTJ4bjZ5cUlpV0F1b0hoVkJNRmdxbkotSUxZM3llRXJfb1VRb2hFb095MkVpUkNSZlpn?oc=5"
+     },
+     {
+      "press": "MBC 뉴스",
+      "title": "\"대법원이 오세훈 진실 밝혀야\", \"특검 억지 기소 사죄\"‥여야 충돌",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfcnNPZzRLaUZzLWNJbmJGTm5XTkFfV2loNFNLMksyUzR1em83bUVfSkxTMlZ0Qm5QLXZ5R2dFb1hjZnVHZ0pvTmI5dDJ6Y25vMVl1UmZWcDNGSjYxU0EyMUZTdmhzSXY0RlRLc0NTTjlicVdaVWfSAXhBVV95cUxONlRwZzhUSjRtM2FrV2JFN1pZbG1fNUNYajNWWnJVNzZ3N1RNSmoyaGVvLUpZSllaLTJFTXRZdHMyTWU4Ti1aVWhEZV9DaG5PNnFFMDZ6Skwzc05OWUpjZngxWlFhc1JaSzBxTlRqOFVIT3VGLTF6TTY?oc=5"
+     },
+     {
+      "press": "M이코노미뉴스",
+      "title": "오세훈 무죄에 여야 공방...“납득 어려운 판결” vs “사법부 흔들기 중단해야”",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vdWgwWWJuOFlxbUpQVXd1aGZIMjU4amNVa3lFVHkxNW84dVZQMkR1MkZ3VmxDNjhlcWJOa2lJb0pfSnh4MEV0b1R5OUMtdUdIUEh6S25jVUtkWm5ZRVdnMlloY01IaHc?oc=5"
+     },
+     {
+      "press": "데일리안",
+      "title": "오세훈 '2심 무죄'에 대법원 보는 與, 李대통령 압박하는 野",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrX1FjX1JDOE4wRFZuV1lhX2E5aXd0VmRUWUUwM2dsMDE4ZDBQR2NxOTBJVjVVQmh6Ui1fcXpqZG9IQWkxSzJXR0RLTmg0NmtHRl9oUGxXbw?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "\"개떼처럼 달려들더니\"… 한동훈, 與 '아들 학폭 가해' 주장에 발끈",
-   "source": "한국일보",
-   "url": "https://n.news.naver.com/article/469/0000961221",
-   "published_at": "2026-10-23T11:49:10+09:00",
+   "title": "김계리, 한동훈에 “尹 탄핵시키면 1짱 될 줄 알았나…사과가 인간 된 도리”",
+   "source": "경기일보",
+   "url": "https://n.news.naver.com/article/666/0000128893",
+   "published_at": "2026-10-24T10:53:12+09:00",
    "section_id": "100",
-   "view_rank": 2,
+   "view_rank": 1,
    "selection": "정치",
-   "prep_error": "The read operation timed out"
+   "summary": "명태균 여론조사·이종섭 호주대사 사건 무죄 판결 거론하며 사과 요구. 김계리 변호사가 윤석열 전 대통령의 명태균 여론조사 의혹과 이종섭 전 국방부 장관의 호주대사 임명…",
+   "summary_long": "김계리 변호사가 윤석열 전 대통령의 명태균 여론조사 의혹과 이종섭 전 국방부 장관의 호주대사 임명 관련 사건에서 잇따라 무죄 판결이 나온 것을 거론하며 한동훈 무소속 의원에게 사과를 요구했다. 김 변호사는 24일 자신의 페이스북에 “김건희 특검에서 기소한 명태균 사건, 채상병 특검에서 기소한 런종섭 사건 다 당신이 키운 것”이라며 “한동훈씨 책임을 져라”고 밝혔다. 그는 한 의원이 과거 윤 전 대통령을 정치적으로 압박하는 데 앞장섰다고 주장하며 “대통령 탄핵 시키면 ‘내가’ 1짱 먹고 대통령 될 수 있을 줄 알았나”라고 비판했다.\n\n김 변호사의 발언은 최근 명태균씨의 여론조사 관련 사건에서 윤 전 대통령과 오세훈 서울시장의 항소심 무죄 판결이 잇따라 나온 가운데 제기됐다. 김건희 특검은 윤 전 대통령의 명태균 여론조사 사건에 상고했으며, 오 시장 사건에 대해서도 대법원 판단을 구하겠다는 입장이다. 이 전 장관의 호주대사 임명 관련 사건 역시 순직해병 특검이 항소하면서 재판이 이어지고 있다.",
+   "quotes": [
+    "김건희 특검에서 기소한 명태균 사건, 채상병 특검에서 기소한 런종섭 사건 다 당신이 키운 것",
+    "대통령을 압박하고 정치적으로 고립시켜 보수 궤멸에 앞장 섰던 한동훈씨, 왜 사과 한마디 없냐",
+    "이종섭 장관이 호주대사로 임면된 것은 호주의 10조짜리 호위함 수주를 위한 것이었다"
+   ],
+   "press": "경기일보",
+   "photo": "02.jpg",
+   "quoted": {
+    "quote": "김건희 특검에서 기소한 명태균 사건, 채상병 특검에서 기소한 런종섭 사건 다 당신이 키운 것",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "경기일보",
+      "title": "김계리, 한동훈에 “尹 탄핵시키면 1짱 될 줄 알았나…사과가 인간 된 도리”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WOUVsZXQxRmdKWjV6ajhXMXEzakh6VjU3NVA2U1V5MUhzLW5aVWU4Z0IxT2dWTlRINlg0Y2tLTFBVc0hxMmxwRjItMWFSVU8tLWZJbnFJS1ljNm8?oc=5"
+     },
+     {
+      "press": "주간경향",
+      "title": "“한동훈, 명태균 묻은 윤석열·오세훈·이준석 날리면 대통령 될 줄 알았냐”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1NHVLYVVseDRoY2x3NDY2c2FxbXlGc3doa29YNExQMEc2Um1kN3hmUWtTX1psdHByQW1ydzhDTmoxN19Bb0tFbGxRdER0aG5Ua3JobDFHOTM4T2JNWHc?oc=5"
+     },
+     {
+      "press": "천지일보",
+      "title": "[천지TV 쇼츠] 김계리 “한동훈씨 책임지세요”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PU1NILVpLSWZWYWhrRWtYUWswRFljQWRUNWdWYXJ2bU4wb2NVNFhjQUluYVF1QUtHbGxUdGhxVnNWSGMyRVc3eVVncTRNZXY0ZUlXVkZMQ1hUV3NVbHVMRkprRUc3MFJDMGc?oc=5"
+     },
+     {
+      "press": "위키트리",
+      "title": "오세훈 무죄 선고받자... 김계리가 한동훈에게 폭발해 올린 글",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0aG5rV2ptWDUtakZEeUI1MEF6bFl1VEhhSHIwYUhGNldoUzM3bXRLSi1uSmVBWjNTbVY3VzVJV29QWUpPR0cxZzRsQm5LcjZsY0g4cTdn?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여",
-   "source": "뉴스1",
-   "url": "https://n.news.naver.com/article/421/0009246156",
-   "published_at": "2026-10-23T12:31:17+09:00",
+   "title": "[단독] “회비 40만원이면 된다”더니…빚더미 부모, 축구화 벗은 딸",
+   "source": "한겨레",
+   "url": "https://n.news.naver.com/article/028/0002828958",
+   "published_at": "2026-10-24T09:02:15+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "김현우 국립수산과학원 연구관은 \"부캉이는 어제부터 수로 벽면을 따라 이동하는 상태\"라며 \"부캉이의 잠영 시간이 점점 더 길어질 것으로 보인다\"고 했다. 이어 김 연구관은…",
-   "summary_long": "지난달 18일 부산 북항친수공원 인공수로에 처음 나타나 누적 170만 명에 가까운 방문객을 모은 흑상어 '부캉이'가 4시간째 모습을 드러내지 않고 있다. 현장에서는 \"이렇게 안 보인 건 처음\"이라는 반응이 나오며, 상어가 본격적으로 외해 진출 채비를 마쳤다는 관측이 제기된다. 23일 해양수산부 등에 따르면 전날 빈번하게 지느러미를 노출하던 것과 달리 부캉이는 이날 오전 8시부터 4시간 넘게 수로 내에서 포착되지 않고 있다.\n\n해수부 관계자는 \"전날 30분에 한 번꼴로 관찰됐던 것과 비교해 육안 확인 간격이 확연히 길어졌다\"며 \"상어는 잠영하는 것이 정상이므로 잠영 시간이 늘어난다는 건 매우 긍정적인 신호\"라고 밝혔다. 김현우 국립수산과학원 연구관은 \"부캉이는 어제부터 수로 벽면을 따라 이동하는 상태\"라며 \"부캉이의 잠영 시간이 점점 더 길어질 것으로 보인다\"고 했다. 이어 김 연구관은 \"부캉이가 1부두 쪽으로 갔다가 다시 돌아와 오페라하우스 쪽으로 가는 등 수로 벽면을 따라 이동 중\"이라며 \"다시 수로 안쪽으로 들어온다고 해도 외해에서 보내는 시간이 길어지면서 결국 수로 밖으로 빠져나가게 될 것\"이라고 전망했다.",
+   "summary": "학부모에 회비 걷어 ‘제2월급’, 주유비 접대비까지...축구감독의 민낯. 이에 대해 김 감독은 “급여와 활동비를 받은 것은 맞지만 개인적으로 쌓아둔 게 아니라 선수…",
+   "summary_long": "학부모에 회비 걷어 ‘제2월급’, 주유비 접대비까지...축구감독의 민낯. 한겨레21 취재 결과 김 감독이 2023년 3월부터 2024년 8월까지 대경대 여자축구부를 이끄는 동안 학부모들의 회비는 사실상 감독의 주머니로 흘러 들어갔다. 전직 감독 ㄹ씨 역시 “월급도 제대로 못 받으며 버티는 지도자가 많은데 학부모에게 큰돈을 걷고 실업팀 감독 접대까지 다니는 건 말이 안 된다”고 비판했다.\n\n학부모 ㅂ씨는 “달마다 200만원 이상 낼 때 부담스러워 난색을 표하면, 실업팀 감독과 약속했으니 맞추라는 식이었다”고 말했다. 회비 유용 논란으로 학부모들의 반발이 거세지자, 김 감독은 2024년 9월 여자 대학축구 ‘U리그’ 7개 팀 가운데 유일한 공립대인 강원도립대 여자축구부 감독으로 자리를 옮겼다. 이에 대해 김 감독은 “급여와 활동비를 받은 것은 맞지만 개인적으로 쌓아둔 게 아니라 선수 모집과 팀 운영에 사용했다”며 “출전 기회를 회비 납부에 따라 달리했다는 의혹은 사실이 아니다”라고 해명했다.",
    "quotes": [
-    "다시 수로 안쪽으로 들어온다고 해도 외해에서 보내는 시간이 길어지면서 결국 수로 밖으로 빠져나가게 될 것",
-    "부캉이가 1부두 쪽으로 갔다가 다시 돌아와 오페라하우스 쪽으로 가는 등 수로 벽면을 따라 이동 중",
-    "한 달 동안 녀석을 보며 정이 많이 들었는데 이제 못 본다고 생각하니 서운한 마음이 크다"
+    "순수하게 축구를 즐기던 아이가 어른들의 돈 욕심과 불공정한 기회 차별을 겪으며 깊은 상처를 받았고 어른들에 대한 신뢰와 꿈이 완전히 무너졌다",
+    "회비를 어떤 경우에 얼마를 걷는지 기준도 없고, 구체적인 사용 내역이 공개되지 않으면 학부모는 돈만 내고 쓰임새는 모르는 구조에 놓인다",
+    "월급도 제대로 못 받으며 버티는 지도자가 많은데 학부모에게 큰돈을 걷고 실업팀 감독 접대까지 다니는 건 말이 안 된다"
    ],
-   "press": "뉴스1",
+   "press": "한겨레",
    "photo": "03.jpg",
    "quoted": {
-    "quote": "한 달 동안 녀석을 보며 정이 많이 들었는데 이제 못 본다고 생각하니 서운한 마음이 크다",
+    "quote": "월급도 제대로 못 받으며 버티는 지도자가 많은데 학부모에게 큰돈을 걷고 실업팀 감독 접대까지 다니는 건 말이 안 된다",
+    "n": 2,
+    "verified": 0,
+    "items": [
+     {
+      "press": "한겨레",
+      "title": "[단독] “회비 40만원이면 된다”더니…빚더미 부모, 축구화 벗은 딸",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5adVlvb1lxUy1zd08yS1BBYTRfRFYwUkpsTHNhUngtX29QZzFfdHN4NTBCclRXYVpGTlE2Q2pIdC1CV2ctODVxYkRXbmtaZjBGMF9iNXhCcjhVdHluSG9Ia2xic0NueTdpZzFPSXhiSUt3dw?oc=5"
+     },
+     {
+      "press": "한겨레21",
+      "title": "[단독] 학부모에게 월 수백만원씩 ‘제2월급’ 받은 여자축구 감독",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aZjJkcTI4cDZvRUhoYThaVlRFQlBGOVNmUWtrcllKZl95emJPdTVDdnZScVl6bU12LVo0dFdZRVNSbV9Yb1ZlVlEtVDVrQUZXaF96VWxiS0o4WFoySjVBR1YyeGhGdjMzQncxMHFzQQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "\"'한지민 언니' 서은혜 오열\"…'127억이 0원?' 무슨 일 있었길래",
+   "source": "이데일리",
+   "url": "https://n.news.naver.com/article/018/0006395244",
+   "published_at": "2026-10-24T12:09:07+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "오세훈, 2심 무죄로 대권가도 탄력…국힘 '吳 중심' 결집 주목",
+   "source": "뉴스1",
+   "url": "https://n.news.naver.com/article/421/0009247322",
+   "published_at": "2026-10-24T06:00:00+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 100,
+   "comment_agree": 109,
+   "comment_disagree": 40,
+   "division_balance": 0.536913,
+   "division_score": 2.690274,
+   "selection": "찬반 쟁점",
+   "summary": "국민의힘 내부에서는 오 시장이 향후 비당권파의 새로운 구심점으로 자리 잡을 수 있을지에도 관심이 쏠린다. 국민의힘 관계자는 \"오 시장은 이제 사법 리스크를 완전히 벗은…",
+   "summary_long": "국민의힘 내부에서는 오 시장이 향후 비당권파의 새로운 구심점으로 자리 잡을 수 있을지에도 관심이 쏠린다. 지난 6·3 지방선거에서 사상 첫 5선 서울시장에 오른 데 이어 1심 유죄 판결까지 뒤집히면서 차기 대권주자로서 오 시장의 정치적 운신 폭이 넓어질 수 있다는 전망도 나온다. 친한동훈계(친한계) 등 기존 비당권파와의 관계 설정과 상대적으로 취약하다는 평가를 받는 당내 조직 기반 역시 향후 정치 행보의 변수다.\n\n1심 시장직 상실형 뒤집고 무죄…정치적 부담 덜어24일 정치권에 따르면 전날(23일) '여론조사비 대납' 의혹' 항소심 무죄 판결이 오 시장의 당내 입지를 한층 강화하는 계기가 될 것이란 전망이 나온다. 국민의힘 관계자는 \"오 시장은 이제 사법 리스크를 완전히 벗은 것이라고 평가할 수 있다\"며 \"당내에서 오 시장을 중심으로 새로운 정치적 흐름이 형성될 가능성도 커졌다\"고 말했다. 당내 조직 기반 확보 과제…친한계와 '연대·경쟁' 변수다만 오 시장을 중심으로 당내 세력을 속도감 있게 재편할 수 있을지는 미지수다.",
+   "quotes": [
+    "당내에서 오 시장을 중심으로 새로운 정치적 흐름이 형성될 가능성도 커졌다",
+    "정권 재창출을 위해서는 대권주자가 최대한 많은 편이 우리 당에 유리하다",
+    "오 시장은 이제 사법 리스크를 완전히 벗은 것이라고 평가할 수 있다"
+   ],
+   "press": "뉴스1",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "정권 재창출을 위해서는 대권주자가 최대한 많은 편이 우리 당에 유리하다",
     "n": 1,
     "verified": 0,
     "items": [
      {
-      "press": "동아일보",
-      "title": "170만명 홀리고 바다 돌아갔나…상어 ‘부캉이’ 4시간째 안 보여",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yWUxiOURGT1pFbWJGQUpxVDRpNEo3a2hsaG9LbDNwZ3A4bk1oYnROSkR4NmFObzg4cnhaWUdybGR1SUNwNlE1TmVDVGlOa2Q0VnhnLUhmRi1aTXNkWWRVRjBVYU5Cd9IBZkFVX3lxTE5yWUxiOURGT1pFbWJGQUpxVDRpNEo3a2hsaG9LbDNwZ3A4bk1oYnROSkR4NmFObzg4cnhaWUdybGR1SUNwNlE1TmVDVGlOa2Q0VnhnLUhmRi1aTXNkWWRVRjBVYU5Cdw?oc=5"
+      "press": "뉴스1",
+      "title": "오세훈, 2심 무죄로 대권가도 탄력…국힘 '吳 중심' 결집 주목",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUT2pReHVQQnRqS2xpRF9QZjkxZ0tReDliZmpuaWx2bk0tQmlRT2hvTEhDZ3pwanBNc1dhZHZpTGRfNndiYzB3Q1JKNEtWblRUX2VBRnJtVEFNdw?oc=5"
      }
     ]
    }
   },
   {
-   "title": "‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004005524",
-   "published_at": "2026-10-23T08:36:09+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "공개 매수 설명서에 따르면, 최대 주주인 김태욱 공동대표와 김성현 공동대표는 공개 매수에 응모하지 않기로 마루베니와 합의했다. 공개 매수가 최대 수량으로 성사되면…",
-   "summary_long": "아이패밀리에스씨 지분 최대 28% 공개매수. 이날 오전 일본 5대 종합상사 중 하나인 ‘마루베니’가 이 회사 지분을 대상으로 공개 매수에 나선다는 소식이 알려지면서 매수세가 몰렸다. 매수 수량은 최소 333만6277주(발행 주식 총수의 약 20%)에서 최대 467만788주(약 28%)다.\n\n공개 매수 설명서에 따르면, 최대 주주인 김태욱 공동대표(지분 28.4%)와 김성현 공동대표(14%)는 공개 매수에 응모하지 않기로 마루베니와 합의했다. 공개 매수가 최대 수량으로 성사되면 마루베니 측과 김태욱·김성현 합산 지분은 70.39%까지 늘어난다. 마루베니는 이번 공개 매수가 상장폐지나 완전자회사화를 위한 것이 아니라고 밝혔다.",
-   "press": "조선일보",
-   "photo": "04.jpg"
-  },
-  {
-   "title": "조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%",
-   "source": "오마이뉴스",
-   "url": "https://n.news.naver.com/article/047/0002533243",
-   "published_at": "2026-10-23T11:36:19+09:00",
+   "title": "조갑제, 오세훈 무죄에 “판사가 나라구해…장동혁 정치적 파산”",
+   "source": "국민일보",
+   "url": "https://n.news.naver.com/article/005/0001880588",
+   "published_at": "2026-10-24T11:51:06+09:00",
    "section_id": "100",
    "view_rank": 4,
-   "comment_count": 101,
-   "comment_agree": 136,
-   "comment_disagree": 42,
-   "division_balance": 0.47191,
-   "division_score": 2.44798,
+   "comment_count": 173,
+   "comment_agree": 131,
+   "comment_disagree": 37,
+   "division_balance": 0.440476,
+   "division_score": 2.259598,
    "selection": "찬반 쟁점",
-   "summary": "청와대의 대법관 재제청 요구를 거부하고 업무추진비를 오용했다는 논란을 사고 있는 조희대 대법원장을 탄핵해야 한다는 주장과 관련 논의가 범여권 내에서 진행되고 있는 가운데…",
-   "summary_long": "청와대의 대법관 재제청 요구를 거부하고 업무추진비를 오용했다는 논란을 사고 있는 조희대 대법원장을 탄핵해야 한다는 주장과 관련 논의가 범여권 내에서 진행되고 있는 가운데, 이에 대한 찬반 국민 여론은 오차범위 내 격차라는 조사가 22일 발표됐다. 한국갤럽은 \"최근 정치권 일각에서 대법관 공석 사태 등을 이유로 조희대 대법원장 탄핵안이 거론되고 있다\"면서 조 대법원장 탄핵 찬반 여부를 물었다. 그 결과, 탄핵 찬성은 34%, 반대는 39%, 모름/응답거절은 28%로 나타났다.\n\n탄핵 찬성은 더불어민주당 지지층(61%)과 진보층(66%), 대통령 직무수행 긍정평가층(59%), 40·50대(47%)에서 많았다. 앞서 김민석 민주당 대표는 지난 22일 당 유튜브 방송 '민티07'에 출연해 \"탄핵을 위해서는 국민의 동의와 공감이 매우 중요하지 않나\"라며 이러한 입장을 설명한 바 있다. 특히 최민희 민주당 최고위원은 같은 날 유튜브 방송 '김어준의 겸손은힘들다 뉴스공장'과 한 인터뷰에서 중도층의 탄핵 찬성 여론이 50%를 넘겨야 탄핵 소추 절차를 밟게 될 것 같다는 지도부 기류를 전한 바 있다(관련기사 : 김민석 \"조희대 탄핵, 국민 설득 높이는 것도 저희 책임\" https://omn…",
+   "summary": "보수 논객 조갑제 조갑제닷컴 대표가 오세훈 서울시장의 ‘여론조사비 대납 의혹’ 항소심 무죄 판결로 “장동혁 대표와 국민의힘이 정치적으로 파산했다”고 주장했다. 조 대표는…",
+   "summary_long": "보수 논객 조갑제 조갑제닷컴 대표가 오세훈 서울시장의 ‘여론조사비 대납 의혹’ 항소심 무죄 판결로 “장동혁 대표와 국민의힘이 정치적으로 파산했다”고 주장했다. 조 대표는 24일 페이스북에 “장 대표가 기로에 섰다”며 “오늘 이후로 계속 부정선거 재선거를 주장하는 것은 오 시장에 대한 무죄선고와 상관없이 부정선거로 당선된 책임을 지고 자진사퇴하라는 뜻일 수밖에 없다”고 했다. 그러면서 “장 대표가 ‘이제 무죄선고를 받았으니 재선거 주장을 접자’고 하는 순간 국민의힘은 거짓선동으로 당을 오도한 대표를 제명해야 할 의무를 지게 된다”고 강조했다.\n\n조 대표는 이어 “국민의힘은 장동혁을 제명하든지 자진해산하든지 양자택일뿐”이라며 “논리적으로 장동혁이 빠져나갈 수 있는 구멍은 “어제 무죄판결은 잘못 되었으니 대법원 확정판결 때까지 희망을 잃지 말고 기다려보자”고 설득하는 것인데 이 또한 제명사유인 점은 변함이 없다”고 했다. 조 대표는 전날에는 “오 시장 무죄 선고로 정통보수는 살고, 장동혁 당권파는 치명상을 입었으며, 민주당도 속으로는 안도하고 있을지 모른다”고 적었다. 그는 “이번 판결은 판사가 사실과 법리의 힘으로 나라를 구한 사례로 교과서에 올려야 할 것”이라며 “이제 오세훈, 한동훈의 ‘양훈 제휴’로 보수세력이 2028년 총선과 2030년 대선을 승리로 이끌 중심축 건설이 가능해졌다”는 주장을 폈다.",
    "quotes": [
-    "최근 정치권 일각에서 대법관 공석 사태 등을 이유로 조희대 대법원장 탄핵안이 거론되고 있다",
-    "탄핵을 위해서는 국민의 동의와 공감이 매우 중요하지 않나",
-    "조희대 탄핵, 국민 설득 높이는 것도 저희 책임"
+    "오늘 이후로 계속 부정선거 재선거를 주장하는 것은 오 시장에 대한 무죄선고와 상관없이 부정선거로 당선된 책임을 지고 자진사퇴하라는 뜻일 수밖에 없다",
+    "장 대표가 ‘이제 무죄선고를 받았으니 재선거 주장을 접자’고 하는 순간 국민의힘은 거짓선동으로 당을 오도한 대표를 제명해야 할 의무를 지게 된다",
+    "이제 오세훈, 한동훈의 ‘양훈 제휴’로 보수세력이 2028년 총선과 2030년 대선을 승리로 이끌 중심축 건설이 가능해졌다"
    ],
-   "press": "오마이뉴스",
-   "photo": "05.jpg",
+   "press": "국민일보",
+   "photo": "06.jpg",
    "quoted": {
-    "quote": "최근 정치권 일각에서 대법관 공석 사태 등을 이유로 조희대 대법원장 탄핵안이 거론되고 있다",
-    "n": 3,
+    "quote": "이제 오세훈, 한동훈의 ‘양훈 제휴’로 보수세력이 2028년 총선과 2030년 대선을 승리로 이끌 중심축 건설이 가능해졌다",
+    "n": 7,
     "verified": 0,
     "items": [
      {
-      "press": "OhmyNews",
-      "title": "조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tcVlwblJTWFVGSWpvdlVRS1ppVDcxemJ6Nk5PYlF6bVlUcF9jNUg4OUZ2QXg1aW82cGl5dEE5VlZRWU9BRTBFU29ORjN6X0stUkM5ZmMwLVFteWViXzFRWEdVbFB3LW56a1pTZDVDYU1RemFUWjN3?oc=5"
+      "press": "국민일보",
+      "title": "조갑제, 오세훈 무죄에 “판사가 나라구해⋯장동혁 정치적 파산”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oYzI3MnBfVkVlSTZZSlhDdHN6OE9QTnZHZU9kcEJzUWVKbzBqcGxiUFN3dFFvOVJBdEFzSXVhazNEX3NQOHgyOGhzZWV4MTVVUXZ0NVJYbmc?oc=5"
      },
      {
-      "press": "미디어대전",
-      "title": "조희대 대법원장 탄핵-찬성 34%·반대 39%·유보 28%",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKZUR1UjNOZjQ1NzFkYlhMekRkUHQ0NEhGdTVNdlFVYTE3SXB0QUl6VXQ3cGdJb0lRVF9JaHlacUpWS0JnRExZX1AwOWNYS3psa1ZhblIwU3ZpNTdKRFRXaHpxR2pXQQ?oc=5"
+      "press": "프레시안",
+      "title": "[속보] 조갑제 \"오세훈 무죄로 장동혁과 국힘당은 정치적으로 파산했다\"",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTlfY25WV0s0Vlo4TkpKU3NMV1lnR2hya21hQ1NkZjhNZmtUbXdIcnNxb1Y1ZExIajVydFRZSGlBLWRxbWJ2U1RsdDlmRE1BOTktem9BQ3VCNDVVcGM3Q2IyLUZXZGs3d2RNTVRnNTQwc0djeDAzRkIxdEVEVDlWalZHdEh5WENhTmVrMm52cmJKeHpJVFo5NXJR?oc=5"
      },
      {
-      "press": "세상을 바꾸는 시민언론 민들레",
-      "title": "이 대통령 지지율 7주만에 40%대 회복",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkR29wYldsaWw2c1NhQWlzOTUxeUczbzNqcVNRdHB0bk1lTW5yYUhpTnpKaVc3VjdrWFNiZHUxWnc4X0lLZ3lpT2NCMUNpZ1U5TUcxV1V0djFiOFJRelVBSGQ2VUh5QlZTeENQcg?oc=5"
+      "press": "문화일보",
+      "title": "[속보]조갑제“판사가 나라 구해…오·한 ‘양훈’ 제휴”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KUzlIRFd4cDZjamVpNWJMY2hnMFRfYlJhX2V4ZllJQzhYTnN3Zkg4NW5fMHNXajRZR1Rqbmp5cjJicFVsNF9xcWFXN2ctSmpk?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "조갑제, 오세훈 무죄에 \"판사가 나라 구해…오·한 '양훈 제휴'\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zNjViRml5dmJuUGZKaU9HUWJybDVTc0tUY2dWUHRyLWp3Ym91TDIwVmN6QVdHNGtKZ3FhMHZnTDZkRnpnRXk2UzczY3VFdVh0TEhHLW5Ua0hzdTMzRWpCenhCMzZGaHB0ZlNhOXJvYUZfV09HY0pYdtIBeEFVX3lxTE0zNjViRml5dmJuUGZKaU9HUWJybDVTc0tUY2dWUHRyLWp3Ym91TDIwVmN6QVdHNGtKZ3FhMHZnTDZkRnpnRXk2UzczY3VFdVh0TEhHLW5Ua0hzdTMzRWpCenhCMzZGaHB0ZlNhOXJvYUZfV09HY0pYdg?oc=5"
+     },
+     {
+      "press": "경기일보",
+      "title": "조갑제 “판사가 나라 구해...오세훈 무죄로 보수 재건 중심축 건설”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PMGM0eGdQNFQzc0trQXdoYlllVjdJNDJoaEdLVnpzcElkeE9NWXdTUklCLUlQWnNQeWVOOUh4cDJ3QmZrY0hJVkNHVU5UQjlLeXY0dW5WbXlCbWM?oc=5"
+     },
+     {
+      "press": "이데일리",
+      "title": "조갑제 \"오세훈 무죄는 교과서에 실을 판결…판사가 나라 구했다\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcFJ5VVBiLVZ4TnJJYzVXVkZJdy1oSVBfMWNJYXdjUWxrZDZlc2ZIdzhteFZ2X0lzOUtzaHVMVHVDUFp2anRraXhlVUR3ak12SngyX1J1ZUtWUjcxYmU5Rzc3YjFWcm9tTl8xUWxRMlFsWlRVVk9mVWYwMmJwVkxNXw?oc=5"
      }
     ]
    }
   },
   {
-   "title": "오세훈 대선주자 우뚝…중도 리더 생환, 정치지형 변화 불가피",
-   "source": "국민일보",
-   "url": "https://n.news.naver.com/article/005/0001880535",
-   "published_at": "2026-10-23T20:10:09+09:00",
+   "title": "사법리스크 뚫고 생환한 오세훈…힘 받는 '2030 대망론'",
+   "source": "노컷뉴스",
+   "url": "https://n.news.naver.com/article/079/0004202271",
+   "published_at": "2026-10-24T05:01:27+09:00",
    "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 456,
-   "comment_agree": 230,
-   "comment_disagree": 47,
-   "division_balance": 0.33935,
-   "division_score": 1.909734,
+   "view_rank": 3,
+   "comment_count": 150,
+   "comment_agree": 107,
+   "comment_disagree": 29,
+   "division_balance": 0.426471,
+   "division_score": 2.098227,
    "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "대통령 지지율 7주만에 40%대 회복...조희대 탄핵 찬성 34% 반대 39%",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000517187",
-   "published_at": "2026-10-23T10:57:06+09:00",
-   "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 280,
-   "comment_agree": 168,
-   "comment_disagree": 31,
-   "division_balance": 0.311558,
-   "division_score": 1.650732,
-   "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
+   "summary": "오 시장의 정치자금법 위반 혐의 사건을 심리한 항소심 재판부가 앞서 명씨 여론조사를 무상 제공받은 혐의로 기소된 윤석열 전 대통령에게 무죄를 선고한 재판부임에도 그랬다.…",
+   "summary_long": "오세훈 서울시장이 '명태균 게이트' 관련 항소심에서 원심을 뒤집고 무죄를 받았다. 오 시장의 정치자금법 위반 혐의 사건을 심리한 항소심 재판부가 앞서 명씨 여론조사를 무상 제공받은 혐의로 기소된 윤석열 전 대통령에게 무죄를 선고한 재판부(서울고법 형사7부)임에도 그랬다. 한 재선 의원은 CBS노컷뉴스와의 통화에서 \"1심 이후 (새로 제출된) 녹취록이나 윤 전 대통령의 무죄 등을 종합할 때 무죄 가능성이 높아졌다고 예상은 했다\"면서도 \"'기대 반 걱정 반'이었는데 형사법상 대원칙이 잘 적용된 것 같다\"고 안도했다.\n\n이들 '투톱'은 한 목소리로 \"재판받을 사람은 오 시장이 아니다\"라며, 이재명 대통령의 재판 재개를 촉구하기도 했다. 한 영남권 의원은 \"부동산 문제로 이재명 정부와 싸워온 오 시장에겐 '명태균 재판'이 오히려 전화위복이 된 것\"이라며 \"(대권 주자로서) 서사가 생겼고, 유권자들은 선택의 폭이 넓어졌으니 일석이조(一石二鳥)\"라고 언급했다. '대안과 미래' 소속 의원은 \"오 시장이 유죄를 받게 되면 '정치적 사망'까진 아니어도, 엄청난 상처를 받았을 것\"이라며 \"그럼 당내 쇄신파엔 더 척박한 토양이 될 수밖에 없다\"고 말했다.",
+   "quotes": [
+    "이제 막 당선된 시장이 직을 잃는 건 바람직하지 않다. 더욱이 우리가 원인을 제공한 선거를 치르게 되면 '힘든 싸움'이 될 수밖에 없다",
+    "목소리당초 국민의힘에서는 명태균씨 진술에 크게 의존한 1심의 시장직 상실형(벌금 1천만원·추징금 2100만원) 선고를",
+    "1심 이후 (새로 제출된) 녹취록이나 윤 전 대통령의 무죄 등을 종합할 때 무죄 가능성이 높아졌다고 예상은 했다"
+   ],
+   "press": "노컷뉴스",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "1심 이후 (새로 제출된) 녹취록이나 윤 전 대통령의 무죄 등을 종합할 때 무죄 가능성이 높아졌다고 예상은 했다",
+    "n": 1,
+    "verified": 0,
+    "items": [
+     {
+      "press": "노컷뉴스",
+      "title": "사법리스크 뚫고 생환한 오세훈…힘 받는 '2030 대망론'",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tNmNMV091YlpVME4xUVVndmIwZ00yMjNwRVRxSko5ZWFCOU5QR1dYZ01HeVNQYzZiRXo5czVGV2lVajVleS12VU9IN1BCU1ZmaFE?oc=5"
+     }
+    ]
+   }
   }
  ],
  "cards": [
@@ -154,139 +288,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/01.png",
-   "pngBytes": 1575821,
-   "feed": "오늘의 뉴스 2026-10-24\n\n· [단독] “이러다 정권 바뀌면 큰일날 수 있다”...민주당 후원 확 늘리는 쿠팡\n· \"개떼처럼 달려들더니\"… 한동훈, 與 '아들 학폭 가해' 주장에 발끈\n· 170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여\n· ‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가\n· 조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%\n· 오세훈 대선주자 우뚝…중도 리더 생환, 정치지형 변화 불가피\n· 대통령 지지율 7주만에 40%대 회복...조희대 탄핵 찬성 34% 반대 39%"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/01.png",
+   "pngBytes": 1632988,
+   "feed": "오늘의 뉴스 2026-10-25\n\n· 오세훈 2심 무죄에 민주 “왜 아무도 처벌 안 받나”…국힘 “특검 사죄하라”\n· 김계리, 한동훈에 “尹 탄핵시키면 1짱 될 줄 알았나…사과가 인간 된 도리”\n· [단독] “회비 40만원이면 된다”더니…빚더미 부모, 축구화 벗은 딸\n· \"'한지민 언니' 서은혜 오열\"…'127억이 0원?' 무슨 일 있었길래\n· 오세훈, 2심 무죄로 대권가도 탄력…국힘 '吳 중심' 결집 주목\n· 조갑제, 오세훈 무죄에 “판사가 나라구해…장동혁 정치적 파산”\n· 사법리스크 뚫고 생환한 오세훈…힘 받는 '2030 대망론'"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/02.png",
-   "pngBytes": 1614608,
-   "title": "[단독] “이러다 정권 바뀌면 큰일날 수 있다”...민주당 후원 확 늘리는 쿠팡",
-   "summary": "‘한국 정부가 미국 기업을 차별적으로 대우한다’는 논리로 미 행정부와 의회를 상대로 전방위 로비를 벌여왔던 쿠팡이 다음달 3일 미국 중간선거를 앞두고 조 바이든…",
-   "summary_long": "‘한국 정부가 미국 기업을 차별적으로 대우한다’는 논리로 미 행정부와 의회를 상대로 전방위 로비를 벌여왔던 쿠팡이 다음달 3일 미국 중간선거를 앞두고 조 바이든 행정부에서 고위직을 역임한 민주당 측 인사를 전격 영입했다. 중간선거 이후 미국 민주당이 상·하원 다수당을 차지할 가능성이 거론되는 상황에서 쿠팡이 그동안 공화당에 집중했던 로비를 민주당으로 확대하려는 의도로 해석된다. 엘리슨 라스코우스키 쿠팡 글로벌 공공정책 담당 디렉터 라스코우스키는 쿠팡이 그동안 영입했던 민주당 측 인사와 비교하면 한층 체급이 높은 인물로 꼽힌다.\n\n쿠팡은 최근 민주당 정부에서 국무부와 미국무역대표부(USTR)에서 근무했던 조던 하이버를 영입한 바 있다. 이번 중간선거에서 민주당이 하원 다수당을 차지할 가능성이 크고 상원에서도 다수당 탈환을 노리면서 공화당에 집중됐던 쿠팡의 로비 전략에도 수정이 불가피했기 때문이다. 하지만 쿠팡이 민주당 측 인사를 영입한 것은 중간선거 이후 민주당 의원들을 상대로 로비 공세를 지속하겠다는 차원으로 해석된다.",
-   "press": "매일경제",
-   "source": "매일경제",
-   "link": "https://n.news.naver.com/article/009/0005752991",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/02.png",
+   "pngBytes": 1662363,
+   "title": "오세훈 2심 무죄에 민주 “왜 아무도 처벌 안 받나”…국힘 “특검 사죄하라”",
+   "summary": "오세훈 서울시장이 23일 서울 서초구 서울고법에서 열린 ‘명태균 여론조사 대납 의혹' 사건 항소심 선고 재판에서 무죄 판결을 받아들고 법원을 나서고 있다. 더불어민주당은…",
+   "summary_long": "민주 “특검 즉각 상고해 명태균 게이트 실체 밝혀야” 오세훈 서울시장이 23일 서울 서초구 서울고법에서 열린 ‘명태균 여론조사 대납 의혹' 사건 항소심 선고 재판에서 무죄 판결을 받아들고 법원을 나서고 있다. 오세훈 서울시장의 ‘여론조사비 대납 의혹’ 항소심 무죄 판결을 두고 여야가 엇갈린 반응을 내놨다.\n\n더불어민주당은 상고심에서 사건의 실체를 밝혀야 한다고 촉구했고, 국민의힘은 무리한 기소가 드러났다며 특검의 사과와 이재명 대통령 재판 재개를 요구했다. 이어 “대법원은 명태균 게이트 전반에 대해 엄정하고 신속하게 판단해 국민의 의구심에 답해야 한다”며 특검이 상고하겠다고 밝힌 만큼 상고심에서 사건의 실체적 진실을 밝혀야 한다고 주장했다. 반면 박성훈 국민의힘 수석대변인은 논평에서 이번 판결을 두고 “정치 브로커의 오락가락 사기 진술에 의존해 야당의 유력 정치인을 매장하려 했던 정치 특검과 민주당의 공작이 항소심 재판부의 판결 앞에서 완벽히 수포로 돌아갔다”고 밝혔다.",
+   "press": "국민일보",
+   "source": "국민일보",
+   "link": "https://n.news.naver.com/article/005/0001880586",
    "selection": "정치",
-   "feed": "뉴스 01. [단독] “이러다 정권 바뀌면 큰일날 수 있다”...민주당 후원 확 늘리는 쿠팡\n\n‘한국 정부가 미국 기업을 차별적으로 대우한다’는 논리로 미 행정부와 의회를 상대로 전방위 로비를 벌여왔던 쿠팡이 다음달 3일 미국 중간선거를 앞두고 조 바이든 행정부에서 고위직을 역임한 민주당 측 인사를 전격 영입했다. 중간선거 이후 미국 민주당이 상·하원 다수당을 차지할 가능성이 거론되는 상황에서 쿠팡이 그동안 공화당에 집중했던 로비를 민주당으로 확대하려는 의도로 해석된다. 엘리슨 라스코우스키 쿠팡 글로벌 공공정책 담당 디렉터 라스코우스키는 쿠팡이 그동안 영입했던 민주당 측 인사와 비교하면 한층 체급이 높은 인물로 꼽힌다.\n\n쿠팡은 최근 민주당 정부에서 국무부와 미국무역대표부(USTR)에서 근무했던 조던 하이버를 영입한 바 있다. 이번 중간선거에서 민주당이 하원 다수당을 차지할 가능성이 크고 상원에서도 다수당 탈환을 노리면서 공화당에 집중됐던 쿠팡의 로비 전략에도 수정이 불가피했기 때문이다. 하지만 쿠팡이 민주당 측 인사를 영입한 것은 중간선거 이후 민주당 의원들을 상대로 로비 공세를 지속하겠다는 차원으로 해석된다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005752991"
+   "feed": "뉴스 01. 오세훈 2심 무죄에 민주 “왜 아무도 처벌 안 받나”…국힘 “특검 사죄하라”\n\n민주 “특검 즉각 상고해 명태균 게이트 실체 밝혀야” 오세훈 서울시장이 23일 서울 서초구 서울고법에서 열린 ‘명태균 여론조사 대납 의혹' 사건 항소심 선고 재판에서 무죄 판결을 받아들고 법원을 나서고 있다. 오세훈 서울시장의 ‘여론조사비 대납 의혹’ 항소심 무죄 판결을 두고 여야가 엇갈린 반응을 내놨다.\n\n더불어민주당은 상고심에서 사건의 실체를 밝혀야 한다고 촉구했고, 국민의힘은 무리한 기소가 드러났다며 특검의 사과와 이재명 대통령 재판 재개를 요구했다. 이어 “대법원은 명태균 게이트 전반에 대해 엄정하고 신속하게 판단해 국민의 의구심에 답해야 한다”며 특검이 상고하겠다고 밝힌 만큼 상고심에서 사건의 실체적 진실을 밝혀야 한다고 주장했다. 반면 박성훈 국민의힘 수석대변인은 논평에서 이번 판결을 두고 “정치 브로커의 오락가락 사기 진술에 의존해 야당의 유력 정치인을 매장하려 했던 정치 특검과 민주당의 공작이 항소심 재판부의 판결 앞에서 완벽히 수포로 돌아갔다”고 밝혔다.\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001880586"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/03.png",
-   "pngBytes": 578347,
-   "title": "\"개떼처럼 달려들더니\"… 한동훈, 與 '아들 학폭 가해' 주장에 발끈",
-   "summary": "",
-   "summary_long": "",
-   "press": "한국일보",
-   "source": "한국일보",
-   "link": "https://n.news.naver.com/article/469/0000961221",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/03.png",
+   "pngBytes": 1922000,
+   "title": "김계리, 한동훈에 “尹 탄핵시키면 1짱 될 줄 알았나…사과가 인간 된 도리”",
+   "summary": "명태균 여론조사·이종섭 호주대사 사건 무죄 판결 거론하며 사과 요구. 김계리 변호사가 윤석열 전 대통령의 명태균 여론조사 의혹과 이종섭 전 국방부 장관의 호주대사 임명…",
+   "summary_long": "김계리 변호사가 윤석열 전 대통령의 명태균 여론조사 의혹과 이종섭 전 국방부 장관의 호주대사 임명 관련 사건에서 잇따라 무죄 판결이 나온 것을 거론하며 한동훈 무소속 의원에게 사과를 요구했다. 김 변호사는 24일 자신의 페이스북에 “김건희 특검에서 기소한 명태균 사건, 채상병 특검에서 기소한 런종섭 사건 다 당신이 키운 것”이라며 “한동훈씨 책임을 져라”고 밝혔다. 그는 한 의원이 과거 윤 전 대통령을 정치적으로 압박하는 데 앞장섰다고 주장하며 “대통령 탄핵 시키면 ‘내가’ 1짱 먹고 대통령 될 수 있을 줄 알았나”라고 비판했다.\n\n김 변호사의 발언은 최근 명태균씨의 여론조사 관련 사건에서 윤 전 대통령과 오세훈 서울시장의 항소심 무죄 판결이 잇따라 나온 가운데 제기됐다. 김건희 특검은 윤 전 대통령의 명태균 여론조사 사건에 상고했으며, 오 시장 사건에 대해서도 대법원 판단을 구하겠다는 입장이다. 이 전 장관의 호주대사 임명 관련 사건 역시 순직해병 특검이 항소하면서 재판이 이어지고 있다.",
+   "press": "경기일보",
+   "source": "경기일보",
+   "link": "https://n.news.naver.com/article/666/0000128893",
    "selection": "정치",
-   "feed": "뉴스 02. \"개떼처럼 달려들더니\"… 한동훈, 與 '아들 학폭 가해' 주장에 발끈\n\n\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000961221"
+   "feed": "뉴스 02. 김계리, 한동훈에 “尹 탄핵시키면 1짱 될 줄 알았나…사과가 인간 된 도리”\n\n김계리 변호사가 윤석열 전 대통령의 명태균 여론조사 의혹과 이종섭 전 국방부 장관의 호주대사 임명 관련 사건에서 잇따라 무죄 판결이 나온 것을 거론하며 한동훈 무소속 의원에게 사과를 요구했다. 김 변호사는 24일 자신의 페이스북에 “김건희 특검에서 기소한 명태균 사건, 채상병 특검에서 기소한 런종섭 사건 다 당신이 키운 것”이라며 “한동훈씨 책임을 져라”고 밝혔다. 그는 한 의원이 과거 윤 전 대통령을 정치적으로 압박하는 데 앞장섰다고 주장하며 “대통령 탄핵 시키면 ‘내가’ 1짱 먹고 대통령 될 수 있을 줄 알았나”라고 비판했다.\n\n김 변호사의 발언은 최근 명태균씨의 여론조사 관련 사건에서 윤 전 대통령과 오세훈 서울시장의 항소심 무죄 판결이 잇따라 나온 가운데 제기됐다. 김건희 특검은 윤 전 대통령의 명태균 여론조사 사건에 상고했으며, 오 시장 사건에 대해서도 대법원 판단을 구하겠다는 입장이다. 이 전 장관의 호주대사 임명 관련 사건 역시 순직해병 특검이 항소하면서 재판이 이어지고 있다.\n\n출처: 경기일보 / https://n.news.naver.com/article/666/0000128893"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/04.png",
-   "pngBytes": 1853914,
-   "title": "170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여",
-   "summary": "김현우 국립수산과학원 연구관은 \"부캉이는 어제부터 수로 벽면을 따라 이동하는 상태\"라며 \"부캉이의 잠영 시간이 점점 더 길어질 것으로 보인다\"고 했다. 이어 김 연구관은…",
-   "summary_long": "지난달 18일 부산 북항친수공원 인공수로에 처음 나타나 누적 170만 명에 가까운 방문객을 모은 흑상어 '부캉이'가 4시간째 모습을 드러내지 않고 있다. 현장에서는 \"이렇게 안 보인 건 처음\"이라는 반응이 나오며, 상어가 본격적으로 외해 진출 채비를 마쳤다는 관측이 제기된다. 23일 해양수산부 등에 따르면 전날 빈번하게 지느러미를 노출하던 것과 달리 부캉이는 이날 오전 8시부터 4시간 넘게 수로 내에서 포착되지 않고 있다.\n\n해수부 관계자는 \"전날 30분에 한 번꼴로 관찰됐던 것과 비교해 육안 확인 간격이 확연히 길어졌다\"며 \"상어는 잠영하는 것이 정상이므로 잠영 시간이 늘어난다는 건 매우 긍정적인 신호\"라고 밝혔다. 김현우 국립수산과학원 연구관은 \"부캉이는 어제부터 수로 벽면을 따라 이동하는 상태\"라며 \"부캉이의 잠영 시간이 점점 더 길어질 것으로 보인다\"고 했다. 이어 김 연구관은 \"부캉이가 1부두 쪽으로 갔다가 다시 돌아와 오페라하우스 쪽으로 가는 등 수로 벽면을 따라 이동 중\"이라며 \"다시 수로 안쪽으로 들어온다고 해도 외해에서 보내는 시간이 길어지면서 결국 수로 밖으로 빠져나가게 될 것\"이라고 전망했다.",
-   "press": "뉴스1",
-   "source": "뉴스1",
-   "link": "https://n.news.naver.com/article/421/0009246156",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/04.png",
+   "pngBytes": 2824185,
+   "title": "[단독] “회비 40만원이면 된다”더니…빚더미 부모, 축구화 벗은 딸",
+   "summary": "학부모에 회비 걷어 ‘제2월급’, 주유비 접대비까지...축구감독의 민낯. 이에 대해 김 감독은 “급여와 활동비를 받은 것은 맞지만 개인적으로 쌓아둔 게 아니라 선수…",
+   "summary_long": "학부모에 회비 걷어 ‘제2월급’, 주유비 접대비까지...축구감독의 민낯. 한겨레21 취재 결과 김 감독이 2023년 3월부터 2024년 8월까지 대경대 여자축구부를 이끄는 동안 학부모들의 회비는 사실상 감독의 주머니로 흘러 들어갔다. 전직 감독 ㄹ씨 역시 “월급도 제대로 못 받으며 버티는 지도자가 많은데 학부모에게 큰돈을 걷고 실업팀 감독 접대까지 다니는 건 말이 안 된다”고 비판했다.\n\n학부모 ㅂ씨는 “달마다 200만원 이상 낼 때 부담스러워 난색을 표하면, 실업팀 감독과 약속했으니 맞추라는 식이었다”고 말했다. 회비 유용 논란으로 학부모들의 반발이 거세지자, 김 감독은 2024년 9월 여자 대학축구 ‘U리그’ 7개 팀 가운데 유일한 공립대인 강원도립대 여자축구부 감독으로 자리를 옮겼다. 이에 대해 김 감독은 “급여와 활동비를 받은 것은 맞지만 개인적으로 쌓아둔 게 아니라 선수 모집과 팀 운영에 사용했다”며 “출전 기회를 회비 납부에 따라 달리했다는 의혹은 사실이 아니다”라고 해명했다.",
+   "press": "한겨레",
+   "source": "한겨레",
+   "link": "https://n.news.naver.com/article/028/0002828958",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여\n\n지난달 18일 부산 북항친수공원 인공수로에 처음 나타나 누적 170만 명에 가까운 방문객을 모은 흑상어 '부캉이'가 4시간째 모습을 드러내지 않고 있다. 현장에서는 \"이렇게 안 보인 건 처음\"이라는 반응이 나오며, 상어가 본격적으로 외해 진출 채비를 마쳤다는 관측이 제기된다. 23일 해양수산부 등에 따르면 전날 빈번하게 지느러미를 노출하던 것과 달리 부캉이는 이날 오전 8시부터 4시간 넘게 수로 내에서 포착되지 않고 있다.\n\n해수부 관계자는 \"전날 30분에 한 번꼴로 관찰됐던 것과 비교해 육안 확인 간격이 확연히 길어졌다\"며 \"상어는 잠영하는 것이 정상이므로 잠영 시간이 늘어난다는 건 매우 긍정적인 신호\"라고 밝혔다. 김현우 국립수산과학원 연구관은 \"부캉이는 어제부터 수로 벽면을 따라 이동하는 상태\"라며 \"부캉이의 잠영 시간이 점점 더 길어질 것으로 보인다\"고 했다. 이어 김 연구관은 \"부캉이가 1부두 쪽으로 갔다가 다시 돌아와 오페라하우스 쪽으로 가는 등 수로 벽면을 따라 이동 중\"이라며 \"다시 수로 안쪽으로 들어온다고 해도 외해에서 보내는 시간이 길어지면서 결국 수로 밖으로 빠져나가게 될 것\"이라고 전망했다.\n\n출처: 뉴스1 / https://n.news.naver.com/article/421/0009246156"
+   "feed": "뉴스 03. [단독] “회비 40만원이면 된다”더니…빚더미 부모, 축구화 벗은 딸\n\n학부모에 회비 걷어 ‘제2월급’, 주유비 접대비까지...축구감독의 민낯. 한겨레21 취재 결과 김 감독이 2023년 3월부터 2024년 8월까지 대경대 여자축구부를 이끄는 동안 학부모들의 회비는 사실상 감독의 주머니로 흘러 들어갔다. 전직 감독 ㄹ씨 역시 “월급도 제대로 못 받으며 버티는 지도자가 많은데 학부모에게 큰돈을 걷고 실업팀 감독 접대까지 다니는 건 말이 안 된다”고 비판했다.\n\n학부모 ㅂ씨는 “달마다 200만원 이상 낼 때 부담스러워 난색을 표하면, 실업팀 감독과 약속했으니 맞추라는 식이었다”고 말했다. 회비 유용 논란으로 학부모들의 반발이 거세지자, 김 감독은 2024년 9월 여자 대학축구 ‘U리그’ 7개 팀 가운데 유일한 공립대인 강원도립대 여자축구부 감독으로 자리를 옮겼다. 이에 대해 김 감독은 “급여와 활동비를 받은 것은 맞지만 개인적으로 쌓아둔 게 아니라 선수 모집과 팀 운영에 사용했다”며 “출전 기회를 회비 납부에 따라 달리했다는 의혹은 사실이 아니다”라고 해명했다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002828958"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/05.png",
-   "pngBytes": 1536250,
-   "title": "‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가",
-   "summary": "공개 매수 설명서에 따르면, 최대 주주인 김태욱 공동대표와 김성현 공동대표는 공개 매수에 응모하지 않기로 마루베니와 합의했다. 공개 매수가 최대 수량으로 성사되면…",
-   "summary_long": "아이패밀리에스씨 지분 최대 28% 공개매수. 이날 오전 일본 5대 종합상사 중 하나인 ‘마루베니’가 이 회사 지분을 대상으로 공개 매수에 나선다는 소식이 알려지면서 매수세가 몰렸다. 매수 수량은 최소 333만6277주(발행 주식 총수의 약 20%)에서 최대 467만788주(약 28%)다.\n\n공개 매수 설명서에 따르면, 최대 주주인 김태욱 공동대표(지분 28.4%)와 김성현 공동대표(14%)는 공개 매수에 응모하지 않기로 마루베니와 합의했다. 공개 매수가 최대 수량으로 성사되면 마루베니 측과 김태욱·김성현 합산 지분은 70.39%까지 늘어난다. 마루베니는 이번 공개 매수가 상장폐지나 완전자회사화를 위한 것이 아니라고 밝혔다.",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004005524",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/05.png",
+   "pngBytes": 583450,
+   "title": "\"'한지민 언니' 서은혜 오열\"…'127억이 0원?' 무슨 일 있었길래",
+   "summary": "",
+   "summary_long": "",
+   "press": "이데일리",
+   "source": "이데일리",
+   "link": "https://n.news.naver.com/article/018/0006395244",
    "selection": "경제·시사",
-   "feed": "뉴스 04. ‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가\n\n아이패밀리에스씨 지분 최대 28% 공개매수. 이날 오전 일본 5대 종합상사 중 하나인 ‘마루베니’가 이 회사 지분을 대상으로 공개 매수에 나선다는 소식이 알려지면서 매수세가 몰렸다. 매수 수량은 최소 333만6277주(발행 주식 총수의 약 20%)에서 최대 467만788주(약 28%)다.\n\n공개 매수 설명서에 따르면, 최대 주주인 김태욱 공동대표(지분 28.4%)와 김성현 공동대표(14%)는 공개 매수에 응모하지 않기로 마루베니와 합의했다. 공개 매수가 최대 수량으로 성사되면 마루베니 측과 김태욱·김성현 합산 지분은 70.39%까지 늘어난다. 마루베니는 이번 공개 매수가 상장폐지나 완전자회사화를 위한 것이 아니라고 밝혔다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004005524"
+   "feed": "뉴스 04. \"'한지민 언니' 서은혜 오열\"…'127억이 0원?' 무슨 일 있었길래\n\n\n\n출처: 이데일리 / https://n.news.naver.com/article/018/0006395244"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/06.png",
-   "pngBytes": 2009108,
-   "title": "조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%",
-   "summary": "청와대의 대법관 재제청 요구를 거부하고 업무추진비를 오용했다는 논란을 사고 있는 조희대 대법원장을 탄핵해야 한다는 주장과 관련 논의가 범여권 내에서 진행되고 있는 가운데…",
-   "summary_long": "청와대의 대법관 재제청 요구를 거부하고 업무추진비를 오용했다는 논란을 사고 있는 조희대 대법원장을 탄핵해야 한다는 주장과 관련 논의가 범여권 내에서 진행되고 있는 가운데, 이에 대한 찬반 국민 여론은 오차범위 내 격차라는 조사가 22일 발표됐다. 한국갤럽은 \"최근 정치권 일각에서 대법관 공석 사태 등을 이유로 조희대 대법원장 탄핵안이 거론되고 있다\"면서 조 대법원장 탄핵 찬반 여부를 물었다. 그 결과, 탄핵 찬성은 34%, 반대는 39%, 모름/응답거절은 28%로 나타났다.\n\n탄핵 찬성은 더불어민주당 지지층(61%)과 진보층(66%), 대통령 직무수행 긍정평가층(59%), 40·50대(47%)에서 많았다. 앞서 김민석 민주당 대표는 지난 22일 당 유튜브 방송 '민티07'에 출연해 \"탄핵을 위해서는 국민의 동의와 공감이 매우 중요하지 않나\"라며 이러한 입장을 설명한 바 있다. 특히 최민희 민주당 최고위원은 같은 날 유튜브 방송 '김어준의 겸손은힘들다 뉴스공장'과 한 인터뷰에서 중도층의 탄핵 찬성 여론이 50%를 넘겨야 탄핵 소추 절차를 밟게 될 것 같다는 지도부 기류를 전한 바 있다(관련기사 : 김민석 \"조희대 탄핵, 국민 설득 높이는 것도 저희 책임\" https://omn…",
-   "press": "오마이뉴스",
-   "source": "오마이뉴스",
-   "link": "https://n.news.naver.com/article/047/0002533243",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/06.png",
+   "pngBytes": 1966600,
+   "title": "오세훈, 2심 무죄로 대권가도 탄력…국힘 '吳 중심' 결집 주목",
+   "summary": "국민의힘 내부에서는 오 시장이 향후 비당권파의 새로운 구심점으로 자리 잡을 수 있을지에도 관심이 쏠린다. 국민의힘 관계자는 \"오 시장은 이제 사법 리스크를 완전히 벗은…",
+   "summary_long": "국민의힘 내부에서는 오 시장이 향후 비당권파의 새로운 구심점으로 자리 잡을 수 있을지에도 관심이 쏠린다. 지난 6·3 지방선거에서 사상 첫 5선 서울시장에 오른 데 이어 1심 유죄 판결까지 뒤집히면서 차기 대권주자로서 오 시장의 정치적 운신 폭이 넓어질 수 있다는 전망도 나온다. 친한동훈계(친한계) 등 기존 비당권파와의 관계 설정과 상대적으로 취약하다는 평가를 받는 당내 조직 기반 역시 향후 정치 행보의 변수다.\n\n1심 시장직 상실형 뒤집고 무죄…정치적 부담 덜어24일 정치권에 따르면 전날(23일) '여론조사비 대납' 의혹' 항소심 무죄 판결이 오 시장의 당내 입지를 한층 강화하는 계기가 될 것이란 전망이 나온다. 국민의힘 관계자는 \"오 시장은 이제 사법 리스크를 완전히 벗은 것이라고 평가할 수 있다\"며 \"당내에서 오 시장을 중심으로 새로운 정치적 흐름이 형성될 가능성도 커졌다\"고 말했다. 당내 조직 기반 확보 과제…친한계와 '연대·경쟁' 변수다만 오 시장을 중심으로 당내 세력을 속도감 있게 재편할 수 있을지는 미지수다.",
+   "press": "뉴스1",
+   "source": "뉴스1",
+   "link": "https://n.news.naver.com/article/421/0009247322",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%\n\n청와대의 대법관 재제청 요구를 거부하고 업무추진비를 오용했다는 논란을 사고 있는 조희대 대법원장을 탄핵해야 한다는 주장과 관련 논의가 범여권 내에서 진행되고 있는 가운데, 이에 대한 찬반 국민 여론은 오차범위 내 격차라는 조사가 22일 발표됐다. 한국갤럽은 \"최근 정치권 일각에서 대법관 공석 사태 등을 이유로 조희대 대법원장 탄핵안이 거론되고 있다\"면서 조 대법원장 탄핵 찬반 여부를 물었다. 그 결과, 탄핵 찬성은 34%, 반대는 39%, 모름/응답거절은 28%로 나타났다.\n\n탄핵 찬성은 더불어민주당 지지층(61%)과 진보층(66%), 대통령 직무수행 긍정평가층(59%), 40·50대(47%)에서 많았다. 앞서 김민석 민주당 대표는 지난 22일 당 유튜브 방송 '민티07'에 출연해 \"탄핵을 위해서는 국민의 동의와 공감이 매우 중요하지 않나\"라며 이러한 입장을 설명한 바 있다. 특히 최민희 민주당 최고위원은 같은 날 유튜브 방송 '김어준의 겸손은힘들다 뉴스공장'과 한 인터뷰에서 중도층의 탄핵 찬성 여론이 50%를 넘겨야 탄핵 소추 절차를 밟게 될 것 같다는 지도부 기류를 전한 바 있다(관련기사 : 김민석 \"조희대 탄핵, 국민 설득 높이는 것도 저희 책임\" https://omn…\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002533243"
+   "feed": "뉴스 05. 오세훈, 2심 무죄로 대권가도 탄력…국힘 '吳 중심' 결집 주목\n\n국민의힘 내부에서는 오 시장이 향후 비당권파의 새로운 구심점으로 자리 잡을 수 있을지에도 관심이 쏠린다. 지난 6·3 지방선거에서 사상 첫 5선 서울시장에 오른 데 이어 1심 유죄 판결까지 뒤집히면서 차기 대권주자로서 오 시장의 정치적 운신 폭이 넓어질 수 있다는 전망도 나온다. 친한동훈계(친한계) 등 기존 비당권파와의 관계 설정과 상대적으로 취약하다는 평가를 받는 당내 조직 기반 역시 향후 정치 행보의 변수다.\n\n1심 시장직 상실형 뒤집고 무죄…정치적 부담 덜어24일 정치권에 따르면 전날(23일) '여론조사비 대납' 의혹' 항소심 무죄 판결이 오 시장의 당내 입지를 한층 강화하는 계기가 될 것이란 전망이 나온다. 국민의힘 관계자는 \"오 시장은 이제 사법 리스크를 완전히 벗은 것이라고 평가할 수 있다\"며 \"당내에서 오 시장을 중심으로 새로운 정치적 흐름이 형성될 가능성도 커졌다\"고 말했다. 당내 조직 기반 확보 과제…친한계와 '연대·경쟁' 변수다만 오 시장을 중심으로 당내 세력을 속도감 있게 재편할 수 있을지는 미지수다.\n\n출처: 뉴스1 / https://n.news.naver.com/article/421/0009247322"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/07.png",
-   "pngBytes": 577164,
-   "title": "오세훈 대선주자 우뚝…중도 리더 생환, 정치지형 변화 불가피",
-   "summary": "",
-   "summary_long": "",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/07.png",
+   "pngBytes": 2022380,
+   "title": "조갑제, 오세훈 무죄에 “판사가 나라구해…장동혁 정치적 파산”",
+   "summary": "보수 논객 조갑제 조갑제닷컴 대표가 오세훈 서울시장의 ‘여론조사비 대납 의혹’ 항소심 무죄 판결로 “장동혁 대표와 국민의힘이 정치적으로 파산했다”고 주장했다. 조 대표는…",
+   "summary_long": "보수 논객 조갑제 조갑제닷컴 대표가 오세훈 서울시장의 ‘여론조사비 대납 의혹’ 항소심 무죄 판결로 “장동혁 대표와 국민의힘이 정치적으로 파산했다”고 주장했다. 조 대표는 24일 페이스북에 “장 대표가 기로에 섰다”며 “오늘 이후로 계속 부정선거 재선거를 주장하는 것은 오 시장에 대한 무죄선고와 상관없이 부정선거로 당선된 책임을 지고 자진사퇴하라는 뜻일 수밖에 없다”고 했다. 그러면서 “장 대표가 ‘이제 무죄선고를 받았으니 재선거 주장을 접자’고 하는 순간 국민의힘은 거짓선동으로 당을 오도한 대표를 제명해야 할 의무를 지게 된다”고 강조했다.\n\n조 대표는 이어 “국민의힘은 장동혁을 제명하든지 자진해산하든지 양자택일뿐”이라며 “논리적으로 장동혁이 빠져나갈 수 있는 구멍은 “어제 무죄판결은 잘못 되었으니 대법원 확정판결 때까지 희망을 잃지 말고 기다려보자”고 설득하는 것인데 이 또한 제명사유인 점은 변함이 없다”고 했다. 조 대표는 전날에는 “오 시장 무죄 선고로 정통보수는 살고, 장동혁 당권파는 치명상을 입었으며, 민주당도 속으로는 안도하고 있을지 모른다”고 적었다. 그는 “이번 판결은 판사가 사실과 법리의 힘으로 나라를 구한 사례로 교과서에 올려야 할 것”이라며 “이제 오세훈, 한동훈의 ‘양훈 제휴’로 보수세력이 2028년 총선과 2030년 대선을 승리로 이끌 중심축 건설이 가능해졌다”는 주장을 폈다.",
    "press": "국민일보",
    "source": "국민일보",
-   "link": "https://n.news.naver.com/article/005/0001880535",
+   "link": "https://n.news.naver.com/article/005/0001880588",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 오세훈 대선주자 우뚝…중도 리더 생환, 정치지형 변화 불가피\n\n\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001880535"
+   "feed": "뉴스 06. 조갑제, 오세훈 무죄에 “판사가 나라구해…장동혁 정치적 파산”\n\n보수 논객 조갑제 조갑제닷컴 대표가 오세훈 서울시장의 ‘여론조사비 대납 의혹’ 항소심 무죄 판결로 “장동혁 대표와 국민의힘이 정치적으로 파산했다”고 주장했다. 조 대표는 24일 페이스북에 “장 대표가 기로에 섰다”며 “오늘 이후로 계속 부정선거 재선거를 주장하는 것은 오 시장에 대한 무죄선고와 상관없이 부정선거로 당선된 책임을 지고 자진사퇴하라는 뜻일 수밖에 없다”고 했다. 그러면서 “장 대표가 ‘이제 무죄선고를 받았으니 재선거 주장을 접자’고 하는 순간 국민의힘은 거짓선동으로 당을 오도한 대표를 제명해야 할 의무를 지게 된다”고 강조했다.\n\n조 대표는 이어 “국민의힘은 장동혁을 제명하든지 자진해산하든지 양자택일뿐”이라며 “논리적으로 장동혁이 빠져나갈 수 있는 구멍은 “어제 무죄판결은 잘못 되었으니 대법원 확정판결 때까지 희망을 잃지 말고 기다려보자”고 설득하는 것인데 이 또한 제명사유인 점은 변함이 없다”고 했다. 조 대표는 전날에는 “오 시장 무죄 선고로 정통보수는 살고, 장동혁 당권파는 치명상을 입었으며, 민주당도 속으로는 안도하고 있을지 모른다”고 적었다. 그는 “이번 판결은 판사가 사실과 법리의 힘으로 나라를 구한 사례로 교과서에 올려야 할 것”이라며 “이제 오세훈, 한동훈의 ‘양훈 제휴’로 보수세력이 2028년 총선과 2030년 대선을 승리로 이끌 중심축 건설이 가능해졌다”는 주장을 폈다.\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001880588"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/08.png",
-   "pngBytes": 599024,
-   "title": "대통령 지지율 7주만에 40%대 회복...조희대 탄핵 찬성 34% 반대 39%",
-   "summary": "",
-   "summary_long": "",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000517187",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/08.png",
+   "pngBytes": 2145979,
+   "title": "사법리스크 뚫고 생환한 오세훈…힘 받는 '2030 대망론'",
+   "summary": "오 시장의 정치자금법 위반 혐의 사건을 심리한 항소심 재판부가 앞서 명씨 여론조사를 무상 제공받은 혐의로 기소된 윤석열 전 대통령에게 무죄를 선고한 재판부임에도 그랬다.…",
+   "summary_long": "오세훈 서울시장이 '명태균 게이트' 관련 항소심에서 원심을 뒤집고 무죄를 받았다. 오 시장의 정치자금법 위반 혐의 사건을 심리한 항소심 재판부가 앞서 명씨 여론조사를 무상 제공받은 혐의로 기소된 윤석열 전 대통령에게 무죄를 선고한 재판부(서울고법 형사7부)임에도 그랬다. 한 재선 의원은 CBS노컷뉴스와의 통화에서 \"1심 이후 (새로 제출된) 녹취록이나 윤 전 대통령의 무죄 등을 종합할 때 무죄 가능성이 높아졌다고 예상은 했다\"면서도 \"'기대 반 걱정 반'이었는데 형사법상 대원칙이 잘 적용된 것 같다\"고 안도했다.\n\n이들 '투톱'은 한 목소리로 \"재판받을 사람은 오 시장이 아니다\"라며, 이재명 대통령의 재판 재개를 촉구하기도 했다. 한 영남권 의원은 \"부동산 문제로 이재명 정부와 싸워온 오 시장에겐 '명태균 재판'이 오히려 전화위복이 된 것\"이라며 \"(대권 주자로서) 서사가 생겼고, 유권자들은 선택의 폭이 넓어졌으니 일석이조(一石二鳥)\"라고 언급했다. '대안과 미래' 소속 의원은 \"오 시장이 유죄를 받게 되면 '정치적 사망'까진 아니어도, 엄청난 상처를 받았을 것\"이라며 \"그럼 당내 쇄신파엔 더 척박한 토양이 될 수밖에 없다\"고 말했다.",
+   "press": "노컷뉴스",
+   "source": "노컷뉴스",
+   "link": "https://n.news.naver.com/article/079/0004202271",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 대통령 지지율 7주만에 40%대 회복...조희대 탄핵 찬성 34% 반대 39%\n\n\n\n출처: JTBC / https://n.news.naver.com/article/437/0000517187"
+   "feed": "뉴스 07. 사법리스크 뚫고 생환한 오세훈…힘 받는 '2030 대망론'\n\n오세훈 서울시장이 '명태균 게이트' 관련 항소심에서 원심을 뒤집고 무죄를 받았다. 오 시장의 정치자금법 위반 혐의 사건을 심리한 항소심 재판부가 앞서 명씨 여론조사를 무상 제공받은 혐의로 기소된 윤석열 전 대통령에게 무죄를 선고한 재판부(서울고법 형사7부)임에도 그랬다. 한 재선 의원은 CBS노컷뉴스와의 통화에서 \"1심 이후 (새로 제출된) 녹취록이나 윤 전 대통령의 무죄 등을 종합할 때 무죄 가능성이 높아졌다고 예상은 했다\"면서도 \"'기대 반 걱정 반'이었는데 형사법상 대원칙이 잘 적용된 것 같다\"고 안도했다.\n\n이들 '투톱'은 한 목소리로 \"재판받을 사람은 오 시장이 아니다\"라며, 이재명 대통령의 재판 재개를 촉구하기도 했다. 한 영남권 의원은 \"부동산 문제로 이재명 정부와 싸워온 오 시장에겐 '명태균 재판'이 오히려 전화위복이 된 것\"이라며 \"(대권 주자로서) 서사가 생겼고, 유권자들은 선택의 폭이 넓어졌으니 일석이조(一石二鳥)\"라고 언급했다. '대안과 미래' 소속 의원은 \"오 시장이 유죄를 받게 되면 '정치적 사망'까진 아니어도, 엄청난 상처를 받았을 것\"이라며 \"그럼 당내 쇄신파엔 더 척박한 토양이 될 수밖에 없다\"고 말했다.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004202271"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-24/09.png",
-   "pngBytes": 1346139
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-25/09.png",
+   "pngBytes": 1345741
   }
  ],
- "caption": "📰 10월 24일 오늘의 뉴스\n\n1. [단독] “이러다 정권 바뀌면 큰일날 수 있다”...민주당 후원 확 늘리는 쿠팡\n   ‘한국 정부가 미국 기업을 차별적으로 대우한다’는 논리로 미 행정부와 의회를 상대로 전방위 로비를 벌여왔던 쿠팡이 다음달 3일 미국 중간선거를 앞두고 조 바이든…\n2. \"개떼처럼 달려들더니\"… 한동훈, 與 '아들 학폭 가해' 주장에 발끈\n3. 170만명 홀리고 바다 돌아갔나…상어 '부캉이' 4시간째 안 보여\n   김현우 국립수산과학원 연구관은 \"부캉이는 어제부터 수로 벽면을 따라 이동하는 상태\"라며 \"부캉이의 잠영 시간이 점점 더 길어질 것으로 보인다\"고 했다. 이어 김 연구관은…\n4. ‘채시라 남편’ 김태욱 롬앤에 日 마루베니 공개매수…상한가\n   공개 매수 설명서에 따르면, 최대 주주인 김태욱 공동대표와 김성현 공동대표는 공개 매수에 응모하지 않기로 마루베니와 합의했다. 공개 매수가 최대 수량으로 성사되면…\n5. 조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%\n   청와대의 대법관 재제청 요구를 거부하고 업무추진비를 오용했다는 논란을 사고 있는 조희대 대법원장을 탄핵해야 한다는 주장과 관련 논의가 범여권 내에서 진행되고 있는 가운데…\n6. 오세훈 대선주자 우뚝…중도 리더 생환, 정치지형 변화 불가피\n7. 대통령 지지율 7주만에 40%대 회복...조희대 탄핵 찬성 34% 반대 39%\n\n🗣 “최근 정치권 일각에서 대법관 공석 사태 등을 이유로 조희대 대법원장 탄핵안이 거론되고 있다”\n이 발언을 그대로 실은 보도 3건 · OhmyNews · 미디어대전 · 세상을 바꾸는 시민언론 민들레\n· OhmyNews — 조희대 탄핵 찬성 34% - 반대 39% - 의견유보 28%\n· 미디어대전 — 조희대 대법원장 탄핵-찬성 34%·반대 39%·유보 28%\n· 세상을 바꾸는 시민언론 민들레 — 이 대통령 지지율 7주만에 40%대 회복\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, 국민일보, 뉴스1, 매일경제, 오마이뉴스, 조선일보, 한국일보"
+ "caption": "📰 10월 25일 오늘의 뉴스\n\n1. 오세훈 2심 무죄에 민주 “왜 아무도 처벌 안 받나”…국힘 “특검 사죄하라”\n   오세훈 서울시장이 23일 서울 서초구 서울고법에서 열린 ‘명태균 여론조사 대납 의혹' 사건 항소심 선고 재판에서 무죄 판결을 받아들고 법원을 나서고 있다. 더불어민주당은…\n2. 김계리, 한동훈에 “尹 탄핵시키면 1짱 될 줄 알았나…사과가 인간 된 도리”\n   명태균 여론조사·이종섭 호주대사 사건 무죄 판결 거론하며 사과 요구. 김계리 변호사가 윤석열 전 대통령의 명태균 여론조사 의혹과 이종섭 전 국방부 장관의 호주대사 임명…\n3. [단독] “회비 40만원이면 된다”더니…빚더미 부모, 축구화 벗은 딸\n   학부모에 회비 걷어 ‘제2월급’, 주유비 접대비까지...축구감독의 민낯. 이에 대해 김 감독은 “급여와 활동비를 받은 것은 맞지만 개인적으로 쌓아둔 게 아니라 선수…\n4. \"'한지민 언니' 서은혜 오열\"…'127억이 0원?' 무슨 일 있었길래\n5. 오세훈, 2심 무죄로 대권가도 탄력…국힘 '吳 중심' 결집 주목\n   국민의힘 내부에서는 오 시장이 향후 비당권파의 새로운 구심점으로 자리 잡을 수 있을지에도 관심이 쏠린다. 국민의힘 관계자는 \"오 시장은 이제 사법 리스크를 완전히 벗은…\n6. 조갑제, 오세훈 무죄에 “판사가 나라구해…장동혁 정치적 파산”\n   보수 논객 조갑제 조갑제닷컴 대표가 오세훈 서울시장의 ‘여론조사비 대납 의혹’ 항소심 무죄 판결로 “장동혁 대표와 국민의힘이 정치적으로 파산했다”고 주장했다. 조 대표는…\n7. 사법리스크 뚫고 생환한 오세훈…힘 받는 '2030 대망론'\n   오 시장의 정치자금법 위반 혐의 사건을 심리한 항소심 재판부가 앞서 명씨 여론조사를 무상 제공받은 혐의로 기소된 윤석열 전 대통령에게 무죄를 선고한 재판부임에도 그랬다.…\n\n🗣 “대법원은 명태균 게이트 전반에 대해 엄정하고 신속하게 판단해 국민의 의구심에 답해야 한다”\n이 발언을 그대로 실은 보도 7건 · 파이낸셜뉴스 · 대전일보 · 매일신문 · MBC 뉴스\n· 파이낸셜뉴스 — 오세훈 2심 무죄에 여야 공방…민주 \"상고심 촉구\" 국힘 \"특검 사죄\"\n· 대전일보 — 오세훈 항소심 무죄, 여야 공방 이어져…與 '상고심' vs 野 '특검 사죄'\n· 매일신문 — 오세훈 2심 무죄에 민주 \"김건희, 尹도 2심 무죄, 왜 아무도 처벌 안 받나\"\n· MBC 뉴스 — \"대법원이 오세훈 진실 밝혀야\", \"특검 억지 기소 사죄\"‥여야 충돌\n· M이코노미뉴스 — 오세훈 무죄에 여야 공방...“납득 어려운 판결” vs “사법부 흔들기 중단해야”\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼\n\n출처: 경기일보, 국민일보, 노컷뉴스, 뉴스1, 이데일리, 한겨레"
 }
