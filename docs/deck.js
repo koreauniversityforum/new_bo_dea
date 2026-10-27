@@ -46,6 +46,7 @@
   function freshFrom(baseS) {
     const st = mergeState(clone(baseS));
     TEXT_KEYS.forEach(k => { st.layers[k].text = ''; });
+    st.stickers = [];          // 삽입 사진은 장마다 따로 — 새 장은 없이 시작(복제는 그대로 따라감)
     return st;
   }
   /** 표지 자리(기본값의 x/y/size/align)로 돌려놓되 글꼴·색은 지금 것을 지킨다. */
@@ -485,6 +486,7 @@
       if (!p.bgImg && p.S && p.S.bg && p.S.bg.src) {
         try { p.bgImg = await loadImage(p.S.bg.src); } catch (e) { /* */ }
       }
+      if (p.S && typeof STK !== 'undefined') await STK.ensureAll(p.S);   // 삽입 사진도
     }
   }
   async function saveAll(mode) {

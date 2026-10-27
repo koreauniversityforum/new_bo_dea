@@ -44,7 +44,8 @@ PAGES = ["index.html", "outro.html", "mark.html", "reel.html", "refs.html", "fee
 SCRIPTS = ["app.js", "brands.js", "nav.js", "prog.js", "hiddenmark.js",
            "outro.js", "outrostate.js", "refs.js", "save.js", "style.css",
            "deck.js",                      # 시리즈(캐러셀) 편집기 - 2026-08-23
-           "bgm.js"]                        # 추천 노래(무드+검색어) - 2026-08-24
+           "bgm.js",                        # 추천 노래(무드+검색어) - 2026-08-24
+           "stickers.js"]                   # 삽입 사진 + 배경 제거 - 2026-10-27
 EXTRA = ["summarizer.js", "폰shim.js", "README.md",
          # 피드 글 네 가지 글투(feed.py 의 옮김). 「정기 뉴스 메이커」가 쓴다 - 2026-09-02
          "feedstyles.js",

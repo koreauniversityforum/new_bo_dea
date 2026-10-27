@@ -32,7 +32,8 @@ function defaults() {
     paper: '#20242e',            // 사진이 없을 때의 바탕색 (스타일 모드가 바꾼다)
     deco: 'none',                // 스타일 모드 장식: none | tag | band
     decoColor: '#ff6b00',
-    bands: { top: bandDefault(), bottom: bandDefault() }   // 위/아래 띠 (BREAKING NEWS 등)
+    bands: { top: bandDefault(), bottom: bandDefault() },  // 위/아래 띠 (BREAKING NEWS 등)
+    stickers: []                 // 삽입 사진(배경 위에 자유롭게 올림) — stickers.js
   };
 }
 
@@ -386,6 +387,7 @@ function render() {
   drawDeco();
   drawBands();
   drawLogo();
+  if (typeof STK !== 'undefined') STK.draw(ctx);   // 삽입 사진 — 글자보다 아래
   TEXT_KEYS.forEach(drawLayer);
   drawChevron();
   // 한국대학생포럼 표시를 눈에 안 보이게 깔아 둔다 (설정은 '워터마크' 화면)
@@ -393,6 +395,7 @@ function render() {
   saveLocal();
   // 시리즈 편집기(deck.js)가 있으면 지금 장의 작은 그림을 갱신한다
   if (window.DECK) DECK.afterRender();
+  if (typeof STK !== 'undefined') STK.frame();     // 고른 삽입 사진 테두리(캔버스 밖 div)
 }
 
 /* ─────────────────────── 이미지 로드 ─────────────────────── */
@@ -442,13 +445,19 @@ cv.addEventListener('pointerdown', (ev) => {
   if (window.DECK && DECK.isOutroActive()) return;      // 뒷장은 여기서 안 만진다
   const p = toCanvas(ev);
   const k = hit(p);
+  // 삽입 사진: 고른 사진의 손잡이(크기·회전)는 글자보다 먼저, 사진 몸통은 글자 다음에 잡힌다
+  const sh = typeof STK !== 'undefined' ? STK.hit(p) : null;
   cv.setPointerCapture(ev.pointerId);
   cv.classList.add('dragging');
-  if (k) {
+  if (sh && (sh.part !== 'move' || !k)) {
+    drag = STK.startDrag(sh.o, sh.part, p);
+  } else if (k) {
+    if (typeof STK !== 'undefined') STK.select(null);
     if (TEXT_KEYS.includes(k)) selectLayer(k);
     const o = k === 'chev' ? S.chev : k === 'logo' ? S.logo : S.layers[k];
     drag = { mode: 'obj', o, ox: o.x - p.x, oy: o.y - p.y };
   } else {
+    if (typeof STK !== 'undefined') STK.select(null);
     drag = { mode: 'bg', px: p.x, py: p.y };
   }
 });
@@ -456,7 +465,9 @@ cv.addEventListener('pointerdown', (ev) => {
 cv.addEventListener('pointermove', (ev) => {
   if (!drag) return;
   const p = toCanvas(ev);
-  if (drag.mode === 'obj') {
+  if (drag.mode === 'stk') {
+    STK.dragTo(drag, p, ev);
+  } else if (drag.mode === 'obj') {
     drag.o.x = Math.round(p.x + drag.ox);
     drag.o.y = Math.round(p.y + drag.oy);
   } else if (bgImg) {
@@ -474,7 +485,9 @@ cv.addEventListener('pointerup', endDrag);
 cv.addEventListener('pointercancel', endDrag);
 
 cv.addEventListener('wheel', (ev) => {
-  if (!bgImg || (window.DECK && DECK.isOutroActive())) return;
+  if (window.DECK && DECK.isOutroActive()) return;
+  if (typeof STK !== 'undefined' && STK.wheel(ev, toCanvas(ev))) return;   // 삽입 사진 위 = 그 사진 크기
+  if (!bgImg) return;
   ev.preventDefault();
   const p = toCanvas(ev);
   const r = bgRect();
@@ -490,6 +503,7 @@ cv.addEventListener('wheel', (ev) => {
 document.addEventListener('keydown', (ev) => {
   if (/^(INPUT|TEXTAREA|SELECT)$/.test(ev.target.tagName)) return;
   if (window.DECK && DECK.isOutroActive()) return;
+  if (typeof STK !== 'undefined' && STK.key(ev)) return;   // 삽입 사진을 골랐으면 그 사진이 움직인다
   const d = ev.shiftKey ? 10 : 2;
   const map = { ArrowLeft: [-d, 0], ArrowRight: [d, 0], ArrowUp: [0, -d], ArrowDown: [0, d] };
   if (!map[ev.key]) return;
@@ -1318,6 +1332,7 @@ function newArticle(opt) {
   if (!opt.keepPhoto) {
     S.bg.src = ''; bgImg = null;
     S.bg.x = 0.5; S.bg.y = 0.45; S.bg.zoom = 1;
+    S.stickers = [];
   }
   // 시리즈도 새 기사와 함께 한 장으로 돌아간다(디자인은 지금 장 것을 물려받는다)
   if (window.DECK && !opt.keepDeck) DECK.resetToOne();
@@ -1390,6 +1405,11 @@ $('filePick').addEventListener('change', (e) => {
   if (f) setBg(URL.createObjectURL(f));
 });
 $('btnClearBg').addEventListener('click', () => { bgImg = null; S.bg.src = ''; render(); });
+// 「고른 사진」을 합치지 않고 한 장씩 삽입 사진으로 올린다 — 자리·크기는 캔버스에서 자유롭게
+$('btnMixFree').addEventListener('click', async () => {
+  if (!mixed.length) return msg($('fetchMsg'), '먼저 사진을 고르세요(Ctrl+누르기로 여러 장).', 'err');
+  for (const it of mixed) await STK.add(proxy(it.full, it.ref));
+});
 
 /* 키가 필요한 곳과 아닌 곳을 화면에서 갈라 준다.
    🔴 예전에는 Pexels·Unsplash 뿐이라 키가 없으면 무조건 400 이 났다 — 고장 난 것처럼
@@ -1806,7 +1826,9 @@ function mergeState(old) {
       [k, { ...d.layers[k], ...((old.layers || {})[k] || {}) }])),
     // 띠는 나중에 생겼다 — 옛 상태에 없으면 기본값(둘 다 꺼짐)
     bands: Object.fromEntries(BAND_KEYS.map(k =>
-      [k, { ...d.bands[k], ...((old.bands || {})[k] || {}) }]))
+      [k, { ...d.bands[k], ...((old.bands || {})[k] || {}) }])),
+    // 삽입 사진도 나중에 생겼다 — 옛 상태엔 없다
+    stickers: Array.isArray(old.stickers) ? old.stickers.map(o => ({ ...o })) : []
   };
 }
 
