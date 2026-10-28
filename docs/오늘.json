@@ -1,270 +1,305 @@
 {
- "date": "2026-10-27",
- "generated_at": "2026-10-27T10:45:34+09:00",
+ "date": "2026-10-28",
+ "generated_at": "2026-10-28T10:56:54+09:00",
  "mode": "daily",
- "window_start": "2026-10-26T00:00:00+09:00",
- "window_end": "2026-10-26T23:59:59+09:00",
+ "window_start": "2026-10-27T00:00:00+09:00",
+ "window_end": "2026-10-27T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "주진우 \"김혜경 여사, 태릉CC서 '황제레슨'…비용은 누가?\"[영상]",
-   "source": "노컷뉴스",
-   "url": "https://n.news.naver.com/article/079/0004202550",
-   "published_at": "2026-10-26T09:57:12+09:00",
+   "title": "[단독] 국방부, 예체능 軍 특례 감축하고  ‘30대 후반 현역 복무’ 추진",
+   "source": "조선일보",
+   "url": "https://n.news.naver.com/article/023/0004006229",
+   "published_at": "2026-10-27T17:09:09+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "주진우 \"김혜경 여사, 역삼동 화재 당일 프로골퍼와 황제 골프\"",
-   "source": "시사저널",
-   "url": "https://n.news.naver.com/article/586/0000140839",
-   "published_at": "2026-10-26T11:28:08+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "selection": "정치",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "무려 '4억' 뛰었다...강남 아니어도 '20억', 국평 기준 다시 쓴다",
-   "source": "머니투데이",
-   "url": "https://n.news.naver.com/article/008/0005431351",
-   "published_at": "2026-10-26T04:13:00+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "올해 '국평' 20억원에 진입한 단지/그래픽=윤선정. 올해 처음 국평 20억원 거래가 나온 300가구 이상 단지 10개 중 7개가 비강남권이었다.",
-   "summary_long": "올해 '국평' 20억원에 진입한 단지/그래픽=윤선정. 서울 아파트 '국민평형'으로 불리는 전용 84㎡의 20억원 거래가 비강남권으로 확산한다. 올해 처음 국평 20억원 거래가 나온 300가구 이상 단지 10개 중 7개가 비강남권이었다.\n\n대출·거래 규제에 따른 수요이동과 함께 높아진 분양가와 신축선호가 주변 아파트 가격을 끌어올린다는 분석이다. 신축아파트가 지역대표 단지로 자리잡은 이후 신축에 맞춰 주변 준신축과 기존 아파트의 가격이 상향평준화하는 모습도 나타난다. 윤지해 부동산 평론가는 \"건축비 상승으로 분양가가 높아지면서 신축아파트가 지역 내 가격상승을 주도하고 주변 준신축 가격까지 끌어올리고 있다\"며 \"대출규제에 따른 수요이동뿐 아니라 분양가 상승과 신축선호가 맞물린 영향에 주목해야 한다\"고 말했다.",
+   "summary": "국방부가 현역 복무를 면제받는 예술·체육요원의 선발 기준을 대폭 강화하는 대신, 면제 대상이 아닌 다수 예체능인이 병역을 미뤄 30대 후반 무렵에 군 복무를 할 수 있게…",
+   "summary_long": "국방부가 현역 복무를 면제받는 예술·체육요원의 선발 기준을 대폭 강화하는 대신, 면제 대상이 아닌 다수 예체능인이 병역을 미뤄 30대 후반 무렵에 군 복무를 할 수 있게 하는 방안을 추진 중인 것으로 27일 알려졌다. 현재 체육 분야의 경우 올림픽 경기에서 3위 이상의 성적을 거두거나 아시안게임에서 우승하면 예술·체육 요원으로 선발돼 현역 복무가 면제된다. 예술 분야의 경우 지정된 국제 대회에서 2위 이상, 국내 대회에서 1위를 해야 예술·체육 요원으로 뽑힌다.\n\n정부 일각에서는 예술·체육 요원 선발 자체를 바로 중단하는 방안도 검토되고 있는 것으로 전해졌다. 국방부는 이렇게 특례 기준을 높이거나 특례 제도를 폐지하는 대신, 일정 수준 이상 실적을 가진 예체능인들이 선수 생활이나 예술 활동 전성기인 20대에서 30대 초중반까지는 현역 복무를 미룰 수 있게 하는 방안을 유력하게 추진하고 있다. 한 정부 소식통은 “극소수 인원만 예외적으로 현역 복무를 면제하면 ‘형평성 논란’이 계속될 수밖에 없다”며 “모두가 동일한 병역 의무를 수행하되, 다만 예체능 분야라는 특수성과 다양성을 고려해 병역 복무 시기를 배려해주는 방향으로 추진 중”이라고 말했다.",
    "quotes": [
-    "건축비 상승으로 분양가가 높아지면서 신축아파트가 지역 내 가격상승을 주도하고 주변 준신축 가격까지 끌어올리고 있다",
-    "대출규제에 따른 수요이동뿐 아니라 분양가 상승과 신축선호가 맞물린 영향에 주목해야 한다",
-    "준신축, 입주 5~10년차 단지로 상승세가 확산할 수 있다"
+    "모두가 동일한 병역 의무를 수행하되, 다만 예체능 분야라는 특수성과 다양성을 고려해 병역 복무 시기를 배려해주는 방향으로 추진 중",
+    "예술·체육 요원을 포함하는 보충역 감축·폐지를 국방개혁 기본계획에 반영해서 추진할 계획을 갖고 있다",
+    "극소수 인원만 예외적으로 현역 복무를 면제하면 ‘형평성 논란’이 계속될 수밖에 없다"
    ],
-   "press": "머니투데이",
-   "photo": "03.jpg",
+   "press": "조선일보",
+   "photo": "01.jpg",
    "quoted": {
-    "quote": "대출규제에 따른 수요이동뿐 아니라 분양가 상승과 신축선호가 맞물린 영향에 주목해야 한다",
-    "n": 2,
-    "verified": 0,
-    "items": [
-     {
-      "press": "머니투데이",
-      "title": "\"이 동네도 저 동네도 20억\"...비강남으로 번진 '국평 20억 클럽' - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JRTAwamNPZHB0aFgtellPeW5oWTdGbmk0alRxc2g1UTBNSlJXMUhtc1h3cS1YTmVsUEc4NG5kV2NOZVVaN0FPZkJtaHVPY2F2dmhzRlBDakpudm9jT2VoeFZuQ2Roa1hxWXfSAW9BVV95cUxPYThKZmt6SFIxd1hhcy1FWkhNelotTHRkM0RrVWt0LVdUU2k0WFBGd3JLN0Q5ZTFjZi1ZUTU0UEIwZkRyc0hnUHFmWEd2WjFpUG5zRkdLRkdjQ1BxaHRBTGgtMmdsVkdvYjd1OFpwYlE?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "무려 '4억' 뛰었다...강남 아니어도 '20억', 국평 기준 다시 쓴다 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwUGI2RnN3MTFoQllVdzRYTDIybkhZRFBnOHdWOWJVLS1JUjJvTkt1WDYxVl9zX0duRnFaMmZmUjlqUWdlS0lxV0xERWhkS2pOdXlqcnU3VDdGclVXVmhqZUtYWUhtcGZzWFlIRkZPY9IBb0FVX3lxTFAwUGI2RnN3MTFoQllVdzRYTDIybkhZRFBnOHdWOWJVLS1JUjJvTkt1WDYxVl9zX0duRnFaMmZmUjlqUWdlS0lxV0xERWhkS2pOdXlqcnU3VDdGclVXVmhqZUtYWUhtcGZzWFlIRkZPYw?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "“샀다가 바로 팔면 100억 정도 벌어요”…슈퍼리치들, 중고 전용기에 줄섰다",
-   "source": "매일경제",
-   "url": "https://n.news.naver.com/article/009/0005753862",
-   "published_at": "2026-10-26T10:32:08+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "중고 전용기 가격, 신형 웃돌기도. 전 세계 슈퍼리치 사이에서 개인 전용기 구매 열풍이 불면서 중고 항공기가 신형보다 비싸게 거래되는 기현상이 나타나고 있다.",
-   "summary_long": "전 세계 슈퍼리치 사이에서 개인 전용기 구매 열풍이 불면서 중고 항공기가 신형보다 비싸게 거래되는 기현상이 나타나고 있다. 신형 전용기를 주문하면 인도까지 최대 4년을 기다려야 하는 상황에서 당장 이용할 수 있는 중고 전용기의 몸값이 치솟은 것이다. 25일(현지시간) 영국 일간 더타임스에 따르면 최근 전용기 시장에서는 공급 부족과 수요 급증이 맞물리면서 중고 항공기 가격이 신형을 웃도는 사례가 잇따르고 있다.\n\n항공금융 전문 로펌 애들쇼 고더드의 바버라 판사도로 파트너는 “신형 전용기를 주문하면 인도까지 3~4년이 걸릴 수 있다”며 “기다리기 싫어하는 부유층이 중고 전용기로 몰리고 있다”고 설명했다. 판사도로는 ”이들에게 전용기는 사치품이 아니라 사업을 위한 필수품“이라며 ”자신만의 항공기를 보유하려는 수요가 가격 상승을 이끌고 있다“고 말했다. 플렉스젯의 마이클 실베스트로 CEO는 “과거 부유층은 40대 초반에 전용기를 이용할 경제력이 있어도 50대 중반까지 기다렸지만, 지금은 40대부터 적극적으로 전용기를 이용한다”고 말했다.",
-   "quotes": [
-    "과거 부유층은 40대 초반에 전용기를 이용할 경제력이 있어도 50대 중반까지 기다렸지만, 지금은 40대부터 적극적으로 전용기를 이용한다",
-    "아무런 노력 없이 1000만달러(약 132억원)를 벌 기회가 있다면 마다할 이유가 있겠느냐",
-    "일부 기업들이 실제 운항 필요성보다 절세 효과를 노리고 전용기를 구매하고 있다"
-   ],
-   "press": "매일경제",
-   "photo": "04.png",
-   "quoted": {
-    "quote": "일부 기업들이 실제 운항 필요성보다 절세 효과를 노리고 전용기를 구매하고 있다",
-    "n": 2,
-    "verified": 0,
-    "items": [
-     {
-      "press": "매일경제",
-      "title": "“샀다가 바로 팔면 100억 정도 벌어요”…슈퍼리치들, 중고 전용기에 줄섰다",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFRnY5VHNtTEpLLUhUV3g5X1RocWt1MFNMWTUzRWFNazhHVGVaNEJrYjVTNEFlT0p0OXZXS1Q0eW53MnFKdXhpZFJVcGFxYWdqZ1E?oc=5"
-     },
-     {
-      "press": "한국경제",
-      "title": "\"받자마자 팔면 130억 남아요\"…초부자들 '필수품'에 무슨 일",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsOW53a3NxajdpOEpEZ0pXTnQzalVIa3h0UWR4RllSQzAwRVl3V2h6THRMN3h4U1huSUtHd1M2SXJRaGtkSXpzLWpUbE5HMm5Wb3FYMDJYNE4wQQ?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "[단독] '황제골프' 맞나…김혜경 여사 라운딩 때 앞뒤 팀 예정대로 경기",
-   "source": "노컷뉴스",
-   "url": "https://n.news.naver.com/article/079/0004203093",
-   "published_at": "2026-10-26T18:26:14+09:00",
-   "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 657,
-   "comment_agree": 325,
-   "comment_disagree": 42,
-   "division_balance": 0.228883,
-   "division_score": 1.352259,
-   "selection": "찬반 쟁점",
-   "summary": "국민의힘 주진우 의원은 이재명 대통령의 부인 김혜경 여사가 지난 20일 서울 태릉CC에서 유명 프로골퍼를 대동하고 골프를 쳤다고 주장하며 26일 자신의 SNS를 통해…",
-   "summary_long": "국민의힘 주진우 의원은 이재명 대통령의 부인 김혜경 여사가 지난 20일 서울 태릉CC에서 유명 프로골퍼를 대동하고 골프를 쳤다고 주장하며 26일 자신의 SNS를 통해 영상을 공개했다. 국민의힘 주진우 의원이 김혜경 여사의 '황제 골프' 의혹을 제기한 가운데, 김 여사가 지난 20일 태릉 군 체력단련장(태릉CC)을 이용할 당시 앞뒤 팀은 예정대로 경기를 진행한 것으로 파악됐다. 경기 도중 클럽하우스를 이용했고, 식사는 별도 특혜 없이 클럽하우스 안 룸에서 한 것으로 전해졌다.\n\n앞서 주 의원은 이날 오전 페이스북에 \"태릉CC에서 프로 골퍼로부터 황제 레슨을 받으며 3인 골프를 즐기고, 대통령 전용 황제 클럽하우스도 열었다\"고 적었다. 한편 이날 오후 법사위 국감장에서는 주 의원이 김 여사의 골프 레슨 장면이 담겼다며 공개하려던 영상을 놓고 고성이 오갔다. 김의겸 의원은 주 의원이 리디아 고가 아닌 것으로 드러나자 배포한 영상에서 해당 부분을 급히 삭제했다며 \"원본을 갖고 당과 상의해 강력한 법적인 조치를 취하겠다\"고 말했다.",
-   "quotes": [
-    "태릉CC에서 프로 골퍼로부터 황제 레슨을 받으며 3인 골프를 즐기고, 대통령 전용 황제 클럽하우스도 열었다",
-    "확인되지 않은 주장을 사실인 양 보도하거나 허위사실을 유포하는 행위에 대해서는 엄중히 책임을 묻겠다",
-    "여기는 항상 꽉 차 있기 때문에 그런 식으로 3인 골프해서 황제 골프할 수가 없는 것"
-   ],
-   "press": "노컷뉴스",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "태릉CC에서 프로 골퍼로부터 황제 레슨을 받으며 3인 골프를 즐기고, 대통령 전용 황제 클럽하우스도 열었다",
-    "n": 10,
+    "quote": "예술·체육 요원을 포함하는 보충역 감축·폐지를 국방개혁 기본계획에 반영해서 추진할 계획을 갖고 있다",
+    "n": 3,
     "verified": 0,
     "items": [
      {
       "press": "주간조선",
-      "title": "영부인과 골프 쳤다던 리디아 고 “그날 다른 행사”…주진우 주장 반박",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54MkhRWEFrQlY1ZHdBTE95SDkxRTk2eXZwdVk2U1J1UXZKLVJHc0FpeW80QXBvQWJPMm1zV1hLOE9YOFFPNDd0aG02T29DVjQ2aVJ5YVdWNmNPOWVONmhNZnA1Uy1qMmhyTFQ1N2tB0gFuQVVfeXFMTngySFFYQWtCVjVkd0FMT3lIOTFFOTZ5dnB1WTZTUnVRdkotUkdzQWl5bzRBcG9BYk8ybXNXWEs4T1g4UU80N3RobTZPb0NWNDZpUnlhV1Y2Y085ZU42aE1mcDVTLWoyaHJMVDU3a0E?oc=5"
+      "title": "금메달 따면 군 면제? 달라진다…정부, 병역특례 대폭 축소 검토",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hbWlmSGZ6U2JhUUp4WkI2Ymc0ZjZmRFpOV2xjd3BmcFFlODBSYUJCTllSYnFsc2ZPbFBGYlpqSmpBZWNqMGhoMDF3ekpULWwxSGppc0VTNDVwLUtnWE1vVmoxaXZKTXRxZ0HSAW5BVV95cUxNWVJkemlzYWpBcjFzT0oyYlpjQndIQmEzWlkwTmFoaG5zcVliTktiMDZlMXVzaDY3NnJsY1JQdE5oSEFzSjRUUy1zNEZWLWVXQlBEMkxnS0pSeldfVG1SNVBHMEEybmExVkM2MGZPZw?oc=5"
      },
      {
-      "press": "뉴데일리",
-      "title": "김혜경 여사, 프로골퍼 대동 軍골프장 사용 의혹 … 주진우 \"황제 골프, 정권 끝날 것\"",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kd0NRUGxRSC1OMDlwenkwTFJNN1d4UUstcGxCREtHRGp1U1N5WDRveEh6R1cxZUt2UGVhQTVPLUVZc2NwUU9wUnVYQkxCWTBtOEtJWTh5REhlYnVGbnpWOVBadFAwYjZRd1Nxc1dPUHJjVE96VnVYZHJNb9IBgAFBVV95cUxQSzdqNVF1VXZ6cXBldFduTnMtNEZISU8zMDY0Z2NCZWN2UFE1Z2lZcGZuMEZCYXA1cC1PSUs4Q0ZrZW5KWC1qTWZSYUVaMF9fdUFHTW1hQktxcWw4R2xSTjg2RDFSYkZJQlVKSm9QRU5adUoxYTJjczFwcmhhZGFVTQ?oc=5"
-     },
-     {
-      "press": "연합뉴스",
-      "title": "주진우 \"金여사, 역삼 화재 당일 유명 프로골퍼 대동해 골프\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yZjBhdVh5aDdYRmVvVXdrV0Z4X054cUY3X29wQlBZWElIRG9lLWlHeUNiYkNIa0otRXFRM3NjVjI5bkhQaDJ2cWdqMDlteGlObDFSdGRnazktMGM0R0Q1Z9IBYEFVX3lxTE4yZjBhdVh5aDdYRmVvVXdrV0Z4X054cUY3X29wQlBZWElIRG9lLWlHeUNiYkNIa0otRXFRM3NjVjI5bkhQaDJ2cWdqMDlteGlObDFSdGRnazktMGM0R0Q1Zw?oc=5"
-     },
-     {
-      "press": "에브리뉴스 EveryNews",
-      "title": "주진우 \"김혜경 여사, 20일 태릉CC서 유명 프로골퍼 '황제 레슨' 의혹\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rVnJYYnQ3MDFrZ21LdzNSM29WZkN1R2FhM3FLSnZnanVPMzUwX1YzazVYazRWc0RkTlplNmczekp2Tkl0Mk9aSDdlUk5veERPX2d0Y295OUNZTXNhYV83U2FlUG9PUlpVSGlMMg?oc=5"
-     },
-     {
-      "press": "조세일보",
-      "title": "주진우 \"김혜경 여사, 골프 황제레슨\" vs 與 \"소설 멈추고 근거 내놔라\"",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PT2o1c1Z1VkhZS0oyREtmVVdVXzFSVnZQd3IxdHFEVDNlckNzbXRGVWNRV3E0c3J2Nk1fWl9aMzV1c0tMSUx2UWZ3bzNldWZFNERTMEZTbkVPd3prcHQtM1R0VUwzZmlFN1pkaUJVaw?oc=5"
-     },
-     {
-      "press": "시사저널",
-      "title": "주진우 “김혜경 여사, 역삼동 화재 당일 프로골퍼와 황제 골프”",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DM0w3UTgyTDljVVk3SEFhdVhUazhrRnRzM2REUzhsQl9KbjBkMmQtZ0ZkWVc0NmdiMmRZRnROSVBmOVZwTEp6ekxlWkUyZWZQLXBlZ0lkZ3BHZUQ0SEZaUm9ROWN5ejRqZlpndkVIb0wwZDTSAXNBVV95cUxPQzNMN1E4Mkw5Y1VZN0hBYXVYVGs4a0Z0czNkRFM4bEJfSm4wZDJkLWdGZFlXNDZnYjJkWUZ0TklQZjlWcExKenpMZVpFMmVmUC1wZWdJZGdwR2VENEhGWlJvUTljeXo0amZaZ3ZFSG9MMGQ0?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "김혜경 여사 골프 의혹 영상에 국감장 발칵…주진우 반발, 서영교 \"상영 불허\"",
-   "source": "노컷뉴스",
-   "url": "https://n.news.naver.com/article/079/0004202877",
-   "published_at": "2026-10-26T15:42:17+09:00",
-   "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 107,
-   "comment_agree": 189,
-   "comment_disagree": 26,
-   "division_balance": 0.24186,
-   "division_score": 1.300067,
-   "selection": "찬반 쟁점",
-   "summary": "26일 국회 법제사법위원회 국정감사에서 김혜경 여사의 '골프 의혹' 관련 영상 상영을 두고 여야가 충돌했습니다. 서영교 위원장은 \"허위 사실\"이라면서 \"면책특권 뒤에…",
-   "summary_long": "26일 국회 법제사법위원회 국정감사에서 김혜경 여사의 '골프 의혹' 관련 영상 상영을 두고 여야가 충돌했습니다. 서영교 위원장은 \"허위 사실\"이라면서 \"면책특권 뒤에 숨어서 하지 말고 (회의장을) 나가서 공개하라\"며 영상 상영을 불허했습니다. 이어 여야 의원들 사이에 고성이 오가는 등 국정감사가 한때 파행을 빚었습니다.",
-   "quotes": [
-    "면책특권 뒤에 숨어서 하지 말고 (회의장을) 나가서 공개하라"
-   ],
-   "press": "노컷뉴스",
-   "photo": "06.jpg",
-   "quoted": {
-    "quote": "면책특권 뒤에 숨어서 하지 말고 (회의장을) 나가서 공개하라",
-    "n": 8,
-    "verified": 0,
-    "items": [
-     {
-      "press": "위키트리",
-      "title": "“김혜경 여사 황제 골프 의혹 영상 틀겠다” vs “불허”…오늘(26일) 발칵 뒤집힌 국감장",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56U3RQR1MzaFlLeGdId0tMRTVUS2hGLWZLUjh6cTRKc1paM0xGTmFuOV9TT1VFbTRaQVhHbW1iV0NMQm5sd1hWLS1NSTM2cjUycTVhOTNR?oc=5"
-     },
-     {
-      "press": "YTN",
-      "title": "청, 주진우 '김 여사 골프' 의혹에 \"허위사실 유포 행위\" [앵커리포트]",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NdTZIdWE1dXVaYTVJX0p3SjVBa1d2VnZOaE1QSFB4b1cwc183Ni1KMnhSQ00zeGRneERwVlFrY3BZU1hPeUp0dzVicDJaOWNGM0xSOHdfcDg3bHdEYnJ2UmxDWGhPUU1xWVptOWhNbGtSejZPaUE?oc=5"
-     },
-     {
-      "press": "MBC 뉴스",
-      "title": "리디아 고 \"저 아닌데\"‥주진우 '김 여사 골프레슨' 공방",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3S0p3YjV1UzEySUZya2N0TFlxV2RQTUpjT1hjclJrcHQtYjRZRXlKTXNCdXRKd3B6aHgyU3ZvZ2poRzlmWS1LamxqakU2SVN6SWNVQ3NZXzZCdEFmMGpHOWs1UlZqRjlrc3NqeDl1SXVHajczRjN3bNIBeEFVX3lxTFB3S0p3YjV1UzEySUZya2N0TFlxV2RQTUpjT1hjclJrcHQtYjRZRXlKTXNCdXRKd3B6aHgyU3ZvZ2poRzlmWS1LamxqakU2SVN6SWNVQ3NZXzZCdEFmMGpHOWs1UlZqRjlrc3NqeDl1SXVHajczRjN3bA?oc=5"
-     },
-     {
-      "press": "채널A",
-      "title": "[김종석의 리포트]주진우 “태릉 골프” 주장에…청와대 “허위 사실”",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjY2o1UkdtTVpDdXhSdUowcEFhNWFlYW1YWElkRkV3SEJiLVZSVWVqQ2J0Vlo4blNoc1IteUphNXBjRGVXQXU1dmR2dTZ0VUh6TVlEMDhYOFd3RzlJVnBLelVpc9IBY0FVX3lxTFBjY2o1UkdtTVpDdXhSdUowcEFhNWFlYW1YWElkRkV3SEJiLVZSVWVqQ2J0Vlo4blNoc1IteUphNXBjRGVXQXU1dmR2dTZ0VUh6TVlEMDhYOFd3RzlJVnBLelVpcw?oc=5"
+      "press": "조선일보",
+      "title": "[단독] 국방부, 예체능 軍 특례 감축하고 ‘30대 후반 현역 복무’ 추진",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLURhSW9RUzRlNFgteHNpTy1rX1hxQXl4MDdQQXdDdVo5VDhOYTBpMGQyekdCc2I1azRNUDVLam5wWm5qQUtzVG4wRHg4MmlrTWVYRGI2Y25BQ3ZfV0VZeVliaXNNVU5OMll1cWU3RUI3U3YtOURHTDNQOUZLOU5vbUI2a1dIZEJWSkVNakp6dklEdw?oc=5"
      },
      {
       "press": "매일신문",
-      "title": "`김혜경 여사 골프 의혹 영상` 서영교 `국감서 상영 불허`…주진우 페북 공개본 보니 [여의도.gif]",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lVW9SaFZSaW8wbEpuODJ5RVdCbmVXckJSSTJPYndycm1EU21GRWVRNXJTREowTTNOVm9VX2dTdjVSdGFRUjg4dWpOLUVlNTQ3UVVyb2U5VTJLVHFZYjNYSmlR?oc=5"
-     },
-     {
-      "press": "매일경제",
-      "title": "野 \"김여사 황제골프\" vs 與 \"정체불명 영상\"",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93dEF5c2UxSzd5dWlxSlNkT01JNmg3N1lsTnZvUVdVcG5TUFYtV1FnLVNuOW11YTR3TWxPek1KU0tFTGdxazBfajh3b0pmdw?oc=5"
+      "title": "전역모 논란에 결국 `군면제` 중단되나?…예체능 軍 특례 감축 추진",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2cTh3UVpyN1Z3NURxUFdMaGRXS1p0WmZaZ0h3TmdTUHFtWFNQZm9xSVQ4RUFqOGd2VERSbTZIRHJteGliMmRFVXdLSzhnX1ZFWXpaYjg1bkdqcll6UDNKOGF3?oc=5"
      }
     ]
    }
   },
   {
-   "title": "오세훈 “목소리 내줘 고맙다” 장동혁 “당연한 일”…웃으며 악수",
-   "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003560533",
-   "published_at": "2026-10-26T15:18:25+09:00",
+   "title": "\"탄핵보다 비열\" \"민주 판결 불복\"…與 주도 '조희대 국정조사'에 野 격앙",
+   "source": "시사저널",
+   "url": "https://n.news.naver.com/article/586/0000140992",
+   "published_at": "2026-10-27T17:11:09+09:00",
    "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 283,
-   "comment_agree": 132,
-   "comment_disagree": 19,
-   "division_balance": 0.251656,
-   "division_score": 1.264288,
-   "selection": "찬반 쟁점",
-   "summary": "장동혁 대표와 정점식 원내대표, 정희용 사무총장과 임이자 정책위의장 등 지도부, 오세훈 서울시장, 나경원·송언석·이진숙 의원 등 국민의힘 주요 인사가 모두 모인 이날…",
-   "summary_long": "영화 ‘암살자(들)’의 후폭풍이 26일 서울 동작구 국립서울현충원에서 진행된 박정희 전 대통령 47주기 추모식까지 이어졌다. 장동혁 대표와 정점식 원내대표, 정희용 사무총장과 임이자 정책위의장 등 지도부, 오세훈 서울시장, 나경원·송언석·이진숙 의원 등 국민의힘 주요 인사가 모두 모인 이날 추모식에선 육영수 여사 피살 사건을 배경으로 한 영화 ‘암살자(들)’이 비판의 대상이 됐다. 나경원 의원은 추도사에서 “북한은 반세기 동안 이 비극의 책임을 부인하고 왜곡해왔고, 최근 우리 사회 안에서도 육 여사 피살 사건을 음모론으로 오염시키려는 시도가 있었다”며 “왜 저들은 그리도 박정희 대통령님을 깎아내리려 할까.\n\n정점식 원내대표는 추모식 직전 국회에서 열린 국민의힘 최고위원회의에서 “좌파들의 무분별한 왜곡과 영화 한 편, 저급한 선동으로 위대한 역사를 감출 수 없다”고 직격했다. 오 시장은 “오늘(26일) 각별히 박정희 정신과 함께 그 역사적 책임을 다시 한번 마음에 새긴다”며 “대한민국이 더 부강해지는 만큼 국민의 삶의 질도 나아지도록 소임을 다하겠다”고 했다. 참석자들에 따르면 헌화 이후 오 시장은 장 대표에게 “상고를 포기해야 한다는 목소리를 내줘서 고맙다”고 했고, 장 대표는 “당에서 당연히 해야 할 일”이라고 화답했다고 한다.",
+   "view_rank": 1,
+   "selection": "정치",
+   "summary": "더불어민주당이 조희대 대법원장에 대한 국정조사를 당론 추진하기로 결정한 가운데, 국민의힘은 \"사법부를 노예화하는 위헌 국정조사이며 탄핵보다 더 비열하다\" \"오세훈…",
+   "summary_long": "더불어민주당이 조희대 대법원장에 대한 국정조사를 당론 추진하기로 결정한 가운데, 국민의힘은 \"사법부를 노예화하는 위헌 국정조사이며 탄핵보다 더 비열하다\" \"오세훈 서울시장 2심 무죄 판결에 대한 불복이 국정조사로 둔갑됐다\"며 격앙된 반응을 보이고 있다. 민주당은 27일 의원총회를 통해 조 대법원장에 대한 국정조사를 실시하기로 결정했다. 전은수 민주당 원내대변인은 의원총회 후 기자들과 만나 \"조 대법원장 향후 조치와 관련해서 우선 국정조사를 해야 한다는 데에 (의원들) 의견이 모아졌고 국조를 실시하기로 했다\"고 밝혔다.\n\n그는 \"국정조사를 하겠다는 이유와 근거가 무엇이냐\"며 \"조희대 대법원장이 오세훈 시장에게 무죄를 선고했나. 그러면서 \"이미 민주당은 조희대 대법원장을 수차례 국회로 불러 모욕을 줬다\"며 \"이것도 모자라 기어이 아무 명분도 없는 국정조사까지 하겠다고 한다\"고 비판했다. 박충권 수석대변인도 논평을 통해 \"판결 불복이 국정조사로 둔갑, 민주당은 '조희대 죽이기'를 즉각 중단하라\"며 \"민주당이 기어코 선을 넘었다\"고 직격했다.",
    "quotes": [
-    "북한은 반세기 동안 이 비극의 책임을 부인하고 왜곡해왔고, 최근 우리 사회 안에서도 육 여사 피살 사건을 음모론으로 오염시키려는 시도가 있었다",
-    "나라를 세운 역사를 부정하고 나라를 지킨 희생을 폄훼하며 산업화의 성취마저 깎아내리는 세력이 자유민주주의 체제와 헌정 질서를 위협하고 있다",
-    "올림픽 사격 선수 출신들과 경찰 등 증언을 들어보니, 문씨는 ‘문 사수’라 불릴 정도로 사격에 능했다"
+    "조사받고 재판받아야 할 범죄자 변호 정당이 대법원장을 조사한다? 민생경제, 외교안보 사방이 위기인데 이재명 민주당은 사법파괴, 대법원장 집단린치에 여념이 없다",
+    "이재명 대통령의 공직선거법 위반 사건 유죄 파기환송에 대한 유치한 보복이고, 대통령 부부와 최측근의 재판 재개를 막기 위한 치졸한 겁박",
+    "헌법 제103조는 법관의 독립된 심판을 보장하고, 국정조사법 제8조는 계속 중인 재판에 관여할 목적의 조사를 명백히 금지하고 있다"
    ],
-   "press": "중앙일보",
-   "photo": "07.jpg",
+   "press": "시사저널",
+   "photo": "02.jpg",
    "quoted": {
-    "quote": "나라를 세운 역사를 부정하고 나라를 지킨 희생을 폄훼하며 산업화의 성취마저 깎아내리는 세력이 자유민주주의 체제와 헌정 질서를 위협하고 있다",
-    "n": 5,
+    "quote": "이재명 대통령의 공직선거법 위반 사건 유죄 파기환송에 대한 유치한 보복이고, 대통령 부부와 최측근의 재판 재개를 막기 위한 치졸한 겁박",
+    "n": 6,
     "verified": 0,
     "items": [
      {
+      "press": "시사저널",
+      "title": "“탄핵보다 비열” “민주 판결 불복”…與 주도 ‘조희대 국정조사’에 野 격앙",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lZVA1Wkl3aUt0ZWV0S3BGa25nMUlYWU9ocm5KOE9neDQzU1NEV3RkZHREbGpNSFdhdlFpUTRPTzBmdXBxT05mai1vUzJxSWFSaHNDekQ4TU1BdU5HYW50d2QxaUpwSTM0V2lrNWhDVdIBc0FVX3lxTE9WZWNORndBUXBjS09yVXFjLU5YT2dyTWpfUS1od2JVN0ZRdTJ2OXlWUGh4WmZ4TEJxVElHcGxTdjZFdUtnUUg1VWRkMnF0anNZQlhKLUt1S1NvNnY2UXRSZ2kxNDZ3a2lQR3JrcWFNWHNVakE?oc=5"
+     },
+     {
       "press": "중앙일보",
-      "title": "오세훈 “목소리 내줘 고맙다” 장동혁 “당연한 일”…웃으며 악수",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OckE5c3dLUTB0TVRuVU1TLVp5c2s4Wmo5dUFOdFlYYkxsRUpZelFYMnNYTklieFVwOXNhXzcxbUJNRUR6clpOZzlVelJxd0FSWGJEb2F3?oc=5"
+      "title": "野, 조희대 국정조사에 “민주당의 판결 불복”…“묻지마 폭행·깡패짓”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iVkl6bm9kT0d4ZUhzNGdETUZyZjhlRHJyeTFsbTFTSkEzeVZSa3ZJbG8tU0pXTWJmUVVkSEhOdm51VXROenJaMUZ1U3BBSUhWRlpCZ1Fn?oc=5"
      },
      {
-      "press": "대구신문",
-      "title": "국힘 지도부 “박정희 정신 이어 새로운 대한민국 건립”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qeWcycG50dVhNLXBPSXQzZE10OE1OQkZVWkRvNDVIWE5FSTdQT1FWVnlLY0h0aVl3cTFFUHU3Nl9OYV9SNEJ1Q0FON3FReVhYVkNhb212UF9EVExyWTNYd1dLV0VkWFZfOVU0?oc=5"
+      "press": "연합인포맥스",
+      "title": "정점식, 與 '조희대 국조'에 \"이재명·민주당 탄핵 사유…李재판 암장이 목적\" |",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vNVJaemZCczk2eGw5VkRmX2FHSGdHN3JhbnFVeHJrSl9GQ0o1R2VldmRuSzVMa0JScmZtSGVVX3I0dUZ4T0R1NkpUV0todUJhczI0SE9hcjg2SE95YVZJb2ZqQnVIa3NiaTBlYzBmdzQtZmJj?oc=5"
      },
      {
-      "press": "MBC 뉴스",
-      "title": "박정희 47주기 추모식 국힘 지도부 총출동‥장동혁·오세훈 악수",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyWEVKU2tONUIxSkwtZnY5Yno3bVZvOG91MmlqRHE0TWtpbUJtdjl3WGZvYTFpOTljaGE4Ql9PNVd0UVRjczU3aWROTXFXT3ZKTkRDNDBxMkR6eGl3YTBtWk5YZHFKQXFDbkR6MnM5c25ZQ0ZJMzlVWtIBeEFVX3lxTFAyWEVKU2tONUIxSkwtZnY5Yno3bVZvOG91MmlqRHE0TWtpbUJtdjl3WGZvYTFpOTljaGE4Ql9PNVd0UVRjczU3aWROTXFXT3ZKTkRDNDBxMkR6eGl3YTBtWk5YZHFKQXFDbkR6MnM5c25ZQ0ZJMzlVWg?oc=5"
+      "press": "전자신문",
+      "title": "정점식, 與 조희대 국조 추진에 “노골적 사법부 탄압…모든 수단 동원해 맞설 것”",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aZno0ODZoTlRwX01EdGxRbTJXbHlkdHR6VVlscTAxeThQTktMRlVkUEN5WkNEbHV5bUZoMnZvclZ6N01XZUJmNnVhc0hjdw?oc=5"
      },
      {
-      "press": "아주경제",
-      "title": "野, 10·26 계기 보수 결집 도모…저급한 선동, 진실 감출 수 없어",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jdmNCUGF4dkNGQ29FTFpvclVMTThnZGoxUEdMdkUxX2JndXZBalRmdS13WFBrNzRSWC0xbHhqeG1VRk0yN1RaVzUycFRpOTZVV0xIOWxLOTPSAVhBVV95cUxOY3ZjQlBheHZDRkNvRUxab3JVTE04Z2RqMVBHTHZFMV9iZ3V2QWpUZnUtd1hQazc0UlgtMWx4anhtVUZNMjdUWlc1MnBUaTk2VVdMSDlsSzkz?oc=5"
+      "press": "머니투데이",
+      "title": "정점식 \"조희대 국정조사는 사법부 탄압…모든 수단 총동원해 싸울 것\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYVFFSNG12eXd5dnNPNW43b2dWV1VVY0luNk5xSk55aE1HeXpDWDlEckExUi1GWXdZVzdiem41MFpZM1h6Mk45STBnRzI0THpiczRzM0JWOVdiMU15Z1NUQ3NYdHN2Z1luempIWmNCYnRtUdIBckFVX3lxTFBYVFFSNG12eXd5dnNPNW43b2dWV1VVY0luNk5xSk55aE1HeXpDWDlEckExUi1GWXdZVzdiem41MFpZM1h6Mk45STBnRzI0THpiczRzM0JWOVdiMU15Z1NUQ3NYdHN2Z1luempIWmNCYnRtUQ?oc=5"
      },
      {
-      "press": "메트로신문",
-      "title": "박정희 47주기 추모식…오세훈 \"잘사는 국민 시대\"·나경원·이진숙 李정부 비판",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IZEhMUGVNdkRNbV9DZklLMElvcHo2X0M2a05TY2FDSHZvaE94SEpfaXIxcnV4N2hvbFpScTZISkNHeG9teHBwOXE4T29sRFZKYmRwblZBcjFrTDN1NF9BWg?oc=5"
+      "press": "뉴스피릿",
+      "title": "정점식 “조희대 국정조사는 사법부 탄압”…강력 대응 예고",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jakE5VEZuRHZ4Z3pzWE5JR3pIcnFyc1dLVmloY0ViY1JIUmFTUHFFOFEybVpxTzFGWmcwWGg0TTZ6QjlmTmxfVGhEbzBRQW8ydFZqSnNLM2NEalU1bHNGa1JnMDc5QmM1cXU0?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "윤석열 “계엄이 장기독재 목적? 힘든 대통령, 미쳤다고 장기로 하나”",
+   "source": "디지털타임스",
+   "url": "https://n.news.naver.com/article/029/0003055639",
+   "published_at": "2026-10-27T19:15:40+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "윤석열 전 대통령이 27일 “국가 위기 상황에서 할 수 있는 게 비상계엄밖에 없었다”며, 장기 독재할 목적으로 계엄을 선포한 것은 아니라고 극구 부인했다. 아울러 “장기…",
+   "summary_long": "윤석열 전 대통령이 27일 “국가 위기 상황에서 할 수 있는 게 비상계엄밖에 없었다”며, 장기 독재할 목적으로 계엄을 선포한 것은 아니라고 극구 부인했다. 이날 서울고법 형사12-1부(이승철 조진구 김민아 고법판사) 심리로 열린 내란 우두머리 혐의 사건 항소심 공판에서 윤 전 대통령은 피고인 신문을 받으며, 12·3 비상계엄 선포의 정당성을 거듭 주장했다. 윤 전 대통령은 계엄 선포 배경에 관한 변호인단 질의에 “이젠 정말 야당 행태에 대해 정치적으로 할 말 하면서 가야겠다, 이런 생각이었다.\n\n또한 비상계엄 선포 직후 떨어졌던 지지율이 ‘4차 대국민 담화’ 이후 회복됐다는 변호인 언급에 “국민들이 제게 공감해줬던 만큼 헌법재판소에서 탄핵이 기각됐으면 방해를 덜 받고 국정운영을 할 수 있지 않았겠나 싶다”고 말했다. 윤 전 대통령은 재판부가 ‘계엄 선포의 실익이 있나’라고 묻자 “제 개인은 더 공격받고 어려울 수 있지만, 십자포화에 맞서 이제는 나도 좀 싸워나가야겠다 싶었다”며 “(야당이) 직업 공무원, 감사원장까지 저렇게 (탄핵) 하는 것을 보니, 사람들이 이 정부를 뭐라 보겠나. 아울러 “장기 독재할 목적으로 계엄을 선포한 것은 아니다”라며 “대통령은 힘든 자리였고, 5년 이상 하면 제 명에 못 살지 싶었다”라며 “험한 말로 ‘미쳤다고 장기로 앉아서 이 짓을 하겠나’ 생각한다”고 주장했다.",
+   "quotes": [
+    "(야당이) 직업 공무원, 감사원장까지 저렇게 (탄핵) 하는 것을 보니, 사람들이 이 정부를 뭐라 보겠나. 나를 십자포화로 말려라, 그런 각오를 했다. 나라 위기라는 비상사태에서 할 수 있는 게 계엄밖에 없는데",
+    "자유 사회를 무너뜨리는 행위는 자유 사회의 방식으로 대응해야지, 공산주의 방식으로 대응한다면 자유를 스스로 무너뜨리는 것",
+    "국민들이 제게 공감해줬던 만큼 헌법재판소에서 탄핵이 기각됐으면 방해를 덜 받고 국정운영을 할 수 있지 않았겠나 싶다"
+   ],
+   "press": "디지털타임스",
+   "photo": "03.png",
+   "quoted": {
+    "quote": "(야당이) 직업 공무원, 감사원장까지 저렇게 (탄핵) 하는 것을 보니, 사람들이 이 정부를 뭐라 보겠나. 나를 십자포화로 말려라, 그런 각오를 했다. 나라 위기라는 비상사태에서 할 수 있는 게 계엄밖에 없는데",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "주간경향",
+      "title": "윤석열 “계엄이 장기독재 목적? 미쳤다고 장기로 앉아 이 짓 하겠나”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HbWg0MjhST2RpZ0JYckxzWnNVNUFEcmxSRFVIYkJQeG1KSmZyNUJwNnhCV2twOUV6WFNLdVp0U0k3YXY1UjNRcW1NRmpvNW1tSy05LWVXUGdjb1ZxMnc?oc=5"
+     },
+     {
+      "press": "문화일보",
+      "title": "[속보]尹 “장기독재하려 계엄? 미쳤다고 힘든 대통령 오래하나”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1NWN5UGdoaHR4R2NSODQ4SDdjWGJtd0huajRiTnZJUDNFeWZKRl9IcUJxX1JtSUdvdUJxMTIwbzBwRVBwVl9kaTkzWWdvYWMx?oc=5"
+     },
+     {
+      "press": "www.dt.co.kr",
+      "title": "[속보] 윤석열 “계엄이 장기독재 목적? 힘든 대통령, 미쳤다고 장기로 하나”",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81ak93WS1NY1NyVUhGMHV2NENpMkRBTW94ZWx5LUQ5VHo2bkdtT21YYXoxdWI4SHB0NzkyMHl1dV9KYnplSHN1dGgwQXF5dw?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "[속보] '강남 마지막 판자촌' 구룡마을 화재…소방당국 진화 중",
+   "source": "강원도민일보",
+   "url": "https://n.news.naver.com/article/654/0000207748",
+   "published_at": "2026-10-27T16:46:11+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "이진숙 \"닥터X 억지 설정\"… '5·18 폄훼' 토론회 이어 또 흠집 내기?",
+   "source": "한국일보",
+   "url": "https://n.news.naver.com/article/469/0000961875",
+   "published_at": "2026-10-27T11:46:14+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "comment_count": 273,
+   "comment_agree": 265,
+   "comment_disagree": 47,
+   "division_balance": 0.301282,
+   "division_score": 1.731228,
+   "selection": "찬반 쟁점",
+   "summary": "이진숙 국민의힘 의원이 5·18 광주민주화운동을 극 중 소재의 하나로 다룬 SBS드라마 '닥터X: 하얀 마피아의 시대'에 대해 \"의학 드라마를 표방해 놓고 정치적…",
+   "summary_long": "\"제작진, 드라마를 정치적 도구로 사용\" SBS 드라마 '닥터X: 하얀 마피아의 시대'에서 외과의사 '계수정' 역할을 맡은 배우 김지원. 이진숙 국민의힘 의원이 5·18 광주민주화운동을 극 중 소재의 하나로 다룬 SBS드라마 '닥터X: 하얀 마피아의 시대'에 대해 \"의학 드라마를 표방해 놓고 정치적 메시지를 앞세워 시청자와의 약속을 저버렸다\"고 비판했다.\n\n그러나 최근 '5·18 폄훼 토론회'를 열어 파문을 일으켰던 이 의원이 오히려 '닥터X 논란'을 핑계 삼아 또다시 정치 공세를 펴고 있다는 반론도 제기된다. 이 의원은 26일 페이스북을 통해 \"SBS 금토드라마 '닥터X'가 6회 이후 '정치 드라마 변질' 논란에 휩싸였다\"며 이같이 주장했다. 이 의원은 \"'닥터X'는 의학 드라마를 표방했고, 시청자는 그 약속을 믿고 TV를 켰다\"며 \"그런데 이야기의 중심은 수술실이 아니라 정치적 구도로 옮겨갔다\"고 해석했다.",
+   "quotes": [
+    "두 전직 대통령의 이름에서 한 글자('두'와 '석')씩 따온 것 아니냐는 의문이 시청자 사이에서 제기되고 있다",
+    "수십 년의 시차와 전혀 다른 성격의 사건을 한 인물에 뒤섞어, 특정 정치 세력에 대한 이미지를 덧씌우는 것",
+    "자연스럽게 나온 전개라기보다 제작진의 메시지를 앞세운 억지 설정이라는 지적이 나오는 이유"
+   ],
+   "press": "한국일보",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "수십 년의 시차와 전혀 다른 성격의 사건을 한 인물에 뒤섞어, 특정 정치 세력에 대한 이미지를 덧씌우는 것",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "한국일보",
+      "title": "이진숙 \"닥터X 억지 설정\"… '5·18 폄훼' 토론회 이어 또 흠집 내기?",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5acjdONW15RWVtdkRyREJHMHZ4YzdSbXltNWNzNWIwbnZpdUxSYWJBTHg0cFRJeGxKcDU0OUV4cVV0eURBWGYzTGY2ZjJqOG40Ti1JWWJSdW05N1BncUZWMTl3YlZBZGJ3NU8tR2JGWVF6enPSAXNBVV95cUxOWnI3TjVteUVlbXZEckRCRzB2eGM3Um15bTVjczViMG52aXVMUmFiQUx4NHBUSXhsSnA1NDlFeHFVdHlEQVhmM0xmNmYyajhuNE4tSVliUnVtOTdQZ3FGVjE5d2JWQWRidzVPLUdiRllRenpz?oc=5"
+     },
+     {
+      "press": "매일경제",
+      "title": "“진영 무기로 삼지 말라”…이진숙, ‘닥터X’ 5·18 소재 비판",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FYzlsamIwN3N5QnpwWTRmYXBBdEplYUJYdXNtVkxaWEZxd3NHVU0xR1BPSEJEb3JCLUVlTVVWWEZSVjMxNW1QbldRcmNEX1p4Ri01cQ?oc=5"
+     },
+     {
+      "press": "이데일리",
+      "title": "\"'닥터X' 지두석이란 이름도\"...'5·18 논란' 이진숙 가세",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0xCRmdvTk1jSVJvRlRlOW14TmVock9UWWNGenhwTmNDeWRndFhmWXBhU1hRUWcxVzQyd1RUUUhjZE1pTTh5YTVCSDRQYjdaRjVveHhURlJLNy03djRmTzQwZHVxWldHaEd5cHMwOTdZSXBzSzBlNU1KUUVhMWVheA?oc=5"
+     },
+     {
+      "press": "폴리뉴스 Polinews",
+      "title": "[이슈] '암살자들' 이어 이번엔 '닥터X' 5·18 논란 확산⋯방영 중단 청원에 정치권 공방까지",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01cUxFd21lUklZZUdRSHRFZnVoWHNCRlpZaDA2UTROOC1YbnA4NTBJZXY2NW1RRVZ4ZkxvX3k0dnVrUV8zUV8tS29hT3JKLWVqM3REZFlUOUdXeEc2anNkWDRDN1NoTVVNUHpCZXR3?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "'김 여사 골프' 공방 확전...\"고장난 스피커\" \"특감해야\"",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002424491",
+   "published_at": "2026-10-27T18:11:06+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 270,
+   "comment_agree": 309,
+   "comment_disagree": 41,
+   "division_balance": 0.234286,
+   "division_score": 1.373098,
+   "selection": "찬반 쟁점",
+   "summary": "민주당은 의혹을 제기한 주진우 의원을 '고장 난 스피커'라고 맹공했고 국민의힘은 이 대통령까지 끌어들여 특별감찰을 요구했습니다. 민주당은 국민의힘 주진우 의원을 '여의도…",
+   "summary_long": "이재명 대통령의 부인 김혜경 여사가 군 골프장을 이용한 걸 놓고, 여야 공방이 확전하는 양상입니다. 민주당은 의혹을 제기한 주진우 의원을 '고장 난 스피커'라고 맹공했고 국민의힘은 이 대통령까지 끌어들여 특별감찰을 요구했습니다. 김혜경 여사 '황제골프' 의혹에서 동반자로 지목된 프로골퍼 리디아고 선수가 직접 자신은 현장에 없었다고 밝혔지만 정치권 난타전은 계속됐습니다.\n\n민주당은 국민의힘 주진우 의원을 '여의도 렉카' '고장 난 스피커'에 빗대며, 낭설을 유포하고 있다고 맹비판했습니다. 여기에 주진우 의원은 김 여사가 대구 천장 붕괴사고 당일 가족 골프를 치면서 열흘 뒤 추가 예약까지 잡았단 사실을 확인했다며, 이 대통령의 '황제골프'는 25차례에 달한단 새 의혹도 제기했습니다. 민주당이 주 의원에 대해 법적 대응에 나서겠다고 거듭 경고했지만 국민의힘 역시 쉽게 물러서지 않을 태세라 여야의 '황제골프 공방'은 당분간 계속될 것으로 보입니다.",
+   "quotes": [
+    "주진우, 허위사실 유포…고장 난 스피커"
+   ],
+   "press": "YTN",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "주진우, 허위사실 유포…고장 난 스피커",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "YTN",
+      "title": "'김 여사 골프' 공방 확전...\"고장난 스피커\" \"특감해야\"",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUM243ZldUQmxQenJ5QnRXWHc0UzZSay1CeS1GUTh6REV3Z25LTkdDLWF5a2hHUk9aaFVkY0ZqSW9sTUR4Qlp4S0lWN0gyS0lnLVlmNTZQRUZFaXZ6NDdCeUYtdUJUS1h6M2dCR3VEYzZERDREbEE?oc=5"
+     },
+     {
+      "press": "Radio Seoul",
+      "title": "'김혜경 여사 골프' 공방 확전...\"민주-고장난 스피커\" \"국힘-특감해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZZnFPc1hCUDdCR3FEYXNaYnZsV3RqdDJqRGpDejBWcENUcHBIV0d6dzZ3d3pwTjZDZ01iTXQxOE9sQVM0QWtoekE3RUZFcXcwTnp3dGx4NXJqQQ?oc=5"
+     },
+     {
+      "press": "MSN(재배포)",
+      "title": "'김 여사 골프' 공방 확전... '고장난 스피커' '특감해야' / YTN",
+      "link": "https://www.msn.com/ko-kr/news/other/%EA%B9%80-%EC%97%AC%EC%82%AC-%EA%B3%A8%ED%94%84-%EA%B3%B5%EB%B0%A9-%ED%99%95%EC%A0%84-%EA%B3%A0%EC%9E%A5%EB%82%9C-%EC%8A%A4%ED%94%BC%EC%BB%A4-%ED%8A%B9%EA%B0%90%ED%95%B4%EC%95%BC-ytn/vi-AA2gaQqS"
+     }
+    ]
+   }
+  },
+  {
+   "title": "리디아 고 “저 아닌데요” 반박에…주진우, 사과 없이 ‘황제 레슨’ 영상 편집",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005754516",
+   "published_at": "2026-10-27T11:14:15+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "comment_count": 685,
+   "comment_agree": 347,
+   "comment_disagree": 34,
+   "division_balance": 0.178478,
+   "division_score": 1.061125,
+   "selection": "찬반 쟁점",
+   "summary": "김혜경 여사가 프로골퍼 리디아 고와 골프를 쳤다는 의혹을 제기한 주진우 국민의힘 의원이 리디아 고의 부인 이후 “일부 오류가 있을 수 있다”며 한발 물러섰다. 앞서 주…",
+   "summary_long": "김혜경 여사가 프로골퍼 리디아 고와 골프를 쳤다는 의혹을 제기한 주진우 국민의힘 의원이 리디아 고의 부인 이후 “일부 오류가 있을 수 있다”며 한발 물러섰다. 앞서 주 의원은 이날 국회 법제사법위원회 종합 국정감사에서 김 여사가 지난 20일 오전 11시5분께 태릉컨트리클럽(CC)에서 리디아 고와 이른바 ‘황제 골프’를 했다고 주장했다. 그러면서 자신의 유튜브 채널과 사회관계망서비스(SNS)에 공개한 영상에 리디아 고의 경기 모습이 담긴 사진을 포함시켰다.\n\n리디아 고의 반박이 알려진 뒤 주 의원은 기존에 공개한 영상에서 리디아 고의 사진이 등장하는 부분을 삭제했다. 다만, 영상 편집 사실을 별도로 공지하거나 리디아 고에게 사과하지는 않은 채 27일 자신의 SNS에 “무엇보다 보좌진 여러분께 수고했다고 말씀드리고 싶다”고 적었다. 한편, 청와대는 전날 이재명 대통령의 배우자 김혜경 여사가 서울 역삼동 화재 발생일 유명 프로골퍼와 골프를 쳤다는 주 의원의 주장을 인용한 보도를 두고 ‘사실에 근거하지 않은 주장 인용’이라며 보도에 신중을 기해달라는 입장을 냈다.",
+   "quotes": [
+    "무엇보다 보좌진 여러분께 수고했다고 말씀드리고 싶다",
+    "핵심은 그게 아니다. 본질을 놓치면 안 된다",
+    "일부 오류가 있을 수 있다"
+   ],
+   "press": "매일경제",
+   "photo": "07.png",
+   "quoted": {
+    "quote": "무엇보다 보좌진 여러분께 수고했다고 말씀드리고 싶다",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
+      "press": "인디포커스",
+      "title": "의혹 검증은 ‘뒷전’, 공천 혜택은 ‘요구’…보수야당 보좌 시스템 도마",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9hVHJVVFZfbUVHd29BTWlHQWhncktGMGpKZDgxSU5jN3lFcnlhS2RqX1NTcXRrOXppcTV0d1dFb0lWM2M?oc=5"
+     },
+     {
+      "press": "매일경제",
+      "title": "리디아 고 “저 아닌데요” 반박에…주진우, 사과 없이 ‘황제 레슨’ 영상 편집",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE56V2FZVUtNNFVEaTRpQjNuSUFwNHNDcUsxYzgwd2dETkJIRG1EUG94T0hqZHBZT1JnSVlDaFp3ZUpoNGwyYXc?oc=5"
+     },
+     {
+      "press": "한겨레",
+      "title": "리디아 고에 사과 거부한 주진우…‘골프 영상’ 슬쩍 편집하고 공지 없어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2aFhyaU1ISzZkTXp3cmM4ODk2NWtYNHc0b2ppaDluLUVrYlFjZGVnYUVIRUpKWmgyWUlKdmVBWEl4UUZCMnY5ZFE3ZUpXdmozUzFRdDc3SHFzcERJVUlsWElZcGRoeS1jUGhjQk55UGNzVlRh?oc=5"
+     },
+     {
+      "press": "위키트리",
+      "title": "주진우, 리디아 고에 사과 안 한다...“물타기 프레임”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QaWxWb0YyVkFpcnNtdTRscUY5a0t1Q1hnTk1PMGktcU1oc0FpV083US03ak1PWWpxc2ZNdzU1V0gxRWVYcVZ4MFVfaWNjM281SmdyZm93?oc=5"
+     },
+     {
+      "press": "재경일보",
+      "title": "주진우, 리디아 고 반박에 오류 인정…영상서 사진 삭제 : 정치",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGS2hjbGVFUjRGQlBTZXhkTHV5X2hxTGt4cjN5YkdCeFFBdEMyM045dXQyRXN2aU1VZlAwQ2EzTkdteFM4RlNPWGpVRQ?oc=5"
+     },
+     {
+      "press": "헤럴드경제",
+      "title": "유해진에 ‘북한상’, 리디아고에 ‘황제레슨’…주진우 사과없이 ‘어물쩍’",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94ODNnVFZseWxnUXk2d2JoaTdsT3RrWF9mcmY3Mkg0aHhFWHFOb3dtaFVVa3NSc0Q4MWpZWlJITXJNZDFMU2RQaWxEUmJwMFFkV0h1emln?oc=5"
      }
     ]
    }
@@ -276,139 +311,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/01.png",
-   "pngBytes": 905723,
-   "feed": "오늘의 뉴스 2026-10-27\n\n· 주진우 \"김혜경 여사, 태릉CC서 '황제레슨'…비용은 누가?\"[영상]\n· 주진우 \"김혜경 여사, 역삼동 화재 당일 프로골퍼와 황제 골프\"\n· 무려 '4억' 뛰었다...강남 아니어도 '20억', 국평 기준 다시 쓴다\n· “샀다가 바로 팔면 100억 정도 벌어요”…슈퍼리치들, 중고 전용기에 줄섰다\n· [단독] '황제골프' 맞나…김혜경 여사 라운딩 때 앞뒤 팀 예정대로 경기\n· 김혜경 여사 골프 의혹 영상에 국감장 발칵…주진우 반발, 서영교 \"상영 불허\"\n· 오세훈 “목소리 내줘 고맙다” 장동혁 “당연한 일”…웃으며 악수"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/01.png",
+   "pngBytes": 1834261,
+   "feed": "오늘의 뉴스 2026-10-28\n\n· [단독] 국방부, 예체능 軍 특례 감축하고  ‘30대 후반 현역 복무’ 추진\n· \"탄핵보다 비열\" \"민주 판결 불복\"…與 주도 '조희대 국정조사'에 野 격앙\n· 윤석열 “계엄이 장기독재 목적? 힘든 대통령, 미쳤다고 장기로 하나”\n· [속보] '강남 마지막 판자촌' 구룡마을 화재…소방당국 진화 중\n· 이진숙 \"닥터X 억지 설정\"… '5·18 폄훼' 토론회 이어 또 흠집 내기?\n· '김 여사 골프' 공방 확전...\"고장난 스피커\" \"특감해야\"\n· 리디아 고 “저 아닌데요” 반박에…주진우, 사과 없이 ‘황제 레슨’ 영상 편집"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/02.png",
-   "pngBytes": 590729,
-   "title": "주진우 \"김혜경 여사, 태릉CC서 '황제레슨'…비용은 누가?\"[영상]",
-   "summary": "",
-   "summary_long": "",
-   "press": "노컷뉴스",
-   "source": "노컷뉴스",
-   "link": "https://n.news.naver.com/article/079/0004202550",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/02.png",
+   "pngBytes": 1865278,
+   "title": "[단독] 국방부, 예체능 軍 특례 감축하고  ‘30대 후반 현역 복무’ 추진",
+   "summary": "국방부가 현역 복무를 면제받는 예술·체육요원의 선발 기준을 대폭 강화하는 대신, 면제 대상이 아닌 다수 예체능인이 병역을 미뤄 30대 후반 무렵에 군 복무를 할 수 있게…",
+   "summary_long": "국방부가 현역 복무를 면제받는 예술·체육요원의 선발 기준을 대폭 강화하는 대신, 면제 대상이 아닌 다수 예체능인이 병역을 미뤄 30대 후반 무렵에 군 복무를 할 수 있게 하는 방안을 추진 중인 것으로 27일 알려졌다. 현재 체육 분야의 경우 올림픽 경기에서 3위 이상의 성적을 거두거나 아시안게임에서 우승하면 예술·체육 요원으로 선발돼 현역 복무가 면제된다. 예술 분야의 경우 지정된 국제 대회에서 2위 이상, 국내 대회에서 1위를 해야 예술·체육 요원으로 뽑힌다.\n\n정부 일각에서는 예술·체육 요원 선발 자체를 바로 중단하는 방안도 검토되고 있는 것으로 전해졌다. 국방부는 이렇게 특례 기준을 높이거나 특례 제도를 폐지하는 대신, 일정 수준 이상 실적을 가진 예체능인들이 선수 생활이나 예술 활동 전성기인 20대에서 30대 초중반까지는 현역 복무를 미룰 수 있게 하는 방안을 유력하게 추진하고 있다. 한 정부 소식통은 “극소수 인원만 예외적으로 현역 복무를 면제하면 ‘형평성 논란’이 계속될 수밖에 없다”며 “모두가 동일한 병역 의무를 수행하되, 다만 예체능 분야라는 특수성과 다양성을 고려해 병역 복무 시기를 배려해주는 방향으로 추진 중”이라고 말했다.",
+   "press": "조선일보",
+   "source": "조선일보",
+   "link": "https://n.news.naver.com/article/023/0004006229",
    "selection": "정치",
-   "feed": "뉴스 01. 주진우 \"김혜경 여사, 태릉CC서 '황제레슨'…비용은 누가?\"[영상]\n\n\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004202550"
+   "feed": "뉴스 01. [단독] 국방부, 예체능 軍 특례 감축하고  ‘30대 후반 현역 복무’ 추진\n\n국방부가 현역 복무를 면제받는 예술·체육요원의 선발 기준을 대폭 강화하는 대신, 면제 대상이 아닌 다수 예체능인이 병역을 미뤄 30대 후반 무렵에 군 복무를 할 수 있게 하는 방안을 추진 중인 것으로 27일 알려졌다. 현재 체육 분야의 경우 올림픽 경기에서 3위 이상의 성적을 거두거나 아시안게임에서 우승하면 예술·체육 요원으로 선발돼 현역 복무가 면제된다. 예술 분야의 경우 지정된 국제 대회에서 2위 이상, 국내 대회에서 1위를 해야 예술·체육 요원으로 뽑힌다.\n\n정부 일각에서는 예술·체육 요원 선발 자체를 바로 중단하는 방안도 검토되고 있는 것으로 전해졌다. 국방부는 이렇게 특례 기준을 높이거나 특례 제도를 폐지하는 대신, 일정 수준 이상 실적을 가진 예체능인들이 선수 생활이나 예술 활동 전성기인 20대에서 30대 초중반까지는 현역 복무를 미룰 수 있게 하는 방안을 유력하게 추진하고 있다. 한 정부 소식통은 “극소수 인원만 예외적으로 현역 복무를 면제하면 ‘형평성 논란’이 계속될 수밖에 없다”며 “모두가 동일한 병역 의무를 수행하되, 다만 예체능 분야라는 특수성과 다양성을 고려해 병역 복무 시기를 배려해주는 방향으로 추진 중”이라고 말했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004006229"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/03.png",
-   "pngBytes": 580972,
-   "title": "주진우 \"김혜경 여사, 역삼동 화재 당일 프로골퍼와 황제 골프\"",
-   "summary": "",
-   "summary_long": "",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/03.png",
+   "pngBytes": 1042888,
+   "title": "\"탄핵보다 비열\" \"민주 판결 불복\"…與 주도 '조희대 국정조사'에 野 격앙",
+   "summary": "더불어민주당이 조희대 대법원장에 대한 국정조사를 당론 추진하기로 결정한 가운데, 국민의힘은 \"사법부를 노예화하는 위헌 국정조사이며 탄핵보다 더 비열하다\" \"오세훈…",
+   "summary_long": "더불어민주당이 조희대 대법원장에 대한 국정조사를 당론 추진하기로 결정한 가운데, 국민의힘은 \"사법부를 노예화하는 위헌 국정조사이며 탄핵보다 더 비열하다\" \"오세훈 서울시장 2심 무죄 판결에 대한 불복이 국정조사로 둔갑됐다\"며 격앙된 반응을 보이고 있다. 민주당은 27일 의원총회를 통해 조 대법원장에 대한 국정조사를 실시하기로 결정했다. 전은수 민주당 원내대변인은 의원총회 후 기자들과 만나 \"조 대법원장 향후 조치와 관련해서 우선 국정조사를 해야 한다는 데에 (의원들) 의견이 모아졌고 국조를 실시하기로 했다\"고 밝혔다.\n\n그는 \"국정조사를 하겠다는 이유와 근거가 무엇이냐\"며 \"조희대 대법원장이 오세훈 시장에게 무죄를 선고했나. 그러면서 \"이미 민주당은 조희대 대법원장을 수차례 국회로 불러 모욕을 줬다\"며 \"이것도 모자라 기어이 아무 명분도 없는 국정조사까지 하겠다고 한다\"고 비판했다. 박충권 수석대변인도 논평을 통해 \"판결 불복이 국정조사로 둔갑, 민주당은 '조희대 죽이기'를 즉각 중단하라\"며 \"민주당이 기어코 선을 넘었다\"고 직격했다.",
    "press": "시사저널",
    "source": "시사저널",
-   "link": "https://n.news.naver.com/article/586/0000140839",
+   "link": "https://n.news.naver.com/article/586/0000140992",
    "selection": "정치",
-   "feed": "뉴스 02. 주진우 \"김혜경 여사, 역삼동 화재 당일 프로골퍼와 황제 골프\"\n\n\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000140839"
+   "feed": "뉴스 02. \"탄핵보다 비열\" \"민주 판결 불복\"…與 주도 '조희대 국정조사'에 野 격앙\n\n더불어민주당이 조희대 대법원장에 대한 국정조사를 당론 추진하기로 결정한 가운데, 국민의힘은 \"사법부를 노예화하는 위헌 국정조사이며 탄핵보다 더 비열하다\" \"오세훈 서울시장 2심 무죄 판결에 대한 불복이 국정조사로 둔갑됐다\"며 격앙된 반응을 보이고 있다. 민주당은 27일 의원총회를 통해 조 대법원장에 대한 국정조사를 실시하기로 결정했다. 전은수 민주당 원내대변인은 의원총회 후 기자들과 만나 \"조 대법원장 향후 조치와 관련해서 우선 국정조사를 해야 한다는 데에 (의원들) 의견이 모아졌고 국조를 실시하기로 했다\"고 밝혔다.\n\n그는 \"국정조사를 하겠다는 이유와 근거가 무엇이냐\"며 \"조희대 대법원장이 오세훈 시장에게 무죄를 선고했나. 그러면서 \"이미 민주당은 조희대 대법원장을 수차례 국회로 불러 모욕을 줬다\"며 \"이것도 모자라 기어이 아무 명분도 없는 국정조사까지 하겠다고 한다\"고 비판했다. 박충권 수석대변인도 논평을 통해 \"판결 불복이 국정조사로 둔갑, 민주당은 '조희대 죽이기'를 즉각 중단하라\"며 \"민주당이 기어코 선을 넘었다\"고 직격했다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000140992"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/04.png",
-   "pngBytes": 920371,
-   "title": "무려 '4억' 뛰었다...강남 아니어도 '20억', 국평 기준 다시 쓴다",
-   "summary": "올해 '국평' 20억원에 진입한 단지/그래픽=윤선정. 올해 처음 국평 20억원 거래가 나온 300가구 이상 단지 10개 중 7개가 비강남권이었다.",
-   "summary_long": "올해 '국평' 20억원에 진입한 단지/그래픽=윤선정. 서울 아파트 '국민평형'으로 불리는 전용 84㎡의 20억원 거래가 비강남권으로 확산한다. 올해 처음 국평 20억원 거래가 나온 300가구 이상 단지 10개 중 7개가 비강남권이었다.\n\n대출·거래 규제에 따른 수요이동과 함께 높아진 분양가와 신축선호가 주변 아파트 가격을 끌어올린다는 분석이다. 신축아파트가 지역대표 단지로 자리잡은 이후 신축에 맞춰 주변 준신축과 기존 아파트의 가격이 상향평준화하는 모습도 나타난다. 윤지해 부동산 평론가는 \"건축비 상승으로 분양가가 높아지면서 신축아파트가 지역 내 가격상승을 주도하고 주변 준신축 가격까지 끌어올리고 있다\"며 \"대출규제에 따른 수요이동뿐 아니라 분양가 상승과 신축선호가 맞물린 영향에 주목해야 한다\"고 말했다.",
-   "press": "머니투데이",
-   "source": "머니투데이",
-   "link": "https://n.news.naver.com/article/008/0005431351",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/04.png",
+   "pngBytes": 1397588,
+   "title": "윤석열 “계엄이 장기독재 목적? 힘든 대통령, 미쳤다고 장기로 하나”",
+   "summary": "윤석열 전 대통령이 27일 “국가 위기 상황에서 할 수 있는 게 비상계엄밖에 없었다”며, 장기 독재할 목적으로 계엄을 선포한 것은 아니라고 극구 부인했다. 아울러 “장기…",
+   "summary_long": "윤석열 전 대통령이 27일 “국가 위기 상황에서 할 수 있는 게 비상계엄밖에 없었다”며, 장기 독재할 목적으로 계엄을 선포한 것은 아니라고 극구 부인했다. 이날 서울고법 형사12-1부(이승철 조진구 김민아 고법판사) 심리로 열린 내란 우두머리 혐의 사건 항소심 공판에서 윤 전 대통령은 피고인 신문을 받으며, 12·3 비상계엄 선포의 정당성을 거듭 주장했다. 윤 전 대통령은 계엄 선포 배경에 관한 변호인단 질의에 “이젠 정말 야당 행태에 대해 정치적으로 할 말 하면서 가야겠다, 이런 생각이었다.\n\n또한 비상계엄 선포 직후 떨어졌던 지지율이 ‘4차 대국민 담화’ 이후 회복됐다는 변호인 언급에 “국민들이 제게 공감해줬던 만큼 헌법재판소에서 탄핵이 기각됐으면 방해를 덜 받고 국정운영을 할 수 있지 않았겠나 싶다”고 말했다. 윤 전 대통령은 재판부가 ‘계엄 선포의 실익이 있나’라고 묻자 “제 개인은 더 공격받고 어려울 수 있지만, 십자포화에 맞서 이제는 나도 좀 싸워나가야겠다 싶었다”며 “(야당이) 직업 공무원, 감사원장까지 저렇게 (탄핵) 하는 것을 보니, 사람들이 이 정부를 뭐라 보겠나. 아울러 “장기 독재할 목적으로 계엄을 선포한 것은 아니다”라며 “대통령은 힘든 자리였고, 5년 이상 하면 제 명에 못 살지 싶었다”라며 “험한 말로 ‘미쳤다고 장기로 앉아서 이 짓을 하겠나’ 생각한다”고 주장했다.",
+   "press": "디지털타임스",
+   "source": "디지털타임스",
+   "link": "https://n.news.naver.com/article/029/0003055639",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 무려 '4억' 뛰었다...강남 아니어도 '20억', 국평 기준 다시 쓴다\n\n올해 '국평' 20억원에 진입한 단지/그래픽=윤선정. 서울 아파트 '국민평형'으로 불리는 전용 84㎡의 20억원 거래가 비강남권으로 확산한다. 올해 처음 국평 20억원 거래가 나온 300가구 이상 단지 10개 중 7개가 비강남권이었다.\n\n대출·거래 규제에 따른 수요이동과 함께 높아진 분양가와 신축선호가 주변 아파트 가격을 끌어올린다는 분석이다. 신축아파트가 지역대표 단지로 자리잡은 이후 신축에 맞춰 주변 준신축과 기존 아파트의 가격이 상향평준화하는 모습도 나타난다. 윤지해 부동산 평론가는 \"건축비 상승으로 분양가가 높아지면서 신축아파트가 지역 내 가격상승을 주도하고 주변 준신축 가격까지 끌어올리고 있다\"며 \"대출규제에 따른 수요이동뿐 아니라 분양가 상승과 신축선호가 맞물린 영향에 주목해야 한다\"고 말했다.\n\n출처: 머니투데이 / https://n.news.naver.com/article/008/0005431351"
+   "feed": "뉴스 03. 윤석열 “계엄이 장기독재 목적? 힘든 대통령, 미쳤다고 장기로 하나”\n\n윤석열 전 대통령이 27일 “국가 위기 상황에서 할 수 있는 게 비상계엄밖에 없었다”며, 장기 독재할 목적으로 계엄을 선포한 것은 아니라고 극구 부인했다. 이날 서울고법 형사12-1부(이승철 조진구 김민아 고법판사) 심리로 열린 내란 우두머리 혐의 사건 항소심 공판에서 윤 전 대통령은 피고인 신문을 받으며, 12·3 비상계엄 선포의 정당성을 거듭 주장했다. 윤 전 대통령은 계엄 선포 배경에 관한 변호인단 질의에 “이젠 정말 야당 행태에 대해 정치적으로 할 말 하면서 가야겠다, 이런 생각이었다.\n\n또한 비상계엄 선포 직후 떨어졌던 지지율이 ‘4차 대국민 담화’ 이후 회복됐다는 변호인 언급에 “국민들이 제게 공감해줬던 만큼 헌법재판소에서 탄핵이 기각됐으면 방해를 덜 받고 국정운영을 할 수 있지 않았겠나 싶다”고 말했다. 윤 전 대통령은 재판부가 ‘계엄 선포의 실익이 있나’라고 묻자 “제 개인은 더 공격받고 어려울 수 있지만, 십자포화에 맞서 이제는 나도 좀 싸워나가야겠다 싶었다”며 “(야당이) 직업 공무원, 감사원장까지 저렇게 (탄핵) 하는 것을 보니, 사람들이 이 정부를 뭐라 보겠나. 아울러 “장기 독재할 목적으로 계엄을 선포한 것은 아니다”라며 “대통령은 힘든 자리였고, 5년 이상 하면 제 명에 못 살지 싶었다”라며 “험한 말로 ‘미쳤다고 장기로 앉아서 이 짓을 하겠나’ 생각한다”고 주장했다.\n\n출처: 디지털타임스 / https://n.news.naver.com/article/029/0003055639"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/05.png",
-   "pngBytes": 2306074,
-   "title": "“샀다가 바로 팔면 100억 정도 벌어요”…슈퍼리치들, 중고 전용기에 줄섰다",
-   "summary": "중고 전용기 가격, 신형 웃돌기도. 전 세계 슈퍼리치 사이에서 개인 전용기 구매 열풍이 불면서 중고 항공기가 신형보다 비싸게 거래되는 기현상이 나타나고 있다.",
-   "summary_long": "전 세계 슈퍼리치 사이에서 개인 전용기 구매 열풍이 불면서 중고 항공기가 신형보다 비싸게 거래되는 기현상이 나타나고 있다. 신형 전용기를 주문하면 인도까지 최대 4년을 기다려야 하는 상황에서 당장 이용할 수 있는 중고 전용기의 몸값이 치솟은 것이다. 25일(현지시간) 영국 일간 더타임스에 따르면 최근 전용기 시장에서는 공급 부족과 수요 급증이 맞물리면서 중고 항공기 가격이 신형을 웃도는 사례가 잇따르고 있다.\n\n항공금융 전문 로펌 애들쇼 고더드의 바버라 판사도로 파트너는 “신형 전용기를 주문하면 인도까지 3~4년이 걸릴 수 있다”며 “기다리기 싫어하는 부유층이 중고 전용기로 몰리고 있다”고 설명했다. 판사도로는 ”이들에게 전용기는 사치품이 아니라 사업을 위한 필수품“이라며 ”자신만의 항공기를 보유하려는 수요가 가격 상승을 이끌고 있다“고 말했다. 플렉스젯의 마이클 실베스트로 CEO는 “과거 부유층은 40대 초반에 전용기를 이용할 경제력이 있어도 50대 중반까지 기다렸지만, 지금은 40대부터 적극적으로 전용기를 이용한다”고 말했다.",
-   "press": "매일경제",
-   "source": "매일경제",
-   "link": "https://n.news.naver.com/article/009/0005753862",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/05.png",
+   "pngBytes": 577920,
+   "title": "[속보] '강남 마지막 판자촌' 구룡마을 화재…소방당국 진화 중",
+   "summary": "",
+   "summary_long": "",
+   "press": "강원도민일보",
+   "source": "강원도민일보",
+   "link": "https://n.news.naver.com/article/654/0000207748",
    "selection": "경제·시사",
-   "feed": "뉴스 04. “샀다가 바로 팔면 100억 정도 벌어요”…슈퍼리치들, 중고 전용기에 줄섰다\n\n전 세계 슈퍼리치 사이에서 개인 전용기 구매 열풍이 불면서 중고 항공기가 신형보다 비싸게 거래되는 기현상이 나타나고 있다. 신형 전용기를 주문하면 인도까지 최대 4년을 기다려야 하는 상황에서 당장 이용할 수 있는 중고 전용기의 몸값이 치솟은 것이다. 25일(현지시간) 영국 일간 더타임스에 따르면 최근 전용기 시장에서는 공급 부족과 수요 급증이 맞물리면서 중고 항공기 가격이 신형을 웃도는 사례가 잇따르고 있다.\n\n항공금융 전문 로펌 애들쇼 고더드의 바버라 판사도로 파트너는 “신형 전용기를 주문하면 인도까지 3~4년이 걸릴 수 있다”며 “기다리기 싫어하는 부유층이 중고 전용기로 몰리고 있다”고 설명했다. 판사도로는 ”이들에게 전용기는 사치품이 아니라 사업을 위한 필수품“이라며 ”자신만의 항공기를 보유하려는 수요가 가격 상승을 이끌고 있다“고 말했다. 플렉스젯의 마이클 실베스트로 CEO는 “과거 부유층은 40대 초반에 전용기를 이용할 경제력이 있어도 50대 중반까지 기다렸지만, 지금은 40대부터 적극적으로 전용기를 이용한다”고 말했다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005753862"
+   "feed": "뉴스 04. [속보] '강남 마지막 판자촌' 구룡마을 화재…소방당국 진화 중\n\n\n\n출처: 강원도민일보 / https://n.news.naver.com/article/654/0000207748"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/06.png",
-   "pngBytes": 1187700,
-   "title": "[단독] '황제골프' 맞나…김혜경 여사 라운딩 때 앞뒤 팀 예정대로 경기",
-   "summary": "국민의힘 주진우 의원은 이재명 대통령의 부인 김혜경 여사가 지난 20일 서울 태릉CC에서 유명 프로골퍼를 대동하고 골프를 쳤다고 주장하며 26일 자신의 SNS를 통해…",
-   "summary_long": "국민의힘 주진우 의원은 이재명 대통령의 부인 김혜경 여사가 지난 20일 서울 태릉CC에서 유명 프로골퍼를 대동하고 골프를 쳤다고 주장하며 26일 자신의 SNS를 통해 영상을 공개했다. 국민의힘 주진우 의원이 김혜경 여사의 '황제 골프' 의혹을 제기한 가운데, 김 여사가 지난 20일 태릉 군 체력단련장(태릉CC)을 이용할 당시 앞뒤 팀은 예정대로 경기를 진행한 것으로 파악됐다. 경기 도중 클럽하우스를 이용했고, 식사는 별도 특혜 없이 클럽하우스 안 룸에서 한 것으로 전해졌다.\n\n앞서 주 의원은 이날 오전 페이스북에 \"태릉CC에서 프로 골퍼로부터 황제 레슨을 받으며 3인 골프를 즐기고, 대통령 전용 황제 클럽하우스도 열었다\"고 적었다. 한편 이날 오후 법사위 국감장에서는 주 의원이 김 여사의 골프 레슨 장면이 담겼다며 공개하려던 영상을 놓고 고성이 오갔다. 김의겸 의원은 주 의원이 리디아 고가 아닌 것으로 드러나자 배포한 영상에서 해당 부분을 급히 삭제했다며 \"원본을 갖고 당과 상의해 강력한 법적인 조치를 취하겠다\"고 말했다.",
-   "press": "노컷뉴스",
-   "source": "노컷뉴스",
-   "link": "https://n.news.naver.com/article/079/0004203093",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/06.png",
+   "pngBytes": 1800954,
+   "title": "이진숙 \"닥터X 억지 설정\"… '5·18 폄훼' 토론회 이어 또 흠집 내기?",
+   "summary": "이진숙 국민의힘 의원이 5·18 광주민주화운동을 극 중 소재의 하나로 다룬 SBS드라마 '닥터X: 하얀 마피아의 시대'에 대해 \"의학 드라마를 표방해 놓고 정치적…",
+   "summary_long": "\"제작진, 드라마를 정치적 도구로 사용\" SBS 드라마 '닥터X: 하얀 마피아의 시대'에서 외과의사 '계수정' 역할을 맡은 배우 김지원. 이진숙 국민의힘 의원이 5·18 광주민주화운동을 극 중 소재의 하나로 다룬 SBS드라마 '닥터X: 하얀 마피아의 시대'에 대해 \"의학 드라마를 표방해 놓고 정치적 메시지를 앞세워 시청자와의 약속을 저버렸다\"고 비판했다.\n\n그러나 최근 '5·18 폄훼 토론회'를 열어 파문을 일으켰던 이 의원이 오히려 '닥터X 논란'을 핑계 삼아 또다시 정치 공세를 펴고 있다는 반론도 제기된다. 이 의원은 26일 페이스북을 통해 \"SBS 금토드라마 '닥터X'가 6회 이후 '정치 드라마 변질' 논란에 휩싸였다\"며 이같이 주장했다. 이 의원은 \"'닥터X'는 의학 드라마를 표방했고, 시청자는 그 약속을 믿고 TV를 켰다\"며 \"그런데 이야기의 중심은 수술실이 아니라 정치적 구도로 옮겨갔다\"고 해석했다.",
+   "press": "한국일보",
+   "source": "한국일보",
+   "link": "https://n.news.naver.com/article/469/0000961875",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. [단독] '황제골프' 맞나…김혜경 여사 라운딩 때 앞뒤 팀 예정대로 경기\n\n국민의힘 주진우 의원은 이재명 대통령의 부인 김혜경 여사가 지난 20일 서울 태릉CC에서 유명 프로골퍼를 대동하고 골프를 쳤다고 주장하며 26일 자신의 SNS를 통해 영상을 공개했다. 국민의힘 주진우 의원이 김혜경 여사의 '황제 골프' 의혹을 제기한 가운데, 김 여사가 지난 20일 태릉 군 체력단련장(태릉CC)을 이용할 당시 앞뒤 팀은 예정대로 경기를 진행한 것으로 파악됐다. 경기 도중 클럽하우스를 이용했고, 식사는 별도 특혜 없이 클럽하우스 안 룸에서 한 것으로 전해졌다.\n\n앞서 주 의원은 이날 오전 페이스북에 \"태릉CC에서 프로 골퍼로부터 황제 레슨을 받으며 3인 골프를 즐기고, 대통령 전용 황제 클럽하우스도 열었다\"고 적었다. 한편 이날 오후 법사위 국감장에서는 주 의원이 김 여사의 골프 레슨 장면이 담겼다며 공개하려던 영상을 놓고 고성이 오갔다. 김의겸 의원은 주 의원이 리디아 고가 아닌 것으로 드러나자 배포한 영상에서 해당 부분을 급히 삭제했다며 \"원본을 갖고 당과 상의해 강력한 법적인 조치를 취하겠다\"고 말했다.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004203093"
+   "feed": "뉴스 05. 이진숙 \"닥터X 억지 설정\"… '5·18 폄훼' 토론회 이어 또 흠집 내기?\n\n\"제작진, 드라마를 정치적 도구로 사용\" SBS 드라마 '닥터X: 하얀 마피아의 시대'에서 외과의사 '계수정' 역할을 맡은 배우 김지원. 이진숙 국민의힘 의원이 5·18 광주민주화운동을 극 중 소재의 하나로 다룬 SBS드라마 '닥터X: 하얀 마피아의 시대'에 대해 \"의학 드라마를 표방해 놓고 정치적 메시지를 앞세워 시청자와의 약속을 저버렸다\"고 비판했다.\n\n그러나 최근 '5·18 폄훼 토론회'를 열어 파문을 일으켰던 이 의원이 오히려 '닥터X 논란'을 핑계 삼아 또다시 정치 공세를 펴고 있다는 반론도 제기된다. 이 의원은 26일 페이스북을 통해 \"SBS 금토드라마 '닥터X'가 6회 이후 '정치 드라마 변질' 논란에 휩싸였다\"며 이같이 주장했다. 이 의원은 \"'닥터X'는 의학 드라마를 표방했고, 시청자는 그 약속을 믿고 TV를 켰다\"며 \"그런데 이야기의 중심은 수술실이 아니라 정치적 구도로 옮겨갔다\"고 해석했다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000961875"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/07.png",
-   "pngBytes": 1955101,
-   "title": "김혜경 여사 골프 의혹 영상에 국감장 발칵…주진우 반발, 서영교 \"상영 불허\"",
-   "summary": "26일 국회 법제사법위원회 국정감사에서 김혜경 여사의 '골프 의혹' 관련 영상 상영을 두고 여야가 충돌했습니다. 서영교 위원장은 \"허위 사실\"이라면서 \"면책특권 뒤에…",
-   "summary_long": "26일 국회 법제사법위원회 국정감사에서 김혜경 여사의 '골프 의혹' 관련 영상 상영을 두고 여야가 충돌했습니다. 서영교 위원장은 \"허위 사실\"이라면서 \"면책특권 뒤에 숨어서 하지 말고 (회의장을) 나가서 공개하라\"며 영상 상영을 불허했습니다. 이어 여야 의원들 사이에 고성이 오가는 등 국정감사가 한때 파행을 빚었습니다.",
-   "press": "노컷뉴스",
-   "source": "노컷뉴스",
-   "link": "https://n.news.naver.com/article/079/0004202877",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/07.png",
+   "pngBytes": 1073473,
+   "title": "'김 여사 골프' 공방 확전...\"고장난 스피커\" \"특감해야\"",
+   "summary": "민주당은 의혹을 제기한 주진우 의원을 '고장 난 스피커'라고 맹공했고 국민의힘은 이 대통령까지 끌어들여 특별감찰을 요구했습니다. 민주당은 국민의힘 주진우 의원을 '여의도…",
+   "summary_long": "이재명 대통령의 부인 김혜경 여사가 군 골프장을 이용한 걸 놓고, 여야 공방이 확전하는 양상입니다. 민주당은 의혹을 제기한 주진우 의원을 '고장 난 스피커'라고 맹공했고 국민의힘은 이 대통령까지 끌어들여 특별감찰을 요구했습니다. 김혜경 여사 '황제골프' 의혹에서 동반자로 지목된 프로골퍼 리디아고 선수가 직접 자신은 현장에 없었다고 밝혔지만 정치권 난타전은 계속됐습니다.\n\n민주당은 국민의힘 주진우 의원을 '여의도 렉카' '고장 난 스피커'에 빗대며, 낭설을 유포하고 있다고 맹비판했습니다. 여기에 주진우 의원은 김 여사가 대구 천장 붕괴사고 당일 가족 골프를 치면서 열흘 뒤 추가 예약까지 잡았단 사실을 확인했다며, 이 대통령의 '황제골프'는 25차례에 달한단 새 의혹도 제기했습니다. 민주당이 주 의원에 대해 법적 대응에 나서겠다고 거듭 경고했지만 국민의힘 역시 쉽게 물러서지 않을 태세라 여야의 '황제골프 공방'은 당분간 계속될 것으로 보입니다.",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002424491",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 김혜경 여사 골프 의혹 영상에 국감장 발칵…주진우 반발, 서영교 \"상영 불허\"\n\n26일 국회 법제사법위원회 국정감사에서 김혜경 여사의 '골프 의혹' 관련 영상 상영을 두고 여야가 충돌했습니다. 서영교 위원장은 \"허위 사실\"이라면서 \"면책특권 뒤에 숨어서 하지 말고 (회의장을) 나가서 공개하라\"며 영상 상영을 불허했습니다. 이어 여야 의원들 사이에 고성이 오가는 등 국정감사가 한때 파행을 빚었습니다.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004202877"
+   "feed": "뉴스 06. '김 여사 골프' 공방 확전...\"고장난 스피커\" \"특감해야\"\n\n이재명 대통령의 부인 김혜경 여사가 군 골프장을 이용한 걸 놓고, 여야 공방이 확전하는 양상입니다. 민주당은 의혹을 제기한 주진우 의원을 '고장 난 스피커'라고 맹공했고 국민의힘은 이 대통령까지 끌어들여 특별감찰을 요구했습니다. 김혜경 여사 '황제골프' 의혹에서 동반자로 지목된 프로골퍼 리디아고 선수가 직접 자신은 현장에 없었다고 밝혔지만 정치권 난타전은 계속됐습니다.\n\n민주당은 국민의힘 주진우 의원을 '여의도 렉카' '고장 난 스피커'에 빗대며, 낭설을 유포하고 있다고 맹비판했습니다. 여기에 주진우 의원은 김 여사가 대구 천장 붕괴사고 당일 가족 골프를 치면서 열흘 뒤 추가 예약까지 잡았단 사실을 확인했다며, 이 대통령의 '황제골프'는 25차례에 달한단 새 의혹도 제기했습니다. 민주당이 주 의원에 대해 법적 대응에 나서겠다고 거듭 경고했지만 국민의힘 역시 쉽게 물러서지 않을 태세라 여야의 '황제골프 공방'은 당분간 계속될 것으로 보입니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002424491"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/08.png",
-   "pngBytes": 2239883,
-   "title": "오세훈 “목소리 내줘 고맙다” 장동혁 “당연한 일”…웃으며 악수",
-   "summary": "장동혁 대표와 정점식 원내대표, 정희용 사무총장과 임이자 정책위의장 등 지도부, 오세훈 서울시장, 나경원·송언석·이진숙 의원 등 국민의힘 주요 인사가 모두 모인 이날…",
-   "summary_long": "영화 ‘암살자(들)’의 후폭풍이 26일 서울 동작구 국립서울현충원에서 진행된 박정희 전 대통령 47주기 추모식까지 이어졌다. 장동혁 대표와 정점식 원내대표, 정희용 사무총장과 임이자 정책위의장 등 지도부, 오세훈 서울시장, 나경원·송언석·이진숙 의원 등 국민의힘 주요 인사가 모두 모인 이날 추모식에선 육영수 여사 피살 사건을 배경으로 한 영화 ‘암살자(들)’이 비판의 대상이 됐다. 나경원 의원은 추도사에서 “북한은 반세기 동안 이 비극의 책임을 부인하고 왜곡해왔고, 최근 우리 사회 안에서도 육 여사 피살 사건을 음모론으로 오염시키려는 시도가 있었다”며 “왜 저들은 그리도 박정희 대통령님을 깎아내리려 할까.\n\n정점식 원내대표는 추모식 직전 국회에서 열린 국민의힘 최고위원회의에서 “좌파들의 무분별한 왜곡과 영화 한 편, 저급한 선동으로 위대한 역사를 감출 수 없다”고 직격했다. 오 시장은 “오늘(26일) 각별히 박정희 정신과 함께 그 역사적 책임을 다시 한번 마음에 새긴다”며 “대한민국이 더 부강해지는 만큼 국민의 삶의 질도 나아지도록 소임을 다하겠다”고 했다. 참석자들에 따르면 헌화 이후 오 시장은 장 대표에게 “상고를 포기해야 한다는 목소리를 내줘서 고맙다”고 했고, 장 대표는 “당에서 당연히 해야 할 일”이라고 화답했다고 한다.",
-   "press": "중앙일보",
-   "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003560533",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/08.png",
+   "pngBytes": 1761429,
+   "title": "리디아 고 “저 아닌데요” 반박에…주진우, 사과 없이 ‘황제 레슨’ 영상 편집",
+   "summary": "김혜경 여사가 프로골퍼 리디아 고와 골프를 쳤다는 의혹을 제기한 주진우 국민의힘 의원이 리디아 고의 부인 이후 “일부 오류가 있을 수 있다”며 한발 물러섰다. 앞서 주…",
+   "summary_long": "김혜경 여사가 프로골퍼 리디아 고와 골프를 쳤다는 의혹을 제기한 주진우 국민의힘 의원이 리디아 고의 부인 이후 “일부 오류가 있을 수 있다”며 한발 물러섰다. 앞서 주 의원은 이날 국회 법제사법위원회 종합 국정감사에서 김 여사가 지난 20일 오전 11시5분께 태릉컨트리클럽(CC)에서 리디아 고와 이른바 ‘황제 골프’를 했다고 주장했다. 그러면서 자신의 유튜브 채널과 사회관계망서비스(SNS)에 공개한 영상에 리디아 고의 경기 모습이 담긴 사진을 포함시켰다.\n\n리디아 고의 반박이 알려진 뒤 주 의원은 기존에 공개한 영상에서 리디아 고의 사진이 등장하는 부분을 삭제했다. 다만, 영상 편집 사실을 별도로 공지하거나 리디아 고에게 사과하지는 않은 채 27일 자신의 SNS에 “무엇보다 보좌진 여러분께 수고했다고 말씀드리고 싶다”고 적었다. 한편, 청와대는 전날 이재명 대통령의 배우자 김혜경 여사가 서울 역삼동 화재 발생일 유명 프로골퍼와 골프를 쳤다는 주 의원의 주장을 인용한 보도를 두고 ‘사실에 근거하지 않은 주장 인용’이라며 보도에 신중을 기해달라는 입장을 냈다.",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005754516",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 오세훈 “목소리 내줘 고맙다” 장동혁 “당연한 일”…웃으며 악수\n\n영화 ‘암살자(들)’의 후폭풍이 26일 서울 동작구 국립서울현충원에서 진행된 박정희 전 대통령 47주기 추모식까지 이어졌다. 장동혁 대표와 정점식 원내대표, 정희용 사무총장과 임이자 정책위의장 등 지도부, 오세훈 서울시장, 나경원·송언석·이진숙 의원 등 국민의힘 주요 인사가 모두 모인 이날 추모식에선 육영수 여사 피살 사건을 배경으로 한 영화 ‘암살자(들)’이 비판의 대상이 됐다. 나경원 의원은 추도사에서 “북한은 반세기 동안 이 비극의 책임을 부인하고 왜곡해왔고, 최근 우리 사회 안에서도 육 여사 피살 사건을 음모론으로 오염시키려는 시도가 있었다”며 “왜 저들은 그리도 박정희 대통령님을 깎아내리려 할까.\n\n정점식 원내대표는 추모식 직전 국회에서 열린 국민의힘 최고위원회의에서 “좌파들의 무분별한 왜곡과 영화 한 편, 저급한 선동으로 위대한 역사를 감출 수 없다”고 직격했다. 오 시장은 “오늘(26일) 각별히 박정희 정신과 함께 그 역사적 책임을 다시 한번 마음에 새긴다”며 “대한민국이 더 부강해지는 만큼 국민의 삶의 질도 나아지도록 소임을 다하겠다”고 했다. 참석자들에 따르면 헌화 이후 오 시장은 장 대표에게 “상고를 포기해야 한다는 목소리를 내줘서 고맙다”고 했고, 장 대표는 “당에서 당연히 해야 할 일”이라고 화답했다고 한다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003560533"
+   "feed": "뉴스 07. 리디아 고 “저 아닌데요” 반박에…주진우, 사과 없이 ‘황제 레슨’ 영상 편집\n\n김혜경 여사가 프로골퍼 리디아 고와 골프를 쳤다는 의혹을 제기한 주진우 국민의힘 의원이 리디아 고의 부인 이후 “일부 오류가 있을 수 있다”며 한발 물러섰다. 앞서 주 의원은 이날 국회 법제사법위원회 종합 국정감사에서 김 여사가 지난 20일 오전 11시5분께 태릉컨트리클럽(CC)에서 리디아 고와 이른바 ‘황제 골프’를 했다고 주장했다. 그러면서 자신의 유튜브 채널과 사회관계망서비스(SNS)에 공개한 영상에 리디아 고의 경기 모습이 담긴 사진을 포함시켰다.\n\n리디아 고의 반박이 알려진 뒤 주 의원은 기존에 공개한 영상에서 리디아 고의 사진이 등장하는 부분을 삭제했다. 다만, 영상 편집 사실을 별도로 공지하거나 리디아 고에게 사과하지는 않은 채 27일 자신의 SNS에 “무엇보다 보좌진 여러분께 수고했다고 말씀드리고 싶다”고 적었다. 한편, 청와대는 전날 이재명 대통령의 배우자 김혜경 여사가 서울 역삼동 화재 발생일 유명 프로골퍼와 골프를 쳤다는 주 의원의 주장을 인용한 보도를 두고 ‘사실에 근거하지 않은 주장 인용’이라며 보도에 신중을 기해달라는 입장을 냈다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005754516"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-27/09.png",
-   "pngBytes": 1345913
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-28/09.png",
+   "pngBytes": 1346171
   }
  ],
- "caption": "📰 10월 27일 오늘의 뉴스\n\n1. 주진우 \"김혜경 여사, 태릉CC서 '황제레슨'…비용은 누가?\"[영상]\n2. 주진우 \"김혜경 여사, 역삼동 화재 당일 프로골퍼와 황제 골프\"\n3. 무려 '4억' 뛰었다...강남 아니어도 '20억', 국평 기준 다시 쓴다\n   올해 '국평' 20억원에 진입한 단지/그래픽=윤선정. 올해 처음 국평 20억원 거래가 나온 300가구 이상 단지 10개 중 7개가 비강남권이었다.\n4. “샀다가 바로 팔면 100억 정도 벌어요”…슈퍼리치들, 중고 전용기에 줄섰다\n   중고 전용기 가격, 신형 웃돌기도. 전 세계 슈퍼리치 사이에서 개인 전용기 구매 열풍이 불면서 중고 항공기가 신형보다 비싸게 거래되는 기현상이 나타나고 있다.\n5. [단독] '황제골프' 맞나…김혜경 여사 라운딩 때 앞뒤 팀 예정대로 경기\n   국민의힘 주진우 의원은 이재명 대통령의 부인 김혜경 여사가 지난 20일 서울 태릉CC에서 유명 프로골퍼를 대동하고 골프를 쳤다고 주장하며 26일 자신의 SNS를 통해…\n6. 김혜경 여사 골프 의혹 영상에 국감장 발칵…주진우 반발, 서영교 \"상영 불허\"\n   26일 국회 법제사법위원회 국정감사에서 김혜경 여사의 '골프 의혹' 관련 영상 상영을 두고 여야가 충돌했습니다. 서영교 위원장은 \"허위 사실\"이라면서 \"면책특권 뒤에…\n7. 오세훈 “목소리 내줘 고맙다” 장동혁 “당연한 일”…웃으며 악수\n   장동혁 대표와 정점식 원내대표, 정희용 사무총장과 임이자 정책위의장 등 지도부, 오세훈 서울시장, 나경원·송언석·이진숙 의원 등 국민의힘 주요 인사가 모두 모인 이날…\n\n🗣 “태릉CC에서 프로 골퍼로부터 황제 레슨을 받으며 3인 골프를 즐기고, 대통령 전용 황제 클럽하우스도 열었다”\n이 발언을 그대로 실은 보도 10건 · 주간조선 · 뉴데일리 · 연합뉴스 · 에브리뉴스 EveryNews\n· 주간조선 — 영부인과 골프 쳤다던 리디아 고 “그날 다른 행사”…주진우 주장 반박\n· 뉴데일리 — 김혜경 여사, 프로골퍼 대동 軍골프장 사용 의혹 … 주진우 \"황제 골프, 정권 끝날 것\"\n· 연합뉴스 — 주진우 \"金여사, 역삼 화재 당일 유명 프로골퍼 대동해 골프\"\n· 에브리뉴스 EveryNews — 주진우 \"김혜경 여사, 20일 태릉CC서 유명 프로골퍼 '황제 레슨' 의혹\"\n· 조세일보 — 주진우 \"김혜경 여사, 골프 황제레슨\" vs 與 \"소설 멈추고 근거 내놔라\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼\n\n출처: 노컷뉴스, 매일경제, 머니투데이, 시사저널, 중앙일보"
+ "caption": "📰 10월 28일 오늘의 뉴스\n\n1. [단독] 국방부, 예체능 軍 특례 감축하고  ‘30대 후반 현역 복무’ 추진\n   국방부가 현역 복무를 면제받는 예술·체육요원의 선발 기준을 대폭 강화하는 대신, 면제 대상이 아닌 다수 예체능인이 병역을 미뤄 30대 후반 무렵에 군 복무를 할 수 있게…\n2. \"탄핵보다 비열\" \"민주 판결 불복\"…與 주도 '조희대 국정조사'에 野 격앙\n   더불어민주당이 조희대 대법원장에 대한 국정조사를 당론 추진하기로 결정한 가운데, 국민의힘은 \"사법부를 노예화하는 위헌 국정조사이며 탄핵보다 더 비열하다\" \"오세훈…\n3. 윤석열 “계엄이 장기독재 목적? 힘든 대통령, 미쳤다고 장기로 하나”\n   윤석열 전 대통령이 27일 “국가 위기 상황에서 할 수 있는 게 비상계엄밖에 없었다”며, 장기 독재할 목적으로 계엄을 선포한 것은 아니라고 극구 부인했다. 아울러 “장기…\n4. [속보] '강남 마지막 판자촌' 구룡마을 화재…소방당국 진화 중\n5. 이진숙 \"닥터X 억지 설정\"… '5·18 폄훼' 토론회 이어 또 흠집 내기?\n   이진숙 국민의힘 의원이 5·18 광주민주화운동을 극 중 소재의 하나로 다룬 SBS드라마 '닥터X: 하얀 마피아의 시대'에 대해 \"의학 드라마를 표방해 놓고 정치적…\n6. '김 여사 골프' 공방 확전...\"고장난 스피커\" \"특감해야\"\n   민주당은 의혹을 제기한 주진우 의원을 '고장 난 스피커'라고 맹공했고 국민의힘은 이 대통령까지 끌어들여 특별감찰을 요구했습니다. 민주당은 국민의힘 주진우 의원을 '여의도…\n7. 리디아 고 “저 아닌데요” 반박에…주진우, 사과 없이 ‘황제 레슨’ 영상 편집\n   김혜경 여사가 프로골퍼 리디아 고와 골프를 쳤다는 의혹을 제기한 주진우 국민의힘 의원이 리디아 고의 부인 이후 “일부 오류가 있을 수 있다”며 한발 물러섰다. 앞서 주…\n\n🗣 “이재명 대통령의 공직선거법 위반 사건 유죄 파기환송에 대한 유치한 보복이고, 대통령 부부와 최측근의 재판 재개를 막기 위한 치졸한 겁박”\n이 발언을 그대로 실은 보도 6건 · 시사저널 · 중앙일보 · 연합인포맥스 · 전자신문\n· 시사저널 — “탄핵보다 비열” “민주 판결 불복”…與 주도 ‘조희대 국정조사’에 野 격앙\n· 중앙일보 — 野, 조희대 국정조사에 “민주당의 판결 불복”…“묻지마 폭행·깡패짓”\n· 연합인포맥스 — 정점식, 與 '조희대 국조'에 \"이재명·민주당 탄핵 사유…李재판 암장이 목적\" |\n· 전자신문 — 정점식, 與 조희대 국조 추진에 “노골적 사법부 탄압…모든 수단 동원해 맞설 것”\n· 머니투데이 — 정점식 \"조희대 국정조사는 사법부 탄압…모든 수단 총동원해 싸울 것\" - 머니투데이\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: YTN, 강원도민일보, 디지털타임스, 매일경제, 시사저널, 조선일보, 한국일보"
 }
