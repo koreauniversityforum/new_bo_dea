@@ -1,190 +1,224 @@
 {
- "date": "2026-10-29",
- "generated_at": "2026-10-29T11:01:26+09:00",
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30T11:17:27+09:00",
  "mode": "daily",
- "window_start": "2026-10-28T00:00:00+09:00",
- "window_end": "2026-10-28T23:59:59+09:00",
+ "window_start": "2026-10-29T00:00:00+09:00",
+ "window_end": "2026-10-29T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "민주 지지율 31.5% 최저... 국힘 처음으로 40% 돌파",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004006398",
-   "published_at": "2026-10-28T11:06:13+09:00",
+   "title": "주진우 또 헛발질? \"대통령 부부, 그때 아들 부부와 골프 안 쳤다\"",
+   "source": "오마이뉴스",
+   "url": "https://n.news.naver.com/article/047/0002533983",
+   "published_at": "2026-10-29T18:31:12+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "이재명 대통령이 기초·광역단체장과 국회의원을 지낸 경기·인천 지역에서도 민주당이 국민의힘에 두 자릿수 격차로 밀렸다. 직전 조사 결과인 10월 3주차에 비해 민주당은…",
-   "summary_long": "더불어민주당 지지도가 국민의힘에 비해 10%포인트 가까이 뒤처지는 것으로 28일 나타났다. 특히 이재명 대통령이 기초·광역단체장과 국회의원을 지낸 경기·인천 지역에서도 민주당이 국민의힘에 두 자릿수 격차로 밀렸다. 이날 한국사회여론연구소(KSOI)가 공개한 정당 지지도 여론조사 결과에 따르면 민주당은 31.5%, 국민의힘은 40.5%였다.\n\n직전 조사 결과인 10월 3주차에 비해 민주당은 3.4%포인트 하락했고 국민의힘은 3.4%포인트 상승했다. 양당 지지도 격차는 9.0%포인트로 지난 조사(2.2%포인트) 때보다 6.8%포인트 더 벌어졌다. 부동산 민심이 크게 작용하는 서울에선 30.4% 대 39.2%로 민주당이 열세였고, 경기·인천에선 32.4% 대 43.0%로 두 자릿수 격차(10.6%포인트)가 현실화했다.",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "이하늘 “호의인 척 짜증나”…李대통령 ‘유시민 처벌불원’에 발끈",
+   "source": "중앙일보",
+   "url": "https://n.news.naver.com/article/025/0003561316",
+   "published_at": "2026-10-29T01:15:49+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "selection": "정치",
+   "summary": "가수 이하늘이 유시민 작가의 명예훼손 고발 사건에 대한 이재명 대통령의 처벌불원 의사를 두고 \"애초에 처벌받을 일이냐\"고 비판했다. 가수 이하늘이 이재명 대통령의…",
+   "summary_long": "가수 이하늘이 유시민 작가의 명예훼손 고발 사건에 대한 이재명 대통령의 처벌불원 의사를 두고 \"애초에 처벌받을 일이냐\"고 비판했다. 이어 “‘처벌을 원하지 않는다’ 이게 말이 되나”라며 “그걸 되게 호의인 것 마냥 뭔가 베풀어주는 것처럼 하는 것도 보고 있으면 짜증이 난다”고 말했다. 이 대통령의 처벌불원 의사를 유 작가에 대한 관대한 조치로 받아들이는 일부 반응을 비판한 것이다.\n\n이후 유 작가 곁으로 돌아온 이하늘은 “채팅방을 보면 알겠지만 우리를 응원해 주고 좋아해 주는 사람들이 더 많다”고 말했다. 앞서 유 작가는 지난달 22일 유튜브 방송에서 이 대통령이 추진하는 검찰개혁 방향을 비판하며 “대통령이 지금까지 국민을 속인 것”이라고 주장했다. 그러나 이 대통령이 유 작가에 대한 처벌을 원하지 않는다는 뜻을 밝혔고, 청와대는 지난 23일 관련 서면을 경찰에 전달했다.",
    "quotes": [
-    "국무회의 공개와 중수청장 배석, 대통령의 인공지능(AI) 답변 인용을 둘러싼 공방이 중도층 지지를 넓히는 데 부담으로 작용했을 가능성이 있다",
-    "현안들에 대해 김민석 민주당 대표를 비롯한 지도부의 갈등 조정과 위기관리 능력에 대한 우려가 기존 지지층의 결집력을 떨어뜨렸다",
-    "대미 관계에서의 선명한 입장과 중대범죄수사청장 등 일부 인사의 불확실성 해소가 지지 기반 회복에 영향을 미친 것으로 보인다"
+    "그걸 되게 호의인 것 마냥 뭔가 베풀어주는 것처럼 하는 것도 보고 있으면 짜증이 난다",
+    "채팅방을 보면 알겠지만 우리를 응원해 주고 좋아해 주는 사람들이 더 많다",
+    "‘처벌을 원하지 않는다’ 이게 말이 되나"
    ],
-   "press": "조선일보",
-   "photo": "01.png",
+   "press": "중앙일보",
+   "photo": "02.jpg",
    "quoted": {
-    "quote": "국무회의 공개와 중수청장 배석, 대통령의 인공지능(AI) 답변 인용을 둘러싼 공방이 중도층 지지를 넓히는 데 부담으로 작용했을 가능성이 있다",
+    "quote": "그걸 되게 호의인 것 마냥 뭔가 베풀어주는 것처럼 하는 것도 보고 있으면 짜증이 난다",
     "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "조선일보",
-      "title": "민주 지지율 31.5% 최저... 국힘 처음으로 40% 돌파",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVW5WVklxTUFqWlhQQzZzbTNQN0FPOEU1Wjk1V0pUR09PUVIxTDNwVHQ5SkFKcUc3VHdjajlsbVhRdmg1OC03Q3ZKZUY5ZkhjYjF5N2p6YlRkcWtEVkw0NDZ1ckFBR2pKYzB5V25tUkp6eUNCVjZwYVFFTUp0LTRYOHpraDcwekFQd1FtQnAwUjc?oc=5"
+      "press": "미주중앙일보",
+      "title": "이하늘 “호의인 척 짜증나”…李대통령 ‘유시민 처벌불원’에 발끈",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rblJ0UkJldW93aXk5NGd4LUhQVHpxc1Rja1dJSWlBNVhoU0VCUzM2UVdPaVVLVTZ3TGRKWktDZG1zQ1lFOHlvb3BqNll2SnNvZW1nLUFma283VEFUcnlfUlVB?oc=5"
      },
      {
-      "press": "한국경제",
-      "title": "與野 지지율 격차 '최대치'…민주당 31.5%·국민의힘 40.5%",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHOUtSWnJRZ3htSF90SVVINTRqMlJXUUM5U2FvbzY0VmdJWmNROW5CbHgwdExDOG5FLVp2ZHQ0ODh1c3JoWGtVdXlza3Y2NjA0eHkwNWxBVG5iZw?oc=5"
+      "press": "펜앤마이크",
+      "title": "유시민 옆에서 밥 먹은 이하늘, 李 '유시민 처벌불원'에 \"호의인 것처럼...짜증 난다\" 불쾌감 표출",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oSmQ2NmttcFVKdDV3TFVVRmRkWlJLWDJGbFZpWVAweEpMQWZhM2tYaFpoOXU0SjV0Zkp5bXdnNDRHSjlVRzBIeE5lM3dTa1ZTLUk4VlFFZXlsbWVKWDFKRzM3MzY0SVJmQUF30gFvQVVfeXFMT2xZMnQxZy1TcFBwOWpRUWdKaXctMjJ0Q0ZxQTlyakZpeEI4N21YWkd0R0o1OXl3ZEN3aHg1S1VfZ1dES0JkWEJPbjh2NEo5Tm0zTzVqYndXOHljdHRTbktCSUFOUHZEbDI1SUJIRTlj?oc=5"
      },
      {
-      "press": "서울일보",
-      "title": "국힘 40.5%·민주 31.5%…여야 지지율 격차 현 정부 출범 후 ‘최대’",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRSC1GWVFkNFRNVDRjN2ZFWWdHd2xZc05qYmJkdlJaSXNUMGlpMldpNF9WS0JOdXFmRkNDaXVDNXMxbm1nQTJycW1YYV9XTnNBWWNwek0wZnZwendXTGZWS29MbU40MmJZWWFOUWY1VdIBb0FVX3lxTFBRSC1GWVFkNFRNVDRjN2ZFWWdHd2xZc05qYmJkdlJaSXNUMGlpMldpNF9WS0JOdXFmRkNDaXVDNXMxbm1nQTJycW1YYV9XTnNBWWNwek0wZnZwendXTGZWS29MbU40MmJZWWFOUWY1VQ?oc=5"
+      "press": "한국사회복지저널",
+      "title": "이하늘, 유시민 불송치에 “애초에 처벌받을 일이냐”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sa054NWh6TFN3eF9hNndzYnplMTdTOEVxYXFGVkpUY1dvU29va2ZVWmxFZUtLblVOOTlSZzhCaURlYm1FNVFBdDBScGE2OG5kd2xwMllNTy1wbUprUlpwa3RNMGRlZzBDMW1z?oc=5"
      }
     ]
    }
   },
   {
-   "title": "공개사과 거부한 주진우 “사석에서 리디아 고 만나면 사과 가능”",
-   "source": "한겨레",
-   "url": "https://n.news.naver.com/article/028/0002829522",
-   "published_at": "2026-10-28T10:44:10+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "selection": "정치",
-   "summary": "주진우 국민의힘 의원과 프로골퍼 리디아 고. 김혜경 여사가 프로골퍼 리디아 고를 대동하고 골프를 쳤다는 의혹을 제기했던 주진우 국민의힘 의원이 해당 의혹을 반박한 리디아…",
-   "summary_long": "김혜경 여사가 프로골퍼 리디아 고를 대동하고 골프를 쳤다는 의혹을 제기했던 주진우 국민의힘 의원이 해당 의혹을 반박한 리디아 고를 “사석에서 만나면 사과할 수 있다”고 말했다. 주 의원은 27일 오후 자신의 유튜브 채널 라이브 방송에서 “프로골퍼를 대동하거나 레슨하는, ‘황제 골프’처럼 보여지는 장면이 불편하다고 문제제기를 한 것인데 논점을 비틀어 가지고 프로골퍼한테 사과하라는 식”이라며 “뭐 사석에서 (리디아 고를) 만나거나 하면 얼마든지 사과할 수 있다”고 말했다. 주 의원은 “근데 내가 왜 (사과를) 안 하느냐, 그건 좌파들 프레임이기 때문”이라고 했다.\n\n앞서 주 의원은 26일 국회 법제사법위원회 종합 국정감사에서 “20일 오전 11시5분께 태릉컨트리클럽(CC)에서 김 여사가 리디아 고와 ‘황제 골프’를 했다”고 주장했다. 리디아 고를 잘못 언급한 것을 “일부 오류”(26일 유튜브 라이브 방송)라고 표현하며 사과하지 않은 주 의원은 27일 오전 기자회견 뒤 ‘리디아 고에게 사과할 의향이 있나’라는 기자들 질문에도 “‘사과하라’는 (더불어)민주당 프레임은 이걸 물타기 위한 프레임에 불과하다”며 사과를 거부했다. 경기 사진까지 영상에 붙였다”며 “올림픽 금은동을 모두 목에 걸고 평생 이름 하나 걸고 살아온 리디아 고의 이름이 (주 의원 때문에) 영부인에게 특혜를 건넨 사람으로 국회 회의록에 남았다”고 지적했다.",
-   "quotes": [
-    "리디아 고는 모 재벌기업 회장의 며느리인데 (정부의) 현안이 많이 달려 있는 집안의 사람이 (김 여사에게) 공짜로 레슨을 해줬다고 그러면 김영란법이나 알선수재의 법리적 문제가 생길 수 있는 것 아니냐",
-    "올림픽 금은동을 모두 목에 걸고 평생 이름 하나 걸고 살아온 리디아 고의 이름이 (주 의원 때문에) 영부인에게 특혜를 건넨 사람으로 국회 회의록에 남았다",
-    "(26일 유튜브 라이브 방송)라고 표현하며 사과하지 않은 주 의원은 27일 오전 기자회견 뒤 ‘리디아 고에게 사과할 의향이 있나’라는 기자들 질문에도"
-   ],
-   "press": "한겨레",
-   "photo": "02.jpg",
-   "quoted": {
-    "quote": "리디아 고는 모 재벌기업 회장의 며느리인데 (정부의) 현안이 많이 달려 있는 집안의 사람이 (김 여사에게) 공짜로 레슨을 해줬다고 그러면 김영란법이나 알선수재의 법리적 문제가 생길 수 있는 것 아니냐",
-    "n": 4,
-    "verified": 0,
-    "items": [
-     {
-      "press": "경향신문",
-      "title": "주진우 “리디아 고, 뭐 사석에선 사과 가능…사과 안하는 건 좌파 프레임 때문”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KdTdsalVNZ2ZkSl91ME1qR29BWk15cE5hS2d2Ty0tZmlyckVkSURBNjNZNmdfallmWmJ2ejA0UG9hZ09LcjA1ZUFlcE1mWGhLYzJEZ3V5YTZ0UdIBX0FVX3lxTFBtaktncU40MUNZd3VSbkRUM0dmN0VBbjVKUmJubDBkRS1ZakhQUERmV3lHU2dOMUN5ZUgxWGRmZ0dEVFFiS29WN2otT3VBNXV2c21uTVdhRmttUVV4WG5B?oc=5"
-     },
-     {
-      "press": "한겨레",
-      "title": "공개사과 거부한 주진우 “사석에서 리디아 고 만나면 사과 가능”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DbmVOSXhZOHp4NkhCWTBVQU5DVnA3a1IxNFRXZVUtc3k1N1EzbnhpMTN6aXNRZ2k4RVEybC1rbHNIR1BSSlJMOGEyWWVMWkdFOWExVFlMZTVVODdIbTR5cmJHTWJDR0E2U05DU1hDdEp1dlhX?oc=5"
-     },
-     {
-      "press": "파이낸셜뉴스",
-      "title": "주진우 \"리디아 고, 사석에서 만나면 사과 가능\"...與 \"딱 '타진요' 수준\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45OGtZLXRzYzBVV05jRmhUQ1RSLTExako1UldKMHlBYTJsdElwSTdsUEhuNlpQUWJMVlFvcU82SnQtSVNMQlRxbFdFa0dPV05PRFhNOEIxWVBrZw?oc=5"
-     },
-     {
-      "press": "파이낸셜뉴스",
-      "title": "\"사석에서 만나면 사과할 수 있다\"…주진우, 리디아 고 공개 사과 거부",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAydjNUcks2ZUxUSFAtUWF0ZE1tU0J5WkRzYVp3S0lEUmljdGJ5VkpabTRXRTgtWmRwSU5ZUlBhdkg1VGpORnR5eHVzOWlEdFdoa3NhYXE2dzRVdw?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "\"죽은 것 같아요\"…반지하 숨진 여성 '충격의 홈캠'",
-   "source": "SBS",
-   "url": "https://n.news.naver.com/article/055/0001398682",
-   "published_at": "2026-10-28T08:48:24+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "“지금은 집 안 사는게 이득입니다”…월세 살면 매달 120만원씩 아낀다는 미국",
-   "source": "매일경제",
-   "url": "https://n.news.naver.com/article/009/0005755098",
-   "published_at": "2026-10-28T10:09:07+09:00",
+   "title": "애플, 20년 금기 깼다…'터치 맥북'에 韓 디스플레이 들썩",
+   "source": "비즈워치",
+   "url": "https://n.news.naver.com/article/648/0000052049",
+   "published_at": "2026-10-29T08:08:16+09:00",
    "section_id": "101",
    "view_rank": 1,
    "selection": "경제·시사",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "\"리디아 고, 사석 만나면 사과\"...민주, 주진우 고발",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002425084",
-   "published_at": "2026-10-28T18:26:10+09:00",
-   "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 184,
-   "comment_agree": 130,
-   "comment_disagree": 22,
-   "division_balance": 0.289474,
-   "division_score": 1.456179,
-   "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "이 대통령 \"자기만 개혁주체인 양 동지 공격‥무책임한 극단주의\"",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001531868",
-   "published_at": "2026-10-28T09:04:10+09:00",
-   "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 857,
-   "comment_agree": 254,
-   "comment_disagree": 35,
-   "division_balance": 0.242215,
-   "division_score": 1.373328,
-   "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "병장이 150만원 받는데 하사 213만원…“누가 부사관 하겠습니까?”",
-   "source": "매일경제",
-   "url": "https://n.news.naver.com/article/009/0005755131",
-   "published_at": "2026-10-28T10:46:08+09:00",
-   "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 444,
-   "comment_agree": 247,
-   "comment_disagree": 19,
-   "division_balance": 0.142857,
-   "division_score": 0.798178,
-   "selection": "찬반 쟁점",
-   "summary": "초급간부 감소분 87.2%가 ‘하사’. 자료를 살펴보면 같은 기간 하사·소위·중위를 합친 초급간부 운영병력은 6만3600여 명에서 4만5600여 명으로 1만8000여 명…",
-   "summary_long": "초급간부 감소분 87.2%가 ‘하사’. 하사 계급장.군의 허리를 지탱해 온 초급간부인 ‘하사’들이 지난 4년간 3분의 1 이상 줄어들었다는 통계가 나왔다. 28일 국회 국방위원회 소속 민홍철 더불어민주당 의원이 국방부로부터 제출받은 자료에 따르면, 하사의 연평균 운영병력(임기제부사관 포함)은 2021년 4만3000여 명에서 2025년 2만7300여 명으로 1만5700여 명(36.5%) 감소했다.\n\n자료를 살펴보면 같은 기간 하사·소위·중위를 합친 초급간부 운영병력은 6만3600여 명에서 4만5600여 명으로 1만8000여 명(28.3%) 줄었다. 병장 대비 하사 기본급 2.8배에서 1.4배로군 안팎에서는 이러한 초급간부 구인난이 급격한 병사 월급 인상의 여파라는 지적이 나온다. 그 결과 5년 전 병장의 2.8배였던 하사 기본급은 2026년 1.4배 수준으로 좁혀졌다.",
+   "summary": "애플이 스마트폰과 태블릿에 이어 노트북까지 OLED 채택을 확대하면서 삼성디스플레이 등 국내 패널 업체들의 수혜 기대감도 커지고 있다. 애플은 28일 미국…",
+   "summary_long": "/사진= qwe123@애플이 20년간 고수해 온 노트북 설계 원칙을 깨고 터치스크린을 탑재한 맥북 프로를 처음 선보였다. 애플이 스마트폰과 태블릿에 이어 노트북까지 OLED 채택을 확대하면서 삼성디스플레이 등 국내 패널 업체들의 수혜 기대감도 커지고 있다. 애플은 28일(현지시간) 미국 로스앤젤레스에서 신제품 발표회를 열고 OLED 터치스크린을 탑재한 14인치와 16인치 맥북 프로를 공개했다.\n\n삼성디스플레이는 신형 맥북 프로용 OLED 패널의 초도 물량을 전량 공급하는 것으로 알려졌다. 올해 3분기 삼성디스플레이의 노트북용 OLED 시장 점유율은 87.7%에 달한다. 애플이 터치스크린과 OLED를 앞세워 소비자의 교체 수요를 얼마나 끌어내느냐가 국내 패널 업체들의 실적에도 영향을 미칠 것으로 보인다.",
    "quotes": [
-    "청년들이 부사관을 매력적인 직업으로 선택할 수 있도록 보수와 근무 여건, 장기복무 기회를 아우르는 실질적인 대책을 마련해야 한다",
-    "당직과 초과근무 수당을 포함한 보수 총액만 강조할 것이 아니라, 초급간부의 책임과 업무 강도에 걸맞게 기본급을 현실화해야 한다",
-    "군의 허리인 부사관을 충분히 확보하지 못하는 상황이 이어지면 현장 지휘력과 전투준비태세에도 차질이 생길 수 있다"
+    "사상 처음으로 맥에 터치 기능을 도입한다",
+    "맥의 입력 방식을 바꿀 이유가 없다"
    ],
-   "press": "매일경제",
-   "photo": "07.png",
+   "press": "비즈워치",
+   "photo": "03.jpg",
    "quoted": {
-    "quote": "청년들이 부사관을 매력적인 직업으로 선택할 수 있도록 보수와 근무 여건, 장기복무 기회를 아우르는 실질적인 대책을 마련해야 한다",
+    "quote": "사상 처음으로 맥에 터치 기능을 도입한다",
     "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "문화일보",
-      "title": "“허리 부러진 軍, 弱軍 체질화”… 하사 4년 새 1만5700명 줄어, 부사관 충원율 61%",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BQmlDNHNHMGlUbFRIcHZsVFJUWVZsSDdOZDFqa2ZOeV9tOVNBejBONVhrUGl4eld0Nk9OUGljWlpwaHMxSU9DUVF6b3lKN1g4?oc=5"
+      "press": "비즈워치",
+      "title": "애플, 20년 금기 깼다…'터치 맥북'에 韓 디스플레이 들썩",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWVVEa1A4c1ZqUUFpM1FwZEQxTXQ0UENqdDU5RzV2Q19PZVkyLVhhOXJ5enY0N2RIaDVhNzVuU2JVeHBhbkdCRWFfZDhVUU9ydzdwTWs3VFJ6UkRYbXJqZEt2am9UZ2lLbW5oTg?oc=5"
      },
      {
-      "press": "쿠키뉴스",
-      "title": "“병장 월급은 뛰는데 하사는 사라진다”…군 허리 무너지는 초급간부 인력난",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4aVR1a29rdUZaWFVTRGxMSTE1Y0tjaUVWbHhYOVhuODlQNGpuOXZvM3d2dGJxdkM4NUk0cTV4cFdQUjFvNENpUnRlNGNzXzZuUEVYWFBhSGt3X2l5eXdHTGdQOA?oc=5"
+      "press": "블로터",
+      "title": "애플, 첫 터치스크린 맥북 공개…하드웨어 전략 변화 신호",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DQzRFMEp3S1kzMnM0Y0p3ZzQ5cGVrZE5KUFo0TnZKeXVxeW5sVDVfM1R4Tk5EbDVRMmU5cmJCSWNHLWdOZ1ZfdzM0UjZ2TjRNSGpteFptajJkTWhXVGpaX2xuTERaZ1ZDWEVFa9IBbEFVX3lxTE1DQzRFMEp3S1kzMnM0Y0p3ZzQ5cGVrZE5KUFo0TnZKeXVxeW5sVDVfM1R4Tk5EbDVRMmU5cmJCSWNHLWdOZ1ZfdzM0UjZ2TjRNSGpteFptajJkTWhXVGpaX2xuTERaZ1ZDWEVFaw?oc=5"
      },
      {
-      "press": "부산파이낸셜뉴스",
-      "title": "\"병장이 150만원 받는데, 하사 월급 213만원?\"...27% 올렸지만 초급간부 인력난",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPZ0ptdnhUaHI3WkowZlFhbGh6SUFlWURKVjJLLUdhZVc1T3BtNnFOcURSWkRITU9HNm9PWkEteWNudkZkeE03Wi1YNHRlRzBxMnk0RzBCUUN4cmJq?oc=5"
+      "press": "뉴시스",
+      "title": "애플, 터치스크린 맥북 첫 출시…수십 년 고수한 원칙 깼다",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YWUl1U1h5VW9sT1FaVnVIemRLeHJSNjBHbzlrUzJGX0JadVU2UFFibTBlbUIzbFV4S0RNV001eWpzRElWZ3hoTGQzVWtRcllGYTVfS0dzUEZ3bEZiamZ4VdIBeEFVX3lxTE1DakNieTFpcVk5T0dNaUtSY2JaV1BWVVNycG9rZ01IQU9Cb2taT0NwVjVTd0JrUjIzaDd1ZUg3QllldEI3T2tKTzU4MUo3cVpYZFRqVnlRcjVNU3k0QjVDR2ZVUG9fZDhGcTI1NG1abEsyVVN5Vl8zYg?oc=5"
      }
     ]
    }
+  },
+  {
+   "title": "[단독] 국악계 또 성폭력… 남들 보는 데서 버젓이, 학교 선배의 강제추행",
+   "source": "한국일보",
+   "url": "https://n.news.naver.com/article/469/0000962293",
+   "published_at": "2026-10-29T04:30:29+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "피해자는 스승과 얽힌 일인 데다 향후 진로에 미칠 영향을 우려해 신고를 망설이다가, 가해자의 직장 동료가 성범죄 피해를 입었다는 사실을 알게 된 뒤 신고를 결심했다.…",
+   "summary_long": "피해자는 스승과 얽힌 일인 데다 향후 진로에 미칠 영향을 우려해 신고를 망설이다가, 가해자의 직장 동료가 성범죄 피해를 입었다는 사실을 알게 된 뒤 신고를 결심했다. B씨가 국립대에 진학한 뒤에도 A씨가 해당 대학 강사로 출강하면서 B씨는 A씨의 수업을 듣고 평가를 받았다. B씨는 \"A씨와 국악계에서 사제 관계와 선후배 관계로 얽혀 있어 문제를 제기했을 때 향후 활동에 미칠 부정적 영향을 우려했다\"고 설명했다.\n\nB씨는 A씨에게 피해를 봤다는 직장 동료가 있다는 사실을 알게 된 뒤, 1월 3일 A씨를 경찰에 신고했다. 국립국악관현악단 관계자는 \"A씨와 직장 동료는 분리 조치한 상태이며, 피해자 B씨 사건에 대한 A씨의 검찰 처분 내용을 확인해 징계 절차를 진행할 방침\"이라고 밝혔다. A씨는 사실 확인과 입장을 묻는 한국일보 질의에 \"두 사건 당시 만취 상태라서 기억이 나지 않지만, 내가 했던 행동을 알게 된 뒤 사과하고 용서를 구했다\"며 \"피해자에게 불편과 상처를 드린 점에 대해 진심으로 반성하고 있다\"고 답했다.",
+   "quotes": [
+    "A씨와 직장 동료는 분리 조치한 상태이며, 피해자 B씨 사건에 대한 A씨의 검찰 처분 내용을 확인해 징계 절차를 진행할 방침",
+    "A씨와 국악계에서 사제 관계와 선후배 관계로 얽혀 있어 문제를 제기했을 때 향후 활동에 미칠 부정적 영향을 우려했다",
+    "두 사건 당시 만취 상태라서 기억이 나지 않지만, 내가 했던 행동을 알게 된 뒤 사과하고 용서를 구했다"
+   ],
+   "press": "한국일보",
+   "photo": "04.png",
+   "quoted": {
+    "quote": "두 사건 당시 만취 상태라서 기억이 나지 않지만, 내가 했던 행동을 알게 된 뒤 사과하고 용서를 구했다",
+    "n": 2,
+    "verified": 0,
+    "items": [
+     {
+      "press": "한국일보",
+      "title": "국악계 또 성폭력… 남들 보는 데서 버젓이, 학교 선배의 강제추행",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiZUQwSEFUZzdBVGgzc2hBdXlSWndOTEFpT29NRzE0YjMtcmthSVpGQ2tzaVk1eGtSZGw1Ny1DMkRkN1ZjcVhmTVdCal9rNnJTRUFRQ0JhV0ZxRklHZGxDbnZiaWhnY2liZ0RFNkNn0gFzQVVfeXFMTW41YXczOGVnWXhJS21MZFl0aWR3THA2Y2xJSmQ3TG1qY3liQzlINVZxV3d5T1F1S3Q2MkJQUG9CLXk1T3FGQ0Z6UzdQdS15blB3MG0zSHJWZjkwRXgzR3RxTUlHdG95UXJQUnVYNGt1cXotQQ?oc=5"
+     },
+     {
+      "press": "네이트",
+      "title": "쓰다듬고 입 맞추고…학생들 보는 앞서 벌어진 '스승의 강제추행'",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fSnZzb1FjX3JSVnBNLS00VkdOdFQ5eU5WRnIydnlvMmdlM3U4VHhWemw2UU82Mi1tQW02bDBYR2xFTVhITncwbDhWRTAxeDhLTElF?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "올공 투표지 반출…밤샘 농성 장동혁 \"이제 다시 시작\"",
+   "source": "아시아경제",
+   "url": "https://n.news.naver.com/article/277/0005835223",
+   "published_at": "2026-10-29T11:35:00+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "comment_count": 174,
+   "comment_agree": 136,
+   "comment_disagree": 43,
+   "division_balance": 0.480447,
+   "division_score": 2.49494,
+   "selection": "찬반 쟁점",
+   "summary": "장동혁 대표는 \"증거가 사라졌다\"며 \"이제 다시 시작\"이라고 했다. 장 대표는 이날 서울 송파구 올림픽공원 핸드볼경기장에서 \"검증과정에서 수많은 부정, 선거의 증거가…",
+   "summary_long": "국민의힘이 29일 제9회 전국동시지방선거 '투표용지 부족사태' 투표함 검증과정에 재차 문제를 제기하고 나섰다. 장동혁 대표는 \"증거가 사라졌다\"며 \"이제 다시 시작\"이라고 했다. 장 대표는 이날 서울 송파구 올림픽공원 핸드볼경기장에서 \"검증과정에서 수많은 부정, 선거의 증거가 쏟아져 나왔고, 선거관리위원회와 특별검사팀이 가져간 투표함에는 또 다른 부정선거의 증거가 남아있다.\n\n장 대표, 김민수 최고위원 등 국민의힘 일부 참관인은 반출에 앞서 밤새 이송 저지 농성을 벌였다. 이진숙 의원은 특검 측이 국민의힘·시민 대표의 투표함 이송 동행을 전제로 한 약속을 '안전한 반출'을 보장하지 않았다는 이유로 파기했다면서 \"수천 명의 시민이 모였는데 100% (안전한 반출) 보장이 있을 수 있나\"라고 했다. 박성민 전 민주당 최고위원은 이날 'CBS 박성태의 뉴스쇼'에 출연해 \"(올공 사태는) 장 대표의 동아줄인데 끊어지려고 하니 줄을 다시 짜는 것\"이라며 \"결과와 무관하게 종결할 생각이 없을 것\"이라고 했다.",
+   "quotes": [
+    "검증과정에서 수많은 부정, 선거의 증거가 쏟아져 나왔고, 선거관리위원회와 특별검사팀이 가져간 투표함에는 또 다른 부정선거의 증거가 남아있다. 국민의 한 표를 살려낼 증거가 사라진 것",
+    "제기된 문제는 특검이 과학수사로 확인할 것이다. 이제는 장 대표가 마무리하는 게 맞다",
+    "수천 명의 시민이 모였는데 100% (안전한 반출) 보장이 있을 수 있나"
+   ],
+   "press": "아시아경제",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "검증과정에서 수많은 부정, 선거의 증거가 쏟아져 나왔고, 선거관리위원회와 특별검사팀이 가져간 투표함에는 또 다른 부정선거의 증거가 남아있다. 국민의 한 표를 살려낼 증거가 사라진 것",
+    "n": 9,
+    "verified": 0,
+    "items": [
+     {
+      "press": "아시아경제",
+      "title": "올공 투표지 반출…밤샘 농성 장동혁 \"이제 다시 시작\"",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaFZfbHR4YVpzYjQzYVM3MVhhOWJBeHJkRWFsSkU1aUJlMjYtY2hVYmw1QzBmYjR0VnozQUpnWVI5OGJPR2pPalRod1VoQjlCdzRocHdkQnJaOWF5WFR3bFdGUUxCcXNGc3ZhbkZnT1pMT3JOYnJPcGQzU3dudzZ2M2VB?oc=5"
+     },
+     {
+      "press": "YTN",
+      "title": "\"전부 수개표\" vs \"야반도주하듯\"...부정선거 의혹 제기 여전 [이슈톺]",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RU3FXRVQ2X1k1cVkwdTloeU8zYmMtX2cyVG1UV3RabDZuc1lYU0ZmTUVRaTdBdWxza2hJcGduRzVWVHJMS3ZWWk9YbXRTSFRqMnQ3eElCdTZKaXRyOEE?oc=5"
+     },
+     {
+      "press": "MBC 뉴스",
+      "title": "검증 마친 투표지 '반출'‥국민의힘, 강력 항의",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZ2g5dl9kYVpHV3BEWGRSd1JrejJMeWthOEUwZ1JBOENsc2Z4T1luWlBjSTByTUh2X1ZjRHQwUmtkbjJvZG9qbFJtMEt0RTVaamJKNDd0eTRBQVdSSWxRd25ZZ2t5eTU0dmw0VXNtQjRldUdWemcxSNIBeEFVX3lxTE5mZ2g5dl9kYVpHV3BEWGRSd1JrejJMeWthOEUwZ1JBOENsc2Z4T1luWlBjSTByTUh2X1ZjRHQwUmtkbjJvZG9qbFJtMEt0RTVaamJKNDd0eTRBQVdSSWxRd25ZZ2t5eTU0dmw0VXNtQjRldUdWemcxSA?oc=5"
+     },
+     {
+      "press": "자유일보",
+      "title": "\"피의자가 검증\" \"계표 오류\" \"벽돌 투표지\"...또 불붙은 부정선거 의혹",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBscXVjZE02akVtampXVGRIcDZoRGtEUnpTaVZfUnRKclQ4RVA4bUVoQ0JrUkdsQnhyXzAyaTRVRjV4OHRib2c5ZXBFNXZaTmpBR1psX3JWMk1wY1FoTW9jYmR3LUQ3VVZFN1RZ?oc=5"
+     },
+     {
+      "press": "프레시안",
+      "title": "'올공' 투표지 검증 지켜본 장동혁, 이송 막더니 \"부정선거\" 주장",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LQktLODUyckphZ0NfTW9fSEEzTFFra0FCQ2FmaVB3SjZKZF9RNmRUdEdQaGxoTG9ldUF0NUZyckhRYURySEZGRnJxWnRTZFNoS0kzT1lEaW5MZk50aFpqZzBZMG5fclBxMWYw?oc=5"
+     },
+     {
+      "press": "채널A",
+      "title": "[김종석의 샷]“특검이 도적질“ 국민의힘 반발",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MOVFHT1FEZ1dIVTVOLVhMdms1YURyRE5jLUkya1A3U3BYSkVNRjB2eFhJYTRoZlZPVmN2eFdJZDlUM2hKaklvX1lObjRnUjY2SmlmZ1B4X01DQzZTaFU3NG5CMNIBY0FVX3lxTE9MOVFHT1FEZ1dIVTVOLVhMdms1YURyRE5jLUkya1A3U3BYSkVNRjB2eFhJYTRoZlZPVmN2eFdJZDlUM2hKaklvX1lObjRnUjY2SmlmZ1B4X01DQzZTaFU3NG5CMA?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "윤석열 내란우두머리 항소심 사형구형 \"전두환 용서한 무원칙이 내란 자초\"",
+   "source": "미디어오늘",
+   "url": "https://n.news.naver.com/article/006/0000138466",
+   "published_at": "2026-10-29T13:46:12+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "comment_count": 242,
+   "comment_agree": 321,
+   "comment_disagree": 82,
+   "division_balance": 0.406948,
+   "division_score": 2.442263,
+   "selection": "찬반 쟁점",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "유시민 \"李 진영해체, 김민석 민티07 진영박살\"에 김민석 소극 반응?",
+   "source": "미디어오늘",
+   "url": "https://n.news.naver.com/article/006/0000138465",
+   "published_at": "2026-10-29T11:28:15+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 126,
+   "comment_agree": 138,
+   "comment_disagree": 34,
+   "division_balance": 0.395349,
+   "division_score": 2.037348,
+   "selection": "찬반 쟁점",
+   "prep_error": "The read operation timed out"
   }
  ],
  "cards": [
@@ -193,139 +227,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/01.png",
-   "pngBytes": 539098,
-   "feed": "오늘의 뉴스 2026-10-29\n\n· 민주 지지율 31.5% 최저... 국힘 처음으로 40% 돌파\n· 공개사과 거부한 주진우 “사석에서 리디아 고 만나면 사과 가능”\n· \"죽은 것 같아요\"…반지하 숨진 여성 '충격의 홈캠'\n· “지금은 집 안 사는게 이득입니다”…월세 살면 매달 120만원씩 아낀다는 미국\n· \"리디아 고, 사석 만나면 사과\"...민주, 주진우 고발\n· 이 대통령 \"자기만 개혁주체인 양 동지 공격‥무책임한 극단주의\"\n· 병장이 150만원 받는데 하사 213만원…“누가 부사관 하겠습니까?”"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/01.png",
+   "pngBytes": 1480130,
+   "feed": "오늘의 뉴스 2026-10-30\n\n· 주진우 또 헛발질? \"대통령 부부, 그때 아들 부부와 골프 안 쳤다\"\n· 이하늘 “호의인 척 짜증나”…李대통령 ‘유시민 처벌불원’에 발끈\n· 애플, 20년 금기 깼다…'터치 맥북'에 韓 디스플레이 들썩\n· [단독] 국악계 또 성폭력… 남들 보는 데서 버젓이, 학교 선배의 강제추행\n· 올공 투표지 반출…밤샘 농성 장동혁 \"이제 다시 시작\"\n· 윤석열 내란우두머리 항소심 사형구형 \"전두환 용서한 무원칙이 내란 자초\"\n· 유시민 \"李 진영해체, 김민석 민티07 진영박살\"에 김민석 소극 반응?"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/02.png",
-   "pngBytes": 594928,
-   "title": "민주 지지율 31.5% 최저... 국힘 처음으로 40% 돌파",
-   "summary": "이재명 대통령이 기초·광역단체장과 국회의원을 지낸 경기·인천 지역에서도 민주당이 국민의힘에 두 자릿수 격차로 밀렸다. 직전 조사 결과인 10월 3주차에 비해 민주당은…",
-   "summary_long": "더불어민주당 지지도가 국민의힘에 비해 10%포인트 가까이 뒤처지는 것으로 28일 나타났다. 특히 이재명 대통령이 기초·광역단체장과 국회의원을 지낸 경기·인천 지역에서도 민주당이 국민의힘에 두 자릿수 격차로 밀렸다. 이날 한국사회여론연구소(KSOI)가 공개한 정당 지지도 여론조사 결과에 따르면 민주당은 31.5%, 국민의힘은 40.5%였다.\n\n직전 조사 결과인 10월 3주차에 비해 민주당은 3.4%포인트 하락했고 국민의힘은 3.4%포인트 상승했다. 양당 지지도 격차는 9.0%포인트로 지난 조사(2.2%포인트) 때보다 6.8%포인트 더 벌어졌다. 부동산 민심이 크게 작용하는 서울에선 30.4% 대 39.2%로 민주당이 열세였고, 경기·인천에선 32.4% 대 43.0%로 두 자릿수 격차(10.6%포인트)가 현실화했다.",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004006398",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/02.png",
+   "pngBytes": 579544,
+   "title": "주진우 또 헛발질? \"대통령 부부, 그때 아들 부부와 골프 안 쳤다\"",
+   "summary": "",
+   "summary_long": "",
+   "press": "오마이뉴스",
+   "source": "오마이뉴스",
+   "link": "https://n.news.naver.com/article/047/0002533983",
    "selection": "정치",
-   "feed": "뉴스 01. 민주 지지율 31.5% 최저... 국힘 처음으로 40% 돌파\n\n더불어민주당 지지도가 국민의힘에 비해 10%포인트 가까이 뒤처지는 것으로 28일 나타났다. 특히 이재명 대통령이 기초·광역단체장과 국회의원을 지낸 경기·인천 지역에서도 민주당이 국민의힘에 두 자릿수 격차로 밀렸다. 이날 한국사회여론연구소(KSOI)가 공개한 정당 지지도 여론조사 결과에 따르면 민주당은 31.5%, 국민의힘은 40.5%였다.\n\n직전 조사 결과인 10월 3주차에 비해 민주당은 3.4%포인트 하락했고 국민의힘은 3.4%포인트 상승했다. 양당 지지도 격차는 9.0%포인트로 지난 조사(2.2%포인트) 때보다 6.8%포인트 더 벌어졌다. 부동산 민심이 크게 작용하는 서울에선 30.4% 대 39.2%로 민주당이 열세였고, 경기·인천에선 32.4% 대 43.0%로 두 자릿수 격차(10.6%포인트)가 현실화했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004006398"
+   "feed": "뉴스 01. 주진우 또 헛발질? \"대통령 부부, 그때 아들 부부와 골프 안 쳤다\"\n\n\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002533983"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/03.png",
-   "pngBytes": 1482724,
-   "title": "공개사과 거부한 주진우 “사석에서 리디아 고 만나면 사과 가능”",
-   "summary": "주진우 국민의힘 의원과 프로골퍼 리디아 고. 김혜경 여사가 프로골퍼 리디아 고를 대동하고 골프를 쳤다는 의혹을 제기했던 주진우 국민의힘 의원이 해당 의혹을 반박한 리디아…",
-   "summary_long": "김혜경 여사가 프로골퍼 리디아 고를 대동하고 골프를 쳤다는 의혹을 제기했던 주진우 국민의힘 의원이 해당 의혹을 반박한 리디아 고를 “사석에서 만나면 사과할 수 있다”고 말했다. 주 의원은 27일 오후 자신의 유튜브 채널 라이브 방송에서 “프로골퍼를 대동하거나 레슨하는, ‘황제 골프’처럼 보여지는 장면이 불편하다고 문제제기를 한 것인데 논점을 비틀어 가지고 프로골퍼한테 사과하라는 식”이라며 “뭐 사석에서 (리디아 고를) 만나거나 하면 얼마든지 사과할 수 있다”고 말했다. 주 의원은 “근데 내가 왜 (사과를) 안 하느냐, 그건 좌파들 프레임이기 때문”이라고 했다.\n\n앞서 주 의원은 26일 국회 법제사법위원회 종합 국정감사에서 “20일 오전 11시5분께 태릉컨트리클럽(CC)에서 김 여사가 리디아 고와 ‘황제 골프’를 했다”고 주장했다. 리디아 고를 잘못 언급한 것을 “일부 오류”(26일 유튜브 라이브 방송)라고 표현하며 사과하지 않은 주 의원은 27일 오전 기자회견 뒤 ‘리디아 고에게 사과할 의향이 있나’라는 기자들 질문에도 “‘사과하라’는 (더불어)민주당 프레임은 이걸 물타기 위한 프레임에 불과하다”며 사과를 거부했다. 경기 사진까지 영상에 붙였다”며 “올림픽 금은동을 모두 목에 걸고 평생 이름 하나 걸고 살아온 리디아 고의 이름이 (주 의원 때문에) 영부인에게 특혜를 건넨 사람으로 국회 회의록에 남았다”고 지적했다.",
-   "press": "한겨레",
-   "source": "한겨레",
-   "link": "https://n.news.naver.com/article/028/0002829522",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/03.png",
+   "pngBytes": 1518363,
+   "title": "이하늘 “호의인 척 짜증나”…李대통령 ‘유시민 처벌불원’에 발끈",
+   "summary": "가수 이하늘이 유시민 작가의 명예훼손 고발 사건에 대한 이재명 대통령의 처벌불원 의사를 두고 \"애초에 처벌받을 일이냐\"고 비판했다. 가수 이하늘이 이재명 대통령의…",
+   "summary_long": "가수 이하늘이 유시민 작가의 명예훼손 고발 사건에 대한 이재명 대통령의 처벌불원 의사를 두고 \"애초에 처벌받을 일이냐\"고 비판했다. 이어 “‘처벌을 원하지 않는다’ 이게 말이 되나”라며 “그걸 되게 호의인 것 마냥 뭔가 베풀어주는 것처럼 하는 것도 보고 있으면 짜증이 난다”고 말했다. 이 대통령의 처벌불원 의사를 유 작가에 대한 관대한 조치로 받아들이는 일부 반응을 비판한 것이다.\n\n이후 유 작가 곁으로 돌아온 이하늘은 “채팅방을 보면 알겠지만 우리를 응원해 주고 좋아해 주는 사람들이 더 많다”고 말했다. 앞서 유 작가는 지난달 22일 유튜브 방송에서 이 대통령이 추진하는 검찰개혁 방향을 비판하며 “대통령이 지금까지 국민을 속인 것”이라고 주장했다. 그러나 이 대통령이 유 작가에 대한 처벌을 원하지 않는다는 뜻을 밝혔고, 청와대는 지난 23일 관련 서면을 경찰에 전달했다.",
+   "press": "중앙일보",
+   "source": "중앙일보",
+   "link": "https://n.news.naver.com/article/025/0003561316",
    "selection": "정치",
-   "feed": "뉴스 02. 공개사과 거부한 주진우 “사석에서 리디아 고 만나면 사과 가능”\n\n김혜경 여사가 프로골퍼 리디아 고를 대동하고 골프를 쳤다는 의혹을 제기했던 주진우 국민의힘 의원이 해당 의혹을 반박한 리디아 고를 “사석에서 만나면 사과할 수 있다”고 말했다. 주 의원은 27일 오후 자신의 유튜브 채널 라이브 방송에서 “프로골퍼를 대동하거나 레슨하는, ‘황제 골프’처럼 보여지는 장면이 불편하다고 문제제기를 한 것인데 논점을 비틀어 가지고 프로골퍼한테 사과하라는 식”이라며 “뭐 사석에서 (리디아 고를) 만나거나 하면 얼마든지 사과할 수 있다”고 말했다. 주 의원은 “근데 내가 왜 (사과를) 안 하느냐, 그건 좌파들 프레임이기 때문”이라고 했다.\n\n앞서 주 의원은 26일 국회 법제사법위원회 종합 국정감사에서 “20일 오전 11시5분께 태릉컨트리클럽(CC)에서 김 여사가 리디아 고와 ‘황제 골프’를 했다”고 주장했다. 리디아 고를 잘못 언급한 것을 “일부 오류”(26일 유튜브 라이브 방송)라고 표현하며 사과하지 않은 주 의원은 27일 오전 기자회견 뒤 ‘리디아 고에게 사과할 의향이 있나’라는 기자들 질문에도 “‘사과하라’는 (더불어)민주당 프레임은 이걸 물타기 위한 프레임에 불과하다”며 사과를 거부했다. 경기 사진까지 영상에 붙였다”며 “올림픽 금은동을 모두 목에 걸고 평생 이름 하나 걸고 살아온 리디아 고의 이름이 (주 의원 때문에) 영부인에게 특혜를 건넨 사람으로 국회 회의록에 남았다”고 지적했다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002829522"
+   "feed": "뉴스 02. 이하늘 “호의인 척 짜증나”…李대통령 ‘유시민 처벌불원’에 발끈\n\n가수 이하늘이 유시민 작가의 명예훼손 고발 사건에 대한 이재명 대통령의 처벌불원 의사를 두고 \"애초에 처벌받을 일이냐\"고 비판했다. 이어 “‘처벌을 원하지 않는다’ 이게 말이 되나”라며 “그걸 되게 호의인 것 마냥 뭔가 베풀어주는 것처럼 하는 것도 보고 있으면 짜증이 난다”고 말했다. 이 대통령의 처벌불원 의사를 유 작가에 대한 관대한 조치로 받아들이는 일부 반응을 비판한 것이다.\n\n이후 유 작가 곁으로 돌아온 이하늘은 “채팅방을 보면 알겠지만 우리를 응원해 주고 좋아해 주는 사람들이 더 많다”고 말했다. 앞서 유 작가는 지난달 22일 유튜브 방송에서 이 대통령이 추진하는 검찰개혁 방향을 비판하며 “대통령이 지금까지 국민을 속인 것”이라고 주장했다. 그러나 이 대통령이 유 작가에 대한 처벌을 원하지 않는다는 뜻을 밝혔고, 청와대는 지난 23일 관련 서면을 경찰에 전달했다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003561316"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/04.png",
-   "pngBytes": 563705,
-   "title": "\"죽은 것 같아요\"…반지하 숨진 여성 '충격의 홈캠'",
-   "summary": "",
-   "summary_long": "",
-   "press": "SBS",
-   "source": "SBS",
-   "link": "https://n.news.naver.com/article/055/0001398682",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/04.png",
+   "pngBytes": 1034194,
+   "title": "애플, 20년 금기 깼다…'터치 맥북'에 韓 디스플레이 들썩",
+   "summary": "애플이 스마트폰과 태블릿에 이어 노트북까지 OLED 채택을 확대하면서 삼성디스플레이 등 국내 패널 업체들의 수혜 기대감도 커지고 있다. 애플은 28일 미국…",
+   "summary_long": "/사진= qwe123@애플이 20년간 고수해 온 노트북 설계 원칙을 깨고 터치스크린을 탑재한 맥북 프로를 처음 선보였다. 애플이 스마트폰과 태블릿에 이어 노트북까지 OLED 채택을 확대하면서 삼성디스플레이 등 국내 패널 업체들의 수혜 기대감도 커지고 있다. 애플은 28일(현지시간) 미국 로스앤젤레스에서 신제품 발표회를 열고 OLED 터치스크린을 탑재한 14인치와 16인치 맥북 프로를 공개했다.\n\n삼성디스플레이는 신형 맥북 프로용 OLED 패널의 초도 물량을 전량 공급하는 것으로 알려졌다. 올해 3분기 삼성디스플레이의 노트북용 OLED 시장 점유율은 87.7%에 달한다. 애플이 터치스크린과 OLED를 앞세워 소비자의 교체 수요를 얼마나 끌어내느냐가 국내 패널 업체들의 실적에도 영향을 미칠 것으로 보인다.",
+   "press": "비즈워치",
+   "source": "비즈워치",
+   "link": "https://n.news.naver.com/article/648/0000052049",
    "selection": "경제·시사",
-   "feed": "뉴스 03. \"죽은 것 같아요\"…반지하 숨진 여성 '충격의 홈캠'\n\n\n\n출처: SBS / https://n.news.naver.com/article/055/0001398682"
+   "feed": "뉴스 03. 애플, 20년 금기 깼다…'터치 맥북'에 韓 디스플레이 들썩\n\n/사진= qwe123@애플이 20년간 고수해 온 노트북 설계 원칙을 깨고 터치스크린을 탑재한 맥북 프로를 처음 선보였다. 애플이 스마트폰과 태블릿에 이어 노트북까지 OLED 채택을 확대하면서 삼성디스플레이 등 국내 패널 업체들의 수혜 기대감도 커지고 있다. 애플은 28일(현지시간) 미국 로스앤젤레스에서 신제품 발표회를 열고 OLED 터치스크린을 탑재한 14인치와 16인치 맥북 프로를 공개했다.\n\n삼성디스플레이는 신형 맥북 프로용 OLED 패널의 초도 물량을 전량 공급하는 것으로 알려졌다. 올해 3분기 삼성디스플레이의 노트북용 OLED 시장 점유율은 87.7%에 달한다. 애플이 터치스크린과 OLED를 앞세워 소비자의 교체 수요를 얼마나 끌어내느냐가 국내 패널 업체들의 실적에도 영향을 미칠 것으로 보인다.\n\n출처: 비즈워치 / https://n.news.naver.com/article/648/0000052049"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/05.png",
-   "pngBytes": 594763,
-   "title": "“지금은 집 안 사는게 이득입니다”…월세 살면 매달 120만원씩 아낀다는 미국",
-   "summary": "",
-   "summary_long": "",
-   "press": "매일경제",
-   "source": "매일경제",
-   "link": "https://n.news.naver.com/article/009/0005755098",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/05.png",
+   "pngBytes": 1772617,
+   "title": "[단독] 국악계 또 성폭력… 남들 보는 데서 버젓이, 학교 선배의 강제추행",
+   "summary": "피해자는 스승과 얽힌 일인 데다 향후 진로에 미칠 영향을 우려해 신고를 망설이다가, 가해자의 직장 동료가 성범죄 피해를 입었다는 사실을 알게 된 뒤 신고를 결심했다.…",
+   "summary_long": "피해자는 스승과 얽힌 일인 데다 향후 진로에 미칠 영향을 우려해 신고를 망설이다가, 가해자의 직장 동료가 성범죄 피해를 입었다는 사실을 알게 된 뒤 신고를 결심했다. B씨가 국립대에 진학한 뒤에도 A씨가 해당 대학 강사로 출강하면서 B씨는 A씨의 수업을 듣고 평가를 받았다. B씨는 \"A씨와 국악계에서 사제 관계와 선후배 관계로 얽혀 있어 문제를 제기했을 때 향후 활동에 미칠 부정적 영향을 우려했다\"고 설명했다.\n\nB씨는 A씨에게 피해를 봤다는 직장 동료가 있다는 사실을 알게 된 뒤, 1월 3일 A씨를 경찰에 신고했다. 국립국악관현악단 관계자는 \"A씨와 직장 동료는 분리 조치한 상태이며, 피해자 B씨 사건에 대한 A씨의 검찰 처분 내용을 확인해 징계 절차를 진행할 방침\"이라고 밝혔다. A씨는 사실 확인과 입장을 묻는 한국일보 질의에 \"두 사건 당시 만취 상태라서 기억이 나지 않지만, 내가 했던 행동을 알게 된 뒤 사과하고 용서를 구했다\"며 \"피해자에게 불편과 상처를 드린 점에 대해 진심으로 반성하고 있다\"고 답했다.",
+   "press": "한국일보",
+   "source": "한국일보",
+   "link": "https://n.news.naver.com/article/469/0000962293",
    "selection": "경제·시사",
-   "feed": "뉴스 04. “지금은 집 안 사는게 이득입니다”…월세 살면 매달 120만원씩 아낀다는 미국\n\n\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005755098"
+   "feed": "뉴스 04. [단독] 국악계 또 성폭력… 남들 보는 데서 버젓이, 학교 선배의 강제추행\n\n피해자는 스승과 얽힌 일인 데다 향후 진로에 미칠 영향을 우려해 신고를 망설이다가, 가해자의 직장 동료가 성범죄 피해를 입었다는 사실을 알게 된 뒤 신고를 결심했다. B씨가 국립대에 진학한 뒤에도 A씨가 해당 대학 강사로 출강하면서 B씨는 A씨의 수업을 듣고 평가를 받았다. B씨는 \"A씨와 국악계에서 사제 관계와 선후배 관계로 얽혀 있어 문제를 제기했을 때 향후 활동에 미칠 부정적 영향을 우려했다\"고 설명했다.\n\nB씨는 A씨에게 피해를 봤다는 직장 동료가 있다는 사실을 알게 된 뒤, 1월 3일 A씨를 경찰에 신고했다. 국립국악관현악단 관계자는 \"A씨와 직장 동료는 분리 조치한 상태이며, 피해자 B씨 사건에 대한 A씨의 검찰 처분 내용을 확인해 징계 절차를 진행할 방침\"이라고 밝혔다. A씨는 사실 확인과 입장을 묻는 한국일보 질의에 \"두 사건 당시 만취 상태라서 기억이 나지 않지만, 내가 했던 행동을 알게 된 뒤 사과하고 용서를 구했다\"며 \"피해자에게 불편과 상처를 드린 점에 대해 진심으로 반성하고 있다\"고 답했다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000962293"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/06.png",
-   "pngBytes": 552599,
-   "title": "\"리디아 고, 사석 만나면 사과\"...민주, 주진우 고발",
-   "summary": "",
-   "summary_long": "",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002425084",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/06.png",
+   "pngBytes": 1851826,
+   "title": "올공 투표지 반출…밤샘 농성 장동혁 \"이제 다시 시작\"",
+   "summary": "장동혁 대표는 \"증거가 사라졌다\"며 \"이제 다시 시작\"이라고 했다. 장 대표는 이날 서울 송파구 올림픽공원 핸드볼경기장에서 \"검증과정에서 수많은 부정, 선거의 증거가…",
+   "summary_long": "국민의힘이 29일 제9회 전국동시지방선거 '투표용지 부족사태' 투표함 검증과정에 재차 문제를 제기하고 나섰다. 장동혁 대표는 \"증거가 사라졌다\"며 \"이제 다시 시작\"이라고 했다. 장 대표는 이날 서울 송파구 올림픽공원 핸드볼경기장에서 \"검증과정에서 수많은 부정, 선거의 증거가 쏟아져 나왔고, 선거관리위원회와 특별검사팀이 가져간 투표함에는 또 다른 부정선거의 증거가 남아있다.\n\n장 대표, 김민수 최고위원 등 국민의힘 일부 참관인은 반출에 앞서 밤새 이송 저지 농성을 벌였다. 이진숙 의원은 특검 측이 국민의힘·시민 대표의 투표함 이송 동행을 전제로 한 약속을 '안전한 반출'을 보장하지 않았다는 이유로 파기했다면서 \"수천 명의 시민이 모였는데 100% (안전한 반출) 보장이 있을 수 있나\"라고 했다. 박성민 전 민주당 최고위원은 이날 'CBS 박성태의 뉴스쇼'에 출연해 \"(올공 사태는) 장 대표의 동아줄인데 끊어지려고 하니 줄을 다시 짜는 것\"이라며 \"결과와 무관하게 종결할 생각이 없을 것\"이라고 했다.",
+   "press": "아시아경제",
+   "source": "아시아경제",
+   "link": "https://n.news.naver.com/article/277/0005835223",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. \"리디아 고, 사석 만나면 사과\"...민주, 주진우 고발\n\n\n\n출처: YTN / https://n.news.naver.com/article/052/0002425084"
+   "feed": "뉴스 05. 올공 투표지 반출…밤샘 농성 장동혁 \"이제 다시 시작\"\n\n국민의힘이 29일 제9회 전국동시지방선거 '투표용지 부족사태' 투표함 검증과정에 재차 문제를 제기하고 나섰다. 장동혁 대표는 \"증거가 사라졌다\"며 \"이제 다시 시작\"이라고 했다. 장 대표는 이날 서울 송파구 올림픽공원 핸드볼경기장에서 \"검증과정에서 수많은 부정, 선거의 증거가 쏟아져 나왔고, 선거관리위원회와 특별검사팀이 가져간 투표함에는 또 다른 부정선거의 증거가 남아있다.\n\n장 대표, 김민수 최고위원 등 국민의힘 일부 참관인은 반출에 앞서 밤새 이송 저지 농성을 벌였다. 이진숙 의원은 특검 측이 국민의힘·시민 대표의 투표함 이송 동행을 전제로 한 약속을 '안전한 반출'을 보장하지 않았다는 이유로 파기했다면서 \"수천 명의 시민이 모였는데 100% (안전한 반출) 보장이 있을 수 있나\"라고 했다. 박성민 전 민주당 최고위원은 이날 'CBS 박성태의 뉴스쇼'에 출연해 \"(올공 사태는) 장 대표의 동아줄인데 끊어지려고 하니 줄을 다시 짜는 것\"이라며 \"결과와 무관하게 종결할 생각이 없을 것\"이라고 했다.\n\n출처: 아시아경제 / https://n.news.naver.com/article/277/0005835223"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/07.png",
-   "pngBytes": 579763,
-   "title": "이 대통령 \"자기만 개혁주체인 양 동지 공격‥무책임한 극단주의\"",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/07.png",
+   "pngBytes": 599780,
+   "title": "윤석열 내란우두머리 항소심 사형구형 \"전두환 용서한 무원칙이 내란 자초\"",
    "summary": "",
    "summary_long": "",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001531868",
+   "press": "미디어오늘",
+   "source": "미디어오늘",
+   "link": "https://n.news.naver.com/article/006/0000138466",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 이 대통령 \"자기만 개혁주체인 양 동지 공격‥무책임한 극단주의\"\n\n\n\n출처: MBC / https://n.news.naver.com/article/214/0001531868"
+   "feed": "뉴스 06. 윤석열 내란우두머리 항소심 사형구형 \"전두환 용서한 무원칙이 내란 자초\"\n\n\n\n출처: 미디어오늘 / https://n.news.naver.com/article/006/0000138466"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/08.png",
-   "pngBytes": 1120885,
-   "title": "병장이 150만원 받는데 하사 213만원…“누가 부사관 하겠습니까?”",
-   "summary": "초급간부 감소분 87.2%가 ‘하사’. 자료를 살펴보면 같은 기간 하사·소위·중위를 합친 초급간부 운영병력은 6만3600여 명에서 4만5600여 명으로 1만8000여 명…",
-   "summary_long": "초급간부 감소분 87.2%가 ‘하사’. 하사 계급장.군의 허리를 지탱해 온 초급간부인 ‘하사’들이 지난 4년간 3분의 1 이상 줄어들었다는 통계가 나왔다. 28일 국회 국방위원회 소속 민홍철 더불어민주당 의원이 국방부로부터 제출받은 자료에 따르면, 하사의 연평균 운영병력(임기제부사관 포함)은 2021년 4만3000여 명에서 2025년 2만7300여 명으로 1만5700여 명(36.5%) 감소했다.\n\n자료를 살펴보면 같은 기간 하사·소위·중위를 합친 초급간부 운영병력은 6만3600여 명에서 4만5600여 명으로 1만8000여 명(28.3%) 줄었다. 병장 대비 하사 기본급 2.8배에서 1.4배로군 안팎에서는 이러한 초급간부 구인난이 급격한 병사 월급 인상의 여파라는 지적이 나온다. 그 결과 5년 전 병장의 2.8배였던 하사 기본급은 2026년 1.4배 수준으로 좁혀졌다.",
-   "press": "매일경제",
-   "source": "매일경제",
-   "link": "https://n.news.naver.com/article/009/0005755131",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/08.png",
+   "pngBytes": 590199,
+   "title": "유시민 \"李 진영해체, 김민석 민티07 진영박살\"에 김민석 소극 반응?",
+   "summary": "",
+   "summary_long": "",
+   "press": "미디어오늘",
+   "source": "미디어오늘",
+   "link": "https://n.news.naver.com/article/006/0000138465",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 병장이 150만원 받는데 하사 213만원…“누가 부사관 하겠습니까?”\n\n초급간부 감소분 87.2%가 ‘하사’. 하사 계급장.군의 허리를 지탱해 온 초급간부인 ‘하사’들이 지난 4년간 3분의 1 이상 줄어들었다는 통계가 나왔다. 28일 국회 국방위원회 소속 민홍철 더불어민주당 의원이 국방부로부터 제출받은 자료에 따르면, 하사의 연평균 운영병력(임기제부사관 포함)은 2021년 4만3000여 명에서 2025년 2만7300여 명으로 1만5700여 명(36.5%) 감소했다.\n\n자료를 살펴보면 같은 기간 하사·소위·중위를 합친 초급간부 운영병력은 6만3600여 명에서 4만5600여 명으로 1만8000여 명(28.3%) 줄었다. 병장 대비 하사 기본급 2.8배에서 1.4배로군 안팎에서는 이러한 초급간부 구인난이 급격한 병사 월급 인상의 여파라는 지적이 나온다. 그 결과 5년 전 병장의 2.8배였던 하사 기본급은 2026년 1.4배 수준으로 좁혀졌다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005755131"
+   "feed": "뉴스 07. 유시민 \"李 진영해체, 김민석 민티07 진영박살\"에 김민석 소극 반응?\n\n\n\n출처: 미디어오늘 / https://n.news.naver.com/article/006/0000138465"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-29/09.png",
-   "pngBytes": 1346171
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-30/09.png",
+   "pngBytes": 1346169
   }
  ],
- "caption": "📰 10월 29일 오늘의 뉴스\n\n1. 민주 지지율 31.5% 최저... 국힘 처음으로 40% 돌파\n   이재명 대통령이 기초·광역단체장과 국회의원을 지낸 경기·인천 지역에서도 민주당이 국민의힘에 두 자릿수 격차로 밀렸다. 직전 조사 결과인 10월 3주차에 비해 민주당은…\n2. 공개사과 거부한 주진우 “사석에서 리디아 고 만나면 사과 가능”\n   주진우 국민의힘 의원과 프로골퍼 리디아 고. 김혜경 여사가 프로골퍼 리디아 고를 대동하고 골프를 쳤다는 의혹을 제기했던 주진우 국민의힘 의원이 해당 의혹을 반박한 리디아…\n3. \"죽은 것 같아요\"…반지하 숨진 여성 '충격의 홈캠'\n4. “지금은 집 안 사는게 이득입니다”…월세 살면 매달 120만원씩 아낀다는 미국\n5. \"리디아 고, 사석 만나면 사과\"...민주, 주진우 고발\n6. 이 대통령 \"자기만 개혁주체인 양 동지 공격‥무책임한 극단주의\"\n7. 병장이 150만원 받는데 하사 213만원…“누가 부사관 하겠습니까?”\n   초급간부 감소분 87.2%가 ‘하사’. 자료를 살펴보면 같은 기간 하사·소위·중위를 합친 초급간부 운영병력은 6만3600여 명에서 4만5600여 명으로 1만8000여 명…\n\n🗣 “리디아 고는 모 재벌기업 회장의 며느리인데 (정부의) 현안이 많이 달려 있는 집안의 사람이 (김 여사에게) 공짜로 레슨을 해줬다고 그러면 김영란법이나 알선수재의 법리적 문제가 생길 수 있는 것 아니냐”\n이 발언을 그대로 실은 보도 4건 · 경향신문 · 한겨레 · 파이낸셜뉴스\n· 경향신문 — 주진우 “리디아 고, 뭐 사석에선 사과 가능…사과 안하는 건 좌파 프레임 때문”\n· 한겨레 — 공개사과 거부한 주진우 “사석에서 리디아 고 만나면 사과 가능”\n· 파이낸셜뉴스 — 주진우 \"리디아 고, 사석에서 만나면 사과 가능\"...與 \"딱 '타진요' 수준\"\n· 파이낸셜뉴스 — \"사석에서 만나면 사과할 수 있다\"…주진우, 리디아 고 공개 사과 거부\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: MBC, SBS, YTN, 매일경제, 조선일보, 한겨레"
+ "caption": "📰 10월 30일 오늘의 뉴스\n\n1. 주진우 또 헛발질? \"대통령 부부, 그때 아들 부부와 골프 안 쳤다\"\n2. 이하늘 “호의인 척 짜증나”…李대통령 ‘유시민 처벌불원’에 발끈\n   가수 이하늘이 유시민 작가의 명예훼손 고발 사건에 대한 이재명 대통령의 처벌불원 의사를 두고 \"애초에 처벌받을 일이냐\"고 비판했다. 가수 이하늘이 이재명 대통령의…\n3. 애플, 20년 금기 깼다…'터치 맥북'에 韓 디스플레이 들썩\n   애플이 스마트폰과 태블릿에 이어 노트북까지 OLED 채택을 확대하면서 삼성디스플레이 등 국내 패널 업체들의 수혜 기대감도 커지고 있다. 애플은 28일 미국…\n4. [단독] 국악계 또 성폭력… 남들 보는 데서 버젓이, 학교 선배의 강제추행\n   피해자는 스승과 얽힌 일인 데다 향후 진로에 미칠 영향을 우려해 신고를 망설이다가, 가해자의 직장 동료가 성범죄 피해를 입었다는 사실을 알게 된 뒤 신고를 결심했다.…\n5. 올공 투표지 반출…밤샘 농성 장동혁 \"이제 다시 시작\"\n   장동혁 대표는 \"증거가 사라졌다\"며 \"이제 다시 시작\"이라고 했다. 장 대표는 이날 서울 송파구 올림픽공원 핸드볼경기장에서 \"검증과정에서 수많은 부정, 선거의 증거가…\n6. 윤석열 내란우두머리 항소심 사형구형 \"전두환 용서한 무원칙이 내란 자초\"\n7. 유시민 \"李 진영해체, 김민석 민티07 진영박살\"에 김민석 소극 반응?\n\n🗣 “검증과정에서 수많은 부정, 선거의 증거가 쏟아져 나왔고, 선거관리위원회와 특별검사팀이 가져간 투표함에는 또 다른 부정선거의 증거가 남아있다. 국민의 한 표를 살려낼 증거가 사라진 것”\n이 발언을 그대로 실은 보도 9건 · 아시아경제 · YTN · MBC 뉴스 · 자유일보\n· 아시아경제 — 올공 투표지 반출…밤샘 농성 장동혁 \"이제 다시 시작\"\n· YTN — \"전부 수개표\" vs \"야반도주하듯\"...부정선거 의혹 제기 여전 [이슈톺]\n· MBC 뉴스 — 검증 마친 투표지 '반출'‥국민의힘, 강력 항의\n· 자유일보 — \"피의자가 검증\" \"계표 오류\" \"벽돌 투표지\"...또 불붙은 부정선거 의혹\n· 프레시안 — '올공' 투표지 검증 지켜본 장동혁, 이송 막더니 \"부정선거\" 주장\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: 미디어오늘, 비즈워치, 아시아경제, 오마이뉴스, 중앙일보, 한국일보"
 }
