@@ -1,129 +1,272 @@
 {
- "date": "2026-10-31",
- "generated_at": "2026-10-31T10:56:36+09:00",
+ "date": "2026-11-01",
+ "generated_at": "2026-11-01T10:43:54+09:00",
  "mode": "daily",
- "window_start": "2026-10-30T00:00:00+09:00",
- "window_end": "2026-10-30T23:59:59+09:00",
+ "window_start": "2026-10-31T00:00:00+09:00",
+ "window_end": "2026-10-31T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "유시민 \"재산 100억 반도 안 돼…이재명 '코스피 5000' 믿고 처음 주식 보유\"",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000518290",
-   "published_at": "2026-10-30T11:32:46+09:00",
+   "title": "여군까지 최전방에? 군기 빠진 북한군의 생생한 모습 [주성하의 ‘北토크’]",
+   "source": "동아일보",
+   "url": "https://n.news.naver.com/article/020/0003759098",
+   "published_at": "2026-10-31T09:01:12+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "유시민 작가가 자신의 재산과 관련한 최근 각종 소문에 대해 “100억원 반도 안 된다”며 입을 열었습니다. 지난 28일 유 작가는 유튜브 채널 '박시영TV'에 출연해…",
-   "summary_long": "유시민 작가가 자신의 재산과 관련한 최근 각종 소문에 대해 “100억원 반도 안 된다”며 입을 열었습니다. 지난 28일 유 작가는 유튜브 채널 '박시영TV'에 출연해 “왜 자산이 많다는 건지 모르겠다”고 답했습니다. 유 작가는 주식투자에 대해 언급하기도 했습니다.\n\n그는 “이재명 정부의 정권교체가 확실히 되고 이 대통령이 '주가지수 5000'을 공약해 그걸 믿고 예금으로 처음 조금 주식을 가져봤다”고 말했습니다. 최근 일부 여권 성향의 지지층 사이에서 다시 불거지고 있는 이른바 신라젠 연루 의혹에 대해서도 \"의혹을 제기하는 쪽이 증명해야 된다\"며 재차 반박하기도 했습니다. 최근 유 작가를 둘러싸고 이른바 '신라젠 연루 의혹'도 다시 불거진 상황, 유 작가는 의혹을 제기하는 쪽이 증명해야 한다고 선을 그었습니다.",
+   "summary": "경기도 김포시 애기봉 전망대 맞은편에 나타난 북한군 자주포가 이번 주엔 화제가 됐습니다. 김여정 노동당 총무부장이 21일 ‘남부 국경선’ 요새화 현장을 시찰하면서 “저…",
+   "summary_long": "분단의 장벽 너머에서 일어나는 일들을 반세기 동안 북한을 지켜봐 온 주성하 기자의 시선으로 풀어봅니다. 경기도 김포시 애기봉 전망대 맞은편에 나타난 북한군 자주포가 이번 주엔 화제가 됐습니다. 김여정 노동당 총무부장이 21일 ‘남부 국경선’ 요새화 현장을 시찰하면서 “저 불량배 무리들이 우리의 새로운 화력 구분대들이 사격 진지를 차지한 것을 알게 만들어야 한다”고 협박한 지 나흘 만에 북한 자주포 3대가 등장했습니다.\n\n● 콘크리트 기둥을 멘 여군애기봉 전망대 맞은편엔 수많은 북한 군인이 나와 철조망을 설치하는 공사를 진행하고 있었습니다. 이 사진을 통해 기자는 ‘북한 여군들의 열악한 인권’을 떠올리기 전에 먼저 “북한군도 병력난이 정말 심각하구나”라는 생각이 먼저 떠올랐습니다. ● 군기 빠진 북한군 실상애기봉 전망대 맞은편에 나타난 자주포 3대는 M-1975 자주포로 보입니다.",
    "quotes": [
-    "이재명 정부의 정권교체가 확실히 되고 이 대통령이 '주가지수 5000'을 공약해 그걸 믿고 예금으로 처음 조금 주식을 가져봤다",
-    "의혹을 제기하는 쪽이 증명해야 된다",
-    "왜 자산이 많다는 건지 모르겠다"
+    "저 불량배 무리들이 우리의 새로운 화력 구분대들이 사격 진지를 차지한 것을 알게 만들어야 한다",
+    "재능이 아주 뛰어난 사람은 숨어 있어도 저절로 남의 눈에 띄며 드러난다",
+    "나쁜 무엇을 아무리 감추려 해도 감출 수 없다"
    ],
-   "press": "JTBC",
-   "photo": "01.png",
+   "press": "동아일보",
+   "photo": "01.jpg",
    "quoted": {
-    "quote": "이재명 정부의 정권교체가 확실히 되고 이 대통령이 '주가지수 5000'을 공약해 그걸 믿고 예금으로 처음 조금 주식을 가져봤다",
+    "quote": "재능이 아주 뛰어난 사람은 숨어 있어도 저절로 남의 눈에 띄며 드러난다",
     "n": 2,
     "verified": 0,
     "items": [
      {
-      "press": "JTBC",
-      "title": "유시민 \"재산 100억 반도 안 돼…이재명 ‘코스피 5000’ 믿고 처음 주식 보유\"",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTmZyckFQR1hFMkplR0U3bUk5Zmo1aXF3X2QxRmczeUVIQ3BiY2lkMTFyemRxVGlYWkVydmJzOGJ1NldFaXVPMnlmc0hsTDNSdU1qVWVZV0VjLUpSRVNKMkxhWVdmRzUzcDNiMkpjeHYyczFyVC1rcWlleFdxSjFNejZSNA?oc=5"
+      "press": "동아일보",
+      "title": "여군까지 최전방에? 군기 빠진 북한군의 생생한 모습 [주성하의 ‘北토크’]",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Hald1T2YxYk9xYUtUU1FSc3U3UFBxc0w2bkFWa3RjNWtkTDJ1UEtRQWg0RXRMbFlFeUxzTzEyU0dqVWh5ZE5MRHNMWVl0dGVXRXcxdi1BQWJSekJFaENQS0F1TFRHUdIBZkFVX3lxTE1Hald1T2YxYk9xYUtUU1FSc3U3UFBxc0w2bkFWa3RjNWtkTDJ1UEtRQWg0RXRMbFlFeUxzTzEyU0dqVWh5ZE5MRHNMWVl0dGVXRXcxdi1BQWJSekJFaENQS0F1TFRHUQ?oc=5"
      },
      {
-      "press": "이데일리",
-      "title": "유시민 \"재산? 100억의 반도 안돼…주식은 코스피 3000도 안될 때 샀다\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR1g3TnQ5WXJfeDRVS0tDeHFmNi04MG05MWdvWlZDSklPTVRCTE55S25uTU1HLU9pSEhVWlFLNjlsMTlFM0NmajR2RVM5dzRVVFhGZHNKTmdmOXhEd3IxZGo3a3I2VEFXSDBkYjZWUHpGdk9kMXNoRkZqSkg2ZUc4Mw?oc=5"
+      "press": "자주시보",
+      "title": "[개벽예감 700] 저격수들이 방아쇠를 당기는 순간",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB0T2Fpb1dGT3VyMzdxTnB4QnhBd0J2UVZaMFdjNE4tZzVxeUhYaWQxZmJhZmN5c1NObGw2cDZ6UGRDQ3c?oc=5"
      }
     ]
    }
   },
   {
-   "title": "민주당 35%·국민의힘 30%.. 오차범위 내 좁혀져 [갤럽]",
-   "source": "전주MBC",
-   "url": "https://n.news.naver.com/article/659/0000048269",
-   "published_at": "2026-10-30T12:19:09+09:00",
+   "title": "이재명 대통령 '서울 집값 하락' 글 공유하며 \"견디는 기간\"",
+   "source": "미디어오늘",
+   "url": "https://n.news.naver.com/article/006/0000138503",
+   "published_at": "2026-10-31T18:07:10+09:00",
    "section_id": "100",
-   "view_rank": 3,
+   "view_rank": 1,
    "selection": "정치",
-   "summary": "더불어민주당과 국민의힘 정당 지지율이 오차범위 내로 좁혀졌다는 여론조사 결과가 오늘 나왔습니다. 한국갤럽이 오늘 발표한 지난 27일부터 29일까지 전국 만 18세 이상…",
-   "summary_long": "더불어민주당과 국민의힘 정당 지지율이 오차범위 내로 좁혀졌다는 여론조사 결과가 오늘(30일) 나왔습니다. 한국갤럽이 오늘 발표한 지난 27일부터 29일까지 전국 만 18세 이상 유권자 1,000명을 대상으로 조사한 결과에 따르면, 더불어민주당 35%, 국민의힘 30%로 나타났습니다. 직전 조사 대비(10월 4주) 더불어민주당은 2%p 하락했고, 국민의힘은 2%p 상승했습니다.\n\n갤럽 조사 기준 이재명 정부 출범 이후 여당 지지도는 최저치(10월 2주와 동률), 제1야당은 최고치(9월 1주와 동률)를 기록했습니다. 긍정 평가 이유로는 외교(17%), 경제·민생(14%), 소통(8%) 등이 꼽혔습니다. 부정 평가 이유로는 부동산 정책(19%)이 가장 높았으며, 경제·민생(17%), 국방/안보/대북(10%) 등이었습니다.",
-   "press": "전주MBC",
-   "photo": "02.jpg"
+   "summary": "이재명 대통령은 31일 소셜미디어 X에 \"자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 이재명 대통령이 공유한 게시물은 서울 강남 지역의 공인중개사들…",
+   "summary_long": "이재명 대통령은 31일 소셜미디어 X(엑스)에 \"자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 인내의 시간이 지나고 나면 결국 알게 될 것\"이라며 \"국민주권정부는 합니다\"라고 했다. 이재명 대통령이 공유한 게시물은 서울 강남 지역의 공인중개사들 사이에서 조만간 강남3구를 시작으로 서울 외곽 지역까지 집값이 하락 국면이 될 것이라는 전망을 담았다.\n\n해당 글은 이번 정부 정책이 시장의 생리를 꿰뚫고 있다며 정부 정책이 바뀌지 않는 한 서울 집값이 하락할 것이라는 내용이다. 이재명 대통령은 지난 5월6일에도 \"부동산 정상화는 피할 수 없는 시대적 흐름이자 반드시 해야 할 국가의 핵심 과제\"라고 밝힌 바 있다.",
+   "quotes": [
+    "자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 인내의 시간이 지나고 나면 결국 알게 될 것",
+    "부동산 정상화는 피할 수 없는 시대적 흐름이자 반드시 해야 할 국가의 핵심 과제"
+   ],
+   "press": "미디어오늘",
+   "photo": "02.jpg",
+   "quoted": {
+    "quote": "자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 인내의 시간이 지나고 나면 결국 알게 될 것",
+    "n": 10,
+    "verified": 0,
+    "items": [
+     {
+      "press": "미디어오늘",
+      "title": "이재명 대통령 ‘서울 집값 하락’ 글 공유하며 “견디는 기간”",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTdjhaaFVORVlKVGk1TUVDeXNHaXBzZXpzYnRGbFVnTEl0WjhaN1VjZ2ZMUGloODRmZlVGSGIzV3ZXQ1ZocXljb3BkZDVDWUMwc2hvVHlYN01fSF9peWpvVi14bm9MaWlkMy1PTU5QOFM?oc=5"
+     },
+     {
+      "press": "프레시안",
+      "title": "[속보] 李대통령, 다시 '집값 하락' 전망 공유…\"자산시장 정상화 견디는 중\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfenZqMTlrM1ZtN3Q4YXdSVzU2b0wzOThoY1htdTB0cWtydHRtTXFrdVFmWXZiR1JOODZZMmo3NWtZa0VVenhoX0U2aWhhaEtteEh2SDFMMGNLYk12QXB5QXh0UHNqQVNDMnlr?oc=5"
+     },
+     {
+      "press": "머니투데이",
+      "title": "李대통령 \"자산시장 정상화 향한 힘든 길, 지금은 견디는 중\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00ZVNZd2tubm5WalRLQWFiSEtBTnRfQUxSZDNVVEdiQm5Qck9GbnRhZ0dkM0s1V1RnbjZMZ2ktR3lIZzM4WWhTODRYUzRVTFNVT2pfVGlsQUM4N3Y1Tnc3UkY1bTBfLUQ3Y3FpaNIBckFVX3lxTFBKUXRYZHR5Q3dNLWZycFJVMkZhcUtaS3ZmSUNsenBveUFvajh4T2tCRE9IQkFVVGFhamtaMS1wSjY3ZW5DNkZzT05rZ0k3TjdYRnpIYWt4ZXJiUjBXd3BaMUQxeWc1Y1hrX1pKcEpHTGRkUQ?oc=5"
+     },
+     {
+      "press": "연합인포맥스",
+      "title": "李대통령, \"부동산 정상화, 지금은 견디는 중…국민주권정부는 한다\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tb2tkcmp1dENZMUtzS0JPWVNPdjQwVDhybzFLWk0xVm13ZGd3MWszMUhtZ2lLbE14dXBWX0lQY0FxQ0wtYzZOR1hPZVktMkJNd2Y4Q3JnSFBRNjBKMlFqUExHVTZLbVIxVXZMUWFDMTk?oc=5"
+     },
+     {
+      "press": "조선일보",
+      "title": "서울 집값 90주 연속 올랐는데... 李 \"자산시장 정상화 향한 힘든 길\"",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1czcDN2dW1CWm0tcnA5VHB5alFuQ19yZkhaQVJuOFFJOGc2SktGWDQ2cjZIVkJWSmV0OUhsX3k4NXhuQ2JxTm90WnNTQS1OVVliSEU0bzZhOHRUaS1EZmI4cWZySmQ4dkNXMW5Ddl9FNzNkQlZoOEVxUmtyRTJ5Q3NhbUZZRTRKU1pndHR4dUM?oc=5"
+     },
+     {
+      "press": "경기일보",
+      "title": "李대통령 “자산시장 정상화, 지금은 견디는 중...인내 지나면 알 것”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94NHhmbHd0UWViaEoxbU9FNG9TTTVoWUxTWDZTSl9QVnhDb1ZPZGwzb09kMm11dWxERnVOVkw0MGpaZ1lDTVVGaWpTazlfc2pZUGhQeVExUl80NHc?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "“내가 세상 떠나면 꼭 들러달라” 故최불암 운구 행렬 향하는 곳",
+   "title": "“13살 연하 아내, 구찌 누나였다”…호빠에 2억 쏜 女 충격 실체",
    "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003561726",
-   "published_at": "2026-10-30T13:59:08+09:00",
+   "url": "https://n.news.naver.com/article/025/0003561833",
+   "published_at": "2026-10-31T06:00:02+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "초록우산 “국민 아버지”로 사랑받아 온 배우 최불암이 40여 년간 인연을 맺어온 아동복지단체 초록우산 어린이재단의 배웅을 받으며 마지막 길에 오른다. 이에 따라 발인…",
-   "summary_long": "초록우산 “국민 아버지”로 사랑받아 온 배우 최불암이 40여 년간 인연을 맺어온 아동복지단체 초록우산 어린이재단의 배웅을 받으며 마지막 길에 오른다. 고인은 2007년 에티오피아를 시작으로 2014년 우간다, 2015년 케냐 등 아프리카 지역을 직접 찾아갔다. 고령에도 굶주림과 질병으로 고통받는 아이들을 만나 이들의 아픔에 공감하고, 해외아동 지원에 대한 국민적 관심을 높였다.\n\n2012년에는 위기 청소년과 학교 밖 청소년들이 자존감을 회복하고 사회의 일원으로 건강하게 성장할 수 있도록 지원하기 위해 사단법인 제로캠프를 설립했다. 고인은 생전 주변 사람들에게 자신이 세상을 떠나면 장지로 향하기 전 초록우산 재단에 꼭 들러달라는 뜻을 남겼다고 한다. 이에 따라 발인 이후 운구 행렬은 장지로 떠나기 전 서울 중구 무교동 초록우산 본부를 방문할 예정이다.",
+   "summary": "그는 지난해 13살 어린 아내가 서울 수유의 호스트바 선수와 데이트하는 현장을 덮친 뒤 상간 소송을 제기했다. 그런데 아내는 판사에게 “남자친구는 제가 결혼한 사실을…",
+   "summary_long": "탐정은 사건의 상간자인 호스트바 선수를 찾아내고자 신입 선수로 위장했다. 그는 지난해 13살 어린 아내가 서울 수유의 호스트바 선수와 데이트하는 현장을 덮친 뒤 상간 소송을 제기했다. 그런데 아내는 판사에게 “남자친구는 제가 결혼한 사실을 몰랐어요”라며 선수의 결백을 호소했다.\n\n남편이 돼지고기를 삶기 위해 새벽부터 문밖을 나선 날, 아내는 집안의 패물을 싹 다 챙긴 뒤 가출했다. “당장 아내 노트북으로 유튜브를 켜보세요.” 탐정을 통해 아내를 찾아낸 남편이 돌아오라고 빌자, 아내는 뜻밖의 행동까지 벌인다.",
+   "quotes": [
+    "남자친구는 제가 결혼한 사실을 몰랐어요",
+    "당장 아내 노트북으로 유튜브를 켜보세요",
+    "그 2억 쏜 여자? 구찌 누나예요"
+   ],
    "press": "중앙일보",
-   "photo": "03.jpg"
+   "photo": "03.jpg",
+   "quoted": {
+    "quote": "그 2억 쏜 여자? 구찌 누나예요",
+    "n": 1,
+    "verified": 0,
+    "items": [
+     {
+      "press": "미주중앙일보",
+      "title": "“13살 연하 아내, 구찌 누나였다”…호빠에 2억 쏜 女 충격 실체",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5STTRXcHV0bFY5b09YT0JLcnVKM0VGTDU3WFBaemt2TGFWMFZQRXFydndjaTFFSlhwQUtsV0RocXZ0RzZ5TXJVSkNha0NBRWpIdHFHTDhiU0hNYk1CdklVZm1n?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "'영원한 수사반장'·'국민 아버지' 최불암 별세…향년 87세",
-   "source": "부산일보",
-   "url": "https://n.news.naver.com/article/082/0001404828",
-   "published_at": "2026-10-30T00:32:16+09:00",
-   "section_id": "102",
+   "title": "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005756916",
+   "published_at": "2026-10-31T10:45:10+09:00",
+   "section_id": "101",
    "view_rank": 1,
    "selection": "경제·시사",
    "prep_error": "The read operation timed out"
   },
   {
-   "title": "“좋아하는 만큼 싫어” 김민석·한동훈, 차기주자 ‘비호감 정치인’ 조사 선두권",
-   "source": "헤럴드경제",
-   "url": "https://n.news.naver.com/article/016/0002716453",
-   "published_at": "2026-10-30T08:05:10+09:00",
+   "title": "[취재일기] 떨어진 감 주워놓고, 농사 잘 지었다는 장동혁",
+   "source": "시사저널",
+   "url": "https://n.news.naver.com/article/586/0000141317",
+   "published_at": "2026-10-31T15:00:12+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "comment_count": 169,
+   "comment_agree": 85,
+   "comment_disagree": 32,
+   "division_balance": 0.547009,
+   "division_score": 2.609605,
+   "selection": "찬반 쟁점",
+   "summary": "장동혁 국민의힘 대표는 2020년 국민의힘 출범 이후 '최장수 당대표'라는 기록을 썼고, 때마침 이재명 대통령과 더불어민주당의 지지율은 동반 하락했다. 그렇다면 지금의…",
+   "summary_long": "\"반(反)장동혁으로 분류되면 용납할 수 없다.\" 국민의힘의 한 지도부 인사가 기자에게 한 말이다. 장동혁 국민의힘 대표는 2020년 국민의힘 출범 이후 '최장수 당대표'라는 기록을 썼고, 때마침 이재명 대통령과 더불어민주당의 지지율은 동반 하락했다.\n\n그렇다면 지금의 '지지율'을 장동혁 대표의 노선에 대한 '지지'로 읽는 것은 아전인수가 된다. 강경 노선 덕에 지지율이 올랐다고 믿으니 더 오른쪽으로 향하고, 대표가 잘해서 얻은 성과라고 여기니 당내 비판도 받아들이기 어려워지는 것이다. 그 끝에 남는 것은 경쟁력 있는 국민의힘이 아니라 말 잘 듣는 '장동혁의 국민의힘'이다.",
+   "quotes": [
+    "반(反)장동혁으로 분류되면 용납할 수 없다"
+   ],
+   "press": "시사저널",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "반(反)장동혁으로 분류되면 용납할 수 없다",
+    "n": 1,
+    "verified": 0,
+    "items": [
+     {
+      "press": "시사저널",
+      "title": "[취재일기] 떨어진 감 주워놓고, 농사 잘 지었다는 장동혁",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96STNBbDZybmdqQWdFQ2o4VWRhZmNlenozY1UyNFQ3bFNVX1B5Uk9XdkNpWmR4azBkNWRuQ0phQVBjQll1ZzE1LUM5U2VTNThuazR4ci11cUZFSDBXNUdKc2JaajhidERwS2xJRXRQQdIBc0FVX3lxTE5SRm03SUxjX3puX0lVaW1uSG91RkJjU2VubUg5OE1XV050Rl9jSEVPa0l5X2wzVUVzRWRmcFJtX2txOUk1cGxhSDlVTTEyaU11YU9qY0ctcWFVTGJZajNBQ2NTSExMMHpNazVBTkNPWmVEVUk?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "장동혁 \"李대통령 일가, 황제 골프 넘어 '민폐 골프' '민폐 가족'\"",
+   "source": "시사저널",
+   "url": "https://n.news.naver.com/article/586/0000141312",
+   "published_at": "2026-10-31T13:23:08+09:00",
    "section_id": "100",
    "view_rank": 3,
-   "comment_count": 168,
-   "comment_agree": 235,
-   "comment_disagree": 44,
-   "division_balance": 0.315412,
-   "division_score": 1.777281,
+   "comment_count": 164,
+   "comment_agree": 124,
+   "comment_disagree": 33,
+   "division_balance": 0.420382,
+   "division_score": 2.128225,
    "selection": "찬반 쟁점",
-   "summary": "김민석 더불어민주당 대표와 한동훈 무소속 의원. 차기 대선주자 선호도 조사에서 각각 범진보와 범보수 진영의 선두권에 있는 김민석 더불어민주당 대표와 한동훈 무소속 의원이…",
-   "summary_long": "차기 대선주자 선호도 조사에서 각각 범진보와 범보수 진영의 선두권에 있는 김민석 더불어민주당 대표와 한동훈 무소속 의원이 ‘비호감 정치인’을 묻는 조사에서도 가장 높은 응답률을 기록한 것으로 나타났다. 만 18세~20대에서는 정청래 의원이 17.1%로 가장 높았고 이진숙 의원 16.1%, 한동훈 의원 15.9%, 김민석 대표 15.4% 순이었다. 30대에서는 김 대표가 30.7%로 가장 높았으며 조 원장 15.0%, 한 의원 13.3%가 뒤를 이었다.\n\n서울에서는 김 대표 23.2%, 이진숙 의원 15.5%, 한 의원 14.4%였고 경기·인천에서는 김 대표 20.0%, 한 의원 18.9%, 이진숙 의원 16.8%로 나타났다. 부산·울산·경남에서도 김 대표가 21.1%로 가장 높았고 한 의원 18.9%, 이진숙 의원 16.7%가 뒤를 이었다. 호남·제주에서는 이진숙 의원이 21.4%로 가장 높았으며 한 의원 19.2%, 장 대표 18.0% 순이었다.",
-   "press": "헤럴드경제",
-   "photo": "05.jpg"
+   "summary": "장동혁 국민의힘 대표는 31일 이재명 대통령과 가족의 골프 관련 의혹들을 제기하면서 \"이 정도면 '황제 골프' 수준을 넘어 '민폐 골프'\"라며 \"대통령 일가가 '민폐…",
+   "summary_long": "장동혁 국민의힘 대표는 31일 이재명 대통령과 가족의 골프 관련 의혹들을 제기하면서 \"이 정도면 '황제 골프' 수준을 넘어 '민폐 골프'\"라며 \"대통령 일가가 '민폐 가족'이 되고 있다\"고 지적했다. 장 대표는 이날 페이스북에 글을 올려 \"이 대통령은 해군 장병이 실종되어 죽어갈 때도, 건물이 무너져서 어르신들의 생명이 위태로울 때도 골프 라운딩을 멈추지 않았다. 제정신 박힌 대통령이라면 적어도 그런 날은 골프를 멈췄어야 하는 것 아닌가\"라며 이같이 밝혔다.\n\n장 대표는 이어 이 대통령이 더불어민주당 대표 시절 윤석열 당시 대통령의 골프 연습 의혹을 비판한 것을 언급하며 \"그래 놓고 본인은 틈만 나면 가족까지 동반해서 황제 골프를 즐긴다\"고 말했다. 그러면서 \"민주당은 '대통령도 사람'이라며 휴식과 운동 차원의 골프를 칠 수 있다고 변명한다. 청와대는 '사적 일정을 정치적 공방으로 활용하는 것에 유감을 표한다'고 한다\"며 \"'대통령에게 사적 일정이 있느냐', 이 정권 야당 시절의 단골 레퍼토리 아닌가\"라고 했다.",
+   "quotes": [
+    "이 대통령은 해군 장병이 실종되어 죽어갈 때도, 건물이 무너져서 어르신들의 생명이 위태로울 때도 골프 라운딩을 멈추지 않았다. 제정신 박힌 대통령이라면 적어도 그런 날은 골프를 멈췄어야 하는 것 아닌가",
+    "민주당은 '대통령도 사람'이라며 휴식과 운동 차원의 골프를 칠 수 있다고 변명한다. 청와대는 '사적 일정을 정치적 공방으로 활용하는 것에 유감을 표한다'고 한다",
+    "제주도 전국체전 간 김에 황제골프 치고 올 계획을 세웠다는 의혹도 제기됐다. 그런데 그날 부천 공장 화재가 발생하면서 황제골프 계획이 꼬인 모양"
+   ],
+   "press": "시사저널",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "제주도 전국체전 간 김에 황제골프 치고 올 계획을 세웠다는 의혹도 제기됐다. 그런데 그날 부천 공장 화재가 발생하면서 황제골프 계획이 꼬인 모양",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "시사저널",
+      "title": "장동혁 “李대통령 일가, 황제 골프 넘어 ‘민폐 골프’ ‘민폐 가족’”",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TY2lWY092SmlVNzB5UWFOQjFfSEtCNjY1M21vZW1sR0FMOUhhRE16TnRHYnRnRjR1VWRDV0wzaEc3eXFwQTZ5SmgybGN5alh2YnBKcnowRzl2dmZqTmFTcnpGR0NkYlFnTjJnMVd0b9IBc0FVX3lxTFBFMEdGbnQ5UUFOUUo3MTBLU19YWm91SFJKOV9YVThEcXZ6OEdBN09KaEw0cG1sV01DTXdVbF9CbTBfUEk4Z1RZR1p4aE1ldmdnbHJSYXlQb2M4Uk4ybHdVUGNPcndzaENYM0tfN25NZWgydzg?oc=5"
+     },
+     {
+      "press": "프리진뉴스",
+      "title": "장동혁 “李대통령 일가, 황제골프 넘어 ‘민폐골프’…‘민폐가족’ 되고 있다”",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfWk95RlFSM1ROVTlWN2MwTkhFc3RHN3JNeW9waGdndWw2NGFSbHlTWHpDZlE0TTBHLUIwc2o3ZUNNelRfUUVvT1ZqOXZkbjU5M0taSVU2SVVONXQ4Mjh4RWoycW1NTWlIdjZlZWhTTQ?oc=5"
+     },
+     {
+      "press": "경향신문",
+      "title": "장동혁 “이 대통령, 이 정도면 ‘황제골프’ 넘어 ‘민폐골프’”",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uMzRWVHY5SC0yODFpeDJQMldPUlpYUGxsRDRVVUJRTFVhNkRfZ25hYnBRNlZOVU0zQy1BenJFY09UOTd1bU90dEhfYzI4ckMzZndaV2pOYmF6akZHNWFB0gFfQVVfeXFMTm4zNFZUdjlILTI4MWl4MlAyV09SWlhQbGxENFVVQlFMVWE2RF9nbmFicFE2Vk5VTTNDLUF6ckVjT1Q5N3VtT3R0SF9jMjhyQzNmd1pXak5iYXpqRkc1YUE?oc=5"
+     },
+     {
+      "press": "뉴스1",
+      "title": "장동혁 \"황제골프 넘어 민폐골프…대통령 일가가 민폐가족 돼\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xeDJZeVVwekt3SzlvU2laUGZxdC13Y081aE9HaVUyT1hiWGV5UDRfSnhaUGRMRVpjOXVFSjI1bUViaWkyeGVrUFZNVkMydWhNRERDamNucUJ1dw?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "주진우 \"대통령 가족 골프, 민주당에서도 말 달라…입장부터 정리하라\"",
-   "source": "머니투데이",
-   "url": "https://n.news.naver.com/article/008/0005434274",
-   "published_at": "2026-10-30T13:14:21+09:00",
+   "title": "장동혁, 이 대통령에 \"비판하는 국민 돼지로 보이느냐\"",
+   "source": "강원도민일보",
+   "url": "https://n.news.naver.com/article/654/0000208549",
+   "published_at": "2026-10-31T18:32:18+09:00",
    "section_id": "100",
    "view_rank": 2,
-   "comment_count": 264,
-   "comment_agree": 155,
-   "comment_disagree": 31,
-   "division_balance": 0.333333,
-   "division_score": 1.743703,
+   "comment_count": 668,
+   "comment_agree": 184,
+   "comment_disagree": 42,
+   "division_balance": 0.371681,
+   "division_score": 2.016353,
    "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "[속보] 국힘, 397억 토해낼 판?…黨 운명 걸린 '윤석열 선거법' 항소심 내달 4일 '생중계' 결정",
-   "source": "프레시안",
-   "url": "https://n.news.naver.com/article/002/0002463473",
-   "published_at": "2026-10-30T10:21:14+09:00",
-   "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 167,
-   "comment_agree": 117,
-   "comment_disagree": 22,
-   "division_balance": 0.316547,
-   "division_score": 1.564261,
-   "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
+   "summary": "2026.10.31 연합뉴스국민의힘이 이재명 대통령의 '돼지 눈에는 돼지만 보인다'는 발언을 두고 \"본인을 비판하는 국민은 전부 돼지로 보이느냐\"며 공세를 펼쳤다.…",
+   "summary_long": "▲ 국민의힘 장동혁 대표가 31일 국회 의원회관에서 열린 2027 서울 세계청년대회의 성공적 개최를 위한 국회·정부·조직위원회 공동선언문 선포식에서 축사를 하고 있다. 2026.10.31 연합뉴스국민의힘이 이재명 대통령의 '돼지 눈에는 돼지만 보인다'는 발언을 두고 \"본인을 비판하는 국민은 전부 돼지로 보이느냐\"며 공세를 펼쳤다. 장동혁 국민의힘 대표는 31일 페이스북을 통해 이 대통령을 향해 \"링거 안 맞고 코피 안 터져도 되니 이제 그만 자중하시라\"며 이같이 비판했다.\n\n조용술 국민의힘 대변인도 논평을 통해 \"국민의 정당한 문제 제기를 깎아내리는 것도 모자라 돼지에까지 빗대는 오만함을 드러냈다\"며 \"국민이 돼지로 보인다면 그것이야말로 돼지의 눈 아니냐\"고 비꼬았다. 3선 성일종 의원도 페이스북에서 \"돼지 눈에는 돼지만 보인다고 하는데 돼지나 고양이도 밥 주는 주인을 알아보고 따른다. 이어 \"외교·안보를 비롯해 주택과 주식 문제까지 서민의 삶이 무너진 상황에서 외유 자체가 어떻게 돼지의 요구냐\"고 비판했다.",
+   "quotes": [
+    "장병 발목이 날아갔는데도 뉴욕 맨해튼 시내 관광을 다닌 사람은 누구냐. 그 와중에 멕시코까지 가서 부부 동반으로 야광봉을 흔들며 K팝을 구경한 건 또 누구냐",
+    "돼지 눈에는 돼지만 보인다고 하는데 돼지나 고양이도 밥 주는 주인을 알아보고 따른다. 나라의 주인은 국민이라고 하지 않았느냐",
+    "외교·안보를 비롯해 주택과 주식 문제까지 서민의 삶이 무너진 상황에서 외유 자체가 어떻게 돼지의 요구냐"
+   ],
+   "press": "강원도민일보",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "외교·안보를 비롯해 주택과 주식 문제까지 서민의 삶이 무너진 상황에서 외유 자체가 어떻게 돼지의 요구냐",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "강원도민일보",
+      "title": "장동혁, 이 대통령에 “비판하는 국민 돼지로 보이느냐”",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00MFE5ME1SSEZtai1tUmhQbHF0dmt0SzNBYVlIYUo0R1h4NVNuZFhTXzM5T09naWs3S1ptaktEbkpXMEZlTGtkWTgtOFE5a041ZldJX2hlTmUzYUYtVmZyTlZ1NV9iMTQ?oc=5"
+     },
+     {
+      "press": "연합뉴스",
+      "title": "국힘, '순방 반박' 李대통령에 \"비판하는 국민은 전부 돼지인가\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03S25YNlYydVBnQ24xQThRSEMzRFBRYk1GWUE1Qm9OYktJTW1jM3pNQWVQcGN0VmZ0VGtrQ2xkUXdwMi1aZ2I2QXROZ2tTSmdXMWp6eXB2RUtQbUYxcHctR9IBYEFVX3lxTE03S25YNlYydVBnQ24xQThRSEMzRFBRYk1GWUE1Qm9OYktJTW1jM3pNQWVQcGN0VmZ0VGtrQ2xkUXdwMi1aZ2I2QXROZ2tTSmdXMWp6eXB2RUtQbUYxcHctRw?oc=5"
+     },
+     {
+      "press": "매일신문",
+      "title": "李대통령 \"돼지 눈엔 돼지만 보여\"에 장동혁 \"국민이 돼지로 보이냐\"",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zVV9mU01vVVZhMVVSVm9NZE5rN0dqT0Vwa3h4eTZrSVJhVUhtZ0Y3T3pKN2JtR1dKRmpma25JNHIycktKa0h0YS1jSEFGcFZWSUlRQ2N2dVpQbDZoUzRNVkhB?oc=5"
+     },
+     {
+      "press": "부산일보",
+      "title": "이 대통령, 野 `순방 잦다` 지적에 `돼지 눈엔 돼지만`…국힘 `비판하면 전부 돼지냐`",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDd2dvU0lsNWJvMnVqNThCQ0VaRVcxZmZiVi16Q2Jhd0tCNzFPWDBvM3BLdGVSb0ZtRzVtZFRvMHBHdUNGeGZ2WTlDZGpUU2g4TWdiaEZ6alZod1U4ZEZ5elFhZ3Y4dWstbzZxblBoUVRJUGtt?oc=5"
+     }
+    ]
+   }
   }
  ],
  "cards": [
@@ -132,139 +275,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/01.png",
-   "pngBytes": 1921560,
-   "feed": "오늘의 뉴스 2026-10-31\n\n· 유시민 \"재산 100억 반도 안 돼…이재명 '코스피 5000' 믿고 처음 주식 보유\"\n· 민주당 35%·국민의힘 30%.. 오차범위 내 좁혀져 [갤럽]\n· “내가 세상 떠나면 꼭 들러달라” 故최불암 운구 행렬 향하는 곳\n· '영원한 수사반장'·'국민 아버지' 최불암 별세…향년 87세\n· “좋아하는 만큼 싫어” 김민석·한동훈, 차기주자 ‘비호감 정치인’ 조사 선두권\n· 주진우 \"대통령 가족 골프, 민주당에서도 말 달라…입장부터 정리하라\"\n· [속보] 국힘, 397억 토해낼 판?…黨 운명 걸린 '윤석열 선거법' 항소심 내달 4일 '생중계' 결정"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/01.png",
+   "pngBytes": 2404655,
+   "feed": "오늘의 뉴스 2026-11-01\n\n· 여군까지 최전방에? 군기 빠진 북한군의 생생한 모습 [주성하의 ‘北토크’]\n· 이재명 대통령 '서울 집값 하락' 글 공유하며 \"견디는 기간\"\n· “13살 연하 아내, 구찌 누나였다”…호빠에 2억 쏜 女 충격 실체\n· “52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발\n· [취재일기] 떨어진 감 주워놓고, 농사 잘 지었다는 장동혁\n· 장동혁 \"李대통령 일가, 황제 골프 넘어 '민폐 골프' '민폐 가족'\"\n· 장동혁, 이 대통령에 \"비판하는 국민 돼지로 보이느냐\""
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/02.png",
-   "pngBytes": 1928008,
-   "title": "유시민 \"재산 100억 반도 안 돼…이재명 '코스피 5000' 믿고 처음 주식 보유\"",
-   "summary": "유시민 작가가 자신의 재산과 관련한 최근 각종 소문에 대해 “100억원 반도 안 된다”며 입을 열었습니다. 지난 28일 유 작가는 유튜브 채널 '박시영TV'에 출연해…",
-   "summary_long": "유시민 작가가 자신의 재산과 관련한 최근 각종 소문에 대해 “100억원 반도 안 된다”며 입을 열었습니다. 지난 28일 유 작가는 유튜브 채널 '박시영TV'에 출연해 “왜 자산이 많다는 건지 모르겠다”고 답했습니다. 유 작가는 주식투자에 대해 언급하기도 했습니다.\n\n그는 “이재명 정부의 정권교체가 확실히 되고 이 대통령이 '주가지수 5000'을 공약해 그걸 믿고 예금으로 처음 조금 주식을 가져봤다”고 말했습니다. 최근 일부 여권 성향의 지지층 사이에서 다시 불거지고 있는 이른바 신라젠 연루 의혹에 대해서도 \"의혹을 제기하는 쪽이 증명해야 된다\"며 재차 반박하기도 했습니다. 최근 유 작가를 둘러싸고 이른바 '신라젠 연루 의혹'도 다시 불거진 상황, 유 작가는 의혹을 제기하는 쪽이 증명해야 한다고 선을 그었습니다.",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000518290",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/02.png",
+   "pngBytes": 2406556,
+   "title": "여군까지 최전방에? 군기 빠진 북한군의 생생한 모습 [주성하의 ‘北토크’]",
+   "summary": "경기도 김포시 애기봉 전망대 맞은편에 나타난 북한군 자주포가 이번 주엔 화제가 됐습니다. 김여정 노동당 총무부장이 21일 ‘남부 국경선’ 요새화 현장을 시찰하면서 “저…",
+   "summary_long": "분단의 장벽 너머에서 일어나는 일들을 반세기 동안 북한을 지켜봐 온 주성하 기자의 시선으로 풀어봅니다. 경기도 김포시 애기봉 전망대 맞은편에 나타난 북한군 자주포가 이번 주엔 화제가 됐습니다. 김여정 노동당 총무부장이 21일 ‘남부 국경선’ 요새화 현장을 시찰하면서 “저 불량배 무리들이 우리의 새로운 화력 구분대들이 사격 진지를 차지한 것을 알게 만들어야 한다”고 협박한 지 나흘 만에 북한 자주포 3대가 등장했습니다.\n\n● 콘크리트 기둥을 멘 여군애기봉 전망대 맞은편엔 수많은 북한 군인이 나와 철조망을 설치하는 공사를 진행하고 있었습니다. 이 사진을 통해 기자는 ‘북한 여군들의 열악한 인권’을 떠올리기 전에 먼저 “북한군도 병력난이 정말 심각하구나”라는 생각이 먼저 떠올랐습니다. ● 군기 빠진 북한군 실상애기봉 전망대 맞은편에 나타난 자주포 3대는 M-1975 자주포로 보입니다.",
+   "press": "동아일보",
+   "source": "동아일보",
+   "link": "https://n.news.naver.com/article/020/0003759098",
    "selection": "정치",
-   "feed": "뉴스 01. 유시민 \"재산 100억 반도 안 돼…이재명 '코스피 5000' 믿고 처음 주식 보유\"\n\n유시민 작가가 자신의 재산과 관련한 최근 각종 소문에 대해 “100억원 반도 안 된다”며 입을 열었습니다. 지난 28일 유 작가는 유튜브 채널 '박시영TV'에 출연해 “왜 자산이 많다는 건지 모르겠다”고 답했습니다. 유 작가는 주식투자에 대해 언급하기도 했습니다.\n\n그는 “이재명 정부의 정권교체가 확실히 되고 이 대통령이 '주가지수 5000'을 공약해 그걸 믿고 예금으로 처음 조금 주식을 가져봤다”고 말했습니다. 최근 일부 여권 성향의 지지층 사이에서 다시 불거지고 있는 이른바 신라젠 연루 의혹에 대해서도 \"의혹을 제기하는 쪽이 증명해야 된다\"며 재차 반박하기도 했습니다. 최근 유 작가를 둘러싸고 이른바 '신라젠 연루 의혹'도 다시 불거진 상황, 유 작가는 의혹을 제기하는 쪽이 증명해야 한다고 선을 그었습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000518290"
+   "feed": "뉴스 01. 여군까지 최전방에? 군기 빠진 북한군의 생생한 모습 [주성하의 ‘北토크’]\n\n분단의 장벽 너머에서 일어나는 일들을 반세기 동안 북한을 지켜봐 온 주성하 기자의 시선으로 풀어봅니다. 경기도 김포시 애기봉 전망대 맞은편에 나타난 북한군 자주포가 이번 주엔 화제가 됐습니다. 김여정 노동당 총무부장이 21일 ‘남부 국경선’ 요새화 현장을 시찰하면서 “저 불량배 무리들이 우리의 새로운 화력 구분대들이 사격 진지를 차지한 것을 알게 만들어야 한다”고 협박한 지 나흘 만에 북한 자주포 3대가 등장했습니다.\n\n● 콘크리트 기둥을 멘 여군애기봉 전망대 맞은편엔 수많은 북한 군인이 나와 철조망을 설치하는 공사를 진행하고 있었습니다. 이 사진을 통해 기자는 ‘북한 여군들의 열악한 인권’을 떠올리기 전에 먼저 “북한군도 병력난이 정말 심각하구나”라는 생각이 먼저 떠올랐습니다. ● 군기 빠진 북한군 실상애기봉 전망대 맞은편에 나타난 자주포 3대는 M-1975 자주포로 보입니다.\n\n출처: 동아일보 / https://n.news.naver.com/article/020/0003759098"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/03.png",
-   "pngBytes": 1607979,
-   "title": "민주당 35%·국민의힘 30%.. 오차범위 내 좁혀져 [갤럽]",
-   "summary": "더불어민주당과 국민의힘 정당 지지율이 오차범위 내로 좁혀졌다는 여론조사 결과가 오늘 나왔습니다. 한국갤럽이 오늘 발표한 지난 27일부터 29일까지 전국 만 18세 이상…",
-   "summary_long": "더불어민주당과 국민의힘 정당 지지율이 오차범위 내로 좁혀졌다는 여론조사 결과가 오늘(30일) 나왔습니다. 한국갤럽이 오늘 발표한 지난 27일부터 29일까지 전국 만 18세 이상 유권자 1,000명을 대상으로 조사한 결과에 따르면, 더불어민주당 35%, 국민의힘 30%로 나타났습니다. 직전 조사 대비(10월 4주) 더불어민주당은 2%p 하락했고, 국민의힘은 2%p 상승했습니다.\n\n갤럽 조사 기준 이재명 정부 출범 이후 여당 지지도는 최저치(10월 2주와 동률), 제1야당은 최고치(9월 1주와 동률)를 기록했습니다. 긍정 평가 이유로는 외교(17%), 경제·민생(14%), 소통(8%) 등이 꼽혔습니다. 부정 평가 이유로는 부동산 정책(19%)이 가장 높았으며, 경제·민생(17%), 국방/안보/대북(10%) 등이었습니다.",
-   "press": "전주MBC",
-   "source": "전주MBC",
-   "link": "https://n.news.naver.com/article/659/0000048269",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/03.png",
+   "pngBytes": 1166381,
+   "title": "이재명 대통령 '서울 집값 하락' 글 공유하며 \"견디는 기간\"",
+   "summary": "이재명 대통령은 31일 소셜미디어 X에 \"자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 이재명 대통령이 공유한 게시물은 서울 강남 지역의 공인중개사들…",
+   "summary_long": "이재명 대통령은 31일 소셜미디어 X(엑스)에 \"자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 인내의 시간이 지나고 나면 결국 알게 될 것\"이라며 \"국민주권정부는 합니다\"라고 했다. 이재명 대통령이 공유한 게시물은 서울 강남 지역의 공인중개사들 사이에서 조만간 강남3구를 시작으로 서울 외곽 지역까지 집값이 하락 국면이 될 것이라는 전망을 담았다.\n\n해당 글은 이번 정부 정책이 시장의 생리를 꿰뚫고 있다며 정부 정책이 바뀌지 않는 한 서울 집값이 하락할 것이라는 내용이다. 이재명 대통령은 지난 5월6일에도 \"부동산 정상화는 피할 수 없는 시대적 흐름이자 반드시 해야 할 국가의 핵심 과제\"라고 밝힌 바 있다.",
+   "press": "미디어오늘",
+   "source": "미디어오늘",
+   "link": "https://n.news.naver.com/article/006/0000138503",
    "selection": "정치",
-   "feed": "뉴스 02. 민주당 35%·국민의힘 30%.. 오차범위 내 좁혀져 [갤럽]\n\n더불어민주당과 국민의힘 정당 지지율이 오차범위 내로 좁혀졌다는 여론조사 결과가 오늘(30일) 나왔습니다. 한국갤럽이 오늘 발표한 지난 27일부터 29일까지 전국 만 18세 이상 유권자 1,000명을 대상으로 조사한 결과에 따르면, 더불어민주당 35%, 국민의힘 30%로 나타났습니다. 직전 조사 대비(10월 4주) 더불어민주당은 2%p 하락했고, 국민의힘은 2%p 상승했습니다.\n\n갤럽 조사 기준 이재명 정부 출범 이후 여당 지지도는 최저치(10월 2주와 동률), 제1야당은 최고치(9월 1주와 동률)를 기록했습니다. 긍정 평가 이유로는 외교(17%), 경제·민생(14%), 소통(8%) 등이 꼽혔습니다. 부정 평가 이유로는 부동산 정책(19%)이 가장 높았으며, 경제·민생(17%), 국방/안보/대북(10%) 등이었습니다.\n\n출처: 전주MBC / https://n.news.naver.com/article/659/0000048269"
+   "feed": "뉴스 02. 이재명 대통령 '서울 집값 하락' 글 공유하며 \"견디는 기간\"\n\n이재명 대통령은 31일 소셜미디어 X(엑스)에 \"자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 인내의 시간이 지나고 나면 결국 알게 될 것\"이라며 \"국민주권정부는 합니다\"라고 했다. 이재명 대통령이 공유한 게시물은 서울 강남 지역의 공인중개사들 사이에서 조만간 강남3구를 시작으로 서울 외곽 지역까지 집값이 하락 국면이 될 것이라는 전망을 담았다.\n\n해당 글은 이번 정부 정책이 시장의 생리를 꿰뚫고 있다며 정부 정책이 바뀌지 않는 한 서울 집값이 하락할 것이라는 내용이다. 이재명 대통령은 지난 5월6일에도 \"부동산 정상화는 피할 수 없는 시대적 흐름이자 반드시 해야 할 국가의 핵심 과제\"라고 밝힌 바 있다.\n\n출처: 미디어오늘 / https://n.news.naver.com/article/006/0000138503"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/04.png",
-   "pngBytes": 1387390,
-   "title": "“내가 세상 떠나면 꼭 들러달라” 故최불암 운구 행렬 향하는 곳",
-   "summary": "초록우산 “국민 아버지”로 사랑받아 온 배우 최불암이 40여 년간 인연을 맺어온 아동복지단체 초록우산 어린이재단의 배웅을 받으며 마지막 길에 오른다. 이에 따라 발인…",
-   "summary_long": "초록우산 “국민 아버지”로 사랑받아 온 배우 최불암이 40여 년간 인연을 맺어온 아동복지단체 초록우산 어린이재단의 배웅을 받으며 마지막 길에 오른다. 고인은 2007년 에티오피아를 시작으로 2014년 우간다, 2015년 케냐 등 아프리카 지역을 직접 찾아갔다. 고령에도 굶주림과 질병으로 고통받는 아이들을 만나 이들의 아픔에 공감하고, 해외아동 지원에 대한 국민적 관심을 높였다.\n\n2012년에는 위기 청소년과 학교 밖 청소년들이 자존감을 회복하고 사회의 일원으로 건강하게 성장할 수 있도록 지원하기 위해 사단법인 제로캠프를 설립했다. 고인은 생전 주변 사람들에게 자신이 세상을 떠나면 장지로 향하기 전 초록우산 재단에 꼭 들러달라는 뜻을 남겼다고 한다. 이에 따라 발인 이후 운구 행렬은 장지로 떠나기 전 서울 중구 무교동 초록우산 본부를 방문할 예정이다.",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/04.png",
+   "pngBytes": 2332538,
+   "title": "“13살 연하 아내, 구찌 누나였다”…호빠에 2억 쏜 女 충격 실체",
+   "summary": "그는 지난해 13살 어린 아내가 서울 수유의 호스트바 선수와 데이트하는 현장을 덮친 뒤 상간 소송을 제기했다. 그런데 아내는 판사에게 “남자친구는 제가 결혼한 사실을…",
+   "summary_long": "탐정은 사건의 상간자인 호스트바 선수를 찾아내고자 신입 선수로 위장했다. 그는 지난해 13살 어린 아내가 서울 수유의 호스트바 선수와 데이트하는 현장을 덮친 뒤 상간 소송을 제기했다. 그런데 아내는 판사에게 “남자친구는 제가 결혼한 사실을 몰랐어요”라며 선수의 결백을 호소했다.\n\n남편이 돼지고기를 삶기 위해 새벽부터 문밖을 나선 날, 아내는 집안의 패물을 싹 다 챙긴 뒤 가출했다. “당장 아내 노트북으로 유튜브를 켜보세요.” 탐정을 통해 아내를 찾아낸 남편이 돌아오라고 빌자, 아내는 뜻밖의 행동까지 벌인다.",
    "press": "중앙일보",
    "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003561726",
+   "link": "https://n.news.naver.com/article/025/0003561833",
    "selection": "경제·시사",
-   "feed": "뉴스 03. “내가 세상 떠나면 꼭 들러달라” 故최불암 운구 행렬 향하는 곳\n\n초록우산 “국민 아버지”로 사랑받아 온 배우 최불암이 40여 년간 인연을 맺어온 아동복지단체 초록우산 어린이재단의 배웅을 받으며 마지막 길에 오른다. 고인은 2007년 에티오피아를 시작으로 2014년 우간다, 2015년 케냐 등 아프리카 지역을 직접 찾아갔다. 고령에도 굶주림과 질병으로 고통받는 아이들을 만나 이들의 아픔에 공감하고, 해외아동 지원에 대한 국민적 관심을 높였다.\n\n2012년에는 위기 청소년과 학교 밖 청소년들이 자존감을 회복하고 사회의 일원으로 건강하게 성장할 수 있도록 지원하기 위해 사단법인 제로캠프를 설립했다. 고인은 생전 주변 사람들에게 자신이 세상을 떠나면 장지로 향하기 전 초록우산 재단에 꼭 들러달라는 뜻을 남겼다고 한다. 이에 따라 발인 이후 운구 행렬은 장지로 떠나기 전 서울 중구 무교동 초록우산 본부를 방문할 예정이다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003561726"
+   "feed": "뉴스 03. “13살 연하 아내, 구찌 누나였다”…호빠에 2억 쏜 女 충격 실체\n\n탐정은 사건의 상간자인 호스트바 선수를 찾아내고자 신입 선수로 위장했다. 그는 지난해 13살 어린 아내가 서울 수유의 호스트바 선수와 데이트하는 현장을 덮친 뒤 상간 소송을 제기했다. 그런데 아내는 판사에게 “남자친구는 제가 결혼한 사실을 몰랐어요”라며 선수의 결백을 호소했다.\n\n남편이 돼지고기를 삶기 위해 새벽부터 문밖을 나선 날, 아내는 집안의 패물을 싹 다 챙긴 뒤 가출했다. “당장 아내 노트북으로 유튜브를 켜보세요.” 탐정을 통해 아내를 찾아낸 남편이 돌아오라고 빌자, 아내는 뜻밖의 행동까지 벌인다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003561833"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/05.png",
-   "pngBytes": 573195,
-   "title": "'영원한 수사반장'·'국민 아버지' 최불암 별세…향년 87세",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/05.png",
+   "pngBytes": 594830,
+   "title": "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
    "summary": "",
    "summary_long": "",
-   "press": "부산일보",
-   "source": "부산일보",
-   "link": "https://n.news.naver.com/article/082/0001404828",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005756916",
    "selection": "경제·시사",
-   "feed": "뉴스 04. '영원한 수사반장'·'국민 아버지' 최불암 별세…향년 87세\n\n\n\n출처: 부산일보 / https://n.news.naver.com/article/082/0001404828"
+   "feed": "뉴스 04. “52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발\n\n\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005756916"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/06.png",
-   "pngBytes": 1591451,
-   "title": "“좋아하는 만큼 싫어” 김민석·한동훈, 차기주자 ‘비호감 정치인’ 조사 선두권",
-   "summary": "김민석 더불어민주당 대표와 한동훈 무소속 의원. 차기 대선주자 선호도 조사에서 각각 범진보와 범보수 진영의 선두권에 있는 김민석 더불어민주당 대표와 한동훈 무소속 의원이…",
-   "summary_long": "차기 대선주자 선호도 조사에서 각각 범진보와 범보수 진영의 선두권에 있는 김민석 더불어민주당 대표와 한동훈 무소속 의원이 ‘비호감 정치인’을 묻는 조사에서도 가장 높은 응답률을 기록한 것으로 나타났다. 만 18세~20대에서는 정청래 의원이 17.1%로 가장 높았고 이진숙 의원 16.1%, 한동훈 의원 15.9%, 김민석 대표 15.4% 순이었다. 30대에서는 김 대표가 30.7%로 가장 높았으며 조 원장 15.0%, 한 의원 13.3%가 뒤를 이었다.\n\n서울에서는 김 대표 23.2%, 이진숙 의원 15.5%, 한 의원 14.4%였고 경기·인천에서는 김 대표 20.0%, 한 의원 18.9%, 이진숙 의원 16.8%로 나타났다. 부산·울산·경남에서도 김 대표가 21.1%로 가장 높았고 한 의원 18.9%, 이진숙 의원 16.7%가 뒤를 이었다. 호남·제주에서는 이진숙 의원이 21.4%로 가장 높았으며 한 의원 19.2%, 장 대표 18.0% 순이었다.",
-   "press": "헤럴드경제",
-   "source": "헤럴드경제",
-   "link": "https://n.news.naver.com/article/016/0002716453",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/06.png",
+   "pngBytes": 2088621,
+   "title": "[취재일기] 떨어진 감 주워놓고, 농사 잘 지었다는 장동혁",
+   "summary": "장동혁 국민의힘 대표는 2020년 국민의힘 출범 이후 '최장수 당대표'라는 기록을 썼고, 때마침 이재명 대통령과 더불어민주당의 지지율은 동반 하락했다. 그렇다면 지금의…",
+   "summary_long": "\"반(反)장동혁으로 분류되면 용납할 수 없다.\" 국민의힘의 한 지도부 인사가 기자에게 한 말이다. 장동혁 국민의힘 대표는 2020년 국민의힘 출범 이후 '최장수 당대표'라는 기록을 썼고, 때마침 이재명 대통령과 더불어민주당의 지지율은 동반 하락했다.\n\n그렇다면 지금의 '지지율'을 장동혁 대표의 노선에 대한 '지지'로 읽는 것은 아전인수가 된다. 강경 노선 덕에 지지율이 올랐다고 믿으니 더 오른쪽으로 향하고, 대표가 잘해서 얻은 성과라고 여기니 당내 비판도 받아들이기 어려워지는 것이다. 그 끝에 남는 것은 경쟁력 있는 국민의힘이 아니라 말 잘 듣는 '장동혁의 국민의힘'이다.",
+   "press": "시사저널",
+   "source": "시사저널",
+   "link": "https://n.news.naver.com/article/586/0000141317",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. “좋아하는 만큼 싫어” 김민석·한동훈, 차기주자 ‘비호감 정치인’ 조사 선두권\n\n차기 대선주자 선호도 조사에서 각각 범진보와 범보수 진영의 선두권에 있는 김민석 더불어민주당 대표와 한동훈 무소속 의원이 ‘비호감 정치인’을 묻는 조사에서도 가장 높은 응답률을 기록한 것으로 나타났다. 만 18세~20대에서는 정청래 의원이 17.1%로 가장 높았고 이진숙 의원 16.1%, 한동훈 의원 15.9%, 김민석 대표 15.4% 순이었다. 30대에서는 김 대표가 30.7%로 가장 높았으며 조 원장 15.0%, 한 의원 13.3%가 뒤를 이었다.\n\n서울에서는 김 대표 23.2%, 이진숙 의원 15.5%, 한 의원 14.4%였고 경기·인천에서는 김 대표 20.0%, 한 의원 18.9%, 이진숙 의원 16.8%로 나타났다. 부산·울산·경남에서도 김 대표가 21.1%로 가장 높았고 한 의원 18.9%, 이진숙 의원 16.7%가 뒤를 이었다. 호남·제주에서는 이진숙 의원이 21.4%로 가장 높았으며 한 의원 19.2%, 장 대표 18.0% 순이었다.\n\n출처: 헤럴드경제 / https://n.news.naver.com/article/016/0002716453"
+   "feed": "뉴스 05. [취재일기] 떨어진 감 주워놓고, 농사 잘 지었다는 장동혁\n\n\"반(反)장동혁으로 분류되면 용납할 수 없다.\" 국민의힘의 한 지도부 인사가 기자에게 한 말이다. 장동혁 국민의힘 대표는 2020년 국민의힘 출범 이후 '최장수 당대표'라는 기록을 썼고, 때마침 이재명 대통령과 더불어민주당의 지지율은 동반 하락했다.\n\n그렇다면 지금의 '지지율'을 장동혁 대표의 노선에 대한 '지지'로 읽는 것은 아전인수가 된다. 강경 노선 덕에 지지율이 올랐다고 믿으니 더 오른쪽으로 향하고, 대표가 잘해서 얻은 성과라고 여기니 당내 비판도 받아들이기 어려워지는 것이다. 그 끝에 남는 것은 경쟁력 있는 국민의힘이 아니라 말 잘 듣는 '장동혁의 국민의힘'이다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000141317"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/07.png",
-   "pngBytes": 587936,
-   "title": "주진우 \"대통령 가족 골프, 민주당에서도 말 달라…입장부터 정리하라\"",
-   "summary": "",
-   "summary_long": "",
-   "press": "머니투데이",
-   "source": "머니투데이",
-   "link": "https://n.news.naver.com/article/008/0005434274",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/07.png",
+   "pngBytes": 2083907,
+   "title": "장동혁 \"李대통령 일가, 황제 골프 넘어 '민폐 골프' '민폐 가족'\"",
+   "summary": "장동혁 국민의힘 대표는 31일 이재명 대통령과 가족의 골프 관련 의혹들을 제기하면서 \"이 정도면 '황제 골프' 수준을 넘어 '민폐 골프'\"라며 \"대통령 일가가 '민폐…",
+   "summary_long": "장동혁 국민의힘 대표는 31일 이재명 대통령과 가족의 골프 관련 의혹들을 제기하면서 \"이 정도면 '황제 골프' 수준을 넘어 '민폐 골프'\"라며 \"대통령 일가가 '민폐 가족'이 되고 있다\"고 지적했다. 장 대표는 이날 페이스북에 글을 올려 \"이 대통령은 해군 장병이 실종되어 죽어갈 때도, 건물이 무너져서 어르신들의 생명이 위태로울 때도 골프 라운딩을 멈추지 않았다. 제정신 박힌 대통령이라면 적어도 그런 날은 골프를 멈췄어야 하는 것 아닌가\"라며 이같이 밝혔다.\n\n장 대표는 이어 이 대통령이 더불어민주당 대표 시절 윤석열 당시 대통령의 골프 연습 의혹을 비판한 것을 언급하며 \"그래 놓고 본인은 틈만 나면 가족까지 동반해서 황제 골프를 즐긴다\"고 말했다. 그러면서 \"민주당은 '대통령도 사람'이라며 휴식과 운동 차원의 골프를 칠 수 있다고 변명한다. 청와대는 '사적 일정을 정치적 공방으로 활용하는 것에 유감을 표한다'고 한다\"며 \"'대통령에게 사적 일정이 있느냐', 이 정권 야당 시절의 단골 레퍼토리 아닌가\"라고 했다.",
+   "press": "시사저널",
+   "source": "시사저널",
+   "link": "https://n.news.naver.com/article/586/0000141312",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 주진우 \"대통령 가족 골프, 민주당에서도 말 달라…입장부터 정리하라\"\n\n\n\n출처: 머니투데이 / https://n.news.naver.com/article/008/0005434274"
+   "feed": "뉴스 06. 장동혁 \"李대통령 일가, 황제 골프 넘어 '민폐 골프' '민폐 가족'\"\n\n장동혁 국민의힘 대표는 31일 이재명 대통령과 가족의 골프 관련 의혹들을 제기하면서 \"이 정도면 '황제 골프' 수준을 넘어 '민폐 골프'\"라며 \"대통령 일가가 '민폐 가족'이 되고 있다\"고 지적했다. 장 대표는 이날 페이스북에 글을 올려 \"이 대통령은 해군 장병이 실종되어 죽어갈 때도, 건물이 무너져서 어르신들의 생명이 위태로울 때도 골프 라운딩을 멈추지 않았다. 제정신 박힌 대통령이라면 적어도 그런 날은 골프를 멈췄어야 하는 것 아닌가\"라며 이같이 밝혔다.\n\n장 대표는 이어 이 대통령이 더불어민주당 대표 시절 윤석열 당시 대통령의 골프 연습 의혹을 비판한 것을 언급하며 \"그래 놓고 본인은 틈만 나면 가족까지 동반해서 황제 골프를 즐긴다\"고 말했다. 그러면서 \"민주당은 '대통령도 사람'이라며 휴식과 운동 차원의 골프를 칠 수 있다고 변명한다. 청와대는 '사적 일정을 정치적 공방으로 활용하는 것에 유감을 표한다'고 한다\"며 \"'대통령에게 사적 일정이 있느냐', 이 정권 야당 시절의 단골 레퍼토리 아닌가\"라고 했다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000141312"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/08.png",
-   "pngBytes": 623021,
-   "title": "[속보] 국힘, 397억 토해낼 판?…黨 운명 걸린 '윤석열 선거법' 항소심 내달 4일 '생중계' 결정",
-   "summary": "",
-   "summary_long": "",
-   "press": "프레시안",
-   "source": "프레시안",
-   "link": "https://n.news.naver.com/article/002/0002463473",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/08.png",
+   "pngBytes": 1329806,
+   "title": "장동혁, 이 대통령에 \"비판하는 국민 돼지로 보이느냐\"",
+   "summary": "2026.10.31 연합뉴스국민의힘이 이재명 대통령의 '돼지 눈에는 돼지만 보인다'는 발언을 두고 \"본인을 비판하는 국민은 전부 돼지로 보이느냐\"며 공세를 펼쳤다.…",
+   "summary_long": "▲ 국민의힘 장동혁 대표가 31일 국회 의원회관에서 열린 2027 서울 세계청년대회의 성공적 개최를 위한 국회·정부·조직위원회 공동선언문 선포식에서 축사를 하고 있다. 2026.10.31 연합뉴스국민의힘이 이재명 대통령의 '돼지 눈에는 돼지만 보인다'는 발언을 두고 \"본인을 비판하는 국민은 전부 돼지로 보이느냐\"며 공세를 펼쳤다. 장동혁 국민의힘 대표는 31일 페이스북을 통해 이 대통령을 향해 \"링거 안 맞고 코피 안 터져도 되니 이제 그만 자중하시라\"며 이같이 비판했다.\n\n조용술 국민의힘 대변인도 논평을 통해 \"국민의 정당한 문제 제기를 깎아내리는 것도 모자라 돼지에까지 빗대는 오만함을 드러냈다\"며 \"국민이 돼지로 보인다면 그것이야말로 돼지의 눈 아니냐\"고 비꼬았다. 3선 성일종 의원도 페이스북에서 \"돼지 눈에는 돼지만 보인다고 하는데 돼지나 고양이도 밥 주는 주인을 알아보고 따른다. 이어 \"외교·안보를 비롯해 주택과 주식 문제까지 서민의 삶이 무너진 상황에서 외유 자체가 어떻게 돼지의 요구냐\"고 비판했다.",
+   "press": "강원도민일보",
+   "source": "강원도민일보",
+   "link": "https://n.news.naver.com/article/654/0000208549",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. [속보] 국힘, 397억 토해낼 판?…黨 운명 걸린 '윤석열 선거법' 항소심 내달 4일 '생중계' 결정\n\n\n\n출처: 프레시안 / https://n.news.naver.com/article/002/0002463473"
+   "feed": "뉴스 07. 장동혁, 이 대통령에 \"비판하는 국민 돼지로 보이느냐\"\n\n▲ 국민의힘 장동혁 대표가 31일 국회 의원회관에서 열린 2027 서울 세계청년대회의 성공적 개최를 위한 국회·정부·조직위원회 공동선언문 선포식에서 축사를 하고 있다. 2026.10.31 연합뉴스국민의힘이 이재명 대통령의 '돼지 눈에는 돼지만 보인다'는 발언을 두고 \"본인을 비판하는 국민은 전부 돼지로 보이느냐\"며 공세를 펼쳤다. 장동혁 국민의힘 대표는 31일 페이스북을 통해 이 대통령을 향해 \"링거 안 맞고 코피 안 터져도 되니 이제 그만 자중하시라\"며 이같이 비판했다.\n\n조용술 국민의힘 대변인도 논평을 통해 \"국민의 정당한 문제 제기를 깎아내리는 것도 모자라 돼지에까지 빗대는 오만함을 드러냈다\"며 \"국민이 돼지로 보인다면 그것이야말로 돼지의 눈 아니냐\"고 비꼬았다. 3선 성일종 의원도 페이스북에서 \"돼지 눈에는 돼지만 보인다고 하는데 돼지나 고양이도 밥 주는 주인을 알아보고 따른다. 이어 \"외교·안보를 비롯해 주택과 주식 문제까지 서민의 삶이 무너진 상황에서 외유 자체가 어떻게 돼지의 요구냐\"고 비판했다.\n\n출처: 강원도민일보 / https://n.news.naver.com/article/654/0000208549"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-10-31/09.png",
-   "pngBytes": 1345903
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/09.png",
+   "pngBytes": 1345971
   }
  ],
- "caption": "📰 10월 31일 오늘의 뉴스\n\n1. 유시민 \"재산 100억 반도 안 돼…이재명 '코스피 5000' 믿고 처음 주식 보유\"\n   유시민 작가가 자신의 재산과 관련한 최근 각종 소문에 대해 “100억원 반도 안 된다”며 입을 열었습니다. 지난 28일 유 작가는 유튜브 채널 '박시영TV'에 출연해…\n2. 민주당 35%·국민의힘 30%.. 오차범위 내 좁혀져 [갤럽]\n   더불어민주당과 국민의힘 정당 지지율이 오차범위 내로 좁혀졌다는 여론조사 결과가 오늘 나왔습니다. 한국갤럽이 오늘 발표한 지난 27일부터 29일까지 전국 만 18세 이상…\n3. “내가 세상 떠나면 꼭 들러달라” 故최불암 운구 행렬 향하는 곳\n   초록우산 “국민 아버지”로 사랑받아 온 배우 최불암이 40여 년간 인연을 맺어온 아동복지단체 초록우산 어린이재단의 배웅을 받으며 마지막 길에 오른다. 이에 따라 발인…\n4. '영원한 수사반장'·'국민 아버지' 최불암 별세…향년 87세\n5. “좋아하는 만큼 싫어” 김민석·한동훈, 차기주자 ‘비호감 정치인’ 조사 선두권\n   김민석 더불어민주당 대표와 한동훈 무소속 의원. 차기 대선주자 선호도 조사에서 각각 범진보와 범보수 진영의 선두권에 있는 김민석 더불어민주당 대표와 한동훈 무소속 의원이…\n6. 주진우 \"대통령 가족 골프, 민주당에서도 말 달라…입장부터 정리하라\"\n7. [속보] 국힘, 397억 토해낼 판?…黨 운명 걸린 '윤석열 선거법' 항소심 내달 4일 '생중계' 결정\n\n🗣 “이재명 정부의 정권교체가 확실히 되고 이 대통령이 '주가지수 5000'을 공약해 그걸 믿고 예금으로 처음 조금 주식을 가져봤다”\n이 발언을 그대로 실은 보도 2건 · JTBC · 이데일리\n(3건을 채우지 못했습니다 — 같은 발언을 실은 기사가 이만큼만 잡혔습니다)\n· JTBC — 유시민 \"재산 100억 반도 안 돼…이재명 ‘코스피 5000’ 믿고 처음 주식 보유\"\n· 이데일리 — 유시민 \"재산? 100억의 반도 안돼…주식은 코스피 3000도 안될 때 샀다\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, 머니투데이, 부산일보, 전주MBC, 중앙일보, 프레시안, 헤럴드경제"
+ "caption": "📰 11월 1일 오늘의 뉴스\n\n1. 여군까지 최전방에? 군기 빠진 북한군의 생생한 모습 [주성하의 ‘北토크’]\n   경기도 김포시 애기봉 전망대 맞은편에 나타난 북한군 자주포가 이번 주엔 화제가 됐습니다. 김여정 노동당 총무부장이 21일 ‘남부 국경선’ 요새화 현장을 시찰하면서 “저…\n2. 이재명 대통령 '서울 집값 하락' 글 공유하며 \"견디는 기간\"\n   이재명 대통령은 31일 소셜미디어 X에 \"자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 이재명 대통령이 공유한 게시물은 서울 강남 지역의 공인중개사들…\n3. “13살 연하 아내, 구찌 누나였다”…호빠에 2억 쏜 女 충격 실체\n   그는 지난해 13살 어린 아내가 서울 수유의 호스트바 선수와 데이트하는 현장을 덮친 뒤 상간 소송을 제기했다. 그런데 아내는 판사에게 “남자친구는 제가 결혼한 사실을…\n4. “52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발\n5. [취재일기] 떨어진 감 주워놓고, 농사 잘 지었다는 장동혁\n   장동혁 국민의힘 대표는 2020년 국민의힘 출범 이후 '최장수 당대표'라는 기록을 썼고, 때마침 이재명 대통령과 더불어민주당의 지지율은 동반 하락했다. 그렇다면 지금의…\n6. 장동혁 \"李대통령 일가, 황제 골프 넘어 '민폐 골프' '민폐 가족'\"\n   장동혁 국민의힘 대표는 31일 이재명 대통령과 가족의 골프 관련 의혹들을 제기하면서 \"이 정도면 '황제 골프' 수준을 넘어 '민폐 골프'\"라며 \"대통령 일가가 '민폐…\n7. 장동혁, 이 대통령에 \"비판하는 국민 돼지로 보이느냐\"\n   2026.10.31 연합뉴스국민의힘이 이재명 대통령의 '돼지 눈에는 돼지만 보인다'는 발언을 두고 \"본인을 비판하는 국민은 전부 돼지로 보이느냐\"며 공세를 펼쳤다.…\n\n🗣 “자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 인내의 시간이 지나고 나면 결국 알게 될 것”\n이 발언을 그대로 실은 보도 10건 · 미디어오늘 · 프레시안 · 머니투데이 · 연합인포맥스\n· 미디어오늘 — 이재명 대통령 ‘서울 집값 하락’ 글 공유하며 “견디는 기간”\n· 프레시안 — [속보] 李대통령, 다시 '집값 하락' 전망 공유…\"자산시장 정상화 견디는 중\"\n· 머니투데이 — 李대통령 \"자산시장 정상화 향한 힘든 길, 지금은 견디는 중\" - 머니투데이\n· 연합인포맥스 — 李대통령, \"부동산 정상화, 지금은 견디는 중…국민주권정부는 한다\"\n· 조선일보 — 서울 집값 90주 연속 올랐는데... 李 \"자산시장 정상화 향한 힘든 길\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한 #대통령실\n\n출처: 강원도민일보, 동아일보, 매일경제, 미디어오늘, 시사저널, 중앙일보"
 }
