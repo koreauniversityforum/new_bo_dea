@@ -1,269 +1,337 @@
 {
- "date": "2026-11-01",
- "generated_at": "2026-11-01T10:43:54+09:00",
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T10:59:49+09:00",
  "mode": "daily",
- "window_start": "2026-10-31T00:00:00+09:00",
- "window_end": "2026-10-31T23:59:59+09:00",
+ "window_start": "2026-11-01T00:00:00+09:00",
+ "window_end": "2026-11-01T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "여군까지 최전방에? 군기 빠진 북한군의 생생한 모습 [주성하의 ‘北토크’]",
-   "source": "동아일보",
-   "url": "https://n.news.naver.com/article/020/0003759098",
-   "published_at": "2026-10-31T09:01:12+09:00",
+   "title": "장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"",
+   "source": "MBC",
+   "url": "https://n.news.naver.com/article/214/0001532758",
+   "published_at": "2026-11-01T16:29:42+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "경기도 김포시 애기봉 전망대 맞은편에 나타난 북한군 자주포가 이번 주엔 화제가 됐습니다. 김여정 노동당 총무부장이 21일 ‘남부 국경선’ 요새화 현장을 시찰하면서 “저…",
-   "summary_long": "분단의 장벽 너머에서 일어나는 일들을 반세기 동안 북한을 지켜봐 온 주성하 기자의 시선으로 풀어봅니다. 경기도 김포시 애기봉 전망대 맞은편에 나타난 북한군 자주포가 이번 주엔 화제가 됐습니다. 김여정 노동당 총무부장이 21일 ‘남부 국경선’ 요새화 현장을 시찰하면서 “저 불량배 무리들이 우리의 새로운 화력 구분대들이 사격 진지를 차지한 것을 알게 만들어야 한다”고 협박한 지 나흘 만에 북한 자주포 3대가 등장했습니다.\n\n● 콘크리트 기둥을 멘 여군애기봉 전망대 맞은편엔 수많은 북한 군인이 나와 철조망을 설치하는 공사를 진행하고 있었습니다. 이 사진을 통해 기자는 ‘북한 여군들의 열악한 인권’을 떠올리기 전에 먼저 “북한군도 병력난이 정말 심각하구나”라는 생각이 먼저 떠올랐습니다. ● 군기 빠진 북한군 실상애기봉 전망대 맞은편에 나타난 자주포 3대는 M-1975 자주포로 보입니다.",
+   "summary": "장동혁 국민의힘 대표가, 지난 지방선거 투표지 부족 사태를 수사 중인 특검의 수사 \"결과를 지켜봐야 한다\"면서도 반드시 재선거를 해야 한다고 강조했습니다. 장 대표는…",
+   "summary_long": "장동혁 국민의힘 대표가, 지난 지방선거 투표지 부족 사태를 수사 중인 특검의 수사 \"결과를 지켜봐야 한다\"면서도 반드시 재선거를 해야 한다고 강조했습니다. 장 대표는 오늘 MBN에 출연해 \"대량의 투표용지 부족 사태가 발생한 것 자체가 선거에 영향을 미쳤다\"며 특검의 선관위 서버 압수수색을 들어 \"법원이 전산 조작에 대해 어느 정도 범죄 혐의를 인정했다\"고 주장했습니다. 진행자가 여권에선 '국민의힘이 승리한 선거에서 부정선거를 주장하느냐'고 반문한다고 지적하자, 장 대표는 \"선거에 부정이 있다면 선거 결과의 승패를 따질 문제가 아니\"라고 반박했습니다.\n\n그러면서 \"투표용지 부족 사태만 하더라도 부정선거로 부르기에 충분하다\"며, \"이긴 선거든 진 선거든 반드시 재선거로 연결되는 것이 맞다\"고 말했습니다. 장 대표는 또 최근 오찬 회동에서 박근혜 전 대통령이 \"선관위 개혁 문제에 대해서는 놓치지 않고 끝까지 결과를 만들어낼 수 있도록 해야 한다\"고 당부했다고 전했습니다. 장 대표는 국민의힘의 지지율 상승에 대해선 \"국민들이 심리적으로 이재명 정부를 탄핵했다\"며 실망한 국민들이 \"대안 정당으로서 국민의힘을 주목하기 때문\"이라고 주장했습니다.",
    "quotes": [
-    "저 불량배 무리들이 우리의 새로운 화력 구분대들이 사격 진지를 차지한 것을 알게 만들어야 한다",
-    "재능이 아주 뛰어난 사람은 숨어 있어도 저절로 남의 눈에 띄며 드러난다",
-    "나쁜 무엇을 아무리 감추려 해도 감출 수 없다"
+    "확고한 신념을 가진 인재들로 다음 총선에서 이기고, 정권을 가져와야 대한민국의 시스템을 지켜낼 수 있다",
+    "선관위 개혁 문제에 대해서는 놓치지 않고 끝까지 결과를 만들어낼 수 있도록 해야 한다",
+    "대량의 투표용지 부족 사태가 발생한 것 자체가 선거에 영향을 미쳤다"
    ],
-   "press": "동아일보",
+   "press": "MBC",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "재능이 아주 뛰어난 사람은 숨어 있어도 저절로 남의 눈에 띄며 드러난다",
-    "n": 2,
+    "quote": "선관위 개혁 문제에 대해서는 놓치지 않고 끝까지 결과를 만들어낼 수 있도록 해야 한다",
+    "n": 1,
     "verified": 0,
     "items": [
      {
-      "press": "동아일보",
-      "title": "여군까지 최전방에? 군기 빠진 북한군의 생생한 모습 [주성하의 ‘北토크’]",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Hald1T2YxYk9xYUtUU1FSc3U3UFBxc0w2bkFWa3RjNWtkTDJ1UEtRQWg0RXRMbFlFeUxzTzEyU0dqVWh5ZE5MRHNMWVl0dGVXRXcxdi1BQWJSekJFaENQS0F1TFRHUdIBZkFVX3lxTE1Hald1T2YxYk9xYUtUU1FSc3U3UFBxc0w2bkFWa3RjNWtkTDJ1UEtRQWg0RXRMbFlFeUxzTzEyU0dqVWh5ZE5MRHNMWVl0dGVXRXcxdi1BQWJSekJFaENQS0F1TFRHUQ?oc=5"
-     },
-     {
-      "press": "자주시보",
-      "title": "[개벽예감 700] 저격수들이 방아쇠를 당기는 순간",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB0T2Fpb1dGT3VyMzdxTnB4QnhBd0J2UVZaMFdjNE4tZzVxeUhYaWQxZmJhZmN5c1NObGw2cDZ6UGRDQ3c?oc=5"
+      "press": "MBC 뉴스",
+      "title": "장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRdjRwY0NkeTJLcUt6WUJQdzQ5OVBVc0tScTE5c3FoUGljZk5KMnpuS1diM0ZjdWd0TEY2emFpcFFsQ3k3RlBvc3JDaG1OdWVsb05fTk9wa1ZTekhKLVFjQmZJMkFTSTJzX2lob014cVRzY1JvZTNCONIBeEFVX3lxTE1SSGtjRFYyZzhKSXdhcWJ2WWRVUzQzeG0xak9EazNGWlhPM05QeEs3VW84bERFNUlIR3Y5N2gwOUNTMGZYQ1JqTF9WSUcxellJTzd0UEhjdGRya19Kc21YVENrazc1REtyWFphdVVVb3VjTGthRG1NQg?oc=5"
      }
     ]
    }
   },
   {
-   "title": "이재명 대통령 '서울 집값 하락' 글 공유하며 \"견디는 기간\"",
-   "source": "미디어오늘",
-   "url": "https://n.news.naver.com/article/006/0000138503",
-   "published_at": "2026-10-31T18:07:10+09:00",
+   "title": "'쾅, 쾅, 쾅' 공중에 뿌려진 폭탄... 北, 우리 군사시설 모형 만들고 집속탄으로 때려",
+   "source": "한국일보",
+   "url": "https://n.news.naver.com/article/469/0000962894",
+   "published_at": "2026-11-01T14:34:15+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "이재명 대통령은 31일 소셜미디어 X에 \"자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 이재명 대통령이 공유한 게시물은 서울 강남 지역의 공인중개사들…",
-   "summary_long": "이재명 대통령은 31일 소셜미디어 X(엑스)에 \"자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 인내의 시간이 지나고 나면 결국 알게 될 것\"이라며 \"국민주권정부는 합니다\"라고 했다. 이재명 대통령이 공유한 게시물은 서울 강남 지역의 공인중개사들 사이에서 조만간 강남3구를 시작으로 서울 외곽 지역까지 집값이 하락 국면이 될 것이라는 전망을 담았다.\n\n해당 글은 이번 정부 정책이 시장의 생리를 꿰뚫고 있다며 정부 정책이 바뀌지 않는 한 서울 집값이 하락할 것이라는 내용이다. 이재명 대통령은 지난 5월6일에도 \"부동산 정상화는 피할 수 없는 시대적 흐름이자 반드시 해야 할 국가의 핵심 과제\"라고 밝힌 바 있다.",
+   "summary": "북한 조선중앙통신이 어제 전술탄도미사일 산포전투부 전투적용성 및 위력평가시험을 진행했다고 1일 보도했다. 북한 조선중앙통신은 미사일총국이 지난달 31일 '전술탄도미사일…",
+   "summary_long": "北, 집속탄으로 우리 군사시설 모의 타격. 북한 조선중앙통신이 어제(10월 31일) 전술탄도미사일 산포전투부(집속탄 탄두) 전투적용성 및 위력평가시험을 진행했다고 1일 보도했다. 북한이 전날 전술탄도미사일에 탑재하는 집속탄두의 위력시험을 진행했다고 1일 밝혔다.\n\n집속탄은 하나의 거대한 폭탄 안에 든 수많은 소형 폭탄을 공중에서 흩뿌리는 무기로, 북한의 주장대로라면 최대 13만㎡ 구역을 파괴할 수 있다. 북한이 공개한 사진을 보면 집속탄이 공중에서 분사해 표적으로 삼은 섬과 그 주위에 폭탄들이 떨어지고 있다. 신종우 한국국방안보포럼(KODEF) 사무총장은 \"집속탄 분산 효과와 파괴력을 검증한 것으로 보인다\"면서 \"한국군의 군사시설을 모의 표적으로 해 집속탄 시험을 한 것으로 추정된다\"고 말했다.",
    "quotes": [
-    "자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 인내의 시간이 지나고 나면 결국 알게 될 것",
-    "부동산 정상화는 피할 수 없는 시대적 흐름이자 반드시 해야 할 국가의 핵심 과제"
+    "표준2형 산포전투부(집속탄)로 12∼13정보(약 11.9∼12.9헥타르(㏊))의 표적 구역을 초강력 밀도로 초토화할 수 있다",
+    "북한이 공중·수중·지상을 아우르는 신무기를 대거 확보해 한미 연합 방어망의 탐지·요격 능력 무력화에 초점을 두고 있다",
+    "한미는 긴밀한 정보 공유하에 북한의 미사일 발사 전부터 관련 동향을 추적하며, 대비태세를 유지하고 있었다"
    ],
-   "press": "미디어오늘",
+   "press": "한국일보",
    "photo": "02.jpg",
    "quoted": {
-    "quote": "자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 인내의 시간이 지나고 나면 결국 알게 될 것",
+    "quote": "한미는 긴밀한 정보 공유하에 북한의 미사일 발사 전부터 관련 동향을 추적하며, 대비태세를 유지하고 있었다",
     "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "미디어오늘",
-      "title": "이재명 대통령 ‘서울 집값 하락’ 글 공유하며 “견디는 기간”",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTdjhaaFVORVlKVGk1TUVDeXNHaXBzZXpzYnRGbFVnTEl0WjhaN1VjZ2ZMUGloODRmZlVGSGIzV3ZXQ1ZocXljb3BkZDVDWUMwc2hvVHlYN01fSF9peWpvVi14bm9MaWlkMy1PTU5QOFM?oc=5"
+      "press": "한국일보",
+      "title": "공중으로 뿜어진 폭탄... 북, 우리 군사시설 모형 만들고 집속탄 위력 시험",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tZVcwaUVKUDh5bXpSeDk4Nm9hV0hrNzU4WHdDekktZmlUZ2txR3k2MmFfUTY5bGZaQmVqVGp0dVl6ajI5MDdTQl90RnNOZkNKbXVaWmpLU3Z6TWc4LUoycUU2UVVVMkxraUwwM1RvSmJMZGvSAXNBVV95cUxNbWVXMGlFSlA4eW16Ung5ODZvYVdIazc1OFh3Q3pJLWZpVGdrcUd5NjJhX1E2OWxmWkJlalRqdHVZemoyOTA3U0JfdEZzTmZDSm11WlpqS1N2ek1nOC1KMnFFNlFVVTJMa2lMMDNUb0piTGRr?oc=5"
      },
      {
-      "press": "프레시안",
-      "title": "[속보] 李대통령, 다시 '집값 하락' 전망 공유…\"자산시장 정상화 견디는 중\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfenZqMTlrM1ZtN3Q4YXdSVzU2b0wzOThoY1htdTB0cWtydHRtTXFrdVFmWXZiR1JOODZZMmo3NWtZa0VVenhoX0U2aWhhaEtteEh2SDFMMGNLYk12QXB5QXh0UHNqQVNDMnlr?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "李대통령 \"자산시장 정상화 향한 힘든 길, 지금은 견디는 중\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00ZVNZd2tubm5WalRLQWFiSEtBTnRfQUxSZDNVVEdiQm5Qck9GbnRhZ0dkM0s1V1RnbjZMZ2ktR3lIZzM4WWhTODRYUzRVTFNVT2pfVGlsQUM4N3Y1Tnc3UkY1bTBfLUQ3Y3FpaNIBckFVX3lxTFBKUXRYZHR5Q3dNLWZycFJVMkZhcUtaS3ZmSUNsenBveUFvajh4T2tCRE9IQkFVVGFhamtaMS1wSjY3ZW5DNkZzT05rZ0k3TjdYRnpIYWt4ZXJiUjBXd3BaMUQxeWc1Y1hrX1pKcEpHTGRkUQ?oc=5"
-     },
-     {
-      "press": "연합인포맥스",
-      "title": "李대통령, \"부동산 정상화, 지금은 견디는 중…국민주권정부는 한다\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tb2tkcmp1dENZMUtzS0JPWVNPdjQwVDhybzFLWk0xVm13ZGd3MWszMUhtZ2lLbE14dXBWX0lQY0FxQ0wtYzZOR1hPZVktMkJNd2Y4Q3JnSFBRNjBKMlFqUExHVTZLbVIxVXZMUWFDMTk?oc=5"
-     },
-     {
-      "press": "조선일보",
-      "title": "서울 집값 90주 연속 올랐는데... 李 \"자산시장 정상화 향한 힘든 길\"",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1czcDN2dW1CWm0tcnA5VHB5alFuQ19yZkhaQVJuOFFJOGc2SktGWDQ2cjZIVkJWSmV0OUhsX3k4NXhuQ2JxTm90WnNTQS1OVVliSEU0bzZhOHRUaS1EZmI4cWZySmQ4dkNXMW5Ddl9FNzNkQlZoOEVxUmtyRTJ5Q3NhbUZZRTRKU1pndHR4dUM?oc=5"
-     },
-     {
-      "press": "경기일보",
-      "title": "李대통령 “자산시장 정상화, 지금은 견디는 중...인내 지나면 알 것”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94NHhmbHd0UWViaEoxbU9FNG9TTTVoWUxTWDZTSl9QVnhDb1ZPZGwzb09kMm11dWxERnVOVkw0MGpaZ1lDTVVGaWpTazlfc2pZUGhQeVExUl80NHc?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "“13살 연하 아내, 구찌 누나였다”…호빠에 2억 쏜 女 충격 실체",
-   "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003561833",
-   "published_at": "2026-10-31T06:00:02+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "그는 지난해 13살 어린 아내가 서울 수유의 호스트바 선수와 데이트하는 현장을 덮친 뒤 상간 소송을 제기했다. 그런데 아내는 판사에게 “남자친구는 제가 결혼한 사실을…",
-   "summary_long": "탐정은 사건의 상간자인 호스트바 선수를 찾아내고자 신입 선수로 위장했다. 그는 지난해 13살 어린 아내가 서울 수유의 호스트바 선수와 데이트하는 현장을 덮친 뒤 상간 소송을 제기했다. 그런데 아내는 판사에게 “남자친구는 제가 결혼한 사실을 몰랐어요”라며 선수의 결백을 호소했다.\n\n남편이 돼지고기를 삶기 위해 새벽부터 문밖을 나선 날, 아내는 집안의 패물을 싹 다 챙긴 뒤 가출했다. “당장 아내 노트북으로 유튜브를 켜보세요.” 탐정을 통해 아내를 찾아낸 남편이 돌아오라고 빌자, 아내는 뜻밖의 행동까지 벌인다.",
-   "quotes": [
-    "남자친구는 제가 결혼한 사실을 몰랐어요",
-    "당장 아내 노트북으로 유튜브를 켜보세요",
-    "그 2억 쏜 여자? 구찌 누나예요"
-   ],
-   "press": "중앙일보",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "그 2억 쏜 여자? 구찌 누나예요",
-    "n": 1,
-    "verified": 0,
-    "items": [
-     {
-      "press": "미주중앙일보",
-      "title": "“13살 연하 아내, 구찌 누나였다”…호빠에 2억 쏜 女 충격 실체",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5STTRXcHV0bFY5b09YT0JLcnVKM0VGTDU3WFBaemt2TGFWMFZQRXFydndjaTFFSlhwQUtsV0RocXZ0RzZ5TXJVSkNha0NBRWpIdHFHTDhiU0hNYk1CdklVZm1n?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
-   "source": "매일경제",
-   "url": "https://n.news.naver.com/article/009/0005756916",
-   "published_at": "2026-10-31T10:45:10+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "[취재일기] 떨어진 감 주워놓고, 농사 잘 지었다는 장동혁",
-   "source": "시사저널",
-   "url": "https://n.news.naver.com/article/586/0000141317",
-   "published_at": "2026-10-31T15:00:12+09:00",
-   "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 169,
-   "comment_agree": 85,
-   "comment_disagree": 32,
-   "division_balance": 0.547009,
-   "division_score": 2.609605,
-   "selection": "찬반 쟁점",
-   "summary": "장동혁 국민의힘 대표는 2020년 국민의힘 출범 이후 '최장수 당대표'라는 기록을 썼고, 때마침 이재명 대통령과 더불어민주당의 지지율은 동반 하락했다. 그렇다면 지금의…",
-   "summary_long": "\"반(反)장동혁으로 분류되면 용납할 수 없다.\" 국민의힘의 한 지도부 인사가 기자에게 한 말이다. 장동혁 국민의힘 대표는 2020년 국민의힘 출범 이후 '최장수 당대표'라는 기록을 썼고, 때마침 이재명 대통령과 더불어민주당의 지지율은 동반 하락했다.\n\n그렇다면 지금의 '지지율'을 장동혁 대표의 노선에 대한 '지지'로 읽는 것은 아전인수가 된다. 강경 노선 덕에 지지율이 올랐다고 믿으니 더 오른쪽으로 향하고, 대표가 잘해서 얻은 성과라고 여기니 당내 비판도 받아들이기 어려워지는 것이다. 그 끝에 남는 것은 경쟁력 있는 국민의힘이 아니라 말 잘 듣는 '장동혁의 국민의힘'이다.",
-   "quotes": [
-    "반(反)장동혁으로 분류되면 용납할 수 없다"
-   ],
-   "press": "시사저널",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "반(反)장동혁으로 분류되면 용납할 수 없다",
-    "n": 1,
-    "verified": 0,
-    "items": [
-     {
-      "press": "시사저널",
-      "title": "[취재일기] 떨어진 감 주워놓고, 농사 잘 지었다는 장동혁",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96STNBbDZybmdqQWdFQ2o4VWRhZmNlenozY1UyNFQ3bFNVX1B5Uk9XdkNpWmR4azBkNWRuQ0phQVBjQll1ZzE1LUM5U2VTNThuazR4ci11cUZFSDBXNUdKc2JaajhidERwS2xJRXRQQdIBc0FVX3lxTE5SRm03SUxjX3puX0lVaW1uSG91RkJjU2VubUg5OE1XV050Rl9jSEVPa0l5X2wzVUVzRWRmcFJtX2txOUk1cGxhSDlVTTEyaU11YU9qY0ctcWFVTGJZajNBQ2NTSExMMHpNazVBTkNPWmVEVUk?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "장동혁 \"李대통령 일가, 황제 골프 넘어 '민폐 골프' '민폐 가족'\"",
-   "source": "시사저널",
-   "url": "https://n.news.naver.com/article/586/0000141312",
-   "published_at": "2026-10-31T13:23:08+09:00",
-   "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 164,
-   "comment_agree": 124,
-   "comment_disagree": 33,
-   "division_balance": 0.420382,
-   "division_score": 2.128225,
-   "selection": "찬반 쟁점",
-   "summary": "장동혁 국민의힘 대표는 31일 이재명 대통령과 가족의 골프 관련 의혹들을 제기하면서 \"이 정도면 '황제 골프' 수준을 넘어 '민폐 골프'\"라며 \"대통령 일가가 '민폐…",
-   "summary_long": "장동혁 국민의힘 대표는 31일 이재명 대통령과 가족의 골프 관련 의혹들을 제기하면서 \"이 정도면 '황제 골프' 수준을 넘어 '민폐 골프'\"라며 \"대통령 일가가 '민폐 가족'이 되고 있다\"고 지적했다. 장 대표는 이날 페이스북에 글을 올려 \"이 대통령은 해군 장병이 실종되어 죽어갈 때도, 건물이 무너져서 어르신들의 생명이 위태로울 때도 골프 라운딩을 멈추지 않았다. 제정신 박힌 대통령이라면 적어도 그런 날은 골프를 멈췄어야 하는 것 아닌가\"라며 이같이 밝혔다.\n\n장 대표는 이어 이 대통령이 더불어민주당 대표 시절 윤석열 당시 대통령의 골프 연습 의혹을 비판한 것을 언급하며 \"그래 놓고 본인은 틈만 나면 가족까지 동반해서 황제 골프를 즐긴다\"고 말했다. 그러면서 \"민주당은 '대통령도 사람'이라며 휴식과 운동 차원의 골프를 칠 수 있다고 변명한다. 청와대는 '사적 일정을 정치적 공방으로 활용하는 것에 유감을 표한다'고 한다\"며 \"'대통령에게 사적 일정이 있느냐', 이 정권 야당 시절의 단골 레퍼토리 아닌가\"라고 했다.",
-   "quotes": [
-    "이 대통령은 해군 장병이 실종되어 죽어갈 때도, 건물이 무너져서 어르신들의 생명이 위태로울 때도 골프 라운딩을 멈추지 않았다. 제정신 박힌 대통령이라면 적어도 그런 날은 골프를 멈췄어야 하는 것 아닌가",
-    "민주당은 '대통령도 사람'이라며 휴식과 운동 차원의 골프를 칠 수 있다고 변명한다. 청와대는 '사적 일정을 정치적 공방으로 활용하는 것에 유감을 표한다'고 한다",
-    "제주도 전국체전 간 김에 황제골프 치고 올 계획을 세웠다는 의혹도 제기됐다. 그런데 그날 부천 공장 화재가 발생하면서 황제골프 계획이 꼬인 모양"
-   ],
-   "press": "시사저널",
-   "photo": "06.jpg",
-   "quoted": {
-    "quote": "제주도 전국체전 간 김에 황제골프 치고 올 계획을 세웠다는 의혹도 제기됐다. 그런데 그날 부천 공장 화재가 발생하면서 황제골프 계획이 꼬인 모양",
-    "n": 4,
-    "verified": 0,
-    "items": [
-     {
-      "press": "시사저널",
-      "title": "장동혁 “李대통령 일가, 황제 골프 넘어 ‘민폐 골프’ ‘민폐 가족’”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TY2lWY092SmlVNzB5UWFOQjFfSEtCNjY1M21vZW1sR0FMOUhhRE16TnRHYnRnRjR1VWRDV0wzaEc3eXFwQTZ5SmgybGN5alh2YnBKcnowRzl2dmZqTmFTcnpGR0NkYlFnTjJnMVd0b9IBc0FVX3lxTFBFMEdGbnQ5UUFOUUo3MTBLU19YWm91SFJKOV9YVThEcXZ6OEdBN09KaEw0cG1sV01DTXdVbF9CbTBfUEk4Z1RZR1p4aE1ldmdnbHJSYXlQb2M4Uk4ybHdVUGNPcndzaENYM0tfN25NZWgydzg?oc=5"
-     },
-     {
-      "press": "프리진뉴스",
-      "title": "장동혁 “李대통령 일가, 황제골프 넘어 ‘민폐골프’…‘민폐가족’ 되고 있다”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfWk95RlFSM1ROVTlWN2MwTkhFc3RHN3JNeW9waGdndWw2NGFSbHlTWHpDZlE0TTBHLUIwc2o3ZUNNelRfUUVvT1ZqOXZkbjU5M0taSVU2SVVONXQ4Mjh4RWoycW1NTWlIdjZlZWhTTQ?oc=5"
-     },
-     {
-      "press": "경향신문",
-      "title": "장동혁 “이 대통령, 이 정도면 ‘황제골프’ 넘어 ‘민폐골프’”",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uMzRWVHY5SC0yODFpeDJQMldPUlpYUGxsRDRVVUJRTFVhNkRfZ25hYnBRNlZOVU0zQy1BenJFY09UOTd1bU90dEhfYzI4ckMzZndaV2pOYmF6akZHNWFB0gFfQVVfeXFMTm4zNFZUdjlILTI4MWl4MlAyV09SWlhQbGxENFVVQlFMVWE2RF9nbmFicFE2Vk5VTTNDLUF6ckVjT1Q5N3VtT3R0SF9jMjhyQzNmd1pXak5iYXpqRkc1YUE?oc=5"
-     },
-     {
-      "press": "뉴스1",
-      "title": "장동혁 \"황제골프 넘어 민폐골프…대통령 일가가 민폐가족 돼\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xeDJZeVVwekt3SzlvU2laUGZxdC13Y081aE9HaVUyT1hiWGV5UDRfSnhaUGRMRVpjOXVFSjI1bUViaWkyeGVrUFZNVkMydWhNRERDamNucUJ1dw?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "장동혁, 이 대통령에 \"비판하는 국민 돼지로 보이느냐\"",
-   "source": "강원도민일보",
-   "url": "https://n.news.naver.com/article/654/0000208549",
-   "published_at": "2026-10-31T18:32:18+09:00",
-   "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 668,
-   "comment_agree": 184,
-   "comment_disagree": 42,
-   "division_balance": 0.371681,
-   "division_score": 2.016353,
-   "selection": "찬반 쟁점",
-   "summary": "2026.10.31 연합뉴스국민의힘이 이재명 대통령의 '돼지 눈에는 돼지만 보인다'는 발언을 두고 \"본인을 비판하는 국민은 전부 돼지로 보이느냐\"며 공세를 펼쳤다.…",
-   "summary_long": "▲ 국민의힘 장동혁 대표가 31일 국회 의원회관에서 열린 2027 서울 세계청년대회의 성공적 개최를 위한 국회·정부·조직위원회 공동선언문 선포식에서 축사를 하고 있다. 2026.10.31 연합뉴스국민의힘이 이재명 대통령의 '돼지 눈에는 돼지만 보인다'는 발언을 두고 \"본인을 비판하는 국민은 전부 돼지로 보이느냐\"며 공세를 펼쳤다. 장동혁 국민의힘 대표는 31일 페이스북을 통해 이 대통령을 향해 \"링거 안 맞고 코피 안 터져도 되니 이제 그만 자중하시라\"며 이같이 비판했다.\n\n조용술 국민의힘 대변인도 논평을 통해 \"국민의 정당한 문제 제기를 깎아내리는 것도 모자라 돼지에까지 빗대는 오만함을 드러냈다\"며 \"국민이 돼지로 보인다면 그것이야말로 돼지의 눈 아니냐\"고 비꼬았다. 3선 성일종 의원도 페이스북에서 \"돼지 눈에는 돼지만 보인다고 하는데 돼지나 고양이도 밥 주는 주인을 알아보고 따른다. 이어 \"외교·안보를 비롯해 주택과 주식 문제까지 서민의 삶이 무너진 상황에서 외유 자체가 어떻게 돼지의 요구냐\"고 비판했다.",
-   "quotes": [
-    "장병 발목이 날아갔는데도 뉴욕 맨해튼 시내 관광을 다닌 사람은 누구냐. 그 와중에 멕시코까지 가서 부부 동반으로 야광봉을 흔들며 K팝을 구경한 건 또 누구냐",
-    "돼지 눈에는 돼지만 보인다고 하는데 돼지나 고양이도 밥 주는 주인을 알아보고 따른다. 나라의 주인은 국민이라고 하지 않았느냐",
-    "외교·안보를 비롯해 주택과 주식 문제까지 서민의 삶이 무너진 상황에서 외유 자체가 어떻게 돼지의 요구냐"
-   ],
-   "press": "강원도민일보",
-   "photo": "07.jpg",
-   "quoted": {
-    "quote": "외교·안보를 비롯해 주택과 주식 문제까지 서민의 삶이 무너진 상황에서 외유 자체가 어떻게 돼지의 요구냐",
-    "n": 4,
-    "verified": 0,
-    "items": [
-     {
-      "press": "강원도민일보",
-      "title": "장동혁, 이 대통령에 “비판하는 국민 돼지로 보이느냐”",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00MFE5ME1SSEZtai1tUmhQbHF0dmt0SzNBYVlIYUo0R1h4NVNuZFhTXzM5T09naWs3S1ptaktEbkpXMEZlTGtkWTgtOFE5a041ZldJX2hlTmUzYUYtVmZyTlZ1NV9iMTQ?oc=5"
+      "press": "VOA 한국어 홈페이지",
+      "title": "북한, 집속탄두 위력시험…한국 합참 “발사 전부터 동향 추적”",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsb2lLckFjbEk2NzJJSU5IWWZrX19iX21hYjRGNkg3YjN2Q0E2Tll2ZHF2MUFLMlhQVmozeFFxQV9xemk2YzI5aWlHZ29vZkdweTJZ0gFTQVVfeXFMUGxvaUtyQWNsSTY3MklJTkhZZmtfX2JfbWFiNEY2SDdiM3ZDQTZOWXZkcXYxQUsyWFBWajN4UXFBX3F6aTZjMjlpaUdnb29mR3B5Mlk?oc=5"
      },
      {
       "press": "연합뉴스",
-      "title": "국힘, '순방 반박' 李대통령에 \"비판하는 국민은 전부 돼지인가\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03S25YNlYydVBnQ24xQThRSEMzRFBRYk1GWUE1Qm9OYktJTW1jM3pNQWVQcGN0VmZ0VGtrQ2xkUXdwMi1aZ2I2QXROZ2tTSmdXMWp6eXB2RUtQbUYxcHctR9IBYEFVX3lxTE03S25YNlYydVBnQ24xQThRSEMzRFBRYk1GWUE1Qm9OYktJTW1jM3pNQWVQcGN0VmZ0VGtrQ2xkUXdwMi1aZ2I2QXROZ2tTSmdXMWp6eXB2RUtQbUYxcHctRw?oc=5"
+      "title": "'축구장 18개 면적' 초토화…北, 집속탄두 위력 과시(종합2보)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xVmVHQnJvT2lKZ1ZsWW4wYVdKbEZoS1kzU2lLOTZ5Y0FWLXBHZ0pMOXpMTFN4Rnd5SmhlZmxycEViX0ZTRDRibmt5MWhyd3MwVHJBSnFvaC1URDDSAWBBVV95cUxQWmJNZ05qUEFRMVlKTWNjUnRWcmtINWxteWdiT0JZdzd0Y3FPanc1Ym43X0VuNTJITVVYZDkxYnBOODczc3hieEhtcERhT2VmeDNfRllHQ0p1RUtSbnY0OHE?oc=5"
      },
      {
-      "press": "매일신문",
-      "title": "李대통령 \"돼지 눈엔 돼지만 보여\"에 장동혁 \"국민이 돼지로 보이냐\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zVV9mU01vVVZhMVVSVm9NZE5rN0dqT0Vwa3h4eTZrSVJhVUhtZ0Y3T3pKN2JtR1dKRmpma25JNHIycktKa0h0YS1jSEFGcFZWSUlRQ2N2dVpQbDZoUzRNVkhB?oc=5"
+      "press": "뉴시스",
+      "title": "北, 전술탄도미사일 집속탄두 위력시험…군은 발사 공지 안해(종합)",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hWGFuaC1EemhlYmUyWFZHZ3ZCRnpGTzhZNUFmTlVmdklQRnB2cmgwalBveGpNUWE5SGlJSTdWQnoyRGZNeVlwYXBweGlXVGloVktveVNZa3lwSzc2R2RLRFdyazBxY0RKd09NSHJZUDN1MnktNWV4RNIBeEFVX3lxTE5hWGFuaC1EemhlYmUyWFZHZ3ZCRnpGTzhZNUFmTlVmdklQRnB2cmgwalBveGpNUWE5SGlJSTdWQnoyRGZNeVlwYXBweGlXVGloVktveVNZa3lwSzc2R2RLRFdyazBxY0RKd09NSHJZUDN1MnktNWV4RA?oc=5"
+     },
+     {
+      "press": "Chosunbiz",
+      "title": "北, 축구장 18개 면적 초토화 ‘집속탄’ 시험…연내 실전 배치 예고",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUVKUEhuSVI4azFyb05xUGl2RzNjbXVDZFg5b2Q5TFFDMjlMbEphYVIxWHVSQll4Y0o3dDd6MDVDSXdSNW50eUN5cWRha0VzcXFKVmpVREd3ZDlmZ0pGZHFabGhET2xyaGt2MlMzeVdPLWFxcHh1VDFqbWh2eS1POWlBNNIBlwFBVV95cUxOVm1tY0h4SFhYQVNxeXJHdnhiWTZVc1dlWWJ1aGxESi1jNlByTG5FQU44SF9raVBmRnJGVDJwN1pZOHlXNEJyelVQNkpzUzNfNmZMcmxHQi1jZG9HeFM5OFFOYUNfbGZ0cEt1VktqU0RxQy1Lblg4Nm5aMm1reVVPbm5OWW1MTERMS1E0cngyTkVqbzhTNGp3?oc=5"
+     },
+     {
+      "press": "더팩트",
+      "title": "북한 '강철비' 집속탄두 위력시험 진행…군 \"대비태세 유지\"",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LQk5HQjcyU19sNXVRdW5tSHZ6cm1hQzFNYy14WXk5bXRTVEpDdFlHV3hqTmZPYzd5Z0dOa1hEc2lzUk5NNkNENHBGM2dodHJIZFdVWTZaV03SAVNBVV95cUxNcnJDMlo5WVpINGlrQVFWcnotZ1FpeDRnb09kb2g2R0hTUTBRR0xqbndjbk9vNHNoZ05NdlVqd1Nrd1dZQ2RVd1pHcDdZU0swVjZXUQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "[속보]“아내 불륜 상대 알리겠다” 트럭 타고 군부대 돌진 30대의 결말",
+   "source": "문화일보",
+   "url": "https://n.news.naver.com/article/021/0002829391",
+   "published_at": "2026-11-01T15:22:09+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "1일 법조계에 따르면 수원지법 여주지원 형사2단독 김수정 판사는 군사기지 및 군사시설 보호법 위반, 음주운전 등 혐의로 기소된 A 씨에게 징역 3년에 집행유예 5년을…",
+   "summary_long": "1일 법조계에 따르면 수원지법 여주지원 형사2단독 김수정 판사는 군사기지 및 군사시설 보호법 위반, 음주운전 등 혐의로 기소된 A 씨에게 징역 3년에 집행유예 5년을 선고했다. 사회봉사 500시간도 명령했다. A 씨는 6월 14일 오전 1시쯤 자신의 트럭을 몰고 경기 이천시 한 군부대 위병소 출입문을 들이받아 부순 혐의로 재판에 넘겨졌다.\n\n특히 그는 당시 혈중알코올농도는 0.169%로 면허 취소 기준(0.08% 이상)을 크게 웃돌았다. 다친 사람은 없었지만 출입문이 파손돼 약 550만 원의 재산 피해가 발생한 것으로 전해졌다. 법원은 “군사시설 정문을 부수고 들어간 것도 모자라 계속해서 행패를 부렸다”고 판시했다.",
+   "quotes": [
+    "군사시설 정문을 부수고 들어간 것도 모자라 계속해서 행패를 부렸다"
+   ],
+   "press": "문화일보",
+   "photo": "03.jpg",
+   "quoted": {
+    "quote": "군사시설 정문을 부수고 들어간 것도 모자라 계속해서 행패를 부렸다",
+    "n": 8,
+    "verified": 0,
+    "items": [
+     {
+      "press": "JTBC",
+      "title": "\"아내와 불륜한 군인 알리겠다\"…트럭 몰고 위병소 돌진",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mYW9wTmdvRHRSSUloMk00YWU1d1plVEhFUHhwdTl4b3F6Z0VRSkl6OHVsc1JLVFJ3R0phNUNHYWVqdW85SFRXbXpKMDVKRnpnYWU4cA?oc=5"
+     },
+     {
+      "press": "한국일보",
+      "title": "\"아내 불륜 상대, 상관에 알리겠다\" 군부대 정문 돌진한 30대 집유",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxYWI2VXRfNm9aNVNjdl9aeXllY3FrTVlSNmVOUUJHanhWU2wxYWdZUjRnNkV0UW91aTQ2a3dqQndOVUFVMGJLZmNybVM3c05scmNuM0FCNUxtWXJlaGxEM3FWWTlGYWhONTdsQ29n0gFzQVVfeXFMTzZkT28yczg5M2lwZ01EOGlEcUM3RGphZlVqNnVMMFp0Q25tanBfS1R1ckp3eXEzeE4wU0twODRGQTJPeGNoUVVMMUhxSldiQjNuaURVUlQ2NjM5ckRjVXJrMzB2YnZmWVlHT2w1RTdtaVBNbw?oc=5"
+     },
+     {
+      "press": "경기일보",
+      "title": "“아내와 불륜 알리겠다”…군부대로 트럭 돌진한 30대, 집행유예",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XVjhubktvOHJDbkljUnlGNlRaSlA2UFZzLW5MWmtCUVZHenkybkQ1ajBFcThhR0J1SWF4UkxwcEQxRzVFSDdibjRHNWE5ZENYUmZWZEtFSHVUQnM?oc=5"
+     },
+     {
+      "press": "중앙일보",
+      "title": "“아내와 불륜한 군인 알리겠다”…트럭 몰고 부대 정문 돌진한 30대",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzN0RIY1hzU2FoN0czUGtYbmZHcnNDWnYtMWJwVG92NXptM1RyeE5OYjlmMzNvM3FRSng5UHByRThJcHFDa1hhN2tPVXBRb3NfMmFGLWVR?oc=5"
      },
      {
       "press": "부산일보",
-      "title": "이 대통령, 野 `순방 잦다` 지적에 `돼지 눈엔 돼지만`…국힘 `비판하면 전부 돼지냐`",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDd2dvU0lsNWJvMnVqNThCQ0VaRVcxZmZiVi16Q2Jhd0tCNzFPWDBvM3BLdGVSb0ZtRzVtZFRvMHBHdUNGeGZ2WTlDZGpUU2g4TWdiaEZ6alZod1U4ZEZ5elFhZ3Y4dWstbzZxblBoUVRJUGtt?oc=5"
+      "title": "\"아내 불륜 상대 알리겠다\"...만취 상태로 트럭 몰고 군부대 돌진한 30대",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VWG0wSmdGVWMtOW41dnRmbTNINVdJOHctNXNFSEpIZi00N2J5U2k4RXp6X0MzVlVIc3RMdWpYbHNfUUFtdnMxX0ZzRHhza1p4ZFJ6TmZoT0hYVFRNZjJiaXNDREdwYmVOWlBRQkpJd3FqNklNMHVraENwX2s?oc=5"
+     },
+     {
+      "press": "한국경제TV",
+      "title": "＂아내와 불륜한 군인 알리겠다＂...부대 정문 돌진한 30대男",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fRDJOTC1EWmFleFN0SldJeU1uQ0RPOUEtblNFdzJZSjNWOTNibDlfN1h4TnN1a2k4d2hnclk4bmdWYjVQcGNZcG9xcmZsRjBvS1U1UXN0azhuamdoVXNWbGZnSmJRNWZJMjk5bC1GeC1kQUE?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "“운전중 핸들서 ‘뱀’ 나왔습니다” 고속도로 아찔 신고…소방 출동",
+   "source": "서울신문",
+   "url": "https://n.news.naver.com/article/081/0003694580",
+   "published_at": "2026-11-01T17:46:17+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "1일 연합뉴스에 따르면 전날 오후 6시 30분쯤 렌터카를 타고 경부고속도로 하행선 양재IC 부근을 지나던 A씨는 핸들 뒤에서 움직이는 뱀의 머리를 발견했다.",
+   "summary_long": "렌터카 타고 주행 중 ‘봉변’. 고속도로 주행 중 렌터카 핸들과 계기판 사이에서 뱀이 튀어나와 소방이 출동하는 일이 발생했다. A씨는 급하게 차량을 갓길에 세운 뒤 소방에 신고했고, 소방은 오후 6시 38분 현장으로 출동해 뱀을 잡아 살처분했다.\n\n소방은 오후 7시 11분쯤 상황을 종료하고 현장을 철수했다. 1일 연합뉴스에 따르면 전날 오후 6시 30분쯤 렌터카를 타고 경부고속도로 하행선 양재IC 부근을 지나던 A씨는 핸들 뒤에서 움직이는 뱀의 머리를 발견했다. 2026.11.1 연합뉴스(독자 제공).",
+   "press": "서울신문",
+   "photo": "04.jpg"
+  },
+  {
+   "title": "'동물농장' 빗댄 판사에 민주당·조국 \"사법부 독립, 조희대 성역화 아냐\"",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000518570",
+   "published_at": "2026-11-01T17:01:15+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 295,
+   "comment_agree": 227,
+   "comment_disagree": 53,
+   "division_balance": 0.378571,
+   "division_score": 2.13452,
+   "selection": "찬반 쟁점",
+   "summary": "민주당은 법왜곡죄 신설과 재판소원 도입, 조희대 대법원장 국정조사 등이 헌법이 보장한 국회의 권한이라고 강조했습니다. 조 전 대표는 성 판사의 주장을 법조 엘리트의…",
+   "summary_long": "더불어민주당과 조국 전 조국혁신당 대표가 '소설 동물농장'이 빗대며 사법개혁을 비판한 성찬용 인천지법 부천지원 판사를 강하게 비판했습니다. 민주당은 법왜곡죄 신설과 재판소원 도입, 조희대 대법원장 국정조사 등이 헌법이 보장한 국회의 권한이라고 강조했습니다. 조 전 대표는 성 판사의 주장을 법조 엘리트의 오만이라고 비판하며 사법부에 대한 시민 통제의 필요성을 주장했습니다.\n\n국회의 입법 활동과 조희대 대법원장에 대한 국정조사는 헌법이 보장한 권한이라며 사법부 독립을 침해한다는 주장을 받아들일 수 없다고 밝혔습니다. 민주당 조계원 대변인은 1일 서면브리핑에서 사법부 독립은 조희대 대법원장을 보호하기 위한 것이 아니라 국민의 기본권과 정의를 지키기 위한 헌법적 원칙이라고 강조했습니다. 그는 민주당이 추진하는 법왜곡죄 신설과 재판소원 도입, 대법관 증원, 조 대법원장에 대한 국정조사 등을 사법부 독립을 위협하는 움직임으로 비판했습니다.",
+   "quotes": [
+    "사법부 독립과 국회의 사법부에 대한 민주적 통제는 서로 모순되는 개념도 아닙니다",
+    "'검찰 정치'가 끝나자 '법원 정치'가 진행되고 있다",
+    "법조 엘리트의 속내를 노골적으로 드러낸 강변"
+   ],
+   "press": "JTBC",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "'검찰 정치'가 끝나자 '법원 정치'가 진행되고 있다",
+    "n": 7,
+    "verified": 0,
+    "items": [
+     {
+      "press": "JTBC",
+      "title": "‘동물농장’ 빗댄 판사에 민주당·조국 \"사법부 독립, 조희대 성역화 아냐\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqY0dFbHRfNTlnT1B6Q3owa3ZreHF2VFpWdk1zcGMwd3dkT1NQTGVBSGV6cVNJYVh5Ym1STTlFSVE0VzZHTl93TlotMmN3bDRNZ2lPUA?oc=5"
+     },
+     {
+      "press": "문화일보",
+      "title": "조국 “검찰정치 끝나자 법원정치 진행되고 있다”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NQ0p4NU5lN1VVeG5uTHdHdkdMVmVvb2lURFpySlRvZXByOW5wY0prUDVGMlFZNjdWc1ZhUDFaSVRiX0h2b0VjeldqXy1LcHVv?oc=5"
+     },
+     {
+      "press": "OhmyNews",
+      "title": "조국, '동물농장' 비유 판사에 \"검찰정치 끝나자 법원정치\"",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tRk05OXd4YlBscmJDcWtTZDhmSkpQZ00wM0U5MnJIX0JYRGtaOHdHaF9rSm50RFl4aHNhY1BaMDZFWkhWZl8xemVaZkdyZGZQajQ3QXh1VHhwV2dwWm5CNW5qS04wQVVaaVFGWkIwNm5zWXFIV0pV?oc=5"
+     },
+     {
+      "press": "머니투데이",
+      "title": "조국, 국회 '동물농장' 빗댄 판사에 \"검찰정치 끝나니 법원정치\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YYWRURnczckJHNDBhU25CYUhXZEwyUTR6eXZNT3RfUWtNdlFWTUJVdnRNVWVUZ3VhUnZZZ3ZtdFV1SU5UbVFKaHZuRHhuQjNwTGFTTzJvWXNVSlYyWnFpV05nZERUSXY1Ukd1WtIBckFVX3lxTE5pSGllZFpRSHczNUFIejdRNll2WF9kRm96NnI0SEtvZzlURjJxMGVMb2tCUC1KbENNaElOQnltTnUxczB6bDBUWGFGNkJyLXJpOG1Cc1ZmaDB5RjEzZUREQlhpVzlSS2hXWlFVamZ3VHExQQ?oc=5"
+     },
+     {
+      "press": "프레시안",
+      "title": "조국, '與 비판' 판사에 \"檢 잇는 '법원정치'…민주당 경각심 가져야\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUWWpfeGxHT2MwTWFTb2hTMUF6b2hOcENaeEMybzFsSHZLdEFqQXVvQkQtRWxiNEd0cEkyLW9NRWtuQXE3bzdBRWIyZHRxZEw3R3YzZElEMkhodU5aVVRGTmo0amhuNWpoNEpj?oc=5"
+     },
+     {
+      "press": "뉴스1",
+      "title": "조국 \"판사가 국회를 '돼지'라고 비판?…검찰정치 끝나자 법원정치 시작\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyeWJQR3BqQlAwTi1XblRlN3hTQmd4Y1ZfRHRRd3NtUHNVb0Y0UUVXRmtDS2dNRS1CQ3owYWFwQlRwWTFPTjRyNGhGaGxUb2Q2YTBwTFctdzhmUQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "이 대통령 \"콩을 콩이라 못 부르나\"‥다문화 논란 재차 반박",
+   "source": "MBC",
+   "url": "https://n.news.naver.com/article/214/0001532759",
+   "published_at": "2026-11-01T16:40:19+09:00",
+   "section_id": "100",
+   "view_rank": 5,
+   "comment_count": 414,
+   "comment_agree": 221,
+   "comment_disagree": 43,
+   "division_balance": 0.325758,
+   "division_score": 1.817639,
+   "selection": "찬반 쟁점",
+   "summary": "이재명 대통령이 다문화가정 우대 정책 재검토를 둘러싼 비판에 \"원칙과 사실은 어떤 집단, 어떤 정치적 유불리 앞에서도 그 무게가 달라져서는 안 된다\"며 재차…",
+   "summary_long": "이재명 대통령이 다문화가정 우대 정책 재검토를 둘러싼 비판에 \"원칙과 사실은 어떤 집단, 어떤 정치적 유불리 앞에서도 그 무게가 달라져서는 안 된다\"며 재차 반박했습니다. 이 대통령은 오늘 SNS에 '호남에서 콩이면 영남에서도 콩이어야'라는 제목으로 \"제도의 불합리나 맹점이 발견돼도 집단의 정체성을 잣대로 무조건 비호하거나 피해주의로 일관하는 것은 '콩을 콩이라 부르지 못하게 하는' 왜곡, '콩을 팥이라 우기는' 선동을 낳을 수가 있다\"고 적었습니다. 이어 \"다문화가정을 포함한 사회적 약자에 대한 배려는 마땅히 지켜져야 할 우리 공동체의 책무\"라면서도 \"문제가 있다면 시정하자고 하는 것은 다문화가정을 배제하거나 차별하는 조치일 수 없다\"고 밝혔습니다.\n\n또 \"문제를 문제라고 말하지 못하게 가로막는 교조적 태도는 다문화가정을 동등한 대한민국 시민으로 포용하려는 본래 취지를 오히려 훼손할 수 있다\"고 지적했습니다. 특히 \"부분적 불공정이나 행정적 사각지대를 '소수자 보호'라는 명분으로 방치하면 극우적 혐오 선동과 극단적인 여론 분열의 손쉬운 먹잇감이 될 것\"이라고 강조했습니다. 그러면서 \"사실과 이성에 기반한 활발한 논쟁은 사회 발전을 도울 뿐 아니라 허구와 맹종에 기반한 선동과 혐오를 막는 최고의 예방약\"이라며 \"팩트와 이성에 기반해 열심히 토론하자\"고 덧붙였습니다.",
+   "quotes": [
+    "제도의 불합리나 맹점이 발견돼도 집단의 정체성을 잣대로 무조건 비호하거나 피해주의로 일관하는 것은 '콩을 콩이라 부르지 못하게 하는' 왜곡, '콩을 팥이라 우기는' 선동을 낳을 수가 있다",
+    "문제를 문제라고 말하지 못하게 가로막는 교조적 태도는 다문화가정을 동등한 대한민국 시민으로 포용하려는 본래 취지를 오히려 훼손할 수 있다",
+    "부분적 불공정이나 행정적 사각지대를 '소수자 보호'라는 명분으로 방치하면 극우적 혐오 선동과 극단적인 여론 분열의 손쉬운 먹잇감이 될 것"
+   ],
+   "press": "MBC",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "문제를 문제라고 말하지 못하게 가로막는 교조적 태도는 다문화가정을 동등한 대한민국 시민으로 포용하려는 본래 취지를 오히려 훼손할 수 있다",
+    "n": 10,
+    "verified": 0,
+    "items": [
+     {
+      "press": "MBC 뉴스",
+      "title": "이 대통령 \"콩을 콩이라 못 부르나\"‥다문화 논란 재차 반박",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqSWljZ1AwQkZ3VmFHR28yT3h2LS1UUVEzbE9oSjVJQ01ZRGh6QmdydVJOVXoweHh6RGVBTUVoaGtGaEZsRjhTWmY1d0JIYlVRdndDLU9aMmZtQjJjTDJjSUxHdXQwZ0xvQ0RlUkQzTzFqelhOZGQ2WNIBeEFVX3lxTE5NanVCdkJzWW5PRHJKRjZ4MW9fUnM0RGxyU3N1SXlHNEZNbDlPb1JDRnA3Q3QwbExaUGZfUkwxekVvZWNGRWdpOU1kbWlDeGhBaUIwdTQ0aFVBa09nZFpjT2FkN1BPMFB3dlpoNDNocDdXQTZxWTlJdQ?oc=5"
+     },
+     {
+      "press": "한국미디어일보",
+      "title": "이재명 대통령 “문제 시정이 차별은 아니다”…다문화가정 우대 재검토 재강조",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyNWQyVmZzYkR1NkRpd1g2OHVjMlJxZnctOGcybVFRZDE2SjdLcFYwc2VWYnRhanA1NWNua3FRZG1qbmEyTlVnZnZMaFlNdGtYWllRaXBUWXc3Zw?oc=5"
+     },
+     {
+      "press": "연합인포맥스",
+      "title": "李대통령, 다문화가족 우대 논란 닷새째 직접 대응 \"진영보다 사실·공정 우선\" |",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zRnNmY0FzZDlZZVFEZTYyc3RjTlFDRjZRS201aElzNEJZNEpCcUprNHBfOGNwWXJzN0I4c0FWZThmREZQcFdNZHRCV0Z3bGFrODlHSDRzd0tpN3M4bDhLWVhwRmFfVFdVbHFxUV9aejRTNktS?oc=5"
+     },
+     {
+      "press": "연합뉴스TV",
+      "title": "이 대통령 \"다문화 지원 문제 시정, 차별 조치 아냐\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fOFplSExCY3ZkYUNQU1haajUydUtJczVHMUxDcWV2R0pXQXU5Zk5INFVweldkV1EtMGlsa2plN3JncVVtOElDczJQTmZoNVAtQXkzcHJWMFgwMkxzYmxxZ25mdG1CNUE?oc=5"
+     },
+     {
+      "press": "연합뉴스",
+      "title": "李대통령 \"다문화가정 지원 일부 문제 시정하는 게 차별은 아냐\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCYVlZREdsX2R4QVJsUHMxWE1rRUYtcFppN1ZNZ1ExWVMwRE1sZE45VEVRYWs3c21nQTV6R1BJa2tiRFVfdW9xbzVGXzVWOUZydVNiRHdlRWczcHfSAWBBVV95cUxQUzNval9LZlRHakpiaVk0UWFUVFZMRTl2a1VfOC1oVEdCWXpDZ0tncHV2SFltbnNkbEpFbmV5VmVLcnQ3NWR4Y09zQ2V6R1FpVXVUUS1VcWI0eGZ2dWYtS0o?oc=5"
+     },
+     {
+      "press": "경기신문",
+      "title": "이재명 대통령 “다문화가정 지원 정책 일부 문제 시정하자는 것 배제·차별 아냐\"",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwS3Y1T1NKZXc2Q1owWnU0YUNwTml5M1B1LVhxWElMaUFTcG45dkdqaWVmWDV6RUJsS2lLdWJZNEltNnlRRWg0cTZoTVhQbUZsZXpVSGEtd2dRZG5XSXB0TjR3?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "“박근혜, 국가시스템 붕괴 우려…정권 가져와야한다 말해” 장동혁 공개",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005757264",
+   "published_at": "2026-11-01T18:07:11+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "comment_count": 1423,
+   "comment_agree": 275,
+   "comment_disagree": 51,
+   "division_balance": 0.312883,
+   "division_score": 1.811583,
+   "selection": "찬반 쟁점",
+   "summary": "박근혜 전 대통령이 국민의힘 장동혁 대표를 만난 자리에서 다음 총선에서 승리해 정권을 되찾아야 한다고 당부한 것으로 전해졌다. 장 대표에 따르면 박 전 대통령은 “좋은…",
+   "summary_long": "지난달 25일 경북 구미시 금오산 호텔에서 열린 파독 간호사 환영 만찬에서 박근혜 전 대통령이 환영사를 하고 있다. 박근혜 전 대통령이 국민의힘 장동혁 대표를 만난 자리에서 다음 총선에서 승리해 정권을 되찾아야 한다고 당부한 것으로 전해졌다. 장 대표는 1일 MBN ‘시사스페셜 정운갑의 집중분석’에 출연해 지난달 박 전 대통령과 오찬을 함께하면서 나눈 대화 내용을 공개했다.\n\n장 대표에 따르면 박 전 대통령은 “좋은 인재들로 우리가 채워서 다음 총선에서 이기고 그것을 바탕으로 정권을 가져와야지만 대한민국의 시스템을 지켜낼 수 있다”고 말했다. 장 대표는 박 전 대통령이 이재명 정부 출범 이후 여러 국가 시스템이 무너지고 있다고 우려하면서 시장경제와 자유민주주의를 지킬 신념을 가진 인재의 중요성을 강조했다고 설명했다. 장 대표는 지난달 30일 경북 구미의 박정희 전 대통령 생가를 방문한 자리에서도 6·3 지방선거 투표용지 부족 사태를 비판하며 관련 의혹을 규명해야 한다고 강조했다.",
+   "quotes": [
+    "좋은 인재들로 우리가 채워서 다음 총선에서 이기고 그것을 바탕으로 정권을 가져와야지만 대한민국의 시스템을 지켜낼 수 있다",
+    "시장경제 지킬 인재의 중요성 강조"
+   ],
+   "press": "매일경제",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "좋은 인재들로 우리가 채워서 다음 총선에서 이기고 그것을 바탕으로 정권을 가져와야지만 대한민국의 시스템을 지켜낼 수 있다",
+    "n": 10,
+    "verified": 0,
+    "items": [
+     {
+      "press": "연합뉴스",
+      "title": "장동혁 \"박근혜, '인재들로 총선 이기고 정권 탈환' 언급\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6NU50ZzIwc0hybkt6WU1lUWF3em5Yb216U1M1M2h2MFo5LUthWS15eGxGSzlzU0pZbG9zQTNHMDhvUnpsWGU5WGxTaWFBdzdHbjl5MDJScUpwNWPSAWBBVV95cUxOb1pfRmZtVHp4Q2k1U0g1YTdrNWVQU0RoX2R6eWNZdWN5Qm9YRUVUenVmeDJrMFBVclBRb2ZLZG1uS2ZJZ1BkNjZLaWFIc2EzT3ptY2Y5Zm10ZTVnVDhQdWs?oc=5"
+     },
+     {
+      "press": "KBC광주방송",
+      "title": "장동혁 \"박근혜, '다음 총선에서 이겨서 정권 가져와야'\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaQUExaGFwY2pRamhpSUxvR2RncXUzeDdudDdlX0laSkVRMzlLeVhoRU5DWW55RXpRM1UwQjhXZ3J4RExZelBJV2VJdmgtZGpLUFNac1gwdDZkUlJzY2NDNA?oc=5"
+     },
+     {
+      "press": "조선일보",
+      "title": "장동혁, 연임 도전 질문에 \"필요하다면 책임 피할 생각 없다\"",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMy1MVEhrNWhjM2lnbS1LWGxwUjlTdC1XVXgzbEROMDBiQ19lc0ZFWVhBRHdBRHhqZTJwNXIxTTRPRS1zSkJGSXBuTlB1TE1MYXQ0Q04xQ3BVSE45ZWhqajBucjctcnNEczUzNjd4bjVBX0tyRzhXd1c3WEJtd2ZuVFhmOGUtUQ?oc=5"
+     },
+     {
+      "press": "문화일보",
+      "title": "박근혜, 장동혁에 “좋은 인재로 총선 이기고, 정권가져와야”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yOEhrd2xBRVpwOV82NFhpRzZyMTJIV1liRFFZREY0Q2lUcXctOUJCRktPMVFJTExvM2hvNW52Tzcxc1NJcklTTWVoWnFHQTNC?oc=5"
+     },
+     {
+      "press": "한국경제",
+      "title": "\"좌파 왜곡 영화 우려\"하더니…박근혜 '정권 탈환' 당부",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVd3VVaFUwUXF0Nmg0OW02eldSZEFxaTg5TUxqRlNtWlN4aTE1QnFjZThwTldWWVhPMUVPUTI5RDJmUlZSd3JKekh6Y0pNR2NaRXF6SjVpRVpSdw?oc=5"
+     },
+     {
+      "press": "매일신문",
+      "title": "`박근혜, 좌파 진영 `역사 왜곡 영화` 우려…총선 승리·정권 탈환 당부`",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xc3lMZ1Bsb3BfWEZCaUdEdEhHRnhXOWU4bldJTWxqRE9wM01KcDJrN2c5R1JKR3NUWXNfT2tRZHBSXzdjMDExZjBiUm96YkhXVGlGaUxRa25BYjFKSmhRMnFR?oc=5"
      }
     ]
    }
@@ -275,139 +343,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/01.png",
-   "pngBytes": 2404655,
-   "feed": "오늘의 뉴스 2026-11-01\n\n· 여군까지 최전방에? 군기 빠진 북한군의 생생한 모습 [주성하의 ‘北토크’]\n· 이재명 대통령 '서울 집값 하락' 글 공유하며 \"견디는 기간\"\n· “13살 연하 아내, 구찌 누나였다”…호빠에 2억 쏜 女 충격 실체\n· “52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발\n· [취재일기] 떨어진 감 주워놓고, 농사 잘 지었다는 장동혁\n· 장동혁 \"李대통령 일가, 황제 골프 넘어 '민폐 골프' '민폐 가족'\"\n· 장동혁, 이 대통령에 \"비판하는 국민 돼지로 보이느냐\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/01.png",
+   "pngBytes": 1457499,
+   "feed": "오늘의 뉴스 2026-11-02\n\n· 장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"\n· '쾅, 쾅, 쾅' 공중에 뿌려진 폭탄... 北, 우리 군사시설 모형 만들고 집속탄으로 때려\n· [속보]“아내 불륜 상대 알리겠다” 트럭 타고 군부대 돌진 30대의 결말\n· “운전중 핸들서 ‘뱀’ 나왔습니다” 고속도로 아찔 신고…소방 출동\n· '동물농장' 빗댄 판사에 민주당·조국 \"사법부 독립, 조희대 성역화 아냐\"\n· 이 대통령 \"콩을 콩이라 못 부르나\"‥다문화 논란 재차 반박\n· “박근혜, 국가시스템 붕괴 우려…정권 가져와야한다 말해” 장동혁 공개"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/02.png",
-   "pngBytes": 2406556,
-   "title": "여군까지 최전방에? 군기 빠진 북한군의 생생한 모습 [주성하의 ‘北토크’]",
-   "summary": "경기도 김포시 애기봉 전망대 맞은편에 나타난 북한군 자주포가 이번 주엔 화제가 됐습니다. 김여정 노동당 총무부장이 21일 ‘남부 국경선’ 요새화 현장을 시찰하면서 “저…",
-   "summary_long": "분단의 장벽 너머에서 일어나는 일들을 반세기 동안 북한을 지켜봐 온 주성하 기자의 시선으로 풀어봅니다. 경기도 김포시 애기봉 전망대 맞은편에 나타난 북한군 자주포가 이번 주엔 화제가 됐습니다. 김여정 노동당 총무부장이 21일 ‘남부 국경선’ 요새화 현장을 시찰하면서 “저 불량배 무리들이 우리의 새로운 화력 구분대들이 사격 진지를 차지한 것을 알게 만들어야 한다”고 협박한 지 나흘 만에 북한 자주포 3대가 등장했습니다.\n\n● 콘크리트 기둥을 멘 여군애기봉 전망대 맞은편엔 수많은 북한 군인이 나와 철조망을 설치하는 공사를 진행하고 있었습니다. 이 사진을 통해 기자는 ‘북한 여군들의 열악한 인권’을 떠올리기 전에 먼저 “북한군도 병력난이 정말 심각하구나”라는 생각이 먼저 떠올랐습니다. ● 군기 빠진 북한군 실상애기봉 전망대 맞은편에 나타난 자주포 3대는 M-1975 자주포로 보입니다.",
-   "press": "동아일보",
-   "source": "동아일보",
-   "link": "https://n.news.naver.com/article/020/0003759098",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/02.png",
+   "pngBytes": 1478678,
+   "title": "장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"",
+   "summary": "장동혁 국민의힘 대표가, 지난 지방선거 투표지 부족 사태를 수사 중인 특검의 수사 \"결과를 지켜봐야 한다\"면서도 반드시 재선거를 해야 한다고 강조했습니다. 장 대표는…",
+   "summary_long": "장동혁 국민의힘 대표가, 지난 지방선거 투표지 부족 사태를 수사 중인 특검의 수사 \"결과를 지켜봐야 한다\"면서도 반드시 재선거를 해야 한다고 강조했습니다. 장 대표는 오늘 MBN에 출연해 \"대량의 투표용지 부족 사태가 발생한 것 자체가 선거에 영향을 미쳤다\"며 특검의 선관위 서버 압수수색을 들어 \"법원이 전산 조작에 대해 어느 정도 범죄 혐의를 인정했다\"고 주장했습니다. 진행자가 여권에선 '국민의힘이 승리한 선거에서 부정선거를 주장하느냐'고 반문한다고 지적하자, 장 대표는 \"선거에 부정이 있다면 선거 결과의 승패를 따질 문제가 아니\"라고 반박했습니다.\n\n그러면서 \"투표용지 부족 사태만 하더라도 부정선거로 부르기에 충분하다\"며, \"이긴 선거든 진 선거든 반드시 재선거로 연결되는 것이 맞다\"고 말했습니다. 장 대표는 또 최근 오찬 회동에서 박근혜 전 대통령이 \"선관위 개혁 문제에 대해서는 놓치지 않고 끝까지 결과를 만들어낼 수 있도록 해야 한다\"고 당부했다고 전했습니다. 장 대표는 국민의힘의 지지율 상승에 대해선 \"국민들이 심리적으로 이재명 정부를 탄핵했다\"며 실망한 국민들이 \"대안 정당으로서 국민의힘을 주목하기 때문\"이라고 주장했습니다.",
+   "press": "MBC",
+   "source": "MBC",
+   "link": "https://n.news.naver.com/article/214/0001532758",
    "selection": "정치",
-   "feed": "뉴스 01. 여군까지 최전방에? 군기 빠진 북한군의 생생한 모습 [주성하의 ‘北토크’]\n\n분단의 장벽 너머에서 일어나는 일들을 반세기 동안 북한을 지켜봐 온 주성하 기자의 시선으로 풀어봅니다. 경기도 김포시 애기봉 전망대 맞은편에 나타난 북한군 자주포가 이번 주엔 화제가 됐습니다. 김여정 노동당 총무부장이 21일 ‘남부 국경선’ 요새화 현장을 시찰하면서 “저 불량배 무리들이 우리의 새로운 화력 구분대들이 사격 진지를 차지한 것을 알게 만들어야 한다”고 협박한 지 나흘 만에 북한 자주포 3대가 등장했습니다.\n\n● 콘크리트 기둥을 멘 여군애기봉 전망대 맞은편엔 수많은 북한 군인이 나와 철조망을 설치하는 공사를 진행하고 있었습니다. 이 사진을 통해 기자는 ‘북한 여군들의 열악한 인권’을 떠올리기 전에 먼저 “북한군도 병력난이 정말 심각하구나”라는 생각이 먼저 떠올랐습니다. ● 군기 빠진 북한군 실상애기봉 전망대 맞은편에 나타난 자주포 3대는 M-1975 자주포로 보입니다.\n\n출처: 동아일보 / https://n.news.naver.com/article/020/0003759098"
+   "feed": "뉴스 01. 장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"\n\n장동혁 국민의힘 대표가, 지난 지방선거 투표지 부족 사태를 수사 중인 특검의 수사 \"결과를 지켜봐야 한다\"면서도 반드시 재선거를 해야 한다고 강조했습니다. 장 대표는 오늘 MBN에 출연해 \"대량의 투표용지 부족 사태가 발생한 것 자체가 선거에 영향을 미쳤다\"며 특검의 선관위 서버 압수수색을 들어 \"법원이 전산 조작에 대해 어느 정도 범죄 혐의를 인정했다\"고 주장했습니다. 진행자가 여권에선 '국민의힘이 승리한 선거에서 부정선거를 주장하느냐'고 반문한다고 지적하자, 장 대표는 \"선거에 부정이 있다면 선거 결과의 승패를 따질 문제가 아니\"라고 반박했습니다.\n\n그러면서 \"투표용지 부족 사태만 하더라도 부정선거로 부르기에 충분하다\"며, \"이긴 선거든 진 선거든 반드시 재선거로 연결되는 것이 맞다\"고 말했습니다. 장 대표는 또 최근 오찬 회동에서 박근혜 전 대통령이 \"선관위 개혁 문제에 대해서는 놓치지 않고 끝까지 결과를 만들어낼 수 있도록 해야 한다\"고 당부했다고 전했습니다. 장 대표는 국민의힘의 지지율 상승에 대해선 \"국민들이 심리적으로 이재명 정부를 탄핵했다\"며 실망한 국민들이 \"대안 정당으로서 국민의힘을 주목하기 때문\"이라고 주장했습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001532758"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/03.png",
-   "pngBytes": 1166381,
-   "title": "이재명 대통령 '서울 집값 하락' 글 공유하며 \"견디는 기간\"",
-   "summary": "이재명 대통령은 31일 소셜미디어 X에 \"자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 이재명 대통령이 공유한 게시물은 서울 강남 지역의 공인중개사들…",
-   "summary_long": "이재명 대통령은 31일 소셜미디어 X(엑스)에 \"자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 인내의 시간이 지나고 나면 결국 알게 될 것\"이라며 \"국민주권정부는 합니다\"라고 했다. 이재명 대통령이 공유한 게시물은 서울 강남 지역의 공인중개사들 사이에서 조만간 강남3구를 시작으로 서울 외곽 지역까지 집값이 하락 국면이 될 것이라는 전망을 담았다.\n\n해당 글은 이번 정부 정책이 시장의 생리를 꿰뚫고 있다며 정부 정책이 바뀌지 않는 한 서울 집값이 하락할 것이라는 내용이다. 이재명 대통령은 지난 5월6일에도 \"부동산 정상화는 피할 수 없는 시대적 흐름이자 반드시 해야 할 국가의 핵심 과제\"라고 밝힌 바 있다.",
-   "press": "미디어오늘",
-   "source": "미디어오늘",
-   "link": "https://n.news.naver.com/article/006/0000138503",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/03.png",
+   "pngBytes": 1978411,
+   "title": "'쾅, 쾅, 쾅' 공중에 뿌려진 폭탄... 北, 우리 군사시설 모형 만들고 집속탄으로 때려",
+   "summary": "북한 조선중앙통신이 어제 전술탄도미사일 산포전투부 전투적용성 및 위력평가시험을 진행했다고 1일 보도했다. 북한 조선중앙통신은 미사일총국이 지난달 31일 '전술탄도미사일…",
+   "summary_long": "北, 집속탄으로 우리 군사시설 모의 타격. 북한 조선중앙통신이 어제(10월 31일) 전술탄도미사일 산포전투부(집속탄 탄두) 전투적용성 및 위력평가시험을 진행했다고 1일 보도했다. 북한이 전날 전술탄도미사일에 탑재하는 집속탄두의 위력시험을 진행했다고 1일 밝혔다.\n\n집속탄은 하나의 거대한 폭탄 안에 든 수많은 소형 폭탄을 공중에서 흩뿌리는 무기로, 북한의 주장대로라면 최대 13만㎡ 구역을 파괴할 수 있다. 북한이 공개한 사진을 보면 집속탄이 공중에서 분사해 표적으로 삼은 섬과 그 주위에 폭탄들이 떨어지고 있다. 신종우 한국국방안보포럼(KODEF) 사무총장은 \"집속탄 분산 효과와 파괴력을 검증한 것으로 보인다\"면서 \"한국군의 군사시설을 모의 표적으로 해 집속탄 시험을 한 것으로 추정된다\"고 말했다.",
+   "press": "한국일보",
+   "source": "한국일보",
+   "link": "https://n.news.naver.com/article/469/0000962894",
    "selection": "정치",
-   "feed": "뉴스 02. 이재명 대통령 '서울 집값 하락' 글 공유하며 \"견디는 기간\"\n\n이재명 대통령은 31일 소셜미디어 X(엑스)에 \"자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 인내의 시간이 지나고 나면 결국 알게 될 것\"이라며 \"국민주권정부는 합니다\"라고 했다. 이재명 대통령이 공유한 게시물은 서울 강남 지역의 공인중개사들 사이에서 조만간 강남3구를 시작으로 서울 외곽 지역까지 집값이 하락 국면이 될 것이라는 전망을 담았다.\n\n해당 글은 이번 정부 정책이 시장의 생리를 꿰뚫고 있다며 정부 정책이 바뀌지 않는 한 서울 집값이 하락할 것이라는 내용이다. 이재명 대통령은 지난 5월6일에도 \"부동산 정상화는 피할 수 없는 시대적 흐름이자 반드시 해야 할 국가의 핵심 과제\"라고 밝힌 바 있다.\n\n출처: 미디어오늘 / https://n.news.naver.com/article/006/0000138503"
+   "feed": "뉴스 02. '쾅, 쾅, 쾅' 공중에 뿌려진 폭탄... 北, 우리 군사시설 모형 만들고 집속탄으로 때려\n\n北, 집속탄으로 우리 군사시설 모의 타격. 북한 조선중앙통신이 어제(10월 31일) 전술탄도미사일 산포전투부(집속탄 탄두) 전투적용성 및 위력평가시험을 진행했다고 1일 보도했다. 북한이 전날 전술탄도미사일에 탑재하는 집속탄두의 위력시험을 진행했다고 1일 밝혔다.\n\n집속탄은 하나의 거대한 폭탄 안에 든 수많은 소형 폭탄을 공중에서 흩뿌리는 무기로, 북한의 주장대로라면 최대 13만㎡ 구역을 파괴할 수 있다. 북한이 공개한 사진을 보면 집속탄이 공중에서 분사해 표적으로 삼은 섬과 그 주위에 폭탄들이 떨어지고 있다. 신종우 한국국방안보포럼(KODEF) 사무총장은 \"집속탄 분산 효과와 파괴력을 검증한 것으로 보인다\"면서 \"한국군의 군사시설을 모의 표적으로 해 집속탄 시험을 한 것으로 추정된다\"고 말했다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000962894"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/04.png",
-   "pngBytes": 2332538,
-   "title": "“13살 연하 아내, 구찌 누나였다”…호빠에 2억 쏜 女 충격 실체",
-   "summary": "그는 지난해 13살 어린 아내가 서울 수유의 호스트바 선수와 데이트하는 현장을 덮친 뒤 상간 소송을 제기했다. 그런데 아내는 판사에게 “남자친구는 제가 결혼한 사실을…",
-   "summary_long": "탐정은 사건의 상간자인 호스트바 선수를 찾아내고자 신입 선수로 위장했다. 그는 지난해 13살 어린 아내가 서울 수유의 호스트바 선수와 데이트하는 현장을 덮친 뒤 상간 소송을 제기했다. 그런데 아내는 판사에게 “남자친구는 제가 결혼한 사실을 몰랐어요”라며 선수의 결백을 호소했다.\n\n남편이 돼지고기를 삶기 위해 새벽부터 문밖을 나선 날, 아내는 집안의 패물을 싹 다 챙긴 뒤 가출했다. “당장 아내 노트북으로 유튜브를 켜보세요.” 탐정을 통해 아내를 찾아낸 남편이 돌아오라고 빌자, 아내는 뜻밖의 행동까지 벌인다.",
-   "press": "중앙일보",
-   "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003561833",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/04.png",
+   "pngBytes": 1660754,
+   "title": "[속보]“아내 불륜 상대 알리겠다” 트럭 타고 군부대 돌진 30대의 결말",
+   "summary": "1일 법조계에 따르면 수원지법 여주지원 형사2단독 김수정 판사는 군사기지 및 군사시설 보호법 위반, 음주운전 등 혐의로 기소된 A 씨에게 징역 3년에 집행유예 5년을…",
+   "summary_long": "1일 법조계에 따르면 수원지법 여주지원 형사2단독 김수정 판사는 군사기지 및 군사시설 보호법 위반, 음주운전 등 혐의로 기소된 A 씨에게 징역 3년에 집행유예 5년을 선고했다. 사회봉사 500시간도 명령했다. A 씨는 6월 14일 오전 1시쯤 자신의 트럭을 몰고 경기 이천시 한 군부대 위병소 출입문을 들이받아 부순 혐의로 재판에 넘겨졌다.\n\n특히 그는 당시 혈중알코올농도는 0.169%로 면허 취소 기준(0.08% 이상)을 크게 웃돌았다. 다친 사람은 없었지만 출입문이 파손돼 약 550만 원의 재산 피해가 발생한 것으로 전해졌다. 법원은 “군사시설 정문을 부수고 들어간 것도 모자라 계속해서 행패를 부렸다”고 판시했다.",
+   "press": "문화일보",
+   "source": "문화일보",
+   "link": "https://n.news.naver.com/article/021/0002829391",
    "selection": "경제·시사",
-   "feed": "뉴스 03. “13살 연하 아내, 구찌 누나였다”…호빠에 2억 쏜 女 충격 실체\n\n탐정은 사건의 상간자인 호스트바 선수를 찾아내고자 신입 선수로 위장했다. 그는 지난해 13살 어린 아내가 서울 수유의 호스트바 선수와 데이트하는 현장을 덮친 뒤 상간 소송을 제기했다. 그런데 아내는 판사에게 “남자친구는 제가 결혼한 사실을 몰랐어요”라며 선수의 결백을 호소했다.\n\n남편이 돼지고기를 삶기 위해 새벽부터 문밖을 나선 날, 아내는 집안의 패물을 싹 다 챙긴 뒤 가출했다. “당장 아내 노트북으로 유튜브를 켜보세요.” 탐정을 통해 아내를 찾아낸 남편이 돌아오라고 빌자, 아내는 뜻밖의 행동까지 벌인다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003561833"
+   "feed": "뉴스 03. [속보]“아내 불륜 상대 알리겠다” 트럭 타고 군부대 돌진 30대의 결말\n\n1일 법조계에 따르면 수원지법 여주지원 형사2단독 김수정 판사는 군사기지 및 군사시설 보호법 위반, 음주운전 등 혐의로 기소된 A 씨에게 징역 3년에 집행유예 5년을 선고했다. 사회봉사 500시간도 명령했다. A 씨는 6월 14일 오전 1시쯤 자신의 트럭을 몰고 경기 이천시 한 군부대 위병소 출입문을 들이받아 부순 혐의로 재판에 넘겨졌다.\n\n특히 그는 당시 혈중알코올농도는 0.169%로 면허 취소 기준(0.08% 이상)을 크게 웃돌았다. 다친 사람은 없었지만 출입문이 파손돼 약 550만 원의 재산 피해가 발생한 것으로 전해졌다. 법원은 “군사시설 정문을 부수고 들어간 것도 모자라 계속해서 행패를 부렸다”고 판시했다.\n\n출처: 문화일보 / https://n.news.naver.com/article/021/0002829391"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/05.png",
-   "pngBytes": 594830,
-   "title": "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
-   "summary": "",
-   "summary_long": "",
-   "press": "매일경제",
-   "source": "매일경제",
-   "link": "https://n.news.naver.com/article/009/0005756916",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/05.png",
+   "pngBytes": 1933013,
+   "title": "“운전중 핸들서 ‘뱀’ 나왔습니다” 고속도로 아찔 신고…소방 출동",
+   "summary": "1일 연합뉴스에 따르면 전날 오후 6시 30분쯤 렌터카를 타고 경부고속도로 하행선 양재IC 부근을 지나던 A씨는 핸들 뒤에서 움직이는 뱀의 머리를 발견했다.",
+   "summary_long": "렌터카 타고 주행 중 ‘봉변’. 고속도로 주행 중 렌터카 핸들과 계기판 사이에서 뱀이 튀어나와 소방이 출동하는 일이 발생했다. A씨는 급하게 차량을 갓길에 세운 뒤 소방에 신고했고, 소방은 오후 6시 38분 현장으로 출동해 뱀을 잡아 살처분했다.\n\n소방은 오후 7시 11분쯤 상황을 종료하고 현장을 철수했다. 1일 연합뉴스에 따르면 전날 오후 6시 30분쯤 렌터카를 타고 경부고속도로 하행선 양재IC 부근을 지나던 A씨는 핸들 뒤에서 움직이는 뱀의 머리를 발견했다. 2026.11.1 연합뉴스(독자 제공).",
+   "press": "서울신문",
+   "source": "서울신문",
+   "link": "https://n.news.naver.com/article/081/0003694580",
    "selection": "경제·시사",
-   "feed": "뉴스 04. “52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발\n\n\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005756916"
+   "feed": "뉴스 04. “운전중 핸들서 ‘뱀’ 나왔습니다” 고속도로 아찔 신고…소방 출동\n\n렌터카 타고 주행 중 ‘봉변’. 고속도로 주행 중 렌터카 핸들과 계기판 사이에서 뱀이 튀어나와 소방이 출동하는 일이 발생했다. A씨는 급하게 차량을 갓길에 세운 뒤 소방에 신고했고, 소방은 오후 6시 38분 현장으로 출동해 뱀을 잡아 살처분했다.\n\n소방은 오후 7시 11분쯤 상황을 종료하고 현장을 철수했다. 1일 연합뉴스에 따르면 전날 오후 6시 30분쯤 렌터카를 타고 경부고속도로 하행선 양재IC 부근을 지나던 A씨는 핸들 뒤에서 움직이는 뱀의 머리를 발견했다. 2026.11.1 연합뉴스(독자 제공).\n\n출처: 서울신문 / https://n.news.naver.com/article/081/0003694580"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/06.png",
-   "pngBytes": 2088621,
-   "title": "[취재일기] 떨어진 감 주워놓고, 농사 잘 지었다는 장동혁",
-   "summary": "장동혁 국민의힘 대표는 2020년 국민의힘 출범 이후 '최장수 당대표'라는 기록을 썼고, 때마침 이재명 대통령과 더불어민주당의 지지율은 동반 하락했다. 그렇다면 지금의…",
-   "summary_long": "\"반(反)장동혁으로 분류되면 용납할 수 없다.\" 국민의힘의 한 지도부 인사가 기자에게 한 말이다. 장동혁 국민의힘 대표는 2020년 국민의힘 출범 이후 '최장수 당대표'라는 기록을 썼고, 때마침 이재명 대통령과 더불어민주당의 지지율은 동반 하락했다.\n\n그렇다면 지금의 '지지율'을 장동혁 대표의 노선에 대한 '지지'로 읽는 것은 아전인수가 된다. 강경 노선 덕에 지지율이 올랐다고 믿으니 더 오른쪽으로 향하고, 대표가 잘해서 얻은 성과라고 여기니 당내 비판도 받아들이기 어려워지는 것이다. 그 끝에 남는 것은 경쟁력 있는 국민의힘이 아니라 말 잘 듣는 '장동혁의 국민의힘'이다.",
-   "press": "시사저널",
-   "source": "시사저널",
-   "link": "https://n.news.naver.com/article/586/0000141317",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/06.png",
+   "pngBytes": 2065206,
+   "title": "'동물농장' 빗댄 판사에 민주당·조국 \"사법부 독립, 조희대 성역화 아냐\"",
+   "summary": "민주당은 법왜곡죄 신설과 재판소원 도입, 조희대 대법원장 국정조사 등이 헌법이 보장한 국회의 권한이라고 강조했습니다. 조 전 대표는 성 판사의 주장을 법조 엘리트의…",
+   "summary_long": "더불어민주당과 조국 전 조국혁신당 대표가 '소설 동물농장'이 빗대며 사법개혁을 비판한 성찬용 인천지법 부천지원 판사를 강하게 비판했습니다. 민주당은 법왜곡죄 신설과 재판소원 도입, 조희대 대법원장 국정조사 등이 헌법이 보장한 국회의 권한이라고 강조했습니다. 조 전 대표는 성 판사의 주장을 법조 엘리트의 오만이라고 비판하며 사법부에 대한 시민 통제의 필요성을 주장했습니다.\n\n국회의 입법 활동과 조희대 대법원장에 대한 국정조사는 헌법이 보장한 권한이라며 사법부 독립을 침해한다는 주장을 받아들일 수 없다고 밝혔습니다. 민주당 조계원 대변인은 1일 서면브리핑에서 사법부 독립은 조희대 대법원장을 보호하기 위한 것이 아니라 국민의 기본권과 정의를 지키기 위한 헌법적 원칙이라고 강조했습니다. 그는 민주당이 추진하는 법왜곡죄 신설과 재판소원 도입, 대법관 증원, 조 대법원장에 대한 국정조사 등을 사법부 독립을 위협하는 움직임으로 비판했습니다.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000518570",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. [취재일기] 떨어진 감 주워놓고, 농사 잘 지었다는 장동혁\n\n\"반(反)장동혁으로 분류되면 용납할 수 없다.\" 국민의힘의 한 지도부 인사가 기자에게 한 말이다. 장동혁 국민의힘 대표는 2020년 국민의힘 출범 이후 '최장수 당대표'라는 기록을 썼고, 때마침 이재명 대통령과 더불어민주당의 지지율은 동반 하락했다.\n\n그렇다면 지금의 '지지율'을 장동혁 대표의 노선에 대한 '지지'로 읽는 것은 아전인수가 된다. 강경 노선 덕에 지지율이 올랐다고 믿으니 더 오른쪽으로 향하고, 대표가 잘해서 얻은 성과라고 여기니 당내 비판도 받아들이기 어려워지는 것이다. 그 끝에 남는 것은 경쟁력 있는 국민의힘이 아니라 말 잘 듣는 '장동혁의 국민의힘'이다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000141317"
+   "feed": "뉴스 05. '동물농장' 빗댄 판사에 민주당·조국 \"사법부 독립, 조희대 성역화 아냐\"\n\n더불어민주당과 조국 전 조국혁신당 대표가 '소설 동물농장'이 빗대며 사법개혁을 비판한 성찬용 인천지법 부천지원 판사를 강하게 비판했습니다. 민주당은 법왜곡죄 신설과 재판소원 도입, 조희대 대법원장 국정조사 등이 헌법이 보장한 국회의 권한이라고 강조했습니다. 조 전 대표는 성 판사의 주장을 법조 엘리트의 오만이라고 비판하며 사법부에 대한 시민 통제의 필요성을 주장했습니다.\n\n국회의 입법 활동과 조희대 대법원장에 대한 국정조사는 헌법이 보장한 권한이라며 사법부 독립을 침해한다는 주장을 받아들일 수 없다고 밝혔습니다. 민주당 조계원 대변인은 1일 서면브리핑에서 사법부 독립은 조희대 대법원장을 보호하기 위한 것이 아니라 국민의 기본권과 정의를 지키기 위한 헌법적 원칙이라고 강조했습니다. 그는 민주당이 추진하는 법왜곡죄 신설과 재판소원 도입, 대법관 증원, 조 대법원장에 대한 국정조사 등을 사법부 독립을 위협하는 움직임으로 비판했습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000518570"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/07.png",
-   "pngBytes": 2083907,
-   "title": "장동혁 \"李대통령 일가, 황제 골프 넘어 '민폐 골프' '민폐 가족'\"",
-   "summary": "장동혁 국민의힘 대표는 31일 이재명 대통령과 가족의 골프 관련 의혹들을 제기하면서 \"이 정도면 '황제 골프' 수준을 넘어 '민폐 골프'\"라며 \"대통령 일가가 '민폐…",
-   "summary_long": "장동혁 국민의힘 대표는 31일 이재명 대통령과 가족의 골프 관련 의혹들을 제기하면서 \"이 정도면 '황제 골프' 수준을 넘어 '민폐 골프'\"라며 \"대통령 일가가 '민폐 가족'이 되고 있다\"고 지적했다. 장 대표는 이날 페이스북에 글을 올려 \"이 대통령은 해군 장병이 실종되어 죽어갈 때도, 건물이 무너져서 어르신들의 생명이 위태로울 때도 골프 라운딩을 멈추지 않았다. 제정신 박힌 대통령이라면 적어도 그런 날은 골프를 멈췄어야 하는 것 아닌가\"라며 이같이 밝혔다.\n\n장 대표는 이어 이 대통령이 더불어민주당 대표 시절 윤석열 당시 대통령의 골프 연습 의혹을 비판한 것을 언급하며 \"그래 놓고 본인은 틈만 나면 가족까지 동반해서 황제 골프를 즐긴다\"고 말했다. 그러면서 \"민주당은 '대통령도 사람'이라며 휴식과 운동 차원의 골프를 칠 수 있다고 변명한다. 청와대는 '사적 일정을 정치적 공방으로 활용하는 것에 유감을 표한다'고 한다\"며 \"'대통령에게 사적 일정이 있느냐', 이 정권 야당 시절의 단골 레퍼토리 아닌가\"라고 했다.",
-   "press": "시사저널",
-   "source": "시사저널",
-   "link": "https://n.news.naver.com/article/586/0000141312",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/07.png",
+   "pngBytes": 1758098,
+   "title": "이 대통령 \"콩을 콩이라 못 부르나\"‥다문화 논란 재차 반박",
+   "summary": "이재명 대통령이 다문화가정 우대 정책 재검토를 둘러싼 비판에 \"원칙과 사실은 어떤 집단, 어떤 정치적 유불리 앞에서도 그 무게가 달라져서는 안 된다\"며 재차…",
+   "summary_long": "이재명 대통령이 다문화가정 우대 정책 재검토를 둘러싼 비판에 \"원칙과 사실은 어떤 집단, 어떤 정치적 유불리 앞에서도 그 무게가 달라져서는 안 된다\"며 재차 반박했습니다. 이 대통령은 오늘 SNS에 '호남에서 콩이면 영남에서도 콩이어야'라는 제목으로 \"제도의 불합리나 맹점이 발견돼도 집단의 정체성을 잣대로 무조건 비호하거나 피해주의로 일관하는 것은 '콩을 콩이라 부르지 못하게 하는' 왜곡, '콩을 팥이라 우기는' 선동을 낳을 수가 있다\"고 적었습니다. 이어 \"다문화가정을 포함한 사회적 약자에 대한 배려는 마땅히 지켜져야 할 우리 공동체의 책무\"라면서도 \"문제가 있다면 시정하자고 하는 것은 다문화가정을 배제하거나 차별하는 조치일 수 없다\"고 밝혔습니다.\n\n또 \"문제를 문제라고 말하지 못하게 가로막는 교조적 태도는 다문화가정을 동등한 대한민국 시민으로 포용하려는 본래 취지를 오히려 훼손할 수 있다\"고 지적했습니다. 특히 \"부분적 불공정이나 행정적 사각지대를 '소수자 보호'라는 명분으로 방치하면 극우적 혐오 선동과 극단적인 여론 분열의 손쉬운 먹잇감이 될 것\"이라고 강조했습니다. 그러면서 \"사실과 이성에 기반한 활발한 논쟁은 사회 발전을 도울 뿐 아니라 허구와 맹종에 기반한 선동과 혐오를 막는 최고의 예방약\"이라며 \"팩트와 이성에 기반해 열심히 토론하자\"고 덧붙였습니다.",
+   "press": "MBC",
+   "source": "MBC",
+   "link": "https://n.news.naver.com/article/214/0001532759",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 장동혁 \"李대통령 일가, 황제 골프 넘어 '민폐 골프' '민폐 가족'\"\n\n장동혁 국민의힘 대표는 31일 이재명 대통령과 가족의 골프 관련 의혹들을 제기하면서 \"이 정도면 '황제 골프' 수준을 넘어 '민폐 골프'\"라며 \"대통령 일가가 '민폐 가족'이 되고 있다\"고 지적했다. 장 대표는 이날 페이스북에 글을 올려 \"이 대통령은 해군 장병이 실종되어 죽어갈 때도, 건물이 무너져서 어르신들의 생명이 위태로울 때도 골프 라운딩을 멈추지 않았다. 제정신 박힌 대통령이라면 적어도 그런 날은 골프를 멈췄어야 하는 것 아닌가\"라며 이같이 밝혔다.\n\n장 대표는 이어 이 대통령이 더불어민주당 대표 시절 윤석열 당시 대통령의 골프 연습 의혹을 비판한 것을 언급하며 \"그래 놓고 본인은 틈만 나면 가족까지 동반해서 황제 골프를 즐긴다\"고 말했다. 그러면서 \"민주당은 '대통령도 사람'이라며 휴식과 운동 차원의 골프를 칠 수 있다고 변명한다. 청와대는 '사적 일정을 정치적 공방으로 활용하는 것에 유감을 표한다'고 한다\"며 \"'대통령에게 사적 일정이 있느냐', 이 정권 야당 시절의 단골 레퍼토리 아닌가\"라고 했다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000141312"
+   "feed": "뉴스 06. 이 대통령 \"콩을 콩이라 못 부르나\"‥다문화 논란 재차 반박\n\n이재명 대통령이 다문화가정 우대 정책 재검토를 둘러싼 비판에 \"원칙과 사실은 어떤 집단, 어떤 정치적 유불리 앞에서도 그 무게가 달라져서는 안 된다\"며 재차 반박했습니다. 이 대통령은 오늘 SNS에 '호남에서 콩이면 영남에서도 콩이어야'라는 제목으로 \"제도의 불합리나 맹점이 발견돼도 집단의 정체성을 잣대로 무조건 비호하거나 피해주의로 일관하는 것은 '콩을 콩이라 부르지 못하게 하는' 왜곡, '콩을 팥이라 우기는' 선동을 낳을 수가 있다\"고 적었습니다. 이어 \"다문화가정을 포함한 사회적 약자에 대한 배려는 마땅히 지켜져야 할 우리 공동체의 책무\"라면서도 \"문제가 있다면 시정하자고 하는 것은 다문화가정을 배제하거나 차별하는 조치일 수 없다\"고 밝혔습니다.\n\n또 \"문제를 문제라고 말하지 못하게 가로막는 교조적 태도는 다문화가정을 동등한 대한민국 시민으로 포용하려는 본래 취지를 오히려 훼손할 수 있다\"고 지적했습니다. 특히 \"부분적 불공정이나 행정적 사각지대를 '소수자 보호'라는 명분으로 방치하면 극우적 혐오 선동과 극단적인 여론 분열의 손쉬운 먹잇감이 될 것\"이라고 강조했습니다. 그러면서 \"사실과 이성에 기반한 활발한 논쟁은 사회 발전을 도울 뿐 아니라 허구와 맹종에 기반한 선동과 혐오를 막는 최고의 예방약\"이라며 \"팩트와 이성에 기반해 열심히 토론하자\"고 덧붙였습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001532759"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/08.png",
-   "pngBytes": 1329806,
-   "title": "장동혁, 이 대통령에 \"비판하는 국민 돼지로 보이느냐\"",
-   "summary": "2026.10.31 연합뉴스국민의힘이 이재명 대통령의 '돼지 눈에는 돼지만 보인다'는 발언을 두고 \"본인을 비판하는 국민은 전부 돼지로 보이느냐\"며 공세를 펼쳤다.…",
-   "summary_long": "▲ 국민의힘 장동혁 대표가 31일 국회 의원회관에서 열린 2027 서울 세계청년대회의 성공적 개최를 위한 국회·정부·조직위원회 공동선언문 선포식에서 축사를 하고 있다. 2026.10.31 연합뉴스국민의힘이 이재명 대통령의 '돼지 눈에는 돼지만 보인다'는 발언을 두고 \"본인을 비판하는 국민은 전부 돼지로 보이느냐\"며 공세를 펼쳤다. 장동혁 국민의힘 대표는 31일 페이스북을 통해 이 대통령을 향해 \"링거 안 맞고 코피 안 터져도 되니 이제 그만 자중하시라\"며 이같이 비판했다.\n\n조용술 국민의힘 대변인도 논평을 통해 \"국민의 정당한 문제 제기를 깎아내리는 것도 모자라 돼지에까지 빗대는 오만함을 드러냈다\"며 \"국민이 돼지로 보인다면 그것이야말로 돼지의 눈 아니냐\"고 비꼬았다. 3선 성일종 의원도 페이스북에서 \"돼지 눈에는 돼지만 보인다고 하는데 돼지나 고양이도 밥 주는 주인을 알아보고 따른다. 이어 \"외교·안보를 비롯해 주택과 주식 문제까지 서민의 삶이 무너진 상황에서 외유 자체가 어떻게 돼지의 요구냐\"고 비판했다.",
-   "press": "강원도민일보",
-   "source": "강원도민일보",
-   "link": "https://n.news.naver.com/article/654/0000208549",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/08.png",
+   "pngBytes": 1441223,
+   "title": "“박근혜, 국가시스템 붕괴 우려…정권 가져와야한다 말해” 장동혁 공개",
+   "summary": "박근혜 전 대통령이 국민의힘 장동혁 대표를 만난 자리에서 다음 총선에서 승리해 정권을 되찾아야 한다고 당부한 것으로 전해졌다. 장 대표에 따르면 박 전 대통령은 “좋은…",
+   "summary_long": "지난달 25일 경북 구미시 금오산 호텔에서 열린 파독 간호사 환영 만찬에서 박근혜 전 대통령이 환영사를 하고 있다. 박근혜 전 대통령이 국민의힘 장동혁 대표를 만난 자리에서 다음 총선에서 승리해 정권을 되찾아야 한다고 당부한 것으로 전해졌다. 장 대표는 1일 MBN ‘시사스페셜 정운갑의 집중분석’에 출연해 지난달 박 전 대통령과 오찬을 함께하면서 나눈 대화 내용을 공개했다.\n\n장 대표에 따르면 박 전 대통령은 “좋은 인재들로 우리가 채워서 다음 총선에서 이기고 그것을 바탕으로 정권을 가져와야지만 대한민국의 시스템을 지켜낼 수 있다”고 말했다. 장 대표는 박 전 대통령이 이재명 정부 출범 이후 여러 국가 시스템이 무너지고 있다고 우려하면서 시장경제와 자유민주주의를 지킬 신념을 가진 인재의 중요성을 강조했다고 설명했다. 장 대표는 지난달 30일 경북 구미의 박정희 전 대통령 생가를 방문한 자리에서도 6·3 지방선거 투표용지 부족 사태를 비판하며 관련 의혹을 규명해야 한다고 강조했다.",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005757264",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 장동혁, 이 대통령에 \"비판하는 국민 돼지로 보이느냐\"\n\n▲ 국민의힘 장동혁 대표가 31일 국회 의원회관에서 열린 2027 서울 세계청년대회의 성공적 개최를 위한 국회·정부·조직위원회 공동선언문 선포식에서 축사를 하고 있다. 2026.10.31 연합뉴스국민의힘이 이재명 대통령의 '돼지 눈에는 돼지만 보인다'는 발언을 두고 \"본인을 비판하는 국민은 전부 돼지로 보이느냐\"며 공세를 펼쳤다. 장동혁 국민의힘 대표는 31일 페이스북을 통해 이 대통령을 향해 \"링거 안 맞고 코피 안 터져도 되니 이제 그만 자중하시라\"며 이같이 비판했다.\n\n조용술 국민의힘 대변인도 논평을 통해 \"국민의 정당한 문제 제기를 깎아내리는 것도 모자라 돼지에까지 빗대는 오만함을 드러냈다\"며 \"국민이 돼지로 보인다면 그것이야말로 돼지의 눈 아니냐\"고 비꼬았다. 3선 성일종 의원도 페이스북에서 \"돼지 눈에는 돼지만 보인다고 하는데 돼지나 고양이도 밥 주는 주인을 알아보고 따른다. 이어 \"외교·안보를 비롯해 주택과 주식 문제까지 서민의 삶이 무너진 상황에서 외유 자체가 어떻게 돼지의 요구냐\"고 비판했다.\n\n출처: 강원도민일보 / https://n.news.naver.com/article/654/0000208549"
+   "feed": "뉴스 07. “박근혜, 국가시스템 붕괴 우려…정권 가져와야한다 말해” 장동혁 공개\n\n지난달 25일 경북 구미시 금오산 호텔에서 열린 파독 간호사 환영 만찬에서 박근혜 전 대통령이 환영사를 하고 있다. 박근혜 전 대통령이 국민의힘 장동혁 대표를 만난 자리에서 다음 총선에서 승리해 정권을 되찾아야 한다고 당부한 것으로 전해졌다. 장 대표는 1일 MBN ‘시사스페셜 정운갑의 집중분석’에 출연해 지난달 박 전 대통령과 오찬을 함께하면서 나눈 대화 내용을 공개했다.\n\n장 대표에 따르면 박 전 대통령은 “좋은 인재들로 우리가 채워서 다음 총선에서 이기고 그것을 바탕으로 정권을 가져와야지만 대한민국의 시스템을 지켜낼 수 있다”고 말했다. 장 대표는 박 전 대통령이 이재명 정부 출범 이후 여러 국가 시스템이 무너지고 있다고 우려하면서 시장경제와 자유민주주의를 지킬 신념을 가진 인재의 중요성을 강조했다고 설명했다. 장 대표는 지난달 30일 경북 구미의 박정희 전 대통령 생가를 방문한 자리에서도 6·3 지방선거 투표용지 부족 사태를 비판하며 관련 의혹을 규명해야 한다고 강조했다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005757264"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-01/09.png",
-   "pngBytes": 1345971
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-02/09.png",
+   "pngBytes": 1345911
   }
  ],
- "caption": "📰 11월 1일 오늘의 뉴스\n\n1. 여군까지 최전방에? 군기 빠진 북한군의 생생한 모습 [주성하의 ‘北토크’]\n   경기도 김포시 애기봉 전망대 맞은편에 나타난 북한군 자주포가 이번 주엔 화제가 됐습니다. 김여정 노동당 총무부장이 21일 ‘남부 국경선’ 요새화 현장을 시찰하면서 “저…\n2. 이재명 대통령 '서울 집값 하락' 글 공유하며 \"견디는 기간\"\n   이재명 대통령은 31일 소셜미디어 X에 \"자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 이재명 대통령이 공유한 게시물은 서울 강남 지역의 공인중개사들…\n3. “13살 연하 아내, 구찌 누나였다”…호빠에 2억 쏜 女 충격 실체\n   그는 지난해 13살 어린 아내가 서울 수유의 호스트바 선수와 데이트하는 현장을 덮친 뒤 상간 소송을 제기했다. 그런데 아내는 판사에게 “남자친구는 제가 결혼한 사실을…\n4. “52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발\n5. [취재일기] 떨어진 감 주워놓고, 농사 잘 지었다는 장동혁\n   장동혁 국민의힘 대표는 2020년 국민의힘 출범 이후 '최장수 당대표'라는 기록을 썼고, 때마침 이재명 대통령과 더불어민주당의 지지율은 동반 하락했다. 그렇다면 지금의…\n6. 장동혁 \"李대통령 일가, 황제 골프 넘어 '민폐 골프' '민폐 가족'\"\n   장동혁 국민의힘 대표는 31일 이재명 대통령과 가족의 골프 관련 의혹들을 제기하면서 \"이 정도면 '황제 골프' 수준을 넘어 '민폐 골프'\"라며 \"대통령 일가가 '민폐…\n7. 장동혁, 이 대통령에 \"비판하는 국민 돼지로 보이느냐\"\n   2026.10.31 연합뉴스국민의힘이 이재명 대통령의 '돼지 눈에는 돼지만 보인다'는 발언을 두고 \"본인을 비판하는 국민은 전부 돼지로 보이느냐\"며 공세를 펼쳤다.…\n\n🗣 “자산시장 정상화를 향한 힘든 길에서 지금은 견디는 중이다. 인내의 시간이 지나고 나면 결국 알게 될 것”\n이 발언을 그대로 실은 보도 10건 · 미디어오늘 · 프레시안 · 머니투데이 · 연합인포맥스\n· 미디어오늘 — 이재명 대통령 ‘서울 집값 하락’ 글 공유하며 “견디는 기간”\n· 프레시안 — [속보] 李대통령, 다시 '집값 하락' 전망 공유…\"자산시장 정상화 견디는 중\"\n· 머니투데이 — 李대통령 \"자산시장 정상화 향한 힘든 길, 지금은 견디는 중\" - 머니투데이\n· 연합인포맥스 — 李대통령, \"부동산 정상화, 지금은 견디는 중…국민주권정부는 한다\"\n· 조선일보 — 서울 집값 90주 연속 올랐는데... 李 \"자산시장 정상화 향한 힘든 길\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한 #대통령실\n\n출처: 강원도민일보, 동아일보, 매일경제, 미디어오늘, 시사저널, 중앙일보"
+ "caption": "📰 11월 2일 오늘의 뉴스\n\n1. 장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"\n   장동혁 국민의힘 대표가, 지난 지방선거 투표지 부족 사태를 수사 중인 특검의 수사 \"결과를 지켜봐야 한다\"면서도 반드시 재선거를 해야 한다고 강조했습니다. 장 대표는…\n2. '쾅, 쾅, 쾅' 공중에 뿌려진 폭탄... 北, 우리 군사시설 모형 만들고 집속탄으로 때려\n   북한 조선중앙통신이 어제 전술탄도미사일 산포전투부 전투적용성 및 위력평가시험을 진행했다고 1일 보도했다. 북한 조선중앙통신은 미사일총국이 지난달 31일 '전술탄도미사일…\n3. [속보]“아내 불륜 상대 알리겠다” 트럭 타고 군부대 돌진 30대의 결말\n   1일 법조계에 따르면 수원지법 여주지원 형사2단독 김수정 판사는 군사기지 및 군사시설 보호법 위반, 음주운전 등 혐의로 기소된 A 씨에게 징역 3년에 집행유예 5년을…\n4. “운전중 핸들서 ‘뱀’ 나왔습니다” 고속도로 아찔 신고…소방 출동\n   1일 연합뉴스에 따르면 전날 오후 6시 30분쯤 렌터카를 타고 경부고속도로 하행선 양재IC 부근을 지나던 A씨는 핸들 뒤에서 움직이는 뱀의 머리를 발견했다.\n5. '동물농장' 빗댄 판사에 민주당·조국 \"사법부 독립, 조희대 성역화 아냐\"\n   민주당은 법왜곡죄 신설과 재판소원 도입, 조희대 대법원장 국정조사 등이 헌법이 보장한 국회의 권한이라고 강조했습니다. 조 전 대표는 성 판사의 주장을 법조 엘리트의…\n6. 이 대통령 \"콩을 콩이라 못 부르나\"‥다문화 논란 재차 반박\n   이재명 대통령이 다문화가정 우대 정책 재검토를 둘러싼 비판에 \"원칙과 사실은 어떤 집단, 어떤 정치적 유불리 앞에서도 그 무게가 달라져서는 안 된다\"며 재차…\n7. “박근혜, 국가시스템 붕괴 우려…정권 가져와야한다 말해” 장동혁 공개\n   박근혜 전 대통령이 국민의힘 장동혁 대표를 만난 자리에서 다음 총선에서 승리해 정권을 되찾아야 한다고 당부한 것으로 전해졌다. 장 대표에 따르면 박 전 대통령은 “좋은…\n\n🗣 “한미는 긴밀한 정보 공유하에 북한의 미사일 발사 전부터 관련 동향을 추적하며, 대비태세를 유지하고 있었다”\n이 발언을 그대로 실은 보도 10건 · 한국일보 · VOA 한국어 홈페이지 · 연합뉴스 · 뉴시스\n· 한국일보 — 공중으로 뿜어진 폭탄... 북, 우리 군사시설 모형 만들고 집속탄 위력 시험\n· VOA 한국어 홈페이지 — 북한, 집속탄두 위력시험…한국 합참 “발사 전부터 동향 추적”\n· 연합뉴스 — '축구장 18개 면적' 초토화…北, 집속탄두 위력 과시(종합2보)\n· 뉴시스 — 北, 전술탄도미사일 집속탄두 위력시험…군은 발사 공지 안해(종합)\n· Chosunbiz — 北, 축구장 18개 면적 초토화 ‘집속탄’ 시험…연내 실전 배치 예고\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한 #대통령실\n\n출처: JTBC, MBC, 매일경제, 문화일보, 서울신문, 한국일보"
 }
