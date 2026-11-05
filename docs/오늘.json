@@ -1,285 +1,225 @@
 {
- "date": "2026-11-04",
- "generated_at": "2026-11-04T11:50:41+09:00",
+ "date": "2026-11-05",
+ "generated_at": "2026-11-05T11:58:43+09:00",
  "mode": "daily",
- "window_start": "2026-11-03T00:00:00+09:00",
- "window_end": "2026-11-03T23:59:59+09:00",
+ "window_start": "2026-11-04T00:00:00+09:00",
+ "window_end": "2026-11-04T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "李대통령 “서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져”",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004007476",
-   "published_at": "2026-11-03T10:29:19+09:00",
+   "title": "김민석 '눈물 사과'에…한동훈 \"울지 말고 법적 책임져야\"",
+   "source": "매일신문",
+   "url": "https://n.news.naver.com/article/088/0001038222",
+   "published_at": "2026-11-04T09:53:09+09:00",
    "section_id": "100",
-   "view_rank": 1,
+   "view_rank": 2,
    "selection": "정치",
-   "summary": "이재명 대통령은 3일 “서울 지역의 아파트 매물이 급속도로 늘어나고, 거래량은 매우 급속도로 줄어들고 있다”며 “주요 지역들의 실제 거래 가격도 놀라울 정도로 떨어지고…",
-   "summary_long": "이재명 대통령은 3일 “서울 지역의 아파트 매물이 급속도로 늘어나고, 거래량은 매우 급속도로 줄어들고 있다”며 “주요 지역들의 실제 거래 가격도 놀라울 정도로 떨어지고 있다”고 했다. 이 대통령은 이날 청와대에서 국무회의를 주재해 “수도권 주택 가격의 전망을 두고 여러 이야기들이 나오고 있다”며 이같이 밝혔다. 이런 발언은 이 대통령이 정부의 부동산 관련 통계가 제대로 전달되고 있지 않다는 우려를 하면서 나왔다.\n\n그는 “정부가 할 수 있는 일 중에 객관적 데이터를 제대로 설명하는 게 필요할 것 같다”며 “물론 통계 자료들은 정기적으로 내고 있지만, 그게 제대로 전달되는지 좀 걱정이 된다”고 했다. 이어 “주택 가격이 상승을 해야 이익을 보는 쪽이 그 자료 중의 일부만 가지고 한쪽 방향으로 몰아가는 측면이 보인다”며 “예를 들면 서울 지역의 아파트 매물이 급속도로 늘어나고 있고, 거래량은 매우 급속도로 줄어들고 있다. 이 대통령은 “폭락을 걱정하는 쪽도 생겨나고 있다”며 “대한민국 주택 가격이 비정상으로 높다는 사실, 그리고 대한민국 미래를 위해서는 반드시 부동산 투기 공화국이라는 오명을 벗어던져야 한다는 점은 분명하다”고 했다.",
+   "summary": "김민석 더불어민주당 대표가 지난 8·17 전당대회 과정에서 불거진 '신천지 연대설'과 관련해 의혹을 뒷받침할 근거를 확인하지 못했다며 사과하자, 한동훈 무소속 의원이…",
+   "summary_long": "김민석 더불어민주당 대표가 지난 8·17 전당대회 과정에서 불거진 '신천지 연대설'과 관련해 의혹을 뒷받침할 근거를 확인하지 못했다며 사과하자, 한동훈 무소속 의원이 법적 책임을 져야 한다고 압박했다. 한 의원은 3일 자신의 사회관계망서비스(SNS)를 통해 이재명 대통령의 허위사실 유포 대응 지시를 언급하며 김 대표를 정면으로 비판했다. 그는 \"오늘 이재명 대통령이 허위사실 유포에 강력 대응하라고 국무회의에서 중수청, 공소청, 경찰 등에 주문했다\"며 \"오늘 김민석 민주당 대표가 공개적으로 신천지 관련 허위 사실을 유포했다고 사실상 인정하고 눈물까지 흘렸다고 한다\"고 밝혔다.\n\n이어 \"김민석 민주당 대표, 허위사실 유포는 울 일이 아니고 법적 책임을 져야 할 일\"이라며 \"그런데 진짜 진실은 뭔가, 왜 운 것인가\"라고 반문했다. 한 의원의 이 같은 발언은 김 대표가 이날 국회에서 열린 비공개 의원총회에서 신천지 당원 가입 의혹과 관련해 사과한 직후 나왔다. 전당대회 당시 의혹의 당사자로 지목됐던 정청래 전 대표는 의총을 마친 뒤 기자들과 만나 \"상처받은 당원들에게 비공개 의총에서 숨어서 죄송하다고 할 게 아니라 당원에게 공개 사과하라\"고 요구했다.",
    "quotes": [
-    "예를 들면 서울 지역의 아파트 매물이 급속도로 늘어나고 있고, 거래량은 매우 급속도로 줄어들고 있다. 그리고 주요 지역들의 실제 거래 가격도 놀라울 정도로 떨어지고 있는데, 물론 아닌 지역도 있다",
-    "대한민국 주택 가격이 비정상으로 높다는 사실, 그리고 대한민국 미래를 위해서는 반드시 부동산 투기 공화국이라는 오명을 벗어던져야 한다는 점은 분명하다",
-    "주택 가격이 상승을 해야 이익을 보는 쪽이 그 자료 중의 일부만 가지고 한쪽 방향으로 몰아가는 측면이 보인다"
+    "본인이 어떤 책임을 질 것인지도 공개적으로 밝혀 주기를 바란다. 이렇게 되면 결과적으로 당원과 정청래는 무죄가 되고 김 대표는 유죄가 된 것",
+    "신천지가 활동하는 과정에서 우리 당 누구도 그런 부분을 인지적으로 주도했다고 생각하지 않는다. 조사 결과 3자 비밀연합의 증거는 없었다",
+    "그동안 조사한 사람은 뭐가 되나. (신천지 교인이) 조직적으로 침투해왔는데 보고할 기회도 안 주고 그렇게 하면 어떻게 하냐"
    ],
-   "press": "조선일보",
-   "photo": "01.jpg",
+   "press": "매일신문",
+   "photo": "01.png",
    "quoted": {
-    "quote": "예를 들면 서울 지역의 아파트 매물이 급속도로 늘어나고 있고, 거래량은 매우 급속도로 줄어들고 있다. 그리고 주요 지역들의 실제 거래 가격도 놀라울 정도로 떨어지고 있는데, 물론 아닌 지역도 있다",
-    "n": 5,
+    "quote": "본인이 어떤 책임을 질 것인지도 공개적으로 밝혀 주기를 바란다. 이렇게 되면 결과적으로 당원과 정청래는 무죄가 되고 김 대표는 유죄가 된 것",
+    "n": 4,
     "verified": 0,
     "items": [
      {
-      "press": "조선일보",
-      "title": "李대통령 \"서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져\"",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXNUT0NUdkNSTFlpSXo0UTNUc2dEbnVBdkRaQ2RiSThLWTV1dzBxOGpfdFNrbXU1eWsxeE9tT1lDOUdCSWdKU2JTVVJQWTB0YTRMZ1VtX2thdjdCNmZjTjZmem40d2VUeHU1TTdfY3FvRm41anpRZXZ4ZXE1Y2NVLUw1Ry1EV01M?oc=5"
+      "press": "중앙일보",
+      "title": "김민석 “신천지 의혹 죄송” 울컥…정청래 “김 유죄, 책임져라”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00RzUwOU9HRno2OEpza3FsajVQXzRFQ3UyMXJpNUxoVl9QNWRXOU83Vy1ieFFZZTc2dHNyVnBTOFpzMUVzSzc5ZjByd3VOeE53N0pGOHVn?oc=5"
      },
      {
       "press": "매일신문",
-      "title": "李대통령 \"서울 주요지역 집값 놀라울 정도로 떨어져…폭락 걱정까지 나와\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zeTlfNmxHNm9lTldlV3ktUExYR3p4Qm1nSmFUUEN2UjkzRHlhNjktOXFtVk0taWZHalg5WW9OZDB1MGxrOXBvMk5scWpjRmxnZ3ZjdUxuZm44Z2JDX3dLODhn?oc=5"
+      "title": "김민석 `눈물 사과`에…한동훈 `울지 말고 법적 책임져야`",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xSXZlLWxDYmhKcVlFdUdDVzdLSWtxUWpNZXRhRGVuSFljcWd2ZEkxakFkVUtHdjJQZ2JkNG9MRENNVy1JdnVBZWZzNU9pVTdPbERGN0NOUExxanRpdEFRWkZn?oc=5"
      },
      {
-      "press": "연합인포맥스",
-      "title": "李대통령 \"서울 아파트 매물 급속도로 늘어…객관적 데이터 설명해야\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JcllXTUFVeS1Nei1PSmR6T3gzYTQ0YTZmeVUwdkpiTkM4M1JSMURDTl9RRDMyQmE0Sy05VUgxNFhnZFBTa3ZkbklnX2ZYdnlOb2dYdXlsTjN5NHBDNzRQaGxraV9NYVdieEFBcWFjRUI?oc=5"
+      "press": "이데일리",
+      "title": "한동훈, '신천지 사과' 김민석에 \"울 일 아닌 법적 책임질 일\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaWVaSUp1MUp3N1VpMjdYenZtb0NMLXhoX1Y3R2ViQXVxaDZUczY2a25QU2tfZk1QclZVd0p5R1JzZ1ByWlpMazFOXzh6dTVxZ0kwb3doS1dpTW5BSWpoU1pLLXJtV2dWZUczLVo3eVp6VUdIbXJ3aDNiVzZvT3l3Qw?oc=5"
      },
      {
-      "press": "이투데이",
-      "title": "李대통령 “서울 아파트 매물 늘고 거래량 줄어…정확한 데이터 알려야”",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoU1RsazFfY01yTmRSNWo3ZTZEU2ZieEpUaW1DVW84SnpWZ2pVQWlUQWJfQkhOc0lsREpsVklVUlJkVks2dW9lQzBNbDhRSHBMRUFCTg?oc=5"
-     },
-     {
-      "press": "세계타임즈",
-      "title": "李대통령 \"서울 아파트 매물 급속히 늘고, 가격도 놀라울 정도로 떨어져“",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QcURoNWZINGx2eUVKZldabnVuUTRPZDZCeElOV1Q3VmZQRnJkckF0a0NBV2g1S3BWX0k3NzFkcXZjOU54bjl5RHNjVlJlYTd6MnVV0gFTQVVfeXFMT1BxRGg1Zkg0bHZ5RUpmV1pudW5RNE9kNkJ4SU5XVDdWZlBGcmRyQXRrQ0FXaDVLcFZfSTc3MWRxdmM5TnhuOXlEc2NWUmVhN3oydVU?oc=5"
+      "press": "중앙일보",
+      "title": "김민석, 신천지 의혹 ‘울컥 사과’…정청래 “공개 사과하라”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhZjd0R2VDNkdibGNKams0eVhKNjdsRnFaWkFFRUJXbDM5UVFMQzh6eHhUZzhsRDRnSEN2N21kNGFfX2FkbnRPd2pXbVhpWVJZcGJKaTR3?oc=5"
      }
     ]
    }
   },
   {
-   "title": "한동훈 토론회서 사진 찍고 오세훈 행사로…野 의원 11명 '양쪽에 눈도장'",
-   "source": "시사저널",
-   "url": "https://n.news.naver.com/article/586/0000141472",
-   "published_at": "2026-11-03T11:49:07+09:00",
+   "title": "오세훈 12.0→20.4%, 한동훈 18.7→14.3% 보수 선두교체…중도무당층 韓 비교우위",
+   "source": "디지털타임스",
+   "url": "https://n.news.naver.com/article/029/0003057082",
+   "published_at": "2026-11-04T13:40:09+09:00",
    "section_id": "100",
-   "view_rank": 1,
+   "view_rank": 2,
    "selection": "정치",
-   "summary": "한동훈 무소속 의원과 오세훈 서울시장이 3일 오전 국회 의원회관에서 각각 토론회를 열면서 국민의힘 의원들의 발길이 분주해졌다. 실제 양쪽 토론회에 모두 참석한 한…",
-   "summary_long": "한동훈 무소속 의원과 오세훈 서울시장이 3일 오전 국회 의원회관에서 각각 토론회를 열면서 국민의힘 의원들의 발길이 분주해졌다. 두 행사가 30분 간격으로 열리자 일부 의원들은 먼저 시작한 한 의원의 토론회에서 기념사진을 찍은 뒤 오 시장의 행사장으로 이동했다. 이날 오전 9시30분 국회 의원회관 제1소회의실에서는 한 의원과 김기현·윤상현 국민의힘 의원이 공동 주최한 '정당 개혁, 무엇을 어떻게 할 것인가' 토론회가 열렸다.\n\n현장에서 두 행사 참석자를 대조한 결과 김기현·주호영·신성범·고동진·조은희·배현진·한지아·김석기·박정하·서명옥·권영진 의원 등 11명이 양쪽 토론회에 모두 모습을 드러낸 것으로 파악됐다. 실제 양쪽 토론회에 모두 참석한 한 국민의힘 의원은 취재진에 \"한쪽에만 갈 수는 없지 않느냐\"는 취지로 말했다. 이날 한 의원의 토론회에는 김기현·윤상현·신성범·고동진·조은희·배현진·안상훈·한지아·박정훈·김석기·김건·이만희·박정하·주호영·우재준·서명옥·김형동 의원과 양향자 국민의힘 최고위원 등이 참석했다.",
+   "summary": "▲30대 오세훈 26.3% 장동혁 13.9% 한동훈 12.0% 김민석 11.5% 정청래 5.3% 순 ▲40대 오세훈 16.1% 김민석 12.5% 장동혁 12.4% 조국…",
+   "summary_long": "‘한동훈’은 4.4%p 내린 14.3%, ‘장동혁’ 1.0%p 내린 12.7%로 뒤를 이었다. 김민석(왼쪽 첫번째) 더불어민주당 당대표와 장동혁(왼쪽 두번째) 국민의힘 대표, 한동훈(오른쪽 첫번째) 무소속 의원이 지난 10월 27일 서울 강남구 삼성서울병원 장례식장에서 열린 고 최형우 전 내무부 장관 영결식에 참석해 자리에 앉아있다. 연령별 ▲20대 오세훈 35.8%(+15.7%p) 김민석 14.8%(+0.1%p) 한동훈 10.7%(-5.1%p) 장동혁 6.7%(-9.1%p)로 오세훈·장동혁 등락이 대조됐다.\n\n▲30대 오세훈 26.3%(+9.0%p) 장동혁 13.9%(-1.9%p) 한동훈 12.0%(-1.7%p) 김민석 11.5%(-2.2%p) 정청래 5.3%(-0.2%p) 순 ▲40대 오세훈 16.1%(+8.0%p) 김민석 12.5%(-0.7%p) 장동혁 12.4%(-1.9%p) 조국 11.6%(+0.6%… 중년층 이상의 경우 한동훈 하락·오세훈 상승, 김민석 하락과 다른 여권인사 상승이 겹쳤다. 이재명 대통령 국정평가별 ▲부정평가층(809명) 오세훈 30.9%(+12.4%p) 한동훈 21.6%(-7.2%p) 장동혁 20.0%(-2.4%p) 조국 6.1%(+0.9%p) 순 ▲긍정평가층(461명) 김민석 30.1%(-4.7%p) 송영길 15.9%(-0.1%p) 조국 11.5%(-0.2%p) 정청래…",
+   "press": "디지털타임스",
+   "photo": "02.jpg"
+  },
+  {
+   "title": "삼성 반도체 성과급 7억5000만원의 함정…바로 퇴사하면 얼마 받을까 [숫자 뒤의 진실]",
+   "source": "세계일보",
+   "url": "https://n.news.naver.com/article/022/0004172302",
+   "published_at": "2026-11-04T05:02:15+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "경기도로 간 ‘강남 사람들’… “파주·하남으로 많이 갔다”",
+   "source": "국민일보",
+   "url": "https://n.news.naver.com/article/005/0001882837",
+   "published_at": "2026-11-04T02:20:09+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "국민일보가 3일 법원 등기정보광장 소유권이전등기 데이터를 분석한 데 따르면 올해 1~9월 경기도 집합건물 전체 매수인 25만1239명 가운데 주소지가 강남3구인 사람은…",
+   "summary_long": "국민일보DB 국내 최고가지인 강남3구(강남·서초·송파) 거주자가 경기도 집을 사들인 거래가 1년 새 약 1.5배 증가한 것으로 나타났다. 국민일보가 3일 법원 등기정보광장 소유권이전등기 데이터를 분석한 데 따르면 올해 1~9월 경기도 집합건물 전체 매수인 25만1239명 가운데 주소지가 강남3구인 사람은 8784명으로 집계됐다. 강남3구 거주자가 서울 전체 경기도 집합건물 매수인에서 차지하는 비중은 24.9%로 4명 중 1명인 셈이다.\n\n서울 거주자가 많이 매수한 경기도 지역은 남양주 2645명, 하남 2331명, 고양 덕양구 2145명, 광명 1800명, 파주 1756명, 구리 1708명 순으로 많았다. 강남3구 거주자가 가장 많이 매수한 지역은 파주로, 강남3구 경기도 전체 매수인 8784명 가운데 10.6%인 928명으로 집계됐다. 경기도 거주자의 올해 1~9월 서울 집합건물 매수인은 2만2262명으로 지난해 같은 기간보다 5.8% 증가했다.",
    "quotes": [
-    "한쪽에만 갈 수는 없지 않느냐",
-    "한쪽에만 갈 수는 없다"
+    "8.13 세제개편안 이후 양도차익이 클수록 세금 부담이 늘어나기 때문에 (강남권) 고령층이 고가 주택을 처분하고 다운사이징으로 현금을 확보하려는 수요도 작용했을 것",
+    "강남권 비아파트에 거주하는 1~2인 가구가 자금 사정에 맞고 GTX 개통으로 서울 출퇴근이 가능한 파주를 고려했을 가능성이 있다"
    ],
-   "press": "시사저널",
-   "photo": "02.png",
+   "press": "국민일보",
+   "photo": "04.jpg",
    "quoted": {
-    "quote": "한쪽에만 갈 수는 없다",
+    "quote": "강남권 비아파트에 거주하는 1~2인 가구가 자금 사정에 맞고 GTX 개통으로 서울 출퇴근이 가능한 파주를 고려했을 가능성이 있다",
     "n": 1,
     "verified": 0,
     "items": [
      {
-      "press": "시사저널",
-      "title": "한동훈 토론회서 사진 찍고 오세훈 행사로…野 의원 11명 ‘양쪽에 눈도장’",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mMkhWN0ZTb0NON2JOa3lFSFZUUXFKcHA0WW5CVDdtd1FRUHBFMWxxLWkxd0RiZUtPUjM1NzNOWnBxYWxPZE1qNnRHcUtFX3EyVEoyLV9pYkg0cXlQTnhWVU40V2FmYXB4RENRT0xWN2plSGvSAXNBVV95cUxNZjJIVjdGU29DTjdiTmt5RUhWVFFxSnBwNFluQlQ3bXdRUVBwRTFscS1pMXdEYmVLT1IzNTczTlpwcWFsT2RNajZ0R3FLRV9xMlRKMi1faWJINHF5UE54VlVONFdhZmFweERDUU9MVjdqZUhr?oc=5"
+      "press": "국민일보",
+      "title": "경기도로 간 ‘강남 사람들’⋯ “파주·하남으로 많이 갔다”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83THpLU2lSVFE1Q1NTQ1FGVFhfSi1rUEN3ZnZRWm84c1hGUUNlSkZwT0RaWVVyWUQtN2xMVy1PMlhJN0YxS202RFZXR3EzZmNtVS0tSkNJdmo?oc=5"
      }
     ]
    }
   },
   {
-   "title": "\"故최불암 장지서 5분\" 홍보한 식당…누리꾼 '뭇매'",
-   "source": "MBN",
-   "url": "https://n.news.naver.com/article/057/0001976427",
-   "published_at": "2026-11-03T08:46:13+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "고 최불암 빈소, SNS에 올라온 식당 업주 글 / 사진 = MBN, SNS 캡처배우 고 최불암의 장지와 식당이 가깝다며 주류 무료 제공 행사를 알린 식당이 누리꾼의…",
-   "summary_long": "고(故) 최불암 빈소, SNS에 올라온 식당 업주 글 / 사진 = MBN, SNS 캡처배우 고(故) 최불암의 장지와 식당이 가깝다며 주류 무료 제공 행사를 알린 식당이 누리꾼의 뭇매를 맞고 있습니다. 경기 파주시에서 식당을 운영하는 한 업주 A 씨는 어제(2일) 사회관계망서비스(SNS)에 \"최불암 선생님이 내일 우리 동네 파주 OOOO공원에 모셔진다\"며 \"동네 아저씨처럼 친근하고 따뜻하고 오랫동안 우리 사회에 선한 영향을 주신 그분께서 우리 동네 OOOO공원에 영면하심에 참으로 감사하고 영광으로 생… A 씨는 이어 \"11월 2일부터 8일까지 추모 기간 중 (식당) 이용객에게 소주 1병과 맥주 1병을 무료 제공한다\"며 \"OOOO공원에서 5분 거리에 위치한 캠핑바베큐 가게\"라고 덧붙였습니다.\n\n'최불암', '최불암 장지' 등 해시태그도 달았습니다. 고인을 애도한다는 명복으로 주류 무료 행사를 내걸고 장지와 가까운 식당 위치를 강조하는 건 예의가 아니라는 겁니다. 한편, 고 최불암은 지난달 29일 서울 강서구의 한 병원에서 입원 치료를 받던 중 향년 87세로 별세했습니다.",
+   "title": "尹 선거법 2심도 징역형..국민의힘 397억 토해내나",
+   "source": "파이낸셜뉴스",
+   "url": "https://n.news.naver.com/article/014/0005599416",
+   "published_at": "2026-11-04T16:15:09+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "comment_count": 159,
+   "comment_agree": 159,
+   "comment_disagree": 40,
+   "division_balance": 0.40201,
+   "division_score": 2.129977,
+   "selection": "찬반 쟁점",
+   "summary": "대법원 확정 시 국민의힘 선거비 397억원 반환해야. 서울고등법원 형사2-1부는 4일 공직선거법 위반 혐의로 재판에 넘겨진 윤 전 대통령 항소심 선고 기일에서 피고인의…",
+   "summary_long": "서울고법, 尹 항소 기각..징역 1년6개월·집유 3년 선고. 대법원 확정 시 국민의힘 선거비 397억원 반환해야. 4일 서울 용산구 서울역 대합실에서 시민들이 윤석열 전 대통령의 공직선거법 위반 혐의 2심 선고 관련 보도를 시청하고 있다.\n\n서울고등법원 형사2-1부는 4일 공직선거법 위반 혐의로 재판에 넘겨진 윤 전 대통령 항소심 선고 기일에서 피고인의 항소를 기각하고 원심과 같은 징역 1년6개월·집행유예 3년을 선고했다. 1심 판결이 나왔을 당시 국민의힘 관계자들은 \"당사 매각까지 고려하지는 않고 있다\"며 \"최후의 수단\"이라고 설명한 바 있다. 그러면서 \"거짓말로 국민의 선택을 왜곡한 후보를 내세운 것은 국민의힘\"이라며 \"국민의힘은 즉각 국민 앞에 사죄하고, 397억 원을 당장 국민에게 반환해야 한다\"고 압박했다.",
    "quotes": [
-    "동네 아저씨처럼 친근하고 따뜻하고 오랫동안 우리 사회에 선한 영향을 주신 그분께서 우리 동네 OOOO공원에 영면하심에 참으로 감사하고 영광으로 생각한다",
-    "11월 2일부터 8일까지 추모 기간 중 (식당) 이용객에게 소주 1병과 맥주 1병을 무료 제공한다",
-    "최불암 선생님이 내일 우리 동네 파주 OOOO공원에 모셔진다"
+    "국민의힘은 즉각 국민 앞에 사죄하고, 397억 원을 당장 국민에게 반환해야 한다",
+    "지난 대선 때 거짓말로 국민의 선택을 농락한 선거범죄에 대한 당연한 판단",
+    "거짓말로 국민의 선택을 왜곡한 후보를 내세운 것은 국민의힘"
    ],
-   "press": "MBN",
-   "photo": "03.png",
+   "press": "파이낸셜뉴스",
+   "photo": "05.jpg",
    "quoted": {
-    "quote": "동네 아저씨처럼 친근하고 따뜻하고 오랫동안 우리 사회에 선한 영향을 주신 그분께서 우리 동네 OOOO공원에 영면하심에 참으로 감사하고 영광으로 생각한다",
-    "n": 10,
+    "quote": "국민의힘은 즉각 국민 앞에 사죄하고, 397억 원을 당장 국민에게 반환해야 한다",
+    "n": 7,
     "verified": 0,
     "items": [
      {
-      "press": "Chosunbiz",
-      "title": "“최불암 장지 근처 소맥 무료”… 식당 홍보 논란",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVmJEZWkwMmpta28yVTZHcm5CdTRVTzBIemJXTzNTQ3lFQ0ttX01yTnlYekVucng3U0x0ZTBIZ2h2RENKNXc1VEhWM054Q1FSZTVYNmVNNExWVXRvdFJqOW9neWNjTGQ4U1JUUmNrNDc0RHBNSERxTTFIM1pKS0ZOdmJnQlBYUVFuekHSAZ4BQVVfeXFMTkIzNFhiV0JkTXhOSG5pdkJadEdkUm5CN2hGSE5CT1BJaTl1b0NFd0cxRXRLb2J5QTR2WEhxdS1wWmlPZ2NqOE1fV0JnWU03R0JLZXdySndJaWtzZEdzVVRYTEIwTDBUdUJweHFzRGxER2tCcE1NeVBFQlFIZ3dCSkl5S1c0bTNCVzZBckFNd0hBZjN0NWNWY2hlV1p4SFE?oc=5"
+      "press": "프레시안",
+      "title": "윤석열 선거법 2심도 당선무효형…민주당 \"국힘, 397억 반환하라\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yb2M1bWdVQ2tFRUpLWDl6cXNPc1Npa1M2LXFvZWI4OFZST25JbFJsUWEzbTM0OVRnNTZhOUN4NWE2UEwwM2lMYW82OElDN04yX3A5T2ZJSFBKb3pNYm1LTHNUOU4zUUtFUTdF?oc=5"
      },
      {
-      "press": "매일신문",
-      "title": "`故최불암 장지서 5분, 소주·맥주 무료` 홍보한 식당…누리꾼 `뭇매`",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ReHJkOHp5dVYzM1FsSkhZTWVEYVFrLXVvN2NRb1J5X0dSX0dTZjc4N0xxWEhLX0hVMWxQWlY5VmpCcFhxNVZpRGpkci1Pd2FWWnhILUhmaUUxYzh1Wm9YTEVR?oc=5"
+      "press": "한국일보",
+      "title": "대선자금 수백억 토해낼 판… 尹 2심 당선무효형에 與도 野도 '술렁'",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zWGx0anBMZXBOTjRsLUF3TFl2aDJXekdpZkRQMXVqS01mbjhnNXduWURPVG9OeWtTaGMweGlVZ2NSeDZnSTB1ZjdWMXhJQldjSHhIalUtbVlrVzdUNGtmSkNZT3FoZmI5cThrOEhn0gFzQVVfeXFMTW5uNTk4cWVSUkg2UHVNYjVlZHdRb05jVXlwTUlKZ25IU0o5RmgyeW5vZlBpUngwZWYydWxJTURzNUlzNHlEeGptaGY0OFp1aUd2eXlNRGNHb19jMURfMHpBdXliVmhSNlVBdHVaNjJBQlVsZw?oc=5"
      },
      {
       "press": "머니투데이",
-      "title": "\"故최불암 영면하는 곳 근처\"…도 넘은 식당 홍보 '눈살' - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JNVVlVkNUQVVGN3lKN2UzNmJtZDFPNmtsRERzbGlKQXpoOHV6RVM2U0RXbWFqbnI5Rnd6d2lBM0VNT1Rla0Y0MnMzTnFUSm5IZ3NWS2h5YS1XTzltQlRWSW8wR2djVndvdjhwa3kwVjTSAXBBVV95cUxPSTVVZVZDVEFVRjd5SjdlMzZibWQxTzZrbEREc2xpSkF6aDh1ekVTNlNEV21ham5yOUZ3endpQTNFTU9UZWtGNDJzM05xVEpuSGdzVktoeWEtV085bUJUVklvMEdnY1Z3b3Y4cGt5MFY0?oc=5"
+      "title": "尹 2심도 당선무효형…與 \"397억 반납\" 野 \"李대통령 재판 재개\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91N3ZZOUt0ZmFyQ0VUQmQ3ZWRDMjNjU0JsdkdmN25LLXhNbXVEUE96dEVkS3oyX2FmQy1hWmtMZEpXa0xFRWVyMk5lSDB4YTJXMXNUaElub2pGdGV4RllWWm0wRUJueThzR0w4UVpjU3Vud9IBckFVX3lxTE91N3ZZOUt0ZmFyQ0VUQmQ3ZWRDMjNjU0JsdkdmN25LLXhNbXVEUE96dEVkS3oyX2FmQy1hWmtMZEpXa0xFRWVyMk5lSDB4YTJXMXNUaElub2pGdGV4RllWWm0wRUJueThzR0w4UVpjU3Vudw?oc=5"
      },
      {
-      "press": "뉴스1",
-      "title": "\"최불암 영면한 곳 근처 소맥 공짜\"…장지 5분 거리 식당 홍보 논란",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14ZGRaMWtNOEZYb0RaUkFWOXNRRXZPcGVGb01CSTdqcEg5Ql9venEwN0NMTEZ0d0V4SXVfZUFCdHVaQzQxZ0oxTnhtQ3c1MHotazlrWExZelJRRDN2UFpERGFn?oc=5"
+      "press": "뉴시스",
+      "title": "與, '尹 선거법 사건' 2심 유죄에 \"국민 농락한 선거범죄에 당연한 판단\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xZlB5a2c2c1I3Y0g4WTQ1X1RUVTdETjNMSms0ZTR4RklkZklrcXUzSlRFdHpSZXh5dm04UmJ2NFpTQjB2eWVLcG83TDNxcjU0eWRHa21yR0NjY09iSW5IWVVWMzRnOVBtNjhJb2tlQTNfdEthMzRrLdIBeEFVX3lxTE9xZlB5a2c2c1I3Y0g4WTQ1X1RUVTdETjNMSms0ZTR4RklkZklrcXUzSlRFdHpSZXh5dm04UmJ2NFpTQjB2eWVLcG83TDNxcjU0eWRHa21yR0NjY09iSW5IWVVWMzRnOVBtNjhJb2tlQTNfdEthMzRrLQ?oc=5"
      },
      {
-      "press": "TWIG",
-      "title": "“고 최불암 장지 5분 거리, 소주·맥주 1병 무료”…식당 ‘홍보글’ 결국 삭제 [이슈픽]",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxYWNUNmZIcmUxOXp3NVdPUmMzQW9QQzlzWjNxV1lQRWl6U3UyX2F5aFAxNXFDVXZEZDJQbUxoVGNfb25YeVZoSUREM0xETFdmS0tFM2ZUTmV1RG1XUVJncGpXeGNkZ3dJZUQ4akIteEwydlFJbFpV?oc=5"
+      "press": "더팩트",
+      "title": "윤석열 항소심도 당선무효형…與 \"국힘, 397억 반환해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nM05hQVNvUEdJNl9uVDItM1BXc0RkNGhuTnlqUFQwaEF0QVhmS0ItYlNXakUyWjlyeEpyWWdqZzd5cm9HR0ZkZms5LWZPaVdSTW000gFTQVVfeXFMT2czTmFBU29QR0k2X25UMi0zUFdzRGQ0aG5OeWpQVDBoQXRBWGZLQi1iU1dqRTJaOXJ4SnJZZ2pnN3lyb0dHRmRmazktZk9pV1JNbTQ?oc=5"
      },
-     {
-      "press": "뉴스엔",
-      "title": "“故최불암 추모기간 중 소주 제공” 장지 앞 선 넘은 식당 마케팅 뭇매",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FWm45Smp2WEFDLVJFOGpJSFl4enlRWTNicy15Y2dweXRJOVc0VnRhQy1Sb0YySWN3Q2hmMFVvQTdtUW5fR1dxakdUSzQ3Z1FkMXlkeG9yelRSb2xFQXAzODZFeW5oYWZE?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "숨진 남편 남긴 약봉지마다 ‘현금 뭉치’…폐기될 뻔한 3천만원, 아내 품으로",
-   "source": "디지털타임스",
-   "url": "https://n.news.naver.com/article/029/0003056795",
-   "published_at": "2026-11-03T11:22:06+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "생전에 택시 기사로 일해온 남편이 약상자 안에 차곡차곡 모아둔 현금 3000만원이 하마터면 폐기될 뻔 했다가, 아내에게 무사히 돌아갔다. 남편이 몰래 현금을 모아뒀다는…",
-   "summary_long": "숨진 남편이 생전에 모아놓은 돈을 돌려받는 아내(왼쪽). 생전에 택시 기사로 일해온 남편이 약상자 안에 차곡차곡 모아둔 현금 3000만원이 하마터면 폐기될 뻔 했다가, 아내에게 무사히 돌아갔다. 남편이 몰래 현금을 모아뒀다는 사실을 전혀 몰랐던 아내는 약상자를 약국에 맡겨 폐기시킬 작정이었다.\n\n이에 앞서 약국 직원은 같은 날 오후 1시 30분쯤 한 여성한테서 “사망한 남편이 남긴 약상자를 폐기해달라”는 부탁과 함께 약상자를 건네받았는데, 약상자 속에 들어있는 여러 개의 약봉지마다 현금 뭉치가 보관돼 있었다. 약상자 안에선 사망한 남편의 이름이 적힌 찢어진 약 처방 봉지도 발견됐다. 경찰의 연락을 받고 돈을 건네 받은 아내는 “생전에 택시 기사로 일하던 남편이 갑자기 병을 얻어 숨지는 바람에 경황이 없어 약상자 안에 돈이 들어 있는 줄 전혀 몰랐다”며 “차곡차곡 모아둔 남편의 돈을 내 부주의로 잃어버릴 뻔했다”며 고마움을 전했다.",
-   "quotes": [
-    "생전에 택시 기사로 일하던 남편이 갑자기 병을 얻어 숨지는 바람에 경황이 없어 약상자 안에 돈이 들어 있는 줄 전혀 몰랐다",
-    "차곡차곡 모아둔 남편의 돈을 내 부주의로 잃어버릴 뻔했다",
-    "사망한 남편이 남긴 약상자를 폐기해달라"
-   ],
-   "press": "디지털타임스",
-   "photo": "04.png",
-   "quoted": {
-    "quote": "차곡차곡 모아둔 남편의 돈을 내 부주의로 잃어버릴 뻔했다",
-    "n": 5,
-    "verified": 0,
-    "items": [
-     {
-      "press": "www.dt.co.kr",
-      "title": "숨진 남편 남긴 약봉지마다 ‘현금 뭉치’…폐기될 뻔한 3천만원, 아내 품으로",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42VUszTm9oZXVYOU5QUmpGME04anBWcGVpd25RRFhVdmlCb1JJNWZFMERRbWl6UW4tOTRsN0xkdmlXaDFEQ0NpTlVocWxoUQ?oc=5"
-     },
-     {
-      "press": "연합뉴스",
-      "title": "버린 남편 약상자서 현금 3천만원이…우여곡절 끝 아내 품으로",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jVTUyQnJ6clZQRUN2TzBsemZLT2tqeHZ3c2RBYUpSZVVESmwwMVFsQ29BZUpZZEw1T1gtWklzVDFsLTVBRGROYmlEWjAzbXBoNURtNjVhRkVwQU9DcGVHN9IBYEFVX3lxTE1jVTUyQnJ6clZQRUN2TzBsemZLT2tqeHZ3c2RBYUpSZVVESmwwMVFsQ29BZUpZZEw1T1gtWklzVDFsLTVBRGROYmlEWjAzbXBoNURtNjVhRkVwQU9DcGVHNw?oc=5"
-     },
-     {
-      "press": "연합뉴스TV",
-      "title": "숨진 남편 약 상자에 3,000만 원…모르고 ’약국 폐기’ 결말은",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfekJDMDMtaEYzQUt3cEx2ZF9zVVU1dXJsOVVfbV93VEdtelNYVmh3UGtFQTk4bFdRUXg5dE5XSXFvcVY1RDJfTTBMX2oxaS1YRUw0eUtVSVRKTnNaMjN3NXcwRUZoMHc?oc=5"
-     },
-     {
-      "press": "주간조선",
-      "title": "약 봉지마다 현금 다발이…숨진 남편 약 상자 버리려던 60대, 돌아온 3000만원",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbzRBcHQ5cjI0cURualdWaVVsN0cza1ByY3B3RVdkUmwwZFg3R05jRnBibUs1UHk0R0thb2ZkekU5VTBjTHFxSnR3a0J3aVFQdGtBWW52anQ2b21UbTlDeklJRlo4WDVfM2fSAW5BVV95cUxNckRTbl80aXJYalZaNGFrOUZ0Q1BIcVB2YURBdGJFV0NqQ1gxd3dHcTE0bG1hNy1YOUhYcHVvZHRLWk5lUEU1ZW52QUFNdVV3TTdDaExkODk4SzNKX2dqVjV3NE1pTmxWQ2dHMnFKZw?oc=5"
-     },
-     {
-      "press": "헤럴드경제",
-      "title": "약 봉지마다 현금 뭉치…생전 남편의 비상금 3000만원 주인 찾았다",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OeHBaUU83cjdoYW8tWXRLRnltaTItS3FUUm9qTms5Z0JSMW13T2M2eTFLeVZadU1MalYzVUZPUUZkeXVFLUFaSGVJS2I2QUxaTlRScVdn?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "오세훈·한동훈, 장례식장서 한자리... “공식 만남 갖자”",
-   "source": "조선비즈",
-   "url": "https://n.news.naver.com/article/366/0001202074",
-   "published_at": "2026-11-03T01:40:15+09:00",
-   "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 126,
-   "comment_agree": 149,
-   "comment_disagree": 43,
-   "division_balance": 0.447917,
-   "division_score": 2.357247,
-   "selection": "찬반 쟁점",
-   "summary": "지난 6월 16일 오세훈 서울시장과 한동훈 무소속 의원이 서울 여의도 CCMM빌딩에서 열린 2026 국민공공정책포럼에 참석해 인사를 나누고 있다. 보수 진영의 차기…",
-   "summary_long": "지난 6월 16일 오세훈 서울시장과 한동훈 무소속 의원이 서울 여의도 CCMM빌딩에서 열린 2026 국민공공정책포럼에 참석해 인사를 나누고 있다. 보수 진영의 차기 주자로 꼽히는 오세훈 서울시장과 무소속 한동훈 의원이 2일 국민의힘 김성원 의원의 부친상 빈소에서 만나 “앞으로 공식적인 만남도 갖자”는 취지의 대화를 나눈 것으로 알려졌다. 오 시장과 한 의원은 이날 오후 서울 고려대 안암병원 장례식장에서 마주쳤다.\n\n당시 동석했던 관계자들에 따르면 두 사람은 ‘빈소에선 자주 뵙지만 공식 일정으로는 오래된 것 같다’, ‘조만간 공식적인 만남을 갖자’는 취지의 대화를 나눴다. 오 시장은 오전 10시 국회의원회관에서 열리는 국민의힘 서울시당·서울시 주최 ‘세계유산 보존과 도시의 미래, 공존의 길을 찾다’ 토론회에 참석한다. 한 의원은 오전 9시 30분 국회의원회관에서 국민의힘 김기현·윤상현 의원과 ‘정당개혁, 무엇을 어떻게 할 것인가’ 세미나를 진행한다.",
-   "quotes": [
-    "앞으로 공식적인 만남도 갖자"
-   ],
-   "press": "조선비즈",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "앞으로 공식적인 만남도 갖자",
-    "n": 1,
-    "verified": 0,
-    "items": [
      {
       "press": "Chosunbiz",
-      "title": "오세훈·한동훈, 장례식장서 한자리... “공식 만남 갖자”",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3ZYZHZJZUNpYW9nNFFTZzhPWW5FajdIa2pNUE5mTjZhM21GZ2Z3YnlmMGJqLU5URE8wVHlPOXFuS2NWVXVBcGhuZFdRbWJsOUJrYmJ5RmNzMzB0TVBNcmNQY2Q4VXNkcGRiZlUyWGpyYTlUZG9CRXVKemFlQ0JhVjFGeXpVQXdiVDdkejJNQU9NSTR5cXpud3lGbW45RW5kbDUxNnVVTdIBowFBVV95cUxQS1owM0VZZ2ZuS0JDM1JHRFFXVWk0MzNEMndRNm9fV214eEpkSkVJQ1ZzNlFhb0p5V255NHRkWTR0RUVwZHVrTV9XeUY0cnBVZGVlNTJOaFF5dHZtdDlHdG1IbGhTTlZWT2xydlRXd2k0Nm1CRVdLYzdKLVc1OEFTUDBHbDBVYnllb3NlY2hiWG9XU0lyOWE1RWp1MUgxT1diLXFv?oc=5"
+      "title": "尹 2심도 당선무효형, 與 “국힘 397억 반환해라”",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMktEcmlXdE1TWXZQWkRiX2dpY1JhRlNtLURwcWxiYXNCVzczTWJWQ21fYXFTSkY0NUFEZkhacVoyWVZjeXVNZ2E5NzVIRDF1bl9uVTNpRzRueXRyOGhUSzZJSmZETEJZOW1uelhubzJvbFlJbzk0SW40YTh1U0Ita3BDQ3lFR0kxZDlidVZLODlSOWt1aUxGZkVtcHdwaG9CdnlB0gGjAUFVX3lxTE4yS0RyaVd0TVNZdlBaRGJfZ2ljUmFGU20tRHBxbGJhc0JXNzNNYlZDbV9hcVNKRjQ1QURmSFpxWjJZVmN5dU1nYTk3NUhEMXVuX25VM2lHNG55dHI4aFRLNklKZkRMQlk5bW56WG5vMm9sWUlvOTRJbjRhOHVTQi1rcENDeUVHSTFkOWJ1Vks4OVI5a3VpTEZmRW1wd3Bob0J2eUE?oc=5"
      }
     ]
    }
   },
   {
-   "title": "오세훈 “대통령 모습 보며 착잡…국민은 전·월세로 극도의 고통”",
-   "source": "세계일보",
-   "url": "https://n.news.naver.com/article/022/0004172079",
-   "published_at": "2026-11-03T13:51:08+09:00",
+   "title": "尹 2심 유죄에 국힘 \"李는 사과했나\" vs 민주 \"397억 반환\"[영상]",
+   "source": "노컷뉴스",
+   "url": "https://n.news.naver.com/article/079/0004206544",
+   "published_at": "2026-11-04T17:28:12+09:00",
    "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 277,
-   "comment_agree": 126,
-   "comment_disagree": 30,
-   "division_balance": 0.384615,
-   "division_score": 1.94471,
+   "view_rank": 3,
+   "comment_count": 164,
+   "comment_agree": 158,
+   "comment_disagree": 28,
+   "division_balance": 0.301075,
+   "division_score": 1.574957,
    "selection": "찬반 쟁점",
-   "summary": "오세훈 서울시장이 3일 국회 의원회관 간담회의실에서 열린 ‘세계유산 보존과 도시의 미래, 공존의 길을 찾다’ 정책토론회 참석 후 백브리핑을 위해 이동하고 있다. 뉴스1…",
-   "summary_long": "오세훈 서울시장이 3일 이재명 대통령을 겨냥해 “전·월세 걱정과 해결책에 나흘 연속 관심을 표명했다면 더 많은 지지를 얻고 국민을 안심시키는 행보가 아니었을까 생각한다”고 말했다. 오세훈 서울시장이 3일 국회 의원회관 간담회의실에서 열린 ‘세계유산 보존과 도시의 미래, 공존의 길을 찾다’ 정책토론회 참석 후 백브리핑을 위해 이동하고 있다. 뉴스1 오 시장은 이날 국회 의원회관에서 열린 ‘세계유산 보존과 도시의 미래, 공존의 길을 찾다’ 토론회에 참석한 뒤 기자들과 만나 다문화가정 지원 정책을 두고 연일 의견을 밝힌 이 대통령의 사회관계망서비스(SNS) 활동을 두고 “그런 모습을 지켜보면서 조금은 착잡한 생각이 든다”며 이같이 밝혔다.\n\n이어 “지금 서울에서 전·월세 사시는 분들은 극도의 고통과 불안 속에 계신다”며 “계약 만료를 6개월 내외로 앞두고 있거나 이사를 목전에 두고 계신 분들은 유례없는 고통 속에 어떻게든 정부가 해결책을 마련해주길 간절하게 바라는 심경일 것”이라고 말했다. 오 시장은 “정부의 실거주 강조, 실거주 집착이 낳은 부작용이 있다”며 부동산 정책 전환을 거듭 촉구했다. 그는 이 대통령의 자산시장 정상화 관련 발언을 두고는 “그냥 이대로 시간이 가기를 기다리고 있다는 의미로 전달될 가능성이 매우 큰데 절대 그렇게 해서 해결될 사안이 아니다”라며 “정책적 전환 없이 시간이 흘러 자연스럽게 해결되기를 바라는 것은 무능하고 지탄받아야 할 정책 행보”라고 비판했다.",
+   "summary": "직접논평 삼가며 '李대통령 재판 재개' 촉구. 국민의힘 당사 매각이 달린 윤석열 전 대통령의 공직선거법 위반 혐의 재판이 항소심에서도 '당선 무효형'을 받자, 국민의힘은…",
+   "summary_long": "직접논평 삼가며 '李대통령 재판 재개' 촉구. 국민의힘 당사 매각이 달린 윤석열 전 대통령의 공직선거법 위반 혐의 재판이 항소심에서도 '당선 무효형'을 받자, 국민의힘은 \"아직 3심이 남았다\"며 같은 혐의로 기소된 이재명 대통령에게 화살을 돌렸다. 지난해 대선 직전 선거법 위반 사건이 대법원에서 파기환송된 이 대통령의 죄질이 더 나쁘다며, 재판 재개를 거듭 촉구했다.\n\n김 의원은 \"사실상 (이 대통령의) 유죄가 확정된 거나 다름없지만, 덕분에 민주당은 재판 중단을 핑계로 434억원을 반납하지 않고 있다\"고 짚었다. 역시 율사 출신인 5선 나경원 의원도 SNS에서 \"이 대통령과 민주당은 남의 판결에 좋다고 할 때가 아니다\"라며 \"제 코가 석자\"라고 일침을 놨다. 그는 페이스북에 사법부가 윤 전 대통령과 이 대통령의 사건에 같은 잣대를 적용해야 한다며 \"둘 다 재판을 하거나, 둘 다 재판을 중단하는 게 공평하다\"고 썼다.",
    "quotes": [
-    "계약 만료를 6개월 내외로 앞두고 있거나 이사를 목전에 두고 계신 분들은 유례없는 고통 속에 어떻게든 정부가 해결책을 마련해주길 간절하게 바라는 심경일 것",
-    "반도체에 지나치게 의존하고 있는 한국 경제가 이 대통령 시기에 재정 지출로 귀결된다면 반드시 재앙적 상황에 대한 비판을 감수해야 할 것",
-    "국민께서 국민의힘에 실망하신 점이 있다면 분명하게 입장을 정리하고 그것이 두 번이 됐든, 다섯 번이 됐든 못할 일이 없다고 생각한다"
+    "이 대통령의 선거법 위반 사건 역시 윤 전 대통령과 마찬가지로 지난 2022년 대선기간에 발생했고, 심지어 지난해 5월 대법에서 '명백한 허위'임을 근거로 파기환송됐다",
+    "(이 대통령이) 골프를 함께 친 사람을 모른다고 한 말이 허위란 판단도 대법이 내렸다. 재판을 재개할 수 있는 근거 판례도 새겨뒀다",
+    "발언의 의도나 내용으로 보건대, 이 대통령의 허위사실 발언은 윤 전 대통령의 그것에 비춰볼 때 더하면 더했지, 결코 가볍지 않다"
    ],
-   "press": "세계일보",
+   "press": "노컷뉴스",
    "photo": "06.jpg",
    "quoted": {
-    "quote": "반도체에 지나치게 의존하고 있는 한국 경제가 이 대통령 시기에 재정 지출로 귀결된다면 반드시 재앙적 상황에 대한 비판을 감수해야 할 것",
+    "quote": "이 대통령의 선거법 위반 사건 역시 윤 전 대통령과 마찬가지로 지난 2022년 대선기간에 발생했고, 심지어 지난해 5월 대법에서 '명백한 허위'임을 근거로 파기환송됐다",
     "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "세계일보",
-      "title": "오세훈 “대통령 모습 보며 착잡…국민은 전·월세로 극도의 고통”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxUExOU1VGTkpZSnhlNE5Qb1hHdGEtX2RvVEx6LVNSRGp5Sl9IUklEeDU5bV96Mk9IMXRvOC1WbVB3ZmpMZDEwbHplUVA0TDBm?oc=5"
+      "press": "www.dt.co.kr",
+      "title": "尹 2심 유죄에 여야 공방…민주 “사과하라” vs 국힘 “李 파기환송 잊었나”",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MU2RDMlBpRERldUZYZm1IM2hHUXBzOV9odmYyQ1g5Y0FpbURRQzdMc2x2M2xmeE5CZ1VsV1NGWVJMalJoNmR3Z1h1Z1ZSUQ?oc=5"
      },
      {
-      "press": "뉴시스",
-      "title": "오세훈 \"국가유산청, 세운4구역 두고 행정 갑질…책임 면하기 어려울 것\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UmkzYXlid0JSUmxpd3JhRFRSSGhMN0tpRkdadHN0TERCM3hYbDZ4cGllMzZZZlg2TVVRVy1JZHZ2NGx5Wm1QTGc2NkJqLW40QjdNSG5TYV9XYkN5bEQwY9IBeEFVX3lxTE9vREUxcHNoaktpQTFsSUtWS3hmR1dVYjl2U2VTU0czdnZ0UlQ0al96bmNhVEdTaW5EMGdHc3Q4bVV6ci1GWDJKaWdOWjJSQ1dBNER1Smg3LTZtZHh5ejhRM3BJak05NlpNdEdiYnRQdThOY0NhdjVveg?oc=5"
+      "press": "노컷뉴스",
+      "title": "尹 2심 유죄에 국힘 \"李는 사과했나\" vs 민주 \"397억 반환\"[영상]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Tb2RIOHhaRjJjbkRENmJ6blIwMEowN0ZIZlBNZmZhaW5ZcF9fSVowODdObER3X3h5VkFNdkZVYlFLNFpURTZ2M2JGemlkVkZkRUE?oc=5"
      },
      {
       "press": "데일리안",
-      "title": "오세훈 \"전월세난, 정부 실거주 집착 탓…정책 전환해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VN1lGal96ZFlqZlZkcG5aZ0VZaE1UcEN3N3RJdnFnVDlBVFV5Q1ZzR3dQN25NRmpMUEo4djNYeHJwM2NtYlJnVzUyX244YUw1aVBF?oc=5"
+      "title": "국민의힘, 尹 2심 '유죄'에 \"최종 판결 아냐…李 선거법 재판부터 재개해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydkxoYzdZRXZkdU9CaS1NVFBldy05SlY4SUd1SHY3VFdlVXZQUGJFN2psRFlTeFNwU01HYjhidHZ0T2FETjIxeDM0OWFpNS1fOXdWYg?oc=5"
      }
     ]
    }
   },
   {
-   "title": "안철수 \"내가 대통령이면 아주대병원 의료진 직접 만나 사과했을 것\"",
-   "source": "부산일보",
-   "url": "https://n.news.naver.com/article/082/0001405379",
-   "published_at": "2026-11-03T14:26:16+09:00",
+   "title": "차기 대선 오세훈 약진, 8.4%p 오른 20.4%…한동훈 14.3%, 장동혁 12.7%",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000519044",
+   "published_at": "2026-11-04T10:56:38+09:00",
    "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 123,
-   "comment_agree": 97,
-   "comment_disagree": 17,
-   "division_balance": 0.298246,
-   "division_score": 1.415155,
+   "view_rank": 3,
+   "comment_count": 370,
+   "comment_agree": 155,
+   "comment_disagree": 26,
+   "division_balance": 0.287293,
+   "division_score": 1.495074,
    "selection": "찬반 쟁점",
    "prep_error": "The read operation timed out"
   }
@@ -290,139 +230,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/01.png",
-   "pngBytes": 1411527,
-   "feed": "오늘의 뉴스 2026-11-04\n\n· 李대통령 “서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져”\n· 한동훈 토론회서 사진 찍고 오세훈 행사로…野 의원 11명 '양쪽에 눈도장'\n· \"故최불암 장지서 5분\" 홍보한 식당…누리꾼 '뭇매'\n· 숨진 남편 남긴 약봉지마다 ‘현금 뭉치’…폐기될 뻔한 3천만원, 아내 품으로\n· 오세훈·한동훈, 장례식장서 한자리... “공식 만남 갖자”\n· 오세훈 “대통령 모습 보며 착잡…국민은 전·월세로 극도의 고통”\n· 안철수 \"내가 대통령이면 아주대병원 의료진 직접 만나 사과했을 것\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/01.png",
+   "pngBytes": 1846680,
+   "feed": "오늘의 뉴스 2026-11-05\n\n· 김민석 '눈물 사과'에…한동훈 \"울지 말고 법적 책임져야\"\n· 오세훈 12.0→20.4%, 한동훈 18.7→14.3% 보수 선두교체…중도무당층 韓 비교우위\n· 삼성 반도체 성과급 7억5000만원의 함정…바로 퇴사하면 얼마 받을까 [숫자 뒤의 진실]\n· 경기도로 간 ‘강남 사람들’… “파주·하남으로 많이 갔다”\n· 尹 선거법 2심도 징역형..국민의힘 397억 토해내나\n· 尹 2심 유죄에 국힘 \"李는 사과했나\" vs 민주 \"397억 반환\"[영상]\n· 차기 대선 오세훈 약진, 8.4%p 오른 20.4%…한동훈 14.3%, 장동혁 12.7%"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/02.png",
-   "pngBytes": 1448834,
-   "title": "李대통령 “서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져”",
-   "summary": "이재명 대통령은 3일 “서울 지역의 아파트 매물이 급속도로 늘어나고, 거래량은 매우 급속도로 줄어들고 있다”며 “주요 지역들의 실제 거래 가격도 놀라울 정도로 떨어지고…",
-   "summary_long": "이재명 대통령은 3일 “서울 지역의 아파트 매물이 급속도로 늘어나고, 거래량은 매우 급속도로 줄어들고 있다”며 “주요 지역들의 실제 거래 가격도 놀라울 정도로 떨어지고 있다”고 했다. 이 대통령은 이날 청와대에서 국무회의를 주재해 “수도권 주택 가격의 전망을 두고 여러 이야기들이 나오고 있다”며 이같이 밝혔다. 이런 발언은 이 대통령이 정부의 부동산 관련 통계가 제대로 전달되고 있지 않다는 우려를 하면서 나왔다.\n\n그는 “정부가 할 수 있는 일 중에 객관적 데이터를 제대로 설명하는 게 필요할 것 같다”며 “물론 통계 자료들은 정기적으로 내고 있지만, 그게 제대로 전달되는지 좀 걱정이 된다”고 했다. 이어 “주택 가격이 상승을 해야 이익을 보는 쪽이 그 자료 중의 일부만 가지고 한쪽 방향으로 몰아가는 측면이 보인다”며 “예를 들면 서울 지역의 아파트 매물이 급속도로 늘어나고 있고, 거래량은 매우 급속도로 줄어들고 있다. 이 대통령은 “폭락을 걱정하는 쪽도 생겨나고 있다”며 “대한민국 주택 가격이 비정상으로 높다는 사실, 그리고 대한민국 미래를 위해서는 반드시 부동산 투기 공화국이라는 오명을 벗어던져야 한다는 점은 분명하다”고 했다.",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004007476",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/02.png",
+   "pngBytes": 1854227,
+   "title": "김민석 '눈물 사과'에…한동훈 \"울지 말고 법적 책임져야\"",
+   "summary": "김민석 더불어민주당 대표가 지난 8·17 전당대회 과정에서 불거진 '신천지 연대설'과 관련해 의혹을 뒷받침할 근거를 확인하지 못했다며 사과하자, 한동훈 무소속 의원이…",
+   "summary_long": "김민석 더불어민주당 대표가 지난 8·17 전당대회 과정에서 불거진 '신천지 연대설'과 관련해 의혹을 뒷받침할 근거를 확인하지 못했다며 사과하자, 한동훈 무소속 의원이 법적 책임을 져야 한다고 압박했다. 한 의원은 3일 자신의 사회관계망서비스(SNS)를 통해 이재명 대통령의 허위사실 유포 대응 지시를 언급하며 김 대표를 정면으로 비판했다. 그는 \"오늘 이재명 대통령이 허위사실 유포에 강력 대응하라고 국무회의에서 중수청, 공소청, 경찰 등에 주문했다\"며 \"오늘 김민석 민주당 대표가 공개적으로 신천지 관련 허위 사실을 유포했다고 사실상 인정하고 눈물까지 흘렸다고 한다\"고 밝혔다.\n\n이어 \"김민석 민주당 대표, 허위사실 유포는 울 일이 아니고 법적 책임을 져야 할 일\"이라며 \"그런데 진짜 진실은 뭔가, 왜 운 것인가\"라고 반문했다. 한 의원의 이 같은 발언은 김 대표가 이날 국회에서 열린 비공개 의원총회에서 신천지 당원 가입 의혹과 관련해 사과한 직후 나왔다. 전당대회 당시 의혹의 당사자로 지목됐던 정청래 전 대표는 의총을 마친 뒤 기자들과 만나 \"상처받은 당원들에게 비공개 의총에서 숨어서 죄송하다고 할 게 아니라 당원에게 공개 사과하라\"고 요구했다.",
+   "press": "매일신문",
+   "source": "매일신문",
+   "link": "https://n.news.naver.com/article/088/0001038222",
    "selection": "정치",
-   "feed": "뉴스 01. 李대통령 “서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져”\n\n이재명 대통령은 3일 “서울 지역의 아파트 매물이 급속도로 늘어나고, 거래량은 매우 급속도로 줄어들고 있다”며 “주요 지역들의 실제 거래 가격도 놀라울 정도로 떨어지고 있다”고 했다. 이 대통령은 이날 청와대에서 국무회의를 주재해 “수도권 주택 가격의 전망을 두고 여러 이야기들이 나오고 있다”며 이같이 밝혔다. 이런 발언은 이 대통령이 정부의 부동산 관련 통계가 제대로 전달되고 있지 않다는 우려를 하면서 나왔다.\n\n그는 “정부가 할 수 있는 일 중에 객관적 데이터를 제대로 설명하는 게 필요할 것 같다”며 “물론 통계 자료들은 정기적으로 내고 있지만, 그게 제대로 전달되는지 좀 걱정이 된다”고 했다. 이어 “주택 가격이 상승을 해야 이익을 보는 쪽이 그 자료 중의 일부만 가지고 한쪽 방향으로 몰아가는 측면이 보인다”며 “예를 들면 서울 지역의 아파트 매물이 급속도로 늘어나고 있고, 거래량은 매우 급속도로 줄어들고 있다. 이 대통령은 “폭락을 걱정하는 쪽도 생겨나고 있다”며 “대한민국 주택 가격이 비정상으로 높다는 사실, 그리고 대한민국 미래를 위해서는 반드시 부동산 투기 공화국이라는 오명을 벗어던져야 한다는 점은 분명하다”고 했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004007476"
+   "feed": "뉴스 01. 김민석 '눈물 사과'에…한동훈 \"울지 말고 법적 책임져야\"\n\n김민석 더불어민주당 대표가 지난 8·17 전당대회 과정에서 불거진 '신천지 연대설'과 관련해 의혹을 뒷받침할 근거를 확인하지 못했다며 사과하자, 한동훈 무소속 의원이 법적 책임을 져야 한다고 압박했다. 한 의원은 3일 자신의 사회관계망서비스(SNS)를 통해 이재명 대통령의 허위사실 유포 대응 지시를 언급하며 김 대표를 정면으로 비판했다. 그는 \"오늘 이재명 대통령이 허위사실 유포에 강력 대응하라고 국무회의에서 중수청, 공소청, 경찰 등에 주문했다\"며 \"오늘 김민석 민주당 대표가 공개적으로 신천지 관련 허위 사실을 유포했다고 사실상 인정하고 눈물까지 흘렸다고 한다\"고 밝혔다.\n\n이어 \"김민석 민주당 대표, 허위사실 유포는 울 일이 아니고 법적 책임을 져야 할 일\"이라며 \"그런데 진짜 진실은 뭔가, 왜 운 것인가\"라고 반문했다. 한 의원의 이 같은 발언은 김 대표가 이날 국회에서 열린 비공개 의원총회에서 신천지 당원 가입 의혹과 관련해 사과한 직후 나왔다. 전당대회 당시 의혹의 당사자로 지목됐던 정청래 전 대표는 의총을 마친 뒤 기자들과 만나 \"상처받은 당원들에게 비공개 의총에서 숨어서 죄송하다고 할 게 아니라 당원에게 공개 사과하라\"고 요구했다.\n\n출처: 매일신문 / https://n.news.naver.com/article/088/0001038222"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/03.png",
-   "pngBytes": 1757101,
-   "title": "한동훈 토론회서 사진 찍고 오세훈 행사로…野 의원 11명 '양쪽에 눈도장'",
-   "summary": "한동훈 무소속 의원과 오세훈 서울시장이 3일 오전 국회 의원회관에서 각각 토론회를 열면서 국민의힘 의원들의 발길이 분주해졌다. 실제 양쪽 토론회에 모두 참석한 한…",
-   "summary_long": "한동훈 무소속 의원과 오세훈 서울시장이 3일 오전 국회 의원회관에서 각각 토론회를 열면서 국민의힘 의원들의 발길이 분주해졌다. 두 행사가 30분 간격으로 열리자 일부 의원들은 먼저 시작한 한 의원의 토론회에서 기념사진을 찍은 뒤 오 시장의 행사장으로 이동했다. 이날 오전 9시30분 국회 의원회관 제1소회의실에서는 한 의원과 김기현·윤상현 국민의힘 의원이 공동 주최한 '정당 개혁, 무엇을 어떻게 할 것인가' 토론회가 열렸다.\n\n현장에서 두 행사 참석자를 대조한 결과 김기현·주호영·신성범·고동진·조은희·배현진·한지아·김석기·박정하·서명옥·권영진 의원 등 11명이 양쪽 토론회에 모두 모습을 드러낸 것으로 파악됐다. 실제 양쪽 토론회에 모두 참석한 한 국민의힘 의원은 취재진에 \"한쪽에만 갈 수는 없지 않느냐\"는 취지로 말했다. 이날 한 의원의 토론회에는 김기현·윤상현·신성범·고동진·조은희·배현진·안상훈·한지아·박정훈·김석기·김건·이만희·박정하·주호영·우재준·서명옥·김형동 의원과 양향자 국민의힘 최고위원 등이 참석했다.",
-   "press": "시사저널",
-   "source": "시사저널",
-   "link": "https://n.news.naver.com/article/586/0000141472",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/03.png",
+   "pngBytes": 1645722,
+   "title": "오세훈 12.0→20.4%, 한동훈 18.7→14.3% 보수 선두교체…중도무당층 韓 비교우위",
+   "summary": "▲30대 오세훈 26.3% 장동혁 13.9% 한동훈 12.0% 김민석 11.5% 정청래 5.3% 순 ▲40대 오세훈 16.1% 김민석 12.5% 장동혁 12.4% 조국…",
+   "summary_long": "‘한동훈’은 4.4%p 내린 14.3%, ‘장동혁’ 1.0%p 내린 12.7%로 뒤를 이었다. 김민석(왼쪽 첫번째) 더불어민주당 당대표와 장동혁(왼쪽 두번째) 국민의힘 대표, 한동훈(오른쪽 첫번째) 무소속 의원이 지난 10월 27일 서울 강남구 삼성서울병원 장례식장에서 열린 고 최형우 전 내무부 장관 영결식에 참석해 자리에 앉아있다. 연령별 ▲20대 오세훈 35.8%(+15.7%p) 김민석 14.8%(+0.1%p) 한동훈 10.7%(-5.1%p) 장동혁 6.7%(-9.1%p)로 오세훈·장동혁 등락이 대조됐다.\n\n▲30대 오세훈 26.3%(+9.0%p) 장동혁 13.9%(-1.9%p) 한동훈 12.0%(-1.7%p) 김민석 11.5%(-2.2%p) 정청래 5.3%(-0.2%p) 순 ▲40대 오세훈 16.1%(+8.0%p) 김민석 12.5%(-0.7%p) 장동혁 12.4%(-1.9%p) 조국 11.6%(+0.6%… 중년층 이상의 경우 한동훈 하락·오세훈 상승, 김민석 하락과 다른 여권인사 상승이 겹쳤다. 이재명 대통령 국정평가별 ▲부정평가층(809명) 오세훈 30.9%(+12.4%p) 한동훈 21.6%(-7.2%p) 장동혁 20.0%(-2.4%p) 조국 6.1%(+0.9%p) 순 ▲긍정평가층(461명) 김민석 30.1%(-4.7%p) 송영길 15.9%(-0.1%p) 조국 11.5%(-0.2%p) 정청래…",
+   "press": "디지털타임스",
+   "source": "디지털타임스",
+   "link": "https://n.news.naver.com/article/029/0003057082",
    "selection": "정치",
-   "feed": "뉴스 02. 한동훈 토론회서 사진 찍고 오세훈 행사로…野 의원 11명 '양쪽에 눈도장'\n\n한동훈 무소속 의원과 오세훈 서울시장이 3일 오전 국회 의원회관에서 각각 토론회를 열면서 국민의힘 의원들의 발길이 분주해졌다. 두 행사가 30분 간격으로 열리자 일부 의원들은 먼저 시작한 한 의원의 토론회에서 기념사진을 찍은 뒤 오 시장의 행사장으로 이동했다. 이날 오전 9시30분 국회 의원회관 제1소회의실에서는 한 의원과 김기현·윤상현 국민의힘 의원이 공동 주최한 '정당 개혁, 무엇을 어떻게 할 것인가' 토론회가 열렸다.\n\n현장에서 두 행사 참석자를 대조한 결과 김기현·주호영·신성범·고동진·조은희·배현진·한지아·김석기·박정하·서명옥·권영진 의원 등 11명이 양쪽 토론회에 모두 모습을 드러낸 것으로 파악됐다. 실제 양쪽 토론회에 모두 참석한 한 국민의힘 의원은 취재진에 \"한쪽에만 갈 수는 없지 않느냐\"는 취지로 말했다. 이날 한 의원의 토론회에는 김기현·윤상현·신성범·고동진·조은희·배현진·안상훈·한지아·박정훈·김석기·김건·이만희·박정하·주호영·우재준·서명옥·김형동 의원과 양향자 국민의힘 최고위원 등이 참석했다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000141472"
+   "feed": "뉴스 02. 오세훈 12.0→20.4%, 한동훈 18.7→14.3% 보수 선두교체…중도무당층 韓 비교우위\n\n‘한동훈’은 4.4%p 내린 14.3%, ‘장동혁’ 1.0%p 내린 12.7%로 뒤를 이었다. 김민석(왼쪽 첫번째) 더불어민주당 당대표와 장동혁(왼쪽 두번째) 국민의힘 대표, 한동훈(오른쪽 첫번째) 무소속 의원이 지난 10월 27일 서울 강남구 삼성서울병원 장례식장에서 열린 고 최형우 전 내무부 장관 영결식에 참석해 자리에 앉아있다. 연령별 ▲20대 오세훈 35.8%(+15.7%p) 김민석 14.8%(+0.1%p) 한동훈 10.7%(-5.1%p) 장동혁 6.7%(-9.1%p)로 오세훈·장동혁 등락이 대조됐다.\n\n▲30대 오세훈 26.3%(+9.0%p) 장동혁 13.9%(-1.9%p) 한동훈 12.0%(-1.7%p) 김민석 11.5%(-2.2%p) 정청래 5.3%(-0.2%p) 순 ▲40대 오세훈 16.1%(+8.0%p) 김민석 12.5%(-0.7%p) 장동혁 12.4%(-1.9%p) 조국 11.6%(+0.6%… 중년층 이상의 경우 한동훈 하락·오세훈 상승, 김민석 하락과 다른 여권인사 상승이 겹쳤다. 이재명 대통령 국정평가별 ▲부정평가층(809명) 오세훈 30.9%(+12.4%p) 한동훈 21.6%(-7.2%p) 장동혁 20.0%(-2.4%p) 조국 6.1%(+0.9%p) 순 ▲긍정평가층(461명) 김민석 30.1%(-4.7%p) 송영길 15.9%(-0.1%p) 조국 11.5%(-0.2%p) 정청래…\n\n출처: 디지털타임스 / https://n.news.naver.com/article/029/0003057082"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/04.png",
-   "pngBytes": 1427929,
-   "title": "\"故최불암 장지서 5분\" 홍보한 식당…누리꾼 '뭇매'",
-   "summary": "고 최불암 빈소, SNS에 올라온 식당 업주 글 / 사진 = MBN, SNS 캡처배우 고 최불암의 장지와 식당이 가깝다며 주류 무료 제공 행사를 알린 식당이 누리꾼의…",
-   "summary_long": "고(故) 최불암 빈소, SNS에 올라온 식당 업주 글 / 사진 = MBN, SNS 캡처배우 고(故) 최불암의 장지와 식당이 가깝다며 주류 무료 제공 행사를 알린 식당이 누리꾼의 뭇매를 맞고 있습니다. 경기 파주시에서 식당을 운영하는 한 업주 A 씨는 어제(2일) 사회관계망서비스(SNS)에 \"최불암 선생님이 내일 우리 동네 파주 OOOO공원에 모셔진다\"며 \"동네 아저씨처럼 친근하고 따뜻하고 오랫동안 우리 사회에 선한 영향을 주신 그분께서 우리 동네 OOOO공원에 영면하심에 참으로 감사하고 영광으로 생… A 씨는 이어 \"11월 2일부터 8일까지 추모 기간 중 (식당) 이용객에게 소주 1병과 맥주 1병을 무료 제공한다\"며 \"OOOO공원에서 5분 거리에 위치한 캠핑바베큐 가게\"라고 덧붙였습니다.\n\n'최불암', '최불암 장지' 등 해시태그도 달았습니다. 고인을 애도한다는 명복으로 주류 무료 행사를 내걸고 장지와 가까운 식당 위치를 강조하는 건 예의가 아니라는 겁니다. 한편, 고 최불암은 지난달 29일 서울 강서구의 한 병원에서 입원 치료를 받던 중 향년 87세로 별세했습니다.",
-   "press": "MBN",
-   "source": "MBN",
-   "link": "https://n.news.naver.com/article/057/0001976427",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/04.png",
+   "pngBytes": 613631,
+   "title": "삼성 반도체 성과급 7억5000만원의 함정…바로 퇴사하면 얼마 받을까 [숫자 뒤의 진실]",
+   "summary": "",
+   "summary_long": "",
+   "press": "세계일보",
+   "source": "세계일보",
+   "link": "https://n.news.naver.com/article/022/0004172302",
    "selection": "경제·시사",
-   "feed": "뉴스 03. \"故최불암 장지서 5분\" 홍보한 식당…누리꾼 '뭇매'\n\n고(故) 최불암 빈소, SNS에 올라온 식당 업주 글 / 사진 = MBN, SNS 캡처배우 고(故) 최불암의 장지와 식당이 가깝다며 주류 무료 제공 행사를 알린 식당이 누리꾼의 뭇매를 맞고 있습니다. 경기 파주시에서 식당을 운영하는 한 업주 A 씨는 어제(2일) 사회관계망서비스(SNS)에 \"최불암 선생님이 내일 우리 동네 파주 OOOO공원에 모셔진다\"며 \"동네 아저씨처럼 친근하고 따뜻하고 오랫동안 우리 사회에 선한 영향을 주신 그분께서 우리 동네 OOOO공원에 영면하심에 참으로 감사하고 영광으로 생… A 씨는 이어 \"11월 2일부터 8일까지 추모 기간 중 (식당) 이용객에게 소주 1병과 맥주 1병을 무료 제공한다\"며 \"OOOO공원에서 5분 거리에 위치한 캠핑바베큐 가게\"라고 덧붙였습니다.\n\n'최불암', '최불암 장지' 등 해시태그도 달았습니다. 고인을 애도한다는 명복으로 주류 무료 행사를 내걸고 장지와 가까운 식당 위치를 강조하는 건 예의가 아니라는 겁니다. 한편, 고 최불암은 지난달 29일 서울 강서구의 한 병원에서 입원 치료를 받던 중 향년 87세로 별세했습니다.\n\n출처: MBN / https://n.news.naver.com/article/057/0001976427"
+   "feed": "뉴스 03. 삼성 반도체 성과급 7억5000만원의 함정…바로 퇴사하면 얼마 받을까 [숫자 뒤의 진실]\n\n\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004172302"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/05.png",
-   "pngBytes": 1682232,
-   "title": "숨진 남편 남긴 약봉지마다 ‘현금 뭉치’…폐기될 뻔한 3천만원, 아내 품으로",
-   "summary": "생전에 택시 기사로 일해온 남편이 약상자 안에 차곡차곡 모아둔 현금 3000만원이 하마터면 폐기될 뻔 했다가, 아내에게 무사히 돌아갔다. 남편이 몰래 현금을 모아뒀다는…",
-   "summary_long": "숨진 남편이 생전에 모아놓은 돈을 돌려받는 아내(왼쪽). 생전에 택시 기사로 일해온 남편이 약상자 안에 차곡차곡 모아둔 현금 3000만원이 하마터면 폐기될 뻔 했다가, 아내에게 무사히 돌아갔다. 남편이 몰래 현금을 모아뒀다는 사실을 전혀 몰랐던 아내는 약상자를 약국에 맡겨 폐기시킬 작정이었다.\n\n이에 앞서 약국 직원은 같은 날 오후 1시 30분쯤 한 여성한테서 “사망한 남편이 남긴 약상자를 폐기해달라”는 부탁과 함께 약상자를 건네받았는데, 약상자 속에 들어있는 여러 개의 약봉지마다 현금 뭉치가 보관돼 있었다. 약상자 안에선 사망한 남편의 이름이 적힌 찢어진 약 처방 봉지도 발견됐다. 경찰의 연락을 받고 돈을 건네 받은 아내는 “생전에 택시 기사로 일하던 남편이 갑자기 병을 얻어 숨지는 바람에 경황이 없어 약상자 안에 돈이 들어 있는 줄 전혀 몰랐다”며 “차곡차곡 모아둔 남편의 돈을 내 부주의로 잃어버릴 뻔했다”며 고마움을 전했다.",
-   "press": "디지털타임스",
-   "source": "디지털타임스",
-   "link": "https://n.news.naver.com/article/029/0003056795",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/05.png",
+   "pngBytes": 1747544,
+   "title": "경기도로 간 ‘강남 사람들’… “파주·하남으로 많이 갔다”",
+   "summary": "국민일보가 3일 법원 등기정보광장 소유권이전등기 데이터를 분석한 데 따르면 올해 1~9월 경기도 집합건물 전체 매수인 25만1239명 가운데 주소지가 강남3구인 사람은…",
+   "summary_long": "국민일보DB 국내 최고가지인 강남3구(강남·서초·송파) 거주자가 경기도 집을 사들인 거래가 1년 새 약 1.5배 증가한 것으로 나타났다. 국민일보가 3일 법원 등기정보광장 소유권이전등기 데이터를 분석한 데 따르면 올해 1~9월 경기도 집합건물 전체 매수인 25만1239명 가운데 주소지가 강남3구인 사람은 8784명으로 집계됐다. 강남3구 거주자가 서울 전체 경기도 집합건물 매수인에서 차지하는 비중은 24.9%로 4명 중 1명인 셈이다.\n\n서울 거주자가 많이 매수한 경기도 지역은 남양주 2645명, 하남 2331명, 고양 덕양구 2145명, 광명 1800명, 파주 1756명, 구리 1708명 순으로 많았다. 강남3구 거주자가 가장 많이 매수한 지역은 파주로, 강남3구 경기도 전체 매수인 8784명 가운데 10.6%인 928명으로 집계됐다. 경기도 거주자의 올해 1~9월 서울 집합건물 매수인은 2만2262명으로 지난해 같은 기간보다 5.8% 증가했다.",
+   "press": "국민일보",
+   "source": "국민일보",
+   "link": "https://n.news.naver.com/article/005/0001882837",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 숨진 남편 남긴 약봉지마다 ‘현금 뭉치’…폐기될 뻔한 3천만원, 아내 품으로\n\n숨진 남편이 생전에 모아놓은 돈을 돌려받는 아내(왼쪽). 생전에 택시 기사로 일해온 남편이 약상자 안에 차곡차곡 모아둔 현금 3000만원이 하마터면 폐기될 뻔 했다가, 아내에게 무사히 돌아갔다. 남편이 몰래 현금을 모아뒀다는 사실을 전혀 몰랐던 아내는 약상자를 약국에 맡겨 폐기시킬 작정이었다.\n\n이에 앞서 약국 직원은 같은 날 오후 1시 30분쯤 한 여성한테서 “사망한 남편이 남긴 약상자를 폐기해달라”는 부탁과 함께 약상자를 건네받았는데, 약상자 속에 들어있는 여러 개의 약봉지마다 현금 뭉치가 보관돼 있었다. 약상자 안에선 사망한 남편의 이름이 적힌 찢어진 약 처방 봉지도 발견됐다. 경찰의 연락을 받고 돈을 건네 받은 아내는 “생전에 택시 기사로 일하던 남편이 갑자기 병을 얻어 숨지는 바람에 경황이 없어 약상자 안에 돈이 들어 있는 줄 전혀 몰랐다”며 “차곡차곡 모아둔 남편의 돈을 내 부주의로 잃어버릴 뻔했다”며 고마움을 전했다.\n\n출처: 디지털타임스 / https://n.news.naver.com/article/029/0003056795"
+   "feed": "뉴스 04. 경기도로 간 ‘강남 사람들’… “파주·하남으로 많이 갔다”\n\n국민일보DB 국내 최고가지인 강남3구(강남·서초·송파) 거주자가 경기도 집을 사들인 거래가 1년 새 약 1.5배 증가한 것으로 나타났다. 국민일보가 3일 법원 등기정보광장 소유권이전등기 데이터를 분석한 데 따르면 올해 1~9월 경기도 집합건물 전체 매수인 25만1239명 가운데 주소지가 강남3구인 사람은 8784명으로 집계됐다. 강남3구 거주자가 서울 전체 경기도 집합건물 매수인에서 차지하는 비중은 24.9%로 4명 중 1명인 셈이다.\n\n서울 거주자가 많이 매수한 경기도 지역은 남양주 2645명, 하남 2331명, 고양 덕양구 2145명, 광명 1800명, 파주 1756명, 구리 1708명 순으로 많았다. 강남3구 거주자가 가장 많이 매수한 지역은 파주로, 강남3구 경기도 전체 매수인 8784명 가운데 10.6%인 928명으로 집계됐다. 경기도 거주자의 올해 1~9월 서울 집합건물 매수인은 2만2262명으로 지난해 같은 기간보다 5.8% 증가했다.\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001882837"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/06.png",
-   "pngBytes": 1682519,
-   "title": "오세훈·한동훈, 장례식장서 한자리... “공식 만남 갖자”",
-   "summary": "지난 6월 16일 오세훈 서울시장과 한동훈 무소속 의원이 서울 여의도 CCMM빌딩에서 열린 2026 국민공공정책포럼에 참석해 인사를 나누고 있다. 보수 진영의 차기…",
-   "summary_long": "지난 6월 16일 오세훈 서울시장과 한동훈 무소속 의원이 서울 여의도 CCMM빌딩에서 열린 2026 국민공공정책포럼에 참석해 인사를 나누고 있다. 보수 진영의 차기 주자로 꼽히는 오세훈 서울시장과 무소속 한동훈 의원이 2일 국민의힘 김성원 의원의 부친상 빈소에서 만나 “앞으로 공식적인 만남도 갖자”는 취지의 대화를 나눈 것으로 알려졌다. 오 시장과 한 의원은 이날 오후 서울 고려대 안암병원 장례식장에서 마주쳤다.\n\n당시 동석했던 관계자들에 따르면 두 사람은 ‘빈소에선 자주 뵙지만 공식 일정으로는 오래된 것 같다’, ‘조만간 공식적인 만남을 갖자’는 취지의 대화를 나눴다. 오 시장은 오전 10시 국회의원회관에서 열리는 국민의힘 서울시당·서울시 주최 ‘세계유산 보존과 도시의 미래, 공존의 길을 찾다’ 토론회에 참석한다. 한 의원은 오전 9시 30분 국회의원회관에서 국민의힘 김기현·윤상현 의원과 ‘정당개혁, 무엇을 어떻게 할 것인가’ 세미나를 진행한다.",
-   "press": "조선비즈",
-   "source": "조선비즈",
-   "link": "https://n.news.naver.com/article/366/0001202074",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/06.png",
+   "pngBytes": 1925751,
+   "title": "尹 선거법 2심도 징역형..국민의힘 397억 토해내나",
+   "summary": "대법원 확정 시 국민의힘 선거비 397억원 반환해야. 서울고등법원 형사2-1부는 4일 공직선거법 위반 혐의로 재판에 넘겨진 윤 전 대통령 항소심 선고 기일에서 피고인의…",
+   "summary_long": "서울고법, 尹 항소 기각..징역 1년6개월·집유 3년 선고. 대법원 확정 시 국민의힘 선거비 397억원 반환해야. 4일 서울 용산구 서울역 대합실에서 시민들이 윤석열 전 대통령의 공직선거법 위반 혐의 2심 선고 관련 보도를 시청하고 있다.\n\n서울고등법원 형사2-1부는 4일 공직선거법 위반 혐의로 재판에 넘겨진 윤 전 대통령 항소심 선고 기일에서 피고인의 항소를 기각하고 원심과 같은 징역 1년6개월·집행유예 3년을 선고했다. 1심 판결이 나왔을 당시 국민의힘 관계자들은 \"당사 매각까지 고려하지는 않고 있다\"며 \"최후의 수단\"이라고 설명한 바 있다. 그러면서 \"거짓말로 국민의 선택을 왜곡한 후보를 내세운 것은 국민의힘\"이라며 \"국민의힘은 즉각 국민 앞에 사죄하고, 397억 원을 당장 국민에게 반환해야 한다\"고 압박했다.",
+   "press": "파이낸셜뉴스",
+   "source": "파이낸셜뉴스",
+   "link": "https://n.news.naver.com/article/014/0005599416",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 오세훈·한동훈, 장례식장서 한자리... “공식 만남 갖자”\n\n지난 6월 16일 오세훈 서울시장과 한동훈 무소속 의원이 서울 여의도 CCMM빌딩에서 열린 2026 국민공공정책포럼에 참석해 인사를 나누고 있다. 보수 진영의 차기 주자로 꼽히는 오세훈 서울시장과 무소속 한동훈 의원이 2일 국민의힘 김성원 의원의 부친상 빈소에서 만나 “앞으로 공식적인 만남도 갖자”는 취지의 대화를 나눈 것으로 알려졌다. 오 시장과 한 의원은 이날 오후 서울 고려대 안암병원 장례식장에서 마주쳤다.\n\n당시 동석했던 관계자들에 따르면 두 사람은 ‘빈소에선 자주 뵙지만 공식 일정으로는 오래된 것 같다’, ‘조만간 공식적인 만남을 갖자’는 취지의 대화를 나눴다. 오 시장은 오전 10시 국회의원회관에서 열리는 국민의힘 서울시당·서울시 주최 ‘세계유산 보존과 도시의 미래, 공존의 길을 찾다’ 토론회에 참석한다. 한 의원은 오전 9시 30분 국회의원회관에서 국민의힘 김기현·윤상현 의원과 ‘정당개혁, 무엇을 어떻게 할 것인가’ 세미나를 진행한다.\n\n출처: 조선비즈 / https://n.news.naver.com/article/366/0001202074"
+   "feed": "뉴스 05. 尹 선거법 2심도 징역형..국민의힘 397억 토해내나\n\n서울고법, 尹 항소 기각..징역 1년6개월·집유 3년 선고. 대법원 확정 시 국민의힘 선거비 397억원 반환해야. 4일 서울 용산구 서울역 대합실에서 시민들이 윤석열 전 대통령의 공직선거법 위반 혐의 2심 선고 관련 보도를 시청하고 있다.\n\n서울고등법원 형사2-1부는 4일 공직선거법 위반 혐의로 재판에 넘겨진 윤 전 대통령 항소심 선고 기일에서 피고인의 항소를 기각하고 원심과 같은 징역 1년6개월·집행유예 3년을 선고했다. 1심 판결이 나왔을 당시 국민의힘 관계자들은 \"당사 매각까지 고려하지는 않고 있다\"며 \"최후의 수단\"이라고 설명한 바 있다. 그러면서 \"거짓말로 국민의 선택을 왜곡한 후보를 내세운 것은 국민의힘\"이라며 \"국민의힘은 즉각 국민 앞에 사죄하고, 397억 원을 당장 국민에게 반환해야 한다\"고 압박했다.\n\n출처: 파이낸셜뉴스 / https://n.news.naver.com/article/014/0005599416"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/07.png",
-   "pngBytes": 1784729,
-   "title": "오세훈 “대통령 모습 보며 착잡…국민은 전·월세로 극도의 고통”",
-   "summary": "오세훈 서울시장이 3일 국회 의원회관 간담회의실에서 열린 ‘세계유산 보존과 도시의 미래, 공존의 길을 찾다’ 정책토론회 참석 후 백브리핑을 위해 이동하고 있다. 뉴스1…",
-   "summary_long": "오세훈 서울시장이 3일 이재명 대통령을 겨냥해 “전·월세 걱정과 해결책에 나흘 연속 관심을 표명했다면 더 많은 지지를 얻고 국민을 안심시키는 행보가 아니었을까 생각한다”고 말했다. 오세훈 서울시장이 3일 국회 의원회관 간담회의실에서 열린 ‘세계유산 보존과 도시의 미래, 공존의 길을 찾다’ 정책토론회 참석 후 백브리핑을 위해 이동하고 있다. 뉴스1 오 시장은 이날 국회 의원회관에서 열린 ‘세계유산 보존과 도시의 미래, 공존의 길을 찾다’ 토론회에 참석한 뒤 기자들과 만나 다문화가정 지원 정책을 두고 연일 의견을 밝힌 이 대통령의 사회관계망서비스(SNS) 활동을 두고 “그런 모습을 지켜보면서 조금은 착잡한 생각이 든다”며 이같이 밝혔다.\n\n이어 “지금 서울에서 전·월세 사시는 분들은 극도의 고통과 불안 속에 계신다”며 “계약 만료를 6개월 내외로 앞두고 있거나 이사를 목전에 두고 계신 분들은 유례없는 고통 속에 어떻게든 정부가 해결책을 마련해주길 간절하게 바라는 심경일 것”이라고 말했다. 오 시장은 “정부의 실거주 강조, 실거주 집착이 낳은 부작용이 있다”며 부동산 정책 전환을 거듭 촉구했다. 그는 이 대통령의 자산시장 정상화 관련 발언을 두고는 “그냥 이대로 시간이 가기를 기다리고 있다는 의미로 전달될 가능성이 매우 큰데 절대 그렇게 해서 해결될 사안이 아니다”라며 “정책적 전환 없이 시간이 흘러 자연스럽게 해결되기를 바라는 것은 무능하고 지탄받아야 할 정책 행보”라고 비판했다.",
-   "press": "세계일보",
-   "source": "세계일보",
-   "link": "https://n.news.naver.com/article/022/0004172079",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/07.png",
+   "pngBytes": 1788905,
+   "title": "尹 2심 유죄에 국힘 \"李는 사과했나\" vs 민주 \"397억 반환\"[영상]",
+   "summary": "직접논평 삼가며 '李대통령 재판 재개' 촉구. 국민의힘 당사 매각이 달린 윤석열 전 대통령의 공직선거법 위반 혐의 재판이 항소심에서도 '당선 무효형'을 받자, 국민의힘은…",
+   "summary_long": "직접논평 삼가며 '李대통령 재판 재개' 촉구. 국민의힘 당사 매각이 달린 윤석열 전 대통령의 공직선거법 위반 혐의 재판이 항소심에서도 '당선 무효형'을 받자, 국민의힘은 \"아직 3심이 남았다\"며 같은 혐의로 기소된 이재명 대통령에게 화살을 돌렸다. 지난해 대선 직전 선거법 위반 사건이 대법원에서 파기환송된 이 대통령의 죄질이 더 나쁘다며, 재판 재개를 거듭 촉구했다.\n\n김 의원은 \"사실상 (이 대통령의) 유죄가 확정된 거나 다름없지만, 덕분에 민주당은 재판 중단을 핑계로 434억원을 반납하지 않고 있다\"고 짚었다. 역시 율사 출신인 5선 나경원 의원도 SNS에서 \"이 대통령과 민주당은 남의 판결에 좋다고 할 때가 아니다\"라며 \"제 코가 석자\"라고 일침을 놨다. 그는 페이스북에 사법부가 윤 전 대통령과 이 대통령의 사건에 같은 잣대를 적용해야 한다며 \"둘 다 재판을 하거나, 둘 다 재판을 중단하는 게 공평하다\"고 썼다.",
+   "press": "노컷뉴스",
+   "source": "노컷뉴스",
+   "link": "https://n.news.naver.com/article/079/0004206544",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 오세훈 “대통령 모습 보며 착잡…국민은 전·월세로 극도의 고통”\n\n오세훈 서울시장이 3일 이재명 대통령을 겨냥해 “전·월세 걱정과 해결책에 나흘 연속 관심을 표명했다면 더 많은 지지를 얻고 국민을 안심시키는 행보가 아니었을까 생각한다”고 말했다. 오세훈 서울시장이 3일 국회 의원회관 간담회의실에서 열린 ‘세계유산 보존과 도시의 미래, 공존의 길을 찾다’ 정책토론회 참석 후 백브리핑을 위해 이동하고 있다. 뉴스1 오 시장은 이날 국회 의원회관에서 열린 ‘세계유산 보존과 도시의 미래, 공존의 길을 찾다’ 토론회에 참석한 뒤 기자들과 만나 다문화가정 지원 정책을 두고 연일 의견을 밝힌 이 대통령의 사회관계망서비스(SNS) 활동을 두고 “그런 모습을 지켜보면서 조금은 착잡한 생각이 든다”며 이같이 밝혔다.\n\n이어 “지금 서울에서 전·월세 사시는 분들은 극도의 고통과 불안 속에 계신다”며 “계약 만료를 6개월 내외로 앞두고 있거나 이사를 목전에 두고 계신 분들은 유례없는 고통 속에 어떻게든 정부가 해결책을 마련해주길 간절하게 바라는 심경일 것”이라고 말했다. 오 시장은 “정부의 실거주 강조, 실거주 집착이 낳은 부작용이 있다”며 부동산 정책 전환을 거듭 촉구했다. 그는 이 대통령의 자산시장 정상화 관련 발언을 두고는 “그냥 이대로 시간이 가기를 기다리고 있다는 의미로 전달될 가능성이 매우 큰데 절대 그렇게 해서 해결될 사안이 아니다”라며 “정책적 전환 없이 시간이 흘러 자연스럽게 해결되기를 바라는 것은 무능하고 지탄받아야 할 정책 행보”라고 비판했다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004172079"
+   "feed": "뉴스 06. 尹 2심 유죄에 국힘 \"李는 사과했나\" vs 민주 \"397억 반환\"[영상]\n\n직접논평 삼가며 '李대통령 재판 재개' 촉구. 국민의힘 당사 매각이 달린 윤석열 전 대통령의 공직선거법 위반 혐의 재판이 항소심에서도 '당선 무효형'을 받자, 국민의힘은 \"아직 3심이 남았다\"며 같은 혐의로 기소된 이재명 대통령에게 화살을 돌렸다. 지난해 대선 직전 선거법 위반 사건이 대법원에서 파기환송된 이 대통령의 죄질이 더 나쁘다며, 재판 재개를 거듭 촉구했다.\n\n김 의원은 \"사실상 (이 대통령의) 유죄가 확정된 거나 다름없지만, 덕분에 민주당은 재판 중단을 핑계로 434억원을 반납하지 않고 있다\"고 짚었다. 역시 율사 출신인 5선 나경원 의원도 SNS에서 \"이 대통령과 민주당은 남의 판결에 좋다고 할 때가 아니다\"라며 \"제 코가 석자\"라고 일침을 놨다. 그는 페이스북에 사법부가 윤 전 대통령과 이 대통령의 사건에 같은 잣대를 적용해야 한다며 \"둘 다 재판을 하거나, 둘 다 재판을 중단하는 게 공평하다\"고 썼다.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004206544"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/08.png",
-   "pngBytes": 586570,
-   "title": "안철수 \"내가 대통령이면 아주대병원 의료진 직접 만나 사과했을 것\"",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/08.png",
+   "pngBytes": 609565,
+   "title": "차기 대선 오세훈 약진, 8.4%p 오른 20.4%…한동훈 14.3%, 장동혁 12.7%",
    "summary": "",
    "summary_long": "",
-   "press": "부산일보",
-   "source": "부산일보",
-   "link": "https://n.news.naver.com/article/082/0001405379",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000519044",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 안철수 \"내가 대통령이면 아주대병원 의료진 직접 만나 사과했을 것\"\n\n\n\n출처: 부산일보 / https://n.news.naver.com/article/082/0001405379"
+   "feed": "뉴스 07. 차기 대선 오세훈 약진, 8.4%p 오른 20.4%…한동훈 14.3%, 장동혁 12.7%\n\n\n\n출처: JTBC / https://n.news.naver.com/article/437/0000519044"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-04/09.png",
-   "pngBytes": 1346077
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/09.png",
+   "pngBytes": 1346420
   }
  ],
- "caption": "📰 11월 4일 오늘의 뉴스\n\n1. 李대통령 “서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져”\n   이재명 대통령은 3일 “서울 지역의 아파트 매물이 급속도로 늘어나고, 거래량은 매우 급속도로 줄어들고 있다”며 “주요 지역들의 실제 거래 가격도 놀라울 정도로 떨어지고…\n2. 한동훈 토론회서 사진 찍고 오세훈 행사로…野 의원 11명 '양쪽에 눈도장'\n   한동훈 무소속 의원과 오세훈 서울시장이 3일 오전 국회 의원회관에서 각각 토론회를 열면서 국민의힘 의원들의 발길이 분주해졌다. 실제 양쪽 토론회에 모두 참석한 한…\n3. \"故최불암 장지서 5분\" 홍보한 식당…누리꾼 '뭇매'\n   고 최불암 빈소, SNS에 올라온 식당 업주 글 / 사진 = MBN, SNS 캡처배우 고 최불암의 장지와 식당이 가깝다며 주류 무료 제공 행사를 알린 식당이 누리꾼의…\n4. 숨진 남편 남긴 약봉지마다 ‘현금 뭉치’…폐기될 뻔한 3천만원, 아내 품으로\n   생전에 택시 기사로 일해온 남편이 약상자 안에 차곡차곡 모아둔 현금 3000만원이 하마터면 폐기될 뻔 했다가, 아내에게 무사히 돌아갔다. 남편이 몰래 현금을 모아뒀다는…\n5. 오세훈·한동훈, 장례식장서 한자리... “공식 만남 갖자”\n   지난 6월 16일 오세훈 서울시장과 한동훈 무소속 의원이 서울 여의도 CCMM빌딩에서 열린 2026 국민공공정책포럼에 참석해 인사를 나누고 있다. 보수 진영의 차기…\n6. 오세훈 “대통령 모습 보며 착잡…국민은 전·월세로 극도의 고통”\n   오세훈 서울시장이 3일 국회 의원회관 간담회의실에서 열린 ‘세계유산 보존과 도시의 미래, 공존의 길을 찾다’ 정책토론회 참석 후 백브리핑을 위해 이동하고 있다. 뉴스1…\n7. 안철수 \"내가 대통령이면 아주대병원 의료진 직접 만나 사과했을 것\"\n\n🗣 “동네 아저씨처럼 친근하고 따뜻하고 오랫동안 우리 사회에 선한 영향을 주신 그분께서 우리 동네 OOOO공원에 영면하심에 참으로 감사하고 영광으로 생각한다”\n이 발언을 그대로 실은 보도 10건 · Chosunbiz · 매일신문 · 머니투데이 · 뉴스1\n· Chosunbiz — “최불암 장지 근처 소맥 무료”… 식당 홍보 논란\n· 매일신문 — `故최불암 장지서 5분, 소주·맥주 무료` 홍보한 식당…누리꾼 `뭇매`\n· 머니투데이 — \"故최불암 영면하는 곳 근처\"…도 넘은 식당 홍보 '눈살' - 머니투데이\n· 뉴스1 — \"최불암 영면한 곳 근처 소맥 공짜\"…장지 5분 거리 식당 홍보 논란\n· TWIG — “고 최불암 장지 5분 거리, 소주·맥주 1병 무료”…식당 ‘홍보글’ 결국 삭제 [이슈픽]\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실 #의료\n\n출처: MBN, 디지털타임스, 부산일보, 세계일보, 시사저널, 조선비즈, 조선일보"
+ "caption": "📰 11월 5일 오늘의 뉴스\n\n1. 김민석 '눈물 사과'에…한동훈 \"울지 말고 법적 책임져야\"\n   김민석 더불어민주당 대표가 지난 8·17 전당대회 과정에서 불거진 '신천지 연대설'과 관련해 의혹을 뒷받침할 근거를 확인하지 못했다며 사과하자, 한동훈 무소속 의원이…\n2. 오세훈 12.0→20.4%, 한동훈 18.7→14.3% 보수 선두교체…중도무당층 韓 비교우위\n   ▲30대 오세훈 26.3% 장동혁 13.9% 한동훈 12.0% 김민석 11.5% 정청래 5.3% 순 ▲40대 오세훈 16.1% 김민석 12.5% 장동혁 12.4% 조국…\n3. 삼성 반도체 성과급 7억5000만원의 함정…바로 퇴사하면 얼마 받을까 [숫자 뒤의 진실]\n4. 경기도로 간 ‘강남 사람들’… “파주·하남으로 많이 갔다”\n   국민일보가 3일 법원 등기정보광장 소유권이전등기 데이터를 분석한 데 따르면 올해 1~9월 경기도 집합건물 전체 매수인 25만1239명 가운데 주소지가 강남3구인 사람은…\n5. 尹 선거법 2심도 징역형..국민의힘 397억 토해내나\n   대법원 확정 시 국민의힘 선거비 397억원 반환해야. 서울고등법원 형사2-1부는 4일 공직선거법 위반 혐의로 재판에 넘겨진 윤 전 대통령 항소심 선고 기일에서 피고인의…\n6. 尹 2심 유죄에 국힘 \"李는 사과했나\" vs 민주 \"397억 반환\"[영상]\n   직접논평 삼가며 '李대통령 재판 재개' 촉구. 국민의힘 당사 매각이 달린 윤석열 전 대통령의 공직선거법 위반 혐의 재판이 항소심에서도 '당선 무효형'을 받자, 국민의힘은…\n7. 차기 대선 오세훈 약진, 8.4%p 오른 20.4%…한동훈 14.3%, 장동혁 12.7%\n\n🗣 “국민의힘은 즉각 국민 앞에 사죄하고, 397억 원을 당장 국민에게 반환해야 한다”\n이 발언을 그대로 실은 보도 7건 · 프레시안 · 한국일보 · 머니투데이 · 뉴시스\n· 프레시안 — 윤석열 선거법 2심도 당선무효형…민주당 \"국힘, 397억 반환하라\"\n· 한국일보 — 대선자금 수백억 토해낼 판… 尹 2심 당선무효형에 與도 野도 '술렁'\n· 머니투데이 — 尹 2심도 당선무효형…與 \"397억 반납\" 野 \"李대통령 재판 재개\" - 머니투데이\n· 뉴시스 — 與, '尹 선거법 사건' 2심 유죄에 \"국민 농락한 선거범죄에 당연한 판단\"\n· 더팩트 — 윤석열 항소심도 당선무효형…與 \"국힘, 397억 반환해야\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #반도체\n\n출처: JTBC, 국민일보, 노컷뉴스, 디지털타임스, 매일신문, 세계일보, 파이낸셜뉴스"
 }
