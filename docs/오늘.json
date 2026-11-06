@@ -1,225 +1,159 @@
 {
- "date": "2026-11-05",
- "generated_at": "2026-11-05T11:58:43+09:00",
+ "date": "2026-11-06",
+ "generated_at": "2026-11-06T12:01:00+09:00",
  "mode": "daily",
- "window_start": "2026-11-04T00:00:00+09:00",
- "window_end": "2026-11-04T23:59:59+09:00",
+ "window_start": "2026-11-05T00:00:00+09:00",
+ "window_end": "2026-11-05T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "김민석 '눈물 사과'에…한동훈 \"울지 말고 법적 책임져야\"",
-   "source": "매일신문",
-   "url": "https://n.news.naver.com/article/088/0001038222",
-   "published_at": "2026-11-04T09:53:09+09:00",
+   "title": "\"연평도 위문열차 보내달라\"‥해병대원 요청에 15년 만에 공연 재개",
+   "source": "MBC",
+   "url": "https://n.news.naver.com/article/214/0001533660",
+   "published_at": "2026-11-05T11:18:36+09:00",
    "section_id": "100",
-   "view_rank": 2,
+   "view_rank": 3,
    "selection": "정치",
-   "summary": "김민석 더불어민주당 대표가 지난 8·17 전당대회 과정에서 불거진 '신천지 연대설'과 관련해 의혹을 뒷받침할 근거를 확인하지 못했다며 사과하자, 한동훈 무소속 의원이…",
-   "summary_long": "김민석 더불어민주당 대표가 지난 8·17 전당대회 과정에서 불거진 '신천지 연대설'과 관련해 의혹을 뒷받침할 근거를 확인하지 못했다며 사과하자, 한동훈 무소속 의원이 법적 책임을 져야 한다고 압박했다. 한 의원은 3일 자신의 사회관계망서비스(SNS)를 통해 이재명 대통령의 허위사실 유포 대응 지시를 언급하며 김 대표를 정면으로 비판했다. 그는 \"오늘 이재명 대통령이 허위사실 유포에 강력 대응하라고 국무회의에서 중수청, 공소청, 경찰 등에 주문했다\"며 \"오늘 김민석 민주당 대표가 공개적으로 신천지 관련 허위 사실을 유포했다고 사실상 인정하고 눈물까지 흘렸다고 한다\"고 밝혔다.\n\n이어 \"김민석 민주당 대표, 허위사실 유포는 울 일이 아니고 법적 책임을 져야 할 일\"이라며 \"그런데 진짜 진실은 뭔가, 왜 운 것인가\"라고 반문했다. 한 의원의 이 같은 발언은 김 대표가 이날 국회에서 열린 비공개 의원총회에서 신천지 당원 가입 의혹과 관련해 사과한 직후 나왔다. 전당대회 당시 의혹의 당사자로 지목됐던 정청래 전 대표는 의총을 마친 뒤 기자들과 만나 \"상처받은 당원들에게 비공개 의총에서 숨어서 죄송하다고 할 게 아니라 당원에게 공개 사과하라\"고 요구했다.",
+   "summary": "해병대 연평부대에서 15년 만에 'KFN TV 위문열차' 공연이 열렸습니다. 지난 6월 이재명 대통령이 연평부대를 방문했을 당시, 전역을 앞둔 해병대원이 위문열차 공연을…",
+   "summary_long": "해병대 연평부대에서 15년 만에 'KFN TV 위문열차' 공연이 열렸습니다. 어제 연평종합운동장에서 열린 이번 공연에는 군 장병에게 인지도가 높은 김장훈, 소유미 등 가수들이 출연했고, 지역주민을 포함한 1천여 명이 관람했습니다. 지난 6월 이재명 대통령이 연평부대를 방문했을 당시, 전역을 앞둔 해병대원이 위문열차 공연을 요청했고, 이 대통령이 가능 여부를 검토하라고 지시하면서 이번 공연이 성사됐습니다.\n\n위문열차는 전국 각지의 군부대 장병을 찾아가는 공연 프로그램으로, 1962년 시작돼 현재까지 3천 회 넘게 진행됐습니다. 베트남전 당시에도 최전선에서 특별 위문 공연을 펼치기도 했는데, 도서·격오지 부대 방문이 쉽지 않아 연평도 공연은 2011년, 백령도 공연은 2017년이 마지막이었습니다.",
+   "press": "MBC",
+   "photo": "01.jpg"
+  },
+  {
+   "title": "‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과",
+   "source": "KBS",
+   "url": "https://n.news.naver.com/article/056/0012287992",
+   "published_at": "2026-11-05T15:40:50+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "selection": "정치",
+   "summary": "한 유튜브 방송에서 '전두환·윤석열은 내란이 아니'라고 한 국민의힘 김태규 의원에 대한 제명 촉구 결의안이 범여권 주도로 오늘 국회 본회의를 통과했습니다. 결의안을 대표…",
+   "summary_long": "한 유튜브 방송에서 '전두환·윤석열은 내란이 아니'라고 한 국민의힘 김태규 의원에 대한 제명 촉구 결의안이 범여권 주도로 오늘(5일) 국회 본회의를 통과했습니다. 김 의원에 대한 제명 촉구 결의안은 재석 167명 가운데 찬성 166명, 무효 1명으로 가결됐습니다. 다만, 제명 촉구 결의안은 제명을 요구하는 정치적 의미를 담은 결의문으로, 실제 법적 강제성은 없습니다.\n\n결의안을 대표 발의한 더불어민주당 천준호 의원은 \"김 의원은 12.3 비상계엄은 물론, 전두환 신군부도 내란이 아니라며 윤석열과 전두환의 내란을 전면 부정했다\"며 \"역사적 재평가라는 미명 하에 3심을 거쳐 확정된 전두환 내란수괴 대법원 판결까지 부정하며 법치주의를 훼손하고 반헌법적 망언을 한 것\"이라고… 천 의원은 \"대한민국 헌정사와 민주주의의 발전을 위해 희생된 5.18 민주화운동 희생자 및 유가족을 모욕하고 2차 가해를 가한 반역사적 행위\"라며 \"나아가 국민과 대한민국 역사에 대한 조롱이며 역사적 진실과 사법부의 판단을 부정하고 궤변을 유포하여 국론분열을 획책한 것\"이라고도 말했습니다. 결의안 상정에 반대한 국민의힘은 투표에 참여하지 않았습니다.",
    "quotes": [
-    "본인이 어떤 책임을 질 것인지도 공개적으로 밝혀 주기를 바란다. 이렇게 되면 결과적으로 당원과 정청래는 무죄가 되고 김 대표는 유죄가 된 것",
-    "신천지가 활동하는 과정에서 우리 당 누구도 그런 부분을 인지적으로 주도했다고 생각하지 않는다. 조사 결과 3자 비밀연합의 증거는 없었다",
-    "그동안 조사한 사람은 뭐가 되나. (신천지 교인이) 조직적으로 침투해왔는데 보고할 기회도 안 주고 그렇게 하면 어떻게 하냐"
+    "역사적 재평가라는 미명 하에 3심을 거쳐 확정된 전두환 내란수괴 대법원 판결까지 부정하며 법치주의를 훼손하고 반헌법적 망언을 한 것",
+    "대한민국 헌정사와 민주주의의 발전을 위해 희생된 5.18 민주화운동 희생자 및 유가족을 모욕하고 2차 가해를 가한 반역사적 행위",
+    "나아가 국민과 대한민국 역사에 대한 조롱이며 역사적 진실과 사법부의 판단을 부정하고 궤변을 유포하여 국론분열을 획책한 것"
    ],
-   "press": "매일신문",
-   "photo": "01.png",
+   "press": "KBS",
+   "photo": "02.jpg",
    "quoted": {
-    "quote": "본인이 어떤 책임을 질 것인지도 공개적으로 밝혀 주기를 바란다. 이렇게 되면 결과적으로 당원과 정청래는 무죄가 되고 김 대표는 유죄가 된 것",
-    "n": 4,
+    "quote": "역사적 재평가라는 미명 하에 3심을 거쳐 확정된 전두환 내란수괴 대법원 판결까지 부정하며 법치주의를 훼손하고 반헌법적 망언을 한 것",
+    "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "중앙일보",
-      "title": "김민석 “신천지 의혹 죄송” 울컥…정청래 “김 유죄, 책임져라”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00RzUwOU9HRno2OEpza3FsajVQXzRFQ3UyMXJpNUxoVl9QNWRXOU83Vy1ieFFZZTc2dHNyVnBTOFpzMUVzSzc5ZjByd3VOeE53N0pGOHVn?oc=5"
+      "press": "KBS 뉴스",
+      "title": "‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MVlSRG50V1dxTWJfMDlycGJYZGhjTFdPZGNJVVZEWXR4MVNaZTM1eGxwbW5WMjhENnB5U0tYczVRTGh4Q0QxM3JLYTNWbVUtbHdDNHlhMFZiOHM?oc=5"
      },
      {
-      "press": "매일신문",
-      "title": "김민석 `눈물 사과`에…한동훈 `울지 말고 법적 책임져야`",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xSXZlLWxDYmhKcVlFdUdDVzdLSWtxUWpNZXRhRGVuSFljcWd2ZEkxakFkVUtHdjJQZ2JkNG9MRENNVy1JdnVBZWZzNU9pVTdPbERGN0NOUExxanRpdEFRWkZn?oc=5"
+      "press": "미디어오늘",
+      "title": "‘전두환 내란 부정’ 김태규 제명촉구 결의안 본회의 통과",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Pa0ZGM21ydDdWcHh4NHMtYmlVX2RfMkc4eUNaclBsT0ZTV21YRFdKYWVBSHdyM29hamhPMFkyZk5CNE0xZlVzbUhJZ3c3YzFYeG1JVWpvZHJGTFpiVlJVd09ZdEtYRzM0UDUzWVRxa24?oc=5"
      },
      {
-      "press": "이데일리",
-      "title": "한동훈, '신천지 사과' 김민석에 \"울 일 아닌 법적 책임질 일\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaWVaSUp1MUp3N1VpMjdYenZtb0NMLXhoX1Y3R2ViQXVxaDZUczY2a25QU2tfZk1QclZVd0p5R1JzZ1ByWlpMazFOXzh6dTVxZ0kwb3doS1dpTW5BSWpoU1pLLXJtV2dWZUczLVo3eVp6VUdIbXJ3aDNiVzZvT3l3Qw?oc=5"
-     },
-     {
-      "press": "중앙일보",
-      "title": "김민석, 신천지 의혹 ‘울컥 사과’…정청래 “공개 사과하라”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhZjd0R2VDNkdibGNKams0eVhKNjdsRnFaWkFFRUJXbDM5UVFMQzh6eHhUZzhsRDRnSEN2N21kNGFfX2FkbnRPd2pXbVhpWVJZcGJKaTR3?oc=5"
+      "press": "월요신문",
+      "title": "국회, 김태규 제명 촉구 결의안 가결…찬성 166표",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54TXJvYURZSGt0ZE9RalNVVkZtUDFENWM1aVFXUjgyRDZ2MHk2NW9PeGxRRmRwcGQySnJ6N0hOd1puc2dESm53TVY2dVl3bi1mRTY0UVE0dVZNOVpDQUJ4YUNYUkZ6aHJ3bHc?oc=5"
      }
     ]
    }
   },
   {
-   "title": "오세훈 12.0→20.4%, 한동훈 18.7→14.3% 보수 선두교체…중도무당층 韓 비교우위",
-   "source": "디지털타임스",
-   "url": "https://n.news.naver.com/article/029/0003057082",
-   "published_at": "2026-11-04T13:40:09+09:00",
-   "section_id": "100",
-   "view_rank": 2,
-   "selection": "정치",
-   "summary": "▲30대 오세훈 26.3% 장동혁 13.9% 한동훈 12.0% 김민석 11.5% 정청래 5.3% 순 ▲40대 오세훈 16.1% 김민석 12.5% 장동혁 12.4% 조국…",
-   "summary_long": "‘한동훈’은 4.4%p 내린 14.3%, ‘장동혁’ 1.0%p 내린 12.7%로 뒤를 이었다. 김민석(왼쪽 첫번째) 더불어민주당 당대표와 장동혁(왼쪽 두번째) 국민의힘 대표, 한동훈(오른쪽 첫번째) 무소속 의원이 지난 10월 27일 서울 강남구 삼성서울병원 장례식장에서 열린 고 최형우 전 내무부 장관 영결식에 참석해 자리에 앉아있다. 연령별 ▲20대 오세훈 35.8%(+15.7%p) 김민석 14.8%(+0.1%p) 한동훈 10.7%(-5.1%p) 장동혁 6.7%(-9.1%p)로 오세훈·장동혁 등락이 대조됐다.\n\n▲30대 오세훈 26.3%(+9.0%p) 장동혁 13.9%(-1.9%p) 한동훈 12.0%(-1.7%p) 김민석 11.5%(-2.2%p) 정청래 5.3%(-0.2%p) 순 ▲40대 오세훈 16.1%(+8.0%p) 김민석 12.5%(-0.7%p) 장동혁 12.4%(-1.9%p) 조국 11.6%(+0.6%… 중년층 이상의 경우 한동훈 하락·오세훈 상승, 김민석 하락과 다른 여권인사 상승이 겹쳤다. 이재명 대통령 국정평가별 ▲부정평가층(809명) 오세훈 30.9%(+12.4%p) 한동훈 21.6%(-7.2%p) 장동혁 20.0%(-2.4%p) 조국 6.1%(+0.9%p) 순 ▲긍정평가층(461명) 김민석 30.1%(-4.7%p) 송영길 15.9%(-0.1%p) 조국 11.5%(-0.2%p) 정청래…",
-   "press": "디지털타임스",
-   "photo": "02.jpg"
+   "title": "“주차 잘못했다고…관리소장이 벤츠를 X자로 긁어놔”",
+   "source": "동아일보",
+   "url": "https://n.news.naver.com/article/020/0003760273",
+   "published_at": "2026-11-05T11:33:09+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "지난 3일 온라인 커뮤니티 보배드림에는 ‘아파트 관리소장이 입주민 차량을 고의로 긁었습니다. 글 작성자는 자신의 어머니 소유 벤츠 S550 차량이 아파트 지하주차장에…",
+   "summary_long": "보배드림아파트 관리소장이 주차 문제로 갈등을 빚은 입주민의 고급 수입차를 고의로 훼손했다는 주장이 제기돼 논란이 일고 있다. 지난 3일 온라인 커뮤니티 보배드림에는 ‘아파트 관리소장이 입주민 차량을 고의로 긁었습니다. 글 작성자는 자신의 어머니 소유 벤츠 S550 차량이 아파트 지하주차장에 주차돼 있던 중 훼손됐으며, 경찰에 신고해 확인한 결과 가해자가 아파트 관리소장으로 밝혀졌다고 설명했다.\n\n작성자에 따르면 관리소장은 사건 전날 다른 입주민과 다툼을 벌였으며, 다음 날 지하주차장을 순찰하던 중 차량이 삐딱하게 주차된 것을 보고 홧김에 긁었다고 말했다. 보배드림작성자는 당시 차량이 평소보다 다소 비뚤게 주차돼 있었던 것은 사실이지만, 그렇다고 해서 관리소장이 입주민의 차량을 훼손한 행위가 정당화될 수는 없다고 지적했다. 작성자는 관리소장의 행위에 대해 재물손괴 외에 추가로 책임을 물을 수 있는지, 아파트 측에도 책임을 물을 수 있는지 등을 물었다.",
+   "press": "동아일보",
+   "photo": "03.jpg"
   },
   {
-   "title": "삼성 반도체 성과급 7억5000만원의 함정…바로 퇴사하면 얼마 받을까 [숫자 뒤의 진실]",
-   "source": "세계일보",
-   "url": "https://n.news.naver.com/article/022/0004172302",
-   "published_at": "2026-11-04T05:02:15+09:00",
-   "section_id": "101",
+   "title": "“딸 운동회 함성 시끄럽다 민원” 안재욱, 주민 신고에 작심 일침",
+   "source": "중앙일보",
+   "url": "https://n.news.naver.com/article/025/0003562990",
+   "published_at": "2026-11-05T06:29:32+09:00",
+   "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
    "prep_error": "The read operation timed out"
   },
   {
-   "title": "경기도로 간 ‘강남 사람들’… “파주·하남으로 많이 갔다”",
-   "source": "국민일보",
-   "url": "https://n.news.naver.com/article/005/0001882837",
-   "published_at": "2026-11-04T02:20:09+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "국민일보가 3일 법원 등기정보광장 소유권이전등기 데이터를 분석한 데 따르면 올해 1~9월 경기도 집합건물 전체 매수인 25만1239명 가운데 주소지가 강남3구인 사람은…",
-   "summary_long": "국민일보DB 국내 최고가지인 강남3구(강남·서초·송파) 거주자가 경기도 집을 사들인 거래가 1년 새 약 1.5배 증가한 것으로 나타났다. 국민일보가 3일 법원 등기정보광장 소유권이전등기 데이터를 분석한 데 따르면 올해 1~9월 경기도 집합건물 전체 매수인 25만1239명 가운데 주소지가 강남3구인 사람은 8784명으로 집계됐다. 강남3구 거주자가 서울 전체 경기도 집합건물 매수인에서 차지하는 비중은 24.9%로 4명 중 1명인 셈이다.\n\n서울 거주자가 많이 매수한 경기도 지역은 남양주 2645명, 하남 2331명, 고양 덕양구 2145명, 광명 1800명, 파주 1756명, 구리 1708명 순으로 많았다. 강남3구 거주자가 가장 많이 매수한 지역은 파주로, 강남3구 경기도 전체 매수인 8784명 가운데 10.6%인 928명으로 집계됐다. 경기도 거주자의 올해 1~9월 서울 집합건물 매수인은 2만2262명으로 지난해 같은 기간보다 5.8% 증가했다.",
-   "quotes": [
-    "8.13 세제개편안 이후 양도차익이 클수록 세금 부담이 늘어나기 때문에 (강남권) 고령층이 고가 주택을 처분하고 다운사이징으로 현금을 확보하려는 수요도 작용했을 것",
-    "강남권 비아파트에 거주하는 1~2인 가구가 자금 사정에 맞고 GTX 개통으로 서울 출퇴근이 가능한 파주를 고려했을 가능성이 있다"
-   ],
-   "press": "국민일보",
-   "photo": "04.jpg",
-   "quoted": {
-    "quote": "강남권 비아파트에 거주하는 1~2인 가구가 자금 사정에 맞고 GTX 개통으로 서울 출퇴근이 가능한 파주를 고려했을 가능성이 있다",
-    "n": 1,
-    "verified": 0,
-    "items": [
-     {
-      "press": "국민일보",
-      "title": "경기도로 간 ‘강남 사람들’⋯ “파주·하남으로 많이 갔다”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83THpLU2lSVFE1Q1NTQ1FGVFhfSi1rUEN3ZnZRWm84c1hGUUNlSkZwT0RaWVVyWUQtN2xMVy1PMlhJN0YxS202RFZXR3EzZmNtVS0tSkNJdmo?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "尹 선거법 2심도 징역형..국민의힘 397억 토해내나",
-   "source": "파이낸셜뉴스",
-   "url": "https://n.news.naver.com/article/014/0005599416",
-   "published_at": "2026-11-04T16:15:09+09:00",
+   "title": "유선민 중령님, 당신을 '나쁜 군인'이라 생각합니다",
+   "source": "오마이뉴스",
+   "url": "https://n.news.naver.com/article/047/0002534818",
+   "published_at": "2026-11-05T18:42:10+09:00",
    "section_id": "100",
    "view_rank": 2,
-   "comment_count": 159,
-   "comment_agree": 159,
-   "comment_disagree": 40,
-   "division_balance": 0.40201,
-   "division_score": 2.129977,
+   "comment_count": 250,
+   "comment_agree": 240,
+   "comment_disagree": 77,
+   "division_balance": 0.485804,
+   "division_score": 2.79923,
    "selection": "찬반 쟁점",
-   "summary": "대법원 확정 시 국민의힘 선거비 397억원 반환해야. 서울고등법원 형사2-1부는 4일 공직선거법 위반 혐의로 재판에 넘겨진 윤 전 대통령 항소심 선고 기일에서 피고인의…",
-   "summary_long": "서울고법, 尹 항소 기각..징역 1년6개월·집유 3년 선고. 대법원 확정 시 국민의힘 선거비 397억원 반환해야. 4일 서울 용산구 서울역 대합실에서 시민들이 윤석열 전 대통령의 공직선거법 위반 혐의 2심 선고 관련 보도를 시청하고 있다.\n\n서울고등법원 형사2-1부는 4일 공직선거법 위반 혐의로 재판에 넘겨진 윤 전 대통령 항소심 선고 기일에서 피고인의 항소를 기각하고 원심과 같은 징역 1년6개월·집행유예 3년을 선고했다. 1심 판결이 나왔을 당시 국민의힘 관계자들은 \"당사 매각까지 고려하지는 않고 있다\"며 \"최후의 수단\"이라고 설명한 바 있다. 그러면서 \"거짓말로 국민의 선택을 왜곡한 후보를 내세운 것은 국민의힘\"이라며 \"국민의힘은 즉각 국민 앞에 사죄하고, 397억 원을 당장 국민에게 반환해야 한다\"고 압박했다.",
+   "summary": "왕국의 병사는 왕의 명령이라면 무슨 일이든 하고, 당의 군대라는 공산국가의 군대에서는 당의 명령에 복종해야 하지만, 대한민국의 군대는 상관의 위로 올라가면 나오는 헌법을…",
+   "summary_long": "상관의 명령이라고 시민을 학살하거나 국회를 침탈하거나 살생부를 작성하고 싹 체포해서 어딘가로 데려가 총알을 쏘는, 그런 짓을 하면 안되는 게 민주공화국의 군대라는 겁니다. 물론 군인은 명령에 따라야 합니다. 왕국의 병사는 왕의 명령이라면 무슨 일이든 하고, 당의 군대라는 공산국가의 군대에서는 당의 명령에 복종해야 하지만, 대한민국의 군대는 상관의 위로 올라가면 나오는 헌법을 따라야 했습니다.\n\n이어 \"명령을 불이행하고 항명한 군인으로서 자격도 없는 평생 지탄받아야 할 소인배들을 특별진급이라는 개탄스러운 조치로 우리 군의 기강과 사기를 하수구 바닥까지 처박게 만든 범죄자 정권\"이라고 표현했습니다. 햄버거 가게에서 군인도 아닌 자의 호출에 장군들이 응하고, 거기서 무슨 말을 하는지 이의조차 제기하지 않았던 군대의 일원으로서 어찌 그리 당당합니까. 개인적으로 저는 내란의 핵심 가담자 윤석열이 작당했던 자들, 김용현, 노상원 등 악질 내란가담자들을 제외한다면, 당일 무슨 영문인지도 모르고 명령에 따라야 했던 이들에 대해서는 관용이 베풀어져야 한다고 생각해 왔습니다.",
    "quotes": [
-    "국민의힘은 즉각 국민 앞에 사죄하고, 397억 원을 당장 국민에게 반환해야 한다",
-    "지난 대선 때 거짓말로 국민의 선택을 농락한 선거범죄에 대한 당연한 판단",
-    "거짓말로 국민의 선택을 왜곡한 후보를 내세운 것은 국민의힘"
+    "명령을 불이행하고 항명한 군인으로서 자격도 없는 평생 지탄받아야 할 소인배들을 특별진급이라는 개탄스러운 조치로 우리 군의 기강과 사기를 하수구 바닥까지 처박게 만든 범죄자 정권",
+    "25년 후반기 장군인사에서는 12·3 비상계엄이 내란이라고 이야기한 인원을 진급시키는 군의 역사에 치부가 된 부끄러운 사실도 있었다",
+    "명령을 충실히 이행한 참군인들을 내란중요임무종사자 및 내란부화수행으로 둔갑시켜 지금까지도 무분별한 숙청을 자행"
    ],
-   "press": "파이낸셜뉴스",
+   "press": "오마이뉴스",
    "photo": "05.jpg",
    "quoted": {
-    "quote": "국민의힘은 즉각 국민 앞에 사죄하고, 397억 원을 당장 국민에게 반환해야 한다",
-    "n": 7,
-    "verified": 0,
-    "items": [
-     {
-      "press": "프레시안",
-      "title": "윤석열 선거법 2심도 당선무효형…민주당 \"국힘, 397억 반환하라\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yb2M1bWdVQ2tFRUpLWDl6cXNPc1Npa1M2LXFvZWI4OFZST25JbFJsUWEzbTM0OVRnNTZhOUN4NWE2UEwwM2lMYW82OElDN04yX3A5T2ZJSFBKb3pNYm1LTHNUOU4zUUtFUTdF?oc=5"
-     },
-     {
-      "press": "한국일보",
-      "title": "대선자금 수백억 토해낼 판… 尹 2심 당선무효형에 與도 野도 '술렁'",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zWGx0anBMZXBOTjRsLUF3TFl2aDJXekdpZkRQMXVqS01mbjhnNXduWURPVG9OeWtTaGMweGlVZ2NSeDZnSTB1ZjdWMXhJQldjSHhIalUtbVlrVzdUNGtmSkNZT3FoZmI5cThrOEhn0gFzQVVfeXFMTW5uNTk4cWVSUkg2UHVNYjVlZHdRb05jVXlwTUlKZ25IU0o5RmgyeW5vZlBpUngwZWYydWxJTURzNUlzNHlEeGptaGY0OFp1aUd2eXlNRGNHb19jMURfMHpBdXliVmhSNlVBdHVaNjJBQlVsZw?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "尹 2심도 당선무효형…與 \"397억 반납\" 野 \"李대통령 재판 재개\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91N3ZZOUt0ZmFyQ0VUQmQ3ZWRDMjNjU0JsdkdmN25LLXhNbXVEUE96dEVkS3oyX2FmQy1hWmtMZEpXa0xFRWVyMk5lSDB4YTJXMXNUaElub2pGdGV4RllWWm0wRUJueThzR0w4UVpjU3Vud9IBckFVX3lxTE91N3ZZOUt0ZmFyQ0VUQmQ3ZWRDMjNjU0JsdkdmN25LLXhNbXVEUE96dEVkS3oyX2FmQy1hWmtMZEpXa0xFRWVyMk5lSDB4YTJXMXNUaElub2pGdGV4RllWWm0wRUJueThzR0w4UVpjU3Vudw?oc=5"
-     },
-     {
-      "press": "뉴시스",
-      "title": "與, '尹 선거법 사건' 2심 유죄에 \"국민 농락한 선거범죄에 당연한 판단\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xZlB5a2c2c1I3Y0g4WTQ1X1RUVTdETjNMSms0ZTR4RklkZklrcXUzSlRFdHpSZXh5dm04UmJ2NFpTQjB2eWVLcG83TDNxcjU0eWRHa21yR0NjY09iSW5IWVVWMzRnOVBtNjhJb2tlQTNfdEthMzRrLdIBeEFVX3lxTE9xZlB5a2c2c1I3Y0g4WTQ1X1RUVTdETjNMSms0ZTR4RklkZklrcXUzSlRFdHpSZXh5dm04UmJ2NFpTQjB2eWVLcG83TDNxcjU0eWRHa21yR0NjY09iSW5IWVVWMzRnOVBtNjhJb2tlQTNfdEthMzRrLQ?oc=5"
-     },
-     {
-      "press": "더팩트",
-      "title": "윤석열 항소심도 당선무효형…與 \"국힘, 397억 반환해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nM05hQVNvUEdJNl9uVDItM1BXc0RkNGhuTnlqUFQwaEF0QVhmS0ItYlNXakUyWjlyeEpyWWdqZzd5cm9HR0ZkZms5LWZPaVdSTW000gFTQVVfeXFMT2czTmFBU29QR0k2X25UMi0zUFdzRGQ0aG5OeWpQVDBoQXRBWGZLQi1iU1dqRTJaOXJ4SnJZZ2pnN3lyb0dHRmRmazktZk9pV1JNbTQ?oc=5"
-     },
-     {
-      "press": "Chosunbiz",
-      "title": "尹 2심도 당선무효형, 與 “국힘 397억 반환해라”",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMktEcmlXdE1TWXZQWkRiX2dpY1JhRlNtLURwcWxiYXNCVzczTWJWQ21fYXFTSkY0NUFEZkhacVoyWVZjeXVNZ2E5NzVIRDF1bl9uVTNpRzRueXRyOGhUSzZJSmZETEJZOW1uelhubzJvbFlJbzk0SW40YTh1U0Ita3BDQ3lFR0kxZDlidVZLODlSOWt1aUxGZkVtcHdwaG9CdnlB0gGjAUFVX3lxTE4yS0RyaVd0TVNZdlBaRGJfZ2ljUmFGU20tRHBxbGJhc0JXNzNNYlZDbV9hcVNKRjQ1QURmSFpxWjJZVmN5dU1nYTk3NUhEMXVuX25VM2lHNG55dHI4aFRLNklKZkRMQlk5bW56WG5vMm9sWUlvOTRJbjRhOHVTQi1rcENDeUVHSTFkOWJ1Vks4OVI5a3VpTEZmRW1wd3Bob0J2eUE?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "尹 2심 유죄에 국힘 \"李는 사과했나\" vs 민주 \"397억 반환\"[영상]",
-   "source": "노컷뉴스",
-   "url": "https://n.news.naver.com/article/079/0004206544",
-   "published_at": "2026-11-04T17:28:12+09:00",
-   "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 164,
-   "comment_agree": 158,
-   "comment_disagree": 28,
-   "division_balance": 0.301075,
-   "division_score": 1.574957,
-   "selection": "찬반 쟁점",
-   "summary": "직접논평 삼가며 '李대통령 재판 재개' 촉구. 국민의힘 당사 매각이 달린 윤석열 전 대통령의 공직선거법 위반 혐의 재판이 항소심에서도 '당선 무효형'을 받자, 국민의힘은…",
-   "summary_long": "직접논평 삼가며 '李대통령 재판 재개' 촉구. 국민의힘 당사 매각이 달린 윤석열 전 대통령의 공직선거법 위반 혐의 재판이 항소심에서도 '당선 무효형'을 받자, 국민의힘은 \"아직 3심이 남았다\"며 같은 혐의로 기소된 이재명 대통령에게 화살을 돌렸다. 지난해 대선 직전 선거법 위반 사건이 대법원에서 파기환송된 이 대통령의 죄질이 더 나쁘다며, 재판 재개를 거듭 촉구했다.\n\n김 의원은 \"사실상 (이 대통령의) 유죄가 확정된 거나 다름없지만, 덕분에 민주당은 재판 중단을 핑계로 434억원을 반납하지 않고 있다\"고 짚었다. 역시 율사 출신인 5선 나경원 의원도 SNS에서 \"이 대통령과 민주당은 남의 판결에 좋다고 할 때가 아니다\"라며 \"제 코가 석자\"라고 일침을 놨다. 그는 페이스북에 사법부가 윤 전 대통령과 이 대통령의 사건에 같은 잣대를 적용해야 한다며 \"둘 다 재판을 하거나, 둘 다 재판을 중단하는 게 공평하다\"고 썼다.",
-   "quotes": [
-    "이 대통령의 선거법 위반 사건 역시 윤 전 대통령과 마찬가지로 지난 2022년 대선기간에 발생했고, 심지어 지난해 5월 대법에서 '명백한 허위'임을 근거로 파기환송됐다",
-    "(이 대통령이) 골프를 함께 친 사람을 모른다고 한 말이 허위란 판단도 대법이 내렸다. 재판을 재개할 수 있는 근거 판례도 새겨뒀다",
-    "발언의 의도나 내용으로 보건대, 이 대통령의 허위사실 발언은 윤 전 대통령의 그것에 비춰볼 때 더하면 더했지, 결코 가볍지 않다"
-   ],
-   "press": "노컷뉴스",
-   "photo": "06.jpg",
-   "quoted": {
-    "quote": "이 대통령의 선거법 위반 사건 역시 윤 전 대통령과 마찬가지로 지난 2022년 대선기간에 발생했고, 심지어 지난해 5월 대법에서 '명백한 허위'임을 근거로 파기환송됐다",
+    "quote": "명령을 불이행하고 항명한 군인으로서 자격도 없는 평생 지탄받아야 할 소인배들을 특별진급이라는 개탄스러운 조치로 우리 군의 기강과 사기를 하수구 바닥까지 처박게 만든 범죄자 정권",
     "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "www.dt.co.kr",
-      "title": "尹 2심 유죄에 여야 공방…민주 “사과하라” vs 국힘 “李 파기환송 잊었나”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MU2RDMlBpRERldUZYZm1IM2hHUXBzOV9odmYyQ1g5Y0FpbURRQzdMc2x2M2xmeE5CZ1VsV1NGWVJMalJoNmR3Z1h1Z1ZSUQ?oc=5"
+      "press": "제주환경일보",
+      "title": "유선민 중령,“평생 지탄받아야 할 소인배 특별진급..범죄자 정권”",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xOWo5Z0g3WFhTTEc0aXRYMEVkamJDY2h5TFdadFlPaFI5ZUVTRTFGZ1hpbm1OaXU1eXNFOWJNTUhyMjdVVlIxaHZlSFFscXNqX0JoYU1TZFgwQmFXUFFfX0xJWmgyWVBn?oc=5"
      },
      {
-      "press": "노컷뉴스",
-      "title": "尹 2심 유죄에 국힘 \"李는 사과했나\" vs 민주 \"397억 반환\"[영상]",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Tb2RIOHhaRjJjbkRENmJ6blIwMEowN0ZIZlBNZmZhaW5ZcF9fSVowODdObER3X3h5VkFNdkZVYlFLNFpURTZ2M2JGemlkVkZkRUE?oc=5"
+      "press": "매일신문",
+      "title": "이진숙, 유선민 중령 ``내란`이라 말하면 진급, 군 역사에 치부` 기자회견 공유",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5RzNnb1BoWEkwLXJDaE9PU3kzdTIwWXhrNUlpOHZfcDBwOURQWlBkWGQ4Z0NNTlpqMHM5TGVfVkV0VklaOUREUVBUQWZRcVVwRURSOXpURjBQNnhqU3RkQnJR?oc=5"
      },
      {
-      "press": "데일리안",
-      "title": "국민의힘, 尹 2심 '유죄'에 \"최종 판결 아냐…李 선거법 재판부터 재개해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydkxoYzdZRXZkdU9CaS1NVFBldy05SlY4SUd1SHY3VFdlVXZQUGJFN2psRFlTeFNwU01HYjhidHZ0T2FETjIxeDM0OWFpNS1fOXdWYg?oc=5"
+      "press": "세상을 바꾸는 시민언론 민들레",
+      "title": "이진숙이 세운 '참군인'…'여론조사꽃' 점거 지휘관 |",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kaTlmMGE1eUQwRVN5c0JOZkhCbkVyZkc2OG9KcGVwVXU2cUhqOW1IZDBiQWtEcTF3ZEt3cFI4X0NGaFAyMTdqN2VzM3ZDODJkZkM0YVpzWkM3RkkxM29fU25QUmF2U2lhQ0VRVTdIWVo?oc=5"
      }
     ]
    }
   },
   {
-   "title": "차기 대선 오세훈 약진, 8.4%p 오른 20.4%…한동훈 14.3%, 장동혁 12.7%",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000519044",
-   "published_at": "2026-11-04T10:56:38+09:00",
+   "title": "\"대통령의 소통 행보 응원\" vs \"입 좀 다물라\"",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002428883",
+   "published_at": "2026-11-05T18:35:47+09:00",
    "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 370,
-   "comment_agree": 155,
-   "comment_disagree": 26,
-   "division_balance": 0.287293,
-   "division_score": 1.495074,
+   "view_rank": 1,
+   "comment_count": 369,
+   "comment_agree": 252,
+   "comment_disagree": 39,
+   "division_balance": 0.268041,
+   "division_score": 1.521604,
+   "selection": "찬반 쟁점",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "“한동훈 복당, 대승적으로 추진해야”…지도부에 결단 촉구한 김태호",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005759392",
+   "published_at": "2026-11-05T11:23:07+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 172,
+   "comment_agree": 200,
+   "comment_disagree": 32,
+   "division_balance": 0.275862,
+   "division_score": 1.503735,
    "selection": "찬반 쟁점",
    "prep_error": "The read operation timed out"
   }
@@ -230,139 +164,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/01.png",
-   "pngBytes": 1846680,
-   "feed": "오늘의 뉴스 2026-11-05\n\n· 김민석 '눈물 사과'에…한동훈 \"울지 말고 법적 책임져야\"\n· 오세훈 12.0→20.4%, 한동훈 18.7→14.3% 보수 선두교체…중도무당층 韓 비교우위\n· 삼성 반도체 성과급 7억5000만원의 함정…바로 퇴사하면 얼마 받을까 [숫자 뒤의 진실]\n· 경기도로 간 ‘강남 사람들’… “파주·하남으로 많이 갔다”\n· 尹 선거법 2심도 징역형..국민의힘 397억 토해내나\n· 尹 2심 유죄에 국힘 \"李는 사과했나\" vs 민주 \"397억 반환\"[영상]\n· 차기 대선 오세훈 약진, 8.4%p 오른 20.4%…한동훈 14.3%, 장동혁 12.7%"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/01.png",
+   "pngBytes": 1686108,
+   "feed": "오늘의 뉴스 2026-11-06\n\n· \"연평도 위문열차 보내달라\"‥해병대원 요청에 15년 만에 공연 재개\n· ‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과\n· “주차 잘못했다고…관리소장이 벤츠를 X자로 긁어놔”\n· “딸 운동회 함성 시끄럽다 민원” 안재욱, 주민 신고에 작심 일침\n· 유선민 중령님, 당신을 '나쁜 군인'이라 생각합니다\n· \"대통령의 소통 행보 응원\" vs \"입 좀 다물라\"\n· “한동훈 복당, 대승적으로 추진해야”…지도부에 결단 촉구한 김태호"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/02.png",
-   "pngBytes": 1854227,
-   "title": "김민석 '눈물 사과'에…한동훈 \"울지 말고 법적 책임져야\"",
-   "summary": "김민석 더불어민주당 대표가 지난 8·17 전당대회 과정에서 불거진 '신천지 연대설'과 관련해 의혹을 뒷받침할 근거를 확인하지 못했다며 사과하자, 한동훈 무소속 의원이…",
-   "summary_long": "김민석 더불어민주당 대표가 지난 8·17 전당대회 과정에서 불거진 '신천지 연대설'과 관련해 의혹을 뒷받침할 근거를 확인하지 못했다며 사과하자, 한동훈 무소속 의원이 법적 책임을 져야 한다고 압박했다. 한 의원은 3일 자신의 사회관계망서비스(SNS)를 통해 이재명 대통령의 허위사실 유포 대응 지시를 언급하며 김 대표를 정면으로 비판했다. 그는 \"오늘 이재명 대통령이 허위사실 유포에 강력 대응하라고 국무회의에서 중수청, 공소청, 경찰 등에 주문했다\"며 \"오늘 김민석 민주당 대표가 공개적으로 신천지 관련 허위 사실을 유포했다고 사실상 인정하고 눈물까지 흘렸다고 한다\"고 밝혔다.\n\n이어 \"김민석 민주당 대표, 허위사실 유포는 울 일이 아니고 법적 책임을 져야 할 일\"이라며 \"그런데 진짜 진실은 뭔가, 왜 운 것인가\"라고 반문했다. 한 의원의 이 같은 발언은 김 대표가 이날 국회에서 열린 비공개 의원총회에서 신천지 당원 가입 의혹과 관련해 사과한 직후 나왔다. 전당대회 당시 의혹의 당사자로 지목됐던 정청래 전 대표는 의총을 마친 뒤 기자들과 만나 \"상처받은 당원들에게 비공개 의총에서 숨어서 죄송하다고 할 게 아니라 당원에게 공개 사과하라\"고 요구했다.",
-   "press": "매일신문",
-   "source": "매일신문",
-   "link": "https://n.news.naver.com/article/088/0001038222",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/02.png",
+   "pngBytes": 1691746,
+   "title": "\"연평도 위문열차 보내달라\"‥해병대원 요청에 15년 만에 공연 재개",
+   "summary": "해병대 연평부대에서 15년 만에 'KFN TV 위문열차' 공연이 열렸습니다. 지난 6월 이재명 대통령이 연평부대를 방문했을 당시, 전역을 앞둔 해병대원이 위문열차 공연을…",
+   "summary_long": "해병대 연평부대에서 15년 만에 'KFN TV 위문열차' 공연이 열렸습니다. 어제 연평종합운동장에서 열린 이번 공연에는 군 장병에게 인지도가 높은 김장훈, 소유미 등 가수들이 출연했고, 지역주민을 포함한 1천여 명이 관람했습니다. 지난 6월 이재명 대통령이 연평부대를 방문했을 당시, 전역을 앞둔 해병대원이 위문열차 공연을 요청했고, 이 대통령이 가능 여부를 검토하라고 지시하면서 이번 공연이 성사됐습니다.\n\n위문열차는 전국 각지의 군부대 장병을 찾아가는 공연 프로그램으로, 1962년 시작돼 현재까지 3천 회 넘게 진행됐습니다. 베트남전 당시에도 최전선에서 특별 위문 공연을 펼치기도 했는데, 도서·격오지 부대 방문이 쉽지 않아 연평도 공연은 2011년, 백령도 공연은 2017년이 마지막이었습니다.",
+   "press": "MBC",
+   "source": "MBC",
+   "link": "https://n.news.naver.com/article/214/0001533660",
    "selection": "정치",
-   "feed": "뉴스 01. 김민석 '눈물 사과'에…한동훈 \"울지 말고 법적 책임져야\"\n\n김민석 더불어민주당 대표가 지난 8·17 전당대회 과정에서 불거진 '신천지 연대설'과 관련해 의혹을 뒷받침할 근거를 확인하지 못했다며 사과하자, 한동훈 무소속 의원이 법적 책임을 져야 한다고 압박했다. 한 의원은 3일 자신의 사회관계망서비스(SNS)를 통해 이재명 대통령의 허위사실 유포 대응 지시를 언급하며 김 대표를 정면으로 비판했다. 그는 \"오늘 이재명 대통령이 허위사실 유포에 강력 대응하라고 국무회의에서 중수청, 공소청, 경찰 등에 주문했다\"며 \"오늘 김민석 민주당 대표가 공개적으로 신천지 관련 허위 사실을 유포했다고 사실상 인정하고 눈물까지 흘렸다고 한다\"고 밝혔다.\n\n이어 \"김민석 민주당 대표, 허위사실 유포는 울 일이 아니고 법적 책임을 져야 할 일\"이라며 \"그런데 진짜 진실은 뭔가, 왜 운 것인가\"라고 반문했다. 한 의원의 이 같은 발언은 김 대표가 이날 국회에서 열린 비공개 의원총회에서 신천지 당원 가입 의혹과 관련해 사과한 직후 나왔다. 전당대회 당시 의혹의 당사자로 지목됐던 정청래 전 대표는 의총을 마친 뒤 기자들과 만나 \"상처받은 당원들에게 비공개 의총에서 숨어서 죄송하다고 할 게 아니라 당원에게 공개 사과하라\"고 요구했다.\n\n출처: 매일신문 / https://n.news.naver.com/article/088/0001038222"
+   "feed": "뉴스 01. \"연평도 위문열차 보내달라\"‥해병대원 요청에 15년 만에 공연 재개\n\n해병대 연평부대에서 15년 만에 'KFN TV 위문열차' 공연이 열렸습니다. 어제 연평종합운동장에서 열린 이번 공연에는 군 장병에게 인지도가 높은 김장훈, 소유미 등 가수들이 출연했고, 지역주민을 포함한 1천여 명이 관람했습니다. 지난 6월 이재명 대통령이 연평부대를 방문했을 당시, 전역을 앞둔 해병대원이 위문열차 공연을 요청했고, 이 대통령이 가능 여부를 검토하라고 지시하면서 이번 공연이 성사됐습니다.\n\n위문열차는 전국 각지의 군부대 장병을 찾아가는 공연 프로그램으로, 1962년 시작돼 현재까지 3천 회 넘게 진행됐습니다. 베트남전 당시에도 최전선에서 특별 위문 공연을 펼치기도 했는데, 도서·격오지 부대 방문이 쉽지 않아 연평도 공연은 2011년, 백령도 공연은 2017년이 마지막이었습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001533660"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/03.png",
-   "pngBytes": 1645722,
-   "title": "오세훈 12.0→20.4%, 한동훈 18.7→14.3% 보수 선두교체…중도무당층 韓 비교우위",
-   "summary": "▲30대 오세훈 26.3% 장동혁 13.9% 한동훈 12.0% 김민석 11.5% 정청래 5.3% 순 ▲40대 오세훈 16.1% 김민석 12.5% 장동혁 12.4% 조국…",
-   "summary_long": "‘한동훈’은 4.4%p 내린 14.3%, ‘장동혁’ 1.0%p 내린 12.7%로 뒤를 이었다. 김민석(왼쪽 첫번째) 더불어민주당 당대표와 장동혁(왼쪽 두번째) 국민의힘 대표, 한동훈(오른쪽 첫번째) 무소속 의원이 지난 10월 27일 서울 강남구 삼성서울병원 장례식장에서 열린 고 최형우 전 내무부 장관 영결식에 참석해 자리에 앉아있다. 연령별 ▲20대 오세훈 35.8%(+15.7%p) 김민석 14.8%(+0.1%p) 한동훈 10.7%(-5.1%p) 장동혁 6.7%(-9.1%p)로 오세훈·장동혁 등락이 대조됐다.\n\n▲30대 오세훈 26.3%(+9.0%p) 장동혁 13.9%(-1.9%p) 한동훈 12.0%(-1.7%p) 김민석 11.5%(-2.2%p) 정청래 5.3%(-0.2%p) 순 ▲40대 오세훈 16.1%(+8.0%p) 김민석 12.5%(-0.7%p) 장동혁 12.4%(-1.9%p) 조국 11.6%(+0.6%… 중년층 이상의 경우 한동훈 하락·오세훈 상승, 김민석 하락과 다른 여권인사 상승이 겹쳤다. 이재명 대통령 국정평가별 ▲부정평가층(809명) 오세훈 30.9%(+12.4%p) 한동훈 21.6%(-7.2%p) 장동혁 20.0%(-2.4%p) 조국 6.1%(+0.9%p) 순 ▲긍정평가층(461명) 김민석 30.1%(-4.7%p) 송영길 15.9%(-0.1%p) 조국 11.5%(-0.2%p) 정청래…",
-   "press": "디지털타임스",
-   "source": "디지털타임스",
-   "link": "https://n.news.naver.com/article/029/0003057082",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/03.png",
+   "pngBytes": 1912133,
+   "title": "‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과",
+   "summary": "한 유튜브 방송에서 '전두환·윤석열은 내란이 아니'라고 한 국민의힘 김태규 의원에 대한 제명 촉구 결의안이 범여권 주도로 오늘 국회 본회의를 통과했습니다. 결의안을 대표…",
+   "summary_long": "한 유튜브 방송에서 '전두환·윤석열은 내란이 아니'라고 한 국민의힘 김태규 의원에 대한 제명 촉구 결의안이 범여권 주도로 오늘(5일) 국회 본회의를 통과했습니다. 김 의원에 대한 제명 촉구 결의안은 재석 167명 가운데 찬성 166명, 무효 1명으로 가결됐습니다. 다만, 제명 촉구 결의안은 제명을 요구하는 정치적 의미를 담은 결의문으로, 실제 법적 강제성은 없습니다.\n\n결의안을 대표 발의한 더불어민주당 천준호 의원은 \"김 의원은 12.3 비상계엄은 물론, 전두환 신군부도 내란이 아니라며 윤석열과 전두환의 내란을 전면 부정했다\"며 \"역사적 재평가라는 미명 하에 3심을 거쳐 확정된 전두환 내란수괴 대법원 판결까지 부정하며 법치주의를 훼손하고 반헌법적 망언을 한 것\"이라고… 천 의원은 \"대한민국 헌정사와 민주주의의 발전을 위해 희생된 5.18 민주화운동 희생자 및 유가족을 모욕하고 2차 가해를 가한 반역사적 행위\"라며 \"나아가 국민과 대한민국 역사에 대한 조롱이며 역사적 진실과 사법부의 판단을 부정하고 궤변을 유포하여 국론분열을 획책한 것\"이라고도 말했습니다. 결의안 상정에 반대한 국민의힘은 투표에 참여하지 않았습니다.",
+   "press": "KBS",
+   "source": "KBS",
+   "link": "https://n.news.naver.com/article/056/0012287992",
    "selection": "정치",
-   "feed": "뉴스 02. 오세훈 12.0→20.4%, 한동훈 18.7→14.3% 보수 선두교체…중도무당층 韓 비교우위\n\n‘한동훈’은 4.4%p 내린 14.3%, ‘장동혁’ 1.0%p 내린 12.7%로 뒤를 이었다. 김민석(왼쪽 첫번째) 더불어민주당 당대표와 장동혁(왼쪽 두번째) 국민의힘 대표, 한동훈(오른쪽 첫번째) 무소속 의원이 지난 10월 27일 서울 강남구 삼성서울병원 장례식장에서 열린 고 최형우 전 내무부 장관 영결식에 참석해 자리에 앉아있다. 연령별 ▲20대 오세훈 35.8%(+15.7%p) 김민석 14.8%(+0.1%p) 한동훈 10.7%(-5.1%p) 장동혁 6.7%(-9.1%p)로 오세훈·장동혁 등락이 대조됐다.\n\n▲30대 오세훈 26.3%(+9.0%p) 장동혁 13.9%(-1.9%p) 한동훈 12.0%(-1.7%p) 김민석 11.5%(-2.2%p) 정청래 5.3%(-0.2%p) 순 ▲40대 오세훈 16.1%(+8.0%p) 김민석 12.5%(-0.7%p) 장동혁 12.4%(-1.9%p) 조국 11.6%(+0.6%… 중년층 이상의 경우 한동훈 하락·오세훈 상승, 김민석 하락과 다른 여권인사 상승이 겹쳤다. 이재명 대통령 국정평가별 ▲부정평가층(809명) 오세훈 30.9%(+12.4%p) 한동훈 21.6%(-7.2%p) 장동혁 20.0%(-2.4%p) 조국 6.1%(+0.9%p) 순 ▲긍정평가층(461명) 김민석 30.1%(-4.7%p) 송영길 15.9%(-0.1%p) 조국 11.5%(-0.2%p) 정청래…\n\n출처: 디지털타임스 / https://n.news.naver.com/article/029/0003057082"
+   "feed": "뉴스 02. ‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과\n\n한 유튜브 방송에서 '전두환·윤석열은 내란이 아니'라고 한 국민의힘 김태규 의원에 대한 제명 촉구 결의안이 범여권 주도로 오늘(5일) 국회 본회의를 통과했습니다. 김 의원에 대한 제명 촉구 결의안은 재석 167명 가운데 찬성 166명, 무효 1명으로 가결됐습니다. 다만, 제명 촉구 결의안은 제명을 요구하는 정치적 의미를 담은 결의문으로, 실제 법적 강제성은 없습니다.\n\n결의안을 대표 발의한 더불어민주당 천준호 의원은 \"김 의원은 12.3 비상계엄은 물론, 전두환 신군부도 내란이 아니라며 윤석열과 전두환의 내란을 전면 부정했다\"며 \"역사적 재평가라는 미명 하에 3심을 거쳐 확정된 전두환 내란수괴 대법원 판결까지 부정하며 법치주의를 훼손하고 반헌법적 망언을 한 것\"이라고… 천 의원은 \"대한민국 헌정사와 민주주의의 발전을 위해 희생된 5.18 민주화운동 희생자 및 유가족을 모욕하고 2차 가해를 가한 반역사적 행위\"라며 \"나아가 국민과 대한민국 역사에 대한 조롱이며 역사적 진실과 사법부의 판단을 부정하고 궤변을 유포하여 국론분열을 획책한 것\"이라고도 말했습니다. 결의안 상정에 반대한 국민의힘은 투표에 참여하지 않았습니다.\n\n출처: KBS / https://n.news.naver.com/article/056/0012287992"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/04.png",
-   "pngBytes": 613631,
-   "title": "삼성 반도체 성과급 7억5000만원의 함정…바로 퇴사하면 얼마 받을까 [숫자 뒤의 진실]",
-   "summary": "",
-   "summary_long": "",
-   "press": "세계일보",
-   "source": "세계일보",
-   "link": "https://n.news.naver.com/article/022/0004172302",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/04.png",
+   "pngBytes": 1709187,
+   "title": "“주차 잘못했다고…관리소장이 벤츠를 X자로 긁어놔”",
+   "summary": "지난 3일 온라인 커뮤니티 보배드림에는 ‘아파트 관리소장이 입주민 차량을 고의로 긁었습니다. 글 작성자는 자신의 어머니 소유 벤츠 S550 차량이 아파트 지하주차장에…",
+   "summary_long": "보배드림아파트 관리소장이 주차 문제로 갈등을 빚은 입주민의 고급 수입차를 고의로 훼손했다는 주장이 제기돼 논란이 일고 있다. 지난 3일 온라인 커뮤니티 보배드림에는 ‘아파트 관리소장이 입주민 차량을 고의로 긁었습니다. 글 작성자는 자신의 어머니 소유 벤츠 S550 차량이 아파트 지하주차장에 주차돼 있던 중 훼손됐으며, 경찰에 신고해 확인한 결과 가해자가 아파트 관리소장으로 밝혀졌다고 설명했다.\n\n작성자에 따르면 관리소장은 사건 전날 다른 입주민과 다툼을 벌였으며, 다음 날 지하주차장을 순찰하던 중 차량이 삐딱하게 주차된 것을 보고 홧김에 긁었다고 말했다. 보배드림작성자는 당시 차량이 평소보다 다소 비뚤게 주차돼 있었던 것은 사실이지만, 그렇다고 해서 관리소장이 입주민의 차량을 훼손한 행위가 정당화될 수는 없다고 지적했다. 작성자는 관리소장의 행위에 대해 재물손괴 외에 추가로 책임을 물을 수 있는지, 아파트 측에도 책임을 물을 수 있는지 등을 물었다.",
+   "press": "동아일보",
+   "source": "동아일보",
+   "link": "https://n.news.naver.com/article/020/0003760273",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 삼성 반도체 성과급 7억5000만원의 함정…바로 퇴사하면 얼마 받을까 [숫자 뒤의 진실]\n\n\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004172302"
+   "feed": "뉴스 03. “주차 잘못했다고…관리소장이 벤츠를 X자로 긁어놔”\n\n보배드림아파트 관리소장이 주차 문제로 갈등을 빚은 입주민의 고급 수입차를 고의로 훼손했다는 주장이 제기돼 논란이 일고 있다. 지난 3일 온라인 커뮤니티 보배드림에는 ‘아파트 관리소장이 입주민 차량을 고의로 긁었습니다. 글 작성자는 자신의 어머니 소유 벤츠 S550 차량이 아파트 지하주차장에 주차돼 있던 중 훼손됐으며, 경찰에 신고해 확인한 결과 가해자가 아파트 관리소장으로 밝혀졌다고 설명했다.\n\n작성자에 따르면 관리소장은 사건 전날 다른 입주민과 다툼을 벌였으며, 다음 날 지하주차장을 순찰하던 중 차량이 삐딱하게 주차된 것을 보고 홧김에 긁었다고 말했다. 보배드림작성자는 당시 차량이 평소보다 다소 비뚤게 주차돼 있었던 것은 사실이지만, 그렇다고 해서 관리소장이 입주민의 차량을 훼손한 행위가 정당화될 수는 없다고 지적했다. 작성자는 관리소장의 행위에 대해 재물손괴 외에 추가로 책임을 물을 수 있는지, 아파트 측에도 책임을 물을 수 있는지 등을 물었다.\n\n출처: 동아일보 / https://n.news.naver.com/article/020/0003760273"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/05.png",
-   "pngBytes": 1747544,
-   "title": "경기도로 간 ‘강남 사람들’… “파주·하남으로 많이 갔다”",
-   "summary": "국민일보가 3일 법원 등기정보광장 소유권이전등기 데이터를 분석한 데 따르면 올해 1~9월 경기도 집합건물 전체 매수인 25만1239명 가운데 주소지가 강남3구인 사람은…",
-   "summary_long": "국민일보DB 국내 최고가지인 강남3구(강남·서초·송파) 거주자가 경기도 집을 사들인 거래가 1년 새 약 1.5배 증가한 것으로 나타났다. 국민일보가 3일 법원 등기정보광장 소유권이전등기 데이터를 분석한 데 따르면 올해 1~9월 경기도 집합건물 전체 매수인 25만1239명 가운데 주소지가 강남3구인 사람은 8784명으로 집계됐다. 강남3구 거주자가 서울 전체 경기도 집합건물 매수인에서 차지하는 비중은 24.9%로 4명 중 1명인 셈이다.\n\n서울 거주자가 많이 매수한 경기도 지역은 남양주 2645명, 하남 2331명, 고양 덕양구 2145명, 광명 1800명, 파주 1756명, 구리 1708명 순으로 많았다. 강남3구 거주자가 가장 많이 매수한 지역은 파주로, 강남3구 경기도 전체 매수인 8784명 가운데 10.6%인 928명으로 집계됐다. 경기도 거주자의 올해 1~9월 서울 집합건물 매수인은 2만2262명으로 지난해 같은 기간보다 5.8% 증가했다.",
-   "press": "국민일보",
-   "source": "국민일보",
-   "link": "https://n.news.naver.com/article/005/0001882837",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/05.png",
+   "pngBytes": 579926,
+   "title": "“딸 운동회 함성 시끄럽다 민원” 안재욱, 주민 신고에 작심 일침",
+   "summary": "",
+   "summary_long": "",
+   "press": "중앙일보",
+   "source": "중앙일보",
+   "link": "https://n.news.naver.com/article/025/0003562990",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 경기도로 간 ‘강남 사람들’… “파주·하남으로 많이 갔다”\n\n국민일보DB 국내 최고가지인 강남3구(강남·서초·송파) 거주자가 경기도 집을 사들인 거래가 1년 새 약 1.5배 증가한 것으로 나타났다. 국민일보가 3일 법원 등기정보광장 소유권이전등기 데이터를 분석한 데 따르면 올해 1~9월 경기도 집합건물 전체 매수인 25만1239명 가운데 주소지가 강남3구인 사람은 8784명으로 집계됐다. 강남3구 거주자가 서울 전체 경기도 집합건물 매수인에서 차지하는 비중은 24.9%로 4명 중 1명인 셈이다.\n\n서울 거주자가 많이 매수한 경기도 지역은 남양주 2645명, 하남 2331명, 고양 덕양구 2145명, 광명 1800명, 파주 1756명, 구리 1708명 순으로 많았다. 강남3구 거주자가 가장 많이 매수한 지역은 파주로, 강남3구 경기도 전체 매수인 8784명 가운데 10.6%인 928명으로 집계됐다. 경기도 거주자의 올해 1~9월 서울 집합건물 매수인은 2만2262명으로 지난해 같은 기간보다 5.8% 증가했다.\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001882837"
+   "feed": "뉴스 04. “딸 운동회 함성 시끄럽다 민원” 안재욱, 주민 신고에 작심 일침\n\n\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003562990"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/06.png",
-   "pngBytes": 1925751,
-   "title": "尹 선거법 2심도 징역형..국민의힘 397억 토해내나",
-   "summary": "대법원 확정 시 국민의힘 선거비 397억원 반환해야. 서울고등법원 형사2-1부는 4일 공직선거법 위반 혐의로 재판에 넘겨진 윤 전 대통령 항소심 선고 기일에서 피고인의…",
-   "summary_long": "서울고법, 尹 항소 기각..징역 1년6개월·집유 3년 선고. 대법원 확정 시 국민의힘 선거비 397억원 반환해야. 4일 서울 용산구 서울역 대합실에서 시민들이 윤석열 전 대통령의 공직선거법 위반 혐의 2심 선고 관련 보도를 시청하고 있다.\n\n서울고등법원 형사2-1부는 4일 공직선거법 위반 혐의로 재판에 넘겨진 윤 전 대통령 항소심 선고 기일에서 피고인의 항소를 기각하고 원심과 같은 징역 1년6개월·집행유예 3년을 선고했다. 1심 판결이 나왔을 당시 국민의힘 관계자들은 \"당사 매각까지 고려하지는 않고 있다\"며 \"최후의 수단\"이라고 설명한 바 있다. 그러면서 \"거짓말로 국민의 선택을 왜곡한 후보를 내세운 것은 국민의힘\"이라며 \"국민의힘은 즉각 국민 앞에 사죄하고, 397억 원을 당장 국민에게 반환해야 한다\"고 압박했다.",
-   "press": "파이낸셜뉴스",
-   "source": "파이낸셜뉴스",
-   "link": "https://n.news.naver.com/article/014/0005599416",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/06.png",
+   "pngBytes": 1731906,
+   "title": "유선민 중령님, 당신을 '나쁜 군인'이라 생각합니다",
+   "summary": "왕국의 병사는 왕의 명령이라면 무슨 일이든 하고, 당의 군대라는 공산국가의 군대에서는 당의 명령에 복종해야 하지만, 대한민국의 군대는 상관의 위로 올라가면 나오는 헌법을…",
+   "summary_long": "상관의 명령이라고 시민을 학살하거나 국회를 침탈하거나 살생부를 작성하고 싹 체포해서 어딘가로 데려가 총알을 쏘는, 그런 짓을 하면 안되는 게 민주공화국의 군대라는 겁니다. 물론 군인은 명령에 따라야 합니다. 왕국의 병사는 왕의 명령이라면 무슨 일이든 하고, 당의 군대라는 공산국가의 군대에서는 당의 명령에 복종해야 하지만, 대한민국의 군대는 상관의 위로 올라가면 나오는 헌법을 따라야 했습니다.\n\n이어 \"명령을 불이행하고 항명한 군인으로서 자격도 없는 평생 지탄받아야 할 소인배들을 특별진급이라는 개탄스러운 조치로 우리 군의 기강과 사기를 하수구 바닥까지 처박게 만든 범죄자 정권\"이라고 표현했습니다. 햄버거 가게에서 군인도 아닌 자의 호출에 장군들이 응하고, 거기서 무슨 말을 하는지 이의조차 제기하지 않았던 군대의 일원으로서 어찌 그리 당당합니까. 개인적으로 저는 내란의 핵심 가담자 윤석열이 작당했던 자들, 김용현, 노상원 등 악질 내란가담자들을 제외한다면, 당일 무슨 영문인지도 모르고 명령에 따라야 했던 이들에 대해서는 관용이 베풀어져야 한다고 생각해 왔습니다.",
+   "press": "오마이뉴스",
+   "source": "오마이뉴스",
+   "link": "https://n.news.naver.com/article/047/0002534818",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 尹 선거법 2심도 징역형..국민의힘 397억 토해내나\n\n서울고법, 尹 항소 기각..징역 1년6개월·집유 3년 선고. 대법원 확정 시 국민의힘 선거비 397억원 반환해야. 4일 서울 용산구 서울역 대합실에서 시민들이 윤석열 전 대통령의 공직선거법 위반 혐의 2심 선고 관련 보도를 시청하고 있다.\n\n서울고등법원 형사2-1부는 4일 공직선거법 위반 혐의로 재판에 넘겨진 윤 전 대통령 항소심 선고 기일에서 피고인의 항소를 기각하고 원심과 같은 징역 1년6개월·집행유예 3년을 선고했다. 1심 판결이 나왔을 당시 국민의힘 관계자들은 \"당사 매각까지 고려하지는 않고 있다\"며 \"최후의 수단\"이라고 설명한 바 있다. 그러면서 \"거짓말로 국민의 선택을 왜곡한 후보를 내세운 것은 국민의힘\"이라며 \"국민의힘은 즉각 국민 앞에 사죄하고, 397억 원을 당장 국민에게 반환해야 한다\"고 압박했다.\n\n출처: 파이낸셜뉴스 / https://n.news.naver.com/article/014/0005599416"
+   "feed": "뉴스 05. 유선민 중령님, 당신을 '나쁜 군인'이라 생각합니다\n\n상관의 명령이라고 시민을 학살하거나 국회를 침탈하거나 살생부를 작성하고 싹 체포해서 어딘가로 데려가 총알을 쏘는, 그런 짓을 하면 안되는 게 민주공화국의 군대라는 겁니다. 물론 군인은 명령에 따라야 합니다. 왕국의 병사는 왕의 명령이라면 무슨 일이든 하고, 당의 군대라는 공산국가의 군대에서는 당의 명령에 복종해야 하지만, 대한민국의 군대는 상관의 위로 올라가면 나오는 헌법을 따라야 했습니다.\n\n이어 \"명령을 불이행하고 항명한 군인으로서 자격도 없는 평생 지탄받아야 할 소인배들을 특별진급이라는 개탄스러운 조치로 우리 군의 기강과 사기를 하수구 바닥까지 처박게 만든 범죄자 정권\"이라고 표현했습니다. 햄버거 가게에서 군인도 아닌 자의 호출에 장군들이 응하고, 거기서 무슨 말을 하는지 이의조차 제기하지 않았던 군대의 일원으로서 어찌 그리 당당합니까. 개인적으로 저는 내란의 핵심 가담자 윤석열이 작당했던 자들, 김용현, 노상원 등 악질 내란가담자들을 제외한다면, 당일 무슨 영문인지도 모르고 명령에 따라야 했던 이들에 대해서는 관용이 베풀어져야 한다고 생각해 왔습니다.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002534818"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/07.png",
-   "pngBytes": 1788905,
-   "title": "尹 2심 유죄에 국힘 \"李는 사과했나\" vs 민주 \"397억 반환\"[영상]",
-   "summary": "직접논평 삼가며 '李대통령 재판 재개' 촉구. 국민의힘 당사 매각이 달린 윤석열 전 대통령의 공직선거법 위반 혐의 재판이 항소심에서도 '당선 무효형'을 받자, 국민의힘은…",
-   "summary_long": "직접논평 삼가며 '李대통령 재판 재개' 촉구. 국민의힘 당사 매각이 달린 윤석열 전 대통령의 공직선거법 위반 혐의 재판이 항소심에서도 '당선 무효형'을 받자, 국민의힘은 \"아직 3심이 남았다\"며 같은 혐의로 기소된 이재명 대통령에게 화살을 돌렸다. 지난해 대선 직전 선거법 위반 사건이 대법원에서 파기환송된 이 대통령의 죄질이 더 나쁘다며, 재판 재개를 거듭 촉구했다.\n\n김 의원은 \"사실상 (이 대통령의) 유죄가 확정된 거나 다름없지만, 덕분에 민주당은 재판 중단을 핑계로 434억원을 반납하지 않고 있다\"고 짚었다. 역시 율사 출신인 5선 나경원 의원도 SNS에서 \"이 대통령과 민주당은 남의 판결에 좋다고 할 때가 아니다\"라며 \"제 코가 석자\"라고 일침을 놨다. 그는 페이스북에 사법부가 윤 전 대통령과 이 대통령의 사건에 같은 잣대를 적용해야 한다며 \"둘 다 재판을 하거나, 둘 다 재판을 중단하는 게 공평하다\"고 썼다.",
-   "press": "노컷뉴스",
-   "source": "노컷뉴스",
-   "link": "https://n.news.naver.com/article/079/0004206544",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/07.png",
+   "pngBytes": 554438,
+   "title": "\"대통령의 소통 행보 응원\" vs \"입 좀 다물라\"",
+   "summary": "",
+   "summary_long": "",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002428883",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 尹 2심 유죄에 국힘 \"李는 사과했나\" vs 민주 \"397억 반환\"[영상]\n\n직접논평 삼가며 '李대통령 재판 재개' 촉구. 국민의힘 당사 매각이 달린 윤석열 전 대통령의 공직선거법 위반 혐의 재판이 항소심에서도 '당선 무효형'을 받자, 국민의힘은 \"아직 3심이 남았다\"며 같은 혐의로 기소된 이재명 대통령에게 화살을 돌렸다. 지난해 대선 직전 선거법 위반 사건이 대법원에서 파기환송된 이 대통령의 죄질이 더 나쁘다며, 재판 재개를 거듭 촉구했다.\n\n김 의원은 \"사실상 (이 대통령의) 유죄가 확정된 거나 다름없지만, 덕분에 민주당은 재판 중단을 핑계로 434억원을 반납하지 않고 있다\"고 짚었다. 역시 율사 출신인 5선 나경원 의원도 SNS에서 \"이 대통령과 민주당은 남의 판결에 좋다고 할 때가 아니다\"라며 \"제 코가 석자\"라고 일침을 놨다. 그는 페이스북에 사법부가 윤 전 대통령과 이 대통령의 사건에 같은 잣대를 적용해야 한다며 \"둘 다 재판을 하거나, 둘 다 재판을 중단하는 게 공평하다\"고 썼다.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004206544"
+   "feed": "뉴스 06. \"대통령의 소통 행보 응원\" vs \"입 좀 다물라\"\n\n\n\n출처: YTN / https://n.news.naver.com/article/052/0002428883"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/08.png",
-   "pngBytes": 609565,
-   "title": "차기 대선 오세훈 약진, 8.4%p 오른 20.4%…한동훈 14.3%, 장동혁 12.7%",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/08.png",
+   "pngBytes": 586406,
+   "title": "“한동훈 복당, 대승적으로 추진해야”…지도부에 결단 촉구한 김태호",
    "summary": "",
    "summary_long": "",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000519044",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005759392",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 차기 대선 오세훈 약진, 8.4%p 오른 20.4%…한동훈 14.3%, 장동혁 12.7%\n\n\n\n출처: JTBC / https://n.news.naver.com/article/437/0000519044"
+   "feed": "뉴스 07. “한동훈 복당, 대승적으로 추진해야”…지도부에 결단 촉구한 김태호\n\n\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005759392"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-05/09.png",
-   "pngBytes": 1346420
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/09.png",
+   "pngBytes": 1345910
   }
  ],
- "caption": "📰 11월 5일 오늘의 뉴스\n\n1. 김민석 '눈물 사과'에…한동훈 \"울지 말고 법적 책임져야\"\n   김민석 더불어민주당 대표가 지난 8·17 전당대회 과정에서 불거진 '신천지 연대설'과 관련해 의혹을 뒷받침할 근거를 확인하지 못했다며 사과하자, 한동훈 무소속 의원이…\n2. 오세훈 12.0→20.4%, 한동훈 18.7→14.3% 보수 선두교체…중도무당층 韓 비교우위\n   ▲30대 오세훈 26.3% 장동혁 13.9% 한동훈 12.0% 김민석 11.5% 정청래 5.3% 순 ▲40대 오세훈 16.1% 김민석 12.5% 장동혁 12.4% 조국…\n3. 삼성 반도체 성과급 7억5000만원의 함정…바로 퇴사하면 얼마 받을까 [숫자 뒤의 진실]\n4. 경기도로 간 ‘강남 사람들’… “파주·하남으로 많이 갔다”\n   국민일보가 3일 법원 등기정보광장 소유권이전등기 데이터를 분석한 데 따르면 올해 1~9월 경기도 집합건물 전체 매수인 25만1239명 가운데 주소지가 강남3구인 사람은…\n5. 尹 선거법 2심도 징역형..국민의힘 397억 토해내나\n   대법원 확정 시 국민의힘 선거비 397억원 반환해야. 서울고등법원 형사2-1부는 4일 공직선거법 위반 혐의로 재판에 넘겨진 윤 전 대통령 항소심 선고 기일에서 피고인의…\n6. 尹 2심 유죄에 국힘 \"李는 사과했나\" vs 민주 \"397억 반환\"[영상]\n   직접논평 삼가며 '李대통령 재판 재개' 촉구. 국민의힘 당사 매각이 달린 윤석열 전 대통령의 공직선거법 위반 혐의 재판이 항소심에서도 '당선 무효형'을 받자, 국민의힘은…\n7. 차기 대선 오세훈 약진, 8.4%p 오른 20.4%…한동훈 14.3%, 장동혁 12.7%\n\n🗣 “국민의힘은 즉각 국민 앞에 사죄하고, 397억 원을 당장 국민에게 반환해야 한다”\n이 발언을 그대로 실은 보도 7건 · 프레시안 · 한국일보 · 머니투데이 · 뉴시스\n· 프레시안 — 윤석열 선거법 2심도 당선무효형…민주당 \"국힘, 397억 반환하라\"\n· 한국일보 — 대선자금 수백억 토해낼 판… 尹 2심 당선무효형에 與도 野도 '술렁'\n· 머니투데이 — 尹 2심도 당선무효형…與 \"397억 반납\" 野 \"李대통령 재판 재개\" - 머니투데이\n· 뉴시스 — 與, '尹 선거법 사건' 2심 유죄에 \"국민 농락한 선거범죄에 당연한 판단\"\n· 더팩트 — 윤석열 항소심도 당선무효형…與 \"국힘, 397억 반환해야\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #반도체\n\n출처: JTBC, 국민일보, 노컷뉴스, 디지털타임스, 매일신문, 세계일보, 파이낸셜뉴스"
+ "caption": "📰 11월 6일 오늘의 뉴스\n\n1. \"연평도 위문열차 보내달라\"‥해병대원 요청에 15년 만에 공연 재개\n   해병대 연평부대에서 15년 만에 'KFN TV 위문열차' 공연이 열렸습니다. 지난 6월 이재명 대통령이 연평부대를 방문했을 당시, 전역을 앞둔 해병대원이 위문열차 공연을…\n2. ‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과\n   한 유튜브 방송에서 '전두환·윤석열은 내란이 아니'라고 한 국민의힘 김태규 의원에 대한 제명 촉구 결의안이 범여권 주도로 오늘 국회 본회의를 통과했습니다. 결의안을 대표…\n3. “주차 잘못했다고…관리소장이 벤츠를 X자로 긁어놔”\n   지난 3일 온라인 커뮤니티 보배드림에는 ‘아파트 관리소장이 입주민 차량을 고의로 긁었습니다. 글 작성자는 자신의 어머니 소유 벤츠 S550 차량이 아파트 지하주차장에…\n4. “딸 운동회 함성 시끄럽다 민원” 안재욱, 주민 신고에 작심 일침\n5. 유선민 중령님, 당신을 '나쁜 군인'이라 생각합니다\n   왕국의 병사는 왕의 명령이라면 무슨 일이든 하고, 당의 군대라는 공산국가의 군대에서는 당의 명령에 복종해야 하지만, 대한민국의 군대는 상관의 위로 올라가면 나오는 헌법을…\n6. \"대통령의 소통 행보 응원\" vs \"입 좀 다물라\"\n7. “한동훈 복당, 대승적으로 추진해야”…지도부에 결단 촉구한 김태호\n\n🗣 “역사적 재평가라는 미명 하에 3심을 거쳐 확정된 전두환 내란수괴 대법원 판결까지 부정하며 법치주의를 훼손하고 반헌법적 망언을 한 것”\n이 발언을 그대로 실은 보도 3건 · KBS 뉴스 · 미디어오늘 · 월요신문\n· KBS 뉴스 — ‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과\n· 미디어오늘 — ‘전두환 내란 부정’ 김태규 제명촉구 결의안 본회의 통과\n· 월요신문 — 국회, 김태규 제명 촉구 결의안 가결…찬성 166표\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실 #국회\n\n출처: KBS, MBC, YTN, 동아일보, 매일경제, 오마이뉴스, 중앙일보"
 }
