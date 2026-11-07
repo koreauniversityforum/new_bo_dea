@@ -1,161 +1,203 @@
 {
- "date": "2026-11-06",
- "generated_at": "2026-11-06T12:01:00+09:00",
+ "date": "2026-11-07",
+ "generated_at": "2026-11-07T11:29:23+09:00",
  "mode": "daily",
- "window_start": "2026-11-05T00:00:00+09:00",
- "window_end": "2026-11-05T23:59:59+09:00",
+ "window_start": "2026-11-06T00:00:00+09:00",
+ "window_end": "2026-11-06T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "\"연평도 위문열차 보내달라\"‥해병대원 요청에 15년 만에 공연 재개",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001533660",
-   "published_at": "2026-11-05T11:18:36+09:00",
+   "title": "이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000519442",
+   "published_at": "2026-11-06T10:28:59+09:00",
    "section_id": "100",
-   "view_rank": 3,
+   "view_rank": 1,
    "selection": "정치",
-   "summary": "해병대 연평부대에서 15년 만에 'KFN TV 위문열차' 공연이 열렸습니다. 지난 6월 이재명 대통령이 연평부대를 방문했을 당시, 전역을 앞둔 해병대원이 위문열차 공연을…",
-   "summary_long": "해병대 연평부대에서 15년 만에 'KFN TV 위문열차' 공연이 열렸습니다. 어제 연평종합운동장에서 열린 이번 공연에는 군 장병에게 인지도가 높은 김장훈, 소유미 등 가수들이 출연했고, 지역주민을 포함한 1천여 명이 관람했습니다. 지난 6월 이재명 대통령이 연평부대를 방문했을 당시, 전역을 앞둔 해병대원이 위문열차 공연을 요청했고, 이 대통령이 가능 여부를 검토하라고 지시하면서 이번 공연이 성사됐습니다.\n\n위문열차는 전국 각지의 군부대 장병을 찾아가는 공연 프로그램으로, 1962년 시작돼 현재까지 3천 회 넘게 진행됐습니다. 베트남전 당시에도 최전선에서 특별 위문 공연을 펼치기도 했는데, 도서·격오지 부대 방문이 쉽지 않아 연평도 공연은 2011년, 백령도 공연은 2017년이 마지막이었습니다.",
-   "press": "MBC",
-   "photo": "01.jpg"
-  },
-  {
-   "title": "‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과",
-   "source": "KBS",
-   "url": "https://n.news.naver.com/article/056/0012287992",
-   "published_at": "2026-11-05T15:40:50+09:00",
-   "section_id": "100",
-   "view_rank": 4,
-   "selection": "정치",
-   "summary": "한 유튜브 방송에서 '전두환·윤석열은 내란이 아니'라고 한 국민의힘 김태규 의원에 대한 제명 촉구 결의안이 범여권 주도로 오늘 국회 본회의를 통과했습니다. 결의안을 대표…",
-   "summary_long": "한 유튜브 방송에서 '전두환·윤석열은 내란이 아니'라고 한 국민의힘 김태규 의원에 대한 제명 촉구 결의안이 범여권 주도로 오늘(5일) 국회 본회의를 통과했습니다. 김 의원에 대한 제명 촉구 결의안은 재석 167명 가운데 찬성 166명, 무효 1명으로 가결됐습니다. 다만, 제명 촉구 결의안은 제명을 요구하는 정치적 의미를 담은 결의문으로, 실제 법적 강제성은 없습니다.\n\n결의안을 대표 발의한 더불어민주당 천준호 의원은 \"김 의원은 12.3 비상계엄은 물론, 전두환 신군부도 내란이 아니라며 윤석열과 전두환의 내란을 전면 부정했다\"며 \"역사적 재평가라는 미명 하에 3심을 거쳐 확정된 전두환 내란수괴 대법원 판결까지 부정하며 법치주의를 훼손하고 반헌법적 망언을 한 것\"이라고… 천 의원은 \"대한민국 헌정사와 민주주의의 발전을 위해 희생된 5.18 민주화운동 희생자 및 유가족을 모욕하고 2차 가해를 가한 반역사적 행위\"라며 \"나아가 국민과 대한민국 역사에 대한 조롱이며 역사적 진실과 사법부의 판단을 부정하고 궤변을 유포하여 국론분열을 획책한 것\"이라고도 말했습니다. 결의안 상정에 반대한 국민의힘은 투표에 참여하지 않았습니다.",
+   "summary": "이재명 대통령 내외와 장남 이동호 씨 내외가 진해 해군 기지에 있는 한산대CC에서 4명이서 가족 '황제 골프'를 쳤습니다. 주진우 국민의힘 의원은 한산대CC에서 이륙 전…",
+   "summary_long": "이재명 대통령 내외와 장남 이동호 씨 내외가 진해 해군 기지에 있는 한산대CC에서 4명이서 가족 '황제 골프'를 쳤습니다. 골프를 마친 후에는 한산대CC에서 저도 숙소까지 대통령 전용 헬기를 타고 이동했습니다. 주진우 국민의힘 의원은 한산대CC에서 이륙 전 대기중이던 헬기 사진을 공개해 가며 장남이 함께 골프를 쳤다고 주장했습니다.\n\n민주당에서 사실이 아니라고 했지만 주 의원이 계속해서 주장을 이어가자 이 대통령의 장남 이동호 씨가 주 의원을 경찰에 고소했습니다. 이 대통령 장남의 고발에 대해 주 의원은 \"협박은 안 통한다\"며 \"맞고발로 황제 골프 의혹의 진실을 밝히겠다\"며 물러서지 않았습니다. 주진우 의원은 헬기 사진 외에는 골프 동반을 뒷받침하는 직접적인 자료 등은 제시하지 못했는데요.",
    "quotes": [
-    "역사적 재평가라는 미명 하에 3심을 거쳐 확정된 전두환 내란수괴 대법원 판결까지 부정하며 법치주의를 훼손하고 반헌법적 망언을 한 것",
-    "대한민국 헌정사와 민주주의의 발전을 위해 희생된 5.18 민주화운동 희생자 및 유가족을 모욕하고 2차 가해를 가한 반역사적 행위",
-    "나아가 국민과 대한민국 역사에 대한 조롱이며 역사적 진실과 사법부의 판단을 부정하고 궤변을 유포하여 국론분열을 획책한 것"
+    "국군복지단에 골프장 예약 내역을 요구했더니, 국방장관의 지시가 내려왔다며 늘 제출해 오던 자료를 갑자기 못 내겠다고 한다",
+    "자료도 틀어막고, 고발 협박으로 내 입까지 틀어막아도 소용없다",
+    "고발 내용 확인 후 법적 조치로 맞서 진실을 규명하겠다"
    ],
-   "press": "KBS",
-   "photo": "02.jpg",
+   "press": "JTBC",
+   "photo": "01.png",
    "quoted": {
-    "quote": "역사적 재평가라는 미명 하에 3심을 거쳐 확정된 전두환 내란수괴 대법원 판결까지 부정하며 법치주의를 훼손하고 반헌법적 망언을 한 것",
-    "n": 3,
+    "quote": "자료도 틀어막고, 고발 협박으로 내 입까지 틀어막아도 소용없다",
+    "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "KBS 뉴스",
-      "title": "‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MVlSRG50V1dxTWJfMDlycGJYZGhjTFdPZGNJVVZEWXR4MVNaZTM1eGxwbW5WMjhENnB5U0tYczVRTGh4Q0QxM3JLYTNWbVUtbHdDNHlhMFZiOHM?oc=5"
+      "press": "JTBC",
+      "title": "이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBINGtMUV9jcE5acFItXzBBLUZtMkNWY0hiMjRUQ0VlUmx3OWlVSHdQeWdwODVXTWdtQ2VYOHNaVmRBTVh4a2hHdzNmdjg1ak1wSDNyTQ?oc=5"
      },
      {
-      "press": "미디어오늘",
-      "title": "‘전두환 내란 부정’ 김태규 제명촉구 결의안 본회의 통과",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Pa0ZGM21ydDdWcHh4NHMtYmlVX2RfMkc4eUNaclBsT0ZTV21YRFdKYWVBSHdyM29hamhPMFkyZk5CNE0xZlVzbUhJZ3c3YzFYeG1JVWpvZHJGTFpiVlJVd09ZdEtYRzM0UDUzWVRxa24?oc=5"
+      "press": "조세일보",
+      "title": "李대통령 장남, 주진우 명예훼손 고소...朱 \"협박 안 통해\" 맞고발",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xbDZnTFRNamk1Mjl4S19RUER2U1V6WllQNFZlT3dqSVZoVU8tVlVSYzRDMXNmZFBsdWhIaDFKc3dTTldBZWZLdXZFUlVzS0I3VlpLZTRNbDk2MGdGdG5scG5pa00xOW5tcFM4TEFQUQ?oc=5"
      },
      {
-      "press": "월요신문",
-      "title": "국회, 김태규 제명 촉구 결의안 가결…찬성 166표",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54TXJvYURZSGt0ZE9RalNVVkZtUDFENWM1aVFXUjgyRDZ2MHk2NW9PeGxRRmRwcGQySnJ6N0hOd1puc2dESm53TVY2dVl3bi1mRTY0UVE0dVZNOVpDQUJ4YUNYUkZ6aHJ3bHc?oc=5"
+      "press": "뉴데일리",
+      "title": "李 대통령 장남 동호씨, 주진우 명예훼손 고소 … \"골프장 간 적 없다\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVENyS1E4NHFtQmUzTDNhdDBMdlpiejNwSy1JMDlmWGlzUEQydkpENWU5b1dfblhUSU5NSFU2bUtwQ3lpY2RxaWtqSi1hMmdNVUtYd2tFa0tuT3NTQ1FrNXBMeWkzMk9BWjlldnBKTDluUXAtTWg4YWVrNERuUEkyZdIBgAFBVV95cUxOVENyS1E4NHFtQmUzTDNhdDBMdlpiejNwSy1JMDlmWGlzUEQydkpENWU5b1dfblhUSU5NSFU2bUtwQ3lpY2RxaWtqSi1hMmdNVUtYd2tFa0tuT3NTQ1FrNXBMeWkzMk9BWjlldnBKTDluUXAtTWg4YWVrNERuUEkyZQ?oc=5"
+     },
+     {
+      "press": "Chosunbiz",
+      "title": "李 대통령 장남, 주진우 명예훼손 고소… “골프장 안 갔다”",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLW4ya0puenRxTi1OWkJiTV8wLWJnODNFd0dlWmRsZ190UGxsZnJ6NU5zRHJJYkJleUd2VVlqelhFT3RqcnVrQU1mbHFFRjdoX0QtOUxPMUZaaXJGT0ItcW96ZTR3UFE5RWRHbUJWSHVueElxa0g3aDBJYUpBUzh5T0FHZ9IBlwFBVV95cUxNSUQzVGZvYm1vMEVFZ1FaaXFsR0pYajhDaC04eU5Id2wyUjlsdV85NTRxd2hkSFNPd0kwYUlDVGJqODdfTWRLY0QtVkNtV25PUEYtSnNsVEo5aHZadU43cC1qcEw0TlVMclBtak9pTWJaZER5aDc2OENyemlXSmtHVzYwN2hRWjFiSUVaT1ZPOGFzemNKRFA0?oc=5"
+     },
+     {
+      "press": "한국경제",
+      "title": "주진우 \"李대통령 장남 고소에 맞고발\"…'황제 골프' 난타전",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94NHgxTkNXT3FyR0gtVmo4Szg5TkVjbm5hQzZUVXRXazlaLWw0dW5iRFpvc1hTMDl2XzVVeDVDaDdYdnY0UjZES21UMklmLXVOb2RrQjNLVDZHQQ?oc=5"
+     },
+     {
+      "press": "펜앤마이크",
+      "title": "주진우, 이재명 장남 명예훼손 고소에 \"협박 안 통해\"…맞고발 예고",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WSnJpUzNEbTF3OXRGT1VEVHBzallaeDNzRVZLWnR1VHUya2pocWpwQ0JQbWtCZk9KWUFyQlZHZldJUlA3LTUzVWZhb3VNUkJ3MzBvckxqOG0wU1plbEdBWjRTY1I4RW1FME14ZnFoNNIBb0FVX3lxTE9WSnJpUzNEbTF3OXRGT1VEVHBzallaeDNzRVZLWnR1VHUya2pocWpwQ0JQbWtCZk9KWUFyQlZHZldJUlA3LTUzVWZhb3VNUkJ3MzBvckxqOG0wU1plbEdBWjRTY1I4RW1FME14ZnFoNA?oc=5"
      }
     ]
    }
   },
   {
-   "title": "“주차 잘못했다고…관리소장이 벤츠를 X자로 긁어놔”",
-   "source": "동아일보",
-   "url": "https://n.news.naver.com/article/020/0003760273",
-   "published_at": "2026-11-05T11:33:09+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "지난 3일 온라인 커뮤니티 보배드림에는 ‘아파트 관리소장이 입주민 차량을 고의로 긁었습니다. 글 작성자는 자신의 어머니 소유 벤츠 S550 차량이 아파트 지하주차장에…",
-   "summary_long": "보배드림아파트 관리소장이 주차 문제로 갈등을 빚은 입주민의 고급 수입차를 고의로 훼손했다는 주장이 제기돼 논란이 일고 있다. 지난 3일 온라인 커뮤니티 보배드림에는 ‘아파트 관리소장이 입주민 차량을 고의로 긁었습니다. 글 작성자는 자신의 어머니 소유 벤츠 S550 차량이 아파트 지하주차장에 주차돼 있던 중 훼손됐으며, 경찰에 신고해 확인한 결과 가해자가 아파트 관리소장으로 밝혀졌다고 설명했다.\n\n작성자에 따르면 관리소장은 사건 전날 다른 입주민과 다툼을 벌였으며, 다음 날 지하주차장을 순찰하던 중 차량이 삐딱하게 주차된 것을 보고 홧김에 긁었다고 말했다. 보배드림작성자는 당시 차량이 평소보다 다소 비뚤게 주차돼 있었던 것은 사실이지만, 그렇다고 해서 관리소장이 입주민의 차량을 훼손한 행위가 정당화될 수는 없다고 지적했다. 작성자는 관리소장의 행위에 대해 재물손괴 외에 추가로 책임을 물을 수 있는지, 아파트 측에도 책임을 물을 수 있는지 등을 물었다.",
-   "press": "동아일보",
-   "photo": "03.jpg"
-  },
-  {
-   "title": "“딸 운동회 함성 시끄럽다 민원” 안재욱, 주민 신고에 작심 일침",
-   "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003562990",
-   "published_at": "2026-11-05T06:29:32+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "유선민 중령님, 당신을 '나쁜 군인'이라 생각합니다",
-   "source": "오마이뉴스",
-   "url": "https://n.news.naver.com/article/047/0002534818",
-   "published_at": "2026-11-05T18:42:10+09:00",
+   "title": "최전방 철책은 민간인에 뚫리고... 특전사 요원은 ‘모델 워킹’ 교육",
+   "source": "조선일보",
+   "url": "https://n.news.naver.com/article/023/0004008175",
+   "published_at": "2026-11-06T15:15:10+09:00",
    "section_id": "100",
    "view_rank": 2,
-   "comment_count": 250,
-   "comment_agree": 240,
-   "comment_disagree": 77,
-   "division_balance": 0.485804,
-   "division_score": 2.79923,
-   "selection": "찬반 쟁점",
-   "summary": "왕국의 병사는 왕의 명령이라면 무슨 일이든 하고, 당의 군대라는 공산국가의 군대에서는 당의 명령에 복종해야 하지만, 대한민국의 군대는 상관의 위로 올라가면 나오는 헌법을…",
-   "summary_long": "상관의 명령이라고 시민을 학살하거나 국회를 침탈하거나 살생부를 작성하고 싹 체포해서 어딘가로 데려가 총알을 쏘는, 그런 짓을 하면 안되는 게 민주공화국의 군대라는 겁니다. 물론 군인은 명령에 따라야 합니다. 왕국의 병사는 왕의 명령이라면 무슨 일이든 하고, 당의 군대라는 공산국가의 군대에서는 당의 명령에 복종해야 하지만, 대한민국의 군대는 상관의 위로 올라가면 나오는 헌법을 따라야 했습니다.\n\n이어 \"명령을 불이행하고 항명한 군인으로서 자격도 없는 평생 지탄받아야 할 소인배들을 특별진급이라는 개탄스러운 조치로 우리 군의 기강과 사기를 하수구 바닥까지 처박게 만든 범죄자 정권\"이라고 표현했습니다. 햄버거 가게에서 군인도 아닌 자의 호출에 장군들이 응하고, 거기서 무슨 말을 하는지 이의조차 제기하지 않았던 군대의 일원으로서 어찌 그리 당당합니까. 개인적으로 저는 내란의 핵심 가담자 윤석열이 작당했던 자들, 김용현, 노상원 등 악질 내란가담자들을 제외한다면, 당일 무슨 영문인지도 모르고 명령에 따라야 했던 이들에 대해서는 관용이 베풀어져야 한다고 생각해 왔습니다.",
+   "selection": "정치",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "돌연 까만딱지 생기더니…“바로 병원 가라” 질병청 경고한 감염병",
+   "source": "중앙일보",
+   "url": "https://n.news.naver.com/article/025/0003563325",
+   "published_at": "2026-11-06T11:33:24+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "쯔쯔가무시증을 옮기는 털진드기 유충을 현미경으로 확대한 모습과 설치류 체액을 섭취하는 털진드기 유충. 사진 질병관리청 최근 털진드기 활동이 빠르게 증가하면서…",
+   "summary_long": "쯔쯔가무시증을 옮기는 털진드기 유충을 현미경으로 확대한 모습(왼쪽)과 설치류 체액을 섭취하는 털진드기 유충(오른쪽). 사진 질병관리청 최근 털진드기 활동이 빠르게 증가하면서 쯔쯔가무시증에도 경고등이 들어왔다. 질병청은 6일 쯔쯔가무시증 매개체인 털진드기의 발생 추이 분석 결과를 공개했다.\n\n쯔쯔가무시증은 쯔쯔가무시균에 감염된 털진드기 유충에 물려 발생하는 감염병이다. 또한 털진드기 발생이 증가한 뒤 약 1~3주의 시차를 두고 쯔쯔가무시증 환자도 증가하는 특성이 나타났다. 일반적으로 털진드기 지수가 0.2 이상일 때 쯔쯔가무시증 환자 발생이 급격히 증가하는 양상을 보이는 만큼, 이번 달 환자가 시차를 두고 늘어날 가능성이 커졌다.",
    "quotes": [
-    "명령을 불이행하고 항명한 군인으로서 자격도 없는 평생 지탄받아야 할 소인배들을 특별진급이라는 개탄스러운 조치로 우리 군의 기강과 사기를 하수구 바닥까지 처박게 만든 범죄자 정권",
-    "25년 후반기 장군인사에서는 12·3 비상계엄이 내란이라고 이야기한 인원을 진급시키는 군의 역사에 치부가 된 부끄러운 사실도 있었다",
-    "명령을 충실히 이행한 참군인들을 내란중요임무종사자 및 내란부화수행으로 둔갑시켜 지금까지도 무분별한 숙청을 자행"
+    "잠복기인 10일 이내에 발열·발진 등 의심 증상이 나타나면 지체하지 말고 의료기관을 방문해 진료를 받아야 한다"
    ],
-   "press": "오마이뉴스",
-   "photo": "05.jpg",
+   "press": "중앙일보",
+   "photo": "03.jpg",
    "quoted": {
-    "quote": "명령을 불이행하고 항명한 군인으로서 자격도 없는 평생 지탄받아야 할 소인배들을 특별진급이라는 개탄스러운 조치로 우리 군의 기강과 사기를 하수구 바닥까지 처박게 만든 범죄자 정권",
-    "n": 3,
+    "quote": "잠복기인 10일 이내에 발열·발진 등 의심 증상이 나타나면 지체하지 말고 의료기관을 방문해 진료를 받아야 한다",
+    "n": 1,
     "verified": 0,
     "items": [
      {
-      "press": "제주환경일보",
-      "title": "유선민 중령,“평생 지탄받아야 할 소인배 특별진급..범죄자 정권”",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xOWo5Z0g3WFhTTEc0aXRYMEVkamJDY2h5TFdadFlPaFI5ZUVTRTFGZ1hpbm1OaXU1eXNFOWJNTUhyMjdVVlIxaHZlSFFscXNqX0JoYU1TZFgwQmFXUFFfX0xJWmgyWVBn?oc=5"
-     },
-     {
-      "press": "매일신문",
-      "title": "이진숙, 유선민 중령 ``내란`이라 말하면 진급, 군 역사에 치부` 기자회견 공유",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5RzNnb1BoWEkwLXJDaE9PU3kzdTIwWXhrNUlpOHZfcDBwOURQWlBkWGQ4Z0NNTlpqMHM5TGVfVkV0VklaOUREUVBUQWZRcVVwRURSOXpURjBQNnhqU3RkQnJR?oc=5"
-     },
-     {
-      "press": "세상을 바꾸는 시민언론 민들레",
-      "title": "이진숙이 세운 '참군인'…'여론조사꽃' 점거 지휘관 |",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kaTlmMGE1eUQwRVN5c0JOZkhCbkVyZkc2OG9KcGVwVXU2cUhqOW1IZDBiQWtEcTF3ZEt3cFI4X0NGaFAyMTdqN2VzM3ZDODJkZkM0YVpzWkM3RkkxM29fU25QUmF2U2lhQ0VRVTdIWVo?oc=5"
+      "press": "중앙일보",
+      "title": "돌연 까만딱지 생기더니…“바로 병원 가라” 질병청 경고한 감염병",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PaDNLVHE5SUNPUTBObTRJVHRIRTVXUDd0aVg0ZUlFN2Z0SUg1MG1OMkxsdjdBb3VpeWpzWXFhWUpsbG11bEduNnJyWWJtQWtyc2tLTmZB?oc=5"
      }
     ]
    }
   },
   {
-   "title": "\"대통령의 소통 행보 응원\" vs \"입 좀 다물라\"",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002428883",
-   "published_at": "2026-11-05T18:35:47+09:00",
-   "section_id": "100",
+   "title": "“전국민 우울증 걸릴 판” 코스피 폭락, 개미 비명",
+   "source": "조선일보",
+   "url": "https://n.news.naver.com/article/023/0004008143",
+   "published_at": "2026-11-06T10:23:29+09:00",
+   "section_id": "101",
    "view_rank": 1,
-   "comment_count": 369,
-   "comment_agree": 252,
-   "comment_disagree": 39,
-   "division_balance": 0.268041,
-   "division_score": 1.521604,
+   "selection": "경제·시사",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "안철수 \"코스피 5천선 붕괴에 파랗게 질렸는데… 李 대통령, 긴급 라방이라도 켜서 대책 내놔라\"",
+   "source": "CJB청주방송",
+   "url": "https://n.news.naver.com/article/655/0000033473",
+   "published_at": "2026-11-06T15:06:12+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 360,
+   "comment_agree": 130,
+   "comment_disagree": 36,
+   "division_balance": 0.433735,
+   "division_score": 2.219853,
    "selection": "찬반 쟁점",
    "prep_error": "The read operation timed out"
   },
   {
-   "title": "“한동훈 복당, 대승적으로 추진해야”…지도부에 결단 촉구한 김태호",
-   "source": "매일경제",
-   "url": "https://n.news.naver.com/article/009/0005759392",
-   "published_at": "2026-11-05T11:23:07+09:00",
+   "title": "\"임무는 단 하나, 이재명 공소취소 이행\"… 주진우, 이용철 후보자 지명 맹폭",
+   "source": "CJB청주방송",
+   "url": "https://n.news.naver.com/article/655/0000033476",
+   "published_at": "2026-11-06T17:56:14+09:00",
    "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 172,
-   "comment_agree": 200,
+   "view_rank": 5,
+   "comment_count": 205,
+   "comment_agree": 207,
    "comment_disagree": 32,
-   "division_balance": 0.275862,
-   "division_score": 1.503735,
+   "division_balance": 0.267782,
+   "division_score": 1.467619,
    "selection": "찬반 쟁점",
    "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "오세훈 \"21세기 민주공화국서 절대왕정 꿈꾸나… 특검은 '대통령 전용 사법 방어기구'\"",
+   "source": "CJB청주방송",
+   "url": "https://n.news.naver.com/article/655/0000033474",
+   "published_at": "2026-11-06T16:14:10+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 283,
+   "comment_agree": 172,
+   "comment_disagree": 23,
+   "division_balance": 0.235897,
+   "division_score": 1.245094,
+   "selection": "찬반 쟁점",
+   "summary": "\"혈세 300억과 수사 인력으로 대통령 사법 리스크 방어하는 사법체계 사유화\" 오세훈 서울시장이 더불어민주당이 추진하는 '조작기소 특검법'을 강력하게 규탄하며, 이를…",
+   "summary_long": "오세훈 서울시장, 민주당의 '조작기소 특검법' 강행 맹폭. \"혈세 300억과 수사 인력으로 대통령 사법 리스크 방어하는 사법체계 사유화\" 오세훈 서울시장이 더불어민주당이 추진하는 '조작기소 특검법'을 강력하게 규탄하며, 이를 이재명 대통령을 위한 '전용 사법 방어기구'이자 헌정사상 최악의 권력 남용으로 규정했습니다.\n\n오 시장은 페이스북을 통해 \"집값과 전월세는 치솟고, 국민은 하루하루 먹고사는 문제로 절박한데, 집권여당의 머릿속에는 민생은 안중에 없다\"며 \"오로지 대통령의 재판 리스크를 없애는 데 모든 역량을 쏟아붓고 있는 현실에 탄식을 금할 수 없다\"고 밝혔습니다. 이어 이번 특검법 강행을 가리켜 \"이재명 대통령을 위한 사법체계 사유화의 결정판\"이라고 직격했습니다. 오 시장은 특검의 실상에 대해 \"특검이라는 이름으로 포장한 '대통령 전용 사법 방어기구'나 다름없다\"며, \"여기에 국민의 혈세가 300원가량(300억 원가량) 투입될 것으로 추산되고, 300명이 넘는 인력이 동원돼 최장 200기간(200일간) 수사를 벌이겠다는 것\"이라고 비판했습니다.",
+   "quotes": [
+    "하물며 국민이 주인인 21세기 민주공화국에서 대통령 한 사람을 위해 법을 만들고, 수사기관을 동원하고, 사법부의 판단까지 뒤흔들려 한다면 도대체 어느 시대의 통치를 하겠다는 것인가",
+    "민주당은 공소취소 조항을 삭제했으니 문제가 없다고 강변하지만, 대통령 본인이 당사자인 사건을 수사 대상으로 삼고, 그 특검을 대통령 자신이 임명하는 구조는 그대로",
+    "민주당에 경고한다. 대통령 한 사람을 지키겠다고 대한민국의 사법체계를 뒤흔들고, 법치주의를 짓밟아 민주주의의 역사를 거꾸로 돌리려는 무도한 폭주를 당장 멈추시라"
+   ],
+   "press": "CJB청주방송",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "하물며 국민이 주인인 21세기 민주공화국에서 대통령 한 사람을 위해 법을 만들고, 수사기관을 동원하고, 사법부의 판단까지 뒤흔들려 한다면 도대체 어느 시대의 통치를 하겠다는 것인가",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
+      "press": "Chosunbiz",
+      "title": "오세훈 “조작기소 특검법, 李대통령 사법체계 사유화 결정판”",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXNDcVNJSWE0R0NscUNpWXFPeTZ6RTVwVjgyazAzMEg2TlpGaU1nY280NzF1cG5lZ0hUVmtZUkJ4a1RCalBXcWNpWExQNTBVVHlpMm9OMGhfSF96WTNxVWxYLWd5SktZNFB5WlV0LWp0bUtYbk9FMUVzVk96UmxjYzc1OVhrVHBhMmfSAZ4BQVVfeXFMT3dfLVlpM2czYnRDZG16NWlOUF9hQ3hXck1pNWhMOGlXWkVPaUd5TGZDY0JWTUd6aFBMWmFXdjd4UjY3S1JNcjFCUnF3VV83T0JjOHpXbmxQM3VFWG1uOFJZc0FPTTdWb2tIQ0pwR0xVNndJZ0lJR2MzUW5IVF9tZGRnUGlXSnFyNV90dmUxeFdYZ09BMFZjTEJfQTI2cXc?oc=5"
+     },
+     {
+      "press": "한국경제",
+      "title": "오세훈 \"사법체제 사유화\"…특검법, '수사·기소 분리' 무력화",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WTXFYMlZYVjNFbjhacDJfVUp6Sng4T0RSazZhZEJpUEVqaHJVT1NObWFPNUlsdjA0ZURhQm1VYWNQRGYyOU1TVjVjMWVja1FORGVPejE5UFEzdw?oc=5"
+     },
+     {
+      "press": "뉴스웍스",
+      "title": "오세훈 \"공소취소 조항 빼도 특검 임명권자가 사건 당사자\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wX3JXeE1jclhZZEpyNkdhTld1SDh1SzgwakJBNTUyTUtyZ0ZhdEQyS21mdWdNbEJOaE1QeDdzU3RCUjZaNGFNdnYtYzN3YUdBQzBOZlJRLUlZQndjYWlnOEtSZ2JvRWFPTl9ZVF9YeG11SnPSAXNBVV95cUxNMF9yV3hNY3JYWWRKcjZHYU5XdUg4dUs4MGpCQTU1Mk1LcmdGYXREMkttZnVnTWxCTmhNUHg3c1N0QlI2WjRhTXZ2LWMzd2FHQUMwTmZSUS1JWUJ3Y2FpZzhLUmdib0VhT05fWVRfWHhtdUpz?oc=5"
+     },
+     {
+      "press": "더팩트",
+      "title": "오세훈 \"민주당 조작기소 특검법, 대통령 사법 방어기구\"",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xanl1aXRKN1RYUXh0ejF3bXFFYm1RSXFZZC1aWVd4ZDlmcHAteDYyYUlhOXhSdGczbEtELU43N1k5MmZqcXlwNUZkZmV5ZkNZ0gFQQVVfeXFMT3FqeXVpdEo3VFhReHR6MXdtcUVibVFJcVlkLVpZV3hkOWZwcC14NjJhSWE5eFJ0ZzNsS0QtTjc3WTkyZmpxeXA1RmRmZXlmQ1k?oc=5"
+     },
+     {
+      "press": "위키트리",
+      "title": "“이 대통령은 조선시대 절대 왕정을 꿈꾸는 것입니까”…오늘(6일) 올라온 비판 글 (전문)",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHNEOWVGdjJMTndNZmRaMGRXWFRlMDZ3N1FnTlZjd052LWlXaDFCOFN5MTZKMGpSd1RjbVdCN3I4MXVpSnZ4YjNuN0pGV1IxMkt3ZFpKT3JSWkZDZEtTdEd3NXNNWUlGNzdWVExKUkkxVV85THFxNXREbUU0Rmo3YTNmczZzcnZ6R3hCTVZEMVduRFdsWmJySDFHdXY0dGc5NzNKR3ZB?oc=5"
+     },
+     {
+      "press": "헤럴드경제",
+      "title": "오세훈 “대통령은 조선시대 절대왕정 꿈꾸나” 조작기소 특검법 비판",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zU1RCLWIyZUNQTXUwalFjZnNpUk5IU1RCSnRhTnVxZ0ZpZEZ3QjA5MjhjLWNnb004SHpLb3ZQbW9oYm11ekFOZ29DVjVDekdoSEVnWEt3?oc=5"
+     }
+    ]
+   }
   }
  ],
  "cards": [
@@ -164,139 +206,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/01.png",
-   "pngBytes": 1686108,
-   "feed": "오늘의 뉴스 2026-11-06\n\n· \"연평도 위문열차 보내달라\"‥해병대원 요청에 15년 만에 공연 재개\n· ‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과\n· “주차 잘못했다고…관리소장이 벤츠를 X자로 긁어놔”\n· “딸 운동회 함성 시끄럽다 민원” 안재욱, 주민 신고에 작심 일침\n· 유선민 중령님, 당신을 '나쁜 군인'이라 생각합니다\n· \"대통령의 소통 행보 응원\" vs \"입 좀 다물라\"\n· “한동훈 복당, 대승적으로 추진해야”…지도부에 결단 촉구한 김태호"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/01.png",
+   "pngBytes": 1833345,
+   "feed": "오늘의 뉴스 2026-11-07\n\n· 이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"\n· 최전방 철책은 민간인에 뚫리고... 특전사 요원은 ‘모델 워킹’ 교육\n· 돌연 까만딱지 생기더니…“바로 병원 가라” 질병청 경고한 감염병\n· “전국민 우울증 걸릴 판” 코스피 폭락, 개미 비명\n· 안철수 \"코스피 5천선 붕괴에 파랗게 질렸는데… 李 대통령, 긴급 라방이라도 켜서 대책 내놔라\"\n· \"임무는 단 하나, 이재명 공소취소 이행\"… 주진우, 이용철 후보자 지명 맹폭\n· 오세훈 \"21세기 민주공화국서 절대왕정 꿈꾸나… 특검은 '대통령 전용 사법 방어기구'\""
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/02.png",
-   "pngBytes": 1691746,
-   "title": "\"연평도 위문열차 보내달라\"‥해병대원 요청에 15년 만에 공연 재개",
-   "summary": "해병대 연평부대에서 15년 만에 'KFN TV 위문열차' 공연이 열렸습니다. 지난 6월 이재명 대통령이 연평부대를 방문했을 당시, 전역을 앞둔 해병대원이 위문열차 공연을…",
-   "summary_long": "해병대 연평부대에서 15년 만에 'KFN TV 위문열차' 공연이 열렸습니다. 어제 연평종합운동장에서 열린 이번 공연에는 군 장병에게 인지도가 높은 김장훈, 소유미 등 가수들이 출연했고, 지역주민을 포함한 1천여 명이 관람했습니다. 지난 6월 이재명 대통령이 연평부대를 방문했을 당시, 전역을 앞둔 해병대원이 위문열차 공연을 요청했고, 이 대통령이 가능 여부를 검토하라고 지시하면서 이번 공연이 성사됐습니다.\n\n위문열차는 전국 각지의 군부대 장병을 찾아가는 공연 프로그램으로, 1962년 시작돼 현재까지 3천 회 넘게 진행됐습니다. 베트남전 당시에도 최전선에서 특별 위문 공연을 펼치기도 했는데, 도서·격오지 부대 방문이 쉽지 않아 연평도 공연은 2011년, 백령도 공연은 2017년이 마지막이었습니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001533660",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/02.png",
+   "pngBytes": 1863905,
+   "title": "이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"",
+   "summary": "이재명 대통령 내외와 장남 이동호 씨 내외가 진해 해군 기지에 있는 한산대CC에서 4명이서 가족 '황제 골프'를 쳤습니다. 주진우 국민의힘 의원은 한산대CC에서 이륙 전…",
+   "summary_long": "이재명 대통령 내외와 장남 이동호 씨 내외가 진해 해군 기지에 있는 한산대CC에서 4명이서 가족 '황제 골프'를 쳤습니다. 골프를 마친 후에는 한산대CC에서 저도 숙소까지 대통령 전용 헬기를 타고 이동했습니다. 주진우 국민의힘 의원은 한산대CC에서 이륙 전 대기중이던 헬기 사진을 공개해 가며 장남이 함께 골프를 쳤다고 주장했습니다.\n\n민주당에서 사실이 아니라고 했지만 주 의원이 계속해서 주장을 이어가자 이 대통령의 장남 이동호 씨가 주 의원을 경찰에 고소했습니다. 이 대통령 장남의 고발에 대해 주 의원은 \"협박은 안 통한다\"며 \"맞고발로 황제 골프 의혹의 진실을 밝히겠다\"며 물러서지 않았습니다. 주진우 의원은 헬기 사진 외에는 골프 동반을 뒷받침하는 직접적인 자료 등은 제시하지 못했는데요.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000519442",
    "selection": "정치",
-   "feed": "뉴스 01. \"연평도 위문열차 보내달라\"‥해병대원 요청에 15년 만에 공연 재개\n\n해병대 연평부대에서 15년 만에 'KFN TV 위문열차' 공연이 열렸습니다. 어제 연평종합운동장에서 열린 이번 공연에는 군 장병에게 인지도가 높은 김장훈, 소유미 등 가수들이 출연했고, 지역주민을 포함한 1천여 명이 관람했습니다. 지난 6월 이재명 대통령이 연평부대를 방문했을 당시, 전역을 앞둔 해병대원이 위문열차 공연을 요청했고, 이 대통령이 가능 여부를 검토하라고 지시하면서 이번 공연이 성사됐습니다.\n\n위문열차는 전국 각지의 군부대 장병을 찾아가는 공연 프로그램으로, 1962년 시작돼 현재까지 3천 회 넘게 진행됐습니다. 베트남전 당시에도 최전선에서 특별 위문 공연을 펼치기도 했는데, 도서·격오지 부대 방문이 쉽지 않아 연평도 공연은 2011년, 백령도 공연은 2017년이 마지막이었습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001533660"
+   "feed": "뉴스 01. 이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"\n\n이재명 대통령 내외와 장남 이동호 씨 내외가 진해 해군 기지에 있는 한산대CC에서 4명이서 가족 '황제 골프'를 쳤습니다. 골프를 마친 후에는 한산대CC에서 저도 숙소까지 대통령 전용 헬기를 타고 이동했습니다. 주진우 국민의힘 의원은 한산대CC에서 이륙 전 대기중이던 헬기 사진을 공개해 가며 장남이 함께 골프를 쳤다고 주장했습니다.\n\n민주당에서 사실이 아니라고 했지만 주 의원이 계속해서 주장을 이어가자 이 대통령의 장남 이동호 씨가 주 의원을 경찰에 고소했습니다. 이 대통령 장남의 고발에 대해 주 의원은 \"협박은 안 통한다\"며 \"맞고발로 황제 골프 의혹의 진실을 밝히겠다\"며 물러서지 않았습니다. 주진우 의원은 헬기 사진 외에는 골프 동반을 뒷받침하는 직접적인 자료 등은 제시하지 못했는데요.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000519442"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/03.png",
-   "pngBytes": 1912133,
-   "title": "‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과",
-   "summary": "한 유튜브 방송에서 '전두환·윤석열은 내란이 아니'라고 한 국민의힘 김태규 의원에 대한 제명 촉구 결의안이 범여권 주도로 오늘 국회 본회의를 통과했습니다. 결의안을 대표…",
-   "summary_long": "한 유튜브 방송에서 '전두환·윤석열은 내란이 아니'라고 한 국민의힘 김태규 의원에 대한 제명 촉구 결의안이 범여권 주도로 오늘(5일) 국회 본회의를 통과했습니다. 김 의원에 대한 제명 촉구 결의안은 재석 167명 가운데 찬성 166명, 무효 1명으로 가결됐습니다. 다만, 제명 촉구 결의안은 제명을 요구하는 정치적 의미를 담은 결의문으로, 실제 법적 강제성은 없습니다.\n\n결의안을 대표 발의한 더불어민주당 천준호 의원은 \"김 의원은 12.3 비상계엄은 물론, 전두환 신군부도 내란이 아니라며 윤석열과 전두환의 내란을 전면 부정했다\"며 \"역사적 재평가라는 미명 하에 3심을 거쳐 확정된 전두환 내란수괴 대법원 판결까지 부정하며 법치주의를 훼손하고 반헌법적 망언을 한 것\"이라고… 천 의원은 \"대한민국 헌정사와 민주주의의 발전을 위해 희생된 5.18 민주화운동 희생자 및 유가족을 모욕하고 2차 가해를 가한 반역사적 행위\"라며 \"나아가 국민과 대한민국 역사에 대한 조롱이며 역사적 진실과 사법부의 판단을 부정하고 궤변을 유포하여 국론분열을 획책한 것\"이라고도 말했습니다. 결의안 상정에 반대한 국민의힘은 투표에 참여하지 않았습니다.",
-   "press": "KBS",
-   "source": "KBS",
-   "link": "https://n.news.naver.com/article/056/0012287992",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/03.png",
+   "pngBytes": 583039,
+   "title": "최전방 철책은 민간인에 뚫리고... 특전사 요원은 ‘모델 워킹’ 교육",
+   "summary": "",
+   "summary_long": "",
+   "press": "조선일보",
+   "source": "조선일보",
+   "link": "https://n.news.naver.com/article/023/0004008175",
    "selection": "정치",
-   "feed": "뉴스 02. ‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과\n\n한 유튜브 방송에서 '전두환·윤석열은 내란이 아니'라고 한 국민의힘 김태규 의원에 대한 제명 촉구 결의안이 범여권 주도로 오늘(5일) 국회 본회의를 통과했습니다. 김 의원에 대한 제명 촉구 결의안은 재석 167명 가운데 찬성 166명, 무효 1명으로 가결됐습니다. 다만, 제명 촉구 결의안은 제명을 요구하는 정치적 의미를 담은 결의문으로, 실제 법적 강제성은 없습니다.\n\n결의안을 대표 발의한 더불어민주당 천준호 의원은 \"김 의원은 12.3 비상계엄은 물론, 전두환 신군부도 내란이 아니라며 윤석열과 전두환의 내란을 전면 부정했다\"며 \"역사적 재평가라는 미명 하에 3심을 거쳐 확정된 전두환 내란수괴 대법원 판결까지 부정하며 법치주의를 훼손하고 반헌법적 망언을 한 것\"이라고… 천 의원은 \"대한민국 헌정사와 민주주의의 발전을 위해 희생된 5.18 민주화운동 희생자 및 유가족을 모욕하고 2차 가해를 가한 반역사적 행위\"라며 \"나아가 국민과 대한민국 역사에 대한 조롱이며 역사적 진실과 사법부의 판단을 부정하고 궤변을 유포하여 국론분열을 획책한 것\"이라고도 말했습니다. 결의안 상정에 반대한 국민의힘은 투표에 참여하지 않았습니다.\n\n출처: KBS / https://n.news.naver.com/article/056/0012287992"
+   "feed": "뉴스 02. 최전방 철책은 민간인에 뚫리고... 특전사 요원은 ‘모델 워킹’ 교육\n\n\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004008175"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/04.png",
-   "pngBytes": 1709187,
-   "title": "“주차 잘못했다고…관리소장이 벤츠를 X자로 긁어놔”",
-   "summary": "지난 3일 온라인 커뮤니티 보배드림에는 ‘아파트 관리소장이 입주민 차량을 고의로 긁었습니다. 글 작성자는 자신의 어머니 소유 벤츠 S550 차량이 아파트 지하주차장에…",
-   "summary_long": "보배드림아파트 관리소장이 주차 문제로 갈등을 빚은 입주민의 고급 수입차를 고의로 훼손했다는 주장이 제기돼 논란이 일고 있다. 지난 3일 온라인 커뮤니티 보배드림에는 ‘아파트 관리소장이 입주민 차량을 고의로 긁었습니다. 글 작성자는 자신의 어머니 소유 벤츠 S550 차량이 아파트 지하주차장에 주차돼 있던 중 훼손됐으며, 경찰에 신고해 확인한 결과 가해자가 아파트 관리소장으로 밝혀졌다고 설명했다.\n\n작성자에 따르면 관리소장은 사건 전날 다른 입주민과 다툼을 벌였으며, 다음 날 지하주차장을 순찰하던 중 차량이 삐딱하게 주차된 것을 보고 홧김에 긁었다고 말했다. 보배드림작성자는 당시 차량이 평소보다 다소 비뚤게 주차돼 있었던 것은 사실이지만, 그렇다고 해서 관리소장이 입주민의 차량을 훼손한 행위가 정당화될 수는 없다고 지적했다. 작성자는 관리소장의 행위에 대해 재물손괴 외에 추가로 책임을 물을 수 있는지, 아파트 측에도 책임을 물을 수 있는지 등을 물었다.",
-   "press": "동아일보",
-   "source": "동아일보",
-   "link": "https://n.news.naver.com/article/020/0003760273",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/04.png",
+   "pngBytes": 1653603,
+   "title": "돌연 까만딱지 생기더니…“바로 병원 가라” 질병청 경고한 감염병",
+   "summary": "쯔쯔가무시증을 옮기는 털진드기 유충을 현미경으로 확대한 모습과 설치류 체액을 섭취하는 털진드기 유충. 사진 질병관리청 최근 털진드기 활동이 빠르게 증가하면서…",
+   "summary_long": "쯔쯔가무시증을 옮기는 털진드기 유충을 현미경으로 확대한 모습(왼쪽)과 설치류 체액을 섭취하는 털진드기 유충(오른쪽). 사진 질병관리청 최근 털진드기 활동이 빠르게 증가하면서 쯔쯔가무시증에도 경고등이 들어왔다. 질병청은 6일 쯔쯔가무시증 매개체인 털진드기의 발생 추이 분석 결과를 공개했다.\n\n쯔쯔가무시증은 쯔쯔가무시균에 감염된 털진드기 유충에 물려 발생하는 감염병이다. 또한 털진드기 발생이 증가한 뒤 약 1~3주의 시차를 두고 쯔쯔가무시증 환자도 증가하는 특성이 나타났다. 일반적으로 털진드기 지수가 0.2 이상일 때 쯔쯔가무시증 환자 발생이 급격히 증가하는 양상을 보이는 만큼, 이번 달 환자가 시차를 두고 늘어날 가능성이 커졌다.",
+   "press": "중앙일보",
+   "source": "중앙일보",
+   "link": "https://n.news.naver.com/article/025/0003563325",
    "selection": "경제·시사",
-   "feed": "뉴스 03. “주차 잘못했다고…관리소장이 벤츠를 X자로 긁어놔”\n\n보배드림아파트 관리소장이 주차 문제로 갈등을 빚은 입주민의 고급 수입차를 고의로 훼손했다는 주장이 제기돼 논란이 일고 있다. 지난 3일 온라인 커뮤니티 보배드림에는 ‘아파트 관리소장이 입주민 차량을 고의로 긁었습니다. 글 작성자는 자신의 어머니 소유 벤츠 S550 차량이 아파트 지하주차장에 주차돼 있던 중 훼손됐으며, 경찰에 신고해 확인한 결과 가해자가 아파트 관리소장으로 밝혀졌다고 설명했다.\n\n작성자에 따르면 관리소장은 사건 전날 다른 입주민과 다툼을 벌였으며, 다음 날 지하주차장을 순찰하던 중 차량이 삐딱하게 주차된 것을 보고 홧김에 긁었다고 말했다. 보배드림작성자는 당시 차량이 평소보다 다소 비뚤게 주차돼 있었던 것은 사실이지만, 그렇다고 해서 관리소장이 입주민의 차량을 훼손한 행위가 정당화될 수는 없다고 지적했다. 작성자는 관리소장의 행위에 대해 재물손괴 외에 추가로 책임을 물을 수 있는지, 아파트 측에도 책임을 물을 수 있는지 등을 물었다.\n\n출처: 동아일보 / https://n.news.naver.com/article/020/0003760273"
+   "feed": "뉴스 03. 돌연 까만딱지 생기더니…“바로 병원 가라” 질병청 경고한 감염병\n\n쯔쯔가무시증을 옮기는 털진드기 유충을 현미경으로 확대한 모습(왼쪽)과 설치류 체액을 섭취하는 털진드기 유충(오른쪽). 사진 질병관리청 최근 털진드기 활동이 빠르게 증가하면서 쯔쯔가무시증에도 경고등이 들어왔다. 질병청은 6일 쯔쯔가무시증 매개체인 털진드기의 발생 추이 분석 결과를 공개했다.\n\n쯔쯔가무시증은 쯔쯔가무시균에 감염된 털진드기 유충에 물려 발생하는 감염병이다. 또한 털진드기 발생이 증가한 뒤 약 1~3주의 시차를 두고 쯔쯔가무시증 환자도 증가하는 특성이 나타났다. 일반적으로 털진드기 지수가 0.2 이상일 때 쯔쯔가무시증 환자 발생이 급격히 증가하는 양상을 보이는 만큼, 이번 달 환자가 시차를 두고 늘어날 가능성이 커졌다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003563325"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/05.png",
-   "pngBytes": 579926,
-   "title": "“딸 운동회 함성 시끄럽다 민원” 안재욱, 주민 신고에 작심 일침",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/05.png",
+   "pngBytes": 556158,
+   "title": "“전국민 우울증 걸릴 판” 코스피 폭락, 개미 비명",
    "summary": "",
    "summary_long": "",
-   "press": "중앙일보",
-   "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003562990",
+   "press": "조선일보",
+   "source": "조선일보",
+   "link": "https://n.news.naver.com/article/023/0004008143",
    "selection": "경제·시사",
-   "feed": "뉴스 04. “딸 운동회 함성 시끄럽다 민원” 안재욱, 주민 신고에 작심 일침\n\n\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003562990"
+   "feed": "뉴스 04. “전국민 우울증 걸릴 판” 코스피 폭락, 개미 비명\n\n\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004008143"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/06.png",
-   "pngBytes": 1731906,
-   "title": "유선민 중령님, 당신을 '나쁜 군인'이라 생각합니다",
-   "summary": "왕국의 병사는 왕의 명령이라면 무슨 일이든 하고, 당의 군대라는 공산국가의 군대에서는 당의 명령에 복종해야 하지만, 대한민국의 군대는 상관의 위로 올라가면 나오는 헌법을…",
-   "summary_long": "상관의 명령이라고 시민을 학살하거나 국회를 침탈하거나 살생부를 작성하고 싹 체포해서 어딘가로 데려가 총알을 쏘는, 그런 짓을 하면 안되는 게 민주공화국의 군대라는 겁니다. 물론 군인은 명령에 따라야 합니다. 왕국의 병사는 왕의 명령이라면 무슨 일이든 하고, 당의 군대라는 공산국가의 군대에서는 당의 명령에 복종해야 하지만, 대한민국의 군대는 상관의 위로 올라가면 나오는 헌법을 따라야 했습니다.\n\n이어 \"명령을 불이행하고 항명한 군인으로서 자격도 없는 평생 지탄받아야 할 소인배들을 특별진급이라는 개탄스러운 조치로 우리 군의 기강과 사기를 하수구 바닥까지 처박게 만든 범죄자 정권\"이라고 표현했습니다. 햄버거 가게에서 군인도 아닌 자의 호출에 장군들이 응하고, 거기서 무슨 말을 하는지 이의조차 제기하지 않았던 군대의 일원으로서 어찌 그리 당당합니까. 개인적으로 저는 내란의 핵심 가담자 윤석열이 작당했던 자들, 김용현, 노상원 등 악질 내란가담자들을 제외한다면, 당일 무슨 영문인지도 모르고 명령에 따라야 했던 이들에 대해서는 관용이 베풀어져야 한다고 생각해 왔습니다.",
-   "press": "오마이뉴스",
-   "source": "오마이뉴스",
-   "link": "https://n.news.naver.com/article/047/0002534818",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/06.png",
+   "pngBytes": 621920,
+   "title": "안철수 \"코스피 5천선 붕괴에 파랗게 질렸는데… 李 대통령, 긴급 라방이라도 켜서 대책 내놔라\"",
+   "summary": "",
+   "summary_long": "",
+   "press": "CJB청주방송",
+   "source": "CJB청주방송",
+   "link": "https://n.news.naver.com/article/655/0000033473",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 유선민 중령님, 당신을 '나쁜 군인'이라 생각합니다\n\n상관의 명령이라고 시민을 학살하거나 국회를 침탈하거나 살생부를 작성하고 싹 체포해서 어딘가로 데려가 총알을 쏘는, 그런 짓을 하면 안되는 게 민주공화국의 군대라는 겁니다. 물론 군인은 명령에 따라야 합니다. 왕국의 병사는 왕의 명령이라면 무슨 일이든 하고, 당의 군대라는 공산국가의 군대에서는 당의 명령에 복종해야 하지만, 대한민국의 군대는 상관의 위로 올라가면 나오는 헌법을 따라야 했습니다.\n\n이어 \"명령을 불이행하고 항명한 군인으로서 자격도 없는 평생 지탄받아야 할 소인배들을 특별진급이라는 개탄스러운 조치로 우리 군의 기강과 사기를 하수구 바닥까지 처박게 만든 범죄자 정권\"이라고 표현했습니다. 햄버거 가게에서 군인도 아닌 자의 호출에 장군들이 응하고, 거기서 무슨 말을 하는지 이의조차 제기하지 않았던 군대의 일원으로서 어찌 그리 당당합니까. 개인적으로 저는 내란의 핵심 가담자 윤석열이 작당했던 자들, 김용현, 노상원 등 악질 내란가담자들을 제외한다면, 당일 무슨 영문인지도 모르고 명령에 따라야 했던 이들에 대해서는 관용이 베풀어져야 한다고 생각해 왔습니다.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002534818"
+   "feed": "뉴스 05. 안철수 \"코스피 5천선 붕괴에 파랗게 질렸는데… 李 대통령, 긴급 라방이라도 켜서 대책 내놔라\"\n\n\n\n출처: CJB청주방송 / https://n.news.naver.com/article/655/0000033473"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/07.png",
-   "pngBytes": 554438,
-   "title": "\"대통령의 소통 행보 응원\" vs \"입 좀 다물라\"",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/07.png",
+   "pngBytes": 603961,
+   "title": "\"임무는 단 하나, 이재명 공소취소 이행\"… 주진우, 이용철 후보자 지명 맹폭",
    "summary": "",
    "summary_long": "",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002428883",
+   "press": "CJB청주방송",
+   "source": "CJB청주방송",
+   "link": "https://n.news.naver.com/article/655/0000033476",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. \"대통령의 소통 행보 응원\" vs \"입 좀 다물라\"\n\n\n\n출처: YTN / https://n.news.naver.com/article/052/0002428883"
+   "feed": "뉴스 06. \"임무는 단 하나, 이재명 공소취소 이행\"… 주진우, 이용철 후보자 지명 맹폭\n\n\n\n출처: CJB청주방송 / https://n.news.naver.com/article/655/0000033476"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/08.png",
-   "pngBytes": 586406,
-   "title": "“한동훈 복당, 대승적으로 추진해야”…지도부에 결단 촉구한 김태호",
-   "summary": "",
-   "summary_long": "",
-   "press": "매일경제",
-   "source": "매일경제",
-   "link": "https://n.news.naver.com/article/009/0005759392",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/08.png",
+   "pngBytes": 1813072,
+   "title": "오세훈 \"21세기 민주공화국서 절대왕정 꿈꾸나… 특검은 '대통령 전용 사법 방어기구'\"",
+   "summary": "\"혈세 300억과 수사 인력으로 대통령 사법 리스크 방어하는 사법체계 사유화\" 오세훈 서울시장이 더불어민주당이 추진하는 '조작기소 특검법'을 강력하게 규탄하며, 이를…",
+   "summary_long": "오세훈 서울시장, 민주당의 '조작기소 특검법' 강행 맹폭. \"혈세 300억과 수사 인력으로 대통령 사법 리스크 방어하는 사법체계 사유화\" 오세훈 서울시장이 더불어민주당이 추진하는 '조작기소 특검법'을 강력하게 규탄하며, 이를 이재명 대통령을 위한 '전용 사법 방어기구'이자 헌정사상 최악의 권력 남용으로 규정했습니다.\n\n오 시장은 페이스북을 통해 \"집값과 전월세는 치솟고, 국민은 하루하루 먹고사는 문제로 절박한데, 집권여당의 머릿속에는 민생은 안중에 없다\"며 \"오로지 대통령의 재판 리스크를 없애는 데 모든 역량을 쏟아붓고 있는 현실에 탄식을 금할 수 없다\"고 밝혔습니다. 이어 이번 특검법 강행을 가리켜 \"이재명 대통령을 위한 사법체계 사유화의 결정판\"이라고 직격했습니다. 오 시장은 특검의 실상에 대해 \"특검이라는 이름으로 포장한 '대통령 전용 사법 방어기구'나 다름없다\"며, \"여기에 국민의 혈세가 300원가량(300억 원가량) 투입될 것으로 추산되고, 300명이 넘는 인력이 동원돼 최장 200기간(200일간) 수사를 벌이겠다는 것\"이라고 비판했습니다.",
+   "press": "CJB청주방송",
+   "source": "CJB청주방송",
+   "link": "https://n.news.naver.com/article/655/0000033474",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. “한동훈 복당, 대승적으로 추진해야”…지도부에 결단 촉구한 김태호\n\n\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005759392"
+   "feed": "뉴스 07. 오세훈 \"21세기 민주공화국서 절대왕정 꿈꾸나… 특검은 '대통령 전용 사법 방어기구'\"\n\n오세훈 서울시장, 민주당의 '조작기소 특검법' 강행 맹폭. \"혈세 300억과 수사 인력으로 대통령 사법 리스크 방어하는 사법체계 사유화\" 오세훈 서울시장이 더불어민주당이 추진하는 '조작기소 특검법'을 강력하게 규탄하며, 이를 이재명 대통령을 위한 '전용 사법 방어기구'이자 헌정사상 최악의 권력 남용으로 규정했습니다.\n\n오 시장은 페이스북을 통해 \"집값과 전월세는 치솟고, 국민은 하루하루 먹고사는 문제로 절박한데, 집권여당의 머릿속에는 민생은 안중에 없다\"며 \"오로지 대통령의 재판 리스크를 없애는 데 모든 역량을 쏟아붓고 있는 현실에 탄식을 금할 수 없다\"고 밝혔습니다. 이어 이번 특검법 강행을 가리켜 \"이재명 대통령을 위한 사법체계 사유화의 결정판\"이라고 직격했습니다. 오 시장은 특검의 실상에 대해 \"특검이라는 이름으로 포장한 '대통령 전용 사법 방어기구'나 다름없다\"며, \"여기에 국민의 혈세가 300원가량(300억 원가량) 투입될 것으로 추산되고, 300명이 넘는 인력이 동원돼 최장 200기간(200일간) 수사를 벌이겠다는 것\"이라고 비판했습니다.\n\n출처: CJB청주방송 / https://n.news.naver.com/article/655/0000033474"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-06/09.png",
-   "pngBytes": 1345910
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/09.png",
+   "pngBytes": 1345945
   }
  ],
- "caption": "📰 11월 6일 오늘의 뉴스\n\n1. \"연평도 위문열차 보내달라\"‥해병대원 요청에 15년 만에 공연 재개\n   해병대 연평부대에서 15년 만에 'KFN TV 위문열차' 공연이 열렸습니다. 지난 6월 이재명 대통령이 연평부대를 방문했을 당시, 전역을 앞둔 해병대원이 위문열차 공연을…\n2. ‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과\n   한 유튜브 방송에서 '전두환·윤석열은 내란이 아니'라고 한 국민의힘 김태규 의원에 대한 제명 촉구 결의안이 범여권 주도로 오늘 국회 본회의를 통과했습니다. 결의안을 대표…\n3. “주차 잘못했다고…관리소장이 벤츠를 X자로 긁어놔”\n   지난 3일 온라인 커뮤니티 보배드림에는 ‘아파트 관리소장이 입주민 차량을 고의로 긁었습니다. 글 작성자는 자신의 어머니 소유 벤츠 S550 차량이 아파트 지하주차장에…\n4. “딸 운동회 함성 시끄럽다 민원” 안재욱, 주민 신고에 작심 일침\n5. 유선민 중령님, 당신을 '나쁜 군인'이라 생각합니다\n   왕국의 병사는 왕의 명령이라면 무슨 일이든 하고, 당의 군대라는 공산국가의 군대에서는 당의 명령에 복종해야 하지만, 대한민국의 군대는 상관의 위로 올라가면 나오는 헌법을…\n6. \"대통령의 소통 행보 응원\" vs \"입 좀 다물라\"\n7. “한동훈 복당, 대승적으로 추진해야”…지도부에 결단 촉구한 김태호\n\n🗣 “역사적 재평가라는 미명 하에 3심을 거쳐 확정된 전두환 내란수괴 대법원 판결까지 부정하며 법치주의를 훼손하고 반헌법적 망언을 한 것”\n이 발언을 그대로 실은 보도 3건 · KBS 뉴스 · 미디어오늘 · 월요신문\n· KBS 뉴스 — ‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과\n· 미디어오늘 — ‘전두환 내란 부정’ 김태규 제명촉구 결의안 본회의 통과\n· 월요신문 — 국회, 김태규 제명 촉구 결의안 가결…찬성 166표\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실 #국회\n\n출처: KBS, MBC, YTN, 동아일보, 매일경제, 오마이뉴스, 중앙일보"
+ "caption": "📰 11월 7일 오늘의 뉴스\n\n1. 이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"\n   이재명 대통령 내외와 장남 이동호 씨 내외가 진해 해군 기지에 있는 한산대CC에서 4명이서 가족 '황제 골프'를 쳤습니다. 주진우 국민의힘 의원은 한산대CC에서 이륙 전…\n2. 최전방 철책은 민간인에 뚫리고... 특전사 요원은 ‘모델 워킹’ 교육\n3. 돌연 까만딱지 생기더니…“바로 병원 가라” 질병청 경고한 감염병\n   쯔쯔가무시증을 옮기는 털진드기 유충을 현미경으로 확대한 모습과 설치류 체액을 섭취하는 털진드기 유충. 사진 질병관리청 최근 털진드기 활동이 빠르게 증가하면서…\n4. “전국민 우울증 걸릴 판” 코스피 폭락, 개미 비명\n5. 안철수 \"코스피 5천선 붕괴에 파랗게 질렸는데… 李 대통령, 긴급 라방이라도 켜서 대책 내놔라\"\n6. \"임무는 단 하나, 이재명 공소취소 이행\"… 주진우, 이용철 후보자 지명 맹폭\n7. 오세훈 \"21세기 민주공화국서 절대왕정 꿈꾸나… 특검은 '대통령 전용 사법 방어기구'\"\n   \"혈세 300억과 수사 인력으로 대통령 사법 리스크 방어하는 사법체계 사유화\" 오세훈 서울시장이 더불어민주당이 추진하는 '조작기소 특검법'을 강력하게 규탄하며, 이를…\n\n🗣 “자료도 틀어막고, 고발 협박으로 내 입까지 틀어막아도 소용없다”\n이 발언을 그대로 실은 보도 10건 · JTBC · 조세일보 · 뉴데일리 · Chosunbiz\n· JTBC — 이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"\n· 조세일보 — 李대통령 장남, 주진우 명예훼손 고소...朱 \"협박 안 통해\" 맞고발\n· 뉴데일리 — 李 대통령 장남 동호씨, 주진우 명예훼손 고소 … \"골프장 간 적 없다\"\n· Chosunbiz — 李 대통령 장남, 주진우 명예훼손 고소… “골프장 안 갔다”\n· 한국경제 — 주진우 \"李대통령 장남 고소에 맞고발\"…'황제 골프' 난타전\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: CJB청주방송, JTBC, 조선일보, 중앙일보"
 }
