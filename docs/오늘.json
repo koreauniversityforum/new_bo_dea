@@ -1,200 +1,275 @@
 {
- "date": "2026-11-07",
- "generated_at": "2026-11-07T11:29:23+09:00",
+ "date": "2026-11-08",
+ "generated_at": "2026-11-08T10:58:07+09:00",
  "mode": "daily",
- "window_start": "2026-11-06T00:00:00+09:00",
- "window_end": "2026-11-06T23:59:59+09:00",
+ "window_start": "2026-11-07T00:00:00+09:00",
+ "window_end": "2026-11-07T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000519442",
-   "published_at": "2026-11-06T10:28:59+09:00",
+   "title": "'한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'",
+   "source": "한국일보",
+   "url": "https://n.news.naver.com/article/469/0000964172",
+   "published_at": "2026-11-07T04:31:29+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "이재명 대통령 내외와 장남 이동호 씨 내외가 진해 해군 기지에 있는 한산대CC에서 4명이서 가족 '황제 골프'를 쳤습니다. 주진우 국민의힘 의원은 한산대CC에서 이륙 전…",
-   "summary_long": "이재명 대통령 내외와 장남 이동호 씨 내외가 진해 해군 기지에 있는 한산대CC에서 4명이서 가족 '황제 골프'를 쳤습니다. 골프를 마친 후에는 한산대CC에서 저도 숙소까지 대통령 전용 헬기를 타고 이동했습니다. 주진우 국민의힘 의원은 한산대CC에서 이륙 전 대기중이던 헬기 사진을 공개해 가며 장남이 함께 골프를 쳤다고 주장했습니다.\n\n민주당에서 사실이 아니라고 했지만 주 의원이 계속해서 주장을 이어가자 이 대통령의 장남 이동호 씨가 주 의원을 경찰에 고소했습니다. 이 대통령 장남의 고발에 대해 주 의원은 \"협박은 안 통한다\"며 \"맞고발로 황제 골프 의혹의 진실을 밝히겠다\"며 물러서지 않았습니다. 주진우 의원은 헬기 사진 외에는 골프 동반을 뒷받침하는 직접적인 자료 등은 제시하지 못했는데요.",
+   "summary": "오세훈 서울시장과 장동혁 국민의힘 대표, 한동훈 무소속 의원이 4일 서울 더그랜드롯데호텔에서 열린 중앙포럼에 참석하고 있다. 범보수 야권 유력 차기 주자인 장동혁…",
+   "summary_long": "오세훈(왼쪽부터) 서울시장과 장동혁 국민의힘 대표, 한동훈 무소속 의원이 4일 서울 더그랜드롯데호텔에서 열린 중앙포럼에 참석하고 있다. 범보수 야권 유력 차기 주자인 장동혁 국민의힘 대표와 한동훈 무소속 의원이 최근 들어 오세훈 서울시장과 '밀착' 행보를 보이면서 오 시장이 범보수 연대의 새 '구심점'으로 떠오르는 모습이다. 당권파는 '오장연대'를 우선 거론하며 한 의원 견제에 나섰고, 친한(친한동훈)계는 복당론을 띄우며 오 시장의 입장을 요구하고 있다.\n\n당권파 조정훈 의원은 CBS 라디오에서 \"1단계 연대는 단연코 장 대표와 오 시장이 서로 역할과 존재를 인정하고 확장해 나가며 뿌리를 지켜나가는 것\"이라고 말했다. 또 다른 의원은 \"오 시장은 중도보수, 장 대표는 강성 당원들을 확보하게 되면 일석이조 아니겠나\"라며 \"나쁘지 않은 구상\"이라고 했다. 박정훈 의원은 오 시장이 한 의원 복당에 적극적이지 않다는 시각과 관련해 \"중도 확장력이 큰 오 시장은 (시장 신분이어서) 다음 총선에 관여할 수 없다\"며 \"그런 만큼 한동훈 복당 문제를 총선 승리 관점에서 바라봐 달라\"고 촉구했다.",
    "quotes": [
-    "국군복지단에 골프장 예약 내역을 요구했더니, 국방장관의 지시가 내려왔다며 늘 제출해 오던 자료를 갑자기 못 내겠다고 한다",
-    "자료도 틀어막고, 고발 협박으로 내 입까지 틀어막아도 소용없다",
-    "고발 내용 확인 후 법적 조치로 맞서 진실을 규명하겠다"
+    "1단계 연대는 단연코 장 대표와 오 시장이 서로 역할과 존재를 인정하고 확장해 나가며 뿌리를 지켜나가는 것",
+    "오 시장께서 약속하신 시작된 변화, 압도적 완성을 국민의힘이 함께 이뤄가겠다. 국민의힘과 서울시는 한 팀",
+    "총선과 대선 승리를 위해서는 당내 갈등을 최소화하고 통합의 방향으로 운영돼야 한다"
    ],
-   "press": "JTBC",
-   "photo": "01.png",
+   "press": "한국일보",
+   "photo": "01.jpg",
    "quoted": {
-    "quote": "자료도 틀어막고, 고발 협박으로 내 입까지 틀어막아도 소용없다",
+    "quote": "오 시장께서 약속하신 시작된 변화, 압도적 완성을 국민의힘이 함께 이뤄가겠다. 국민의힘과 서울시는 한 팀",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "한국일보",
+      "title": "'한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HLWkxbTVveGZtNXJLS0ttNkZCY2dvYUFoWVZ5R1JSV2xnSTh1XzkweUVWVGZmRGJ0OHJCQUlfS2o3VC1nRWhkeXY4SDE1TmpqdzB2UjVzNzhRRlUzZUUwWXlHdzl2S2VFVGNtUkNuQmNKVlnSAXNBVV95cUxNRy1pMW01b3hmbTVyS0tLbTZGQmNnb2FBaFlWeUdSUldsZ0k4dV85MHlFVlRmZkRidDhyQkFJX0tqN1QtZ0VoZHl2OEgxNU5qancwdlI1czc4UUZVM2VFMFl5R3c5dktlRVRjbVJDbkJjSlZZ?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "국힘, 오세훈과 서울시 예산정책협의…장동혁 \"국힘·서울은 한 팀\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HakRMSHAtQ3dZR1p6NjByaHAtUUJmWUlEM1hBdzRKb2xfUXk1eGxYUWM3WjVyNWZ3MWNvTUc0U1NKNEN0RmIxc3lFdERfVmRyckw0RGlyNGVqMGtpclNKNG9CYmxsbnhReS1xRlYxaklseGJ4SjJJddIBeEFVX3lxTE5HakRMSHAtQ3dZR1p6NjByaHAtUUJmWUlEM1hBdzRKb2xfUXk1eGxYUWM3WjVyNWZ3MWNvTUc0U1NKNEN0RmIxc3lFdERfVmRyckw0RGlyNGVqMGtpclNKNG9CYmxsbnhReS1xRlYxaklseGJ4SjJJdQ?oc=5"
+     },
+     {
+      "press": "미디어펜",
+      "title": "장동혁·오세훈, '서울시 예산' 두고 공조...\"국힘과 서울시는 한팀\"",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EVkJqRTdFVDVrR2s2eEFrUTJoY0gwS3VQcUQ0QzdzQlQwNnFLWUJJdk5KWGt0REJLRk1BT21fenctMXp6VlJ0cVcyazR6dkliRGhkQ3B4MVnSAVhBVV95cUxORFZCakU3RVQ1a0drNnhBa1EyaGNIMEt1UHFENEM3c0JUMDZxS1lCSXZOSlhrdERCS0ZNQU9tX3p3LTF6elZSdHFXMms0enZJYkRoZENweDFZ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "이준석 \"전한길 처벌 원해, 마음 바꿨다\"…'학력 위조' 의혹 제기 선처 거부",
+   "source": "한국일보",
+   "url": "https://n.news.naver.com/article/469/0000964191",
+   "published_at": "2026-11-07T11:28:14+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "selection": "정치",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "\"하루 만에 라면 2만 그릇 팔렸다\"…매출 1억7000만원 초대박",
+   "source": "한국경제",
+   "url": "https://n.news.naver.com/article/015/0005351377",
+   "published_at": "2026-11-07T14:34:17+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "7일 구미시에 따르면 축제 첫날인 6일 현장에서 판매된 별미라면은 2만2231그릇으로 지난해 같은 날 1만5140그릇보다 약 47% 늘었다. 특히 축제 인기 상품인 ‘갓…",
+   "summary_long": "경북 구미시의 대표 행사로 자리 잡은 ‘2026 구미라면축제’가 개막 첫날부터 흥행을 이어갔다. 7일 구미시에 따르면 축제 첫날인 6일 현장에서 판매된 별미라면은 2만2231그릇으로 지난해 같은 날 1만5140그릇보다 약 47% 늘었다. 특히 축제 인기 상품인 ‘갓 튀긴 라면’을 사려는 방문객들이 몰리면서 대기행렬이 하루 종일 500m가량 이어졌다.\n\n생참복라면과 송이·능이를 활용한 산중라면을 비롯해 해외 누들 메뉴까지 다양한 이색 라면을 선보인다. 온라인 예선에 참가한 세계 80개국 1263명 가운데 선발된 13개국 참가자 13명이 각국 식문화와 개성을 담은 라면 요리로 경연을 벌인다. 김장호 구미시장은 “구미라면축제는 지역의 산업과 농업, 음식문화를 라면이라는 친숙한 콘텐츠로 연결한 구미만의 축제”라며 “남은 기간에도 방문객들이 안전하고 편리하게 축제를 즐기고, 원도심과 지역 상권까지 함께 경험할 수 있도록 운영에 최선을 다하겠다”고 밝혔다.",
+   "quotes": [
+    "남은 기간에도 방문객들이 안전하고 편리하게 축제를 즐기고, 원도심과 지역 상권까지 함께 경험할 수 있도록 운영에 최선을 다하겠다",
+    "구미라면축제는 지역의 산업과 농업, 음식문화를 라면이라는 친숙한 콘텐츠로 연결한 구미만의 축제"
+   ],
+   "press": "한국경제",
+   "photo": "03.jpg",
+   "quoted": {
+    "quote": "남은 기간에도 방문객들이 안전하고 편리하게 축제를 즐기고, 원도심과 지역 상권까지 함께 경험할 수 있도록 운영에 최선을 다하겠다",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "연합뉴스",
+      "title": "구미라면축제 첫날부터 구름 인파…별미라면 2만2천그릇 팔려",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84RTNUYVozRXlaVmVaNmJkRDdWQ1BsVlBzek1rLWszN3U3VTB0LS1xWXd1YVAtTGlaSzZhZlRLU2dlSmg5SG92RnR0UzRGZHFiRFY5STRaVjZ4NlFJTzRZTdIBYEFVX3lxTE84RTNUYVozRXlaVmVaNmJkRDdWQ1BsVlBzek1rLWszN3U3VTB0LS1xWXd1YVAtTGlaSzZhZlRLU2dlSmg5SG92RnR0UzRGZHFiRFY5STRaVjZ4NlFJTzRZTQ?oc=5"
+     },
+     {
+      "press": "데일리대구경북뉴스",
+      "title": "구미 도심이 라면으로 물들다",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wR2MzaTNwTVdGcXpneFFEZEVNZzgzb3h2Z2NwLU9wQWZkcTBqdDBIQjQtdUVsLTgxdGFoVExxU21pal9vNmRMOFZYR1BuckxmbDhmUlVvZ3lrRXRhODVHcnpBVUs3dw?oc=5"
+     },
+     {
+      "press": "한국경제",
+      "title": "\"하루 만에 라면 2만 그릇 팔렸다\"…매출 1억7000만원 초대박",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NOUk4WDdOM2xCYlVqUXhRbFhKdEU2U0JyOXNrUDdNdzZlX1pLS3Vfdk9LSHZoSGNWOUJfWWViX19leUhHMHY2WFp4cG4xUndNYS1FT2N5Y0ZqUQ?oc=5"
+     },
+     {
+      "press": "부산파이낸셜뉴스",
+      "title": "라면으로 물들고 있는 구미시, 라면축제 대박",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJSTNKcjlWNFhVRm96b0VyY2RLeHZLcWtnUU5kTDF5eXJCN3NzX3JkZUFqUHVhLTdaTU53cWxFbmU2ckFMdWsycy1HdGNTOVZtQUNMeUczY2IzNkk0UnFoWFRmdDhPQQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "미국 중간선거 후폭풍에 대미 원전사업 100억달러 선지급 도마",
+   "source": "연합뉴스",
+   "url": "https://n.news.naver.com/article/001/0016427593",
+   "published_at": "2026-11-07T06:15:00+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "미국 중간선거에서 승리한 민주당이 인공지능 데이터센터에 대한 규제를 강화할 것이라는 전망이 나오면서 최대 100억달러 규모의 원전 투자 선급금 지급 문제가 도마 위에…",
+   "summary_long": "미국 중간선거에서 승리한 민주당이 인공지능(AI) 데이터센터에 대한 규제를 강화할 것이라는 전망이 나오면서 최대 100억달러 규모의 원전 투자 선급금 지급 문제가 도마 위에 올랐다. 전기를 대량으로 쓸 AI 데이터센터 건설에 제동이 걸리면 미국 내 원전 사업의 수익성 확보도 불투명해지는 만큼, 거액의 자금부터 먼저 집행하는 것이 적절한지를 놓고 우려의 목소리가 나오고 있다. 7일 관계 당국에 따르면 100억달러 규모의 원전 투자 선급금은 설계에서 제작, 납품까지 수년이 걸리는 원전 핵심 설비인 장주기 품목(Long Lead Items)을 사전에 확보하기 위한 자금이다.\n\n서왕진 조국혁신당 의원은 지난 5일 국회에서 기자회견을 열고 \"미국 민주당이 상·하원을 장악하면서 원전 투자 여건에 변화가 예상된다\"며 \"한미 원전 프레임워크에 따른 100억달러 규모의 선지급을 보류해야 한다\"고 촉구했다. 반면 주무부처인 산업통상부는 AI 데이터센터 규제 강화 움직임이 원전 사업의 악재만은 아니라는 입장이다. 이어 \"미국 측이 중간선거 이후에 원전 후보지를 통보하기로 했다\"며 \"후보지를 통보하는 대로 기존 송전망 연계 여부와 장기 전력구매계약을 맺을 빅테크 등 안정적 수요처를 종합적으로 따져 대응할 방침\"이라고 덧붙였다.",
+   "quotes": [
+    "원전과 같은 대형 발전원이 함께 들어서 전력을 안정적으로 공급할 경우 오히려 지역 전기요금 인상 압력을 낮추고 데이터센터에 대한 주민 수용성을 확보하는 계기가 될 수 있다",
+    "후보지를 통보하는 대로 기존 송전망 연계 여부와 장기 전력구매계약을 맺을 빅테크 등 안정적 수요처를 종합적으로 따져 대응할 방침",
+    "현지 주민들의 반발은 전력 공급 인프라 확충 없이 막대한 전력을 쓰는 데이터센터만 들어설 때 전기료가 오를까 걱정하는 것"
+   ],
+   "press": "연합뉴스",
+   "photo": "04.jpg",
+   "quoted": {
+    "quote": "후보지를 통보하는 대로 기존 송전망 연계 여부와 장기 전력구매계약을 맺을 빅테크 등 안정적 수요처를 종합적으로 따져 대응할 방침",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "연합뉴스",
+      "title": "미국 중간선거 후폭풍에 대미 원전사업 100억달러 선지급 도마",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iWGtsRFE1ZmM3RWp1d2JvVGhRRHlkckZaSThWX0JQYW03aUN6M1Q5UkpmemJidWFuOUhlb3FUeXo2VDFkNTEzN2ZWUFlvRHRNcHh3ejlac3diQnfSAWBBVV95cUxOOTNiZDZGNUlZRHNMY3BIRkFOWTh2NkI3YXpaaDN5QWpmVEJwOUZyY0lCTE1tV2xfNDI1dmUtaldvQ2VVeC1vLU9zVkx2cWQ4NnNXSk5oVFIyOW9RWHlTb2M?oc=5"
+     },
+     {
+      "press": "파이낸셜포스트",
+      "title": "[분석] 미국 선거판에 흔들리는 원전 사업…100억 달러 선지급 보류 '딜레마'",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yRWlqRnJkT0FpTXRDbmtKQUhnRks2WU9pakNOOGFiS0MxVXN1R05zc3VPd3JmRHdOa3RjOXVLZUhaMWRtT3NMZnpBNmJjQnZiemNQLUJHZm5rQV9LTjl0WE9SbS0zaWVGOTlKOU5ZbHgwa25h?oc=5"
+     },
+     {
+      "press": "M이코노미뉴스",
+      "title": "민주당 규제 전망에 원전 전력수요·수익성 우려... 대미 원전사업 100억 달러 선지급 논란",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hX2JrQ3p5cGdPLVlVeDE2QjdrUXNxQlNLNWNYSzRwclZwMVRyNWdSNUhMb3BCeGZ3WHRJeTAwS3VYcFJKNmUwLU83T0ZBenF5dDkweVAwbXVXTTlOX2xNcEpKRFJ0N0U?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "[속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”",
+   "source": "세계일보",
+   "url": "https://n.news.naver.com/article/022/0004173263",
+   "published_at": "2026-11-07T16:37:07+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "comment_count": 318,
+   "comment_agree": 195,
+   "comment_disagree": 42,
+   "division_balance": 0.35443,
+   "division_score": 1.939539,
+   "selection": "찬반 쟁점",
+   "summary": "국민의힘은 “대한민국의 ‘국기’인 태권도가 북한의 무형유산으로 유네스코에 등재될 상황에 놓였다”며 7일 정부를 겨냥했다. 함 대변인은 “북한이 태권도의 유네스코 단독…",
+   "summary_long": "국민의힘은 “대한민국의 ‘국기(國技)’인 태권도가 북한의 무형유산으로 유네스코에 등재될 상황에 놓였다”며 7일 정부를 겨냥했다. 국민의힘 함인경 대변인은 이날 논평에서 “정부는 도대체 무엇을 했나”라며 이처럼 따져 물었다. 함 대변인은 “북한이 태권도의 유네스코 단독 등재를 추진하는 동안 우리 정부는 무엇을 했나”라며 “대한민국의 문화유산을 지키는 데에도 북한의 눈치를 봐야 하느냐”고 물었다.\n\n북한이 2024년 3월 유네스코에 등재신청서를 냈지만, 국가유산청은 남북 공동 등재 가능성 등을 검토하다 2년 뒤인 올해 3월에야 한국 태권도의 신청서를 제출했다. 이어 “유네스코 심사 결과와 관계없이, 태권도가 유네스코 인류무형유산 대표목록에 ‘단독 등재’되거나 ‘확장 등재’될 수 있도록 노력을 다하겠다”고 전했다. 함 대변인은 “심사 결과 발표를 앞두고 민간단체가 태권도 남북 공동 등재의 당위성 설명 공문을 유네스코에 전달해달라고 요청했지만, 국가유산청은 보냈다고 답변한 반면 해당 단체는 실제로 전달되지 않았다고 주장한다”고 강조했다.",
+   "quotes": [
+    "심사 결과 발표를 앞두고 민간단체가 태권도 남북 공동 등재의 당위성 설명 공문을 유네스코에 전달해달라고 요청했지만, 국가유산청은 보냈다고 답변한 반면 해당 단체는 실제로 전달되지 않았다고 주장한다",
+    "유네스코 심사 결과와 관계없이, 태권도가 유네스코 인류무형유산 대표목록에 ‘단독 등재’되거나 ‘확장 등재’될 수 있도록 노력을 다하겠다",
+    "특정 국가가 먼저 등재를 신청했거나 먼저 등재됐다고 해서 해당 무형유산에 대한 배타적이고 독점적인 권리가 인정되는 것은 아니다"
+   ],
+   "press": "세계일보",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "심사 결과 발표를 앞두고 민간단체가 태권도 남북 공동 등재의 당위성 설명 공문을 유네스코에 전달해달라고 요청했지만, 국가유산청은 보냈다고 답변한 반면 해당 단체는 실제로 전달되지 않았다고 주장한다",
     "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "JTBC",
-      "title": "이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBINGtMUV9jcE5acFItXzBBLUZtMkNWY0hiMjRUQ0VlUmx3OWlVSHdQeWdwODVXTWdtQ2VYOHNaVmRBTVh4a2hHdzNmdjg1ak1wSDNyTQ?oc=5"
+      "press": "세계일보",
+      "title": "[속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CTm5DV3N6WU9hdThmbXMyU3BkenNaRzI5MXVJeWgyZ2ZwUmM0S0RCc1BCeWdRUFZZbW5VT25oUlpPeW9NQmdLTlpMTmVxTWFT0gFUQVVfeXFMTUE2cS1YbjRIWVJaLVF1eUEzRzRfdTVEaGQ5VzVXbzkzVjFuN0lBRks4THZMbllKNDhlaExvOTJvRWdOLWtkV1ZkSFpJU0JmcThHYmtJ?oc=5"
      },
      {
-      "press": "조세일보",
-      "title": "李대통령 장남, 주진우 명예훼손 고소...朱 \"협박 안 통해\" 맞고발",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xbDZnTFRNamk1Mjl4S19RUER2U1V6WllQNFZlT3dqSVZoVU8tVlVSYzRDMXNmZFBsdWhIaDFKc3dTTldBZWZLdXZFUlVzS0I3VlpLZTRNbDk2MGdGdG5scG5pa00xOW5tcFM4TEFQUQ?oc=5"
+      "press": "연합뉴스",
+      "title": "국기원 \"태권도 공동 등재 못 해 아쉬워…경기 운영 우려 없어\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WMUoyNmdUTDVCaUY2QWE5QnZMRzJCdVRZMzNSSGwtV2tDUWJPZDhNaFVLV2xoM1RVcG41UHctYnc3UkVzQThzVG1IMHhJZTRJLW1YOUFaR3JjTE3SAWBBVV95cUxNREhITmhDcEd3QzhHbUU1RTRnNmVFTTBpU3JoMENfOG5mSkIwZVlZdUpEbHgwREsxUEJyTmZiT0VHbWw0N2V6eU1nWm1vYXJNSHRZajBacjdyVF9hZnlLSkQ?oc=5"
      },
      {
-      "press": "뉴데일리",
-      "title": "李 대통령 장남 동호씨, 주진우 명예훼손 고소 … \"골프장 간 적 없다\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVENyS1E4NHFtQmUzTDNhdDBMdlpiejNwSy1JMDlmWGlzUEQydkpENWU5b1dfblhUSU5NSFU2bUtwQ3lpY2RxaWtqSi1hMmdNVUtYd2tFa0tuT3NTQ1FrNXBMeWkzMk9BWjlldnBKTDluUXAtTWg4YWVrNERuUEkyZdIBgAFBVV95cUxOVENyS1E4NHFtQmUzTDNhdDBMdlpiejNwSy1JMDlmWGlzUEQydkpENWU5b1dfblhUSU5NSFU2bUtwQ3lpY2RxaWtqSi1hMmdNVUtYd2tFa0tuT3NTQ1FrNXBMeWkzMk9BWjlldnBKTDluUXAtTWg4YWVrNERuUEkyZQ?oc=5"
+      "press": "경기일보",
+      "title": "국민의힘 “태권도 北 단독등재 유력…정부는 도대체 뭐했나”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZTUZTVlJtT3YwYWV0RVVBR2NTNWtkcmpHOVVLX2pyVWE4ZnJQYVQ5dlFiRWJIT1ZIUGlnS0QzQmExNHI3M2kzTVJYck1uS0lwZnl0MFV3SUhVMkk?oc=5"
      },
      {
-      "press": "Chosunbiz",
-      "title": "李 대통령 장남, 주진우 명예훼손 고소… “골프장 안 갔다”",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLW4ya0puenRxTi1OWkJiTV8wLWJnODNFd0dlWmRsZ190UGxsZnJ6NU5zRHJJYkJleUd2VVlqelhFT3RqcnVrQU1mbHFFRjdoX0QtOUxPMUZaaXJGT0ItcW96ZTR3UFE5RWRHbUJWSHVueElxa0g3aDBJYUpBUzh5T0FHZ9IBlwFBVV95cUxNSUQzVGZvYm1vMEVFZ1FaaXFsR0pYajhDaC04eU5Id2wyUjlsdV85NTRxd2hkSFNPd0kwYUlDVGJqODdfTWRLY0QtVkNtV25PUEYtSnNsVEo5aHZadU43cC1qcEw0TlVMclBtak9pTWJaZER5aDc2OENyemlXSmtHVzYwN2hRWjFiSUVaT1ZPOGFzemNKRFA0?oc=5"
+      "press": "연합뉴스",
+      "title": "국힘, 北태권도 인류유산 단독등재 유력에 \"문화도 北눈치 보나\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Jc2xHN214dkcxdHB4TEtBcTgyTkFtRVlyZjdmdmZ6ZTFmNXdZcFVNLUh1M2hfd2R0Q2t3TkZyMFl1QkE1V0RyNWNsZzg0S1JwOE85NWllUkNuV0XSAWBBVV95cUxNVldPLXg4d0pNMnQza1M5dFpKQXQtY095UjE0aTBSNjRrY0IyTWlLa1lJNlhScWQ0eEJGMHl2UEJvdHZkTDRwXzlLQ1NQSGdzRjRzRWUzbGFaUnNDZmVxQkk?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "국힘, 北태권도 유네스코 유산 '단독 등재' 유력에 \"정부 뭐했나\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Mei00SGU4SzB0NmE2dmRzZGY0amE5Sm5sTFd1Ymd4cURCWFc1NDBfZnZDemtNUkpvQW9IUHdiaVZudFB3RVNVTmZyYUNZUWMycEYwaUtRQzNGS1dyYTlTMGlGcS1LRUJtZUZFU252dVZqODNTOURqTNIBeEFVX3lxTE9Mei00SGU4SzB0NmE2dmRzZGY0amE5Sm5sTFd1Ymd4cURCWFc1NDBfZnZDemtNUkpvQW9IUHdiaVZudFB3RVNVTmZyYUNZUWMycEYwaUtRQzNGS1dyYTlTMGlGcS1LRUJtZUZFU252dVZqODNTOURqTA?oc=5"
      },
      {
       "press": "한국경제",
-      "title": "주진우 \"李대통령 장남 고소에 맞고발\"…'황제 골프' 난타전",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94NHgxTkNXT3FyR0gtVmo4Szg5TkVjbm5hQzZUVXRXazlaLWw0dW5iRFpvc1hTMDl2XzVVeDVDaDdYdnY0UjZES21UMklmLXVOb2RrQjNLVDZHQQ?oc=5"
-     },
-     {
-      "press": "펜앤마이크",
-      "title": "주진우, 이재명 장남 명예훼손 고소에 \"협박 안 통해\"…맞고발 예고",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WSnJpUzNEbTF3OXRGT1VEVHBzallaeDNzRVZLWnR1VHUya2pocWpwQ0JQbWtCZk9KWUFyQlZHZldJUlA3LTUzVWZhb3VNUkJ3MzBvckxqOG0wU1plbEdBWjRTY1I4RW1FME14ZnFoNNIBb0FVX3lxTE9WSnJpUzNEbTF3OXRGT1VEVHBzallaeDNzRVZLWnR1VHUya2pocWpwQ0JQbWtCZk9KWUFyQlZHZldJUlA3LTUzVWZhb3VNUkJ3MzBvckxqOG0wU1plbEdBWjRTY1I4RW1FME14ZnFoNA?oc=5"
+      "title": "\"태권도가 北 전통 무술? 정부는 뭐 했나\"…쏟아진 비판",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vbE5GdGdHOElJNENZbkJrNkhPWndlTWRNWUdIOHMwMXRWXzZiSkRfdjByR2hLSG5GRFJUQ0E0REJ2R2JCSDBPeGNyc1gyRUlBLXdxdThGZFpvUQ?oc=5"
      }
     ]
    }
   },
   {
-   "title": "최전방 철책은 민간인에 뚫리고... 특전사 요원은 ‘모델 워킹’ 교육",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004008175",
-   "published_at": "2026-11-06T15:15:10+09:00",
+   "title": "한동훈 “특검법이 아니라 특권법…李 재판 무력화할 특권 주는 법”",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005760341",
+   "published_at": "2026-11-07T11:06:08+09:00",
    "section_id": "100",
-   "view_rank": 2,
-   "selection": "정치",
+   "view_rank": 1,
+   "comment_count": 599,
+   "comment_agree": 153,
+   "comment_disagree": 32,
+   "division_balance": 0.345946,
+   "division_score": 1.807826,
+   "selection": "찬반 쟁점",
    "prep_error": "The read operation timed out"
   },
   {
-   "title": "돌연 까만딱지 생기더니…“바로 병원 가라” 질병청 경고한 감염병",
-   "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003563325",
-   "published_at": "2026-11-06T11:33:24+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "쯔쯔가무시증을 옮기는 털진드기 유충을 현미경으로 확대한 모습과 설치류 체액을 섭취하는 털진드기 유충. 사진 질병관리청 최근 털진드기 활동이 빠르게 증가하면서…",
-   "summary_long": "쯔쯔가무시증을 옮기는 털진드기 유충을 현미경으로 확대한 모습(왼쪽)과 설치류 체액을 섭취하는 털진드기 유충(오른쪽). 사진 질병관리청 최근 털진드기 활동이 빠르게 증가하면서 쯔쯔가무시증에도 경고등이 들어왔다. 질병청은 6일 쯔쯔가무시증 매개체인 털진드기의 발생 추이 분석 결과를 공개했다.\n\n쯔쯔가무시증은 쯔쯔가무시균에 감염된 털진드기 유충에 물려 발생하는 감염병이다. 또한 털진드기 발생이 증가한 뒤 약 1~3주의 시차를 두고 쯔쯔가무시증 환자도 증가하는 특성이 나타났다. 일반적으로 털진드기 지수가 0.2 이상일 때 쯔쯔가무시증 환자 발생이 급격히 증가하는 양상을 보이는 만큼, 이번 달 환자가 시차를 두고 늘어날 가능성이 커졌다.",
-   "quotes": [
-    "잠복기인 10일 이내에 발열·발진 등 의심 증상이 나타나면 지체하지 말고 의료기관을 방문해 진료를 받아야 한다"
-   ],
-   "press": "중앙일보",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "잠복기인 10일 이내에 발열·발진 등 의심 증상이 나타나면 지체하지 말고 의료기관을 방문해 진료를 받아야 한다",
-    "n": 1,
-    "verified": 0,
-    "items": [
-     {
-      "press": "중앙일보",
-      "title": "돌연 까만딱지 생기더니…“바로 병원 가라” 질병청 경고한 감염병",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PaDNLVHE5SUNPUTBObTRJVHRIRTVXUDd0aVg0ZUlFN2Z0SUg1MG1OMkxsdjdBb3VpeWpzWXFhWUpsbG11bEduNnJyWWJtQWtyc2tLTmZB?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "“전국민 우울증 걸릴 판” 코스피 폭락, 개미 비명",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004008143",
-   "published_at": "2026-11-06T10:23:29+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "안철수 \"코스피 5천선 붕괴에 파랗게 질렸는데… 李 대통령, 긴급 라방이라도 켜서 대책 내놔라\"",
-   "source": "CJB청주방송",
-   "url": "https://n.news.naver.com/article/655/0000033473",
-   "published_at": "2026-11-06T15:06:12+09:00",
+   "title": "국민의힘, ‘조작기소 특검’ 장외 규탄대회…여론전 시동",
+   "source": "KBS",
+   "url": "https://n.news.naver.com/article/056/0012289202",
+   "published_at": "2026-11-07T01:01:02+09:00",
    "section_id": "100",
    "view_rank": 3,
-   "comment_count": 360,
-   "comment_agree": 130,
-   "comment_disagree": 36,
-   "division_balance": 0.433735,
-   "division_score": 2.219853,
+   "comment_count": 152,
+   "comment_agree": 115,
+   "comment_disagree": 14,
+   "division_balance": 0.217054,
+   "division_score": 1.056519,
    "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "\"임무는 단 하나, 이재명 공소취소 이행\"… 주진우, 이용철 후보자 지명 맹폭",
-   "source": "CJB청주방송",
-   "url": "https://n.news.naver.com/article/655/0000033476",
-   "published_at": "2026-11-06T17:56:14+09:00",
-   "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 205,
-   "comment_agree": 207,
-   "comment_disagree": 32,
-   "division_balance": 0.267782,
-   "division_score": 1.467619,
-   "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "오세훈 \"21세기 민주공화국서 절대왕정 꿈꾸나… 특검은 '대통령 전용 사법 방어기구'\"",
-   "source": "CJB청주방송",
-   "url": "https://n.news.naver.com/article/655/0000033474",
-   "published_at": "2026-11-06T16:14:10+09:00",
-   "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 283,
-   "comment_agree": 172,
-   "comment_disagree": 23,
-   "division_balance": 0.235897,
-   "division_score": 1.245094,
-   "selection": "찬반 쟁점",
-   "summary": "\"혈세 300억과 수사 인력으로 대통령 사법 리스크 방어하는 사법체계 사유화\" 오세훈 서울시장이 더불어민주당이 추진하는 '조작기소 특검법'을 강력하게 규탄하며, 이를…",
-   "summary_long": "오세훈 서울시장, 민주당의 '조작기소 특검법' 강행 맹폭. \"혈세 300억과 수사 인력으로 대통령 사법 리스크 방어하는 사법체계 사유화\" 오세훈 서울시장이 더불어민주당이 추진하는 '조작기소 특검법'을 강력하게 규탄하며, 이를 이재명 대통령을 위한 '전용 사법 방어기구'이자 헌정사상 최악의 권력 남용으로 규정했습니다.\n\n오 시장은 페이스북을 통해 \"집값과 전월세는 치솟고, 국민은 하루하루 먹고사는 문제로 절박한데, 집권여당의 머릿속에는 민생은 안중에 없다\"며 \"오로지 대통령의 재판 리스크를 없애는 데 모든 역량을 쏟아붓고 있는 현실에 탄식을 금할 수 없다\"고 밝혔습니다. 이어 이번 특검법 강행을 가리켜 \"이재명 대통령을 위한 사법체계 사유화의 결정판\"이라고 직격했습니다. 오 시장은 특검의 실상에 대해 \"특검이라는 이름으로 포장한 '대통령 전용 사법 방어기구'나 다름없다\"며, \"여기에 국민의 혈세가 300원가량(300억 원가량) 투입될 것으로 추산되고, 300명이 넘는 인력이 동원돼 최장 200기간(200일간) 수사를 벌이겠다는 것\"이라고 비판했습니다.",
+   "summary": "국민의힘은 더불어민주당 주도로 국회를 통과한 '조작기소 특검법'에 반발해 오늘 서울 도심에서 장외 규탄대회에 나섭니다. 국민의힘은 국회를 통과한 특검법이 이재명 대통령…",
+   "summary_long": "국민의힘은 더불어민주당 주도로 국회를 통과한 '조작기소 특검법'에 반발해 오늘(7일) 서울 도심에서 장외 규탄대회에 나섭니다. 국민의힘은 오늘(7일) 오후 3시부터 서울 경복궁역 일대에서 '이재명 재판취소 악법 강행처리 국민 규탄대회'를 엽니다. 장동혁 대표와 정점식 원내대표 등 당 지도부와 소속 의원, 당협위원장과 당원 등이 참석할 예정입니다.\n\n국민의힘은 국회를 통과한 특검법이 이재명 대통령 죄 지우기를 위한 것이라고 비판하며, 이 대통령 관련 재판 재개를 재차 주장할 것으로 보입니다. 장 대표는 어제 열린 국회 규탄대회에서도 법안이 통과된 어제(6일)를 \"대한민국 법치주의가 사망한 날\"이라며, \"조작기소 특검법이야말로 조작 입법\"이라고 비판했습니다. 국민의힘은 다음 주 월요일 청와대 앞을 찾아 현장 최고위원회의를 열고, 각지에서 1인 시위를 이어가는 등 장외 여론전을 이어갈 방침입니다.",
    "quotes": [
-    "하물며 국민이 주인인 21세기 민주공화국에서 대통령 한 사람을 위해 법을 만들고, 수사기관을 동원하고, 사법부의 판단까지 뒤흔들려 한다면 도대체 어느 시대의 통치를 하겠다는 것인가",
-    "민주당은 공소취소 조항을 삭제했으니 문제가 없다고 강변하지만, 대통령 본인이 당사자인 사건을 수사 대상으로 삼고, 그 특검을 대통령 자신이 임명하는 구조는 그대로",
-    "민주당에 경고한다. 대통령 한 사람을 지키겠다고 대한민국의 사법체계를 뒤흔들고, 법치주의를 짓밟아 민주주의의 역사를 거꾸로 돌리려는 무도한 폭주를 당장 멈추시라"
+    "조작기소 특검법이야말로 조작 입법",
+    "대한민국 법치주의가 사망한 날"
    ],
-   "press": "CJB청주방송",
+   "press": "KBS",
    "photo": "07.jpg",
    "quoted": {
-    "quote": "하물며 국민이 주인인 21세기 민주공화국에서 대통령 한 사람을 위해 법을 만들고, 수사기관을 동원하고, 사법부의 판단까지 뒤흔들려 한다면 도대체 어느 시대의 통치를 하겠다는 것인가",
-    "n": 6,
+    "quote": "조작기소 특검법이야말로 조작 입법",
+    "n": 7,
     "verified": 0,
     "items": [
      {
-      "press": "Chosunbiz",
-      "title": "오세훈 “조작기소 특검법, 李대통령 사법체계 사유화 결정판”",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXNDcVNJSWE0R0NscUNpWXFPeTZ6RTVwVjgyazAzMEg2TlpGaU1nY280NzF1cG5lZ0hUVmtZUkJ4a1RCalBXcWNpWExQNTBVVHlpMm9OMGhfSF96WTNxVWxYLWd5SktZNFB5WlV0LWp0bUtYbk9FMUVzVk96UmxjYzc1OVhrVHBhMmfSAZ4BQVVfeXFMT3dfLVlpM2czYnRDZG16NWlOUF9hQ3hXck1pNWhMOGlXWkVPaUd5TGZDY0JWTUd6aFBMWmFXdjd4UjY3S1JNcjFCUnF3VV83T0JjOHpXbmxQM3VFWG1uOFJZc0FPTTdWb2tIQ0pwR0xVNndJZ0lJR2MzUW5IVF9tZGRnUGlXSnFyNV90dmUxeFdYZ09BMFZjTEJfQTI2cXc?oc=5"
+      "press": "연합뉴스TV",
+      "title": "국힘 \"조작특검으로 대통령 셀프면죄\"…특검법 여론전 시동",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jNHBYdFJiYlVfOExiUXpGQmZQckg2d0VmZ0hMaDNka0NYRkpGRi1ZSC1obVpjZkRLQ2s1XzhjZno1REhwQ2tiU2hSYjBpb20yX2dOZTRDUVd0R2JMSjJmMFUyMTBXaG8?oc=5"
      },
      {
-      "press": "한국경제",
-      "title": "오세훈 \"사법체제 사유화\"…특검법, '수사·기소 분리' 무력화",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WTXFYMlZYVjNFbjhacDJfVUp6Sng4T0RSazZhZEJpUEVqaHJVT1NObWFPNUlsdjA0ZURhQm1VYWNQRGYyOU1TVjVjMWVja1FORGVPejE5UFEzdw?oc=5"
+      "press": "중부일보",
+      "title": "조작기소특검법 與주도 국회 통과...李 공소취소 불씨 우려도",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1McmlSbnEwclZPQkdQNUNBbnQyazJQSTJteHQ2SXFPRm94U0JDTmxBWXZQWl9rS2d0SHhlYy1EUVluRUotRUJVZWlIb1pGejBaTUJqYTNyTnZ1U0tmbGF1M29kUkV0NVpkbkcwaGtaMA?oc=5"
      },
      {
-      "press": "뉴스웍스",
-      "title": "오세훈 \"공소취소 조항 빼도 특검 임명권자가 사건 당사자\"",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wX3JXeE1jclhZZEpyNkdhTld1SDh1SzgwakJBNTUyTUtyZ0ZhdEQyS21mdWdNbEJOaE1QeDdzU3RCUjZaNGFNdnYtYzN3YUdBQzBOZlJRLUlZQndjYWlnOEtSZ2JvRWFPTl9ZVF9YeG11SnPSAXNBVV95cUxNMF9yV3hNY3JYWWRKcjZHYU5XdUg4dUs4MGpCQTU1Mk1LcmdGYXREMkttZnVnTWxCTmhNUHg3c1N0QlI2WjRhTXZ2LWMzd2FHQUMwTmZSUS1JWUJ3Y2FpZzhLUmdib0VhT05fWVRfWHhtdUpz?oc=5"
+      "press": "강원일보",
+      "title": "국민의힘, ‘조작기소 특검법’ 반대 대규모 집회…장동혁 “법치주의 사망한 날”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUNjFBSDJvZmVxZm1PTGktRGxSdk53ektBOFo4ZXBHRWJ3RXJhTWoxbTg4aUhXenFIMDU1V2tkQ0Z6LXdFMDlxcU1NUldUWVZEeUlsQURKZHFpNXM?oc=5"
      },
      {
-      "press": "더팩트",
-      "title": "오세훈 \"민주당 조작기소 특검법, 대통령 사법 방어기구\"",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xanl1aXRKN1RYUXh0ejF3bXFFYm1RSXFZZC1aWVd4ZDlmcHAteDYyYUlhOXhSdGczbEtELU43N1k5MmZqcXlwNUZkZmV5ZkNZ0gFQQVVfeXFMT3FqeXVpdEo3VFhReHR6MXdtcUVibVFJcVlkLVpZV3hkOWZwcC14NjJhSWE5eFJ0ZzNsS0QtTjc3WTkyZmpxeXA1RmRmZXlmQ1k?oc=5"
+      "press": "연합뉴스",
+      "title": "국힘 \"조작특검으로 대통령 셀프면죄\"…특검법 반대 여론전 시동",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YWnJjajJ3U2hUVlhGZ1hISHdGV1FDaFBHekw5TXRHcWt3QWZwWHd4dElBTGZWYWtVUDBsUUJCbDRnUHlxcWNtam1saHZqVC0yX3MxRVBLXzIxNlXSAWBBVV95cUxNN29HU2c0bjdPNkV5YUJTZWdhSkZPOTdJc3dPZjU4eDgxaFE4dWl1MTdScWxyYzFEUHBMcTh1ZWo4YTFYRFBuWk50d3JjenNVZko3Z3E2cWhyTWhQN3IyOE0?oc=5"
      },
      {
-      "press": "위키트리",
-      "title": "“이 대통령은 조선시대 절대 왕정을 꿈꾸는 것입니까”…오늘(6일) 올라온 비판 글 (전문)",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHNEOWVGdjJMTndNZmRaMGRXWFRlMDZ3N1FnTlZjd052LWlXaDFCOFN5MTZKMGpSd1RjbVdCN3I4MXVpSnZ4YjNuN0pGV1IxMkt3ZFpKT3JSWkZDZEtTdEd3NXNNWUlGNzdWVExKUkkxVV85THFxNXREbUU0Rmo3YTNmczZzcnZ6R3hCTVZEMVduRFdsWmJySDFHdXY0dGc5NzNKR3ZB?oc=5"
+      "press": "전국매일신문",
+      "title": "조작기소 특검법, 국회 본회의 통과…국민의힘 장외투쟁 돌입",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12U0dKa1hYYXJlUG4zcWhrdVlNVkFZS3Rjay1yNW9yQkwzbXVrRUlsaFY2eXpaczkyaHp2VUhJbnNvd3RQbFFUcGJqaHA0SVJ1VGlDSjBvRVBMSUtTTV95amZpazlrZW5QUUtTa2NB?oc=5"
      },
      {
-      "press": "헤럴드경제",
-      "title": "오세훈 “대통령은 조선시대 절대왕정 꿈꾸나” 조작기소 특검법 비판",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zU1RCLWIyZUNQTXUwalFjZnNpUk5IU1RCSnRhTnVxZ0ZpZEZ3QjA5MjhjLWNnb004SHpLb3ZQbW9oYm11ekFOZ29DVjVDekdoSEVnWEt3?oc=5"
+      "press": "MBC 뉴스",
+      "title": "국민의힘, \"대한민국 법치주의 사망\" 장외투쟁 돌입",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NMGNEZFk1aGJpM2xUSmhRazFLRC1vZmVDS2duUHE0bDYwaENSVDdYQ1JxTXF0aGxQYWx6TW8xWjQxVnp2QUw5V3puSnVZX0FIbnZSWFBla1QzeHdVTTZUVlBPalNPckNQZjdMdEZUckxLMXVJZkxGbtIBeEFVX3lxTE1NMGNEZFk1aGJpM2xUSmhRazFLRC1vZmVDS2duUHE0bDYwaENSVDdYQ1JxTXF0aGxQYWx6TW8xWjQxVnp2QUw5V3puSnVZX0FIbnZSWFBla1QzeHdVTTZUVlBPalNPckNQZjdMdEZUckxLMXVJZkxGbg?oc=5"
      }
     ]
    }
@@ -206,139 +281,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/01.png",
-   "pngBytes": 1833345,
-   "feed": "오늘의 뉴스 2026-11-07\n\n· 이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"\n· 최전방 철책은 민간인에 뚫리고... 특전사 요원은 ‘모델 워킹’ 교육\n· 돌연 까만딱지 생기더니…“바로 병원 가라” 질병청 경고한 감염병\n· “전국민 우울증 걸릴 판” 코스피 폭락, 개미 비명\n· 안철수 \"코스피 5천선 붕괴에 파랗게 질렸는데… 李 대통령, 긴급 라방이라도 켜서 대책 내놔라\"\n· \"임무는 단 하나, 이재명 공소취소 이행\"… 주진우, 이용철 후보자 지명 맹폭\n· 오세훈 \"21세기 민주공화국서 절대왕정 꿈꾸나… 특검은 '대통령 전용 사법 방어기구'\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/01.png",
+   "pngBytes": 1831030,
+   "feed": "오늘의 뉴스 2026-11-08\n\n· '한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'\n· 이준석 \"전한길 처벌 원해, 마음 바꿨다\"…'학력 위조' 의혹 제기 선처 거부\n· \"하루 만에 라면 2만 그릇 팔렸다\"…매출 1억7000만원 초대박\n· 미국 중간선거 후폭풍에 대미 원전사업 100억달러 선지급 도마\n· [속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”\n· 한동훈 “특검법이 아니라 특권법…李 재판 무력화할 특권 주는 법”\n· 국민의힘, ‘조작기소 특검’ 장외 규탄대회…여론전 시동"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/02.png",
-   "pngBytes": 1863905,
-   "title": "이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"",
-   "summary": "이재명 대통령 내외와 장남 이동호 씨 내외가 진해 해군 기지에 있는 한산대CC에서 4명이서 가족 '황제 골프'를 쳤습니다. 주진우 국민의힘 의원은 한산대CC에서 이륙 전…",
-   "summary_long": "이재명 대통령 내외와 장남 이동호 씨 내외가 진해 해군 기지에 있는 한산대CC에서 4명이서 가족 '황제 골프'를 쳤습니다. 골프를 마친 후에는 한산대CC에서 저도 숙소까지 대통령 전용 헬기를 타고 이동했습니다. 주진우 국민의힘 의원은 한산대CC에서 이륙 전 대기중이던 헬기 사진을 공개해 가며 장남이 함께 골프를 쳤다고 주장했습니다.\n\n민주당에서 사실이 아니라고 했지만 주 의원이 계속해서 주장을 이어가자 이 대통령의 장남 이동호 씨가 주 의원을 경찰에 고소했습니다. 이 대통령 장남의 고발에 대해 주 의원은 \"협박은 안 통한다\"며 \"맞고발로 황제 골프 의혹의 진실을 밝히겠다\"며 물러서지 않았습니다. 주진우 의원은 헬기 사진 외에는 골프 동반을 뒷받침하는 직접적인 자료 등은 제시하지 못했는데요.",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000519442",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/02.png",
+   "pngBytes": 1841005,
+   "title": "'한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'",
+   "summary": "오세훈 서울시장과 장동혁 국민의힘 대표, 한동훈 무소속 의원이 4일 서울 더그랜드롯데호텔에서 열린 중앙포럼에 참석하고 있다. 범보수 야권 유력 차기 주자인 장동혁…",
+   "summary_long": "오세훈(왼쪽부터) 서울시장과 장동혁 국민의힘 대표, 한동훈 무소속 의원이 4일 서울 더그랜드롯데호텔에서 열린 중앙포럼에 참석하고 있다. 범보수 야권 유력 차기 주자인 장동혁 국민의힘 대표와 한동훈 무소속 의원이 최근 들어 오세훈 서울시장과 '밀착' 행보를 보이면서 오 시장이 범보수 연대의 새 '구심점'으로 떠오르는 모습이다. 당권파는 '오장연대'를 우선 거론하며 한 의원 견제에 나섰고, 친한(친한동훈)계는 복당론을 띄우며 오 시장의 입장을 요구하고 있다.\n\n당권파 조정훈 의원은 CBS 라디오에서 \"1단계 연대는 단연코 장 대표와 오 시장이 서로 역할과 존재를 인정하고 확장해 나가며 뿌리를 지켜나가는 것\"이라고 말했다. 또 다른 의원은 \"오 시장은 중도보수, 장 대표는 강성 당원들을 확보하게 되면 일석이조 아니겠나\"라며 \"나쁘지 않은 구상\"이라고 했다. 박정훈 의원은 오 시장이 한 의원 복당에 적극적이지 않다는 시각과 관련해 \"중도 확장력이 큰 오 시장은 (시장 신분이어서) 다음 총선에 관여할 수 없다\"며 \"그런 만큼 한동훈 복당 문제를 총선 승리 관점에서 바라봐 달라\"고 촉구했다.",
+   "press": "한국일보",
+   "source": "한국일보",
+   "link": "https://n.news.naver.com/article/469/0000964172",
    "selection": "정치",
-   "feed": "뉴스 01. 이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"\n\n이재명 대통령 내외와 장남 이동호 씨 내외가 진해 해군 기지에 있는 한산대CC에서 4명이서 가족 '황제 골프'를 쳤습니다. 골프를 마친 후에는 한산대CC에서 저도 숙소까지 대통령 전용 헬기를 타고 이동했습니다. 주진우 국민의힘 의원은 한산대CC에서 이륙 전 대기중이던 헬기 사진을 공개해 가며 장남이 함께 골프를 쳤다고 주장했습니다.\n\n민주당에서 사실이 아니라고 했지만 주 의원이 계속해서 주장을 이어가자 이 대통령의 장남 이동호 씨가 주 의원을 경찰에 고소했습니다. 이 대통령 장남의 고발에 대해 주 의원은 \"협박은 안 통한다\"며 \"맞고발로 황제 골프 의혹의 진실을 밝히겠다\"며 물러서지 않았습니다. 주진우 의원은 헬기 사진 외에는 골프 동반을 뒷받침하는 직접적인 자료 등은 제시하지 못했는데요.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000519442"
+   "feed": "뉴스 01. '한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'\n\n오세훈(왼쪽부터) 서울시장과 장동혁 국민의힘 대표, 한동훈 무소속 의원이 4일 서울 더그랜드롯데호텔에서 열린 중앙포럼에 참석하고 있다. 범보수 야권 유력 차기 주자인 장동혁 국민의힘 대표와 한동훈 무소속 의원이 최근 들어 오세훈 서울시장과 '밀착' 행보를 보이면서 오 시장이 범보수 연대의 새 '구심점'으로 떠오르는 모습이다. 당권파는 '오장연대'를 우선 거론하며 한 의원 견제에 나섰고, 친한(친한동훈)계는 복당론을 띄우며 오 시장의 입장을 요구하고 있다.\n\n당권파 조정훈 의원은 CBS 라디오에서 \"1단계 연대는 단연코 장 대표와 오 시장이 서로 역할과 존재를 인정하고 확장해 나가며 뿌리를 지켜나가는 것\"이라고 말했다. 또 다른 의원은 \"오 시장은 중도보수, 장 대표는 강성 당원들을 확보하게 되면 일석이조 아니겠나\"라며 \"나쁘지 않은 구상\"이라고 했다. 박정훈 의원은 오 시장이 한 의원 복당에 적극적이지 않다는 시각과 관련해 \"중도 확장력이 큰 오 시장은 (시장 신분이어서) 다음 총선에 관여할 수 없다\"며 \"그런 만큼 한동훈 복당 문제를 총선 승리 관점에서 바라봐 달라\"고 촉구했다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000964172"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/03.png",
-   "pngBytes": 583039,
-   "title": "최전방 철책은 민간인에 뚫리고... 특전사 요원은 ‘모델 워킹’ 교육",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/03.png",
+   "pngBytes": 589905,
+   "title": "이준석 \"전한길 처벌 원해, 마음 바꿨다\"…'학력 위조' 의혹 제기 선처 거부",
    "summary": "",
    "summary_long": "",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004008175",
+   "press": "한국일보",
+   "source": "한국일보",
+   "link": "https://n.news.naver.com/article/469/0000964191",
    "selection": "정치",
-   "feed": "뉴스 02. 최전방 철책은 민간인에 뚫리고... 특전사 요원은 ‘모델 워킹’ 교육\n\n\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004008175"
+   "feed": "뉴스 02. 이준석 \"전한길 처벌 원해, 마음 바꿨다\"…'학력 위조' 의혹 제기 선처 거부\n\n\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000964191"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/04.png",
-   "pngBytes": 1653603,
-   "title": "돌연 까만딱지 생기더니…“바로 병원 가라” 질병청 경고한 감염병",
-   "summary": "쯔쯔가무시증을 옮기는 털진드기 유충을 현미경으로 확대한 모습과 설치류 체액을 섭취하는 털진드기 유충. 사진 질병관리청 최근 털진드기 활동이 빠르게 증가하면서…",
-   "summary_long": "쯔쯔가무시증을 옮기는 털진드기 유충을 현미경으로 확대한 모습(왼쪽)과 설치류 체액을 섭취하는 털진드기 유충(오른쪽). 사진 질병관리청 최근 털진드기 활동이 빠르게 증가하면서 쯔쯔가무시증에도 경고등이 들어왔다. 질병청은 6일 쯔쯔가무시증 매개체인 털진드기의 발생 추이 분석 결과를 공개했다.\n\n쯔쯔가무시증은 쯔쯔가무시균에 감염된 털진드기 유충에 물려 발생하는 감염병이다. 또한 털진드기 발생이 증가한 뒤 약 1~3주의 시차를 두고 쯔쯔가무시증 환자도 증가하는 특성이 나타났다. 일반적으로 털진드기 지수가 0.2 이상일 때 쯔쯔가무시증 환자 발생이 급격히 증가하는 양상을 보이는 만큼, 이번 달 환자가 시차를 두고 늘어날 가능성이 커졌다.",
-   "press": "중앙일보",
-   "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003563325",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/04.png",
+   "pngBytes": 2514244,
+   "title": "\"하루 만에 라면 2만 그릇 팔렸다\"…매출 1억7000만원 초대박",
+   "summary": "7일 구미시에 따르면 축제 첫날인 6일 현장에서 판매된 별미라면은 2만2231그릇으로 지난해 같은 날 1만5140그릇보다 약 47% 늘었다. 특히 축제 인기 상품인 ‘갓…",
+   "summary_long": "경북 구미시의 대표 행사로 자리 잡은 ‘2026 구미라면축제’가 개막 첫날부터 흥행을 이어갔다. 7일 구미시에 따르면 축제 첫날인 6일 현장에서 판매된 별미라면은 2만2231그릇으로 지난해 같은 날 1만5140그릇보다 약 47% 늘었다. 특히 축제 인기 상품인 ‘갓 튀긴 라면’을 사려는 방문객들이 몰리면서 대기행렬이 하루 종일 500m가량 이어졌다.\n\n생참복라면과 송이·능이를 활용한 산중라면을 비롯해 해외 누들 메뉴까지 다양한 이색 라면을 선보인다. 온라인 예선에 참가한 세계 80개국 1263명 가운데 선발된 13개국 참가자 13명이 각국 식문화와 개성을 담은 라면 요리로 경연을 벌인다. 김장호 구미시장은 “구미라면축제는 지역의 산업과 농업, 음식문화를 라면이라는 친숙한 콘텐츠로 연결한 구미만의 축제”라며 “남은 기간에도 방문객들이 안전하고 편리하게 축제를 즐기고, 원도심과 지역 상권까지 함께 경험할 수 있도록 운영에 최선을 다하겠다”고 밝혔다.",
+   "press": "한국경제",
+   "source": "한국경제",
+   "link": "https://n.news.naver.com/article/015/0005351377",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 돌연 까만딱지 생기더니…“바로 병원 가라” 질병청 경고한 감염병\n\n쯔쯔가무시증을 옮기는 털진드기 유충을 현미경으로 확대한 모습(왼쪽)과 설치류 체액을 섭취하는 털진드기 유충(오른쪽). 사진 질병관리청 최근 털진드기 활동이 빠르게 증가하면서 쯔쯔가무시증에도 경고등이 들어왔다. 질병청은 6일 쯔쯔가무시증 매개체인 털진드기의 발생 추이 분석 결과를 공개했다.\n\n쯔쯔가무시증은 쯔쯔가무시균에 감염된 털진드기 유충에 물려 발생하는 감염병이다. 또한 털진드기 발생이 증가한 뒤 약 1~3주의 시차를 두고 쯔쯔가무시증 환자도 증가하는 특성이 나타났다. 일반적으로 털진드기 지수가 0.2 이상일 때 쯔쯔가무시증 환자 발생이 급격히 증가하는 양상을 보이는 만큼, 이번 달 환자가 시차를 두고 늘어날 가능성이 커졌다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003563325"
+   "feed": "뉴스 03. \"하루 만에 라면 2만 그릇 팔렸다\"…매출 1억7000만원 초대박\n\n경북 구미시의 대표 행사로 자리 잡은 ‘2026 구미라면축제’가 개막 첫날부터 흥행을 이어갔다. 7일 구미시에 따르면 축제 첫날인 6일 현장에서 판매된 별미라면은 2만2231그릇으로 지난해 같은 날 1만5140그릇보다 약 47% 늘었다. 특히 축제 인기 상품인 ‘갓 튀긴 라면’을 사려는 방문객들이 몰리면서 대기행렬이 하루 종일 500m가량 이어졌다.\n\n생참복라면과 송이·능이를 활용한 산중라면을 비롯해 해외 누들 메뉴까지 다양한 이색 라면을 선보인다. 온라인 예선에 참가한 세계 80개국 1263명 가운데 선발된 13개국 참가자 13명이 각국 식문화와 개성을 담은 라면 요리로 경연을 벌인다. 김장호 구미시장은 “구미라면축제는 지역의 산업과 농업, 음식문화를 라면이라는 친숙한 콘텐츠로 연결한 구미만의 축제”라며 “남은 기간에도 방문객들이 안전하고 편리하게 축제를 즐기고, 원도심과 지역 상권까지 함께 경험할 수 있도록 운영에 최선을 다하겠다”고 밝혔다.\n\n출처: 한국경제 / https://n.news.naver.com/article/015/0005351377"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/05.png",
-   "pngBytes": 556158,
-   "title": "“전국민 우울증 걸릴 판” 코스피 폭락, 개미 비명",
-   "summary": "",
-   "summary_long": "",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004008143",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/05.png",
+   "pngBytes": 2218307,
+   "title": "미국 중간선거 후폭풍에 대미 원전사업 100억달러 선지급 도마",
+   "summary": "미국 중간선거에서 승리한 민주당이 인공지능 데이터센터에 대한 규제를 강화할 것이라는 전망이 나오면서 최대 100억달러 규모의 원전 투자 선급금 지급 문제가 도마 위에…",
+   "summary_long": "미국 중간선거에서 승리한 민주당이 인공지능(AI) 데이터센터에 대한 규제를 강화할 것이라는 전망이 나오면서 최대 100억달러 규모의 원전 투자 선급금 지급 문제가 도마 위에 올랐다. 전기를 대량으로 쓸 AI 데이터센터 건설에 제동이 걸리면 미국 내 원전 사업의 수익성 확보도 불투명해지는 만큼, 거액의 자금부터 먼저 집행하는 것이 적절한지를 놓고 우려의 목소리가 나오고 있다. 7일 관계 당국에 따르면 100억달러 규모의 원전 투자 선급금은 설계에서 제작, 납품까지 수년이 걸리는 원전 핵심 설비인 장주기 품목(Long Lead Items)을 사전에 확보하기 위한 자금이다.\n\n서왕진 조국혁신당 의원은 지난 5일 국회에서 기자회견을 열고 \"미국 민주당이 상·하원을 장악하면서 원전 투자 여건에 변화가 예상된다\"며 \"한미 원전 프레임워크에 따른 100억달러 규모의 선지급을 보류해야 한다\"고 촉구했다. 반면 주무부처인 산업통상부는 AI 데이터센터 규제 강화 움직임이 원전 사업의 악재만은 아니라는 입장이다. 이어 \"미국 측이 중간선거 이후에 원전 후보지를 통보하기로 했다\"며 \"후보지를 통보하는 대로 기존 송전망 연계 여부와 장기 전력구매계약을 맺을 빅테크 등 안정적 수요처를 종합적으로 따져 대응할 방침\"이라고 덧붙였다.",
+   "press": "연합뉴스",
+   "source": "연합뉴스",
+   "link": "https://n.news.naver.com/article/001/0016427593",
    "selection": "경제·시사",
-   "feed": "뉴스 04. “전국민 우울증 걸릴 판” 코스피 폭락, 개미 비명\n\n\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004008143"
+   "feed": "뉴스 04. 미국 중간선거 후폭풍에 대미 원전사업 100억달러 선지급 도마\n\n미국 중간선거에서 승리한 민주당이 인공지능(AI) 데이터센터에 대한 규제를 강화할 것이라는 전망이 나오면서 최대 100억달러 규모의 원전 투자 선급금 지급 문제가 도마 위에 올랐다. 전기를 대량으로 쓸 AI 데이터센터 건설에 제동이 걸리면 미국 내 원전 사업의 수익성 확보도 불투명해지는 만큼, 거액의 자금부터 먼저 집행하는 것이 적절한지를 놓고 우려의 목소리가 나오고 있다. 7일 관계 당국에 따르면 100억달러 규모의 원전 투자 선급금은 설계에서 제작, 납품까지 수년이 걸리는 원전 핵심 설비인 장주기 품목(Long Lead Items)을 사전에 확보하기 위한 자금이다.\n\n서왕진 조국혁신당 의원은 지난 5일 국회에서 기자회견을 열고 \"미국 민주당이 상·하원을 장악하면서 원전 투자 여건에 변화가 예상된다\"며 \"한미 원전 프레임워크에 따른 100억달러 규모의 선지급을 보류해야 한다\"고 촉구했다. 반면 주무부처인 산업통상부는 AI 데이터센터 규제 강화 움직임이 원전 사업의 악재만은 아니라는 입장이다. 이어 \"미국 측이 중간선거 이후에 원전 후보지를 통보하기로 했다\"며 \"후보지를 통보하는 대로 기존 송전망 연계 여부와 장기 전력구매계약을 맺을 빅테크 등 안정적 수요처를 종합적으로 따져 대응할 방침\"이라고 덧붙였다.\n\n출처: 연합뉴스 / https://n.news.naver.com/article/001/0016427593"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/06.png",
-   "pngBytes": 621920,
-   "title": "안철수 \"코스피 5천선 붕괴에 파랗게 질렸는데… 李 대통령, 긴급 라방이라도 켜서 대책 내놔라\"",
-   "summary": "",
-   "summary_long": "",
-   "press": "CJB청주방송",
-   "source": "CJB청주방송",
-   "link": "https://n.news.naver.com/article/655/0000033473",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/06.png",
+   "pngBytes": 1969494,
+   "title": "[속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”",
+   "summary": "국민의힘은 “대한민국의 ‘국기’인 태권도가 북한의 무형유산으로 유네스코에 등재될 상황에 놓였다”며 7일 정부를 겨냥했다. 함 대변인은 “북한이 태권도의 유네스코 단독…",
+   "summary_long": "국민의힘은 “대한민국의 ‘국기(國技)’인 태권도가 북한의 무형유산으로 유네스코에 등재될 상황에 놓였다”며 7일 정부를 겨냥했다. 국민의힘 함인경 대변인은 이날 논평에서 “정부는 도대체 무엇을 했나”라며 이처럼 따져 물었다. 함 대변인은 “북한이 태권도의 유네스코 단독 등재를 추진하는 동안 우리 정부는 무엇을 했나”라며 “대한민국의 문화유산을 지키는 데에도 북한의 눈치를 봐야 하느냐”고 물었다.\n\n북한이 2024년 3월 유네스코에 등재신청서를 냈지만, 국가유산청은 남북 공동 등재 가능성 등을 검토하다 2년 뒤인 올해 3월에야 한국 태권도의 신청서를 제출했다. 이어 “유네스코 심사 결과와 관계없이, 태권도가 유네스코 인류무형유산 대표목록에 ‘단독 등재’되거나 ‘확장 등재’될 수 있도록 노력을 다하겠다”고 전했다. 함 대변인은 “심사 결과 발표를 앞두고 민간단체가 태권도 남북 공동 등재의 당위성 설명 공문을 유네스코에 전달해달라고 요청했지만, 국가유산청은 보냈다고 답변한 반면 해당 단체는 실제로 전달되지 않았다고 주장한다”고 강조했다.",
+   "press": "세계일보",
+   "source": "세계일보",
+   "link": "https://n.news.naver.com/article/022/0004173263",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 안철수 \"코스피 5천선 붕괴에 파랗게 질렸는데… 李 대통령, 긴급 라방이라도 켜서 대책 내놔라\"\n\n\n\n출처: CJB청주방송 / https://n.news.naver.com/article/655/0000033473"
+   "feed": "뉴스 05. [속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”\n\n국민의힘은 “대한민국의 ‘국기(國技)’인 태권도가 북한의 무형유산으로 유네스코에 등재될 상황에 놓였다”며 7일 정부를 겨냥했다. 국민의힘 함인경 대변인은 이날 논평에서 “정부는 도대체 무엇을 했나”라며 이처럼 따져 물었다. 함 대변인은 “북한이 태권도의 유네스코 단독 등재를 추진하는 동안 우리 정부는 무엇을 했나”라며 “대한민국의 문화유산을 지키는 데에도 북한의 눈치를 봐야 하느냐”고 물었다.\n\n북한이 2024년 3월 유네스코에 등재신청서를 냈지만, 국가유산청은 남북 공동 등재 가능성 등을 검토하다 2년 뒤인 올해 3월에야 한국 태권도의 신청서를 제출했다. 이어 “유네스코 심사 결과와 관계없이, 태권도가 유네스코 인류무형유산 대표목록에 ‘단독 등재’되거나 ‘확장 등재’될 수 있도록 노력을 다하겠다”고 전했다. 함 대변인은 “심사 결과 발표를 앞두고 민간단체가 태권도 남북 공동 등재의 당위성 설명 공문을 유네스코에 전달해달라고 요청했지만, 국가유산청은 보냈다고 답변한 반면 해당 단체는 실제로 전달되지 않았다고 주장한다”고 강조했다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004173263"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/07.png",
-   "pngBytes": 603961,
-   "title": "\"임무는 단 하나, 이재명 공소취소 이행\"… 주진우, 이용철 후보자 지명 맹폭",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/07.png",
+   "pngBytes": 580739,
+   "title": "한동훈 “특검법이 아니라 특권법…李 재판 무력화할 특권 주는 법”",
    "summary": "",
    "summary_long": "",
-   "press": "CJB청주방송",
-   "source": "CJB청주방송",
-   "link": "https://n.news.naver.com/article/655/0000033476",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005760341",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. \"임무는 단 하나, 이재명 공소취소 이행\"… 주진우, 이용철 후보자 지명 맹폭\n\n\n\n출처: CJB청주방송 / https://n.news.naver.com/article/655/0000033476"
+   "feed": "뉴스 06. 한동훈 “특검법이 아니라 특권법…李 재판 무력화할 특권 주는 법”\n\n\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005760341"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/08.png",
-   "pngBytes": 1813072,
-   "title": "오세훈 \"21세기 민주공화국서 절대왕정 꿈꾸나… 특검은 '대통령 전용 사법 방어기구'\"",
-   "summary": "\"혈세 300억과 수사 인력으로 대통령 사법 리스크 방어하는 사법체계 사유화\" 오세훈 서울시장이 더불어민주당이 추진하는 '조작기소 특검법'을 강력하게 규탄하며, 이를…",
-   "summary_long": "오세훈 서울시장, 민주당의 '조작기소 특검법' 강행 맹폭. \"혈세 300억과 수사 인력으로 대통령 사법 리스크 방어하는 사법체계 사유화\" 오세훈 서울시장이 더불어민주당이 추진하는 '조작기소 특검법'을 강력하게 규탄하며, 이를 이재명 대통령을 위한 '전용 사법 방어기구'이자 헌정사상 최악의 권력 남용으로 규정했습니다.\n\n오 시장은 페이스북을 통해 \"집값과 전월세는 치솟고, 국민은 하루하루 먹고사는 문제로 절박한데, 집권여당의 머릿속에는 민생은 안중에 없다\"며 \"오로지 대통령의 재판 리스크를 없애는 데 모든 역량을 쏟아붓고 있는 현실에 탄식을 금할 수 없다\"고 밝혔습니다. 이어 이번 특검법 강행을 가리켜 \"이재명 대통령을 위한 사법체계 사유화의 결정판\"이라고 직격했습니다. 오 시장은 특검의 실상에 대해 \"특검이라는 이름으로 포장한 '대통령 전용 사법 방어기구'나 다름없다\"며, \"여기에 국민의 혈세가 300원가량(300억 원가량) 투입될 것으로 추산되고, 300명이 넘는 인력이 동원돼 최장 200기간(200일간) 수사를 벌이겠다는 것\"이라고 비판했습니다.",
-   "press": "CJB청주방송",
-   "source": "CJB청주방송",
-   "link": "https://n.news.naver.com/article/655/0000033474",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/08.png",
+   "pngBytes": 1263722,
+   "title": "국민의힘, ‘조작기소 특검’ 장외 규탄대회…여론전 시동",
+   "summary": "국민의힘은 더불어민주당 주도로 국회를 통과한 '조작기소 특검법'에 반발해 오늘 서울 도심에서 장외 규탄대회에 나섭니다. 국민의힘은 국회를 통과한 특검법이 이재명 대통령…",
+   "summary_long": "국민의힘은 더불어민주당 주도로 국회를 통과한 '조작기소 특검법'에 반발해 오늘(7일) 서울 도심에서 장외 규탄대회에 나섭니다. 국민의힘은 오늘(7일) 오후 3시부터 서울 경복궁역 일대에서 '이재명 재판취소 악법 강행처리 국민 규탄대회'를 엽니다. 장동혁 대표와 정점식 원내대표 등 당 지도부와 소속 의원, 당협위원장과 당원 등이 참석할 예정입니다.\n\n국민의힘은 국회를 통과한 특검법이 이재명 대통령 죄 지우기를 위한 것이라고 비판하며, 이 대통령 관련 재판 재개를 재차 주장할 것으로 보입니다. 장 대표는 어제 열린 국회 규탄대회에서도 법안이 통과된 어제(6일)를 \"대한민국 법치주의가 사망한 날\"이라며, \"조작기소 특검법이야말로 조작 입법\"이라고 비판했습니다. 국민의힘은 다음 주 월요일 청와대 앞을 찾아 현장 최고위원회의를 열고, 각지에서 1인 시위를 이어가는 등 장외 여론전을 이어갈 방침입니다.",
+   "press": "KBS",
+   "source": "KBS",
+   "link": "https://n.news.naver.com/article/056/0012289202",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 오세훈 \"21세기 민주공화국서 절대왕정 꿈꾸나… 특검은 '대통령 전용 사법 방어기구'\"\n\n오세훈 서울시장, 민주당의 '조작기소 특검법' 강행 맹폭. \"혈세 300억과 수사 인력으로 대통령 사법 리스크 방어하는 사법체계 사유화\" 오세훈 서울시장이 더불어민주당이 추진하는 '조작기소 특검법'을 강력하게 규탄하며, 이를 이재명 대통령을 위한 '전용 사법 방어기구'이자 헌정사상 최악의 권력 남용으로 규정했습니다.\n\n오 시장은 페이스북을 통해 \"집값과 전월세는 치솟고, 국민은 하루하루 먹고사는 문제로 절박한데, 집권여당의 머릿속에는 민생은 안중에 없다\"며 \"오로지 대통령의 재판 리스크를 없애는 데 모든 역량을 쏟아붓고 있는 현실에 탄식을 금할 수 없다\"고 밝혔습니다. 이어 이번 특검법 강행을 가리켜 \"이재명 대통령을 위한 사법체계 사유화의 결정판\"이라고 직격했습니다. 오 시장은 특검의 실상에 대해 \"특검이라는 이름으로 포장한 '대통령 전용 사법 방어기구'나 다름없다\"며, \"여기에 국민의 혈세가 300원가량(300억 원가량) 투입될 것으로 추산되고, 300명이 넘는 인력이 동원돼 최장 200기간(200일간) 수사를 벌이겠다는 것\"이라고 비판했습니다.\n\n출처: CJB청주방송 / https://n.news.naver.com/article/655/0000033474"
+   "feed": "뉴스 07. 국민의힘, ‘조작기소 특검’ 장외 규탄대회…여론전 시동\n\n국민의힘은 더불어민주당 주도로 국회를 통과한 '조작기소 특검법'에 반발해 오늘(7일) 서울 도심에서 장외 규탄대회에 나섭니다. 국민의힘은 오늘(7일) 오후 3시부터 서울 경복궁역 일대에서 '이재명 재판취소 악법 강행처리 국민 규탄대회'를 엽니다. 장동혁 대표와 정점식 원내대표 등 당 지도부와 소속 의원, 당협위원장과 당원 등이 참석할 예정입니다.\n\n국민의힘은 국회를 통과한 특검법이 이재명 대통령 죄 지우기를 위한 것이라고 비판하며, 이 대통령 관련 재판 재개를 재차 주장할 것으로 보입니다. 장 대표는 어제 열린 국회 규탄대회에서도 법안이 통과된 어제(6일)를 \"대한민국 법치주의가 사망한 날\"이라며, \"조작기소 특검법이야말로 조작 입법\"이라고 비판했습니다. 국민의힘은 다음 주 월요일 청와대 앞을 찾아 현장 최고위원회의를 열고, 각지에서 1인 시위를 이어가는 등 장외 여론전을 이어갈 방침입니다.\n\n출처: KBS / https://n.news.naver.com/article/056/0012289202"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-07/09.png",
-   "pngBytes": 1345945
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/09.png",
+   "pngBytes": 1346464
   }
  ],
- "caption": "📰 11월 7일 오늘의 뉴스\n\n1. 이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"\n   이재명 대통령 내외와 장남 이동호 씨 내외가 진해 해군 기지에 있는 한산대CC에서 4명이서 가족 '황제 골프'를 쳤습니다. 주진우 국민의힘 의원은 한산대CC에서 이륙 전…\n2. 최전방 철책은 민간인에 뚫리고... 특전사 요원은 ‘모델 워킹’ 교육\n3. 돌연 까만딱지 생기더니…“바로 병원 가라” 질병청 경고한 감염병\n   쯔쯔가무시증을 옮기는 털진드기 유충을 현미경으로 확대한 모습과 설치류 체액을 섭취하는 털진드기 유충. 사진 질병관리청 최근 털진드기 활동이 빠르게 증가하면서…\n4. “전국민 우울증 걸릴 판” 코스피 폭락, 개미 비명\n5. 안철수 \"코스피 5천선 붕괴에 파랗게 질렸는데… 李 대통령, 긴급 라방이라도 켜서 대책 내놔라\"\n6. \"임무는 단 하나, 이재명 공소취소 이행\"… 주진우, 이용철 후보자 지명 맹폭\n7. 오세훈 \"21세기 민주공화국서 절대왕정 꿈꾸나… 특검은 '대통령 전용 사법 방어기구'\"\n   \"혈세 300억과 수사 인력으로 대통령 사법 리스크 방어하는 사법체계 사유화\" 오세훈 서울시장이 더불어민주당이 추진하는 '조작기소 특검법'을 강력하게 규탄하며, 이를…\n\n🗣 “자료도 틀어막고, 고발 협박으로 내 입까지 틀어막아도 소용없다”\n이 발언을 그대로 실은 보도 10건 · JTBC · 조세일보 · 뉴데일리 · Chosunbiz\n· JTBC — 이 대통령 장남 \"한산대CC 안 가\" 고소 하자 주진우 \"협박 안 통해, 맞고발\"\n· 조세일보 — 李대통령 장남, 주진우 명예훼손 고소...朱 \"협박 안 통해\" 맞고발\n· 뉴데일리 — 李 대통령 장남 동호씨, 주진우 명예훼손 고소 … \"골프장 간 적 없다\"\n· Chosunbiz — 李 대통령 장남, 주진우 명예훼손 고소… “골프장 안 갔다”\n· 한국경제 — 주진우 \"李대통령 장남 고소에 맞고발\"…'황제 골프' 난타전\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: CJB청주방송, JTBC, 조선일보, 중앙일보"
+ "caption": "📰 11월 8일 오늘의 뉴스\n\n1. '한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'\n   오세훈 서울시장과 장동혁 국민의힘 대표, 한동훈 무소속 의원이 4일 서울 더그랜드롯데호텔에서 열린 중앙포럼에 참석하고 있다. 범보수 야권 유력 차기 주자인 장동혁…\n2. 이준석 \"전한길 처벌 원해, 마음 바꿨다\"…'학력 위조' 의혹 제기 선처 거부\n3. \"하루 만에 라면 2만 그릇 팔렸다\"…매출 1억7000만원 초대박\n   7일 구미시에 따르면 축제 첫날인 6일 현장에서 판매된 별미라면은 2만2231그릇으로 지난해 같은 날 1만5140그릇보다 약 47% 늘었다. 특히 축제 인기 상품인 ‘갓…\n4. 미국 중간선거 후폭풍에 대미 원전사업 100억달러 선지급 도마\n   미국 중간선거에서 승리한 민주당이 인공지능 데이터센터에 대한 규제를 강화할 것이라는 전망이 나오면서 최대 100억달러 규모의 원전 투자 선급금 지급 문제가 도마 위에…\n5. [속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”\n   국민의힘은 “대한민국의 ‘국기’인 태권도가 북한의 무형유산으로 유네스코에 등재될 상황에 놓였다”며 7일 정부를 겨냥했다. 함 대변인은 “북한이 태권도의 유네스코 단독…\n6. 한동훈 “특검법이 아니라 특권법…李 재판 무력화할 특권 주는 법”\n7. 국민의힘, ‘조작기소 특검’ 장외 규탄대회…여론전 시동\n   국민의힘은 더불어민주당 주도로 국회를 통과한 '조작기소 특검법'에 반발해 오늘 서울 도심에서 장외 규탄대회에 나섭니다. 국민의힘은 국회를 통과한 특검법이 이재명 대통령…\n\n🗣 “심사 결과 발표를 앞두고 민간단체가 태권도 남북 공동 등재의 당위성 설명 공문을 유네스코에 전달해달라고 요청했지만, 국가유산청은 보냈다고 답변한 반면 해당 단체는 실제로 전달되지 않았다고 주장한다”\n이 발언을 그대로 실은 보도 10건 · 세계일보 · 연합뉴스 · 경기일보 · 뉴시스\n· 세계일보 — [속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”\n· 연합뉴스 — 국기원 \"태권도 공동 등재 못 해 아쉬워…경기 운영 우려 없어\"\n· 경기일보 — 국민의힘 “태권도 北 단독등재 유력…정부는 도대체 뭐했나”\n· 연합뉴스 — 국힘, 北태권도 인류유산 단독등재 유력에 \"문화도 北눈치 보나\"\n· 뉴시스 — 국힘, 北태권도 유네스코 유산 '단독 등재' 유력에 \"정부 뭐했나\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한\n\n출처: KBS, 매일경제, 세계일보, 연합뉴스, 한국경제, 한국일보"
 }
