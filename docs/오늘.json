@@ -1,275 +1,177 @@
 {
- "date": "2026-11-08",
- "generated_at": "2026-11-08T10:58:07+09:00",
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T11:16:15+09:00",
  "mode": "daily",
- "window_start": "2026-11-07T00:00:00+09:00",
- "window_end": "2026-11-07T23:59:59+09:00",
+ "window_start": "2026-11-08T00:00:00+09:00",
+ "window_end": "2026-11-08T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "'한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'",
-   "source": "한국일보",
-   "url": "https://n.news.naver.com/article/469/0000964172",
-   "published_at": "2026-11-07T04:31:29+09:00",
+   "title": "양부남 “‘개수작’ 한동훈, 입에서 나오는 대로 뱉어서야”",
+   "source": "한겨레",
+   "url": "https://n.news.naver.com/article/028/0002831173",
+   "published_at": "2026-11-08T10:44:13+09:00",
    "section_id": "100",
    "view_rank": 1,
-   "selection": "정치",
-   "summary": "오세훈 서울시장과 장동혁 국민의힘 대표, 한동훈 무소속 의원이 4일 서울 더그랜드롯데호텔에서 열린 중앙포럼에 참석하고 있다. 범보수 야권 유력 차기 주자인 장동혁…",
-   "summary_long": "오세훈(왼쪽부터) 서울시장과 장동혁 국민의힘 대표, 한동훈 무소속 의원이 4일 서울 더그랜드롯데호텔에서 열린 중앙포럼에 참석하고 있다. 범보수 야권 유력 차기 주자인 장동혁 국민의힘 대표와 한동훈 무소속 의원이 최근 들어 오세훈 서울시장과 '밀착' 행보를 보이면서 오 시장이 범보수 연대의 새 '구심점'으로 떠오르는 모습이다. 당권파는 '오장연대'를 우선 거론하며 한 의원 견제에 나섰고, 친한(친한동훈)계는 복당론을 띄우며 오 시장의 입장을 요구하고 있다.\n\n당권파 조정훈 의원은 CBS 라디오에서 \"1단계 연대는 단연코 장 대표와 오 시장이 서로 역할과 존재를 인정하고 확장해 나가며 뿌리를 지켜나가는 것\"이라고 말했다. 또 다른 의원은 \"오 시장은 중도보수, 장 대표는 강성 당원들을 확보하게 되면 일석이조 아니겠나\"라며 \"나쁘지 않은 구상\"이라고 했다. 박정훈 의원은 오 시장이 한 의원 복당에 적극적이지 않다는 시각과 관련해 \"중도 확장력이 큰 오 시장은 (시장 신분이어서) 다음 총선에 관여할 수 없다\"며 \"그런 만큼 한동훈 복당 문제를 총선 승리 관점에서 바라봐 달라\"고 촉구했다.",
-   "quotes": [
-    "1단계 연대는 단연코 장 대표와 오 시장이 서로 역할과 존재를 인정하고 확장해 나가며 뿌리를 지켜나가는 것",
-    "오 시장께서 약속하신 시작된 변화, 압도적 완성을 국민의힘이 함께 이뤄가겠다. 국민의힘과 서울시는 한 팀",
-    "총선과 대선 승리를 위해서는 당내 갈등을 최소화하고 통합의 방향으로 운영돼야 한다"
-   ],
-   "press": "한국일보",
-   "photo": "01.jpg",
-   "quoted": {
-    "quote": "오 시장께서 약속하신 시작된 변화, 압도적 완성을 국민의힘이 함께 이뤄가겠다. 국민의힘과 서울시는 한 팀",
-    "n": 3,
-    "verified": 0,
-    "items": [
-     {
-      "press": "한국일보",
-      "title": "'한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HLWkxbTVveGZtNXJLS0ttNkZCY2dvYUFoWVZ5R1JSV2xnSTh1XzkweUVWVGZmRGJ0OHJCQUlfS2o3VC1nRWhkeXY4SDE1TmpqdzB2UjVzNzhRRlUzZUUwWXlHdzl2S2VFVGNtUkNuQmNKVlnSAXNBVV95cUxNRy1pMW01b3hmbTVyS0tLbTZGQmNnb2FBaFlWeUdSUldsZ0k4dV85MHlFVlRmZkRidDhyQkFJX0tqN1QtZ0VoZHl2OEgxNU5qancwdlI1czc4UUZVM2VFMFl5R3c5dktlRVRjbVJDbkJjSlZZ?oc=5"
-     },
-     {
-      "press": "뉴시스",
-      "title": "국힘, 오세훈과 서울시 예산정책협의…장동혁 \"국힘·서울은 한 팀\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HakRMSHAtQ3dZR1p6NjByaHAtUUJmWUlEM1hBdzRKb2xfUXk1eGxYUWM3WjVyNWZ3MWNvTUc0U1NKNEN0RmIxc3lFdERfVmRyckw0RGlyNGVqMGtpclNKNG9CYmxsbnhReS1xRlYxaklseGJ4SjJJddIBeEFVX3lxTE5HakRMSHAtQ3dZR1p6NjByaHAtUUJmWUlEM1hBdzRKb2xfUXk1eGxYUWM3WjVyNWZ3MWNvTUc0U1NKNEN0RmIxc3lFdERfVmRyckw0RGlyNGVqMGtpclNKNG9CYmxsbnhReS1xRlYxaklseGJ4SjJJdQ?oc=5"
-     },
-     {
-      "press": "미디어펜",
-      "title": "장동혁·오세훈, '서울시 예산' 두고 공조...\"국힘과 서울시는 한팀\"",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EVkJqRTdFVDVrR2s2eEFrUTJoY0gwS3VQcUQ0QzdzQlQwNnFLWUJJdk5KWGt0REJLRk1BT21fenctMXp6VlJ0cVcyazR6dkliRGhkQ3B4MVnSAVhBVV95cUxORFZCakU3RVQ1a0drNnhBa1EyaGNIMEt1UHFENEM3c0JUMDZxS1lCSXZOSlhrdERCS0ZNQU9tX3p3LTF6elZSdHFXMms0enZJYkRoZENweDFZ?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "이준석 \"전한길 처벌 원해, 마음 바꿨다\"…'학력 위조' 의혹 제기 선처 거부",
-   "source": "한국일보",
-   "url": "https://n.news.naver.com/article/469/0000964191",
-   "published_at": "2026-11-07T11:28:14+09:00",
-   "section_id": "100",
-   "view_rank": 3,
    "selection": "정치",
    "prep_error": "The read operation timed out"
   },
   {
-   "title": "\"하루 만에 라면 2만 그릇 팔렸다\"…매출 1억7000만원 초대박",
-   "source": "한국경제",
-   "url": "https://n.news.naver.com/article/015/0005351377",
-   "published_at": "2026-11-07T14:34:17+09:00",
+   "title": "\"李 탈옥법\" \"특권계급\"…장동혁·한동훈·오세훈, 李에 십자포화",
+   "source": "시사저널",
+   "url": "https://n.news.naver.com/article/586/0000141824",
+   "published_at": "2026-11-08T01:02:09+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "selection": "정치",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "치명적 토마토 바이러스 부산까지 전파",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002429955",
+   "published_at": "2026-11-08T16:50:56+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "7일 구미시에 따르면 축제 첫날인 6일 현장에서 판매된 별미라면은 2만2231그릇으로 지난해 같은 날 1만5140그릇보다 약 47% 늘었다. 특히 축제 인기 상품인 ‘갓…",
-   "summary_long": "경북 구미시의 대표 행사로 자리 잡은 ‘2026 구미라면축제’가 개막 첫날부터 흥행을 이어갔다. 7일 구미시에 따르면 축제 첫날인 6일 현장에서 판매된 별미라면은 2만2231그릇으로 지난해 같은 날 1만5140그릇보다 약 47% 늘었다. 특히 축제 인기 상품인 ‘갓 튀긴 라면’을 사려는 방문객들이 몰리면서 대기행렬이 하루 종일 500m가량 이어졌다.\n\n생참복라면과 송이·능이를 활용한 산중라면을 비롯해 해외 누들 메뉴까지 다양한 이색 라면을 선보인다. 온라인 예선에 참가한 세계 80개국 1263명 가운데 선발된 13개국 참가자 13명이 각국 식문화와 개성을 담은 라면 요리로 경연을 벌인다. 김장호 구미시장은 “구미라면축제는 지역의 산업과 농업, 음식문화를 라면이라는 친숙한 콘텐츠로 연결한 구미만의 축제”라며 “남은 기간에도 방문객들이 안전하고 편리하게 축제를 즐기고, 원도심과 지역 상권까지 함께 경험할 수 있도록 운영에 최선을 다하겠다”고 밝혔다.",
-   "quotes": [
-    "남은 기간에도 방문객들이 안전하고 편리하게 축제를 즐기고, 원도심과 지역 상권까지 함께 경험할 수 있도록 운영에 최선을 다하겠다",
-    "구미라면축제는 지역의 산업과 농업, 음식문화를 라면이라는 친숙한 콘텐츠로 연결한 구미만의 축제"
-   ],
-   "press": "한국경제",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "남은 기간에도 방문객들이 안전하고 편리하게 축제를 즐기고, 원도심과 지역 상권까지 함께 경험할 수 있도록 운영에 최선을 다하겠다",
-    "n": 4,
-    "verified": 0,
-    "items": [
-     {
-      "press": "연합뉴스",
-      "title": "구미라면축제 첫날부터 구름 인파…별미라면 2만2천그릇 팔려",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84RTNUYVozRXlaVmVaNmJkRDdWQ1BsVlBzek1rLWszN3U3VTB0LS1xWXd1YVAtTGlaSzZhZlRLU2dlSmg5SG92RnR0UzRGZHFiRFY5STRaVjZ4NlFJTzRZTdIBYEFVX3lxTE84RTNUYVozRXlaVmVaNmJkRDdWQ1BsVlBzek1rLWszN3U3VTB0LS1xWXd1YVAtTGlaSzZhZlRLU2dlSmg5SG92RnR0UzRGZHFiRFY5STRaVjZ4NlFJTzRZTQ?oc=5"
-     },
-     {
-      "press": "데일리대구경북뉴스",
-      "title": "구미 도심이 라면으로 물들다",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wR2MzaTNwTVdGcXpneFFEZEVNZzgzb3h2Z2NwLU9wQWZkcTBqdDBIQjQtdUVsLTgxdGFoVExxU21pal9vNmRMOFZYR1BuckxmbDhmUlVvZ3lrRXRhODVHcnpBVUs3dw?oc=5"
-     },
-     {
-      "press": "한국경제",
-      "title": "\"하루 만에 라면 2만 그릇 팔렸다\"…매출 1억7000만원 초대박",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NOUk4WDdOM2xCYlVqUXhRbFhKdEU2U0JyOXNrUDdNdzZlX1pLS3Vfdk9LSHZoSGNWOUJfWWViX19leUhHMHY2WFp4cG4xUndNYS1FT2N5Y0ZqUQ?oc=5"
-     },
-     {
-      "press": "부산파이낸셜뉴스",
-      "title": "라면으로 물들고 있는 구미시, 라면축제 대박",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJSTNKcjlWNFhVRm96b0VyY2RLeHZLcWtnUU5kTDF5eXJCN3NzX3JkZUFqUHVhLTdaTU53cWxFbmU2ckFMdWsycy1HdGNTOVZtQUNMeUczY2IzNkk0UnFoWFRmdDhPQQ?oc=5"
-     }
-    ]
-   }
+   "prep_error": "The read operation timed out"
   },
   {
-   "title": "미국 중간선거 후폭풍에 대미 원전사업 100억달러 선지급 도마",
-   "source": "연합뉴스",
-   "url": "https://n.news.naver.com/article/001/0016427593",
-   "published_at": "2026-11-07T06:15:00+09:00",
-   "section_id": "101",
+   "title": "\"엄마, 우리 반 친구들 다 어디 갔어?\"…초등 입학생 30만명도 무너진다",
+   "source": "아시아경제",
+   "url": "https://n.news.naver.com/article/277/0005839569",
+   "published_at": "2026-11-08T12:27:16+09:00",
+   "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "미국 중간선거에서 승리한 민주당이 인공지능 데이터센터에 대한 규제를 강화할 것이라는 전망이 나오면서 최대 100억달러 규모의 원전 투자 선급금 지급 문제가 도마 위에…",
-   "summary_long": "미국 중간선거에서 승리한 민주당이 인공지능(AI) 데이터센터에 대한 규제를 강화할 것이라는 전망이 나오면서 최대 100억달러 규모의 원전 투자 선급금 지급 문제가 도마 위에 올랐다. 전기를 대량으로 쓸 AI 데이터센터 건설에 제동이 걸리면 미국 내 원전 사업의 수익성 확보도 불투명해지는 만큼, 거액의 자금부터 먼저 집행하는 것이 적절한지를 놓고 우려의 목소리가 나오고 있다. 7일 관계 당국에 따르면 100억달러 규모의 원전 투자 선급금은 설계에서 제작, 납품까지 수년이 걸리는 원전 핵심 설비인 장주기 품목(Long Lead Items)을 사전에 확보하기 위한 자금이다.\n\n서왕진 조국혁신당 의원은 지난 5일 국회에서 기자회견을 열고 \"미국 민주당이 상·하원을 장악하면서 원전 투자 여건에 변화가 예상된다\"며 \"한미 원전 프레임워크에 따른 100억달러 규모의 선지급을 보류해야 한다\"고 촉구했다. 반면 주무부처인 산업통상부는 AI 데이터센터 규제 강화 움직임이 원전 사업의 악재만은 아니라는 입장이다. 이어 \"미국 측이 중간선거 이후에 원전 후보지를 통보하기로 했다\"며 \"후보지를 통보하는 대로 기존 송전망 연계 여부와 장기 전력구매계약을 맺을 빅테크 등 안정적 수요처를 종합적으로 따져 대응할 방침\"이라고 덧붙였다.",
-   "quotes": [
-    "원전과 같은 대형 발전원이 함께 들어서 전력을 안정적으로 공급할 경우 오히려 지역 전기요금 인상 압력을 낮추고 데이터센터에 대한 주민 수용성을 확보하는 계기가 될 수 있다",
-    "후보지를 통보하는 대로 기존 송전망 연계 여부와 장기 전력구매계약을 맺을 빅테크 등 안정적 수요처를 종합적으로 따져 대응할 방침",
-    "현지 주민들의 반발은 전력 공급 인프라 확충 없이 막대한 전력을 쓰는 데이터센터만 들어설 때 전기료가 오를까 걱정하는 것"
-   ],
-   "press": "연합뉴스",
-   "photo": "04.jpg",
-   "quoted": {
-    "quote": "후보지를 통보하는 대로 기존 송전망 연계 여부와 장기 전력구매계약을 맺을 빅테크 등 안정적 수요처를 종합적으로 따져 대응할 방침",
-    "n": 3,
-    "verified": 0,
-    "items": [
-     {
-      "press": "연합뉴스",
-      "title": "미국 중간선거 후폭풍에 대미 원전사업 100억달러 선지급 도마",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iWGtsRFE1ZmM3RWp1d2JvVGhRRHlkckZaSThWX0JQYW03aUN6M1Q5UkpmemJidWFuOUhlb3FUeXo2VDFkNTEzN2ZWUFlvRHRNcHh3ejlac3diQnfSAWBBVV95cUxOOTNiZDZGNUlZRHNMY3BIRkFOWTh2NkI3YXpaaDN5QWpmVEJwOUZyY0lCTE1tV2xfNDI1dmUtaldvQ2VVeC1vLU9zVkx2cWQ4NnNXSk5oVFIyOW9RWHlTb2M?oc=5"
-     },
-     {
-      "press": "파이낸셜포스트",
-      "title": "[분석] 미국 선거판에 흔들리는 원전 사업…100억 달러 선지급 보류 '딜레마'",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yRWlqRnJkT0FpTXRDbmtKQUhnRks2WU9pakNOOGFiS0MxVXN1R05zc3VPd3JmRHdOa3RjOXVLZUhaMWRtT3NMZnpBNmJjQnZiemNQLUJHZm5rQV9LTjl0WE9SbS0zaWVGOTlKOU5ZbHgwa25h?oc=5"
-     },
-     {
-      "press": "M이코노미뉴스",
-      "title": "민주당 규제 전망에 원전 전력수요·수익성 우려... 대미 원전사업 100억 달러 선지급 논란",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hX2JrQ3p5cGdPLVlVeDE2QjdrUXNxQlNLNWNYSzRwclZwMVRyNWdSNUhMb3BCeGZ3WHRJeTAwS3VYcFJKNmUwLU83T0ZBenF5dDkweVAwbXVXTTlOX2xNcEpKRFJ0N0U?oc=5"
-     }
-    ]
-   }
+   "prep_error": "The read operation timed out"
   },
   {
-   "title": "[속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”",
-   "source": "세계일보",
-   "url": "https://n.news.naver.com/article/022/0004173263",
-   "published_at": "2026-11-07T16:37:07+09:00",
+   "title": "장동혁-오세훈-한동훈...차기 주도권 본격 힘겨루기?",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002429796",
+   "published_at": "2026-11-08T05:36:34+09:00",
    "section_id": "100",
    "view_rank": 2,
-   "comment_count": 318,
-   "comment_agree": 195,
-   "comment_disagree": 42,
-   "division_balance": 0.35443,
-   "division_score": 1.939539,
+   "comment_count": 220,
+   "comment_agree": 144,
+   "comment_disagree": 36,
+   "division_balance": 0.4,
+   "division_score": 2.079399,
    "selection": "찬반 쟁점",
-   "summary": "국민의힘은 “대한민국의 ‘국기’인 태권도가 북한의 무형유산으로 유네스코에 등재될 상황에 놓였다”며 7일 정부를 겨냥했다. 함 대변인은 “북한이 태권도의 유네스코 단독…",
-   "summary_long": "국민의힘은 “대한민국의 ‘국기(國技)’인 태권도가 북한의 무형유산으로 유네스코에 등재될 상황에 놓였다”며 7일 정부를 겨냥했다. 국민의힘 함인경 대변인은 이날 논평에서 “정부는 도대체 무엇을 했나”라며 이처럼 따져 물었다. 함 대변인은 “북한이 태권도의 유네스코 단독 등재를 추진하는 동안 우리 정부는 무엇을 했나”라며 “대한민국의 문화유산을 지키는 데에도 북한의 눈치를 봐야 하느냐”고 물었다.\n\n북한이 2024년 3월 유네스코에 등재신청서를 냈지만, 국가유산청은 남북 공동 등재 가능성 등을 검토하다 2년 뒤인 올해 3월에야 한국 태권도의 신청서를 제출했다. 이어 “유네스코 심사 결과와 관계없이, 태권도가 유네스코 인류무형유산 대표목록에 ‘단독 등재’되거나 ‘확장 등재’될 수 있도록 노력을 다하겠다”고 전했다. 함 대변인은 “심사 결과 발표를 앞두고 민간단체가 태권도 남북 공동 등재의 당위성 설명 공문을 유네스코에 전달해달라고 요청했지만, 국가유산청은 보냈다고 답변한 반면 해당 단체는 실제로 전달되지 않았다고 주장한다”고 강조했다.",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "이 대통령 \"정치인 칭찬하되 찬양 말고, 지지하되 숭배 말아야\"",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000519691",
+   "published_at": "2026-11-08T15:38:26+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 127,
+   "comment_agree": 144,
+   "comment_disagree": 33,
+   "division_balance": 0.372881,
+   "division_score": 1.93219,
+   "selection": "찬반 쟁점",
+   "summary": "이재명 대통령이 \"정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다\"고 비판했습니다. 그러면서 김대중 전…",
+   "summary_long": "김대중·노무현 인용 \"'깨어 있는 시민' 강조한 이유 생각해야\" 이재명 대통령이 6일 청와대에서 열린 한·동티모르 정상회담 뒤 조제 하무스 오르타 동티모르 대통령과 가진 공동언론발표에서 회담 결과를 발표하고 있다. 이재명 대통령이 \"정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다\"고 비판했습니다.\n\n이 대통령은 어제(7일) 밤 자신의 엑스(X)에 '칭찬하되 찬양하지 말고, 지지하되 숭배하지 마십시오'라는 제목의 글을 올리고 이같이 밝혔습니다. 이어 \"민주주의는 저절로 오지도 않고 저절로 지켜지지도 않는다\"며 \"살아 있는 이성으로 진실과 정의에 반응하는 시민들의 끊임없는 참여와 실천만이 민주주의를 만들고 지킨다\"고 강조했습니다. 그러면서 김대중 전 대통령의 \"행동하지 않는 양심은 악의 편\"이라는 발언과 노무현 전 대통령의 \"깨어 있는 시민의 조직된 힘\"을 언급하며 \"왜 그냥 시민이 아니라 '깨어있는' 시민이었을까\"라고 반문했습니다.",
    "quotes": [
-    "심사 결과 발표를 앞두고 민간단체가 태권도 남북 공동 등재의 당위성 설명 공문을 유네스코에 전달해달라고 요청했지만, 국가유산청은 보냈다고 답변한 반면 해당 단체는 실제로 전달되지 않았다고 주장한다",
-    "유네스코 심사 결과와 관계없이, 태권도가 유네스코 인류무형유산 대표목록에 ‘단독 등재’되거나 ‘확장 등재’될 수 있도록 노력을 다하겠다",
-    "특정 국가가 먼저 등재를 신청했거나 먼저 등재됐다고 해서 해당 무형유산에 대한 배타적이고 독점적인 권리가 인정되는 것은 아니다"
+    "정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다",
+    "'내 편이 하는 말은 모두 옳고 상대편이 하는 말은 모두 그르다', 진심으로 이렇게 생각한다면 심각한 상태",
+    "살아 있는 이성으로 진실과 정의에 반응하는 시민들의 끊임없는 참여와 실천만이 민주주의를 만들고 지킨다"
    ],
-   "press": "세계일보",
-   "photo": "05.jpg",
+   "press": "JTBC",
+   "photo": "06.jpg",
    "quoted": {
-    "quote": "심사 결과 발표를 앞두고 민간단체가 태권도 남북 공동 등재의 당위성 설명 공문을 유네스코에 전달해달라고 요청했지만, 국가유산청은 보냈다고 답변한 반면 해당 단체는 실제로 전달되지 않았다고 주장한다",
+    "quote": "정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다",
     "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "세계일보",
-      "title": "[속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CTm5DV3N6WU9hdThmbXMyU3BkenNaRzI5MXVJeWgyZ2ZwUmM0S0RCc1BCeWdRUFZZbW5VT25oUlpPeW9NQmdLTlpMTmVxTWFT0gFUQVVfeXFMTUE2cS1YbjRIWVJaLVF1eUEzRzRfdTVEaGQ5VzVXbzkzVjFuN0lBRks4THZMbllKNDhlaExvOTJvRWdOLWtkV1ZkSFpJU0JmcThHYmtJ?oc=5"
+      "press": "여성신문",
+      "title": "이 대통령 “정치인 칭찬·지지 필요하지만, 종교적 찬양·숭배 안 돼”",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wekVibHlDRTNsaDZRVDVueFE4cTdUSmJxN09lcG5UbkRpd1hkaTk2T1ZIOGdBUEM4NGw2Q1JvcFdPMjczc0hDTW8tV2k2N0hmaEY5WU1SUy1JbjlCcUt1SzRKTFV3OTYwaGx1ZjF4RWRwS1nSAXNBVV95cUxNMHpFYmx5Q0UzbGg2UVQ1bnhROHE3VEpicTdPZXBuVG5EaXdYZGk5Nk9WSDhnQVBDODRsNkNSb3BXTzI3M3NIQ01vLVdpNjdIZmhGOVlNUlMtSW45QnFLdUs0SkxVdzk2MGhsdWYxeEVkcEtZ?oc=5"
      },
      {
-      "press": "연합뉴스",
-      "title": "국기원 \"태권도 공동 등재 못 해 아쉬워…경기 운영 우려 없어\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WMUoyNmdUTDVCaUY2QWE5QnZMRzJCdVRZMzNSSGwtV2tDUWJPZDhNaFVLV2xoM1RVcG41UHctYnc3UkVzQThzVG1IMHhJZTRJLW1YOUFaR3JjTE3SAWBBVV95cUxNREhITmhDcEd3QzhHbUU1RTRnNmVFTTBpU3JoMENfOG5mSkIwZVlZdUpEbHgwREsxUEJyTmZiT0VHbWw0N2V6eU1nWm1vYXJNSHRZajBacjdyVF9hZnlLSkQ?oc=5"
+      "press": "조선일보",
+      "title": "李대통령 \"정치인 향한 종교적 찬양·숭배 안돼\"",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMnpQRTFrczN0cDZwb0ctbGdrUkVnOGgtX1RaNEZtOTUwQ2hWNW9MYWhLem92bmUtdDVDcmlia3lsYXJWanJtQ3kzSEZtajRuLVMzTUJQQVJLRTYxR2h4T2l3WEZhQVB3Ny1xdUNvU0Y3bDhkbzhDMURRRGJFTGgyMXoxLVNkZ2pxVjlQQzlZRkU?oc=5"
      },
      {
-      "press": "경기일보",
-      "title": "국민의힘 “태권도 北 단독등재 유력…정부는 도대체 뭐했나”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZTUZTVlJtT3YwYWV0RVVBR2NTNWtkcmpHOVVLX2pyVWE4ZnJQYVQ5dlFiRWJIT1ZIUGlnS0QzQmExNHI3M2kzTVJYck1uS0lwZnl0MFV3SUhVMkk?oc=5"
+      "press": "문화일보",
+      "title": "[속보]李대통령 “지지하되 숭배하지 마시라…살아있는 이성으로 민주주의 지켜야”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uMTk0M3hjOFlmY2VkRVBlSktXVHIxaFpmZ3FWaVgyQnAtWnJmTDQwZS15VkFUNnlvUmhWc0pnZU1HQmhPZWh4Qkp0RGpBTjg1?oc=5"
      },
      {
-      "press": "연합뉴스",
-      "title": "국힘, 北태권도 인류유산 단독등재 유력에 \"문화도 北눈치 보나\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Jc2xHN214dkcxdHB4TEtBcTgyTkFtRVlyZjdmdmZ6ZTFmNXdZcFVNLUh1M2hfd2R0Q2t3TkZyMFl1QkE1V0RyNWNsZzg0S1JwOE85NWllUkNuV0XSAWBBVV95cUxNVldPLXg4d0pNMnQza1M5dFpKQXQtY095UjE0aTBSNjRrY0IyTWlLa1lJNlhScWQ0eEJGMHl2UEJvdHZkTDRwXzlLQ1NQSGdzRjRzRWUzbGFaUnNDZmVxQkk?oc=5"
+      "press": "채널A",
+      "title": "이 대통령 “정치인 칭찬하되 찬양 말고 지지하되 숭배 말아야”",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52T2Z0eHNQcWVJSkYtMkhWLW1GLWxBWnl5MG1GSXVMaTlWVlF3VkwxR2tQRnBtQlk1QktSbGFpWEhjS3RxY0JVQk5uOGlYeEV5cU13bTFCdWpPM3FFSjRpY2M1Z9IBY0FVX3lxTE52T2Z0eHNQcWVJSkYtMkhWLW1GLWxBWnl5MG1GSXVMaTlWVlF3VkwxR2tQRnBtQlk1QktSbGFpWEhjS3RxY0JVQk5uOGlYeEV5cU13bTFCdWpPM3FFSjRpY2M1Zw?oc=5"
      },
      {
-      "press": "뉴시스",
-      "title": "국힘, 北태권도 유네스코 유산 '단독 등재' 유력에 \"정부 뭐했나\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Mei00SGU4SzB0NmE2dmRzZGY0amE5Sm5sTFd1Ymd4cURCWFc1NDBfZnZDemtNUkpvQW9IUHdiaVZudFB3RVNVTmZyYUNZUWMycEYwaUtRQzNGS1dyYTlTMGlGcS1LRUJtZUZFU252dVZqODNTOURqTNIBeEFVX3lxTE9Mei00SGU4SzB0NmE2dmRzZGY0amE5Sm5sTFd1Ymd4cURCWFc1NDBfZnZDemtNUkpvQW9IUHdiaVZudFB3RVNVTmZyYUNZUWMycEYwaUtRQzNGS1dyYTlTMGlGcS1LRUJtZUZFU252dVZqODNTOURqTA?oc=5"
+      "press": "아시아경제",
+      "title": "李대통령 \"정치인은 칭찬·지지 필요하나, 종교적 찬양·숭배 안돼\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cc2FfclRYRzJsQTdabWtNRUlDYVVST2V1N0pwVEtkRHBNZHZlWnpIQVdzWEp5Y3IwQU5NbWpxOU9fR2FvYy1jejMtWlpXc2F1eTFxWU1tUUN6TThxaEd4NQ?oc=5"
      },
      {
-      "press": "한국경제",
-      "title": "\"태권도가 北 전통 무술? 정부는 뭐 했나\"…쏟아진 비판",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vbE5GdGdHOElJNENZbkJrNkhPWndlTWRNWUdIOHMwMXRWXzZiSkRfdjByR2hLSG5GRFJUQ0E0REJ2R2JCSDBPeGNyc1gyRUlBLXdxdThGZFpvUQ?oc=5"
+      "press": "뉴스핌",
+      "title": "李대통령 \"칭찬하되 찬양 말고, 지지하되 숭배 말라\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JRkJIMEJpelVmOFVrNG95eXJNUE9GVnBCZmZhUFdUVzg5MU9icDU4THVjRWVCcFYzdDctT213MFQ2bzgzc052U2dkSl9Tc1pTdWsyYlVfVzVUXzE2?oc=5"
      }
     ]
    }
   },
   {
-   "title": "한동훈 “특검법이 아니라 특권법…李 재판 무력화할 특권 주는 법”",
-   "source": "매일경제",
-   "url": "https://n.news.naver.com/article/009/0005760341",
-   "published_at": "2026-11-07T11:06:08+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 599,
-   "comment_agree": 153,
-   "comment_disagree": 32,
-   "division_balance": 0.345946,
-   "division_score": 1.807826,
-   "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "국민의힘, ‘조작기소 특검’ 장외 규탄대회…여론전 시동",
-   "source": "KBS",
-   "url": "https://n.news.naver.com/article/056/0012289202",
-   "published_at": "2026-11-07T01:01:02+09:00",
+   "title": "국민의힘 \"당장 탄핵\" 민주당 \"진실 명명백백 밝혀야\"[오늘아침]",
+   "source": "노컷뉴스",
+   "url": "https://n.news.naver.com/article/079/0004207513",
+   "published_at": "2026-11-08T09:10:15+09:00",
    "section_id": "100",
    "view_rank": 3,
-   "comment_count": 152,
-   "comment_agree": 115,
-   "comment_disagree": 14,
-   "division_balance": 0.217054,
-   "division_score": 1.056519,
+   "comment_count": 109,
+   "comment_agree": 123,
+   "comment_disagree": 25,
+   "division_balance": 0.337838,
+   "division_score": 1.690522,
    "selection": "찬반 쟁점",
-   "summary": "국민의힘은 더불어민주당 주도로 국회를 통과한 '조작기소 특검법'에 반발해 오늘 서울 도심에서 장외 규탄대회에 나섭니다. 국민의힘은 국회를 통과한 특검법이 이재명 대통령…",
-   "summary_long": "국민의힘은 더불어민주당 주도로 국회를 통과한 '조작기소 특검법'에 반발해 오늘(7일) 서울 도심에서 장외 규탄대회에 나섭니다. 국민의힘은 오늘(7일) 오후 3시부터 서울 경복궁역 일대에서 '이재명 재판취소 악법 강행처리 국민 규탄대회'를 엽니다. 장동혁 대표와 정점식 원내대표 등 당 지도부와 소속 의원, 당협위원장과 당원 등이 참석할 예정입니다.\n\n국민의힘은 국회를 통과한 특검법이 이재명 대통령 죄 지우기를 위한 것이라고 비판하며, 이 대통령 관련 재판 재개를 재차 주장할 것으로 보입니다. 장 대표는 어제 열린 국회 규탄대회에서도 법안이 통과된 어제(6일)를 \"대한민국 법치주의가 사망한 날\"이라며, \"조작기소 특검법이야말로 조작 입법\"이라고 비판했습니다. 국민의힘은 다음 주 월요일 청와대 앞을 찾아 현장 최고위원회의를 열고, 각지에서 1인 시위를 이어가는 등 장외 여론전을 이어갈 방침입니다.",
+   "summary": "국민의힘 \"성남 카르텔\" 민주당 \"성남라인 이전에 친노인사\" 도널드 트럼프 미국 대통령이 데이나 화이트 UFC 회장에게 백악관 대변인직을 제안했다고 밝혔다.",
+   "summary_long": "거리로 나선 국민의힘 \"당장 탄핵해서 끌어내려야\" 더불어민주당 주도로 국회에서 '조작기소 특검법안'이 국회를 통과하자 국민의힘은 서울 도심에서 장외집회를 열고 이재명 대통령과 민주당을 비판했다. 국민의힘 \"성남 카르텔\" 민주당 \"성남라인 이전에 친노인사\"\n\n국민의힘 박성훈 수석대변인은 7일 논평에서 \"이 대통령의 인사 전횡이 막장의 끝을 보여주고 있다\"며 \"돌고 돌아 결국 '성남 카르텔' 인사\"라고 비난했다. 도널드 트럼프 미국 대통령이 데이나 화이트 UFC(이종격투기) 회장에게 백악관 대변인직을 제안했다고 밝혔다. 트럼프 대통령이 미국 독립·건국 250주년 기념행사의 하나로 자신의 80번째 생일인 지난 6월 14일 백악관에서 UFC 경기 개최를 추진할 때도 화이트 회장이 행사 준비에 핵심적인 역할을 맡았다.",
    "quotes": [
-    "조작기소 특검법이야말로 조작 입법",
-    "대한민국 법치주의가 사망한 날"
+    "참여정부에서 청와대 민정2비서관과 법무비서관을 역임했고 반부패 제도 개혁, 검찰 정책 뿐만 아니라 법무·교정·출입국·인권·범죄예방 등 법무부의 폭넓은 분야를 다룬 실력자",
+    "공소취소의 숨은 설계까지 맡겨 법무부를 대통령의 방탄 변호인으로 전락시키고 사법리스크를 완벽하게 지워버리겠다는 속셈",
+    "대장동 사건의 피고인인 대통령이 대장동 의혹 연루자에게 법무 행정을 통째로 맡기는 나라는 정상적인 법치국가가 아니다"
    ],
-   "press": "KBS",
+   "press": "노컷뉴스",
    "photo": "07.jpg",
    "quoted": {
-    "quote": "조작기소 특검법이야말로 조작 입법",
-    "n": 7,
+    "quote": "참여정부에서 청와대 민정2비서관과 법무비서관을 역임했고 반부패 제도 개혁, 검찰 정책 뿐만 아니라 법무·교정·출입국·인권·범죄예방 등 법무부의 폭넓은 분야를 다룬 실력자",
+    "n": 5,
     "verified": 0,
     "items": [
      {
-      "press": "연합뉴스TV",
-      "title": "국힘 \"조작특검으로 대통령 셀프면죄\"…특검법 여론전 시동",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jNHBYdFJiYlVfOExiUXpGQmZQckg2d0VmZ0hMaDNka0NYRkpGRi1ZSC1obVpjZkRLQ2s1XzhjZno1REhwQ2tiU2hSYjBpb20yX2dOZTRDUVd0R2JMSjJmMFUyMTBXaG8?oc=5"
+      "press": "연합뉴스",
+      "title": "與, 野'이용철 대장동 의혹' 공세에 \"당시는 사업구상도 없었다\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGRTRiTEtSV1YyRl9UMUpNM2R4U1NVc3JDclNkWXFzUkJkV2IyVmxiWkZ0bVhlZ2tlZmVodzBvVE5nTU5qMnpOS256bGJOZDZQb09HM0RhRGlTY2vSAWBBVV95cUxQUkhBekpCTkxhWl9WZk5zOVVlZGtod1IyQVVOd1IwaWpyYnFYMmxjdkRpdXdPWXZSOC1QdEJmZTBLcGlyWDZ0UDRWVEk2UC1QU0JOVkFVNEdxWGFxUE4wd1A?oc=5"
      },
      {
-      "press": "중부일보",
-      "title": "조작기소특검법 與주도 국회 통과...李 공소취소 불씨 우려도",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1McmlSbnEwclZPQkdQNUNBbnQyazJQSTJteHQ2SXFPRm94U0JDTmxBWXZQWl9rS2d0SHhlYy1EUVluRUotRUJVZWlIb1pGejBaTUJqYTNyTnZ1U0tmbGF1M29kUkV0NVpkbkcwaGtaMA?oc=5"
+      "press": "한국경제",
+      "title": "\"대장동 구상도 없던 때\"…민주, 이용철 '숨은 설계자' 공세 반박",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoU3I3bE9tWFFjc0h0NU0xeG40NnF2Q1B2Q1FBdkFXa05HZkMwM3NPOGFJWHI3bDdpQXpSRzJrQTVpR213ZW1Wbjhvb24zRkZoZjdwa1NRQkh3dw?oc=5"
      },
      {
-      "press": "강원일보",
-      "title": "국민의힘, ‘조작기소 특검법’ 반대 대규모 집회…장동혁 “법치주의 사망한 날”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUNjFBSDJvZmVxZm1PTGktRGxSdk53ektBOFo4ZXBHRWJ3RXJhTWoxbTg4aUhXenFIMDU1V2tkQ0Z6LXdFMDlxcU1NUldUWVZEeUlsQURKZHFpNXM?oc=5"
+      "press": "박스뉴스",
+      "title": "與, 이용철 법무장관 후보 '대장동 공세'에 \"당시 구상도 없던 시점\" |",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UUng4Z1pnM1ZNM2t5Y205UXpyQ0lOUmhVM1hYR01IRFRESUhLUnNMWWZGRm9fWmJIanhjM1p0NDRkRFltVzlxQjRvWHRtbXVRWlZnMi0yUFRmYlJHeTIzaUp1dl9PNkNsZkhfZlVHTQ?oc=5"
      },
      {
       "press": "연합뉴스",
-      "title": "국힘 \"조작특검으로 대통령 셀프면죄\"…특검법 반대 여론전 시동",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YWnJjajJ3U2hUVlhGZ1hISHdGV1FDaFBHekw5TXRHcWt3QWZwWHd4dElBTGZWYWtVUDBsUUJCbDRnUHlxcWNtam1saHZqVC0yX3MxRVBLXzIxNlXSAWBBVV95cUxNN29HU2c0bjdPNkV5YUJTZWdhSkZPOTdJc3dPZjU4eDgxaFE4dWl1MTdScWxyYzFEUHBMcTh1ZWo4YTFYRFBuWk50d3JjenNVZko3Z3E2cWhyTWhQN3IyOE0?oc=5"
+      "title": "與 '이용철 대장동 의혹 공세' 국힘에 \"허위…법적 책임질 수도\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5b2dfeGpjU3Y4bnRHaEV1VHB4Z25TYlhibGNKdmVsN0J3OW5PZExYTnZ5elU1SWNmaUxRR3ZWVVgxZ2s2WW5wY19LaVJOMkF1MFdzWDNTNDg4R01DVlRxZtIBYEFVX3lxTFA5b2dfeGpjU3Y4bnRHaEV1VHB4Z25TYlhibGNKdmVsN0J3OW5PZExYTnZ5elU1SWNmaUxRR3ZWVVgxZ2s2WW5wY19LaVJOMkF1MFdzWDNTNDg4R01DVlRxZg?oc=5"
      },
      {
-      "press": "전국매일신문",
-      "title": "조작기소 특검법, 국회 본회의 통과…국민의힘 장외투쟁 돌입",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12U0dKa1hYYXJlUG4zcWhrdVlNVkFZS3Rjay1yNW9yQkwzbXVrRUlsaFY2eXpaczkyaHp2VUhJbnNvd3RQbFFUcGJqaHA0SVJ1VGlDSjBvRVBMSUtTTV95amZpazlrZW5QUUtTa2NB?oc=5"
-     },
-     {
-      "press": "MBC 뉴스",
-      "title": "국민의힘, \"대한민국 법치주의 사망\" 장외투쟁 돌입",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NMGNEZFk1aGJpM2xUSmhRazFLRC1vZmVDS2duUHE0bDYwaENSVDdYQ1JxTXF0aGxQYWx6TW8xWjQxVnp2QUw5V3puSnVZX0FIbnZSWFBla1QzeHdVTTZUVlBPalNPckNQZjdMdEZUckxLMXVJZkxGbtIBeEFVX3lxTE1NMGNEZFk1aGJpM2xUSmhRazFLRC1vZmVDS2duUHE0bDYwaENSVDdYQ1JxTXF0aGxQYWx6TW8xWjQxVnp2QUw5V3puSnVZX0FIbnZSWFBla1QzeHdVTTZUVlBPalNPckNQZjdMdEZUckxLMXVJZkxGbg?oc=5"
+      "press": "서플 뉴스",
+      "title": "국힘 “이용철 지명 성남라인 잔치”…민주 “친노인사” 반박 · 쟁점 정리",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnQ3Fka2hEVEJoZFdZelFfd1VPcFlzNk1KeDhTZ09RdUc0NXZrMU9FQTBqT3RBNG05a0ZUUEp6T3E4SkltYXFodEoxWExRSXNLZkVzZkFKV05UcThw?oc=5"
      }
     ]
    }
@@ -281,139 +183,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/01.png",
-   "pngBytes": 1831030,
-   "feed": "오늘의 뉴스 2026-11-08\n\n· '한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'\n· 이준석 \"전한길 처벌 원해, 마음 바꿨다\"…'학력 위조' 의혹 제기 선처 거부\n· \"하루 만에 라면 2만 그릇 팔렸다\"…매출 1억7000만원 초대박\n· 미국 중간선거 후폭풍에 대미 원전사업 100억달러 선지급 도마\n· [속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”\n· 한동훈 “특검법이 아니라 특권법…李 재판 무력화할 특권 주는 법”\n· 국민의힘, ‘조작기소 특검’ 장외 규탄대회…여론전 시동"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/01.png",
+   "pngBytes": 1529383,
+   "feed": "오늘의 뉴스 2026-11-09\n\n· 양부남 “‘개수작’ 한동훈, 입에서 나오는 대로 뱉어서야”\n· \"李 탈옥법\" \"특권계급\"…장동혁·한동훈·오세훈, 李에 십자포화\n· 치명적 토마토 바이러스 부산까지 전파\n· \"엄마, 우리 반 친구들 다 어디 갔어?\"…초등 입학생 30만명도 무너진다\n· 장동혁-오세훈-한동훈...차기 주도권 본격 힘겨루기?\n· 이 대통령 \"정치인 칭찬하되 찬양 말고, 지지하되 숭배 말아야\"\n· 국민의힘 \"당장 탄핵\" 민주당 \"진실 명명백백 밝혀야\"[오늘아침]"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/02.png",
-   "pngBytes": 1841005,
-   "title": "'한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'",
-   "summary": "오세훈 서울시장과 장동혁 국민의힘 대표, 한동훈 무소속 의원이 4일 서울 더그랜드롯데호텔에서 열린 중앙포럼에 참석하고 있다. 범보수 야권 유력 차기 주자인 장동혁…",
-   "summary_long": "오세훈(왼쪽부터) 서울시장과 장동혁 국민의힘 대표, 한동훈 무소속 의원이 4일 서울 더그랜드롯데호텔에서 열린 중앙포럼에 참석하고 있다. 범보수 야권 유력 차기 주자인 장동혁 국민의힘 대표와 한동훈 무소속 의원이 최근 들어 오세훈 서울시장과 '밀착' 행보를 보이면서 오 시장이 범보수 연대의 새 '구심점'으로 떠오르는 모습이다. 당권파는 '오장연대'를 우선 거론하며 한 의원 견제에 나섰고, 친한(친한동훈)계는 복당론을 띄우며 오 시장의 입장을 요구하고 있다.\n\n당권파 조정훈 의원은 CBS 라디오에서 \"1단계 연대는 단연코 장 대표와 오 시장이 서로 역할과 존재를 인정하고 확장해 나가며 뿌리를 지켜나가는 것\"이라고 말했다. 또 다른 의원은 \"오 시장은 중도보수, 장 대표는 강성 당원들을 확보하게 되면 일석이조 아니겠나\"라며 \"나쁘지 않은 구상\"이라고 했다. 박정훈 의원은 오 시장이 한 의원 복당에 적극적이지 않다는 시각과 관련해 \"중도 확장력이 큰 오 시장은 (시장 신분이어서) 다음 총선에 관여할 수 없다\"며 \"그런 만큼 한동훈 복당 문제를 총선 승리 관점에서 바라봐 달라\"고 촉구했다.",
-   "press": "한국일보",
-   "source": "한국일보",
-   "link": "https://n.news.naver.com/article/469/0000964172",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/02.png",
+   "pngBytes": 567656,
+   "title": "양부남 “‘개수작’ 한동훈, 입에서 나오는 대로 뱉어서야”",
+   "summary": "",
+   "summary_long": "",
+   "press": "한겨레",
+   "source": "한겨레",
+   "link": "https://n.news.naver.com/article/028/0002831173",
    "selection": "정치",
-   "feed": "뉴스 01. '한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'\n\n오세훈(왼쪽부터) 서울시장과 장동혁 국민의힘 대표, 한동훈 무소속 의원이 4일 서울 더그랜드롯데호텔에서 열린 중앙포럼에 참석하고 있다. 범보수 야권 유력 차기 주자인 장동혁 국민의힘 대표와 한동훈 무소속 의원이 최근 들어 오세훈 서울시장과 '밀착' 행보를 보이면서 오 시장이 범보수 연대의 새 '구심점'으로 떠오르는 모습이다. 당권파는 '오장연대'를 우선 거론하며 한 의원 견제에 나섰고, 친한(친한동훈)계는 복당론을 띄우며 오 시장의 입장을 요구하고 있다.\n\n당권파 조정훈 의원은 CBS 라디오에서 \"1단계 연대는 단연코 장 대표와 오 시장이 서로 역할과 존재를 인정하고 확장해 나가며 뿌리를 지켜나가는 것\"이라고 말했다. 또 다른 의원은 \"오 시장은 중도보수, 장 대표는 강성 당원들을 확보하게 되면 일석이조 아니겠나\"라며 \"나쁘지 않은 구상\"이라고 했다. 박정훈 의원은 오 시장이 한 의원 복당에 적극적이지 않다는 시각과 관련해 \"중도 확장력이 큰 오 시장은 (시장 신분이어서) 다음 총선에 관여할 수 없다\"며 \"그런 만큼 한동훈 복당 문제를 총선 승리 관점에서 바라봐 달라\"고 촉구했다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000964172"
+   "feed": "뉴스 01. 양부남 “‘개수작’ 한동훈, 입에서 나오는 대로 뱉어서야”\n\n\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002831173"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/03.png",
-   "pngBytes": 589905,
-   "title": "이준석 \"전한길 처벌 원해, 마음 바꿨다\"…'학력 위조' 의혹 제기 선처 거부",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/03.png",
+   "pngBytes": 582019,
+   "title": "\"李 탈옥법\" \"특권계급\"…장동혁·한동훈·오세훈, 李에 십자포화",
    "summary": "",
    "summary_long": "",
-   "press": "한국일보",
-   "source": "한국일보",
-   "link": "https://n.news.naver.com/article/469/0000964191",
+   "press": "시사저널",
+   "source": "시사저널",
+   "link": "https://n.news.naver.com/article/586/0000141824",
    "selection": "정치",
-   "feed": "뉴스 02. 이준석 \"전한길 처벌 원해, 마음 바꿨다\"…'학력 위조' 의혹 제기 선처 거부\n\n\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000964191"
+   "feed": "뉴스 02. \"李 탈옥법\" \"특권계급\"…장동혁·한동훈·오세훈, 李에 십자포화\n\n\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000141824"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/04.png",
-   "pngBytes": 2514244,
-   "title": "\"하루 만에 라면 2만 그릇 팔렸다\"…매출 1억7000만원 초대박",
-   "summary": "7일 구미시에 따르면 축제 첫날인 6일 현장에서 판매된 별미라면은 2만2231그릇으로 지난해 같은 날 1만5140그릇보다 약 47% 늘었다. 특히 축제 인기 상품인 ‘갓…",
-   "summary_long": "경북 구미시의 대표 행사로 자리 잡은 ‘2026 구미라면축제’가 개막 첫날부터 흥행을 이어갔다. 7일 구미시에 따르면 축제 첫날인 6일 현장에서 판매된 별미라면은 2만2231그릇으로 지난해 같은 날 1만5140그릇보다 약 47% 늘었다. 특히 축제 인기 상품인 ‘갓 튀긴 라면’을 사려는 방문객들이 몰리면서 대기행렬이 하루 종일 500m가량 이어졌다.\n\n생참복라면과 송이·능이를 활용한 산중라면을 비롯해 해외 누들 메뉴까지 다양한 이색 라면을 선보인다. 온라인 예선에 참가한 세계 80개국 1263명 가운데 선발된 13개국 참가자 13명이 각국 식문화와 개성을 담은 라면 요리로 경연을 벌인다. 김장호 구미시장은 “구미라면축제는 지역의 산업과 농업, 음식문화를 라면이라는 친숙한 콘텐츠로 연결한 구미만의 축제”라며 “남은 기간에도 방문객들이 안전하고 편리하게 축제를 즐기고, 원도심과 지역 상권까지 함께 경험할 수 있도록 운영에 최선을 다하겠다”고 밝혔다.",
-   "press": "한국경제",
-   "source": "한국경제",
-   "link": "https://n.news.naver.com/article/015/0005351377",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/04.png",
+   "pngBytes": 539403,
+   "title": "치명적 토마토 바이러스 부산까지 전파",
+   "summary": "",
+   "summary_long": "",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002429955",
    "selection": "경제·시사",
-   "feed": "뉴스 03. \"하루 만에 라면 2만 그릇 팔렸다\"…매출 1억7000만원 초대박\n\n경북 구미시의 대표 행사로 자리 잡은 ‘2026 구미라면축제’가 개막 첫날부터 흥행을 이어갔다. 7일 구미시에 따르면 축제 첫날인 6일 현장에서 판매된 별미라면은 2만2231그릇으로 지난해 같은 날 1만5140그릇보다 약 47% 늘었다. 특히 축제 인기 상품인 ‘갓 튀긴 라면’을 사려는 방문객들이 몰리면서 대기행렬이 하루 종일 500m가량 이어졌다.\n\n생참복라면과 송이·능이를 활용한 산중라면을 비롯해 해외 누들 메뉴까지 다양한 이색 라면을 선보인다. 온라인 예선에 참가한 세계 80개국 1263명 가운데 선발된 13개국 참가자 13명이 각국 식문화와 개성을 담은 라면 요리로 경연을 벌인다. 김장호 구미시장은 “구미라면축제는 지역의 산업과 농업, 음식문화를 라면이라는 친숙한 콘텐츠로 연결한 구미만의 축제”라며 “남은 기간에도 방문객들이 안전하고 편리하게 축제를 즐기고, 원도심과 지역 상권까지 함께 경험할 수 있도록 운영에 최선을 다하겠다”고 밝혔다.\n\n출처: 한국경제 / https://n.news.naver.com/article/015/0005351377"
+   "feed": "뉴스 03. 치명적 토마토 바이러스 부산까지 전파\n\n\n\n출처: YTN / https://n.news.naver.com/article/052/0002429955"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/05.png",
-   "pngBytes": 2218307,
-   "title": "미국 중간선거 후폭풍에 대미 원전사업 100억달러 선지급 도마",
-   "summary": "미국 중간선거에서 승리한 민주당이 인공지능 데이터센터에 대한 규제를 강화할 것이라는 전망이 나오면서 최대 100억달러 규모의 원전 투자 선급금 지급 문제가 도마 위에…",
-   "summary_long": "미국 중간선거에서 승리한 민주당이 인공지능(AI) 데이터센터에 대한 규제를 강화할 것이라는 전망이 나오면서 최대 100억달러 규모의 원전 투자 선급금 지급 문제가 도마 위에 올랐다. 전기를 대량으로 쓸 AI 데이터센터 건설에 제동이 걸리면 미국 내 원전 사업의 수익성 확보도 불투명해지는 만큼, 거액의 자금부터 먼저 집행하는 것이 적절한지를 놓고 우려의 목소리가 나오고 있다. 7일 관계 당국에 따르면 100억달러 규모의 원전 투자 선급금은 설계에서 제작, 납품까지 수년이 걸리는 원전 핵심 설비인 장주기 품목(Long Lead Items)을 사전에 확보하기 위한 자금이다.\n\n서왕진 조국혁신당 의원은 지난 5일 국회에서 기자회견을 열고 \"미국 민주당이 상·하원을 장악하면서 원전 투자 여건에 변화가 예상된다\"며 \"한미 원전 프레임워크에 따른 100억달러 규모의 선지급을 보류해야 한다\"고 촉구했다. 반면 주무부처인 산업통상부는 AI 데이터센터 규제 강화 움직임이 원전 사업의 악재만은 아니라는 입장이다. 이어 \"미국 측이 중간선거 이후에 원전 후보지를 통보하기로 했다\"며 \"후보지를 통보하는 대로 기존 송전망 연계 여부와 장기 전력구매계약을 맺을 빅테크 등 안정적 수요처를 종합적으로 따져 대응할 방침\"이라고 덧붙였다.",
-   "press": "연합뉴스",
-   "source": "연합뉴스",
-   "link": "https://n.news.naver.com/article/001/0016427593",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/05.png",
+   "pngBytes": 590621,
+   "title": "\"엄마, 우리 반 친구들 다 어디 갔어?\"…초등 입학생 30만명도 무너진다",
+   "summary": "",
+   "summary_long": "",
+   "press": "아시아경제",
+   "source": "아시아경제",
+   "link": "https://n.news.naver.com/article/277/0005839569",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 미국 중간선거 후폭풍에 대미 원전사업 100억달러 선지급 도마\n\n미국 중간선거에서 승리한 민주당이 인공지능(AI) 데이터센터에 대한 규제를 강화할 것이라는 전망이 나오면서 최대 100억달러 규모의 원전 투자 선급금 지급 문제가 도마 위에 올랐다. 전기를 대량으로 쓸 AI 데이터센터 건설에 제동이 걸리면 미국 내 원전 사업의 수익성 확보도 불투명해지는 만큼, 거액의 자금부터 먼저 집행하는 것이 적절한지를 놓고 우려의 목소리가 나오고 있다. 7일 관계 당국에 따르면 100억달러 규모의 원전 투자 선급금은 설계에서 제작, 납품까지 수년이 걸리는 원전 핵심 설비인 장주기 품목(Long Lead Items)을 사전에 확보하기 위한 자금이다.\n\n서왕진 조국혁신당 의원은 지난 5일 국회에서 기자회견을 열고 \"미국 민주당이 상·하원을 장악하면서 원전 투자 여건에 변화가 예상된다\"며 \"한미 원전 프레임워크에 따른 100억달러 규모의 선지급을 보류해야 한다\"고 촉구했다. 반면 주무부처인 산업통상부는 AI 데이터센터 규제 강화 움직임이 원전 사업의 악재만은 아니라는 입장이다. 이어 \"미국 측이 중간선거 이후에 원전 후보지를 통보하기로 했다\"며 \"후보지를 통보하는 대로 기존 송전망 연계 여부와 장기 전력구매계약을 맺을 빅테크 등 안정적 수요처를 종합적으로 따져 대응할 방침\"이라고 덧붙였다.\n\n출처: 연합뉴스 / https://n.news.naver.com/article/001/0016427593"
+   "feed": "뉴스 04. \"엄마, 우리 반 친구들 다 어디 갔어?\"…초등 입학생 30만명도 무너진다\n\n\n\n출처: 아시아경제 / https://n.news.naver.com/article/277/0005839569"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/06.png",
-   "pngBytes": 1969494,
-   "title": "[속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”",
-   "summary": "국민의힘은 “대한민국의 ‘국기’인 태권도가 북한의 무형유산으로 유네스코에 등재될 상황에 놓였다”며 7일 정부를 겨냥했다. 함 대변인은 “북한이 태권도의 유네스코 단독…",
-   "summary_long": "국민의힘은 “대한민국의 ‘국기(國技)’인 태권도가 북한의 무형유산으로 유네스코에 등재될 상황에 놓였다”며 7일 정부를 겨냥했다. 국민의힘 함인경 대변인은 이날 논평에서 “정부는 도대체 무엇을 했나”라며 이처럼 따져 물었다. 함 대변인은 “북한이 태권도의 유네스코 단독 등재를 추진하는 동안 우리 정부는 무엇을 했나”라며 “대한민국의 문화유산을 지키는 데에도 북한의 눈치를 봐야 하느냐”고 물었다.\n\n북한이 2024년 3월 유네스코에 등재신청서를 냈지만, 국가유산청은 남북 공동 등재 가능성 등을 검토하다 2년 뒤인 올해 3월에야 한국 태권도의 신청서를 제출했다. 이어 “유네스코 심사 결과와 관계없이, 태권도가 유네스코 인류무형유산 대표목록에 ‘단독 등재’되거나 ‘확장 등재’될 수 있도록 노력을 다하겠다”고 전했다. 함 대변인은 “심사 결과 발표를 앞두고 민간단체가 태권도 남북 공동 등재의 당위성 설명 공문을 유네스코에 전달해달라고 요청했지만, 국가유산청은 보냈다고 답변한 반면 해당 단체는 실제로 전달되지 않았다고 주장한다”고 강조했다.",
-   "press": "세계일보",
-   "source": "세계일보",
-   "link": "https://n.news.naver.com/article/022/0004173263",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/06.png",
+   "pngBytes": 563304,
+   "title": "장동혁-오세훈-한동훈...차기 주도권 본격 힘겨루기?",
+   "summary": "",
+   "summary_long": "",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002429796",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. [속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”\n\n국민의힘은 “대한민국의 ‘국기(國技)’인 태권도가 북한의 무형유산으로 유네스코에 등재될 상황에 놓였다”며 7일 정부를 겨냥했다. 국민의힘 함인경 대변인은 이날 논평에서 “정부는 도대체 무엇을 했나”라며 이처럼 따져 물었다. 함 대변인은 “북한이 태권도의 유네스코 단독 등재를 추진하는 동안 우리 정부는 무엇을 했나”라며 “대한민국의 문화유산을 지키는 데에도 북한의 눈치를 봐야 하느냐”고 물었다.\n\n북한이 2024년 3월 유네스코에 등재신청서를 냈지만, 국가유산청은 남북 공동 등재 가능성 등을 검토하다 2년 뒤인 올해 3월에야 한국 태권도의 신청서를 제출했다. 이어 “유네스코 심사 결과와 관계없이, 태권도가 유네스코 인류무형유산 대표목록에 ‘단독 등재’되거나 ‘확장 등재’될 수 있도록 노력을 다하겠다”고 전했다. 함 대변인은 “심사 결과 발표를 앞두고 민간단체가 태권도 남북 공동 등재의 당위성 설명 공문을 유네스코에 전달해달라고 요청했지만, 국가유산청은 보냈다고 답변한 반면 해당 단체는 실제로 전달되지 않았다고 주장한다”고 강조했다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004173263"
+   "feed": "뉴스 05. 장동혁-오세훈-한동훈...차기 주도권 본격 힘겨루기?\n\n\n\n출처: YTN / https://n.news.naver.com/article/052/0002429796"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/07.png",
-   "pngBytes": 580739,
-   "title": "한동훈 “특검법이 아니라 특권법…李 재판 무력화할 특권 주는 법”",
-   "summary": "",
-   "summary_long": "",
-   "press": "매일경제",
-   "source": "매일경제",
-   "link": "https://n.news.naver.com/article/009/0005760341",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/07.png",
+   "pngBytes": 1573170,
+   "title": "이 대통령 \"정치인 칭찬하되 찬양 말고, 지지하되 숭배 말아야\"",
+   "summary": "이재명 대통령이 \"정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다\"고 비판했습니다. 그러면서 김대중 전…",
+   "summary_long": "김대중·노무현 인용 \"'깨어 있는 시민' 강조한 이유 생각해야\" 이재명 대통령이 6일 청와대에서 열린 한·동티모르 정상회담 뒤 조제 하무스 오르타 동티모르 대통령과 가진 공동언론발표에서 회담 결과를 발표하고 있다. 이재명 대통령이 \"정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다\"고 비판했습니다.\n\n이 대통령은 어제(7일) 밤 자신의 엑스(X)에 '칭찬하되 찬양하지 말고, 지지하되 숭배하지 마십시오'라는 제목의 글을 올리고 이같이 밝혔습니다. 이어 \"민주주의는 저절로 오지도 않고 저절로 지켜지지도 않는다\"며 \"살아 있는 이성으로 진실과 정의에 반응하는 시민들의 끊임없는 참여와 실천만이 민주주의를 만들고 지킨다\"고 강조했습니다. 그러면서 김대중 전 대통령의 \"행동하지 않는 양심은 악의 편\"이라는 발언과 노무현 전 대통령의 \"깨어 있는 시민의 조직된 힘\"을 언급하며 \"왜 그냥 시민이 아니라 '깨어있는' 시민이었을까\"라고 반문했습니다.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000519691",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 한동훈 “특검법이 아니라 특권법…李 재판 무력화할 특권 주는 법”\n\n\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005760341"
+   "feed": "뉴스 06. 이 대통령 \"정치인 칭찬하되 찬양 말고, 지지하되 숭배 말아야\"\n\n김대중·노무현 인용 \"'깨어 있는 시민' 강조한 이유 생각해야\" 이재명 대통령이 6일 청와대에서 열린 한·동티모르 정상회담 뒤 조제 하무스 오르타 동티모르 대통령과 가진 공동언론발표에서 회담 결과를 발표하고 있다. 이재명 대통령이 \"정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다\"고 비판했습니다.\n\n이 대통령은 어제(7일) 밤 자신의 엑스(X)에 '칭찬하되 찬양하지 말고, 지지하되 숭배하지 마십시오'라는 제목의 글을 올리고 이같이 밝혔습니다. 이어 \"민주주의는 저절로 오지도 않고 저절로 지켜지지도 않는다\"며 \"살아 있는 이성으로 진실과 정의에 반응하는 시민들의 끊임없는 참여와 실천만이 민주주의를 만들고 지킨다\"고 강조했습니다. 그러면서 김대중 전 대통령의 \"행동하지 않는 양심은 악의 편\"이라는 발언과 노무현 전 대통령의 \"깨어 있는 시민의 조직된 힘\"을 언급하며 \"왜 그냥 시민이 아니라 '깨어있는' 시민이었을까\"라고 반문했습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000519691"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/08.png",
-   "pngBytes": 1263722,
-   "title": "국민의힘, ‘조작기소 특검’ 장외 규탄대회…여론전 시동",
-   "summary": "국민의힘은 더불어민주당 주도로 국회를 통과한 '조작기소 특검법'에 반발해 오늘 서울 도심에서 장외 규탄대회에 나섭니다. 국민의힘은 국회를 통과한 특검법이 이재명 대통령…",
-   "summary_long": "국민의힘은 더불어민주당 주도로 국회를 통과한 '조작기소 특검법'에 반발해 오늘(7일) 서울 도심에서 장외 규탄대회에 나섭니다. 국민의힘은 오늘(7일) 오후 3시부터 서울 경복궁역 일대에서 '이재명 재판취소 악법 강행처리 국민 규탄대회'를 엽니다. 장동혁 대표와 정점식 원내대표 등 당 지도부와 소속 의원, 당협위원장과 당원 등이 참석할 예정입니다.\n\n국민의힘은 국회를 통과한 특검법이 이재명 대통령 죄 지우기를 위한 것이라고 비판하며, 이 대통령 관련 재판 재개를 재차 주장할 것으로 보입니다. 장 대표는 어제 열린 국회 규탄대회에서도 법안이 통과된 어제(6일)를 \"대한민국 법치주의가 사망한 날\"이라며, \"조작기소 특검법이야말로 조작 입법\"이라고 비판했습니다. 국민의힘은 다음 주 월요일 청와대 앞을 찾아 현장 최고위원회의를 열고, 각지에서 1인 시위를 이어가는 등 장외 여론전을 이어갈 방침입니다.",
-   "press": "KBS",
-   "source": "KBS",
-   "link": "https://n.news.naver.com/article/056/0012289202",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/08.png",
+   "pngBytes": 2308734,
+   "title": "국민의힘 \"당장 탄핵\" 민주당 \"진실 명명백백 밝혀야\"[오늘아침]",
+   "summary": "국민의힘 \"성남 카르텔\" 민주당 \"성남라인 이전에 친노인사\" 도널드 트럼프 미국 대통령이 데이나 화이트 UFC 회장에게 백악관 대변인직을 제안했다고 밝혔다.",
+   "summary_long": "거리로 나선 국민의힘 \"당장 탄핵해서 끌어내려야\" 더불어민주당 주도로 국회에서 '조작기소 특검법안'이 국회를 통과하자 국민의힘은 서울 도심에서 장외집회를 열고 이재명 대통령과 민주당을 비판했다. 국민의힘 \"성남 카르텔\" 민주당 \"성남라인 이전에 친노인사\"\n\n국민의힘 박성훈 수석대변인은 7일 논평에서 \"이 대통령의 인사 전횡이 막장의 끝을 보여주고 있다\"며 \"돌고 돌아 결국 '성남 카르텔' 인사\"라고 비난했다. 도널드 트럼프 미국 대통령이 데이나 화이트 UFC(이종격투기) 회장에게 백악관 대변인직을 제안했다고 밝혔다. 트럼프 대통령이 미국 독립·건국 250주년 기념행사의 하나로 자신의 80번째 생일인 지난 6월 14일 백악관에서 UFC 경기 개최를 추진할 때도 화이트 회장이 행사 준비에 핵심적인 역할을 맡았다.",
+   "press": "노컷뉴스",
+   "source": "노컷뉴스",
+   "link": "https://n.news.naver.com/article/079/0004207513",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 국민의힘, ‘조작기소 특검’ 장외 규탄대회…여론전 시동\n\n국민의힘은 더불어민주당 주도로 국회를 통과한 '조작기소 특검법'에 반발해 오늘(7일) 서울 도심에서 장외 규탄대회에 나섭니다. 국민의힘은 오늘(7일) 오후 3시부터 서울 경복궁역 일대에서 '이재명 재판취소 악법 강행처리 국민 규탄대회'를 엽니다. 장동혁 대표와 정점식 원내대표 등 당 지도부와 소속 의원, 당협위원장과 당원 등이 참석할 예정입니다.\n\n국민의힘은 국회를 통과한 특검법이 이재명 대통령 죄 지우기를 위한 것이라고 비판하며, 이 대통령 관련 재판 재개를 재차 주장할 것으로 보입니다. 장 대표는 어제 열린 국회 규탄대회에서도 법안이 통과된 어제(6일)를 \"대한민국 법치주의가 사망한 날\"이라며, \"조작기소 특검법이야말로 조작 입법\"이라고 비판했습니다. 국민의힘은 다음 주 월요일 청와대 앞을 찾아 현장 최고위원회의를 열고, 각지에서 1인 시위를 이어가는 등 장외 여론전을 이어갈 방침입니다.\n\n출처: KBS / https://n.news.naver.com/article/056/0012289202"
+   "feed": "뉴스 07. 국민의힘 \"당장 탄핵\" 민주당 \"진실 명명백백 밝혀야\"[오늘아침]\n\n거리로 나선 국민의힘 \"당장 탄핵해서 끌어내려야\" 더불어민주당 주도로 국회에서 '조작기소 특검법안'이 국회를 통과하자 국민의힘은 서울 도심에서 장외집회를 열고 이재명 대통령과 민주당을 비판했다. 국민의힘 \"성남 카르텔\" 민주당 \"성남라인 이전에 친노인사\"\n\n국민의힘 박성훈 수석대변인은 7일 논평에서 \"이 대통령의 인사 전횡이 막장의 끝을 보여주고 있다\"며 \"돌고 돌아 결국 '성남 카르텔' 인사\"라고 비난했다. 도널드 트럼프 미국 대통령이 데이나 화이트 UFC(이종격투기) 회장에게 백악관 대변인직을 제안했다고 밝혔다. 트럼프 대통령이 미국 독립·건국 250주년 기념행사의 하나로 자신의 80번째 생일인 지난 6월 14일 백악관에서 UFC 경기 개최를 추진할 때도 화이트 회장이 행사 준비에 핵심적인 역할을 맡았다.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004207513"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-08/09.png",
-   "pngBytes": 1346464
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/09.png",
+   "pngBytes": 1345921
   }
  ],
- "caption": "📰 11월 8일 오늘의 뉴스\n\n1. '한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'\n   오세훈 서울시장과 장동혁 국민의힘 대표, 한동훈 무소속 의원이 4일 서울 더그랜드롯데호텔에서 열린 중앙포럼에 참석하고 있다. 범보수 야권 유력 차기 주자인 장동혁…\n2. 이준석 \"전한길 처벌 원해, 마음 바꿨다\"…'학력 위조' 의혹 제기 선처 거부\n3. \"하루 만에 라면 2만 그릇 팔렸다\"…매출 1억7000만원 초대박\n   7일 구미시에 따르면 축제 첫날인 6일 현장에서 판매된 별미라면은 2만2231그릇으로 지난해 같은 날 1만5140그릇보다 약 47% 늘었다. 특히 축제 인기 상품인 ‘갓…\n4. 미국 중간선거 후폭풍에 대미 원전사업 100억달러 선지급 도마\n   미국 중간선거에서 승리한 민주당이 인공지능 데이터센터에 대한 규제를 강화할 것이라는 전망이 나오면서 최대 100억달러 규모의 원전 투자 선급금 지급 문제가 도마 위에…\n5. [속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”\n   국민의힘은 “대한민국의 ‘국기’인 태권도가 북한의 무형유산으로 유네스코에 등재될 상황에 놓였다”며 7일 정부를 겨냥했다. 함 대변인은 “북한이 태권도의 유네스코 단독…\n6. 한동훈 “특검법이 아니라 특권법…李 재판 무력화할 특권 주는 법”\n7. 국민의힘, ‘조작기소 특검’ 장외 규탄대회…여론전 시동\n   국민의힘은 더불어민주당 주도로 국회를 통과한 '조작기소 특검법'에 반발해 오늘 서울 도심에서 장외 규탄대회에 나섭니다. 국민의힘은 국회를 통과한 특검법이 이재명 대통령…\n\n🗣 “심사 결과 발표를 앞두고 민간단체가 태권도 남북 공동 등재의 당위성 설명 공문을 유네스코에 전달해달라고 요청했지만, 국가유산청은 보냈다고 답변한 반면 해당 단체는 실제로 전달되지 않았다고 주장한다”\n이 발언을 그대로 실은 보도 10건 · 세계일보 · 연합뉴스 · 경기일보 · 뉴시스\n· 세계일보 — [속보] 국힘 “태권도가 북한 무형유산으로 유네스코에 등재될 상황에 놓여”\n· 연합뉴스 — 국기원 \"태권도 공동 등재 못 해 아쉬워…경기 운영 우려 없어\"\n· 경기일보 — 국민의힘 “태권도 北 단독등재 유력…정부는 도대체 뭐했나”\n· 연합뉴스 — 국힘, 北태권도 인류유산 단독등재 유력에 \"문화도 北눈치 보나\"\n· 뉴시스 — 국힘, 北태권도 유네스코 유산 '단독 등재' 유력에 \"정부 뭐했나\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #북한\n\n출처: KBS, 매일경제, 세계일보, 연합뉴스, 한국경제, 한국일보"
+ "caption": "📰 11월 9일 오늘의 뉴스\n\n1. 양부남 “‘개수작’ 한동훈, 입에서 나오는 대로 뱉어서야”\n2. \"李 탈옥법\" \"특권계급\"…장동혁·한동훈·오세훈, 李에 십자포화\n3. 치명적 토마토 바이러스 부산까지 전파\n4. \"엄마, 우리 반 친구들 다 어디 갔어?\"…초등 입학생 30만명도 무너진다\n5. 장동혁-오세훈-한동훈...차기 주도권 본격 힘겨루기?\n6. 이 대통령 \"정치인 칭찬하되 찬양 말고, 지지하되 숭배 말아야\"\n   이재명 대통령이 \"정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다\"고 비판했습니다. 그러면서 김대중 전…\n7. 국민의힘 \"당장 탄핵\" 민주당 \"진실 명명백백 밝혀야\"[오늘아침]\n   국민의힘 \"성남 카르텔\" 민주당 \"성남라인 이전에 친노인사\" 도널드 트럼프 미국 대통령이 데이나 화이트 UFC 회장에게 백악관 대변인직을 제안했다고 밝혔다.\n\n🗣 “정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다”\n이 발언을 그대로 실은 보도 10건 · 여성신문 · 조선일보 · 문화일보 · 채널A\n· 여성신문 — 이 대통령 “정치인 칭찬·지지 필요하지만, 종교적 찬양·숭배 안 돼”\n· 조선일보 — 李대통령 \"정치인 향한 종교적 찬양·숭배 안돼\"\n· 문화일보 — [속보]李대통령 “지지하되 숭배하지 마시라…살아있는 이성으로 민주주의 지켜야”\n· 채널A — 이 대통령 “정치인 칭찬하되 찬양 말고 지지하되 숭배 말아야”\n· 아시아경제 — 李대통령 \"정치인은 칭찬·지지 필요하나, 종교적 찬양·숭배 안돼\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, YTN, 노컷뉴스, 시사저널, 아시아경제, 한겨레"
 }
