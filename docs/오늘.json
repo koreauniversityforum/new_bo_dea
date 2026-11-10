@@ -1,180 +1,95 @@
 {
- "date": "2026-11-09",
- "generated_at": "2026-11-09T11:16:15+09:00",
+ "date": "2026-11-10",
+ "generated_at": "2026-11-10T13:26:47+09:00",
  "mode": "daily",
- "window_start": "2026-11-08T00:00:00+09:00",
- "window_end": "2026-11-08T23:59:59+09:00",
+ "window_start": "2026-11-09T00:00:00+09:00",
+ "window_end": "2026-11-09T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "양부남 “‘개수작’ 한동훈, 입에서 나오는 대로 뱉어서야”",
-   "source": "한겨레",
-   "url": "https://n.news.naver.com/article/028/0002831173",
-   "published_at": "2026-11-08T10:44:13+09:00",
+   "title": "[단독] '쿠데타 책임' 육사만 지방 이전... '사관학교 통합' 반발에 해사·공사는 존치 가닥",
+   "source": "한국일보",
+   "url": "https://n.news.naver.com/article/469/0000964447",
+   "published_at": "2026-11-09T11:55:11+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
    "prep_error": "The read operation timed out"
   },
   {
-   "title": "\"李 탈옥법\" \"특권계급\"…장동혁·한동훈·오세훈, 李에 십자포화",
-   "source": "시사저널",
-   "url": "https://n.news.naver.com/article/586/0000141824",
-   "published_at": "2026-11-08T01:02:09+09:00",
+   "title": "“어르신 발 씻기는데 장갑?” 논란에…조국 “봉사자 모두 꼈다”",
+   "source": "국민일보",
+   "url": "https://n.news.naver.com/article/005/0001883951",
+   "published_at": "2026-11-09T15:44:06+09:00",
    "section_id": "100",
-   "view_rank": 2,
+   "view_rank": 3,
    "selection": "정치",
    "prep_error": "The read operation timed out"
   },
   {
-   "title": "치명적 토마토 바이러스 부산까지 전파",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002429955",
-   "published_at": "2026-11-08T16:50:56+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "\"엄마, 우리 반 친구들 다 어디 갔어?\"…초등 입학생 30만명도 무너진다",
+   "title": "최태원 \"코스피, 결국 '이렇게' 될 것\"…증시 붕괴 '섬뜩한 시나리오' 재조명",
    "source": "아시아경제",
-   "url": "https://n.news.naver.com/article/277/0005839569",
-   "published_at": "2026-11-08T12:27:16+09:00",
+   "url": "https://n.news.naver.com/article/277/0005839713",
+   "published_at": "2026-11-09T08:41:53+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "[단독] “의사가 ‘괜찮다’던 아이…의료진이 장비 만지고 급격히 악화”",
+   "source": "국민일보",
+   "url": "https://n.news.naver.com/article/005/0001883775",
+   "published_at": "2026-11-09T00:03:08+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
    "prep_error": "The read operation timed out"
   },
   {
-   "title": "장동혁-오세훈-한동훈...차기 주도권 본격 힘겨루기?",
+   "title": "김종인 \"오세훈, 한동훈 겁나나? 복당 서둘러주는 게 책무... '한 통' 들어가야\"",
    "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002429796",
-   "published_at": "2026-11-08T05:36:34+09:00",
+   "url": "https://n.news.naver.com/article/052/0002430103",
+   "published_at": "2026-11-09T07:37:52+09:00",
    "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 220,
-   "comment_agree": 144,
-   "comment_disagree": 36,
-   "division_balance": 0.4,
-   "division_score": 2.079399,
+   "view_rank": 4,
+   "comment_count": 142,
+   "comment_agree": 126,
+   "comment_disagree": 18,
+   "division_balance": 0.25,
+   "division_score": 1.244183,
    "selection": "찬반 쟁점",
    "prep_error": "The read operation timed out"
   },
   {
-   "title": "이 대통령 \"정치인 칭찬하되 찬양 말고, 지지하되 숭배 말아야\"",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000519691",
-   "published_at": "2026-11-08T15:38:26+09:00",
+   "title": "송영길 \"신천지 집단가입 정황 확인‥당원 자격 박탈해야\"",
+   "source": "MBC",
+   "url": "https://n.news.naver.com/article/214/0001534403",
+   "published_at": "2026-11-09T16:01:59+09:00",
    "section_id": "100",
    "view_rank": 3,
-   "comment_count": 127,
-   "comment_agree": 144,
-   "comment_disagree": 33,
-   "division_balance": 0.372881,
-   "division_score": 1.93219,
+   "comment_count": 513,
+   "comment_agree": 252,
+   "comment_disagree": 28,
+   "division_balance": 0.2,
+   "division_score": 1.127671,
    "selection": "찬반 쟁점",
-   "summary": "이재명 대통령이 \"정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다\"고 비판했습니다. 그러면서 김대중 전…",
-   "summary_long": "김대중·노무현 인용 \"'깨어 있는 시민' 강조한 이유 생각해야\" 이재명 대통령이 6일 청와대에서 열린 한·동티모르 정상회담 뒤 조제 하무스 오르타 동티모르 대통령과 가진 공동언론발표에서 회담 결과를 발표하고 있다. 이재명 대통령이 \"정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다\"고 비판했습니다.\n\n이 대통령은 어제(7일) 밤 자신의 엑스(X)에 '칭찬하되 찬양하지 말고, 지지하되 숭배하지 마십시오'라는 제목의 글을 올리고 이같이 밝혔습니다. 이어 \"민주주의는 저절로 오지도 않고 저절로 지켜지지도 않는다\"며 \"살아 있는 이성으로 진실과 정의에 반응하는 시민들의 끊임없는 참여와 실천만이 민주주의를 만들고 지킨다\"고 강조했습니다. 그러면서 김대중 전 대통령의 \"행동하지 않는 양심은 악의 편\"이라는 발언과 노무현 전 대통령의 \"깨어 있는 시민의 조직된 힘\"을 언급하며 \"왜 그냥 시민이 아니라 '깨어있는' 시민이었을까\"라고 반문했습니다.",
-   "quotes": [
-    "정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다",
-    "'내 편이 하는 말은 모두 옳고 상대편이 하는 말은 모두 그르다', 진심으로 이렇게 생각한다면 심각한 상태",
-    "살아 있는 이성으로 진실과 정의에 반응하는 시민들의 끊임없는 참여와 실천만이 민주주의를 만들고 지킨다"
-   ],
-   "press": "JTBC",
-   "photo": "06.jpg",
-   "quoted": {
-    "quote": "정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "여성신문",
-      "title": "이 대통령 “정치인 칭찬·지지 필요하지만, 종교적 찬양·숭배 안 돼”",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wekVibHlDRTNsaDZRVDVueFE4cTdUSmJxN09lcG5UbkRpd1hkaTk2T1ZIOGdBUEM4NGw2Q1JvcFdPMjczc0hDTW8tV2k2N0hmaEY5WU1SUy1JbjlCcUt1SzRKTFV3OTYwaGx1ZjF4RWRwS1nSAXNBVV95cUxNMHpFYmx5Q0UzbGg2UVQ1bnhROHE3VEpicTdPZXBuVG5EaXdYZGk5Nk9WSDhnQVBDODRsNkNSb3BXTzI3M3NIQ01vLVdpNjdIZmhGOVlNUlMtSW45QnFLdUs0SkxVdzk2MGhsdWYxeEVkcEtZ?oc=5"
-     },
-     {
-      "press": "조선일보",
-      "title": "李대통령 \"정치인 향한 종교적 찬양·숭배 안돼\"",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMnpQRTFrczN0cDZwb0ctbGdrUkVnOGgtX1RaNEZtOTUwQ2hWNW9MYWhLem92bmUtdDVDcmlia3lsYXJWanJtQ3kzSEZtajRuLVMzTUJQQVJLRTYxR2h4T2l3WEZhQVB3Ny1xdUNvU0Y3bDhkbzhDMURRRGJFTGgyMXoxLVNkZ2pxVjlQQzlZRkU?oc=5"
-     },
-     {
-      "press": "문화일보",
-      "title": "[속보]李대통령 “지지하되 숭배하지 마시라…살아있는 이성으로 민주주의 지켜야”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uMTk0M3hjOFlmY2VkRVBlSktXVHIxaFpmZ3FWaVgyQnAtWnJmTDQwZS15VkFUNnlvUmhWc0pnZU1HQmhPZWh4Qkp0RGpBTjg1?oc=5"
-     },
-     {
-      "press": "채널A",
-      "title": "이 대통령 “정치인 칭찬하되 찬양 말고 지지하되 숭배 말아야”",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52T2Z0eHNQcWVJSkYtMkhWLW1GLWxBWnl5MG1GSXVMaTlWVlF3VkwxR2tQRnBtQlk1QktSbGFpWEhjS3RxY0JVQk5uOGlYeEV5cU13bTFCdWpPM3FFSjRpY2M1Z9IBY0FVX3lxTE52T2Z0eHNQcWVJSkYtMkhWLW1GLWxBWnl5MG1GSXVMaTlWVlF3VkwxR2tQRnBtQlk1QktSbGFpWEhjS3RxY0JVQk5uOGlYeEV5cU13bTFCdWpPM3FFSjRpY2M1Zw?oc=5"
-     },
-     {
-      "press": "아시아경제",
-      "title": "李대통령 \"정치인은 칭찬·지지 필요하나, 종교적 찬양·숭배 안돼\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cc2FfclRYRzJsQTdabWtNRUlDYVVST2V1N0pwVEtkRHBNZHZlWnpIQVdzWEp5Y3IwQU5NbWpxOU9fR2FvYy1jejMtWlpXc2F1eTFxWU1tUUN6TThxaEd4NQ?oc=5"
-     },
-     {
-      "press": "뉴스핌",
-      "title": "李대통령 \"칭찬하되 찬양 말고, 지지하되 숭배 말라\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JRkJIMEJpelVmOFVrNG95eXJNUE9GVnBCZmZhUFdUVzg5MU9icDU4THVjRWVCcFYzdDctT213MFQ2bzgzc052U2dkSl9Tc1pTdWsyYlVfVzVUXzE2?oc=5"
-     }
-    ]
-   }
+   "prep_error": "The read operation timed out"
   },
   {
-   "title": "국민의힘 \"당장 탄핵\" 민주당 \"진실 명명백백 밝혀야\"[오늘아침]",
-   "source": "노컷뉴스",
-   "url": "https://n.news.naver.com/article/079/0004207513",
-   "published_at": "2026-11-08T09:10:15+09:00",
+   "title": "\"이재명 탄핵\" 사흘째 목청‥현장선 \"내란정당 해산하라\"",
+   "source": "MBC",
+   "url": "https://n.news.naver.com/article/214/0001534465",
+   "published_at": "2026-11-09T20:38:57+09:00",
    "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 109,
-   "comment_agree": 123,
-   "comment_disagree": 25,
-   "division_balance": 0.337838,
-   "division_score": 1.690522,
+   "view_rank": 5,
+   "comment_count": 1623,
+   "comment_agree": 348,
+   "comment_disagree": 27,
+   "division_balance": 0.144,
+   "division_score": 0.853861,
    "selection": "찬반 쟁점",
-   "summary": "국민의힘 \"성남 카르텔\" 민주당 \"성남라인 이전에 친노인사\" 도널드 트럼프 미국 대통령이 데이나 화이트 UFC 회장에게 백악관 대변인직을 제안했다고 밝혔다.",
-   "summary_long": "거리로 나선 국민의힘 \"당장 탄핵해서 끌어내려야\" 더불어민주당 주도로 국회에서 '조작기소 특검법안'이 국회를 통과하자 국민의힘은 서울 도심에서 장외집회를 열고 이재명 대통령과 민주당을 비판했다. 국민의힘 \"성남 카르텔\" 민주당 \"성남라인 이전에 친노인사\"\n\n국민의힘 박성훈 수석대변인은 7일 논평에서 \"이 대통령의 인사 전횡이 막장의 끝을 보여주고 있다\"며 \"돌고 돌아 결국 '성남 카르텔' 인사\"라고 비난했다. 도널드 트럼프 미국 대통령이 데이나 화이트 UFC(이종격투기) 회장에게 백악관 대변인직을 제안했다고 밝혔다. 트럼프 대통령이 미국 독립·건국 250주년 기념행사의 하나로 자신의 80번째 생일인 지난 6월 14일 백악관에서 UFC 경기 개최를 추진할 때도 화이트 회장이 행사 준비에 핵심적인 역할을 맡았다.",
-   "quotes": [
-    "참여정부에서 청와대 민정2비서관과 법무비서관을 역임했고 반부패 제도 개혁, 검찰 정책 뿐만 아니라 법무·교정·출입국·인권·범죄예방 등 법무부의 폭넓은 분야를 다룬 실력자",
-    "공소취소의 숨은 설계까지 맡겨 법무부를 대통령의 방탄 변호인으로 전락시키고 사법리스크를 완벽하게 지워버리겠다는 속셈",
-    "대장동 사건의 피고인인 대통령이 대장동 의혹 연루자에게 법무 행정을 통째로 맡기는 나라는 정상적인 법치국가가 아니다"
-   ],
-   "press": "노컷뉴스",
-   "photo": "07.jpg",
-   "quoted": {
-    "quote": "참여정부에서 청와대 민정2비서관과 법무비서관을 역임했고 반부패 제도 개혁, 검찰 정책 뿐만 아니라 법무·교정·출입국·인권·범죄예방 등 법무부의 폭넓은 분야를 다룬 실력자",
-    "n": 5,
-    "verified": 0,
-    "items": [
-     {
-      "press": "연합뉴스",
-      "title": "與, 野'이용철 대장동 의혹' 공세에 \"당시는 사업구상도 없었다\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGRTRiTEtSV1YyRl9UMUpNM2R4U1NVc3JDclNkWXFzUkJkV2IyVmxiWkZ0bVhlZ2tlZmVodzBvVE5nTU5qMnpOS256bGJOZDZQb09HM0RhRGlTY2vSAWBBVV95cUxQUkhBekpCTkxhWl9WZk5zOVVlZGtod1IyQVVOd1IwaWpyYnFYMmxjdkRpdXdPWXZSOC1QdEJmZTBLcGlyWDZ0UDRWVEk2UC1QU0JOVkFVNEdxWGFxUE4wd1A?oc=5"
-     },
-     {
-      "press": "한국경제",
-      "title": "\"대장동 구상도 없던 때\"…민주, 이용철 '숨은 설계자' 공세 반박",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoU3I3bE9tWFFjc0h0NU0xeG40NnF2Q1B2Q1FBdkFXa05HZkMwM3NPOGFJWHI3bDdpQXpSRzJrQTVpR213ZW1Wbjhvb24zRkZoZjdwa1NRQkh3dw?oc=5"
-     },
-     {
-      "press": "박스뉴스",
-      "title": "與, 이용철 법무장관 후보 '대장동 공세'에 \"당시 구상도 없던 시점\" |",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UUng4Z1pnM1ZNM2t5Y205UXpyQ0lOUmhVM1hYR01IRFRESUhLUnNMWWZGRm9fWmJIanhjM1p0NDRkRFltVzlxQjRvWHRtbXVRWlZnMi0yUFRmYlJHeTIzaUp1dl9PNkNsZkhfZlVHTQ?oc=5"
-     },
-     {
-      "press": "연합뉴스",
-      "title": "與 '이용철 대장동 의혹 공세' 국힘에 \"허위…법적 책임질 수도\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5b2dfeGpjU3Y4bnRHaEV1VHB4Z25TYlhibGNKdmVsN0J3OW5PZExYTnZ5elU1SWNmaUxRR3ZWVVgxZ2s2WW5wY19LaVJOMkF1MFdzWDNTNDg4R01DVlRxZtIBYEFVX3lxTFA5b2dfeGpjU3Y4bnRHaEV1VHB4Z25TYlhibGNKdmVsN0J3OW5PZExYTnZ5elU1SWNmaUxRR3ZWVVgxZ2s2WW5wY19LaVJOMkF1MFdzWDNTNDg4R01DVlRxZg?oc=5"
-     },
-     {
-      "press": "서플 뉴스",
-      "title": "국힘 “이용철 지명 성남라인 잔치”…민주 “친노인사” 반박 · 쟁점 정리",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnQ3Fka2hEVEJoZFdZelFfd1VPcFlzNk1KeDhTZ09RdUc0NXZrMU9FQTBqT3RBNG05a0ZUUEp6T3E4SkltYXFodEoxWExRSXNLZkVzZkFKV05UcThw?oc=5"
-     }
-    ]
-   }
+   "prep_error": "The read operation timed out"
   }
  ],
  "cards": [
@@ -183,139 +98,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/01.png",
-   "pngBytes": 1529383,
-   "feed": "오늘의 뉴스 2026-11-09\n\n· 양부남 “‘개수작’ 한동훈, 입에서 나오는 대로 뱉어서야”\n· \"李 탈옥법\" \"특권계급\"…장동혁·한동훈·오세훈, 李에 십자포화\n· 치명적 토마토 바이러스 부산까지 전파\n· \"엄마, 우리 반 친구들 다 어디 갔어?\"…초등 입학생 30만명도 무너진다\n· 장동혁-오세훈-한동훈...차기 주도권 본격 힘겨루기?\n· 이 대통령 \"정치인 칭찬하되 찬양 말고, 지지하되 숭배 말아야\"\n· 국민의힘 \"당장 탄핵\" 민주당 \"진실 명명백백 밝혀야\"[오늘아침]"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/01.png",
+   "pngBytes": 575285,
+   "feed": "오늘의 뉴스 2026-11-10\n\n· [단독] '쿠데타 책임' 육사만 지방 이전... '사관학교 통합' 반발에 해사·공사는 존치 가닥\n· “어르신 발 씻기는데 장갑?” 논란에…조국 “봉사자 모두 꼈다”\n· 최태원 \"코스피, 결국 '이렇게' 될 것\"…증시 붕괴 '섬뜩한 시나리오' 재조명\n· [단독] “의사가 ‘괜찮다’던 아이…의료진이 장비 만지고 급격히 악화”\n· 김종인 \"오세훈, 한동훈 겁나나? 복당 서둘러주는 게 책무... '한 통' 들어가야\"\n· 송영길 \"신천지 집단가입 정황 확인‥당원 자격 박탈해야\"\n· \"이재명 탄핵\" 사흘째 목청‥현장선 \"내란정당 해산하라\""
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/02.png",
-   "pngBytes": 567656,
-   "title": "양부남 “‘개수작’ 한동훈, 입에서 나오는 대로 뱉어서야”",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/02.png",
+   "pngBytes": 606434,
+   "title": "[단독] '쿠데타 책임' 육사만 지방 이전... '사관학교 통합' 반발에 해사·공사는 존치 가닥",
    "summary": "",
    "summary_long": "",
-   "press": "한겨레",
-   "source": "한겨레",
-   "link": "https://n.news.naver.com/article/028/0002831173",
+   "press": "한국일보",
+   "source": "한국일보",
+   "link": "https://n.news.naver.com/article/469/0000964447",
    "selection": "정치",
-   "feed": "뉴스 01. 양부남 “‘개수작’ 한동훈, 입에서 나오는 대로 뱉어서야”\n\n\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002831173"
+   "feed": "뉴스 01. [단독] '쿠데타 책임' 육사만 지방 이전... '사관학교 통합' 반발에 해사·공사는 존치 가닥\n\n\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000964447"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/03.png",
-   "pngBytes": 582019,
-   "title": "\"李 탈옥법\" \"특권계급\"…장동혁·한동훈·오세훈, 李에 십자포화",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/03.png",
+   "pngBytes": 575512,
+   "title": "“어르신 발 씻기는데 장갑?” 논란에…조국 “봉사자 모두 꼈다”",
    "summary": "",
    "summary_long": "",
-   "press": "시사저널",
-   "source": "시사저널",
-   "link": "https://n.news.naver.com/article/586/0000141824",
+   "press": "국민일보",
+   "source": "국민일보",
+   "link": "https://n.news.naver.com/article/005/0001883951",
    "selection": "정치",
-   "feed": "뉴스 02. \"李 탈옥법\" \"특권계급\"…장동혁·한동훈·오세훈, 李에 십자포화\n\n\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000141824"
+   "feed": "뉴스 02. “어르신 발 씻기는데 장갑?” 논란에…조국 “봉사자 모두 꼈다”\n\n\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001883951"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/04.png",
-   "pngBytes": 539403,
-   "title": "치명적 토마토 바이러스 부산까지 전파",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/04.png",
+   "pngBytes": 595742,
+   "title": "최태원 \"코스피, 결국 '이렇게' 될 것\"…증시 붕괴 '섬뜩한 시나리오' 재조명",
    "summary": "",
    "summary_long": "",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002429955",
+   "press": "아시아경제",
+   "source": "아시아경제",
+   "link": "https://n.news.naver.com/article/277/0005839713",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 치명적 토마토 바이러스 부산까지 전파\n\n\n\n출처: YTN / https://n.news.naver.com/article/052/0002429955"
+   "feed": "뉴스 03. 최태원 \"코스피, 결국 '이렇게' 될 것\"…증시 붕괴 '섬뜩한 시나리오' 재조명\n\n\n\n출처: 아시아경제 / https://n.news.naver.com/article/277/0005839713"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/05.png",
-   "pngBytes": 590621,
-   "title": "\"엄마, 우리 반 친구들 다 어디 갔어?\"…초등 입학생 30만명도 무너진다",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/05.png",
+   "pngBytes": 584591,
+   "title": "[단독] “의사가 ‘괜찮다’던 아이…의료진이 장비 만지고 급격히 악화”",
    "summary": "",
    "summary_long": "",
-   "press": "아시아경제",
-   "source": "아시아경제",
-   "link": "https://n.news.naver.com/article/277/0005839569",
+   "press": "국민일보",
+   "source": "국민일보",
+   "link": "https://n.news.naver.com/article/005/0001883775",
    "selection": "경제·시사",
-   "feed": "뉴스 04. \"엄마, 우리 반 친구들 다 어디 갔어?\"…초등 입학생 30만명도 무너진다\n\n\n\n출처: 아시아경제 / https://n.news.naver.com/article/277/0005839569"
+   "feed": "뉴스 04. [단독] “의사가 ‘괜찮다’던 아이…의료진이 장비 만지고 급격히 악화”\n\n\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001883775"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/06.png",
-   "pngBytes": 563304,
-   "title": "장동혁-오세훈-한동훈...차기 주도권 본격 힘겨루기?",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/06.png",
+   "pngBytes": 596782,
+   "title": "김종인 \"오세훈, 한동훈 겁나나? 복당 서둘러주는 게 책무... '한 통' 들어가야\"",
    "summary": "",
    "summary_long": "",
    "press": "YTN",
    "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002429796",
+   "link": "https://n.news.naver.com/article/052/0002430103",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 장동혁-오세훈-한동훈...차기 주도권 본격 힘겨루기?\n\n\n\n출처: YTN / https://n.news.naver.com/article/052/0002429796"
+   "feed": "뉴스 05. 김종인 \"오세훈, 한동훈 겁나나? 복당 서둘러주는 게 책무... '한 통' 들어가야\"\n\n\n\n출처: YTN / https://n.news.naver.com/article/052/0002430103"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/07.png",
-   "pngBytes": 1573170,
-   "title": "이 대통령 \"정치인 칭찬하되 찬양 말고, 지지하되 숭배 말아야\"",
-   "summary": "이재명 대통령이 \"정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다\"고 비판했습니다. 그러면서 김대중 전…",
-   "summary_long": "김대중·노무현 인용 \"'깨어 있는 시민' 강조한 이유 생각해야\" 이재명 대통령이 6일 청와대에서 열린 한·동티모르 정상회담 뒤 조제 하무스 오르타 동티모르 대통령과 가진 공동언론발표에서 회담 결과를 발표하고 있다. 이재명 대통령이 \"정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다\"고 비판했습니다.\n\n이 대통령은 어제(7일) 밤 자신의 엑스(X)에 '칭찬하되 찬양하지 말고, 지지하되 숭배하지 마십시오'라는 제목의 글을 올리고 이같이 밝혔습니다. 이어 \"민주주의는 저절로 오지도 않고 저절로 지켜지지도 않는다\"며 \"살아 있는 이성으로 진실과 정의에 반응하는 시민들의 끊임없는 참여와 실천만이 민주주의를 만들고 지킨다\"고 강조했습니다. 그러면서 김대중 전 대통령의 \"행동하지 않는 양심은 악의 편\"이라는 발언과 노무현 전 대통령의 \"깨어 있는 시민의 조직된 힘\"을 언급하며 \"왜 그냥 시민이 아니라 '깨어있는' 시민이었을까\"라고 반문했습니다.",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000519691",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/07.png",
+   "pngBytes": 574597,
+   "title": "송영길 \"신천지 집단가입 정황 확인‥당원 자격 박탈해야\"",
+   "summary": "",
+   "summary_long": "",
+   "press": "MBC",
+   "source": "MBC",
+   "link": "https://n.news.naver.com/article/214/0001534403",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 이 대통령 \"정치인 칭찬하되 찬양 말고, 지지하되 숭배 말아야\"\n\n김대중·노무현 인용 \"'깨어 있는 시민' 강조한 이유 생각해야\" 이재명 대통령이 6일 청와대에서 열린 한·동티모르 정상회담 뒤 조제 하무스 오르타 동티모르 대통령과 가진 공동언론발표에서 회담 결과를 발표하고 있다. 이재명 대통령이 \"정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다\"고 비판했습니다.\n\n이 대통령은 어제(7일) 밤 자신의 엑스(X)에 '칭찬하되 찬양하지 말고, 지지하되 숭배하지 마십시오'라는 제목의 글을 올리고 이같이 밝혔습니다. 이어 \"민주주의는 저절로 오지도 않고 저절로 지켜지지도 않는다\"며 \"살아 있는 이성으로 진실과 정의에 반응하는 시민들의 끊임없는 참여와 실천만이 민주주의를 만들고 지킨다\"고 강조했습니다. 그러면서 김대중 전 대통령의 \"행동하지 않는 양심은 악의 편\"이라는 발언과 노무현 전 대통령의 \"깨어 있는 시민의 조직된 힘\"을 언급하며 \"왜 그냥 시민이 아니라 '깨어있는' 시민이었을까\"라고 반문했습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000519691"
+   "feed": "뉴스 06. 송영길 \"신천지 집단가입 정황 확인‥당원 자격 박탈해야\"\n\n\n\n출처: MBC / https://n.news.naver.com/article/214/0001534403"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/08.png",
-   "pngBytes": 2308734,
-   "title": "국민의힘 \"당장 탄핵\" 민주당 \"진실 명명백백 밝혀야\"[오늘아침]",
-   "summary": "국민의힘 \"성남 카르텔\" 민주당 \"성남라인 이전에 친노인사\" 도널드 트럼프 미국 대통령이 데이나 화이트 UFC 회장에게 백악관 대변인직을 제안했다고 밝혔다.",
-   "summary_long": "거리로 나선 국민의힘 \"당장 탄핵해서 끌어내려야\" 더불어민주당 주도로 국회에서 '조작기소 특검법안'이 국회를 통과하자 국민의힘은 서울 도심에서 장외집회를 열고 이재명 대통령과 민주당을 비판했다. 국민의힘 \"성남 카르텔\" 민주당 \"성남라인 이전에 친노인사\"\n\n국민의힘 박성훈 수석대변인은 7일 논평에서 \"이 대통령의 인사 전횡이 막장의 끝을 보여주고 있다\"며 \"돌고 돌아 결국 '성남 카르텔' 인사\"라고 비난했다. 도널드 트럼프 미국 대통령이 데이나 화이트 UFC(이종격투기) 회장에게 백악관 대변인직을 제안했다고 밝혔다. 트럼프 대통령이 미국 독립·건국 250주년 기념행사의 하나로 자신의 80번째 생일인 지난 6월 14일 백악관에서 UFC 경기 개최를 추진할 때도 화이트 회장이 행사 준비에 핵심적인 역할을 맡았다.",
-   "press": "노컷뉴스",
-   "source": "노컷뉴스",
-   "link": "https://n.news.naver.com/article/079/0004207513",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/08.png",
+   "pngBytes": 572100,
+   "title": "\"이재명 탄핵\" 사흘째 목청‥현장선 \"내란정당 해산하라\"",
+   "summary": "",
+   "summary_long": "",
+   "press": "MBC",
+   "source": "MBC",
+   "link": "https://n.news.naver.com/article/214/0001534465",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 국민의힘 \"당장 탄핵\" 민주당 \"진실 명명백백 밝혀야\"[오늘아침]\n\n거리로 나선 국민의힘 \"당장 탄핵해서 끌어내려야\" 더불어민주당 주도로 국회에서 '조작기소 특검법안'이 국회를 통과하자 국민의힘은 서울 도심에서 장외집회를 열고 이재명 대통령과 민주당을 비판했다. 국민의힘 \"성남 카르텔\" 민주당 \"성남라인 이전에 친노인사\"\n\n국민의힘 박성훈 수석대변인은 7일 논평에서 \"이 대통령의 인사 전횡이 막장의 끝을 보여주고 있다\"며 \"돌고 돌아 결국 '성남 카르텔' 인사\"라고 비난했다. 도널드 트럼프 미국 대통령이 데이나 화이트 UFC(이종격투기) 회장에게 백악관 대변인직을 제안했다고 밝혔다. 트럼프 대통령이 미국 독립·건국 250주년 기념행사의 하나로 자신의 80번째 생일인 지난 6월 14일 백악관에서 UFC 경기 개최를 추진할 때도 화이트 회장이 행사 준비에 핵심적인 역할을 맡았다.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004207513"
+   "feed": "뉴스 07. \"이재명 탄핵\" 사흘째 목청‥현장선 \"내란정당 해산하라\"\n\n\n\n출처: MBC / https://n.news.naver.com/article/214/0001534465"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-09/09.png",
-   "pngBytes": 1345921
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-10/09.png",
+   "pngBytes": 1346078
   }
  ],
- "caption": "📰 11월 9일 오늘의 뉴스\n\n1. 양부남 “‘개수작’ 한동훈, 입에서 나오는 대로 뱉어서야”\n2. \"李 탈옥법\" \"특권계급\"…장동혁·한동훈·오세훈, 李에 십자포화\n3. 치명적 토마토 바이러스 부산까지 전파\n4. \"엄마, 우리 반 친구들 다 어디 갔어?\"…초등 입학생 30만명도 무너진다\n5. 장동혁-오세훈-한동훈...차기 주도권 본격 힘겨루기?\n6. 이 대통령 \"정치인 칭찬하되 찬양 말고, 지지하되 숭배 말아야\"\n   이재명 대통령이 \"정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다\"고 비판했습니다. 그러면서 김대중 전…\n7. 국민의힘 \"당장 탄핵\" 민주당 \"진실 명명백백 밝혀야\"[오늘아침]\n   국민의힘 \"성남 카르텔\" 민주당 \"성남라인 이전에 친노인사\" 도널드 트럼프 미국 대통령이 데이나 화이트 UFC 회장에게 백악관 대변인직을 제안했다고 밝혔다.\n\n🗣 “정치인이나 지도적 인사들에게는 칭찬도 지지도 필요하지만, 그것이 종교적 찬양이나 숭배에 이르러서는 안 된다”\n이 발언을 그대로 실은 보도 10건 · 여성신문 · 조선일보 · 문화일보 · 채널A\n· 여성신문 — 이 대통령 “정치인 칭찬·지지 필요하지만, 종교적 찬양·숭배 안 돼”\n· 조선일보 — 李대통령 \"정치인 향한 종교적 찬양·숭배 안돼\"\n· 문화일보 — [속보]李대통령 “지지하되 숭배하지 마시라…살아있는 이성으로 민주주의 지켜야”\n· 채널A — 이 대통령 “정치인 칭찬하되 찬양 말고 지지하되 숭배 말아야”\n· 아시아경제 — 李대통령 \"정치인은 칭찬·지지 필요하나, 종교적 찬양·숭배 안돼\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, YTN, 노컷뉴스, 시사저널, 아시아경제, 한겨레"
+ "caption": "📰 11월 10일 오늘의 뉴스\n\n1. [단독] '쿠데타 책임' 육사만 지방 이전... '사관학교 통합' 반발에 해사·공사는 존치 가닥\n2. “어르신 발 씻기는데 장갑?” 논란에…조국 “봉사자 모두 꼈다”\n3. 최태원 \"코스피, 결국 '이렇게' 될 것\"…증시 붕괴 '섬뜩한 시나리오' 재조명\n4. [단독] “의사가 ‘괜찮다’던 아이…의료진이 장비 만지고 급격히 악화”\n5. 김종인 \"오세훈, 한동훈 겁나나? 복당 서둘러주는 게 책무... '한 통' 들어가야\"\n6. 송영길 \"신천지 집단가입 정황 확인‥당원 자격 박탈해야\"\n7. \"이재명 탄핵\" 사흘째 목청‥현장선 \"내란정당 해산하라\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #의료\n\n출처: MBC, YTN, 국민일보, 아시아경제, 한국일보"
 }
