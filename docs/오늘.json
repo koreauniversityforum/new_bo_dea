@@ -1,242 +1,294 @@
 {
- "date": "2026-11-11",
- "generated_at": "2026-11-11T11:26:48+09:00",
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T12:30:26+09:00",
  "mode": "daily",
- "window_start": "2026-11-10T00:00:00+09:00",
- "window_end": "2026-11-10T23:59:59+09:00",
+ "window_start": "2026-11-11T00:00:00+09:00",
+ "window_end": "2026-11-11T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "중대장이 실수로 공포탄 쏘자…대대장 “너 나와” 2발 ‘탕 탕’",
-   "source": "동아일보",
-   "url": "https://n.news.naver.com/article/020/0003761298",
-   "published_at": "2026-11-10T09:33:12+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "selection": "정치",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "밤길 국도 달리던 자주포에 민간인 차량 추돌…운전자 1명 사망",
-   "source": "KBS",
-   "url": "https://n.news.naver.com/article/056/0012290870",
-   "published_at": "2026-11-10T16:00:36+09:00",
+   "title": "오세훈 “張체제로 총선 어려워”... 장동혁 “저랑 자리 바꾸자” 반발",
+   "source": "조선일보",
+   "url": "https://n.news.naver.com/article/023/0004008975",
+   "published_at": "2026-11-11T11:12:14+09:00",
    "section_id": "100",
    "view_rank": 2,
    "selection": "정치",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "생후 이틀 된 딸은 왜 바다에 버려졌나…친모의 끔찍한 선택",
-   "source": "국민일보",
-   "url": "https://n.news.naver.com/article/005/0001884207",
-   "published_at": "2026-11-10T14:53:08+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "황우석 \"법무부에 한국 국적 회복 신청...심사 결과 기다려\"",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002430630",
-   "published_at": "2026-11-10T08:57:24+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "아랍에미리트 국적을 취득하면서 대한민국 국적을 상실한 사실이 뒤늦게 알려진 황우석 전 서울대 교수가 한국 대사관에 국적 회복 신청을 했다고 밝혔다. 10일 아시아경제…",
-   "summary_long": "UAE 전통 복장 입은 황우석 전 교수=UAE 바이오테크 페이스북. 아랍에미리트(UAE) 국적을 취득하면서 대한민국 국적을 상실한 사실이 뒤늦게 알려진 황우석 전 서울대 교수가 한국 대사관에 국적 회복 신청을 했다고 밝혔다. 10일 아시아경제 보도에 따르면, 황 전 교수는 UAE 국적을 부여받은 당일 UAE 한국 대사관에 이를 알려 국적 상실 신고를 했고, 이후 대사관 측의 안내에 따라 한국 국적 회복 신청을 했다.\n\n대한민국 국적법 제15조는 국민이 자진해서 외국 국적을 취득하면 그 즉시 한국 국적을 잃도록 규정하고 있다. 그러나 국적법 9조에 따르면 재외동포의 경우 만 65세 이상 등 요건에 맞을시 외국국적불행사 서약 후 복수 국적을 유지할 수 있고, 이에 황 전 교수도 대사관의 안내에 따라 국적 회복 신청을 한 것으로 보인다. UAE 국적을 취득한 경위와 관련해 황 전 교수는 \"UAE는 국적 취득 신청이나 대면 심사 등 어느 절차도 없는 것 같다\"며 \"차 한잔 하자는 연락을 받고 찾아뵈었는데, 제게 국적을 부여하는 깜짝 의식이었다\"고 설명했다.",
+   "summary": "장동혁 국민의힘 대표와 오세훈 서울시장이 지난 6일 서울 여의도 국회에서 열린 서울 예산정책협의회에서 기념촬영 후 각자의 자리로 향하고 있다./뉴스1. 국민의힘 장동혁…",
+   "summary_long": "장동혁 국민의힘 대표와 오세훈 서울시장이 지난 6일 서울 여의도 국회에서 열린 서울 예산정책협의회에서 기념촬영 후 각자의 자리로 향하고 있다./뉴스1. 국민의힘 장동혁 대표가 11일 오세훈 서울시장이 비상대책위원회 전환을 언급한 것과 관련해 “당내 문제에 관심이 많으시면 당 대표로 오시라”고 했다. 오 시장이 ‘장동혁 노선’으로는 선거에서 어렵다고 지적한 데 대한 불편한 심경을 노출한 것이다.\n\n장 대표는 이날 TV조선 글로벌리더스포럼 행사장에서 기자들과 만나 “오 시장이 당내 문제에 대해서 많은 관심을 가지고 계신 것 같다”며 “그러면 제가 서울시장을 하고 오 시장께서 당 대표로 오시면서 자리 바꾸면 될 것 같다”고 했다. 장 대표는 지난 3일 국민의힘 서울시당과 서울시가 공동 주최한 국회 토론회에 예정에 없이 참석해 오 시장과 나란히 앉았다. 그러나 이날 오 시장은 “장 대표 노선과 가까워지는 ‘워딩(말)’조차 한 일이 없다”고 선을 그었다.",
    "quotes": [
-    "UAE는 원칙적으로 복수 국적을 허용하지 않으나 특별히 제게는 대한민국 국적과 UAE 국적에 한하여 복수 국적을 허용한다고 발표했다",
-    "대한민국은 65세 이상 재외동포에게 복수 국적을 허용하지만, 그것은 법무부의 판단에 달려 있다",
-    "차 한잔 하자는 연락을 받고 찾아뵈었는데, 제게 국적을 부여하는 깜짝 의식이었다"
+    "총선이 다가올수록 승리를 위한 최적의 경로가 무엇인지 당내에서 치열한 논의를 거쳐 자연스럽게 총의가 모아질 것",
+    "결국은 지금 지도부가 물러나고 새 지도부가 들어서기를 원하는 일종의 희망 사항을 반영한 것이 아니겠나",
+    "오 시장은 서울시민의 삶, 국민의힘은 지도부 중심으로 국민의 삶을 살피는 것이 총선 승리로 가는 길"
    ],
-   "press": "YTN",
-   "photo": "04.jpg",
+   "press": "조선일보",
+   "photo": "01.jpg",
    "quoted": {
-    "quote": "UAE는 원칙적으로 복수 국적을 허용하지 않으나 특별히 제게는 대한민국 국적과 UAE 국적에 한하여 복수 국적을 허용한다고 발표했다",
+    "quote": "총선이 다가올수록 승리를 위한 최적의 경로가 무엇인지 당내에서 치열한 논의를 거쳐 자연스럽게 총의가 모아질 것",
     "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "주간조선",
-      "title": "황우석 \"차한잔 하자더니 UAE 국적 수여…법무부에 회복 신청\" |",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0TkdNM1ZDWFNPdnRLa2pDY1JBNVBQNjRUMUJWWFJsc0lrbXM2WURTcjdnNUpGZXZuSkFoZW5qbE5WZEpKZzlJSnZ1ZThySGkwQkZuQkVydkQ2bXEyOXlOa0pQYjNkeEFPMlpBcXpn?oc=5"
+      "press": "채널A",
+      "title": "오세훈 “한동훈 복당, 총선 승리에 반드시 필요…당내 공감대 먼저”",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MOGtRaHlzRzdPZGhWOUxfdTFOUHZidVdNSlNzS2hFNXQ3VjFYX3RRQXBlaUJ4YzRUekx3M3E5ZXVPcC1jX05RbWZJeFhrQVd6aUFiQ08zNjNRbEdfeF9FTHBFONIBY0FVX3lxTE9MOGtRaHlzRzdPZGhWOUxfdTFOUHZidVdNSlNzS2hFNXQ3VjFYX3RRQXBlaUJ4YzRUekx3M3E5ZXVPcC1jX05RbWZJeFhrQVd6aUFiQ08zNjNRbEdfeF9FTHBFOA?oc=5"
      },
      {
-      "press": "YTN",
-      "title": "황우석 \"법무부에 한국 국적 회복 신청...심사 결과 기다려\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KdFFzaEkyZ01FWXQ4Ym96LTVLcWRMTlREanNOUVpCZ3I5cFllXzFLcVFJaEQ5R056MkRoeHhNczNTMjBSRzEyYldqRm1pcVNuSjJMZUhQdUltQWhJeWc?oc=5"
+      "press": "조선일보",
+      "title": "오세훈 \"張체제로 총선 어려워\"... 장동혁 \"저랑 자리 바꾸자\" 반발",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQkMtVHQ4ZTZ6VjlIMkRSLURVZGJ6QXpFYTJ6bVdYeEhwUXo2Q1lYaUg3ZUlWUEZlNlpEWHhkRUpmQmc1M2VHNUlENnlJaElTT25JM2dOMnl2QWVYTW1fMTNDd2VuaFYwcUFEejU2UHNjdnhaa0hSYXBEUzhDekh3ZkxfTTU2Zw?oc=5"
      },
      {
-      "press": "KBC광주방송",
-      "title": "\"차 한잔하자더니 국적 줬다\"…UAE 황우석, 한국 국적 회복 신청",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrT3VWa1FJWWt5S0FVSmthYjZXcDFaemYwMmdRUE1uN1dmVVo2RG9uaG8yM19PVGEwYXhRR0UtUVUwTWdaYnNCNzZIMmZUeFplYlE1Y3MtdXRhbmtqb2JvZw?oc=5"
+      "press": "프레시안",
+      "title": "오세훈·한동훈 '비대위' 언급에…장동혁 \"정치적 의도\" 발끈",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Eb1FmdjdWNkFxYldSS0xqTjNEdWl5MDJlVkhGTVpWNEpDUHZ6NkxmVzZqd3JSTGFNV2tRamNyaXVvcUxOZk5FUGk1R1dhNjRfcTZWX0VWYkJGSTV4c2pBN2dfT2hNV2tXVXFz?oc=5"
      },
      {
-      "press": "주간경향",
-      "title": "황우석 “한국 국적 회복 신청···차 한잔 하자더니 UAE국적 주더라”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2ZXZVUnJLSkJhNVlpajBIa1VRTS1BcHkzMVJnMURwdUYtUTVUNFktclRTZGl3WWh1d2ZqeG0xUGoyU0ZQOHpTWVVvQWpRT3VPX3ozcklnMFFJREhlUHc?oc=5"
+      "press": "머니투데이",
+      "title": "오세훈 \"한동훈 복당 필요…당 쇄신에 성역 없어야\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SWmZsT0RHWEJDdjk4cGpMTjlCdVpSWTdHcWNEYWVVLWZQaDFfQk84UER2VjBuRWJrMUd4WXpCR2diT0pVNFdVR3JlMlJGbHhMaTg1TUZRMXlNVTFBSWJrT054eUpNcTFNMmJJMGtXb9IBb0FVX3lxTE5SWmZsT0RHWEJDdjk4cGpMTjlCdVpSWTdHcWNEYWVVLWZQaDFfQk84UER2VjBuRWJrMUd4WXpCR2diT0pVNFdVR3JlMlJGbHhMaTg1TUZRMXlNVTFBSWJrT054eUpNcTFNMmJJMGtXbw?oc=5"
      },
      {
-      "press": "부산일보",
-      "title": "`줄기세포 논문 조작` 황우석 `차 한잔하자더니 UAE 국적 수여…한국 국적 회복 신청`",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lNEVCbnNlclB1U2dSb0FpM0xPNVdqbE8wSy1yOGk3cG5HaERYY0hOejRQenZSeHoyckFyQ1k5T2pUTVhUQUUwVE5DeWh4V3hxQV9ycDd1TXFsUDV0NHVTWUJwSlVORDZSWjRuWHJKUGVJNFpqcFcw?oc=5"
+      "press": "조세일보",
+      "title": "오세훈 \"한동훈 복당, 총선 승리 위해 반드시 필요\"",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yX2g4cEZmSXZGVHdrMHpNd2p2Rmlndkk3OVZjTmhNWjZMQ3RuTVFTYUtNVFFlLUYtVGJYRHpPY2pkZnh1OHNVV19nVHJYcjFHWWRsZUZsQW1IcTBkdjUwcF9oaTdFdTdmMjBzVHZiTQ?oc=5"
      },
      {
-      "press": "서울이코노미뉴스",
-      "title": "황우석, 한국 국적 회복 신청…“법무부 판단 기다리는 중”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0WG5ObjBjU2g2NXRaWDNabVdGeS1jQkhFSTlLTTI0N1l1aFc0S1NkR21aNkNIRjZmZEgzMGZkcjJYdWxzeUJ2SWdWWnNwQ1Y5NzhuMDJTUXYtYjhZTW91YUtBckZvUmZHOUtiLTlR?oc=5"
+      "press": "뉴시스",
+      "title": "'비대위' 언급한 오세훈에 장동혁 \"자리 바꾸자\"…吳·張 연대 파열음",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01Qm1wT0N1UTRWWUtIckNtdGhSSmZBck5OandyNTgwNHdBSHVJOGZVUU9IVmNPT1JMemtpdTFuRnVscWFFRXRndUR0ZlJUMkZ0STY0c2Z5SWF3U2l2YnBqV3Q4SW90akRIUTdhVWFZbi0xQXVacjlRQ9IBeEFVX3lxTE01Qm1wT0N1UTRWWUtIckNtdGhSSmZBck5OandyNTgwNHdBSHVJOGZVUU9IVmNPT1JMemtpdTFuRnVscWFFRXRndUR0ZlJUMkZ0STY0c2Z5SWF3U2l2YnBqV3Q4SW90akRIUTdhVWFZbi0xQXVacjlRQw?oc=5"
      }
     ]
    }
   },
   {
-   "title": "신천지 TF 조사 열람한 이성윤 \"허탈‥사후 알리바이용 의심\"",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001534585",
-   "published_at": "2026-11-10T10:38:29+09:00",
+   "title": "[단독] 기자들 향해 “하이에나 떼들”…최민희, 당원 단톡방에서 비하 글 논란",
+   "source": "주간경향",
+   "url": "https://n.news.naver.com/article/033/0000053303",
+   "published_at": "2026-11-11T10:09:13+09:00",
    "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 461,
-   "comment_agree": 200,
-   "comment_disagree": 33,
-   "division_balance": 0.283262,
-   "division_score": 1.545284,
-   "selection": "찬반 쟁점",
-   "summary": "더불어민주당 이성윤 최고위원이 당의 신천지 의혹 조사 결과를 직접 열람한 뒤 \"정말 허탈하기까지 하다\"며 내용 부실을 지적했습니다. 이 최고위원은 오늘 오전 국회 민주당…",
-   "summary_long": "더불어민주당 이성윤 최고위원이 당의 신천지 의혹 조사 결과를 직접 열람한 뒤 \"정말 허탈하기까지 하다\"며 내용 부실을 지적했습니다. 이 최고위원은 오늘 오전 국회 민주당 사무총장실에서 신천지 TF 조사 결과를 30분 동안 열람한 뒤 \"의혹을 제기할 때는 자료가 없었는데, 그 후에 자료를 만들어 알리바이를 구성하려고 하는 것 아닌가는 생각이 들 정도의 내용\"이라고 밝혔습니다. 이 최고위원은 \"검사로서 30년간 조사·수사만 했던 사람으로 봤을 때 이 결과를 과연 믿을 수 있는가 싶었다\"며 \"신천지 명부를 어디서 갖고 왔는지, 이에 비춰 봤을 때 몇 명이 권리당원 있었고, 몇 명이 일반 당원 있었을 것이라는 추론도 맞지 않다고 생각한다\"고 지적했습니다.\n\n이어 \"더군다나 반명·분열주의·신천지 3자 비밀연합이 있었는지 또는 신천지 조직적 개입이 있었는지에 대한 증거 자료는 전혀 없었다\"고 강조했습니다. 그러면서 \"석 달간 우리 당을 떠들게 했던 신천지 의혹 문제가 정말 허탈하기까지 하다\"며 \"일부 소수 또는 지역위원장들에게만 공개해 의혹을 더 키우는 모습도 좋지 않은 만큼 이 정도 자료면 공개하는 것이 맞다\"고 덧붙였습니다. 이 최고위원은 애초 의혹을 제기했던 김민석 대표를 향해 \"자신이 무엇을 잘못했는지 구체적으로 말하고 피해자들에게 직접 사과한 뒤 재발 방지 약속까지 해야 진정한 사과\"라며 거듭 사과에 나설 것을 요구했습니다.",
+   "view_rank": 2,
+   "selection": "정치",
+   "summary": "최민희 더불어민주당 의원이 지난 11월 5일 남양주 지역 당원 단체대화방에 국회 취재진의 사진을 올리며 “하이에나 떼들”이라고 적었다. 더불어민주당 최민희 의원이…",
+   "summary_long": "최민희 더불어민주당 의원이 지난 11월 5일 남양주 지역 당원 단체대화방에 국회 취재진의 사진을 올리며 “하이에나 떼들”이라고 적었다. 다른 참여자가 놀랐다는 반응을 보이자 최 의원은 “국회출입 언론사 기자들”을 지칭한 것이라고 설명했다. 더불어민주당 최민희 의원이 국회에서 취재 중인 언론사 기자들의 사진을 지역 당원 단체대화방에 올리며 ‘하이에나 떼들’이라고 비하한 사실이 확인됐다.\n\n<주간경향>이 입수한 남양주 지역 당원 단체대화방 캡처에 따르면 최 의원은 지난 11월 5일 오후 2시 23분쯤 국회 행사장에서 취재 중인 기자들의 사진을 올렸다. 최 의원은 “11월 5일 친구들과 지지자들이 있는 소통방에 사진을 올리고 그 사진에 대한 당시 느낌을 쓴 적이 있다”라고 밝혔다. 최 의원은 오전 9시 56분 페이스북에 공식 사과문을 올려 “표현이 과하고 적절하지 못했음을 인정하고 사과드립니다”라고 밝혔다.",
    "quotes": [
-    "신천지 명부를 어디서 갖고 왔는지, 이에 비춰 봤을 때 몇 명이 권리당원 있었고, 몇 명이 일반 당원 있었을 것이라는 추론도 맞지 않다고 생각한다",
-    "의혹을 제기할 때는 자료가 없었는데, 그 후에 자료를 만들어 알리바이를 구성하려고 하는 것 아닌가는 생각이 들 정도의 내용",
-    "더군다나 반명·분열주의·신천지 3자 비밀연합이 있었는지 또는 신천지 조직적 개입이 있었는지에 대한 증거 자료는 전혀 없었다"
+    "정당한 취재 활동을 정치적 이간질로 매도하고 기자들을 동물에 빗대어 조롱한 것은 언론인에 대한 명백한 모욕이자 명예훼손의 소지가 있는 부적절한 행위",
+    "11월 5일 친구들과 지지자들이 있는 소통방에 사진을 올리고 그 사진에 대한 당시 느낌을 쓴 적이 있다",
+    "국회 출입 사진기자들은 국민의 알 권리를 위해 정치 현장을 기록하고 권력을 감시하는 역할을 수행한다"
    ],
-   "press": "MBC",
-   "photo": "05.jpg",
+   "press": "주간경향",
+   "photo": "02.png",
    "quoted": {
-    "quote": "의혹을 제기할 때는 자료가 없었는데, 그 후에 자료를 만들어 알리바이를 구성하려고 하는 것 아닌가는 생각이 들 정도의 내용",
+    "quote": "정당한 취재 활동을 정치적 이간질로 매도하고 기자들을 동물에 빗대어 조롱한 것은 언론인에 대한 명백한 모욕이자 명예훼손의 소지가 있는 부적절한 행위",
+    "n": 10,
+    "verified": 0,
+    "items": [
+     {
+      "press": "강원일보",
+      "title": "한국사진기자협회, 취재진 ‘하이에나 떼’ 비하한 최민희 의원 강력 규탄",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mcWZfVkhLM0V0YjNlRHBFcWdqWXVsU1R5ZWlwazByczFmdy1zTFhvaUo2NFBJOWlraVVpeFh5RnZieW1WOWhqc0xMTFBULXRaVDdER1A2QXdRa1E?oc=5"
+     },
+     {
+      "press": "연합뉴스",
+      "title": "최민희, 언론에 '하이에나' 표현했다 사과…\"과하고 부적절\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KQUh2dmI0SDNZbnBvc1VVTGdhckpwSWJCVkg2STlQQ3FvdGZDZGp0X2NtUE12UHlKRUx3cE5HTEY5M1M3dGx4c01CTXZTUlNjRzMwMWtfbW42N0nSAWBBVV95cUxQeVdBS1pMZm5YNnZnZFB5SGpPcHVFQjZuLVJ3aTlNSndIZkxMeDY0aHNwM3JPMjVXTDkzcW54TWxXQ3Z2d1hrYmJacnFYNXppZGZnRE5vT0pRakczR0NTTWg?oc=5"
+     },
+     {
+      "press": "한국기자협회",
+      "title": "\"하이에나 떼들\", \"이간\"... 최민희 의원, 기자 비하 발언",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZbkluODhYMFFWUUN5RmNlUzJwMEZQWi0tak9DUzU1NGFrVERvQm8tSTFMclFxdk9fOTVjLTN1RWhzU3Q2MWZOSmItQWRMLUQwTWVNbGpmSmpTQ2VvZGJkY3RzTnNDQQ?oc=5"
+     },
+     {
+      "press": "조선일보",
+      "title": "최민희, 사진기자들에 \"하이에나 떼들\"…논란 일자 사과",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDVUelEyMGpoaDc0NWhvSWxMQUl5NUphclJQOWVLRXY1Z01KUm04QTBBN25zU0dWN0pqanZ0elpmVEVjcG5tSGl3QmFNYnZYelFwXzlZUllJajVrb3k2djMzNGN5UXAxLWhrbDlWanREcDltRC00aExvZlNTM2x1WEhUYUV6UQ?oc=5"
+     },
+     {
+      "press": "경향신문",
+      "title": "최민희, 국회 출입기자 향해 “하이에나 떼들” 논란 일자 사과…“명백한 모욕, 취재활동 위축”",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4Zi01S1djRzN3a2hQdmY0RngxazR1NTl6SUFhdmFZRDlSelpFRnJOSWszTWlHVFVTYUhydzdfdnFSa1lsWVpzWXJ4MnFKdUdzS2czVjhQd01IeUEtcnE00gFfQVVfeXFMUDhmLTVLV2NHM3draFB2ZjRGeDFrNHU1OXpJQWF2YVlEOVJ6WkVGck5JazNNaUdUVVNhSHJ3N192cVJrWWxZWnNZcngycUp1R3NLZzNWOFB3TUh5QS1ycTQ?oc=5"
+     },
+     {
+      "press": "제주일보",
+      "title": "최민희 막말 \"하이에나 떼들\"…사진·영상기자협회 공개 사과 촉구",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZOHd3eWZMVlBFU0lCY0NmUHZyLXRFa2ppdjdlcUcyOHFaWHQzdWpIT2FsRXVFUm9FR1paQU5xQ1Q0MEZJbjdVcWc3dFJrR1E5RzJ1UTBOQjBrQzNQaTkza3BXem9MRFVFekUwag?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제",
+   "source": "조선비즈",
+   "url": "https://n.news.naver.com/article/366/0001203955",
+   "published_at": "2026-11-11T09:34:25+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "11월 11일 ‘빼빼로 데이’를 맞아 한 초등학생이 소개한 신조어 ‘빼난지원금’이 온라인상에서 화제가 되고 있다. A군은 빼난지원금에 대해 “빼빼로 데이 때 빼빼로를 못…",
+   "summary_long": "11월 11일 ‘빼빼로 데이’를 맞아 한 초등학생이 소개한 신조어 ‘빼난지원금’이 온라인상에서 화제가 되고 있다. 10일 서울 시내 한 대형마트에 빼빼로 데이(11월 11일)를 앞두고 각 종 과자들이 진열돼 있다. 지난 6일 방송인 유병재의 유튜브 채널에 올라온 ‘웃으면 안 되는 아일릿 팬미팅’이란 제목의 영상에는 걸그룹 아일릿과 초등학생 팬이 대화하는 장면이 담겼다.\n\n이날 유병재는 영상에 출연한 초등학생 A군에게 요즘 유행하는 신조어를 알려달라고 요청했고, A군은 ‘빼난지원금’이라는 단어를 언급했다. A군은 빼난지원금에 대해 “빼빼로 데이 때 빼빼로를 못 받은 사람에게 주는 빼빼로”라고 설명했다. 매년 11월 11일은 빼빼로를 주고받는 ‘빼빼로 데이’이자 법정기념일인 농업인의 날이다.",
+   "quotes": [
+    "빼빼로 데이 때 빼빼로를 못 받은 사람에게 주는 빼빼로"
+   ],
+   "press": "조선비즈",
+   "photo": "03.jpg",
+   "quoted": {
+    "quote": "빼빼로 데이 때 빼빼로를 못 받은 사람에게 주는 빼빼로",
     "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "MBC 뉴스",
-      "title": "신천지 TF 조사 열람한 이성윤 \"허탈‥사후 알리바이용 의심\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TQmZlb0ZDbWVLNmsyMWVxSy1MU1I3RlVISWF2OWJ3RHJLalFPdE1DNVFEaWdubXE3VlhSZ3A2Xzd6c1ZuUGRFSm9nZ01tejhpV3ozTWxCSDJJNlctdzZLcENTZXFySlp5RUJvREhUY1RwaEh4blVrT9IBeEFVX3lxTE9TQmZlb0ZDbWVLNmsyMWVxSy1MU1I3RlVISWF2OWJ3RHJLalFPdE1DNVFEaWdubXE3VlhSZ3A2Xzd6c1ZuUGRFSm9nZ01tejhpV3ozTWxCSDJJNlctdzZLcENTZXFySlp5RUJvREhUY1RwaEh4blVrTw?oc=5"
+      "press": "Chosunbiz",
+      "title": "빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTmZTNU9NbXlvMjc0QmdtQVI5UF9oaFdGS2E3bTM4M1dKMmV0ZGttdzR0a0w3X0ZhNTlTZVVZb3JJUldVbFlBc1FlRHUxLTRYVWNDcFcycjVrVnNtS2lXdjgyM0tQdXNyRkpNNzlRd0dDQU5PVFNCY0o3N1ZrM1o4bWMyRDhkOTY4eGfSAZ4BQVVfeXFMTmJMZHdSMDk4UmpqOVZxOWYtZ1JsVHV4dkNxWEdoMjhHMEJjSjVOSS0wV3pXVmY2V1VyeFFndnhmWGQxZllpcnlrUktodUNNcTN3WlhyTWxIS2lxZ293OGpvM19WbjViQ21iZnhuNnhjRmlJeWg3eFNFamIyQ0VmNWI3Z3hNVHRHaGFBZ2diSDByRVhrcDBEV212TmtIbUE?oc=5"
      },
      {
-      "press": "연합뉴스TV",
-      "title": "이성윤 \"신천지 조직적 개입 증거 자료 전혀 없어…허탈\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85aE9EOEhNcjlfeFc1Z2JfRWdBUGdnTW1wSkw2Z0J5dldmVHB3Z1N4V2cxMHlUeWVNWVQ3TVlQek00b0NLUThyVnI1eFAwOUROQlNadFVVTXJKckthdDdjUFNoeC1jUm8?oc=5"
+      "press": "한국사회복지저널",
+      "title": "초등학생이 소개한 신조어 ‘빼난지원금’ 화제…빼빼로 못 받은 사람에게 주는 빼빼로",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81cnBZeDY5VTBIMkJ5Q0tzU0h4WXlMQTF2YmFPT3hEeVhPWlplSG5Wd2NRTFBNbnlxZ1h2cjV0S0p1VVp4NGI2UG56Z1VnTlZwOHNrQW1jSnQ2Y0FtX3QxelMydUNWaGpuQ1h6Tg?oc=5"
      },
      {
-      "press": "신아일보",
-      "title": "이성윤 \"신천지 조직적 개입 증거 없어…재발 방지 약속해야\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZThWSnlkV1VxWElPYmpNWnBHRUN1djE0NTZQSjlMajNoMG11QXRqN2dVcUVXTUlNTThuOXlLMmxQMkN0eUFBLVRCRWxscTQtZ0NaOVBuX2hlWTM5OUZ1dnBLZFBTSGl6UVJmeVZIMUQ?oc=5"
+      "press": "재경일보",
+      "title": "초등학생이 소개한 ‘빼난지원금’ 화제…신조어 눈길 : 연예",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVTmpfT1VVVXBwWUZVZU8xQTVDcU9ZLXQwU2t1dkhhdkpYYzNVMGRKX01xTmFKeWV0MXNQTERyeHRTUGFuMmV5MzhWRQ?oc=5"
      }
     ]
    }
   },
   {
-   "title": "이 대통령 “힘세면 버티면 되나”…재개발 ‘알박기’ 등 불법행위 조사 지시",
-   "source": "한겨레",
-   "url": "https://n.news.naver.com/article/028/0002831471",
-   "published_at": "2026-11-10T10:38:11+09:00",
+   "title": "'아들 성범죄 피해자' 10대 여성 살해한 50대 긴급체포",
+   "source": "CJB청주방송",
+   "url": "https://n.news.naver.com/article/655/0000033530",
+   "published_at": "2026-11-11T11:03:08+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "오세훈 “한동훈 복당, 총선 위해 반드시 필요...비대위 전환도 선택지”",
+   "source": "조선일보",
+   "url": "https://n.news.naver.com/article/023/0004009038",
+   "published_at": "2026-11-11T16:44:10+09:00",
+   "section_id": "100",
+   "view_rank": 5,
+   "comment_count": 1024,
+   "comment_agree": 307,
+   "comment_disagree": 68,
+   "division_balance": 0.362667,
+   "division_score": 2.150464,
+   "selection": "찬반 쟁점",
+   "summary": "오세훈 서울시장은 11일 한동훈 무소속 의원의 복당 문제에 대해 “총선 승리를 위해 반드시 필요하다”면서도 당내 구성원 간 공감대가 먼저 형성돼야 한다고 밝혔다. 오…",
+   "summary_long": "오세훈 서울시장은 11일 한동훈 무소속 의원의 복당 문제에 대해 “총선 승리를 위해 반드시 필요하다”면서도 당내 구성원 간 공감대가 먼저 형성돼야 한다고 밝혔다. 오 시장은 이날 페이스북 글에서 “저는 한 의원의 복당이 총선 승리를 위해 반드시 필요하다고 생각한다”고 밝혔다. 오 시장은 지난 6일 한 의원 복당에 대해 “유리 그릇 다루듯 해야 할 문제”라며 신중한 입장을 냈는데, 이날은 한층 진전된 입장을 낸 것으로 풀이된다.\n\n오 시장은 그러면서도 “복당 문제가 또 다른 당내 갈등의 불씨가 되어서는 안 된다”면서 “당내 구성원들이 흔쾌히 받아들일 수 있는 공감대가 먼저 형성돼야 한다”고 했다. 한편 오 시장은 장동혁 대표 체제에 대해선 “현재 국민의힘의 모습으로 수도권 민심을 확실하게 사로잡을 수 있을지 많은 분이 깊은 우려를 갖고 있는 것이 사실”이라고 했다. 오 시장은 앞서 이날 공개된 중앙일보 인터뷰에서도 “장동혁 체제로 총선을 치르면 아마 수도권 선거는 굉장히 어려울 것”이라면서 비대위 전환 필요성을 언급했다.",
+   "quotes": [
+    "서울시장으로서 서울을 세계 최고의 도시로 만들기 위해 혼신의 힘을 다하는 것은 당연한 책무다. 동시에 국민께 다시 선택받을 수 있는 보수의 모습을 온전히 갖추는 데에도 맡겨진 사명을 다하겠다",
+    "지금 중요한 것은 누가 누구와 손을 잡고, 누가 당권을 차지하느냐가 아니다. 국민의힘이 어떻게 변화하고 통합하여 국민의 신뢰를 되찾고, 2028년 총선에서 승리할 수 있느냐다",
+    "최근 정당 지지율이 상승했다는 결과도 있지만, 이재명 정부와 민주당의 정책 실패에 따른 반사이익이 일시적으로 여론에 반영된 측면이 크다"
+   ],
+   "press": "조선일보",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "서울시장으로서 서울을 세계 최고의 도시로 만들기 위해 혼신의 힘을 다하는 것은 당연한 책무다. 동시에 국민께 다시 선택받을 수 있는 보수의 모습을 온전히 갖추는 데에도 맡겨진 사명을 다하겠다",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "조선일보",
+      "title": "오세훈 \"한동훈 복당, 총선 위해 반드시 필요...비대위 전환도 선택지\"",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1BGUnZJMVcwUk4wZmcwQk1NTV9qcEtIZ1NNSm1XQkZhNmpoT05ZM0Z5MEJYNlhRVjB1bEx2ZVFSaEZrOG9mRWhoX2ZDV1VEZTRyZ1YxZ1lKdWp0ajFDbVBhWVJ3SUFoUVlIdnlybDZna1k0dEJsU2pMenhRREltblBqMWMyZw?oc=5"
+     },
+     {
+      "press": "뉴스핌",
+      "title": "오세훈 \"국민의힘, 수도권 민심 위해 변화해야...비대위 전환도 방법\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YUkc2MDd4TFVPUFczdFc5V1hzU0pUYTh1bmE2WlpQRjFiRnhaeWJnS2lwbEV3RWotZ2dyWDNOV0swb2lRX29nbGxmOTIzX3h2ZzFva0QyYXdoYVJM?oc=5"
+     },
+     {
+      "press": "아시아뉴스통신",
+      "title": "오세훈, \"한동훈 복당, 총선 승리 위해 반드시 필요\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15SFVDRFVDSFQtZndrZEVTelVrMGMzYmNpbkZyNnFRcXo1cDhvYXlUa2pGRTVSZDRiNWZ3QnBKb0o5ZWJibnpyeVM2M2JuckZ4eGQtdzhqb3R2c0ZM?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "장동혁, 한동훈 '조작 징계' 주장에 \"맞다…韓 '언론 조작' 징계한 것\"",
+   "source": "매일신문",
+   "url": "https://n.news.naver.com/article/088/0001039803",
+   "published_at": "2026-11-11T17:37:09+09:00",
    "section_id": "100",
    "view_rank": 4,
-   "comment_count": 254,
-   "comment_agree": 140,
-   "comment_disagree": 22,
-   "division_balance": 0.271605,
-   "division_score": 1.383488,
+   "comment_count": 520,
+   "comment_agree": 201,
+   "comment_disagree": 43,
+   "division_balance": 0.352459,
+   "division_score": 1.938968,
    "selection": "찬반 쟁점",
-   "summary": "이재명 대통령이 10일 법을 어기고 물리력으로 공권력 집행을 방해하면서 이익을 얻는 행위에 대한 실태 파악을 지시했다. 이 대통령은 이날 청와대에서 주재한 국무회의에서…",
-   "summary_long": "이재명 대통령이 10일 청와대에서 열린 국무회의에서 발언하고 있다. 이재명 대통령이 10일 법을 어기고 물리력으로 공권력 집행을 방해하면서 이익을 얻는 행위에 대한 실태 파악을 지시했다. 재개발 명도집행을 물리적으로 방해하거나 이른바 ‘알박기’를 하는 사례 등을 거론하며 전국의 불법행위 방치 실태를 조사해 1~2주 안에 보고하라고 했다.\n\n이 대통령은 이날 청와대에서 주재한 국무회의에서 “우리가 합의한 법을 지켜야 하는 것처럼 법률에 의한 처분이나 집행을 무력으로 저항하는 경우가 있다”며 “예를 들면 재개발하는데 명도 집행을 하는데, 물리력을 동원해 수년간 버티기를 해서 엄청난 피해를 주고 소위 알박기를 한다”고 말했다. 이 대통령은 그러면서 전국적으로 합법적인 법 집행을 물리력으로 방해하거나 불법행위를 지속하는 사례를 전수 조사하라고 지시했다. 이 대통령은 “전국에 이런 불법을 지속적으로 강행하는 사례라든지, 예를 들면 합법적인 법질서를 부정하는 행위의 실태를, 상황을 전부 체크를 해가지고 보고를 한번 하도록 하라”고 말했다.",
+   "summary": "장동혁 국민의힘 대표가 자신의 제명 결정이 조작됐다며 사과를 요구한 한동훈 무소속 의원을 향해 \"절차적 문제가 있다고 주장할 것이라면 법적 대응을 하라\"고 반박했다.…",
+   "summary_long": "한동훈 무소속 의원(당시 국민의힘 대표)가 지난 2024년 12월 11일 오후 서울 여의도 국회 당대표실에서 장동혁 국민의힘 대표(의원)가 나가는 사이 미소를 짓는 모습. 장동혁 국민의힘 대표가 자신의 제명 결정이 조작됐다며 사과를 요구한 한동훈 무소속 의원을 향해 \"절차적 문제가 있다고 주장할 것이라면 법적 대응을 하라\"고 반박했다. 장 대표는 \"조작 징계가 맞다.\n\n(한 의원의) 언론 조작에 대한 징계를 한 것\"이라며 \"그 증거들은 수사기관에 그대로 다 보관돼 있고, 당과 서버에도 있다\"고 주장했다. 그러면서 \"(한 의원의) 언론 조작 사실은 변경할 수 없다\"며 \"징계 결정에 문제가 있는 것처럼 주장하는 것 자체가 조작\"이라고 강조했다. 장 대표는 지난 7월 8일 윤 위원장과의 '식사 회동'이 조작 징계의 증거라는 주장과 관련 \"한 번도 윤리위원장을 면담하지 않다가 계속해서 수행 의사가 있는지 묻기 위해 만난 것이 어떤 문제가 있다고 생각하지도 않는다\"고 답했다.",
    "quotes": [
-    "계곡 정비나 단속도 비슷하다. 이게 분명히 나라 것이고 국민들의 것인데, 이거 왜 누가 길 막아놓고 통행료 내지 않으면 못 지나가게 하지? 이러면서 정부를 다 불신한다",
-    "전국에 이런 불법을 지속적으로 강행하는 사례라든지, 예를 들면 합법적인 법질서를 부정하는 행위의 실태를, 상황을 전부 체크를 해가지고 보고를 한번 하도록 하라",
-    "그래도 제일 많은 데가 아마 경찰이 있지 않을까 싶긴 한데, 한번 거기도 체크해보라. 행정안전부도 좀 많이 있을 것 같고. 법무부도 혹시 있을지는 잘 모르겠고"
+    "한 의원이 직접 나서 문제를 거론하는 것까지는 뭐라 말씀드리기 어렵지만, 우리 당 소속 의원들이 이에 대해 같이 목소리를 내서 당을 흔드는 것은 매우 부적절한 행동",
+    "그것을 문제 삼아 이전에 있었던 징계 결정에 영향을 미친 것처럼 주장하는 것 자체가 조작이라 생각한다. 징계 결정 이전에는 한 번도 만난 적이 없다",
+    "그 대응 결과 법원에서 절차적 문제가 있다고 한다면, 당은 다시 윤리위를 열어 방어권을 보장하고 제대로 된 징계 절차를 거치면 될 문제"
    ],
-   "press": "한겨레",
+   "press": "매일신문",
    "photo": "06.jpg",
    "quoted": {
-    "quote": "전국에 이런 불법을 지속적으로 강행하는 사례라든지, 예를 들면 합법적인 법질서를 부정하는 행위의 실태를, 상황을 전부 체크를 해가지고 보고를 한번 하도록 하라",
-    "n": 5,
+    "quote": "그 대응 결과 법원에서 절차적 문제가 있다고 한다면, 당은 다시 윤리위를 열어 방어권을 보장하고 제대로 된 징계 절차를 거치면 될 문제",
+    "n": 2,
     "verified": 0,
     "items": [
      {
-      "press": "한겨레",
-      "title": "이 대통령 “힘세면 버티면 되나”…재개발 ‘알박기’ 등 불법행위 조사 지시",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBROWJVTk95em1MZm1yYWcxQ2hsVmZrUW9nVXU0TWJnUlQyYnREYkRWc0YtZV8xR2dSaU9BV2w5NTBhSWNmS2R0U1BWb0pRVWRWTTc4cUNLX21zV2pVVXhJNk04dE1hUEYwRXdZ?oc=5"
+      "press": "매일신문",
+      "title": "장동혁, 한동훈 `조작 징계` 주장에 `맞다…韓 `언론 조작` 징계한 것`",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vY2tZV29HZllSQlJIX1Y5WVJUQjV6VS1WTGt4T3pFZFZsNHhGSHJoZjNwZmtQWWF6bHFCSlM0SjVaOWhLNHNhTDhWVThJaXlaaVFBLTctV2JnMm9EOElPRnh3?oc=5"
      },
      {
-      "press": "뉴데일리",
-      "title": "또 사랑제일교회 때린 李 대통령 … \"알박기, 법질서에 무력 저항\"",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14V0VsdGhrTkJ6V2NNWjA2QUdNUDduMVJyRFo5ZjhSS0pPeGlkZ1k4enAtN3phYVdfSkFhY1VDWjJsU2xLZ2dVOVZNQ2dERTU3ZEhjaWF1ZkN6N2kzYi1pZjhSM3YtUERCOTV6X21ONUZIV1hXQWJZV1JJTdIBgAFBVV95cUxOMUlndVpQVTFGVHc1MzNXTXJrY0tJcVVkN1hCOThfMnE4dGRyMEtIXzlWTHFMeUZBMkZjN0tNSFVYWjVqZUhfZDZUdDFfLXRiV0tFbmJSbEtDNFRCdXFPSDduY2FKb3JXTGFCaTlNTWZIcnhOVU9USUFQa1FzcWNiWQ?oc=5"
-     },
-     {
-      "press": "중부매일",
-      "title": "이재명 대통령, 불법·반칙 행위 전면 점검… 1~2주 내 보고 지시",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pQng5ZUdZaExFNmJHd1h1aEdIcUxILUMtVkloMDlZM1E2TElrNHhuSTJmMHpnN3lWck56VDF6UkZLS1JHS0RhVkt6ekVuNEdXbFNTVk5pVVk2SFFOeWxXQW9rSUpBMDEyUVUzaEtB0gFuQVVfeXFMTmlCeDllR1loTEU2Ykd3WHVoR0hxTEgtQy1WSWgwOVkzUTZMSWs0eG5JMmYwemc3eVZyTnpUMXpSRktLUkdLRGFWS3p6RW40R1dsU1NWTmlVWTZIUU55bFdBb2tJSkEwMTJRVTNoS0E?oc=5"
-     },
-     {
-      "press": "MTN 머니투데이방송",
-      "title": "이 대통령, 장위10구역 보고 엿새 만에 '알박기' 칼끝… \"부동산 불법 패가망신 인식해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpNW9nNGdsTk9aTnZXNlRBM3dSdlpCVGlvOXg3TVpJODkzX2hQQlZNYzdiMGpjdmZ4VGFqckd1dFZmWTQyUnBmTUYxNzIyOERzbFAzaVR6N2hnWkxfMFRV?oc=5"
-     },
-     {
-      "press": "뉴스웍스",
-      "title": "李대통령 \"재개발 알박기 엄청난 피해…무력저항 사례 보고하라\"",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xTEZIU2NwbUJyTzBUX1JhbDR0d3l6OTJFZTVnTExzZmMwZ3ZUSkhpUE9OQkZISGFScFc3R0dGSUdUS3lyeS1Cb0F1cm0tUUpBNm02bHlNYnZ3MTRQWHlTbGxkTU9hT0J6aWk4eEVEdTgzNknSAXNBVV95cUxPcUxGSFNjcG1Cck8wVF9SYWw0dHd5ejkyRWU1Z0xMc2ZjMGd2VEpIaVBPTkJGSEhhUnBXN0dHRklHVEt5cnktQm9BdXJtLVFKQTZtNmx5TWJ2dzE0UFh5U2xsZE1PYU9CemlpOHhFRHU4MzZJ?oc=5"
+      "press": "머니투데이",
+      "title": "장동혁 \"한동훈 조작 징계? 맞다…'언론 조작'을 징계한 것\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KdE1DVE5XOTZFSWdsV05ueVFKakp3ak50TXJrZDN4QU93UmNPbG9SZ0xFSmEyMkdWdTUyM3BiUElibGFVd0tvQ1RjQWRieDdRMjhYbkIzVHo4bHlqMUN6cm82bk10eXQyTUxCRXNlZnFmUdIBckFVX3lxTE9KdE1DVE5XOTZFSWdsV05ueVFKakp3ak50TXJrZDN4QU93UmNPbG9SZ0xFSmEyMkdWdTUyM3BiUElibGFVd0tvQ1RjQWRieDdRMjhYbkIzVHo4bHlqMUN6cm82bk10eXQyTUxCRXNlZnFmUQ?oc=5"
      }
     ]
    }
   },
   {
-   "title": "조갑제 “한국 보수 재건하려면 한동훈 필요…장동혁은 빼야”",
-   "source": "경기일보",
-   "url": "https://n.news.naver.com/article/666/0000131379",
-   "published_at": "2026-11-10T13:25:20+09:00",
+   "title": "전광훈, 이대통령에 “나쁜 X” 막말…사랑제일교회 알박기 지적에 ‘발끈’",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005762193",
+   "published_at": "2026-11-11T15:17:18+09:00",
    "section_id": "100",
    "view_rank": 1,
-   "comment_count": 1189,
-   "comment_agree": 160,
-   "comment_disagree": 21,
-   "division_balance": 0.232044,
-   "division_score": 1.20756,
+   "comment_count": 366,
+   "comment_agree": 221,
+   "comment_disagree": 42,
+   "division_balance": 0.319392,
+   "division_score": 1.780912,
    "selection": "찬반 쟁점",
-   "summary": "보수 논객 조갑제 조갑제닷컴 대표가 국민의힘 지도부와 부정선거 음모론 세력을 강하게 비판하며 “한국보수를 재건하는 데 있어서 한동훈은 뺄 수 없는 인물이고 장동혁은 빼야…",
-   "summary_long": "보수 논객 조갑제 조갑제닷컴 대표가 국민의힘 지도부와 부정선거 음모론 세력을 강하게 비판하며 “한국보수를 재건하는 데 있어서 한동훈은 뺄 수 없는 인물이고 장동혁은 빼야 하는 인물”이라고 주장했다. 조 대표는 10일 자신의 페이스북에 도널드 트럼프 미국 대통령이 로버트 뮬러 전 특별검사의 사망을 두고 악담한 사실을 다룬 유튜브 영상을 공유하며 “내가 아는 부정선거음모론자들은 대체로 뻔뻔하다”고 밝혔다. 그는 “지난 지선에서 참패한 원인이 부정선거라고 주장하는 순간 정치를 포기하는 것이고 전국 재선거하자고 주장하는 순간 인간임을 포기하는 것이며 이런 거짓선동가들을 따라가는 순간 정당임을 포기하는 것”이라고 지적했다.\n\n조 대표는 “멍청하고 무례한 극우는 영악한 극좌의 밥이 돼 보수를 망치고 나라도 망친다”며 “장동혁 세력과 손잡아야 총선에서 이길 수 있다고 하는 이들은 자신의 영혼을 팔고 있는 게 아닌지 주의해야 한다”고 주장했다. 그는 “음모론 세력은 극우보다 더 나쁜 컬트집단의 본성이 있어 인간의 영혼을 파괴한다”며 “한국보수를 재건하려면 트럼프를 교주로 하는 윤석열-황교안-장동혁 세력의 사대주의적 노예근성을 폭로하는 노선투쟁을 먼저 해야 한다”고 강조했다. 조 대표는 “트럼프의 공화당이 참패한 것은 60%이상의 지지자가 음모론 신도인데다가 행동이 무례해 상식적 미국인들을 화나게 만든 때문”이라고 주장했다.",
+   "summary": "전광훈 사랑제일교회 목사가 서울 성북구 장위10구역 재개발 과정에서 교회의 대응을 비판한 이재명 대통령을 향해 욕설과 비난을 쏟아냈다. 전 목사는 지난 10일 유튜브…",
+   "summary_long": "전광훈 사랑제일교회 목사가 서울 성북구 장위10구역 재개발 과정에서 교회의 대응을 비판한 이재명 대통령을 향해 욕설과 비난을 쏟아냈다. 전 목사는 지난 10일 유튜브 채널 ‘고성국TV’ 라이브 방송에 출연해 장위10구역 재개발 당시 사랑제일교회가 강제집행에 맞선 것은 문제가 없었다는 취지로 주장했다. 그러면서 이 대통령을 겨냥해 “사랑제일교회를 없애라고 말이야.\n\n앞서 이 대통령은 지난 4일 서울 성북구 장위동 재개발 현장을 방문해 사랑제일교회의 명도 집행 무산 사례를 보고받고, 법 집행에 불응하며 물리력으로 버티는 행태를 비판했다. 이 대통령은 이어 지난 10일 국무회의에서도 재개발 과정에서 물리력을 동원해 명도 집행을 장기간 막는 행위를 ‘알박기’ 사례로 거론했다. 결국 2023년 12월 서울시 도시재정비위원회는 사랑제일교회 부지를 재개발 대상에서 제외하는 내용의 장위10구역 재정비계획안을 가결했다.",
    "quotes": [
-    "지난 지선에서 참패한 원인이 부정선거라고 주장하는 순간 정치를 포기하는 것이고 전국 재선거하자고 주장하는 순간 인간임을 포기하는 것이며 이런 거짓선동가들을 따라가는 순간 정당임을 포기하는 것",
-    "한국보수를 재건하려면 트럼프를 교주로 하는 윤석열-황교안-장동혁 세력의 사대주의적 노예근성을 폭로하는 노선투쟁을 먼저 해야 한다",
-    "양향자 최고위원이 지방선거 참패에 책임지지 않는 국힘 지도부를 좀비집단에 비유한 것은 음모론이 영혼의 문제임을 드러낸 것"
+    "사랑제일교회를 없애라고 말이야. 나쁜 X 자식이야",
+    "그렇게 대통령이 할 일이 없어"
    ],
-   "press": "경기일보",
+   "press": "매일경제",
    "photo": "07.jpg",
    "quoted": {
-    "quote": "한국보수를 재건하려면 트럼프를 교주로 하는 윤석열-황교안-장동혁 세력의 사대주의적 노예근성을 폭로하는 노선투쟁을 먼저 해야 한다",
-    "n": 4,
+    "quote": "사랑제일교회를 없애라고 말이야. 나쁜 X 자식이야",
+    "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "주간경향",
-      "title": "조갑제 “한국보수 재건···한동훈은 뺄 수 없고, 장동혁은 빼야”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14WGF1TVlJVHA2WEhJZDVsZkhSS2VzWGpjV21JR2xZdkg2bmF0aWtpcGx4dWpxUFlkaGRqanVMbXBKZFNIbVF1ZzZESDFNdDVUOVB0WFN3RU5XZVVRNEE?oc=5"
+      "press": "매일신문",
+      "title": "전광훈, 李 사랑제일교회 `알박기` 지적에 `나쁜 X 자식…할 일 없나`",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EMVRnUW9iSEc1MVZjMFE5UkVoZWJsUFIwc0sxYlBhMkZrUTdUQ2Zzbk53Vk1veHZONUFGVXA2UmRPdi1hb0VSZnRtTE9rdG9WMDNKc29hNTFFYi1iX2VCMUJ3?oc=5"
      },
      {
-      "press": "경기일보",
-      "title": "조갑제 “한국 보수 재건하려면 한동훈 필요…장동혁은 빼야”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTbFVCa2NPdlVKUWhnNTI3M2x5RFFNa0J0ZmhxSS02bUxyaDA5SlM2U04zOHFSWmJHNDhMcTFoLXV2LXU1LWx2MHRxdGk1dnBRbi1sOTcwSV9vRXc?oc=5"
+      "press": "매일경제",
+      "title": "전광훈, 이대통령에 “나쁜 X” 막말…사랑제일교회 알박기 지적에 ‘발끈’",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PY3ZDWWg4dnUwbUU1X2hiOFYtYUVmcTVfRWNOamZ4eTlDQlZ0NE9PNVVtcS1hcUx2d04tbTlmMldPS1ExOXJOb1N2c2I2Mk9EY2hySXB4T0oyRi1BU1RVMERwV2RuSlBV?oc=5"
      },
      {
-      "press": "대전일보",
-      "title": "조갑제 \"보수 재건에 한동훈은 뺄 수 없어… 장동혁은 빼야 할 인물\" |",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUm9WVmlqZmctVWNWZ3ljMklaNTBzaG1JVjJyQV80MVlmeFlETk1zUmRLaEY4VzkyZEVnTFRaeFJVT2ZPSXZjdTVWanBKYkFhRzhIR1U2bl9Za3JBcFJyZTR1RE0wY3kxRjNLQ042OWRMdGs?oc=5"
-     },
-     {
-      "press": "www.dt.co.kr",
-      "title": "조갑제 “보수 재건에 한동훈은 필수…장동혁은 빼야 하는 인물”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42TktGUXcxMTdDLWU2LXo0VGJEeVhYZ2x3ZG5rRzJkdENlTEhsd19vbFhaVTZMeHZoNHNLeXgzUk9NYTI0OE5hRVJvc0NMdw?oc=5"
+      "press": "국민일보",
+      "title": "전광훈, ‘재개발 알박기’ 지적한 李 겨냥 막말 “나쁜 X 자식”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4weUdVNV9iZnhMUG12R2pmSEgwSHo0WDJvX2xqc0FpMHlaMG9zVEdHS2hnaVliNFdhR2U3MTRuMTIzUjhXTzZfNDdfNVN1a2NwVWxGd2tvc3A?oc=5"
      }
     ]
    }
@@ -248,139 +300,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/01.png",
-   "pngBytes": 1431404,
-   "feed": "오늘의 뉴스 2026-11-11\n\n· 중대장이 실수로 공포탄 쏘자…대대장 “너 나와” 2발 ‘탕 탕’\n· 밤길 국도 달리던 자주포에 민간인 차량 추돌…운전자 1명 사망\n· 생후 이틀 된 딸은 왜 바다에 버려졌나…친모의 끔찍한 선택\n· 황우석 \"법무부에 한국 국적 회복 신청...심사 결과 기다려\"\n· 신천지 TF 조사 열람한 이성윤 \"허탈‥사후 알리바이용 의심\"\n· 이 대통령 “힘세면 버티면 되나”…재개발 ‘알박기’ 등 불법행위 조사 지시\n· 조갑제 “한국 보수 재건하려면 한동훈 필요…장동혁은 빼야”"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/01.png",
+   "pngBytes": 1534576,
+   "feed": "오늘의 뉴스 2026-11-12\n\n· 오세훈 “張체제로 총선 어려워”... 장동혁 “저랑 자리 바꾸자” 반발\n· [단독] 기자들 향해 “하이에나 떼들”…최민희, 당원 단톡방에서 비하 글 논란\n· 빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제\n· '아들 성범죄 피해자' 10대 여성 살해한 50대 긴급체포\n· 오세훈 “한동훈 복당, 총선 위해 반드시 필요...비대위 전환도 선택지”\n· 장동혁, 한동훈 '조작 징계' 주장에 \"맞다…韓 '언론 조작' 징계한 것\"\n· 전광훈, 이대통령에 “나쁜 X” 막말…사랑제일교회 알박기 지적에 ‘발끈’"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/02.png",
-   "pngBytes": 576634,
-   "title": "중대장이 실수로 공포탄 쏘자…대대장 “너 나와” 2발 ‘탕 탕’",
-   "summary": "",
-   "summary_long": "",
-   "press": "동아일보",
-   "source": "동아일보",
-   "link": "https://n.news.naver.com/article/020/0003761298",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/02.png",
+   "pngBytes": 1559233,
+   "title": "오세훈 “張체제로 총선 어려워”... 장동혁 “저랑 자리 바꾸자” 반발",
+   "summary": "장동혁 국민의힘 대표와 오세훈 서울시장이 지난 6일 서울 여의도 국회에서 열린 서울 예산정책협의회에서 기념촬영 후 각자의 자리로 향하고 있다./뉴스1. 국민의힘 장동혁…",
+   "summary_long": "장동혁 국민의힘 대표와 오세훈 서울시장이 지난 6일 서울 여의도 국회에서 열린 서울 예산정책협의회에서 기념촬영 후 각자의 자리로 향하고 있다./뉴스1. 국민의힘 장동혁 대표가 11일 오세훈 서울시장이 비상대책위원회 전환을 언급한 것과 관련해 “당내 문제에 관심이 많으시면 당 대표로 오시라”고 했다. 오 시장이 ‘장동혁 노선’으로는 선거에서 어렵다고 지적한 데 대한 불편한 심경을 노출한 것이다.\n\n장 대표는 이날 TV조선 글로벌리더스포럼 행사장에서 기자들과 만나 “오 시장이 당내 문제에 대해서 많은 관심을 가지고 계신 것 같다”며 “그러면 제가 서울시장을 하고 오 시장께서 당 대표로 오시면서 자리 바꾸면 될 것 같다”고 했다. 장 대표는 지난 3일 국민의힘 서울시당과 서울시가 공동 주최한 국회 토론회에 예정에 없이 참석해 오 시장과 나란히 앉았다. 그러나 이날 오 시장은 “장 대표 노선과 가까워지는 ‘워딩(말)’조차 한 일이 없다”고 선을 그었다.",
+   "press": "조선일보",
+   "source": "조선일보",
+   "link": "https://n.news.naver.com/article/023/0004008975",
    "selection": "정치",
-   "feed": "뉴스 01. 중대장이 실수로 공포탄 쏘자…대대장 “너 나와” 2발 ‘탕 탕’\n\n\n\n출처: 동아일보 / https://n.news.naver.com/article/020/0003761298"
+   "feed": "뉴스 01. 오세훈 “張체제로 총선 어려워”... 장동혁 “저랑 자리 바꾸자” 반발\n\n장동혁 국민의힘 대표와 오세훈 서울시장이 지난 6일 서울 여의도 국회에서 열린 서울 예산정책협의회에서 기념촬영 후 각자의 자리로 향하고 있다./뉴스1. 국민의힘 장동혁 대표가 11일 오세훈 서울시장이 비상대책위원회 전환을 언급한 것과 관련해 “당내 문제에 관심이 많으시면 당 대표로 오시라”고 했다. 오 시장이 ‘장동혁 노선’으로는 선거에서 어렵다고 지적한 데 대한 불편한 심경을 노출한 것이다.\n\n장 대표는 이날 TV조선 글로벌리더스포럼 행사장에서 기자들과 만나 “오 시장이 당내 문제에 대해서 많은 관심을 가지고 계신 것 같다”며 “그러면 제가 서울시장을 하고 오 시장께서 당 대표로 오시면서 자리 바꾸면 될 것 같다”고 했다. 장 대표는 지난 3일 국민의힘 서울시당과 서울시가 공동 주최한 국회 토론회에 예정에 없이 참석해 오 시장과 나란히 앉았다. 그러나 이날 오 시장은 “장 대표 노선과 가까워지는 ‘워딩(말)’조차 한 일이 없다”고 선을 그었다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004008975"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/03.png",
-   "pngBytes": 574877,
-   "title": "밤길 국도 달리던 자주포에 민간인 차량 추돌…운전자 1명 사망",
-   "summary": "",
-   "summary_long": "",
-   "press": "KBS",
-   "source": "KBS",
-   "link": "https://n.news.naver.com/article/056/0012290870",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/03.png",
+   "pngBytes": 1312475,
+   "title": "[단독] 기자들 향해 “하이에나 떼들”…최민희, 당원 단톡방에서 비하 글 논란",
+   "summary": "최민희 더불어민주당 의원이 지난 11월 5일 남양주 지역 당원 단체대화방에 국회 취재진의 사진을 올리며 “하이에나 떼들”이라고 적었다. 더불어민주당 최민희 의원이…",
+   "summary_long": "최민희 더불어민주당 의원이 지난 11월 5일 남양주 지역 당원 단체대화방에 국회 취재진의 사진을 올리며 “하이에나 떼들”이라고 적었다. 다른 참여자가 놀랐다는 반응을 보이자 최 의원은 “국회출입 언론사 기자들”을 지칭한 것이라고 설명했다. 더불어민주당 최민희 의원이 국회에서 취재 중인 언론사 기자들의 사진을 지역 당원 단체대화방에 올리며 ‘하이에나 떼들’이라고 비하한 사실이 확인됐다.\n\n<주간경향>이 입수한 남양주 지역 당원 단체대화방 캡처에 따르면 최 의원은 지난 11월 5일 오후 2시 23분쯤 국회 행사장에서 취재 중인 기자들의 사진을 올렸다. 최 의원은 “11월 5일 친구들과 지지자들이 있는 소통방에 사진을 올리고 그 사진에 대한 당시 느낌을 쓴 적이 있다”라고 밝혔다. 최 의원은 오전 9시 56분 페이스북에 공식 사과문을 올려 “표현이 과하고 적절하지 못했음을 인정하고 사과드립니다”라고 밝혔다.",
+   "press": "주간경향",
+   "source": "주간경향",
+   "link": "https://n.news.naver.com/article/033/0000053303",
    "selection": "정치",
-   "feed": "뉴스 02. 밤길 국도 달리던 자주포에 민간인 차량 추돌…운전자 1명 사망\n\n\n\n출처: KBS / https://n.news.naver.com/article/056/0012290870"
+   "feed": "뉴스 02. [단독] 기자들 향해 “하이에나 떼들”…최민희, 당원 단톡방에서 비하 글 논란\n\n최민희 더불어민주당 의원이 지난 11월 5일 남양주 지역 당원 단체대화방에 국회 취재진의 사진을 올리며 “하이에나 떼들”이라고 적었다. 다른 참여자가 놀랐다는 반응을 보이자 최 의원은 “국회출입 언론사 기자들”을 지칭한 것이라고 설명했다. 더불어민주당 최민희 의원이 국회에서 취재 중인 언론사 기자들의 사진을 지역 당원 단체대화방에 올리며 ‘하이에나 떼들’이라고 비하한 사실이 확인됐다.\n\n<주간경향>이 입수한 남양주 지역 당원 단체대화방 캡처에 따르면 최 의원은 지난 11월 5일 오후 2시 23분쯤 국회 행사장에서 취재 중인 기자들의 사진을 올렸다. 최 의원은 “11월 5일 친구들과 지지자들이 있는 소통방에 사진을 올리고 그 사진에 대한 당시 느낌을 쓴 적이 있다”라고 밝혔다. 최 의원은 오전 9시 56분 페이스북에 공식 사과문을 올려 “표현이 과하고 적절하지 못했음을 인정하고 사과드립니다”라고 밝혔다.\n\n출처: 주간경향 / https://n.news.naver.com/article/033/0000053303"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/04.png",
-   "pngBytes": 571423,
-   "title": "생후 이틀 된 딸은 왜 바다에 버려졌나…친모의 끔찍한 선택",
-   "summary": "",
-   "summary_long": "",
-   "press": "국민일보",
-   "source": "국민일보",
-   "link": "https://n.news.naver.com/article/005/0001884207",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/04.png",
+   "pngBytes": 2536602,
+   "title": "빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제",
+   "summary": "11월 11일 ‘빼빼로 데이’를 맞아 한 초등학생이 소개한 신조어 ‘빼난지원금’이 온라인상에서 화제가 되고 있다. A군은 빼난지원금에 대해 “빼빼로 데이 때 빼빼로를 못…",
+   "summary_long": "11월 11일 ‘빼빼로 데이’를 맞아 한 초등학생이 소개한 신조어 ‘빼난지원금’이 온라인상에서 화제가 되고 있다. 10일 서울 시내 한 대형마트에 빼빼로 데이(11월 11일)를 앞두고 각 종 과자들이 진열돼 있다. 지난 6일 방송인 유병재의 유튜브 채널에 올라온 ‘웃으면 안 되는 아일릿 팬미팅’이란 제목의 영상에는 걸그룹 아일릿과 초등학생 팬이 대화하는 장면이 담겼다.\n\n이날 유병재는 영상에 출연한 초등학생 A군에게 요즘 유행하는 신조어를 알려달라고 요청했고, A군은 ‘빼난지원금’이라는 단어를 언급했다. A군은 빼난지원금에 대해 “빼빼로 데이 때 빼빼로를 못 받은 사람에게 주는 빼빼로”라고 설명했다. 매년 11월 11일은 빼빼로를 주고받는 ‘빼빼로 데이’이자 법정기념일인 농업인의 날이다.",
+   "press": "조선비즈",
+   "source": "조선비즈",
+   "link": "https://n.news.naver.com/article/366/0001203955",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 생후 이틀 된 딸은 왜 바다에 버려졌나…친모의 끔찍한 선택\n\n\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001884207"
+   "feed": "뉴스 03. 빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제\n\n11월 11일 ‘빼빼로 데이’를 맞아 한 초등학생이 소개한 신조어 ‘빼난지원금’이 온라인상에서 화제가 되고 있다. 10일 서울 시내 한 대형마트에 빼빼로 데이(11월 11일)를 앞두고 각 종 과자들이 진열돼 있다. 지난 6일 방송인 유병재의 유튜브 채널에 올라온 ‘웃으면 안 되는 아일릿 팬미팅’이란 제목의 영상에는 걸그룹 아일릿과 초등학생 팬이 대화하는 장면이 담겼다.\n\n이날 유병재는 영상에 출연한 초등학생 A군에게 요즘 유행하는 신조어를 알려달라고 요청했고, A군은 ‘빼난지원금’이라는 단어를 언급했다. A군은 빼난지원금에 대해 “빼빼로 데이 때 빼빼로를 못 받은 사람에게 주는 빼빼로”라고 설명했다. 매년 11월 11일은 빼빼로를 주고받는 ‘빼빼로 데이’이자 법정기념일인 농업인의 날이다.\n\n출처: 조선비즈 / https://n.news.naver.com/article/366/0001203955"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/05.png",
-   "pngBytes": 1471470,
-   "title": "황우석 \"법무부에 한국 국적 회복 신청...심사 결과 기다려\"",
-   "summary": "아랍에미리트 국적을 취득하면서 대한민국 국적을 상실한 사실이 뒤늦게 알려진 황우석 전 서울대 교수가 한국 대사관에 국적 회복 신청을 했다고 밝혔다. 10일 아시아경제…",
-   "summary_long": "UAE 전통 복장 입은 황우석 전 교수=UAE 바이오테크 페이스북. 아랍에미리트(UAE) 국적을 취득하면서 대한민국 국적을 상실한 사실이 뒤늦게 알려진 황우석 전 서울대 교수가 한국 대사관에 국적 회복 신청을 했다고 밝혔다. 10일 아시아경제 보도에 따르면, 황 전 교수는 UAE 국적을 부여받은 당일 UAE 한국 대사관에 이를 알려 국적 상실 신고를 했고, 이후 대사관 측의 안내에 따라 한국 국적 회복 신청을 했다.\n\n대한민국 국적법 제15조는 국민이 자진해서 외국 국적을 취득하면 그 즉시 한국 국적을 잃도록 규정하고 있다. 그러나 국적법 9조에 따르면 재외동포의 경우 만 65세 이상 등 요건에 맞을시 외국국적불행사 서약 후 복수 국적을 유지할 수 있고, 이에 황 전 교수도 대사관의 안내에 따라 국적 회복 신청을 한 것으로 보인다. UAE 국적을 취득한 경위와 관련해 황 전 교수는 \"UAE는 국적 취득 신청이나 대면 심사 등 어느 절차도 없는 것 같다\"며 \"차 한잔 하자는 연락을 받고 찾아뵈었는데, 제게 국적을 부여하는 깜짝 의식이었다\"고 설명했다.",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002430630",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/05.png",
+   "pngBytes": 572746,
+   "title": "'아들 성범죄 피해자' 10대 여성 살해한 50대 긴급체포",
+   "summary": "",
+   "summary_long": "",
+   "press": "CJB청주방송",
+   "source": "CJB청주방송",
+   "link": "https://n.news.naver.com/article/655/0000033530",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 황우석 \"법무부에 한국 국적 회복 신청...심사 결과 기다려\"\n\nUAE 전통 복장 입은 황우석 전 교수=UAE 바이오테크 페이스북. 아랍에미리트(UAE) 국적을 취득하면서 대한민국 국적을 상실한 사실이 뒤늦게 알려진 황우석 전 서울대 교수가 한국 대사관에 국적 회복 신청을 했다고 밝혔다. 10일 아시아경제 보도에 따르면, 황 전 교수는 UAE 국적을 부여받은 당일 UAE 한국 대사관에 이를 알려 국적 상실 신고를 했고, 이후 대사관 측의 안내에 따라 한국 국적 회복 신청을 했다.\n\n대한민국 국적법 제15조는 국민이 자진해서 외국 국적을 취득하면 그 즉시 한국 국적을 잃도록 규정하고 있다. 그러나 국적법 9조에 따르면 재외동포의 경우 만 65세 이상 등 요건에 맞을시 외국국적불행사 서약 후 복수 국적을 유지할 수 있고, 이에 황 전 교수도 대사관의 안내에 따라 국적 회복 신청을 한 것으로 보인다. UAE 국적을 취득한 경위와 관련해 황 전 교수는 \"UAE는 국적 취득 신청이나 대면 심사 등 어느 절차도 없는 것 같다\"며 \"차 한잔 하자는 연락을 받고 찾아뵈었는데, 제게 국적을 부여하는 깜짝 의식이었다\"고 설명했다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002430630"
+   "feed": "뉴스 04. '아들 성범죄 피해자' 10대 여성 살해한 50대 긴급체포\n\n\n\n출처: CJB청주방송 / https://n.news.naver.com/article/655/0000033530"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/06.png",
-   "pngBytes": 1484315,
-   "title": "신천지 TF 조사 열람한 이성윤 \"허탈‥사후 알리바이용 의심\"",
-   "summary": "더불어민주당 이성윤 최고위원이 당의 신천지 의혹 조사 결과를 직접 열람한 뒤 \"정말 허탈하기까지 하다\"며 내용 부실을 지적했습니다. 이 최고위원은 오늘 오전 국회 민주당…",
-   "summary_long": "더불어민주당 이성윤 최고위원이 당의 신천지 의혹 조사 결과를 직접 열람한 뒤 \"정말 허탈하기까지 하다\"며 내용 부실을 지적했습니다. 이 최고위원은 오늘 오전 국회 민주당 사무총장실에서 신천지 TF 조사 결과를 30분 동안 열람한 뒤 \"의혹을 제기할 때는 자료가 없었는데, 그 후에 자료를 만들어 알리바이를 구성하려고 하는 것 아닌가는 생각이 들 정도의 내용\"이라고 밝혔습니다. 이 최고위원은 \"검사로서 30년간 조사·수사만 했던 사람으로 봤을 때 이 결과를 과연 믿을 수 있는가 싶었다\"며 \"신천지 명부를 어디서 갖고 왔는지, 이에 비춰 봤을 때 몇 명이 권리당원 있었고, 몇 명이 일반 당원 있었을 것이라는 추론도 맞지 않다고 생각한다\"고 지적했습니다.\n\n이어 \"더군다나 반명·분열주의·신천지 3자 비밀연합이 있었는지 또는 신천지 조직적 개입이 있었는지에 대한 증거 자료는 전혀 없었다\"고 강조했습니다. 그러면서 \"석 달간 우리 당을 떠들게 했던 신천지 의혹 문제가 정말 허탈하기까지 하다\"며 \"일부 소수 또는 지역위원장들에게만 공개해 의혹을 더 키우는 모습도 좋지 않은 만큼 이 정도 자료면 공개하는 것이 맞다\"고 덧붙였습니다. 이 최고위원은 애초 의혹을 제기했던 김민석 대표를 향해 \"자신이 무엇을 잘못했는지 구체적으로 말하고 피해자들에게 직접 사과한 뒤 재발 방지 약속까지 해야 진정한 사과\"라며 거듭 사과에 나설 것을 요구했습니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001534585",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/06.png",
+   "pngBytes": 1507719,
+   "title": "오세훈 “한동훈 복당, 총선 위해 반드시 필요...비대위 전환도 선택지”",
+   "summary": "오세훈 서울시장은 11일 한동훈 무소속 의원의 복당 문제에 대해 “총선 승리를 위해 반드시 필요하다”면서도 당내 구성원 간 공감대가 먼저 형성돼야 한다고 밝혔다. 오…",
+   "summary_long": "오세훈 서울시장은 11일 한동훈 무소속 의원의 복당 문제에 대해 “총선 승리를 위해 반드시 필요하다”면서도 당내 구성원 간 공감대가 먼저 형성돼야 한다고 밝혔다. 오 시장은 이날 페이스북 글에서 “저는 한 의원의 복당이 총선 승리를 위해 반드시 필요하다고 생각한다”고 밝혔다. 오 시장은 지난 6일 한 의원 복당에 대해 “유리 그릇 다루듯 해야 할 문제”라며 신중한 입장을 냈는데, 이날은 한층 진전된 입장을 낸 것으로 풀이된다.\n\n오 시장은 그러면서도 “복당 문제가 또 다른 당내 갈등의 불씨가 되어서는 안 된다”면서 “당내 구성원들이 흔쾌히 받아들일 수 있는 공감대가 먼저 형성돼야 한다”고 했다. 한편 오 시장은 장동혁 대표 체제에 대해선 “현재 국민의힘의 모습으로 수도권 민심을 확실하게 사로잡을 수 있을지 많은 분이 깊은 우려를 갖고 있는 것이 사실”이라고 했다. 오 시장은 앞서 이날 공개된 중앙일보 인터뷰에서도 “장동혁 체제로 총선을 치르면 아마 수도권 선거는 굉장히 어려울 것”이라면서 비대위 전환 필요성을 언급했다.",
+   "press": "조선일보",
+   "source": "조선일보",
+   "link": "https://n.news.naver.com/article/023/0004009038",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 신천지 TF 조사 열람한 이성윤 \"허탈‥사후 알리바이용 의심\"\n\n더불어민주당 이성윤 최고위원이 당의 신천지 의혹 조사 결과를 직접 열람한 뒤 \"정말 허탈하기까지 하다\"며 내용 부실을 지적했습니다. 이 최고위원은 오늘 오전 국회 민주당 사무총장실에서 신천지 TF 조사 결과를 30분 동안 열람한 뒤 \"의혹을 제기할 때는 자료가 없었는데, 그 후에 자료를 만들어 알리바이를 구성하려고 하는 것 아닌가는 생각이 들 정도의 내용\"이라고 밝혔습니다. 이 최고위원은 \"검사로서 30년간 조사·수사만 했던 사람으로 봤을 때 이 결과를 과연 믿을 수 있는가 싶었다\"며 \"신천지 명부를 어디서 갖고 왔는지, 이에 비춰 봤을 때 몇 명이 권리당원 있었고, 몇 명이 일반 당원 있었을 것이라는 추론도 맞지 않다고 생각한다\"고 지적했습니다.\n\n이어 \"더군다나 반명·분열주의·신천지 3자 비밀연합이 있었는지 또는 신천지 조직적 개입이 있었는지에 대한 증거 자료는 전혀 없었다\"고 강조했습니다. 그러면서 \"석 달간 우리 당을 떠들게 했던 신천지 의혹 문제가 정말 허탈하기까지 하다\"며 \"일부 소수 또는 지역위원장들에게만 공개해 의혹을 더 키우는 모습도 좋지 않은 만큼 이 정도 자료면 공개하는 것이 맞다\"고 덧붙였습니다. 이 최고위원은 애초 의혹을 제기했던 김민석 대표를 향해 \"자신이 무엇을 잘못했는지 구체적으로 말하고 피해자들에게 직접 사과한 뒤 재발 방지 약속까지 해야 진정한 사과\"라며 거듭 사과에 나설 것을 요구했습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001534585"
+   "feed": "뉴스 05. 오세훈 “한동훈 복당, 총선 위해 반드시 필요...비대위 전환도 선택지”\n\n오세훈 서울시장은 11일 한동훈 무소속 의원의 복당 문제에 대해 “총선 승리를 위해 반드시 필요하다”면서도 당내 구성원 간 공감대가 먼저 형성돼야 한다고 밝혔다. 오 시장은 이날 페이스북 글에서 “저는 한 의원의 복당이 총선 승리를 위해 반드시 필요하다고 생각한다”고 밝혔다. 오 시장은 지난 6일 한 의원 복당에 대해 “유리 그릇 다루듯 해야 할 문제”라며 신중한 입장을 냈는데, 이날은 한층 진전된 입장을 낸 것으로 풀이된다.\n\n오 시장은 그러면서도 “복당 문제가 또 다른 당내 갈등의 불씨가 되어서는 안 된다”면서 “당내 구성원들이 흔쾌히 받아들일 수 있는 공감대가 먼저 형성돼야 한다”고 했다. 한편 오 시장은 장동혁 대표 체제에 대해선 “현재 국민의힘의 모습으로 수도권 민심을 확실하게 사로잡을 수 있을지 많은 분이 깊은 우려를 갖고 있는 것이 사실”이라고 했다. 오 시장은 앞서 이날 공개된 중앙일보 인터뷰에서도 “장동혁 체제로 총선을 치르면 아마 수도권 선거는 굉장히 어려울 것”이라면서 비대위 전환 필요성을 언급했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004009038"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/07.png",
-   "pngBytes": 1665786,
-   "title": "이 대통령 “힘세면 버티면 되나”…재개발 ‘알박기’ 등 불법행위 조사 지시",
-   "summary": "이재명 대통령이 10일 법을 어기고 물리력으로 공권력 집행을 방해하면서 이익을 얻는 행위에 대한 실태 파악을 지시했다. 이 대통령은 이날 청와대에서 주재한 국무회의에서…",
-   "summary_long": "이재명 대통령이 10일 청와대에서 열린 국무회의에서 발언하고 있다. 이재명 대통령이 10일 법을 어기고 물리력으로 공권력 집행을 방해하면서 이익을 얻는 행위에 대한 실태 파악을 지시했다. 재개발 명도집행을 물리적으로 방해하거나 이른바 ‘알박기’를 하는 사례 등을 거론하며 전국의 불법행위 방치 실태를 조사해 1~2주 안에 보고하라고 했다.\n\n이 대통령은 이날 청와대에서 주재한 국무회의에서 “우리가 합의한 법을 지켜야 하는 것처럼 법률에 의한 처분이나 집행을 무력으로 저항하는 경우가 있다”며 “예를 들면 재개발하는데 명도 집행을 하는데, 물리력을 동원해 수년간 버티기를 해서 엄청난 피해를 주고 소위 알박기를 한다”고 말했다. 이 대통령은 그러면서 전국적으로 합법적인 법 집행을 물리력으로 방해하거나 불법행위를 지속하는 사례를 전수 조사하라고 지시했다. 이 대통령은 “전국에 이런 불법을 지속적으로 강행하는 사례라든지, 예를 들면 합법적인 법질서를 부정하는 행위의 실태를, 상황을 전부 체크를 해가지고 보고를 한번 하도록 하라”고 말했다.",
-   "press": "한겨레",
-   "source": "한겨레",
-   "link": "https://n.news.naver.com/article/028/0002831471",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/07.png",
+   "pngBytes": 1246572,
+   "title": "장동혁, 한동훈 '조작 징계' 주장에 \"맞다…韓 '언론 조작' 징계한 것\"",
+   "summary": "장동혁 국민의힘 대표가 자신의 제명 결정이 조작됐다며 사과를 요구한 한동훈 무소속 의원을 향해 \"절차적 문제가 있다고 주장할 것이라면 법적 대응을 하라\"고 반박했다.…",
+   "summary_long": "한동훈 무소속 의원(당시 국민의힘 대표)가 지난 2024년 12월 11일 오후 서울 여의도 국회 당대표실에서 장동혁 국민의힘 대표(의원)가 나가는 사이 미소를 짓는 모습. 장동혁 국민의힘 대표가 자신의 제명 결정이 조작됐다며 사과를 요구한 한동훈 무소속 의원을 향해 \"절차적 문제가 있다고 주장할 것이라면 법적 대응을 하라\"고 반박했다. 장 대표는 \"조작 징계가 맞다.\n\n(한 의원의) 언론 조작에 대한 징계를 한 것\"이라며 \"그 증거들은 수사기관에 그대로 다 보관돼 있고, 당과 서버에도 있다\"고 주장했다. 그러면서 \"(한 의원의) 언론 조작 사실은 변경할 수 없다\"며 \"징계 결정에 문제가 있는 것처럼 주장하는 것 자체가 조작\"이라고 강조했다. 장 대표는 지난 7월 8일 윤 위원장과의 '식사 회동'이 조작 징계의 증거라는 주장과 관련 \"한 번도 윤리위원장을 면담하지 않다가 계속해서 수행 의사가 있는지 묻기 위해 만난 것이 어떤 문제가 있다고 생각하지도 않는다\"고 답했다.",
+   "press": "매일신문",
+   "source": "매일신문",
+   "link": "https://n.news.naver.com/article/088/0001039803",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 이 대통령 “힘세면 버티면 되나”…재개발 ‘알박기’ 등 불법행위 조사 지시\n\n이재명 대통령이 10일 청와대에서 열린 국무회의에서 발언하고 있다. 이재명 대통령이 10일 법을 어기고 물리력으로 공권력 집행을 방해하면서 이익을 얻는 행위에 대한 실태 파악을 지시했다. 재개발 명도집행을 물리적으로 방해하거나 이른바 ‘알박기’를 하는 사례 등을 거론하며 전국의 불법행위 방치 실태를 조사해 1~2주 안에 보고하라고 했다.\n\n이 대통령은 이날 청와대에서 주재한 국무회의에서 “우리가 합의한 법을 지켜야 하는 것처럼 법률에 의한 처분이나 집행을 무력으로 저항하는 경우가 있다”며 “예를 들면 재개발하는데 명도 집행을 하는데, 물리력을 동원해 수년간 버티기를 해서 엄청난 피해를 주고 소위 알박기를 한다”고 말했다. 이 대통령은 그러면서 전국적으로 합법적인 법 집행을 물리력으로 방해하거나 불법행위를 지속하는 사례를 전수 조사하라고 지시했다. 이 대통령은 “전국에 이런 불법을 지속적으로 강행하는 사례라든지, 예를 들면 합법적인 법질서를 부정하는 행위의 실태를, 상황을 전부 체크를 해가지고 보고를 한번 하도록 하라”고 말했다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002831471"
+   "feed": "뉴스 06. 장동혁, 한동훈 '조작 징계' 주장에 \"맞다…韓 '언론 조작' 징계한 것\"\n\n한동훈 무소속 의원(당시 국민의힘 대표)가 지난 2024년 12월 11일 오후 서울 여의도 국회 당대표실에서 장동혁 국민의힘 대표(의원)가 나가는 사이 미소를 짓는 모습. 장동혁 국민의힘 대표가 자신의 제명 결정이 조작됐다며 사과를 요구한 한동훈 무소속 의원을 향해 \"절차적 문제가 있다고 주장할 것이라면 법적 대응을 하라\"고 반박했다. 장 대표는 \"조작 징계가 맞다.\n\n(한 의원의) 언론 조작에 대한 징계를 한 것\"이라며 \"그 증거들은 수사기관에 그대로 다 보관돼 있고, 당과 서버에도 있다\"고 주장했다. 그러면서 \"(한 의원의) 언론 조작 사실은 변경할 수 없다\"며 \"징계 결정에 문제가 있는 것처럼 주장하는 것 자체가 조작\"이라고 강조했다. 장 대표는 지난 7월 8일 윤 위원장과의 '식사 회동'이 조작 징계의 증거라는 주장과 관련 \"한 번도 윤리위원장을 면담하지 않다가 계속해서 수행 의사가 있는지 묻기 위해 만난 것이 어떤 문제가 있다고 생각하지도 않는다\"고 답했다.\n\n출처: 매일신문 / https://n.news.naver.com/article/088/0001039803"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/08.png",
-   "pngBytes": 1798501,
-   "title": "조갑제 “한국 보수 재건하려면 한동훈 필요…장동혁은 빼야”",
-   "summary": "보수 논객 조갑제 조갑제닷컴 대표가 국민의힘 지도부와 부정선거 음모론 세력을 강하게 비판하며 “한국보수를 재건하는 데 있어서 한동훈은 뺄 수 없는 인물이고 장동혁은 빼야…",
-   "summary_long": "보수 논객 조갑제 조갑제닷컴 대표가 국민의힘 지도부와 부정선거 음모론 세력을 강하게 비판하며 “한국보수를 재건하는 데 있어서 한동훈은 뺄 수 없는 인물이고 장동혁은 빼야 하는 인물”이라고 주장했다. 조 대표는 10일 자신의 페이스북에 도널드 트럼프 미국 대통령이 로버트 뮬러 전 특별검사의 사망을 두고 악담한 사실을 다룬 유튜브 영상을 공유하며 “내가 아는 부정선거음모론자들은 대체로 뻔뻔하다”고 밝혔다. 그는 “지난 지선에서 참패한 원인이 부정선거라고 주장하는 순간 정치를 포기하는 것이고 전국 재선거하자고 주장하는 순간 인간임을 포기하는 것이며 이런 거짓선동가들을 따라가는 순간 정당임을 포기하는 것”이라고 지적했다.\n\n조 대표는 “멍청하고 무례한 극우는 영악한 극좌의 밥이 돼 보수를 망치고 나라도 망친다”며 “장동혁 세력과 손잡아야 총선에서 이길 수 있다고 하는 이들은 자신의 영혼을 팔고 있는 게 아닌지 주의해야 한다”고 주장했다. 그는 “음모론 세력은 극우보다 더 나쁜 컬트집단의 본성이 있어 인간의 영혼을 파괴한다”며 “한국보수를 재건하려면 트럼프를 교주로 하는 윤석열-황교안-장동혁 세력의 사대주의적 노예근성을 폭로하는 노선투쟁을 먼저 해야 한다”고 강조했다. 조 대표는 “트럼프의 공화당이 참패한 것은 60%이상의 지지자가 음모론 신도인데다가 행동이 무례해 상식적 미국인들을 화나게 만든 때문”이라고 주장했다.",
-   "press": "경기일보",
-   "source": "경기일보",
-   "link": "https://n.news.naver.com/article/666/0000131379",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/08.png",
+   "pngBytes": 1693141,
+   "title": "전광훈, 이대통령에 “나쁜 X” 막말…사랑제일교회 알박기 지적에 ‘발끈’",
+   "summary": "전광훈 사랑제일교회 목사가 서울 성북구 장위10구역 재개발 과정에서 교회의 대응을 비판한 이재명 대통령을 향해 욕설과 비난을 쏟아냈다. 전 목사는 지난 10일 유튜브…",
+   "summary_long": "전광훈 사랑제일교회 목사가 서울 성북구 장위10구역 재개발 과정에서 교회의 대응을 비판한 이재명 대통령을 향해 욕설과 비난을 쏟아냈다. 전 목사는 지난 10일 유튜브 채널 ‘고성국TV’ 라이브 방송에 출연해 장위10구역 재개발 당시 사랑제일교회가 강제집행에 맞선 것은 문제가 없었다는 취지로 주장했다. 그러면서 이 대통령을 겨냥해 “사랑제일교회를 없애라고 말이야.\n\n앞서 이 대통령은 지난 4일 서울 성북구 장위동 재개발 현장을 방문해 사랑제일교회의 명도 집행 무산 사례를 보고받고, 법 집행에 불응하며 물리력으로 버티는 행태를 비판했다. 이 대통령은 이어 지난 10일 국무회의에서도 재개발 과정에서 물리력을 동원해 명도 집행을 장기간 막는 행위를 ‘알박기’ 사례로 거론했다. 결국 2023년 12월 서울시 도시재정비위원회는 사랑제일교회 부지를 재개발 대상에서 제외하는 내용의 장위10구역 재정비계획안을 가결했다.",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005762193",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 조갑제 “한국 보수 재건하려면 한동훈 필요…장동혁은 빼야”\n\n보수 논객 조갑제 조갑제닷컴 대표가 국민의힘 지도부와 부정선거 음모론 세력을 강하게 비판하며 “한국보수를 재건하는 데 있어서 한동훈은 뺄 수 없는 인물이고 장동혁은 빼야 하는 인물”이라고 주장했다. 조 대표는 10일 자신의 페이스북에 도널드 트럼프 미국 대통령이 로버트 뮬러 전 특별검사의 사망을 두고 악담한 사실을 다룬 유튜브 영상을 공유하며 “내가 아는 부정선거음모론자들은 대체로 뻔뻔하다”고 밝혔다. 그는 “지난 지선에서 참패한 원인이 부정선거라고 주장하는 순간 정치를 포기하는 것이고 전국 재선거하자고 주장하는 순간 인간임을 포기하는 것이며 이런 거짓선동가들을 따라가는 순간 정당임을 포기하는 것”이라고 지적했다.\n\n조 대표는 “멍청하고 무례한 극우는 영악한 극좌의 밥이 돼 보수를 망치고 나라도 망친다”며 “장동혁 세력과 손잡아야 총선에서 이길 수 있다고 하는 이들은 자신의 영혼을 팔고 있는 게 아닌지 주의해야 한다”고 주장했다. 그는 “음모론 세력은 극우보다 더 나쁜 컬트집단의 본성이 있어 인간의 영혼을 파괴한다”며 “한국보수를 재건하려면 트럼프를 교주로 하는 윤석열-황교안-장동혁 세력의 사대주의적 노예근성을 폭로하는 노선투쟁을 먼저 해야 한다”고 강조했다. 조 대표는 “트럼프의 공화당이 참패한 것은 60%이상의 지지자가 음모론 신도인데다가 행동이 무례해 상식적 미국인들을 화나게 만든 때문”이라고 주장했다.\n\n출처: 경기일보 / https://n.news.naver.com/article/666/0000131379"
+   "feed": "뉴스 07. 전광훈, 이대통령에 “나쁜 X” 막말…사랑제일교회 알박기 지적에 ‘발끈’\n\n전광훈 사랑제일교회 목사가 서울 성북구 장위10구역 재개발 과정에서 교회의 대응을 비판한 이재명 대통령을 향해 욕설과 비난을 쏟아냈다. 전 목사는 지난 10일 유튜브 채널 ‘고성국TV’ 라이브 방송에 출연해 장위10구역 재개발 당시 사랑제일교회가 강제집행에 맞선 것은 문제가 없었다는 취지로 주장했다. 그러면서 이 대통령을 겨냥해 “사랑제일교회를 없애라고 말이야.\n\n앞서 이 대통령은 지난 4일 서울 성북구 장위동 재개발 현장을 방문해 사랑제일교회의 명도 집행 무산 사례를 보고받고, 법 집행에 불응하며 물리력으로 버티는 행태를 비판했다. 이 대통령은 이어 지난 10일 국무회의에서도 재개발 과정에서 물리력을 동원해 명도 집행을 장기간 막는 행위를 ‘알박기’ 사례로 거론했다. 결국 2023년 12월 서울시 도시재정비위원회는 사랑제일교회 부지를 재개발 대상에서 제외하는 내용의 장위10구역 재정비계획안을 가결했다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005762193"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-11/09.png",
-   "pngBytes": 1345599
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-12/09.png",
+   "pngBytes": 1345911
   }
  ],
- "caption": "📰 11월 11일 오늘의 뉴스\n\n1. 중대장이 실수로 공포탄 쏘자…대대장 “너 나와” 2발 ‘탕 탕’\n2. 밤길 국도 달리던 자주포에 민간인 차량 추돌…운전자 1명 사망\n3. 생후 이틀 된 딸은 왜 바다에 버려졌나…친모의 끔찍한 선택\n4. 황우석 \"법무부에 한국 국적 회복 신청...심사 결과 기다려\"\n   아랍에미리트 국적을 취득하면서 대한민국 국적을 상실한 사실이 뒤늦게 알려진 황우석 전 서울대 교수가 한국 대사관에 국적 회복 신청을 했다고 밝혔다. 10일 아시아경제…\n5. 신천지 TF 조사 열람한 이성윤 \"허탈‥사후 알리바이용 의심\"\n   더불어민주당 이성윤 최고위원이 당의 신천지 의혹 조사 결과를 직접 열람한 뒤 \"정말 허탈하기까지 하다\"며 내용 부실을 지적했습니다. 이 최고위원은 오늘 오전 국회 민주당…\n6. 이 대통령 “힘세면 버티면 되나”…재개발 ‘알박기’ 등 불법행위 조사 지시\n   이재명 대통령이 10일 법을 어기고 물리력으로 공권력 집행을 방해하면서 이익을 얻는 행위에 대한 실태 파악을 지시했다. 이 대통령은 이날 청와대에서 주재한 국무회의에서…\n7. 조갑제 “한국 보수 재건하려면 한동훈 필요…장동혁은 빼야”\n   보수 논객 조갑제 조갑제닷컴 대표가 국민의힘 지도부와 부정선거 음모론 세력을 강하게 비판하며 “한국보수를 재건하는 데 있어서 한동훈은 뺄 수 없는 인물이고 장동혁은 빼야…\n\n🗣 “UAE는 원칙적으로 복수 국적을 허용하지 않으나 특별히 제게는 대한민국 국적과 UAE 국적에 한하여 복수 국적을 허용한다고 발표했다”\n이 발언을 그대로 실은 보도 10건 · 주간조선 · YTN · KBC광주방송 · 주간경향\n· 주간조선 — 황우석 \"차한잔 하자더니 UAE 국적 수여…법무부에 회복 신청\" |\n· YTN — 황우석 \"법무부에 한국 국적 회복 신청...심사 결과 기다려\"\n· KBC광주방송 — \"차 한잔하자더니 국적 줬다\"…UAE 황우석, 한국 국적 회복 신청\n· 주간경향 — 황우석 “한국 국적 회복 신청···차 한잔 하자더니 UAE국적 주더라”\n· 부산일보 — `줄기세포 논문 조작` 황우석 `차 한잔하자더니 UAE 국적 수여…한국 국적 회복 신청`\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: KBS, MBC, YTN, 경기일보, 국민일보, 동아일보, 한겨레"
+ "caption": "📰 11월 12일 오늘의 뉴스\n\n1. 오세훈 “張체제로 총선 어려워”... 장동혁 “저랑 자리 바꾸자” 반발\n   장동혁 국민의힘 대표와 오세훈 서울시장이 지난 6일 서울 여의도 국회에서 열린 서울 예산정책협의회에서 기념촬영 후 각자의 자리로 향하고 있다./뉴스1. 국민의힘 장동혁…\n2. [단독] 기자들 향해 “하이에나 떼들”…최민희, 당원 단톡방에서 비하 글 논란\n   최민희 더불어민주당 의원이 지난 11월 5일 남양주 지역 당원 단체대화방에 국회 취재진의 사진을 올리며 “하이에나 떼들”이라고 적었다. 더불어민주당 최민희 의원이…\n3. 빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제\n   11월 11일 ‘빼빼로 데이’를 맞아 한 초등학생이 소개한 신조어 ‘빼난지원금’이 온라인상에서 화제가 되고 있다. A군은 빼난지원금에 대해 “빼빼로 데이 때 빼빼로를 못…\n4. '아들 성범죄 피해자' 10대 여성 살해한 50대 긴급체포\n5. 오세훈 “한동훈 복당, 총선 위해 반드시 필요...비대위 전환도 선택지”\n   오세훈 서울시장은 11일 한동훈 무소속 의원의 복당 문제에 대해 “총선 승리를 위해 반드시 필요하다”면서도 당내 구성원 간 공감대가 먼저 형성돼야 한다고 밝혔다. 오…\n6. 장동혁, 한동훈 '조작 징계' 주장에 \"맞다…韓 '언론 조작' 징계한 것\"\n   장동혁 국민의힘 대표가 자신의 제명 결정이 조작됐다며 사과를 요구한 한동훈 무소속 의원을 향해 \"절차적 문제가 있다고 주장할 것이라면 법적 대응을 하라\"고 반박했다.…\n7. 전광훈, 이대통령에 “나쁜 X” 막말…사랑제일교회 알박기 지적에 ‘발끈’\n   전광훈 사랑제일교회 목사가 서울 성북구 장위10구역 재개발 과정에서 교회의 대응을 비판한 이재명 대통령을 향해 욕설과 비난을 쏟아냈다. 전 목사는 지난 10일 유튜브…\n\n🗣 “총선이 다가올수록 승리를 위한 최적의 경로가 무엇인지 당내에서 치열한 논의를 거쳐 자연스럽게 총의가 모아질 것”\n이 발언을 그대로 실은 보도 10건 · 채널A · 조선일보 · 프레시안 · 머니투데이\n· 채널A — 오세훈 “한동훈 복당, 총선 승리에 반드시 필요…당내 공감대 먼저”\n· 조선일보 — 오세훈 \"張체제로 총선 어려워\"... 장동혁 \"저랑 자리 바꾸자\" 반발\n· 프레시안 — 오세훈·한동훈 '비대위' 언급에…장동혁 \"정치적 의도\" 발끈\n· 머니투데이 — 오세훈 \"한동훈 복당 필요…당 쇄신에 성역 없어야\" - 머니투데이\n· 조세일보 — 오세훈 \"한동훈 복당, 총선 승리 위해 반드시 필요\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: CJB청주방송, 매일경제, 매일신문, 조선비즈, 조선일보, 주간경향"
 }
