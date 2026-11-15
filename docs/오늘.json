@@ -1,253 +1,156 @@
 {
- "date": "2026-11-13",
- "generated_at": "2026-11-13T12:03:53+09:00",
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T11:17:59+09:00",
  "mode": "daily",
- "window_start": "2026-11-12T00:00:00+09:00",
- "window_end": "2026-11-12T23:59:59+09:00",
+ "window_start": "2026-11-14T00:00:00+09:00",
+ "window_end": "2026-11-14T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "이 대통령과 나란히 첫 삽 뜬 이재용…안경 벗은 모습 '눈길'",
-   "source": "MBN",
-   "url": "https://n.news.naver.com/article/057/0001977878",
-   "published_at": "2026-11-12T12:30:11+09:00",
+   "title": "한동훈 “이재명 대통령, 조작기소특검법 총리에게 떠넘겨…직접 할 배짱 없으면 접어야”",
+   "source": "강원일보",
+   "url": "https://n.news.naver.com/article/087/0001230758",
+   "published_at": "2026-11-14T13:31:06+09:00",
    "section_id": "100",
-   "view_rank": 1,
+   "view_rank": 3,
    "selection": "정치",
-   "summary": "이재명 대통령이 12일 충남 아산 삼성전자 온양캠퍼스 건설 현장에서 열린 충청권 메가프로젝트 착공식에 참석해 이재용 삼성전자 회장과 프로젝트 진행 상황을 담은 홍보…",
-   "summary_long": "이재명 대통령이 12일 충남 아산 삼성전자 온양캠퍼스 건설 현장에서 열린 충청권 메가프로젝트 착공식에 참석해 이재용 삼성전자 회장과 프로젝트 진행 상황을 담은 홍보 영상을 보고 있다. / 사진=연합뉴스이재명 대통령과 이재용 삼성전자 회장이 오늘(12일) 충청권 대규모 투자 사업의 시작을 알리는 착공식에 나란히 참석해 첫 삽을 떴습니다. 행사에는 이 회장도 참석해 이 대통령과 함께했는데, 특히 평소와 달리 안경을 착용하지 않은 모습으로 등장해 눈길을 끌었습니다.\n\n이 회장은 이 대통령이 행사장에 들어설 때부터 곁을 지켰으며, 착공식이 진행되는 동안에도 나란히 앉아 여러 차례 인사를 주고받았습니다. 이어 축사에 나선 이 대통령은 이 회장을 직접 언급하며 삼성전자 임직원과 투자 기업, 충청권 시민, 지방정부 관계자들에게 감사의 뜻을 전했습니다. 이재명 대통령이 12일 충남 아산 삼성전자 온양캠퍼스 건설현장에서 열린 충청권 메가프로젝트 착공식을 마친 뒤 이 공장에서 주력 생산되는 제품인 'TSP(Test & System Package)'에 서명한 뒤 이재용 삼성전자 회장과 박수치고 있다.",
-   "quotes": [
-    "오늘 우리가 함께 뜬 첫 삽이 충청의 눈부신 도약을 넘어 누구도 넘볼 수 없는 '대체불가 대한민국'을 세우는 굳건한 디딤돌이 되기를 기대한다",
-    "대통령님의 리더십 아래에 중앙과 지방정부, 그리고 기업이 함께 힘을 모으면 국가 대도약의 전기를 마련할 수 있다고 확신한다",
-    "현장 기업인 여러분이 갖고 계신 어려움은 저희가 적극적 선제적으로 개선해나가겠다"
-   ],
-   "press": "MBN",
-   "photo": "01.png",
-   "quoted": {
-    "quote": "오늘 우리가 함께 뜬 첫 삽이 충청의 눈부신 도약을 넘어 누구도 넘볼 수 없는 '대체불가 대한민국'을 세우는 굳건한 디딤돌이 되기를 기대한다",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "KB Think",
-      "title": "李대통령, 이재용에 공개 감사…나란히 첫 삽 뜨며 '충청 투자 동행'",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZMkQ4Q2pzemJ2ZndxT2ZiNEtPOXdZNHI5RUhDdGtYTWg5aUIwRkI5eUVaNmZXNzhqQjM0TW10WG5IbWluQWFveERzSDlucUc5RURsSEgxUndvNjFJTUZPb0tkdlk5RlR5TXpaMXUteUlTdw?oc=5"
-     },
-     {
-      "press": "연합뉴스",
-      "title": "3대 메가, 충청서 본격 시동…李대통령·이재용 나란히 '첫 삽'(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DeUxJa1J0VDZ0QnJkVFJUZkJJR3BFSlVWMDJJR1dyVDRJSXNBS3N4OXY1dDl5YkF0WWtfVXp5dWRETUdVTENrNlFfcENobVdiU2NaS3drUktkbW9zVVVtWNIBYEFVX3lxTE9DeUxJa1J0VDZ0QnJkVFJUZkJJR3BFSlVWMDJJR1dyVDRJSXNBS3N4OXY1dDl5YkF0WWtfVXp5dWRETUdVTENrNlFfcENobVdiU2NaS3drUktkbW9zVVVtWA?oc=5"
-     },
-     {
-      "press": "CEO스코어데일리",
-      "title": "李대통령, 이재용 회장과 충청 메가 프로젝트 ‘첫 삽’…“‘대체 불가 대한민국’ 세울 것”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zZ183M2F3ZDlYTGdod1RBb3NtczQxVEV3SmFUTXNEUHh0TnBUaVJDVGJvZjdzZTliTEM1NkxGeDlwaDlVUm4tQXlULTRpV3dzZWNBNkFEY3F5VkNoZmJ3UHJEZ1hMT3Fhb1o4?oc=5"
-     },
-     {
-      "press": "매일경제TV",
-      "title": "'3대 메가' 이 대통령·이재용, 충청서 나란히 '첫 삽'",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kTFV2aG0xZ25XTXpicEp4MU9qRERYYnlkelBGMUtfMDYxdWM1Y3JKZ1FkeTBnU2o1bHRDYzBIVHZMYmUyNXRVaklyRVBIQTB3VE1laGoyRFV1OHVHbHNfaEgxSDF0anQy?oc=5"
-     },
-     {
-      "press": "조세일보",
-      "title": "'충청권 메가프로젝트' 첫 삽…이 대통령 \"대체불가 대한민국 세우는 디딤돌\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3Yk5tU0dVbzdsY1JUeXNZWDVxd2JSdnlZQkdVZUF0X0wteFJsZnRUNjRsM1FVekhZYkpjNjNSM0RjOG9qdzNodVg5RzduM2M1V0xSZzFpQzdIUktLTmhYYWpnU19CSHFoXzRpTzU5czhPOWJL?oc=5"
-     },
-     {
-      "press": "JTBC",
-      "title": "이 대통령 옆 안경 벗은 이재용 회장…\"메가프로젝트 적극 추진\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yWUoxdUV6aVVfZmttY3ZERDBWb3Zqd3JQVHhxUG14NDRRMHlHTmh4akgtbFN6UllWR1k5U0ttOUV0WnBxdFhIcEJseVMtMDhlbTBaWQ?oc=5"
-     }
-    ]
-   }
+   "prep_error": "The read operation timed out"
   },
   {
-   "title": "[단독] 韓·‘원유 매장량 세계 1위’ 베네수엘라, 대사급 외교관계 복원 합의",
-   "source": "세계일보",
-   "url": "https://n.news.naver.com/article/022/0004174710",
-   "published_at": "2026-11-12T17:54:13+09:00",
+   "title": "한동훈 “李, 확정적 ‘시한부 대통령’”…최민희 녹취록으로 공세",
+   "source": "조선비즈",
+   "url": "https://n.news.naver.com/article/366/0001204749",
+   "published_at": "2026-11-14T13:53:09+09:00",
    "section_id": "100",
    "view_rank": 4,
    "selection": "정치",
-   "summary": "최준호 외교부 중남미국장이 베네수엘라 카라카스에서 유리 피멘텔 모우라 외교통상부 제1차관과 면담하고 있다. 외교부 제공 12일 베네수엘라 외교가에 따르면 베네수엘라 측은…",
-   "summary_long": "한국이 원유 매장량 세계 1위인 베네수엘라와 대사급 관계를 복원하는 데 뜻을 모았다. 최준호 외교부 중남미국장(오른쪽)이 베네수엘라 카라카스에서 유리 피멘텔 모우라 외교통상부 제1차관과 면담하고 있다. 외교부 제공 12일 베네수엘라 외교가에 따르면 베네수엘라 측은 지난 4∼5일 수도 카라카스를 방문한 최준호 외교부 중남미국장에게 대사급 관계 복원 의사를 전달했고, 한국 측도 이에 공감한 것으로 전해졌다.\n\n베네수엘라 측은 2016년 임기모 당시 중남미국장 이후 10년 만에 이뤄진 한국 외교부 국장급 인사의 방문을 높이 평가한 것으로 알려졌다. 대사급 관계의 복원 시점은 아직 정해지지 않았으나, 베네수엘라 정부는 이르면 내년 중 차기 주한대사에 대한 아그레망(주재국의 사전 동의)을 한국 정부에 요청할 전망이다. 베네수엘라는 2007년부터, 한국은 2016년부터 상대국 주재 대사관을 대사대리 체제로 운영해 왔다.",
-   "press": "세계일보",
-   "photo": "02.jpg"
+   "prep_error": "The read operation timed out"
   },
   {
-   "title": "정우성·염정아가 첫 손님…853억 쏟은 ‘국내 최대 촬영장’ 어디",
-   "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003564628",
-   "published_at": "2026-11-12T05:00:02+09:00",
+   "title": "[단독] 세무사 수석 합격자 한원석씨 \"AI 안경? 말도 안 된다\"",
+   "source": "한국경제",
+   "url": "https://n.news.naver.com/article/015/0005353792",
+   "published_at": "2026-11-14T09:01:12+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "한적한 마을을 지나 부산기장촬영소 입구에 들어서자 광활한 부지에 들어선 대형 실내 스튜디오 3개 동이 모습을 드러냈다. 부산기장촬영소는 15만8412㎡ 부지에 조성됐으며…",
-   "summary_long": "국내 최대 규모의 공공 종합촬영소인 '부산기장촬영소' 전경. 한적한 마을을 지나 부산기장촬영소 입구에 들어서자 광활한 부지에 들어선 대형 실내 스튜디오 3개 동이 모습을 드러냈다. 이진욱 영화진흥위원회(영진위) 촬영소운영팀장은 “촬영감독과 조명감독들의 의견을 반영해 조명과 세트 장치를 가장 효율적으로 설치할 수 있도록 설계했다”며 “천장 공간을 활용해 대형 세트를 자유롭게 연출할 수 있는 것이 강점”이라고 설명했다.\n\n이 팀장은 “현재 방영 중인 tvN ‘100일의 거짓말’의 경성역 세트장을 비롯해 화려한 저택, SF 영화 배경까지 다양한 세트 연출이 가능하다”며 “세트장이 한번 설치되면 평균 두 달 정도 촬영이 진행된다”고 설명했다. 영진위가 853억원을 들여 조성한 국내 최대 규모의 공공 종합촬영소인 부산기장촬영소가 다음 달 첫 촬영을 시작한다. 이 팀장은 “다양한 제작사가 이용할 수 있도록 단기간 촬영하는 작품을 우선 유치할 계획”이라며 “독립영화 제작사에는 대관료 일부를 지원해준다”고 했다.",
-   "quotes": [
-    "현재 방영 중인 tvN ‘100일의 거짓말’의 경성역 세트장을 비롯해 화려한 저택, SF 영화 배경까지 다양한 세트 연출이 가능하다",
-    "촬영소 하나로 수도권 중심의 영화 산업 구조를 바꾸기는 어렵겠지만 좋은 시설과 서비스로 많은 작품을 유치하겠다",
-    "촬영감독과 조명감독들의 의견을 반영해 조명과 세트 장치를 가장 효율적으로 설치할 수 있도록 설계했다"
-   ],
-   "press": "중앙일보",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "현재 방영 중인 tvN ‘100일의 거짓말’의 경성역 세트장을 비롯해 화려한 저택, SF 영화 배경까지 다양한 세트 연출이 가능하다",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "미주중앙일보",
-      "title": "정우성·염정아가 첫 손님…853억 쏟은 ‘국내 최대 촬영장’ 어디",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HNURrMGd4QTNSMW5JU3RwWVVoR244YjA4d1QwYkVlNTYtWkY2djlRQWV1cFBiaU4yb0FZTjhKbU4zMlBkRWU0MEI2d0RRX3ZhTm5ETzQyTWQzbGtGX2FJaUpn?oc=5"
-     },
-     {
-      "press": "newsinside.kr",
-      "title": "‘100일의 거짓말’ 박정연, 친일파 父 딛고 독립투사로 우뚝",
-      "link": "https://www.newsinside.kr/news/articleView.html?idxno=5044096"
-     },
-     {
-      "press": "sisunnews.co.kr",
-      "title": "[시선★피플] 갓세븐에서 ‘믿보배’로... ‘100일의 거짓말’로 인생 캐릭터 새로 쓴 배우 박진영",
-      "link": "https://www.sisunnews.co.kr/news/articleView.html?idxno=249184"
-     },
-     {
-      "press": "MSN(재배포)",
-      "title": "김현주, 제대로 일냈다… '100일의 거짓말'→'실낙원' 안방극장·스크린서 연이은 호평",
-      "link": "https://www.msn.com/ko-kr/entertainment/tv/%EA%B9%80%ED%98%84%EC%A3%BC-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%BC%EB%83%88%EB%8B%A4-100%EC%9D%BC%EC%9D%98-%EA%B1%B0%EC%A7%93%EB%A7%90-%EC%8B%A4%EB%82%99%EC%9B%90-%EC%95%88%EB%B0%A9%EA%B7%B9%EC%9E%A5-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%84%9C-%EC%97%B0%EC%9D%B4%EC%9D%80-%ED%98%B8%ED%8F%89/ar-AA2h25pA"
-     },
-     {
-      "press": "MSN(재배포)",
-      "title": "‘100일의 거짓말'’ 본방 놓쳐도 첫장면부터… 티빙 이용자 3명 중 1명 퀵VOD 경험",
-      "link": "https://www.msn.com/ko-kr/news/other/100%EC%9D%BC%EC%9D%98-%EA%B1%B0%EC%A7%93%EB%A7%90-%EB%B3%B8%EB%B0%A9-%EB%86%93%EC%B3%90%EB%8F%84-%EC%B2%AB%EC%9E%A5%EB%A9%B4%EB%B6%80%ED%84%B0-%ED%8B%B0%EB%B9%99-%EC%9D%B4%EC%9A%A9%EC%9E%90-3%EB%AA%85-%EC%A4%91-1%EB%AA%85-%ED%80%B5vod-%EA%B2%BD%ED%97%98/ar-AA2gIito"
-     },
-     {
-      "press": "머니투데이",
-      "title": "'100일의 거짓말' 속 희원은 또 다시 꿈을 꾼다 [iZE 포커스]",
-      "link": "https://www.mt.co.kr/entertainment/2026/11/11/2026111109057266627"
-     }
-    ]
-   }
+   "prep_error": "The read operation timed out"
   },
   {
-   "title": "아기들 얼굴 텀블러로 가격…어린이집서 “50일 간 530번 넘게 학대”",
+   "title": "배우 고경표, 서울 마포구서 음주운전하다 청소차 들이받아",
    "source": "KBS",
-   "url": "https://n.news.naver.com/article/056/0012292204",
-   "published_at": "2026-11-12T07:00:39+09:00",
+   "url": "https://n.news.naver.com/article/056/0012293903",
+   "published_at": "2026-11-14T10:24:01+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "\"어린이집에서 아동 학대가 이뤄지는 것 같아요. 강원도 강릉의 한 어린이집에서 아동 학대가 의심된다는 신고가 경찰에 접수된 건 지난 8월 24일이었습니다.",
-   "summary_long": "\"어린이집에서 아동 학대가 이뤄지는 것 같아요. 강원도 강릉의 한 어린이집에서 아동 학대가 의심된다는 신고가 경찰에 접수된 건 지난 8월 24일이었습니다. CCTV 영상에서는 어린이집 교사들의 상습 아동 학대 정황이 고스란히 담겨있었습니다.\n\n경찰은 사안의 중대성을 고려해 해당 어린이집 교사 3명을 아동 학대 혐의 등으로 구속했습니다. 교사 B 씨는 지난 7월 6일, 기저귀로 2살 아이의 얼굴을 때리고 손으로 허벅지를 때리는 등 214차례에 걸쳐 아동 학대를 한 혐의입니다. 이번 아동 학대 혐의로 기소된 교사 5명 중 1명은 다른 어린이집에서도 근무했습니다.",
+   "summary": "배우 고경표 씨가 술을 마신 채 차량을 운전하다 다른 차량을 들이받는 사고를 냈습니다. 고 씨는 오늘 새벽 3시 반쯤 서울 마포구 동교동에서 음주 상태로 자신의 승용차를…",
+   "summary_long": "배우 고경표 씨가 술을 마신 채 차량을 운전하다 다른 차량을 들이받는 사고를 냈습니다. 서울 마포경찰서는 오늘(14일) 고 씨를 도로교통법 위반(음주운전) 혐의로 입건해 조사하고 있다고 밝혔습니다. 고 씨는 오늘 새벽 3시 반쯤 서울 마포구 동교동에서 음주 상태로 자신의 승용차를 운전하던 중 청소차를 들이받는 사고를 냈습니다.\n\n사고 당시 고 씨의 혈중알코올농도는 면허 취소 수준이었던 거로 확인됐습니다. 경찰 관계자는 \"동승자는 없었고, 부상자 여부는 확인이 필요하다\"며 추후 고 씨를 다시 불러 정확한 사고 경위를 파악할 예정이라고 설명했습니다.",
    "quotes": [
-    "(CCTV 영상을) 1년 정도는 저는 보관을 해야 된다고 생각해요. 지금 이런 사태도 지금 3개월이 걸려서 이제 지금 언론에 알려지게 돼서. 그 전의 상황은 아무도 모른다는 거예요. 수천 건이 될 수도 있는 상황이거든요",
-    "어린이집 3월부터 아이 나갔는데 3월부터 지금 사건 밝혀진 기간 동안 아이들은 하루하루가 지옥이었을 거예요. 저희들은 말을 하니까 하기 싫다는 표현은 되지만 애들은 말을 못 하잖아요",
-    "너무 이 사건은 사안이 중하다고 판단을 해서 피해 아동 부모님들과 면담 절차 진행하고 피해 지원이, 피해자 지원이 정말 중요하겠다는 판단하에 신속하게 지원 절차 진행하고 있습니다"
+    "동승자는 없었고, 부상자 여부는 확인이 필요하다"
    ],
    "press": "KBS",
-   "photo": "04.jpg",
+   "photo": "04.jpg"
+  },
+  {
+   "title": "'북동영 장관' 부른 박충권, 그에게 '당사자'는 누구인가",
+   "source": "오마이뉴스",
+   "url": "https://n.news.naver.com/article/047/0002535858",
+   "published_at": "2026-11-14T19:21:23+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 164,
+   "comment_agree": 157,
+   "comment_disagree": 28,
+   "division_balance": 0.302703,
+   "division_score": 1.581848,
+   "selection": "찬반 쟁점",
+   "summary": "'북향민' 호칭 싸움에 정작 당사자는 없었다. 그렇다고 박 의원이 북향민 호칭을 당사자 전체가 반대하는 이름인 것처럼 주장할 근거가 충분한 것도 아니다.",
+   "summary_long": "'북향민' 호칭 싸움에 정작 당사자는 없었다. 앞서 지난 회의에서 정동영 장관이 답변할 때 '북향민' 표현을 지속 사용한 데 대한 불만이었다. \"북동영 장관님, 장관님은 저를 '북향민'이라고 불러도 됩니까?\"\n\n북한이탈주민 출신 국회의원으로서, 그리고 북향민 사회의 목소리를 대변해야 할 사람으로서 더욱 신중했어야 할 행동이다. 북향민 호칭을 강하게 반대하는 단체의 주장도 존중받아야 하지만, 그것이 전체 북한이탈주민의 뜻이라고 볼 수는 없다. 그렇다고 박 의원이 북향민 호칭을 당사자 전체가 반대하는 이름인 것처럼 주장할 근거가 충분한 것도 아니다.",
+   "quotes": [
+    "라고 받아쳤다. 회의는 한동안 파행을 빚었다. 박 의원은 회의 진행이 늦어진 데 유감을 표했지만",
+    "북동영 장관님, 장관님은 저를 '북향민'이라고 불러도 됩니까",
+    "그러면 '탈충권'이라고 불러도 됩니까"
+   ],
+   "press": "오마이뉴스",
+   "photo": "05.jpg",
    "quoted": {
-    "quote": "너무 이 사건은 사안이 중하다고 판단을 해서 피해 아동 부모님들과 면담 절차 진행하고 피해 지원이, 피해자 지원이 정말 중요하겠다는 판단하에 신속하게 지원 절차 진행하고 있습니다",
+    "quote": "라고 받아쳤다. 회의는 한동안 파행을 빚었다. 박 의원은 회의 진행이 늦어진 데 유감을 표했지만",
     "n": 2,
     "verified": 0,
     "items": [
      {
-      "press": "KBS 뉴스",
-      "title": "아기들 얼굴 텀블러로 가격…어린이집서 “50일 간 530번 넘게 학대”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRemtsWnBDeEZzcW1tMlp6MUhoRGlGcUxIa1pWeGktdm1FcTVSSEl1WTBaQ21WSWFDbktVZHI0MU9iRGphNEt1MVJvMXF1Y3F4RzZBMXpZbzNLN3ZyOFZIWmVqYkcwTDZqWkx3?oc=5"
+      "press": "OhmyNews",
+      "title": "'북동영 장관' 부른 박충권, 그에게 '당사자'는 누구인가",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jWXFNZFFwbHZkUFotR1E1eFRrU1BBNl9QZjNxSGMyeXdUYlpYYzB5UXI0T0YxbTFUSThsR3lraDhjcllNRjRiaWxiOF9PTmZuYUFIdlM4elhNUjVPNlJtUzZpa2NBSk5aTFVRLUlsSTNGaGFRMDhr?oc=5"
      },
      {
-      "press": "매일신문",
-      "title": "휴대전화·텀블러로 0~3세 때렸다…50여일 530차례 학대당한 아이들",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84RDRwbHhqSFRnYWUwTTZldGF1ZXBscUZCRUhfbmZ6ZV9vOHZlMVgxampPVU8zc2hiZFBhNThuZmNPc3JkTWV3WkdiNWgzLVJhNnk3aWJJSVBxZDFteWxkN1Zn?oc=5"
+      "press": "펜앤마이크",
+      "title": "박충권, 정동영에 \"북동영 장관\" 직격…'북향민' 명칭 변경 놓고 국회서 충돌",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NYUtMM25wd2RDQlg1ZWRIS3d2aWNSalhma2RSTVVsUU9maEZJTDFPdExnVmRnTEZIM3RPT1hVR0ppNldpUFZmNElXeTE1ak1LcWNDTW5kWlpzV1dwU1lqTmlfaDl4S1U1b2Nz0gFvQVVfeXFMTlh4QkJsc2hiYVNrb1o3SXJvV2dUQ2lhbF91Q19NMXgyUVlDbmoyLWpKZjZ3eENwQ0FOZHd5MjBUUVJ5SHZLTXN4ZXhnSnJzdEVDeWtaMS1zaWpKMUJvVTRVT2pSRkk4ZkdJQkJqQk84?oc=5"
      }
     ]
    }
   },
   {
-   "title": "복당은 막혔는데 사퇴 요구?…한동훈, 장동혁과 정면충돌하는 이유",
-   "source": "머니투데이",
-   "url": "https://n.news.naver.com/article/008/0005440216",
-   "published_at": "2026-11-12T11:25:25+09:00",
+   "title": "문진석 \"尹과 李 재판 완전 달라\" vs 한동훈 \"다르다, 李는 무죄 가능성 0\"",
+   "source": "뉴스1",
+   "url": "https://n.news.naver.com/article/421/0009288790",
+   "published_at": "2026-11-14T08:54:10+09:00",
    "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 212,
-   "comment_agree": 169,
-   "comment_disagree": 32,
-   "division_balance": 0.318408,
-   "division_score": 1.690195,
+   "view_rank": 2,
+   "comment_count": 180,
+   "comment_agree": 207,
+   "comment_disagree": 27,
+   "division_balance": 0.230769,
+   "division_score": 1.259904,
    "selection": "찬반 쟁점",
-   "summary": "12일 정치권에 따르면 국민의힘 지도부는 이날 비공개 최고위원회의에서 한 의원의 제명 징계에 조작 의혹을 제기한 황경성 중앙윤리위원의 주장을 확인하기로 했다. 앞서 황…",
-   "summary_long": "12일 정치권에 따르면 국민의힘 지도부는 이날 비공개 최고위원회의에서 한 의원의 제명 징계에 조작 의혹을 제기한 황경성 중앙윤리위원의 주장을 확인하기로 했다. 최보윤 국민의힘 수석대변인은 최고위원회의 직후 기자들과 만나 \"황 윤리위원에게 최고위에서 연락을 취할 것\"이라며 \"오늘이라도 비공개 최고위를 열고 어떤 근거로 그런 발언을 한 것인지 정확히 파악하는 절차를 거치게 될 것\"이라고 밝혔다. 앞서 황 윤리위원은 지난 11일 한 의원 제명부터 진종오 국민의힘 의원 징계까지 윤리위의 조작 징계가 이뤄졌다고 주장했다.\n\n이후 한 의원은 곧바로 기자회견을 열고 \"윤리위를 동원한 제 제명이 특정인의 정치적 이익을 위한 정치적 숙청이었다는 실체가 분명히 드러났다\"며 장 대표의 사퇴를 요구했다. 안철수 국민의힘 의원은 이날 SNS(소셜미디어)에서 한 의원의 복당을 요구하는 움직임을 향해 \"복당의 강에 보수우파와 국민의힘 당원 모두 다 빠져 죽자는 물귀신 행태\"라고 비판했다. 오 시장은 전날 SNS에 \"한 의원의 복당이 총선 승리를 위해 반드시 필요하다고 생각한다\"면서도 \"당내 구성원들이 흔쾌히 받아들일 수 있는 공감대가 먼저 형성돼야 한다\"고 밝혔다.",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "[속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전",
+   "source": "세계일보",
+   "url": "https://n.news.naver.com/article/022/0004175065",
+   "published_at": "2026-11-14T10:24:10+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "comment_count": 642,
+   "comment_agree": 213,
+   "comment_disagree": 26,
+   "division_balance": 0.217573,
+   "division_score": 1.19244,
+   "selection": "찬반 쟁점",
+   "summary": "한동훈 무소속 의원이 이재명 대통령의 공직선거법 위반 사건 재판을 겨냥해 ‘확정적인 시한부 대통령’이라는 표현을 거듭 사용하며 더불어민주당 지도부와 소셜네트워크서비스에서…",
+   "summary_long": "한동훈 무소속 의원이 이재명 대통령의 공직선거법 위반 사건 재판을 겨냥해 ‘확정적인 시한부 대통령’이라는 표현을 거듭 사용하며 더불어민주당 지도부와 소셜네트워크서비스(SNS)에서 정면으로 충돌했다. 한 의원은 13일 밤 자신의 페이스북에 글을 올려 민주당 측이 이 대통령 재판과 윤석열 전 대통령의 재판은 성격이 다르다고 반박한 점을 정면으로 받아쳤다. 그는 “이 대통령 재판은 윤 전 대통령 재판과 달리 대법원 판결까지 나와서 훨씬 더 빼박이란 점이 다르죠”라고 주장했다.\n\n한 의원은 윤 전 대통령의 재판은 대법원 3심 절차가 남아 있어 유무죄 판단이 바뀔 여지가 있지만, 이 대통령의 공직선거법 사건은 이미 대법원 전원합의체가 유죄 취지로 파기환송했기 때문에 무죄로 뒤집힐 가능성이 전혀 없다는 논리를 폈다. 이에 한 의원이 해당 보도를 SNS에 공유하며 최 최고위원의 말이 맞고, 재판만 열리면 이 대통령은 당선무효형 유죄 판결을 받을 것이라고 주장하면서 여야 간 공방으로 확산했다. 이 대통령의 공직선거법 사건은 대법원 전원합의체에서 유죄 취지로 파기환송됐으나, 파기환송 판결 자체가 최종 유죄 확정을 뜻하는 것은 아니며 향후 파기환송심 등 재판 절차가 별도로 남아 있다.",
    "quotes": [
-    "오히려 장 대표와의 충돌이 격화할수록 복당 이후 함께해야 할 당내 세력과의 간극이 더 벌어질 가능성도 있다",
-    "오늘이라도 비공개 최고위를 열고 어떤 근거로 그런 발언을 한 것인지 정확히 파악하는 절차를 거치게 될 것",
-    "윤리위를 동원한 제 제명이 특정인의 정치적 이익을 위한 정치적 숙청이었다는 실체가 분명히 드러났다"
+    "이 대통령 재판은 윤 전 대통령 재판과 달리 대법원 판결까지 나와서 훨씬 더 빼박이란 점이 다르죠",
+    "확정적인 시한부 대통령 맞습니다",
+    "대법 파기환송 나와 유죄 확실"
    ],
-   "press": "머니투데이",
-   "photo": "05.jpg",
+   "press": "세계일보",
+   "photo": "07.jpg",
    "quoted": {
-    "quote": "윤리위를 동원한 제 제명이 특정인의 정치적 이익을 위한 정치적 숙청이었다는 실체가 분명히 드러났다",
-    "n": 5,
+    "quote": "확정적인 시한부 대통령 맞습니다",
+    "n": 3,
     "verified": 0,
     "items": [
      {
-      "press": "머니투데이",
-      "title": "복당은 막혔는데 사퇴 요구?…한동훈, 장동혁과 정면충돌하는 이유 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOZHc1bEtZdWZyMEdkMDZhenRqSG8tb3Y4TmU2Z1RNR1pOUWxYVkdseHhFNEZlMW5XVzJncWZxc0VselFBM3Nxd1hJRGxzckZ6SW1EZXFkdWdLYUNCX2RSTHU3OVVPVDV3QXc5MTNCcmxQUdIBckFVX3lxTFBOZHc1bEtZdWZyMEdkMDZhenRqSG8tb3Y4TmU2Z1RNR1pOUWxYVkdseHhFNEZlMW5XVzJncWZxc0VselFBM3Nxd1hJRGxzckZ6SW1EZXFkdWdLYUNCX2RSTHU3OVVPVDV3QXc5MTNCcmxQUQ?oc=5"
+      "press": "세계일보",
+      "title": "[속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zdmota2NHLTNmRUlXS3dlWFg1TlJoWHFIeWFsRUtGRjZpT0NwejJ5eGdTaF9KakZ4Y2QtNTNoZ2o0SkdpeWt0T09ZbjIyVGYwcWtJcGdSWGfSAVRBVV95cUxQLXUwOGpZSHlUeDlQTzJLUTJ2T1BhQjI4a3pJLUl3WUZNdTVtNU04a1pKdUM0UkhCRGZ3NjR2ZmR4ZDd0YXRWWFRCWnJjYmRWZ2E1Tks?oc=5"
      },
      {
-      "press": "머니투데이",
-      "title": "오세훈·한동훈 협공에 장동혁 반격…국민의힘 '총선 주도권' 내홍 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hS2NpdWhzVmZ1ekEyc2h1aFF0YlVrell4ZWN0WEMzY1dYQkdfbDRMdk44T2FWVk5OQWdIN1FnOGxtVGhMUDFUcnlxbU1EaVlGeGV0YzhQdldITUh2dWROZE9LMGEyaUtEOXc1TzA4THhJZ9IBckFVX3lxTE9hS2NpdWhzVmZ1ekEyc2h1aFF0YlVrell4ZWN0WEMzY1dYQkdfbDRMdk44T2FWVk5OQWdIN1FnOGxtVGhMUDFUcnlxbU1EaVlGeGV0YzhQdldITUh2dWROZE9LMGEyaUtEOXc1TzA4THhJZw?oc=5"
+      "press": "경기일보",
+      "title": "한동훈 “이재명, 확정적 ‘시한부 대통령’…윤석열보다 더 빼박”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRDRla1VCa0ZMVE1CeC1rbGF6V3ZuX0lTUzlHX2V1RHMyeVBYMXI2WUdpY3ZuVTdhdVdYdWNqV3loamNmVklIdVFuNjB5dHc4b2ZKeXBqaE1xYms?oc=5"
      },
      {
-      "press": "서플 뉴스",
-      "title": "복당은 막혔는데 사퇴 요구?…한동훈, 장동혁과 정면충돌하는 이유 · 배경과 반응",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NWFVIalZyVUdXWHVUWmZkNDZraUM3MlFHb1ZQLWVZaGVmUXNPa3ktVVJ5WGg3SUtUYWNvNFdkTHYtVmo1dUxDYWllS1BpLW5IdGtmUWkwWjNpZlF4?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "\"비대위\" \"조작 징계\" 때리는 吳·韓… \"정치 공작\" 맞서는 張 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0dTNkZGhPR0hQb3MwVndjb1FkVHlBX1A3LTAyelI1QnE5alE0LVcxVERaRlo1Q1IzclBCbkdqNjZvTWk1SmRIT3daZUlLWFBTbGFLZjB0WFRudldHc1luTE1pRHhkbTJlNmh6R2lNQWF1d9IBckFVX3lxTFA0dTNkZGhPR0hQb3MwVndjb1FkVHlBX1A3LTAyelI1QnE5alE0LVcxVERaRlo1Q1IzclBCbkdqNjZvTWk1SmRIT3daZUlLWFBTbGFLZjB0WFRudldHc1luTE1pRHhkbTJlNmh6R2lNQWF1dw?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "吳 '비대위' 韓 '조작 징계'로 長 맹폭...국민의힘 내홍 격화 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14dmhVRjZUV2VDaFNweVlEWktsbkQyNmVRbGdwaGxDTVlkV2FxSWJubVdwWEItNVpKekNvYXJySUlXeGZLdjlwb2p5cmxkbWhCVGJieGRfYW83NnY0R0UzVnRvZlZBem5XSDF6S2tWb0JYMVMzenNUdTJicUdZMVnSAX9BVV95cUxNeHZoVUY2VFdlQ2hTcHlZRFpLbG5EMjZlUWxncGhsQ01ZZFdhcUlibm1XcFhCLTVaSnpDb2FycklJV3hmS3Y5cG9qeXJsZG1oQlRiYnhkX2FvNzZ2NEdFM1Z0b2ZWQXpuV0gxektrVm9CWDFTM3pzVHUyYnFHWTFZ?oc=5"
+      "press": "키즈맘",
+      "title": "한동훈 “이재명·윤석열 재판 다르다…李는 대법원 유죄 취지 판단”",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuczc3SUZkVEg4RjhRaEY0VFQtQjUwSTJpVzFsY2h4VkRseldyVHN0ZXdKdWRsc0FadllJTXJFTFpDM0lWRzlveVpVU0s4TUdNaUtuenU5T0tFUHU0cGFPNEtYQ0RSMzBG?oc=5"
      }
     ]
    }
-  },
-  {
-   "title": "장동혁, 한동훈 겨냥 “당게 사건은 패륜·조작·분열의 씨앗”",
-   "source": "중앙일보",
-   "url": "https://n.news.naver.com/article/025/0003564819",
-   "published_at": "2026-11-12T17:33:47+09:00",
-   "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 172,
-   "comment_agree": 223,
-   "comment_disagree": 31,
-   "division_balance": 0.244094,
-   "division_score": 1.352592,
-   "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "‘조작 징계’ 의혹 터진 국힘… 韓 “즉각 무효화” 張 “당 흔들기” 충돌",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004009156",
-   "published_at": "2026-11-12T00:51:07+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 573,
-   "comment_agree": 258,
-   "comment_disagree": 28,
-   "division_balance": 0.195804,
-   "division_score": 1.10815,
-   "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
   }
  ],
  "cards": [
@@ -256,139 +159,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/01.png",
-   "pngBytes": 1980104,
-   "feed": "오늘의 뉴스 2026-11-13\n\n· 이 대통령과 나란히 첫 삽 뜬 이재용…안경 벗은 모습 '눈길'\n· [단독] 韓·‘원유 매장량 세계 1위’ 베네수엘라, 대사급 외교관계 복원 합의\n· 정우성·염정아가 첫 손님…853억 쏟은 ‘국내 최대 촬영장’ 어디\n· 아기들 얼굴 텀블러로 가격…어린이집서 “50일 간 530번 넘게 학대”\n· 복당은 막혔는데 사퇴 요구?…한동훈, 장동혁과 정면충돌하는 이유\n· 장동혁, 한동훈 겨냥 “당게 사건은 패륜·조작·분열의 씨앗”\n· ‘조작 징계’ 의혹 터진 국힘… 韓 “즉각 무효화” 張 “당 흔들기” 충돌"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/01.png",
+   "pngBytes": 1751002,
+   "feed": "오늘의 뉴스 2026-11-15\n\n· 한동훈 “이재명 대통령, 조작기소특검법 총리에게 떠넘겨…직접 할 배짱 없으면 접어야”\n· 한동훈 “李, 확정적 ‘시한부 대통령’”…최민희 녹취록으로 공세\n· [단독] 세무사 수석 합격자 한원석씨 \"AI 안경? 말도 안 된다\"\n· 배우 고경표, 서울 마포구서 음주운전하다 청소차 들이받아\n· '북동영 장관' 부른 박충권, 그에게 '당사자'는 누구인가\n· 문진석 \"尹과 李 재판 완전 달라\" vs 한동훈 \"다르다, 李는 무죄 가능성 0\"\n· [속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/02.png",
-   "pngBytes": 1999863,
-   "title": "이 대통령과 나란히 첫 삽 뜬 이재용…안경 벗은 모습 '눈길'",
-   "summary": "이재명 대통령이 12일 충남 아산 삼성전자 온양캠퍼스 건설 현장에서 열린 충청권 메가프로젝트 착공식에 참석해 이재용 삼성전자 회장과 프로젝트 진행 상황을 담은 홍보…",
-   "summary_long": "이재명 대통령이 12일 충남 아산 삼성전자 온양캠퍼스 건설 현장에서 열린 충청권 메가프로젝트 착공식에 참석해 이재용 삼성전자 회장과 프로젝트 진행 상황을 담은 홍보 영상을 보고 있다. / 사진=연합뉴스이재명 대통령과 이재용 삼성전자 회장이 오늘(12일) 충청권 대규모 투자 사업의 시작을 알리는 착공식에 나란히 참석해 첫 삽을 떴습니다. 행사에는 이 회장도 참석해 이 대통령과 함께했는데, 특히 평소와 달리 안경을 착용하지 않은 모습으로 등장해 눈길을 끌었습니다.\n\n이 회장은 이 대통령이 행사장에 들어설 때부터 곁을 지켰으며, 착공식이 진행되는 동안에도 나란히 앉아 여러 차례 인사를 주고받았습니다. 이어 축사에 나선 이 대통령은 이 회장을 직접 언급하며 삼성전자 임직원과 투자 기업, 충청권 시민, 지방정부 관계자들에게 감사의 뜻을 전했습니다. 이재명 대통령이 12일 충남 아산 삼성전자 온양캠퍼스 건설현장에서 열린 충청권 메가프로젝트 착공식을 마친 뒤 이 공장에서 주력 생산되는 제품인 'TSP(Test & System Package)'에 서명한 뒤 이재용 삼성전자 회장과 박수치고 있다.",
-   "press": "MBN",
-   "source": "MBN",
-   "link": "https://n.news.naver.com/article/057/0001977878",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/02.png",
+   "pngBytes": 614808,
+   "title": "한동훈 “이재명 대통령, 조작기소특검법 총리에게 떠넘겨…직접 할 배짱 없으면 접어야”",
+   "summary": "",
+   "summary_long": "",
+   "press": "강원일보",
+   "source": "강원일보",
+   "link": "https://n.news.naver.com/article/087/0001230758",
    "selection": "정치",
-   "feed": "뉴스 01. 이 대통령과 나란히 첫 삽 뜬 이재용…안경 벗은 모습 '눈길'\n\n이재명 대통령이 12일 충남 아산 삼성전자 온양캠퍼스 건설 현장에서 열린 충청권 메가프로젝트 착공식에 참석해 이재용 삼성전자 회장과 프로젝트 진행 상황을 담은 홍보 영상을 보고 있다. / 사진=연합뉴스이재명 대통령과 이재용 삼성전자 회장이 오늘(12일) 충청권 대규모 투자 사업의 시작을 알리는 착공식에 나란히 참석해 첫 삽을 떴습니다. 행사에는 이 회장도 참석해 이 대통령과 함께했는데, 특히 평소와 달리 안경을 착용하지 않은 모습으로 등장해 눈길을 끌었습니다.\n\n이 회장은 이 대통령이 행사장에 들어설 때부터 곁을 지켰으며, 착공식이 진행되는 동안에도 나란히 앉아 여러 차례 인사를 주고받았습니다. 이어 축사에 나선 이 대통령은 이 회장을 직접 언급하며 삼성전자 임직원과 투자 기업, 충청권 시민, 지방정부 관계자들에게 감사의 뜻을 전했습니다. 이재명 대통령이 12일 충남 아산 삼성전자 온양캠퍼스 건설현장에서 열린 충청권 메가프로젝트 착공식을 마친 뒤 이 공장에서 주력 생산되는 제품인 'TSP(Test & System Package)'에 서명한 뒤 이재용 삼성전자 회장과 박수치고 있다.\n\n출처: MBN / https://n.news.naver.com/article/057/0001977878"
+   "feed": "뉴스 01. 한동훈 “이재명 대통령, 조작기소특검법 총리에게 떠넘겨…직접 할 배짱 없으면 접어야”\n\n\n\n출처: 강원일보 / https://n.news.naver.com/article/087/0001230758"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/03.png",
-   "pngBytes": 1672527,
-   "title": "[단독] 韓·‘원유 매장량 세계 1위’ 베네수엘라, 대사급 외교관계 복원 합의",
-   "summary": "최준호 외교부 중남미국장이 베네수엘라 카라카스에서 유리 피멘텔 모우라 외교통상부 제1차관과 면담하고 있다. 외교부 제공 12일 베네수엘라 외교가에 따르면 베네수엘라 측은…",
-   "summary_long": "한국이 원유 매장량 세계 1위인 베네수엘라와 대사급 관계를 복원하는 데 뜻을 모았다. 최준호 외교부 중남미국장(오른쪽)이 베네수엘라 카라카스에서 유리 피멘텔 모우라 외교통상부 제1차관과 면담하고 있다. 외교부 제공 12일 베네수엘라 외교가에 따르면 베네수엘라 측은 지난 4∼5일 수도 카라카스를 방문한 최준호 외교부 중남미국장에게 대사급 관계 복원 의사를 전달했고, 한국 측도 이에 공감한 것으로 전해졌다.\n\n베네수엘라 측은 2016년 임기모 당시 중남미국장 이후 10년 만에 이뤄진 한국 외교부 국장급 인사의 방문을 높이 평가한 것으로 알려졌다. 대사급 관계의 복원 시점은 아직 정해지지 않았으나, 베네수엘라 정부는 이르면 내년 중 차기 주한대사에 대한 아그레망(주재국의 사전 동의)을 한국 정부에 요청할 전망이다. 베네수엘라는 2007년부터, 한국은 2016년부터 상대국 주재 대사관을 대사대리 체제로 운영해 왔다.",
-   "press": "세계일보",
-   "source": "세계일보",
-   "link": "https://n.news.naver.com/article/022/0004174710",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/03.png",
+   "pngBytes": 579675,
+   "title": "한동훈 “李, 확정적 ‘시한부 대통령’”…최민희 녹취록으로 공세",
+   "summary": "",
+   "summary_long": "",
+   "press": "조선비즈",
+   "source": "조선비즈",
+   "link": "https://n.news.naver.com/article/366/0001204749",
    "selection": "정치",
-   "feed": "뉴스 02. [단독] 韓·‘원유 매장량 세계 1위’ 베네수엘라, 대사급 외교관계 복원 합의\n\n한국이 원유 매장량 세계 1위인 베네수엘라와 대사급 관계를 복원하는 데 뜻을 모았다. 최준호 외교부 중남미국장(오른쪽)이 베네수엘라 카라카스에서 유리 피멘텔 모우라 외교통상부 제1차관과 면담하고 있다. 외교부 제공 12일 베네수엘라 외교가에 따르면 베네수엘라 측은 지난 4∼5일 수도 카라카스를 방문한 최준호 외교부 중남미국장에게 대사급 관계 복원 의사를 전달했고, 한국 측도 이에 공감한 것으로 전해졌다.\n\n베네수엘라 측은 2016년 임기모 당시 중남미국장 이후 10년 만에 이뤄진 한국 외교부 국장급 인사의 방문을 높이 평가한 것으로 알려졌다. 대사급 관계의 복원 시점은 아직 정해지지 않았으나, 베네수엘라 정부는 이르면 내년 중 차기 주한대사에 대한 아그레망(주재국의 사전 동의)을 한국 정부에 요청할 전망이다. 베네수엘라는 2007년부터, 한국은 2016년부터 상대국 주재 대사관을 대사대리 체제로 운영해 왔다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004174710"
+   "feed": "뉴스 02. 한동훈 “李, 확정적 ‘시한부 대통령’”…최민희 녹취록으로 공세\n\n\n\n출처: 조선비즈 / https://n.news.naver.com/article/366/0001204749"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/04.png",
-   "pngBytes": 2173324,
-   "title": "정우성·염정아가 첫 손님…853억 쏟은 ‘국내 최대 촬영장’ 어디",
-   "summary": "한적한 마을을 지나 부산기장촬영소 입구에 들어서자 광활한 부지에 들어선 대형 실내 스튜디오 3개 동이 모습을 드러냈다. 부산기장촬영소는 15만8412㎡ 부지에 조성됐으며…",
-   "summary_long": "국내 최대 규모의 공공 종합촬영소인 '부산기장촬영소' 전경. 한적한 마을을 지나 부산기장촬영소 입구에 들어서자 광활한 부지에 들어선 대형 실내 스튜디오 3개 동이 모습을 드러냈다. 이진욱 영화진흥위원회(영진위) 촬영소운영팀장은 “촬영감독과 조명감독들의 의견을 반영해 조명과 세트 장치를 가장 효율적으로 설치할 수 있도록 설계했다”며 “천장 공간을 활용해 대형 세트를 자유롭게 연출할 수 있는 것이 강점”이라고 설명했다.\n\n이 팀장은 “현재 방영 중인 tvN ‘100일의 거짓말’의 경성역 세트장을 비롯해 화려한 저택, SF 영화 배경까지 다양한 세트 연출이 가능하다”며 “세트장이 한번 설치되면 평균 두 달 정도 촬영이 진행된다”고 설명했다. 영진위가 853억원을 들여 조성한 국내 최대 규모의 공공 종합촬영소인 부산기장촬영소가 다음 달 첫 촬영을 시작한다. 이 팀장은 “다양한 제작사가 이용할 수 있도록 단기간 촬영하는 작품을 우선 유치할 계획”이라며 “독립영화 제작사에는 대관료 일부를 지원해준다”고 했다.",
-   "press": "중앙일보",
-   "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003564628",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/04.png",
+   "pngBytes": 578127,
+   "title": "[단독] 세무사 수석 합격자 한원석씨 \"AI 안경? 말도 안 된다\"",
+   "summary": "",
+   "summary_long": "",
+   "press": "한국경제",
+   "source": "한국경제",
+   "link": "https://n.news.naver.com/article/015/0005353792",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 정우성·염정아가 첫 손님…853억 쏟은 ‘국내 최대 촬영장’ 어디\n\n국내 최대 규모의 공공 종합촬영소인 '부산기장촬영소' 전경. 한적한 마을을 지나 부산기장촬영소 입구에 들어서자 광활한 부지에 들어선 대형 실내 스튜디오 3개 동이 모습을 드러냈다. 이진욱 영화진흥위원회(영진위) 촬영소운영팀장은 “촬영감독과 조명감독들의 의견을 반영해 조명과 세트 장치를 가장 효율적으로 설치할 수 있도록 설계했다”며 “천장 공간을 활용해 대형 세트를 자유롭게 연출할 수 있는 것이 강점”이라고 설명했다.\n\n이 팀장은 “현재 방영 중인 tvN ‘100일의 거짓말’의 경성역 세트장을 비롯해 화려한 저택, SF 영화 배경까지 다양한 세트 연출이 가능하다”며 “세트장이 한번 설치되면 평균 두 달 정도 촬영이 진행된다”고 설명했다. 영진위가 853억원을 들여 조성한 국내 최대 규모의 공공 종합촬영소인 부산기장촬영소가 다음 달 첫 촬영을 시작한다. 이 팀장은 “다양한 제작사가 이용할 수 있도록 단기간 촬영하는 작품을 우선 유치할 계획”이라며 “독립영화 제작사에는 대관료 일부를 지원해준다”고 했다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003564628"
+   "feed": "뉴스 03. [단독] 세무사 수석 합격자 한원석씨 \"AI 안경? 말도 안 된다\"\n\n\n\n출처: 한국경제 / https://n.news.naver.com/article/015/0005353792"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/05.png",
-   "pngBytes": 1002186,
-   "title": "아기들 얼굴 텀블러로 가격…어린이집서 “50일 간 530번 넘게 학대”",
-   "summary": "\"어린이집에서 아동 학대가 이뤄지는 것 같아요. 강원도 강릉의 한 어린이집에서 아동 학대가 의심된다는 신고가 경찰에 접수된 건 지난 8월 24일이었습니다.",
-   "summary_long": "\"어린이집에서 아동 학대가 이뤄지는 것 같아요. 강원도 강릉의 한 어린이집에서 아동 학대가 의심된다는 신고가 경찰에 접수된 건 지난 8월 24일이었습니다. CCTV 영상에서는 어린이집 교사들의 상습 아동 학대 정황이 고스란히 담겨있었습니다.\n\n경찰은 사안의 중대성을 고려해 해당 어린이집 교사 3명을 아동 학대 혐의 등으로 구속했습니다. 교사 B 씨는 지난 7월 6일, 기저귀로 2살 아이의 얼굴을 때리고 손으로 허벅지를 때리는 등 214차례에 걸쳐 아동 학대를 한 혐의입니다. 이번 아동 학대 혐의로 기소된 교사 5명 중 1명은 다른 어린이집에서도 근무했습니다.",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/05.png",
+   "pngBytes": 1755157,
+   "title": "배우 고경표, 서울 마포구서 음주운전하다 청소차 들이받아",
+   "summary": "배우 고경표 씨가 술을 마신 채 차량을 운전하다 다른 차량을 들이받는 사고를 냈습니다. 고 씨는 오늘 새벽 3시 반쯤 서울 마포구 동교동에서 음주 상태로 자신의 승용차를…",
+   "summary_long": "배우 고경표 씨가 술을 마신 채 차량을 운전하다 다른 차량을 들이받는 사고를 냈습니다. 서울 마포경찰서는 오늘(14일) 고 씨를 도로교통법 위반(음주운전) 혐의로 입건해 조사하고 있다고 밝혔습니다. 고 씨는 오늘 새벽 3시 반쯤 서울 마포구 동교동에서 음주 상태로 자신의 승용차를 운전하던 중 청소차를 들이받는 사고를 냈습니다.\n\n사고 당시 고 씨의 혈중알코올농도는 면허 취소 수준이었던 거로 확인됐습니다. 경찰 관계자는 \"동승자는 없었고, 부상자 여부는 확인이 필요하다\"며 추후 고 씨를 다시 불러 정확한 사고 경위를 파악할 예정이라고 설명했습니다.",
    "press": "KBS",
    "source": "KBS",
-   "link": "https://n.news.naver.com/article/056/0012292204",
+   "link": "https://n.news.naver.com/article/056/0012293903",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 아기들 얼굴 텀블러로 가격…어린이집서 “50일 간 530번 넘게 학대”\n\n\"어린이집에서 아동 학대가 이뤄지는 것 같아요. 강원도 강릉의 한 어린이집에서 아동 학대가 의심된다는 신고가 경찰에 접수된 건 지난 8월 24일이었습니다. CCTV 영상에서는 어린이집 교사들의 상습 아동 학대 정황이 고스란히 담겨있었습니다.\n\n경찰은 사안의 중대성을 고려해 해당 어린이집 교사 3명을 아동 학대 혐의 등으로 구속했습니다. 교사 B 씨는 지난 7월 6일, 기저귀로 2살 아이의 얼굴을 때리고 손으로 허벅지를 때리는 등 214차례에 걸쳐 아동 학대를 한 혐의입니다. 이번 아동 학대 혐의로 기소된 교사 5명 중 1명은 다른 어린이집에서도 근무했습니다.\n\n출처: KBS / https://n.news.naver.com/article/056/0012292204"
+   "feed": "뉴스 04. 배우 고경표, 서울 마포구서 음주운전하다 청소차 들이받아\n\n배우 고경표 씨가 술을 마신 채 차량을 운전하다 다른 차량을 들이받는 사고를 냈습니다. 서울 마포경찰서는 오늘(14일) 고 씨를 도로교통법 위반(음주운전) 혐의로 입건해 조사하고 있다고 밝혔습니다. 고 씨는 오늘 새벽 3시 반쯤 서울 마포구 동교동에서 음주 상태로 자신의 승용차를 운전하던 중 청소차를 들이받는 사고를 냈습니다.\n\n사고 당시 고 씨의 혈중알코올농도는 면허 취소 수준이었던 거로 확인됐습니다. 경찰 관계자는 \"동승자는 없었고, 부상자 여부는 확인이 필요하다\"며 추후 고 씨를 다시 불러 정확한 사고 경위를 파악할 예정이라고 설명했습니다.\n\n출처: KBS / https://n.news.naver.com/article/056/0012293903"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/06.png",
-   "pngBytes": 1501613,
-   "title": "복당은 막혔는데 사퇴 요구?…한동훈, 장동혁과 정면충돌하는 이유",
-   "summary": "12일 정치권에 따르면 국민의힘 지도부는 이날 비공개 최고위원회의에서 한 의원의 제명 징계에 조작 의혹을 제기한 황경성 중앙윤리위원의 주장을 확인하기로 했다. 앞서 황…",
-   "summary_long": "12일 정치권에 따르면 국민의힘 지도부는 이날 비공개 최고위원회의에서 한 의원의 제명 징계에 조작 의혹을 제기한 황경성 중앙윤리위원의 주장을 확인하기로 했다. 최보윤 국민의힘 수석대변인은 최고위원회의 직후 기자들과 만나 \"황 윤리위원에게 최고위에서 연락을 취할 것\"이라며 \"오늘이라도 비공개 최고위를 열고 어떤 근거로 그런 발언을 한 것인지 정확히 파악하는 절차를 거치게 될 것\"이라고 밝혔다. 앞서 황 윤리위원은 지난 11일 한 의원 제명부터 진종오 국민의힘 의원 징계까지 윤리위의 조작 징계가 이뤄졌다고 주장했다.\n\n이후 한 의원은 곧바로 기자회견을 열고 \"윤리위를 동원한 제 제명이 특정인의 정치적 이익을 위한 정치적 숙청이었다는 실체가 분명히 드러났다\"며 장 대표의 사퇴를 요구했다. 안철수 국민의힘 의원은 이날 SNS(소셜미디어)에서 한 의원의 복당을 요구하는 움직임을 향해 \"복당의 강에 보수우파와 국민의힘 당원 모두 다 빠져 죽자는 물귀신 행태\"라고 비판했다. 오 시장은 전날 SNS에 \"한 의원의 복당이 총선 승리를 위해 반드시 필요하다고 생각한다\"면서도 \"당내 구성원들이 흔쾌히 받아들일 수 있는 공감대가 먼저 형성돼야 한다\"고 밝혔다.",
-   "press": "머니투데이",
-   "source": "머니투데이",
-   "link": "https://n.news.naver.com/article/008/0005440216",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/06.png",
+   "pngBytes": 1808738,
+   "title": "'북동영 장관' 부른 박충권, 그에게 '당사자'는 누구인가",
+   "summary": "'북향민' 호칭 싸움에 정작 당사자는 없었다. 그렇다고 박 의원이 북향민 호칭을 당사자 전체가 반대하는 이름인 것처럼 주장할 근거가 충분한 것도 아니다.",
+   "summary_long": "'북향민' 호칭 싸움에 정작 당사자는 없었다. 앞서 지난 회의에서 정동영 장관이 답변할 때 '북향민' 표현을 지속 사용한 데 대한 불만이었다. \"북동영 장관님, 장관님은 저를 '북향민'이라고 불러도 됩니까?\"\n\n북한이탈주민 출신 국회의원으로서, 그리고 북향민 사회의 목소리를 대변해야 할 사람으로서 더욱 신중했어야 할 행동이다. 북향민 호칭을 강하게 반대하는 단체의 주장도 존중받아야 하지만, 그것이 전체 북한이탈주민의 뜻이라고 볼 수는 없다. 그렇다고 박 의원이 북향민 호칭을 당사자 전체가 반대하는 이름인 것처럼 주장할 근거가 충분한 것도 아니다.",
+   "press": "오마이뉴스",
+   "source": "오마이뉴스",
+   "link": "https://n.news.naver.com/article/047/0002535858",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 복당은 막혔는데 사퇴 요구?…한동훈, 장동혁과 정면충돌하는 이유\n\n12일 정치권에 따르면 국민의힘 지도부는 이날 비공개 최고위원회의에서 한 의원의 제명 징계에 조작 의혹을 제기한 황경성 중앙윤리위원의 주장을 확인하기로 했다. 최보윤 국민의힘 수석대변인은 최고위원회의 직후 기자들과 만나 \"황 윤리위원에게 최고위에서 연락을 취할 것\"이라며 \"오늘이라도 비공개 최고위를 열고 어떤 근거로 그런 발언을 한 것인지 정확히 파악하는 절차를 거치게 될 것\"이라고 밝혔다. 앞서 황 윤리위원은 지난 11일 한 의원 제명부터 진종오 국민의힘 의원 징계까지 윤리위의 조작 징계가 이뤄졌다고 주장했다.\n\n이후 한 의원은 곧바로 기자회견을 열고 \"윤리위를 동원한 제 제명이 특정인의 정치적 이익을 위한 정치적 숙청이었다는 실체가 분명히 드러났다\"며 장 대표의 사퇴를 요구했다. 안철수 국민의힘 의원은 이날 SNS(소셜미디어)에서 한 의원의 복당을 요구하는 움직임을 향해 \"복당의 강에 보수우파와 국민의힘 당원 모두 다 빠져 죽자는 물귀신 행태\"라고 비판했다. 오 시장은 전날 SNS에 \"한 의원의 복당이 총선 승리를 위해 반드시 필요하다고 생각한다\"면서도 \"당내 구성원들이 흔쾌히 받아들일 수 있는 공감대가 먼저 형성돼야 한다\"고 밝혔다.\n\n출처: 머니투데이 / https://n.news.naver.com/article/008/0005440216"
+   "feed": "뉴스 05. '북동영 장관' 부른 박충권, 그에게 '당사자'는 누구인가\n\n'북향민' 호칭 싸움에 정작 당사자는 없었다. 앞서 지난 회의에서 정동영 장관이 답변할 때 '북향민' 표현을 지속 사용한 데 대한 불만이었다. \"북동영 장관님, 장관님은 저를 '북향민'이라고 불러도 됩니까?\"\n\n북한이탈주민 출신 국회의원으로서, 그리고 북향민 사회의 목소리를 대변해야 할 사람으로서 더욱 신중했어야 할 행동이다. 북향민 호칭을 강하게 반대하는 단체의 주장도 존중받아야 하지만, 그것이 전체 북한이탈주민의 뜻이라고 볼 수는 없다. 그렇다고 박 의원이 북향민 호칭을 당사자 전체가 반대하는 이름인 것처럼 주장할 근거가 충분한 것도 아니다.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002535858"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/07.png",
-   "pngBytes": 576564,
-   "title": "장동혁, 한동훈 겨냥 “당게 사건은 패륜·조작·분열의 씨앗”",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/07.png",
+   "pngBytes": 590456,
+   "title": "문진석 \"尹과 李 재판 완전 달라\" vs 한동훈 \"다르다, 李는 무죄 가능성 0\"",
    "summary": "",
    "summary_long": "",
-   "press": "중앙일보",
-   "source": "중앙일보",
-   "link": "https://n.news.naver.com/article/025/0003564819",
+   "press": "뉴스1",
+   "source": "뉴스1",
+   "link": "https://n.news.naver.com/article/421/0009288790",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 장동혁, 한동훈 겨냥 “당게 사건은 패륜·조작·분열의 씨앗”\n\n\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003564819"
+   "feed": "뉴스 06. 문진석 \"尹과 李 재판 완전 달라\" vs 한동훈 \"다르다, 李는 무죄 가능성 0\"\n\n\n\n출처: 뉴스1 / https://n.news.naver.com/article/421/0009288790"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/08.png",
-   "pngBytes": 584744,
-   "title": "‘조작 징계’ 의혹 터진 국힘… 韓 “즉각 무효화” 張 “당 흔들기” 충돌",
-   "summary": "",
-   "summary_long": "",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004009156",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/08.png",
+   "pngBytes": 1654404,
+   "title": "[속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전",
+   "summary": "한동훈 무소속 의원이 이재명 대통령의 공직선거법 위반 사건 재판을 겨냥해 ‘확정적인 시한부 대통령’이라는 표현을 거듭 사용하며 더불어민주당 지도부와 소셜네트워크서비스에서…",
+   "summary_long": "한동훈 무소속 의원이 이재명 대통령의 공직선거법 위반 사건 재판을 겨냥해 ‘확정적인 시한부 대통령’이라는 표현을 거듭 사용하며 더불어민주당 지도부와 소셜네트워크서비스(SNS)에서 정면으로 충돌했다. 한 의원은 13일 밤 자신의 페이스북에 글을 올려 민주당 측이 이 대통령 재판과 윤석열 전 대통령의 재판은 성격이 다르다고 반박한 점을 정면으로 받아쳤다. 그는 “이 대통령 재판은 윤 전 대통령 재판과 달리 대법원 판결까지 나와서 훨씬 더 빼박이란 점이 다르죠”라고 주장했다.\n\n한 의원은 윤 전 대통령의 재판은 대법원 3심 절차가 남아 있어 유무죄 판단이 바뀔 여지가 있지만, 이 대통령의 공직선거법 사건은 이미 대법원 전원합의체가 유죄 취지로 파기환송했기 때문에 무죄로 뒤집힐 가능성이 전혀 없다는 논리를 폈다. 이에 한 의원이 해당 보도를 SNS에 공유하며 최 최고위원의 말이 맞고, 재판만 열리면 이 대통령은 당선무효형 유죄 판결을 받을 것이라고 주장하면서 여야 간 공방으로 확산했다. 이 대통령의 공직선거법 사건은 대법원 전원합의체에서 유죄 취지로 파기환송됐으나, 파기환송 판결 자체가 최종 유죄 확정을 뜻하는 것은 아니며 향후 파기환송심 등 재판 절차가 별도로 남아 있다.",
+   "press": "세계일보",
+   "source": "세계일보",
+   "link": "https://n.news.naver.com/article/022/0004175065",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. ‘조작 징계’ 의혹 터진 국힘… 韓 “즉각 무효화” 張 “당 흔들기” 충돌\n\n\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004009156"
+   "feed": "뉴스 07. [속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전\n\n한동훈 무소속 의원이 이재명 대통령의 공직선거법 위반 사건 재판을 겨냥해 ‘확정적인 시한부 대통령’이라는 표현을 거듭 사용하며 더불어민주당 지도부와 소셜네트워크서비스(SNS)에서 정면으로 충돌했다. 한 의원은 13일 밤 자신의 페이스북에 글을 올려 민주당 측이 이 대통령 재판과 윤석열 전 대통령의 재판은 성격이 다르다고 반박한 점을 정면으로 받아쳤다. 그는 “이 대통령 재판은 윤 전 대통령 재판과 달리 대법원 판결까지 나와서 훨씬 더 빼박이란 점이 다르죠”라고 주장했다.\n\n한 의원은 윤 전 대통령의 재판은 대법원 3심 절차가 남아 있어 유무죄 판단이 바뀔 여지가 있지만, 이 대통령의 공직선거법 사건은 이미 대법원 전원합의체가 유죄 취지로 파기환송했기 때문에 무죄로 뒤집힐 가능성이 전혀 없다는 논리를 폈다. 이에 한 의원이 해당 보도를 SNS에 공유하며 최 최고위원의 말이 맞고, 재판만 열리면 이 대통령은 당선무효형 유죄 판결을 받을 것이라고 주장하면서 여야 간 공방으로 확산했다. 이 대통령의 공직선거법 사건은 대법원 전원합의체에서 유죄 취지로 파기환송됐으나, 파기환송 판결 자체가 최종 유죄 확정을 뜻하는 것은 아니며 향후 파기환송심 등 재판 절차가 별도로 남아 있다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004175065"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-13/09.png",
-   "pngBytes": 1346421
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-15/09.png",
+   "pngBytes": 1346091
   }
  ],
- "caption": "📰 11월 13일 오늘의 뉴스\n\n1. 이 대통령과 나란히 첫 삽 뜬 이재용…안경 벗은 모습 '눈길'\n   이재명 대통령이 12일 충남 아산 삼성전자 온양캠퍼스 건설 현장에서 열린 충청권 메가프로젝트 착공식에 참석해 이재용 삼성전자 회장과 프로젝트 진행 상황을 담은 홍보…\n2. [단독] 韓·‘원유 매장량 세계 1위’ 베네수엘라, 대사급 외교관계 복원 합의\n   최준호 외교부 중남미국장이 베네수엘라 카라카스에서 유리 피멘텔 모우라 외교통상부 제1차관과 면담하고 있다. 외교부 제공 12일 베네수엘라 외교가에 따르면 베네수엘라 측은…\n3. 정우성·염정아가 첫 손님…853억 쏟은 ‘국내 최대 촬영장’ 어디\n   한적한 마을을 지나 부산기장촬영소 입구에 들어서자 광활한 부지에 들어선 대형 실내 스튜디오 3개 동이 모습을 드러냈다. 부산기장촬영소는 15만8412㎡ 부지에 조성됐으며…\n4. 아기들 얼굴 텀블러로 가격…어린이집서 “50일 간 530번 넘게 학대”\n   \"어린이집에서 아동 학대가 이뤄지는 것 같아요. 강원도 강릉의 한 어린이집에서 아동 학대가 의심된다는 신고가 경찰에 접수된 건 지난 8월 24일이었습니다.\n5. 복당은 막혔는데 사퇴 요구?…한동훈, 장동혁과 정면충돌하는 이유\n   12일 정치권에 따르면 국민의힘 지도부는 이날 비공개 최고위원회의에서 한 의원의 제명 징계에 조작 의혹을 제기한 황경성 중앙윤리위원의 주장을 확인하기로 했다. 앞서 황…\n6. 장동혁, 한동훈 겨냥 “당게 사건은 패륜·조작·분열의 씨앗”\n7. ‘조작 징계’ 의혹 터진 국힘… 韓 “즉각 무효화” 張 “당 흔들기” 충돌\n\n🗣 “오늘 우리가 함께 뜬 첫 삽이 충청의 눈부신 도약을 넘어 누구도 넘볼 수 없는 '대체불가 대한민국'을 세우는 굳건한 디딤돌이 되기를 기대한다”\n이 발언을 그대로 실은 보도 10건 · KB Think · 연합뉴스 · CEO스코어데일리 · 매일경제TV\n· KB Think — 李대통령, 이재용에 공개 감사…나란히 첫 삽 뜨며 '충청 투자 동행'\n· 연합뉴스 — 3대 메가, 충청서 본격 시동…李대통령·이재용 나란히 '첫 삽'(종합)\n· CEO스코어데일리 — 李대통령, 이재용 회장과 충청 메가 프로젝트 ‘첫 삽’…“‘대체 불가 대한민국’ 세울 것”\n· 매일경제TV — '3대 메가' 이 대통령·이재용, 충청서 나란히 '첫 삽'\n· 조세일보 — '충청권 메가프로젝트' 첫 삽…이 대통령 \"대체불가 대한민국 세우는 디딤돌\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: KBS, MBN, 머니투데이, 세계일보, 조선일보, 중앙일보"
+ "caption": "📰 11월 15일 오늘의 뉴스\n\n1. 한동훈 “이재명 대통령, 조작기소특검법 총리에게 떠넘겨…직접 할 배짱 없으면 접어야”\n2. 한동훈 “李, 확정적 ‘시한부 대통령’”…최민희 녹취록으로 공세\n3. [단독] 세무사 수석 합격자 한원석씨 \"AI 안경? 말도 안 된다\"\n4. 배우 고경표, 서울 마포구서 음주운전하다 청소차 들이받아\n   배우 고경표 씨가 술을 마신 채 차량을 운전하다 다른 차량을 들이받는 사고를 냈습니다. 고 씨는 오늘 새벽 3시 반쯤 서울 마포구 동교동에서 음주 상태로 자신의 승용차를…\n5. '북동영 장관' 부른 박충권, 그에게 '당사자'는 누구인가\n   '북향민' 호칭 싸움에 정작 당사자는 없었다. 그렇다고 박 의원이 북향민 호칭을 당사자 전체가 반대하는 이름인 것처럼 주장할 근거가 충분한 것도 아니다.\n6. 문진석 \"尹과 李 재판 완전 달라\" vs 한동훈 \"다르다, 李는 무죄 가능성 0\"\n7. [속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전\n   한동훈 무소속 의원이 이재명 대통령의 공직선거법 위반 사건 재판을 겨냥해 ‘확정적인 시한부 대통령’이라는 표현을 거듭 사용하며 더불어민주당 지도부와 소셜네트워크서비스에서…\n\n🗣 “확정적인 시한부 대통령 맞습니다”\n이 발언을 그대로 실은 보도 3건 · 세계일보 · 경기일보 · 키즈맘\n· 세계일보 — [속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전\n· 경기일보 — 한동훈 “이재명, 확정적 ‘시한부 대통령’…윤석열보다 더 빼박”\n· 키즈맘 — 한동훈 “이재명·윤석열 재판 다르다…李는 대법원 유죄 취지 판단”\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #AI #대통령실\n\n출처: KBS, 강원일보, 뉴스1, 세계일보, 오마이뉴스, 조선비즈, 한국경제"
 }
