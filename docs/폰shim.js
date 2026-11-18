@@ -533,6 +533,15 @@
       } catch (e) { return err(e.message); }
     }
 
+    if (path === '/api/ai-prompt') {
+      const text = String(body.text || '').trim();
+      const D = global.NBD_AI_DATA;
+      if (!text) return err('본문이 비어 있습니다.');
+      if (!D || !D.chat_prompt) return err('AI 재료(ai_data.js)를 못 찾았습니다. 새로고침해 보세요.');
+      return json({ ok: true, prompt: D.chat_prompt.split('@@TITLE@@').join(body.title || '')
+        .split('@@TEXT@@').join(text.slice(0, 12000)) });
+    }
+
     if (path === '/api/stock') {
       const prov = query.get('provider') || 'openverse';
       const term = (query.get('q') || '').trim();

@@ -168,6 +168,11 @@ def main():
     import ai
     문 = ai._prompt("caption_nbd", "본문", "제목", 3)
     확인("AI 요청문에 틀이 있다", all(x in 문 for x in ("📌 무슨 일이야?", "📊 짚어볼 점", "💬 독자 질문", "출처:")))
+    챗 = ai.chat_prompt("[언론사] 매체\n\n기사 본문입니다", "원제목")
+    확인("복사용 요청문: 규칙·예시·기사 포함",
+        all(x in 챗 for x in ("📊 짚어볼 점", "서울 집값", "[언론사] 매체", "기사 본문입니다", "[원문 제목] 원제목")))
+    확인("복사용 요청문: JSON 요구 없음", "JSON" not in 챗 and "완성한 게시글만" in 챗)
+    확인("API 요청문은 JSON 유지", "JSON:" in 문 and "서울 집값" in 문)
     원래 = ai._anthropic
     ai._anthropic = lambda *a: {"texts": [{"style": "x", "text": " 글 "}, {"style": "y", "text": "둘째"}]}
     try:

@@ -190,6 +190,7 @@ def ai_data() -> str:
                for t in ("copy", "series", "caption", "caption_nbd")}
     import json
     data = {"system": ai.SYSTEM, "schemas": ai.SCHEMAS, "prompts": prompts,
+            "chat_prompt": ai.chat_prompt("@@TEXT@@", "@@TITLE@@"),
             "model": ai.DEFAULT_MODEL, "url": ai.ANTHROPIC_URL}
     return ("/* 자동 생성 - newsfeed/ai.py 에서 뽑았다. 여기를 고치지 말고 ai.py 를 고친 뒤 "
             "폰판_만들기.py 를 다시 돌릴 것 */\nwindow.NBD_AI_DATA = "

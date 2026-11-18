@@ -361,6 +361,8 @@ class Handler(BaseHTTPRequestHandler):
                 return self._series()
             if u.path == "/api/ai":
                 return self._ai()
+            if u.path == "/api/ai-prompt":
+                return self._ai_prompt()
             if u.path == "/api/related":
                 return self._related()
             if u.path == "/api/fetch-many":
@@ -463,6 +465,14 @@ class Handler(BaseHTTPRequestHandler):
         cfg = d.get("ai") or {}
         out = ai.run(task, body, d.get("title", ""), int(d.get("n") or 3), cfg)
         return self._send(200, {"ok": True, "result": out, "task": task})
+
+    def _ai_prompt(self):
+        """Claude 대화창에 붙여 넣을 요청문을 만든다. 키도 외부 호출도 없다."""
+        d = self._json_body()
+        body = (d.get("text") or "").strip()
+        if not body:
+            return self._err("본문이 비어 있습니다.")
+        return self._send(200, {"ok": True, "prompt": ai.chat_prompt(body[:12000], d.get("title", ""))})
 
     def _related(self):
         """같은 시각대에 나온 유사 기사 찾기. 구글/빙 뉴스 RSS를 쓴다(키 불필요)."""
