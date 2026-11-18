@@ -158,6 +158,7 @@ const STYLES = [
   { id:'question', name:'질문 던지기', note:'표지 후킹을 첫 줄로. 댓글을 부르는 결.' },
   { id:'oneline',  name:'한 줄 + 태그', note:'카드가 이미 다 말한 경우. 캡션은 짧게.' },
   { id:'cards',    name:'카드 대사 뽑기', note:'카드 한 장씩 넣을 문구를 장 단위로. 앞장에 옮겨 쓰는 용.' },
+  { id:'nbd',      name:'뉴보대 형식', note:'기사 문장을 게시글 틀에 맞춰 넣습니다. 완성 글은 ✨ AI 로 쓰기.' },
 ];
 /* 어디에 올리나 — 같은 글이라도 스레드는 500자, X 는 280자에서 잘린다.
    글투(무엇을 쓰나)와 채널(어디에 올리나)을 따로 고른다. 채널은 문장을 새로 쓰지 않고
@@ -368,6 +369,7 @@ STYLES.forEach(s => {
     document.querySelectorAll('.styles button').forEach((x, i) => x.classList.toggle('on', STYLES[i].id === style));
     $('styleName').textContent = s.name;
     $('styleNote').textContent = s.note;
+    syncAiLabel();
     loadTitles();                      // 글투가 바뀌면 제목 결도 달라진다
     if ($('out').value.trim()) $('btnMake').click();
   });
@@ -403,6 +405,7 @@ $('btnMake').addEventListener('click', async () => {
       main, style, channel, related: rel.filter((_, i) => picked.has(i))
     });
     $('out').value = j.text;
+    NAV.setFeedText(j.text);           // 응답이 온 뒤에 넘겨야 인스타 올리기에 새 글이 간다
     const 한계 = j.limit ? `${j.channelName} 상한 ${j.limit.toLocaleString()}자` : `${j.channelName} · 길이 제한 없음`;
     $('count').textContent = `${j.chars}자 / ${한계}`;
     $('count').className = 'n' + (j.warn ? ' over' : '');
@@ -411,6 +414,21 @@ $('btnMake').addEventListener('click', async () => {
 });
 
 /* ── AI 로 쓰기 — 만들기 화면(app.js)의 AI 설정(localStorage nb_ai)을 같이 쓴다 ── */
+function syncAiLabel() {
+  $('btnMakeAI').textContent = style === 'nbd'
+    ? '✨ AI 로 쓰기 (뉴보대 형식)' : '✨ AI 로 쓰기 (뉴스 전달형·매거진형·짧은 브리핑)';
+}
+/* 뉴보대 형식은 출처 줄까지 쓰므로 언론사·날짜와, 체크한 관련 기사 본문을 함께 넘긴다 */
+function aiSource() {
+  if (style !== 'nbd') return main.body;
+  const head = [main.press && `[언론사] ${main.press}`, main.date && `[발행 시각] ${main.date}`]
+    .filter(Boolean).join('\n');
+  const parts = [(head ? head + '\n\n' : '') + main.body.slice(0, 7000)];
+  rel.filter((r, i) => picked.has(i) && (r.body || '').trim()).slice(0, 3).forEach(r => {
+    parts.push(`[함께 볼 기사] ${r.press || '언론사 미상'} (${r.date || '날짜 미상'}) ${r.title || ''}\n${r.body.slice(0, 1500)}`);
+  });
+  return parts.join('\n\n');
+}
 function aiCfgFeed() {
   let c = {};
   try { c = JSON.parse(localStorage.getItem('nb_ai') || '{}'); } catch (e) { c = {}; }
@@ -429,7 +447,8 @@ $('btnMakeAI').addEventListener('click', async () => {
   const p = (typeof PROG !== 'undefined') ? PROG.start('btnMakeAI', 'AI 가 쓰는 중') : null;
   try {
     if (p) await p.at(0.15, 'AI 가 쓰는 중');
-    const j = await api('/api/ai', { task: 'caption', text: main.body, title: main.title || '', ai: aiCfgFeed() });
+    const j = await api('/api/ai', { task: style === 'nbd' ? 'caption_nbd' : 'caption',
+                                     text: aiSource(), title: main.title || '', ai: aiCfgFeed() });
     const texts = (j.result && j.result.texts) || [];
     if (!texts.length) throw new Error('AI 가 글을 돌려주지 않았습니다.');
     const box = $('aiPicks'); box.innerHTML = '';
@@ -448,7 +467,9 @@ $('btnMakeAI').addEventListener('click', async () => {
       if (i === 0) c.click();
     });
     if (p) p.done('AI 글');
-    msg($('msg'), `AI 글 ${texts.length}개를 받았습니다. 오른쪽 칩을 눌러 바꿔 보세요. 출처 표기 줄은 직접 붙이세요.`, 'ok');
+    msg($('msg'), style === 'nbd'
+      ? 'AI 글을 받았습니다. 숫자·이름·출처를 기사와 대조한 뒤 올리세요.'
+      : `AI 글 ${texts.length}개를 받았습니다. 오른쪽 칩을 눌러 바꿔 보세요. 출처 표기 줄은 직접 붙이세요.`, 'ok');
   } catch (e) {
     if (p) p.fail('실패');
     msg($('msg'), 'AI 실패: ' + e.message, 'err');

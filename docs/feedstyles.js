@@ -23,6 +23,7 @@
     { id: 'question', name: '질문 던지기', note: '표지 후킹을 첫 줄로. 댓글을 부르는 결.' },
     { id: 'oneline', name: '한 줄 + 태그', note: '카드가 이미 다 말한 경우. 캡션은 짧게.' },
     { id: 'cards', name: '카드 대사 뽑기', note: '카드 한 장씩 넣을 문구를 장 단위로.' },
+    { id: 'nbd', name: '뉴보대 형식', note: '기사 문장을 게시글 틀에 맞춰 넣습니다. 완성 글은 ✨ AI 로 쓰기.' },
   ];
 
   /* 어디에 올리나 — feed.py 의 CHANNELS 와 같은 표. 문장을 새로 쓰지 않고
@@ -37,7 +38,9 @@
   const channelOf = (id) => CHANNELS.find(c => c.id === id) || CHANNELS[0];
 
   /** 내용이 다 잘려 혼자 남은 절 제목인가. */
-  const 머리만 = (s) => ['📌', '📊', '🔁', '🗞', '🗣', '🗂', '—'].includes((s || '').trim().slice(0, 1));
+  const 머리만 = (s) => ['📌', '📊', '💬', '🔁', '🗞', '🗣', '🗂', '—'].includes(Array.from((s || '').trim())[0]);
+  /** 출처 줄인가. 뉴보대 형식은 게시글 그대로 `출처: 매체(날짜)` 로 쓴다. */
+  const 출처줄 = (l) => l.startsWith('🔗') || l.startsWith('출처:');
 
   /** 이미 쓴 글을 채널 규격에 맞춘다. 기본값(인스타)은 손대지 않는다. */
   function shape(text, tags, channel) {
@@ -45,15 +48,16 @@
     if (ch.id === 'instagram') return text;
     tags = (tags || []).slice();
     const 줄 = String(text || '').split('\n');
-    const 출처 = 줄.find(l => l.startsWith('🔗')) || '';
-    let 몸 = 줄.filter(l => !l.startsWith('🔗') && !l.startsWith('※') && !l.trim().startsWith('#'));
+    const 출처 = 줄.find(출처줄) || '';
+    const 안내 = 줄.some(l => l.startsWith('※'));   // 원래 없던 글에는 새로 붙이지 않는다
+    let 몸 = 줄.filter(l => !출처줄(l) && !l.startsWith('※') && !l.trim().startsWith('#'));
     const 쓸태그 = ch.tags ? tags.slice(0, ch.tags) : [];
     const 짧음 = !!ch.limit && ch.limit <= 700;      // 스레드·X 는 안내문을 뺀다
 
     const 합치기 = (몸줄) => {
       const 조각 = [몸줄.join('\n').trim()];
       if (출처) 조각.push(출처);
-      if (!짧음) 조각.push(NOTE);
+      if (안내 && !짧음) 조각.push(NOTE);
       if (쓸태그.length) 조각.push(쓸태그.join(' '));
       return 조각.filter(Boolean).join('\n\n').trim();
     };
@@ -209,6 +213,105 @@
     return L;
   }
 
+  /* ── 뉴보대 형식 (feed.py 의 같은 이름 함수들과 같은 규칙) ─────────────────
+     계정에 올린 글의 틀. 규칙으로 쓸 수 없는 판단은 대괄호 빈칸으로 남긴다. */
+  const NBD_TAGS = ['뉴보대', '한국대학생포럼', '카드뉴스', '시사'];
+  const NBD_FIELDS = [
+    ['국제뉴스', ['미국', '중국', '일본', '러시아', '유럽', '트럼프', '백악관', '외교']],
+    ['정치뉴스', ['대통령', '국회', '여당', '야당', '민주당', '국민의힘', '국무회의', '선거']],
+    ['경제뉴스', ['금리', '환율', '증시', '주가', '물가', '부동산', '집값', '수출', '기업']],
+    ['과학뉴스', ['우주', '연구원', '반도체', '인공지능', '과학기술', '달 탐사']],
+  ];
+  const NBD_NEXT = /전망|예정|계획|방침|앞으로|내년|다음 달|추진|검토|관측/;
+  const NBD_BLANK = '✔️ [기사에 없는 내용이나 더 확인할 점을 적어 주세요]';
+  const NBD_TAG_BAD = /(다|며|들|까지|부터|에서|에게|보다|처럼|만큼|이라|라며|면서|하며|으로|에는|과의|와의|들이|들은|들을)$/;
+  const NBD_TAG_STOP = new Set(['명이', '이번', '지난', '오늘', '관련', '대해', '위해', '통해', '대한',
+    '것으로', '있다', '없다', '했다', '밝혔', '따르', '지난해', '올해', '라고', '하는', '된다', '이다',
+    '당시', '현재', '경우', '가운데']);
+  const 문장끝 = (s) => { s = String(s || '').trim(); return /[가-힣0-9)]$/.test(s) ? s + '.' : s; };
+
+  /** 서로 다른 문장을 기사 순서대로. summarize() 는 겹치는 묶음을 주므로 순위를 직접 쓴다. */
+  function nbdRows(item, n) {
+    const S = root.SUMMARIZER, body = String(item.body || '').trim();
+    if (!body || !S || !S.rank_sentences) return lines(item, n);
+    const 차례 = new Map(S.sentences(body).map((s, i) => [s, i]));
+    const 뽑음 = S.rank_sentences(body, item.title || '').slice(0, Math.max(n * 2, n + 3)).map(r => r[0]);
+    뽑음.sort((a, b) => (차례.has(a) ? 차례.get(a) : 1e6) - (차례.has(b) ? 차례.get(b) : 1e6));
+    const out = [], seen = new Set();
+    뽑음.forEach(s0 => {
+      const s = clean(s0), k = s.replace(/[^0-9A-Za-z가-힣]/g, '').slice(0, 24);
+      if (s.length < 10 || seen.has(k)) return;
+      seen.add(k);
+      out.push(s.length > 120 ? s.slice(0, 119) + '…' : s);
+    });
+    return out.length ? out.slice(0, n) : lines(item, n);
+  }
+
+  function 종성(c) {
+    const n = c.charCodeAt(0) - 0xAC00;
+    return n >= 0 && n <= 11171 ? n % 28 : -1;
+  }
+
+  /** 기사 끝맺음 '-다' 를 '-어요' 로. 확실한 꼴만 바꾸고 나머지는 그대로 둔다. */
+  function haeyo(문장) {
+    const s = String(문장 || '').trim();
+    const m = /^([\s\S]*?)([가-힣]*)다(\.?)$/.exec(s);
+    if (!m || !m[2]) return s;
+    const 줄기 = m[2], 막 = 줄기.slice(-1);
+    let 새;
+    if (종성(막) === 20 || 막 === '없') 새 = 줄기 + '어요';
+    else if (줄기.endsWith('아니')) 새 = 줄기 + '에요';
+    else if (줄기.endsWith('않는')) 새 = 줄기.slice(0, -1) + '아요';
+    else if (막 === '한') 새 = 줄기.slice(0, -1) + '해요';
+    else if (막 === '된') 새 = 줄기.slice(0, -1) + '돼요';
+    else if ('많같높낮'.includes(막)) 새 = 줄기 + '아요';
+    else if (막 === '이' && 줄기.length >= 2) {
+      새 = 줄기.slice(0, -1) + (종성(줄기.slice(-2, -1)) > 0 ? '이에요' : '예요');
+    } else return s;
+    return m[1] + 새 + m[3];
+  }
+
+  function nbdDate(d) {
+    const s = String(d || '').trim();
+    let m = /(\d{4})[-./](\d{1,2})[-./](\d{1,2})/.exec(s);
+    if (!m) m = /^(\d{4})(\d{2})(\d{2})/.exec(s);
+    return m ? `${m[1]}.${m[2].padStart(2, '0')}.${m[3].padStart(2, '0')}` : '';
+  }
+
+  function nbdSource(press, date, related) {
+    const 한건 = (p, d) => {
+      p = clean(p);
+      if (!p) return '';
+      const 날 = nbdDate(d);
+      return 날 ? `${p}(${날})` : p;
+    };
+    const bits = [한건(press, date)];
+    (related || []).forEach(r => {
+      if (String(r.body || '').trim()) bits.push(한건(r.press, r.date));
+    });
+    const uniq = Array.from(new Set(bits.filter(Boolean)));
+    return '출처: ' + (uniq.length ? uniq.join(', ') : '원문 기사');
+  }
+
+  function nbdTags(text, title, press) {
+    const hay = clean(text);
+    let best = '사회뉴스', top = 0;
+    NBD_FIELDS.forEach(([name, words]) => {
+      const n = words.reduce((a, w) => a + (hay.split(w).length - 1), 0);
+      if (n > top) { top = n; best = name; }
+    });
+    const out = NBD_TAGS.concat([best]);
+    const 낱말 = (root.SUMMARIZER && root.SUMMARIZER.topic_words)
+      ? (root.SUMMARIZER.topic_words(hay, 12) || []) : [];
+    낱말.concat(clean(title).split(/\s+/)).forEach(w => {
+      w = String(w || '').replace(/[^0-9A-Za-z가-힣]/g, '');
+      if (w.length < 2 || /^\d+$/.test(w) || out.includes(w) || w === press) return;
+      if (NBD_TAG_STOP.has(w) || NBD_TAG_BAD.test(w) || (/\d/.test(w) && w.length <= 3)) return;
+      out.push(w);
+    });
+    return out.slice(0, 13).map(t => '#' + t);
+  }
+
   /* ── 기사 한 건 ──────────────────────────────────────────────────────── */
   function one(item, style, opts) {
     item = item || {};
@@ -222,7 +325,30 @@
     const src = sourceLine(press, title, opts.date || item.date);
     let L = [];
 
-    if (style === 'question') {
+    if (style === 'nbd') {
+      const 제목 = title.replace(/^\[[^\]]*\]\s*/, '');
+      const 낱말 = ((root.SUMMARIZER && root.SUMMARIZER.topic_words)
+        ? (root.SUMMARIZER.topic_words(제목 + ' ' + (item.body || ''), 3) || []) : []);
+      const k0 = 낱말[0] || (제목 || '이번 사안').slice(0, 8);
+      const 줄 = nbdRows(item, 7).map(haeyo);
+      const 나머지 = 줄.slice(2);
+      const 다음 = 나머지.filter(s => NBD_NEXT.test(s)).slice(0, 1);
+      const 핵심 = 나머지.filter(s => !다음.includes(s)).slice(0, 3);
+      L = [`"${k0}, 어떻게 된 걸까요?" 🤔`, 제목, '', '📌 무슨 일이야?', 줄.slice(0, 2).map(문장끝).join(' ')];
+      if (핵심.length) L = L.concat(['', '📌 핵심만 보면'], 핵심.map(s => '✔️ ' + s));
+      if (다음.length) L = L.concat(['', '📌 앞으로는?', 문장끝(다음[0])]);
+      L.push('', '📊 짚어볼 점');
+      const q = opts.quoted && opts.quoted.items;
+      if (q && q.length) {
+        const 매체 = Array.from(new Set(q.map(r => clean(r.press)).filter(Boolean))).slice(0, 4);
+        L.push(`✔️ 같은 발언을 실은 보도 ${q.length}건: ${매체.join(', ')}`);
+      }
+      L.push(NBD_BLANK, '', '💬 독자 질문',
+        `이번 ${k0} 소식, 여러분은 어떻게 보시나요? 댓글로 생각을 남겨 주세요.`, '',
+        nbdSource(press, opts.date || item.date, opts.related), '',
+        nbdTags(clean(item.body || item.summary || '') + ' ' + 제목, 제목, press).join(' '));
+
+    } else if (style === 'question') {
       // 「인스타 올리기」의 캡션 후보에만 있던 결. 글투로도 고를 수 있게 올렸다.
       const 낱말 = ((root.SUMMARIZER && root.SUMMARIZER.topic_words)
         ? (root.SUMMARIZER.topic_words(title + ' ' + (item.body || ''), 3) || []) : []);
@@ -291,7 +417,19 @@
     const qs = quoteSection(opts.quoted, style === 'brief');
     let L = [];
 
-    if (style === 'question') {
+    if (style === 'nbd') {
+      L = [`"${날} 뉴스, 뭐가 있었을까요?" 🤔`, `오늘의 뉴스 ${items.length}꼭지`];
+      items.forEach(it => {
+        L.push('', '📌 ' + clean(it.title));
+        lines(it, 2).map(haeyo).forEach(s => L.push('✔️ ' + s));
+      });
+      L.push('', '📊 짚어볼 점', NBD_BLANK, '', '💬 독자 질문',
+        '오늘 소식 가운데 가장 눈에 띈 것은 무엇인가요?', '',
+        '출처: ' + (출처.length ? 출처.join(', ') : '원문 기사'), '',
+        nbdTags(items.map(x => (x.title || '') + ' ' + (x.summary || '')).join(' '), '').join(' '));
+      return finish(L, style, { title: `${날} 오늘의 뉴스` }, opts);
+
+    } else if (style === 'question') {
       L = [`${날}, 오늘 이 소식은 어떻게 보시나요?`, ''];
       items.forEach((it, i) => L.push(`${i + 1}. ${clean(it.title)}`));
       L = L.concat(qs, ['', '가장 눈에 띈 번호를 댓글로 남겨 주세요.', '', MINE]);
@@ -375,7 +513,7 @@
   /** 글투에 맞는 제목 후보. 재료는 전부 기사에서 나온다(지어내지 않는다). */
   function titles(item, style, n) {
     item = item || {};
-    const 길이 = { brief: 14, oneline: 18, cards: 22, question: 24, news: 28, magazine: 30 };
+    const 길이 = { brief: 14, oneline: 18, cards: 22, question: 24, nbd: 24, news: 28, magazine: 30 };
     const 자름 = 길이[style] || 26;
     const out = [];
     try {
@@ -395,9 +533,12 @@
       oneline: [`${k0} 한 줄 정리`, `${k0}, 이것만`],
       cards: [`${k0}, 알고 계셨나요`, `${k0}, 정리했습니다`],
       news: [`${k0}, ${k1} 어떻게 되나`, `${k0}, 이렇게 바뀐다`],
+      nbd: [`"${k0}, 어떻게 된 걸까요?" 🤔`, `"${k0}, 진짜 달라질까요?" 🤔`,
+        `"${k0}, 왜 문제일까요?" 🤔`, `"${k0}, 앞으로 어떻게 될까요?" 🤔`],
     }[style] || [];
+    if (style === 'nbd') out.length = 0;       // 첫 줄 자리라 질문 후보만 보여 준다
     덧.forEach(t => out.push(t));
-    const 본 = clean(item.title);
+    const 본 = clean(item.title).replace(style === 'nbd' ? /^\[[^\]]*\]\s*/ : /$^/, '');
     if (본) out.push(본.length > 30 ? 본.slice(0, 29) + '…' : 본);
     const seen = new Set(), 결과 = [];
     for (const t of out) {
@@ -411,7 +552,7 @@
   }
 
   root.FEEDSTYLES = {
-    STYLES, CHANNELS, one, many, quotes, hashtags, sents, clean, shape, titles,
+    STYLES, CHANNELS, one, many, quotes, hashtags, sents, clean, shape, titles, haeyo,
     styleOf: (id) => STYLES.find(s => s.id === id) || STYLES[0],
     channelOf,
   };

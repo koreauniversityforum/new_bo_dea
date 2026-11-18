@@ -249,6 +249,7 @@
     question: '물음표로 끝나는 한 줄 — 댓글을 부르는 결',
     oneline: '한 줄로 끝내기 — 카드가 이미 다 말했을 때',
     cards: '표지 후킹 — 넘겨보게 만드는 한 줄',
+    nbd: '따옴표 질문 한 줄 - 게시글 첫 줄',
   };
 
   /** 함께 실을 기사 가운데 **기준 기사와 같은 발언을 실은 것**만 골라 낸다.
@@ -423,6 +424,10 @@
                         summary: String(c.summary || '').trim() },
                pages: pages.slice(0, Math.max(1, Math.min(+n || 3, 6))) };
     }
+    if (task === 'caption_nbd') {
+      const t = (out.texts || []).find(x => x && String(x.text || '').trim());
+      return { texts: t ? [{ style: '뉴보대 형식', text: String(t.text).trim() }] : [] };
+    }
     if (task === 'caption') {
       return { texts: (out.texts || []).filter(t => t && String(t.text || '').trim())
         .map(t => ({ style: String(t.style || 'AI'), text: String(t.text).trim() })).slice(0, 3) };
@@ -587,7 +592,7 @@
       const style = body.style || 'news';
       const out = F.one(main, style, {
         date: main.date, channel: body.channel || 'instagram',
-        quoted: quotedFrom(main, body.related),
+        quoted: quotedFrom(main, body.related), related: body.related,
       });
       out.ok = true;
       out.titles = F.titles(main, style, 6);

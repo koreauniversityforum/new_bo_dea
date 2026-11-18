@@ -24,6 +24,7 @@ STYLES = [
     {"id": "oneline", "name": "한 줄 + 태그", "note": "카드가 이미 다 말한 경우. 캡션은 짧게."},
     {"id": "cards", "name": "카드 대사 뽑기",
      "note": "카드 한 장씩 넣을 문구를 장 단위로. 앞장 만들기에 그대로 옮겨 쓰는 용."},
+    {"id": "nbd", "name": "뉴보대 형식", "note": "기사 문장을 게시글 틀에 맞춰 넣습니다. 완성 글은 ✨ AI 로 쓰기."},
 ]
 
 # ── 올릴 곳(채널) ─────────────────────────────────────────────────────────
@@ -46,7 +47,12 @@ CHANNELS = [
 
 def _머리만(줄: str) -> bool:
     """내용이 다 잘려 혼자 남은 절 제목인가(🗣·📌 만 남으면 볼썽사납다)."""
-    return (줄 or "").strip()[:1] in ("📌", "📊", "🔁", "🗞", "🗣", "🗂", "—")
+    return (줄 or "").strip()[:1] in ("📌", "📊", "💬", "🔁", "🗞", "🗣", "🗂", "—")
+
+
+def _출처줄(줄: str) -> bool:
+    """출처 줄인가. 뉴보대 형식은 게시글 그대로 `출처: 매체(날짜)` 로 쓴다."""
+    return 줄.startswith("🔗") or 줄.startswith("출처:")
 
 
 def channel_of(cid: str) -> dict:
@@ -68,9 +74,10 @@ def shape(text: str, tags=None, channel: str = "instagram") -> str:
         return text
     tags = list(tags or [])
     줄 = (text or "").split("\n")
-    출처 = next((l for l in 줄 if l.startswith("🔗")), "")
+    출처 = next((l for l in 줄 if _출처줄(l)), "")
+    안내 = any(l.startswith("※") for l in 줄)        # 원래 없던 글에는 새로 붙이지 않는다
     몸 = [l for l in 줄
-          if not l.startswith("🔗") and not l.startswith("※") and not l.strip().startswith("#")]
+          if not _출처줄(l) and not l.startswith("※") and not l.strip().startswith("#")]
     쓸태그 = tags[:ch["tags"]] if ch["tags"] else []
     짧음 = bool(ch["limit"]) and ch["limit"] <= 700     # 스레드·X 는 안내문을 뺀다
 
@@ -78,7 +85,7 @@ def shape(text: str, tags=None, channel: str = "instagram") -> str:
         조각 = ["\n".join(몸줄).strip()]
         if 출처:
             조각.append(출처)
-        if not 짧음:
+        if 안내 and not 짧음:
             조각.append("※ 원문을 요약·재구성한 초안입니다. 올리기 전에 사실관계와 표현을 확인하세요.")
         if 쓸태그:
             조각.append(" ".join(쓸태그))
@@ -340,6 +347,7 @@ STYLE_TITLE_NOTE = {
     "question": "물음표로 끝나는 한 줄 — 댓글을 부르는 결",
     "oneline": "한 줄로 끝내기 — 카드가 이미 다 말했을 때",
     "cards": "표지 후킹 — 넘겨보게 만드는 한 줄",
+    "nbd": "따옴표 질문 한 줄 - 게시글 첫 줄",
 }
 
 
@@ -377,6 +385,11 @@ def title_ideas(title: str = "", body: str = "", style: str = "news", n: int = 6
     elif style == "oneline":
         cands = [squeeze(t, 18) for t in facts]
         cands += [f"{k0} 한 줄 정리", f"{k0}, 이것만"]
+    elif style == "nbd":
+        cands = [f"\"{k0}, 어떻게 된 걸까요?\" 🤔", f"\"{k0}, 진짜 달라질까요?\" 🤔",
+                 f"\"{k0}{j(k0, ('은', '는'))} 왜 문제일까요?\" 🤔",
+                 f"\"{k0}{j(k0, ('과', '와'))} {k1}, 무슨 관계일까요?\" 🤔",
+                 f"\"{k0}, 앞으로 어떻게 될까요?\" 🤔"]
     elif style == "cards":
         cands = hooked[:4]
         cands += [squeeze(t, 22) for t in facts]
@@ -447,6 +460,130 @@ def _others(related, n=4):
     return rows
 
 
+# ── 뉴보대 형식 ─────────────────────────────────────────────────────────────
+# 계정에 실제로 올린 글의 틀: 따옴표 질문 → 기사 제목 → 📌 절 → 📊 짚어볼 점 →
+# 💬 독자 질문 → 출처 → 해시태그. 규칙으로 쓸 수 없는 판단(짚어볼 점)은 지어내지 않고
+# 대괄호 빈칸으로 남긴다. feedstyles.js 에 같은 규칙이 있다.
+NBD_TAGS = ["뉴보대", "한국대학생포럼", "카드뉴스", "시사"]
+NBD_FIELDS = [
+    ("국제뉴스", ("미국", "중국", "일본", "러시아", "유럽", "트럼프", "백악관", "외교")),
+    ("정치뉴스", ("대통령", "국회", "여당", "야당", "민주당", "국민의힘", "국무회의", "선거")),
+    ("경제뉴스", ("금리", "환율", "증시", "주가", "물가", "부동산", "집값", "수출", "기업")),
+    ("과학뉴스", ("우주", "연구원", "반도체", "인공지능", "과학기술", "달 탐사")),
+]
+NBD_NEXT = re.compile(r"전망|예정|계획|방침|앞으로|내년|다음 달|추진|검토|관측")
+NBD_BLANK = "✔️ [기사에 없는 내용이나 더 확인할 점을 적어 주세요]"
+NBD_TAG_BAD = re.compile(r"(다|며|들|까지|부터|에서|에게|보다|처럼|만큼|이라|라며|면서|하며|"
+                         r"으로|에는|과의|와의|들이|들은|들을)$")
+
+
+def _종성(글자: str) -> int:
+    """한글 받침 번호. 한글이 아니면 -1."""
+    n = ord(글자) - 0xAC00
+    return n % 28 if 0 <= n <= 11171 else -1
+
+
+def haeyo(문장: str) -> str:
+    """기사 끝맺음 '-다' 를 '-어요' 로 바꾼다. **확실한 꼴만** 바꾸고 나머지는 그대로 둔다."""
+    s = (문장 or "").strip()
+    m = re.match(r"^(.*?)([가-힣]*)다(\.?)$", s, re.S)
+    if not m or not m.group(2):
+        return s
+    앞, 줄기, 끝 = m.groups()
+    막 = 줄기[-1]
+    if _종성(막) == 20 or 막 == "없":                  # 했다·있다·없다·겠다
+        새 = 줄기 + "어요"
+    elif 줄기.endswith("아니"):
+        새 = 줄기 + "에요"
+    elif 줄기.endswith("않는"):
+        새 = 줄기[:-1] + "아요"
+    elif 막 == "한":
+        새 = 줄기[:-1] + "해요"
+    elif 막 == "된":
+        새 = 줄기[:-1] + "돼요"
+    elif 막 in "많같높낮":
+        새 = 줄기 + "아요"
+    elif 막 == "이" and len(줄기) >= 2:
+        새 = 줄기[:-1] + ("이에요" if _종성(줄기[-2]) > 0 else "예요")
+    else:
+        return s
+    return 앞 + 새 + 끝
+
+
+def _nbd_date(date: str) -> str:
+    m = re.search(r"(\d{4})[-./](\d{1,2})[-./](\d{1,2})", _nice_date(date))
+    return f"{m[1]}.{int(m[2]):02d}.{int(m[3]):02d}" if m else ""
+
+
+def _nbd_source(press: str, date: str, related=None) -> str:
+    """`출처: 매일신문(2026.11.03), SBS(2024.01.12)`. 본문까지 쓴 관련 기사만 함께 적는다."""
+    def 한건(p, d):
+        p = (p or "").strip()
+        if not p:
+            return ""
+        d = _nbd_date(d or "")
+        return f"{p}({d})" if d else p
+    bits = [한건(press, date)]
+    bits += [한건(r.get("press"), r.get("date")) for r in (related or [])
+             if (r.get("body") or "").strip()]
+    uniq = list(dict.fromkeys(b for b in bits if b))
+    return "출처: " + (", ".join(uniq) if uniq else "원문 기사")
+
+
+def _문장끝(s: str) -> str:
+    """문단으로 이어 쓸 문장에 마침표를 붙인다(요약기가 떼어 낸다)."""
+    s = (s or "").strip()
+    return s + "." if s and re.search(r"[가-힣0-9)]$", s) else s
+
+
+def nbd_tags(title: str, body: str, related=None, press: str = "") -> list:
+    body = BYLINE.sub("", body or "", count=1)        # 첫머리 발신지가 태그로 새지 않게
+    hay = (title or "") + " " + body
+    score = [(sum(hay.count(w) for w in words), -i, name)
+             for i, (name, words) in enumerate(NBD_FIELDS)]
+    best = max(score)
+    out = NBD_TAGS + [best[2] if best[0] else "사회뉴스"]
+    후보 = summarizer.topic_words(hay, 16) + [t.lstrip("#") for t in hashtags(title, body, related, n=16)]
+    for w in 후보:
+        w = re.sub(r"[^0-9A-Za-z가-힣]", "", w or "")
+        if len(w) < 2 or w.isdigit() or w in out or w == press or w in TAG_STOP or NBD_TAG_BAD.search(w):
+            continue
+        if re.search(r"\d", w) and len(w) <= 3:
+            continue
+        out.append(w)
+    return ["#" + w for w in out[:13]]
+
+
+def _cap_nbd(title, body, press, date, related, cx, qb):
+    """title 은 말머리([단독] 등)를 뗀 것을 받는다."""
+    tags = nbd_tags(title, body, related, press)
+    tp = summarizer.topic_words((title or "") + " " + (body or ""), 4)
+    k0 = tp[0] if tp else ((title or "")[:8] or "이번 사안")
+    rows = [haeyo(s) for s in _sents(body, title, 7, limit=120)]
+    lead, rest = rows[:2], rows[2:]
+    next_rows = [s for s in rest if NBD_NEXT.search(s)][:1]
+    points = [s for s in rest if s not in next_rows][:3]
+
+    L = [f"\"{k0}, 어떻게 된 걸까요?\" 🤔", title, "", "📌 무슨 일이야?",
+         " ".join(_문장끝(s) for s in lead)]
+    if points:
+        L += ["", "📌 핵심만 보면"] + [f"✔️ {s}" for s in points]
+    if next_rows:
+        L += ["", "📌 앞으로는?", _문장끝(next_rows[0])]
+    L += ["", "📊 짚어볼 점"]
+    if qb and qb["n"]:
+        매체들 = ", ".join(qb["presses"][:4])
+        L.append(f"✔️ 같은 발언을 실은 보도 {qb['n']}건: {매체들}")
+    for d in (cx.get("diff") or [])[:2]:
+        매체, _, 문장 = d.lstrip("· ").partition(" — ")
+        L.append(f"✔️ {매체}: {haeyo(문장)}")
+    L.append(NBD_BLANK)
+    L += ["", "💬 독자 질문",
+          f"이번 {k0} 소식, 여러분은 어떻게 보시나요? 댓글로 생각을 남겨 주세요.",
+          "", _nbd_source(press, date, related), "", " ".join(tags)]
+    return L, tags
+
+
 # ── 본체 ───────────────────────────────────────────────────────────────────
 def compose(main: dict, related=None, style: str = "news", channel: str = "instagram") -> dict:
     title = (main.get("title") or "").strip()
@@ -468,7 +605,11 @@ def compose(main: dict, related=None, style: str = "news", channel: str = "insta
     note = "※ 원문을 요약·재구성한 초안입니다. 올리기 전에 사실관계와 표현을 확인하세요."
 
     L = []
-    if style == "question":
+    if style == "nbd":
+        L, tags = _cap_nbd(re.sub(r"^\[[^\]]*\]\s*", "", title), body, press, date,
+                           related, cx, qb)
+
+    elif style == "question":
         # 「인스타 올리기」의 캡션 후보에만 있던 결. 글투로도 고를 수 있게 올렸다(2026-09-02).
         L = _cap_question(body, title, an, tags, src, note)
         L[1:1] = _quote_section(qb, short=True)

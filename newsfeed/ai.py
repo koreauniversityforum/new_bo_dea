@@ -15,6 +15,7 @@ PyInstaller 로 묶인다. `anthropic` 패키지를 들이면 배포 ZIP 을 받
   copy    → summarizer.analyze() 꼴  {titles, hooks, summaries, keywords}
   series  → summarizer.series()  꼴  {cover:{hook,title,summary}, pages:[...]}
   caption → {texts: [{style, text}]}
+  caption_nbd → {texts: [{style:'뉴보대 형식', text}]}  계정 게시글 틀 그대로 한 편
 """
 from __future__ import annotations
 
@@ -101,6 +102,32 @@ SCHEMAS = {
     },
 }
 
+SCHEMAS["caption_nbd"] = SCHEMAS["caption"]
+
+NBD_EXAMPLE = """"서울 집값, 진짜 떨어지고 있나요?" 🤔
+이 대통령 "주요지역 실거래가 놀라울 정도로 떨어져"
+
+📌 무슨 일이야?
+이재명 대통령이 3일 청와대에서 국무회의를 주재했어요. 이 자리에서 서울 주요 지역의 집값이 크게 떨어지고 있다고 말했어요.
+
+📌 대통령이 말한 시장 상황
+✔️ 서울 아파트 매물이 빠르게 늘고 있어요
+✔️ 거래량은 매우 빠르게 줄고 있어요
+
+📌 정부가 바라는 방향은?
+이 대통령은 부동산 가격이 안정되는 것이 가장 바람직하다고 밝혔어요.
+
+📊 짚어볼 점
+✔️ 기사에는 대통령 발언만 담겼고, 어느 지역이 얼마나 떨어졌는지는 나오지 않았어요
+✔️ 대통령도 "아닌 지역도 있다"고 한 만큼, 지역별 흐름은 다를 수 있어요
+
+💬 독자 질문
+요즘 서울 집값, 체감은 어떠세요? 하락세가 시작됐다고 보시나요, 아직 버티는 중이라고 보시나요?
+
+출처: 매일신문(2026.11.03)
+
+#뉴보대 #한국대학생포럼 #카드뉴스 #시사 #정치뉴스 #이재명 #국무회의 #서울집값 #부동산 #아파트 #실거래가 #집값하락 #부동산정책"""
+
 
 def _prompt(task: str, text: str, title: str, n: int) -> str:
     head = f"[원문 제목] {title}\n\n[기사 본문]\n{text}\n\n"
@@ -136,6 +163,26 @@ def _prompt(task: str, text: str, title: str, n: int) -> str:
             "- style='짧은 브리핑': 120~180자. 한 문단.\n"
             "해시태그·이모지는 넣지 않는다(화면에서 따로 붙인다).\n"
             "JSON: {\"texts\":[{\"style\":\"\",\"text\":\"\"}]}"
+        )
+    if task == "caption_nbd":
+        return head + (
+            "뉴보대 인스타 게시글 한 편을 아래 예시와 같은 틀로 써라. 이 작업은 예외로 "
+            "이모지와 해시태그를 예시처럼 쓴다. 줄표는 쓰지 않는다.\n"
+            "- 1줄: 큰따옴표로 감싼 궁금증 질문 + 이모지 하나.\n"
+            "- 2줄: 기사 핵심을 담은 제목 한 줄.\n"
+            "- 「📌 무슨 일이야?」로 시작하고, 📌 절을 2~4개 더 둔다. 절 제목은 기사 내용에 맞춰 질문이나 "
+            "짧은 말로 정한다. 나열할 사실은 「✔️ 」 줄로 쓴다.\n"
+            "- 모든 문장은 친근한 해요체. 숫자·금액·이름은 본문 그대로 쓴다.\n"
+            "- 「📊 짚어볼 점」: ✔️ 2개. 기사에 나오지 않은 점, 아직 확정되지 않은 점, 반대 측 입장처럼 "
+            "독자가 함께 알아야 할 것. 본문에 근거가 없는 사실은 쓰지 않는다.\n"
+            "- 「💬 독자 질문」: 의견이 갈릴 만한 질문 한 개.\n"
+            "- 출처 줄: 「출처: 언론사(YYYY.MM.DD)」. [언론사]·[발행 시각]을 쓰고, [함께 볼 기사]의 사실을 "
+            "썼으면 쉼표로 이어 적는다. 언론사를 모르면 「출처: 원문 기사」.\n"
+            "- 마지막 줄: 해시태그 13개. 앞 네 개는 #뉴보대 #한국대학생포럼 #카드뉴스 #시사, 다섯째는 "
+            "#정치뉴스 #경제뉴스 #사회뉴스 #국제뉴스 #과학뉴스 중 하나, 나머지는 기사 핵심어.\n"
+            "- 전체 1,800자 이내. 절 사이는 빈 줄 하나.\n\n"
+            "[예시 - 틀과 말투만 참고하고 내용은 쓰지 않는다]\n" + NBD_EXAMPLE + "\n\n"
+            "JSON: {\"texts\":[{\"style\":\"뉴보대 형식\",\"text\":\"\"}]}"
         )
     raise ValueError("모르는 작업: " + task)
 
@@ -269,6 +316,11 @@ def run(task: str, text: str, title: str = "", n: int = 3, cfg: dict | None = No
                       "summary": str(cover.get("summary") or "").strip()},
             "pages": pages[:max(1, min(int(n or 3), 6))],
         }
+    if task == "caption_nbd":
+        for t in j.get("texts") or []:
+            if isinstance(t, dict) and (t.get("text") or "").strip():
+                return {"texts": [{"style": "뉴보대 형식", "text": str(t.get("text")).strip()}]}
+        return {"texts": []}
     if task == "caption":
         texts = []
         for t in j.get("texts") or []:

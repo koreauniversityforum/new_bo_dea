@@ -187,7 +187,7 @@ def ai_data() -> str:
     import ai
     N = 987654                                    # 본문에 나올 리 없는 숫자 = n 자리표시
     prompts = {t: ai._prompt(t, "@@TEXT@@", "@@TITLE@@", N).replace(str(N), "@@N@@")
-               for t in ("copy", "series", "caption")}
+               for t in ("copy", "series", "caption", "caption_nbd")}
     import json
     data = {"system": ai.SYSTEM, "schemas": ai.SCHEMAS, "prompts": prompts,
             "model": ai.DEFAULT_MODEL, "url": ai.ANTHROPIC_URL}
