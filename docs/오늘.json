@@ -1,262 +1,181 @@
 {
- "date": "2026-11-18",
- "generated_at": "2026-11-18T12:58:48+09:00",
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T12:55:19+09:00",
  "mode": "daily",
- "window_start": "2026-11-17T00:00:00+09:00",
- "window_end": "2026-11-17T23:59:59+09:00",
+ "window_start": "2026-11-18T00:00:00+09:00",
+ "window_end": "2026-11-18T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "이 대통령 “반드시 잡힌다…전수조사 해서라도 엄정 대응”",
-   "source": "채널A",
-   "url": "https://n.news.naver.com/article/449/0000367852",
-   "published_at": "2026-11-17T21:03:15+09:00",
+   "title": "차기 대통령감 물었더니…1위 오세훈 17.9% [조원씨앤아이]",
+   "source": "MBN",
+   "url": "https://n.news.naver.com/article/057/0001978700",
+   "published_at": "2026-11-18T08:36:10+09:00",
    "section_id": "100",
-   "view_rank": 1,
+   "view_rank": 2,
    "selection": "정치",
-   "summary": "이재명 대통령은 오늘 2027학년도 대학수학능력시험을 앞두고 AI와 초소형 기기를 이용한 부정행위와 관련해 \"'반드시 잡힌다' 그리고 '잡을 수 있다'라는 점을 충분히…",
-   "summary_long": "이재명 대통령은 오늘(17일) 2027학년도 대학수학능력시험을 앞두고 AI와 초소형 기기를 이용한 부정행위와 관련해 \"'반드시 잡힌다' 그리고 '잡을 수 있다'라는 점을 충분히 고지하고 그에 대한 책임도 아주 엄정하다는 점을 잘 알려주시길 바란다\"고 당부했습니다. 이 대통령은 이날 오후 대학수학능력시험 비상 점검회의에서 \"대학수학능력시험은 우리 사회에서 기회의 사다리이자 공정성의 상징과도 같다\"며 \"부정행위는 공정한 경쟁의 근간 그리고 우리 사회가 쌓아온 신뢰를 허물어뜨리는 중대범죄\"라고 강조했습니다. 이 대통령은 현재 아세안과 APEC 정상회의 참석을 위해 해외 순방 중인 가운데 사안의 시급성을 고려해 현지에서 화상으로 회의를 주재했습니다.\n\n이 대통령은 AI를 이용한 부정행위와 관련 \"기록이 다 남기 때문에 데이터로 사실은 얼마든지 찾아낼 수 있다\"며 \"특히 시험이 끝난 다음에도 혹여라도 있을 수 있는 부정행위의 가능성을 철저하게, 전수조사 하든지 해서라도 엄정하게 대응하길 바란다\"고 말했습니다. 이어 \"10년 응시 기회 박탈이라든지 기존의 학교 또는 재학생 지위를 박탈하든지 예외 없는 엄중한 형사 처벌 이런 점들도 충분히 홍보하시길 바란다\"고 했습니다.",
-   "quotes": [
-    "10년 응시 기회 박탈이라든지 기존의 학교 또는 재학생 지위를 박탈하든지 예외 없는 엄중한 형사 처벌 이런 점들도 충분히 홍보하시길 바란다",
-    "특히 시험이 끝난 다음에도 혹여라도 있을 수 있는 부정행위의 가능성을 철저하게, 전수조사 하든지 해서라도 엄정하게 대응하길 바란다",
-    "'반드시 잡힌다' 그리고 '잡을 수 있다'라는 점을 충분히 고지하고 그에 대한 책임도 아주 엄정하다는 점을 잘 알려주시길 바란다"
-   ],
-   "press": "채널A",
-   "photo": "01.jpg",
-   "quoted": {
-    "quote": "10년 응시 기회 박탈이라든지 기존의 학교 또는 재학생 지위를 박탈하든지 예외 없는 엄중한 형사 처벌 이런 점들도 충분히 홍보하시길 바란다",
-    "n": 5,
-    "verified": 0,
-    "items": [
-     {
-      "press": "채널A",
-      "title": "이 대통령 “반드시 잡힌다…전수조사 해서라도 엄정 대응”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PTkdwZVJKMVdpUEh4OFdZTXRKMXVUTFpsVjJsN1FQbGVtZGJPS191NXdzdnZaeWJSR05FbGxwbVNYa1BuLTE2Rndfa21KUlVKSDN1STlsT3dYQ1ozWHfSAWNBVV95cUxPdk5BOXFZMXJuZ0EtMmNtdGkzd0hacmE4RTVTVTRfeHRBT1c4VGdJd1VNajA5cENrWTd1cWRjakhhNDRGNmV4T3NkOWR1S20zbzdsTUZuMmo4UUVJOWpZLWI4QjA?oc=5"
-     },
-     {
-      "press": "뉴시스",
-      "title": "李, 필리핀 순방 중 수능 비상정검 회의 '수능 부정행위는 중대범죄' [뉴시스Pic]",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtSGpIaEQtdHJydjg0LU51Y05tb01Ha0xhNEJYOVhWUk1fTWNPRkM3NFlyVGJmbG5CeWFuRlBxRHpOVHZONUFiN1djVmNPei1WS0hKbS0xa3lGTVNUYmxudWRRcUN5REYxeWRKOTlXNno3VlJsc2VZQdIBeEFVX3lxTFAtSGpIaEQtdHJydjg0LU51Y05tb01Ha0xhNEJYOVhWUk1fTWNPRkM3NFlyVGJmbG5CeWFuRlBxRHpOVHZONUFiN1djVmNPei1WS0hKbS0xa3lGTVNUYmxudWRRcUN5REYxeWRKOTlXNno3VlJsc2VZQQ?oc=5"
-     },
-     {
-      "press": "부산일보",
-      "title": "[속보] 이 대통령 \"수능, 공정성의 상징…부정행위자 무관용 엄정대응\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mOEdtdXRPODA0bTRjaDU4VGdGTXNXQWxfTU44OGhjZ0lTWkxXTHdRMTQxdXJCWUhoUHlZYVZNbHdZbUVJVTBMR3pxUkJ5VzYxdHdHNi1YWjVGVFVORmtMMk5pUmEtd0k2aUdqQzg5MUpUZ2Y1?oc=5"
-     },
-     {
-      "press": "헤럴드경제 미주판",
-      "title": "[속보] 李대통령 “수능 공정성·신뢰 절대 흔들려선 안 돼”",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9md0M5WV9zWTI5d0g4eS03WEhtRlFCZGNFaXZwWnU2elhMMkw5SW80WHA0TjZTVDBqa1gtWnlIVjBHQXRreXp6UVJkZzIxZk9JYkF3UjV4aXNxenRtZm1xag?oc=5"
-     },
-     {
-      "press": "(언론사 미상)",
-      "title": "쿠키뉴스 - 쿠키뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yalhYVkZ5R0YtUlRCNnBIZDRXd3gxZGYxMERWYWVVN09JTHo2bkxoRVNkb2RuTmdiU09jYmpVczZyT0RFY2ozblJQWXJmY1dURGVuOG9OcUIyN1h5VUZLQTl3MzY?oc=5"
-     }
-    ]
-   }
+   "summary": "장동혁 대표, 한동훈 의원, 김민석 대표 순. 왼쪽부터 장동혁 국민의힘 대표, 한동훈 무소속 의원, 김민석 더불어민주당 대표 / 사진 = MBN.",
+   "summary_long": "이어 장동혁 대표, 한동훈 의원, 김민석 대표 순. 오세훈 서울시장 / 사진 = MBN차기 대통령 후보 적합도 조사에서 오세훈 서울시장이 가장 높은 응답률을 기록했다는 여론조사 결과가 나왔습니다. 스트레이트뉴스 의뢰로 조원씨앤아이가 지난 14~16일 사흘간 전국 만 18세 이상 남녀 2,002명을 대상으로 차기 대통령 후보 적합도를 조사한 결과, 오세훈 서울시장이 17.9%의 응답률을 기록하며 1위에 올랐습니다.\n\n오 시장은 직전 조사(10월 31일~11월 2일)보다 2.5%p 낮아졌음에도 2번 연속 가장 많은 응답률을 기록했습니다. 왼쪽부터 장동혁 국민의힘 대표, 한동훈 무소속 의원, 김민석 더불어민주당 대표 / 사진 = MBN. 무당층에서는 한 의원이 22.0%로 가장 높았고, 오 시장(17.2%), 장 대표(7.2%), 김 대표(5.2%) 가 뒤를 이었습니다.",
+   "press": "MBN",
+   "photo": "01.png"
   },
   {
-   "title": "[속보]한성숙 “수능 시작 전 재난문자 발송해 휴대폰 적발···옷 단추마다 스티커 부착”",
-   "source": "경향신문",
-   "url": "https://n.news.naver.com/article/032/0003483183",
-   "published_at": "2026-11-17T15:07:55+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "selection": "정치",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "\"빚만 8000만원\" 돈 못 벌어 문 닫는데...폐업 때 또 1400만원 든다",
-   "source": "머니투데이",
-   "url": "https://n.news.naver.com/article/008/0005442253",
-   "published_at": "2026-11-17T12:00:00+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "중소기업중앙회 2026 폐업 소상공인 경영실태조사. 폐업을 결심한 시점의 부채는 평균 8000만원을 넘었고 점포 철거와 원상복구 등에 드는 비용은 1000만원을 웃돌았다.",
-   "summary_long": "중소기업중앙회 2026 폐업 소상공인 경영실태조사. 장사가 안돼 문을 닫으려는 소상공인들이 폐업 과정에서도 적지 않은 경제적 부담을 떠안는 것으로 나타났다. 폐업을 결심한 시점의 부채는 평균 8000만원을 넘었고 점포 철거와 원상복구 등에 드는 비용은 1000만원을 웃돌았다.\n\n17일 중소기업중앙회가 발표한 '2026 폐업 소상공인 경영실태조사'에 따르면 폐업 소상공인 1116명의 폐업 결심 당시 평균 부채는 8192만원으로 조사됐다. 실제 폐업에 들어간 비용은 평균 1386만원이었다. 제조업의 평균 폐업 비용은 1700만원, 음식점업은 1416만원으로 전체 평균을 웃돌았다.",
-   "quotes": [
-    "폐업을 결심한 단계부터 경영 지속과 정리 진단, 채무조정 등을 함께 지원해 폐업에 드는 시간과 비용을 줄이는 정책지원이 필요하다",
-    "폐업은 사업자등록을 말소하는 하루가 아니라 폐업을 결심한 순간부터 시작되는 긴 과정"
-   ],
-   "press": "머니투데이",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "폐업을 결심한 단계부터 경영 지속과 정리 진단, 채무조정 등을 함께 지원해 폐업에 드는 시간과 비용을 줄이는 정책지원이 필요하다",
-    "n": 7,
-    "verified": 0,
-    "items": [
-     {
-      "press": "연합뉴스",
-      "title": "폐업 소상공인 10명 중 3명 \"계획보다 문 닫기 늦어져\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1bUM4RTRNdUpuaU50dXdWb2hpakVTT3VIUmVZdENVMUxCVmpHZ1lHb2tpc2hBUkY5NlNVTFlTMzNuQnpjcTh4ekVsWlRTS2N3Um5MclJzQVRaMVpkN3Rqa9IBYEFVX3lxTFB1bUM4RTRNdUpuaU50dXdWb2hpakVTT3VIUmVZdENVMUxCVmpHZ1lHb2tpc2hBUkY5NlNVTFlTMzNuQnpjcTh4ekVsWlRTS2N3Um5MclJzQVRaMVpkN3Rqaw?oc=5"
-     },
-     {
-      "press": "경향신문",
-      "title": "폐업도, 취업도 힘들다···소상공인, 폐업 결심부터 정리까지 1년5개월",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hTXh6bDRBZ2xjZVR6cnljXzJ4VDJBTUg1Z0ppVkZ2YVdiOGswVVkzMFlSM3RrS3lwcTRpTnZVN0hDbUNwTU5iQXZIakdhcDdCSkVldTJhZVh2b3pEZExV0gFfQVVfeXFMTWFNeHpsNEFnbGNlVHpyeWNfMnhUMkFNSDVnSmlWRnZhV2I4azBVWTMwWVIzdGtLeXBxNGlOdlU3SENtQ3BNTmJBdkhqR2FwN0JKRWV1MmFlWHZvekRkTFU?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "'빚 8000만원' 망한 것도 서러운데…폐업하려니 또 1400만원 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LLVU5WU5TWlFzdG03ZWg2NVpBd0JzUllvRmhEVU4wT2hHQ2tBVkhDd0NNUFkzM2c4Vjh5Z25HX3dueENNdmVNUDZnSWJWcUlWVUxWVURMNHdyak5SVi1RclpNMFU2RlpwYmN6OFlQMNIBb0FVX3lxTE1LLVU5WU5TWlFzdG03ZWg2NVpBd0JzUllvRmhEVU4wT2hHQ2tBVkhDd0NNUFkzM2c4Vjh5Z25HX3dueENNdmVNUDZnSWJWcUlWVUxWVURMNHdyak5SVi1RclpNMFU2RlpwYmN6OFlQMA?oc=5"
-     },
-     {
-      "press": "아주경제",
-      "title": "문 닫기까지 평균 17개월...평균 부채 8192만원 부담",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83QllSOXRId0NQNTVmR213cnZhMzI0LUxtY0RWMzQtWGg0Wm1iaWwyanJxQzRjZ281OGR1U3dCT3RaZWZfempXTUtnSnNzRDBaaFdaRElscUXSAVhBVV95cUxPN0JZUjl0SHdDUDU1Zkdtd3J2YTMyNC1MbWNEVjM0LVhoNFptYmlsMmpycUM0Y2dvNThkdVN3Qk90WmVmX3pqV01LZ0pzc0QwWmhXWkRJbHFF?oc=5"
-     },
-     {
-      "press": "전라일보",
-      "title": "폐업도 마음대로 못 한다··· 소상공인 10명 중 3명 '폐업 지연'",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05SG8wS0ZjWThLSWxaYnhDbUwxSzZIVzdpX2NBU3pHWXdVeUpqMkFWOGtZeGRKeTVpM3ZvdzRZbzlVMWdub2Itbk50bk1td1NBMllOWFRUSEM2bjFFcWN4REptS3pNMV9HZi05d3VzOFbSAXBBVV95cUxNOUhvMEtGY1k4S0lsWmJ4Q21MMUs2SFc3aV9jQVN6R1l3VXlKajJBVjhrWXhkSnk1aTN2b3c0WW85VTFnbm9iLW5OdG5NbXdTQTJZTlhUVEhDNm4xRXFjeERKbUt6TTFfR2YtOXd1czhW?oc=5"
-     },
-     {
-      "press": "서울경제",
-      "title": "폐업자 28%는 폐업 지연 경험…재창업 절반은 생계유지 목적",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oaFppNkJkWFE5XzVFdWxZaWthbXJVZFpsQWEtNENOXzhlMkdTQlZVUFlvOTVzSHc5eUNSbFAyWjNtaHUxTjI1OHNCUFBlT25IR2fSAVNBVV95cUxOS3FQRk9Ra3p3cl9fZ2JNX2poYXB5ckdVc3daRVh0TGw4WUdYS3U1MjJsYkx2WlhMaDB6bXJOSTZyVU5WdFY2bmdKdVpBTXk2ZnByaw?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "\"부모님이랑 같이 사냐?\"…'리트 만점' 이진우, 여대생 스토킹 폭로 터졌다",
-   "source": "뉴스1",
-   "url": "https://n.news.naver.com/article/421/0009293479",
-   "published_at": "2026-11-17T11:55:47+09:00",
+   "title": "[단독] ‘리트 만점자’ 이진우 사기 혐의로 경찰에 고발… “숙명여고 사건과 유사”",
+   "source": "조선비즈",
+   "url": "https://n.news.naver.com/article/366/0001205636",
+   "published_at": "2026-11-18T11:52:19+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "법학적성시험 만점자 이진우 씨의 인공지능 부정행위 의혹이 과거 스토킹과 협박 피해 폭로로 비화할 조짐이다. 그는 \"과외 공고에 있던 내 프로필을 클릭해 수험생인 척…",
-   "summary_long": "법학적성시험(LEET·리트) 만점자 이진우(32) 씨의 인공지능(AI) 부정행위 의혹이 과거 스토킹과 협박 피해 폭로로 비화할 조짐이다. A 씨는 당시 의대에 합격한 뒤 입시 커뮤니티 '오르비'에 과외 공고를 올렸다. 그는 \"과외 공고에 있던 내 프로필을 클릭해 수험생인 척, 학생인 척 전화번호를 조회하였고, 이후 바로 전화를 걸어서 입에 담기 힘든 욕들을 시작했고 그 통화 내용을 아이패드로 녹음했다\"고 밝혔다.\n\n아직까지 극심한 정신적 고통을 겪고 있다는 A 씨는 \"그때만 생각하면 손이 떨리고 과호흡이 온다\"며 \"범법행위로 처벌이 불가능하다는 현실을 알았을 때 무력감에 친구들을 붙잡고 많이 울었던 것 같다\"고 호소했다. 법률 자문까지 받게 됐다는 A 씨는 \"로펌방문 후 법률상담을 진행했지만 700만 원이나 들여서 얘한테 정신적 고통을 주는 게 의미가 있나 싶어서 담당 수사관을 통해서 수사 종결했다\"고 설명했다. 현재 AI 안경 사용 의혹을 받는 이 씨는 부정행위 의혹을 부인하며 오는 19일 대학수학능력시험 당일 국어 영역 두 선택과목을 모두 포함한 56문항을 65분 안에 푸는 모습을 생중계해 논란에 대해 정면 돌파하겠다는 입장이다.",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "“43억 잠실 아파트를 18억에?”…눈 돌아가는 ‘24억 줍줍’ 3가구 떴다",
+   "source": "매일경제",
+   "url": "https://n.news.naver.com/article/009/0005765353",
+   "published_at": "2026-11-18T10:25:09+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "서울 송파구 신천동 잠실 래미안아이파크에서 부정청약 등 불법행위로 계약이 취소된 3가구가 재공급 시장에 나온다. 18일 한국부동산원 청약홈에 따르면 지난 17일…",
+   "summary_long": "서울 송파구 신천동 잠실 래미안아이파크에서 부정청약 등 불법행위로 계약이 취소된 3가구가 재공급 시장에 나온다. 최근 실거래가와 비교해 최대 24억원 이상 저렴하게 책정돼 서울 지역 무주택 청약 대기자들이 대거 몰릴 것으로 예상된다. 18일 한국부동산원 청약홈에 따르면 지난 17일 잠실진주아파트를 재건축해 조성하는 ‘잠실 래미안아이파크’(지하 4층~지상 35층, 23개 동, 총 2678가구)의 불법행위 계약취소 물량 3가구에 대한 입주자 모집공고가 올라왔다.\n\n이 중 전용 84㎡는 혼인 기간 7년 이내 등의 조건을 갖춘 신혼부부 특별공급으로 나머지 43㎡와 59㎡는 일반공급 물량으로 배정됐다. 인접 단지인 잠실동 리센츠 전용 84㎡의 이달 실거래가(33억3000만원)와 비교해도 14억원 이상 저렴하다. 청약 일정은 오는 23일 신혼부부 특별공급 접수를 시작으로 24일 일반공급이 이어진다.",
+   "press": "매일경제",
+   "photo": "03.png"
+  },
+  {
+   "title": "1심 무죄 받은 추경호…안철수 \"배신자들 단죄할 시간\"",
+   "source": "한국경제",
+   "url": "https://n.news.naver.com/article/015/0005355312",
+   "published_at": "2026-11-18T15:37:10+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 200,
+   "comment_agree": 183,
+   "comment_disagree": 36,
+   "division_balance": 0.328767,
+   "division_score": 1.773247,
+   "selection": "찬반 쟁점",
+   "summary": "안철수 의원 축하 받는 추경호 시장 /사진=연합뉴스추경호 대구시장이 18일 내란 중요임무 종사 혐의 1심에서 무죄를 선고받자, 안철수 국민의힘 의원이 재판 과정에서 해당…",
+   "summary_long": "안철수 의원 축하 받는 추경호 시장 /사진=연합뉴스추경호 대구시장이 18일 내란 중요임무 종사 혐의 1심에서 무죄를 선고받자, 안철수 국민의힘 의원이 재판 과정에서 해당 행위를 한 인사들의 책임을 물어야 한다고 당 지도부에 요구했다. 앞서 추 시장은 12·3 비상계엄 사태 당시 윤석열 전 대통령 측으로부터 계엄에 협조해달라는 요청을 받은 뒤 다른 국민의힘 의원들의 계엄 해제 표결 참여를 방해한 혐의로 재판에 넘겨졌다. 안 의원은 이날 페이스북에 \"모진 시간을 견뎌 온 추 시장께 깊은 위로와 경의를 표한다\"며 \"이 재판은 우리를 '내란 정당'으로 낙인찍어 해산시키려는 시도였고, 당의 존립이 걸린 사투였다\"고 규정했다.\n\n안 의원은 \"2심과 3심, 전대와 공천 때마다 같은 분열이 반복될 것\"이라며 \"우리는 추 시장 재판에서 피아를 확실히 식별했다. 앞서 안 의원은 지난 7월 이 재판에 증인으로 출석해 \"1차로 국회 본회의장에 모이라고 했을 때 경찰이 막고 있었고, 이에 다시 당사로 모이라고 한 것이 한 의원이라고 들었다\"고 증언했다. 아울러 \"나중에 확인해 보니 추 시장이 거기에 맞춰 당사로 모이라고 한 것이었다\"며 \"한 의원이 국회에서 모이라고 했는데 추 시장이 그 말을 무시하고 당사로 모이라고 했다는 것은 사실이 아니다\"고 했다.",
    "quotes": [
-    "과외 공고에 있던 내 프로필을 클릭해 수험생인 척, 학생인 척 전화번호를 조회하였고, 이후 바로 전화를 걸어서 입에 담기 힘든 욕들을 시작했고 그 통화 내용을 아이패드로 녹음했다",
-    "로펌방문 후 법률상담을 진행했지만 700만 원이나 들여서 얘한테 정신적 고통을 주는 게 의미가 있나 싶어서 담당 수사관을 통해서 수사 종결했다",
-    "통화 녹음하면 뭐 할 건데. 녹음 따서 뭘 할 수 있을 거라고 생각하는 거 아냐, 이 멍청한 X아. 부모님이랑 같이 사냐"
+    "법원의 거듭된 증인 요구에도 비겁하게 '폐문부재' 뒤에 숨은 자를 옹호하고, 법정에서는 추 시장을 궁지로 모는 증언을 하며, 진실을 말한 동지를 모함했다",
+    "당 밖의 특정인에게 봉사하고 이를 위해 '렉카'질을 하며 당을 분열시키는 사람들은 국민의힘에서 없어져야 한다. 차기 총선의 지원 자격에서 배제해야 한다",
+    "추 시장에 대한 법원의 무죄판결은 제가 구속영장 청구 당시를 비롯해 여러 차례 지적했듯이 특검의 무리한 수사와 기소에 따른 당연한 귀결이고 환영한다"
    ],
-   "press": "뉴스1",
+   "press": "한국경제",
    "photo": "04.jpg",
    "quoted": {
-    "quote": "통화 녹음하면 뭐 할 건데. 녹음 따서 뭘 할 수 있을 거라고 생각하는 거 아냐, 이 멍청한 X아. 부모님이랑 같이 사냐",
-    "n": 4,
+    "quote": "법원의 거듭된 증인 요구에도 비겁하게 '폐문부재' 뒤에 숨은 자를 옹호하고, 법정에서는 추 시장을 궁지로 모는 증언을 하며, 진실을 말한 동지를 모함했다",
+    "n": 6,
     "verified": 0,
     "items": [
      {
-      "press": "뉴스1",
-      "title": "\"부모님이랑 같이 사냐?\"…'리트 만점' 이진우, 여대생 스토킹 폭로 터졌다",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZNjNnU1FHWHRObUl0VUlwcWpBbmZHR3R1M2FHbi0yTzZnYzNuSmM3UFhfU3pBeGxCeWF0RVpRMDk3RFJBdUhsejdTN2M1dloxOWtLdGpVMlNKR29wY2JEMVRB?oc=5"
-     },
-     {
-      "press": "아시아경제",
-      "title": "'리트 만점자' 이진우, AI 컨닝 의혹에 스토킹 피해 주장까지 등장",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnTkxfR3l3UktDbUFmdXBfMVZWNGwtbG9oU3NGSDZxWEtoVzMzSkpCYTQyWHJHZXVFal9MLUk0OTJyZ1R5TFIwMklrZy1QNUFiMGNJcWpCU3BRWEhlai1xZA?oc=5"
+      "press": "한국경제",
+      "title": "1심 무죄 받은 추경호…안철수 \"배신자들 단죄할 시간\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lQmIyUlNYQzQzYzEyT2M4dkwzYTg0bE9nZ09YRVVyZGR3cmRxRlRrYTNFQ045ZnpFX0VJRmhndnB6QWVTTlZOeXcxdWJWSERvbUw3WEJjU1VHZw?oc=5"
      },
      {
       "press": "머니투데이",
-      "title": "'AI 의혹' 리트 만점자, 스토킹 논란…\"여성인 척 의대생에 접근\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HekMycE8yZUlzcENlX1YtSzZsN0M5QS1OY2pINDZ0TDk5SEl0Vkt5Q0llT2ZUcmtjV3dHUERScW5fWkhqR1Q2RzhtY2JWOGs3LVNfa2JQdzd0MUQxaklUcEV4UUNwSlBfOUNCcHBia1LSAXBBVV95cUxPR3pDMnBPMmVJc3BDZV9WLUs2bDdDOUEtTmNqSDQ2dEw5OUhJdFZLeUNJZU9mVHJrY1d3R1BEUnFuX1pIakdUNkc4bWNiVjhrNy1TX2tiUHc3dDFEMWpJVHBFeFFDcEpQXzlDQnBwYmtS?oc=5"
+      "title": "안철수, 추경호 무죄에 친한계 직격…\"유죄 기우제 지낸 무리 단죄해야\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XUnJHLVgwb1JOUHByQ1NZOW9jZG5VUUNEWHNsVTQtcE9qOXA3VUg0d3VJZXVwTnJkVU5UZG8ydkdRZmdfTy0yZ0NIcVpMYTE4WU5vOHVYSEw2MTNEc19Cc0hGUFVqQTAzTUZMaVB6U3paUdIBckFVX3lxTE5XUnJHLVgwb1JOUHByQ1NZOW9jZG5VUUNEWHNsVTQtcE9qOXA3VUg0d3VJZXVwTnJkVU5UZG8ydkdRZmdfTy0yZ0NIcVpMYTE4WU5vOHVYSEw2MTNEc19Cc0hGUFVqQTAzTUZMaVB6U3paUQ?oc=5"
      },
      {
-      "press": "스페셜타임스",
-      "title": "리트 만점자 이진우씨, 의대생에 여성 행세 접근·스토킹 의혹 제기",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aOE9hc0tIdEpnYVAzTW1pa1ROM19FNTBrcHZ3cUdsMHJsY3JFSk91RFYzb3FzYjRqSFB4akt3bzZ0Smw0eXpCTFJUa1RPWjNBTXR4OVBXNTZOQVY1VkdiQjBFVGo4SGJScnZabEpITENnSlU?oc=5"
+      "press": "펜앤마이크",
+      "title": "추경호 무죄에 한동훈계 '흔들'...안철수 \"단죄할 시간\" 장동혁 \"엄정 조치\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16U0JhbEdyTU9jdWRheHZHMVMyeFUySVFXVnppVFJUeVRNM0U3RUhTZUNORHI3M0YzRkhjVS1FZUNpMHhGTHI0X1UwbWZKOXhTVjJtM3I4MTdWREliQ2MwZ2JFcGJpdmVIVTkw0gFvQVVfeXFMT0c0bzh2ejBzb2pDLWp1Zm1IbW1RZVpOTWJJSkh2NHEtQmlLbHJCeEZjeUVIWmRmYzVHVlFTM0M1SUhTcVMwQlRfQ3VGYnhsaEI0eGJfdjRfOTZGZmROVmdGbUZtZjFBbEItVldnVXhZ?oc=5"
+     },
+     {
+      "press": "최보식의언론",
+      "title": "안철수, 친한계 겨냥 '추경호 '유죄 기우제' 지낸 무리, 당이 단죄할 시간'",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yY19qeUd5WGdUNW9NbkRpNzJVeHVIRXhJU1Nnb2hXVFFySlhWRHJUeFNqVEFOakZLVEs1TGx3VXVnSlNwWGhPdXBWS05SM3hzM2FGaUdhV3FzOEhMbTdlQm1mQXXSAWhBVV95cUxNZHpoY1hfYlo3WnMyT2k5Ty1hbzB4YnJlZmZ5N3pXZE9hd2NTZjMzWk16emZUTHgxR1hxVGo3SXNBVXNzTHFRZGFPd2FITDdFUHBPdzU3ZzFpVWhSNVhlblJtUzNoUU94Rw?oc=5"
+     },
+     {
+      "press": "더퍼블릭",
+      "title": "안철수, 추경호 무죄에 친한계 직격...\"배신자들 단죄해야\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fX2J6eUk3c0V4OFZoS3hMeHNLbkVLRF93OVVTX3BKMHhuLXZHUkR3LW1wcFprblYycnRjNDk3TzhhUjVBekZQRnYzNDZ3YkNTMFdNQkt4VThCTVZEVUY2RGlwckx0T19JSUhJ?oc=5"
+     },
+     {
+      "press": "세계일보",
+      "title": "추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YV0E1WkJtNlluT1NMMFVFY1ZTQ0NleElYVkNqVGZVd2RMSHpVOElEQlFIQWdtSVpUTUNXdHk4OEZTSUs0M1QycGJyd2NZeTBCLW0zX2hR0gFUQVVfeXFMT3FzU3FBeG5VNDJ1R0xYMmRZOV8xdnR6RDQ1aHpsMUJYY0szNUlQOHJXektzV196dWJkV0dGZmtTVGllcHo0b3g0LTlReUhrTXBBamg1?oc=5"
      }
     ]
    }
   },
   {
-   "title": "정부, 총리 주재 국무회의에서 '조작기소 특검법' 의결",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001536080",
-   "published_at": "2026-11-17T11:35:15+09:00",
+   "title": "추경호 1심 무죄에 장동혁 “이런 게 조작 기소”",
+   "source": "국민일보",
+   "url": "https://n.news.naver.com/article/005/0001885936",
+   "published_at": "2026-11-18T15:17:07+09:00",
    "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 356,
-   "comment_agree": 192,
-   "comment_disagree": 34,
-   "division_balance": 0.300885,
-   "division_score": 1.632286,
+   "view_rank": 2,
+   "comment_count": 185,
+   "comment_agree": 155,
+   "comment_disagree": 30,
+   "division_balance": 0.324324,
+   "division_score": 1.694837,
    "selection": "찬반 쟁점",
-   "summary": "윤석열 정부 검찰의 표적 수사 의혹 등을 조사하는 이른바 '조작기소 특검법'이 오늘 국무회의에서 의결됐습니다. 지난 6일 여당 주도로 통과된 특검법은 윤석열 정부 당시…",
-   "summary_long": "윤석열 정부 검찰의 표적 수사 의혹 등을 조사하는 이른바 '조작기소 특검법'이 오늘 국무회의에서 의결됐습니다. 정부는 오늘 오전 한성숙 국무총리 주재로 열린 국무회의에서 ‘조작기소 의혹 진상 규명을 위한 특검법’을 심의·의결했습니다. 지난 6일 여당 주도로 통과된 특검법은 윤석열 정부 당시 검찰의 조작수사 의혹이 담긴 17개 사건을 수사 대상으로 삼고 있으며, 수사 기간은 최장 2백 일입니다.",
-   "press": "MBC",
-   "photo": "05.jpg"
-  },
-  {
-   "title": "윤상현 \"'조작징계' 사실이더라도 한동훈 복당은 다른 문제\"",
-   "source": "뉴스1",
-   "url": "https://n.news.naver.com/article/421/0009292850",
-   "published_at": "2026-11-17T09:15:01+09:00",
-   "section_id": "100",
-   "view_rank": 4,
-   "comment_count": 144,
-   "comment_agree": 109,
-   "comment_disagree": 19,
-   "division_balance": 0.296875,
-   "division_score": 1.442757,
-   "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "김어준 \"최민희 수석 최고위원 역할 못하게 하는 것\"…민주당 징계 추진에 반발",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000521085",
-   "published_at": "2026-11-17T11:59:23+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 490,
-   "comment_agree": 283,
-   "comment_disagree": 33,
-   "division_balance": 0.208861,
-   "division_score": 1.202809,
-   "selection": "찬반 쟁점",
-   "summary": "최민희 더불어민주당 수석 최고위원의 당원 간담회 발언과 관련해 민주당의 징계 절차가 진행되는 가운데, 방송인 김어준씨가 \"최민희 의원의 수석 최고위원 역할을 못하게 하는…",
-   "summary_long": "최민희 더불어민주당 수석 최고위원의 당원 간담회 발언과 관련해 민주당의 징계 절차가 진행되는 가운데, 방송인 김어준씨가 \"최민희 의원의 수석 최고위원 역할을 못하게 하는 것\"이라고 의문을 제기했습니다. 이어 이재명 대통령을 음해해려 했다는 주장이나 제명 요구까지 이어지는 것은 과도하다는 취지로도 언급했습니다. 최 최고위원은 오늘(17일) 김씨의 유튜브 방송에 출연해 \"논란을 일으켜 잘못했다고 생각하고 사과드린다\"면서도 \"저에 대한 징계와는 별개 사안으로 신천지 논란을 풀어야 한다\" 밝혔습니다.\n\n\"이 대통령이 한덕수 탄핵에 반대했다는 것을 윤석열 탄핵에 반대했다고 잘못 말했다\"는 최 최고위원의 해명이 이해가 된다며 징계 조치가 과하다는 취지였습니다. 이번에 이걸 풀지 않으면 민주당은 앞으로 선거가 있을 때마다 경선이 있을 때마다 신천지 당원 논란이 일고, 경선 결과에 대하여 승복하지 않는 문화가 생길 수 있습니다. 김씨는 \"신천지 의혹에 대해 김 대표의 생각을 직접 묻고 싶지만 김 대표가 언론 인터뷰에 응하지 않는다\"고 덧붙였습니다.",
+   "summary": "12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고…",
+   "summary_long": "추경호 시장, 12·3 비상계엄 당시 국힘 의원들 표결 방해 혐의로 기소. 12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장(당시 국민의힘 원내대표)이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고 받고 법정을 나오며 장동혁 국민의힘 대표와 기쁨을 나누고 있다. 뉴시스장동혁 국민의힘 대표가 추경호 대구시장의 내란중요임무 종사 혐의 1심 무죄 선고에 대해 “이런 걸 바로 조작 기소라고 하는 것”이라며 내란특검을 비판했다.\n\n장 대표는 18일 페이스북에 “추경호 대구시장, 결국 무죄!”라며 “정의와 상식의 승리다. 그는 “우리 당 안에도 ‘내란몰이’ 세력이 있었다”며 “거짓 증언과 모함으로 추경호 시장과 우리 당을 벼랑으로 몰고 갔다”고 주장했다. 한편 추 시장은 2024년 12·3 비상계엄 당시 국민의힘 원내대표로서 소속 의원들의 계엄 해제 표결 참여를 방해한 혐의로 기소됐으나, 이날 서울중앙지법에서 1심 무죄를 선고받았다.",
    "quotes": [
-    "신천지 의혹에 대해 김 대표의 생각을 직접 묻고 싶지만 김 대표가 언론 인터뷰에 응하지 않는다",
-    "이 대통령이 한덕수 탄핵에 반대했다는 것을 윤석열 탄핵에 반대했다고 잘못 말했다",
-    "저에 대한 징계와는 별개 사안으로 신천지 논란을 풀어야 한다"
+    "정치적 이익을 위해 당을 위험에 빠트리는 자들은 동지라고 할 수 없다",
+    "거짓 증언과 모함으로 추경호 시장과 우리 당을 벼랑으로 몰고 갔다",
+    "정의와 상식의 승리다. 사법부의 올바른 판단에 경의를 표한다"
    ],
-   "press": "JTBC",
-   "photo": "07.png",
+   "press": "국민일보",
+   "photo": "05.jpg",
    "quoted": {
-    "quote": "저에 대한 징계와는 별개 사안으로 신천지 논란을 풀어야 한다",
+    "quote": "정치적 이익을 위해 당을 위험에 빠트리는 자들은 동지라고 할 수 없다",
     "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "JTBC",
-      "title": "김어준 \"최민희 수석 최고위원 역할 못하게 하는 것\"…민주당 징계 추진에 반발",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05NkhoSXNWS2xRY2d0RG5TUWFUQUY1Y2xHdzcxd2tmM1U2UXJISWpocEFvZFM2U0NSR3I0eXRZQ2tWelNva2FiNHBFdy1sdUowREFwQg?oc=5"
+      "press": "조선일보",
+      "title": "국힘 \"내란몰이 실체 드러나, 이런게 조작기소\" 민주 \"법원의 역사적 반역… 조희대 탄핵해야\"",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzJsVWYtQ2pKc1JmemN5dno1MmV2LTZJRnF6TFdlOGRjWGJSc0pmR0VobzlXTXNhT3FpQlJSOEhuRW9VLXVQcEZGR0J3N2VzWGFqd0NmZWx4Rkl0a1A2UXlETEs4OXFPZEFRMG91UEQtX2ZKSlB2RS1xV2pHLURISUdQYzlVQQ?oc=5"
      },
      {
-      "press": "경향신문",
-      "title": "“최고위원 사퇴 결단해야”…최민희 사퇴 촉구한 더민초 성명, 친청계는 불참",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYd1E1X2JpQXlQTFJMcmlPRG4zS01uSFB1eWpaUDNkbXdHRDdYT0V2VWliQjB6U3lNeVY4bnkybzhiWUE5SHJ4SXpTb3h3RXlWcVRzRVYtbEc3d9IBX0FVX3lxTE9MTzJ4M2JwLTlMRUtZNWpTaVB1NnBCbDI3RUZmem9BbnU0YjNnNjNELTB5VTBuUlVwOTBXdlpCb3Rnb2t1aWF3a2d1eHdiZ2lDc2gwU1pid2xfS3d3b0F3?oc=5"
+      "press": "시사저널",
+      "title": "장동혁, 추경호 1심 무죄에 작심 발언…“정의 승리, 당내 ‘내란몰이’ 엄정 조치”",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYZVRKRXhCOGJjWjh4MXdBNDBnYXl4MlEzdS1KTTNmUlRQVjlwN0RjQ01waVI2SV9NaENJZk1ROG5jYjJCTXZqVG9yUlc5VkRWSHIxTjAyamtvOGFILV9YaTc4UHVfRWdWOGRPN2g5a9IBc0FVX3lxTE1fOWpON1VGS2xzUmxDWllaUkpuUnNSc3RWdFZwMVc3RjVnc2JhbW9POUlqa2Q2bFJsMU1EQ296R3BRdmdzMm9GeDFGTDF6THBIQzNwbG1BLXBwNUtER1hvRWphOGlmWXBIa29oVDhjZlN6LWs?oc=5"
      },
      {
-      "press": "YTN",
-      "title": "최민희 징계 공방 격화...\"거취 결단\" \"신천지부터\"",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRSENHVTlYazJUTHk1UW8tblRTdVQxbGtRcjNDdXRXUGJOQWFETUZhcDZ2dGJiTGlsakFOZDdVaUVoTUdDSmluTzZ4NnQtUFV2d2hsdFF3ZERXekhKMXhXWkZ0U1dOck9oMXFZUGpoQllFVk5yUmc?oc=5"
+      "press": "뉴스웍스",
+      "title": "안철수 \"유죄 기우제 지낸 무리 정리해야\"…추경호 무죄에 친한계 책임론",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yMDAzMWFzQ2R4SjFVSGVwZ0lsVmJTb3R4NTlyOEhpeFhpSDZ3dUI3VnFzYjFJWHRzZmhVZXFMT2ZjU3dOV09tb2trdGo4RFg1LUFvT3ZvbXd3eHhfeXFzb1pRZU5POTBmWnVVNm1WdlU4aTDSAXNBVV95cUxOcjAwMzFhc0NkeEoxVUhlcGdJbFZiU290eDU5cjhIaXhYaUg2d3VCN1Zxc2IxSVh0c2ZoVWVxTE9mY1N3TldPbW9ra3RqOERYNS1Bb092b213d3h4X3lxc29aUWVOTzkwZlp1VTZtVnZVOGkw?oc=5"
      },
      {
-      "press": "한국경제",
-      "title": "김어준 찾은 최민희…\"당원 간 분열과 혼란은 덮을 수 없다\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtOVg0WGxxMFVtQWdSdnZNbzNIZmF4YkU0OFJMVzVCc3U1TF9ZRGpUckdZejFMUmFwRG01V3RrOVdDTV8ycHRmaU5iZzVEVlprTG0zYmlfOW51dw?oc=5"
+      "press": "머니투데이",
+      "title": "장동혁 \"진짜 내란세력은 李·민주당…당내 '내란몰이'도 엄정 조치\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVUFdrLXYzQzVuajVYNHlyUm5Hd3cybTJDTG8xX1lIYS0wLVFfYTBkNlBJNktxb1o3SXA0OGxDQ3dVZGtmZ2hZeUtScWpWckRzMktOd1dVVTBHNnVKeE9wazhxSFdHZERaNGE2Y1NJWk9LZ9IBckFVX3lxTFBVUFdrLXYzQzVuajVYNHlyUm5Hd3cybTJDTG8xX1lIYS0wLVFfYTBkNlBJNktxb1o3SXA0OGxDQ3dVZGtmZ2hZeUtScWpWckRzMktOd1dVVTBHNnVKeE9wazhxSFdHZERaNGE2Y1NJWk9LZw?oc=5"
      },
      {
-      "press": "매일신문",
-      "title": "`징계 위기` 최민희, 김어준 방송서 `대통령께 심려 끼쳐 죄송`",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XdGJyOG5ENFBYYUxuRW1RejFaR085bjhxclV6RkhSc1JFRHdubV9QcjM5aFBQcm9ZaVVTZ0hmQXlSZjFMOEdGOTFIeGRqbEhZb3RHU0NPX1puWGYxWEt0MExn?oc=5"
+      "press": "아주경제",
+      "title": "추경호 1심 무죄에 與 내란 부역 vs 野 억지 기소",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vczBITXc2VzAzWHk5MHFheG15SGxFQ1BFWG43czI5T3Vjc2dvZFhuS25oakZsc2d1TVZLOVNZenhyUWFJbTFqa3RfWVFXcWJqMHF1bElSdE_SAVhBVV95cUxOb3MwSE13NlcwM1h5OTBxYXhteUhsRUNQRVhuN3MyOU91Y3Nnb2RYbktuaGpGbHNndU1WSzlTWXp4clFhSW0xamt0X1lRV3FiajBxdWxJUnRP?oc=5"
      },
      {
-      "press": "뉴시스",
-      "title": "\"최민희 엄중 징계·거취 판단 촉구\"…與 당내 비판 이어져",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TVFFjQUhXSGhuN2RlSG51WEhWN1ZkcHFqOE55NzNEYVJUMEtTWUV4WUZGMktmemlBZnNtS1BYdzJzWDRnemVWMU8yX2lEbXZIRWdLQUdrNmtHY1dLakFpMGI5S1IwT1AzZmdoeU5KVjRiak14T0xLRNIBeEFVX3lxTE1TVFFjQUhXSGhuN2RlSG51WEhWN1ZkcHFqOE55NzNEYVJUMEtTWUV4WUZGMktmemlBZnNtS1BYdzJzWDRnemVWMU8yX2lEbXZIRWdLQUdrNmtHY1dLakFpMGI5S1IwT1AzZmdoeU5KVjRiak14T0xLRA?oc=5"
+      "press": "서울경제",
+      "title": "추경호 무죄에 ‘친한계 책임론’ 꺼낸 張…“당내 ‘내란몰이’ 엄정 조치”",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RbmtLczdOQ0U5cjZ2eTJTUGFXVDJ2TVRNbU5YcE5nZTliS1d6aHRvUjU1cHR5NC1IQ1huNzZfZWgwc0lrMkJOc09HOC13aG9ocEHSAVNBVV95cUxNdm9lWlFaMERJTEloQ3NIUHc0eWhWdjJ3OTlrQldFRmNFaUh2OGxYRHRZWE84UDRzRU90QkxSZHRCRnBPc3p2MmduVXVUelpqSDRLNA?oc=5"
      }
     ]
    }
+  },
+  {
+   "title": "추경호 무죄에 조희대 탄핵 재부상?...국힘은 본격 반격 예고",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002434770",
+   "published_at": "2026-11-18T19:13:00+09:00",
+   "section_id": "100",
+   "view_rank": 5,
+   "comment_count": 182,
+   "comment_agree": 156,
+   "comment_disagree": 29,
+   "division_balance": 0.313514,
+   "division_score": 1.638342,
+   "selection": "찬반 쟁점",
+   "prep_error": "The read operation timed out"
   }
  ],
  "cards": [
@@ -265,139 +184,122 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/01.png",
-   "pngBytes": 1619726,
-   "feed": "오늘의 뉴스 2026-11-18\n\n· 이 대통령 “반드시 잡힌다…전수조사 해서라도 엄정 대응”\n· [속보]한성숙 “수능 시작 전 재난문자 발송해 휴대폰 적발···옷 단추마다 스티커 부착”\n· \"빚만 8000만원\" 돈 못 벌어 문 닫는데...폐업 때 또 1400만원 든다\n· \"부모님이랑 같이 사냐?\"…'리트 만점' 이진우, 여대생 스토킹 폭로 터졌다\n· 정부, 총리 주재 국무회의에서 '조작기소 특검법' 의결\n· 윤상현 \"'조작징계' 사실이더라도 한동훈 복당은 다른 문제\"\n· 김어준 \"최민희 수석 최고위원 역할 못하게 하는 것\"…민주당 징계 추진에 반발"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/01.png",
+   "pngBytes": 1621470,
+   "feed": "오늘의 뉴스 2026-11-19\n\n· 차기 대통령감 물었더니…1위 오세훈 17.9% [조원씨앤아이]\n· [단독] ‘리트 만점자’ 이진우 사기 혐의로 경찰에 고발… “숙명여고 사건과 유사”\n· “43억 잠실 아파트를 18억에?”…눈 돌아가는 ‘24억 줍줍’ 3가구 떴다\n· 1심 무죄 받은 추경호…안철수 \"배신자들 단죄할 시간\"\n· 추경호 1심 무죄에 장동혁 “이런 게 조작 기소”\n· 추경호 무죄에 조희대 탄핵 재부상?...국힘은 본격 반격 예고"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/02.png",
-   "pngBytes": 1637236,
-   "title": "이 대통령 “반드시 잡힌다…전수조사 해서라도 엄정 대응”",
-   "summary": "이재명 대통령은 오늘 2027학년도 대학수학능력시험을 앞두고 AI와 초소형 기기를 이용한 부정행위와 관련해 \"'반드시 잡힌다' 그리고 '잡을 수 있다'라는 점을 충분히…",
-   "summary_long": "이재명 대통령은 오늘(17일) 2027학년도 대학수학능력시험을 앞두고 AI와 초소형 기기를 이용한 부정행위와 관련해 \"'반드시 잡힌다' 그리고 '잡을 수 있다'라는 점을 충분히 고지하고 그에 대한 책임도 아주 엄정하다는 점을 잘 알려주시길 바란다\"고 당부했습니다. 이 대통령은 이날 오후 대학수학능력시험 비상 점검회의에서 \"대학수학능력시험은 우리 사회에서 기회의 사다리이자 공정성의 상징과도 같다\"며 \"부정행위는 공정한 경쟁의 근간 그리고 우리 사회가 쌓아온 신뢰를 허물어뜨리는 중대범죄\"라고 강조했습니다. 이 대통령은 현재 아세안과 APEC 정상회의 참석을 위해 해외 순방 중인 가운데 사안의 시급성을 고려해 현지에서 화상으로 회의를 주재했습니다.\n\n이 대통령은 AI를 이용한 부정행위와 관련 \"기록이 다 남기 때문에 데이터로 사실은 얼마든지 찾아낼 수 있다\"며 \"특히 시험이 끝난 다음에도 혹여라도 있을 수 있는 부정행위의 가능성을 철저하게, 전수조사 하든지 해서라도 엄정하게 대응하길 바란다\"고 말했습니다. 이어 \"10년 응시 기회 박탈이라든지 기존의 학교 또는 재학생 지위를 박탈하든지 예외 없는 엄중한 형사 처벌 이런 점들도 충분히 홍보하시길 바란다\"고 했습니다.",
-   "press": "채널A",
-   "source": "채널A",
-   "link": "https://n.news.naver.com/article/449/0000367852",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/02.png",
+   "pngBytes": 1617664,
+   "title": "차기 대통령감 물었더니…1위 오세훈 17.9% [조원씨앤아이]",
+   "summary": "장동혁 대표, 한동훈 의원, 김민석 대표 순. 왼쪽부터 장동혁 국민의힘 대표, 한동훈 무소속 의원, 김민석 더불어민주당 대표 / 사진 = MBN.",
+   "summary_long": "이어 장동혁 대표, 한동훈 의원, 김민석 대표 순. 오세훈 서울시장 / 사진 = MBN차기 대통령 후보 적합도 조사에서 오세훈 서울시장이 가장 높은 응답률을 기록했다는 여론조사 결과가 나왔습니다. 스트레이트뉴스 의뢰로 조원씨앤아이가 지난 14~16일 사흘간 전국 만 18세 이상 남녀 2,002명을 대상으로 차기 대통령 후보 적합도를 조사한 결과, 오세훈 서울시장이 17.9%의 응답률을 기록하며 1위에 올랐습니다.\n\n오 시장은 직전 조사(10월 31일~11월 2일)보다 2.5%p 낮아졌음에도 2번 연속 가장 많은 응답률을 기록했습니다. 왼쪽부터 장동혁 국민의힘 대표, 한동훈 무소속 의원, 김민석 더불어민주당 대표 / 사진 = MBN. 무당층에서는 한 의원이 22.0%로 가장 높았고, 오 시장(17.2%), 장 대표(7.2%), 김 대표(5.2%) 가 뒤를 이었습니다.",
+   "press": "MBN",
+   "source": "MBN",
+   "link": "https://n.news.naver.com/article/057/0001978700",
    "selection": "정치",
-   "feed": "뉴스 01. 이 대통령 “반드시 잡힌다…전수조사 해서라도 엄정 대응”\n\n이재명 대통령은 오늘(17일) 2027학년도 대학수학능력시험을 앞두고 AI와 초소형 기기를 이용한 부정행위와 관련해 \"'반드시 잡힌다' 그리고 '잡을 수 있다'라는 점을 충분히 고지하고 그에 대한 책임도 아주 엄정하다는 점을 잘 알려주시길 바란다\"고 당부했습니다. 이 대통령은 이날 오후 대학수학능력시험 비상 점검회의에서 \"대학수학능력시험은 우리 사회에서 기회의 사다리이자 공정성의 상징과도 같다\"며 \"부정행위는 공정한 경쟁의 근간 그리고 우리 사회가 쌓아온 신뢰를 허물어뜨리는 중대범죄\"라고 강조했습니다. 이 대통령은 현재 아세안과 APEC 정상회의 참석을 위해 해외 순방 중인 가운데 사안의 시급성을 고려해 현지에서 화상으로 회의를 주재했습니다.\n\n이 대통령은 AI를 이용한 부정행위와 관련 \"기록이 다 남기 때문에 데이터로 사실은 얼마든지 찾아낼 수 있다\"며 \"특히 시험이 끝난 다음에도 혹여라도 있을 수 있는 부정행위의 가능성을 철저하게, 전수조사 하든지 해서라도 엄정하게 대응하길 바란다\"고 말했습니다. 이어 \"10년 응시 기회 박탈이라든지 기존의 학교 또는 재학생 지위를 박탈하든지 예외 없는 엄중한 형사 처벌 이런 점들도 충분히 홍보하시길 바란다\"고 했습니다.\n\n출처: 채널A / https://n.news.naver.com/article/449/0000367852"
+   "feed": "뉴스 01. 차기 대통령감 물었더니…1위 오세훈 17.9% [조원씨앤아이]\n\n이어 장동혁 대표, 한동훈 의원, 김민석 대표 순. 오세훈 서울시장 / 사진 = MBN차기 대통령 후보 적합도 조사에서 오세훈 서울시장이 가장 높은 응답률을 기록했다는 여론조사 결과가 나왔습니다. 스트레이트뉴스 의뢰로 조원씨앤아이가 지난 14~16일 사흘간 전국 만 18세 이상 남녀 2,002명을 대상으로 차기 대통령 후보 적합도를 조사한 결과, 오세훈 서울시장이 17.9%의 응답률을 기록하며 1위에 올랐습니다.\n\n오 시장은 직전 조사(10월 31일~11월 2일)보다 2.5%p 낮아졌음에도 2번 연속 가장 많은 응답률을 기록했습니다. 왼쪽부터 장동혁 국민의힘 대표, 한동훈 무소속 의원, 김민석 더불어민주당 대표 / 사진 = MBN. 무당층에서는 한 의원이 22.0%로 가장 높았고, 오 시장(17.2%), 장 대표(7.2%), 김 대표(5.2%) 가 뒤를 이었습니다.\n\n출처: MBN / https://n.news.naver.com/article/057/0001978700"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/03.png",
-   "pngBytes": 607163,
-   "title": "[속보]한성숙 “수능 시작 전 재난문자 발송해 휴대폰 적발···옷 단추마다 스티커 부착”",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/03.png",
+   "pngBytes": 598848,
+   "title": "[단독] ‘리트 만점자’ 이진우 사기 혐의로 경찰에 고발… “숙명여고 사건과 유사”",
    "summary": "",
    "summary_long": "",
-   "press": "경향신문",
-   "source": "경향신문",
-   "link": "https://n.news.naver.com/article/032/0003483183",
-   "selection": "정치",
-   "feed": "뉴스 02. [속보]한성숙 “수능 시작 전 재난문자 발송해 휴대폰 적발···옷 단추마다 스티커 부착”\n\n\n\n출처: 경향신문 / https://n.news.naver.com/article/032/0003483183"
+   "press": "조선비즈",
+   "source": "조선비즈",
+   "link": "https://n.news.naver.com/article/366/0001205636",
+   "selection": "경제·시사",
+   "feed": "뉴스 02. [단독] ‘리트 만점자’ 이진우 사기 혐의로 경찰에 고발… “숙명여고 사건과 유사”\n\n\n\n출처: 조선비즈 / https://n.news.naver.com/article/366/0001205636"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/04.png",
-   "pngBytes": 2368046,
-   "title": "\"빚만 8000만원\" 돈 못 벌어 문 닫는데...폐업 때 또 1400만원 든다",
-   "summary": "중소기업중앙회 2026 폐업 소상공인 경영실태조사. 폐업을 결심한 시점의 부채는 평균 8000만원을 넘었고 점포 철거와 원상복구 등에 드는 비용은 1000만원을 웃돌았다.",
-   "summary_long": "중소기업중앙회 2026 폐업 소상공인 경영실태조사. 장사가 안돼 문을 닫으려는 소상공인들이 폐업 과정에서도 적지 않은 경제적 부담을 떠안는 것으로 나타났다. 폐업을 결심한 시점의 부채는 평균 8000만원을 넘었고 점포 철거와 원상복구 등에 드는 비용은 1000만원을 웃돌았다.\n\n17일 중소기업중앙회가 발표한 '2026 폐업 소상공인 경영실태조사'에 따르면 폐업 소상공인 1116명의 폐업 결심 당시 평균 부채는 8192만원으로 조사됐다. 실제 폐업에 들어간 비용은 평균 1386만원이었다. 제조업의 평균 폐업 비용은 1700만원, 음식점업은 1416만원으로 전체 평균을 웃돌았다.",
-   "press": "머니투데이",
-   "source": "머니투데이",
-   "link": "https://n.news.naver.com/article/008/0005442253",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/04.png",
+   "pngBytes": 2262842,
+   "title": "“43억 잠실 아파트를 18억에?”…눈 돌아가는 ‘24억 줍줍’ 3가구 떴다",
+   "summary": "서울 송파구 신천동 잠실 래미안아이파크에서 부정청약 등 불법행위로 계약이 취소된 3가구가 재공급 시장에 나온다. 18일 한국부동산원 청약홈에 따르면 지난 17일…",
+   "summary_long": "서울 송파구 신천동 잠실 래미안아이파크에서 부정청약 등 불법행위로 계약이 취소된 3가구가 재공급 시장에 나온다. 최근 실거래가와 비교해 최대 24억원 이상 저렴하게 책정돼 서울 지역 무주택 청약 대기자들이 대거 몰릴 것으로 예상된다. 18일 한국부동산원 청약홈에 따르면 지난 17일 잠실진주아파트를 재건축해 조성하는 ‘잠실 래미안아이파크’(지하 4층~지상 35층, 23개 동, 총 2678가구)의 불법행위 계약취소 물량 3가구에 대한 입주자 모집공고가 올라왔다.\n\n이 중 전용 84㎡는 혼인 기간 7년 이내 등의 조건을 갖춘 신혼부부 특별공급으로 나머지 43㎡와 59㎡는 일반공급 물량으로 배정됐다. 인접 단지인 잠실동 리센츠 전용 84㎡의 이달 실거래가(33억3000만원)와 비교해도 14억원 이상 저렴하다. 청약 일정은 오는 23일 신혼부부 특별공급 접수를 시작으로 24일 일반공급이 이어진다.",
+   "press": "매일경제",
+   "source": "매일경제",
+   "link": "https://n.news.naver.com/article/009/0005765353",
    "selection": "경제·시사",
-   "feed": "뉴스 03. \"빚만 8000만원\" 돈 못 벌어 문 닫는데...폐업 때 또 1400만원 든다\n\n중소기업중앙회 2026 폐업 소상공인 경영실태조사. 장사가 안돼 문을 닫으려는 소상공인들이 폐업 과정에서도 적지 않은 경제적 부담을 떠안는 것으로 나타났다. 폐업을 결심한 시점의 부채는 평균 8000만원을 넘었고 점포 철거와 원상복구 등에 드는 비용은 1000만원을 웃돌았다.\n\n17일 중소기업중앙회가 발표한 '2026 폐업 소상공인 경영실태조사'에 따르면 폐업 소상공인 1116명의 폐업 결심 당시 평균 부채는 8192만원으로 조사됐다. 실제 폐업에 들어간 비용은 평균 1386만원이었다. 제조업의 평균 폐업 비용은 1700만원, 음식점업은 1416만원으로 전체 평균을 웃돌았다.\n\n출처: 머니투데이 / https://n.news.naver.com/article/008/0005442253"
+   "feed": "뉴스 03. “43억 잠실 아파트를 18억에?”…눈 돌아가는 ‘24억 줍줍’ 3가구 떴다\n\n서울 송파구 신천동 잠실 래미안아이파크에서 부정청약 등 불법행위로 계약이 취소된 3가구가 재공급 시장에 나온다. 최근 실거래가와 비교해 최대 24억원 이상 저렴하게 책정돼 서울 지역 무주택 청약 대기자들이 대거 몰릴 것으로 예상된다. 18일 한국부동산원 청약홈에 따르면 지난 17일 잠실진주아파트를 재건축해 조성하는 ‘잠실 래미안아이파크’(지하 4층~지상 35층, 23개 동, 총 2678가구)의 불법행위 계약취소 물량 3가구에 대한 입주자 모집공고가 올라왔다.\n\n이 중 전용 84㎡는 혼인 기간 7년 이내 등의 조건을 갖춘 신혼부부 특별공급으로 나머지 43㎡와 59㎡는 일반공급 물량으로 배정됐다. 인접 단지인 잠실동 리센츠 전용 84㎡의 이달 실거래가(33억3000만원)와 비교해도 14억원 이상 저렴하다. 청약 일정은 오는 23일 신혼부부 특별공급 접수를 시작으로 24일 일반공급이 이어진다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005765353"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/05.png",
-   "pngBytes": 1263568,
-   "title": "\"부모님이랑 같이 사냐?\"…'리트 만점' 이진우, 여대생 스토킹 폭로 터졌다",
-   "summary": "법학적성시험 만점자 이진우 씨의 인공지능 부정행위 의혹이 과거 스토킹과 협박 피해 폭로로 비화할 조짐이다. 그는 \"과외 공고에 있던 내 프로필을 클릭해 수험생인 척…",
-   "summary_long": "법학적성시험(LEET·리트) 만점자 이진우(32) 씨의 인공지능(AI) 부정행위 의혹이 과거 스토킹과 협박 피해 폭로로 비화할 조짐이다. A 씨는 당시 의대에 합격한 뒤 입시 커뮤니티 '오르비'에 과외 공고를 올렸다. 그는 \"과외 공고에 있던 내 프로필을 클릭해 수험생인 척, 학생인 척 전화번호를 조회하였고, 이후 바로 전화를 걸어서 입에 담기 힘든 욕들을 시작했고 그 통화 내용을 아이패드로 녹음했다\"고 밝혔다.\n\n아직까지 극심한 정신적 고통을 겪고 있다는 A 씨는 \"그때만 생각하면 손이 떨리고 과호흡이 온다\"며 \"범법행위로 처벌이 불가능하다는 현실을 알았을 때 무력감에 친구들을 붙잡고 많이 울었던 것 같다\"고 호소했다. 법률 자문까지 받게 됐다는 A 씨는 \"로펌방문 후 법률상담을 진행했지만 700만 원이나 들여서 얘한테 정신적 고통을 주는 게 의미가 있나 싶어서 담당 수사관을 통해서 수사 종결했다\"고 설명했다. 현재 AI 안경 사용 의혹을 받는 이 씨는 부정행위 의혹을 부인하며 오는 19일 대학수학능력시험 당일 국어 영역 두 선택과목을 모두 포함한 56문항을 65분 안에 푸는 모습을 생중계해 논란에 대해 정면 돌파하겠다는 입장이다.",
-   "press": "뉴스1",
-   "source": "뉴스1",
-   "link": "https://n.news.naver.com/article/421/0009293479",
-   "selection": "경제·시사",
-   "feed": "뉴스 04. \"부모님이랑 같이 사냐?\"…'리트 만점' 이진우, 여대생 스토킹 폭로 터졌다\n\n법학적성시험(LEET·리트) 만점자 이진우(32) 씨의 인공지능(AI) 부정행위 의혹이 과거 스토킹과 협박 피해 폭로로 비화할 조짐이다. A 씨는 당시 의대에 합격한 뒤 입시 커뮤니티 '오르비'에 과외 공고를 올렸다. 그는 \"과외 공고에 있던 내 프로필을 클릭해 수험생인 척, 학생인 척 전화번호를 조회하였고, 이후 바로 전화를 걸어서 입에 담기 힘든 욕들을 시작했고 그 통화 내용을 아이패드로 녹음했다\"고 밝혔다.\n\n아직까지 극심한 정신적 고통을 겪고 있다는 A 씨는 \"그때만 생각하면 손이 떨리고 과호흡이 온다\"며 \"범법행위로 처벌이 불가능하다는 현실을 알았을 때 무력감에 친구들을 붙잡고 많이 울었던 것 같다\"고 호소했다. 법률 자문까지 받게 됐다는 A 씨는 \"로펌방문 후 법률상담을 진행했지만 700만 원이나 들여서 얘한테 정신적 고통을 주는 게 의미가 있나 싶어서 담당 수사관을 통해서 수사 종결했다\"고 설명했다. 현재 AI 안경 사용 의혹을 받는 이 씨는 부정행위 의혹을 부인하며 오는 19일 대학수학능력시험 당일 국어 영역 두 선택과목을 모두 포함한 56문항을 65분 안에 푸는 모습을 생중계해 논란에 대해 정면 돌파하겠다는 입장이다.\n\n출처: 뉴스1 / https://n.news.naver.com/article/421/0009293479"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/05.png",
+   "pngBytes": 1592618,
+   "title": "1심 무죄 받은 추경호…안철수 \"배신자들 단죄할 시간\"",
+   "summary": "안철수 의원 축하 받는 추경호 시장 /사진=연합뉴스추경호 대구시장이 18일 내란 중요임무 종사 혐의 1심에서 무죄를 선고받자, 안철수 국민의힘 의원이 재판 과정에서 해당…",
+   "summary_long": "안철수 의원 축하 받는 추경호 시장 /사진=연합뉴스추경호 대구시장이 18일 내란 중요임무 종사 혐의 1심에서 무죄를 선고받자, 안철수 국민의힘 의원이 재판 과정에서 해당 행위를 한 인사들의 책임을 물어야 한다고 당 지도부에 요구했다. 앞서 추 시장은 12·3 비상계엄 사태 당시 윤석열 전 대통령 측으로부터 계엄에 협조해달라는 요청을 받은 뒤 다른 국민의힘 의원들의 계엄 해제 표결 참여를 방해한 혐의로 재판에 넘겨졌다. 안 의원은 이날 페이스북에 \"모진 시간을 견뎌 온 추 시장께 깊은 위로와 경의를 표한다\"며 \"이 재판은 우리를 '내란 정당'으로 낙인찍어 해산시키려는 시도였고, 당의 존립이 걸린 사투였다\"고 규정했다.\n\n안 의원은 \"2심과 3심, 전대와 공천 때마다 같은 분열이 반복될 것\"이라며 \"우리는 추 시장 재판에서 피아를 확실히 식별했다. 앞서 안 의원은 지난 7월 이 재판에 증인으로 출석해 \"1차로 국회 본회의장에 모이라고 했을 때 경찰이 막고 있었고, 이에 다시 당사로 모이라고 한 것이 한 의원이라고 들었다\"고 증언했다. 아울러 \"나중에 확인해 보니 추 시장이 거기에 맞춰 당사로 모이라고 한 것이었다\"며 \"한 의원이 국회에서 모이라고 했는데 추 시장이 그 말을 무시하고 당사로 모이라고 했다는 것은 사실이 아니다\"고 했다.",
+   "press": "한국경제",
+   "source": "한국경제",
+   "link": "https://n.news.naver.com/article/015/0005355312",
+   "selection": "찬반 쟁점",
+   "feed": "뉴스 04. 1심 무죄 받은 추경호…안철수 \"배신자들 단죄할 시간\"\n\n안철수 의원 축하 받는 추경호 시장 /사진=연합뉴스추경호 대구시장이 18일 내란 중요임무 종사 혐의 1심에서 무죄를 선고받자, 안철수 국민의힘 의원이 재판 과정에서 해당 행위를 한 인사들의 책임을 물어야 한다고 당 지도부에 요구했다. 앞서 추 시장은 12·3 비상계엄 사태 당시 윤석열 전 대통령 측으로부터 계엄에 협조해달라는 요청을 받은 뒤 다른 국민의힘 의원들의 계엄 해제 표결 참여를 방해한 혐의로 재판에 넘겨졌다. 안 의원은 이날 페이스북에 \"모진 시간을 견뎌 온 추 시장께 깊은 위로와 경의를 표한다\"며 \"이 재판은 우리를 '내란 정당'으로 낙인찍어 해산시키려는 시도였고, 당의 존립이 걸린 사투였다\"고 규정했다.\n\n안 의원은 \"2심과 3심, 전대와 공천 때마다 같은 분열이 반복될 것\"이라며 \"우리는 추 시장 재판에서 피아를 확실히 식별했다. 앞서 안 의원은 지난 7월 이 재판에 증인으로 출석해 \"1차로 국회 본회의장에 모이라고 했을 때 경찰이 막고 있었고, 이에 다시 당사로 모이라고 한 것이 한 의원이라고 들었다\"고 증언했다. 아울러 \"나중에 확인해 보니 추 시장이 거기에 맞춰 당사로 모이라고 한 것이었다\"며 \"한 의원이 국회에서 모이라고 했는데 추 시장이 그 말을 무시하고 당사로 모이라고 했다는 것은 사실이 아니다\"고 했다.\n\n출처: 한국경제 / https://n.news.naver.com/article/015/0005355312"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/06.png",
-   "pngBytes": 1666681,
-   "title": "정부, 총리 주재 국무회의에서 '조작기소 특검법' 의결",
-   "summary": "윤석열 정부 검찰의 표적 수사 의혹 등을 조사하는 이른바 '조작기소 특검법'이 오늘 국무회의에서 의결됐습니다. 지난 6일 여당 주도로 통과된 특검법은 윤석열 정부 당시…",
-   "summary_long": "윤석열 정부 검찰의 표적 수사 의혹 등을 조사하는 이른바 '조작기소 특검법'이 오늘 국무회의에서 의결됐습니다. 정부는 오늘 오전 한성숙 국무총리 주재로 열린 국무회의에서 ‘조작기소 의혹 진상 규명을 위한 특검법’을 심의·의결했습니다. 지난 6일 여당 주도로 통과된 특검법은 윤석열 정부 당시 검찰의 조작수사 의혹이 담긴 17개 사건을 수사 대상으로 삼고 있으며, 수사 기간은 최장 2백 일입니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001536080",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/06.png",
+   "pngBytes": 1751846,
+   "title": "추경호 1심 무죄에 장동혁 “이런 게 조작 기소”",
+   "summary": "12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고…",
+   "summary_long": "추경호 시장, 12·3 비상계엄 당시 국힘 의원들 표결 방해 혐의로 기소. 12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장(당시 국민의힘 원내대표)이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고 받고 법정을 나오며 장동혁 국민의힘 대표와 기쁨을 나누고 있다. 뉴시스장동혁 국민의힘 대표가 추경호 대구시장의 내란중요임무 종사 혐의 1심 무죄 선고에 대해 “이런 걸 바로 조작 기소라고 하는 것”이라며 내란특검을 비판했다.\n\n장 대표는 18일 페이스북에 “추경호 대구시장, 결국 무죄!”라며 “정의와 상식의 승리다. 그는 “우리 당 안에도 ‘내란몰이’ 세력이 있었다”며 “거짓 증언과 모함으로 추경호 시장과 우리 당을 벼랑으로 몰고 갔다”고 주장했다. 한편 추 시장은 2024년 12·3 비상계엄 당시 국민의힘 원내대표로서 소속 의원들의 계엄 해제 표결 참여를 방해한 혐의로 기소됐으나, 이날 서울중앙지법에서 1심 무죄를 선고받았다.",
+   "press": "국민일보",
+   "source": "국민일보",
+   "link": "https://n.news.naver.com/article/005/0001885936",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 정부, 총리 주재 국무회의에서 '조작기소 특검법' 의결\n\n윤석열 정부 검찰의 표적 수사 의혹 등을 조사하는 이른바 '조작기소 특검법'이 오늘 국무회의에서 의결됐습니다. 정부는 오늘 오전 한성숙 국무총리 주재로 열린 국무회의에서 ‘조작기소 의혹 진상 규명을 위한 특검법’을 심의·의결했습니다. 지난 6일 여당 주도로 통과된 특검법은 윤석열 정부 당시 검찰의 조작수사 의혹이 담긴 17개 사건을 수사 대상으로 삼고 있으며, 수사 기간은 최장 2백 일입니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001536080"
+   "feed": "뉴스 05. 추경호 1심 무죄에 장동혁 “이런 게 조작 기소”\n\n추경호 시장, 12·3 비상계엄 당시 국힘 의원들 표결 방해 혐의로 기소. 12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장(당시 국민의힘 원내대표)이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고 받고 법정을 나오며 장동혁 국민의힘 대표와 기쁨을 나누고 있다. 뉴시스장동혁 국민의힘 대표가 추경호 대구시장의 내란중요임무 종사 혐의 1심 무죄 선고에 대해 “이런 걸 바로 조작 기소라고 하는 것”이라며 내란특검을 비판했다.\n\n장 대표는 18일 페이스북에 “추경호 대구시장, 결국 무죄!”라며 “정의와 상식의 승리다. 그는 “우리 당 안에도 ‘내란몰이’ 세력이 있었다”며 “거짓 증언과 모함으로 추경호 시장과 우리 당을 벼랑으로 몰고 갔다”고 주장했다. 한편 추 시장은 2024년 12·3 비상계엄 당시 국민의힘 원내대표로서 소속 의원들의 계엄 해제 표결 참여를 방해한 혐의로 기소됐으나, 이날 서울중앙지법에서 1심 무죄를 선고받았다.\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001885936"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/07.png",
-   "pngBytes": 572185,
-   "title": "윤상현 \"'조작징계' 사실이더라도 한동훈 복당은 다른 문제\"",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/07.png",
+   "pngBytes": 572872,
+   "title": "추경호 무죄에 조희대 탄핵 재부상?...국힘은 본격 반격 예고",
    "summary": "",
    "summary_long": "",
-   "press": "뉴스1",
-   "source": "뉴스1",
-   "link": "https://n.news.naver.com/article/421/0009292850",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002434770",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 윤상현 \"'조작징계' 사실이더라도 한동훈 복당은 다른 문제\"\n\n\n\n출처: 뉴스1 / https://n.news.naver.com/article/421/0009292850"
+   "feed": "뉴스 06. 추경호 무죄에 조희대 탄핵 재부상?...국힘은 본격 반격 예고\n\n\n\n출처: YTN / https://n.news.naver.com/article/052/0002434770"
   },
   {
    "no": 8,
-   "kind": "point",
-   "label": "뉴스 07",
-   "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/08.png",
-   "pngBytes": 1499249,
-   "title": "김어준 \"최민희 수석 최고위원 역할 못하게 하는 것\"…민주당 징계 추진에 반발",
-   "summary": "최민희 더불어민주당 수석 최고위원의 당원 간담회 발언과 관련해 민주당의 징계 절차가 진행되는 가운데, 방송인 김어준씨가 \"최민희 의원의 수석 최고위원 역할을 못하게 하는…",
-   "summary_long": "최민희 더불어민주당 수석 최고위원의 당원 간담회 발언과 관련해 민주당의 징계 절차가 진행되는 가운데, 방송인 김어준씨가 \"최민희 의원의 수석 최고위원 역할을 못하게 하는 것\"이라고 의문을 제기했습니다. 이어 이재명 대통령을 음해해려 했다는 주장이나 제명 요구까지 이어지는 것은 과도하다는 취지로도 언급했습니다. 최 최고위원은 오늘(17일) 김씨의 유튜브 방송에 출연해 \"논란을 일으켜 잘못했다고 생각하고 사과드린다\"면서도 \"저에 대한 징계와는 별개 사안으로 신천지 논란을 풀어야 한다\" 밝혔습니다.\n\n\"이 대통령이 한덕수 탄핵에 반대했다는 것을 윤석열 탄핵에 반대했다고 잘못 말했다\"는 최 최고위원의 해명이 이해가 된다며 징계 조치가 과하다는 취지였습니다. 이번에 이걸 풀지 않으면 민주당은 앞으로 선거가 있을 때마다 경선이 있을 때마다 신천지 당원 논란이 일고, 경선 결과에 대하여 승복하지 않는 문화가 생길 수 있습니다. 김씨는 \"신천지 의혹에 대해 김 대표의 생각을 직접 묻고 싶지만 김 대표가 언론 인터뷰에 응하지 않는다\"고 덧붙였습니다.",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000521085",
-   "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 김어준 \"최민희 수석 최고위원 역할 못하게 하는 것\"…민주당 징계 추진에 반발\n\n최민희 더불어민주당 수석 최고위원의 당원 간담회 발언과 관련해 민주당의 징계 절차가 진행되는 가운데, 방송인 김어준씨가 \"최민희 의원의 수석 최고위원 역할을 못하게 하는 것\"이라고 의문을 제기했습니다. 이어 이재명 대통령을 음해해려 했다는 주장이나 제명 요구까지 이어지는 것은 과도하다는 취지로도 언급했습니다. 최 최고위원은 오늘(17일) 김씨의 유튜브 방송에 출연해 \"논란을 일으켜 잘못했다고 생각하고 사과드린다\"면서도 \"저에 대한 징계와는 별개 사안으로 신천지 논란을 풀어야 한다\" 밝혔습니다.\n\n\"이 대통령이 한덕수 탄핵에 반대했다는 것을 윤석열 탄핵에 반대했다고 잘못 말했다\"는 최 최고위원의 해명이 이해가 된다며 징계 조치가 과하다는 취지였습니다. 이번에 이걸 풀지 않으면 민주당은 앞으로 선거가 있을 때마다 경선이 있을 때마다 신천지 당원 논란이 일고, 경선 결과에 대하여 승복하지 않는 문화가 생길 수 있습니다. 김씨는 \"신천지 의혹에 대해 김 대표의 생각을 직접 묻고 싶지만 김 대표가 언론 인터뷰에 응하지 않는다\"고 덧붙였습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000521085"
-  },
-  {
-   "no": 9,
    "kind": "outro",
    "label": "뒷장",
-   "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-18/09.png",
-   "pngBytes": 1346472
+   "file": "08.jpg",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/08.png",
+   "pngBytes": 1346414
   }
  ],
- "caption": "📰 11월 18일 오늘의 뉴스\n\n1. 이 대통령 “반드시 잡힌다…전수조사 해서라도 엄정 대응”\n   이재명 대통령은 오늘 2027학년도 대학수학능력시험을 앞두고 AI와 초소형 기기를 이용한 부정행위와 관련해 \"'반드시 잡힌다' 그리고 '잡을 수 있다'라는 점을 충분히…\n2. [속보]한성숙 “수능 시작 전 재난문자 발송해 휴대폰 적발···옷 단추마다 스티커 부착”\n3. \"빚만 8000만원\" 돈 못 벌어 문 닫는데...폐업 때 또 1400만원 든다\n   중소기업중앙회 2026 폐업 소상공인 경영실태조사. 폐업을 결심한 시점의 부채는 평균 8000만원을 넘었고 점포 철거와 원상복구 등에 드는 비용은 1000만원을 웃돌았다.\n4. \"부모님이랑 같이 사냐?\"…'리트 만점' 이진우, 여대생 스토킹 폭로 터졌다\n   법학적성시험 만점자 이진우 씨의 인공지능 부정행위 의혹이 과거 스토킹과 협박 피해 폭로로 비화할 조짐이다. 그는 \"과외 공고에 있던 내 프로필을 클릭해 수험생인 척…\n5. 정부, 총리 주재 국무회의에서 '조작기소 특검법' 의결\n   윤석열 정부 검찰의 표적 수사 의혹 등을 조사하는 이른바 '조작기소 특검법'이 오늘 국무회의에서 의결됐습니다. 지난 6일 여당 주도로 통과된 특검법은 윤석열 정부 당시…\n6. 윤상현 \"'조작징계' 사실이더라도 한동훈 복당은 다른 문제\"\n7. 김어준 \"최민희 수석 최고위원 역할 못하게 하는 것\"…민주당 징계 추진에 반발\n   최민희 더불어민주당 수석 최고위원의 당원 간담회 발언과 관련해 민주당의 징계 절차가 진행되는 가운데, 방송인 김어준씨가 \"최민희 의원의 수석 최고위원 역할을 못하게 하는…\n\n🗣 “저에 대한 징계와는 별개 사안으로 신천지 논란을 풀어야 한다”\n이 발언을 그대로 실은 보도 10건 · JTBC · 경향신문 · YTN · 한국경제\n· JTBC — 김어준 \"최민희 수석 최고위원 역할 못하게 하는 것\"…민주당 징계 추진에 반발\n· 경향신문 — “최고위원 사퇴 결단해야”…최민희 사퇴 촉구한 더민초 성명, 친청계는 불참\n· YTN — 최민희 징계 공방 격화...\"거취 결단\" \"신천지부터\"\n· 한국경제 — 김어준 찾은 최민희…\"당원 간 분열과 혼란은 덮을 수 없다\"\n· 매일신문 — `징계 위기` 최민희, 김어준 방송서 `대통령께 심려 끼쳐 죄송`\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, MBC, 경향신문, 뉴스1, 머니투데이, 채널A"
+ "caption": "📰 11월 19일 오늘의 뉴스\n\n1. 차기 대통령감 물었더니…1위 오세훈 17.9% [조원씨앤아이]\n   장동혁 대표, 한동훈 의원, 김민석 대표 순. 왼쪽부터 장동혁 국민의힘 대표, 한동훈 무소속 의원, 김민석 더불어민주당 대표 / 사진 = MBN.\n2. [단독] ‘리트 만점자’ 이진우 사기 혐의로 경찰에 고발… “숙명여고 사건과 유사”\n3. “43억 잠실 아파트를 18억에?”…눈 돌아가는 ‘24억 줍줍’ 3가구 떴다\n   서울 송파구 신천동 잠실 래미안아이파크에서 부정청약 등 불법행위로 계약이 취소된 3가구가 재공급 시장에 나온다. 18일 한국부동산원 청약홈에 따르면 지난 17일…\n4. 1심 무죄 받은 추경호…안철수 \"배신자들 단죄할 시간\"\n   안철수 의원 축하 받는 추경호 시장 /사진=연합뉴스추경호 대구시장이 18일 내란 중요임무 종사 혐의 1심에서 무죄를 선고받자, 안철수 국민의힘 의원이 재판 과정에서 해당…\n5. 추경호 1심 무죄에 장동혁 “이런 게 조작 기소”\n   12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고…\n6. 추경호 무죄에 조희대 탄핵 재부상?...국힘은 본격 반격 예고\n\n🗣 “정치적 이익을 위해 당을 위험에 빠트리는 자들은 동지라고 할 수 없다”\n이 발언을 그대로 실은 보도 10건 · 조선일보 · 시사저널 · 뉴스웍스 · 머니투데이\n· 조선일보 — 국힘 \"내란몰이 실체 드러나, 이런게 조작기소\" 민주 \"법원의 역사적 반역… 조희대 탄핵해야\"\n· 시사저널 — 장동혁, 추경호 1심 무죄에 작심 발언…“정의 승리, 당내 ‘내란몰이’ 엄정 조치”\n· 뉴스웍스 — 안철수 \"유죄 기우제 지낸 무리 정리해야\"…추경호 무죄에 친한계 책임론\n· 머니투데이 — 장동혁 \"진짜 내란세력은 李·민주당…당내 '내란몰이'도 엄정 조치\" - 머니투데이\n· 아주경제 — 추경호 1심 무죄에 與 내란 부역 vs 野 억지 기소\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: MBN, YTN, 국민일보, 매일경제, 조선비즈, 한국경제"
 }
