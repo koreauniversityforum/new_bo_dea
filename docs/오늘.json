@@ -1,181 +1,143 @@
 {
- "date": "2026-11-19",
- "generated_at": "2026-11-19T12:55:19+09:00",
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T12:47:59+09:00",
  "mode": "daily",
- "window_start": "2026-11-18T00:00:00+09:00",
- "window_end": "2026-11-18T23:59:59+09:00",
+ "window_start": "2026-11-19T00:00:00+09:00",
+ "window_end": "2026-11-19T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "차기 대통령감 물었더니…1위 오세훈 17.9% [조원씨앤아이]",
-   "source": "MBN",
-   "url": "https://n.news.naver.com/article/057/0001978700",
-   "published_at": "2026-11-18T08:36:10+09:00",
+   "title": "박정훈 “리트 만점자, 치대 간 수능 시험지 오늘 폐기할 수도”",
+   "source": "중앙일보",
+   "url": "https://n.news.naver.com/article/025/0003566335",
+   "published_at": "2026-11-19T05:43:52+09:00",
    "section_id": "100",
-   "view_rank": 2,
+   "view_rank": 5,
    "selection": "정치",
-   "summary": "장동혁 대표, 한동훈 의원, 김민석 대표 순. 왼쪽부터 장동혁 국민의힘 대표, 한동훈 무소속 의원, 김민석 더불어민주당 대표 / 사진 = MBN.",
-   "summary_long": "이어 장동혁 대표, 한동훈 의원, 김민석 대표 순. 오세훈 서울시장 / 사진 = MBN차기 대통령 후보 적합도 조사에서 오세훈 서울시장이 가장 높은 응답률을 기록했다는 여론조사 결과가 나왔습니다. 스트레이트뉴스 의뢰로 조원씨앤아이가 지난 14~16일 사흘간 전국 만 18세 이상 남녀 2,002명을 대상으로 차기 대통령 후보 적합도를 조사한 결과, 오세훈 서울시장이 17.9%의 응답률을 기록하며 1위에 올랐습니다.\n\n오 시장은 직전 조사(10월 31일~11월 2일)보다 2.5%p 낮아졌음에도 2번 연속 가장 많은 응답률을 기록했습니다. 왼쪽부터 장동혁 국민의힘 대표, 한동훈 무소속 의원, 김민석 더불어민주당 대표 / 사진 = MBN. 무당층에서는 한 의원이 22.0%로 가장 높았고, 오 시장(17.2%), 장 대표(7.2%), 김 대표(5.2%) 가 뒤를 이었습니다.",
-   "press": "MBN",
-   "photo": "01.png"
+   "summary": "법학적성시험 만점자 이진우씨의 저서 『브레인 악셀』 표지와 이씨의 모습. 사진 이씨 SNS, 출판사 인공지능 부정행위 의혹이 제기된 법학적성시험 만점자 이진우씨가 지난해…",
+   "summary_long": "법학적성시험(LEET·리트) 만점자 이진우씨의 저서 『브레인 악셀』 표지(왼쪽)와 이씨의 모습. 사진 이씨 SNS, 출판사 인공지능(AI) 부정행위 의혹이 제기된 법학적성시험(리트·LEET) 만점자 이진우씨가 지난해 치른 대학수학능력시험(수능) 시험지가 서울 강북구에 있는 영훈고등학교에 보관돼 있는 것으로 알려졌다. 박정훈 국민의힘 의원은 “관련 규정은 수능 1년간 시험지를 보관하고 폐기하게 돼 있다”며 “내일(19일) 그 시험지를 폐기할 수 있다”고 우려를 드러냈다.\n\n박 의원은 18일 밤 페이스북에 올린 글에서 “리트 시험 만점 받은 이진X가 지난해 수능시험을 봤다. 이어 “그 사람의 수능 시험지가 서울 영훈고에 보관된 걸 오늘 서울시 교육청을 통해 확인했다”며 “오늘 온종일 그 시험지를 확보하기 위해 교육부와 서울시교육청에 전화하며 온갖 노력을 했지만 답변은 ‘개인정보보호법에 의해 자료 제출 불가하다’는 것이었다”고 했다. 이씨는 과거 수능에서 6~8등급의 낮은 성적을 받았지만, 이후 공부와 독해에 대한 깨달음을 얻으며 2024년 고려대 정치외교학과와 2026년 서울대 치대에 진학했다고 밝혀 화제가 된 인물이다.",
+   "quotes": [
+    "오늘 온종일 그 시험지를 확보하기 위해 교육부와 서울시교육청에 전화하며 온갖 노력을 했지만 답변은 ‘개인정보보호법에 의해 자료 제출 불가하다’는 것이었다",
+    "리트 시험 만점 받은 이진X가 지난해 수능시험을 봤다. 그 사람은 서울대 치의대에 2026학번으로 입학했다",
+    "그 사람의 수능 시험지가 서울 영훈고에 보관된 걸 오늘 서울시 교육청을 통해 확인했다"
+   ],
+   "press": "중앙일보",
+   "photo": "01.jpg",
+   "quoted": {
+    "quote": "오늘 온종일 그 시험지를 확보하기 위해 교육부와 서울시교육청에 전화하며 온갖 노력을 했지만 답변은 ‘개인정보보호법에 의해 자료 제출 불가하다’는 것이었다",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "한국경제",
+      "title": "AI 부정행위 어디까지…작년 수능도 검증 나서나",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4anN3OEU4clBqYmJuSHpNdkJTQ2tmdlVUOU9oZGpLeTFraTlCVWtYNFhPclpCMXMyMjVicUFHbS1YUFBkN0pEUlJlMHFZLTJidWJqcmRlVjVsUQ?oc=5"
+     },
+     {
+      "press": "JTBC",
+      "title": "리트 만점자 서울대 합격 시험지 보관 확인…박정훈 \"내일 폐기될 수도\"",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5cUdkTUs0WnJ3bkhHckNaX0R2LUJPQmpmaWFpcmlZaW1lQWhuOXYxSXU3UnBRY0Q1eTNxN2F2cjZ0SDcxQS15MjNlNEk0NWh1Z0E?oc=5"
+     },
+     {
+      "press": "중앙일보",
+      "title": "박정훈 “리트 만점자, 치대 간 수능 시험지 오늘 폐기할 수도”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rcHQycE5LcUVfWUVNUWZVcGpYT3BZRlJQZEtwM25VTzhpV015aEJ4NExPTGpXdS1WcFZzSXVRVUJxS1Z4blJmaHNSRE1xa0UtdGtXNC1n?oc=5"
+     },
+     {
+      "press": "헤럴드경제",
+      "title": "리트 만점자 작년 수능 시험지 영훈고에 보관…“오늘 폐기될 수도”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQ01RMWRxTWtaamhLcUxwYVlNcnBPd0YydnJoM044NmlsZ0RweUh0SXhiOENtbVg0alRjT2pBd3Qtd3luLXJ1a2xkOV84c3Bad3BIdEVB?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "[단독] ‘리트 만점자’ 이진우 사기 혐의로 경찰에 고발… “숙명여고 사건과 유사”",
-   "source": "조선비즈",
-   "url": "https://n.news.naver.com/article/366/0001205636",
-   "published_at": "2026-11-18T11:52:19+09:00",
+   "title": "[단독] 수석은커녕 189명 중 150등…'6개월 합격' 감평사의 해명",
+   "source": "한국경제",
+   "url": "https://n.news.naver.com/article/015/0005355673",
+   "published_at": "2026-11-19T09:31:09+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "올해 제37회 감정평가사 시험에 6개월 만에 합격했다고 밝힌 A씨가 인공지능을 이용한 부정행위 의혹에 대해 이같이 답했다. 서울 소재 최상위권 명문대 출신으로 알려진…",
+   "summary_long": "올해 제37회 감정평가사 시험에 6개월 만에 합격했다고 밝힌 A씨가 인공지능(AI)을 이용한 부정행위 의혹에 대해 이같이 답했다. 최근 세무사 시험 수석 합격자가 AI를 이용한 부정행위를 자백한 이후 다른 전문자격시험의 단기 합격자들에게까지 의혹이 번지자 직접 입장을 밝힌 것이다. A씨는 지난 17일 기자와의 서면 인터뷰에서 “부정행위는 당연히 사실무근”이라며 “저를 포함해 정직하게 공부한 결과를 얻은 수험생들까지 의심받아야 하는 현 상황이 몹시 속상하다”고 말했다.\n\n서울 소재 최상위권 명문대 출신으로 알려진 A씨는 지난 13일 자신의 블로그에 ‘37회 감정평가사 6개월 생동차 합격수기’라는 제목으로 공부 방법과 수험생활을 소개했다. ○18일 블로그에 추가 입장문…합격수기 다시 공개 A씨는 전날(18일) 오후 자신의 블로그에 ‘안녕하세요’라는 제목의 입장문을 올리고 부정행위 의혹을 재차 부인했다. 다만 A씨가 공개한 수험기간이나 시험 성적만으로 부정행위를 의심할 근거가 충분하다고 보기는 어렵다.",
+   "quotes": [
+    "다년차 수험생 분들에 비해 부족한 부분이 많지만 본인에게 맞는 공부법을 찾는다면 짧은 수험기간에도 가능할 수 있겠다는 넓은 마음으로 받아들여주시면 감사하겠다",
+    "제가 공개하지 않은 개인정보를 유출하거나 신변을 위협하는 협박성 쪽지 및 글들은 법적으로 대응하는 방법을 검토하고 있다",
+    "그 부분에서 저는 당당하며, 한때 수험생이었던 입장에서 최근 논란이 되는 부정행위에 대해 매우 분개하고 있다"
+   ],
+   "press": "한국경제",
+   "photo": "02.jpg",
+   "quoted": {
+    "quote": "그 부분에서 저는 당당하며, 한때 수험생이었던 입장에서 최근 논란이 되는 부정행위에 대해 매우 분개하고 있다",
+    "n": 1,
+    "verified": 0,
+    "items": [
+     {
+      "press": "한국경제",
+      "title": "[단독] 수석은커녕 189명 중 150등…'6개월 합격' 감평사의 해명",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sdlp3WTFYZ005a1AtSk9jd0w1ekFnRWdKQ1hBVk5Kb1A0bllOMG1vV0RrT2VETm1iVFN1aUJtYmVpMjZQNGhVZkpobDk5MzAzbmJhY2RBcWs1Zw?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "리트 만점자, 모텔서 심정지 상태 발견…유서엔 “심신 지쳤다”",
+   "source": "국민일보",
+   "url": "https://n.news.naver.com/article/005/0001886179",
+   "published_at": "2026-11-19T13:28:08+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
    "prep_error": "The read operation timed out"
   },
   {
-   "title": "“43억 잠실 아파트를 18억에?”…눈 돌아가는 ‘24억 줍줍’ 3가구 떴다",
-   "source": "매일경제",
-   "url": "https://n.news.naver.com/article/009/0005765353",
-   "published_at": "2026-11-18T10:25:09+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "서울 송파구 신천동 잠실 래미안아이파크에서 부정청약 등 불법행위로 계약이 취소된 3가구가 재공급 시장에 나온다. 18일 한국부동산원 청약홈에 따르면 지난 17일…",
-   "summary_long": "서울 송파구 신천동 잠실 래미안아이파크에서 부정청약 등 불법행위로 계약이 취소된 3가구가 재공급 시장에 나온다. 최근 실거래가와 비교해 최대 24억원 이상 저렴하게 책정돼 서울 지역 무주택 청약 대기자들이 대거 몰릴 것으로 예상된다. 18일 한국부동산원 청약홈에 따르면 지난 17일 잠실진주아파트를 재건축해 조성하는 ‘잠실 래미안아이파크’(지하 4층~지상 35층, 23개 동, 총 2678가구)의 불법행위 계약취소 물량 3가구에 대한 입주자 모집공고가 올라왔다.\n\n이 중 전용 84㎡는 혼인 기간 7년 이내 등의 조건을 갖춘 신혼부부 특별공급으로 나머지 43㎡와 59㎡는 일반공급 물량으로 배정됐다. 인접 단지인 잠실동 리센츠 전용 84㎡의 이달 실거래가(33억3000만원)와 비교해도 14억원 이상 저렴하다. 청약 일정은 오는 23일 신혼부부 특별공급 접수를 시작으로 24일 일반공급이 이어진다.",
-   "press": "매일경제",
-   "photo": "03.png"
-  },
-  {
-   "title": "1심 무죄 받은 추경호…안철수 \"배신자들 단죄할 시간\"",
-   "source": "한국경제",
-   "url": "https://n.news.naver.com/article/015/0005355312",
-   "published_at": "2026-11-18T15:37:10+09:00",
+   "title": "[속보] 김민석 “조희대 탄핵해야 한다는 판단…절차·내용 지도부에 위임”",
+   "source": "경향신문",
+   "url": "https://n.news.naver.com/article/032/0003483840",
+   "published_at": "2026-11-19T19:51:00+09:00",
    "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 200,
-   "comment_agree": 183,
-   "comment_disagree": 36,
-   "division_balance": 0.328767,
-   "division_score": 1.773247,
-   "selection": "찬반 쟁점",
-   "summary": "안철수 의원 축하 받는 추경호 시장 /사진=연합뉴스추경호 대구시장이 18일 내란 중요임무 종사 혐의 1심에서 무죄를 선고받자, 안철수 국민의힘 의원이 재판 과정에서 해당…",
-   "summary_long": "안철수 의원 축하 받는 추경호 시장 /사진=연합뉴스추경호 대구시장이 18일 내란 중요임무 종사 혐의 1심에서 무죄를 선고받자, 안철수 국민의힘 의원이 재판 과정에서 해당 행위를 한 인사들의 책임을 물어야 한다고 당 지도부에 요구했다. 앞서 추 시장은 12·3 비상계엄 사태 당시 윤석열 전 대통령 측으로부터 계엄에 협조해달라는 요청을 받은 뒤 다른 국민의힘 의원들의 계엄 해제 표결 참여를 방해한 혐의로 재판에 넘겨졌다. 안 의원은 이날 페이스북에 \"모진 시간을 견뎌 온 추 시장께 깊은 위로와 경의를 표한다\"며 \"이 재판은 우리를 '내란 정당'으로 낙인찍어 해산시키려는 시도였고, 당의 존립이 걸린 사투였다\"고 규정했다.\n\n안 의원은 \"2심과 3심, 전대와 공천 때마다 같은 분열이 반복될 것\"이라며 \"우리는 추 시장 재판에서 피아를 확실히 식별했다. 앞서 안 의원은 지난 7월 이 재판에 증인으로 출석해 \"1차로 국회 본회의장에 모이라고 했을 때 경찰이 막고 있었고, 이에 다시 당사로 모이라고 한 것이 한 의원이라고 들었다\"고 증언했다. 아울러 \"나중에 확인해 보니 추 시장이 거기에 맞춰 당사로 모이라고 한 것이었다\"며 \"한 의원이 국회에서 모이라고 했는데 추 시장이 그 말을 무시하고 당사로 모이라고 했다는 것은 사실이 아니다\"고 했다.",
-   "quotes": [
-    "법원의 거듭된 증인 요구에도 비겁하게 '폐문부재' 뒤에 숨은 자를 옹호하고, 법정에서는 추 시장을 궁지로 모는 증언을 하며, 진실을 말한 동지를 모함했다",
-    "당 밖의 특정인에게 봉사하고 이를 위해 '렉카'질을 하며 당을 분열시키는 사람들은 국민의힘에서 없어져야 한다. 차기 총선의 지원 자격에서 배제해야 한다",
-    "추 시장에 대한 법원의 무죄판결은 제가 구속영장 청구 당시를 비롯해 여러 차례 지적했듯이 특검의 무리한 수사와 기소에 따른 당연한 귀결이고 환영한다"
-   ],
-   "press": "한국경제",
-   "photo": "04.jpg",
-   "quoted": {
-    "quote": "법원의 거듭된 증인 요구에도 비겁하게 '폐문부재' 뒤에 숨은 자를 옹호하고, 법정에서는 추 시장을 궁지로 모는 증언을 하며, 진실을 말한 동지를 모함했다",
-    "n": 6,
-    "verified": 0,
-    "items": [
-     {
-      "press": "한국경제",
-      "title": "1심 무죄 받은 추경호…안철수 \"배신자들 단죄할 시간\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lQmIyUlNYQzQzYzEyT2M4dkwzYTg0bE9nZ09YRVVyZGR3cmRxRlRrYTNFQ045ZnpFX0VJRmhndnB6QWVTTlZOeXcxdWJWSERvbUw3WEJjU1VHZw?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "안철수, 추경호 무죄에 친한계 직격…\"유죄 기우제 지낸 무리 단죄해야\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XUnJHLVgwb1JOUHByQ1NZOW9jZG5VUUNEWHNsVTQtcE9qOXA3VUg0d3VJZXVwTnJkVU5UZG8ydkdRZmdfTy0yZ0NIcVpMYTE4WU5vOHVYSEw2MTNEc19Cc0hGUFVqQTAzTUZMaVB6U3paUdIBckFVX3lxTE5XUnJHLVgwb1JOUHByQ1NZOW9jZG5VUUNEWHNsVTQtcE9qOXA3VUg0d3VJZXVwTnJkVU5UZG8ydkdRZmdfTy0yZ0NIcVpMYTE4WU5vOHVYSEw2MTNEc19Cc0hGUFVqQTAzTUZMaVB6U3paUQ?oc=5"
-     },
-     {
-      "press": "펜앤마이크",
-      "title": "추경호 무죄에 한동훈계 '흔들'...안철수 \"단죄할 시간\" 장동혁 \"엄정 조치\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16U0JhbEdyTU9jdWRheHZHMVMyeFUySVFXVnppVFJUeVRNM0U3RUhTZUNORHI3M0YzRkhjVS1FZUNpMHhGTHI0X1UwbWZKOXhTVjJtM3I4MTdWREliQ2MwZ2JFcGJpdmVIVTkw0gFvQVVfeXFMT0c0bzh2ejBzb2pDLWp1Zm1IbW1RZVpOTWJJSkh2NHEtQmlLbHJCeEZjeUVIWmRmYzVHVlFTM0M1SUhTcVMwQlRfQ3VGYnhsaEI0eGJfdjRfOTZGZmROVmdGbUZtZjFBbEItVldnVXhZ?oc=5"
-     },
-     {
-      "press": "최보식의언론",
-      "title": "안철수, 친한계 겨냥 '추경호 '유죄 기우제' 지낸 무리, 당이 단죄할 시간'",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yY19qeUd5WGdUNW9NbkRpNzJVeHVIRXhJU1Nnb2hXVFFySlhWRHJUeFNqVEFOakZLVEs1TGx3VXVnSlNwWGhPdXBWS05SM3hzM2FGaUdhV3FzOEhMbTdlQm1mQXXSAWhBVV95cUxNZHpoY1hfYlo3WnMyT2k5Ty1hbzB4YnJlZmZ5N3pXZE9hd2NTZjMzWk16emZUTHgxR1hxVGo3SXNBVXNzTHFRZGFPd2FITDdFUHBPdzU3ZzFpVWhSNVhlblJtUzNoUU94Rw?oc=5"
-     },
-     {
-      "press": "더퍼블릭",
-      "title": "안철수, 추경호 무죄에 친한계 직격...\"배신자들 단죄해야\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fX2J6eUk3c0V4OFZoS3hMeHNLbkVLRF93OVVTX3BKMHhuLXZHUkR3LW1wcFprblYycnRjNDk3TzhhUjVBekZQRnYzNDZ3YkNTMFdNQkt4VThCTVZEVUY2RGlwckx0T19JSUhJ?oc=5"
-     },
-     {
-      "press": "세계일보",
-      "title": "추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YV0E1WkJtNlluT1NMMFVFY1ZTQ0NleElYVkNqVGZVd2RMSHpVOElEQlFIQWdtSVpUTUNXdHk4OEZTSUs0M1QycGJyd2NZeTBCLW0zX2hR0gFUQVVfeXFMT3FzU3FBeG5VNDJ1R0xYMmRZOV8xdnR6RDQ1aHpsMUJYY0szNUlQOHJXektzV196dWJkV0dGZmtTVGllcHo0b3g0LTlReUhrTXBBamg1?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "추경호 1심 무죄에 장동혁 “이런 게 조작 기소”",
-   "source": "국민일보",
-   "url": "https://n.news.naver.com/article/005/0001885936",
-   "published_at": "2026-11-18T15:17:07+09:00",
-   "section_id": "100",
-   "view_rank": 2,
-   "comment_count": 185,
-   "comment_agree": 155,
-   "comment_disagree": 30,
-   "division_balance": 0.324324,
-   "division_score": 1.694837,
-   "selection": "찬반 쟁점",
-   "summary": "12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고…",
-   "summary_long": "추경호 시장, 12·3 비상계엄 당시 국힘 의원들 표결 방해 혐의로 기소. 12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장(당시 국민의힘 원내대표)이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고 받고 법정을 나오며 장동혁 국민의힘 대표와 기쁨을 나누고 있다. 뉴시스장동혁 국민의힘 대표가 추경호 대구시장의 내란중요임무 종사 혐의 1심 무죄 선고에 대해 “이런 걸 바로 조작 기소라고 하는 것”이라며 내란특검을 비판했다.\n\n장 대표는 18일 페이스북에 “추경호 대구시장, 결국 무죄!”라며 “정의와 상식의 승리다. 그는 “우리 당 안에도 ‘내란몰이’ 세력이 있었다”며 “거짓 증언과 모함으로 추경호 시장과 우리 당을 벼랑으로 몰고 갔다”고 주장했다. 한편 추 시장은 2024년 12·3 비상계엄 당시 국민의힘 원내대표로서 소속 의원들의 계엄 해제 표결 참여를 방해한 혐의로 기소됐으나, 이날 서울중앙지법에서 1심 무죄를 선고받았다.",
-   "quotes": [
-    "정치적 이익을 위해 당을 위험에 빠트리는 자들은 동지라고 할 수 없다",
-    "거짓 증언과 모함으로 추경호 시장과 우리 당을 벼랑으로 몰고 갔다",
-    "정의와 상식의 승리다. 사법부의 올바른 판단에 경의를 표한다"
-   ],
-   "press": "국민일보",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "정치적 이익을 위해 당을 위험에 빠트리는 자들은 동지라고 할 수 없다",
-    "n": 10,
-    "verified": 0,
-    "items": [
-     {
-      "press": "조선일보",
-      "title": "국힘 \"내란몰이 실체 드러나, 이런게 조작기소\" 민주 \"법원의 역사적 반역… 조희대 탄핵해야\"",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzJsVWYtQ2pKc1JmemN5dno1MmV2LTZJRnF6TFdlOGRjWGJSc0pmR0VobzlXTXNhT3FpQlJSOEhuRW9VLXVQcEZGR0J3N2VzWGFqd0NmZWx4Rkl0a1A2UXlETEs4OXFPZEFRMG91UEQtX2ZKSlB2RS1xV2pHLURISUdQYzlVQQ?oc=5"
-     },
-     {
-      "press": "시사저널",
-      "title": "장동혁, 추경호 1심 무죄에 작심 발언…“정의 승리, 당내 ‘내란몰이’ 엄정 조치”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYZVRKRXhCOGJjWjh4MXdBNDBnYXl4MlEzdS1KTTNmUlRQVjlwN0RjQ01waVI2SV9NaENJZk1ROG5jYjJCTXZqVG9yUlc5VkRWSHIxTjAyamtvOGFILV9YaTc4UHVfRWdWOGRPN2g5a9IBc0FVX3lxTE1fOWpON1VGS2xzUmxDWllaUkpuUnNSc3RWdFZwMVc3RjVnc2JhbW9POUlqa2Q2bFJsMU1EQ296R3BRdmdzMm9GeDFGTDF6THBIQzNwbG1BLXBwNUtER1hvRWphOGlmWXBIa29oVDhjZlN6LWs?oc=5"
-     },
-     {
-      "press": "뉴스웍스",
-      "title": "안철수 \"유죄 기우제 지낸 무리 정리해야\"…추경호 무죄에 친한계 책임론",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yMDAzMWFzQ2R4SjFVSGVwZ0lsVmJTb3R4NTlyOEhpeFhpSDZ3dUI3VnFzYjFJWHRzZmhVZXFMT2ZjU3dOV09tb2trdGo4RFg1LUFvT3ZvbXd3eHhfeXFzb1pRZU5POTBmWnVVNm1WdlU4aTDSAXNBVV95cUxOcjAwMzFhc0NkeEoxVUhlcGdJbFZiU290eDU5cjhIaXhYaUg2d3VCN1Zxc2IxSVh0c2ZoVWVxTE9mY1N3TldPbW9ra3RqOERYNS1Bb092b213d3h4X3lxc29aUWVOTzkwZlp1VTZtVnZVOGkw?oc=5"
-     },
-     {
-      "press": "머니투데이",
-      "title": "장동혁 \"진짜 내란세력은 李·민주당…당내 '내란몰이'도 엄정 조치\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVUFdrLXYzQzVuajVYNHlyUm5Hd3cybTJDTG8xX1lIYS0wLVFfYTBkNlBJNktxb1o3SXA0OGxDQ3dVZGtmZ2hZeUtScWpWckRzMktOd1dVVTBHNnVKeE9wazhxSFdHZERaNGE2Y1NJWk9LZ9IBckFVX3lxTFBVUFdrLXYzQzVuajVYNHlyUm5Hd3cybTJDTG8xX1lIYS0wLVFfYTBkNlBJNktxb1o3SXA0OGxDQ3dVZGtmZ2hZeUtScWpWckRzMktOd1dVVTBHNnVKeE9wazhxSFdHZERaNGE2Y1NJWk9LZw?oc=5"
-     },
-     {
-      "press": "아주경제",
-      "title": "추경호 1심 무죄에 與 내란 부역 vs 野 억지 기소",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vczBITXc2VzAzWHk5MHFheG15SGxFQ1BFWG43czI5T3Vjc2dvZFhuS25oakZsc2d1TVZLOVNZenhyUWFJbTFqa3RfWVFXcWJqMHF1bElSdE_SAVhBVV95cUxOb3MwSE13NlcwM1h5OTBxYXhteUhsRUNQRVhuN3MyOU91Y3Nnb2RYbktuaGpGbHNndU1WSzlTWXp4clFhSW0xamt0X1lRV3FiajBxdWxJUnRP?oc=5"
-     },
-     {
-      "press": "서울경제",
-      "title": "추경호 무죄에 ‘친한계 책임론’ 꺼낸 張…“당내 ‘내란몰이’ 엄정 조치”",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RbmtLczdOQ0U5cjZ2eTJTUGFXVDJ2TVRNbU5YcE5nZTliS1d6aHRvUjU1cHR5NC1IQ1huNzZfZWgwc0lrMkJOc09HOC13aG9ocEHSAVNBVV95cUxNdm9lWlFaMERJTEloQ3NIUHc0eWhWdjJ3OTlrQldFRmNFaUh2OGxYRHRZWE84UDRzRU90QkxSZHRCRnBPc3p2MmduVXVUelpqSDRLNA?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "추경호 무죄에 조희대 탄핵 재부상?...국힘은 본격 반격 예고",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002434770",
-   "published_at": "2026-11-18T19:13:00+09:00",
-   "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 182,
-   "comment_agree": 156,
-   "comment_disagree": 29,
-   "division_balance": 0.313514,
-   "division_score": 1.638342,
+   "view_rank": 4,
+   "comment_count": 367,
+   "comment_agree": 200,
+   "comment_disagree": 35,
+   "division_balance": 0.297872,
+   "division_score": 1.627524,
    "selection": "찬반 쟁점",
    "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "민주당, 조희대 대법원장 탄핵 추진",
+   "source": "한겨레",
+   "url": "https://n.news.naver.com/article/028/0002833093",
+   "published_at": "2026-11-19T19:52:25+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "comment_count": 589,
+   "comment_agree": 160,
+   "comment_disagree": 29,
+   "division_balance": 0.306878,
+   "division_score": 1.610198,
+   "selection": "찬반 쟁점",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "이 대통령, 조작기소 특검법 재가…공포 즉시 시행",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000521398",
+   "published_at": "2026-11-19T07:44:31+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 529,
+   "comment_agree": 391,
+   "comment_disagree": 46,
+   "division_balance": 0.210526,
+   "division_score": 1.280467,
+   "selection": "찬반 쟁점",
+   "summary": "아시아태평양경제협력체 정상회의 참석차 중국 선전을 방문 중인 이재명 대통령이 이른바 '조작기소 특검법'을 재가해 법안이 오늘 공포됐습니다. 전자관보에 따르면 정부는 오늘…",
+   "summary_long": "아시아태평양경제협력체(APEC) 정상회의 참석차 중국 선전을 방문 중인 이재명 대통령이 이른바 '조작기소 특검법'을 재가해 법안이 오늘(19일) 공포됐습니다. 특검법은 부칙에 따라 공포한 날부터 즉시 시행됩니다. 전자관보에 따르면 정부는 오늘 법률 제22136호인 '윤석열 정권 검찰청, 국가정보원, 감사원 등 국가기관의 조작수사·조작기소 등 의혹의 진상규명을 위한 특별검사 임명 등에 관한 법률'을 공포했습니다.\n\n관보에는 국회에서 의결된 해당 법률을 공포한다는 내용과 함께 이 대통령의 이름이 적혔습니다. 민주당과 국민의힘, 조국혁신당이 각각 후보자 1명씩을 추천하면, 이 대통령은 이 가운데 1명을 특별검사로 임명하게 됩니다. 특검은 파견 검사와 수사관, 특별수사관 등을 포함해 최대 309명 규모로 꾸려지며 수사 기간은 최장 200일입니다.",
+   "press": "JTBC",
+   "photo": "06.jpg"
   }
  ],
  "cards": [
@@ -184,122 +146,122 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/01.png",
-   "pngBytes": 1621470,
-   "feed": "오늘의 뉴스 2026-11-19\n\n· 차기 대통령감 물었더니…1위 오세훈 17.9% [조원씨앤아이]\n· [단독] ‘리트 만점자’ 이진우 사기 혐의로 경찰에 고발… “숙명여고 사건과 유사”\n· “43억 잠실 아파트를 18억에?”…눈 돌아가는 ‘24억 줍줍’ 3가구 떴다\n· 1심 무죄 받은 추경호…안철수 \"배신자들 단죄할 시간\"\n· 추경호 1심 무죄에 장동혁 “이런 게 조작 기소”\n· 추경호 무죄에 조희대 탄핵 재부상?...국힘은 본격 반격 예고"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/01.png",
+   "pngBytes": 1513129,
+   "feed": "오늘의 뉴스 2026-11-20\n\n· 박정훈 “리트 만점자, 치대 간 수능 시험지 오늘 폐기할 수도”\n· [단독] 수석은커녕 189명 중 150등…'6개월 합격' 감평사의 해명\n· 리트 만점자, 모텔서 심정지 상태 발견…유서엔 “심신 지쳤다”\n· [속보] 김민석 “조희대 탄핵해야 한다는 판단…절차·내용 지도부에 위임”\n· 민주당, 조희대 대법원장 탄핵 추진\n· 이 대통령, 조작기소 특검법 재가…공포 즉시 시행"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/02.png",
-   "pngBytes": 1617664,
-   "title": "차기 대통령감 물었더니…1위 오세훈 17.9% [조원씨앤아이]",
-   "summary": "장동혁 대표, 한동훈 의원, 김민석 대표 순. 왼쪽부터 장동혁 국민의힘 대표, 한동훈 무소속 의원, 김민석 더불어민주당 대표 / 사진 = MBN.",
-   "summary_long": "이어 장동혁 대표, 한동훈 의원, 김민석 대표 순. 오세훈 서울시장 / 사진 = MBN차기 대통령 후보 적합도 조사에서 오세훈 서울시장이 가장 높은 응답률을 기록했다는 여론조사 결과가 나왔습니다. 스트레이트뉴스 의뢰로 조원씨앤아이가 지난 14~16일 사흘간 전국 만 18세 이상 남녀 2,002명을 대상으로 차기 대통령 후보 적합도를 조사한 결과, 오세훈 서울시장이 17.9%의 응답률을 기록하며 1위에 올랐습니다.\n\n오 시장은 직전 조사(10월 31일~11월 2일)보다 2.5%p 낮아졌음에도 2번 연속 가장 많은 응답률을 기록했습니다. 왼쪽부터 장동혁 국민의힘 대표, 한동훈 무소속 의원, 김민석 더불어민주당 대표 / 사진 = MBN. 무당층에서는 한 의원이 22.0%로 가장 높았고, 오 시장(17.2%), 장 대표(7.2%), 김 대표(5.2%) 가 뒤를 이었습니다.",
-   "press": "MBN",
-   "source": "MBN",
-   "link": "https://n.news.naver.com/article/057/0001978700",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/02.png",
+   "pngBytes": 1528781,
+   "title": "박정훈 “리트 만점자, 치대 간 수능 시험지 오늘 폐기할 수도”",
+   "summary": "법학적성시험 만점자 이진우씨의 저서 『브레인 악셀』 표지와 이씨의 모습. 사진 이씨 SNS, 출판사 인공지능 부정행위 의혹이 제기된 법학적성시험 만점자 이진우씨가 지난해…",
+   "summary_long": "법학적성시험(LEET·리트) 만점자 이진우씨의 저서 『브레인 악셀』 표지(왼쪽)와 이씨의 모습. 사진 이씨 SNS, 출판사 인공지능(AI) 부정행위 의혹이 제기된 법학적성시험(리트·LEET) 만점자 이진우씨가 지난해 치른 대학수학능력시험(수능) 시험지가 서울 강북구에 있는 영훈고등학교에 보관돼 있는 것으로 알려졌다. 박정훈 국민의힘 의원은 “관련 규정은 수능 1년간 시험지를 보관하고 폐기하게 돼 있다”며 “내일(19일) 그 시험지를 폐기할 수 있다”고 우려를 드러냈다.\n\n박 의원은 18일 밤 페이스북에 올린 글에서 “리트 시험 만점 받은 이진X가 지난해 수능시험을 봤다. 이어 “그 사람의 수능 시험지가 서울 영훈고에 보관된 걸 오늘 서울시 교육청을 통해 확인했다”며 “오늘 온종일 그 시험지를 확보하기 위해 교육부와 서울시교육청에 전화하며 온갖 노력을 했지만 답변은 ‘개인정보보호법에 의해 자료 제출 불가하다’는 것이었다”고 했다. 이씨는 과거 수능에서 6~8등급의 낮은 성적을 받았지만, 이후 공부와 독해에 대한 깨달음을 얻으며 2024년 고려대 정치외교학과와 2026년 서울대 치대에 진학했다고 밝혀 화제가 된 인물이다.",
+   "press": "중앙일보",
+   "source": "중앙일보",
+   "link": "https://n.news.naver.com/article/025/0003566335",
    "selection": "정치",
-   "feed": "뉴스 01. 차기 대통령감 물었더니…1위 오세훈 17.9% [조원씨앤아이]\n\n이어 장동혁 대표, 한동훈 의원, 김민석 대표 순. 오세훈 서울시장 / 사진 = MBN차기 대통령 후보 적합도 조사에서 오세훈 서울시장이 가장 높은 응답률을 기록했다는 여론조사 결과가 나왔습니다. 스트레이트뉴스 의뢰로 조원씨앤아이가 지난 14~16일 사흘간 전국 만 18세 이상 남녀 2,002명을 대상으로 차기 대통령 후보 적합도를 조사한 결과, 오세훈 서울시장이 17.9%의 응답률을 기록하며 1위에 올랐습니다.\n\n오 시장은 직전 조사(10월 31일~11월 2일)보다 2.5%p 낮아졌음에도 2번 연속 가장 많은 응답률을 기록했습니다. 왼쪽부터 장동혁 국민의힘 대표, 한동훈 무소속 의원, 김민석 더불어민주당 대표 / 사진 = MBN. 무당층에서는 한 의원이 22.0%로 가장 높았고, 오 시장(17.2%), 장 대표(7.2%), 김 대표(5.2%) 가 뒤를 이었습니다.\n\n출처: MBN / https://n.news.naver.com/article/057/0001978700"
+   "feed": "뉴스 01. 박정훈 “리트 만점자, 치대 간 수능 시험지 오늘 폐기할 수도”\n\n법학적성시험(LEET·리트) 만점자 이진우씨의 저서 『브레인 악셀』 표지(왼쪽)와 이씨의 모습. 사진 이씨 SNS, 출판사 인공지능(AI) 부정행위 의혹이 제기된 법학적성시험(리트·LEET) 만점자 이진우씨가 지난해 치른 대학수학능력시험(수능) 시험지가 서울 강북구에 있는 영훈고등학교에 보관돼 있는 것으로 알려졌다. 박정훈 국민의힘 의원은 “관련 규정은 수능 1년간 시험지를 보관하고 폐기하게 돼 있다”며 “내일(19일) 그 시험지를 폐기할 수 있다”고 우려를 드러냈다.\n\n박 의원은 18일 밤 페이스북에 올린 글에서 “리트 시험 만점 받은 이진X가 지난해 수능시험을 봤다. 이어 “그 사람의 수능 시험지가 서울 영훈고에 보관된 걸 오늘 서울시 교육청을 통해 확인했다”며 “오늘 온종일 그 시험지를 확보하기 위해 교육부와 서울시교육청에 전화하며 온갖 노력을 했지만 답변은 ‘개인정보보호법에 의해 자료 제출 불가하다’는 것이었다”고 했다. 이씨는 과거 수능에서 6~8등급의 낮은 성적을 받았지만, 이후 공부와 독해에 대한 깨달음을 얻으며 2024년 고려대 정치외교학과와 2026년 서울대 치대에 진학했다고 밝혀 화제가 된 인물이다.\n\n출처: 중앙일보 / https://n.news.naver.com/article/025/0003566335"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/03.png",
-   "pngBytes": 598848,
-   "title": "[단독] ‘리트 만점자’ 이진우 사기 혐의로 경찰에 고발… “숙명여고 사건과 유사”",
-   "summary": "",
-   "summary_long": "",
-   "press": "조선비즈",
-   "source": "조선비즈",
-   "link": "https://n.news.naver.com/article/366/0001205636",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/03.png",
+   "pngBytes": 1867790,
+   "title": "[단독] 수석은커녕 189명 중 150등…'6개월 합격' 감평사의 해명",
+   "summary": "올해 제37회 감정평가사 시험에 6개월 만에 합격했다고 밝힌 A씨가 인공지능을 이용한 부정행위 의혹에 대해 이같이 답했다. 서울 소재 최상위권 명문대 출신으로 알려진…",
+   "summary_long": "올해 제37회 감정평가사 시험에 6개월 만에 합격했다고 밝힌 A씨가 인공지능(AI)을 이용한 부정행위 의혹에 대해 이같이 답했다. 최근 세무사 시험 수석 합격자가 AI를 이용한 부정행위를 자백한 이후 다른 전문자격시험의 단기 합격자들에게까지 의혹이 번지자 직접 입장을 밝힌 것이다. A씨는 지난 17일 기자와의 서면 인터뷰에서 “부정행위는 당연히 사실무근”이라며 “저를 포함해 정직하게 공부한 결과를 얻은 수험생들까지 의심받아야 하는 현 상황이 몹시 속상하다”고 말했다.\n\n서울 소재 최상위권 명문대 출신으로 알려진 A씨는 지난 13일 자신의 블로그에 ‘37회 감정평가사 6개월 생동차 합격수기’라는 제목으로 공부 방법과 수험생활을 소개했다. ○18일 블로그에 추가 입장문…합격수기 다시 공개 A씨는 전날(18일) 오후 자신의 블로그에 ‘안녕하세요’라는 제목의 입장문을 올리고 부정행위 의혹을 재차 부인했다. 다만 A씨가 공개한 수험기간이나 시험 성적만으로 부정행위를 의심할 근거가 충분하다고 보기는 어렵다.",
+   "press": "한국경제",
+   "source": "한국경제",
+   "link": "https://n.news.naver.com/article/015/0005355673",
    "selection": "경제·시사",
-   "feed": "뉴스 02. [단독] ‘리트 만점자’ 이진우 사기 혐의로 경찰에 고발… “숙명여고 사건과 유사”\n\n\n\n출처: 조선비즈 / https://n.news.naver.com/article/366/0001205636"
+   "feed": "뉴스 02. [단독] 수석은커녕 189명 중 150등…'6개월 합격' 감평사의 해명\n\n올해 제37회 감정평가사 시험에 6개월 만에 합격했다고 밝힌 A씨가 인공지능(AI)을 이용한 부정행위 의혹에 대해 이같이 답했다. 최근 세무사 시험 수석 합격자가 AI를 이용한 부정행위를 자백한 이후 다른 전문자격시험의 단기 합격자들에게까지 의혹이 번지자 직접 입장을 밝힌 것이다. A씨는 지난 17일 기자와의 서면 인터뷰에서 “부정행위는 당연히 사실무근”이라며 “저를 포함해 정직하게 공부한 결과를 얻은 수험생들까지 의심받아야 하는 현 상황이 몹시 속상하다”고 말했다.\n\n서울 소재 최상위권 명문대 출신으로 알려진 A씨는 지난 13일 자신의 블로그에 ‘37회 감정평가사 6개월 생동차 합격수기’라는 제목으로 공부 방법과 수험생활을 소개했다. ○18일 블로그에 추가 입장문…합격수기 다시 공개 A씨는 전날(18일) 오후 자신의 블로그에 ‘안녕하세요’라는 제목의 입장문을 올리고 부정행위 의혹을 재차 부인했다. 다만 A씨가 공개한 수험기간이나 시험 성적만으로 부정행위를 의심할 근거가 충분하다고 보기는 어렵다.\n\n출처: 한국경제 / https://n.news.naver.com/article/015/0005355673"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/04.png",
-   "pngBytes": 2262842,
-   "title": "“43억 잠실 아파트를 18억에?”…눈 돌아가는 ‘24억 줍줍’ 3가구 떴다",
-   "summary": "서울 송파구 신천동 잠실 래미안아이파크에서 부정청약 등 불법행위로 계약이 취소된 3가구가 재공급 시장에 나온다. 18일 한국부동산원 청약홈에 따르면 지난 17일…",
-   "summary_long": "서울 송파구 신천동 잠실 래미안아이파크에서 부정청약 등 불법행위로 계약이 취소된 3가구가 재공급 시장에 나온다. 최근 실거래가와 비교해 최대 24억원 이상 저렴하게 책정돼 서울 지역 무주택 청약 대기자들이 대거 몰릴 것으로 예상된다. 18일 한국부동산원 청약홈에 따르면 지난 17일 잠실진주아파트를 재건축해 조성하는 ‘잠실 래미안아이파크’(지하 4층~지상 35층, 23개 동, 총 2678가구)의 불법행위 계약취소 물량 3가구에 대한 입주자 모집공고가 올라왔다.\n\n이 중 전용 84㎡는 혼인 기간 7년 이내 등의 조건을 갖춘 신혼부부 특별공급으로 나머지 43㎡와 59㎡는 일반공급 물량으로 배정됐다. 인접 단지인 잠실동 리센츠 전용 84㎡의 이달 실거래가(33억3000만원)와 비교해도 14억원 이상 저렴하다. 청약 일정은 오는 23일 신혼부부 특별공급 접수를 시작으로 24일 일반공급이 이어진다.",
-   "press": "매일경제",
-   "source": "매일경제",
-   "link": "https://n.news.naver.com/article/009/0005765353",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/04.png",
+   "pngBytes": 576480,
+   "title": "리트 만점자, 모텔서 심정지 상태 발견…유서엔 “심신 지쳤다”",
+   "summary": "",
+   "summary_long": "",
+   "press": "국민일보",
+   "source": "국민일보",
+   "link": "https://n.news.naver.com/article/005/0001886179",
    "selection": "경제·시사",
-   "feed": "뉴스 03. “43억 잠실 아파트를 18억에?”…눈 돌아가는 ‘24억 줍줍’ 3가구 떴다\n\n서울 송파구 신천동 잠실 래미안아이파크에서 부정청약 등 불법행위로 계약이 취소된 3가구가 재공급 시장에 나온다. 최근 실거래가와 비교해 최대 24억원 이상 저렴하게 책정돼 서울 지역 무주택 청약 대기자들이 대거 몰릴 것으로 예상된다. 18일 한국부동산원 청약홈에 따르면 지난 17일 잠실진주아파트를 재건축해 조성하는 ‘잠실 래미안아이파크’(지하 4층~지상 35층, 23개 동, 총 2678가구)의 불법행위 계약취소 물량 3가구에 대한 입주자 모집공고가 올라왔다.\n\n이 중 전용 84㎡는 혼인 기간 7년 이내 등의 조건을 갖춘 신혼부부 특별공급으로 나머지 43㎡와 59㎡는 일반공급 물량으로 배정됐다. 인접 단지인 잠실동 리센츠 전용 84㎡의 이달 실거래가(33억3000만원)와 비교해도 14억원 이상 저렴하다. 청약 일정은 오는 23일 신혼부부 특별공급 접수를 시작으로 24일 일반공급이 이어진다.\n\n출처: 매일경제 / https://n.news.naver.com/article/009/0005765353"
+   "feed": "뉴스 03. 리트 만점자, 모텔서 심정지 상태 발견…유서엔 “심신 지쳤다”\n\n\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001886179"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/05.png",
-   "pngBytes": 1592618,
-   "title": "1심 무죄 받은 추경호…안철수 \"배신자들 단죄할 시간\"",
-   "summary": "안철수 의원 축하 받는 추경호 시장 /사진=연합뉴스추경호 대구시장이 18일 내란 중요임무 종사 혐의 1심에서 무죄를 선고받자, 안철수 국민의힘 의원이 재판 과정에서 해당…",
-   "summary_long": "안철수 의원 축하 받는 추경호 시장 /사진=연합뉴스추경호 대구시장이 18일 내란 중요임무 종사 혐의 1심에서 무죄를 선고받자, 안철수 국민의힘 의원이 재판 과정에서 해당 행위를 한 인사들의 책임을 물어야 한다고 당 지도부에 요구했다. 앞서 추 시장은 12·3 비상계엄 사태 당시 윤석열 전 대통령 측으로부터 계엄에 협조해달라는 요청을 받은 뒤 다른 국민의힘 의원들의 계엄 해제 표결 참여를 방해한 혐의로 재판에 넘겨졌다. 안 의원은 이날 페이스북에 \"모진 시간을 견뎌 온 추 시장께 깊은 위로와 경의를 표한다\"며 \"이 재판은 우리를 '내란 정당'으로 낙인찍어 해산시키려는 시도였고, 당의 존립이 걸린 사투였다\"고 규정했다.\n\n안 의원은 \"2심과 3심, 전대와 공천 때마다 같은 분열이 반복될 것\"이라며 \"우리는 추 시장 재판에서 피아를 확실히 식별했다. 앞서 안 의원은 지난 7월 이 재판에 증인으로 출석해 \"1차로 국회 본회의장에 모이라고 했을 때 경찰이 막고 있었고, 이에 다시 당사로 모이라고 한 것이 한 의원이라고 들었다\"고 증언했다. 아울러 \"나중에 확인해 보니 추 시장이 거기에 맞춰 당사로 모이라고 한 것이었다\"며 \"한 의원이 국회에서 모이라고 했는데 추 시장이 그 말을 무시하고 당사로 모이라고 했다는 것은 사실이 아니다\"고 했다.",
-   "press": "한국경제",
-   "source": "한국경제",
-   "link": "https://n.news.naver.com/article/015/0005355312",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/05.png",
+   "pngBytes": 589997,
+   "title": "[속보] 김민석 “조희대 탄핵해야 한다는 판단…절차·내용 지도부에 위임”",
+   "summary": "",
+   "summary_long": "",
+   "press": "경향신문",
+   "source": "경향신문",
+   "link": "https://n.news.naver.com/article/032/0003483840",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 04. 1심 무죄 받은 추경호…안철수 \"배신자들 단죄할 시간\"\n\n안철수 의원 축하 받는 추경호 시장 /사진=연합뉴스추경호 대구시장이 18일 내란 중요임무 종사 혐의 1심에서 무죄를 선고받자, 안철수 국민의힘 의원이 재판 과정에서 해당 행위를 한 인사들의 책임을 물어야 한다고 당 지도부에 요구했다. 앞서 추 시장은 12·3 비상계엄 사태 당시 윤석열 전 대통령 측으로부터 계엄에 협조해달라는 요청을 받은 뒤 다른 국민의힘 의원들의 계엄 해제 표결 참여를 방해한 혐의로 재판에 넘겨졌다. 안 의원은 이날 페이스북에 \"모진 시간을 견뎌 온 추 시장께 깊은 위로와 경의를 표한다\"며 \"이 재판은 우리를 '내란 정당'으로 낙인찍어 해산시키려는 시도였고, 당의 존립이 걸린 사투였다\"고 규정했다.\n\n안 의원은 \"2심과 3심, 전대와 공천 때마다 같은 분열이 반복될 것\"이라며 \"우리는 추 시장 재판에서 피아를 확실히 식별했다. 앞서 안 의원은 지난 7월 이 재판에 증인으로 출석해 \"1차로 국회 본회의장에 모이라고 했을 때 경찰이 막고 있었고, 이에 다시 당사로 모이라고 한 것이 한 의원이라고 들었다\"고 증언했다. 아울러 \"나중에 확인해 보니 추 시장이 거기에 맞춰 당사로 모이라고 한 것이었다\"며 \"한 의원이 국회에서 모이라고 했는데 추 시장이 그 말을 무시하고 당사로 모이라고 했다는 것은 사실이 아니다\"고 했다.\n\n출처: 한국경제 / https://n.news.naver.com/article/015/0005355312"
+   "feed": "뉴스 04. [속보] 김민석 “조희대 탄핵해야 한다는 판단…절차·내용 지도부에 위임”\n\n\n\n출처: 경향신문 / https://n.news.naver.com/article/032/0003483840"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/06.png",
-   "pngBytes": 1751846,
-   "title": "추경호 1심 무죄에 장동혁 “이런 게 조작 기소”",
-   "summary": "12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고…",
-   "summary_long": "추경호 시장, 12·3 비상계엄 당시 국힘 의원들 표결 방해 혐의로 기소. 12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장(당시 국민의힘 원내대표)이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고 받고 법정을 나오며 장동혁 국민의힘 대표와 기쁨을 나누고 있다. 뉴시스장동혁 국민의힘 대표가 추경호 대구시장의 내란중요임무 종사 혐의 1심 무죄 선고에 대해 “이런 걸 바로 조작 기소라고 하는 것”이라며 내란특검을 비판했다.\n\n장 대표는 18일 페이스북에 “추경호 대구시장, 결국 무죄!”라며 “정의와 상식의 승리다. 그는 “우리 당 안에도 ‘내란몰이’ 세력이 있었다”며 “거짓 증언과 모함으로 추경호 시장과 우리 당을 벼랑으로 몰고 갔다”고 주장했다. 한편 추 시장은 2024년 12·3 비상계엄 당시 국민의힘 원내대표로서 소속 의원들의 계엄 해제 표결 참여를 방해한 혐의로 기소됐으나, 이날 서울중앙지법에서 1심 무죄를 선고받았다.",
-   "press": "국민일보",
-   "source": "국민일보",
-   "link": "https://n.news.naver.com/article/005/0001885936",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/06.png",
+   "pngBytes": 538498,
+   "title": "민주당, 조희대 대법원장 탄핵 추진",
+   "summary": "",
+   "summary_long": "",
+   "press": "한겨레",
+   "source": "한겨레",
+   "link": "https://n.news.naver.com/article/028/0002833093",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 추경호 1심 무죄에 장동혁 “이런 게 조작 기소”\n\n추경호 시장, 12·3 비상계엄 당시 국힘 의원들 표결 방해 혐의로 기소. 12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장(당시 국민의힘 원내대표)이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고 받고 법정을 나오며 장동혁 국민의힘 대표와 기쁨을 나누고 있다. 뉴시스장동혁 국민의힘 대표가 추경호 대구시장의 내란중요임무 종사 혐의 1심 무죄 선고에 대해 “이런 걸 바로 조작 기소라고 하는 것”이라며 내란특검을 비판했다.\n\n장 대표는 18일 페이스북에 “추경호 대구시장, 결국 무죄!”라며 “정의와 상식의 승리다. 그는 “우리 당 안에도 ‘내란몰이’ 세력이 있었다”며 “거짓 증언과 모함으로 추경호 시장과 우리 당을 벼랑으로 몰고 갔다”고 주장했다. 한편 추 시장은 2024년 12·3 비상계엄 당시 국민의힘 원내대표로서 소속 의원들의 계엄 해제 표결 참여를 방해한 혐의로 기소됐으나, 이날 서울중앙지법에서 1심 무죄를 선고받았다.\n\n출처: 국민일보 / https://n.news.naver.com/article/005/0001885936"
+   "feed": "뉴스 05. 민주당, 조희대 대법원장 탄핵 추진\n\n\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002833093"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/07.png",
-   "pngBytes": 572872,
-   "title": "추경호 무죄에 조희대 탄핵 재부상?...국힘은 본격 반격 예고",
-   "summary": "",
-   "summary_long": "",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002434770",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/07.png",
+   "pngBytes": 1513903,
+   "title": "이 대통령, 조작기소 특검법 재가…공포 즉시 시행",
+   "summary": "아시아태평양경제협력체 정상회의 참석차 중국 선전을 방문 중인 이재명 대통령이 이른바 '조작기소 특검법'을 재가해 법안이 오늘 공포됐습니다. 전자관보에 따르면 정부는 오늘…",
+   "summary_long": "아시아태평양경제협력체(APEC) 정상회의 참석차 중국 선전을 방문 중인 이재명 대통령이 이른바 '조작기소 특검법'을 재가해 법안이 오늘(19일) 공포됐습니다. 특검법은 부칙에 따라 공포한 날부터 즉시 시행됩니다. 전자관보에 따르면 정부는 오늘 법률 제22136호인 '윤석열 정권 검찰청, 국가정보원, 감사원 등 국가기관의 조작수사·조작기소 등 의혹의 진상규명을 위한 특별검사 임명 등에 관한 법률'을 공포했습니다.\n\n관보에는 국회에서 의결된 해당 법률을 공포한다는 내용과 함께 이 대통령의 이름이 적혔습니다. 민주당과 국민의힘, 조국혁신당이 각각 후보자 1명씩을 추천하면, 이 대통령은 이 가운데 1명을 특별검사로 임명하게 됩니다. 특검은 파견 검사와 수사관, 특별수사관 등을 포함해 최대 309명 규모로 꾸려지며 수사 기간은 최장 200일입니다.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000521398",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 추경호 무죄에 조희대 탄핵 재부상?...국힘은 본격 반격 예고\n\n\n\n출처: YTN / https://n.news.naver.com/article/052/0002434770"
+   "feed": "뉴스 06. 이 대통령, 조작기소 특검법 재가…공포 즉시 시행\n\n아시아태평양경제협력체(APEC) 정상회의 참석차 중국 선전을 방문 중인 이재명 대통령이 이른바 '조작기소 특검법'을 재가해 법안이 오늘(19일) 공포됐습니다. 특검법은 부칙에 따라 공포한 날부터 즉시 시행됩니다. 전자관보에 따르면 정부는 오늘 법률 제22136호인 '윤석열 정권 검찰청, 국가정보원, 감사원 등 국가기관의 조작수사·조작기소 등 의혹의 진상규명을 위한 특별검사 임명 등에 관한 법률'을 공포했습니다.\n\n관보에는 국회에서 의결된 해당 법률을 공포한다는 내용과 함께 이 대통령의 이름이 적혔습니다. 민주당과 국민의힘, 조국혁신당이 각각 후보자 1명씩을 추천하면, 이 대통령은 이 가운데 1명을 특별검사로 임명하게 됩니다. 특검은 파견 검사와 수사관, 특별수사관 등을 포함해 최대 309명 규모로 꾸려지며 수사 기간은 최장 200일입니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000521398"
   },
   {
    "no": 8,
    "kind": "outro",
    "label": "뒷장",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-19/08.png",
-   "pngBytes": 1346414
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-20/08.png",
+   "pngBytes": 1346116
   }
  ],
- "caption": "📰 11월 19일 오늘의 뉴스\n\n1. 차기 대통령감 물었더니…1위 오세훈 17.9% [조원씨앤아이]\n   장동혁 대표, 한동훈 의원, 김민석 대표 순. 왼쪽부터 장동혁 국민의힘 대표, 한동훈 무소속 의원, 김민석 더불어민주당 대표 / 사진 = MBN.\n2. [단독] ‘리트 만점자’ 이진우 사기 혐의로 경찰에 고발… “숙명여고 사건과 유사”\n3. “43억 잠실 아파트를 18억에?”…눈 돌아가는 ‘24억 줍줍’ 3가구 떴다\n   서울 송파구 신천동 잠실 래미안아이파크에서 부정청약 등 불법행위로 계약이 취소된 3가구가 재공급 시장에 나온다. 18일 한국부동산원 청약홈에 따르면 지난 17일…\n4. 1심 무죄 받은 추경호…안철수 \"배신자들 단죄할 시간\"\n   안철수 의원 축하 받는 추경호 시장 /사진=연합뉴스추경호 대구시장이 18일 내란 중요임무 종사 혐의 1심에서 무죄를 선고받자, 안철수 국민의힘 의원이 재판 과정에서 해당…\n5. 추경호 1심 무죄에 장동혁 “이런 게 조작 기소”\n   12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고…\n6. 추경호 무죄에 조희대 탄핵 재부상?...국힘은 본격 반격 예고\n\n🗣 “정치적 이익을 위해 당을 위험에 빠트리는 자들은 동지라고 할 수 없다”\n이 발언을 그대로 실은 보도 10건 · 조선일보 · 시사저널 · 뉴스웍스 · 머니투데이\n· 조선일보 — 국힘 \"내란몰이 실체 드러나, 이런게 조작기소\" 민주 \"법원의 역사적 반역… 조희대 탄핵해야\"\n· 시사저널 — 장동혁, 추경호 1심 무죄에 작심 발언…“정의 승리, 당내 ‘내란몰이’ 엄정 조치”\n· 뉴스웍스 — 안철수 \"유죄 기우제 지낸 무리 정리해야\"…추경호 무죄에 친한계 책임론\n· 머니투데이 — 장동혁 \"진짜 내란세력은 李·민주당…당내 '내란몰이'도 엄정 조치\" - 머니투데이\n· 아주경제 — 추경호 1심 무죄에 與 내란 부역 vs 野 억지 기소\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: MBN, YTN, 국민일보, 매일경제, 조선비즈, 한국경제"
+ "caption": "📰 11월 20일 오늘의 뉴스\n\n1. 박정훈 “리트 만점자, 치대 간 수능 시험지 오늘 폐기할 수도”\n   법학적성시험 만점자 이진우씨의 저서 『브레인 악셀』 표지와 이씨의 모습. 사진 이씨 SNS, 출판사 인공지능 부정행위 의혹이 제기된 법학적성시험 만점자 이진우씨가 지난해…\n2. [단독] 수석은커녕 189명 중 150등…'6개월 합격' 감평사의 해명\n   올해 제37회 감정평가사 시험에 6개월 만에 합격했다고 밝힌 A씨가 인공지능을 이용한 부정행위 의혹에 대해 이같이 답했다. 서울 소재 최상위권 명문대 출신으로 알려진…\n3. 리트 만점자, 모텔서 심정지 상태 발견…유서엔 “심신 지쳤다”\n4. [속보] 김민석 “조희대 탄핵해야 한다는 판단…절차·내용 지도부에 위임”\n5. 민주당, 조희대 대법원장 탄핵 추진\n6. 이 대통령, 조작기소 특검법 재가…공포 즉시 시행\n   아시아태평양경제협력체 정상회의 참석차 중국 선전을 방문 중인 이재명 대통령이 이른바 '조작기소 특검법'을 재가해 법안이 오늘 공포됐습니다. 전자관보에 따르면 정부는 오늘…\n\n🗣 “오늘 온종일 그 시험지를 확보하기 위해 교육부와 서울시교육청에 전화하며 온갖 노력을 했지만 답변은 ‘개인정보보호법에 의해 자료 제출 불가하다’는 것이었다”\n이 발언을 그대로 실은 보도 4건 · 한국경제 · JTBC · 중앙일보 · 헤럴드경제\n· 한국경제 — AI 부정행위 어디까지…작년 수능도 검증 나서나\n· JTBC — 리트 만점자 서울대 합격 시험지 보관 확인…박정훈 \"내일 폐기될 수도\"\n· 중앙일보 — 박정훈 “리트 만점자, 치대 간 수능 시험지 오늘 폐기할 수도”\n· 헤럴드경제 — 리트 만점자 작년 수능 시험지 영훈고에 보관…“오늘 폐기될 수도”\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실 #법원\n\n출처: JTBC, 경향신문, 국민일보, 중앙일보, 한겨레, 한국경제"
 }
