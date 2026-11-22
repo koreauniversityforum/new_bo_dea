@@ -1,267 +1,321 @@
 {
- "date": "2026-11-21",
- "generated_at": "2026-11-21T12:40:17+09:00",
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22T11:45:46+09:00",
  "mode": "daily",
- "window_start": "2026-11-20T00:00:00+09:00",
- "window_end": "2026-11-20T23:59:59+09:00",
+ "window_start": "2026-11-21T00:00:00+09:00",
+ "window_end": "2026-11-21T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "'국조부터'라던 김민석, 한덕수 파기환송에 '조희대 탄핵' 꺼냈다",
-   "source": "시사저널",
-   "url": "https://n.news.naver.com/article/586/0000142683",
-   "published_at": "2026-11-20T08:00:13+09:00",
+   "title": "민주, ‘조희대 탄핵’ 당론 채택했지만…‘기각 역풍’ 우려도 만만찮아",
+   "source": "한겨레",
+   "url": "https://n.news.naver.com/article/028/0002833279",
+   "published_at": "2026-11-21T05:02:20+09:00",
    "section_id": "100",
    "view_rank": 2,
    "selection": "정치",
-   "summary": "지난달까지만 해도 '국정조사부터'라며 속도를 조절하던 김민석 더불어민주당 대표는 선고 직후 '조희대 탄핵 카드'를 꺼내들며 대법원을 직격했다. 최민희 최고위원 징계…",
-   "summary_long": "'탄핵 실기론' 부담 커진 金, 수세 몰렸던 친청계는 '즉각 탄핵' 압박. 한덕수 전 국무총리의 내란 중요임무 종사 혐의 일부를 무죄 취지로 판단한 대법원 판결이 여야의 셈법을 바꿔놓았다. 지난달까지만 해도 '국정조사부터'라며 속도를 조절하던 김민석 더불어민주당 대표는 선고 직후 '조희대 탄핵 카드'를 꺼내들며 대법원을 직격했다.\n\n최민희 최고위원 징계 문제로 수세에 몰렸던 친청계는 '즉각 탄핵'을 앞세워 김 대표를 다시 압박했다. 김 대표는 선고 직후 판결에 대해 \"역사적 기회주의자들을 위한 변명\"이라고 규정했다. '계엄에 사과할 것인가'라는 질문을 받던 장 대표가 한 전 총리 선고를 계기로 '이 대통령 재판은 왜 멈춰있느냐'고 되받은 것이다.",
+   "summary": "더불어민주당이 20일 의원총회를 열고 조희대 대법원장에 대한 탄핵 추진을 당론으로 채택했다. 전은수 원내대변인은 이날 의원총회 뒤 “조 대법원장 탄핵 소추 추진을…",
+   "summary_long": "더불어민주당이 20일 의원총회를 열고 조희대 대법원장에 대한 탄핵 추진을 당론으로 채택했다. 김민석 대표는 ‘대법원이 선을 넘었다’며 탄핵의 불가피성을 강조하고 있으나, 당 안에서는 ‘헌법재판소 기각 가능성이 크다’며 우려하는 목소리도 적지 않다. 전은수 원내대변인은 이날 의원총회 뒤 “조 대법원장 탄핵 소추 추진을 당론으로 채택했다”라고 알렸다.\n\n양 의원은 조 대법원장의 탄핵 사유로 △12·3 비상계엄 당일 대법원 심야 회의 행적 등 내란 순응 의혹 △이재명 대통령 공직선거법 재판 파기환송 과정에서의 절차 위반 △대법관 재제청 요구 거부에 따른 대통령 임명권 침해 △업무추진비 유용 및 국회 증인 선서 거부 등 사건을 들었다. 곽상언 의원은 이날 자신의 페이스북에 “사법부 판결은 그 자체로 탄핵 사유가 되지 않고, 대법원장이 재판장으로 진행한 판결도 마찬가지”라며 “그런데 지금 대법원장을 탄핵하면, 국민들은 어제 선고된 한덕수 내란 사건의 판결을 이유로 탄핵하는 것으로 인식하게 될 것”이라고 썼다. 또 다른 민주당 중진 의원 역시 “지금 거론되는 탄핵 사유로는 헌재에서 인용되기 어렵다”면서 “내년에 조작기소특검과 조 대법원장 탄핵 이슈가 지속되면 이듬해 총선에도 악영향을 미칠 것”이라고 했다.",
    "quotes": [
-    "계엄 선포 전후를 쪼개 한 전 총리의 형량을 줄여주려는 판결",
-    "때려서라도 말렸어야 하는 것이 국무총리의 본분 아닌가",
-    "대법원장에 대한 '보복 탄핵'은 결코 수용할 수 없다"
+    "탄핵을 추진하게 되면, 국민들은 사법부를 탄핵당해 마땅한 국가 기관이 아니라, 입법권과 행정권을 가진 거대 여당의 탄압을 받는 피해자로 인식할 가능성이 있다",
+    "적극적·소극적 저항으로 내란을 극복해 온 국민의 행위 규범과 정반대의 규범을 옳다고 하면서 역사적 기회주의자들에게 집단적 면죄부를 발급한 것",
+    "오늘 당론 채택까지 된 만큼 결정을 되돌릴 길은 없어졌고 헌법재판소 결정 이후 닥칠 정치적 후폭풍을 감수할 수밖에 없게 됐다"
    ],
-   "press": "시사저널",
+   "press": "한겨레",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "대법원장에 대한 '보복 탄핵'은 결코 수용할 수 없다",
+    "quote": "적극적·소극적 저항으로 내란을 극복해 온 국민의 행위 규범과 정반대의 규범을 옳다고 하면서 역사적 기회주의자들에게 집단적 면죄부를 발급한 것",
     "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "시사저널",
-      "title": "‘국조부터’라던 김민석, 한덕수 파기환송에 ‘조희대 탄핵’ 꺼냈다",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WajRXZTFlTmdXTlFFTmxqa0ZDekFKWmJTN0pPUi1VRWRxYjR4ZDRaT1dOVmdrVm1ORFVlbFU1RHJWYjl3UDJ3YlBsUE1nQ0RiTUYwemQwdXd6NGMyLU1QNm9PUmVIN3Y0NjVxUG15c3ZaSE3SAXNBVV95cUxPVmo0V2UxZU5nV05RRU5samtGQ3pBSlpiUzdKT1ItVUVkcWI0eGQ0Wk9XTlZna1ZtTkRVZWxVNURyVmI5d1Ayd2JQbFBNZ0NEYk1GMHpkMHV3ejRjMi1NUDZvT1JlSDd2NDY1cVBteXN2WkhN?oc=5"
-     },
-     {
-      "press": "연합뉴스TV",
-      "title": "국힘 \"내란몰이 철퇴 판결…조희대에 보복 탄핵 안 돼\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wcS12XzVjQjY4djFWSUNvUGRRcmViZWJNSlltSXZnaUJpdFdqQ2J6MTVwMEVobE9KZTYtVHJMOFREY0Frdzl5dmNmNlJJUmU5WldURU1NMnBUWVhoSGt4Y0xPZHE0MDg?oc=5"
-     },
-     {
-      "press": "연합인포맥스",
-      "title": "국힘 \"한덕수 대법 판단 존중…與 대법원장 보복 탄핵은 사법부 탄압\" |",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PZWJaZkcyUWxLMzI1ZG5qbFJpSW9sVGpyQWFEOWRjM1c4UjZTdUttdkhveldEWTlCOWMwSzdCNUVfNE91UW1QTGEzdHY5ckpUR1EtX1RsX2dfZVZqRWRvaWV0Mzg5cHNWcjh1UUZENm5xSzBX?oc=5"
+      "press": "한겨레",
+      "title": "민주, ‘조희대 탄핵’ 당론 채택했지만…‘기각 역풍’ 우려도 만만찮아",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wMW5WVnJSWEUzVVVpbEdyblZHdlpVV201Snp5cTlPNEFYNm02eHUwUDlZajdVTkJ1eDVjUWd4SHQ4UzAwOUlSOVJ2a1JrNGZ0QWZEU2x3WnhVdjFqNGlFem9wOENDYkZSRmlhUExKSGwzekFP?oc=5"
      },
      {
       "press": "한겨레",
-      "title": "국힘, 한덕수 파기환송에 “사법정의 확인…조희대 보복 탄핵 안돼”",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtYkc0RnZfNTBweTlfa1R1RDlYTXF5NGxiSllDaU9PSWVUNzJjOENyNklwQVFHd1BuRWNWZFBJbHZvYXQ4QVlLS21tNUtKLXM3VnMtQl9lYkNRY2FoeDV1U2hVZU1jUUtwYUE?oc=5"
+      "title": "김민석 “한덕수 판결, 국민 인내선 넘어”…조희대 탄핵안 당론 추진",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LMnhNdjlQUW04TmdnMjRYUjdfN0JWTTlHTDYtdmZYdVB5MEp6X3hqM3haaV9EY2ZCSFRZdFZyWEF0eU1zN3Y3V1lwOUxyWkpwU09QcU5FYktIQ25kX18tTElpNFFtQUVKNFVtRVVuQ2dXT2lQ?oc=5"
      },
      {
-      "press": "조선일보",
-      "title": "국힘, 대법 한덕수 파기환송에 \"판단 존중...與 조희대 탄핵 주장은 쿠데타\"",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUk5ndDIzeVdNWWJRdTlDQzVHQTc3TElpUFBSUFVqSlVXbVJJcXp0NGNCdW1ndk1pWFYwcWtqcDZkMkNNOXJmaTByQ3NldS1QWlpDcHBZOXpUdjQwUWt0YlMtdWNkZy1vRmFuV2ZNcmE4TUFDYWF4NzRJOFpBTVI4ZGpJUFRxZw?oc=5"
+      "press": "한국경제",
+      "title": "김민석 \"조희대 탄핵 결정…내란 정당화와 타협 없다\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mZ2d1TWYzU29qRngxelZuSWVIOUFMYVhnM3c2Z0tDZjdLQ1V4ZzhRTVl0UVNLcFNYanhyUGFMOHVjZnRtNGQ3VkVJU19DYW1qWVUxZ2VHdENyZw?oc=5"
      },
      {
-      "press": "연합뉴스",
-      "title": "국힘, 대법 '한덕수 파기환송'에 \"이재명 정권 내란몰이에 철퇴\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PTUlQZU5SVGVJaXNqMzBoajVHNldRTnpqek8yZDh0MXhJT3NtVGJuMTVzaGZaeWpkcXNHWjV5LXliSHpES041cXFFa3FxNmJmd1BaaXRZTElaTjJFS0pxctIBYEFVX3lxTE1PTUlQZU5SVGVJaXNqMzBoajVHNldRTnpqek8yZDh0MXhJT3NtVGJuMTVzaGZaeWpkcXNHWjV5LXliSHpES041cXFFa3FxNmJmd1BaaXRZTElaTjJFS0pxcg?oc=5"
+      "press": "조세일보",
+      "title": "與 \"내란·내란 정당화 결코 타협 불가...조희대 탄핵 결정\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hR0hkWTZCNEprVXZVYjdQNDBYQXBYV29MZkdMUU1iX0dkdm56T0I1c1lPdjZZVTBJMkU2YTFFUE9KYkJkVmN1MkZZV2tSRm5QUXVyaUtiand1T1RCR2FVazBDNU9lZXo2b0w5MU03VFBORnBC?oc=5"
+     },
+     {
+      "press": "시사뉴스",
+      "title": "더불어민주당, 조희대 대법원장 탄핵 당론 채택...“사법부에 대한 국민의 신뢰 무너뜨린 책임 묻겠다”",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01a1AxY1pDVEtZT214N1dETl9jN2U4WEgzS2hmYVJDbVVWbzdYck1iYVdPZ0xWdDVzT0IwNHlscVE4X09hckdhbkJEUWRmejBqT0h4OW5UMWxMNHpxUlV5Z25Dcw?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "김민석 \"조희대 탄핵 더 미루기 어려워…인내선 넘었다\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85NDhvYWVTZDZqSFA0SG1WOFQtbldnZkVCXzM0LVNkbEUyXzEwOG03bTVBWnBUdUVCR0xvZVRUSnNTNW4xUmdHczdwWm5FdXlHWHk5S0UzUUd3VmdUcHFzX9IBeEFVX3lxTE9UTjZ6MDNtOGtfazhMNXN0Z3FPdUdwZVl3WDV2R3g1NEprNkZkV0hEVS03R29ZTnkxMGVVNTBMdldVSlZhUlFXRXJNQ3dTeU1pSkhOekhoblY5dm9pRTYta0N1VEhWUEV3MkxGbWloOTR4Tjh4c0tweQ?oc=5"
      }
     ]
    }
   },
   {
-   "title": "“검사 200명 수사 부담된다” 손사래… 與 조작기소 특검 구인난",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004010714",
-   "published_at": "2026-11-20T00:49:30+09:00",
+   "title": "[속보] 일본인 “한국인 좋다” 역대 최고… 중국은 93%가 ‘안 좋다’ 응답",
+   "source": "디지털타임스",
+   "url": "https://n.news.naver.com/article/029/0003060318",
+   "published_at": "2026-11-21T12:11:12+09:00",
    "section_id": "100",
    "view_rank": 3,
    "selection": "정치",
-   "summary": "이재명 대통령이 해외 순방 중에 자기 사건과 관련한 ‘조작기소 특검법’을 재가한 가운데, 더불어민주당이 이미 특검 후보 물색에 착수한 것으로 19일 알려졌다. 민주당…",
-   "summary_long": "이재명 대통령이 해외 순방 중에 자기 사건과 관련한 ‘조작기소 특검법’을 재가한 가운데, 더불어민주당이 이미 특검 후보 물색에 착수한 것으로 19일 알려졌다. 하지만 정치 중립적이면서도 조작 수사와 기소 여부를 밝혀내야 하는 특검에 마땅한 인사를 찾기가 쉽지 않은 것으로 전해졌다. 민주당 핵심 관계자는 이날 “검사 출신의 변호사들에게 의사를 타진하고 있지만 대부분이 ‘대통령 사건 등 17개 사건을 수사한 200명 정도의 검사와 수사관을 수사해야 하는데 너무 부담스럽다’며 손사래치고 있다”고 했다.\n\n민주당은 다수의 검사 출신과 일부 판사 출신 법조인들을 접촉해 특검 수락 의사를 타진하고 있는 것으로 전해졌다. 여권 인사에게 특검 제안을 받은 한 변호사는 “대통령 사건을 수사한 검사들을 앉혀 놓고 조작 수사와 기소를 밝혀내는 게 쉽겠나”라며 “그 검사들이 ‘내가 조작했다’고 할 리가 있겠나. 하지만 민주당 관계자는 “검사들 중 특검 파견 명령이 떨어지면 휴직을 쓰겠다는 사람도 많다”며 “파견 검사 찾기도 힘들 것 같다”고 했다.",
+   "summary": "이재명 대통령이 17일 필리핀 마닐라 필리핀국제컨벤션센터에서 다카이치 사나에 일본 총리와의 정상회담에서 악수를 하고 있다. 한일관계가 개선되는 반면 중일관계는 갈등을…",
+   "summary_long": "이재명 대통령이 17일(현지시간) 필리핀 마닐라 필리핀국제컨벤션센터(PICC)에서 다카이치 사나에 일본 총리와의 정상회담에서 악수를 하고 있다. 한일관계가 개선되는 반면 중일관계는 갈등을 이어가면서 한국과 중국을 바라보는 일본 국민들의 인식에도 뚜렷한 차이를 보였다. 21일 일본 내각부가 발표한 외교 관련 여론조사 결과에 따르면 일본인 응답자 1424명 가운데 한국에 대해 ‘친근감을 느낀다’고 답한 비율은 61.8%로 조사됐다.\n\n일본 내각부는 1975년부터 거의 매년 외교 관련 여론조사를 실시해 왔으며, 중일관계에 관한 문항은 1986년부터 조사에 포함됐다. 최근 중일관계 악화에는 다카이치 사나에 일본 총리의 대만 유사시 개입 가능성을 시사한 발언과 이에 대한 중국의 대응이 영향을 미친 것으로 풀이된다. 다카이치 총리는 지난해 11월 국회에서 대만 유사시를 둘러싼 질문에 “전함을 사용해 무력행사를 수반한다면 이것은 어떻게 생각해도 (집단 자위권 행사가 가능한) 존립 위기 사태가 될 수 있다”고 언급했다.",
    "quotes": [
-    "일단 정치를 했던 사람은 요건이 안되고, 대통령 변호인 등 대통령과 인연이 있는 사람들까지 배제하다 보니 진짜 사람이 없더라. 나는 호남 출신을 추천했는데 그 사람이 수락할지는 모르겠다",
-    "검사 출신의 변호사들에게 의사를 타진하고 있지만 대부분이 ‘대통령 사건 등 17개 사건을 수사한 200명 정도의 검사와 수사관을 수사해야 하는데 너무 부담스럽다’며 손사래치고 있다",
-    "그 검사들이 ‘내가 조작했다’고 할 리가 있겠나. 어떤 정치적 목적을 갖지 않고 제대로 수사할 사람을 찾기는 쉽지 않을 것 같다"
+    "전함을 사용해 무력행사를 수반한다면 이것은 어떻게 생각해도 (집단 자위권 행사가 가능한) 존립 위기 사태가 될 수 있다"
    ],
-   "press": "조선일보",
-   "photo": "02.jpg",
+   "press": "디지털타임스",
+   "photo": "02.png",
    "quoted": {
-    "quote": "그 검사들이 ‘내가 조작했다’고 할 리가 있겠나. 어떤 정치적 목적을 갖지 않고 제대로 수사할 사람을 찾기는 쉽지 않을 것 같다",
+    "quote": "전함을 사용해 무력행사를 수반한다면 이것은 어떻게 생각해도 (집단 자위권 행사가 가능한) 존립 위기 사태가 될 수 있다",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
+      "press": "연합뉴스",
+      "title": "다카이치 \"'하나의 중국' 존중 日방침 그대로…미중러회담 주시\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtUndFa3ZmcXBzRHRzQ0VWVDJkOXZhR04wMXZocEFHSHJBVGFsLWszTGhZWXVaUzRUZVVuM3ppa01vM0RmU3FtVU5Jbk1OLVJwOEM2amVuNWQ1UmwxTWtybtIBYEFVX3lxTFBtUndFa3ZmcXBzRHRzQ0VWVDJkOXZhR04wMXZocEFHSHJBVGFsLWszTGhZWXVaUzRUZVVuM3ppa01vM0RmU3FtVU5Jbk1OLVJwOEM2amVuNWQ1UmwxTWtybg?oc=5"
+     },
+     {
+      "press": "TV서울",
+      "title": "한국에 친근감 느끼는 일본인, 62%로 역대 최고…중국엔 냉랭",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14ZWU5OWc0V2lnalFucUdvQ3hIM3RweDZvR19fMGlBeUZ4blRsbS1FeWZzSDRYVVdLSXA4NVFybDhPWTh1WXpiUkl3MVlfQVJpMEFnNjBoR2M?oc=5"
+     },
+     {
+      "press": "한겨레",
+      "title": "일본인 극과 극…‘한국에 친근감’ 62%, ‘중일관계 나쁘다’ 93%",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcWVmWlZLam5TTVVydVZEUjZndU9DaXNWVm1kc28zUzBXdUxRMjNhVnc1MTVkQzh0TVFZWU5vVS1rYlFFN3liWXhpOVFES3lzNmZDR1czeHVocUpJMGhPOWNta1phYXk3cDEwWU5lUnBLdjVCb1NjNm44RzJ1ZS1uX3BB?oc=5"
+     },
+     {
+      "press": "한국경제",
+      "title": "\"중국과 관계 별로\" 93%…38년 만에 최고치",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlOTlHbmppV2taQVN5c0I1T2JIb2Z1WkFnUzAzVFM2MEtYOWhDdDQtSWJUZUdkUWNON1h2MWh3alpPN3lxdk05U3NXSURKSkJSS25jdXNmYk5TUQ?oc=5"
+     },
+     {
+      "press": "매일신문",
+      "title": "`한국인 좋아` 일본인 역대 최고…중국은 93%가 `안 좋다` 응답",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zamI2LU5FRjRlZVFnOHBWSmxfZ2MtUUwtQU0zdWc3YkN0VnJFNHRtZjdiT05ubHBKVnp3ZUNWWmRYeTFaR2w4WDhmNzFFQy1qVEJOSjdUS3BEbTA2ZkFaQkln?oc=5"
+     },
+     {
+      "press": "연합뉴스",
+      "title": "시진핑, 중일관계 경색 속 다카이치와 악수…옅은 미소로 환영",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52V21WR0FSeW5XejhFelRPd2cyWVpGYVBkdzZnRTBqVXB5SFp5bWZJNkJTbVhvdjNSb3g4aUptWVhfNTdJcUo3cEtQQzQ0UER1WEVfTVZWbkVkMVHSAWBBVV95cUxOSmZZczRGek5PR3JGb1A3dUp0U0ZuTXpSYmZSU2c2UFF1S21KemE2NDJGY1NCZzNNMWo2MDZ6WjVEU0VEdTE0SWhweVAxQnQ3RWtIZTZyendjX2w4RC1GYXA?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "[속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져",
+   "source": "디지털타임스",
+   "url": "https://n.news.naver.com/article/029/0003060294",
+   "published_at": "2026-11-21T06:11:38+09:00",
+   "section_id": "101",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "스탠더드앤드푸어스 500지수는 265.44포인트 내린 6910.39에, 나스닥 지수는 1261.47포인트 하락한 2만2617.73에 각각 거래를 마쳤다. 엔비디아는…",
+   "summary_long": "‘순환형 자금 조달’ 거래도 회계 투명성 논란 배경으로 거론. 스탠더드앤드푸어스(S&P) 500지수는 265.44포인트(3.70%) 내린 6910.39에, 나스닥 지수는 1261.47포인트(5.28%) 하락한 2만2617.73에 각각 거래를 마쳤다. 한편= 미 증권거래위원회(SEC)가 엔비디아의 회계 처리 방식을 조사하고 있다고 로이터 통신이 이날 보도했다.\n\n현재 미 법무부와 상무부는 엔비디아의 A) 반도체 대중국 수출 통제 위반 가능성을 조사하고 있다. 엔비디아는 지난해 지역별 매출 공시 기준을 청구지 주소에서 고객 본사 소재지로 변경했다. 당시 엔비디아는 매출의 지리적 구성을 더 정확하게 반영하기 위한 조치라고 설명했다.",
+   "quotes": [
+    "저점 매수자들은 현재의 조정을 장기적 기회로 볼 수 있지만, 단기적으로는 더 큰 변동성과 불확실성을 겪을 준비가 돼 있어야 한다",
+    "이것은 단순한 밸류에이션 주도의 조정이 아니라 더 광범위해지고 있다",
+    "확실한 위험 회피 상태"
+   ],
+   "press": "디지털타임스",
+   "photo": "03.png",
+   "quoted": {
+    "quote": "저점 매수자들은 현재의 조정을 장기적 기회로 볼 수 있지만, 단기적으로는 더 큰 변동성과 불확실성을 겪을 준비가 돼 있어야 한다",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "연합뉴스",
+      "title": "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500도 조정 진입(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13aXBpek1pNEdKZG5Wc253NG5FQzNqTGZteGFaSFhTVzRJaUdaQ21CRHhCLXpNRkk5MTdhR1pRUXFyNko5Q0ZJVFZ5MzBtWFhGeXVyQWczU0ppVEZmcUhSadIBYEFVX3lxTE13aXBpek1pNEdKZG5Wc253NG5FQzNqTGZteGFaSFhTVzRJaUdaQ21CRHhCLXpNRkk5MTdhR1pRUXFyNko5Q0ZJVFZ5MzBtWFhGeXVyQWczU0ppVEZmcUhSaQ?oc=5"
+     },
+     {
+      "press": "www.dt.co.kr",
+      "title": "[속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSeVlYZTlFMThRNEttUkxRNndRdTF5Q1lnNjdSaEJjVHE0bmtrcU44SVFrbzZmSUJ3eDJoSHVFckJGTkRoQ3MyQUMwNjc1UQ?oc=5"
+     },
+     {
+      "press": "글로벌경제신문",
+      "title": "뉴욕증시, 기술주 집중매도에 급락…나스닥 5.8% 폭락",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByTGc4Ty1GTGl1WTkwOXNxU1ZjdnhFeWFTcTFuX2pMN2VTaFBfZTc4S1lpR3U4Z1JrT3J2Z3VLX09BMUxkeXU1MGRtX3NNUjU5MG5JQ2J5c0xEcnJqRWFGSk1pcm45Q3Jfcmc4SG14RVTSAXBBVV95cUxQckxnOE8tRkxpdVk5MDlzcVNWY3Z4RXlhU3Exbl9qTDdlU2hQX2U3OEtZaUd1OGdSa09ydmd1S19PQTFMZHl1NTBkbV9zTVI1OTBuSUNieXNMRHJyakVhRkpNaXJuOUNyX3JnOEhteEVU?oc=5"
+     },
+     {
+      "press": "잡포스트",
+      "title": "개미들이 떨고 있다, 바닥은 어디까지...'AI거품' 공포 전방위 확산",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tbHA3eHBRNllzVTZPajktNlUyS1dHV1RiN1lrX3lDWjhyeXRaTjBacjg1RV9meExGMXM3VVVyYksxMVlWNmQzUS1aTTNxY0oyWTByTEg4c2xUMmdyOFZUSXFWclUwZmRlX2N3OHdVR1Q3UdIBckFVX3lxTE0tbHA3eHBRNllzVTZPajktNlUyS1dHV1RiN1lrX3lDWjhyeXRaTjBacjg1RV9meExGMXM3VVVyYksxMVlWNmQzUS1aTTNxY0oyWTByTEg4c2xUMmdyOFZUSXFWclUwZmRlX2N3OHdVR1Q3UQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "리트 만점자, 사망당일 새벽 짐정리…이틀전엔 \"탈출 도와달라\"",
+   "source": "연합뉴스",
+   "url": "https://n.news.naver.com/article/001/0016455467",
+   "published_at": "2026-11-21T07:05:01+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "prep_error": "The read operation timed out"
+  },
+  {
+   "title": "국힘 대구서 장외 규탄집회…\"조희대 탄핵은 반역\"",
+   "source": "부산일보",
+   "url": "https://n.news.naver.com/article/082/0001408280",
+   "published_at": "2026-11-21T17:06:14+09:00",
+   "section_id": "100",
+   "view_rank": 2,
+   "comment_count": 195,
+   "comment_agree": 118,
+   "comment_disagree": 24,
+   "division_balance": 0.338028,
+   "division_score": 1.677581,
+   "selection": "찬반 쟁점",
+   "summary": "국민의힘 장동혁 대표와 정점식 원내대표를 비롯한 참석자들이 21일 대구 중구 현대백화점 앞 광장에서 열린 '100% 위헌! 그러면서 \"'이재명 탈옥법'을 찬성한 민주당…",
+   "summary_long": "장동혁 \"이재명 탄핵만이 답\" 국민의힘 장동혁 대표와 정점식 원내대표를 비롯한 참석자들이 21일 대구 중구 현대백화점 앞 광장에서 열린 '100% 위헌! 이날 장 대표는 \"피와 땀의 눈물로 세운 대한민국이 흉악한 이재명의 손에 의해 독재 국가로 전락하고 있다\"며 \"'범죄자 이재명'이 대통령이 돼서 한 일이라고는 오로지 자신만 살겠다고 국민을 향해서 폭력을 휘둘러 댄 것뿐\"이라고 맹비난했다.\n\n정 원내대표는 \"1950년에는 북한이 대한민국을 공격했다면 2026년에는 대통령과 민주당이 대한민국을 공격했다. 북한이 소련제 탱크를 앞세워 국토를 유린했다면, 이 대통령은 민주당을 앞세워 헌법을 유린했다\"며 \"이재명 대통령과 민주당은 대한민국의 적이고, 이 대통령이 살면 대한민국이 사라진다\"고 언성을 높였다. 그러면서 \"'이재명 탈옥법'을 찬성한 민주당 의원 전부, 이 법을 의결한 국무총리와 국무위원 전부, 이 법을 사주한 이 대통령까지 모두 법정에 세울 것\"이라며 \"대한민국에 대한 반역을, 자유민주주의에 대한 쿠데타를 모조리 심판할 것\"이라고 강조했다.",
+   "quotes": [
+    "1950년에는 북한이 대한민국을 공격했다면 2026년에는 대통령과 민주당이 대한민국을 공격했다. 북한이 소련제 탱크를 앞세워 국토를 유린했다면, 이 대통령은 민주당을 앞세워 헌법을 유린했다",
+    "내 편이 아니면 보복하고, 주먹부터 휘두르는 조폭 정치, 그 이상도 이하도 아니다. 헌법을 파괴하고 국민의 삶을 파괴하는 범죄자는 오직 탄핵만이 답",
+    "'이재명 탈옥법'을 찬성한 민주당 의원 전부, 이 법을 의결한 국무총리와 국무위원 전부, 이 법을 사주한 이 대통령까지 모두 법정에 세울 것"
+   ],
+   "press": "부산일보",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "내 편이 아니면 보복하고, 주먹부터 휘두르는 조폭 정치, 그 이상도 이하도 아니다. 헌법을 파괴하고 국민의 삶을 파괴하는 범죄자는 오직 탄핵만이 답",
+    "n": 5,
+    "verified": 0,
+    "items": [
+     {
+      "press": "연합뉴스",
+      "title": "국힘 \"與 조작기소특검·조희대 탄핵은 반역\"…대구서 규탄집회",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mNGNOa1hNOFBPQ01GWW9uUzl6RWVvYWRLVlB5RTdKa3dNYmM0eVR3X0xjX1ZuOGFjekRVdk9fbHlCcXFkSVVYTUJtVDNaNHBvSzM5WlZBMWY2bTlPRkl4TdIBYEFVX3lxTE9mNGNOa1hNOFBPQ01GWW9uUzl6RWVvYWRLVlB5RTdKa3dNYmM0eVR3X0xjX1ZuOGFjekRVdk9fbHlCcXFkSVVYTUJtVDNaNHBvSzM5WlZBMWY2bTlPRkl4TQ?oc=5"
+     },
+     {
+      "press": "국제신문",
+      "title": "국힘, 대구서 규탄집회... \"조폭 정치 이재명, 탄핵이 답\"",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFJCSnpfSEdTY1RDVUFlRlNxa0R3VFFfMExLLTNzSVo0R2p6RzBjVF9mLWNKc0tZQnRJd3c2TG4zTU1jSS1URlNObHNMaDFzX2pHTDFsczIzcmRNYjVKY0JDMmlleWVab01idmdFdVdwaWVISDNxYW5XcU4yOFpBMU45Y0tKRTZUVnZv?oc=5"
+     },
+     {
+      "press": "주간경향",
+      "title": "국힘, 대구서 장외집회 “이재명 돌돌말아 청와대서 강제 퇴거시켜야”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6aWc0OXFZRDVQUWdGSVZZcllfdkJsaVFSTERzM1BUTkxDU1JTRGFXbjhOLUJJZlYtQUtkaGNvdWdvSTVtSENtcWNQemhDMlpjbXlLc2g5RlYwaGMtV2c?oc=5"
+     },
+     {
+      "press": "채널A",
+      "title": "국민의힘 “독재 국가로 전락, 오직 탄핵만이 답”…대구서 규탄집회",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBodlNfWnlsd3RVYm5oWlJ2SlQ5RjlJYm5uSWlkemswOEdjbkR1dEUtT3dKbVZKMUNpb2hXUUNJeEQwaGw1T3VuMTlhclRITzBJWTRuVmZ6dDlXRWtjdHfSAWNBVV95cUxOMEY4NllrYWJTS1RqX0ZIbDdzVF9KOVlsU0hlaVN4Ti1PZW1rYzJYOXQxZ1pMdWtoNGlGRUlVSnFIeGFfZTJNQnk2NXl1ZEVESTd3dXV6X1pqMmZBTGhPNFVTQTg?oc=5"
+     },
+     {
+      "press": "대경일보",
+      "title": "\"조작기소 특검법, 100% 위헌\" 국힘, 대구서 규탄 집회",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4ydW5USDFBV0lsZ1l2d19MTTdndzZrelNucUZTbnlSRlBGNnhmZUVhWjNiZVc4TU00RDZBeEo0QVVBX0h4LXNMWHhTVEM0WXRZUkg1Nmp6Nlczb1ZvbnZwZWZyWkJnQnp4?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "민주 \"조희대 탄핵, 12·3 기점 발의 공감대\"...국힘 \"헌법 질서 파괴\"",
+   "source": "YTN",
+   "url": "https://n.news.naver.com/article/052/0002436148",
+   "published_at": "2026-11-21T18:16:06+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 191,
+   "comment_agree": 183,
+   "comment_disagree": 30,
+   "division_balance": 0.28169,
+   "division_score": 1.511543,
+   "selection": "찬반 쟁점",
+   "summary": "더불어민주당 조희대 대법원장 탄핵 소추안 발의를 내란 2주기인 12월 3일쯤 할 거란 당내 전망이 나왔습니다. 조희대 대법원장 탄핵 소추를 당론으로 정한 더불어민주당에서…",
+   "summary_long": "민주 \"조희대 대법원장 탄핵안, 계엄 2주기쯤 발의\" 더불어민주당 조희대 대법원장 탄핵 소추안 발의를 내란 2주기인 12월 3일쯤 할 거란 당내 전망이 나왔습니다. 다만 민주당 내부의 탄핵 추진 우려도 여전한데, 국민의힘은 또다시 장외로 나가 헌법 파괴 시도라고 거세게 반발했습니다.\n\n조희대 대법원장 탄핵 소추를 당론으로 정한 더불어민주당에서 탄핵 소추안 발의 시점에 대한 구체적인 언급이 처음 나왔습니다. 일각에선 임기가 7개월도 안 남은 조 대법원장을 탄핵하는 게 어떤 실익이 있느냐는 주장을 내놨는데, 탄핵 소추로 직무를 정지해 내년 2월 법관 정기 인사에서 입김을 차단하고, '정치 판결'의 구조를 흔들어 놔야 한다는 반론도 나왔습니다. [장 동 혁 / 국민의힘 대표 : 이재명 탈옥법을 밀어붙이고, 대법원장 탄핵을 하겠다며 설쳐대는 이것이야말로 진정한 내란입니다, 여러분.].",
+   "quotes": [
+    "조희대 대법원장 탄핵안, 계엄 2주기쯤 발의"
+   ],
+   "press": "YTN",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "조희대 대법원장 탄핵안, 계엄 2주기쯤 발의",
     "n": 1,
     "verified": 0,
     "items": [
      {
+      "press": "YTN",
+      "title": "민주 \"조희대 탄핵, 12·3 기점 발의 공감대\"...국힘 \"헌법 질서 파괴\"",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tLTNlbkt2OTdLZ2loU21ZVGZEWHRKM2sxbTMxemdJU2x2aGFaajhGSEVTYVhhN0xrcm5RRFp0U01YOU9Cc1FIOXBIcjFtN2NLcHpTc2daLUw1ZkY2YUMwNFRqenc0VjBlU2wtTERCbFhOMmsxMHc?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "李대통령, 울산 AI데이터센터 찾아 “지방 중심 AI 투자로 균형 발전”",
+   "source": "세계일보",
+   "url": "https://n.news.naver.com/article/022/0004176982",
+   "published_at": "2026-11-21T14:07:09+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 144,
+   "comment_agree": 134,
+   "comment_disagree": 18,
+   "division_balance": 0.236842,
+   "division_score": 1.19142,
+   "selection": "찬반 쟁점",
+   "summary": "이 대통령은 이날 오전 울산 SK AI데이터센터 건설 현장을 방문한 자리에서 “대한민국의 주요 국가 과제는 균형발전”이라며 이같이 말했다. 이 대통령은 지난해 6월 취임…",
+   "summary_long": "이 대통령은 이날 오전 울산 SK AI데이터센터(AIDC) 건설 현장을 방문한 자리에서 “대한민국의 주요 국가 과제는 균형발전”이라며 이같이 말했다. 이 대통령은 지난해 6월 취임 이후 첫 산업 현장 방문 일정으로 울산을 찾았던 사실을 언급하며 “그사이 벌써 완공이 다 돼 간다”며 “과감한 투자를 결정하고 사업을 속도감 있게 추진하는 SK 관계자 여러분께 감사드린다”고 말했다. 이 대통령은 “AI 데이터센터는 반도체의 주요 수요처이기도 하고 로봇, 자율주행차량 같은 피지컬 AI를 뒷받침하는 핵심 인프라”라고 말했다.\n\n그러면서 “과거 경부고속도로가 대한민국 산업화의 길을 열었던 것처럼 앞으로 대한민국 AI 대전환은 인공지능 고속도로가 열게 될 것”이라며 “울산 AI 데이터센터 사업의 성공적인 추진이 글로벌 AI 기업들의 추가 투자를 이끌어내는 마중물이 되기를 기대한다”고 밝혔다. 이 대통령은 “첨단 시설 공정 인력이 매우 부족하다고 한다”며 “반도체 공장도 만들어 나가야 하는데 이미 인력이 상당히 부족한 상황이고, 앞으로 데이터센터 건설 등이 확대되면 건설 인력 문제도 간단치 않을 것”이라고 말했다. 이어 “지금 세계가 경쟁하는 상황에서 속도가 생명”이라며 “국내의 필요뿐 아니라 국제 경쟁을 위해서도 속도 경쟁이 핵심인 만큼 인력을 어떻게 준비할 것인지 정부 부처 차원에서 고민하겠다”고 말했다.",
+   "quotes": [
+    "반도체 공장도 만들어 나가야 하는데 이미 인력이 상당히 부족한 상황이고, 앞으로 데이터센터 건설 등이 확대되면 건설 인력 문제도 간단치 않을 것",
+    "국내의 필요뿐 아니라 국제 경쟁을 위해서도 속도 경쟁이 핵심인 만큼 인력을 어떻게 준비할 것인지 정부 부처 차원에서 고민하겠다",
+    "과거 경부고속도로가 대한민국 산업화의 길을 열었던 것처럼 앞으로 대한민국 AI 대전환은 인공지능 고속도로가 열게 될 것"
+   ],
+   "press": "세계일보",
+   "photo": "07.jpg",
+   "quoted": {
+    "quote": "과거 경부고속도로가 대한민국 산업화의 길을 열었던 것처럼 앞으로 대한민국 AI 대전환은 인공지능 고속도로가 열게 될 것",
+    "n": 10,
+    "verified": 0,
+    "items": [
+     {
+      "press": "세계일보",
+      "title": "李대통령, 울산 AI데이터센터 찾아 “지방 중심 AI 투자로 균형 발전”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mWXliZU1oVzNybjA5U21za1h6ZDhsemNSdjNMcEx6aTdtWGloNFBwN1ByanJjUXkwMkM5UU03NkJwMGY0RmdDUEZCNkNqNUpPcDJDR2dDQ0zSAVRBVV95cUxQbEl6UzMzV0lxRVl5UlFoZHZERnRFOUNQSk5mMXNiejNMU1ZiTDdoUmJNcURlOUlNcHpLQjIwV3BOZ1NabWFsZ3V4YmxtemMtdllvY1Y?oc=5"
+     },
+     {
+      "press": "KB Think",
+      "title": "李대통령 \"AI 데이터센터가 산업화시대 경부고속도로…인력·전력 지원\"",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GU2FENUZYMWZ6V3FaYlV2dGVhMWZkSnRpZzBTcWZTekpXQ0p0SXNrZUJwUlM1SDF3VEVQY0pfd2FiXzZ5c0R3V2p1c2JPbkhROFQtRlF1eVhpLUsteFRHWGxjdFlPZ2FEZjVhVlZyM3dDdw?oc=5"
+     },
+     {
+      "press": "연합뉴스",
+      "title": "李대통령 \"AI데이터센터·메모리 수요 더 늘 것…속도가 생명\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BcnJNTUtoMnFtTE1UNUhLQ0pXdDkzcFcxUzNJRDh4Y1FfNl9qdVZTalZ0OEl2Ny1ZVFB1bTR4WkpqR0xFWV9OSXpOZGVPdzBBd290bUhWdFBacXFTbzl5OdIBYEFVX3lxTE9BcnJNTUtoMnFtTE1UNUhLQ0pXdDkzcFcxUzNJRDh4Y1FfNl9qdVZTalZ0OEl2Ny1ZVFB1bTR4WkpqR0xFWV9OSXpOZGVPdzBBd290bUhWdFBacXFTbzl5OQ?oc=5"
+     },
+     {
       "press": "조선일보",
-      "title": "\"검사 200명 수사 부담된다\" 손사래… 與 조작기소 특검 구인난",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcENQN0dOUlA2a2d3b3BSNG8wQVZqU3Q0ckRLYXBEWGRXX0JiOUtLTkFQalV1MlRmQ3NlQk9uVlNZTDNxcF84OFhRRjFtWkZsRHJaN05LXzlKdVRYV2V6YlBlcUNRbHVVSU51V05peF9uSDlheWlkME9kZzVoLVdGOTl0V01MUQ?oc=5"
+      "title": "李 울산 AI 데이터센터 건설 현장 방문…\"인력 부족 문제 정부에서 고민 많이 할 것\"",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVpCel9Sa1JadWNTdzRubzhQbEcxZzVMQWttWmEzWmRTS1ZVb1UxTVgxcHhQc3hDSEE0N2JvN2J3aVVYaEMzRTZzNnU1Y2J2M2N2LTVudHlTaUxfeHNPblotSUR0QmVuMnZGUzF3dU1fX2Njd3YySWxOT3VIblV5bXgxaUU0bTgwT0ItSkdYQVk?oc=5"
+     },
+     {
+      "press": "경향신문",
+      "title": "이 대통령, 울산 AI 데이터센터 찾아 “속도가 생명”…“지방에 새로운 기회”",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fZlJUbldFU3BVcmJoaENhQWVrSDQtZkI4ZF9DdmwtRlBFTEN1TlROM29taVA2SlJvYnFTdkk0UExZNml4Vi1qa0hBbmRoUlVxWnpXbG1hTkcwMlFzZzFB0gFfQVVfeXFMTl9mUlRuV0VTcFVyYmhoQ2FBZWtINC1mQjhkX0N2bC1GUEVMQ3VOVE4zb21pUDZKUm9icVN2STRQTFk2aXhWLWprSEFuZGhSVXFaeldsbWFORzAyUXNnMUE?oc=5"
+     },
+     {
+      "press": "강원일보",
+      "title": "이재명 대통령, 울산 AI 데이터센터 현장 방문…“지방 성장 기회·균형발전 이끌 핵심 사업”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHSEUtM1BHZFdUUGtEUlJSbnl0TG03cUo5ZlRvWHZLSEdoWEJUM1N4Rk5uLTcxdkFnbDFaUzhfeE9kTk1ONGNWWENWa2lGbHB4UHRieXFxTXBkZE0?oc=5"
      }
     ]
    }
-  },
-  {
-   "title": "‘리트 만점’ 이진우 유품은 7등급 수험표... 무슨 의미?",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004010791",
-   "published_at": "2026-11-20T14:18:13+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "AI 부정행위 의혹 받기 前 ’2018학년도 수능 수험표‘ 발견. 20일 경찰 등에 따르면 지난 19일 오후 1시 12분쯤 이씨가 심정지 상태로 발견된 서울 강동구…",
-   "summary_long": "AI 부정행위 의혹 받기 前 ’2018학년도 수능 수험표‘ 발견. 생성형 인공지능(AI)을 활용한 부정행위 의혹을 받다 숨진 채 발견된 법학적성시험(LEET·리트) 만점자 고(故)이진우씨의 사망 현장에서 8년 전 대학수학능력시험 수험표가 유품으로 발견된 것으로 파악됐다. 20일 경찰 등에 따르면 지난 19일 오후 1시 12분쯤 이씨가 심정지 상태로 발견된 서울 강동구 천호동의 한 숙박업소 객실에서는 “몸과 마음이 지쳤다”고 적힌 메모와 함께 2018학년도 수능 수험표가 발견됐다.\n\n이 수험표는 이씨가 AI 부정행위 의혹을 받기 전 스스로 거둔 성적을 보여주는 자료다. 이씨는 앞서 자신의 성적 변화 과정을 공개하며 2013학년도 수능에서는 전 영역 6~8등급을 받았으나, 군 복무를 마친 뒤 치른 2018학년도 수능에서 국어 7등급, 수학 나형 1등급을 기록했다고 밝힌 바 있다. 일각에서는 이씨가 잇따른 성적 조작·부정행위 의혹과 과거 행적 폭로로 심리적 압박을 견디지 못한 가운데, 부정이 개입되지 않았던 시절 “본인 힘으로 치른 시험 흔적을 마지막까지 간직하고 있었던 것 아니냐”는 해석이 나온다.",
-   "quotes": [
-    "본인 힘으로 치른 시험 흔적을 마지막까지 간직하고 있었던 것 아니냐",
-    "본인 힘으로 치른 시험 흔적 마지막까지 간직했나"
-   ],
-   "press": "조선일보",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "본인 힘으로 치른 시험 흔적을 마지막까지 간직하고 있었던 것 아니냐",
-    "n": 3,
-    "verified": 0,
-    "items": [
-     {
-      "press": "주간경향",
-      "title": "“혼자 힘으로 친 마지막 시험?”, ‘리트 만점자’ 수학 1등급 수험표 의미는",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GcFdIOFFsZmhaMWdTZ2ExTzVkdkNwZnNHNEJoeHB5aHp4UGNYUHVMZk9janVOVG1HRHNlWGVfbjdSMm51NlhyWUFKaFg0b05KZElrbzA5dGdENUMyaHc?oc=5"
-     },
-     {
-      "press": "문화일보",
-      "title": "“본인 힘으로 친 마지막 시험?” 이진우의 7등급수험표 유품",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TYmtOeElFU21EaEVZbG02bjQ5UjczcnEzTkhwZTJkX3hRTGdna1FsZ1ZnX05GcDBhS3AyaXRLTFYyRGQ2Nk5ZZW9td3F3Qi1S?oc=5"
-     },
-     {
-      "press": "조선일보",
-      "title": "‘리트 만점’ 이진우 유품은 7등급 수험표... 무슨 의미?",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbmVmRHRYNDdCZzJ5TzlLWU12VGQtaS02YnlCdUl4Z1NHNW90Z3BxcjdPNHVlOEJWcFU5M0Y4RWlJdlVQV0Y1TkZUa0hjLUhMaXBnN0lQajFLbFNDTkp4Q0lXaXBVQXlkZnFlRl9tVTljX21ZaHh2WkEwcXk5MnhwY011b3Z3RmMxYUZCMGl1QWM?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "“본격 폭락 시작도 안 했다”…삼성전자 7만원·하이닉스 20만원 경고한 전문가 [이슈픽]",
-   "source": "서울신문",
-   "url": "https://n.news.naver.com/article/081/0003701423",
-   "published_at": "2026-11-20T08:19:10+09:00",
-   "section_id": "101",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "메모리 반도체 가격 상승에 힘입어 고공 행진했던 삼성전자와 SK하이닉스의 주가가 최근 급락한 가운데 추가 폭락 가능성을 경고한 전문가의 발언이 주목받고 있다. 메모리…",
-   "summary_long": "메모리 가격 하락하면 실적 전망 하향. 메모리 반도체 가격 상승에 힘입어 고공 행진했던 삼성전자와 SK하이닉스의 주가가 최근 급락한 가운데 추가 폭락 가능성을 경고한 전문가의 발언이 주목받고 있다. 그는 “아직 본격적인 폭락은 시작되지 않았다”며 “본격적인 메모리 기업들의 주가 폭락은 메모리 가격이 하락하기 시작해야 일어난다”고 주장했다.\n\n“메모리 가격 떨어지면 1년 내 50% 하락”이 애널리스트가 주목한 것은 최근 반도체 기업들의 실적 개선이 생산량이나 출하량 증가가 아닌 메모리 가격 상승에 크게 의존하고 있다는 점이다. “AI 반도체 수요가 가격 상승 보장하지 않아”…중국 변수도 경고이 애널리스트는 인공지능(AI) 산업의 성장 자체가 국내 반도체 기업들의 주가 상승을 보장하는 것은 아니라고 강조했다. 당시에도 그는 최근 반도체 기업들의 실적 개선이 판매량 증가가 아닌 메모리 가격 급등에 따른 결과라고 분석했다.",
-   "quotes": [
-    "올해 연말이나 내년 초쯤 메모리 가격이 하락했다는 소식이 본격적으로 들리기 시작하면 증권사들이 메모리 기업들의 내년과 후년 이익 전망치를 대폭 하향 조정할 것",
-    "엔비디아가 강제적으로 공급자 수요를 만드는 시장이 3년 동안 됐기 때문에 지금 거품이 낀 것",
-    "본격적인 메모리 기업들의 주가 폭락은 메모리 가격이 하락하기 시작해야 일어난다"
-   ],
-   "press": "서울신문",
-   "photo": "04.jpg",
-   "quoted": {
-    "quote": "엔비디아가 강제적으로 공급자 수요를 만드는 시장이 3년 동안 됐기 때문에 지금 거품이 낀 것",
-    "n": 7,
-    "verified": 0,
-    "items": [
-     {
-      "press": "TWIG",
-      "title": "“본격 폭락 시작도 안 했다”…삼성전자 7만원·하이닉스 20만원 경고한 전문가 [이슈픽]",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kQklaal9SbnoycHR2VDdpdml3X1B1WlZTLWJlRnB1OE16Y2xibGFNVkRXend6YkpSWmJwZUVkOFQxN2VjY1J5NmprYVR4ZWNpTHIzcmJSNkhVeC1KcUtqRlhHWExMSmw2eDVn?oc=5"
-     },
-     {
-      "press": "매일신문",
-      "title": "삼전 7만원·하닉 20만원 경고한 `그분`…`아직 폭락 시작도 안 해` 전망한 이유",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5RHd4NU0za0ZoSFlxazJtdmVmRUxFNVpHN2ZDdlRTbm90U0otT2dmb3RIZGhjclplcDZYV25zcURkV2FLV1c0SGZTNHJhZlRVZmhXNXZ0SGE1MHhyaXpFLXBR?oc=5"
-     },
-     {
-      "press": "뉴시스",
-      "title": "\"삼성전자·SK하이닉스, 아직 본격 폭락 시작 안 됐다\" …이주완 박사의 경고",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94ZnB3LUN5TTczUUtxekc0V1JtbzB2X0ZjeFp3WG9fTlNnYy1NVGRla0t5MjhwUjNqanFxMEdyeDBiOFhFWjRoQkVBelpmZUJhV1dOc2RGZlVaRWllb3lyZ9IBeEFVX3lxTE40cy1obHZoRzYwT3dxN2FsbTNHV2R4VWg5OFhuR29BaWVRbEt0cVpQeTE3V2FISkp1czRVcHNvVm1GWV9TTFl5M2ZfcU1zcDNaLU1McTlzYk1sMU0wZVI3anZVTnJLc0RDcU9oMG9hQktYUG1wakh6YQ?oc=5"
-     },
-     {
-      "press": "서울경제",
-      "title": "‘7만전자·20만닉스’ 간다는 전문가 “폭락 시작도 안 했다”…증권가는 정반대 전망",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oWWxETHRvR0NtTmp5UGFIQWVVUWdmeEppcktuQ1IzV1JGa2xCZnlVd0pBSUlaU3kwdXBqQ0EtbkRXVzNxLWJ5UXNpTEowQnJDOFHSAVNBVV95cUxNZ09wQ1ZMcG1ZZUJmWV9aYmNxcW5kODhwSG1VU2FNWGNlckhQUjlrcFVUQmZHckVSYkZhWFBwcDA1UEtJTjZBYTJWdkdIcGhabmRxdw?oc=5"
-     },
-     {
-      "press": "경북도민일보",
-      "title": "\"삼전닉스, 1년내 50% 떨어질 수도... 본격 폭락 아직 시작 안 했다\"",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43eGxQVnpnZTF5RTRzcE14clZ3cWFRVHdxbTlGS3FPSnlVZ3NxTENKbkVTNHpGY2REVkZacWpOaGdBb1RtUVM3SV9OVm9rVi1zeXV6Wk5fSm1lVHFkX2x2OXdaZTF3Z29SNXc?oc=5"
-     },
-     {
-      "press": "이데일리",
-      "title": "'7만전자·20만닉스' 말한 전문가 \"아직 본격 폭락 시작 안 했다\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS2VfZUdEUHpfa0ZvWUtuWVgtbWZoN1piVUlITExWQlVGdFFuTnpFTm5OWVc3TU5TbjJ2ZDdCTVRydC1LNGlyeWtEa1FkZnlfMTFEMTNKYkZ3ejR4dHE3S1l0V2k5aHRIU3EtaHdDZ3NockF2YVdhbTZwOXR2ckFUVw?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택",
-   "source": "한겨레",
-   "url": "https://n.news.naver.com/article/028/0002833207",
-   "published_at": "2026-11-20T14:30:09+09:00",
-   "section_id": "100",
-   "view_rank": 5,
-   "comment_count": 502,
-   "comment_agree": 151,
-   "comment_disagree": 34,
-   "division_balance": 0.367568,
-   "division_score": 1.920815,
-   "selection": "찬반 쟁점",
-   "summary": "36개 언론사55,171개 기사. 8개 언론사3,054개 기사.",
-   "summary_long": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택. 더불어민주당이 20일 조희대 대법원장에 대한 탄핵 소추 추진을 당론으로 채택했다. 민주당은 이날 국회에서 의원총회를 열어 조 대법원장에 대한 탄핵 소추를 당론으로 채택했다고 전은수 원내대변인이 의원총회 뒤 기자들을 만나 밝혔다.\n\n이 기사는 언론사에서 정치 섹션으로 분류했습니다. 기사의 섹션 정보는 해당 언론사의 분류를 따르고 있습니다. 36개 언론사55,171개 기사.",
-   "quotes": [
-    "트럼프, 우크라 종전 '1월 시한'… 민주당 의회 장악 전 매듭 원해",
-    "트럼프, 이란 정권교체 '결정 않기로 결정'…전략없이 봉쇄만",
-    "AI 부정행위 막기 어려워… 국가시험 A부터 Z까지 개편"
-   ],
-   "press": "한겨레",
-   "photo": "05.jpg",
-   "quoted": {
-    "quote": "트럼프, 이란 정권교체 '결정 않기로 결정'…전략없이 봉쇄만",
-    "n": 3,
-    "verified": 0,
-    "items": [
-     {
-      "press": "한국일보",
-      "title": "\"트럼프, 우크라 종전 '1월 시한'… 민주당 의회 장악 전 매듭 원해\"",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aRmJSZXZtQ2Zud1pKQ0JNaTEzcW02RVdYbVRMZEdKRGxJWFJDazBGbFF3UjRsRzctcDhDVDhsVm9ZOHlaQURIYmlCaDdzQk14ZG1UTnpZUmQwWHIyNXp1Z0o5VjFHcmtuRlQ4RUtR0gFzQVVfeXFMTkhaMnBSNEdJbnF4Y0NzQkFDRFRROWw3dlk3VHpWQkJmamVaMjZET3BXWDZMaWtPX1EteHZzMWtwV2pjeWpmWEFzYnNTX3FJUUJibmpVV01Kc1N4X3BwWmpOMXZqeXRnb2M2VWhmb2xJVW9tWQ?oc=5"
-     },
-     {
-      "press": "뉴스1",
-      "title": "볼턴 \"트럼프, 이란 정권교체 '결정 않기로 결정'…전략없이 봉쇄만\"",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tNWNGbExlVlZVSS1mb1pudnE3LVVpNWdidVh3eV9ua3JQNmJQX0JyeUpUWVUtUE1hUk5OVjVBbTIyRFFxaFVsdldxTVZydmJMWjFFSTB5U0M?oc=5"
-     },
-     {
-      "press": "뉴스1",
-      "title": "\"이란, 트럼프·공화당 참패에 자신감…대미 협상 더 강경해져\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tRmpzb09jSVpMamNGWHBXRU9oRHZhYi1LaFgzMklWVUh2OHExcHR5SGVqNnBhMy1QSTlBZTFUWDA1cU10WjVqSkJWYzU5QVhDUEZvM0xxWFBxcGZJZDMxS3V3?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "이 대통령 지지율 40%‥민주 36%·국힘 28%로 오차 밖 與 우세 [한국갤럽]",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001536903",
-   "published_at": "2026-11-20T10:41:01+09:00",
-   "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 758,
-   "comment_agree": 187,
-   "comment_disagree": 35,
-   "division_balance": 0.315315,
-   "division_score": 1.704964,
-   "selection": "찬반 쟁점",
-   "summary": "한국갤럽이 지난 17일부터 사흘간 전국 만 18세 이상 1천 1명을 조사한 결과 이 대통령의 직무 수행에 대한 긍정 평가는 전주 조사 대비 1%포인트 상승한 40%를…",
-   "summary_long": "이재명 대통령의 국정 지지도가 소폭 반등한 40%로 나타났습니다. 한국갤럽이 지난 17일부터 사흘간 전국 만 18세 이상 1천 1명을 조사한 결과 이 대통령의 직무 수행에 대한 긍정 평가는 전주 조사 대비 1%포인트 상승한 40%를 기록했습니다. 한국갤럽 조사에서 이 대통령의 국정 지지도는 8월 2주 차 조사에서 44%를 기록한 이후 30% 후반대와 40% 초중반대를 횡보하고 있습니다.\n\n긍정 평가 이유는 '외교'가 24%로 가장 높았으며 '경제·민생' 12%, '소통' 9%, '서민 정책·복지' 7% 순서로 나타났습니다. 부정 평가 이유는 '경제·민생'이 18%로 가장 높았고, '도덕성 문제·본인 재판 회피'가 13%, '부동산 정책' 12%, '국방·안보·대북' 5% 등이었습니다. 민주당은 전주 조사 대비 3%포인트 하락했고, 국민의힘은 2%포인트 상승했는데, 두 당의 지지율 격차는 8%포인트로 3주 연속 오차 범위 밖에서 여당이 우세했습니다.",
-   "press": "MBC",
-   "photo": "06.jpg"
-  },
-  {
-   "title": "여, ‘조희대 탄핵’ 추진 본격화…야, “탄핵은 광기” 장외 여론전",
-   "source": "KBS",
-   "url": "https://n.news.naver.com/article/056/0012298013",
-   "published_at": "2026-11-20T12:02:49+09:00",
-   "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 208,
-   "comment_agree": 180,
-   "comment_disagree": 33,
-   "division_balance": 0.309859,
-   "division_score": 1.662697,
-   "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
   }
  ],
  "cards": [
@@ -270,139 +324,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/01.png",
-   "pngBytes": 2079038,
-   "feed": "오늘의 뉴스 2026-11-21\n\n· '국조부터'라던 김민석, 한덕수 파기환송에 '조희대 탄핵' 꺼냈다\n· “검사 200명 수사 부담된다” 손사래… 與 조작기소 특검 구인난\n· ‘리트 만점’ 이진우 유품은 7등급 수험표... 무슨 의미?\n· “본격 폭락 시작도 안 했다”…삼성전자 7만원·하이닉스 20만원 경고한 전문가 [이슈픽]\n· 민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택\n· 이 대통령 지지율 40%‥민주 36%·국힘 28%로 오차 밖 與 우세 [한국갤럽]\n· 여, ‘조희대 탄핵’ 추진 본격화…야, “탄핵은 광기” 장외 여론전"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/01.png",
+   "pngBytes": 1533832,
+   "feed": "오늘의 뉴스 2026-11-22\n\n· 민주, ‘조희대 탄핵’ 당론 채택했지만…‘기각 역풍’ 우려도 만만찮아\n· [속보] 일본인 “한국인 좋다” 역대 최고… 중국은 93%가 ‘안 좋다’ 응답\n· [속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져\n· 리트 만점자, 사망당일 새벽 짐정리…이틀전엔 \"탈출 도와달라\"\n· 국힘 대구서 장외 규탄집회…\"조희대 탄핵은 반역\"\n· 민주 \"조희대 탄핵, 12·3 기점 발의 공감대\"...국힘 \"헌법 질서 파괴\"\n· 李대통령, 울산 AI데이터센터 찾아 “지방 중심 AI 투자로 균형 발전”"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/02.png",
-   "pngBytes": 2080988,
-   "title": "'국조부터'라던 김민석, 한덕수 파기환송에 '조희대 탄핵' 꺼냈다",
-   "summary": "지난달까지만 해도 '국정조사부터'라며 속도를 조절하던 김민석 더불어민주당 대표는 선고 직후 '조희대 탄핵 카드'를 꺼내들며 대법원을 직격했다. 최민희 최고위원 징계…",
-   "summary_long": "'탄핵 실기론' 부담 커진 金, 수세 몰렸던 친청계는 '즉각 탄핵' 압박. 한덕수 전 국무총리의 내란 중요임무 종사 혐의 일부를 무죄 취지로 판단한 대법원 판결이 여야의 셈법을 바꿔놓았다. 지난달까지만 해도 '국정조사부터'라며 속도를 조절하던 김민석 더불어민주당 대표는 선고 직후 '조희대 탄핵 카드'를 꺼내들며 대법원을 직격했다.\n\n최민희 최고위원 징계 문제로 수세에 몰렸던 친청계는 '즉각 탄핵'을 앞세워 김 대표를 다시 압박했다. 김 대표는 선고 직후 판결에 대해 \"역사적 기회주의자들을 위한 변명\"이라고 규정했다. '계엄에 사과할 것인가'라는 질문을 받던 장 대표가 한 전 총리 선고를 계기로 '이 대통령 재판은 왜 멈춰있느냐'고 되받은 것이다.",
-   "press": "시사저널",
-   "source": "시사저널",
-   "link": "https://n.news.naver.com/article/586/0000142683",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/02.png",
+   "pngBytes": 1541334,
+   "title": "민주, ‘조희대 탄핵’ 당론 채택했지만…‘기각 역풍’ 우려도 만만찮아",
+   "summary": "더불어민주당이 20일 의원총회를 열고 조희대 대법원장에 대한 탄핵 추진을 당론으로 채택했다. 전은수 원내대변인은 이날 의원총회 뒤 “조 대법원장 탄핵 소추 추진을…",
+   "summary_long": "더불어민주당이 20일 의원총회를 열고 조희대 대법원장에 대한 탄핵 추진을 당론으로 채택했다. 김민석 대표는 ‘대법원이 선을 넘었다’며 탄핵의 불가피성을 강조하고 있으나, 당 안에서는 ‘헌법재판소 기각 가능성이 크다’며 우려하는 목소리도 적지 않다. 전은수 원내대변인은 이날 의원총회 뒤 “조 대법원장 탄핵 소추 추진을 당론으로 채택했다”라고 알렸다.\n\n양 의원은 조 대법원장의 탄핵 사유로 △12·3 비상계엄 당일 대법원 심야 회의 행적 등 내란 순응 의혹 △이재명 대통령 공직선거법 재판 파기환송 과정에서의 절차 위반 △대법관 재제청 요구 거부에 따른 대통령 임명권 침해 △업무추진비 유용 및 국회 증인 선서 거부 등 사건을 들었다. 곽상언 의원은 이날 자신의 페이스북에 “사법부 판결은 그 자체로 탄핵 사유가 되지 않고, 대법원장이 재판장으로 진행한 판결도 마찬가지”라며 “그런데 지금 대법원장을 탄핵하면, 국민들은 어제 선고된 한덕수 내란 사건의 판결을 이유로 탄핵하는 것으로 인식하게 될 것”이라고 썼다. 또 다른 민주당 중진 의원 역시 “지금 거론되는 탄핵 사유로는 헌재에서 인용되기 어렵다”면서 “내년에 조작기소특검과 조 대법원장 탄핵 이슈가 지속되면 이듬해 총선에도 악영향을 미칠 것”이라고 했다.",
+   "press": "한겨레",
+   "source": "한겨레",
+   "link": "https://n.news.naver.com/article/028/0002833279",
    "selection": "정치",
-   "feed": "뉴스 01. '국조부터'라던 김민석, 한덕수 파기환송에 '조희대 탄핵' 꺼냈다\n\n'탄핵 실기론' 부담 커진 金, 수세 몰렸던 친청계는 '즉각 탄핵' 압박. 한덕수 전 국무총리의 내란 중요임무 종사 혐의 일부를 무죄 취지로 판단한 대법원 판결이 여야의 셈법을 바꿔놓았다. 지난달까지만 해도 '국정조사부터'라며 속도를 조절하던 김민석 더불어민주당 대표는 선고 직후 '조희대 탄핵 카드'를 꺼내들며 대법원을 직격했다.\n\n최민희 최고위원 징계 문제로 수세에 몰렸던 친청계는 '즉각 탄핵'을 앞세워 김 대표를 다시 압박했다. 김 대표는 선고 직후 판결에 대해 \"역사적 기회주의자들을 위한 변명\"이라고 규정했다. '계엄에 사과할 것인가'라는 질문을 받던 장 대표가 한 전 총리 선고를 계기로 '이 대통령 재판은 왜 멈춰있느냐'고 되받은 것이다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000142683"
+   "feed": "뉴스 01. 민주, ‘조희대 탄핵’ 당론 채택했지만…‘기각 역풍’ 우려도 만만찮아\n\n더불어민주당이 20일 의원총회를 열고 조희대 대법원장에 대한 탄핵 추진을 당론으로 채택했다. 김민석 대표는 ‘대법원이 선을 넘었다’며 탄핵의 불가피성을 강조하고 있으나, 당 안에서는 ‘헌법재판소 기각 가능성이 크다’며 우려하는 목소리도 적지 않다. 전은수 원내대변인은 이날 의원총회 뒤 “조 대법원장 탄핵 소추 추진을 당론으로 채택했다”라고 알렸다.\n\n양 의원은 조 대법원장의 탄핵 사유로 △12·3 비상계엄 당일 대법원 심야 회의 행적 등 내란 순응 의혹 △이재명 대통령 공직선거법 재판 파기환송 과정에서의 절차 위반 △대법관 재제청 요구 거부에 따른 대통령 임명권 침해 △업무추진비 유용 및 국회 증인 선서 거부 등 사건을 들었다. 곽상언 의원은 이날 자신의 페이스북에 “사법부 판결은 그 자체로 탄핵 사유가 되지 않고, 대법원장이 재판장으로 진행한 판결도 마찬가지”라며 “그런데 지금 대법원장을 탄핵하면, 국민들은 어제 선고된 한덕수 내란 사건의 판결을 이유로 탄핵하는 것으로 인식하게 될 것”이라고 썼다. 또 다른 민주당 중진 의원 역시 “지금 거론되는 탄핵 사유로는 헌재에서 인용되기 어렵다”면서 “내년에 조작기소특검과 조 대법원장 탄핵 이슈가 지속되면 이듬해 총선에도 악영향을 미칠 것”이라고 했다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002833279"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/03.png",
-   "pngBytes": 1479179,
-   "title": "“검사 200명 수사 부담된다” 손사래… 與 조작기소 특검 구인난",
-   "summary": "이재명 대통령이 해외 순방 중에 자기 사건과 관련한 ‘조작기소 특검법’을 재가한 가운데, 더불어민주당이 이미 특검 후보 물색에 착수한 것으로 19일 알려졌다. 민주당…",
-   "summary_long": "이재명 대통령이 해외 순방 중에 자기 사건과 관련한 ‘조작기소 특검법’을 재가한 가운데, 더불어민주당이 이미 특검 후보 물색에 착수한 것으로 19일 알려졌다. 하지만 정치 중립적이면서도 조작 수사와 기소 여부를 밝혀내야 하는 특검에 마땅한 인사를 찾기가 쉽지 않은 것으로 전해졌다. 민주당 핵심 관계자는 이날 “검사 출신의 변호사들에게 의사를 타진하고 있지만 대부분이 ‘대통령 사건 등 17개 사건을 수사한 200명 정도의 검사와 수사관을 수사해야 하는데 너무 부담스럽다’며 손사래치고 있다”고 했다.\n\n민주당은 다수의 검사 출신과 일부 판사 출신 법조인들을 접촉해 특검 수락 의사를 타진하고 있는 것으로 전해졌다. 여권 인사에게 특검 제안을 받은 한 변호사는 “대통령 사건을 수사한 검사들을 앉혀 놓고 조작 수사와 기소를 밝혀내는 게 쉽겠나”라며 “그 검사들이 ‘내가 조작했다’고 할 리가 있겠나. 하지만 민주당 관계자는 “검사들 중 특검 파견 명령이 떨어지면 휴직을 쓰겠다는 사람도 많다”며 “파견 검사 찾기도 힘들 것 같다”고 했다.",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004010714",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/03.png",
+   "pngBytes": 1761206,
+   "title": "[속보] 일본인 “한국인 좋다” 역대 최고… 중국은 93%가 ‘안 좋다’ 응답",
+   "summary": "이재명 대통령이 17일 필리핀 마닐라 필리핀국제컨벤션센터에서 다카이치 사나에 일본 총리와의 정상회담에서 악수를 하고 있다. 한일관계가 개선되는 반면 중일관계는 갈등을…",
+   "summary_long": "이재명 대통령이 17일(현지시간) 필리핀 마닐라 필리핀국제컨벤션센터(PICC)에서 다카이치 사나에 일본 총리와의 정상회담에서 악수를 하고 있다. 한일관계가 개선되는 반면 중일관계는 갈등을 이어가면서 한국과 중국을 바라보는 일본 국민들의 인식에도 뚜렷한 차이를 보였다. 21일 일본 내각부가 발표한 외교 관련 여론조사 결과에 따르면 일본인 응답자 1424명 가운데 한국에 대해 ‘친근감을 느낀다’고 답한 비율은 61.8%로 조사됐다.\n\n일본 내각부는 1975년부터 거의 매년 외교 관련 여론조사를 실시해 왔으며, 중일관계에 관한 문항은 1986년부터 조사에 포함됐다. 최근 중일관계 악화에는 다카이치 사나에 일본 총리의 대만 유사시 개입 가능성을 시사한 발언과 이에 대한 중국의 대응이 영향을 미친 것으로 풀이된다. 다카이치 총리는 지난해 11월 국회에서 대만 유사시를 둘러싼 질문에 “전함을 사용해 무력행사를 수반한다면 이것은 어떻게 생각해도 (집단 자위권 행사가 가능한) 존립 위기 사태가 될 수 있다”고 언급했다.",
+   "press": "디지털타임스",
+   "source": "디지털타임스",
+   "link": "https://n.news.naver.com/article/029/0003060318",
    "selection": "정치",
-   "feed": "뉴스 02. “검사 200명 수사 부담된다” 손사래… 與 조작기소 특검 구인난\n\n이재명 대통령이 해외 순방 중에 자기 사건과 관련한 ‘조작기소 특검법’을 재가한 가운데, 더불어민주당이 이미 특검 후보 물색에 착수한 것으로 19일 알려졌다. 하지만 정치 중립적이면서도 조작 수사와 기소 여부를 밝혀내야 하는 특검에 마땅한 인사를 찾기가 쉽지 않은 것으로 전해졌다. 민주당 핵심 관계자는 이날 “검사 출신의 변호사들에게 의사를 타진하고 있지만 대부분이 ‘대통령 사건 등 17개 사건을 수사한 200명 정도의 검사와 수사관을 수사해야 하는데 너무 부담스럽다’며 손사래치고 있다”고 했다.\n\n민주당은 다수의 검사 출신과 일부 판사 출신 법조인들을 접촉해 특검 수락 의사를 타진하고 있는 것으로 전해졌다. 여권 인사에게 특검 제안을 받은 한 변호사는 “대통령 사건을 수사한 검사들을 앉혀 놓고 조작 수사와 기소를 밝혀내는 게 쉽겠나”라며 “그 검사들이 ‘내가 조작했다’고 할 리가 있겠나. 하지만 민주당 관계자는 “검사들 중 특검 파견 명령이 떨어지면 휴직을 쓰겠다는 사람도 많다”며 “파견 검사 찾기도 힘들 것 같다”고 했다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004010714"
+   "feed": "뉴스 02. [속보] 일본인 “한국인 좋다” 역대 최고… 중국은 93%가 ‘안 좋다’ 응답\n\n이재명 대통령이 17일(현지시간) 필리핀 마닐라 필리핀국제컨벤션센터(PICC)에서 다카이치 사나에 일본 총리와의 정상회담에서 악수를 하고 있다. 한일관계가 개선되는 반면 중일관계는 갈등을 이어가면서 한국과 중국을 바라보는 일본 국민들의 인식에도 뚜렷한 차이를 보였다. 21일 일본 내각부가 발표한 외교 관련 여론조사 결과에 따르면 일본인 응답자 1424명 가운데 한국에 대해 ‘친근감을 느낀다’고 답한 비율은 61.8%로 조사됐다.\n\n일본 내각부는 1975년부터 거의 매년 외교 관련 여론조사를 실시해 왔으며, 중일관계에 관한 문항은 1986년부터 조사에 포함됐다. 최근 중일관계 악화에는 다카이치 사나에 일본 총리의 대만 유사시 개입 가능성을 시사한 발언과 이에 대한 중국의 대응이 영향을 미친 것으로 풀이된다. 다카이치 총리는 지난해 11월 국회에서 대만 유사시를 둘러싼 질문에 “전함을 사용해 무력행사를 수반한다면 이것은 어떻게 생각해도 (집단 자위권 행사가 가능한) 존립 위기 사태가 될 수 있다”고 언급했다.\n\n출처: 디지털타임스 / https://n.news.naver.com/article/029/0003060318"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/04.png",
-   "pngBytes": 1497815,
-   "title": "‘리트 만점’ 이진우 유품은 7등급 수험표... 무슨 의미?",
-   "summary": "AI 부정행위 의혹 받기 前 ’2018학년도 수능 수험표‘ 발견. 20일 경찰 등에 따르면 지난 19일 오후 1시 12분쯤 이씨가 심정지 상태로 발견된 서울 강동구…",
-   "summary_long": "AI 부정행위 의혹 받기 前 ’2018학년도 수능 수험표‘ 발견. 생성형 인공지능(AI)을 활용한 부정행위 의혹을 받다 숨진 채 발견된 법학적성시험(LEET·리트) 만점자 고(故)이진우씨의 사망 현장에서 8년 전 대학수학능력시험 수험표가 유품으로 발견된 것으로 파악됐다. 20일 경찰 등에 따르면 지난 19일 오후 1시 12분쯤 이씨가 심정지 상태로 발견된 서울 강동구 천호동의 한 숙박업소 객실에서는 “몸과 마음이 지쳤다”고 적힌 메모와 함께 2018학년도 수능 수험표가 발견됐다.\n\n이 수험표는 이씨가 AI 부정행위 의혹을 받기 전 스스로 거둔 성적을 보여주는 자료다. 이씨는 앞서 자신의 성적 변화 과정을 공개하며 2013학년도 수능에서는 전 영역 6~8등급을 받았으나, 군 복무를 마친 뒤 치른 2018학년도 수능에서 국어 7등급, 수학 나형 1등급을 기록했다고 밝힌 바 있다. 일각에서는 이씨가 잇따른 성적 조작·부정행위 의혹과 과거 행적 폭로로 심리적 압박을 견디지 못한 가운데, 부정이 개입되지 않았던 시절 “본인 힘으로 치른 시험 흔적을 마지막까지 간직하고 있었던 것 아니냐”는 해석이 나온다.",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004010791",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/04.png",
+   "pngBytes": 1560360,
+   "title": "[속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져",
+   "summary": "스탠더드앤드푸어스 500지수는 265.44포인트 내린 6910.39에, 나스닥 지수는 1261.47포인트 하락한 2만2617.73에 각각 거래를 마쳤다. 엔비디아는…",
+   "summary_long": "‘순환형 자금 조달’ 거래도 회계 투명성 논란 배경으로 거론. 스탠더드앤드푸어스(S&P) 500지수는 265.44포인트(3.70%) 내린 6910.39에, 나스닥 지수는 1261.47포인트(5.28%) 하락한 2만2617.73에 각각 거래를 마쳤다. 한편= 미 증권거래위원회(SEC)가 엔비디아의 회계 처리 방식을 조사하고 있다고 로이터 통신이 이날 보도했다.\n\n현재 미 법무부와 상무부는 엔비디아의 A) 반도체 대중국 수출 통제 위반 가능성을 조사하고 있다. 엔비디아는 지난해 지역별 매출 공시 기준을 청구지 주소에서 고객 본사 소재지로 변경했다. 당시 엔비디아는 매출의 지리적 구성을 더 정확하게 반영하기 위한 조치라고 설명했다.",
+   "press": "디지털타임스",
+   "source": "디지털타임스",
+   "link": "https://n.news.naver.com/article/029/0003060294",
    "selection": "경제·시사",
-   "feed": "뉴스 03. ‘리트 만점’ 이진우 유품은 7등급 수험표... 무슨 의미?\n\nAI 부정행위 의혹 받기 前 ’2018학년도 수능 수험표‘ 발견. 생성형 인공지능(AI)을 활용한 부정행위 의혹을 받다 숨진 채 발견된 법학적성시험(LEET·리트) 만점자 고(故)이진우씨의 사망 현장에서 8년 전 대학수학능력시험 수험표가 유품으로 발견된 것으로 파악됐다. 20일 경찰 등에 따르면 지난 19일 오후 1시 12분쯤 이씨가 심정지 상태로 발견된 서울 강동구 천호동의 한 숙박업소 객실에서는 “몸과 마음이 지쳤다”고 적힌 메모와 함께 2018학년도 수능 수험표가 발견됐다.\n\n이 수험표는 이씨가 AI 부정행위 의혹을 받기 전 스스로 거둔 성적을 보여주는 자료다. 이씨는 앞서 자신의 성적 변화 과정을 공개하며 2013학년도 수능에서는 전 영역 6~8등급을 받았으나, 군 복무를 마친 뒤 치른 2018학년도 수능에서 국어 7등급, 수학 나형 1등급을 기록했다고 밝힌 바 있다. 일각에서는 이씨가 잇따른 성적 조작·부정행위 의혹과 과거 행적 폭로로 심리적 압박을 견디지 못한 가운데, 부정이 개입되지 않았던 시절 “본인 힘으로 치른 시험 흔적을 마지막까지 간직하고 있었던 것 아니냐”는 해석이 나온다.\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004010791"
+   "feed": "뉴스 03. [속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져\n\n‘순환형 자금 조달’ 거래도 회계 투명성 논란 배경으로 거론. 스탠더드앤드푸어스(S&P) 500지수는 265.44포인트(3.70%) 내린 6910.39에, 나스닥 지수는 1261.47포인트(5.28%) 하락한 2만2617.73에 각각 거래를 마쳤다. 한편= 미 증권거래위원회(SEC)가 엔비디아의 회계 처리 방식을 조사하고 있다고 로이터 통신이 이날 보도했다.\n\n현재 미 법무부와 상무부는 엔비디아의 A) 반도체 대중국 수출 통제 위반 가능성을 조사하고 있다. 엔비디아는 지난해 지역별 매출 공시 기준을 청구지 주소에서 고객 본사 소재지로 변경했다. 당시 엔비디아는 매출의 지리적 구성을 더 정확하게 반영하기 위한 조치라고 설명했다.\n\n출처: 디지털타임스 / https://n.news.naver.com/article/029/0003060294"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/05.png",
-   "pngBytes": 1865292,
-   "title": "“본격 폭락 시작도 안 했다”…삼성전자 7만원·하이닉스 20만원 경고한 전문가 [이슈픽]",
-   "summary": "메모리 반도체 가격 상승에 힘입어 고공 행진했던 삼성전자와 SK하이닉스의 주가가 최근 급락한 가운데 추가 폭락 가능성을 경고한 전문가의 발언이 주목받고 있다. 메모리…",
-   "summary_long": "메모리 가격 하락하면 실적 전망 하향. 메모리 반도체 가격 상승에 힘입어 고공 행진했던 삼성전자와 SK하이닉스의 주가가 최근 급락한 가운데 추가 폭락 가능성을 경고한 전문가의 발언이 주목받고 있다. 그는 “아직 본격적인 폭락은 시작되지 않았다”며 “본격적인 메모리 기업들의 주가 폭락은 메모리 가격이 하락하기 시작해야 일어난다”고 주장했다.\n\n“메모리 가격 떨어지면 1년 내 50% 하락”이 애널리스트가 주목한 것은 최근 반도체 기업들의 실적 개선이 생산량이나 출하량 증가가 아닌 메모리 가격 상승에 크게 의존하고 있다는 점이다. “AI 반도체 수요가 가격 상승 보장하지 않아”…중국 변수도 경고이 애널리스트는 인공지능(AI) 산업의 성장 자체가 국내 반도체 기업들의 주가 상승을 보장하는 것은 아니라고 강조했다. 당시에도 그는 최근 반도체 기업들의 실적 개선이 판매량 증가가 아닌 메모리 가격 급등에 따른 결과라고 분석했다.",
-   "press": "서울신문",
-   "source": "서울신문",
-   "link": "https://n.news.naver.com/article/081/0003701423",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/05.png",
+   "pngBytes": 577387,
+   "title": "리트 만점자, 사망당일 새벽 짐정리…이틀전엔 \"탈출 도와달라\"",
+   "summary": "",
+   "summary_long": "",
+   "press": "연합뉴스",
+   "source": "연합뉴스",
+   "link": "https://n.news.naver.com/article/001/0016455467",
    "selection": "경제·시사",
-   "feed": "뉴스 04. “본격 폭락 시작도 안 했다”…삼성전자 7만원·하이닉스 20만원 경고한 전문가 [이슈픽]\n\n메모리 가격 하락하면 실적 전망 하향. 메모리 반도체 가격 상승에 힘입어 고공 행진했던 삼성전자와 SK하이닉스의 주가가 최근 급락한 가운데 추가 폭락 가능성을 경고한 전문가의 발언이 주목받고 있다. 그는 “아직 본격적인 폭락은 시작되지 않았다”며 “본격적인 메모리 기업들의 주가 폭락은 메모리 가격이 하락하기 시작해야 일어난다”고 주장했다.\n\n“메모리 가격 떨어지면 1년 내 50% 하락”이 애널리스트가 주목한 것은 최근 반도체 기업들의 실적 개선이 생산량이나 출하량 증가가 아닌 메모리 가격 상승에 크게 의존하고 있다는 점이다. “AI 반도체 수요가 가격 상승 보장하지 않아”…중국 변수도 경고이 애널리스트는 인공지능(AI) 산업의 성장 자체가 국내 반도체 기업들의 주가 상승을 보장하는 것은 아니라고 강조했다. 당시에도 그는 최근 반도체 기업들의 실적 개선이 판매량 증가가 아닌 메모리 가격 급등에 따른 결과라고 분석했다.\n\n출처: 서울신문 / https://n.news.naver.com/article/081/0003701423"
+   "feed": "뉴스 04. 리트 만점자, 사망당일 새벽 짐정리…이틀전엔 \"탈출 도와달라\"\n\n\n\n출처: 연합뉴스 / https://n.news.naver.com/article/001/0016455467"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/06.png",
-   "pngBytes": 1807138,
-   "title": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택",
-   "summary": "36개 언론사55,171개 기사. 8개 언론사3,054개 기사.",
-   "summary_long": "민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택. 더불어민주당이 20일 조희대 대법원장에 대한 탄핵 소추 추진을 당론으로 채택했다. 민주당은 이날 국회에서 의원총회를 열어 조 대법원장에 대한 탄핵 소추를 당론으로 채택했다고 전은수 원내대변인이 의원총회 뒤 기자들을 만나 밝혔다.\n\n이 기사는 언론사에서 정치 섹션으로 분류했습니다. 기사의 섹션 정보는 해당 언론사의 분류를 따르고 있습니다. 36개 언론사55,171개 기사.",
-   "press": "한겨레",
-   "source": "한겨레",
-   "link": "https://n.news.naver.com/article/028/0002833207",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/06.png",
+   "pngBytes": 2247921,
+   "title": "국힘 대구서 장외 규탄집회…\"조희대 탄핵은 반역\"",
+   "summary": "국민의힘 장동혁 대표와 정점식 원내대표를 비롯한 참석자들이 21일 대구 중구 현대백화점 앞 광장에서 열린 '100% 위헌! 그러면서 \"'이재명 탈옥법'을 찬성한 민주당…",
+   "summary_long": "장동혁 \"이재명 탄핵만이 답\" 국민의힘 장동혁 대표와 정점식 원내대표를 비롯한 참석자들이 21일 대구 중구 현대백화점 앞 광장에서 열린 '100% 위헌! 이날 장 대표는 \"피와 땀의 눈물로 세운 대한민국이 흉악한 이재명의 손에 의해 독재 국가로 전락하고 있다\"며 \"'범죄자 이재명'이 대통령이 돼서 한 일이라고는 오로지 자신만 살겠다고 국민을 향해서 폭력을 휘둘러 댄 것뿐\"이라고 맹비난했다.\n\n정 원내대표는 \"1950년에는 북한이 대한민국을 공격했다면 2026년에는 대통령과 민주당이 대한민국을 공격했다. 북한이 소련제 탱크를 앞세워 국토를 유린했다면, 이 대통령은 민주당을 앞세워 헌법을 유린했다\"며 \"이재명 대통령과 민주당은 대한민국의 적이고, 이 대통령이 살면 대한민국이 사라진다\"고 언성을 높였다. 그러면서 \"'이재명 탈옥법'을 찬성한 민주당 의원 전부, 이 법을 의결한 국무총리와 국무위원 전부, 이 법을 사주한 이 대통령까지 모두 법정에 세울 것\"이라며 \"대한민국에 대한 반역을, 자유민주주의에 대한 쿠데타를 모조리 심판할 것\"이라고 강조했다.",
+   "press": "부산일보",
+   "source": "부산일보",
+   "link": "https://n.news.naver.com/article/082/0001408280",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택\n\n민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택. 더불어민주당이 20일 조희대 대법원장에 대한 탄핵 소추 추진을 당론으로 채택했다. 민주당은 이날 국회에서 의원총회를 열어 조 대법원장에 대한 탄핵 소추를 당론으로 채택했다고 전은수 원내대변인이 의원총회 뒤 기자들을 만나 밝혔다.\n\n이 기사는 언론사에서 정치 섹션으로 분류했습니다. 기사의 섹션 정보는 해당 언론사의 분류를 따르고 있습니다. 36개 언론사55,171개 기사.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002833207"
+   "feed": "뉴스 05. 국힘 대구서 장외 규탄집회…\"조희대 탄핵은 반역\"\n\n장동혁 \"이재명 탄핵만이 답\" 국민의힘 장동혁 대표와 정점식 원내대표를 비롯한 참석자들이 21일 대구 중구 현대백화점 앞 광장에서 열린 '100% 위헌! 이날 장 대표는 \"피와 땀의 눈물로 세운 대한민국이 흉악한 이재명의 손에 의해 독재 국가로 전락하고 있다\"며 \"'범죄자 이재명'이 대통령이 돼서 한 일이라고는 오로지 자신만 살겠다고 국민을 향해서 폭력을 휘둘러 댄 것뿐\"이라고 맹비난했다.\n\n정 원내대표는 \"1950년에는 북한이 대한민국을 공격했다면 2026년에는 대통령과 민주당이 대한민국을 공격했다. 북한이 소련제 탱크를 앞세워 국토를 유린했다면, 이 대통령은 민주당을 앞세워 헌법을 유린했다\"며 \"이재명 대통령과 민주당은 대한민국의 적이고, 이 대통령이 살면 대한민국이 사라진다\"고 언성을 높였다. 그러면서 \"'이재명 탈옥법'을 찬성한 민주당 의원 전부, 이 법을 의결한 국무총리와 국무위원 전부, 이 법을 사주한 이 대통령까지 모두 법정에 세울 것\"이라며 \"대한민국에 대한 반역을, 자유민주주의에 대한 쿠데타를 모조리 심판할 것\"이라고 강조했다.\n\n출처: 부산일보 / https://n.news.naver.com/article/082/0001408280"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/07.png",
-   "pngBytes": 1815761,
-   "title": "이 대통령 지지율 40%‥민주 36%·국힘 28%로 오차 밖 與 우세 [한국갤럽]",
-   "summary": "한국갤럽이 지난 17일부터 사흘간 전국 만 18세 이상 1천 1명을 조사한 결과 이 대통령의 직무 수행에 대한 긍정 평가는 전주 조사 대비 1%포인트 상승한 40%를…",
-   "summary_long": "이재명 대통령의 국정 지지도가 소폭 반등한 40%로 나타났습니다. 한국갤럽이 지난 17일부터 사흘간 전국 만 18세 이상 1천 1명을 조사한 결과 이 대통령의 직무 수행에 대한 긍정 평가는 전주 조사 대비 1%포인트 상승한 40%를 기록했습니다. 한국갤럽 조사에서 이 대통령의 국정 지지도는 8월 2주 차 조사에서 44%를 기록한 이후 30% 후반대와 40% 초중반대를 횡보하고 있습니다.\n\n긍정 평가 이유는 '외교'가 24%로 가장 높았으며 '경제·민생' 12%, '소통' 9%, '서민 정책·복지' 7% 순서로 나타났습니다. 부정 평가 이유는 '경제·민생'이 18%로 가장 높았고, '도덕성 문제·본인 재판 회피'가 13%, '부동산 정책' 12%, '국방·안보·대북' 5% 등이었습니다. 민주당은 전주 조사 대비 3%포인트 하락했고, 국민의힘은 2%포인트 상승했는데, 두 당의 지지율 격차는 8%포인트로 3주 연속 오차 범위 밖에서 여당이 우세했습니다.",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001536903",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/07.png",
+   "pngBytes": 1953663,
+   "title": "민주 \"조희대 탄핵, 12·3 기점 발의 공감대\"...국힘 \"헌법 질서 파괴\"",
+   "summary": "더불어민주당 조희대 대법원장 탄핵 소추안 발의를 내란 2주기인 12월 3일쯤 할 거란 당내 전망이 나왔습니다. 조희대 대법원장 탄핵 소추를 당론으로 정한 더불어민주당에서…",
+   "summary_long": "민주 \"조희대 대법원장 탄핵안, 계엄 2주기쯤 발의\" 더불어민주당 조희대 대법원장 탄핵 소추안 발의를 내란 2주기인 12월 3일쯤 할 거란 당내 전망이 나왔습니다. 다만 민주당 내부의 탄핵 추진 우려도 여전한데, 국민의힘은 또다시 장외로 나가 헌법 파괴 시도라고 거세게 반발했습니다.\n\n조희대 대법원장 탄핵 소추를 당론으로 정한 더불어민주당에서 탄핵 소추안 발의 시점에 대한 구체적인 언급이 처음 나왔습니다. 일각에선 임기가 7개월도 안 남은 조 대법원장을 탄핵하는 게 어떤 실익이 있느냐는 주장을 내놨는데, 탄핵 소추로 직무를 정지해 내년 2월 법관 정기 인사에서 입김을 차단하고, '정치 판결'의 구조를 흔들어 놔야 한다는 반론도 나왔습니다. [장 동 혁 / 국민의힘 대표 : 이재명 탈옥법을 밀어붙이고, 대법원장 탄핵을 하겠다며 설쳐대는 이것이야말로 진정한 내란입니다, 여러분.].",
+   "press": "YTN",
+   "source": "YTN",
+   "link": "https://n.news.naver.com/article/052/0002436148",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 이 대통령 지지율 40%‥민주 36%·국힘 28%로 오차 밖 與 우세 [한국갤럽]\n\n이재명 대통령의 국정 지지도가 소폭 반등한 40%로 나타났습니다. 한국갤럽이 지난 17일부터 사흘간 전국 만 18세 이상 1천 1명을 조사한 결과 이 대통령의 직무 수행에 대한 긍정 평가는 전주 조사 대비 1%포인트 상승한 40%를 기록했습니다. 한국갤럽 조사에서 이 대통령의 국정 지지도는 8월 2주 차 조사에서 44%를 기록한 이후 30% 후반대와 40% 초중반대를 횡보하고 있습니다.\n\n긍정 평가 이유는 '외교'가 24%로 가장 높았으며 '경제·민생' 12%, '소통' 9%, '서민 정책·복지' 7% 순서로 나타났습니다. 부정 평가 이유는 '경제·민생'이 18%로 가장 높았고, '도덕성 문제·본인 재판 회피'가 13%, '부동산 정책' 12%, '국방·안보·대북' 5% 등이었습니다. 민주당은 전주 조사 대비 3%포인트 하락했고, 국민의힘은 2%포인트 상승했는데, 두 당의 지지율 격차는 8%포인트로 3주 연속 오차 범위 밖에서 여당이 우세했습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001536903"
+   "feed": "뉴스 06. 민주 \"조희대 탄핵, 12·3 기점 발의 공감대\"...국힘 \"헌법 질서 파괴\"\n\n민주 \"조희대 대법원장 탄핵안, 계엄 2주기쯤 발의\" 더불어민주당 조희대 대법원장 탄핵 소추안 발의를 내란 2주기인 12월 3일쯤 할 거란 당내 전망이 나왔습니다. 다만 민주당 내부의 탄핵 추진 우려도 여전한데, 국민의힘은 또다시 장외로 나가 헌법 파괴 시도라고 거세게 반발했습니다.\n\n조희대 대법원장 탄핵 소추를 당론으로 정한 더불어민주당에서 탄핵 소추안 발의 시점에 대한 구체적인 언급이 처음 나왔습니다. 일각에선 임기가 7개월도 안 남은 조 대법원장을 탄핵하는 게 어떤 실익이 있느냐는 주장을 내놨는데, 탄핵 소추로 직무를 정지해 내년 2월 법관 정기 인사에서 입김을 차단하고, '정치 판결'의 구조를 흔들어 놔야 한다는 반론도 나왔습니다. [장 동 혁 / 국민의힘 대표 : 이재명 탈옥법을 밀어붙이고, 대법원장 탄핵을 하겠다며 설쳐대는 이것이야말로 진정한 내란입니다, 여러분.].\n\n출처: YTN / https://n.news.naver.com/article/052/0002436148"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/08.png",
-   "pngBytes": 576372,
-   "title": "여, ‘조희대 탄핵’ 추진 본격화…야, “탄핵은 광기” 장외 여론전",
-   "summary": "",
-   "summary_long": "",
-   "press": "KBS",
-   "source": "KBS",
-   "link": "https://n.news.naver.com/article/056/0012298013",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/08.png",
+   "pngBytes": 1495364,
+   "title": "李대통령, 울산 AI데이터센터 찾아 “지방 중심 AI 투자로 균형 발전”",
+   "summary": "이 대통령은 이날 오전 울산 SK AI데이터센터 건설 현장을 방문한 자리에서 “대한민국의 주요 국가 과제는 균형발전”이라며 이같이 말했다. 이 대통령은 지난해 6월 취임…",
+   "summary_long": "이 대통령은 이날 오전 울산 SK AI데이터센터(AIDC) 건설 현장을 방문한 자리에서 “대한민국의 주요 국가 과제는 균형발전”이라며 이같이 말했다. 이 대통령은 지난해 6월 취임 이후 첫 산업 현장 방문 일정으로 울산을 찾았던 사실을 언급하며 “그사이 벌써 완공이 다 돼 간다”며 “과감한 투자를 결정하고 사업을 속도감 있게 추진하는 SK 관계자 여러분께 감사드린다”고 말했다. 이 대통령은 “AI 데이터센터는 반도체의 주요 수요처이기도 하고 로봇, 자율주행차량 같은 피지컬 AI를 뒷받침하는 핵심 인프라”라고 말했다.\n\n그러면서 “과거 경부고속도로가 대한민국 산업화의 길을 열었던 것처럼 앞으로 대한민국 AI 대전환은 인공지능 고속도로가 열게 될 것”이라며 “울산 AI 데이터센터 사업의 성공적인 추진이 글로벌 AI 기업들의 추가 투자를 이끌어내는 마중물이 되기를 기대한다”고 밝혔다. 이 대통령은 “첨단 시설 공정 인력이 매우 부족하다고 한다”며 “반도체 공장도 만들어 나가야 하는데 이미 인력이 상당히 부족한 상황이고, 앞으로 데이터센터 건설 등이 확대되면 건설 인력 문제도 간단치 않을 것”이라고 말했다. 이어 “지금 세계가 경쟁하는 상황에서 속도가 생명”이라며 “국내의 필요뿐 아니라 국제 경쟁을 위해서도 속도 경쟁이 핵심인 만큼 인력을 어떻게 준비할 것인지 정부 부처 차원에서 고민하겠다”고 말했다.",
+   "press": "세계일보",
+   "source": "세계일보",
+   "link": "https://n.news.naver.com/article/022/0004176982",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 여, ‘조희대 탄핵’ 추진 본격화…야, “탄핵은 광기” 장외 여론전\n\n\n\n출처: KBS / https://n.news.naver.com/article/056/0012298013"
+   "feed": "뉴스 07. 李대통령, 울산 AI데이터센터 찾아 “지방 중심 AI 투자로 균형 발전”\n\n이 대통령은 이날 오전 울산 SK AI데이터센터(AIDC) 건설 현장을 방문한 자리에서 “대한민국의 주요 국가 과제는 균형발전”이라며 이같이 말했다. 이 대통령은 지난해 6월 취임 이후 첫 산업 현장 방문 일정으로 울산을 찾았던 사실을 언급하며 “그사이 벌써 완공이 다 돼 간다”며 “과감한 투자를 결정하고 사업을 속도감 있게 추진하는 SK 관계자 여러분께 감사드린다”고 말했다. 이 대통령은 “AI 데이터센터는 반도체의 주요 수요처이기도 하고 로봇, 자율주행차량 같은 피지컬 AI를 뒷받침하는 핵심 인프라”라고 말했다.\n\n그러면서 “과거 경부고속도로가 대한민국 산업화의 길을 열었던 것처럼 앞으로 대한민국 AI 대전환은 인공지능 고속도로가 열게 될 것”이라며 “울산 AI 데이터센터 사업의 성공적인 추진이 글로벌 AI 기업들의 추가 투자를 이끌어내는 마중물이 되기를 기대한다”고 밝혔다. 이 대통령은 “첨단 시설 공정 인력이 매우 부족하다고 한다”며 “반도체 공장도 만들어 나가야 하는데 이미 인력이 상당히 부족한 상황이고, 앞으로 데이터센터 건설 등이 확대되면 건설 인력 문제도 간단치 않을 것”이라고 말했다. 이어 “지금 세계가 경쟁하는 상황에서 속도가 생명”이라며 “국내의 필요뿐 아니라 국제 경쟁을 위해서도 속도 경쟁이 핵심인 만큼 인력을 어떻게 준비할 것인지 정부 부처 차원에서 고민하겠다”고 말했다.\n\n출처: 세계일보 / https://n.news.naver.com/article/022/0004176982"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-21/09.png",
-   "pngBytes": 1346413
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-22/09.png",
+   "pngBytes": 1346172
   }
  ],
- "caption": "📰 11월 21일 오늘의 뉴스\n\n1. '국조부터'라던 김민석, 한덕수 파기환송에 '조희대 탄핵' 꺼냈다\n   지난달까지만 해도 '국정조사부터'라며 속도를 조절하던 김민석 더불어민주당 대표는 선고 직후 '조희대 탄핵 카드'를 꺼내들며 대법원을 직격했다. 최민희 최고위원 징계…\n2. “검사 200명 수사 부담된다” 손사래… 與 조작기소 특검 구인난\n   이재명 대통령이 해외 순방 중에 자기 사건과 관련한 ‘조작기소 특검법’을 재가한 가운데, 더불어민주당이 이미 특검 후보 물색에 착수한 것으로 19일 알려졌다. 민주당…\n3. ‘리트 만점’ 이진우 유품은 7등급 수험표... 무슨 의미?\n   AI 부정행위 의혹 받기 前 ’2018학년도 수능 수험표‘ 발견. 20일 경찰 등에 따르면 지난 19일 오후 1시 12분쯤 이씨가 심정지 상태로 발견된 서울 강동구…\n4. “본격 폭락 시작도 안 했다”…삼성전자 7만원·하이닉스 20만원 경고한 전문가 [이슈픽]\n   메모리 반도체 가격 상승에 힘입어 고공 행진했던 삼성전자와 SK하이닉스의 주가가 최근 급락한 가운데 추가 폭락 가능성을 경고한 전문가의 발언이 주목받고 있다. 메모리…\n5. 민주당 ‘조희대 대법원장 탄핵소추’ 당론 채택\n   36개 언론사55,171개 기사. 8개 언론사3,054개 기사.\n6. 이 대통령 지지율 40%‥민주 36%·국힘 28%로 오차 밖 與 우세 [한국갤럽]\n   한국갤럽이 지난 17일부터 사흘간 전국 만 18세 이상 1천 1명을 조사한 결과 이 대통령의 직무 수행에 대한 긍정 평가는 전주 조사 대비 1%포인트 상승한 40%를…\n7. 여, ‘조희대 탄핵’ 추진 본격화…야, “탄핵은 광기” 장외 여론전\n\n🗣 “대법원장에 대한 '보복 탄핵'은 결코 수용할 수 없다”\n이 발언을 그대로 실은 보도 10건 · 시사저널 · 연합뉴스TV · 연합인포맥스 · 한겨레\n· 시사저널 — ‘국조부터’라던 김민석, 한덕수 파기환송에 ‘조희대 탄핵’ 꺼냈다\n· 연합뉴스TV — 국힘 \"내란몰이 철퇴 판결…조희대에 보복 탄핵 안 돼\"\n· 연합인포맥스 — 국힘 \"한덕수 대법 판단 존중…與 대법원장 보복 탄핵은 사법부 탄압\" |\n· 한겨레 — 국힘, 한덕수 파기환송에 “사법정의 확인…조희대 보복 탄핵 안돼”\n· 조선일보 — 국힘, 대법 한덕수 파기환송에 \"판단 존중...與 조희대 탄핵 주장은 쿠데타\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실 #법원\n\n출처: KBS, MBC, 서울신문, 시사저널, 조선일보, 한겨레"
+ "caption": "📰 11월 22일 오늘의 뉴스\n\n1. 민주, ‘조희대 탄핵’ 당론 채택했지만…‘기각 역풍’ 우려도 만만찮아\n   더불어민주당이 20일 의원총회를 열고 조희대 대법원장에 대한 탄핵 추진을 당론으로 채택했다. 전은수 원내대변인은 이날 의원총회 뒤 “조 대법원장 탄핵 소추 추진을…\n2. [속보] 일본인 “한국인 좋다” 역대 최고… 중국은 93%가 ‘안 좋다’ 응답\n   이재명 대통령이 17일 필리핀 마닐라 필리핀국제컨벤션센터에서 다카이치 사나에 일본 총리와의 정상회담에서 악수를 하고 있다. 한일관계가 개선되는 반면 중일관계는 갈등을…\n3. [속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져\n   스탠더드앤드푸어스 500지수는 265.44포인트 내린 6910.39에, 나스닥 지수는 1261.47포인트 하락한 2만2617.73에 각각 거래를 마쳤다. 엔비디아는…\n4. 리트 만점자, 사망당일 새벽 짐정리…이틀전엔 \"탈출 도와달라\"\n5. 국힘 대구서 장외 규탄집회…\"조희대 탄핵은 반역\"\n   국민의힘 장동혁 대표와 정점식 원내대표를 비롯한 참석자들이 21일 대구 중구 현대백화점 앞 광장에서 열린 '100% 위헌! 그러면서 \"'이재명 탈옥법'을 찬성한 민주당…\n6. 민주 \"조희대 탄핵, 12·3 기점 발의 공감대\"...국힘 \"헌법 질서 파괴\"\n   더불어민주당 조희대 대법원장 탄핵 소추안 발의를 내란 2주기인 12월 3일쯤 할 거란 당내 전망이 나왔습니다. 조희대 대법원장 탄핵 소추를 당론으로 정한 더불어민주당에서…\n7. 李대통령, 울산 AI데이터센터 찾아 “지방 중심 AI 투자로 균형 발전”\n   이 대통령은 이날 오전 울산 SK AI데이터센터 건설 현장을 방문한 자리에서 “대한민국의 주요 국가 과제는 균형발전”이라며 이같이 말했다. 이 대통령은 지난해 6월 취임…\n\n🗣 “적극적·소극적 저항으로 내란을 극복해 온 국민의 행위 규범과 정반대의 규범을 옳다고 하면서 역사적 기회주의자들에게 집단적 면죄부를 발급한 것”\n이 발언을 그대로 실은 보도 10건 · 한겨레 · 한국경제 · 조세일보 · 시사뉴스\n· 한겨레 — 민주, ‘조희대 탄핵’ 당론 채택했지만…‘기각 역풍’ 우려도 만만찮아\n· 한겨레 — 김민석 “한덕수 판결, 국민 인내선 넘어”…조희대 탄핵안 당론 추진\n· 한국경제 — 김민석 \"조희대 탄핵 결정…내란 정당화와 타협 없다\"\n· 조세일보 — 與 \"내란·내란 정당화 결코 타협 불가...조희대 탄핵 결정\"\n· 시사뉴스 — 더불어민주당, 조희대 대법원장 탄핵 당론 채택...“사법부에 대한 국민의 신뢰 무너뜨린 책임 묻겠다”\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #AI #대통령실\n\n출처: YTN, 디지털타임스, 부산일보, 세계일보, 연합뉴스, 한겨레"
 }
