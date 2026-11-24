@@ -1,234 +1,267 @@
 {
- "date": "2026-11-23",
- "generated_at": "2026-11-23T12:24:27+09:00",
+ "date": "2026-11-24",
+ "generated_at": "2026-11-24T15:38:11+09:00",
  "mode": "daily",
- "window_start": "2026-11-22T00:00:00+09:00",
- "window_end": "2026-11-22T23:59:59+09:00",
+ "window_start": "2026-11-23T00:00:00+09:00",
+ "window_end": "2026-11-23T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "이 대통령 “시험 중 문제지 촬영·전송 막을 법적 근거 정비…끝까지 책임”",
-   "source": "KBS",
-   "url": "https://n.news.naver.com/article/056/0012298766",
-   "published_at": "2026-11-22T11:56:29+09:00",
+   "title": "\"한동훈 국힘 제명 발표, 尹 사형 구형 맞춰 기획\" 폭로",
+   "source": "시사저널",
+   "url": "https://n.news.naver.com/article/586/0000142872",
+   "published_at": "2026-11-23T16:15:09+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "summary": "이재명 대통령은 인공지능 기술을 악용한 시험 부정행위 근절을 위해 시험 중 문제지 촬영과 유출 등을 막을 법적 근거를 마련하겠다고 밝혔습니다. 이 대통령은 먼저, “시험…",
-   "summary_long": "이재명 대통령은 인공지능(AI) 기술을 악용한 시험 부정행위 근절을 위해 시험 중 문제지 촬영과 유출 등을 막을 법적 근거를 마련하겠다고 밝혔습니다. 이 대통령은 오늘(22일) SNS에 “AI 기술을 악용한 부정행위에 대한 우려가 수능을 넘어 논술과 내신 시험으로까지 확산되고 있다”며 이같이 적었습니다. 이 대통령은 먼저, “시험 중 문제지 촬영과 외부 전송을 기술적으로 막기 위한 법적 근거를 전면적으로 정비하도록 지시하겠다”고 밝혔습니다.\n\n이와 함께 “정비된 법적 근거를 시험지에 명시하고, 문제지에 고유 식별 표식을 넣어 촬영·유출 시 출처를 확인할 수 있는 방안도 검토하라고 지시하겠다”고 했습니다. 이 대통령은 “시험의 공정성은 결코 타협할 수 없는 원칙”이라며, “지금 할 수 있는 조치부터 신속히 시행하고, 부족한 부분은 계속 보완해 나가겠다”고 밝혔습니다. 이어 “부정행위에 대해서는 끝까지 책임을 묻겠다”며 “기술이 아무리 발전해도 공정의 원칙까지 흔들려서는 안 된다, 시험의 공정성을 지키기 위해 필요한 조치를 끝까지 챙기겠다”고 강조했습니다.",
+   "summary": "국민의힘 전·현직 윤리위원이 23일 한동훈 무소속 의원의 제명 발표가 윤석열 전 대통령의 사형 구형일에 맞춰 기획됐다고 폭로했다. 자료에 따르면 최 전 교수는 지난해…",
+   "summary_long": "국민의힘 전·현직 윤리위원이 23일 한동훈 무소속 의원의 제명 발표가 윤석열 전 대통령의 사형 구형일에 맞춰 기획됐다고 폭로했다. 자료에 따르면 최 전 교수는 지난해 12월31일 오찬에서 장 대표에게 '장동혁 당대표 체제강화 스케줄'이라는 명목으로 한 의원, 김종혁 전 최고위원에 대한 징계를 심의할 윤리위를 가동할 것을 제안했다. 이 기획안에는 한 의원을 제명하는 시점으로 내란 우두머리 혐의로 기소된 윤 전 대통령의 결심공판일에 '검찰 구형이 이뤄진 직후'가 명시됐다.\n\n이후 1월13일 오후 9시30분을 넘겨 검찰이 윤 전 대통령에 대해 사형을 구형하자 장 대표는 텔레그램으로 최 전 교수에게 해당 기사 링크를 전송했다. 이어 \"결국 한동훈 심의 6시간은 가짜고 30분이 진짜\"라면서 \"한동훈의 '당게 사건'에 대해 윤리위는 당무감사위원회에서 제공한 자료를 당무감사실이 설명해 주는 것을 듣고 제명을 결정하였을 뿐 진상을 조사하거나 진위를 파악한 적이 없다\"고 주장했다. 이들은 지도부가 윤 전 대통령에 대한 구형과 한 의원 제명 시점을 맞춘 이유에 대해 \"계엄령 사건의 실질적인 첫 구형이고 사형이 예상돼 모든 지지자 초미의 관심사인 바, 한동훈을 제물로 바쳐 '윤어게인' 강성 지지층의 지지를 얻기 위한 한동훈 십자가 처형 전략이었다\"고 말했다.",
    "quotes": [
-    "정비된 법적 근거를 시험지에 명시하고, 문제지에 고유 식별 표식을 넣어 촬영·유출 시 출처를 확인할 수 있는 방안도 검토하라고 지시하겠다",
-    "기술이 아무리 발전해도 공정의 원칙까지 흔들려서는 안 된다, 시험의 공정성을 지키기 위해 필요한 조치를 끝까지 챙기겠다",
-    "국가자격시험을 비롯한 각종 시험의 관리 실태도 전 부처와 청이 함께 점검하고, 필요한 경우 법령 개정도 추진하겠다"
+    "계엄령 사건의 실질적인 첫 구형이고 사형이 예상돼 모든 지지자 초미의 관심사인 바, 한동훈을 제물로 바쳐 '윤어게인' 강성 지지층의 지지를 얻기 위한 한동훈 십자가 처형 전략이었다",
+    "한동훈의 '당게 사건'에 대해 윤리위는 당무감사위원회에서 제공한 자료를 당무감사실이 설명해 주는 것을 듣고 제명을 결정하였을 뿐 진상을 조사하거나 진위를 파악한 적이 없다",
+    "결국 한동훈 심의 6시간은 가짜고 30분이 진짜"
    ],
-   "press": "KBS",
+   "press": "시사저널",
    "photo": "01.jpg",
    "quoted": {
-    "quote": "정비된 법적 근거를 시험지에 명시하고, 문제지에 고유 식별 표식을 넣어 촬영·유출 시 출처를 확인할 수 있는 방안도 검토하라고 지시하겠다",
-    "n": 10,
+    "quote": "계엄령 사건의 실질적인 첫 구형이고 사형이 예상돼 모든 지지자 초미의 관심사인 바, 한동훈을 제물로 바쳐 '윤어게인' 강성 지지층의 지지를 얻기 위한 한동훈 십자가 처형 전략이었다",
+    "n": 4,
     "verified": 0,
     "items": [
      {
       "press": "연합뉴스",
-      "title": "李대통령 \"공정 원칙 흔들려선 안돼…全부처 시험관리실태 점검\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qRzZmdGZIMmxZVWt0YXVWYTNUeXg2dXJkTFNiOG1hTWxWN1VqbU1VSUpWaXQyNzB2ZTlGVHNsYlNrRVNmY1VzS3F5cXpkWGpUUmFGcldJZkdfQTTSAWBBVV95cUxQbnU3ZW1vMHFYUzA2UTFVcUdrSE13OW5NUTRhOERSZUdBSFlWR0NkdmlqYXFHSVphY21nQjdqaDQ2UGFQaDNtQTBQRWprVF8xaUtnWlpQc0NvNW9uZHVLQ2o?oc=5"
+      "title": "\"尹 구형맞춰 韓 제물로\"…野윤리위원 '기획제명 의혹' 추가폭로",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNbXhUS3lfellsRjMyTmVQeUkyUy1vblhmczFPX3BGSWEwSDBsVnctRE1IY2E2ZnI1TGhoSHJZcUthX28yUW5iU3FaQkFzRVhReHpCSzhBNnAwVDBrRXc5OdIBYEFVX3lxTFBNbXhUS3lfellsRjMyTmVQeUkyUy1vblhmczFPX3BGSWEwSDBsVnctRE1IY2E2ZnI1TGhoSHJZcUthX28yUW5iU3FaQkFzRVhReHpCSzhBNnAwVDBrRXc5OQ?oc=5"
      },
      {
-      "press": "한겨레",
-      "title": "이 대통령 “시험지 촬영과 외부 전송 막을 법적 근거, 전면 정비할 것”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLdU1BQ0FOS3ZPeHQ0c0drclJMemxseXFPNWFHdXdEcVd2YzFyZEFpVGZrRWlvVnVzalhuNTVMMzFoWnZDSDJvLWlYNmgxWGEzemdIbk9VX1ZWWDB0Q25mVG9ZcVJuYllmcEhF?oc=5"
+      "press": "채널A",
+      "title": "“尹 사형 구형에 韓 제물로 바쳐”…국민의힘 윤리위 또 폭로 [자막뉴스]",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GY3g4TmVDZWxtRHFDR3FKRXBxRzBHelMxblgxU0FPajB3VGRoNnJ3eG5oeFZ3MVZhS1k0X3Y1LTkta1p5QnpBRWxaQUM4ZFdpNEd0Skg3cHE3TUIyYnfSAWNBVV95cUxNMWpUdzBmb0dYN08zWTYzWlNKUTc4UFlwblFiNzc1X1VTMzV2cWloeXI5Y0trNmZ1a1JRWVViYXBmWVJEXzBiZDc0cDJLRjVsNGx1WnhUY2FMTWx2bkVUWVEwNFU?oc=5"
      },
      {
-      "press": "한국일보",
-      "title": "이 대통령 \"부정행위 막는 법적 근거 정비할 것\"… '시험지 촬영·유출' 기술적으로 막는다",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91LW93Q0RCSHFjQW1mMFZvWUc4LUNoOEFUZHotd1V3c1pvajgzT0ZQS1JVel9WTjV2SzFvNWpiYzlpZVlZQlh6Q2lwNTBObEJJVUEySkV1bW9TaEdxaGVSNktHQlBkVG9TOGdvUDhn0gFzQVVfeXFMUDNUSVBNUWhZSDcxUEphS2FNVVUzbDFNdmFrdzF4RXBhSHlzMnpMSHpVWndlanp4QXFRUVM0SGs2amhLMHM5cE9iMDNJalN2VGR3aTZJTnZESmI1dXJoTEJoZlZyOVJyY1pXNTFpUzRJclpzTQ?oc=5"
+      "press": "부산일보",
+      "title": "“尹 구형일 맞춰 韓 제명 기획”…국힘 윤리위원 추가 폭로",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MbGVob0FiYjFCem01UVlUeHVVUjROUlRIRE9ZSDBjSzJOU0thNURLQXNxSWZuVGs2cGlhWlRkYUxyVVIwcDE4YmktOWxGQ0o4dEFMVGpVRlBKWUhScFd0c01WSnFNZzZCQ0Fyalhlb1pYN2Z1Skt1Mw?oc=5"
      },
      {
-      "press": "뉴시안",
-      "title": "[상보] 이 대통령, 수능 부정행위 차단 총력전…\"시험지 촬영·전송 기술적으로 막는다\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RWUNxeVp4bmdiQ1I5VGdPWWpXMWVZZ2tWSWlEMHdfSUNoRXdkQUREOHRfdFVxOG5jZUxIUzJ0YndPbXlYVXh4STlJNzlUOE9vZVk0YW1jaGM0aDFGWTdVN3ZzYnJMcWVGdUcxbQ?oc=5"
-     },
-     {
-      "press": "전자신문",
-      "title": "李 “시험 부정행위, 끝까지 책임 묻겠다…할 수 있는 조치부터 시행”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81MDVnMFZ4aVRiVWhyUV9XbGxYQzBxX1p3cVItUHIyTHRFVDAwM3Y2VDYzRGtUaDBsUEpqckZrN19IdzFHRlRXYW5ITWtuQQ?oc=5"
-     },
-     {
-      "press": "기호일보",
-      "title": "이 대통령 “시험의 공정성은 결코 타협할 수 없는 원칙”…각종 시험관리실태 전반 점검·부정 방지책 재차 약속",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wRVJqZThJWXBzSUxETGVwWlFETDllMTNBUHdsY0toNmQ5REY5Q0tHbm5BX0pUZ2NrdnZzOEhSOTFwa2Z1TlpXdExjTHpmaDlUc3NadERkbm9UczdRYjg4bzY5MGs3YmZIX1BXQWJPYw?oc=5"
+      "press": "데일리안",
+      "title": "尹 사형 구형 맞춰 한동훈 제명 발표?…野윤리위원, 張 '징계 기획' 추가 폭로",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZzZINTlsbDdWVEFxZnJUX0xSOWMxZWdLVGtxYXpYVlZlUzAxakQ1eWt2OFI0bW5UcWd4X2lGMVdmS2ZSaXA4dVBlczhvNFAtd2VlVkkxVDFfdjM1SU9fWmVnY3d5c2dKYnB4NzFuOHljMEZEcnZJNThid1M1Z3ZKN1R2U25aeUtGakZYWTNmNTVrNFd3Zm9kVk9ZYmMxSHhvN1JMVkQ5eDBqWHdhT19DRnFiOHFiWmNaM0lBR3Y2aTF2ckFrYnVaV1g5dWJWRFFHcDdjdEZTM0VWR3o1RmF2OFpqZ19lVXo5RFVEdHo1R0ZzUkQ4NUZlbFpGU2REQ0dDaVNnME9fUG5LeUFFREE?oc=5"
      }
     ]
    }
   },
   {
-   "title": "이 대통령 \"치아 흔들리고 코피 터져\"... '순방 잦다' 비판에 \"돼지 눈에 돼지만\" 반박",
-   "source": "한국일보",
-   "url": "https://n.news.naver.com/article/469/0000967070",
-   "published_at": "2026-11-22T17:10:14+09:00",
+   "title": "방어권 행사일까, 수사 개입일까…특검 앞 李 '대장동 반박' 후폭풍",
+   "source": "시사저널",
+   "url": "https://n.news.naver.com/article/586/0000142808",
+   "published_at": "2026-11-23T00:09:10+09:00",
    "section_id": "100",
-   "view_rank": 1,
+   "view_rank": 2,
    "selection": "정치",
-   "summary": "이재명 대통령이 22일 해외 순방이 잦다고 비판하는 야당을 향해 \"무역에 의존하는 개방형 통상국가에서 순방외교는 빠질 수 없는 대통령의 주요 업무\"라고 반박했다. \"선조…",
-   "summary_long": "이재명 대통령이 22일 해외 순방이 잦다고 비판하는 야당을 향해 \"무역에 의존하는 개방형 통상국가에서 순방외교는 빠질 수 없는 대통령의 주요 업무\"라고 반박했다. 이 대통령은 이날 엑스(X·옛 트위터)에 성기홍 청와대 홍보소통수석의 게시글을 공유하며 이같이 적었다. 성 수석은 게시글에서 \"최근 국정감사에서 야당은 '이재명 대통령이 벌써 14차례 23개국이나 순방했다.\n\n\"선조 때는 조선 천하 파괴, 정조 때는 조선 부흥\" 이 대통령은 순방을 두고 \"장시간 비행에 숨 쉴 틈 없는 빼곡한 일정으로 몸살에 치아가 흔들리고 코피까지 자주 터지는 힘든 일\"이라면서도 \"국가 이미지 개선과 관계 개선, 수출시장 확대 등 성과가 큰 임기 초 순방은 꼭 해야 할 국정과제\"라고 거듭 강조했다. 이 대통령은 \"똑같은 조선인데 선조 때는 수백만 백성이 목숨을 잃고 조선 천하가 다 파괴되었지만, 정조 때는 동아시아 최고의 부흥하는 조선이었다\"며 조선시대 왕을 비유 대상으로 삼기도 했다.",
+   "summary": "'조작기소 특검' 출범을 앞두고 이재명 대통령이 자신의 대장동 사건에 직접 목소리를 높이면서 수사의 독립성과 공정성을 둘러싼 논란이 불거지고 있다. 이 대통령은 자신의…",
+   "summary_long": "'조작기소 특검' 출범을 앞두고 이재명 대통령이 자신의 대장동 사건에 직접 목소리를 높이면서 수사의 독립성과 공정성을 둘러싼 논란이 불거지고 있다. 이 대통령은 자신의 사건에 대한 수사·기소 과정까지 조사 대상에 포함한 특검법을 재가한 데 이어, 이틀 간격으로 SNS(소셜미디어)를 통해 대장동 배임 의혹을 반박했다. 검찰의 배임 혐의 적용에 의문을 제기한 것인데, 국민의힘은 대통령의 잇따른 공개 발언을 \"사실상의 수사 가이드라인\"이라고 규정하며 강하게 반발하고 있다.\n\n이 대통령은 22일 자신의 엑스(X·옛 트위터)에 대장동 사건으로 재판받은 정민용 변호사의 인터뷰 등을 소개한 게시물을 공유하며 \"업자와 결탁한 시장이라면 할 수 있는 행동이 아니다\"라고 밝혔다. 수사 대상에는 대장동·위례·백현동 개발 의혹 등 이 대통령과 관련된 사건들도 포함됐다. 박성훈 국민의힘 수석대변인은 21일 논평에서 이 대통령이 대장동 사건 관련 영상을 공유한 것을 두고 \"노골적인 여론전과 사실상의 '수사 가이드라인' 하달에 나섰다\"고 주장했다.",
    "quotes": [
-    "해외순방을 바쁜 기업인들 붙잡아 음주가무나 즐기고, 관광과 호화쇼핑 기회로 생각하는 사람들 입장에서는 순방 가는 대통령이 놀러 가는 것으로 보일 수밖에 없다",
-    "최근 국정감사에서 야당은 '이재명 대통령이 벌써 14차례 23개국이나 순방했다. 6일 중 하루를 외국에 있었다'고 비판적으로 지적한 바 있다",
-    "똑같은 조선인데 선조 때는 수백만 백성이 목숨을 잃고 조선 천하가 다 파괴되었지만, 정조 때는 동아시아 최고의 부흥하는 조선이었다"
+    "성남시 몫 이익 4300억원을 선확정 보장하는 조건으로 대장동 사업자를 선정한 후에, 예상과 달리 부동산 시장이 개선되자 업자들에게 1100억원을 추가 부담시켰다",
+    "죄가 없고 그토록 당당하다면 SNS 뒤에 숨어 유튜브 영상을 퍼 나르며 여론을 호도할 것이 아니라, 일반 국민처럼 재판에 나가 법리로 당당히 다투면 될 일",
+    "개발허가를 내주고 5500억원을 공익 환수한 게 배임죄라면, 공익 환수 없이 개발이익 100%를 민간업자가 취득하는 일반적인 개발허가는 어찌 되는 것인가"
    ],
-   "press": "한국일보",
+   "press": "시사저널",
    "photo": "02.jpg",
    "quoted": {
-    "quote": "해외순방을 바쁜 기업인들 붙잡아 음주가무나 즐기고, 관광과 호화쇼핑 기회로 생각하는 사람들 입장에서는 순방 가는 대통령이 놀러 가는 것으로 보일 수밖에 없다",
-    "n": 8,
+    "quote": "성남시 몫 이익 4300억원을 선확정 보장하는 조건으로 대장동 사업자를 선정한 후에, 예상과 달리 부동산 시장이 개선되자 업자들에게 1100억원을 추가 부담시켰다",
+    "n": 10,
     "verified": 0,
     "items": [
      {
-      "press": "매일일보",
-      "title": "李, 순방 비판에 \"대통령 주요 업무\"…권력 활용 중요성도 강조",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BSHpkYU1la05sRDZzbXp3OWNWSF9MblJVODBudXJ3MGFJQ3N1WVRCYWdqWWlLVlNPZzBIeUR4YlVyMjhrYU00U1BUQXRqZFB4NHlWTEhaRVRPSGRMcEQ1ejJ5anc?oc=5"
-     },
-     {
-      "press": "KBS 뉴스",
-      "title": "이 대통령 “치아 흔들리고 코피 터져도…임기 초 순방은 국정과제”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yU1RFa3lmUi1FbkkwZk9uc2dwQ21UdUZxX0E4b29JTWp3amEtTV9hSEc5a2hmZ0FkaUtBY1dPcF90UHZUVVVwRUdMUkxfd0JrX3dVamN3WFQ1X0U?oc=5"
+      "press": "경향신문",
+      "title": "조작기소특검 임명 앞둔 이 대통령, 연일 ‘대장동 의혹’ 방어",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zVW9FT1ZoTlludHd4UUlLZXdiUFBWNGNjV2F3emp2UXhuc1JPYkl0S0pka0RFSVp3alBzSDBEU05UeWhtb193cjRTc29TcXdBTzVZQi1oM01Qd9IBX0FVX3lxTE1vY0txVVBDTk54b3ZaMXFseklrWGxuMmlZcHllVlB5YWtBUUdTYUZQQTJqXzZNcGxqUDY4SkZNaTFPbEVQVDRnNGdyMURKN3FaSFc5dWNsNXllYzhzZ21n?oc=5"
      },
      {
       "press": "뉴스토마토",
-      "title": "또 \"돼지 눈엔 돼지만\"…이 대통령, '해외순방 비판' 반박",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wM1A2RUZnQVlGZ1lNMHlLVDIteDZFdWZRRFBzVW5GM3hoalB5akpnNTg5MmNzaUxQU3Rid01oWVFWQ1VrODRiR3BmY1c1RmhFVkFNYnJaLUpYZ29NNmNFTA?oc=5"
+      "title": "'대장동 의혹' 재차 반박…이 대통령 \"업자들에 추가 부담, 결탁이면 불가\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sNDRSWW0yU2I0bFp6RWZEQUpCd1RYWHJOUHV1UFZWUmkyRTh3YVIwVnpyQ2psLThJV2F4X3dvLXNFUS1EM2Ywa3NHeUdUaDNTU2NkT1ZObzIwYV9GUTFWVQ?oc=5"
      },
      {
-      "press": "뉴스1",
-      "title": "李대통령 野겨냥 \"돼지 눈엔 돼지만…해외순방을 음주가무 기회로 생각\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tOUo1LThBQUxISWtaLUU4eEZUYUJKZDQ1YlZiTlpMX3VGNHlnRW1OMU5KVU83Qlg3UkNsRlZTLTdYUmZkS3E2OWdqaVo0OGc0MWhKV0dYWUJUR28?oc=5"
+      "press": "연합뉴스TV",
+      "title": "이 대통령, ’대장동 의혹’ 거듭 반박…“업자에 1,100억 추가 부담“",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEUnAwbTdOVmVPWUNsQ1VFRTV1TkFPbFM3OWlMSGpmZVU5VF9POXdmZkxjSDAxN05sZVB2c3VadHdFanhtWmsweExUWFd3WjZRMHo2SDNhbDFBUS15dnZBY1VxOTFkeEU?oc=5"
      },
      {
-      "press": "한국일보",
-      "title": "이 대통령 \"치아 흔들리고 코피 터져\"... '순방 잦다' 비판에 \"돼지 눈에 돼지만\" 반박",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41MC14dVI3OGRTaWQ0RnFsN1BIT3VrX2dsUHNCcjk4MTZtNUlSa01vWExWbVVHZkh0VEhBY2kwVnRGclJiUVhJQVZ6QUhsZktXZl9obDlLWEZtSVozcWpJbVBvTlJYbThURWRST1g0eEtmdnfSAXNBVV95cUxONTAteHVSNzhkU2lkNEZxbDdQSE91a19nbFBzQnI5ODE2bTVJUmtNb1hMVm1VR2ZIdFRIQWNpMFZ0RnJSYlFYSUFWekFIbGZLV2ZfaGw5S1hGbUlaM3FqSW1Qb05SWG04VEVkUk9YNHhLZnZ3?oc=5"
+      "press": "시사저널",
+      "title": "“업자와 결탁했다면 가능했겠나”…李, 대장동 의혹 거듭 반박",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZOHpQQkgtT0FxaENhM1QxTkd5SmJhSGdqakcwcVZrWmVReDVGTVRKeUZVaTVMMmFGSDRZSktFN1Z6SmVmZTRfTTkwVlN6QnE4VHJJOUx1TF9MOGRDSlZCSjlMRjk3Y2JrY0ZKYWY4UdIBc0FVX3lxTE1wSld0dDZuNUozSHNlazg4ZHA1V2gxMzdqUy1rSUdTaEREeVVyN3hfeFN2cmlzdUFzRzFMcU1Ha3R5V2Z2SG5OMnQtTVM2emNoYU5SU09lbzZZRjlRd1VXX2d4VFVMTmtJcFlVSGh0Z2I1bjA?oc=5"
      },
      {
-      "press": "동아일보",
-      "title": "李 “순방외교는 대통령 주요업무”… 재차 ‘돼지 눈엔 돼지만’ 고사 인용하며 野에 반박",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jWmNWOWYxVkVhRkpnVC1EQlNsdXBqT2VxQmh5eWYxREFxUi1jTVBKX0sxVVdMcG5LVmVia2s2eGNsazctSk1VTXN1bzBMOWxtRThidXZiWlhPNnRQbGVrYUQzZDVZZ9IBZkFVX3lxTE5jWmNWOWYxVkVhRkpnVC1EQlNsdXBqT2VxQmh5eWYxREFxUi1jTVBKX0sxVVdMcG5LVmVia2s2eGNsazctSk1VTXN1bzBMOWxtRThidXZiWlhPNnRQbGVrYUQzZDVZZw?oc=5"
+      "press": "아주경제",
+      "title": "[아주경제 오늘의 뉴스 종합] 한국 쇼트트랙, 남자 5000ｍ 계주 금매달…신동민 2관왕 外",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kU2xmU2dPb0NKcVVQYmFMOWJOcFJJQnQyUFY3TDdoWHNBUkltampJTF93N0I1Y2VVd3p0UzR5TVVwUFBDTWFnVFNBZF92enlHZVJZaGRJZnhuQdIBWEFVX3lxTFB3SGRJeFdlVllkRFRuTVZwYWZMbzNLQkxtRDJJUGNUOXlWMVA1eFpzLXhvQ0xLOU55dXQ3Y1ZocldIUVRkR2Mxb1VjOW9UeUxneHNPOWN0VnE?oc=5"
+     },
+     {
+      "press": "더퍼블릭",
+      "title": "李대통령, 대장동 언급하며 특검 필요성 '강조'",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PVDFYY0NldWtSZzZBYXY5NmppcnJ4bnFrbGZfaGFQa2xpcFlfMnBCQUx2N3BxWG1fTmw2TVhZV3E2Snp4eG94SUowbmZ6TGpSdFhtWnFkaDdVd1hvYUtkVW1uSllkdlRKaGVN0gFvQVVfeXFMT3ZvVGFGQUdRZ3Zfa2haQ1BzSVRjMUp4c1VsTnNBMVlZdEZSazhVbi04Y3htZk4yRV9BV2owN3p2OGgtQVJRZU1QQ1JZdE9rT3NQR0ZLVkp5OHZrc2JVa1FIR1h0QVlPUkJMbkJwc1JR?oc=5"
      }
     ]
    }
   },
   {
-   "title": "평창서 지나가던 주민 공기총 맞고 사망…총 쏜 60대男 결국",
-   "source": "데일리안",
-   "url": "https://n.news.naver.com/article/119/0003158031",
-   "published_at": "2026-11-22T14:47:09+09:00",
+   "title": "\"잘 놀고 가세요\" 길 알려줬을 뿐인데…중국 학생들이 건넨 '순금' 선물",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000521948",
+   "published_at": "2026-11-23T09:26:45+09:00",
    "section_id": "102",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "A씨는 전날 오전 11시쯤 평창군 방림면의 한 비닐하우스에서 공기총 사격 연습을 하다가 근처를 지나던 60대 마을 주민 B씨를 맞혀 숨지게 한 혐의를 받는다. 두 사람은…",
-   "summary_long": "22일 평창경찰서는 68살 A씨에 대해 중과실치사 혐의로 구속영장을 신청할 예정이라고 밝혔다. A씨는 전날 오전 11시쯤 평창군 방림면의 한 비닐하우스에서 공기총 사격 연습을 하다가 근처를 지나던 60대 마을 주민 B씨를 맞혀 숨지게 한 혐의를 받는다. A씨는 당시 비닐하우스 안에 임시 과녁을 세워놓고 열린 출입문을 통해 공기총을 발사하다가 사고를 낸 것으로 파악됐다.\n\n두 사람은 일면식이 없는 사이로, 경찰은 A씨의 총포 소지 허가 취득 여부와 총기 반출 경위 등 사고 경위를 추가 조사하고 있다. 형법 제268조에 따라 업무상과실 또는 중대한 과실로 사람을 사망에 이르게 한 자는 5년 이하의 금고 또는 2000만원 이하의 벌금에 처해진다. 민간인은 총기를 소유하더라도 평상시엔 경찰관서에서 보관하다가 관할 경찰·지자체의 허가를 받아야 총기를 반출할 수 있으며, 불법 무기를 제조·판매·소지하다 적발될 경우 총포화약법에 따라 3년 이상 15년 이하의 징역형에 처해질 수 있다.",
-   "press": "데일리안",
-   "photo": "03.jpg"
+   "summary": "인천국제공항에서 서울역으로 가는 길을 몰라 헤매던 중국인 학생들에게 길을 안내해 준 시민이 뜻밖의 선물을 받았습니다. A씨는 최근 스레드를 통해 \"인천공항에서 만난 중국…",
+   "summary_long": "인천국제공항에서 서울역으로 가는 길을 몰라 헤매던 중국인 학생들에게 길을 안내해 준 시민이 뜻밖의 선물을 받았습니다. A씨는 최근 스레드를 통해 \"인천공항에서 만난 중국 학생들이 서울역 가는 길을 몰라서 안내해 줬더니 가지고 있던 굿즈를 날름 떼서 줬다\"는 내용의 글을 남겼습니다. 이어 \"한국에서 잘 놀다 갔으면 좋겠다\"며 학생들이 건넨 선물을 공개했습니다.\n\n평범한 기념품인 줄 알고 받아 집에 돌아와 확인해 보니 놀랍게도 '순금'이었다고 합니다. A씨는 \"다른 도시에 온 사람들이 공항철도 처음 타려면 쉽지 않겠다는 생각에 알려줬다\"며 \"별것 아닌데도 고마워하는 그 마음이 정말 소중하다. 좋은 세상은 함께 만드는 세상\"이라고 했습니다.",
+   "quotes": [
+    "인천공항에서 만난 중국 학생들이 서울역 가는 길을 몰라서 안내해 줬더니 가지고 있던 굿즈를 날름 떼서 줬다",
+    "별것 아닌데도 고마워하는 그 마음이 정말 소중하다. 좋은 세상은 함께 만드는 세상",
+    "다른 도시에 온 사람들이 공항철도 처음 타려면 쉽지 않겠다는 생각에 알려줬다"
+   ],
+   "press": "JTBC",
+   "photo": "03.png",
+   "quoted": {
+    "quote": "인천공항에서 만난 중국 학생들이 서울역 가는 길을 몰라서 안내해 줬더니 가지고 있던 굿즈를 날름 떼서 줬다",
+    "n": 9,
+    "verified": 0,
+    "items": [
+     {
+      "press": "YTN",
+      "title": "\"서울역 가는 길 알려줬을 뿐인데\"…순금 선물한 중국인 학생들 [지금이뉴스]",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YNnNEZERJcV9yNzFvUEpnTDNlNlJaZDRCTVNpdU1zYVk4SU9WbGwxRnRYY1pSQWUtOXF2SmtpdU8xVWJER1B6QXdncVZiUHJzejNBM1d3aTBSeVNJOTJzQ3BYbDd1MW03dTJiOXNzQ0ExWjVfcVE?oc=5"
+     },
+     {
+      "press": "미주중앙일보",
+      "title": "“길 알려줬을 뿐인데 순금을”…중국인 학생들 건넨 뜻밖의 선물",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tbVkzZUFrRWhlbVkxUUQ0elVSTGtmMVAwRWY3c2FpcTJrSEtoREN3UlpPR0ZXVkJqT3F4b3BqN0oyZk1TM0VqWGNENUxhaVp4ZkVZNVhXQ2REMVc4TEZBWlNB?oc=5"
+     },
+     {
+      "press": "한국경제",
+      "title": "서울역 가는 길 알려줬더니 순금을?…中 여학생의 깜짝 선물",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sLTV0RkxyVmxLUDRzQWhrY3FCTEN2Tmh5WHdocWlNSkJfZ3QzVXZxa1FSNWhrLTQyeU9YSjlyRFA0cUR3VTFIVDJ1NUI2XzVKSzlZbFBWV3BOZw?oc=5"
+     },
+     {
+      "press": "아이뉴스24",
+      "title": "\"공항철도 길 알려줬을 뿐인데\"…중국 학생들에 '순금 열쇠고리' 선물받은 남성",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OdjJTbjhIMk1iVG1uVHBEWG44bXptMFRweHN0RnNqM2E0UWpUTVhLOHpiWG44T3Q4VWMxa0tCYVJrdF9VOG5YazEyVQ?oc=5"
+     },
+     {
+      "press": "뉴스1",
+      "title": "인천공항서 길 알려준 한국인에 순금 선물한 중국인 학생들",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Cb1pPeWJDQjFyc1FCWDluRGR2SDVjX2xUenRjQnhMaEw2bW02d2E4eWVqcGYyZlpCb3h2NWp4LWhKYlg3ekhqbWp5bGNMMkE2WTZOdXV5X1BqTjN3TWZac213?oc=5"
+     },
+     {
+      "press": "JTBC",
+      "title": "\"잘 놀고 가세요\" 길 알려줬을 뿐인데…중국 학생들이 건넨 ‘순금’ 선물",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WeXFGZXNMMllDdFktVHhyR0ZoTHpXNDFISEI0OS11am9GbjhseFlxOEN0Q0c5bDY2LW1ha01kMTRSeWxrbmhlbE4zQXpaWnNUM1ZKcA?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "아기 살았지만 엄마는…아파트서 5개월 딸 안고 추락사",
-   "source": "SBS",
-   "url": "https://n.news.naver.com/article/055/0001404919",
-   "published_at": "2026-11-22T16:47:48+09:00",
-   "section_id": "102",
+   "title": "“승강기 교체만 수십 억원”…초고층 아파트, 애물단지로 전락? [잇슈 머니]",
+   "source": "KBS",
+   "url": "https://n.news.naver.com/article/056/0012298942",
+   "published_at": "2026-11-23T06:50:14+09:00",
+   "section_id": "101",
    "view_rank": 1,
    "selection": "경제·시사",
-   "summary": "지난 20일 오전 9시 23분쯤 창원시 한 아파트 단지에서 40대 여성 A씨와 생후 5개월 된 B양이 쓰러져 있는 것을 주민이 발견해 소방 당국에 신고했습니다. 경찰과…",
-   "summary_long": "경남 창원시의 한 아파트에서 40대 여성이 아기와 함께 떨어져 숨졌습니다. 이 여성이 안고 있던 아기는 다행히 목숨을 건졌습니다. 지난 20일 오전 9시 23분쯤 창원시 한 아파트 단지에서 40대 여성 A씨와 생후 5개월 된 B양이 쓰러져 있는 것을 주민이 발견해 소방 당국에 신고했습니다.\n\n소방 당국이 현장에 도착했을 당시 A씨는 심정지 상태였으며, B양은 머리 부위에 혹이 생긴 것을 제외하면 큰 부상 없이 울고 있었습니다. 소방 당국은 두 사람을 병원으로 옮겼으나, A씨는 결국 숨지고 B양은 생명에 지장이 없는 상태인 것으로 알려졌습니다. 경찰과 소방 당국은 A씨가 떨어지면서 아기를 보호해 B양 부상 정도가 크지 않은 것으로 보고 있습니다.",
-   "press": "SBS",
+   "summary": "세 번째 키워드 '초고층 아파트 수선비 폭탄'입니다. 초고층 아파트가 몇 년 뒤에는 수선비를 감당하기 어렵다는 이야기가 나오던데요.",
+   "summary_long": "세 번째 키워드 '초고층 아파트 수선비 폭탄'입니다. 초고층 아파트가 몇 년 뒤에는 수선비를 감당하기 어렵다는 이야기가 나오던데요. 아파트는 승강기나 외벽, 배관을 나중에 바꾸려고 관리비에 장기수선충당금을 붙여 매달 적립합니다.\n\n특징은 이런 초고층 아파트는 서울보다 오히려 지방에 더 많다는 것입니다. 전문가들이 초고층은 장기수선충당금을 일반 아파트보다 4~5배는 더 쌓아야 한다고 보는 이유입니다. 초고층 아파트를 사려는 분이라면 공동주택관리정보시스템, K-apt에서 그 단지가 장기수선충당금을 얼마나 걷고 있는지 먼저 확인해 볼 필요가 있습니다.",
+   "press": "KBS",
    "photo": "04.jpg"
   },
   {
-   "title": "민주 \"조희대 탄핵 12월 처리\"...국힘 \"이게 진짜 내란\"",
-   "source": "YTN",
-   "url": "https://n.news.naver.com/article/052/0002436444",
-   "published_at": "2026-11-22T17:04:15+09:00",
+   "title": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
+   "source": "MBC",
+   "url": "https://n.news.naver.com/article/214/0001537418",
+   "published_at": "2026-11-23T15:02:01+09:00",
    "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 406,
-   "comment_agree": 268,
-   "comment_disagree": 49,
-   "division_balance": 0.309148,
-   "division_score": 1.781328,
+   "view_rank": 5,
+   "comment_count": 559,
+   "comment_agree": 265,
+   "comment_disagree": 59,
+   "division_balance": 0.364198,
+   "division_score": 2.106455,
    "selection": "찬반 쟁점",
-   "summary": "더불어민주당이 이재명 대통령 공직선거법 사건 파기환송을 비롯해 조희대 대법원장 탄핵 사유를 구체적으로 밝히며 다음 달 처리 방침을 공식화했습니다. 탄핵 추진 계기가 된…",
-   "summary_long": "더불어민주당이 이재명 대통령 공직선거법 사건 파기환송을 비롯해 조희대 대법원장 탄핵 사유를 구체적으로 밝히며 다음 달 처리 방침을 공식화했습니다. 탄핵 추진 계기가 된 한덕수 전 총리 사건 판결은 사유에서 제외했지만, 국민의힘은 탄핵 당론부터 정하고 사유를 찾느냐며, 이게 바로 내란이라고 맞섰습니다. 민주당 조희대 대법원장 탄핵소추 추진단이 첫 기자간담회를 열고, 탄핵안에 담길 구체적인 사유를 공개했습니다.\n\n한덕수 전 총리 사건 파기환송이 탄핵 추진의 도화선이 됐다면서도, 탄핵 사유에는 넣지 않겠다고 했습니다. 애초 한덕수 전 총리 파기환송을 탄핵 사유로 검토했다가 철회한 것 역시 억지로 명분을 만든 결과라는 겁니다. 국민의힘은 이번 주에도 조 대법원장 탄핵 추진과 조작기소 특검법 강행 처리를 규탄하는 장외집회를 이어갈 계획입니다.",
-   "press": "YTN",
-   "photo": "05.jpg"
+   "summary": "청와대가 국가정보원장과 외교·통일·행정안전·문화체육부 장관 후보자를 발표했습니다. 임광현 청와대 비서실장은 오늘 국정원장 후보자에 강금실 전 법무부 장관을, 외교부 장관…",
+   "summary_long": "청와대가 국가정보원장과 외교·통일·행정안전·문화체육부 장관 후보자를 발표했습니다. 임광현 청와대 비서실장은 오늘 국정원장 후보자에 강금실 전 법무부 장관을, 외교부 장관 후보자에 임웅순 국가안보실 제2차장을 각각 지명한다고 밝혔습니다. 통일부 장관 후보자에는 홍익표 전 의원, 행정안전부 장관 후보자에는 한준호 의원, 문화체육부 장관 후보자에는 강유정 청와대 수석대변인이 지명됐습니다.\n\n임 비서실장은 강금실 국정원장 후보자에 대해 개혁적 판사 출신으로 여성 최초의 법무부 장관을 지내며 검찰개혁을 이끌었고, 외교부 여성인권대사 등을 맡아 국제무대에서도 활동한 강단 있고 합리적인 법조인이라고 소개했습니다. 임웅순 외교부 장관 후보자에 대해서는 주미대사관 공사 등을 지낸 정통 외교 관료로, 현 정부에서 국가안보실 제2차장을 맡아 국익 중심의 실용외교를 구체화했다고 평가했습니다. 홍익표 통일부 장관 후보자는 대외경제정책연구원 출신의 외교·통일 전문가로, 남북 간 긴장 완화와 신뢰 구축의 중대한 전환점에서 한반도 평화 공존의 시대를 열어갈 적임자라고 소개했습니다.",
+   "quotes": [
+    "내각과 청와대 구성원 모두가 더 신속한 실행과 분명한 성과로 국민의 기대에 반드시 부응하겠다",
+    "국민이 체감하는 변화를 만드는 것이 국민주권정부의 목표"
+   ],
+   "press": "MBC",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "국민이 체감하는 변화를 만드는 것이 국민주권정부의 목표",
+    "n": 6,
+    "verified": 0,
+    "items": [
+     {
+      "press": "의회신문",
+      "title": "이 대통령, 5개 장관급 중폭 개각 단행… 외교·안보 라인 전면 교체 및 참모진·여당 인사 전진 배치",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UZHZBOGpmYmlTWVBDZlJuaGp2aklGRUdzRGl0Z0xvRVNNQTA5V0NYYjBrUnRsbkhjNGpMdE1DeC00MEdXY2FmR3M3VlNDX1dleUNqcTZfSEhSUS1VVHJ1RDJvOE5sang3OU1B0gFrQVVfeXFMT1RkdkE4amZiaVNZUENmUm5oanZqSUZFR3NEaXRnTG9FU01BMDlXQ1hiMGtSdGxuSGM0akx0TUN4LTQwR1djYWZHczdWU0NfV2V5Q2pxNl9ISFJRLVVUcnVEMm84TmxqeDc5TUE?oc=5"
+     },
+     {
+      "press": "MBC 뉴스",
+      "title": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVai1nQWswbGZmYzlwaVkyWTRqd0dGUjY1dnJkRll1VTVQOXYtaTNrX2hOdXVUTzdTSlhYcWR5YzJmZ0J5aHlvamFWTlpKd0gyOGhaX1Q4N2ktRDhTV1RQckJCdDRnRFlMNldkNVZmZ2g3ZXAwY0V3TtIBeEFVX3lxTFBrbHNHSVI3OV9oX1ZBVjNHTmhfVkhHM1RuSk8wbHI3VFItNzhqeTVQbWdBdUJyRnBvSWNqQllLcXJGWFFoVlVyXy1RX1BmNG5fWl85Q2ZSLVBYbmdEdGRsbE55ZUFHVVpnM1ZzRlJKUmpJbU1NTGpjZA?oc=5"
+     },
+     {
+      "press": "중부일보",
+      "title": "이 대통령, 국정원장 강금실·행안부장관 한준호 지명",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wclFjOUdOTW1CZ2ZaQjJxLVRLWW1nbnNwX3FJWVRad0FuNXpxSmxzLVBZSVZHU2J5elJJZ0hMVEh1X3VLd0t6YVdJVkR1Z0VjVkZhM2ExUFp4NW9nWDY1VHBGV3dzV1N4eFZxaWtIcw?oc=5"
+     },
+     {
+      "press": "공공뉴스",
+      "title": "5개 부처·기관 수장 바꾼 李대통령",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TRzM3WlNXR2ZHWTFOQWtGajJ2Y1NUVktucEpGazVScm1GRTZDTzhvQ21FalptOExRcjdTb2s3anFzSld1aENtUnZDazVWd0JRMTRRNVZaYU52OE1FdV9sT0FNZkw4UWJwNEHSAW5BVV95cUxQRzZiU05wdE0ycTJNeUZRNWZyNkdVb2hjempyOWswcW81OWJydzZudmJCM1ItbFk1SE9ZN0dVa0tEbEZVX0hnVU02bGllZURTWEFUelNJZ3FZeVB2LTE1WFNnSTAyalBkY09YMDk4dw?oc=5"
+     },
+     {
+      "press": "뉴뉴스",
+      "title": "이재명 대통령, 국정 쇄신 위한 5개 부처 장관급 인사 단행",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HN1p0WnIxdzRqTVBtbnZwVDNGa0V0M215VmxSY2lQaUs0YnUyT0hJVzZ1QVBFSVRvQkVPUlNEVXhNdDJDYWtSM3YwQkZGX2t1QUNSN05BbW85QkFRVlhMRTBkZWgzQQ?oc=5"
+     },
+     {
+      "press": "넥스트데일리",
+      "title": "이재명 대통령, 국정원장 강금실·외교부 장관 임웅순 등 5개 부처 개각",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05bHVSMWFXejZXR21ROGRVcnVsdUJ1Ym1IYjNaZDRxcE1PUVQ3NkxZMHNFTlAyMjVweHc3V1MzYjNzN3NfWEhXQnVCVkxidDI2bWtVZmU0Yk9URjJ4SnpfZHVyTVduYmxBbGM3VlptQdIBc0FVX3lxTE9yZlAzTW9QZERCM1Z0eGNLcDRzaGtpLVNQR2RrN1p6aFpWVkVRVFdsdURIVnFJWHR1blVFWjFFdWIxcTQ2YkthWjB2YjU5V1NMQXNDWTk5cnJiWFZfNm5DLUQ5X19WdUQtclpxTnl4Y2tOS2s?oc=5"
+     }
+    ]
+   }
   },
   {
-   "title": "민주 \"연내 조희대 탄핵 추진‥한덕수 판결 내용은 사유에 미포함\"",
-   "source": "MBC",
-   "url": "https://n.news.naver.com/article/214/0001537194",
-   "published_at": "2026-11-22T10:41:30+09:00",
+   "title": "한동훈 \"조작 제명이자 기획 숙청, 원천 무효화하고 장동혁 책임져야\"",
+   "source": "SBS",
+   "url": "https://n.news.naver.com/article/055/0001405180",
+   "published_at": "2026-11-23T18:44:51+09:00",
    "section_id": "100",
    "view_rank": 4,
-   "comment_count": 476,
-   "comment_agree": 149,
-   "comment_disagree": 24,
-   "division_balance": 0.277457,
-   "division_score": 1.431414,
+   "comment_count": 258,
+   "comment_agree": 246,
+   "comment_disagree": 50,
+   "division_balance": 0.337838,
+   "division_score": 1.923558,
    "selection": "찬반 쟁점",
    "prep_error": "The read operation timed out"
   },
   {
-   "title": "조갑제 \"국힘, 장동혁 제명 못해 다음 총선서 또 당할듯\"",
-   "source": "TV조선",
-   "url": "https://n.news.naver.com/article/448/0000652566",
-   "published_at": "2026-11-22T09:46:26+09:00",
+   "title": "최민희 \"비공개 간담회 유출자 ID '조추털래유아웃'…성향 드러나\"[영상]",
+   "source": "노컷뉴스",
+   "url": "https://n.news.naver.com/article/079/0004212799",
+   "published_at": "2026-11-23T14:41:08+09:00",
    "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 714,
-   "comment_agree": 206,
-   "comment_disagree": 29,
-   "division_balance": 0.246809,
-   "division_score": 1.34852,
+   "view_rank": 5,
+   "comment_count": 130,
+   "comment_agree": 130,
+   "comment_disagree": 24,
+   "division_balance": 0.311688,
+   "division_score": 1.571977,
    "selection": "찬반 쟁점",
-   "summary": "조 대표는 21일 페이스북에 “트럼프가 시진핑에게 저자세를 보이고 살인자 푸틴을 친구라고 부르며 영웅적으로 러시아와 싸우는 젤렌스키를 괴롭히고 한미연합 훈련을 중단시켜도…",
-   "summary_long": "유튜브 캡처보수논객 조갑제 조갑제닷컴 대표가 “미국 공화당과 국민의힘의 공통점은 부정선거팔이사기단에 의하여 영혼이 장악되어 있다는 사실”이라고 말했다. 조 대표는 21일 페이스북에 “트럼프가 시진핑에게 저자세를 보이고 살인자 푸틴을 친구라고 부르며 영웅적으로 러시아와 싸우는 젤렌스키를 괴롭히고 한미연합 훈련을 중단시켜도, 또 지난 중간선거에서 미국 유권자의 외면을 받아도 일편단심 트럼프에게 충성하는 세력이 있다\"고 했다. 조 대표는 “이 그룹에 속하는 한 변호사는 트럼프의 공화당이 이번 중간선거에서 진 것은 부정선거 때문이라고 열심히 주장한다”고 했다.\n\n또 “애국심도 자존심도 없는 이 그룹은 증오심과 열등감으로 자신부터 망치는데 장동혁 열성 지지자들이기도 하다”라고 했다. 이어 “부정선거팔이들 때문에 국힘은 작년 대선과 올해 지방선거에서 대패했고 장동혁을 제명하지 못한 것으로 미뤄 28총선에서 또 당할 가능성이 높다”라고 주장했다. 조 대표는 “음모론은 공산주의와 같은 일종의 정신질환인데 인간존재의 총체적 파괴자란 점에서 악령이다.",
-   "quotes": [
-    "트럼프가 시진핑에게 저자세를 보이고 살인자 푸틴을 친구라고 부르며 영웅적으로 러시아와 싸우는 젤렌스키를 괴롭히고 한미연합 훈련을 중단시켜도, 또 지난 중간선거에서 미국 유권자의 외면을 받아도 일편단심 트럼프에게 충성하는 세력이 있다",
-    "부정선거팔이들 때문에 국힘은 작년 대선과 올해 지방선거에서 대패했고 장동혁을 제명하지 못한 것으로 미뤄 28총선에서 또 당할 가능성이 높다",
-    "음모론은 공산주의와 같은 일종의 정신질환인데 인간존재의 총체적 파괴자란 점에서 악령이다. 상종을 안하든지 철저하게 파멸시켜야 한다"
-   ],
-   "press": "TV조선",
-   "photo": "07.jpg",
-   "quoted": {
-    "quote": "트럼프가 시진핑에게 저자세를 보이고 살인자 푸틴을 친구라고 부르며 영웅적으로 러시아와 싸우는 젤렌스키를 괴롭히고 한미연합 훈련을 중단시켜도, 또 지난 중간선거에서 미국 유권자의 외면을 받아도 일편단심 트럼프에게 충성하는 세력이 있다",
-    "n": 5,
-    "verified": 0,
-    "items": [
-     {
-      "press": "주간경향",
-      "title": "조갑제 “국힘, 장동혁 제명 못해 28년 총선서 또 당할 것”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jc3g5X3Y2RVZUdUNjMnJBdTRtVV9UeTBWdXdkbVpmcjRoV001ZXI2dy1hMWN1UHVKeVAxTDVjWndvcEZoTV9jU3c0alR5ZnhKNkdNeGx6cklCaDVHcEE?oc=5"
-     },
-     {
-      "press": "경기일보",
-      "title": "조갑제 \"韓 부정선거팔이 교주는 트럼프…장동혁 제명 못하면 총선도 위험\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xeGhrbllUMjFMemdPV1RFRlItaHJKRFJ6MnpLLWtPVWVqYTNEQVVMb2hvN0FocTZabXI5RkhCQjNFMXVOWnZEblZCTHNIMzdIc09iSlFSVmR6SzQ?oc=5"
-     },
-     {
-      "press": "www.dt.co.kr",
-      "title": "조갑제, “국힘, 장동혁 제명 못해 차기 총선서 또 당할 것”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xR3Y3YlAxcmpGYWZ0MXJtLVFnTk53ZlpMSVREbDI0UlF0eGE0Wmo2YTJPWURRR3ZLU283WDNseWx5SUk0MEJPLVNibUpTQQ?oc=5"
-     },
-     {
-      "press": "문화일보",
-      "title": "“장동혁 제명 못한 국힘, ‘2028 총선’서 또 당할 것”…조갑제 직격",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YTXc3VzJtTHloT0REUm9zOE9HbU5EdzRRdzRqRHFUVGp4X2E0di1Ea0FnYkROdmlBN2dGTHJLZWlNNDMzNWlmRmZqcllBdE1u?oc=5"
-     },
-     {
-      "press": "프레시안",
-      "title": "조갑제 \"장동혁 제명 못해서 28총선에서 또 당할 가능성 높다\"",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VZ1NUM1NaNkR5YzJFQzFlYzcwRzM3cHNweklrM21ZMWg1M2FqNjBZQzloTWFOajRXcVg4MkkwSnI1T2l3MG9pN3BfWTB2NzNHQ3IyY2xSS3Rmb3l5MTdfczdacWM2RU1pTEZzNkt2ZlQ1ZlZOOXZKTFNUd2VIVXc?oc=5"
-     }
-    ]
-   }
+   "prep_error": "The read operation timed out"
   }
  ],
  "cards": [
@@ -237,139 +270,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/01.png",
-   "pngBytes": 2067781,
-   "feed": "오늘의 뉴스 2026-11-23\n\n· 이 대통령 “시험 중 문제지 촬영·전송 막을 법적 근거 정비…끝까지 책임”\n· 이 대통령 \"치아 흔들리고 코피 터져\"... '순방 잦다' 비판에 \"돼지 눈에 돼지만\" 반박\n· 평창서 지나가던 주민 공기총 맞고 사망…총 쏜 60대男 결국\n· 아기 살았지만 엄마는…아파트서 5개월 딸 안고 추락사\n· 민주 \"조희대 탄핵 12월 처리\"...국힘 \"이게 진짜 내란\"\n· 민주 \"연내 조희대 탄핵 추진‥한덕수 판결 내용은 사유에 미포함\"\n· 조갑제 \"국힘, 장동혁 제명 못해 다음 총선서 또 당할듯\""
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/01.png",
+   "pngBytes": 1012067,
+   "feed": "오늘의 뉴스 2026-11-24\n\n· \"한동훈 국힘 제명 발표, 尹 사형 구형 맞춰 기획\" 폭로\n· 방어권 행사일까, 수사 개입일까…특검 앞 李 '대장동 반박' 후폭풍\n· \"잘 놀고 가세요\" 길 알려줬을 뿐인데…중국 학생들이 건넨 '순금' 선물\n· “승강기 교체만 수십 억원”…초고층 아파트, 애물단지로 전락? [잇슈 머니]\n· 국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각\n· 한동훈 \"조작 제명이자 기획 숙청, 원천 무효화하고 장동혁 책임져야\"\n· 최민희 \"비공개 간담회 유출자 ID '조추털래유아웃'…성향 드러나\"[영상]"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/02.png",
-   "pngBytes": 2069318,
-   "title": "이 대통령 “시험 중 문제지 촬영·전송 막을 법적 근거 정비…끝까지 책임”",
-   "summary": "이재명 대통령은 인공지능 기술을 악용한 시험 부정행위 근절을 위해 시험 중 문제지 촬영과 유출 등을 막을 법적 근거를 마련하겠다고 밝혔습니다. 이 대통령은 먼저, “시험…",
-   "summary_long": "이재명 대통령은 인공지능(AI) 기술을 악용한 시험 부정행위 근절을 위해 시험 중 문제지 촬영과 유출 등을 막을 법적 근거를 마련하겠다고 밝혔습니다. 이 대통령은 오늘(22일) SNS에 “AI 기술을 악용한 부정행위에 대한 우려가 수능을 넘어 논술과 내신 시험으로까지 확산되고 있다”며 이같이 적었습니다. 이 대통령은 먼저, “시험 중 문제지 촬영과 외부 전송을 기술적으로 막기 위한 법적 근거를 전면적으로 정비하도록 지시하겠다”고 밝혔습니다.\n\n이와 함께 “정비된 법적 근거를 시험지에 명시하고, 문제지에 고유 식별 표식을 넣어 촬영·유출 시 출처를 확인할 수 있는 방안도 검토하라고 지시하겠다”고 했습니다. 이 대통령은 “시험의 공정성은 결코 타협할 수 없는 원칙”이라며, “지금 할 수 있는 조치부터 신속히 시행하고, 부족한 부분은 계속 보완해 나가겠다”고 밝혔습니다. 이어 “부정행위에 대해서는 끝까지 책임을 묻겠다”며 “기술이 아무리 발전해도 공정의 원칙까지 흔들려서는 안 된다, 시험의 공정성을 지키기 위해 필요한 조치를 끝까지 챙기겠다”고 강조했습니다.",
-   "press": "KBS",
-   "source": "KBS",
-   "link": "https://n.news.naver.com/article/056/0012298766",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/02.png",
+   "pngBytes": 1065215,
+   "title": "\"한동훈 국힘 제명 발표, 尹 사형 구형 맞춰 기획\" 폭로",
+   "summary": "국민의힘 전·현직 윤리위원이 23일 한동훈 무소속 의원의 제명 발표가 윤석열 전 대통령의 사형 구형일에 맞춰 기획됐다고 폭로했다. 자료에 따르면 최 전 교수는 지난해…",
+   "summary_long": "국민의힘 전·현직 윤리위원이 23일 한동훈 무소속 의원의 제명 발표가 윤석열 전 대통령의 사형 구형일에 맞춰 기획됐다고 폭로했다. 자료에 따르면 최 전 교수는 지난해 12월31일 오찬에서 장 대표에게 '장동혁 당대표 체제강화 스케줄'이라는 명목으로 한 의원, 김종혁 전 최고위원에 대한 징계를 심의할 윤리위를 가동할 것을 제안했다. 이 기획안에는 한 의원을 제명하는 시점으로 내란 우두머리 혐의로 기소된 윤 전 대통령의 결심공판일에 '검찰 구형이 이뤄진 직후'가 명시됐다.\n\n이후 1월13일 오후 9시30분을 넘겨 검찰이 윤 전 대통령에 대해 사형을 구형하자 장 대표는 텔레그램으로 최 전 교수에게 해당 기사 링크를 전송했다. 이어 \"결국 한동훈 심의 6시간은 가짜고 30분이 진짜\"라면서 \"한동훈의 '당게 사건'에 대해 윤리위는 당무감사위원회에서 제공한 자료를 당무감사실이 설명해 주는 것을 듣고 제명을 결정하였을 뿐 진상을 조사하거나 진위를 파악한 적이 없다\"고 주장했다. 이들은 지도부가 윤 전 대통령에 대한 구형과 한 의원 제명 시점을 맞춘 이유에 대해 \"계엄령 사건의 실질적인 첫 구형이고 사형이 예상돼 모든 지지자 초미의 관심사인 바, 한동훈을 제물로 바쳐 '윤어게인' 강성 지지층의 지지를 얻기 위한 한동훈 십자가 처형 전략이었다\"고 말했다.",
+   "press": "시사저널",
+   "source": "시사저널",
+   "link": "https://n.news.naver.com/article/586/0000142872",
    "selection": "정치",
-   "feed": "뉴스 01. 이 대통령 “시험 중 문제지 촬영·전송 막을 법적 근거 정비…끝까지 책임”\n\n이재명 대통령은 인공지능(AI) 기술을 악용한 시험 부정행위 근절을 위해 시험 중 문제지 촬영과 유출 등을 막을 법적 근거를 마련하겠다고 밝혔습니다. 이 대통령은 오늘(22일) SNS에 “AI 기술을 악용한 부정행위에 대한 우려가 수능을 넘어 논술과 내신 시험으로까지 확산되고 있다”며 이같이 적었습니다. 이 대통령은 먼저, “시험 중 문제지 촬영과 외부 전송을 기술적으로 막기 위한 법적 근거를 전면적으로 정비하도록 지시하겠다”고 밝혔습니다.\n\n이와 함께 “정비된 법적 근거를 시험지에 명시하고, 문제지에 고유 식별 표식을 넣어 촬영·유출 시 출처를 확인할 수 있는 방안도 검토하라고 지시하겠다”고 했습니다. 이 대통령은 “시험의 공정성은 결코 타협할 수 없는 원칙”이라며, “지금 할 수 있는 조치부터 신속히 시행하고, 부족한 부분은 계속 보완해 나가겠다”고 밝혔습니다. 이어 “부정행위에 대해서는 끝까지 책임을 묻겠다”며 “기술이 아무리 발전해도 공정의 원칙까지 흔들려서는 안 된다, 시험의 공정성을 지키기 위해 필요한 조치를 끝까지 챙기겠다”고 강조했습니다.\n\n출처: KBS / https://n.news.naver.com/article/056/0012298766"
+   "feed": "뉴스 01. \"한동훈 국힘 제명 발표, 尹 사형 구형 맞춰 기획\" 폭로\n\n국민의힘 전·현직 윤리위원이 23일 한동훈 무소속 의원의 제명 발표가 윤석열 전 대통령의 사형 구형일에 맞춰 기획됐다고 폭로했다. 자료에 따르면 최 전 교수는 지난해 12월31일 오찬에서 장 대표에게 '장동혁 당대표 체제강화 스케줄'이라는 명목으로 한 의원, 김종혁 전 최고위원에 대한 징계를 심의할 윤리위를 가동할 것을 제안했다. 이 기획안에는 한 의원을 제명하는 시점으로 내란 우두머리 혐의로 기소된 윤 전 대통령의 결심공판일에 '검찰 구형이 이뤄진 직후'가 명시됐다.\n\n이후 1월13일 오후 9시30분을 넘겨 검찰이 윤 전 대통령에 대해 사형을 구형하자 장 대표는 텔레그램으로 최 전 교수에게 해당 기사 링크를 전송했다. 이어 \"결국 한동훈 심의 6시간은 가짜고 30분이 진짜\"라면서 \"한동훈의 '당게 사건'에 대해 윤리위는 당무감사위원회에서 제공한 자료를 당무감사실이 설명해 주는 것을 듣고 제명을 결정하였을 뿐 진상을 조사하거나 진위를 파악한 적이 없다\"고 주장했다. 이들은 지도부가 윤 전 대통령에 대한 구형과 한 의원 제명 시점을 맞춘 이유에 대해 \"계엄령 사건의 실질적인 첫 구형이고 사형이 예상돼 모든 지지자 초미의 관심사인 바, 한동훈을 제물로 바쳐 '윤어게인' 강성 지지층의 지지를 얻기 위한 한동훈 십자가 처형 전략이었다\"고 말했다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000142872"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/03.png",
-   "pngBytes": 1393314,
-   "title": "이 대통령 \"치아 흔들리고 코피 터져\"... '순방 잦다' 비판에 \"돼지 눈에 돼지만\" 반박",
-   "summary": "이재명 대통령이 22일 해외 순방이 잦다고 비판하는 야당을 향해 \"무역에 의존하는 개방형 통상국가에서 순방외교는 빠질 수 없는 대통령의 주요 업무\"라고 반박했다. \"선조…",
-   "summary_long": "이재명 대통령이 22일 해외 순방이 잦다고 비판하는 야당을 향해 \"무역에 의존하는 개방형 통상국가에서 순방외교는 빠질 수 없는 대통령의 주요 업무\"라고 반박했다. 이 대통령은 이날 엑스(X·옛 트위터)에 성기홍 청와대 홍보소통수석의 게시글을 공유하며 이같이 적었다. 성 수석은 게시글에서 \"최근 국정감사에서 야당은 '이재명 대통령이 벌써 14차례 23개국이나 순방했다.\n\n\"선조 때는 조선 천하 파괴, 정조 때는 조선 부흥\" 이 대통령은 순방을 두고 \"장시간 비행에 숨 쉴 틈 없는 빼곡한 일정으로 몸살에 치아가 흔들리고 코피까지 자주 터지는 힘든 일\"이라면서도 \"국가 이미지 개선과 관계 개선, 수출시장 확대 등 성과가 큰 임기 초 순방은 꼭 해야 할 국정과제\"라고 거듭 강조했다. 이 대통령은 \"똑같은 조선인데 선조 때는 수백만 백성이 목숨을 잃고 조선 천하가 다 파괴되었지만, 정조 때는 동아시아 최고의 부흥하는 조선이었다\"며 조선시대 왕을 비유 대상으로 삼기도 했다.",
-   "press": "한국일보",
-   "source": "한국일보",
-   "link": "https://n.news.naver.com/article/469/0000967070",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/03.png",
+   "pngBytes": 1492404,
+   "title": "방어권 행사일까, 수사 개입일까…특검 앞 李 '대장동 반박' 후폭풍",
+   "summary": "'조작기소 특검' 출범을 앞두고 이재명 대통령이 자신의 대장동 사건에 직접 목소리를 높이면서 수사의 독립성과 공정성을 둘러싼 논란이 불거지고 있다. 이 대통령은 자신의…",
+   "summary_long": "'조작기소 특검' 출범을 앞두고 이재명 대통령이 자신의 대장동 사건에 직접 목소리를 높이면서 수사의 독립성과 공정성을 둘러싼 논란이 불거지고 있다. 이 대통령은 자신의 사건에 대한 수사·기소 과정까지 조사 대상에 포함한 특검법을 재가한 데 이어, 이틀 간격으로 SNS(소셜미디어)를 통해 대장동 배임 의혹을 반박했다. 검찰의 배임 혐의 적용에 의문을 제기한 것인데, 국민의힘은 대통령의 잇따른 공개 발언을 \"사실상의 수사 가이드라인\"이라고 규정하며 강하게 반발하고 있다.\n\n이 대통령은 22일 자신의 엑스(X·옛 트위터)에 대장동 사건으로 재판받은 정민용 변호사의 인터뷰 등을 소개한 게시물을 공유하며 \"업자와 결탁한 시장이라면 할 수 있는 행동이 아니다\"라고 밝혔다. 수사 대상에는 대장동·위례·백현동 개발 의혹 등 이 대통령과 관련된 사건들도 포함됐다. 박성훈 국민의힘 수석대변인은 21일 논평에서 이 대통령이 대장동 사건 관련 영상을 공유한 것을 두고 \"노골적인 여론전과 사실상의 '수사 가이드라인' 하달에 나섰다\"고 주장했다.",
+   "press": "시사저널",
+   "source": "시사저널",
+   "link": "https://n.news.naver.com/article/586/0000142808",
    "selection": "정치",
-   "feed": "뉴스 02. 이 대통령 \"치아 흔들리고 코피 터져\"... '순방 잦다' 비판에 \"돼지 눈에 돼지만\" 반박\n\n이재명 대통령이 22일 해외 순방이 잦다고 비판하는 야당을 향해 \"무역에 의존하는 개방형 통상국가에서 순방외교는 빠질 수 없는 대통령의 주요 업무\"라고 반박했다. 이 대통령은 이날 엑스(X·옛 트위터)에 성기홍 청와대 홍보소통수석의 게시글을 공유하며 이같이 적었다. 성 수석은 게시글에서 \"최근 국정감사에서 야당은 '이재명 대통령이 벌써 14차례 23개국이나 순방했다.\n\n\"선조 때는 조선 천하 파괴, 정조 때는 조선 부흥\" 이 대통령은 순방을 두고 \"장시간 비행에 숨 쉴 틈 없는 빼곡한 일정으로 몸살에 치아가 흔들리고 코피까지 자주 터지는 힘든 일\"이라면서도 \"국가 이미지 개선과 관계 개선, 수출시장 확대 등 성과가 큰 임기 초 순방은 꼭 해야 할 국정과제\"라고 거듭 강조했다. 이 대통령은 \"똑같은 조선인데 선조 때는 수백만 백성이 목숨을 잃고 조선 천하가 다 파괴되었지만, 정조 때는 동아시아 최고의 부흥하는 조선이었다\"며 조선시대 왕을 비유 대상으로 삼기도 했다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000967070"
+   "feed": "뉴스 02. 방어권 행사일까, 수사 개입일까…특검 앞 李 '대장동 반박' 후폭풍\n\n'조작기소 특검' 출범을 앞두고 이재명 대통령이 자신의 대장동 사건에 직접 목소리를 높이면서 수사의 독립성과 공정성을 둘러싼 논란이 불거지고 있다. 이 대통령은 자신의 사건에 대한 수사·기소 과정까지 조사 대상에 포함한 특검법을 재가한 데 이어, 이틀 간격으로 SNS(소셜미디어)를 통해 대장동 배임 의혹을 반박했다. 검찰의 배임 혐의 적용에 의문을 제기한 것인데, 국민의힘은 대통령의 잇따른 공개 발언을 \"사실상의 수사 가이드라인\"이라고 규정하며 강하게 반발하고 있다.\n\n이 대통령은 22일 자신의 엑스(X·옛 트위터)에 대장동 사건으로 재판받은 정민용 변호사의 인터뷰 등을 소개한 게시물을 공유하며 \"업자와 결탁한 시장이라면 할 수 있는 행동이 아니다\"라고 밝혔다. 수사 대상에는 대장동·위례·백현동 개발 의혹 등 이 대통령과 관련된 사건들도 포함됐다. 박성훈 국민의힘 수석대변인은 21일 논평에서 이 대통령이 대장동 사건 관련 영상을 공유한 것을 두고 \"노골적인 여론전과 사실상의 '수사 가이드라인' 하달에 나섰다\"고 주장했다.\n\n출처: 시사저널 / https://n.news.naver.com/article/586/0000142808"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/04.png",
-   "pngBytes": 1324093,
-   "title": "평창서 지나가던 주민 공기총 맞고 사망…총 쏜 60대男 결국",
-   "summary": "A씨는 전날 오전 11시쯤 평창군 방림면의 한 비닐하우스에서 공기총 사격 연습을 하다가 근처를 지나던 60대 마을 주민 B씨를 맞혀 숨지게 한 혐의를 받는다. 두 사람은…",
-   "summary_long": "22일 평창경찰서는 68살 A씨에 대해 중과실치사 혐의로 구속영장을 신청할 예정이라고 밝혔다. A씨는 전날 오전 11시쯤 평창군 방림면의 한 비닐하우스에서 공기총 사격 연습을 하다가 근처를 지나던 60대 마을 주민 B씨를 맞혀 숨지게 한 혐의를 받는다. A씨는 당시 비닐하우스 안에 임시 과녁을 세워놓고 열린 출입문을 통해 공기총을 발사하다가 사고를 낸 것으로 파악됐다.\n\n두 사람은 일면식이 없는 사이로, 경찰은 A씨의 총포 소지 허가 취득 여부와 총기 반출 경위 등 사고 경위를 추가 조사하고 있다. 형법 제268조에 따라 업무상과실 또는 중대한 과실로 사람을 사망에 이르게 한 자는 5년 이하의 금고 또는 2000만원 이하의 벌금에 처해진다. 민간인은 총기를 소유하더라도 평상시엔 경찰관서에서 보관하다가 관할 경찰·지자체의 허가를 받아야 총기를 반출할 수 있으며, 불법 무기를 제조·판매·소지하다 적발될 경우 총포화약법에 따라 3년 이상 15년 이하의 징역형에 처해질 수 있다.",
-   "press": "데일리안",
-   "source": "데일리안",
-   "link": "https://n.news.naver.com/article/119/0003158031",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/04.png",
+   "pngBytes": 2104649,
+   "title": "\"잘 놀고 가세요\" 길 알려줬을 뿐인데…중국 학생들이 건넨 '순금' 선물",
+   "summary": "인천국제공항에서 서울역으로 가는 길을 몰라 헤매던 중국인 학생들에게 길을 안내해 준 시민이 뜻밖의 선물을 받았습니다. A씨는 최근 스레드를 통해 \"인천공항에서 만난 중국…",
+   "summary_long": "인천국제공항에서 서울역으로 가는 길을 몰라 헤매던 중국인 학생들에게 길을 안내해 준 시민이 뜻밖의 선물을 받았습니다. A씨는 최근 스레드를 통해 \"인천공항에서 만난 중국 학생들이 서울역 가는 길을 몰라서 안내해 줬더니 가지고 있던 굿즈를 날름 떼서 줬다\"는 내용의 글을 남겼습니다. 이어 \"한국에서 잘 놀다 갔으면 좋겠다\"며 학생들이 건넨 선물을 공개했습니다.\n\n평범한 기념품인 줄 알고 받아 집에 돌아와 확인해 보니 놀랍게도 '순금'이었다고 합니다. A씨는 \"다른 도시에 온 사람들이 공항철도 처음 타려면 쉽지 않겠다는 생각에 알려줬다\"며 \"별것 아닌데도 고마워하는 그 마음이 정말 소중하다. 좋은 세상은 함께 만드는 세상\"이라고 했습니다.",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000521948",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 평창서 지나가던 주민 공기총 맞고 사망…총 쏜 60대男 결국\n\n22일 평창경찰서는 68살 A씨에 대해 중과실치사 혐의로 구속영장을 신청할 예정이라고 밝혔다. A씨는 전날 오전 11시쯤 평창군 방림면의 한 비닐하우스에서 공기총 사격 연습을 하다가 근처를 지나던 60대 마을 주민 B씨를 맞혀 숨지게 한 혐의를 받는다. A씨는 당시 비닐하우스 안에 임시 과녁을 세워놓고 열린 출입문을 통해 공기총을 발사하다가 사고를 낸 것으로 파악됐다.\n\n두 사람은 일면식이 없는 사이로, 경찰은 A씨의 총포 소지 허가 취득 여부와 총기 반출 경위 등 사고 경위를 추가 조사하고 있다. 형법 제268조에 따라 업무상과실 또는 중대한 과실로 사람을 사망에 이르게 한 자는 5년 이하의 금고 또는 2000만원 이하의 벌금에 처해진다. 민간인은 총기를 소유하더라도 평상시엔 경찰관서에서 보관하다가 관할 경찰·지자체의 허가를 받아야 총기를 반출할 수 있으며, 불법 무기를 제조·판매·소지하다 적발될 경우 총포화약법에 따라 3년 이상 15년 이하의 징역형에 처해질 수 있다.\n\n출처: 데일리안 / https://n.news.naver.com/article/119/0003158031"
+   "feed": "뉴스 03. \"잘 놀고 가세요\" 길 알려줬을 뿐인데…중국 학생들이 건넨 '순금' 선물\n\n인천국제공항에서 서울역으로 가는 길을 몰라 헤매던 중국인 학생들에게 길을 안내해 준 시민이 뜻밖의 선물을 받았습니다. A씨는 최근 스레드를 통해 \"인천공항에서 만난 중국 학생들이 서울역 가는 길을 몰라서 안내해 줬더니 가지고 있던 굿즈를 날름 떼서 줬다\"는 내용의 글을 남겼습니다. 이어 \"한국에서 잘 놀다 갔으면 좋겠다\"며 학생들이 건넨 선물을 공개했습니다.\n\n평범한 기념품인 줄 알고 받아 집에 돌아와 확인해 보니 놀랍게도 '순금'이었다고 합니다. A씨는 \"다른 도시에 온 사람들이 공항철도 처음 타려면 쉽지 않겠다는 생각에 알려줬다\"며 \"별것 아닌데도 고마워하는 그 마음이 정말 소중하다. 좋은 세상은 함께 만드는 세상\"이라고 했습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000521948"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/05.png",
-   "pngBytes": 2008754,
-   "title": "아기 살았지만 엄마는…아파트서 5개월 딸 안고 추락사",
-   "summary": "지난 20일 오전 9시 23분쯤 창원시 한 아파트 단지에서 40대 여성 A씨와 생후 5개월 된 B양이 쓰러져 있는 것을 주민이 발견해 소방 당국에 신고했습니다. 경찰과…",
-   "summary_long": "경남 창원시의 한 아파트에서 40대 여성이 아기와 함께 떨어져 숨졌습니다. 이 여성이 안고 있던 아기는 다행히 목숨을 건졌습니다. 지난 20일 오전 9시 23분쯤 창원시 한 아파트 단지에서 40대 여성 A씨와 생후 5개월 된 B양이 쓰러져 있는 것을 주민이 발견해 소방 당국에 신고했습니다.\n\n소방 당국이 현장에 도착했을 당시 A씨는 심정지 상태였으며, B양은 머리 부위에 혹이 생긴 것을 제외하면 큰 부상 없이 울고 있었습니다. 소방 당국은 두 사람을 병원으로 옮겼으나, A씨는 결국 숨지고 B양은 생명에 지장이 없는 상태인 것으로 알려졌습니다. 경찰과 소방 당국은 A씨가 떨어지면서 아기를 보호해 B양 부상 정도가 크지 않은 것으로 보고 있습니다.",
-   "press": "SBS",
-   "source": "SBS",
-   "link": "https://n.news.naver.com/article/055/0001404919",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/05.png",
+   "pngBytes": 1758889,
+   "title": "“승강기 교체만 수십 억원”…초고층 아파트, 애물단지로 전락? [잇슈 머니]",
+   "summary": "세 번째 키워드 '초고층 아파트 수선비 폭탄'입니다. 초고층 아파트가 몇 년 뒤에는 수선비를 감당하기 어렵다는 이야기가 나오던데요.",
+   "summary_long": "세 번째 키워드 '초고층 아파트 수선비 폭탄'입니다. 초고층 아파트가 몇 년 뒤에는 수선비를 감당하기 어렵다는 이야기가 나오던데요. 아파트는 승강기나 외벽, 배관을 나중에 바꾸려고 관리비에 장기수선충당금을 붙여 매달 적립합니다.\n\n특징은 이런 초고층 아파트는 서울보다 오히려 지방에 더 많다는 것입니다. 전문가들이 초고층은 장기수선충당금을 일반 아파트보다 4~5배는 더 쌓아야 한다고 보는 이유입니다. 초고층 아파트를 사려는 분이라면 공동주택관리정보시스템, K-apt에서 그 단지가 장기수선충당금을 얼마나 걷고 있는지 먼저 확인해 볼 필요가 있습니다.",
+   "press": "KBS",
+   "source": "KBS",
+   "link": "https://n.news.naver.com/article/056/0012298942",
    "selection": "경제·시사",
-   "feed": "뉴스 04. 아기 살았지만 엄마는…아파트서 5개월 딸 안고 추락사\n\n경남 창원시의 한 아파트에서 40대 여성이 아기와 함께 떨어져 숨졌습니다. 이 여성이 안고 있던 아기는 다행히 목숨을 건졌습니다. 지난 20일 오전 9시 23분쯤 창원시 한 아파트 단지에서 40대 여성 A씨와 생후 5개월 된 B양이 쓰러져 있는 것을 주민이 발견해 소방 당국에 신고했습니다.\n\n소방 당국이 현장에 도착했을 당시 A씨는 심정지 상태였으며, B양은 머리 부위에 혹이 생긴 것을 제외하면 큰 부상 없이 울고 있었습니다. 소방 당국은 두 사람을 병원으로 옮겼으나, A씨는 결국 숨지고 B양은 생명에 지장이 없는 상태인 것으로 알려졌습니다. 경찰과 소방 당국은 A씨가 떨어지면서 아기를 보호해 B양 부상 정도가 크지 않은 것으로 보고 있습니다.\n\n출처: SBS / https://n.news.naver.com/article/055/0001404919"
+   "feed": "뉴스 04. “승강기 교체만 수십 억원”…초고층 아파트, 애물단지로 전락? [잇슈 머니]\n\n세 번째 키워드 '초고층 아파트 수선비 폭탄'입니다. 초고층 아파트가 몇 년 뒤에는 수선비를 감당하기 어렵다는 이야기가 나오던데요. 아파트는 승강기나 외벽, 배관을 나중에 바꾸려고 관리비에 장기수선충당금을 붙여 매달 적립합니다.\n\n특징은 이런 초고층 아파트는 서울보다 오히려 지방에 더 많다는 것입니다. 전문가들이 초고층은 장기수선충당금을 일반 아파트보다 4~5배는 더 쌓아야 한다고 보는 이유입니다. 초고층 아파트를 사려는 분이라면 공동주택관리정보시스템, K-apt에서 그 단지가 장기수선충당금을 얼마나 걷고 있는지 먼저 확인해 볼 필요가 있습니다.\n\n출처: KBS / https://n.news.naver.com/article/056/0012298942"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/06.png",
-   "pngBytes": 1157851,
-   "title": "민주 \"조희대 탄핵 12월 처리\"...국힘 \"이게 진짜 내란\"",
-   "summary": "더불어민주당이 이재명 대통령 공직선거법 사건 파기환송을 비롯해 조희대 대법원장 탄핵 사유를 구체적으로 밝히며 다음 달 처리 방침을 공식화했습니다. 탄핵 추진 계기가 된…",
-   "summary_long": "더불어민주당이 이재명 대통령 공직선거법 사건 파기환송을 비롯해 조희대 대법원장 탄핵 사유를 구체적으로 밝히며 다음 달 처리 방침을 공식화했습니다. 탄핵 추진 계기가 된 한덕수 전 총리 사건 판결은 사유에서 제외했지만, 국민의힘은 탄핵 당론부터 정하고 사유를 찾느냐며, 이게 바로 내란이라고 맞섰습니다. 민주당 조희대 대법원장 탄핵소추 추진단이 첫 기자간담회를 열고, 탄핵안에 담길 구체적인 사유를 공개했습니다.\n\n한덕수 전 총리 사건 파기환송이 탄핵 추진의 도화선이 됐다면서도, 탄핵 사유에는 넣지 않겠다고 했습니다. 애초 한덕수 전 총리 파기환송을 탄핵 사유로 검토했다가 철회한 것 역시 억지로 명분을 만든 결과라는 겁니다. 국민의힘은 이번 주에도 조 대법원장 탄핵 추진과 조작기소 특검법 강행 처리를 규탄하는 장외집회를 이어갈 계획입니다.",
-   "press": "YTN",
-   "source": "YTN",
-   "link": "https://n.news.naver.com/article/052/0002436444",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/06.png",
+   "pngBytes": 1775010,
+   "title": "국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각",
+   "summary": "청와대가 국가정보원장과 외교·통일·행정안전·문화체육부 장관 후보자를 발표했습니다. 임광현 청와대 비서실장은 오늘 국정원장 후보자에 강금실 전 법무부 장관을, 외교부 장관…",
+   "summary_long": "청와대가 국가정보원장과 외교·통일·행정안전·문화체육부 장관 후보자를 발표했습니다. 임광현 청와대 비서실장은 오늘 국정원장 후보자에 강금실 전 법무부 장관을, 외교부 장관 후보자에 임웅순 국가안보실 제2차장을 각각 지명한다고 밝혔습니다. 통일부 장관 후보자에는 홍익표 전 의원, 행정안전부 장관 후보자에는 한준호 의원, 문화체육부 장관 후보자에는 강유정 청와대 수석대변인이 지명됐습니다.\n\n임 비서실장은 강금실 국정원장 후보자에 대해 개혁적 판사 출신으로 여성 최초의 법무부 장관을 지내며 검찰개혁을 이끌었고, 외교부 여성인권대사 등을 맡아 국제무대에서도 활동한 강단 있고 합리적인 법조인이라고 소개했습니다. 임웅순 외교부 장관 후보자에 대해서는 주미대사관 공사 등을 지낸 정통 외교 관료로, 현 정부에서 국가안보실 제2차장을 맡아 국익 중심의 실용외교를 구체화했다고 평가했습니다. 홍익표 통일부 장관 후보자는 대외경제정책연구원 출신의 외교·통일 전문가로, 남북 간 긴장 완화와 신뢰 구축의 중대한 전환점에서 한반도 평화 공존의 시대를 열어갈 적임자라고 소개했습니다.",
+   "press": "MBC",
+   "source": "MBC",
+   "link": "https://n.news.naver.com/article/214/0001537418",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. 민주 \"조희대 탄핵 12월 처리\"...국힘 \"이게 진짜 내란\"\n\n더불어민주당이 이재명 대통령 공직선거법 사건 파기환송을 비롯해 조희대 대법원장 탄핵 사유를 구체적으로 밝히며 다음 달 처리 방침을 공식화했습니다. 탄핵 추진 계기가 된 한덕수 전 총리 사건 판결은 사유에서 제외했지만, 국민의힘은 탄핵 당론부터 정하고 사유를 찾느냐며, 이게 바로 내란이라고 맞섰습니다. 민주당 조희대 대법원장 탄핵소추 추진단이 첫 기자간담회를 열고, 탄핵안에 담길 구체적인 사유를 공개했습니다.\n\n한덕수 전 총리 사건 파기환송이 탄핵 추진의 도화선이 됐다면서도, 탄핵 사유에는 넣지 않겠다고 했습니다. 애초 한덕수 전 총리 파기환송을 탄핵 사유로 검토했다가 철회한 것 역시 억지로 명분을 만든 결과라는 겁니다. 국민의힘은 이번 주에도 조 대법원장 탄핵 추진과 조작기소 특검법 강행 처리를 규탄하는 장외집회를 이어갈 계획입니다.\n\n출처: YTN / https://n.news.naver.com/article/052/0002436444"
+   "feed": "뉴스 05. 국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각\n\n청와대가 국가정보원장과 외교·통일·행정안전·문화체육부 장관 후보자를 발표했습니다. 임광현 청와대 비서실장은 오늘 국정원장 후보자에 강금실 전 법무부 장관을, 외교부 장관 후보자에 임웅순 국가안보실 제2차장을 각각 지명한다고 밝혔습니다. 통일부 장관 후보자에는 홍익표 전 의원, 행정안전부 장관 후보자에는 한준호 의원, 문화체육부 장관 후보자에는 강유정 청와대 수석대변인이 지명됐습니다.\n\n임 비서실장은 강금실 국정원장 후보자에 대해 개혁적 판사 출신으로 여성 최초의 법무부 장관을 지내며 검찰개혁을 이끌었고, 외교부 여성인권대사 등을 맡아 국제무대에서도 활동한 강단 있고 합리적인 법조인이라고 소개했습니다. 임웅순 외교부 장관 후보자에 대해서는 주미대사관 공사 등을 지낸 정통 외교 관료로, 현 정부에서 국가안보실 제2차장을 맡아 국익 중심의 실용외교를 구체화했다고 평가했습니다. 홍익표 통일부 장관 후보자는 대외경제정책연구원 출신의 외교·통일 전문가로, 남북 간 긴장 완화와 신뢰 구축의 중대한 전환점에서 한반도 평화 공존의 시대를 열어갈 적임자라고 소개했습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001537418"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/07.png",
-   "pngBytes": 581238,
-   "title": "민주 \"연내 조희대 탄핵 추진‥한덕수 판결 내용은 사유에 미포함\"",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/07.png",
+   "pngBytes": 591864,
+   "title": "한동훈 \"조작 제명이자 기획 숙청, 원천 무효화하고 장동혁 책임져야\"",
    "summary": "",
    "summary_long": "",
-   "press": "MBC",
-   "source": "MBC",
-   "link": "https://n.news.naver.com/article/214/0001537194",
+   "press": "SBS",
+   "source": "SBS",
+   "link": "https://n.news.naver.com/article/055/0001405180",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 민주 \"연내 조희대 탄핵 추진‥한덕수 판결 내용은 사유에 미포함\"\n\n\n\n출처: MBC / https://n.news.naver.com/article/214/0001537194"
+   "feed": "뉴스 06. 한동훈 \"조작 제명이자 기획 숙청, 원천 무효화하고 장동혁 책임져야\"\n\n\n\n출처: SBS / https://n.news.naver.com/article/055/0001405180"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/08.png",
-   "pngBytes": 1713607,
-   "title": "조갑제 \"국힘, 장동혁 제명 못해 다음 총선서 또 당할듯\"",
-   "summary": "조 대표는 21일 페이스북에 “트럼프가 시진핑에게 저자세를 보이고 살인자 푸틴을 친구라고 부르며 영웅적으로 러시아와 싸우는 젤렌스키를 괴롭히고 한미연합 훈련을 중단시켜도…",
-   "summary_long": "유튜브 캡처보수논객 조갑제 조갑제닷컴 대표가 “미국 공화당과 국민의힘의 공통점은 부정선거팔이사기단에 의하여 영혼이 장악되어 있다는 사실”이라고 말했다. 조 대표는 21일 페이스북에 “트럼프가 시진핑에게 저자세를 보이고 살인자 푸틴을 친구라고 부르며 영웅적으로 러시아와 싸우는 젤렌스키를 괴롭히고 한미연합 훈련을 중단시켜도, 또 지난 중간선거에서 미국 유권자의 외면을 받아도 일편단심 트럼프에게 충성하는 세력이 있다\"고 했다. 조 대표는 “이 그룹에 속하는 한 변호사는 트럼프의 공화당이 이번 중간선거에서 진 것은 부정선거 때문이라고 열심히 주장한다”고 했다.\n\n또 “애국심도 자존심도 없는 이 그룹은 증오심과 열등감으로 자신부터 망치는데 장동혁 열성 지지자들이기도 하다”라고 했다. 이어 “부정선거팔이들 때문에 국힘은 작년 대선과 올해 지방선거에서 대패했고 장동혁을 제명하지 못한 것으로 미뤄 28총선에서 또 당할 가능성이 높다”라고 주장했다. 조 대표는 “음모론은 공산주의와 같은 일종의 정신질환인데 인간존재의 총체적 파괴자란 점에서 악령이다.",
-   "press": "TV조선",
-   "source": "TV조선",
-   "link": "https://n.news.naver.com/article/448/0000652566",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/08.png",
+   "pngBytes": 597322,
+   "title": "최민희 \"비공개 간담회 유출자 ID '조추털래유아웃'…성향 드러나\"[영상]",
+   "summary": "",
+   "summary_long": "",
+   "press": "노컷뉴스",
+   "source": "노컷뉴스",
+   "link": "https://n.news.naver.com/article/079/0004212799",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. 조갑제 \"국힘, 장동혁 제명 못해 다음 총선서 또 당할듯\"\n\n유튜브 캡처보수논객 조갑제 조갑제닷컴 대표가 “미국 공화당과 국민의힘의 공통점은 부정선거팔이사기단에 의하여 영혼이 장악되어 있다는 사실”이라고 말했다. 조 대표는 21일 페이스북에 “트럼프가 시진핑에게 저자세를 보이고 살인자 푸틴을 친구라고 부르며 영웅적으로 러시아와 싸우는 젤렌스키를 괴롭히고 한미연합 훈련을 중단시켜도, 또 지난 중간선거에서 미국 유권자의 외면을 받아도 일편단심 트럼프에게 충성하는 세력이 있다\"고 했다. 조 대표는 “이 그룹에 속하는 한 변호사는 트럼프의 공화당이 이번 중간선거에서 진 것은 부정선거 때문이라고 열심히 주장한다”고 했다.\n\n또 “애국심도 자존심도 없는 이 그룹은 증오심과 열등감으로 자신부터 망치는데 장동혁 열성 지지자들이기도 하다”라고 했다. 이어 “부정선거팔이들 때문에 국힘은 작년 대선과 올해 지방선거에서 대패했고 장동혁을 제명하지 못한 것으로 미뤄 28총선에서 또 당할 가능성이 높다”라고 주장했다. 조 대표는 “음모론은 공산주의와 같은 일종의 정신질환인데 인간존재의 총체적 파괴자란 점에서 악령이다.\n\n출처: TV조선 / https://n.news.naver.com/article/448/0000652566"
+   "feed": "뉴스 07. 최민희 \"비공개 간담회 유출자 ID '조추털래유아웃'…성향 드러나\"[영상]\n\n\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004212799"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-23/09.png",
-   "pngBytes": 1345906
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-24/09.png",
+   "pngBytes": 1345768
   }
  ],
- "caption": "📰 11월 23일 오늘의 뉴스\n\n1. 이 대통령 “시험 중 문제지 촬영·전송 막을 법적 근거 정비…끝까지 책임”\n   이재명 대통령은 인공지능 기술을 악용한 시험 부정행위 근절을 위해 시험 중 문제지 촬영과 유출 등을 막을 법적 근거를 마련하겠다고 밝혔습니다. 이 대통령은 먼저, “시험…\n2. 이 대통령 \"치아 흔들리고 코피 터져\"... '순방 잦다' 비판에 \"돼지 눈에 돼지만\" 반박\n   이재명 대통령이 22일 해외 순방이 잦다고 비판하는 야당을 향해 \"무역에 의존하는 개방형 통상국가에서 순방외교는 빠질 수 없는 대통령의 주요 업무\"라고 반박했다. \"선조…\n3. 평창서 지나가던 주민 공기총 맞고 사망…총 쏜 60대男 결국\n   A씨는 전날 오전 11시쯤 평창군 방림면의 한 비닐하우스에서 공기총 사격 연습을 하다가 근처를 지나던 60대 마을 주민 B씨를 맞혀 숨지게 한 혐의를 받는다. 두 사람은…\n4. 아기 살았지만 엄마는…아파트서 5개월 딸 안고 추락사\n   지난 20일 오전 9시 23분쯤 창원시 한 아파트 단지에서 40대 여성 A씨와 생후 5개월 된 B양이 쓰러져 있는 것을 주민이 발견해 소방 당국에 신고했습니다. 경찰과…\n5. 민주 \"조희대 탄핵 12월 처리\"...국힘 \"이게 진짜 내란\"\n   더불어민주당이 이재명 대통령 공직선거법 사건 파기환송을 비롯해 조희대 대법원장 탄핵 사유를 구체적으로 밝히며 다음 달 처리 방침을 공식화했습니다. 탄핵 추진 계기가 된…\n6. 민주 \"연내 조희대 탄핵 추진‥한덕수 판결 내용은 사유에 미포함\"\n7. 조갑제 \"국힘, 장동혁 제명 못해 다음 총선서 또 당할듯\"\n   조 대표는 21일 페이스북에 “트럼프가 시진핑에게 저자세를 보이고 살인자 푸틴을 친구라고 부르며 영웅적으로 러시아와 싸우는 젤렌스키를 괴롭히고 한미연합 훈련을 중단시켜도…\n\n🗣 “정비된 법적 근거를 시험지에 명시하고, 문제지에 고유 식별 표식을 넣어 촬영·유출 시 출처를 확인할 수 있는 방안도 검토하라고 지시하겠다”\n이 발언을 그대로 실은 보도 10건 · 연합뉴스 · 한겨레 · 한국일보 · 뉴시안\n· 연합뉴스 — 李대통령 \"공정 원칙 흔들려선 안돼…全부처 시험관리실태 점검\"\n· 한겨레 — 이 대통령 “시험지 촬영과 외부 전송 막을 법적 근거, 전면 정비할 것”\n· 한국일보 — 이 대통령 \"부정행위 막는 법적 근거 정비할 것\"… '시험지 촬영·유출' 기술적으로 막는다\n· 뉴시안 — [상보] 이 대통령, 수능 부정행위 차단 총력전…\"시험지 촬영·전송 기술적으로 막는다\"\n· 전자신문 — 李 “시험 부정행위, 끝까지 책임 묻겠다…할 수 있는 조치부터 시행”\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: KBS, MBC, SBS, TV조선, YTN, 데일리안, 한국일보"
+ "caption": "📰 11월 24일 오늘의 뉴스\n\n1. \"한동훈 국힘 제명 발표, 尹 사형 구형 맞춰 기획\" 폭로\n   국민의힘 전·현직 윤리위원이 23일 한동훈 무소속 의원의 제명 발표가 윤석열 전 대통령의 사형 구형일에 맞춰 기획됐다고 폭로했다. 자료에 따르면 최 전 교수는 지난해…\n2. 방어권 행사일까, 수사 개입일까…특검 앞 李 '대장동 반박' 후폭풍\n   '조작기소 특검' 출범을 앞두고 이재명 대통령이 자신의 대장동 사건에 직접 목소리를 높이면서 수사의 독립성과 공정성을 둘러싼 논란이 불거지고 있다. 이 대통령은 자신의…\n3. \"잘 놀고 가세요\" 길 알려줬을 뿐인데…중국 학생들이 건넨 '순금' 선물\n   인천국제공항에서 서울역으로 가는 길을 몰라 헤매던 중국인 학생들에게 길을 안내해 준 시민이 뜻밖의 선물을 받았습니다. A씨는 최근 스레드를 통해 \"인천공항에서 만난 중국…\n4. “승강기 교체만 수십 억원”…초고층 아파트, 애물단지로 전락? [잇슈 머니]\n   세 번째 키워드 '초고층 아파트 수선비 폭탄'입니다. 초고층 아파트가 몇 년 뒤에는 수선비를 감당하기 어렵다는 이야기가 나오던데요.\n5. 국정원장 강금실·외교 임웅순·통일 홍익표 지명‥행안·문체도 개각\n   청와대가 국가정보원장과 외교·통일·행정안전·문화체육부 장관 후보자를 발표했습니다. 임광현 청와대 비서실장은 오늘 국정원장 후보자에 강금실 전 법무부 장관을, 외교부 장관…\n6. 한동훈 \"조작 제명이자 기획 숙청, 원천 무효화하고 장동혁 책임져야\"\n7. 최민희 \"비공개 간담회 유출자 ID '조추털래유아웃'…성향 드러나\"[영상]\n\n🗣 “성남시 몫 이익 4300억원을 선확정 보장하는 조건으로 대장동 사업자를 선정한 후에, 예상과 달리 부동산 시장이 개선되자 업자들에게 1100억원을 추가 부담시켰다”\n이 발언을 그대로 실은 보도 10건 · 경향신문 · 뉴스토마토 · 연합뉴스TV · 시사저널\n· 경향신문 — 조작기소특검 임명 앞둔 이 대통령, 연일 ‘대장동 의혹’ 방어\n· 뉴스토마토 — '대장동 의혹' 재차 반박…이 대통령 \"업자들에 추가 부담, 결탁이면 불가\"\n· 연합뉴스TV — 이 대통령, ’대장동 의혹’ 거듭 반박…“업자에 1,100억 추가 부담“\n· 시사저널 — “업자와 결탁했다면 가능했겠나”…李, 대장동 의혹 거듭 반박\n· 아주경제 — [아주경제 오늘의 뉴스 종합] 한국 쇼트트랙, 남자 5000ｍ 계주 금매달…신동민 2관왕 外\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼\n\n출처: JTBC, KBS, MBC, SBS, 노컷뉴스, 시사저널"
 }
