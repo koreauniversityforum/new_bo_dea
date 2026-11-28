@@ -1,230 +1,246 @@
 {
- "date": "2026-11-27",
- "generated_at": "2026-11-27T13:40:48+09:00",
+ "date": "2026-11-28",
+ "generated_at": "2026-11-28T13:26:45+09:00",
  "mode": "daily",
- "window_start": "2026-11-26T00:00:00+09:00",
- "window_end": "2026-11-26T23:59:59+09:00",
+ "window_start": "2026-11-27T00:00:00+09:00",
+ "window_end": "2026-11-27T23:59:59+09:00",
  "outro": true,
  "items": [
   {
-   "title": "“당 꼬라지하고는” “탈당해라”… 국힘 최고위서 ‘윤리위 내홍’",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004011883",
-   "published_at": "2026-11-26T12:13:14+09:00",
+   "title": "“당 꼬라지하고는” 아수라장 하루 만에…장동혁, 한동훈 향해 ‘법정서 붙자·복당해도 재징계’ 직격",
+   "source": "디지털타임스",
+   "url": "https://n.news.naver.com/article/029/0003061496",
+   "published_at": "2026-11-27T11:27:54+09:00",
    "section_id": "100",
    "view_rank": 1,
    "selection": "정치",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "한동훈, 왜 징계 '법적 대응'을 머뭇거릴까",
-   "source": "오마이뉴스",
-   "url": "https://n.news.naver.com/article/047/0002537275",
-   "published_at": "2026-11-26T07:21:08+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "selection": "정치",
-   "summary": "국민의힘 장동혁 대표가 당윤리위원회 징계에 개입했다는 의혹이 커지는 가운데, 한동훈 무소속 의원이 징계무효 소송 제기를 주저하는 배경에 관심이 쏠립니다. 현재까지 진행된…",
-   "summary_long": "국민의힘 장동혁 대표가 당윤리위원회 징계에 개입했다는 의혹이 커지는 가운데, 한동훈 무소속 의원이 징계무효 소송 제기를 주저하는 배경에 관심이 쏠립니다. 지금까지 드러난 것만으로도 한 의원 제명 징계의 부당성이 법원에서 입증될 가능성이 높다는 게 대체적인 분석입니다. 현재까지 진행된 상황을 보면 한 의원에 대한 국민의힘 징계는 무효가 될 가능성이 커 보입니다.\n\n한 의원은 지난 1월 당원게시판 사건으로 국민의힘 윤리위원회로부터 제명 처분을 받았는데, 전현직 윤리위원들의 폭로로 '하명 징계'의 실상이 드러나는 상황입니다. 한 의원 입장에서 또다시 제명이 되면 국민의힘 복당은 완전히 불가능해진다고 봐야 합니다. '하명 징계'의 당사자인 장 대표가 한 의원을 향해 \"당당하다면, 징계가 잘못됐다면 법원에 징계무효 소송을 제기하면 된다\"고 큰소리치는 것도 이런 이유에서입니다.",
+   "summary": "장동혁 국민의힘 대표가 한동훈 무소속 의원을 향해 ‘법정에서 시비를 가리자’며 ‘설령 복당하더라도 다시 징계할 수 있다’고 직격했다. 장 대표는 27일 뉴데일리TV…",
+   "summary_long": "장동혁 국민의힘 대표가 한동훈 무소속 의원을 향해 ‘법정에서 시비를 가리자’며 ‘설령 복당하더라도 다시 징계할 수 있다’고 직격했다. 이른바 ‘조작 징계’ 의혹을 둘러싼 당권파와 친한(친한동훈)계의 정면충돌로 정점식 원내대표가 “당 꼬라지하고는”이라며 회의장을 떠나기까지 한 최고위원회의 파행 하루 만이다. 장 대표는 27일 뉴데일리TV 유튜브에 출연해 한 의원의 징계 취소와 복당을 요구하는 친한계 주장에 대해 “징계가 잘못됐다면 징계 무효 소송이라는 재판을 통해서 해결하면 된다.\n\n장 대표는 “국민의힘 의원들이 무소속 의원을 위해 (윤리위 징계 조작 주장을) 당내 문제로 끌고 와서 논란을 키우는 것은 전혀 도움이 되지 않는다. 이번 갈등은 한 의원 제명 등 징계 과정에 장 대표와 외부 인사가 관여했다는 의혹이 제기되며 격화됐다. 앞서 한 의원은 지난 23일 기자들과 만나 “저에 대한 징계와 조작 제명, 기획 숙청이 원천무효라는 것이 이미 드러났다”며 “장 대표는 개인의 욕심 때문에 정적을 기획 숙청하고 조작 징계한 것을 정상화하고 책임져야 한다”고 요구했다.",
    "quotes": [
-    "당당하다면, 징계가 잘못됐다면 법원에 징계무효 소송을 제기하면 된다",
-    "당대표가 윤리위에 징계 의견을 제시하는 것은 당연하다",
-    "징계사유에 관한 충실한 심의를 거치지 않았다"
+    "만약 법원의 가처분 단계에서 인용 결정이 나면 그에 대해 이의 신청을 하고 즉시 항고를 통해 계속 다퉈갈 생각이고, 당연히 본안 소송에서도 다툴 것이며, 본안 소송에서 어떤 결정이 난다 해도 ‘이제 징계하지 말라’는 판결이 아니기 때문에 다시 징계할 수 있다",
+    "국민의힘 의원들이 무소속 의원을 위해 (윤리위 징계 조작 주장을) 당내 문제로 끌고 와서 논란을 키우는 것은 전혀 도움이 되지 않는다. 앞으로 의원총회가 열린다 해도 의총에 가서 제가 그 발언들을 듣고 있을 이유는 없다",
+    "그렇다면 한 의원이나 주변 사람들은 추 시장이 유죄 판결을 받기를 간절히 바랐다는 것 아닌가. 그건 우리 국민의힘이 내란 정당으로 해산되길 바랐다는 것 아닌가"
    ],
-   "press": "오마이뉴스",
-   "photo": "02.jpg",
+   "press": "디지털타임스",
+   "photo": "01.jpg",
    "quoted": {
-    "quote": "당당하다면, 징계가 잘못됐다면 법원에 징계무효 소송을 제기하면 된다",
-    "n": 6,
-    "verified": 0,
-    "items": [
-     {
-      "press": "OhmyNews",
-      "title": "한동훈, 왜 징계 '법적 대응'을 머뭇거릴까",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcUQ0MVo3b1ZGM3VGSXhBU3RfX2hTYmUzVG1IWEZfOVdWMl9HWFplaWpoWWJiaVNMS0gxTWd5SVlfQkpDVjJMSV9VdGp2cnp5dmZackFyNlVINzVrUENHZ0pPS29ld1NEX3pIZVRDWnhDNU1vQU1ET1F1dDZsTVpiYWU0WGF1MkFtRVE?oc=5"
-     },
-     {
-      "press": "한겨레",
-      "title": "장동혁·한동훈 ‘조작 징계’ 충돌…“보수 궤멸 중심” vs “배후 조종 인정”",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iTUxGa3FPMjNibUpPemJOcDZiTXpXZTRVeG9seHhWT0VVVzAxOGdxemliZ2xma1NjcDIzcWFMX3U3bWlvODM5NXVOZWNwWlRFaXc5enM0T19DVTRha0draS1GaWgzbS1ZZmc?oc=5"
-     },
-     {
-      "press": "세계일보",
-      "title": "침묵 깬 장동혁 “韓, 당당하면 소송하라… 직접 변론하겠다”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvX3JRaVI5TnhuUWx6TTFnbzVMaXJiN2hSNWp3V0xpMUlHcXRWYm5zZzdWVzQ4d0Z3VWRyZDA5UklnRklQbXdsVS1BYlUzajFob0MyXzVscGE?oc=5"
-     },
-     {
-      "press": "문화일보",
-      "title": "조갑제 “장동혁, 민주당 전략자산…윤리위 장난감으로 여겨”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLMlkwSFQ3eW84SFF3dFRUTWFkNkpTNHdxZTk2TDhxSVRidm0xZmRhM1ljbl9nbDhnTGZtb0RFakJBZmZ3RG5OTEQ2NjY4b2lo?oc=5"
-     },
-     {
-      "press": "이데일리",
-      "title": "장동혁 \"한동훈, 보수 궤멸 중심…국힘에 발붙일 공간 없어\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYk41X182R29mM29LUjJLa0tiQXNZazY0UkdHLU1PWVhadGlKVkhGSlZtVkwyZGItWHFUclRhR09LelB0aE1qVVlVRzdVLTNGN1ZCekxzZ0dlaDBwdEFzcGl1aDBtajltQ3lCVXh1ZTVjZjdudE5BLTh3YjBGTldZZA?oc=5"
-     },
-     {
-      "press": "국제뉴스",
-      "title": "장동혁 \"한동훈, 보수 궤멸 중심에 선 사람\"",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FQ2xUM0ZLaGhfSkMzUmJDMVFYVERIenYwQWsxcGNLUUJfa0w1VHo4U3hFUXRueDFjaHprMHBQQzByQ0wzVTNNOWRxaVV1ZG0zVFEtYzZ3NFY0YnhpMThsbUNNODdPVHo3TGptTzFn?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "남편 장례 중 시아버지 묘지 파묘한 며느리…\"자손 잘 되라고\"",
-   "source": "JTBC",
-   "url": "https://n.news.naver.com/article/437/0000522485",
-   "published_at": "2026-11-26T06:00:01+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "이후 큰어머니가 다니는 절에 위패를 모신다고 해 가족들이 함께 그 절을 찾아 제를 지냈다고 하는데요. 이어 \"큰어머니가 수목장이라고 했지만, 실제로는 그냥 나무 주변에…",
-   "summary_long": "이후 큰어머니가 다니는 절에 위패를 모신다고 해 가족들이 함께 그 절을 찾아 제를 지냈다고 하는데요. 남편 장례 중에 시아버지 묘를 파묘해 화장까지 마쳤다는 내용이었습니다. 이어 \"큰어머니가 수목장이라고 했지만, 실제로는 그냥 나무 주변에 유골을 뿌린 것이었다\"면서 \"할아버지 유골을 뿌린 곳이 큰아버지 위패를 모신 절로 가는 길목의 나무다.\n\n큰어머니는 이 같은 사실을 알린 뒤 자녀들이 사는 베트남으로 떠난 상태라고 하는데요. 또한 \"친할아버지 묘에는 친할머니 유골도 함께 뿌려져 있었는데 어머니가 친할머니와 유독 사이가 가까웠던 터라 그 묘가 갑자기 사라져 힘들어하신다\"고 했습니다. 이어 \"묘를 관리하는 사람도 개장 신고가 가능하며, 직계 동의가 필요한 것은 아니다\"라며 절차상 문제가 없음을 전했습니다.",
-   "quotes": [
-    "할아버지 유골을 뿌린 곳이 큰아버지 위패를 모신 절로 가는 길목의 나무다. 장례지도사에게 일을 모두 맡겨 본인은 정확한 위치도 모른다고 했다",
-    "친할아버지 묘에는 친할머니 유골도 함께 뿌려져 있었는데 어머니가 친할머니와 유독 사이가 가까웠던 터라 그 묘가 갑자기 사라져 힘들어하신다",
-    "큰어머니가 수목장이라고 했지만, 실제로는 그냥 나무 주변에 유골을 뿌린 것이었다"
-   ],
-   "press": "JTBC",
-   "photo": "03.jpg",
-   "quoted": {
-    "quote": "큰어머니가 수목장이라고 했지만, 실제로는 그냥 나무 주변에 유골을 뿌린 것이었다",
-    "n": 2,
-    "verified": 0,
-    "items": [
-     {
-      "press": "JTBC",
-      "title": "남편 장례 중 시아버지 묘지 파묘한 며느리…\"자손 잘 되라고\"",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyWUZNbjY0R2hsOUVhWEViOXY5X1E1QkpXc1FMMlQxanl6b2R2UDBhaTZ1SXFUWTdCWXhjQ0RxazZCczVHaDF1eW9COVRjUVIzdUE?oc=5"
-     },
-     {
-      "press": "뉴스1",
-      "title": "남편 장례식 때 시부 묘 파헤쳐 화장한 큰며느리…\"이래야 자손 잘된다\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PZG40NUlicTdVTEJTbUE5UGlCU1MwYmwyYWNQbE9FcUw4WTVLVTNhcTZsc2U3ek9JLURvdklBTEtfUVZrZnBwODQ0ZFJFYlpJanFYaWs5TUdKaWxsWkdEUVBR?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "“9급 시험, 고졸 수준” 발언에 김선태 일침 “고졸이 죄지었냐”",
-   "source": "한겨레",
-   "url": "https://n.news.naver.com/article/028/0002834055",
-   "published_at": "2026-11-26T11:38:17+09:00",
-   "section_id": "102",
-   "view_rank": 1,
-   "selection": "경제·시사",
-   "summary": "정영란 부산광역시 인재개발원장이 “9급 공무원 시험은 고졸 수준”이라는 말로 논란이 된 데 대해 9급 공무원 출신의 유튜버 김선태씨가 “화가 난다”며 비판을 쏟아냈다.…",
-   "summary_long": "정영란 부산광역시 인재개발원장이 “9급 공무원 시험은 고졸 수준”이라는 말로 논란이 된 데 대해 9급 공무원 출신의 유튜버 김선태씨가 “화가 난다”며 비판을 쏟아냈다. 충주시청 주무관으로 근무하며 ‘충주맨’으로 유명했던 김씨는 25일 자신의 유튜브 채널 ‘김선태 라이브’에서 “‘9급 공무원 고졸 수준’에 대한 입장 발표”라는 제목의 라이브 방송을 통해 정 원장 발언에 대한 생각을 밝혔다. 김씨는 “일단 워딩만 봐도 화가 난다”며 “제가 바로 그 9급 (출신)이자 고졸(출신)이기 때문에 너무나도 긁힌 상황이다”라고 했다.\n\n김씨는 “이 워딩은 (9급뿐만 아니라) 고졸한테도 기분 나쁘다”며 “공무원만 기분이 나쁜 게 아니라 고졸도 기분이 나쁘다”고 강조했다. 김씨는 또 “(정 원장이 9급) 직원들을 데리고 갑자기 뭔가를 막 하기 시작하니까 답답하다고 한다”며 “수준 이하의 사람들을 데리고 일을 하니까 일이 안 된다(라고 했다)”고 말했다. 정 원장은 지난 7월15일 부산시의회 교육위원회 업무보고에서 “세상은 전문화되는데 9급 공무원 시험은 다 고졸 수준으로 치르지 않는가”라며 “그런 직원들을 데리고 갑자기 막 (일을) 하기 시작하니까 직원들이 전부 ‘멘붕’이 온다고 생각한다”고 말했다.",
-   "quotes": [
-    "이분이 이제 (부산시) 인재개발원장 아니냐. 원장님께서 이런 말씀을 하시면 어떡하냐? 자기 얼굴에 침 뱉기 아니냐",
-    "(부산시 인재개발원에서는) 이 아래에 있는 미천한 9급 공무원들 교육해야, 계도해야 된다는 게 깔려있는 것 같다",
-    "그럼 시험을 바꿔라. 왜 그렇게 저급한 인재를 뽑냐. 월급 200만원 주면서. ‘대학원졸’로 뽑아라"
-   ],
-   "press": "한겨레",
-   "photo": "04.jpg",
-   "quoted": {
-    "quote": "(부산시 인재개발원에서는) 이 아래에 있는 미천한 9급 공무원들 교육해야, 계도해야 된다는 게 깔려있는 것 같다",
-    "n": 3,
-    "verified": 0,
-    "items": [
-     {
-      "press": "부산일보",
-      "title": "`충주맨` 김선태도 긁혔다…`9급 시험 고졸 수준` 발언에 `고졸이 죄지었냐`",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tS3VDZ3NUeEowRHZld0oxem1DOTY0WTk3OWFqcC12YTh5WkVqczlOQXFrZVBMYWJWRUNKR3NrQmVOZlBjNGNHUWpDMFBidXAzS2pXVHYtckE5NEt1bmpacklUZG9vZTlOVjhodFB5YnVicjA5?oc=5"
-     },
-     {
-      "press": "한겨레",
-      "title": "“9급 시험, 고졸 수준” 발언에 김선태 일침 “고졸이 죄지었냐”",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkSGZfMVEtaHRsLTlpYzY1YnVhRktKODhDVFg0TXVsVXpTWndPZlJBc2VoSWdBTDAtdnZHb3A4WVlndFV2NFY3NU92dFpZQVRTd2wxZzY3bjFudjJ0ZUlUUGVPZEI4VThSaVdhX3BOZE0xQQ?oc=5"
-     },
-     {
-      "press": "헤럴드경제",
-      "title": "‘고졸 9급 충주맨’ 김선태 “9급은 고졸 수준” 발언에 분노…“고졸이 죄지었냐”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsanZ0UVBxbml4SS1ZNjVkbTE4Z1lwV0NlX0JORjg4c1RHV2p2aW9qR1B4Qm93N3o5QkFrdllYWmVEdHVMU0lfc3lHaWdYdDN4bkxWNGhR?oc=5"
-     }
-    ]
-   }
-  },
-  {
-   "title": "‘자력 복당’ 예고한 한동훈 “모든 방법 동원해 돌아갈 것”",
-   "source": "조선일보",
-   "url": "https://n.news.naver.com/article/023/0004011833",
-   "published_at": "2026-11-26T08:16:12+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 1529,
-   "comment_agree": 260,
-   "comment_disagree": 56,
-   "division_balance": 0.35443,
-   "division_score": 2.04113,
-   "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "역대 대통령 호감도 1위는 노무현…이재명 4위, 꼴찌는 누구?",
-   "source": "경기일보",
-   "url": "https://n.news.naver.com/article/666/0000134021",
-   "published_at": "2026-11-26T20:01:10+09:00",
-   "section_id": "100",
-   "view_rank": 3,
-   "comment_count": 484,
-   "comment_agree": 340,
-   "comment_disagree": 42,
-   "division_balance": 0.219895,
-   "division_score": 1.307945,
-   "selection": "찬반 쟁점",
-   "prep_error": "The read operation timed out"
-  },
-  {
-   "title": "\"나도 제명하려고 했냐\" 고성에 퇴장까지... '조작 징계' 논란에 아수라장 된 국힘 최고위",
-   "source": "한국일보",
-   "url": "https://n.news.naver.com/article/469/0000967882",
-   "published_at": "2026-11-26T11:20:18+09:00",
-   "section_id": "100",
-   "view_rank": 1,
-   "comment_count": 333,
-   "comment_agree": 296,
-   "comment_disagree": 36,
-   "division_balance": 0.216867,
-   "division_score": 1.259597,
-   "selection": "찬반 쟁점",
-   "summary": "정점식 국민의힘 원내대표가 26일 서울 여의도 국회에서 열린 최고위원회의에서 친한계 조작 징계 의혹과 관련해 우재준, 신동욱 최고위원의 언쟁이 이어지자 회의장을 나서고…",
-   "summary_long": "국민의힘 지도부가 윤리위원회의 '조작징계' 의혹과 관련해 서로 고성을 주고받으며 정면 충돌하는 등 갈등이 증폭되고 있다. 친한동훈계 우재준 최고위원이 최모 교수와 황경성 윤리위원의 폭로에 대해 \"윤리위 심의가 형해화된 만큼 진실을 밝히라\"며 장동혁 대표 등을 강하게 압박하자, 장 대표 등 당권파는 우 최고위원을 향해 사실상 탈당을 요구했다. 장동혁 국민의힘 대표가 26일 서울 여의도 국회에서 열린 최고위원회의에서 친한계 조작징계 의혹과 관련해 우재준, 신동욱 최고위원 등의 언쟁이 이어지자 최고위 회의장을 나서고 있다.\n\n우 최고위원은 26일 국회에서 열린 최고위원회의에서 \"장동혁 대표의 사적 징계 의혹은 최고위의 심의·의결권을 침해하고 윤리위의 독립성을 무너뜨릴 중대한 사안\"이라며 \"정치적 징계에 대해 어디까지 개입했는지 밝히고 공정성 훼손에 공개 사과하라\"고 주장했다. 당권파인 신동욱 최고위원은 \"최고위 의결권 침해를 일방 주장하면서 표결에 참여한 많은 최고위원이 부당한 의결을 한 당사자로 지목되고 있다\"며 \"당시 결정까지 잘못됐다고 주장하는 것은 부당한 태도\"라고 반박했다. 이에 우 최고위원은 장 대표를 겨냥해 \"내 것을 안 물어보려고 했는데 장 대표님, 나도 제명하려고 했느냐\"고 따져 물었다.",
-   "quotes": [
-    "지도부가 책임 있는 수습과 통합을 끝내 거부한다면 당헌·당규에 따른 지도부 교체와 비대위 전환을 추진해야 한다. 당대표 임기를 지키다가 당의 미래를 잃을 수는 없다",
-    "외부인을 이용해 윤리위를 형해화하고 당의 징계권을 사적으로 장악하고 자신과 의견이 다른 인물들을 솎아내는 데 권한을 휘둘렀다면 이는 명백한 권한 남용",
-    "최고위 의결권 침해를 일방 주장하면서 표결에 참여한 많은 최고위원이 부당한 의결을 한 당사자로 지목되고 있다"
-   ],
-   "press": "한국일보",
-   "photo": "07.jpg",
-   "quoted": {
-    "quote": "외부인을 이용해 윤리위를 형해화하고 당의 징계권을 사적으로 장악하고 자신과 의견이 다른 인물들을 솎아내는 데 권한을 휘둘렀다면 이는 명백한 권한 남용",
+    "quote": "만약 법원의 가처분 단계에서 인용 결정이 나면 그에 대해 이의 신청을 하고 즉시 항고를 통해 계속 다퉈갈 생각이고, 당연히 본안 소송에서도 다툴 것이며, 본안 소송에서 어떤 결정이 난다 해도 ‘이제 징계하지 말라’는 판결이 아니기 때문에 다시 징계할 수 있다",
     "n": 4,
     "verified": 0,
     "items": [
      {
-      "press": "한국일보",
-      "title": "\"나도 제명하려고 했냐\" 고성에 퇴장까지... '조작 징계' 논란에 아수라장 된 국힘 최고위",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QVXpMUnJ0UXVDTXdmQ3I5eHFhTmgwV2VrWEw1bXNLU2xwRGdyLWZaN01FOUtkZkl4aW5KSHVpSndoYmliYW1zQ3BPQlMyRk5hSzNJekMyTGx5MVJYNk44ZlFyREFOR2t2VXpmbW53?oc=5"
+      "press": "연합뉴스",
+      "title": "장동혁 \"한동훈, 왜 국힘 오려하나…징계 잘못됐다면 소송내라\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPamtRZzlNTGFJSENlTEVJeTlBenlWRW44dHVkZzNQc29UZW1ydTV5YURIN2NBYlZOZnNZOGkwZkhWTXk1MGZUTVFhVVdxclZNb0xDTGZ6cUNiOW40bjNXQdIBYEFVX3lxTFBPamtRZzlNTGFJSENlTEVJeTlBenlWRW44dHVkZzNQc29UZW1ydTV5YURIN2NBYlZOZnNZOGkwZkhWTXk1MGZUTVFhVVdxclZNb0xDTGZ6cUNiOW40bjNXQQ?oc=5"
      },
      {
-      "press": "한국일보",
-      "title": "국힘 최고위, '조작징계'로 정면 충돌… \"장동혁 사과해야\" VS \"탈당하라\"",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84T0tJLUtIUTEtRnlqMnhLdzZBX3FQWXRfSTBXNWM3MEh1dG1BV002eVdINzNJRUJ3Z2h1YmV3R2xCOW5NSmJLMGVCQU5tcklJQlM4LVV0RGhIZWQ3QVRGVXlFbV9Id2h1RWV0Q01COGVrb2c?oc=5"
+      "press": "부산일보",
+      "title": "장동혁 \"한동훈, 징계 무효 소송으로 복당하라… 왜 지도부 흔드나\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YZHQ3NkFncUZCSjRzXzNjWDV0VGxoWEF1THAtUXlYNmM2T2hPZ2xwWTRTaTFXejcyUGZ6eG80eUluU3hWVnBZREN5UXR2ZlIyV1E3UTR0VzQtSno3VHY2bl83QVZ4QVJqZjhOakZuSndOU1FPMXRXbA?oc=5"
      },
      {
-      "press": "서울경제",
-      "title": "최고위서 터진 ‘조작 징계’ 갈등…국힘, 내달 2일 의총서 격돌",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TM0FLS2daNjJrRXdsYXBIWnFscGRTREV5NzhYenlEeXJlNFVmdGtVTVd1V284ZU1FZjc3Y2d2eUVMblVabWl5RC1LbjNzTm5nNUHSAVNBVV95cUxNWGQ5WEF4dXVlN3lmWUoyWkRlTXphVmFLUnNkMVIwRWduRFZfcVFOR3Nvc1R1WUw3V01maEpNc3BKN3Q2TWx3TWNOb0l4dGxrYmwzQQ?oc=5"
+      "press": "매일신문",
+      "title": "\"한동훈, 복당해도 다시 징계하면 된다\"…장동혁, 법정 다툼도 불사",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13WTZrZVNXTHlYSXRjRm5LRFoyYTAzX3Zxc3k5OGp3R1NzRGZHTEd1cU1hZlZidXZGUTR2aVo4ZFB6bjhlSzVMcWlRMDFIUWRoTGlVa1pyaGhTMC1KaTZqUlN3?oc=5"
      },
      {
-      "press": "서울경제",
-      "title": "국힘, ‘조작 징계’ 두고 설전…우재준 사과 요구에 張 대표 “탈당이나 창당 하시라”",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QUzZnc2h5SGpJbk5hYTZaeldoOU5CNHktd2hUOUFYVENiWFV2Z3c0ZGp5YzVFU0ZiTEIxdU5fX0drN0VfeG43OGo0MDFnU2V2YmfSAVNBVV95cUxNbFdPUEdCb3JSdjZGemY5TFZrNEhfazFHUTdnOW5XbHBQS1FYYkNqMm00YnJSYkpoYXJQcWhudGdHSlIyQ3ozRm5RT2gtM3dEWFVlYw?oc=5"
+      "press": "헤럴드경제",
+      "title": "장동혁 “한동훈, 징계 잘못 됐다면 무효 소송내라”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HWDdKcHNoX0pVX2dPd1dENHlPVGM4UEJ3ZGQtaTUxNzMza0ZGTjR2WE5BVVVLenJsMTVZeWc5c2dWNzdXUkpJWHF6cmZRTm85RnlyY0xB?oc=5"
      }
     ]
    }
+  },
+  {
+   "title": "한덕수 일부 무죄 취지 파기환송…'잘못된 판결' 46% vs '잘된 판결' 31%",
+   "source": "kbc광주방송",
+   "url": "https://n.news.naver.com/article/660/0000122332",
+   "published_at": "2026-11-27T11:53:09+09:00",
+   "section_id": "100",
+   "view_rank": 1,
+   "selection": "정치",
+   "summary": "12·3 비상계엄과 관련해 내란 중요임무 종사 혐의로 기소된 한덕수 전 국무총리에 대해 대법원이 일부 혐의를 무죄 취지로 파기환송한 것을 두고 '잘못된 판결'이라는…",
+   "summary_long": "'조희대 대법원장 탄핵' 찬성 35%·반대 42%. 12·3 비상계엄 '내란이다' 57%·'아니다' 31%. 12·3 비상계엄과 관련해 내란 중요임무 종사 혐의로 기소된 한덕수 전 국무총리에 대해 대법원이 일부 혐의를 무죄 취지로 파기환송한 것을 두고 '잘못된 판결'이라는 응답이 '잘된 판결'이라는 응답보다 많다는 여론조사 결과가 나왔습니다.\n\n27일 한국갤럽에 따르면 지난 24~26일 전국 만 18세 이상 1,000명을 대상으로 대법원의 파기환송 판결에 대한 의견을 물은 결과 '잘못된 판결'이라는 응답은 46%, '잘된 판결'이라는 응답은 31%로 집계됐습니다. 정치 성향별로는 보수층의 52%가 '잘된 판결'이라고 응답한 반면, 진보층의 74%는 '잘못된 판결'이라고 답했습니다. 중도층에서는 '잘못된 판결'이라는 응답이 48%로, '잘된 판결'(29%)보다 많았습니다.",
+   "press": "kbc광주방송",
+   "photo": "02.jpg"
+  },
+  {
+   "title": "수능 커닝 신고 포상금 최대 5억에…\"친구랑 짜고 반씩 나눌 것\" 자조",
+   "source": "뉴스1",
+   "url": "https://n.news.naver.com/article/421/0009313238",
+   "published_at": "2026-11-27T05:20:00+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "수능 당일 최대 1억 원이었던 부정행위 신고 포상금 상한액은 불과 나흘 만에 5억 원으로 뛰었다. 하지만 이 같은 대책이 미봉책에 불과하다는 지적과 함께 내년 수능에서…",
+   "summary_long": "대학수학능력시험(수능)이 끝난 뒤 부정행위 근절을 위한 처벌 강화 기조가 이어지고 있다. 수능 당일 최대 1억 원이었던 부정행위 신고 포상금 상한액은 불과 나흘 만에 5억 원으로 뛰었다. 하지만 이 같은 대책이 미봉책에 불과하다는 지적과 함께 내년 수능에서 포상금을 노리고 부정행위를 저지른 뒤 자수하겠다는 자조 섞인 반응까지 나오고 있다.\n\n국민권익위원회는 지난 23일 수능 부정행위 근절을 위해 신고자에게 적발된 부정행위에 따라 포상금을 가산해 지급할 방침이라고 밝혔다. 특히 부정 행위자가 자신의 부정행위를 자수하면서 다른 부정 행위자를 신고할 경우 본인의 처벌을 감경하는 동시에 신고 포상금도 지급하기로 했다. 권익위는 \"시험 부정행위의 심각성을 고려해 국민의 적극적인 신고를 유도하기 위해 포상금 지급을 획기적으로 확대하는 것\"이라고 설명했다.",
+   "quotes": [
+    "친구랑 내년에 짜고 시험 쳐서 2억 5000만 원씩 나눠야겠다. 이게 대체 부정행위를 방지하려고 만든 대책이냐, 아니면 모두를 잠재적 범죄자로 취급하는 제도인 거냐",
+    "혼자 부정행위를 저지르고 자수한다고 포상금이 지급되는 것은 아니다. 자수와 동시에 다른 공동 부정 행위자를 신고해야 포상금 지급 대상이 된다",
+    "시험 부정행위의 심각성을 고려해 국민의 적극적인 신고를 유도하기 위해 포상금 지급을 획기적으로 확대하는 것"
+   ],
+   "press": "뉴스1",
+   "photo": "03.jpg",
+   "quoted": {
+    "quote": "시험 부정행위의 심각성을 고려해 국민의 적극적인 신고를 유도하기 위해 포상금 지급을 획기적으로 확대하는 것",
+    "n": 3,
+    "verified": 0,
+    "items": [
+     {
+      "press": "뉴스1",
+      "title": "수능 커닝 신고 포상금 최대 5억에…\"친구랑 짜고 반씩 나눌 것\" 자조",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zN01iZTEzeWZ3YlozZUhuQzFTbEFUYzc3NXBWNWFrNWVwMGZ0TzN1ZDB0a211V25sU3k5N21MM1FiQjVPR3hHZHFJZHdFZzZjSnlfTzAyRnU3U0I1R1RGQm1B?oc=5"
+     },
+     {
+      "press": "한국경제",
+      "title": "\"2.5억씩 나누자\"…'최대 5억' 수능 신고 포상금에 나온 반응",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PRnZsMzI5YTVFSHBYbXFhTUZUVE9vZlZET1RtSm1xTlJIdEtoaG5vSzNNT0hQOGtOSzk2RE9xTnRwNXR5b3laTXl1cmFVR2c0clppdVBCR2VUdw?oc=5"
+     },
+     {
+      "press": "매일경제",
+      "title": "“내년 수능 같이 보고 포상금 나눌 사람?”…최대 5억원 준다고 하니 시끌",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56S01qS1Z3TGFZUjRjMVlqUGxZbTdjeEhpVFNJSmxZenlLbm1FOWx0UlhlOGdCa0pZa2hsQVFhMEIxMXdKelAybFc1YVVETm5MT09xSA?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "손연재 부부, 연세의료원에 30억원 기부…연재태아협진센터 설립",
+   "source": "연합뉴스",
+   "url": "https://n.news.naver.com/article/001/0016467470",
+   "published_at": "2026-11-27T11:37:32+09:00",
+   "section_id": "102",
+   "view_rank": 1,
+   "selection": "경제·시사",
+   "summary": "리듬체조 국가대표 출신인 손연재씨와 남편 이준효씨가 연세의료원과 '연재태아협진센터' 설립과 운영을 위한 총 30억원 기부금 협약을 체결했다. 세브란스병원은 연세의료원이…",
+   "summary_long": "리듬체조 국가대표 출신인 손연재씨와 남편 이준효씨가 연세의료원과 '연재태아협진센터'(이하 센터) 설립과 운영을 위한 총 30억원 기부금 협약을 체결했다. 금기창 연세의료원장(왼쪽부터)과 손연재·이준효 부부가 기부금 협약식에서 기념 촬영을 하고 있다. 세브란스병원은 연세의료원이 이준효·손연재 부부와 '연재태아협진센터'(이하 센터) 설립과 운영을 위한 총 30억원 기부금 협약을 체결했다고 27일 밝혔다.\n\n센터는 산부인과, 신생아과 등 관련 진료과 의료진이 협력해 산모와 태아의 상태를 종합적으로 평가하고, 출산 전후 발생할 수 있는 위험에 신속하게 대응하는 체계를 갖출 예정이다. 고위험 산모의 분만 및 태아 치료의 사각지대를 해소하고, 관련 연구·교육과 산모 및 가족 지원사업도 추진하기로 했다. 기부금은 센터 운영에 필요한 전문인력 확보와 의료장비·시설 확충, 진료 및 지원 프로그램 개발 등에 활용된다.",
+   "press": "연합뉴스",
+   "photo": "04.jpg"
+  },
+  {
+   "title": "[속보] 민주당 윤리심판원, '최민희 중징계' 의결",
+   "source": "노컷뉴스",
+   "url": "https://n.news.naver.com/article/079/0004214751",
+   "published_at": "2026-11-27T17:23:11+09:00",
+   "section_id": "100",
+   "view_rank": 5,
+   "comment_count": 112,
+   "comment_agree": 113,
+   "comment_disagree": 34,
+   "division_balance": 0.462585,
+   "division_score": 2.311636,
+   "selection": "찬반 쟁점",
+   "summary": "15개 언론사38,599개 기사. 16개 언론사2,010개 기사.",
+   "summary_long": "민주당 윤리심판원, '최민희 중징계' 의결. 이창환 윤리심판원장은 \"최민희 의원의 문제 된 일부 발언이 당의 품위를 훼손한 것으로 판단하고 제반사정을 종합적으로 고려해 중징계 처분을 의결했다\"고 밝혔다. 이 기사는 언론사에서 정치 섹션으로 분류했습니다.\n\n기사의 섹션 정보는 해당 언론사의 분류를 따르고 있습니다. 15개 언론사38,599개 기사.",
+   "quotes": [
+    "최민희 의원의 문제 된 일부 발언이 당의 품위를 훼손한 것으로 판단하고 제반사정을 종합적으로 고려해 중징계 처분을 의결했다",
+    "윤리심판원 규정상 의결된 징계양정을 말씀드릴 수가 없다",
+    "동해에 亞 최대 AI인프라 첫 삽… 글로벌 투자 마중물"
+   ],
+   "press": "노컷뉴스",
+   "photo": "05.jpg",
+   "quoted": {
+    "quote": "최민희 의원의 문제 된 일부 발언이 당의 품위를 훼손한 것으로 판단하고 제반사정을 종합적으로 고려해 중징계 처분을 의결했다",
+    "n": 10,
+    "verified": 0,
+    "items": [
+     {
+      "press": "에너지경제신문",
+      "title": "민주당 최민희 당원권 2년 정지…친명·친청 갈등 폭발",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvM211RmJ5ekRnbUR3YWx2RFRFclNRNUF6QVFVckZSeDl2UWV6YTdEMi1QVk9DVzlJanZRX3d1MnZTd05ZV3ZwUVZWX25fYWFhWVdDVE4tV0g4ZFE?oc=5"
+     },
+     {
+      "press": "주간경향",
+      "title": "최민희, 2028년 총선 공천 못받나···‘당원권 2년 정지’ 중징계 의결",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GZHFXZGJpX3E3UzFtRGQ1blVRbk1XWDJVbGRtSU5zbDVORXgwZzNpRlI4OHZ5c1JhUDMxZnNDdTFLLXBMbW45cXdmcExWRERIU3hFRHZwaFdSWXBDQ1E?oc=5"
+     },
+     {
+      "press": "스트레이트뉴스",
+      "title": "민주당 윤리심판원, 최민희 중징계 의결…수위 비공개",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtUjc1bW9kTlRxdVJpUTVQR0ZCd0tndTVDc3IzTUFDbDNqSnZ1Q1Y0OXdNdEhvd1RUZnlXZTRwdUE2dEl2bnljeGZKdDNCOUFoaXpsaTdycGdqUDgxZUwzZnlTckEzOURnQ2ZYenNwMTNuVG_SAXdBVV95cUxQbC10eU5MUEN4MS1qai1KcWdtTjE3a3BVSUZyVEM5Nld6Njg0R01fbUl6dU1zMjlzNGlHQ3FqWG9GRXk1bXFVUXkxUmVUbFh1aVVWNXIzeVBUdnFleVhpRGtrN2ZOT3BXeWxFeVhfcEFHdzQxeHo3aw?oc=5"
+     },
+     {
+      "press": "뉴시스",
+      "title": "與 윤리심판원, 최민희에 '중징계' 의결…\"당직자격정지 이상, 징계 양정은 말 못해\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KYmpTbkpzVGIyZ1ZoamlQTTBITG9Md2ExMEhpY0VTMUM2WXdHaGw5Q2V1VkxQUXZSUm9DUkk5akNJdlhvQXVhYm82aVV2azZmVFFDX1dXLXVSdWt1Mkh2OGpDYnJhSkdFY01pQXJxR3RjTVYtSl9GbNIBeEFVX3lxTE9KYmpTbkpzVGIyZ1ZoamlQTTBITG9Md2ExMEhpY0VTMUM2WXdHaGw5Q2V1VkxQUXZSUm9DUkk5akNJdlhvQXVhYm82aVV2azZmVFFDX1dXLXVSdWt1Mkh2OGpDYnJhSkdFY01pQXJxR3RjTVYtSl9GbA?oc=5"
+     },
+     {
+      "press": "비즈니스포스트",
+      "title": "민주당 윤리심판원 최민희 '당원자격 2년 정지' 징계 의결, \"당의 품위 훼손\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YcnllYTJsR2dIanh4WmRHenpYQ2EzeDZNSGFUUmlYVHhaRVRKN1A3bFhMUEo4bVRQWlRqMzFxeklBZkRjcmZmR1JGUnRIajNaWmhONklOMVY0eXNfc2w4SmIxdW43X0MxbFFySUM3c3JiUGc?oc=5"
+     },
+     {
+      "press": "뉴데일리",
+      "title": "민주당, 최민희 중징계 의결, 최소 '당직자격정지' … 김민석도 징계 심사 회부",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VREdyd1RYZG13WklzU1duRmJFejFtbHBjQnZVUW1NT1E5Z2RXUXRuZF9DOVJQamZ0UHVyVVNrMWFReVVXYUlmbXJzazk2V0xMX0M2ZC1BVE4wbGZ1LUV3UU5WamdoZlA5blVTRC1TamVaNHBXbU1HWUVWMNIBgAFBVV95cUxQSlM5Z3dBVTlBRnpHRHZGR29uTHViMXgwYXJBUDNjbjBGOTFROU1oUFYzRVk0T215ejBMY1ZlcThpMWlPSEdzeXViblZMcHZteTkxSDVRZUpSTHJaUENLWHByX2N1RWo2UjFxdElBekZnWjVFMXB4NURZbVNXODZPRw?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "\"당원 자격정지 2년\" 최민희 중징계‥친청계 \"납득 불가\"",
+   "source": "MBC",
+   "url": "https://n.news.naver.com/article/214/0001538582",
+   "published_at": "2026-11-27T20:11:38+09:00",
+   "section_id": "100",
+   "view_rank": 4,
+   "comment_count": 795,
+   "comment_agree": 289,
+   "comment_disagree": 59,
+   "division_balance": 0.33908,
+   "division_score": 1.98534,
+   "selection": "찬반 쟁점",
+   "summary": "더불어민주당 윤리심판원이 최민희 최고위원에 대해 당원 자격정지 2년의 중징계를 내렸습니다. 최민희 의원 징계 심사가 진행된 더불어민주당 당사 주변은 종일 긴장감이…",
+   "summary_long": "더불어민주당 윤리심판원이 최민희 최고위원에 대해 당원 자격정지 2년의 중징계를 내렸습니다. 최 의원과 친청계는 \"납득할 수 없다\"며 즉각 반발한 가운데, 민주당 내 계파 갈등은 더욱더 커질 걸로 보입니다. 최민희 의원 징계 심사가 진행된 더불어민주당 당사 주변은 종일 긴장감이 감돌았습니다.\n\n징계가 확정되면 최 의원의 최고위원직은 즉각 박탈되고, 공천 부적격자 심사를 받게 돼 총선 출마도 사실상 막히게 됩니다. 최 의원 본인도 \"수용하기 어렵다\"며 재심 신청 의사를 분명히 했고, 역시 신천지 문제에 대한 김민석 대표의 책임론을 제기했습니다. 민주당 윤리심판원은 김 대표의 신천지 의혹 제기에 대한 징계 심사도 전체회의에 올려 논의하겠다고 밝혔습니다.",
+   "quotes": [
+    "신천지로, 비밀연합으로 몰려 깊은 상처를 입었고, 그 상처가 아직도 아물지 않았다는 사실입니다",
+    "당의 품위를 훼손한 것으로 판단하고 제반 사정을 종합적으로 고려해 중징계 처분을 의결했습니다",
+    "최민희가 중징계면 김민석의 해당 행위는"
+   ],
+   "press": "MBC",
+   "photo": "06.jpg",
+   "quoted": {
+    "quote": "신천지로, 비밀연합으로 몰려 깊은 상처를 입었고, 그 상처가 아직도 아물지 않았다는 사실입니다",
+    "n": 4,
+    "verified": 0,
+    "items": [
+     {
+      "press": "MBC 뉴스",
+      "title": "\"당원 자격정지 2년\" 최민희 중징계‥친청계 \"납득 불가\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4RkdubjQ0QnZGQ0ptQy1sSlBpbUlDRWtzenVXNld6N3c4UVR4VjNwSEU4enNiZ2lpbUdBbjhjbi1JVjRleEZBNGJrM1hiY20taDFJZHBRRTBOLWFsT0pUUUxIZVJBUVlhS2hLTUNKdFk0UnQ0eHphV9IBeEFVX3lxTFA4RkdubjQ0QnZGQ0ptQy1sSlBpbUlDRWtzenVXNld6N3c4UVR4VjNwSEU4enNiZ2lpbUdBbjhjbi1JVjRleEZBNGJrM1hiY20taDFJZHBRRTBOLWFsT0pUUUxIZVJBUVlhS2hLTUNKdFk0UnQ0eHphVw?oc=5"
+     },
+     {
+      "press": "JTBC",
+      "title": "[맞수토론] \"당직자격정지 이상의 중징계\"…최민희 차기 총선 먹구름",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RNVRPcEZfWFRCcF80NlpZQXZrWVNTR09sbUdiLU05Y2loWDNOdHFGandIM1c0T2xHNVJGQzZiNngtWlQ4WVdXcXZQYWRFVlBtWTFoOA?oc=5"
+     },
+     {
+      "press": "MBC 뉴스",
+      "title": "최민희 '당원권 정지 2년' 중징계‥내홍 고조",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uQ0VLYzllUmdNN3FUZWlUVXNvc3M3Sk5jMkVYRWJiVk5TcEY3VDFHR2djd2o0dlhqZ2hRRkZnVFh5OVB1OFhfU213TE1KZ0dsdGhBWWQxNjEzRTBkaGgtWFc1ck1paTNKZWZpVnpXVzlzSDF6MzZpeGtB0gF6QVVfeXFMTW5DRUtjOWVSZ003cVRlaVRVc29zczdKTmMyRVhFYmJWTlNwRjdUMUdHZ2N3ajR2WGpnaFFGRmdUWHk5UHU4WF9TbXdMTUpnR2x0aEFZZDE2MTNFMGRoaC1YVzVyTWlpM0plZmlWeldXOXNIMXozNml4a0E?oc=5"
+     },
+     {
+      "press": "MBC 뉴스",
+      "title": "최민희 '당원권 정지 2년'‥계파 정면충돌",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CMjE2R0NURTBXYnhUSHl0azhBeFM2VHRMWE5BdFJEM3pyQi1KWWQ3Z2Q2WG1reEJNLVd3OHV3TnAxZGpaUHhtNVM1aXZyV3l1d01ZWkx5cEsxNzIyVHNCcWp2eUNROHM1b2Ezdm5zcWxwNks4QTRQTtIBeEFVX3lxTE5LZnVPWDFXX1BDM1F2UHE4SjdackR0U1NZeWpORXRVaW8yOThMeldacGhSaFNSS1hhOVZybGpZOGtyTHJjZ2JCNnpJbDBlblBOM3F2TXUxVTJMMWZYQ2JWVGlEVzB5Z20xaG9NZV82aDlzb0RUXzA0LQ?oc=5"
+     }
+    ]
+   }
+  },
+  {
+   "title": "최민희 '당원권 정지 2년' 중징계에…\"수용 불가\" 재심 신청",
+   "source": "JTBC",
+   "url": "https://n.news.naver.com/article/437/0000522848",
+   "published_at": "2026-11-27T19:24:19+09:00",
+   "section_id": "100",
+   "view_rank": 3,
+   "comment_count": 333,
+   "comment_agree": 207,
+   "comment_disagree": 42,
+   "division_balance": 0.337349,
+   "division_score": 1.862662,
+   "selection": "찬반 쟁점",
+   "prep_error": "The read operation timed out"
   }
  ],
  "cards": [
@@ -233,139 +249,139 @@
    "kind": "cover",
    "label": "표지",
    "file": "01.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/01.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/01.png",
-   "pngBytes": 1199493,
-   "feed": "오늘의 뉴스 2026-11-27\n\n· “당 꼬라지하고는” “탈당해라”… 국힘 최고위서 ‘윤리위 내홍’\n· 한동훈, 왜 징계 '법적 대응'을 머뭇거릴까\n· 남편 장례 중 시아버지 묘지 파묘한 며느리…\"자손 잘 되라고\"\n· “9급 시험, 고졸 수준” 발언에 김선태 일침 “고졸이 죄지었냐”\n· ‘자력 복당’ 예고한 한동훈 “모든 방법 동원해 돌아갈 것”\n· 역대 대통령 호감도 1위는 노무현…이재명 4위, 꼴찌는 누구?\n· \"나도 제명하려고 했냐\" 고성에 퇴장까지... '조작 징계' 논란에 아수라장 된 국힘 최고위"
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/01.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/01.png",
+   "pngBytes": 1646961,
+   "feed": "오늘의 뉴스 2026-11-28\n\n· “당 꼬라지하고는” 아수라장 하루 만에…장동혁, 한동훈 향해 ‘법정서 붙자·복당해도 재징계’ 직격\n· 한덕수 일부 무죄 취지 파기환송…'잘못된 판결' 46% vs '잘된 판결' 31%\n· 수능 커닝 신고 포상금 최대 5억에…\"친구랑 짜고 반씩 나눌 것\" 자조\n· 손연재 부부, 연세의료원에 30억원 기부…연재태아협진센터 설립\n· [속보] 민주당 윤리심판원, '최민희 중징계' 의결\n· \"당원 자격정지 2년\" 최민희 중징계‥친청계 \"납득 불가\"\n· 최민희 '당원권 정지 2년' 중징계에…\"수용 불가\" 재심 신청"
   },
   {
    "no": 2,
    "kind": "point",
    "label": "뉴스 01",
    "file": "02.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/02.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/02.png",
-   "pngBytes": 573105,
-   "title": "“당 꼬라지하고는” “탈당해라”… 국힘 최고위서 ‘윤리위 내홍’",
-   "summary": "",
-   "summary_long": "",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004011883",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/02.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/02.png",
+   "pngBytes": 1654479,
+   "title": "“당 꼬라지하고는” 아수라장 하루 만에…장동혁, 한동훈 향해 ‘법정서 붙자·복당해도 재징계’ 직격",
+   "summary": "장동혁 국민의힘 대표가 한동훈 무소속 의원을 향해 ‘법정에서 시비를 가리자’며 ‘설령 복당하더라도 다시 징계할 수 있다’고 직격했다. 장 대표는 27일 뉴데일리TV…",
+   "summary_long": "장동혁 국민의힘 대표가 한동훈 무소속 의원을 향해 ‘법정에서 시비를 가리자’며 ‘설령 복당하더라도 다시 징계할 수 있다’고 직격했다. 이른바 ‘조작 징계’ 의혹을 둘러싼 당권파와 친한(친한동훈)계의 정면충돌로 정점식 원내대표가 “당 꼬라지하고는”이라며 회의장을 떠나기까지 한 최고위원회의 파행 하루 만이다. 장 대표는 27일 뉴데일리TV 유튜브에 출연해 한 의원의 징계 취소와 복당을 요구하는 친한계 주장에 대해 “징계가 잘못됐다면 징계 무효 소송이라는 재판을 통해서 해결하면 된다.\n\n장 대표는 “국민의힘 의원들이 무소속 의원을 위해 (윤리위 징계 조작 주장을) 당내 문제로 끌고 와서 논란을 키우는 것은 전혀 도움이 되지 않는다. 이번 갈등은 한 의원 제명 등 징계 과정에 장 대표와 외부 인사가 관여했다는 의혹이 제기되며 격화됐다. 앞서 한 의원은 지난 23일 기자들과 만나 “저에 대한 징계와 조작 제명, 기획 숙청이 원천무효라는 것이 이미 드러났다”며 “장 대표는 개인의 욕심 때문에 정적을 기획 숙청하고 조작 징계한 것을 정상화하고 책임져야 한다”고 요구했다.",
+   "press": "디지털타임스",
+   "source": "디지털타임스",
+   "link": "https://n.news.naver.com/article/029/0003061496",
    "selection": "정치",
-   "feed": "뉴스 01. “당 꼬라지하고는” “탈당해라”… 국힘 최고위서 ‘윤리위 내홍’\n\n\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004011883"
+   "feed": "뉴스 01. “당 꼬라지하고는” 아수라장 하루 만에…장동혁, 한동훈 향해 ‘법정서 붙자·복당해도 재징계’ 직격\n\n장동혁 국민의힘 대표가 한동훈 무소속 의원을 향해 ‘법정에서 시비를 가리자’며 ‘설령 복당하더라도 다시 징계할 수 있다’고 직격했다. 이른바 ‘조작 징계’ 의혹을 둘러싼 당권파와 친한(친한동훈)계의 정면충돌로 정점식 원내대표가 “당 꼬라지하고는”이라며 회의장을 떠나기까지 한 최고위원회의 파행 하루 만이다. 장 대표는 27일 뉴데일리TV 유튜브에 출연해 한 의원의 징계 취소와 복당을 요구하는 친한계 주장에 대해 “징계가 잘못됐다면 징계 무효 소송이라는 재판을 통해서 해결하면 된다.\n\n장 대표는 “국민의힘 의원들이 무소속 의원을 위해 (윤리위 징계 조작 주장을) 당내 문제로 끌고 와서 논란을 키우는 것은 전혀 도움이 되지 않는다. 이번 갈등은 한 의원 제명 등 징계 과정에 장 대표와 외부 인사가 관여했다는 의혹이 제기되며 격화됐다. 앞서 한 의원은 지난 23일 기자들과 만나 “저에 대한 징계와 조작 제명, 기획 숙청이 원천무효라는 것이 이미 드러났다”며 “장 대표는 개인의 욕심 때문에 정적을 기획 숙청하고 조작 징계한 것을 정상화하고 책임져야 한다”고 요구했다.\n\n출처: 디지털타임스 / https://n.news.naver.com/article/029/0003061496"
   },
   {
    "no": 3,
    "kind": "point",
    "label": "뉴스 02",
    "file": "03.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/03.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/03.png",
-   "pngBytes": 1238785,
-   "title": "한동훈, 왜 징계 '법적 대응'을 머뭇거릴까",
-   "summary": "국민의힘 장동혁 대표가 당윤리위원회 징계에 개입했다는 의혹이 커지는 가운데, 한동훈 무소속 의원이 징계무효 소송 제기를 주저하는 배경에 관심이 쏠립니다. 현재까지 진행된…",
-   "summary_long": "국민의힘 장동혁 대표가 당윤리위원회 징계에 개입했다는 의혹이 커지는 가운데, 한동훈 무소속 의원이 징계무효 소송 제기를 주저하는 배경에 관심이 쏠립니다. 지금까지 드러난 것만으로도 한 의원 제명 징계의 부당성이 법원에서 입증될 가능성이 높다는 게 대체적인 분석입니다. 현재까지 진행된 상황을 보면 한 의원에 대한 국민의힘 징계는 무효가 될 가능성이 커 보입니다.\n\n한 의원은 지난 1월 당원게시판 사건으로 국민의힘 윤리위원회로부터 제명 처분을 받았는데, 전현직 윤리위원들의 폭로로 '하명 징계'의 실상이 드러나는 상황입니다. 한 의원 입장에서 또다시 제명이 되면 국민의힘 복당은 완전히 불가능해진다고 봐야 합니다. '하명 징계'의 당사자인 장 대표가 한 의원을 향해 \"당당하다면, 징계가 잘못됐다면 법원에 징계무효 소송을 제기하면 된다\"고 큰소리치는 것도 이런 이유에서입니다.",
-   "press": "오마이뉴스",
-   "source": "오마이뉴스",
-   "link": "https://n.news.naver.com/article/047/0002537275",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/03.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/03.png",
+   "pngBytes": 2243739,
+   "title": "한덕수 일부 무죄 취지 파기환송…'잘못된 판결' 46% vs '잘된 판결' 31%",
+   "summary": "12·3 비상계엄과 관련해 내란 중요임무 종사 혐의로 기소된 한덕수 전 국무총리에 대해 대법원이 일부 혐의를 무죄 취지로 파기환송한 것을 두고 '잘못된 판결'이라는…",
+   "summary_long": "'조희대 대법원장 탄핵' 찬성 35%·반대 42%. 12·3 비상계엄 '내란이다' 57%·'아니다' 31%. 12·3 비상계엄과 관련해 내란 중요임무 종사 혐의로 기소된 한덕수 전 국무총리에 대해 대법원이 일부 혐의를 무죄 취지로 파기환송한 것을 두고 '잘못된 판결'이라는 응답이 '잘된 판결'이라는 응답보다 많다는 여론조사 결과가 나왔습니다.\n\n27일 한국갤럽에 따르면 지난 24~26일 전국 만 18세 이상 1,000명을 대상으로 대법원의 파기환송 판결에 대한 의견을 물은 결과 '잘못된 판결'이라는 응답은 46%, '잘된 판결'이라는 응답은 31%로 집계됐습니다. 정치 성향별로는 보수층의 52%가 '잘된 판결'이라고 응답한 반면, 진보층의 74%는 '잘못된 판결'이라고 답했습니다. 중도층에서는 '잘못된 판결'이라는 응답이 48%로, '잘된 판결'(29%)보다 많았습니다.",
+   "press": "kbc광주방송",
+   "source": "kbc광주방송",
+   "link": "https://n.news.naver.com/article/660/0000122332",
    "selection": "정치",
-   "feed": "뉴스 02. 한동훈, 왜 징계 '법적 대응'을 머뭇거릴까\n\n국민의힘 장동혁 대표가 당윤리위원회 징계에 개입했다는 의혹이 커지는 가운데, 한동훈 무소속 의원이 징계무효 소송 제기를 주저하는 배경에 관심이 쏠립니다. 지금까지 드러난 것만으로도 한 의원 제명 징계의 부당성이 법원에서 입증될 가능성이 높다는 게 대체적인 분석입니다. 현재까지 진행된 상황을 보면 한 의원에 대한 국민의힘 징계는 무효가 될 가능성이 커 보입니다.\n\n한 의원은 지난 1월 당원게시판 사건으로 국민의힘 윤리위원회로부터 제명 처분을 받았는데, 전현직 윤리위원들의 폭로로 '하명 징계'의 실상이 드러나는 상황입니다. 한 의원 입장에서 또다시 제명이 되면 국민의힘 복당은 완전히 불가능해진다고 봐야 합니다. '하명 징계'의 당사자인 장 대표가 한 의원을 향해 \"당당하다면, 징계가 잘못됐다면 법원에 징계무효 소송을 제기하면 된다\"고 큰소리치는 것도 이런 이유에서입니다.\n\n출처: 오마이뉴스 / https://n.news.naver.com/article/047/0002537275"
+   "feed": "뉴스 02. 한덕수 일부 무죄 취지 파기환송…'잘못된 판결' 46% vs '잘된 판결' 31%\n\n'조희대 대법원장 탄핵' 찬성 35%·반대 42%. 12·3 비상계엄 '내란이다' 57%·'아니다' 31%. 12·3 비상계엄과 관련해 내란 중요임무 종사 혐의로 기소된 한덕수 전 국무총리에 대해 대법원이 일부 혐의를 무죄 취지로 파기환송한 것을 두고 '잘못된 판결'이라는 응답이 '잘된 판결'이라는 응답보다 많다는 여론조사 결과가 나왔습니다.\n\n27일 한국갤럽에 따르면 지난 24~26일 전국 만 18세 이상 1,000명을 대상으로 대법원의 파기환송 판결에 대한 의견을 물은 결과 '잘못된 판결'이라는 응답은 46%, '잘된 판결'이라는 응답은 31%로 집계됐습니다. 정치 성향별로는 보수층의 52%가 '잘된 판결'이라고 응답한 반면, 진보층의 74%는 '잘못된 판결'이라고 답했습니다. 중도층에서는 '잘못된 판결'이라는 응답이 48%로, '잘된 판결'(29%)보다 많았습니다.\n\n출처: kbc광주방송 / https://n.news.naver.com/article/660/0000122332"
   },
   {
    "no": 4,
    "kind": "point",
    "label": "뉴스 03",
    "file": "04.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/04.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/04.png",
-   "pngBytes": 1955425,
-   "title": "남편 장례 중 시아버지 묘지 파묘한 며느리…\"자손 잘 되라고\"",
-   "summary": "이후 큰어머니가 다니는 절에 위패를 모신다고 해 가족들이 함께 그 절을 찾아 제를 지냈다고 하는데요. 이어 \"큰어머니가 수목장이라고 했지만, 실제로는 그냥 나무 주변에…",
-   "summary_long": "이후 큰어머니가 다니는 절에 위패를 모신다고 해 가족들이 함께 그 절을 찾아 제를 지냈다고 하는데요. 남편 장례 중에 시아버지 묘를 파묘해 화장까지 마쳤다는 내용이었습니다. 이어 \"큰어머니가 수목장이라고 했지만, 실제로는 그냥 나무 주변에 유골을 뿌린 것이었다\"면서 \"할아버지 유골을 뿌린 곳이 큰아버지 위패를 모신 절로 가는 길목의 나무다.\n\n큰어머니는 이 같은 사실을 알린 뒤 자녀들이 사는 베트남으로 떠난 상태라고 하는데요. 또한 \"친할아버지 묘에는 친할머니 유골도 함께 뿌려져 있었는데 어머니가 친할머니와 유독 사이가 가까웠던 터라 그 묘가 갑자기 사라져 힘들어하신다\"고 했습니다. 이어 \"묘를 관리하는 사람도 개장 신고가 가능하며, 직계 동의가 필요한 것은 아니다\"라며 절차상 문제가 없음을 전했습니다.",
-   "press": "JTBC",
-   "source": "JTBC",
-   "link": "https://n.news.naver.com/article/437/0000522485",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/04.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/04.png",
+   "pngBytes": 1495526,
+   "title": "수능 커닝 신고 포상금 최대 5억에…\"친구랑 짜고 반씩 나눌 것\" 자조",
+   "summary": "수능 당일 최대 1억 원이었던 부정행위 신고 포상금 상한액은 불과 나흘 만에 5억 원으로 뛰었다. 하지만 이 같은 대책이 미봉책에 불과하다는 지적과 함께 내년 수능에서…",
+   "summary_long": "대학수학능력시험(수능)이 끝난 뒤 부정행위 근절을 위한 처벌 강화 기조가 이어지고 있다. 수능 당일 최대 1억 원이었던 부정행위 신고 포상금 상한액은 불과 나흘 만에 5억 원으로 뛰었다. 하지만 이 같은 대책이 미봉책에 불과하다는 지적과 함께 내년 수능에서 포상금을 노리고 부정행위를 저지른 뒤 자수하겠다는 자조 섞인 반응까지 나오고 있다.\n\n국민권익위원회는 지난 23일 수능 부정행위 근절을 위해 신고자에게 적발된 부정행위에 따라 포상금을 가산해 지급할 방침이라고 밝혔다. 특히 부정 행위자가 자신의 부정행위를 자수하면서 다른 부정 행위자를 신고할 경우 본인의 처벌을 감경하는 동시에 신고 포상금도 지급하기로 했다. 권익위는 \"시험 부정행위의 심각성을 고려해 국민의 적극적인 신고를 유도하기 위해 포상금 지급을 획기적으로 확대하는 것\"이라고 설명했다.",
+   "press": "뉴스1",
+   "source": "뉴스1",
+   "link": "https://n.news.naver.com/article/421/0009313238",
    "selection": "경제·시사",
-   "feed": "뉴스 03. 남편 장례 중 시아버지 묘지 파묘한 며느리…\"자손 잘 되라고\"\n\n이후 큰어머니가 다니는 절에 위패를 모신다고 해 가족들이 함께 그 절을 찾아 제를 지냈다고 하는데요. 남편 장례 중에 시아버지 묘를 파묘해 화장까지 마쳤다는 내용이었습니다. 이어 \"큰어머니가 수목장이라고 했지만, 실제로는 그냥 나무 주변에 유골을 뿌린 것이었다\"면서 \"할아버지 유골을 뿌린 곳이 큰아버지 위패를 모신 절로 가는 길목의 나무다.\n\n큰어머니는 이 같은 사실을 알린 뒤 자녀들이 사는 베트남으로 떠난 상태라고 하는데요. 또한 \"친할아버지 묘에는 친할머니 유골도 함께 뿌려져 있었는데 어머니가 친할머니와 유독 사이가 가까웠던 터라 그 묘가 갑자기 사라져 힘들어하신다\"고 했습니다. 이어 \"묘를 관리하는 사람도 개장 신고가 가능하며, 직계 동의가 필요한 것은 아니다\"라며 절차상 문제가 없음을 전했습니다.\n\n출처: JTBC / https://n.news.naver.com/article/437/0000522485"
+   "feed": "뉴스 03. 수능 커닝 신고 포상금 최대 5억에…\"친구랑 짜고 반씩 나눌 것\" 자조\n\n대학수학능력시험(수능)이 끝난 뒤 부정행위 근절을 위한 처벌 강화 기조가 이어지고 있다. 수능 당일 최대 1억 원이었던 부정행위 신고 포상금 상한액은 불과 나흘 만에 5억 원으로 뛰었다. 하지만 이 같은 대책이 미봉책에 불과하다는 지적과 함께 내년 수능에서 포상금을 노리고 부정행위를 저지른 뒤 자수하겠다는 자조 섞인 반응까지 나오고 있다.\n\n국민권익위원회는 지난 23일 수능 부정행위 근절을 위해 신고자에게 적발된 부정행위에 따라 포상금을 가산해 지급할 방침이라고 밝혔다. 특히 부정 행위자가 자신의 부정행위를 자수하면서 다른 부정 행위자를 신고할 경우 본인의 처벌을 감경하는 동시에 신고 포상금도 지급하기로 했다. 권익위는 \"시험 부정행위의 심각성을 고려해 국민의 적극적인 신고를 유도하기 위해 포상금 지급을 획기적으로 확대하는 것\"이라고 설명했다.\n\n출처: 뉴스1 / https://n.news.naver.com/article/421/0009313238"
   },
   {
    "no": 5,
    "kind": "point",
    "label": "뉴스 04",
    "file": "05.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/05.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/05.png",
-   "pngBytes": 1418656,
-   "title": "“9급 시험, 고졸 수준” 발언에 김선태 일침 “고졸이 죄지었냐”",
-   "summary": "정영란 부산광역시 인재개발원장이 “9급 공무원 시험은 고졸 수준”이라는 말로 논란이 된 데 대해 9급 공무원 출신의 유튜버 김선태씨가 “화가 난다”며 비판을 쏟아냈다.…",
-   "summary_long": "정영란 부산광역시 인재개발원장이 “9급 공무원 시험은 고졸 수준”이라는 말로 논란이 된 데 대해 9급 공무원 출신의 유튜버 김선태씨가 “화가 난다”며 비판을 쏟아냈다. 충주시청 주무관으로 근무하며 ‘충주맨’으로 유명했던 김씨는 25일 자신의 유튜브 채널 ‘김선태 라이브’에서 “‘9급 공무원 고졸 수준’에 대한 입장 발표”라는 제목의 라이브 방송을 통해 정 원장 발언에 대한 생각을 밝혔다. 김씨는 “일단 워딩만 봐도 화가 난다”며 “제가 바로 그 9급 (출신)이자 고졸(출신)이기 때문에 너무나도 긁힌 상황이다”라고 했다.\n\n김씨는 “이 워딩은 (9급뿐만 아니라) 고졸한테도 기분 나쁘다”며 “공무원만 기분이 나쁜 게 아니라 고졸도 기분이 나쁘다”고 강조했다. 김씨는 또 “(정 원장이 9급) 직원들을 데리고 갑자기 뭔가를 막 하기 시작하니까 답답하다고 한다”며 “수준 이하의 사람들을 데리고 일을 하니까 일이 안 된다(라고 했다)”고 말했다. 정 원장은 지난 7월15일 부산시의회 교육위원회 업무보고에서 “세상은 전문화되는데 9급 공무원 시험은 다 고졸 수준으로 치르지 않는가”라며 “그런 직원들을 데리고 갑자기 막 (일을) 하기 시작하니까 직원들이 전부 ‘멘붕’이 온다고 생각한다”고 말했다.",
-   "press": "한겨레",
-   "source": "한겨레",
-   "link": "https://n.news.naver.com/article/028/0002834055",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/05.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/05.png",
+   "pngBytes": 1651111,
+   "title": "손연재 부부, 연세의료원에 30억원 기부…연재태아협진센터 설립",
+   "summary": "리듬체조 국가대표 출신인 손연재씨와 남편 이준효씨가 연세의료원과 '연재태아협진센터' 설립과 운영을 위한 총 30억원 기부금 협약을 체결했다. 세브란스병원은 연세의료원이…",
+   "summary_long": "리듬체조 국가대표 출신인 손연재씨와 남편 이준효씨가 연세의료원과 '연재태아협진센터'(이하 센터) 설립과 운영을 위한 총 30억원 기부금 협약을 체결했다. 금기창 연세의료원장(왼쪽부터)과 손연재·이준효 부부가 기부금 협약식에서 기념 촬영을 하고 있다. 세브란스병원은 연세의료원이 이준효·손연재 부부와 '연재태아협진센터'(이하 센터) 설립과 운영을 위한 총 30억원 기부금 협약을 체결했다고 27일 밝혔다.\n\n센터는 산부인과, 신생아과 등 관련 진료과 의료진이 협력해 산모와 태아의 상태를 종합적으로 평가하고, 출산 전후 발생할 수 있는 위험에 신속하게 대응하는 체계를 갖출 예정이다. 고위험 산모의 분만 및 태아 치료의 사각지대를 해소하고, 관련 연구·교육과 산모 및 가족 지원사업도 추진하기로 했다. 기부금은 센터 운영에 필요한 전문인력 확보와 의료장비·시설 확충, 진료 및 지원 프로그램 개발 등에 활용된다.",
+   "press": "연합뉴스",
+   "source": "연합뉴스",
+   "link": "https://n.news.naver.com/article/001/0016467470",
    "selection": "경제·시사",
-   "feed": "뉴스 04. “9급 시험, 고졸 수준” 발언에 김선태 일침 “고졸이 죄지었냐”\n\n정영란 부산광역시 인재개발원장이 “9급 공무원 시험은 고졸 수준”이라는 말로 논란이 된 데 대해 9급 공무원 출신의 유튜버 김선태씨가 “화가 난다”며 비판을 쏟아냈다. 충주시청 주무관으로 근무하며 ‘충주맨’으로 유명했던 김씨는 25일 자신의 유튜브 채널 ‘김선태 라이브’에서 “‘9급 공무원 고졸 수준’에 대한 입장 발표”라는 제목의 라이브 방송을 통해 정 원장 발언에 대한 생각을 밝혔다. 김씨는 “일단 워딩만 봐도 화가 난다”며 “제가 바로 그 9급 (출신)이자 고졸(출신)이기 때문에 너무나도 긁힌 상황이다”라고 했다.\n\n김씨는 “이 워딩은 (9급뿐만 아니라) 고졸한테도 기분 나쁘다”며 “공무원만 기분이 나쁜 게 아니라 고졸도 기분이 나쁘다”고 강조했다. 김씨는 또 “(정 원장이 9급) 직원들을 데리고 갑자기 뭔가를 막 하기 시작하니까 답답하다고 한다”며 “수준 이하의 사람들을 데리고 일을 하니까 일이 안 된다(라고 했다)”고 말했다. 정 원장은 지난 7월15일 부산시의회 교육위원회 업무보고에서 “세상은 전문화되는데 9급 공무원 시험은 다 고졸 수준으로 치르지 않는가”라며 “그런 직원들을 데리고 갑자기 막 (일을) 하기 시작하니까 직원들이 전부 ‘멘붕’이 온다고 생각한다”고 말했다.\n\n출처: 한겨레 / https://n.news.naver.com/article/028/0002834055"
+   "feed": "뉴스 04. 손연재 부부, 연세의료원에 30억원 기부…연재태아협진센터 설립\n\n리듬체조 국가대표 출신인 손연재씨와 남편 이준효씨가 연세의료원과 '연재태아협진센터'(이하 센터) 설립과 운영을 위한 총 30억원 기부금 협약을 체결했다. 금기창 연세의료원장(왼쪽부터)과 손연재·이준효 부부가 기부금 협약식에서 기념 촬영을 하고 있다. 세브란스병원은 연세의료원이 이준효·손연재 부부와 '연재태아협진센터'(이하 센터) 설립과 운영을 위한 총 30억원 기부금 협약을 체결했다고 27일 밝혔다.\n\n센터는 산부인과, 신생아과 등 관련 진료과 의료진이 협력해 산모와 태아의 상태를 종합적으로 평가하고, 출산 전후 발생할 수 있는 위험에 신속하게 대응하는 체계를 갖출 예정이다. 고위험 산모의 분만 및 태아 치료의 사각지대를 해소하고, 관련 연구·교육과 산모 및 가족 지원사업도 추진하기로 했다. 기부금은 센터 운영에 필요한 전문인력 확보와 의료장비·시설 확충, 진료 및 지원 프로그램 개발 등에 활용된다.\n\n출처: 연합뉴스 / https://n.news.naver.com/article/001/0016467470"
   },
   {
    "no": 6,
    "kind": "point",
    "label": "뉴스 05",
    "file": "06.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/06.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/06.png",
-   "pngBytes": 571568,
-   "title": "‘자력 복당’ 예고한 한동훈 “모든 방법 동원해 돌아갈 것”",
-   "summary": "",
-   "summary_long": "",
-   "press": "조선일보",
-   "source": "조선일보",
-   "link": "https://n.news.naver.com/article/023/0004011833",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/06.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/06.png",
+   "pngBytes": 1484244,
+   "title": "[속보] 민주당 윤리심판원, '최민희 중징계' 의결",
+   "summary": "15개 언론사38,599개 기사. 16개 언론사2,010개 기사.",
+   "summary_long": "민주당 윤리심판원, '최민희 중징계' 의결. 이창환 윤리심판원장은 \"최민희 의원의 문제 된 일부 발언이 당의 품위를 훼손한 것으로 판단하고 제반사정을 종합적으로 고려해 중징계 처분을 의결했다\"고 밝혔다. 이 기사는 언론사에서 정치 섹션으로 분류했습니다.\n\n기사의 섹션 정보는 해당 언론사의 분류를 따르고 있습니다. 15개 언론사38,599개 기사.",
+   "press": "노컷뉴스",
+   "source": "노컷뉴스",
+   "link": "https://n.news.naver.com/article/079/0004214751",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 05. ‘자력 복당’ 예고한 한동훈 “모든 방법 동원해 돌아갈 것”\n\n\n\n출처: 조선일보 / https://n.news.naver.com/article/023/0004011833"
+   "feed": "뉴스 05. [속보] 민주당 윤리심판원, '최민희 중징계' 의결\n\n민주당 윤리심판원, '최민희 중징계' 의결. 이창환 윤리심판원장은 \"최민희 의원의 문제 된 일부 발언이 당의 품위를 훼손한 것으로 판단하고 제반사정을 종합적으로 고려해 중징계 처분을 의결했다\"고 밝혔다. 이 기사는 언론사에서 정치 섹션으로 분류했습니다.\n\n기사의 섹션 정보는 해당 언론사의 분류를 따르고 있습니다. 15개 언론사38,599개 기사.\n\n출처: 노컷뉴스 / https://n.news.naver.com/article/079/0004214751"
   },
   {
    "no": 7,
    "kind": "point",
    "label": "뉴스 06",
    "file": "07.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/07.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/07.png",
-   "pngBytes": 576453,
-   "title": "역대 대통령 호감도 1위는 노무현…이재명 4위, 꼴찌는 누구?",
-   "summary": "",
-   "summary_long": "",
-   "press": "경기일보",
-   "source": "경기일보",
-   "link": "https://n.news.naver.com/article/666/0000134021",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/07.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/07.png",
+   "pngBytes": 1265602,
+   "title": "\"당원 자격정지 2년\" 최민희 중징계‥친청계 \"납득 불가\"",
+   "summary": "더불어민주당 윤리심판원이 최민희 최고위원에 대해 당원 자격정지 2년의 중징계를 내렸습니다. 최민희 의원 징계 심사가 진행된 더불어민주당 당사 주변은 종일 긴장감이…",
+   "summary_long": "더불어민주당 윤리심판원이 최민희 최고위원에 대해 당원 자격정지 2년의 중징계를 내렸습니다. 최 의원과 친청계는 \"납득할 수 없다\"며 즉각 반발한 가운데, 민주당 내 계파 갈등은 더욱더 커질 걸로 보입니다. 최민희 의원 징계 심사가 진행된 더불어민주당 당사 주변은 종일 긴장감이 감돌았습니다.\n\n징계가 확정되면 최 의원의 최고위원직은 즉각 박탈되고, 공천 부적격자 심사를 받게 돼 총선 출마도 사실상 막히게 됩니다. 최 의원 본인도 \"수용하기 어렵다\"며 재심 신청 의사를 분명히 했고, 역시 신천지 문제에 대한 김민석 대표의 책임론을 제기했습니다. 민주당 윤리심판원은 김 대표의 신천지 의혹 제기에 대한 징계 심사도 전체회의에 올려 논의하겠다고 밝혔습니다.",
+   "press": "MBC",
+   "source": "MBC",
+   "link": "https://n.news.naver.com/article/214/0001538582",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 06. 역대 대통령 호감도 1위는 노무현…이재명 4위, 꼴찌는 누구?\n\n\n\n출처: 경기일보 / https://n.news.naver.com/article/666/0000134021"
+   "feed": "뉴스 06. \"당원 자격정지 2년\" 최민희 중징계‥친청계 \"납득 불가\"\n\n더불어민주당 윤리심판원이 최민희 최고위원에 대해 당원 자격정지 2년의 중징계를 내렸습니다. 최 의원과 친청계는 \"납득할 수 없다\"며 즉각 반발한 가운데, 민주당 내 계파 갈등은 더욱더 커질 걸로 보입니다. 최민희 의원 징계 심사가 진행된 더불어민주당 당사 주변은 종일 긴장감이 감돌았습니다.\n\n징계가 확정되면 최 의원의 최고위원직은 즉각 박탈되고, 공천 부적격자 심사를 받게 돼 총선 출마도 사실상 막히게 됩니다. 최 의원 본인도 \"수용하기 어렵다\"며 재심 신청 의사를 분명히 했고, 역시 신천지 문제에 대한 김민석 대표의 책임론을 제기했습니다. 민주당 윤리심판원은 김 대표의 신천지 의혹 제기에 대한 징계 심사도 전체회의에 올려 논의하겠다고 밝혔습니다.\n\n출처: MBC / https://n.news.naver.com/article/214/0001538582"
   },
   {
    "no": 8,
    "kind": "point",
    "label": "뉴스 07",
    "file": "08.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/08.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/08.png",
-   "pngBytes": 1749536,
-   "title": "\"나도 제명하려고 했냐\" 고성에 퇴장까지... '조작 징계' 논란에 아수라장 된 국힘 최고위",
-   "summary": "정점식 국민의힘 원내대표가 26일 서울 여의도 국회에서 열린 최고위원회의에서 친한계 조작 징계 의혹과 관련해 우재준, 신동욱 최고위원의 언쟁이 이어지자 회의장을 나서고…",
-   "summary_long": "국민의힘 지도부가 윤리위원회의 '조작징계' 의혹과 관련해 서로 고성을 주고받으며 정면 충돌하는 등 갈등이 증폭되고 있다. 친한동훈계 우재준 최고위원이 최모 교수와 황경성 윤리위원의 폭로에 대해 \"윤리위 심의가 형해화된 만큼 진실을 밝히라\"며 장동혁 대표 등을 강하게 압박하자, 장 대표 등 당권파는 우 최고위원을 향해 사실상 탈당을 요구했다. 장동혁 국민의힘 대표가 26일 서울 여의도 국회에서 열린 최고위원회의에서 친한계 조작징계 의혹과 관련해 우재준, 신동욱 최고위원 등의 언쟁이 이어지자 최고위 회의장을 나서고 있다.\n\n우 최고위원은 26일 국회에서 열린 최고위원회의에서 \"장동혁 대표의 사적 징계 의혹은 최고위의 심의·의결권을 침해하고 윤리위의 독립성을 무너뜨릴 중대한 사안\"이라며 \"정치적 징계에 대해 어디까지 개입했는지 밝히고 공정성 훼손에 공개 사과하라\"고 주장했다. 당권파인 신동욱 최고위원은 \"최고위 의결권 침해를 일방 주장하면서 표결에 참여한 많은 최고위원이 부당한 의결을 한 당사자로 지목되고 있다\"며 \"당시 결정까지 잘못됐다고 주장하는 것은 부당한 태도\"라고 반박했다. 이에 우 최고위원은 장 대표를 겨냥해 \"내 것을 안 물어보려고 했는데 장 대표님, 나도 제명하려고 했느냐\"고 따져 물었다.",
-   "press": "한국일보",
-   "source": "한국일보",
-   "link": "https://n.news.naver.com/article/469/0000967882",
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/08.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/08.png",
+   "pngBytes": 575400,
+   "title": "최민희 '당원권 정지 2년' 중징계에…\"수용 불가\" 재심 신청",
+   "summary": "",
+   "summary_long": "",
+   "press": "JTBC",
+   "source": "JTBC",
+   "link": "https://n.news.naver.com/article/437/0000522848",
    "selection": "찬반 쟁점",
-   "feed": "뉴스 07. \"나도 제명하려고 했냐\" 고성에 퇴장까지... '조작 징계' 논란에 아수라장 된 국힘 최고위\n\n국민의힘 지도부가 윤리위원회의 '조작징계' 의혹과 관련해 서로 고성을 주고받으며 정면 충돌하는 등 갈등이 증폭되고 있다. 친한동훈계 우재준 최고위원이 최모 교수와 황경성 윤리위원의 폭로에 대해 \"윤리위 심의가 형해화된 만큼 진실을 밝히라\"며 장동혁 대표 등을 강하게 압박하자, 장 대표 등 당권파는 우 최고위원을 향해 사실상 탈당을 요구했다. 장동혁 국민의힘 대표가 26일 서울 여의도 국회에서 열린 최고위원회의에서 친한계 조작징계 의혹과 관련해 우재준, 신동욱 최고위원 등의 언쟁이 이어지자 최고위 회의장을 나서고 있다.\n\n우 최고위원은 26일 국회에서 열린 최고위원회의에서 \"장동혁 대표의 사적 징계 의혹은 최고위의 심의·의결권을 침해하고 윤리위의 독립성을 무너뜨릴 중대한 사안\"이라며 \"정치적 징계에 대해 어디까지 개입했는지 밝히고 공정성 훼손에 공개 사과하라\"고 주장했다. 당권파인 신동욱 최고위원은 \"최고위 의결권 침해를 일방 주장하면서 표결에 참여한 많은 최고위원이 부당한 의결을 한 당사자로 지목되고 있다\"며 \"당시 결정까지 잘못됐다고 주장하는 것은 부당한 태도\"라고 반박했다. 이에 우 최고위원은 장 대표를 겨냥해 \"내 것을 안 물어보려고 했는데 장 대표님, 나도 제명하려고 했느냐\"고 따져 물었다.\n\n출처: 한국일보 / https://n.news.naver.com/article/469/0000967882"
+   "feed": "뉴스 07. 최민희 '당원권 정지 2년' 중징계에…\"수용 불가\" 재심 신청\n\n\n\n출처: JTBC / https://n.news.naver.com/article/437/0000522848"
   },
   {
    "no": 9,
    "kind": "outro",
    "label": "뒷장",
    "file": "09.jpg",
-   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/09.jpg",
-   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-27/09.png",
-   "pngBytes": 1346218
+   "url": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/09.jpg",
+   "png": "https://raw.githubusercontent.com/koreauniversityforum/new_bo_dea/cards/2026-11-28/09.png",
+   "pngBytes": 1345589
   }
  ],
- "caption": "📰 11월 27일 오늘의 뉴스\n\n1. “당 꼬라지하고는” “탈당해라”… 국힘 최고위서 ‘윤리위 내홍’\n2. 한동훈, 왜 징계 '법적 대응'을 머뭇거릴까\n   국민의힘 장동혁 대표가 당윤리위원회 징계에 개입했다는 의혹이 커지는 가운데, 한동훈 무소속 의원이 징계무효 소송 제기를 주저하는 배경에 관심이 쏠립니다. 현재까지 진행된…\n3. 남편 장례 중 시아버지 묘지 파묘한 며느리…\"자손 잘 되라고\"\n   이후 큰어머니가 다니는 절에 위패를 모신다고 해 가족들이 함께 그 절을 찾아 제를 지냈다고 하는데요. 이어 \"큰어머니가 수목장이라고 했지만, 실제로는 그냥 나무 주변에…\n4. “9급 시험, 고졸 수준” 발언에 김선태 일침 “고졸이 죄지었냐”\n   정영란 부산광역시 인재개발원장이 “9급 공무원 시험은 고졸 수준”이라는 말로 논란이 된 데 대해 9급 공무원 출신의 유튜버 김선태씨가 “화가 난다”며 비판을 쏟아냈다.…\n5. ‘자력 복당’ 예고한 한동훈 “모든 방법 동원해 돌아갈 것”\n6. 역대 대통령 호감도 1위는 노무현…이재명 4위, 꼴찌는 누구?\n7. \"나도 제명하려고 했냐\" 고성에 퇴장까지... '조작 징계' 논란에 아수라장 된 국힘 최고위\n   정점식 국민의힘 원내대표가 26일 서울 여의도 국회에서 열린 최고위원회의에서 친한계 조작 징계 의혹과 관련해 우재준, 신동욱 최고위원의 언쟁이 이어지자 회의장을 나서고…\n\n🗣 “당당하다면, 징계가 잘못됐다면 법원에 징계무효 소송을 제기하면 된다”\n이 발언을 그대로 실은 보도 6건 · OhmyNews · 한겨레 · 세계일보 · 문화일보\n· OhmyNews — 한동훈, 왜 징계 '법적 대응'을 머뭇거릴까\n· 한겨레 — 장동혁·한동훈 ‘조작 징계’ 충돌…“보수 궤멸 중심” vs “배후 조종 인정”\n· 세계일보 — 침묵 깬 장동혁 “韓, 당당하면 소송하라… 직접 변론하겠다”\n· 문화일보 — 조갑제 “장동혁, 민주당 전략자산…윤리위 장난감으로 여겨”\n· 이데일리 — 장동혁 \"한동훈, 보수 궤멸 중심…국힘에 발붙일 공간 없어\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #대통령실\n\n출처: JTBC, 경기일보, 오마이뉴스, 조선일보, 한겨레, 한국일보"
+ "caption": "📰 11월 28일 오늘의 뉴스\n\n1. “당 꼬라지하고는” 아수라장 하루 만에…장동혁, 한동훈 향해 ‘법정서 붙자·복당해도 재징계’ 직격\n   장동혁 국민의힘 대표가 한동훈 무소속 의원을 향해 ‘법정에서 시비를 가리자’며 ‘설령 복당하더라도 다시 징계할 수 있다’고 직격했다. 장 대표는 27일 뉴데일리TV…\n2. 한덕수 일부 무죄 취지 파기환송…'잘못된 판결' 46% vs '잘된 판결' 31%\n   12·3 비상계엄과 관련해 내란 중요임무 종사 혐의로 기소된 한덕수 전 국무총리에 대해 대법원이 일부 혐의를 무죄 취지로 파기환송한 것을 두고 '잘못된 판결'이라는…\n3. 수능 커닝 신고 포상금 최대 5억에…\"친구랑 짜고 반씩 나눌 것\" 자조\n   수능 당일 최대 1억 원이었던 부정행위 신고 포상금 상한액은 불과 나흘 만에 5억 원으로 뛰었다. 하지만 이 같은 대책이 미봉책에 불과하다는 지적과 함께 내년 수능에서…\n4. 손연재 부부, 연세의료원에 30억원 기부…연재태아협진센터 설립\n   리듬체조 국가대표 출신인 손연재씨와 남편 이준효씨가 연세의료원과 '연재태아협진센터' 설립과 운영을 위한 총 30억원 기부금 협약을 체결했다. 세브란스병원은 연세의료원이…\n5. [속보] 민주당 윤리심판원, '최민희 중징계' 의결\n   15개 언론사38,599개 기사. 16개 언론사2,010개 기사.\n6. \"당원 자격정지 2년\" 최민희 중징계‥친청계 \"납득 불가\"\n   더불어민주당 윤리심판원이 최민희 최고위원에 대해 당원 자격정지 2년의 중징계를 내렸습니다. 최민희 의원 징계 심사가 진행된 더불어민주당 당사 주변은 종일 긴장감이…\n7. 최민희 '당원권 정지 2년' 중징계에…\"수용 불가\" 재심 신청\n\n🗣 “최민희 의원의 문제 된 일부 발언이 당의 품위를 훼손한 것으로 판단하고 제반사정을 종합적으로 고려해 중징계 처분을 의결했다”\n이 발언을 그대로 실은 보도 10건 · 에너지경제신문 · 주간경향 · 스트레이트뉴스 · 뉴시스\n· 에너지경제신문 — 민주당 최민희 당원권 2년 정지…친명·친청 갈등 폭발\n· 주간경향 — 최민희, 2028년 총선 공천 못받나···‘당원권 2년 정지’ 중징계 의결\n· 스트레이트뉴스 — 민주당 윤리심판원, 최민희 중징계 의결…수위 비공개\n· 뉴시스 — 與 윤리심판원, 최민희에 '중징계' 의결…\"당직자격정지 이상, 징계 양정은 말 못해\"\n· 비즈니스포스트 — 민주당 윤리심판원 최민희 '당원자격 2년 정지' 징계 의결, \"당의 품위 훼손\"\n\n자세한 내용은 각 카드에서 확인하세요.\n\n#뉴스 #뉴스요약 #시사 #대학생 #오늘의뉴스 #뉴보대 #한국대학생포럼 #의료\n\n출처: JTBC, MBC, kbc광주방송, 노컷뉴스, 뉴스1, 디지털타임스, 연합뉴스"
 }
